@@ -1,0 +1,154 @@
+{
+ "exercises": [
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Elle habite ___ Canada depuis cinq ans.",
+   "options": null,
+   "answer": "au",
+   "explanation": "« Canada » est un pays masculin : au Canada."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Nous partons ___ Italie cet été.",
+   "options": null,
+   "answer": "en",
+   "explanation": "« Italie » est un pays féminin commençant par une voyelle : en Italie."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Ils viennent ___ États-Unis.",
+   "options": null,
+   "answer": "des",
+   "explanation": "Provenance d'un pays pluriel : de + les → des États-Unis."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "A2",
+   "prompt": "« Je vais au bureau ___ pied. »",
+   "options": [
+    "à",
+    "en",
+    "par",
+    "avec"
+   ],
+   "answer": "à",
+   "explanation": "On utilise « à » pour les moyens de transport sur lesquels on est (pied, vélo, moto, cheval)."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "J'ai terminé ce dossier ___ deux heures seulement.",
+   "options": null,
+   "answer": "en",
+   "explanation": "« En » + durée exprime le temps nécessaire pour accomplir l'action."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« Je suis arrivé à Genève ___ trois ans. »",
+   "options": [
+    "il y a",
+    "depuis",
+    "pendant",
+    "dans"
+   ],
+   "answer": "il y a",
+   "explanation": "Avec le passé composé, un moment précis du passé s'exprime avec « il y a ». « Depuis » s'utiliserait avec le présent : j'habite à Genève depuis trois ans."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Il s'intéresse beaucoup ___ la politique locale.",
+   "options": null,
+   "answer": "à",
+   "explanation": "On dit « s'intéresser à quelque chose »."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Je me souviens très bien ___ ce voyage.",
+   "options": null,
+   "answer": "de",
+   "explanation": "« Se souvenir de quelque chose » : de."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "Choisissez la phrase correcte.",
+   "options": [
+    "J'attends ma sœur devant la gare.",
+    "J'attends pour ma sœur devant la gare.",
+    "J'attends à ma sœur devant la gare.",
+    "J'attends de ma sœur devant la gare."
+   ],
+   "answer": "J'attends ma sœur devant la gare.",
+   "explanation": "« Attendre » est transitif direct : on attend quelqu'un, sans préposition (contrairement à l'anglais « wait for »)."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Ce poste consiste ___ coordonner les équipes sur le terrain.",
+   "options": null,
+   "answer": "à",
+   "explanation": "« Consister à + infinitif ». À ne pas confondre avec « consister en + nom » : le repas consiste en trois plats."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Le succès de l'opération dépendra ___ la météo.",
+   "options": null,
+   "answer": "de",
+   "explanation": "« Dépendre de » : le complément est introduit par « de » (contracté en « du », « des » selon le nom)."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Nous sommes favorables ___ cette proposition. »",
+   "options": [
+    "à",
+    "pour",
+    "de",
+    "avec"
+   ],
+   "answer": "à",
+   "explanation": "L'adjectif « favorable » se construit avec « à ». « Être pour » est familier et sans adjectif."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Elle a renoncé ___ sa promotion pour rester près de sa famille.",
+   "options": null,
+   "answer": "à",
+   "explanation": "« Renoncer à quelque chose » : à."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Je ne peux pas me passer ___ mon téléphone.",
+   "options": null,
+   "answer": "de",
+   "explanation": "« Se passer de quelque chose » = vivre sans cette chose : de."
+  }
+ ],
+ "slug": "prepositions",
+ "title": "Les prépositions",
+ "module": "grammaire",
+ "order": 13,
+ "level": "B1",
+ "lesson": "## Prépositions de lieu avec les noms géographiques\n- **en** + pays féminin (finissant souvent par -e) ou commençant par une voyelle : *en France, en Algérie, en Iran*\n- **au** + pays masculin : *au Canada, au Maroc, au Sénégal* ; **aux** + pays pluriel : *aux États-Unis, aux Pays-Bas*\n- **à** + ville : *à Montréal, à Tunis* (exceptions : *au Caire, au Havre*)\n- pour la provenance : *de France, du Canada, des États-Unis, de Paris*\n\n## Prépositions de temps\n- **en** + mois, année, saison (sauf printemps) : *en mai, en 2025, en hiver* ; **au** printemps\n- **à** + heure : *à 9 heures* ; **le** + date : *le 3 mars*\n- **pendant** : durée d'une action ; **depuis** : point de départ d'une action qui continue ; **il y a** : moment passé ; **dans** : moment futur ; **en** : durée nécessaire pour accomplir une action (*J'ai écrit ce rapport en deux heures*).\n\n## Moyens de transport\n- **en** quand on est à l'intérieur : *en voiture, en train, en avion, en bus*\n- **à** quand on est dessus : *à pied, à vélo, à cheval, à moto*\n\n## Verbes et leurs prépositions (à mémoriser)\n### Verbes + à\npenser à, s'intéresser à, participer à, s'habituer à, renoncer à, réfléchir à, consister à, tenir à, commencer à, réussir à, aider quelqu'un à.\n### Verbes + de\navoir besoin de, parler de, se souvenir de, s'occuper de, se méfier de, dépendre de, décider de, essayer de, oublier de, refuser de, accepter de, finir de, se passer de, profiter de.\n### Verbes sans préposition (alors qu'on l'attend parfois)\nattendre quelqu'un, chercher quelque chose, écouter, regarder, demander quelque chose à quelqu'un, payer un achat.\n\n## Adjectifs + préposition\nfier de, content de, capable de, responsable de, prêt à, habitué à, favorable à, sensible à.",
+ "simple_examples": [
+  "J'habite en Belgique, mais je travaille au Luxembourg.",
+  "Je vais au travail à vélo.",
+  "Nous partons en vacances en août.",
+  "J'attends le bus depuis vingt minutes."
+ ],
+ "b2_examples": [
+  "Ce dispositif consiste à accompagner les jeunes diplômés dans leur recherche d'emploi.",
+  "De nombreux habitants se sont opposés à la construction d'un centre commercial à la périphérie.",
+  "La réussite de ce projet dépend en grande partie de l'implication des bénévoles.",
+  "J'ai fini par m'habituer au rythme de la vie à Montréal, malgré l'hiver rigoureux."
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "exercises": [
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Le matin, je bois ___ thé.",
+   "options": null,
+   "answer": "du",
+   "explanation": "Quantité indéterminée d'une matière non comptable : partitif masculin → du thé."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Je n'ai pas ___ frères.",
+   "options": null,
+   "answer": "de",
+   "explanation": "À la forme négative, « des » devient « de » : je n'ai pas de frères."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "J'adore ___ musique classique.",
+   "options": null,
+   "answer": "la",
+   "explanation": "Après un verbe de goût (adorer), on emploie l'article défini : la musique."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "A2",
+   "prompt": "« Elle est ___ professeure de mathématiques. »",
+   "options": [
+    "(pas d'article)",
+    "une",
+    "la",
+    "de"
+   ],
+   "answer": "(pas d'article)",
+   "explanation": "Après « être », on ne met pas d'article devant une profession non qualifiée : elle est professeure."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Il y a beaucoup ___ monde dans le métro.",
+   "options": null,
+   "answer": "de",
+   "explanation": "Après une expression de quantité (beaucoup de), l'article disparaît : beaucoup de monde."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Nous allons ___ cinéma ce soir.",
+   "options": null,
+   "answer": "au",
+   "explanation": "À + le → au : nous allons au cinéma."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "Choisissez la phrase correcte.",
+   "options": [
+    "Ce n'est pas une mauvaise idée.",
+    "Ce n'est pas de mauvaise idée.",
+    "Ce n'est pas d'une mauvaise idée.",
+    "Ce n'est pas la mauvaise idée."
+   ],
+   "answer": "Ce n'est pas une mauvaise idée.",
+   "explanation": "Avec le verbe « être », l'article indéfini ne se transforme pas en « de » à la forme négative."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Il faut ___ patience pour apprendre une langue.",
+   "options": null,
+   "answer": "de la",
+   "explanation": "« Patience » est une notion abstraite non comptable, féminine : partitif « de la »."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "___ nombreux experts contestent ces chiffres.",
+   "options": null,
+   "answer": "De|de",
+   "explanation": "Devant un adjectif pluriel placé avant le nom, « des » devient « de » en langue soignée : de nombreux experts."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Il a accepté la proposition ___ enthousiasme. »",
+   "options": [
+    "avec",
+    "avec l'",
+    "avec un",
+    "avec de l'"
+   ],
+   "answer": "avec",
+   "explanation": "Après « avec » ou « sans » suivi d'un nom abstrait employé de façon générale, on omet l'article : avec enthousiasme, sans hésitation."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Cette décision n'a pas eu ___ effet sur les prix.",
+   "options": null,
+   "answer": "d'",
+   "explanation": "Négation : l'article indéfini devient « de », élidé en « d' » devant une voyelle : pas d'effet."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Le gouvernement s'est engagé à lutter contre ___ chômage des jeunes. »",
+   "options": [
+    "le",
+    "du",
+    "de",
+    "un"
+   ],
+   "answer": "le",
+   "explanation": "« Lutter contre » + nom désignant une réalité générale et identifiée : article défini → le chômage."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Je parle ___ problèmes que nous avons rencontrés.",
+   "options": null,
+   "answer": "des",
+   "explanation": "« Parler de » + « les problèmes » (déterminés par la relative) : de + les → des."
+  }
+ ],
+ "slug": "articles",
+ "title": "Les articles (définis, indéfinis, partitifs)",
+ "module": "grammaire",
+ "order": 14,
+ "level": "A2",
+ "lesson": "## Les trois familles d'articles\n- **Définis** : le, la, l', les → chose connue, unique ou générale. *Le soleil. J'aime le chocolat. La santé est précieuse.*\n- **Indéfinis** : un, une, des → chose non identifiée, comptable. *J'ai acheté une voiture.*\n- **Partitifs** : du, de la, de l', des → quantité indéterminée d'une chose non comptable. *Je bois du café. Il faut de la patience.*\n\n## Les articles contractés\nà + le → **au**, à + les → **aux** ; de + le → **du**, de + les → **des**.\n*Je vais au marché. Je parle du film.*\n\n## Avec les verbes de goût\nAprès **aimer, adorer, détester, préférer**, on emploie l'article défini (sens général) : *J'adore le fromage* (et non ~~du fromage~~).\n\n## Quand l'article devient « de »\n- à la **forme négative**, un/une/des/du/de la deviennent **de (d')** : *Je n'ai pas de voiture. Il ne boit pas d'alcool.* Exception avec **être** : *Ce n'est pas un problème.*\n- après une **expression de quantité** : beaucoup de, peu de, trop de, assez de, un kilo de, une bouteille de : *beaucoup de travail.*\n- devant un **adjectif pluriel placé avant le nom** (langue soignée) : *de nouvelles mesures, de grands projets.*\n\n## Absence d'article\n- après **avec / sans** + nom abstrait : *avec plaisir, sans difficulté*\n- devant une **profession** après être : *Elle est infirmière.* (mais *C'est une infirmière compétente.*)\n- après **en** : *en voiture, en France*\n- dans de nombreuses expressions : *avoir faim, prendre rendez-vous, faire attention.*",
+ "simple_examples": [
+  "J'aime le thé, mais aujourd'hui je bois du café.",
+  "Il n'y a pas de pain.",
+  "Nous avons beaucoup de travail.",
+  "Elle est médecin."
+ ],
+ "b2_examples": [
+  "De nombreuses associations réclament de véritables mesures en faveur du logement social.",
+  "La pollution de l'air constitue l'un des principaux enjeux de santé publique.",
+  "Cette réforme ne présente pas d'avantage évident pour les petites entreprises.",
+  "Il faut du courage pour changer de métier à quarante ans."
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "exercises": [
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Le train est ___ rapide que le bus. (supériorité)",
+   "options": null,
+   "answer": "plus",
+   "explanation": "Comparatif de supériorité avec un adjectif : plus + adjectif + que."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Ce restaurant est ___ que celui d'hier. (bon, supériorité)",
+   "options": null,
+   "answer": "meilleur",
+   "explanation": "Le comparatif de supériorité de « bon » est irrégulier : meilleur."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Elle chante ___ que moi. (bien, supériorité)",
+   "options": null,
+   "answer": "mieux",
+   "explanation": "Le comparatif de supériorité de l'adverbe « bien » est « mieux »."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "A2",
+   "prompt": "« J'ai ___ livres que toi. » (égalité)",
+   "options": [
+    "autant de",
+    "aussi",
+    "aussi de",
+    "autant"
+   ],
+   "answer": "autant de",
+   "explanation": "Avec un nom, l'égalité s'exprime avec « autant de »."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "C'est la ville la plus peuplée ___ pays.",
+   "options": null,
+   "answer": "du",
+   "explanation": "Après un superlatif, le complément est introduit par « de » : du pays."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« C'est lui qui travaille ___. »",
+   "options": [
+    "le plus",
+    "plus",
+    "le plus de",
+    "la plus"
+   ],
+   "answer": "le plus",
+   "explanation": "Superlatif avec un verbe : verbe + le plus (invariable)."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Les loyers sont ___ ___ ___ chers. (progression)",
+   "options": null,
+   "answer": "de plus en plus",
+   "explanation": "« De plus en plus » exprime une progression continue."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Ce médicament est ___ efficace que l'ancien. (infériorité)",
+   "options": null,
+   "answer": "moins",
+   "explanation": "Comparatif d'infériorité : moins + adjectif + que."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Reliez avec « plus … plus » : « On lit beaucoup. On enrichit son vocabulaire. »",
+   "options": null,
+   "answer": "Plus on lit, plus on enrichit son vocabulaire.|plus on lit, plus on enrichit son vocabulaire",
+   "explanation": "La structure « plus … plus » exprime une proportion : les deux propositions évoluent ensemble, sans « que » ni article."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« C'est le meilleur film que j'___ vu. »",
+   "options": [
+    "aie",
+    "ai",
+    "aurai",
+    "avais eu"
+   ],
+   "answer": "aie",
+   "explanation": "Après un superlatif, la relative se met souvent au subjonctif pour souligner le caractère unique : que j'aie vu."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Il est déçu, ___ ___ ___ qu'il avait beaucoup travaillé.",
+   "options": null,
+   "answer": "d'autant plus",
+   "explanation": "« D'autant plus que » renforce une cause qui augmente l'effet décrit."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Il n'a pas fait le ___ effort. » (registre soutenu)",
+   "options": [
+    "moindre",
+    "plus petit",
+    "pire",
+    "moins"
+   ],
+   "answer": "moindre",
+   "explanation": "« Le moindre » signifie « le plus petit » au sens abstrait (importance), dans un registre soutenu."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Reformulez avec « contrairement à » : « Mon frère adore le sport, mais moi, je le déteste. »",
+   "options": null,
+   "answer": "Contrairement à mon frère, je déteste le sport.|contrairement à mon frère, je déteste le sport",
+   "explanation": "« Contrairement à + nom » introduit une opposition entre deux éléments comparés."
+  }
+ ],
+ "slug": "comparaison",
+ "title": "La comparaison et le superlatif",
+ "module": "grammaire",
+ "order": 19,
+ "level": "A2",
+ "lesson": "## Le comparatif\n### Avec un adjectif ou un adverbe\n- supériorité : **plus … que** : *Paris est plus grand que Lyon.*\n- égalité : **aussi … que** : *Il court aussi vite que moi.*\n- infériorité : **moins … que** : *Ce film est moins long que l'autre.*\n### Avec un nom\n**plus de / autant de / moins de + nom + que** : *J'ai plus de travail que toi. Il a autant d'expérience qu'elle.*\n### Avec un verbe\n**verbe + plus que / autant que / moins que** : *Il travaille plus que moi. Elle lit autant que son frère.*\n\n## Formes irrégulières\n- bon → **meilleur** (et non ~~plus bon~~) ; bien → **mieux** (et non ~~plus bien~~)\n- mauvais → **pire** ou plus mauvais ; mal → plus mal (pis est littéraire)\n- petit → plus petit (taille) ou **moindre** (importance, registre soutenu) : *le moindre effort*\n\n## Le superlatif\n- **le / la / les plus (moins) + adjectif + de** : *C'est la ville la plus peuplée du pays.*\n- **le meilleur, le mieux, le pire** : *C'est le meilleur restaurant du quartier.*\n- avec un verbe : **verbe + le plus / le moins** : *C'est lui qui travaille le plus.*\n- avec un nom : **le plus de / le moins de** : *C'est elle qui a le plus d'expérience.*\n- après un superlatif, la relative est souvent au **subjonctif** : *C'est le meilleur film que j'aie vu.*\n\n## Nuancer la comparaison (B2)\n- *beaucoup plus, bien plus, nettement moins, un peu plus, deux fois plus*\n- **de plus en plus / de moins en moins** (progression) : *Les loyers sont de plus en plus chers.*\n- **plus … plus / moins … moins** (proportion) : *Plus on pratique, plus on progresse.*\n- **d'autant plus que** (renforcement de la cause) : *Il est déçu, d'autant plus qu'il s'était beaucoup investi.*\n- **comme, ainsi que, de même que, contrairement à, à l'instar de** : *Contrairement à son frère, il adore le sport.*",
+ "simple_examples": [
+  "Mon frère est plus grand que moi.",
+  "Ce gâteau est meilleur que l'autre.",
+  "Elle parle aussi bien que sa mère.",
+  "C'est le plus beau jour de ma vie."
+ ],
+ "b2_examples": [
+  "Plus les transports en commun sont fiables, moins les habitants utilisent leur voiture.",
+  "Le coût de la vie augmente de plus en plus vite dans les grandes métropoles.",
+  "Contrairement à une idée reçue, les jeunes lisent autant qu'il y a vingt ans, mais différemment.",
+  "C'est la solution la plus pertinente que l'on ait proposée jusqu'à présent."
+ ]
+}

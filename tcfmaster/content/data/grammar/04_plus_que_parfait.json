@@ -1,0 +1,138 @@
+{
+ "exercises": [
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Quand je suis arrivé à la gare, le train ___ (partir).",
+   "options": null,
+   "answer": "était parti|était déjà parti",
+   "explanation": "Le départ du train précède mon arrivée : plus-que-parfait. « Partir » se conjugue avec être : était parti."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Elle m'a rendu le livre que je lui ___ (prêter).",
+   "options": null,
+   "answer": "avais prêté",
+   "explanation": "Le prêt a eu lieu avant le moment où elle rend le livre : plus-que-parfait. COD « que » (le livre, masculin singulier) : prêté."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Nous ___ (finir) de dîner quand ils ont sonné.",
+   "options": null,
+   "answer": "avions fini",
+   "explanation": "L'action de finir le dîner est accomplie avant la sonnerie : nous avions fini."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« Il était épuisé parce qu'il ___ toute la nuit. »",
+   "options": [
+    "avait travaillé",
+    "a travaillé",
+    "travaillait",
+    "travaillera"
+   ],
+   "answer": "avait travaillé",
+   "explanation": "La cause (travailler toute la nuit) est antérieure à l'état décrit à l'imparfait (il était épuisé) : plus-que-parfait."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Les invités ___ (arriver) avant nous.",
+   "options": null,
+   "answer": "étaient arrivés",
+   "explanation": "« Arriver » se conjugue avec être ; accord avec « les invités » (masculin pluriel) : étaient arrivés."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B1",
+   "prompt": "Discours indirect : Elle a dit : « J'ai réussi l'examen. »",
+   "options": null,
+   "answer": "Elle a dit qu'elle avait réussi l'examen.|elle a dit qu'elle avait réussi l'examen",
+   "explanation": "Au discours indirect introduit par un verbe au passé, le passé composé devient plus-que-parfait : « j'ai réussi » → « qu'elle avait réussi »."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Si tu m'___, je serais venu t'aider. »",
+   "options": [
+    "avais prévenu",
+    "as prévenu",
+    "prévenais",
+    "aurais prévenu"
+   ],
+   "answer": "avais prévenu",
+   "explanation": "Hypothèse irréelle du passé : si + plus-que-parfait, conditionnel passé dans la principale. On ne met jamais de conditionnel après « si » hypothétique."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Ils se sont aperçus qu'ils se ___ (tromper) d'adresse.",
+   "options": null,
+   "answer": "étaient trompés",
+   "explanation": "Verbe pronominal au plus-que-parfait avec être ; le pronom « se » est COD, accord avec « ils » : étaient trompés."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Si seulement nous ___ (réserver) plus tôt !",
+   "options": null,
+   "answer": "avions réservé",
+   "explanation": "« Si seulement » + plus-que-parfait exprime un regret portant sur le passé."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Choisissez la phrase correcte.",
+   "options": [
+    "Elle a retrouvé les documents qu'elle avait perdus la veille.",
+    "Elle a retrouvé les documents qu'elle a perdu la veille.",
+    "Elle avait retrouvé les documents qu'elle a perdus la veille.",
+    "Elle a retrouvé les documents qu'elle avait perdu la veille."
+   ],
+   "answer": "Elle a retrouvé les documents qu'elle avait perdus la veille.",
+   "explanation": "La perte précède la découverte : plus-que-parfait. Le COD « que » (les documents, masculin pluriel) précède l'auxiliaire : perdus."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Le directeur a annoncé que les résultats ___ (dépasser) les prévisions.",
+   "options": null,
+   "answer": "avaient dépassé",
+   "explanation": "Discours indirect au passé : le fait rapporté est antérieur à l'annonce, donc plus-que-parfait."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Quelle est la valeur du plus-que-parfait dans : « Dès qu'elle avait fini son service, elle rejoignait ses amis » ?",
+   "options": [
+    "habitude antérieure à une autre habitude passée",
+    "regret",
+    "hypothèse irréelle",
+    "discours indirect"
+   ],
+   "answer": "habitude antérieure à une autre habitude passée",
+   "explanation": "Les deux actions sont habituelles (imparfait dans la principale), et finir le service se produisait chaque fois avant de rejoindre les amis : plus-que-parfait d'antériorité dans l'habitude."
+  }
+ ],
+ "slug": "plus-que-parfait",
+ "title": "Le plus-que-parfait",
+ "module": "conjugaison",
+ "order": 4,
+ "level": "B1",
+ "lesson": "## Formation\nAuxiliaire **avoir ou être à l'imparfait** + **participe passé**.\n*J'avais terminé. Elle était partie. Nous nous étions trompés.*\nLes règles d'auxiliaire et d'accord sont exactement les mêmes qu'au passé composé.\n\n## Valeur principale : l'antériorité dans le passé\nLe plus-que-parfait exprime une action **accomplie avant** une autre action passée.\n*Quand je suis arrivé, le film avait déjà commencé.* (le film commence d'abord, j'arrive ensuite)\nLes adverbes *déjà, auparavant, la veille, plus tôt* l'accompagnent souvent.\n\n## Autres emplois\n- Dans le **discours indirect** au passé, il remplace le passé composé : *Il a dit : « J'ai fini. »* → *Il a dit qu'il avait fini.*\n- Dans l'**hypothèse irréelle du passé**, après si : *Si j'avais su, je serais venu.*\n- Pour exprimer un **regret** : *Si seulement j'avais écouté tes conseils !*\n- Pour une **habitude antérieure** : *Dès qu'il avait fini son travail, il allait courir.*\n\n## Comment le choisir ?\nPosez-vous la question : *quelle action s'est produite en premier ?* Si un récit au passé évoque un fait encore plus ancien, ce fait se met au plus-que-parfait.",
+ "simple_examples": [
+  "J'avais oublié mes clés à la maison.",
+  "Quand nous sommes arrivés, ils étaient déjà partis.",
+  "Elle avait préparé un gâteau pour la fête.",
+  "Tu avais lu ce livre avant de voir le film ?"
+ ],
+ "b2_examples": [
+  "Le maire a reconnu que le projet n'avait pas été suffisamment expliqué aux habitants.",
+  "Si l'entreprise avait anticipé la hausse des prix de l'énergie, elle aurait évité ces pertes.",
+  "Les chercheurs ont confirmé ce que plusieurs études avaient déjà laissé entrevoir.",
+  "Je me suis rendu compte que j'avais sous-estimé la difficulté de l'épreuve écrite."
+ ]
+}

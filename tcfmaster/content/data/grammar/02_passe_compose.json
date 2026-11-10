@@ -1,0 +1,154 @@
+{
+ "exercises": [
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Hier, nous ___ (aller) au marché.",
+   "options": null,
+   "answer": "sommes allés|sommes allées",
+   "explanation": "« Aller » fait partie des verbes de mouvement conjugués avec « être ». Le participe s'accorde avec le sujet « nous » : allés (masculin ou groupe mixte) ou allées (féminin)."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "J'___ (prendre) le métro ce matin.",
+   "options": null,
+   "answer": "ai pris",
+   "explanation": "« Prendre » se conjugue avec « avoir » et son participe passé est irrégulier : pris."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Elle ___ (naître) en 1995.",
+   "options": null,
+   "answer": "est née",
+   "explanation": "« Naître » se conjugue avec « être » ; le participe « né » s'accorde avec le sujet féminin : née."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "A2",
+   "prompt": "Choisissez la bonne forme : « Ils ___ un long message. »",
+   "options": [
+    "ont écrit",
+    "sont écrits",
+    "ont écrits",
+    "ont écri"
+   ],
+   "answer": "ont écrit",
+   "explanation": "« Écrire » se conjugue avec « avoir » et son participe est « écrit ». Avec « avoir », pas d'accord avec le sujet."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Elle ___ (sortir) la voiture du garage.",
+   "options": null,
+   "answer": "a sorti",
+   "explanation": "Quand « sortir » a un complément d'objet direct (la voiture), il se conjugue avec « avoir » et le participe ne s'accorde pas avec le sujet : elle a sorti la voiture."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Les photos que tu as ___ (prendre) sont superbes.",
+   "options": null,
+   "answer": "prises",
+   "explanation": "Avec « avoir », le participe s'accorde avec le COD placé avant le verbe. Ici le COD est « que », qui remplace « les photos » (féminin pluriel) : prises."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Elles se ___ (inscrire) à la formation en ligne.",
+   "options": null,
+   "answer": "sont inscrites",
+   "explanation": "Les verbes pronominaux se conjuguent avec « être ». Le pronom « se » est COD (elles ont inscrit elles-mêmes), donc accord avec le sujet : inscrites."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "Quelle phrase est correcte ?",
+   "options": [
+    "Nous avons été surpris par la nouvelle.",
+    "Nous sommes été surpris par la nouvelle.",
+    "Nous avons étés surpris par la nouvelle.",
+    "Nous sommes étés surpris par la nouvelle."
+   ],
+   "answer": "Nous avons été surpris par la nouvelle.",
+   "explanation": "Le verbe « être » se conjugue avec l'auxiliaire « avoir » au passé composé : nous avons été. Le participe « été » est invariable."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Vous ___ (devoir) attendre longtemps ?",
+   "options": null,
+   "answer": "avez dû",
+   "explanation": "« Devoir » a pour participe « dû », avec un accent circonflexe au masculin singulier pour le distinguer de l'article « du »."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Remplacez le COD par un pronom : « J'ai envoyé les candidatures. »",
+   "options": null,
+   "answer": "Je les ai envoyées.|je les ai envoyées",
+   "explanation": "« Les candidatures » devient « les », placé avant l'auxiliaire. Le COD est désormais placé avant le verbe : le participe s'accorde au féminin pluriel (envoyées)."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Choisissez la phrase correcte.",
+   "options": [
+    "Elles se sont téléphoné hier soir.",
+    "Elles se sont téléphonées hier soir.",
+    "Elles s'ont téléphoné hier soir.",
+    "Elles se sont téléphonés hier soir."
+   ],
+   "answer": "Elles se sont téléphoné hier soir.",
+   "explanation": "On téléphone « à » quelqu'un : le pronom « se » est COI. Il n'y a donc pas d'accord : elles se sont téléphoné."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Elle s'est ___ (laver) les mains avant de cuisiner.",
+   "options": null,
+   "answer": "lavé",
+   "explanation": "Le COD est « les mains », placé après le verbe ; le pronom « se » est COI (elle a lavé les mains à elle-même). Le participe ne s'accorde donc pas : lavé."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Les difficultés que nous avons ___ (rencontrer) nous ont fait progresser.",
+   "options": null,
+   "answer": "rencontrées",
+   "explanation": "Le COD « que » remplace « les difficultés » (féminin pluriel) et se trouve avant l'auxiliaire « avoir » : rencontrées."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Combien de dossiers as-tu ___ cette semaine ? »",
+   "options": [
+    "traités",
+    "traité",
+    "traitée",
+    "traitées"
+   ],
+   "answer": "traités",
+   "explanation": "Dans une interrogation avec « combien de + nom », le COD (combien de dossiers) précède le verbe : le participe s'accorde au masculin pluriel."
+  }
+ ],
+ "slug": "passe-compose",
+ "title": "Le passé composé",
+ "module": "conjugaison",
+ "order": 2,
+ "level": "A2",
+ "lesson": "## Formation\nLe passé composé se forme avec l'**auxiliaire avoir ou être au présent** + le **participe passé** du verbe.\n*J'ai mangé. Elle est partie.*\n\n## Le choix de l'auxiliaire\n### Avec être\n- les verbes pronominaux : *se lever, s'inscrire, se rendre compte* → *Je me suis inscrit.*\n- une quinzaine de verbes de mouvement ou de changement d'état : naître, mourir, aller, venir, arriver, partir, entrer, sortir, monter, descendre, passer, retourner, rester, tomber, devenir, revenir, rentrer.\n### Avec avoir\n- tous les autres verbes, y compris *être* et *avoir* eux-mêmes : *J'ai été malade. J'ai eu de la chance.*\n### Cas particulier\nMonter, descendre, sortir, rentrer, passer, retourner prennent **avoir** quand ils ont un complément d'objet direct : *Elle est sortie.* / *Elle a sorti la poubelle.*\n\n## Les participes passés\n- 1er groupe : -é (*parlé*)\n- 2e groupe : -i (*fini*)\n- 3e groupe, à mémoriser : pris, mis, fait, dit, écrit, vu, lu, bu, su, pu, voulu, dû, eu, été, ouvert, offert, venu, tenu, né, mort, reçu, connu, vécu, suivi, craint, peint, joint.\n\n## Les accords\n- Avec **être**, le participe s'accorde avec le sujet : *Elles sont arrivées.*\n- Avec **avoir**, le participe ne s'accorde pas avec le sujet, mais avec le **COD placé avant** : *Les lettres que j'ai écrites. Je les ai envoyées.*\n- Verbes pronominaux : accord avec le sujet si le pronom est COD (*elle s'est lavée*), pas d'accord si le pronom est COI (*elles se sont téléphoné*) ou si un COD suit (*elle s'est lavé les mains*).\n\n## Valeur\nLe passé composé exprime une **action ponctuelle et terminée** dans le passé, souvent avec une date ou une durée limitée : *Hier, j'ai passé un entretien. J'ai vécu deux ans à Dakar.*",
+ "simple_examples": [
+  "Hier, j'ai téléphoné à ma mère.",
+  "Nous sommes allés au cinéma samedi.",
+  "Elle a fini son travail à dix-huit heures.",
+  "Ils se sont levés tôt."
+ ],
+ "b2_examples": [
+  "Les mesures que le conseil municipal a adoptées ont été largement contestées.",
+  "Dès qu'elle s'est rendu compte de son erreur, elle a présenté ses excuses.",
+  "Nous avons longtemps hésité avant de déménager, puis nous avons sauté le pas.",
+  "Plusieurs habitants sont descendus dans la rue pour protester contre la fermeture de l'hôpital."
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "exercises": [
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "___ (pouvoir)-vous fermer la fenêtre, s'il vous plaît ?",
+   "options": null,
+   "answer": "Pourriez|pourriez",
+   "explanation": "Conditionnel de politesse : radical du futur « pourr- » + terminaison de l'imparfait « -iez » → pourriez-vous."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Si j'avais plus de temps, je ___ (faire) du sport.",
+   "options": null,
+   "answer": "ferais",
+   "explanation": "Hypothèse sur le présent : si + imparfait, conditionnel présent. « Faire » → radical fer- → je ferais."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Tu ___ (devoir) consulter un médecin.",
+   "options": null,
+   "answer": "devrais",
+   "explanation": "Le conditionnel de « devoir » sert à donner un conseil : tu devrais."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "Choisissez la forme du conditionnel.",
+   "options": [
+    "nous aimerions",
+    "nous aimerons",
+    "nous aimions",
+    "nous aimeriez"
+   ],
+   "answer": "nous aimerions",
+   "explanation": "Conditionnel : radical du futur (aimer-) + -ions → nous aimerions. « Aimerons » est un futur, « aimions » un imparfait."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Il a promis qu'il ___ (venir) à la réunion.",
+   "options": null,
+   "answer": "viendrait",
+   "explanation": "Futur dans le passé : après un verbe introducteur au passé, le futur devient conditionnel présent. « Venir » → viendr- → il viendrait."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« Si j'___ ton numéro, je t'aurais appelé. »",
+   "options": [
+    "avais eu",
+    "aurais eu",
+    "ai eu",
+    "aurai eu"
+   ],
+   "answer": "avais eu",
+   "explanation": "Hypothèse irréelle du passé : si + plus-que-parfait (avais eu), conditionnel passé dans la principale (aurais appelé)."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Tu ___ (pouvoir) me prévenir ! J'ai attendu une heure.",
+   "options": null,
+   "answer": "aurais pu",
+   "explanation": "Le reproche porte sur le passé : conditionnel passé de « pouvoir » → tu aurais pu."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Selon la presse, l'accident ___ (faire) deux blessés.",
+   "options": null,
+   "answer": "aurait fait",
+   "explanation": "Le conditionnel passé présente une information passée non confirmée, typique du langage journalistique."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Nous ___ (préférer) que la réunion ait lieu le matin.",
+   "options": null,
+   "answer": "préférerions",
+   "explanation": "Le conditionnel atténue l'expression d'une préférence. Radical du futur « préférer- » + -ions."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Choisissez la phrase correcte.",
+   "options": [
+    "Si les loyers étaient moins élevés, davantage de jeunes resteraient en ville.",
+    "Si les loyers seraient moins élevés, davantage de jeunes resteraient en ville.",
+    "Si les loyers étaient moins élevés, davantage de jeunes resteront en ville.",
+    "Si les loyers sont moins élevés, davantage de jeunes resteraient en ville."
+   ],
+   "answer": "Si les loyers étaient moins élevés, davantage de jeunes resteraient en ville.",
+   "explanation": "Hypothèse irréelle du présent : si + imparfait, conditionnel présent. Le conditionnel est impossible juste après « si »."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Exprimez un regret au conditionnel passé : « Je n'ai pas étudié le chinois. »",
+   "options": null,
+   "answer": "J'aurais aimé étudier le chinois.|j'aurais aimé étudier le chinois|J'aurais dû étudier le chinois.|j'aurais voulu étudier le chinois",
+   "explanation": "Le regret s'exprime avec le conditionnel passé d'un verbe comme aimer, vouloir ou devoir, suivi de l'infinitif."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Elle ___ (être) heureuse de vous rencontrer, mais elle était en voyage.",
+   "options": null,
+   "answer": "aurait été",
+   "explanation": "L'idée est irréelle dans le passé (la rencontre n'a pas eu lieu) : conditionnel passé de « être » → aurait été."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Dans « Le PDG quitterait ses fonctions en juin », le conditionnel exprime :",
+   "options": [
+    "une information non confirmée",
+    "une demande polie",
+    "un conseil",
+    "un regret"
+   ],
+   "answer": "une information non confirmée",
+   "explanation": "Le conditionnel journalistique signale que l'information n'est pas vérifiée : on la rapporte avec prudence."
+  }
+ ],
+ "slug": "conditionnel",
+ "title": "Le conditionnel présent et passé",
+ "module": "conjugaison",
+ "order": 7,
+ "level": "B1",
+ "lesson": "## Formation du conditionnel présent\n**Radical du futur + terminaisons de l'imparfait** : -ais, -ais, -ait, -ions, -iez, -aient.\n*parler → je parlerais ; être → je serais ; pouvoir → nous pourrions ; venir → ils viendraient*\n\n## Formation du conditionnel passé\nAuxiliaire **avoir ou être au conditionnel présent** + participe passé.\n*J'aurais aimé. Elle serait venue.*\n\n## Emplois\n- **Politesse** : *Pourriez-vous m'aider ? Je voudrais un renseignement.*\n- **Souhait, désir** : *J'aimerais travailler à l'étranger.*\n- **Conseil** : *Tu devrais te reposer. À ta place, je consulterais un avocat.*\n- **Hypothèse** : *Si j'avais le temps, je ferais du bénévolat.* (si + imparfait → conditionnel présent)\n- **Regret ou reproche** (conditionnel passé) : *J'aurais dû accepter. Tu aurais pu me prévenir !*\n- **Hypothèse irréelle du passé** : *Si j'avais su, je serais venu.* (si + plus-que-parfait → conditionnel passé)\n- **Information non confirmée** (journalisme) : *L'incendie aurait fait trois blessés.* / *Le ministre démissionnerait.*\n- **Futur dans le passé** : *Il a dit qu'il viendrait.*\n\n## Ne confondez pas\n- *je parlerai* (futur) / *je parlerais* (conditionnel) : à l'oral, le son est proche ; à l'écrit, vérifiez en remplaçant par « nous » (*nous parlerons / nous parlerions*).\n- Jamais de conditionnel juste après **si** hypothétique : ~~si j'aurais~~ → *si j'avais*.",
+ "simple_examples": [
+  "Je voudrais un café, s'il vous plaît.",
+  "Tu devrais dormir davantage.",
+  "Si j'étais riche, j'achèterais une maison.",
+  "J'aurais aimé venir à ta fête."
+ ],
+ "b2_examples": [
+  "Selon plusieurs sources, le gouvernement envisagerait de reporter la réforme.",
+  "Il serait souhaitable que chaque quartier dispose d'un espace vert accessible à pied.",
+  "Si les pouvoirs publics avaient investi plus tôt dans les transports, la pollution aurait sans doute diminué.",
+  "À votre place, je prendrais le temps de comparer les offres avant de m'engager."
+ ]
+}

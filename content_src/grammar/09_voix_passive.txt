@@ -1,0 +1,85 @@
+@slug voix-passive
+@title La voix passive
+@module grammaire
+@order 9
+@level B1
+## COURS
+## Principe
+À la voix active, le sujet fait l'action : *Le maire inaugure la médiathèque.*
+À la voix passive, le sujet **subit** l'action : *La médiathèque est inaugurée par le maire.*
+Seuls les verbes ayant un **complément d'objet direct** peuvent se mettre au passif.
+
+## Formation
+**Être** conjugué au temps du verbe actif + **participe passé accordé avec le sujet**.
+- présent : *est inaugurée* ; passé composé : *a été inaugurée* ; imparfait : *était inaugurée*
+- futur : *sera inaugurée* ; conditionnel : *serait inaugurée* ; subjonctif : *soit inaugurée*
+
+## Le complément d'agent
+- introduit le plus souvent par **par** : *Le projet a été validé par la direction.*
+- introduit par **de** avec les verbes de sentiment ou de description : *Elle est aimée de tous. La place est entourée d'arbres.*
+- souvent **supprimé** quand l'auteur est inconnu ou sans importance : *Le musée a été rénové.*
+
+## Pourquoi utiliser le passif ?
+- mettre en valeur l'objet de l'action, notamment dans la presse et les textes administratifs ;
+- garder un ton neutre ou impersonnel : *Une erreur a été commise.*
+
+## Alternatives au passif
+- **on** + voix active : *On a rénové le musée.*
+- **se faire + infinitif** : *Il s'est fait voler son portefeuille.*
+- **forme pronominale de sens passif** : *Ce plat se mange froid. Ce livre se vend bien.*
+## SIMPLES
+- La lettre est écrite par le directeur.
+- Le pont a été construit en 1900.
+- Les résultats seront publiés demain.
+- Ce plat se mange chaud.
+## B2
+- Les nouvelles mesures ont été accueillies avec scepticisme par une partie des commerçants.
+- Il est indispensable que les données personnelles soient protégées contre toute utilisation abusive.
+- Si le projet avait été mieux présenté, il aurait sans doute été adopté à l'unanimité.
+- Plusieurs quartiers ont été privés d'électricité pendant la tempête.
+## EXERCICES
+TRANS | B1 | Mettez au passif : « Le jury choisit les lauréats. »
+> Les lauréats sont choisis par le jury.|les lauréats sont choisis par le jury
+= Le COD « les lauréats » devient sujet ; « être » au présent (sont) + participe accordé au masculin pluriel (choisis) ; le sujet actif devient complément d'agent introduit par « par ».
+TROU | B1 | La nouvelle bibliothèque ___ (inaugurer, passé composé passif) hier.
+> a été inaugurée
+= Passé composé passif : « avoir été » + participe accordé avec le sujet féminin singulier : a été inaugurée.
+TROU | B1 | Les colis ___ (livrer, futur passif) demain matin.
+> seront livrés
+= Futur passif : « être » au futur (seront) + participe accordé au masculin pluriel.
+QCM | B1 | Choisissez la bonne préposition : « Ce professeur est respecté ___ ses élèves. »
+* de
+- par
+- à
+- avec
+= Avec les verbes de sentiment (aimer, respecter, apprécier, craindre), le complément d'agent est souvent introduit par « de ». « Par » est possible mais moins naturel ici.
+TRANS | B1 | Mettez à l'actif : « Le contrat a été signé par les deux parties. »
+> Les deux parties ont signé le contrat.|les deux parties ont signé le contrat
+= Le complément d'agent redevient sujet ; le verbe se conjugue au même temps (passé composé) à la voix active.
+QCM | B1 | Quelle phrase ne peut pas être mise au passif ?
+* Elle va au bureau.
+- Elle écrit un article.
+- Elle prépare le repas.
+- Elle lit le contrat.
+= « Aller » n'a pas de complément d'objet direct : le passif est impossible. Les autres phrases ont un COD qui peut devenir sujet.
+TROU | B2 | Il faut que ces dossiers ___ (traiter, subjonctif passif) avant vendredi.
+> soient traités
+= « Il faut que » exige le subjonctif : « être » au subjonctif (soient) + participe accordé.
+TRANS | B2 | Remplacez le passif par « on » : « Une solution a été trouvée. »
+> On a trouvé une solution.|on a trouvé une solution
+= Quand l'agent n'est pas précisé, « on » + voix active est l'alternative la plus naturelle à l'oral.
+TROU | B2 | Ce vin ___ (boire, forme pronominale passive) frais.
+> se boit
+= La forme pronominale de sens passif exprime une manière habituelle : « ce vin se boit frais » = on le boit frais.
+QCM | B2 | « Il ___ voler son vélo devant la gare. »
+* s'est fait
+- a été fait
+- s'est été
+- a fait
+= « Se faire + infinitif » exprime un passif où le sujet subit souvent un dommage : il s'est fait voler son vélo. Le participe « fait » reste invariable dans cette construction.
+TROU | B2 | Si la réforme ___ (adopter, plus-que-parfait passif), les tarifs auraient baissé.
+> avait été adoptée
+= Plus-que-parfait passif : « avoir » à l'imparfait + « été » + participe accordé au féminin singulier (la réforme).
+TRANS | B2 | Mettez au passif sans complément d'agent : « On a reporté la réunion. »
+> La réunion a été reportée.|la réunion a été reportée
+= « On » n'est pas repris comme complément d'agent : l'auteur est indéterminé. Accord du participe avec « la réunion ».

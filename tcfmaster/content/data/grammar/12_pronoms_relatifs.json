@@ -1,0 +1,141 @@
+{
+ "exercises": [
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "La femme ___ parle avec le directeur est avocate.",
+   "options": null,
+   "answer": "qui",
+   "explanation": "Le pronom relatif est sujet du verbe « parle » : qui."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Le film ___ nous avons vu hier était excellent.",
+   "options": null,
+   "answer": "que",
+   "explanation": "« Le film » est COD de « avons vu » : que."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "C'est la maison ___ je suis né.",
+   "options": null,
+   "answer": "où",
+   "explanation": "« Où » remplace un complément de lieu."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Voici le collègue ___ je t'ai parlé.",
+   "options": null,
+   "answer": "dont",
+   "explanation": "On parle « de » quelqu'un : « dont » remplace le complément introduit par « de »."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« Je me souviens du jour ___ nous nous sommes rencontrés. »",
+   "options": [
+    "où",
+    "que",
+    "dont",
+    "quand"
+   ],
+   "answer": "où",
+   "explanation": "« Où » peut aussi exprimer le temps après un nom comme jour, moment, époque, année. « Quand » n'est pas un pronom relatif en français standard."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "La raison pour ___ je refuse est simple.",
+   "options": null,
+   "answer": "laquelle",
+   "explanation": "Après une préposition (pour), on utilise un pronom composé accordé avec l'antécédent « la raison » (féminin singulier) : laquelle."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Ce sont des questions ___ nous réfléchissons depuis longtemps.",
+   "options": null,
+   "answer": "auxquelles",
+   "explanation": "On réfléchit « à » quelque chose ; à + lesquelles (féminin pluriel, « des questions ») → auxquelles."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Le bâtiment en face ___ je travaille sera démoli.",
+   "options": null,
+   "answer": "duquel",
+   "explanation": "« En face de » est une locution prépositionnelle : on n'emploie pas « dont » mais « duquel » (de + lequel, masculin singulier)."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Choisissez la phrase correcte.",
+   "options": [
+    "C'est un outil dont je ne pourrais pas me passer.",
+    "C'est un outil que je ne pourrais pas me passer.",
+    "C'est un outil duquel je ne pourrais pas me passer.",
+    "C'est un outil où je ne pourrais pas me passer."
+   ],
+   "answer": "C'est un outil dont je ne pourrais pas me passer.",
+   "explanation": "On se passe « de » quelque chose : « dont » s'impose, car « de » suit directement le verbe."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "___ m'inquiète, c'est le manque de transparence.",
+   "options": null,
+   "answer": "Ce qui|ce qui",
+   "explanation": "« Ce qui » reprend une idée et il est sujet du verbe « inquiète »."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "___ vous avez besoin, c'est de repos.",
+   "options": null,
+   "answer": "Ce dont|ce dont",
+   "explanation": "On a besoin « de » quelque chose : « ce dont »."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Les candidats parmi ___ figurent deux anciens ministres ont été auditionnés. »",
+   "options": [
+    "lesquels",
+    "qui",
+    "dont",
+    "quels"
+   ],
+   "answer": "lesquels",
+   "explanation": "Après « parmi », on emploie obligatoirement « lesquels/lesquelles », même pour des personnes : parmi lesquels."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Reliez avec un pronom relatif : « J'ai assisté à une conférence. Au cours de cette conférence, plusieurs experts ont débattu. »",
+   "options": null,
+   "answer": "J'ai assisté à une conférence au cours de laquelle plusieurs experts ont débattu.|j'ai assisté à une conférence au cours de laquelle plusieurs experts ont débattu",
+   "explanation": "« Au cours de » est une locution prépositionnelle ; « de + laquelle » ne se contracte pas au féminin singulier : au cours de laquelle."
+  }
+ ],
+ "slug": "pronoms-relatifs",
+ "title": "Les pronoms relatifs simples et composés",
+ "module": "grammaire",
+ "order": 12,
+ "level": "B1",
+ "lesson": "## Les pronoms relatifs simples\n- **qui** : sujet du verbe de la relative. *La personne qui parle est ma voisine.*\n- **que (qu')** : COD. *Le livre que je lis est passionnant.*\n- **où** : lieu ou temps. *La ville où je vis. Le jour où je suis arrivé.*\n- **dont** : remplace un complément introduit par **de** (parler de, avoir besoin de, être fier de, complément du nom). *Le projet dont je t'ai parlé. L'ami dont le frère est médecin.*\n\n## Les pronoms relatifs composés\nAprès une **préposition** (avec, pour, sans, chez, sur, dans, parmi…), on emploie **lequel, laquelle, lesquels, lesquelles** pour une chose (et souvent pour une personne) :\n*La raison pour laquelle je suis venu. L'outil avec lequel je travaille.*\nPour une personne, **préposition + qui** est fréquent : *La collègue avec qui je travaille.*\n\n### Contractions avec à et de\n- à + lequel → **auquel**, à + lesquels → **auxquels**, à + lesquelles → **auxquelles** (à laquelle reste)\n  *Le concours auquel je participe.*\n- de + lequel → **duquel**, desquels, desquelles, après une locution comme *près de, à côté de, au cours de, au sujet de* :\n  *Le parc près duquel j'habite.*\n\n## Dont ou duquel ?\nOn emploie **dont** quand « de » suit directement le verbe ou le nom ; **duquel** quand « de » fait partie d'une locution prépositionnelle (*au milieu de, à cause de, en face de*).\n*Le film dont tout le monde parle* / *La réunion à l'issue de laquelle il a démissionné.*\n\n## Ce qui, ce que, ce dont\nPour reprendre une idée : *Ce qui m'intéresse, c'est l'histoire. Ce que je préfère, c'est lire. Ce dont j'ai besoin, c'est de calme.*",
+ "simple_examples": [
+  "J'ai un ami qui habite à Québec.",
+  "Le gâteau que tu as fait est délicieux.",
+  "C'est le restaurant où nous avons dîné.",
+  "Voici le livre dont je t'ai parlé."
+ ],
+ "b2_examples": [
+  "Les raisons pour lesquelles le projet a été abandonné restent floues.",
+  "Il s'agit d'un enjeu auquel les collectivités locales devront répondre rapidement.",
+  "La ville dont le maire a été réélu a lancé un vaste plan de rénovation.",
+  "Ce dont les jeunes ont le plus besoin, c'est d'un accompagnement personnalisé."
+ ]
+}

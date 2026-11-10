@@ -1,0 +1,151 @@
+{
+ "exercises": [
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "C'est une ___ (beau) journée.",
+   "options": null,
+   "answer": "belle",
+   "explanation": "« Beau » a un féminin irrégulier : belle."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Il a acheté un ___ (nouveau) appartement.",
+   "options": null,
+   "answer": "nouvel",
+   "explanation": "Devant un nom masculin commençant par une voyelle, « nouveau » devient « nouvel »."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Ma grand-mère est une femme très ___ (actif).",
+   "options": null,
+   "answer": "active",
+   "explanation": "Les adjectifs en -if font leur féminin en -ive."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "A2",
+   "prompt": "Choisissez la forme correcte : « des accords ___ »",
+   "options": [
+    "internationaux",
+    "internationals",
+    "internationales",
+    "international"
+   ],
+   "answer": "internationaux",
+   "explanation": "Les adjectifs en -al font leur pluriel masculin en -aux. « Accord » est masculin."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Cette eau est ___ (frais).",
+   "options": null,
+   "answer": "fraîche",
+   "explanation": "Féminin irrégulier : frais → fraîche (avec accent circonflexe)."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "C'est une décision ___ (public).",
+   "options": null,
+   "answer": "publique",
+   "explanation": "« Public » a un féminin irrégulier : publique."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« Un ___ homme » signifie « un homme âgé ». Choisissez la forme.",
+   "options": [
+    "vieil",
+    "vieux",
+    "vieille",
+    "vieu"
+   ],
+   "answer": "vieil",
+   "explanation": "Devant un nom masculin commençant par un h muet, « vieux » devient « vieil »."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "Où placer l'adjectif ? « une voiture / rouge »",
+   "options": [
+    "une voiture rouge",
+    "une rouge voiture",
+    "une voiture de rouge",
+    "une rouge de voiture"
+   ],
+   "answer": "une voiture rouge",
+   "explanation": "Les adjectifs de couleur se placent après le nom."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Victor Hugo est un grand homme. » Que signifie « grand » ici ?",
+   "options": [
+    "célèbre, important",
+    "de grande taille",
+    "âgé",
+    "gros"
+   ],
+   "answer": "célèbre, important",
+   "explanation": "Placé avant « homme », « grand » prend un sens figuré : illustre, important. « Un homme grand » désigne sa taille."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« J'ai revu mon ancien professeur. » Que signifie « ancien » ?",
+   "options": [
+    "qui était mon professeur autrefois",
+    "très âgé",
+    "qui enseigne depuis longtemps",
+    "démodé"
+   ],
+   "answer": "qui était mon professeur autrefois",
+   "explanation": "Avant le nom, « ancien » signifie « d'avant, précédent ». Après le nom, il signifie « vieux, d'une autre époque »."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Les débats ont été ___ (vif) mais constructifs.",
+   "options": null,
+   "answer": "vifs",
+   "explanation": "« Vif » s'accorde avec « les débats » (masculin pluriel) : vifs. (Féminin : vive.)"
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Ces deux solutions ne sont pas ___ (banal).",
+   "options": null,
+   "answer": "banales",
+   "explanation": "« Banal » au féminin pluriel : banales. Au masculin pluriel, la forme est « banals » (exception à la règle -al/-aux)."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Remplacez « mauvais pour la santé » par un adjectif de niveau B2 : « La sédentarité a des effets mauvais pour la santé. »",
+   "options": null,
+   "answer": "La sédentarité a des effets néfastes pour la santé.|la sédentarité a des effets néfastes pour la santé|La sédentarité a des effets nocifs pour la santé.|la sédentarité a des effets nocifs pour la santé",
+   "explanation": "« Néfaste » (ou « nocif ») est plus précis et plus soutenu que « mauvais » ; il convient parfaitement à l'écrit argumentatif."
+  }
+ ],
+ "slug": "adjectifs",
+ "title": "Les adjectifs (formes et place)",
+ "module": "grammaire",
+ "order": 16,
+ "level": "A2",
+ "lesson": "## Formation du féminin\n- règle générale : + **e** : *grand → grande*\n- -eux → **-euse** : *heureux → heureuse* ; -if → **-ive** : *actif → active*\n- -er → **-ère** : *léger → légère* ; -el, -en, -on → doublement : *naturel → naturelle, ancien → ancienne, bon → bonne*\n- -teur → **-trice** ou **-teuse** : *créateur → créatrice, menteur → menteuse*\n- irréguliers : *beau → belle, nouveau → nouvelle, vieux → vieille, fou → folle, doux → douce, frais → fraîche, sec → sèche, long → longue, public → publique*\n\n## Formation du pluriel\n- + **s** : *grand → grands* ; -eau → **-eaux** ; -al → **-aux** (*national → nationaux*, sauf *banals, finals, fatals, navals*)\n- adjectifs en -s ou -x : invariables au masculin pluriel : *heureux, gris*\n\n## Bel, nouvel, vieil\nDevant un nom masculin commençant par une voyelle ou un h muet : *un bel appartement, un nouvel emploi, un vieil homme.*\n\n## Place de l'adjectif\n- en général **après** le nom : couleur, forme, nationalité, adjectifs longs : *une voiture rouge, un repas marocain.*\n- **avant** le nom : adjectifs courts et fréquents : *beau, joli, jeune, vieux, nouveau, grand, petit, bon, mauvais, gros.*\n- Certains adjectifs **changent de sens** selon leur place :\n  - *un grand homme* (célèbre) / *un homme grand* (de grande taille)\n  - *mon ancien appartement* (précédent) / *un appartement ancien* (vieux)\n  - *un certain charme* (indéfinissable) / *un succès certain* (sûr)\n  - *ma propre voiture* (à moi) / *une voiture propre* (nettoyée)\n  - *le seul candidat* (unique) / *un candidat seul* (sans compagnie)\n  - *un cher ami* (aimé) / *un restaurant cher* (coûteux)\n\n## Adjectifs de niveau B2 utiles\npertinent, judicieux, préoccupant, indispensable, durable, inédit, accessible, contraignant, bénéfique, néfaste, controversé, considérable.",
+ "simple_examples": [
+  "C'est une belle maison blanche.",
+  "J'ai un nouvel ordinateur.",
+  "Ma sœur est très active.",
+  "Ce sont des problèmes nationaux."
+ ],
+ "b2_examples": [
+  "Cette proposition, aussi séduisante soit-elle, me paraît difficilement applicable à court terme.",
+  "Les conséquences néfastes de la sédentarité sont désormais bien documentées.",
+  "Il s'agit d'une mesure controversée mais indispensable à la transition énergétique.",
+  "Mon ancien employeur m'a proposé un poste dans un bâtiment ancien entièrement rénové."
+ ]
+}

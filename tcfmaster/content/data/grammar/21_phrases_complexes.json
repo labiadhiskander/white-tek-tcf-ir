@@ -1,0 +1,146 @@
+{
+ "exercises": [
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« ___ il faisait beau, nous avons déjeuné dehors. »",
+   "options": [
+    "Comme",
+    "Parce que",
+    "Car",
+    "Donc"
+   ],
+   "answer": "Comme",
+   "explanation": "En tête de phrase, la cause s'exprime avec « comme » (ou « puisque », « étant donné que »). « Parce que » se place plutôt après la principale ; « car » ne peut jamais commencer la phrase."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Je t'appelle pour que tu ___ (savoir) la nouvelle.",
+   "options": null,
+   "answer": "saches",
+   "explanation": "« Pour que » exprime le but : subjonctif → que tu saches."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "___ la grève, les trains sont annulés. (cause neutre)",
+   "options": null,
+   "answer": "En raison de|en raison de|À cause de|à cause de",
+   "explanation": "« En raison de + nom » exprime une cause de façon neutre (très fréquent dans les annonces). « À cause de » est possible mais souligne l'aspect négatif."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Bien que la réforme ___ critiquée, elle a été adoptée. »",
+   "options": [
+    "soit",
+    "est",
+    "a été",
+    "sera"
+   ],
+   "answer": "soit",
+   "explanation": "« Bien que » est toujours suivi du subjonctif."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "J'ai ___ ___ insister, il refuse de m'écouter.",
+   "options": null,
+   "answer": "beau",
+   "explanation": "« Avoir beau + infinitif » exprime une concession : malgré mes efforts, rien ne change."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "___ que soient vos raisons, vous devez respecter le règlement.",
+   "options": null,
+   "answer": "Quelles|quelles",
+   "explanation": "« Quel que soit » s'accorde avec le sujet du verbe être (vos raisons, féminin pluriel) : quelles que soient."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Reliez avec « si … que » : « Le film était ennuyeux. Je me suis endormi. »",
+   "options": null,
+   "answer": "Le film était si ennuyeux que je me suis endormi.|le film était si ennuyeux que je me suis endormi|Le film était tellement ennuyeux que je me suis endormi.",
+   "explanation": "« Si (tellement) + adjectif + que » exprime une conséquence liée à l'intensité."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Reliez avec « malgré » : « Il pleuvait. Le match a eu lieu. »",
+   "options": null,
+   "answer": "Malgré la pluie, le match a eu lieu.|malgré la pluie, le match a eu lieu|Le match a eu lieu malgré la pluie.",
+   "explanation": "« Malgré » est suivi d'un nom : on transforme « il pleuvait » en « la pluie »."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Partons tôt ___ rater le train. » (but négatif, même sujet)",
+   "options": [
+    "de peur de",
+    "de peur que",
+    "pour que ne pas",
+    "afin que"
+   ],
+   "answer": "de peur de",
+   "explanation": "Avec le même sujet, on utilise la préposition + infinitif : « de peur de » rater le train."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "___ avoir terminé son discours, le ministre a répondu aux questions.",
+   "options": null,
+   "answer": "Après|après",
+   "explanation": "« Après + infinitif passé » exprime une action antérieure réalisée par le même sujet."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Il est parti sans que je ___ lui dire au revoir. »",
+   "options": [
+    "puisse",
+    "peux",
+    "pourrai",
+    "pouvais"
+   ],
+   "answer": "puisse",
+   "explanation": "« Sans que » est suivi du subjonctif."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Ce projet est trop coûteux ___ ___ la commune puisse le financer seule.",
+   "options": null,
+   "answer": "pour que",
+   "explanation": "« Trop … pour que » + subjonctif exprime une conséquence impossible."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Reliez avec « alors que » pour opposer : « Paris est très dense. La campagne se dépeuple. »",
+   "options": null,
+   "answer": "Paris est très dense alors que la campagne se dépeuple.|paris est très dense alors que la campagne se dépeuple|Alors que Paris est très dense, la campagne se dépeuple.",
+   "explanation": "« Alors que » + indicatif met en opposition deux faits simultanés."
+  }
+ ],
+ "slug": "phrases-complexes",
+ "title": "Les phrases complexes (cause, conséquence, but, opposition, temps)",
+ "module": "grammaire",
+ "order": 21,
+ "level": "B2",
+ "lesson": "## Phrase simple et phrase complexe\nUne phrase complexe contient **plusieurs verbes conjugués**, reliés par coordination, juxtaposition ou subordination. Au niveau B2, on attend des phrases variées qui expriment des relations logiques précises.\n\n## La cause\n- **parce que, puisque, comme** (en début de phrase), **étant donné que, vu que, du moment que** + indicatif\n- **sous prétexte que** (cause contestée) ; **non que** + subjonctif (cause rejetée)\n- **grâce à** (cause positive) / **à cause de** (négative) / **en raison de** (neutre) + nom\n*Comme il pleuvait, nous sommes restés à la maison.*\n\n## La conséquence\n- **si bien que, de sorte que, c'est pourquoi, par conséquent, donc** + indicatif\n- **si / tellement + adjectif + que** ; **tant / tellement de + nom + que**\n- **trop … pour que** + subjonctif ; **assez … pour** + infinitif\n*Il a tellement travaillé qu'il est tombé malade.*\n\n## Le but\n- **pour que, afin que, de sorte que (but), de peur que** + **subjonctif**\n- **pour, afin de, de peur de** + infinitif (même sujet)\n*Je parle lentement pour que tout le monde comprenne.*\n\n## L'opposition et la concession\n- **bien que, quoique, encore que** + subjonctif : *Bien qu'il soit fatigué, il continue.*\n- **même si, alors que, tandis que** + indicatif\n- **malgré, en dépit de** + nom : *Malgré la pluie, la fête a eu lieu.*\n- **avoir beau + infinitif** : *J'ai beau chercher, je ne trouve pas.*\n- **quel que soit, quoi que, où que** + subjonctif : *Quelle que soit votre décision, je la respecterai.*\n\n## Le temps\n- simultanéité : **quand, lorsque, pendant que, au moment où, tandis que** + indicatif\n- antériorité de l'action principale : **avant que** + subjonctif, **avant de** + infinitif\n- postériorité : **après que** + indicatif, **après** + infinitif passé : *Après avoir mangé, il est parti.*\n- **dès que, aussitôt que, depuis que, jusqu'à ce que** (+ subjonctif pour ce dernier)\n\n## Conseil\nVariez les structures : une copie B2 alterne cause, concession et conséquence au lieu de multiplier « parce que » et « mais ».",
+ "simple_examples": [
+  "Je reste à la maison parce que je suis malade.",
+  "Il parle fort pour que tout le monde l'entende.",
+  "Bien qu'il soit tard, je travaille encore.",
+  "Il a tellement couru qu'il est épuisé."
+ ],
+ "b2_examples": [
+  "Étant donné que les loyers ne cessent d'augmenter, de nombreuses familles s'installent en périphérie, si bien que les temps de trajet s'allongent.",
+  "Quelles que soient les mesures adoptées, elles n'auront d'effet que si elles sont accompagnées d'une véritable pédagogie.",
+  "J'ai beau apprécier la vie urbaine, je reconnais qu'elle peut devenir épuisante à long terme.",
+  "La mairie a organisé une consultation afin que chaque habitant puisse exprimer son avis."
+ ]
+}

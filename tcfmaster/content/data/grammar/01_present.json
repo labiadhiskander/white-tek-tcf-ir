@@ -1,0 +1,154 @@
+{
+ "exercises": [
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Nous ___ (commencer) la réunion à neuf heures.",
+   "options": null,
+   "answer": "commençons",
+   "explanation": "Les verbes en -cer prennent une cédille devant « o » pour garder le son [s] : nous commençons. Sans cédille, « commencons » se lirait [kɔ̃]."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Vous ___ (faire) vos courses le samedi ?",
+   "options": null,
+   "answer": "faites",
+   "explanation": "« Faire » est irrégulier à la 2e personne du pluriel : vous faites (comme vous êtes, vous dites). La forme « vous faisez » n'existe pas."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Ils ___ (aller) au travail à vélo.",
+   "options": null,
+   "answer": "vont",
+   "explanation": "« Aller » est totalement irrégulier : je vais, tu vas, il va, nous allons, vous allez, ils vont."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "A2",
+   "prompt": "Choisissez la forme correcte : « Je t'___ ce soir. »",
+   "options": [
+    "appelle",
+    "appele",
+    "apelle",
+    "appelles"
+   ],
+   "answer": "appelle",
+   "explanation": "Le verbe « appeler » double le « l » devant une terminaison muette : j'appelle, tu appelles, ils appellent, mais nous appelons. « Appelles » est la forme de « tu »."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Elle ___ (envoyer) son dossier par courriel.",
+   "options": null,
+   "answer": "envoie",
+   "explanation": "Les verbes en -oyer changent le y en i devant un e muet : j'envoie, elle envoie, ils envoient, mais nous envoyons."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Nous ___ (manger) souvent au restaurant d'entreprise.",
+   "options": null,
+   "answer": "mangeons",
+   "explanation": "Les verbes en -ger gardent un « e » devant « o » pour conserver le son [ʒ] : nous mangeons, nous voyageons."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« J'habite à Montréal ___ cinq ans. »",
+   "options": [
+    "depuis",
+    "pendant",
+    "il y a",
+    "dans"
+   ],
+   "answer": "depuis",
+   "explanation": "Avec le présent, une action commencée dans le passé qui continue aujourd'hui s'exprime avec « depuis ». « Il y a » s'emploie avec le passé composé (j'y suis arrivé il y a cinq ans)."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Ils ___ (pouvoir) venir demain matin.",
+   "options": null,
+   "answer": "peuvent",
+   "explanation": "« Pouvoir » : je peux, tu peux, il peut, nous pouvons, vous pouvez, ils peuvent. Le radical change au pluriel (peuv-)."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Est-ce que tu ___ (préférer) le thé ou le café ?",
+   "options": null,
+   "answer": "préfères",
+   "explanation": "Dans « préférer », le deuxième é devient è devant une terminaison muette : je préfère, tu préfères, ils préfèrent, mais nous préférons, vous préférez."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B1",
+   "prompt": "Transformez avec « être en train de » : « Je rédige mon rapport. »",
+   "options": null,
+   "answer": "Je suis en train de rédiger mon rapport.|je suis en train de rédiger mon rapport",
+   "explanation": "« Être en train de + infinitif » insiste sur le déroulement de l'action au moment où l'on parle. On conjugue « être » au présent et le verbe principal reste à l'infinitif."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Quel emploi du présent trouve-t-on dans : « En 1969, l'homme marche sur la Lune » ?",
+   "options": [
+    "présent de narration",
+    "présent d'habitude",
+    "vérité générale",
+    "futur proche"
+   ],
+   "answer": "présent de narration",
+   "explanation": "Le présent de narration (ou présent historique) raconte un fait passé comme s'il se déroulait sous nos yeux, pour rendre le récit plus vivant. La date indique clairement qu'il s'agit du passé."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Les entreprises qui ___ (acquérir) de nouvelles compétences restent compétitives.",
+   "options": null,
+   "answer": "acquièrent",
+   "explanation": "« Acquérir » : j'acquiers, tu acquiers, il acquiert, nous acquérons, vous acquérez, ils acquièrent. Le radical prend un accent grave aux formes dont la terminaison est muette."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Ces mesures ___ (résoudre) une partie du problème.",
+   "options": null,
+   "answer": "résolvent",
+   "explanation": "« Résoudre » : je résous, il résout, nous résolvons, ils résolvent. Le radical devient « résolv- » au pluriel."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Choisissez la phrase correcte.",
+   "options": [
+    "Vous dites que le projet avance bien.",
+    "Vous disez que le projet avance bien.",
+    "Vous dîtes que le projet avance bien.",
+    "Vous dites que le projet avancent bien."
+   ],
+   "answer": "Vous dites que le projet avance bien.",
+   "explanation": "« Dire » fait « vous dites » au présent (sans accent : « vous dîtes » est un passé simple). Attention aussi à l'accord : « le projet avance » (sujet singulier)."
+  }
+ ],
+ "slug": "present",
+ "title": "Le présent de l'indicatif",
+ "module": "conjugaison",
+ "order": 1,
+ "level": "A2",
+ "lesson": "## À quoi sert le présent ?\nLe présent exprime :\n- une action en cours : *Je lis le journal.*\n- une habitude ou une vérité générale : *Je prends le bus tous les matins. L'eau bout à 100 °C.*\n- un futur proche, avec un indicateur de temps : *Je pars demain.*\n- un passé récent ou un récit vivant (présent de narration) : *En 1789, la Révolution éclate.*\n- une action commencée dans le passé qui continue : *J'habite ici depuis trois ans.*\n\n## Les terminaisons\n### 1er groupe (-er) : -e, -es, -e, -ons, -ez, -ent\n*parler : je parle, tu parles, il parle, nous parlons, vous parlez, ils parlent*\n### 2e groupe (-ir, participe en -issant) : -is, -is, -it, -issons, -issez, -issent\n*finir : je finis, nous finissons, ils finissent*\n### 3e groupe : surtout -s, -s, -t (ou -d), -ons, -ez, -ent\n*prendre : je prends, il prend, nous prenons, ils prennent*\n\n## Les pièges orthographiques du 1er groupe\n- Verbes en **-cer** : *nous commençons* (cédille devant o).\n- Verbes en **-ger** : *nous mangeons* (e devant o).\n- Verbes en **-eler / -eter** : doublement de la consonne ou accent grave : *j'appelle, je jette* mais *j'achète, je gèle*.\n- Verbes en **-yer** : *j'envoie, je paie (ou paye)* ; le y devient i devant un e muet.\n- Verbes comme **préférer** : *je préfère* mais *nous préférons*.\n\n## Les verbes irréguliers indispensables\n- être : suis, es, est, sommes, êtes, sont\n- avoir : ai, as, a, avons, avez, ont\n- aller : vais, vas, va, allons, allez, vont\n- faire : fais, fais, fait, faisons, faites, font\n- dire : dis, dis, dit, disons, dites, disent\n- pouvoir : peux, peux, peut, pouvons, pouvez, peuvent\n- vouloir : veux, veux, veut, voulons, voulez, veulent\n- devoir : dois, dois, doit, devons, devez, doivent\n- savoir : sais, sais, sait, savons, savez, savent\n- venir : viens, viens, vient, venons, venez, viennent\n\n## Astuce B2\nPour décrire une action en cours avec insistance, utilisez **être en train de + infinitif** : *Je suis en train de rédiger mon rapport.* Pour une durée qui continue, **depuis** + présent (et non passé composé) : *Je travaille ici depuis 2019.*",
+ "simple_examples": [
+  "Je travaille dans une boulangerie.",
+  "Nous commençons les cours à huit heures.",
+  "Ils prennent le train tous les lundis.",
+  "Vous faites du sport le week-end ?"
+ ],
+ "b2_examples": [
+  "Depuis que je vis à Lyon, je m'intéresse davantage à la vie associative de mon quartier.",
+  "Les jeunes diplômés qui envoient leur candidature à l'étranger obtiennent souvent plus de réponses.",
+  "Si la tendance se confirme, de plus en plus de salariés choisissent le télétravail partiel.",
+  "Le gouvernement prévoit une réforme qui suscite déjà de vifs débats."
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "exercises": [
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Quand j'étais enfant, je ___ (aller) à l'école à pied.",
+   "options": null,
+   "answer": "allais",
+   "explanation": "Habitude passée : imparfait. Radical « all- » (nous allons) + -ais."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Nous ___ (être) très fatigués ce soir-là.",
+   "options": null,
+   "answer": "étions",
+   "explanation": "« Être » est le seul verbe irrégulier à l'imparfait : radical « ét- » → nous étions."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Il ___ (faire) beau pendant toutes les vacances.",
+   "options": null,
+   "answer": "faisait",
+   "explanation": "Description du temps : imparfait. Radical de « nous faisons » → « fais- » + -ait."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "A2",
+   "prompt": "« Je ___ un livre quand la lumière s'est éteinte. »",
+   "options": [
+    "lisais",
+    "ai lu",
+    "lis",
+    "lirai"
+   ],
+   "answer": "lisais",
+   "explanation": "L'action en cours (lire) est interrompue par un événement ponctuel (la lumière s'est éteinte) : l'action en cours se met à l'imparfait."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Nous ___ (commencer) toujours par un café.",
+   "options": null,
+   "answer": "commencions",
+   "explanation": "À l'imparfait, « nous » a la terminaison -ions : devant « i », la cédille est inutile → nous commencions."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Vous ___ (étudier) le droit à cette époque ?",
+   "options": null,
+   "answer": "étudiiez",
+   "explanation": "Radical « étudi- » + terminaison « -iez » : on obtient deux « i » consécutifs, vous étudiiez. C'est ce qui le distingue du présent (vous étudiez)."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« Il ___ dix ans à Bruxelles, puis il est rentré au Maroc. »",
+   "options": [
+    "a vécu",
+    "vivait",
+    "vit",
+    "vivra"
+   ],
+   "answer": "a vécu",
+   "explanation": "Une durée précise et terminée (dix ans), suivie d'un autre événement, s'exprime au passé composé. L'imparfait conviendrait pour une situation sans limite : « À cette époque, il vivait à Bruxelles. »"
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Je ___ (vouloir) vous poser une question, si vous avez un instant.",
+   "options": null,
+   "answer": "voulais",
+   "explanation": "L'imparfait de politesse atténue une demande : « je voulais » est plus poli que « je veux »."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "Complétez : « Tous les étés, nous ___ en Bretagne. »",
+   "options": [
+    "partions",
+    "sommes partis",
+    "partons partis",
+    "partirions"
+   ],
+   "answer": "partions",
+   "explanation": "« Tous les étés » indique une habitude répétée dans le passé, donc imparfait."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Mettez au passé : « Il pleut quand nous sortons du cinéma. »",
+   "options": null,
+   "answer": "Il pleuvait quand nous sommes sortis du cinéma.|il pleuvait quand nous sommes sortis du cinéma|Il pleuvait quand nous sommes sorties du cinéma.",
+   "explanation": "La pluie est le décor (imparfait : il pleuvait), la sortie du cinéma est l'événement ponctuel (passé composé : nous sommes sortis, avec l'auxiliaire être)."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Les salariés ___ (craindre) une fermeture du site depuis des mois.",
+   "options": null,
+   "answer": "craignaient",
+   "explanation": "« Craindre » : nous craignons → radical « craign- » + -aient. « Depuis des mois » avec un passé indique une situation qui durait : imparfait."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Quelle phrase utilise correctement les temps ?",
+   "options": [
+    "Alors que je traversais la place, j'ai reconnu une ancienne collègue.",
+    "Alors que j'ai traversé la place, je reconnaissais une ancienne collègue.",
+    "Alors que je traversais la place, je reconnaissais soudain une ancienne collègue.",
+    "Alors que j'ai traversé la place, j'ai reconnu une ancienne collègue."
+   ],
+   "answer": "Alors que je traversais la place, j'ai reconnu une ancienne collègue.",
+   "explanation": "« Alors que » introduit l'action en cours (imparfait : je traversais) pendant laquelle survient un événement ponctuel (passé composé : j'ai reconnu)."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Si nous ___ (payer) moins d'impôts, nous investirions davantage.",
+   "options": null,
+   "answer": "payions",
+   "explanation": "Après « si » d'hypothèse, imparfait. « Payer » : radical « pay- » + -ions → nous payions (le y se conserve devant la terminaison)."
+  }
+ ],
+ "slug": "imparfait",
+ "title": "L'imparfait et son emploi avec le passé composé",
+ "module": "conjugaison",
+ "order": 3,
+ "level": "A2",
+ "lesson": "## Formation\nOn prend le radical de la **1re personne du pluriel du présent** (nous parl-ons → *parl-*) et on ajoute : **-ais, -ais, -ait, -ions, -iez, -aient**.\n*finir : nous finissons → je finissais ; prendre : nous prenons → je prenais*\nSeule exception : **être** → *j'étais, nous étions*.\n\n## Pièges orthographiques\n- *nous commencions* (pas de cédille devant i), mais *je commençais* (cédille devant a).\n- *je mangeais*, mais *nous mangions*.\n- Verbes en -ier : *nous étudiions, vous étudiiez* (deux i).\n- Verbes en -yer : *nous envoyions, vous payiez*.\n\n## Valeurs de l'imparfait\n- **description** dans le passé (décor, personnages, sentiments) : *Il faisait beau, les rues étaient calmes.*\n- **habitude** passée : *Quand j'étais enfant, je passais mes vacances chez ma grand-mère.*\n- **action en cours** interrompue par une autre : *Je regardais la télévision quand le téléphone a sonné.*\n- **hypothèse** après si : *Si j'avais le temps, je voyagerais.*\n- **politesse** ou atténuation : *Je voulais vous demander un renseignement.*\n\n## Imparfait ou passé composé ?\n- Imparfait = **arrière-plan**, durée non délimitée, contexte.\n- Passé composé = **premier plan**, événement ponctuel, action qui fait avancer le récit.\n*Il pleuvait (décor) depuis le matin quand l'alerte a été lancée (événement).*\n- Une durée précise et terminée appelle le passé composé : *J'ai habité dix ans à Genève.* Mais une habitude sans limite précise appelle l'imparfait : *J'habitais à Genève à cette époque.*",
+ "simple_examples": [
+  "Quand j'étais petit, j'habitais à la campagne.",
+  "Il faisait froid et il neigeait.",
+  "Nous jouions au football tous les mercredis.",
+  "Je dormais quand tu as appelé."
+ ],
+ "b2_examples": [
+  "À l'époque, la plupart des employés se rendaient au bureau en voiture, ce qui provoquait des embouteillages quotidiens.",
+  "Alors que les négociations semblaient sur le point d'aboutir, un désaccord de dernière minute a tout remis en cause.",
+  "Je voulais simplement savoir si ma demande avait bien été prise en compte.",
+  "Autrefois, on considérait que l'apprentissage d'une langue étrangère réclamait des années d'efforts."
+ ]
+}

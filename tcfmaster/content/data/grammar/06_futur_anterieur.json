@@ -1,0 +1,138 @@
+{
+ "exercises": [
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Quand tu ___ (finir) tes devoirs, tu pourras jouer.",
+   "options": null,
+   "answer": "auras fini",
+   "explanation": "La fin des devoirs précède le moment de jouer : futur antérieur dans la subordonnée (auras fini), futur simple dans la principale."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "D'ici demain, nous ___ (prendre) une décision.",
+   "options": null,
+   "answer": "aurons pris",
+   "explanation": "« D'ici demain » fixe un moment futur avant lequel l'action sera accomplie : futur antérieur. Participe irrégulier : pris."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Dès qu'elle ___ (arriver), nous commencerons.",
+   "options": null,
+   "answer": "sera arrivée",
+   "explanation": "« Arriver » se conjugue avec être ; accord au féminin : sera arrivée."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« Appelle-moi dès que tu ___ ta réponse. »",
+   "options": [
+    "auras reçu",
+    "as reçu",
+    "recevrais",
+    "avais reçu"
+   ],
+   "answer": "auras reçu",
+   "explanation": "Avec « dès que » et un impératif tourné vers l'avenir, l'action antérieure se met au futur antérieur."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Les enfants ___ (se coucher) avant notre retour.",
+   "options": null,
+   "answer": "se seront couchés",
+   "explanation": "Verbe pronominal : auxiliaire être au futur, accord avec « les enfants » : se seront couchés."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "Quel temps choisir ? « Dans deux ans, j'___ mon diplôme. »",
+   "options": [
+    "aurai obtenu",
+    "obtiendrais",
+    "ai obtenu",
+    "avais obtenu"
+   ],
+   "answer": "aurai obtenu",
+   "explanation": "« Dans deux ans » indique un moment futur ; l'obtention sera accomplie à ce moment-là : futur antérieur."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Une fois que vous ___ (lire) le contrat, vous le signerez.",
+   "options": null,
+   "answer": "aurez lu",
+   "explanation": "« Une fois que » + futur antérieur : la lecture précède la signature. Participe de « lire » : lu."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Marc n'est pas venu ? Il ___ son train. » (supposition)",
+   "options": [
+    "aura raté",
+    "ratera",
+    "rate",
+    "raterait"
+   ],
+   "answer": "aura raté",
+   "explanation": "Le futur antérieur peut exprimer une supposition sur un fait passé : « il aura raté » = il a probablement raté."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Lorsque les ouvriers ___ (terminer) les travaux, la rue rouvrira.",
+   "options": null,
+   "answer": "auront terminé",
+   "explanation": "Les travaux seront terminés avant la réouverture de la rue : « lorsque » + futur antérieur (auront terminé), futur simple dans la principale (rouvrira)."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Reliez avec « quand » : « Tu auras fini. Tu m'enverras le fichier. »",
+   "options": null,
+   "answer": "Quand tu auras fini, tu m'enverras le fichier.|quand tu auras fini, tu m'enverras le fichier|Tu m'enverras le fichier quand tu auras fini.",
+   "explanation": "« Quand » introduit l'action antérieure au futur antérieur ; la principale reste au futur simple."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Choisissez la phrase correcte.",
+   "options": [
+    "Après que les experts auront rendu leur avis, le ministre tranchera.",
+    "Après que les experts rendent leur avis, le ministre tranchera.",
+    "Après que les experts aient rendu leur avis, le ministre tranchera.",
+    "Après que les experts rendront leur avis, le ministre tranchera."
+   ],
+   "answer": "Après que les experts auront rendu leur avis, le ministre tranchera.",
+   "explanation": "« Après que » est suivi de l'indicatif (et non du subjonctif) ; l'action antérieure future se met au futur antérieur."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "En fin d'année, nous ___ (accueillir) plus de mille visiteurs.",
+   "options": null,
+   "answer": "aurons accueilli",
+   "explanation": "Bilan anticipé : le futur antérieur présente comme accompli un résultat qui sera atteint à un moment futur."
+  }
+ ],
+ "slug": "futur-anterieur",
+ "title": "Le futur antérieur",
+ "module": "conjugaison",
+ "order": 6,
+ "level": "B1",
+ "lesson": "## Formation\nAuxiliaire **avoir ou être au futur simple** + **participe passé**.\n*J'aurai terminé. Elle sera partie. Nous nous serons inscrits.*\nMêmes règles d'auxiliaire et d'accord qu'au passé composé.\n\n## Valeur principale : l'antériorité dans le futur\nLe futur antérieur exprime une action **qui sera accomplie avant** une autre action future ou avant un moment futur précis.\n*Quand tu rentreras, j'aurai préparé le dîner.*\n*D'ici vendredi, nous aurons fini le rapport.*\n\n## Avec les conjonctions de temps\nAprès **quand, lorsque, dès que, aussitôt que, une fois que, après que**, on utilise le futur antérieur si l'action de la subordonnée est terminée avant celle de la principale :\n*Dès que j'aurai reçu ta réponse, je réserverai les billets.*\n\n## Autres emplois\n- **Supposition sur le passé** : *Il n'est pas là ? Il aura oublié le rendez-vous.* (= il a probablement oublié)\n- **Bilan anticipé** : *Cette année, j'aurai beaucoup appris.*\n\n## Repères\n*d'ici (à) + date, avant + date, dans + durée, quand, dès que* sont des marqueurs fréquents.",
+ "simple_examples": [
+  "J'aurai fini à dix-huit heures.",
+  "Quand tu arriveras, je serai parti.",
+  "Dès que nous aurons mangé, nous sortirons.",
+  "Elle sera rentrée avant minuit."
+ ],
+ "b2_examples": [
+  "Une fois que la commission aura examiné les dossiers, les candidats retenus seront contactés.",
+  "D'ici la fin de la décennie, la ville aura remplacé l'ensemble de ses bus par des véhicules électriques.",
+  "Le colis n'est toujours pas arrivé : le transporteur se sera probablement trompé d'adresse.",
+  "Lorsque vous aurez acquis ces bases, vous pourrez aborder des textes plus complexes."
+ ]
+}

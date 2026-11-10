@@ -1,0 +1,108 @@
+@slug present
+@title Le présent de l'indicatif
+@module conjugaison
+@order 1
+@level A2
+## COURS
+## À quoi sert le présent ?
+Le présent exprime :
+- une action en cours : *Je lis le journal.*
+- une habitude ou une vérité générale : *Je prends le bus tous les matins. L'eau bout à 100 °C.*
+- un futur proche, avec un indicateur de temps : *Je pars demain.*
+- un passé récent ou un récit vivant (présent de narration) : *En 1789, la Révolution éclate.*
+- une action commencée dans le passé qui continue : *J'habite ici depuis trois ans.*
+
+## Les terminaisons
+### 1er groupe (-er) : -e, -es, -e, -ons, -ez, -ent
+*parler : je parle, tu parles, il parle, nous parlons, vous parlez, ils parlent*
+### 2e groupe (-ir, participe en -issant) : -is, -is, -it, -issons, -issez, -issent
+*finir : je finis, nous finissons, ils finissent*
+### 3e groupe : surtout -s, -s, -t (ou -d), -ons, -ez, -ent
+*prendre : je prends, il prend, nous prenons, ils prennent*
+
+## Les pièges orthographiques du 1er groupe
+- Verbes en **-cer** : *nous commençons* (cédille devant o).
+- Verbes en **-ger** : *nous mangeons* (e devant o).
+- Verbes en **-eler / -eter** : doublement de la consonne ou accent grave : *j'appelle, je jette* mais *j'achète, je gèle*.
+- Verbes en **-yer** : *j'envoie, je paie (ou paye)* ; le y devient i devant un e muet.
+- Verbes comme **préférer** : *je préfère* mais *nous préférons*.
+
+## Les verbes irréguliers indispensables
+- être : suis, es, est, sommes, êtes, sont
+- avoir : ai, as, a, avons, avez, ont
+- aller : vais, vas, va, allons, allez, vont
+- faire : fais, fais, fait, faisons, faites, font
+- dire : dis, dis, dit, disons, dites, disent
+- pouvoir : peux, peux, peut, pouvons, pouvez, peuvent
+- vouloir : veux, veux, veut, voulons, voulez, veulent
+- devoir : dois, dois, doit, devons, devez, doivent
+- savoir : sais, sais, sait, savons, savez, savent
+- venir : viens, viens, vient, venons, venez, viennent
+
+## Astuce B2
+Pour décrire une action en cours avec insistance, utilisez **être en train de + infinitif** : *Je suis en train de rédiger mon rapport.* Pour une durée qui continue, **depuis** + présent (et non passé composé) : *Je travaille ici depuis 2019.*
+## SIMPLES
+- Je travaille dans une boulangerie.
+- Nous commençons les cours à huit heures.
+- Ils prennent le train tous les lundis.
+- Vous faites du sport le week-end ?
+## B2
+- Depuis que je vis à Lyon, je m'intéresse davantage à la vie associative de mon quartier.
+- Les jeunes diplômés qui envoient leur candidature à l'étranger obtiennent souvent plus de réponses.
+- Si la tendance se confirme, de plus en plus de salariés choisissent le télétravail partiel.
+- Le gouvernement prévoit une réforme qui suscite déjà de vifs débats.
+## EXERCICES
+TROU | A2 | Nous ___ (commencer) la réunion à neuf heures.
+> commençons
+= Les verbes en -cer prennent une cédille devant « o » pour garder le son [s] : nous commençons. Sans cédille, « commencons » se lirait [kɔ̃].
+TROU | A2 | Vous ___ (faire) vos courses le samedi ?
+> faites
+= « Faire » est irrégulier à la 2e personne du pluriel : vous faites (comme vous êtes, vous dites). La forme « vous faisez » n'existe pas.
+TROU | A2 | Ils ___ (aller) au travail à vélo.
+> vont
+= « Aller » est totalement irrégulier : je vais, tu vas, il va, nous allons, vous allez, ils vont.
+QCM | A2 | Choisissez la forme correcte : « Je t'___ ce soir. »
+* appelle
+- appele
+- apelle
+- appelles
+= Le verbe « appeler » double le « l » devant une terminaison muette : j'appelle, tu appelles, ils appellent, mais nous appelons. « Appelles » est la forme de « tu ».
+TROU | B1 | Elle ___ (envoyer) son dossier par courriel.
+> envoie
+= Les verbes en -oyer changent le y en i devant un e muet : j'envoie, elle envoie, ils envoient, mais nous envoyons.
+TROU | B1 | Nous ___ (manger) souvent au restaurant d'entreprise.
+> mangeons
+= Les verbes en -ger gardent un « e » devant « o » pour conserver le son [ʒ] : nous mangeons, nous voyageons.
+QCM | B1 | « J'habite à Montréal ___ cinq ans. »
+* depuis
+- pendant
+- il y a
+- dans
+= Avec le présent, une action commencée dans le passé qui continue aujourd'hui s'exprime avec « depuis ». « Il y a » s'emploie avec le passé composé (j'y suis arrivé il y a cinq ans).
+TROU | B1 | Ils ___ (pouvoir) venir demain matin.
+> peuvent
+= « Pouvoir » : je peux, tu peux, il peut, nous pouvons, vous pouvez, ils peuvent. Le radical change au pluriel (peuv-).
+TROU | B1 | Est-ce que tu ___ (préférer) le thé ou le café ?
+> préfères
+= Dans « préférer », le deuxième é devient è devant une terminaison muette : je préfère, tu préfères, ils préfèrent, mais nous préférons, vous préférez.
+TRANS | B1 | Transformez avec « être en train de » : « Je rédige mon rapport. »
+> Je suis en train de rédiger mon rapport.|je suis en train de rédiger mon rapport
+= « Être en train de + infinitif » insiste sur le déroulement de l'action au moment où l'on parle. On conjugue « être » au présent et le verbe principal reste à l'infinitif.
+QCM | B2 | Quel emploi du présent trouve-t-on dans : « En 1969, l'homme marche sur la Lune » ?
+* présent de narration
+- présent d'habitude
+- vérité générale
+- futur proche
+= Le présent de narration (ou présent historique) raconte un fait passé comme s'il se déroulait sous nos yeux, pour rendre le récit plus vivant. La date indique clairement qu'il s'agit du passé.
+TROU | B2 | Les entreprises qui ___ (acquérir) de nouvelles compétences restent compétitives.
+> acquièrent
+= « Acquérir » : j'acquiers, tu acquiers, il acquiert, nous acquérons, vous acquérez, ils acquièrent. Le radical prend un accent grave aux formes dont la terminaison est muette.
+TROU | B2 | Ces mesures ___ (résoudre) une partie du problème.
+> résolvent
+= « Résoudre » : je résous, il résout, nous résolvons, ils résolvent. Le radical devient « résolv- » au pluriel.
+QCM | B2 | Choisissez la phrase correcte.
+* Vous dites que le projet avance bien.
+- Vous disez que le projet avance bien.
+- Vous dîtes que le projet avance bien.
+- Vous dites que le projet avancent bien.
+= « Dire » fait « vous dites » au présent (sans accent : « vous dîtes » est un passé simple). Attention aussi à l'accord : « le projet avance » (sujet singulier).

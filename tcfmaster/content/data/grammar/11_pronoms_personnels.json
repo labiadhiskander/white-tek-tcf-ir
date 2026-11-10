@@ -1,0 +1,133 @@
+{
+ "exercises": [
+  {
+   "ex_type": "transformation",
+   "level": "B1",
+   "prompt": "Remplacez par un pronom : « Je regarde le film. »",
+   "options": null,
+   "answer": "Je le regarde.|je le regarde",
+   "explanation": "« Le film » est COD masculin singulier : le. Il se place avant le verbe."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B1",
+   "prompt": "Remplacez par un pronom : « Elle téléphone à ses parents. »",
+   "options": null,
+   "answer": "Elle leur téléphone.|elle leur téléphone",
+   "explanation": "On téléphone « à » quelqu'un : COI pluriel → leur (invariable, sans s)."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B1",
+   "prompt": "Remplacez par un pronom : « Nous allons à la plage. »",
+   "options": null,
+   "answer": "Nous y allons.|nous y allons",
+   "explanation": "« Y » remplace un lieu introduit par « à »."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B1",
+   "prompt": "Remplacez par un pronom : « J'ai acheté trois pommes. »",
+   "options": null,
+   "answer": "J'en ai acheté trois.|j'en ai acheté trois",
+   "explanation": "« En » remplace un nom précédé d'une quantité ; la quantité (trois) est reprise en fin de phrase. Pas d'accord du participe avec « en »."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« Tu penses à ta grand-mère ? » — « Oui, ___ »",
+   "options": [
+    "je pense à elle.",
+    "je lui pense.",
+    "j'y pense.",
+    "je la pense."
+   ],
+   "answer": "je pense à elle.",
+   "explanation": "Avec « penser à » + personne, on emploie « à + pronom tonique » : je pense à elle. « J'y pense » s'emploie pour une chose."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "Impératif : « Tu dois appeler Sophie. » → ___",
+   "options": [
+    "Appelle-la !",
+    "La appelle !",
+    "Appelle-lui !",
+    "Appelles-la !"
+   ],
+   "answer": "Appelle-la !",
+   "explanation": "À l'impératif affirmatif, le pronom suit le verbe avec un trait d'union. « Appeler » se construit avec un COD (la). À l'impératif, pas de s pour les verbes en -er à la 2e personne."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Remplacez les deux compléments : « Je donne le livre à Marc. »",
+   "options": null,
+   "answer": "Je le lui donne.|je le lui donne",
+   "explanation": "Ordre des doubles pronoms : le/la/les avant lui/leur → je le lui donne."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Remplacez les deux compléments : « Il m'a parlé de son projet. »",
+   "options": null,
+   "answer": "Il m'en a parlé.|il m'en a parlé",
+   "explanation": "« De son projet » (chose) devient « en » ; « me » précède « en » : il m'en a parlé."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Impératif affirmatif : « Tu me rends les clés. »",
+   "options": null,
+   "answer": "Rends-les-moi.|rends-les-moi|Rends-les-moi !",
+   "explanation": "À l'impératif affirmatif, le COD précède le COI et « me » devient « moi » : rends-les-moi."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Les lettres ? Je ___ ai envoyées hier. »",
+   "options": [
+    "les",
+    "leur",
+    "en",
+    "lui"
+   ],
+   "answer": "les",
+   "explanation": "« Les lettres » est COD : les. Le COD est placé avant l'auxiliaire avoir, d'où l'accord : envoyées."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Ce problème, il faut ___ réfléchir sérieusement.",
+   "options": null,
+   "answer": "y",
+   "explanation": "On réfléchit « à » quelque chose : « y » remplace le complément introduit par « à » quand il s'agit d'une chose."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Des difficultés ? Il ___ a toujours eu dans ce secteur.",
+   "options": null,
+   "answer": "y en",
+   "explanation": "« Il y a » + quantité indéfinie : « en » remplace « des difficultés ». Ordre obligatoire : y avant en → il y en a eu."
+  }
+ ],
+ "slug": "pronoms-personnels",
+ "title": "Les pronoms personnels (COD, COI, y, en)",
+ "module": "grammaire",
+ "order": 11,
+ "level": "B1",
+ "lesson": "## Les pronoms compléments\n- **COD** (verbe + quelqu'un / quelque chose sans préposition) : me, te, **le, la, les**, nous, vous\n  *Je vois Marie → Je la vois.*\n- **COI** (verbe + à + personne) : me, te, **lui, leur**, nous, vous\n  *Je parle à mes parents → Je leur parle.*\n- **Y** remplace un lieu ou un complément introduit par **à + chose** : *Je vais à Paris → J'y vais. Je pense à mon examen → J'y pense.*\n- **EN** remplace un complément introduit par **de**, ou une quantité : *Je reviens de Lyon → J'en reviens. J'ai deux enfants → J'en ai deux. Je parle de ce projet → J'en parle.*\n\n## Personnes et choses\nAvec **penser à, s'intéresser à, faire attention à**, on n'utilise pas lui/leur pour une personne mais **à + pronom tonique** : *Je pense à elle.* Pour une chose : *J'y pense.*\nDe même avec **de** : *Je parle de mon frère → Je parle de lui. Je parle du film → J'en parle.*\n\n## Place des pronoms\n- avant le verbe conjugué : *Je le vois.*\n- aux temps composés, avant l'auxiliaire : *Je l'ai vu.*\n- avec un infinitif, avant l'infinitif : *Je vais le voir.*\n- à l'impératif affirmatif, après le verbe avec un trait d'union : *Regarde-le ! Donne-m'en !* ; à l'impératif négatif, avant : *Ne le regarde pas !*\n\n## Ordre des doubles pronoms\n**me/te/se/nous/vous → le/la/les → lui/leur → y → en**\n*Il me le donne. Je le lui donne. Je leur en parle. Il y en a.*\nÀ l'impératif affirmatif : *Donne-le-moi. Envoie-la-leur.*",
+ "simple_examples": [
+  "Tu connais Paul ? Oui, je le connais.",
+  "J'écris à ma sœur. Je lui écris.",
+  "Tu vas à la piscine ? Oui, j'y vais.",
+  "Tu veux du café ? Oui, j'en veux."
+ ],
+ "b2_examples": [
+  "Ce dossier, je vous le transmettrai dès que la direction l'aura validé.",
+  "Quant aux critiques formulées par les usagers, la mairie a promis d'en tenir compte.",
+  "Cette question, nous y reviendrons lors de la prochaine réunion.",
+  "Ses collègues lui en ont voulu de ne pas les avoir prévenus."
+ ]
+}

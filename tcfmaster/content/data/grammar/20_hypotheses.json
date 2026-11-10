@@ -1,0 +1,146 @@
+{
+ "exercises": [
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Si tu ___ (avoir) besoin d'aide, appelle-moi.",
+   "options": null,
+   "answer": "as",
+   "explanation": "Hypothèse réalisable avec un impératif dans la principale : si + présent."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Si j'étais riche, je ___ (voyager) partout.",
+   "options": null,
+   "answer": "voyagerais",
+   "explanation": "Si + imparfait → conditionnel présent dans la principale."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Si nous ___ (partir) plus tôt, nous n'aurions pas raté le train.",
+   "options": null,
+   "answer": "étions partis",
+   "explanation": "Irréel du passé : si + plus-que-parfait (étions partis, avec être) → conditionnel passé."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "Choisissez la phrase correcte.",
+   "options": [
+    "Si j'avais le temps, je t'aiderais.",
+    "Si j'aurais le temps, je t'aiderais.",
+    "Si j'aurai le temps, je t'aiderais.",
+    "Si j'ai le temps, je t'aurais aidé."
+   ],
+   "answer": "Si j'avais le temps, je t'aiderais.",
+   "explanation": "On ne met jamais de conditionnel ni de futur juste après « si » : si + imparfait, conditionnel présent."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Si tu ___ (venir) demain, nous irons au marché.",
+   "options": null,
+   "answer": "viens",
+   "explanation": "Hypothèse réalisable : si + présent, futur dans la principale."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Au cas où vous ___ en retard, prévenez-nous. »",
+   "options": [
+    "seriez",
+    "êtes",
+    "soyez",
+    "serez"
+   ],
+   "answer": "seriez",
+   "explanation": "« Au cas où » est suivi du conditionnel."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Je viendrai à condition que tu ___ là. »",
+   "options": [
+    "sois",
+    "es",
+    "seras",
+    "serais"
+   ],
+   "answer": "sois",
+   "explanation": "« À condition que » est suivi du subjonctif."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Si j'avais accepté ce poste, je ___ (habiter) à Montréal aujourd'hui.",
+   "options": null,
+   "answer": "habiterais",
+   "explanation": "Hypothèse mixte : condition dans le passé (plus-que-parfait), conséquence dans le présent (« aujourd'hui ») → conditionnel présent."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Remplacez « si » par « sans » + nom : « Si tu ne m'avais pas aidé, je n'aurais pas réussi. »",
+   "options": null,
+   "answer": "Sans ton aide, je n'aurais pas réussi.|sans ton aide, je n'aurais pas réussi",
+   "explanation": "« Sans + nom » exprime une condition négative ; la principale reste au conditionnel passé."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Remplacez « si » par un gérondif : « Si tu prenais le métro, tu arriverais plus vite. »",
+   "options": null,
+   "answer": "En prenant le métro, tu arriverais plus vite.|en prenant le métro, tu arriverais plus vite",
+   "explanation": "Le gérondif (en + participe présent) peut exprimer une condition ; la principale garde le conditionnel."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "___ ___ d'incendie, n'utilisez pas l'ascenseur.",
+   "options": null,
+   "answer": "En cas|en cas",
+   "explanation": "« En cas de + nom » exprime une condition éventuelle, très fréquent dans les consignes."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Je me demande s'il ___ demain. » (interrogation indirecte)",
+   "options": [
+    "viendra",
+    "vient",
+    "vienne",
+    "venait"
+   ],
+   "answer": "viendra",
+   "explanation": "Ici « si » introduit une question indirecte, pas une condition : le futur est donc possible et même attendu."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Tu réussiras à condition ___ travailler régulièrement.",
+   "options": null,
+   "answer": "de",
+   "explanation": "Même sujet dans les deux propositions : « à condition de + infinitif »."
+  }
+ ],
+ "slug": "hypotheses",
+ "title": "L'hypothèse et la condition",
+ "module": "grammaire",
+ "order": 20,
+ "level": "B1",
+ "lesson": "## Les trois structures avec si\n- **Hypothèse réalisable (potentiel)** : si + **présent** → **présent, futur ou impératif**\n  *Si tu as le temps, viens / tu viendras dîner.*\n- **Hypothèse irréelle du présent** : si + **imparfait** → **conditionnel présent**\n  *Si j'avais une voiture, je partirais à la campagne.*\n- **Hypothèse irréelle du passé** : si + **plus-que-parfait** → **conditionnel passé**\n  *Si j'avais su, je serais venu.*\n- **Hypothèses mixtes** : *Si j'avais accepté ce poste (passé), je vivrais à Paris aujourd'hui (présent).*\n\n## Règle d'or\n**Jamais de futur ni de conditionnel immédiatement après si** (quand il exprime une condition) : ~~si j'aurais~~, ~~si je serai~~.\nAttention : *si* de l'interrogation indirecte accepte le futur : *Je me demande s'il viendra.*\n\n## Autres façons d'exprimer la condition\n- **au cas où / dans le cas où** + **conditionnel** : *Au cas où il pleuvrait, la fête aura lieu à l'intérieur.*\n- **à condition que, pourvu que, à moins que** + **subjonctif** : *J'accepte, à condition que vous m'aidiez.*\n- **à condition de, à moins de** + **infinitif** (même sujet) : *Tu réussiras à condition de travailler.*\n- **en cas de** + nom : *En cas d'urgence, appelez le 112.*\n- **avec, sans** + nom : *Sans ton aide, je n'y serais pas arrivé.*\n- **gérondif** : *En partant plus tôt, tu éviterais les bouchons.*\n- **même si** + indicatif (concession) : *Même si c'est difficile, je continue.*\n- **sinon** : *Dépêche-toi, sinon tu vas rater le bus.*",
+ "simple_examples": [
+  "Si tu viens, on ira au cinéma.",
+  "Si j'étais toi, j'accepterais.",
+  "Si j'avais su, je ne serais pas venu.",
+  "En cas de problème, appelle-moi."
+ ],
+ "b2_examples": [
+  "Si les pouvoirs publics investissaient davantage dans la prévention, les dépenses de santé diminueraient à long terme.",
+  "Au cas où la réunion serait annulée, vous en seriez informé par courriel.",
+  "Si l'entreprise avait écouté ses salariés, elle n'aurait pas connu une telle grève.",
+  "Ce projet pourrait aboutir, à condition que tous les partenaires acceptent de faire des concessions."
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "exercises": [
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Demain, nous ___ (aller) au musée.",
+   "options": null,
+   "answer": "irons",
+   "explanation": "« Aller » a un radical irrégulier au futur : ir- → nous irons."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Tu ___ (avoir) les résultats la semaine prochaine.",
+   "options": null,
+   "answer": "auras",
+   "explanation": "« Avoir » → radical aur- : tu auras."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Je ___ (faire) la vaisselle après le repas.",
+   "options": null,
+   "answer": "ferai",
+   "explanation": "« Faire » → radical fer- : je ferai."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "A2",
+   "prompt": "« Attention, tu ___ tomber ! » (action imminente)",
+   "options": [
+    "vas",
+    "iras",
+    "allais",
+    "es allé"
+   ],
+   "answer": "vas",
+   "explanation": "Pour un danger immédiat, on utilise le futur proche : aller au présent + infinitif → tu vas tomber."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Quand tu ___ (arriver), appelle-moi.",
+   "options": null,
+   "answer": "arriveras",
+   "explanation": "Après « quand » renvoyant au futur, le français utilise le futur, pas le présent comme en anglais : quand tu arriveras."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Il ___ (falloir) remplir ce formulaire avant lundi.",
+   "options": null,
+   "answer": "faudra",
+   "explanation": "« Falloir » est impersonnel et irrégulier : il faudra."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Nous vous ___ (envoyer) la facture par courriel.",
+   "options": null,
+   "answer": "enverrons",
+   "explanation": "« Envoyer » a un radical irrégulier au futur : enverr- → nous enverrons."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« Si tu travailles régulièrement, tu ___ ton examen. »",
+   "options": [
+    "réussiras",
+    "réussirais",
+    "réussis",
+    "aurais réussi"
+   ],
+   "answer": "réussiras",
+   "explanation": "Hypothèse réalisable : si + présent, futur dans la principale."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Ils ___ (pouvoir) s'inscrire en ligne dès lundi.",
+   "options": null,
+   "answer": "pourront",
+   "explanation": "« Pouvoir » → radical pourr- (deux r) : ils pourront."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Je vous ___ (rappeler) dès que j'aurai les informations.",
+   "options": null,
+   "answer": "rappellerai",
+   "explanation": "« Rappeler » double le l devant un e muet, y compris au futur : je rappellerai."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Choisissez la phrase correcte.",
+   "options": [
+    "Lorsque vous recevrez votre carte, vous devrez l'activer.",
+    "Lorsque vous recevez votre carte, vous devrez l'activer.",
+    "Lorsque vous recevrez votre carte, vous deviez l'activer.",
+    "Lorsque vous receverez votre carte, vous devrez l'activer."
+   ],
+   "answer": "Lorsque vous recevrez votre carte, vous devrez l'activer.",
+   "explanation": "Après « lorsque » à valeur future, futur simple. « Recevoir » a pour radical « recevr- » : vous recevrez."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Selon les prévisions, il ___ (pleuvoir) sur tout le nord du pays.",
+   "options": null,
+   "answer": "pleuvra",
+   "explanation": "« Pleuvoir » → il pleuvra. Le futur exprime ici une prévision."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Transformez en ordre poli au futur : « Remettez ce dossier au secrétariat. »",
+   "options": null,
+   "answer": "Vous remettrez ce dossier au secrétariat.|vous remettrez ce dossier au secrétariat",
+   "explanation": "Le futur simple peut remplacer l'impératif pour formuler une consigne de manière plus courtoise, notamment dans un contexte administratif."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Les candidats ___ (s'asseoir) à la place indiquée sur leur convocation.",
+   "options": null,
+   "answer": "s'assiéront|s'assoiront|s'assieront",
+   "explanation": "« S'asseoir » a deux conjugaisons admises au futur : ils s'assiéront (ou s'assieront) et ils s'assoiront."
+  }
+ ],
+ "slug": "futur-simple",
+ "title": "Le futur simple et le futur proche",
+ "module": "conjugaison",
+ "order": 5,
+ "level": "A2",
+ "lesson": "## Formation du futur simple\n**Infinitif + -ai, -as, -a, -ons, -ez, -ont**.\n*parler → je parlerai ; finir → nous finirons*\nLes verbes en **-re** perdent le e final : *prendre → je prendrai*.\n\n## Radicaux irréguliers à connaître\n- être → ser- ; avoir → aur- ; aller → ir- ; faire → fer-\n- pouvoir → pourr- ; vouloir → voudr- ; devoir → devr- ; savoir → saur-\n- venir → viendr- ; tenir → tiendr- ; voir → verr- ; envoyer → enverr-\n- courir → courr- ; mourir → mourr- ; falloir → il faudra ; pleuvoir → il pleuvra\n- recevoir → recevr- ; s'asseoir → assiér- ou assoir-\nVerbes du 1er groupe à particularité : *j'appellerai, je jetterai, j'achèterai, je paierai, j'emploierai*.\n\n## Futur simple ou futur proche ?\n- **Futur proche** (aller au présent + infinitif) : action imminente ou décidée, souvent à l'oral : *Je vais déménager le mois prochain.*\n- **Futur simple** : projection plus lointaine, prévision, promesse, registre plus soutenu : *Un jour, je vivrai au bord de la mer. Les travaux dureront deux ans.*\n\n## Emplois du futur simple\n- prévision : *Il fera beau demain.*\n- promesse ou engagement : *Je t'appellerai dès mon arrivée.*\n- ordre atténué : *Vous remettrez ce formulaire à l'accueil.*\n- dans une hypothèse : **si + présent → futur** : *Si tu viens, nous irons au musée.*\n\n## Attention après quand, dès que, lorsque, aussitôt que\nEn français, on utilise le **futur** (et non le présent) dans la subordonnée de temps qui renvoie à l'avenir : *Quand j'aurai le temps, je t'écrirai.*",
+ "simple_examples": [
+  "Demain, je travaillerai à la maison.",
+  "Nous irons en vacances en juillet.",
+  "Il pleuvra cet après-midi.",
+  "Je vais appeler le médecin."
+ ],
+ "b2_examples": [
+  "Dès que les résultats seront publiés, nous pourrons ajuster notre stratégie.",
+  "D'ici à 2040, la population de plus de 75 ans aura presque doublé, ce qui exigera une adaptation des services publics.",
+  "Si la ville ne réagit pas, les commerces de proximité disparaîtront progressivement.",
+  "Vous voudrez bien nous faire parvenir les pièces justificatives avant la fin du mois."
+ ]
+}

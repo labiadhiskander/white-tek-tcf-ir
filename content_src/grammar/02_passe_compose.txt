@@ -1,0 +1,96 @@
+@slug passe-compose
+@title Le passé composé
+@module conjugaison
+@order 2
+@level A2
+## COURS
+## Formation
+Le passé composé se forme avec l'**auxiliaire avoir ou être au présent** + le **participe passé** du verbe.
+*J'ai mangé. Elle est partie.*
+
+## Le choix de l'auxiliaire
+### Avec être
+- les verbes pronominaux : *se lever, s'inscrire, se rendre compte* → *Je me suis inscrit.*
+- une quinzaine de verbes de mouvement ou de changement d'état : naître, mourir, aller, venir, arriver, partir, entrer, sortir, monter, descendre, passer, retourner, rester, tomber, devenir, revenir, rentrer.
+### Avec avoir
+- tous les autres verbes, y compris *être* et *avoir* eux-mêmes : *J'ai été malade. J'ai eu de la chance.*
+### Cas particulier
+Monter, descendre, sortir, rentrer, passer, retourner prennent **avoir** quand ils ont un complément d'objet direct : *Elle est sortie.* / *Elle a sorti la poubelle.*
+
+## Les participes passés
+- 1er groupe : -é (*parlé*)
+- 2e groupe : -i (*fini*)
+- 3e groupe, à mémoriser : pris, mis, fait, dit, écrit, vu, lu, bu, su, pu, voulu, dû, eu, été, ouvert, offert, venu, tenu, né, mort, reçu, connu, vécu, suivi, craint, peint, joint.
+
+## Les accords
+- Avec **être**, le participe s'accorde avec le sujet : *Elles sont arrivées.*
+- Avec **avoir**, le participe ne s'accorde pas avec le sujet, mais avec le **COD placé avant** : *Les lettres que j'ai écrites. Je les ai envoyées.*
+- Verbes pronominaux : accord avec le sujet si le pronom est COD (*elle s'est lavée*), pas d'accord si le pronom est COI (*elles se sont téléphoné*) ou si un COD suit (*elle s'est lavé les mains*).
+
+## Valeur
+Le passé composé exprime une **action ponctuelle et terminée** dans le passé, souvent avec une date ou une durée limitée : *Hier, j'ai passé un entretien. J'ai vécu deux ans à Dakar.*
+## SIMPLES
+- Hier, j'ai téléphoné à ma mère.
+- Nous sommes allés au cinéma samedi.
+- Elle a fini son travail à dix-huit heures.
+- Ils se sont levés tôt.
+## B2
+- Les mesures que le conseil municipal a adoptées ont été largement contestées.
+- Dès qu'elle s'est rendu compte de son erreur, elle a présenté ses excuses.
+- Nous avons longtemps hésité avant de déménager, puis nous avons sauté le pas.
+- Plusieurs habitants sont descendus dans la rue pour protester contre la fermeture de l'hôpital.
+## EXERCICES
+TROU | A2 | Hier, nous ___ (aller) au marché.
+> sommes allés|sommes allées
+= « Aller » fait partie des verbes de mouvement conjugués avec « être ». Le participe s'accorde avec le sujet « nous » : allés (masculin ou groupe mixte) ou allées (féminin).
+TROU | A2 | J'___ (prendre) le métro ce matin.
+> ai pris
+= « Prendre » se conjugue avec « avoir » et son participe passé est irrégulier : pris.
+TROU | A2 | Elle ___ (naître) en 1995.
+> est née
+= « Naître » se conjugue avec « être » ; le participe « né » s'accorde avec le sujet féminin : née.
+QCM | A2 | Choisissez la bonne forme : « Ils ___ un long message. »
+* ont écrit
+- sont écrits
+- ont écrits
+- ont écri
+= « Écrire » se conjugue avec « avoir » et son participe est « écrit ». Avec « avoir », pas d'accord avec le sujet.
+TROU | B1 | Elle ___ (sortir) la voiture du garage.
+> a sorti
+= Quand « sortir » a un complément d'objet direct (la voiture), il se conjugue avec « avoir » et le participe ne s'accorde pas avec le sujet : elle a sorti la voiture.
+TROU | B1 | Les photos que tu as ___ (prendre) sont superbes.
+> prises
+= Avec « avoir », le participe s'accorde avec le COD placé avant le verbe. Ici le COD est « que », qui remplace « les photos » (féminin pluriel) : prises.
+TROU | B1 | Elles se ___ (inscrire) à la formation en ligne.
+> sont inscrites
+= Les verbes pronominaux se conjuguent avec « être ». Le pronom « se » est COD (elles ont inscrit elles-mêmes), donc accord avec le sujet : inscrites.
+QCM | B1 | Quelle phrase est correcte ?
+* Nous avons été surpris par la nouvelle.
+- Nous sommes été surpris par la nouvelle.
+- Nous avons étés surpris par la nouvelle.
+- Nous sommes étés surpris par la nouvelle.
+= Le verbe « être » se conjugue avec l'auxiliaire « avoir » au passé composé : nous avons été. Le participe « été » est invariable.
+TROU | B1 | Vous ___ (devoir) attendre longtemps ?
+> avez dû
+= « Devoir » a pour participe « dû », avec un accent circonflexe au masculin singulier pour le distinguer de l'article « du ».
+TRANS | B2 | Remplacez le COD par un pronom : « J'ai envoyé les candidatures. »
+> Je les ai envoyées.|je les ai envoyées
+= « Les candidatures » devient « les », placé avant l'auxiliaire. Le COD est désormais placé avant le verbe : le participe s'accorde au féminin pluriel (envoyées).
+QCM | B2 | Choisissez la phrase correcte.
+* Elles se sont téléphoné hier soir.
+- Elles se sont téléphonées hier soir.
+- Elles s'ont téléphoné hier soir.
+- Elles se sont téléphonés hier soir.
+= On téléphone « à » quelqu'un : le pronom « se » est COI. Il n'y a donc pas d'accord : elles se sont téléphoné.
+TROU | B2 | Elle s'est ___ (laver) les mains avant de cuisiner.
+> lavé
+= Le COD est « les mains », placé après le verbe ; le pronom « se » est COI (elle a lavé les mains à elle-même). Le participe ne s'accorde donc pas : lavé.
+TROU | B2 | Les difficultés que nous avons ___ (rencontrer) nous ont fait progresser.
+> rencontrées
+= Le COD « que » remplace « les difficultés » (féminin pluriel) et se trouve avant l'auxiliaire « avoir » : rencontrées.
+QCM | B2 | « Combien de dossiers as-tu ___ cette semaine ? »
+* traités
+- traité
+- traitée
+- traitées
+= Dans une interrogation avec « combien de + nom », le COD (combien de dossiers) précède le verbe : le participe s'accorde au masculin pluriel.

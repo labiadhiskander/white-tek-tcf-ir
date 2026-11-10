@@ -1,0 +1,1993 @@
+[
+ {
+  "week": 1,
+  "day": 1,
+  "focus": "Grammaire : Le présent de l'indicatif",
+  "activities": [
+   {
+    "minutes": 35,
+    "module": "Grammaire",
+    "description": "Lire le cours « Le présent de l'indicatif » et faire les exercices corrigés"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement : 10 questions de niveau B1"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Apprendre 10 expressions « Donner son opinion »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 1,
+  "day": 2,
+  "focus": "Lecture et écriture",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions de niveau B1"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger la tâche 1 (message de 60 mots) puis comparer au modèle"
+   },
+   {
+    "minutes": 10,
+    "module": "Vocabulaire",
+    "description": "Révision espacée des cartes du jour"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 1,
+  "day": 3,
+  "focus": "Grammaire : Le passé composé",
+  "activities": [
+   {
+    "minutes": 30,
+    "module": "Grammaire",
+    "description": "Exercices : Le passé composé"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement en correction immédiate : 10 questions"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "S'enregistrer sur la tâche 1 (entretien dirigé)"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 1,
+  "day": 4,
+  "focus": "Argumentation",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions (documents longs)"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger un texte argumentatif en réutilisant 5 connecteurs"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Connecteurs logiques : 10 exemples et exercice de réutilisation"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 1,
+  "day": 5,
+  "focus": "Oral et conversation",
+  "activities": [
+   {
+    "minutes": 15,
+    "module": "Conjugaison",
+    "description": "Quiz de conjugaison sur les temps de la semaine"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "Simulation chronométrée : tâche 1 (entretien dirigé)"
+   },
+   {
+    "minutes": 25,
+    "module": "Professeur IA",
+    "description": "Conversation sur le thème « Diagnostic et bases du présent »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 1,
+  "day": 6,
+  "focus": "Examen blanc n° 1 (complet)",
+  "activities": [
+   {
+    "minutes": 120,
+    "module": "Examen blanc",
+    "description": "Passer l'examen blanc n° 1 en mode examen, les quatre épreuves"
+   }
+  ],
+  "is_mock_exam": "n° 1 (complet)",
+  "is_review": false
+ },
+ {
+  "week": 1,
+  "day": 7,
+  "focus": "Bilan de la semaine",
+  "activities": [
+   {
+    "minutes": 20,
+    "module": "Historique",
+    "description": "Analyser les résultats et les erreurs de l'examen blanc"
+   },
+   {
+    "minutes": 20,
+    "module": "Grammaire",
+    "description": "Refaire les exercices échoués de la semaine"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Révision espacée : toutes les cartes dues"
+   },
+   {
+    "minutes": 5,
+    "module": "Tableau de bord",
+    "description": "Vérifier les alertes et les compétences sous B2"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": true
+ },
+ {
+  "week": 2,
+  "day": 1,
+  "focus": "Grammaire : L'imparfait et son emploi avec le passé composé",
+  "activities": [
+   {
+    "minutes": 35,
+    "module": "Grammaire",
+    "description": "Lire le cours « L'imparfait et son emploi avec le passé composé » et faire les exercices corrigés"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement : 10 questions de niveau B1"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Apprendre 10 expressions « Argumenter »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 2,
+  "day": 2,
+  "focus": "Lecture et écriture",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions de niveau B1"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger la tâche 2 (article de 90 mots) puis comparer au modèle"
+   },
+   {
+    "minutes": 10,
+    "module": "Vocabulaire",
+    "description": "Révision espacée des cartes du jour"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 2,
+  "day": 3,
+  "focus": "Grammaire : Les articles",
+  "activities": [
+   {
+    "minutes": 30,
+    "module": "Grammaire",
+    "description": "Exercices : Les articles"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement en correction immédiate : 10 questions"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "S'enregistrer sur la tâche 2 (interaction)"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 2,
+  "day": 4,
+  "focus": "Argumentation",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions (documents longs)"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger un texte argumentatif en réutilisant 5 connecteurs"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Connecteurs logiques : 10 exemples et exercice de réutilisation"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 2,
+  "day": 5,
+  "focus": "Oral et conversation",
+  "activities": [
+   {
+    "minutes": 15,
+    "module": "Conjugaison",
+    "description": "Quiz de conjugaison sur les temps de la semaine"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "Simulation chronométrée : tâche 2 (interaction)"
+   },
+   {
+    "minutes": 25,
+    "module": "Professeur IA",
+    "description": "Conversation sur le thème « Raconter au passé »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 2,
+  "day": 6,
+  "focus": "Examen blanc n° 2 (partiel)",
+  "activities": [
+   {
+    "minutes": 55,
+    "module": "Examen blanc",
+    "description": "Examen blanc n° 2 : compréhension orale et écrite"
+   },
+   {
+    "minutes": 30,
+    "module": "Examen blanc",
+    "description": "Examen blanc n° 2 : expression écrite"
+   }
+  ],
+  "is_mock_exam": "n° 2 (partiel)",
+  "is_review": false
+ },
+ {
+  "week": 2,
+  "day": 7,
+  "focus": "Bilan de la semaine",
+  "activities": [
+   {
+    "minutes": 20,
+    "module": "Historique",
+    "description": "Analyser les résultats et les erreurs de l'examen blanc"
+   },
+   {
+    "minutes": 20,
+    "module": "Grammaire",
+    "description": "Refaire les exercices échoués de la semaine"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Révision espacée : toutes les cartes dues"
+   },
+   {
+    "minutes": 5,
+    "module": "Tableau de bord",
+    "description": "Vérifier les alertes et les compétences sous B2"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": true
+ },
+ {
+  "week": 3,
+  "day": 1,
+  "focus": "Grammaire : Le plus-que-parfait",
+  "activities": [
+   {
+    "minutes": 35,
+    "module": "Grammaire",
+    "description": "Lire le cours « Le plus-que-parfait » et faire les exercices corrigés"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement : 10 questions de niveau B1"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Apprendre 10 expressions « Exprimer une opposition »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 3,
+  "day": 2,
+  "focus": "Lecture et écriture",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions de niveau B1"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger la tâche 3 (texte argumentatif de 90 mots) puis comparer au modèle"
+   },
+   {
+    "minutes": 10,
+    "module": "Vocabulaire",
+    "description": "Révision espacée des cartes du jour"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 3,
+  "day": 3,
+  "focus": "Grammaire : Le futur simple et le futur proche",
+  "activities": [
+   {
+    "minutes": 30,
+    "module": "Grammaire",
+    "description": "Exercices : Le futur simple et le futur proche"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement en correction immédiate : 10 questions"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "S'enregistrer sur la tâche 3 (point de vue argumenté)"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 3,
+  "day": 4,
+  "focus": "Argumentation",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions (documents longs)"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger un texte argumentatif en réutilisant 5 connecteurs"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Connecteurs logiques : 10 exemples et exercice de réutilisation"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 3,
+  "day": 5,
+  "focus": "Oral et conversation",
+  "activities": [
+   {
+    "minutes": 15,
+    "module": "Conjugaison",
+    "description": "Quiz de conjugaison sur les temps de la semaine"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "Simulation chronométrée : tâche 3 (point de vue argumenté)"
+   },
+   {
+    "minutes": 25,
+    "module": "Professeur IA",
+    "description": "Conversation sur le thème « Situer dans le temps »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 3,
+  "day": 6,
+  "focus": "Examen blanc n° 3 (partiel)",
+  "activities": [
+   {
+    "minutes": 55,
+    "module": "Examen blanc",
+    "description": "Examen blanc n° 3 : compréhension orale et écrite"
+   },
+   {
+    "minutes": 30,
+    "module": "Examen blanc",
+    "description": "Examen blanc n° 3 : expression écrite"
+   }
+  ],
+  "is_mock_exam": "n° 3 (partiel)",
+  "is_review": false
+ },
+ {
+  "week": 3,
+  "day": 7,
+  "focus": "Bilan de la semaine",
+  "activities": [
+   {
+    "minutes": 20,
+    "module": "Historique",
+    "description": "Analyser les résultats et les erreurs de l'examen blanc"
+   },
+   {
+    "minutes": 20,
+    "module": "Grammaire",
+    "description": "Refaire les exercices échoués de la semaine"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Révision espacée : toutes les cartes dues"
+   },
+   {
+    "minutes": 5,
+    "module": "Tableau de bord",
+    "description": "Vérifier les alertes et les compétences sous B2"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": true
+ },
+ {
+  "week": 4,
+  "day": 1,
+  "focus": "Grammaire : Le futur antérieur",
+  "activities": [
+   {
+    "minutes": 35,
+    "module": "Grammaire",
+    "description": "Lire le cours « Le futur antérieur » et faire les exercices corrigés"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement : 10 questions de niveau B1"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Apprendre 10 expressions « Exprimer une conséquence »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 4,
+  "day": 2,
+  "focus": "Lecture et écriture",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions de niveau B1"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger la tâche 1 (message de 60 mots) puis comparer au modèle"
+   },
+   {
+    "minutes": 10,
+    "module": "Vocabulaire",
+    "description": "Révision espacée des cartes du jour"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 4,
+  "day": 3,
+  "focus": "Grammaire : Les pronoms personnels",
+  "activities": [
+   {
+    "minutes": 30,
+    "module": "Grammaire",
+    "description": "Exercices : Les pronoms personnels"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement en correction immédiate : 10 questions"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "S'enregistrer sur la tâche 1 (entretien dirigé)"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 4,
+  "day": 4,
+  "focus": "Argumentation",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions (documents longs)"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger un texte argumentatif en réutilisant 5 connecteurs"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Connecteurs logiques : 10 exemples et exercice de réutilisation"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 4,
+  "day": 5,
+  "focus": "Oral et conversation",
+  "activities": [
+   {
+    "minutes": 15,
+    "module": "Conjugaison",
+    "description": "Quiz de conjugaison sur les temps de la semaine"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "Simulation chronométrée : tâche 1 (entretien dirigé)"
+   },
+   {
+    "minutes": 25,
+    "module": "Professeur IA",
+    "description": "Conversation sur le thème « Projets et anticipation »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 4,
+  "day": 6,
+  "focus": "Examen blanc n° 4 (complet)",
+  "activities": [
+   {
+    "minutes": 120,
+    "module": "Examen blanc",
+    "description": "Passer l'examen blanc n° 4 en mode examen, les quatre épreuves"
+   }
+  ],
+  "is_mock_exam": "n° 4 (complet)",
+  "is_review": false
+ },
+ {
+  "week": 4,
+  "day": 7,
+  "focus": "Bilan de la semaine",
+  "activities": [
+   {
+    "minutes": 20,
+    "module": "Historique",
+    "description": "Analyser les résultats et les erreurs de l'examen blanc"
+   },
+   {
+    "minutes": 20,
+    "module": "Grammaire",
+    "description": "Refaire les exercices échoués de la semaine"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Révision espacée : toutes les cartes dues"
+   },
+   {
+    "minutes": 5,
+    "module": "Tableau de bord",
+    "description": "Vérifier les alertes et les compétences sous B2"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": true
+ },
+ {
+  "week": 5,
+  "day": 1,
+  "focus": "Grammaire : Le conditionnel présent et passé",
+  "activities": [
+   {
+    "minutes": 35,
+    "module": "Grammaire",
+    "description": "Lire le cours « Le conditionnel présent et passé » et faire les exercices corrigés"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement : 10 questions de niveau B2"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Apprendre 10 expressions « Nuancer son opinion »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 5,
+  "day": 2,
+  "focus": "Lecture et écriture",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions de niveau B2"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger la tâche 2 (article de 90 mots) puis comparer au modèle"
+   },
+   {
+    "minutes": 10,
+    "module": "Vocabulaire",
+    "description": "Révision espacée des cartes du jour"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 5,
+  "day": 3,
+  "focus": "Grammaire : L'hypothèse et la condition",
+  "activities": [
+   {
+    "minutes": 30,
+    "module": "Grammaire",
+    "description": "Exercices : L'hypothèse et la condition"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement en correction immédiate : 10 questions"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "S'enregistrer sur la tâche 2 (interaction)"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 5,
+  "day": 4,
+  "focus": "Argumentation",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions (documents longs)"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger un texte argumentatif en réutilisant 5 connecteurs"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Connecteurs logiques : 10 exemples et exercice de réutilisation"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 5,
+  "day": 5,
+  "focus": "Oral et conversation",
+  "activities": [
+   {
+    "minutes": 15,
+    "module": "Conjugaison",
+    "description": "Quiz de conjugaison sur les temps de la semaine"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "Simulation chronométrée : tâche 2 (interaction)"
+   },
+   {
+    "minutes": 25,
+    "module": "Professeur IA",
+    "description": "Conversation sur le thème « Hypothèses et souhaits »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 5,
+  "day": 6,
+  "focus": "Examen blanc n° 5 (partiel)",
+  "activities": [
+   {
+    "minutes": 55,
+    "module": "Examen blanc",
+    "description": "Examen blanc n° 5 : compréhension orale et écrite"
+   },
+   {
+    "minutes": 30,
+    "module": "Examen blanc",
+    "description": "Examen blanc n° 5 : expression écrite"
+   }
+  ],
+  "is_mock_exam": "n° 5 (partiel)",
+  "is_review": false
+ },
+ {
+  "week": 5,
+  "day": 7,
+  "focus": "Bilan de la semaine",
+  "activities": [
+   {
+    "minutes": 20,
+    "module": "Historique",
+    "description": "Analyser les résultats et les erreurs de l'examen blanc"
+   },
+   {
+    "minutes": 20,
+    "module": "Grammaire",
+    "description": "Refaire les exercices échoués de la semaine"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Révision espacée : toutes les cartes dues"
+   },
+   {
+    "minutes": 5,
+    "module": "Tableau de bord",
+    "description": "Vérifier les alertes et les compétences sous B2"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": true
+ },
+ {
+  "week": 6,
+  "day": 1,
+  "focus": "Grammaire : Le subjonctif présent et passé",
+  "activities": [
+   {
+    "minutes": 35,
+    "module": "Grammaire",
+    "description": "Lire le cours « Le subjonctif présent et passé » et faire les exercices corrigés"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement : 10 questions de niveau B2"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Apprendre 10 expressions « Conclure »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 6,
+  "day": 2,
+  "focus": "Lecture et écriture",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions de niveau B2"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger la tâche 3 (texte argumentatif de 90 mots) puis comparer au modèle"
+   },
+   {
+    "minutes": 10,
+    "module": "Vocabulaire",
+    "description": "Révision espacée des cartes du jour"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 6,
+  "day": 3,
+  "focus": "Grammaire : Le subjonctif présent et passé",
+  "activities": [
+   {
+    "minutes": 30,
+    "module": "Conjugaison",
+    "description": "Quiz de conjugaison (20 formes)"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement en correction immédiate : 10 questions"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "S'enregistrer sur la tâche 3 (point de vue argumenté)"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 6,
+  "day": 4,
+  "focus": "Argumentation",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions (documents longs)"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger un texte argumentatif en réutilisant 5 connecteurs"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Connecteurs logiques : 10 exemples et exercice de réutilisation"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 6,
+  "day": 5,
+  "focus": "Oral et conversation",
+  "activities": [
+   {
+    "minutes": 15,
+    "module": "Conjugaison",
+    "description": "Quiz de conjugaison sur les temps de la semaine"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "Simulation chronométrée : tâche 3 (point de vue argumenté)"
+   },
+   {
+    "minutes": 25,
+    "module": "Professeur IA",
+    "description": "Conversation sur le thème « Exprimer la nécessité et les sentiments »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 6,
+  "day": 6,
+  "focus": "Examen blanc n° 6 (partiel)",
+  "activities": [
+   {
+    "minutes": 55,
+    "module": "Examen blanc",
+    "description": "Examen blanc n° 6 : compréhension orale et écrite"
+   },
+   {
+    "minutes": 30,
+    "module": "Examen blanc",
+    "description": "Examen blanc n° 6 : expression écrite"
+   }
+  ],
+  "is_mock_exam": "n° 6 (partiel)",
+  "is_review": false
+ },
+ {
+  "week": 6,
+  "day": 7,
+  "focus": "Bilan de la semaine",
+  "activities": [
+   {
+    "minutes": 20,
+    "module": "Historique",
+    "description": "Analyser les résultats et les erreurs de l'examen blanc"
+   },
+   {
+    "minutes": 20,
+    "module": "Grammaire",
+    "description": "Refaire les exercices échoués de la semaine"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Révision espacée : toutes les cartes dues"
+   },
+   {
+    "minutes": 5,
+    "module": "Tableau de bord",
+    "description": "Vérifier les alertes et les compétences sous B2"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": true
+ },
+ {
+  "week": 7,
+  "day": 1,
+  "focus": "Grammaire : Les pronoms relatifs simples et composés",
+  "activities": [
+   {
+    "minutes": 35,
+    "module": "Grammaire",
+    "description": "Lire le cours « Les pronoms relatifs simples et composés » et faire les exercices corrigés"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement : 10 questions de niveau B2"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Apprendre 10 expressions « Argumenter »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 7,
+  "day": 2,
+  "focus": "Lecture et écriture",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions de niveau B2"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger la tâche 1 (message de 60 mots) puis comparer au modèle"
+   },
+   {
+    "minutes": 10,
+    "module": "Vocabulaire",
+    "description": "Révision espacée des cartes du jour"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 7,
+  "day": 3,
+  "focus": "Grammaire : Les accords",
+  "activities": [
+   {
+    "minutes": 30,
+    "module": "Grammaire",
+    "description": "Exercices : Les accords"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement en correction immédiate : 10 questions"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "S'enregistrer sur la tâche 1 (entretien dirigé)"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 7,
+  "day": 4,
+  "focus": "Argumentation",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions (documents longs)"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger un texte argumentatif en réutilisant 5 connecteurs"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Connecteurs logiques : 10 exemples et exercice de réutilisation"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 7,
+  "day": 5,
+  "focus": "Oral et conversation",
+  "activities": [
+   {
+    "minutes": 15,
+    "module": "Conjugaison",
+    "description": "Quiz de conjugaison sur les temps de la semaine"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "Simulation chronométrée : tâche 1 (entretien dirigé)"
+   },
+   {
+    "minutes": 25,
+    "module": "Professeur IA",
+    "description": "Conversation sur le thème « Enrichir ses phrases »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 7,
+  "day": 6,
+  "focus": "Examen blanc n° 7 (partiel)",
+  "activities": [
+   {
+    "minutes": 55,
+    "module": "Examen blanc",
+    "description": "Examen blanc n° 7 : compréhension orale et écrite"
+   },
+   {
+    "minutes": 30,
+    "module": "Examen blanc",
+    "description": "Examen blanc n° 7 : expression écrite"
+   }
+  ],
+  "is_mock_exam": "n° 7 (partiel)",
+  "is_review": false
+ },
+ {
+  "week": 7,
+  "day": 7,
+  "focus": "Bilan de la semaine",
+  "activities": [
+   {
+    "minutes": 20,
+    "module": "Historique",
+    "description": "Analyser les résultats et les erreurs de l'examen blanc"
+   },
+   {
+    "minutes": 20,
+    "module": "Grammaire",
+    "description": "Refaire les exercices échoués de la semaine"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Révision espacée : toutes les cartes dues"
+   },
+   {
+    "minutes": 5,
+    "module": "Tableau de bord",
+    "description": "Vérifier les alertes et les compétences sous B2"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": true
+ },
+ {
+  "week": 8,
+  "day": 1,
+  "focus": "Grammaire : La voix passive",
+  "activities": [
+   {
+    "minutes": 35,
+    "module": "Grammaire",
+    "description": "Lire le cours « La voix passive » et faire les exercices corrigés"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement : 10 questions de niveau B2"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Apprendre 10 expressions « Exprimer une opposition »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 8,
+  "day": 2,
+  "focus": "Lecture et écriture",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions de niveau B2"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger la tâche 2 (article de 90 mots) puis comparer au modèle"
+   },
+   {
+    "minutes": 10,
+    "module": "Vocabulaire",
+    "description": "Révision espacée des cartes du jour"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 8,
+  "day": 3,
+  "focus": "Grammaire : Le discours direct et indirect",
+  "activities": [
+   {
+    "minutes": 30,
+    "module": "Grammaire",
+    "description": "Exercices : Le discours direct et indirect"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement en correction immédiate : 10 questions"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "S'enregistrer sur la tâche 2 (interaction)"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 8,
+  "day": 4,
+  "focus": "Argumentation",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions (documents longs)"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger un texte argumentatif en réutilisant 5 connecteurs"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Connecteurs logiques : 10 exemples et exercice de réutilisation"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 8,
+  "day": 5,
+  "focus": "Oral et conversation",
+  "activities": [
+   {
+    "minutes": 15,
+    "module": "Conjugaison",
+    "description": "Quiz de conjugaison sur les temps de la semaine"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "Simulation chronométrée : tâche 2 (interaction)"
+   },
+   {
+    "minutes": 25,
+    "module": "Professeur IA",
+    "description": "Conversation sur le thème « Rapporter et objectiver »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 8,
+  "day": 6,
+  "focus": "Examen blanc n° 8 (complet)",
+  "activities": [
+   {
+    "minutes": 120,
+    "module": "Examen blanc",
+    "description": "Passer l'examen blanc n° 8 en mode examen, les quatre épreuves"
+   }
+  ],
+  "is_mock_exam": "n° 8 (complet)",
+  "is_review": false
+ },
+ {
+  "week": 8,
+  "day": 7,
+  "focus": "Bilan de la semaine",
+  "activities": [
+   {
+    "minutes": 20,
+    "module": "Historique",
+    "description": "Analyser les résultats et les erreurs de l'examen blanc"
+   },
+   {
+    "minutes": 20,
+    "module": "Grammaire",
+    "description": "Refaire les exercices échoués de la semaine"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Révision espacée : toutes les cartes dues"
+   },
+   {
+    "minutes": 5,
+    "module": "Tableau de bord",
+    "description": "Vérifier les alertes et les compétences sous B2"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": true
+ },
+ {
+  "week": 9,
+  "day": 1,
+  "focus": "Grammaire : Les adjectifs",
+  "activities": [
+   {
+    "minutes": 35,
+    "module": "Grammaire",
+    "description": "Lire le cours « Les adjectifs » et faire les exercices corrigés"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement : 10 questions de niveau B2"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Apprendre 10 expressions « Nuancer son opinion »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 9,
+  "day": 2,
+  "focus": "Lecture et écriture",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions de niveau B2"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger la tâche 3 (texte argumentatif de 90 mots) puis comparer au modèle"
+   },
+   {
+    "minutes": 10,
+    "module": "Vocabulaire",
+    "description": "Révision espacée des cartes du jour"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 9,
+  "day": 3,
+  "focus": "Grammaire : Les adverbes",
+  "activities": [
+   {
+    "minutes": 30,
+    "module": "Grammaire",
+    "description": "Exercices : Les adverbes"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement en correction immédiate : 10 questions"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "S'enregistrer sur la tâche 3 (point de vue argumenté)"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 9,
+  "day": 4,
+  "focus": "Argumentation",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions (documents longs)"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger un texte argumentatif en réutilisant 5 connecteurs"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Connecteurs logiques : 10 exemples et exercice de réutilisation"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 9,
+  "day": 5,
+  "focus": "Oral et conversation",
+  "activities": [
+   {
+    "minutes": 15,
+    "module": "Conjugaison",
+    "description": "Quiz de conjugaison sur les temps de la semaine"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "Simulation chronométrée : tâche 3 (point de vue argumenté)"
+   },
+   {
+    "minutes": 25,
+    "module": "Professeur IA",
+    "description": "Conversation sur le thème « Précision et style »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 9,
+  "day": 6,
+  "focus": "Examen blanc n° 9 (partiel)",
+  "activities": [
+   {
+    "minutes": 55,
+    "module": "Examen blanc",
+    "description": "Examen blanc n° 9 : compréhension orale et écrite"
+   },
+   {
+    "minutes": 30,
+    "module": "Examen blanc",
+    "description": "Examen blanc n° 9 : expression écrite"
+   }
+  ],
+  "is_mock_exam": "n° 9 (partiel)",
+  "is_review": false
+ },
+ {
+  "week": 9,
+  "day": 7,
+  "focus": "Bilan de la semaine",
+  "activities": [
+   {
+    "minutes": 20,
+    "module": "Historique",
+    "description": "Analyser les résultats et les erreurs de l'examen blanc"
+   },
+   {
+    "minutes": 20,
+    "module": "Grammaire",
+    "description": "Refaire les exercices échoués de la semaine"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Révision espacée : toutes les cartes dues"
+   },
+   {
+    "minutes": 5,
+    "module": "Tableau de bord",
+    "description": "Vérifier les alertes et les compétences sous B2"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": true
+ },
+ {
+  "week": 10,
+  "day": 1,
+  "focus": "Grammaire : Les phrases complexes",
+  "activities": [
+   {
+    "minutes": 35,
+    "module": "Grammaire",
+    "description": "Lire le cours « Les phrases complexes » et faire les exercices corrigés"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement : 10 questions de niveau B2"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Apprendre 10 expressions « Exprimer une conséquence »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 10,
+  "day": 2,
+  "focus": "Lecture et écriture",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions de niveau B2"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger la tâche 1 (message de 60 mots) puis comparer au modèle"
+   },
+   {
+    "minutes": 10,
+    "module": "Vocabulaire",
+    "description": "Révision espacée des cartes du jour"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 10,
+  "day": 3,
+  "focus": "Grammaire : La concordance des temps",
+  "activities": [
+   {
+    "minutes": 30,
+    "module": "Grammaire",
+    "description": "Exercices : La concordance des temps"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement en correction immédiate : 10 questions"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "S'enregistrer sur la tâche 1 (entretien dirigé)"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 10,
+  "day": 4,
+  "focus": "Argumentation",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions (documents longs)"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger un texte argumentatif en réutilisant 5 connecteurs"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Connecteurs logiques : 10 exemples et exercice de réutilisation"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 10,
+  "day": 5,
+  "focus": "Oral et conversation",
+  "activities": [
+   {
+    "minutes": 15,
+    "module": "Conjugaison",
+    "description": "Quiz de conjugaison sur les temps de la semaine"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "Simulation chronométrée : tâche 1 (entretien dirigé)"
+   },
+   {
+    "minutes": 25,
+    "module": "Professeur IA",
+    "description": "Conversation sur le thème « Phrases complexes de niveau B2 »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 10,
+  "day": 6,
+  "focus": "Examen blanc n° 10 (complet)",
+  "activities": [
+   {
+    "minutes": 120,
+    "module": "Examen blanc",
+    "description": "Passer l'examen blanc n° 10 en mode examen, les quatre épreuves"
+   }
+  ],
+  "is_mock_exam": "n° 10 (complet)",
+  "is_review": false
+ },
+ {
+  "week": 10,
+  "day": 7,
+  "focus": "Bilan de la semaine",
+  "activities": [
+   {
+    "minutes": 20,
+    "module": "Historique",
+    "description": "Analyser les résultats et les erreurs de l'examen blanc"
+   },
+   {
+    "minutes": 20,
+    "module": "Grammaire",
+    "description": "Refaire les exercices échoués de la semaine"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Révision espacée : toutes les cartes dues"
+   },
+   {
+    "minutes": 5,
+    "module": "Tableau de bord",
+    "description": "Vérifier les alertes et les compétences sous B2"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": true
+ },
+ {
+  "week": 11,
+  "day": 1,
+  "focus": "Grammaire : Les connecteurs logiques",
+  "activities": [
+   {
+    "minutes": 35,
+    "module": "Grammaire",
+    "description": "Lire le cours « Les connecteurs logiques » et faire les exercices corrigés"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement : 10 questions de niveau B2 et C1"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Apprendre 10 expressions « Conclure »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 11,
+  "day": 2,
+  "focus": "Lecture et écriture",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions de niveau B2 et C1"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger la tâche 2 (article de 90 mots) puis comparer au modèle"
+   },
+   {
+    "minutes": 10,
+    "module": "Vocabulaire",
+    "description": "Révision espacée des cartes du jour"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 11,
+  "day": 3,
+  "focus": "Grammaire : Les connecteurs logiques",
+  "activities": [
+   {
+    "minutes": 30,
+    "module": "Conjugaison",
+    "description": "Quiz de conjugaison (20 formes)"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement en correction immédiate : 10 questions"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "S'enregistrer sur la tâche 2 (interaction)"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 11,
+  "day": 4,
+  "focus": "Argumentation",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions (documents longs)"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger un texte argumentatif en réutilisant 5 connecteurs"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Connecteurs logiques : 10 exemples et exercice de réutilisation"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 11,
+  "day": 5,
+  "focus": "Oral et conversation",
+  "activities": [
+   {
+    "minutes": 15,
+    "module": "Conjugaison",
+    "description": "Quiz de conjugaison sur les temps de la semaine"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "Simulation chronométrée : tâche 2 (interaction)"
+   },
+   {
+    "minutes": 25,
+    "module": "Professeur IA",
+    "description": "Conversation sur le thème « Cohérence du discours »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 11,
+  "day": 6,
+  "focus": "Examen blanc n° 11 (complet)",
+  "activities": [
+   {
+    "minutes": 120,
+    "module": "Examen blanc",
+    "description": "Passer l'examen blanc n° 11 en mode examen, les quatre épreuves"
+   }
+  ],
+  "is_mock_exam": "n° 11 (complet)",
+  "is_review": false
+ },
+ {
+  "week": 11,
+  "day": 7,
+  "focus": "Bilan de la semaine",
+  "activities": [
+   {
+    "minutes": 20,
+    "module": "Historique",
+    "description": "Analyser les résultats et les erreurs de l'examen blanc"
+   },
+   {
+    "minutes": 20,
+    "module": "Grammaire",
+    "description": "Refaire les exercices échoués de la semaine"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Révision espacée : toutes les cartes dues"
+   },
+   {
+    "minutes": 5,
+    "module": "Tableau de bord",
+    "description": "Vérifier les alertes et les compétences sous B2"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": true
+ },
+ {
+  "week": 12,
+  "day": 1,
+  "focus": "Révision ciblée des points faibles",
+  "activities": [
+   {
+    "minutes": 35,
+    "module": "Grammaire",
+    "description": "Refaire les chapitres dont la maîtrise est inférieure à 70 %"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement : 10 questions de niveau B2 et C1"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Apprendre 10 expressions « Donner son opinion »"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 12,
+  "day": 2,
+  "focus": "Lecture et écriture",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions de niveau B2 et C1"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger la tâche 3 (texte argumentatif de 90 mots) puis comparer au modèle"
+   },
+   {
+    "minutes": 10,
+    "module": "Vocabulaire",
+    "description": "Révision espacée des cartes du jour"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 12,
+  "day": 3,
+  "focus": "Grammaire : Révision des chapitres les plus échoués",
+  "activities": [
+   {
+    "minutes": 30,
+    "module": "Conjugaison",
+    "description": "Quiz de conjugaison (20 formes)"
+   },
+   {
+    "minutes": 20,
+    "module": "Compréhension orale",
+    "description": "Entraînement en correction immédiate : 10 questions"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "S'enregistrer sur la tâche 3 (point de vue argumenté)"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 12,
+  "day": 4,
+  "focus": "Argumentation",
+  "activities": [
+   {
+    "minutes": 25,
+    "module": "Compréhension écrite",
+    "description": "Entraînement : 12 questions (documents longs)"
+   },
+   {
+    "minutes": 25,
+    "module": "Expression écrite",
+    "description": "Rédiger un texte argumentatif en réutilisant 5 connecteurs"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Connecteurs logiques : 10 exemples et exercice de réutilisation"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 12,
+  "day": 5,
+  "focus": "Oral et conversation",
+  "activities": [
+   {
+    "minutes": 15,
+    "module": "Conjugaison",
+    "description": "Quiz de conjugaison sur les temps de la semaine"
+   },
+   {
+    "minutes": 20,
+    "module": "Expression orale",
+    "description": "Simulation chronométrée : tâche 3 (point de vue argumenté)"
+   },
+   {
+    "minutes": 25,
+    "module": "Professeur IA",
+    "description": "Conversation sur le thème « Simulation finale et consolidation »"
+   },
+   {
+    "minutes": 10,
+    "module": "Tableau de bord",
+    "description": "Relire les conseils du jour de l'examen"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": false
+ },
+ {
+  "week": 12,
+  "day": 6,
+  "focus": "Examen blanc n° 12 (complet)",
+  "activities": [
+   {
+    "minutes": 120,
+    "module": "Examen blanc",
+    "description": "Passer l'examen blanc n° 12 en mode examen, les quatre épreuves"
+   }
+  ],
+  "is_mock_exam": "n° 12 (complet)",
+  "is_review": false
+ },
+ {
+  "week": 12,
+  "day": 7,
+  "focus": "Bilan de la semaine",
+  "activities": [
+   {
+    "minutes": 20,
+    "module": "Historique",
+    "description": "Analyser les résultats et les erreurs de l'examen blanc"
+   },
+   {
+    "minutes": 20,
+    "module": "Grammaire",
+    "description": "Refaire les exercices échoués de la semaine"
+   },
+   {
+    "minutes": 15,
+    "module": "Vocabulaire",
+    "description": "Révision espacée : toutes les cartes dues"
+   },
+   {
+    "minutes": 5,
+    "module": "Tableau de bord",
+    "description": "Vérifier les alertes et les compétences sous B2"
+   }
+  ],
+  "is_mock_exam": null,
+  "is_review": true
+ }
+]
