@@ -1,0 +1,1976 @@
+{
+ "code": "EXAM-18",
+ "title": "Examen blanc n° 18 – Citoyenneté locale, alternance et sobriété numérique",
+ "level": "B2",
+ "description": "Examen complet calibré B1–B2 : budget participatif, sport en entreprise, alternance, pollution numérique, permis de conduire.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "H: Bonjour Inès, ici l'auto-école Cap Route. Votre examen du permis de conduire est fixé au mardi 14 mai à 8 h 30. Rendez-vous à l'auto-école à 8 heures. Bonne chance !",
+   "prompt": "À quelle heure faut-il être à l'auto-école ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À 8 heures.",
+     "correct": true,
+     "rationale": "« Rendez-vous à l'auto-école à 8 heures »."
+    },
+    {
+     "label": "B",
+     "text": "À 8 h 30.",
+     "correct": false,
+     "rationale": "C'est l'heure de l'examen."
+    },
+    {
+     "label": "C",
+     "text": "À 9 heures.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "À 14 heures.",
+     "correct": false,
+     "rationale": "14 est la date."
+    }
+   ],
+   "explanation": "Distinguez l'heure du rendez-vous et celle de l'examen.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Habitants du quartier Nord, votez pour vos projets préférés du budget participatif jusqu'au 30 avril ! Le vote se fait en ligne ou à la mairie annexe. Tous les habitants de plus de onze ans peuvent voter.",
+   "prompt": "Qui peut voter ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Seulement les électeurs inscrits.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Seulement les adultes.",
+     "correct": false,
+     "rationale": "Dès onze ans."
+    },
+    {
+     "label": "C",
+     "text": "Les habitants de plus de onze ans.",
+     "correct": true,
+     "rationale": "« Tous les habitants de plus de onze ans peuvent voter »."
+    },
+    {
+     "label": "D",
+     "text": "Les habitants de toute la ville.",
+     "correct": false,
+     "rationale": "Il s'agit du quartier Nord."
+    }
+   ],
+   "explanation": "Repérez la condition d'âge.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "F: Tu viens au cours de yoga à midi ? / H: Au bureau ? / F: Oui, l'entreprise organise une séance tous les jeudis dans la salle de réunion. C'est gratuit ! / H: Super, je viens.",
+   "prompt": "Où a lieu le cours de yoga ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dans la salle de réunion.",
+     "correct": true,
+     "rationale": "« dans la salle de réunion »."
+    },
+    {
+     "label": "B",
+     "text": "Dans le parc.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Dans une salle de sport.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "À la cantine.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Repérez le lieu précisé.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "H: Ma boîte mail est pleine, j'ai plus de 10 000 messages. / F: Tu devrais faire le ménage ! Supprime les vieux messages et désabonne-toi des newsletters que tu ne lis jamais. En plus, stocker tout ça consomme de l'énergie.",
+   "prompt": "Que conseille la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Lire toutes les newsletters.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "B",
+     "text": "Créer une nouvelle adresse.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Supprimer des messages et se désabonner.",
+     "correct": true,
+     "rationale": "« Supprime les vieux messages et désabonne-toi »."
+    },
+    {
+     "label": "D",
+     "text": "Acheter plus d'espace de stockage.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Faire le ménage » est employé au sens figuré.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "F: Bonjour Lucas, ici Madame Perrin, de l'entreprise Électro Plus. Nous avons bien reçu votre candidature pour un contrat en alternance. Nous vous proposons un entretien le 6 juin à 10 heures. Pensez à apporter votre dernier bulletin scolaire.",
+   "prompt": "Que doit apporter Lucas ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Son diplôme.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Son dernier bulletin scolaire.",
+     "correct": true,
+     "rationale": "« apporter votre dernier bulletin scolaire »."
+    },
+    {
+     "label": "C",
+     "text": "Une lettre de recommandation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Son CV.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Pensez à » introduit un rappel.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information précise",
+   "document": "H: Bonne nouvelle pour les jeunes : le permis de conduire peut désormais être passé dès dix-sept ans. Les jeunes qui l'obtiennent à cet âge peuvent conduire seuls, mais doivent respecter une période probatoire de trois ans, avec des limitations de vitesse plus strictes.",
+   "prompt": "À partir de quel âge peut-on passer le permis ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Trois ans.",
+     "correct": false,
+     "rationale": "C'est la durée de la période probatoire."
+    },
+    {
+     "label": "B",
+     "text": "Dix-sept ans.",
+     "correct": true,
+     "rationale": "« dès dix-sept ans »."
+    },
+    {
+     "label": "C",
+     "text": "Dix-huit ans.",
+     "correct": false,
+     "rationale": "C'était l'ancien âge."
+    },
+    {
+     "label": "D",
+     "text": "Seize ans.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Dès » = à partir de.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous êtes en alternance dans une boulangerie. Quels sont les avantages ? / H: J'apprends le métier sur le terrain et je suis payé pendant ma formation. Le plus difficile, c'est le rythme : je me lève à quatre heures du matin, et la semaine où je suis à l'école, j'ai des devoirs.",
+   "prompt": "Qu'est-ce qui est difficile pour l'apprenti ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les relations avec le patron.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "L'apprentissage du métier.",
+     "correct": false,
+     "rationale": "C'est un avantage."
+    },
+    {
+     "label": "C",
+     "text": "Le rythme de travail.",
+     "correct": true,
+     "rationale": "« Le plus difficile, c'est le rythme »."
+    },
+    {
+     "label": "D",
+     "text": "Le salaire.",
+     "correct": false,
+     "rationale": "Il est payé, c'est un avantage."
+    }
+   ],
+   "explanation": "« Le plus difficile, c'est » introduit l'inconvénient.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Le conseil municipal des jeunes recherche de nouveaux membres âgés de 12 à 16 ans. Les élus se réunissent une fois par mois pour proposer des projets pour la ville. Les candidatures doivent être déposées au service jeunesse avant le 15 octobre.",
+   "prompt": "À quelle fréquence le conseil se réunit-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une fois par semaine.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Une fois par mois.",
+     "correct": true,
+     "rationale": "« une fois par mois »."
+    },
+    {
+     "label": "C",
+     "text": "Le 15 de chaque mois.",
+     "correct": false,
+     "rationale": "15 octobre est la date limite."
+    },
+    {
+     "label": "D",
+     "text": "Deux fois par an.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Distinguez fréquence et date limite.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "situation administrative",
+   "skill": "information précise",
+   "document": "F: Bonjour, je voudrais savoir comment financer mon permis de conduire. / H: Si vous êtes apprentie, vous avez droit à une aide de 500 euros. Il faut avoir au moins dix-huit ans et être inscrite dans une auto-école. La demande se fait auprès de votre centre de formation.",
+   "prompt": "Auprès de qui faut-il faire la demande d'aide ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Du centre de formation.",
+     "correct": true,
+     "rationale": "« La demande se fait auprès de votre centre de formation »."
+    },
+    {
+     "label": "B",
+     "text": "De l'employeur.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "De la mairie.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "De l'auto-école.",
+     "correct": false,
+     "rationale": "Il faut y être inscrite, mais la demande est ailleurs."
+    }
+   ],
+   "explanation": "« Auprès de » indique l'interlocuteur.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "conversation professionnelle",
+   "skill": "information précise",
+   "document": "H: Pour réduire notre impact numérique, je propose qu'on désactive les caméras pendant les visioconférences internes. / F: Bonne idée, mais pour les réunions avec les clients, on les garde. / H: D'accord. Et on peut aussi limiter les pièces jointes en partageant des liens.",
+   "prompt": "Quand gardera-t-on les caméras ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour toutes les réunions.",
+     "correct": false,
+     "rationale": "Seulement avec les clients."
+    },
+    {
+     "label": "B",
+     "text": "Jamais.",
+     "correct": false,
+     "rationale": "On les garde avec les clients."
+    },
+    {
+     "label": "C",
+     "text": "Pour les réunions internes.",
+     "correct": false,
+     "rationale": "On les désactive."
+    },
+    {
+     "label": "D",
+     "text": "Pour les réunions avec les clients.",
+     "correct": true,
+     "rationale": "« pour les réunions avec les clients, on les garde »."
+    }
+   ],
+   "explanation": "« Mais » introduit une exception.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "F: Le budget participatif donne vraiment le pouvoir aux habitants. / H: Il ne représente que 5 % du budget d'investissement de la ville. Et ce sont toujours les mêmes personnes qui votent : les plus diplômés, les plus disponibles. Ce n'est pas inutile, mais c'est loin d'être une révolution démocratique.",
+   "prompt": "Quelle est la position de l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le dispositif est totalement inutile.",
+     "correct": false,
+     "rationale": "« Ce n'est pas inutile »."
+    },
+    {
+     "label": "B",
+     "text": "Le dispositif est révolutionnaire.",
+     "correct": false,
+     "rationale": "Il dit le contraire."
+    },
+    {
+     "label": "C",
+     "text": "Le dispositif est utile mais limité.",
+     "correct": true,
+     "rationale": "« pas inutile, mais loin d'être une révolution »."
+    },
+    {
+     "label": "D",
+     "text": "Tous les habitants votent.",
+     "correct": false,
+     "rationale": "Ce sont toujours les mêmes."
+    }
+   ],
+   "explanation": "« Ce n'est pas…, mais… » nuance le jugement.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "H: Le numérique représente aujourd'hui environ 4 % des émissions de gaz à effet de serre mondiales, autant que le transport aérien. Contrairement à ce que l'on pense, ce sont surtout la fabrication des appareils, et non leur utilisation, qui pèsent le plus. Garder son téléphone plus longtemps est donc le geste le plus efficace.",
+   "prompt": "Quel est le geste le plus efficace selon le reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Éteindre son ordinateur la nuit.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Supprimer ses courriels.",
+     "correct": false,
+     "rationale": "Ce n'est pas présenté comme le plus efficace."
+    },
+    {
+     "label": "C",
+     "text": "Garder son téléphone plus longtemps.",
+     "correct": true,
+     "rationale": "« le geste le plus efficace »."
+    },
+    {
+     "label": "D",
+     "text": "Ne plus prendre l'avion.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    }
+   ],
+   "explanation": "« Donc » introduit la conclusion pratique.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous êtes directeur d'une entreprise qui a installé une salle de sport. Pourquoi ? / H: Pour la santé de nos salariés, bien sûr, mais aussi pour l'entreprise : l'absentéisme a baissé et l'ambiance s'est améliorée. Les gens se rencontrent entre services. Certains font même des réunions en marchant !",
+   "prompt": "Quels bénéfices le directeur mentionne-t-il pour l'entreprise ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Des économies d'énergie.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Plus de clients.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Moins d'absentéisme et une meilleure ambiance.",
+     "correct": true,
+     "rationale": "Ce sont les deux bénéfices cités."
+    },
+    {
+     "label": "D",
+     "text": "Moins de réunions.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Mais aussi » ajoute un second type d'avantage.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "message téléphonique",
+   "skill": "intention",
+   "document": "H: Bonjour Madame Diallo, ici le service démocratie locale de la mairie. Votre projet de jardin pédagogique pour l'école Jean-Jaurès a été retenu par les habitants avec plus de 800 voix ! Nous aimerions vous rencontrer pour organiser sa réalisation. Pourriez-vous nous rappeler pour fixer un rendez-vous ?",
+   "prompt": "Pourquoi la mairie appelle-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour annoncer que le projet a été choisi et organiser une rencontre.",
+     "correct": true,
+     "rationale": "« a été retenu… Nous aimerions vous rencontrer »."
+    },
+    {
+     "label": "B",
+     "text": "Pour demander un nouveau vote.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Pour refuser le projet.",
+     "correct": false,
+     "rationale": "Il a été retenu."
+    },
+    {
+     "label": "D",
+     "text": "Pour inscrire un enfant à l'école.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Le message combine une annonce et une demande.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "relation logique",
+   "document": "F: Pourquoi les entreprises recrutent-elles de plus en plus d'apprentis ? / H: D'abord, l'État verse des aides importantes pour chaque contrat. Ensuite, c'est un moyen de former des jeunes à leurs méthodes, puis de les embaucher. Comme beaucoup de secteurs manquent de main-d'œuvre, c'est un investissement rentable.",
+   "prompt": "Pourquoi l'apprentissage est-il un investissement rentable ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que l'État interdit les CDI.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Parce que les apprentis ne sont pas payés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Parce que beaucoup de secteurs manquent de main-d'œuvre.",
+     "correct": true,
+     "rationale": "« Comme beaucoup de secteurs manquent de main-d'œuvre »."
+    },
+    {
+     "label": "D",
+     "text": "Parce que les jeunes refusent de travailler.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« D'abord… Ensuite… Comme… » structure l'explication.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "H: Vous avez créé une entreprise de reconditionnement de smartphones. Combien de temps un téléphone peut-il durer ? / F: Facilement sept ou huit ans, si on change la batterie et l'écran quand il le faut. Pourtant, en moyenne, on change de téléphone tous les deux ans et demi, souvent pour un effet de mode.",
+   "prompt": "Tous les combien change-t-on de téléphone en moyenne ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Tous les cinq ans.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Tous les ans.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Tous les sept ou huit ans.",
+     "correct": false,
+     "rationale": "C'est la durée de vie possible."
+    },
+    {
+     "label": "D",
+     "text": "Tous les deux ans et demi.",
+     "correct": true,
+     "rationale": "« tous les deux ans et demi »."
+    }
+   ],
+   "explanation": "Distinguez la durée possible et la durée réelle.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-CA"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Information aux candidats au permis : à partir du 1er mars, l'épreuve théorique du code de la route pourra être passée dans les bureaux de poste, sur rendez-vous en ligne. Le prix reste fixé à 30 euros. Les résultats sont envoyés par courriel dans les 48 heures.",
+   "prompt": "Comment les candidats recevront-ils les résultats ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Par courriel sous 48 heures.",
+     "correct": true,
+     "rationale": "« envoyés par courriel dans les 48 heures »."
+    },
+    {
+     "label": "B",
+     "text": "Immédiatement au bureau de poste.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Par courrier postal.",
+     "correct": false,
+     "rationale": "C'est par courriel."
+    },
+    {
+     "label": "D",
+     "text": "Par téléphone.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Lisez la dernière phrase pour les modalités.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: De moins en moins de jeunes passent le permis de conduire dans les grandes villes. Le coût, qui dépasse souvent 1 500 euros, en décourage beaucoup. Mais surtout, dans les métropoles bien équipées en transports en commun et en vélos en libre-service, la voiture n'apparaît plus comme indispensable.",
+   "prompt": "Quelle est la principale raison avancée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les auto-écoles ferment.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "La voiture n'est plus jugée indispensable en ville.",
+     "correct": true,
+     "rationale": "« Mais surtout… la voiture n'apparaît plus comme indispensable »."
+    },
+    {
+     "label": "C",
+     "text": "Le permis est trop difficile.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les jeunes n'aiment pas conduire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Mais surtout » désigne la raison principale.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "H: Le sport en entreprise, c'est encore une manière de faire travailler les salariés plus longtemps. / F: Pas si c'est sur le temps de travail. Dans mon entreprise, une heure par semaine est comptée comme travaillée. Et personne n'est obligé d'y participer.",
+   "prompt": "Quel argument la femme oppose-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les salariés doivent travailler plus.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Le sport est pris sur le temps de travail et reste facultatif.",
+     "correct": true,
+     "rationale": "« une heure… comptée comme travaillée… personne n'est obligé »."
+    },
+    {
+     "label": "C",
+     "text": "Le sport est obligatoire.",
+     "correct": false,
+     "rationale": "Personne n'est obligé."
+    },
+    {
+     "label": "D",
+     "text": "Le sport rend les salariés plus productifs.",
+     "correct": false,
+     "rationale": "Ce n'est pas son argument ici."
+    }
+   ],
+   "explanation": "« Pas si » introduit une condition qui réfute l'objection.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous avez voté pour la première fois au budget participatif à quatorze ans. Qu'en avez-vous pensé ? / H: J'ai trouvé ça génial de pouvoir donner mon avis sur ma ville. J'ai voté pour un skatepark, et il a été construit ! Maintenant, j'ai hâte d'avoir dix-huit ans pour voter aux vraies élections.",
+   "prompt": "Quel effet l'expérience a-t-elle eu sur le jeune ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle l'a déçu.",
+     "correct": false,
+     "rationale": "Il a trouvé ça génial."
+    },
+    {
+     "label": "B",
+     "text": "Son projet a été refusé.",
+     "correct": false,
+     "rationale": "Il a été construit."
+    },
+    {
+     "label": "C",
+     "text": "Elle lui a donné envie de voter plus tard.",
+     "correct": true,
+     "rationale": "« j'ai hâte d'avoir dix-huit ans pour voter »."
+    },
+    {
+     "label": "D",
+     "text": "Il ne votera plus.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    }
+   ],
+   "explanation": "« Avoir hâte de » = être impatient de.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "F: Le nombre de contrats d'apprentissage a triplé en cinq ans, atteignant un record historique. Toutefois, la Cour des comptes souligne que cette hausse concerne surtout l'enseignement supérieur, alors que l'apprentissage visait initialement les jeunes peu qualifiés. Elle s'interroge aussi sur le coût du dispositif pour les finances publiques.",
+   "prompt": "Quelle critique la Cour des comptes formule-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le nombre de contrats a baissé.",
+     "correct": false,
+     "rationale": "Il a triplé."
+    },
+    {
+     "label": "B",
+     "text": "Les jeunes peu qualifiés sont trop nombreux.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "La hausse profite surtout aux étudiants du supérieur.",
+     "correct": true,
+     "rationale": "« concerne surtout l'enseignement supérieur »."
+    },
+    {
+     "label": "D",
+     "text": "L'apprentissage ne coûte rien.",
+     "correct": false,
+     "rationale": "Elle s'interroge sur son coût."
+    }
+   ],
+   "explanation": "« Toutefois » introduit la critique.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "H: Votre apprenti est en retard tous les lundis. Vous lui en avez parlé ? / F: Pas encore, je ne veux pas le décourager, il travaille bien par ailleurs. / H: Justement, il vaut mieux en parler tôt, calmement, pour comprendre ce qui se passe. Peut-être a-t-il un problème de transport.",
+   "prompt": "Que conseille l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ne rien dire.",
+     "correct": false,
+     "rationale": "C'est ce que fait la femme."
+    },
+    {
+     "label": "B",
+     "text": "Licencier l'apprenti.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Parler rapidement et calmement avec l'apprenti.",
+     "correct": true,
+     "rationale": "« il vaut mieux en parler tôt, calmement »."
+    },
+    {
+     "label": "D",
+     "text": "Changer ses horaires sans lui demander.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Justement » reprend l'argument de l'autre pour le retourner.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "point de vue implicite",
+   "document": "F: Il faut apprendre aux gens à supprimer leurs vieux courriels pour réduire la pollution numérique. / H: Supprimer ses courriels, c'est sympathique, mais c'est une goutte d'eau. Pendant ce temps, les plateformes de vidéo lancent automatiquement l'épisode suivant en haute définition. Culpabiliser les individus, c'est commode pour éviter de réguler les géants du numérique.",
+   "prompt": "Que reproche l'homme au discours sur les petits gestes ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il est très efficace.",
+     "correct": false,
+     "rationale": "« c'est une goutte d'eau »."
+    },
+    {
+     "label": "B",
+     "text": "Il est trop exigeant.",
+     "correct": false,
+     "rationale": "Ce n'est pas son reproche."
+    },
+    {
+     "label": "C",
+     "text": "Il faut interdire les courriels.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Il détourne l'attention de la responsabilité des grandes entreprises.",
+     "correct": true,
+     "rationale": "« commode pour éviter de réguler les géants »."
+    }
+   ],
+   "explanation": "« C'est commode pour » suggère une manœuvre.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "interview",
+   "skill": "nuance",
+   "document": "H: Faut-il abaisser l'âge du droit de vote à seize ans ? / F: Les arguments sont sérieux : les jeunes de seize ans travaillent parfois, paient des impôts et sont concernés par les décisions sur le climat. Mais les expériences étrangères montrent que leur participation dépend surtout de l'éducation civique reçue à l'école. Sans elle, abaisser l'âge ne changerait pas grand-chose.",
+   "prompt": "Quelle est la position de la politologue ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'éducation civique est inutile.",
+     "correct": false,
+     "rationale": "Elle la juge essentielle."
+    },
+    {
+     "label": "B",
+     "text": "Les jeunes de seize ans ne paient pas d'impôts.",
+     "correct": false,
+     "rationale": "Elle dit qu'ils en paient parfois."
+    },
+    {
+     "label": "C",
+     "text": "Il faut absolument abaisser l'âge.",
+     "correct": false,
+     "rationale": "Elle nuance."
+    },
+    {
+     "label": "D",
+     "text": "L'abaissement n'aurait d'effet qu'avec une vraie éducation civique.",
+     "correct": true,
+     "rationale": "« Sans elle, abaisser l'âge ne changerait pas grand-chose »."
+    }
+   ],
+   "explanation": "« Sans elle » renvoie à l'éducation civique.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: Alors que le télétravail s'est généralisé, la sédentarité des salariés a fortement augmenté : beaucoup ne font plus que quelques centaines de pas par jour. C'est pourquoi certaines entreprises financent désormais des abonnements sportifs ou organisent des défis de marche connectés, avec des résultats encourageants sur la santé et la cohésion des équipes.",
+   "prompt": "Pourquoi certaines entreprises financent-elles des activités sportives ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que la loi l'impose.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Parce que les salariés le demandent.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Pour remplacer le télétravail.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Pour lutter contre la sédentarité liée au télétravail.",
+     "correct": true,
+     "rationale": "« C'est pourquoi… »."
+    }
+   ],
+   "explanation": "« C'est pourquoi » relie la cause à la mesure.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "AUTO-ÉCOLE PRIORITÉ – Forfait permis B : 20 heures de conduite + code en ligne : 1 290 €. Paiement en 4 fois sans frais. Leçons du lundi au samedi.",
+   "prompt": "Combien d'heures de conduite comprend le forfait ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Quatre heures.",
+     "correct": false,
+     "rationale": "4 est le nombre de paiements."
+    },
+    {
+     "label": "B",
+     "text": "Vingt heures.",
+     "correct": true,
+     "rationale": "« 20 heures de conduite »."
+    },
+    {
+     "label": "C",
+     "text": "Douze heures.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Six heures.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Ne confondez pas les chiffres."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Salut Max ! J'ai voté pour ton projet de terrain de basket au budget participatif. J'ai aussi demandé à mes parents de voter. Résultats le 15 mai. Croisons les doigts ! Léo",
+   "prompt": "Quand seront donnés les résultats ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le 5 mai.",
+     "correct": false,
+     "rationale": "C'est le 15."
+    },
+    {
+     "label": "B",
+     "text": "Aujourd'hui.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Le 15 mai.",
+     "correct": true,
+     "rationale": "« Résultats le 15 mai »."
+    },
+    {
+     "label": "D",
+     "text": "À la fin de l'année.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Repérez la date."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "affiche",
+   "skill": "information précise",
+   "document": "SEMAINE DU SPORT AU TRAVAIL – Du 20 au 24 septembre. Course solidaire le mercredi à midi. Initiation au badminton le vendredi. Inscription à l'accueil. Douches disponibles au sous-sol.",
+   "prompt": "Quand a lieu la course solidaire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Vendredi.",
+     "correct": false,
+     "rationale": "C'est le badminton."
+    },
+    {
+     "label": "B",
+     "text": "Mercredi à midi.",
+     "correct": true,
+     "rationale": "« Course solidaire le mercredi à midi »."
+    },
+    {
+     "label": "C",
+     "text": "Le soir.",
+     "correct": false,
+     "rationale": "C'est à midi."
+    },
+    {
+     "label": "D",
+     "text": "Le 20 septembre.",
+     "correct": false,
+     "rationale": "C'est le début de la semaine."
+    }
+   ],
+   "explanation": "Associez chaque activité à son jour."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "courriel",
+   "skill": "information précise",
+   "document": "Bonjour Sarah, bienvenue dans notre entreprise pour ton contrat d'apprentissage ! Ton rythme sera de trois semaines en entreprise et une semaine au centre de formation. Ta tutrice sera Mme Lemoine, du service comptabilité. Rendez-vous lundi à 9 h à l'accueil. À lundi ! Le service RH.",
+   "prompt": "Quel sera le rythme de Sarah ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une semaine en entreprise, trois en formation.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "B",
+     "text": "Uniquement en entreprise.",
+     "correct": false,
+     "rationale": "Elle va aussi en formation."
+    },
+    {
+     "label": "C",
+     "text": "Deux jours par semaine en formation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Trois semaines en entreprise, une semaine en formation.",
+     "correct": true,
+     "rationale": "C'est le rythme indiqué."
+    }
+   ],
+   "explanation": "Lisez attentivement l'ordre des éléments."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "À Grenoble, les habitants décident chaque année de l'utilisation de 800 000 euros du budget municipal. Ils proposent des projets, puis votent pour leurs préférés. Bancs, jardins, pistes cyclables, aires de jeux : plus de 150 projets ont été réalisés en dix ans.",
+   "prompt": "De quoi parle cet article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "D'une élection municipale.",
+     "correct": false,
+     "rationale": "Ce n'est pas une élection."
+    },
+    {
+     "label": "B",
+     "text": "D'une hausse des impôts.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "D'un budget décidé par les habitants.",
+     "correct": true,
+     "rationale": "C'est le principe du budget participatif."
+    },
+    {
+     "label": "D",
+     "text": "D'un projet refusé.",
+     "correct": false,
+     "rationale": "Plus de 150 projets ont été réalisés."
+    }
+   ],
+   "explanation": "Le sujet est présenté dès la première phrase."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, Monsieur, votre permis de conduire probatoire arrive à la fin de sa période de trois ans. Vous n'avez commis aucune infraction : votre permis sera donc automatiquement crédité de 12 points le 1er juillet. Aucune démarche n'est nécessaire de votre part.",
+   "prompt": "Que doit faire le conducteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Payer une taxe.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Rien.",
+     "correct": true,
+     "rationale": "« Aucune démarche n'est nécessaire »."
+    },
+    {
+     "label": "C",
+     "text": "Envoyer un formulaire.",
+     "correct": false,
+     "rationale": "Aucune démarche."
+    },
+    {
+     "label": "D",
+     "text": "Repasser l'examen.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Automatiquement » = sans action de la personne."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "publicité",
+   "skill": "intention",
+   "document": "Votre ordinateur rame ? Ne le remplacez pas ! Notre atelier le nettoie, change ses pièces usées et installe un système plus léger. Résultat : un ordinateur comme neuf, pour trois fois moins cher qu'un appareil neuf. Bon pour votre budget et pour la planète.",
+   "prompt": "Quel est l'argument principal de la publicité ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Acheter un nouvel ordinateur.",
+     "correct": false,
+     "rationale": "« Ne le remplacez pas ! »."
+    },
+    {
+     "label": "B",
+     "text": "Faire durer son ordinateur coûte moins cher et protège la planète.",
+     "correct": true,
+     "rationale": "« trois fois moins cher… bon pour la planète »."
+    },
+    {
+     "label": "C",
+     "text": "Un cours d'informatique.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Un ordinateur gratuit.",
+     "correct": false,
+     "rationale": "Il faut payer la réparation."
+    }
+   ],
+   "explanation": "« Ramer » (familier) = fonctionner lentement."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "Chers collègues, pour réduire notre empreinte numérique, nous vous demandons de vider vos dossiers partagés des fichiers inutiles avant le 31 mars. Les fichiers non ouverts depuis plus de cinq ans seront archivés automatiquement après cette date. Merci de votre participation !",
+   "prompt": "Que se passera-t-il après le 31 mars ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les ordinateurs seront remplacés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les dossiers partagés seront fermés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Tous les fichiers seront supprimés.",
+     "correct": false,
+     "rationale": "Seuls les vieux fichiers seront archivés."
+    },
+    {
+     "label": "D",
+     "text": "Les vieux fichiers seront archivés automatiquement.",
+     "correct": true,
+     "rationale": "« seront archivés automatiquement après cette date »."
+    }
+   ],
+   "explanation": "« Archiver » ≠ « supprimer »."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« J'ai raté mon bac, et tout le monde me disait que c'était fini pour moi. J'ai trouvé un apprentissage en mécanique. Aujourd'hui, j'ai un CDI et je prépare un brevet de technicien. L'alternance m'a donné une deuxième chance. » Mathis, 22 ans.",
+   "prompt": "Que pense Mathis de l'alternance ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il la regrette.",
+     "correct": false,
+     "rationale": "Il en est satisfait."
+    },
+    {
+     "label": "B",
+     "text": "Elle ne mène à aucun emploi.",
+     "correct": false,
+     "rationale": "Il a un CDI."
+    },
+    {
+     "label": "C",
+     "text": "Elle est réservée aux bons élèves.",
+     "correct": false,
+     "rationale": "Il a raté son bac."
+    },
+    {
+     "label": "D",
+     "text": "Elle lui a permis de rebondir.",
+     "correct": true,
+     "rationale": "« m'a donné une deuxième chance »."
+    }
+   ],
+   "explanation": "« Une deuxième chance » résume son opinion."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Les vidéos en ligne représentent à elles seules plus de la moitié du trafic Internet mondial. Regarder une série en haute définition sur un téléphone consomme pourtant beaucoup plus d'énergie que nécessaire, l'écran étant trop petit pour apprécier la différence. Les experts recommandent de régler par défaut une qualité adaptée à l'appareil.",
+   "prompt": "Que recommandent les experts ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Acheter de plus grands écrans.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Arrêter de regarder des vidéos.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Regarder en haute définition.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "Adapter la qualité vidéo à l'appareil.",
+     "correct": true,
+     "rationale": "« régler par défaut une qualité adaptée à l'appareil »."
+    }
+   ],
+   "explanation": "« Par défaut » = automatiquement, sans réglage."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "On répète aux jeunes que le permis de conduire est indispensable pour trouver un emploi. C'est souvent vrai à la campagne. Mais à 1 500 euros en moyenne, il reste hors de portée pour beaucoup de familles. Si l'État le considère comme essentiel à l'insertion, ne devrait-il pas le rendre gratuit, comme l'école ?",
+   "prompt": "Quelle est l'intention de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Plaider pour une prise en charge publique du permis.",
+     "correct": true,
+     "rationale": "La question finale suggère la gratuité."
+    },
+    {
+     "label": "B",
+     "text": "Décourager les jeunes de passer le permis.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Critiquer l'école.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Défendre les auto-écoles.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La question rhétorique formule une proposition."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Bonjour à tous, le défi « 10 000 pas par jour » a été un franc succès : 120 salariés ont participé et l'équipe du service logistique a remporté la première place. Nous renouvellerons l'opération au printemps. Sportivement, Le comité bien-être.",
+   "prompt": "Que signifie « un franc succès » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un succès limité.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "B",
+     "text": "Un succès net et incontestable.",
+     "correct": true,
+     "rationale": "120 participants, opération renouvelée."
+    },
+    {
+     "label": "C",
+     "text": "Un échec.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "Un succès financier.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    }
+   ],
+   "explanation": "« Franc » signifie ici « clair, net »."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Dans la commune de Kingersheim, en Alsace, les décisions importantes sont discutées dans des « conseils participatifs » composés pour un tiers d'élus, un tiers d'habitants volontaires et un tiers d'habitants tirés au sort. Le maire s'engage à suivre leurs avis, sauf s'il justifie publiquement son refus.",
+   "prompt": "Comment les conseils participatifs sont-ils composés ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Uniquement d'experts.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "D'élus, de volontaires et d'habitants tirés au sort.",
+     "correct": true,
+     "rationale": "Un tiers de chaque."
+    },
+    {
+     "label": "C",
+     "text": "Uniquement de volontaires.",
+     "correct": false,
+     "rationale": "Il y a des élus et des tirés au sort."
+    },
+    {
+     "label": "D",
+     "text": "Uniquement d'élus.",
+     "correct": false,
+     "rationale": "Il y a aussi des habitants."
+    }
+   ],
+   "explanation": "Repérez la répartition en tiers."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, votre employeur a mis fin à votre contrat d'apprentissage pendant la période d'essai de 45 jours. Vous pouvez poursuivre votre formation au centre pendant six mois, le temps de trouver un nouvel employeur. Durant cette période, vous conserverez votre statut de stagiaire de la formation professionnelle.",
+   "prompt": "Que peut faire l'apprentie après la rupture du contrat ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Toucher des indemnités de licenciement.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Reprendre immédiatement le même contrat.",
+     "correct": false,
+     "rationale": "Il a été rompu."
+    },
+    {
+     "label": "C",
+     "text": "Arrêter définitivement sa formation.",
+     "correct": false,
+     "rationale": "Elle peut la poursuivre."
+    },
+    {
+     "label": "D",
+     "text": "Continuer sa formation pendant six mois.",
+     "correct": true,
+     "rationale": "« Vous pouvez poursuivre votre formation au centre pendant six mois »."
+    }
+   ],
+   "explanation": "« Le temps de » = pendant la durée nécessaire pour."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "Fabriquer un smartphone nécessite plus de 70 matériaux différents, dont certains sont extraits dans des conditions désastreuses. Autrement dit, chaque appareil que l'on garde un an de plus évite une partie de ces dégâts.",
+   "prompt": "Quel est le rôle de « Autrement dit » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Introduire une opposition.",
+     "correct": false,
+     "rationale": "Ce n'est pas une opposition."
+    },
+    {
+     "label": "B",
+     "text": "Introduire une cause.",
+     "correct": false,
+     "rationale": "Ce n'est pas une cause."
+    },
+    {
+     "label": "C",
+     "text": "Introduire un exemple.",
+     "correct": false,
+     "rationale": "Ce n'est pas un exemple."
+    },
+    {
+     "label": "D",
+     "text": "Reformuler en tirant une conséquence pratique.",
+     "correct": true,
+     "rationale": "Il reformule l'idée de façon concrète."
+    }
+   ],
+   "explanation": "« Autrement dit » = en d'autres termes."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "Le gouvernement envisage de rendre obligatoire une demi-heure d'activité physique quotidienne dans les entreprises de plus de 250 salariés. Pour notre éditorialiste, c'est une fausse bonne idée : « Le sport imposé devient une contrainte. Mieux vaut encourager, par exemple en finançant des abonnements ou des vélos de fonction. »",
+   "prompt": "Que propose l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Encourager le sport plutôt que l'imposer.",
+     "correct": true,
+     "rationale": "« Mieux vaut encourager »."
+    },
+    {
+     "label": "B",
+     "text": "Interdire les vélos de fonction.",
+     "correct": false,
+     "rationale": "Il les propose."
+    },
+    {
+     "label": "C",
+     "text": "Supprimer le sport en entreprise.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Rendre le sport obligatoire.",
+     "correct": false,
+     "rationale": "Il s'y oppose."
+    }
+   ],
+   "explanation": "« Une fausse bonne idée » rejette une proposition séduisante."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "Le contrat d'apprentissage est ouvert aux jeunes de 16 à 29 ans révolus. Cette limite d'âge ne s'applique pas aux personnes reconnues travailleurs handicapés, ni aux sportifs de haut niveau, ni aux personnes ayant un projet de création ou de reprise d'entreprise nécessitant le diplôme préparé.",
+   "prompt": "Qui peut signer un contrat d'apprentissage après 29 ans ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Toute personne qui le souhaite.",
+     "correct": false,
+     "rationale": "Il y a une limite d'âge."
+    },
+    {
+     "label": "B",
+     "text": "Personne.",
+     "correct": false,
+     "rationale": "Il existe des exceptions."
+    },
+    {
+     "label": "C",
+     "text": "Un jeune de 15 ans.",
+     "correct": false,
+     "rationale": "C'est à partir de 16 ans."
+    },
+    {
+     "label": "D",
+     "text": "Une personne reconnue travailleur handicapé.",
+     "correct": true,
+     "rationale": "C'est une des exceptions."
+    }
+   ],
+   "explanation": "« Ne s'applique pas à » introduit les exceptions."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« Mon entreprise a lancé une grande campagne sur la sobriété numérique : on doit supprimer nos vieux courriels. Le même jour, on a tous reçu un nouveau téléphone professionnel, alors que les anciens marchaient très bien. » Claire, 41 ans.",
+   "prompt": "Que sous-entend Claire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'entreprise est très écologique.",
+     "correct": false,
+     "rationale": "Elle souligne une contradiction."
+    },
+    {
+     "label": "B",
+     "text": "Elle refuse de supprimer ses courriels.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "L'entreprise est incohérente.",
+     "correct": true,
+     "rationale": "Elle demande de petits gestes mais renouvelle les téléphones."
+    },
+    {
+     "label": "D",
+     "text": "Les anciens téléphones étaient cassés.",
+     "correct": false,
+     "rationale": "Ils marchaient très bien."
+    }
+   ],
+   "explanation": "La juxtaposition « Le même jour » révèle la contradiction."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Faut-il abaisser le droit de vote à seize ans ? Ses partisans font valoir que les jeunes sont directement concernés par les décisions sur l'éducation et le climat. Ses opposants estiment qu'à cet âge, on est encore trop influençable et que la majorité civile et la majorité électorale doivent coïncider.",
+   "prompt": "Quel argument avancent les opposants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le vote devrait être obligatoire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les jeunes votent déjà.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les jeunes sont concernés par le climat.",
+     "correct": false,
+     "rationale": "C'est l'argument des partisans."
+    },
+    {
+     "label": "D",
+     "text": "Les jeunes de seize ans sont trop influençables.",
+     "correct": true,
+     "rationale": "« on est encore trop influençable »."
+    }
+   ],
+   "explanation": "« Faire valoir » = présenter comme argument."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Le gouvernement a annoncé une réforme de l'examen du permis de conduire : les délais d'attente entre deux passages, qui atteignent parfois trois mois, devraient être réduits à un mois grâce au recrutement de 200 inspecteurs supplémentaires. Les candidats pourront aussi choisir leur date en ligne.",
+   "prompt": "Comment les délais seront-ils réduits ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Grâce au recrutement de nouveaux inspecteurs.",
+     "correct": true,
+     "rationale": "« grâce au recrutement de 200 inspecteurs »."
+    },
+    {
+     "label": "B",
+     "text": "En baissant le prix.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "En supprimant l'examen.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "En réduisant le nombre de candidats.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Grâce à » introduit une cause positive."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "thèse",
+   "document": "La démocratie participative ne remplace pas la démocratie représentative : elle la complète. Les élus conservent la responsabilité des grands choix, mais en associant les citoyens aux décisions de proximité, ils regagnent une légitimité que l'abstention croissante ne cesse d'éroder.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La démocratie participative doit remplacer les élus.",
+     "correct": false,
+     "rationale": "« ne remplace pas »."
+    },
+    {
+     "label": "B",
+     "text": "Les élus doivent tout décider seuls.",
+     "correct": false,
+     "rationale": "Ils doivent associer les citoyens."
+    },
+    {
+     "label": "C",
+     "text": "La participation citoyenne complète et renforce la démocratie représentative.",
+     "correct": true,
+     "rationale": "« elle la complète… ils regagnent une légitimité »."
+    },
+    {
+     "label": "D",
+     "text": "L'abstention diminue.",
+     "correct": false,
+     "rationale": "Elle est croissante."
+    }
+   ],
+   "explanation": "« Ne… pas…, elle… » oppose et corrige."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "information implicite",
+   "document": "L'entreprise a été récompensée pour son programme « Bien-être au travail », qui comprend une salle de sport et des cours de méditation. Le même mois, un rapport de l'inspection du travail pointait des horaires excessifs et un taux de rotation du personnel deux fois supérieur à la moyenne du secteur.",
+   "prompt": "Que suggère l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le rapport félicite l'entreprise.",
+     "correct": false,
+     "rationale": "Il pointe des problèmes."
+    },
+    {
+     "label": "B",
+     "text": "Les salariés restent longtemps dans l'entreprise.",
+     "correct": false,
+     "rationale": "La rotation est élevée."
+    },
+    {
+     "label": "C",
+     "text": "Le programme de bien-être masque de réels problèmes de conditions de travail.",
+     "correct": true,
+     "rationale": "Le rapport contredit l'image donnée."
+    },
+    {
+     "label": "D",
+     "text": "L'entreprise est un modèle de bien-être.",
+     "correct": false,
+     "rationale": "Le rapport dit le contraire."
+    }
+   ],
+   "explanation": "Rapprocher deux faits contradictoires crée une critique implicite."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "ton",
+   "document": "Le ministère invite les citoyens à « trier leurs photos » pour sauver la planète. On attend avec impatience la même campagne à destination des centres de données qui stockent, sans que personne ne s'en émeuve, des milliards de vidéos publicitaires.",
+   "prompt": "Quel est le ton de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Enthousiaste.",
+     "correct": false,
+     "rationale": "Il critique la campagne."
+    },
+    {
+     "label": "B",
+     "text": "Inquiet.",
+     "correct": false,
+     "rationale": "Ce n'est pas le ton dominant."
+    },
+    {
+     "label": "C",
+     "text": "Neutre.",
+     "correct": false,
+     "rationale": "Il prend clairement position."
+    },
+    {
+     "label": "D",
+     "text": "Ironique.",
+     "correct": true,
+     "rationale": "« On attend avec impatience » est ironique."
+    }
+   ],
+   "explanation": "L'ironie sert à dénoncer un déséquilibre des responsabilités."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "Les entreprises qui proposent des activités sportives constatent une baisse de l'absentéisme. Toutefois, il est difficile d'établir un lien de cause à effet : les salariés qui participent sont souvent ceux qui étaient déjà en bonne santé, si bien que les bénéfices réels pourraient être surestimés.",
+   "prompt": "Pourquoi les bénéfices pourraient-ils être surestimés ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les activités sont trop rares.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les salariés mentent.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les participants étaient déjà en meilleure santé.",
+     "correct": true,
+     "rationale": "« ceux qui étaient déjà en bonne santé »."
+    },
+    {
+     "label": "D",
+     "text": "L'absentéisme augmente.",
+     "correct": false,
+     "rationale": "Il baisse."
+    }
+   ],
+   "explanation": "Corrélation ne signifie pas causalité."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "reformulation",
+   "document": "Tout projet déposé dans le cadre du budget participatif doit relever des compétences de la commune, présenter un intérêt général et ne pas générer de frais de fonctionnement excessifs. Les projets à caractère commercial ou servant les intérêts d'un groupe restreint sont irrecevables.",
+   "prompt": "Quelle reformulation correspond au texte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un projet privé ou commercial sera refusé.",
+     "correct": true,
+     "rationale": "« irrecevables »."
+    },
+    {
+     "label": "B",
+     "text": "Les frais de fonctionnement ne comptent pas.",
+     "correct": false,
+     "rationale": "Ils ne doivent pas être excessifs."
+    },
+    {
+     "label": "C",
+     "text": "Les projets commerciaux sont prioritaires.",
+     "correct": false,
+     "rationale": "Ils sont irrecevables."
+    },
+    {
+     "label": "D",
+     "text": "Tous les projets sont acceptés.",
+     "correct": false,
+     "rationale": "Il y a des conditions."
+    }
+   ],
+   "explanation": "« Irrecevable » = qui ne peut pas être accepté."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "écrire un message",
+   "instructions": "Vous avez réussi votre permis de conduire. Vous écrivez un message à un ami pour lui annoncer la nouvelle et lui proposer une sortie (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Salut Yanis ! Grande nouvelle : j'ai eu mon permis ce matin, du premier coup ! Je suis tellement contente ! Pour fêter ça, je te propose une balade à la mer samedi, avec la voiture de mes parents. On peut partir vers 10 heures et pique-niquer sur la plage. Tu es partant ? Bises, Nora",
+   "tips": "Exprimez vos émotions avec des exclamations.",
+   "expected_points": [
+    "annonce",
+    "émotion",
+    "proposition",
+    "détails",
+    "question"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "présenter un projet",
+   "instructions": "Votre ville organise un budget participatif. Vous présentez un projet pour votre quartier sur le site de la mairie (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Je propose de transformer le terrain vague de la rue des Lilas en jardin partagé. Aujourd'hui, cet espace est sale et inutilisé. Le jardin permettrait aux habitants de cultiver des légumes, aux enfants de découvrir la nature et aux voisins de se rencontrer. Il faudrait installer une clôture, des bacs de culture et un récupérateur d'eau de pluie, pour un coût estimé à 15 000 euros. L'association du quartier s'engage à entretenir le jardin. Votez pour un quartier plus vert !",
+   "tips": "Le conditionnel (« permettrait ») présente les effets attendus.",
+   "expected_points": [
+    "proposition",
+    "situation actuelle",
+    "bénéfices",
+    "besoins et coût",
+    "engagement",
+    "appel au vote"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "argumenter sur un sujet de société",
+   "instructions": "« Le droit de vote devrait être accordé dès seize ans. » Vous donnez votre avis dans un forum en ligne (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Je suis plutôt favorable à cette proposition. À seize ans, beaucoup de jeunes travaillent déjà, s'engagent dans des associations et se mobilisent pour le climat. Ils sont directement concernés par les décisions sur l'éducation et l'environnement. On objecte souvent qu'ils seraient trop influençables, mais les adultes ne le sont-ils pas aussi ? Toutefois, cette réforme n'aurait de sens qu'avec une véritable éducation civique au collège et au lycée. Voter à seize ans, oui, mais en citoyen informé.",
+   "tips": "Une question rhétorique peut réfuter une objection.",
+   "expected_points": [
+    "position",
+    "arguments",
+    "réfutation d'une objection",
+    "condition",
+    "conclusion"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous pose des questions sur votre parcours, vos habitudes numériques et votre rapport au sport.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Avez-vous le permis de conduire ?",
+    "Avez-vous déjà fait un stage ou un apprentissage ?",
+    "Faites-vous du sport ?",
+    "Combien de temps passez-vous sur votre téléphone ?",
+    "Changez-vous souvent de téléphone ?",
+    "Vous intéressez-vous à la vie de votre quartier ?"
+   ],
+   "useful_phrases": [
+    "J'ai obtenu…",
+    "J'ai fait un stage chez…",
+    "Je fais du… deux fois par semaine",
+    "Je passe environ…",
+    "Je garde mon téléphone…"
+   ],
+   "model_answer": "J'ai obtenu mon permis il y a cinq ans, mais je conduis rarement en ville. J'ai fait un stage de six mois dans une agence de voyages, c'était très formateur. Je fais de la natation deux fois par semaine. Je passe environ trois heures par jour sur mon téléphone, c'est trop ! Je garde mon téléphone au moins quatre ans. Je participe parfois aux réunions de quartier."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Négocier un aménagement",
+   "examiner_role": "Employeur",
+   "scenario": "Vous êtes salarié et vous souhaitez que votre entreprise finance un abonnement à une salle de sport ou installe un espace sportif. L'examinateur joue le rôle de votre directeur, sceptique. Présentez votre demande et négociez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Bonjour, de quoi voulez-vous parler ?",
+    "Nous n'avons pas de budget pour ça.",
+    "Combien de salariés seraient intéressés ?",
+    "Ce n'est pas le rôle de l'entreprise.",
+    "Et si personne ne l'utilise ?",
+    "Que proposez-vous ?"
+   ],
+   "useful_phrases": [
+    "J'ai mené un petit sondage…",
+    "Des études montrent que…",
+    "Pour limiter les coûts, nous pourrions…",
+    "Je propose de commencer par…",
+    "Si l'essai est concluant…"
+   ],
+   "model_answer": "J'ai mené un petit sondage : trente collègues sur cinquante seraient intéressés par une activité sportive. Des études montrent que le sport en entreprise réduit l'absentéisme et améliore l'ambiance. Pour limiter les coûts, nous pourrions négocier un tarif de groupe avec la salle de sport voisine, l'entreprise ne payant que la moitié. Je propose de commencer par un essai de six mois. Si l'essai est concluant, nous pourrons le prolonger."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "La pollution numérique : affaire de tous ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion : « La pollution numérique est-elle la responsabilité des citoyens ou des entreprises ? » Argumentez, donnez des exemples, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Quelle est votre opinion ?",
+    "Quels gestes individuels sont utiles ?",
+    "Quel est le rôle des grandes entreprises ?",
+    "Faut-il une loi ?",
+    "Votre conclusion ?"
+   ],
+   "useful_phrases": [
+    "Il me semble que la responsabilité est partagée…",
+    "Au niveau individuel…",
+    "Mais les entreprises…",
+    "Il faudrait imposer…",
+    "En définitive…"
+   ],
+   "model_answer": "Il me semble que la responsabilité est partagée, mais pas de façon égale. Au niveau individuel, le geste le plus utile est de garder ses appareils plus longtemps, bien plus que de supprimer ses courriels. Mais les entreprises ont un rôle décisif : ce sont elles qui conçoivent des appareils difficiles à réparer et des applications qui nous incitent à consommer toujours plus de vidéos. Il faudrait imposer des normes de réparabilité et d'éco-conception. En définitive, les citoyens peuvent agir, mais la loi doit encadrer les géants du numérique."
+  }
+ ]
+}

@@ -1,0 +1,490 @@
+@code EXAM-18
+@title Examen blanc n° 18 – Citoyenneté locale, alternance et sobriété numérique
+@level B2
+@description Examen complet calibré B1–B2 : budget participatif, sport en entreprise, alternance, pollution numérique, permis de conduire.
+
+## CO 1 | A2 | message téléphonique | information précise | H:fr-FR
+DOC: H: Bonjour Inès, ici l'auto-école Cap Route. Votre examen du permis de conduire est fixé au mardi 14 mai à 8 h 30. Rendez-vous à l'auto-école à 8 heures. Bonne chance !
+Q: À quelle heure faut-il être à l'auto-école ?
++ À 8 heures. | « Rendez-vous à l'auto-école à 8 heures ».
+- À 8 h 30. | C'est l'heure de l'examen.
+- À 14 heures. | 14 est la date.
+- À 9 heures. | Ce n'est pas dit.
+EXP: Distinguez l'heure du rendez-vous et celle de l'examen.
+
+## CO 2 | A2 | annonce publique | information précise | F:fr-FR
+DOC: F: Habitants du quartier Nord, votez pour vos projets préférés du budget participatif jusqu'au 30 avril ! Le vote se fait en ligne ou à la mairie annexe. Tous les habitants de plus de onze ans peuvent voter.
+Q: Qui peut voter ?
++ Les habitants de plus de onze ans. | « Tous les habitants de plus de onze ans peuvent voter ».
+- Seulement les adultes. | Dès onze ans.
+- Seulement les électeurs inscrits. | Ce n'est pas dit.
+- Les habitants de toute la ville. | Il s'agit du quartier Nord.
+EXP: Repérez la condition d'âge.
+
+## CO 3 | A2 | conversation quotidienne | information précise | F:fr-FR, H:fr-FR
+DOC: F: Tu viens au cours de yoga à midi ? / H: Au bureau ? / F: Oui, l'entreprise organise une séance tous les jeudis dans la salle de réunion. C'est gratuit ! / H: Super, je viens.
+Q: Où a lieu le cours de yoga ?
++ Dans la salle de réunion. | « dans la salle de réunion ».
+- Dans une salle de sport. | Ce n'est pas dit.
+- Dans le parc. | Ce n'est pas dit.
+- À la cantine. | Ce n'est pas dit.
+EXP: Repérez le lieu précisé.
+
+## CO 4 | B1 | conversation quotidienne | intention | H:fr-FR, F:fr-FR
+DOC: H: Ma boîte mail est pleine, j'ai plus de 10 000 messages. / F: Tu devrais faire le ménage ! Supprime les vieux messages et désabonne-toi des newsletters que tu ne lis jamais. En plus, stocker tout ça consomme de l'énergie.
+Q: Que conseille la femme ?
++ Supprimer des messages et se désabonner. | « Supprime les vieux messages et désabonne-toi ».
+- Acheter plus d'espace de stockage. | Ce n'est pas dit.
+- Créer une nouvelle adresse. | Ce n'est pas dit.
+- Lire toutes les newsletters. | C'est l'inverse.
+EXP: « Faire le ménage » est employé au sens figuré.
+
+## CO 5 | B1 | message professionnel | information précise | F:fr-FR
+DOC: F: Bonjour Lucas, ici Madame Perrin, de l'entreprise Électro Plus. Nous avons bien reçu votre candidature pour un contrat en alternance. Nous vous proposons un entretien le 6 juin à 10 heures. Pensez à apporter votre dernier bulletin scolaire.
+Q: Que doit apporter Lucas ?
++ Son dernier bulletin scolaire. | « apporter votre dernier bulletin scolaire ».
+- Son CV. | Ce n'est pas dit.
+- Une lettre de recommandation. | Ce n'est pas dit.
+- Son diplôme. | Ce n'est pas dit.
+EXP: « Pensez à » introduit un rappel.
+
+## CO 6 | B1 | information radio | information précise | H:fr-FR
+DOC: H: Bonne nouvelle pour les jeunes : le permis de conduire peut désormais être passé dès dix-sept ans. Les jeunes qui l'obtiennent à cet âge peuvent conduire seuls, mais doivent respecter une période probatoire de trois ans, avec des limitations de vitesse plus strictes.
+Q: À partir de quel âge peut-on passer le permis ?
++ Dix-sept ans. | « dès dix-sept ans ».
+- Dix-huit ans. | C'était l'ancien âge.
+- Seize ans. | Ce n'est pas dit.
+- Trois ans. | C'est la durée de la période probatoire.
+EXP: « Dès » = à partir de.
+
+## CO 7 | B1 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes en alternance dans une boulangerie. Quels sont les avantages ? / H: J'apprends le métier sur le terrain et je suis payé pendant ma formation. Le plus difficile, c'est le rythme : je me lève à quatre heures du matin, et la semaine où je suis à l'école, j'ai des devoirs.
+Q: Qu'est-ce qui est difficile pour l'apprenti ?
++ Le rythme de travail. | « Le plus difficile, c'est le rythme ».
+- Le salaire. | Il est payé, c'est un avantage.
+- L'apprentissage du métier. | C'est un avantage.
+- Les relations avec le patron. | Ce n'est pas dit.
+EXP: « Le plus difficile, c'est » introduit l'inconvénient.
+
+## CO 8 | B1 | annonce publique | information précise | H:fr-FR
+DOC: H: Le conseil municipal des jeunes recherche de nouveaux membres âgés de 12 à 16 ans. Les élus se réunissent une fois par mois pour proposer des projets pour la ville. Les candidatures doivent être déposées au service jeunesse avant le 15 octobre.
+Q: À quelle fréquence le conseil se réunit-il ?
++ Une fois par mois. | « une fois par mois ».
+- Une fois par semaine. | Ce n'est pas dit.
+- Le 15 de chaque mois. | 15 octobre est la date limite.
+- Deux fois par an. | Ce n'est pas dit.
+EXP: Distinguez fréquence et date limite.
+
+## CO 9 | B1 | situation administrative | information précise | F:fr-FR, H:fr-FR
+DOC: F: Bonjour, je voudrais savoir comment financer mon permis de conduire. / H: Si vous êtes apprentie, vous avez droit à une aide de 500 euros. Il faut avoir au moins dix-huit ans et être inscrite dans une auto-école. La demande se fait auprès de votre centre de formation.
+Q: Auprès de qui faut-il faire la demande d'aide ?
++ Du centre de formation. | « La demande se fait auprès de votre centre de formation ».
+- De l'auto-école. | Il faut y être inscrite, mais la demande est ailleurs.
+- De la mairie. | Ce n'est pas dit.
+- De l'employeur. | Ce n'est pas dit.
+EXP: « Auprès de » indique l'interlocuteur.
+
+## CO 10 | B1 | conversation professionnelle | information précise | H:fr-FR, F:fr-FR
+DOC: H: Pour réduire notre impact numérique, je propose qu'on désactive les caméras pendant les visioconférences internes. / F: Bonne idée, mais pour les réunions avec les clients, on les garde. / H: D'accord. Et on peut aussi limiter les pièces jointes en partageant des liens.
+Q: Quand gardera-t-on les caméras ?
++ Pour les réunions avec les clients. | « pour les réunions avec les clients, on les garde ».
+- Pour toutes les réunions. | Seulement avec les clients.
+- Pour les réunions internes. | On les désactive.
+- Jamais. | On les garde avec les clients.
+EXP: « Mais » introduit une exception.
+
+## CO 11 | B2 | débat | argumentation | F:fr-FR, H:fr-FR
+DOC: F: Le budget participatif donne vraiment le pouvoir aux habitants. / H: Il ne représente que 5 % du budget d'investissement de la ville. Et ce sont toujours les mêmes personnes qui votent : les plus diplômés, les plus disponibles. Ce n'est pas inutile, mais c'est loin d'être une révolution démocratique.
+Q: Quelle est la position de l'homme ?
++ Le dispositif est utile mais limité. | « pas inutile, mais loin d'être une révolution ».
+- Le dispositif est révolutionnaire. | Il dit le contraire.
+- Le dispositif est totalement inutile. | « Ce n'est pas inutile ».
+- Tous les habitants votent. | Ce sont toujours les mêmes.
+EXP: « Ce n'est pas…, mais… » nuance le jugement.
+
+## CO 12 | B2 | information radio | information globale | H:fr-FR
+DOC: H: Le numérique représente aujourd'hui environ 4 % des émissions de gaz à effet de serre mondiales, autant que le transport aérien. Contrairement à ce que l'on pense, ce sont surtout la fabrication des appareils, et non leur utilisation, qui pèsent le plus. Garder son téléphone plus longtemps est donc le geste le plus efficace.
+Q: Quel est le geste le plus efficace selon le reportage ?
++ Garder son téléphone plus longtemps. | « le geste le plus efficace ».
+- Supprimer ses courriels. | Ce n'est pas présenté comme le plus efficace.
+- Ne plus prendre l'avion. | Ce n'est pas le sujet.
+- Éteindre son ordinateur la nuit. | Ce n'est pas dit.
+EXP: « Donc » introduit la conclusion pratique.
+
+## CO 13 | B2 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes directeur d'une entreprise qui a installé une salle de sport. Pourquoi ? / H: Pour la santé de nos salariés, bien sûr, mais aussi pour l'entreprise : l'absentéisme a baissé et l'ambiance s'est améliorée. Les gens se rencontrent entre services. Certains font même des réunions en marchant !
+Q: Quels bénéfices le directeur mentionne-t-il pour l'entreprise ?
++ Moins d'absentéisme et une meilleure ambiance. | Ce sont les deux bénéfices cités.
+- Plus de clients. | Ce n'est pas dit.
+- Des économies d'énergie. | Ce n'est pas dit.
+- Moins de réunions. | Ce n'est pas dit.
+EXP: « Mais aussi » ajoute un second type d'avantage.
+
+## CO 14 | B2 | message téléphonique | intention | H:fr-FR
+DOC: H: Bonjour Madame Diallo, ici le service démocratie locale de la mairie. Votre projet de jardin pédagogique pour l'école Jean-Jaurès a été retenu par les habitants avec plus de 800 voix ! Nous aimerions vous rencontrer pour organiser sa réalisation. Pourriez-vous nous rappeler pour fixer un rendez-vous ?
+Q: Pourquoi la mairie appelle-t-elle ?
++ Pour annoncer que le projet a été choisi et organiser une rencontre. | « a été retenu… Nous aimerions vous rencontrer ».
+- Pour refuser le projet. | Il a été retenu.
+- Pour demander un nouveau vote. | Ce n'est pas dit.
+- Pour inscrire un enfant à l'école. | Ce n'est pas dit.
+EXP: Le message combine une annonce et une demande.
+
+## CO 15 | B2 | conversation professionnelle | relation logique | F:fr-FR, H:fr-FR
+DOC: F: Pourquoi les entreprises recrutent-elles de plus en plus d'apprentis ? / H: D'abord, l'État verse des aides importantes pour chaque contrat. Ensuite, c'est un moyen de former des jeunes à leurs méthodes, puis de les embaucher. Comme beaucoup de secteurs manquent de main-d'œuvre, c'est un investissement rentable.
+Q: Pourquoi l'apprentissage est-il un investissement rentable ?
++ Parce que beaucoup de secteurs manquent de main-d'œuvre. | « Comme beaucoup de secteurs manquent de main-d'œuvre ».
+- Parce que les apprentis ne sont pas payés. | Ce n'est pas dit.
+- Parce que les jeunes refusent de travailler. | Ce n'est pas dit.
+- Parce que l'État interdit les CDI. | Ce n'est pas dit.
+EXP: « D'abord… Ensuite… Comme… » structure l'explication.
+
+## CO 16 | B2 | interview | information détaillée | H:fr-FR, F:fr-CA
+DOC: H: Vous avez créé une entreprise de reconditionnement de smartphones. Combien de temps un téléphone peut-il durer ? / F: Facilement sept ou huit ans, si on change la batterie et l'écran quand il le faut. Pourtant, en moyenne, on change de téléphone tous les deux ans et demi, souvent pour un effet de mode.
+Q: Tous les combien change-t-on de téléphone en moyenne ?
++ Tous les deux ans et demi. | « tous les deux ans et demi ».
+- Tous les sept ou huit ans. | C'est la durée de vie possible.
+- Tous les ans. | Ce n'est pas dit.
+- Tous les cinq ans. | Ce n'est pas dit.
+EXP: Distinguez la durée possible et la durée réelle.
+
+## CO 17 | B2 | annonce publique | information précise | F:fr-FR
+DOC: F: Information aux candidats au permis : à partir du 1er mars, l'épreuve théorique du code de la route pourra être passée dans les bureaux de poste, sur rendez-vous en ligne. Le prix reste fixé à 30 euros. Les résultats sont envoyés par courriel dans les 48 heures.
+Q: Comment les candidats recevront-ils les résultats ?
++ Par courriel sous 48 heures. | « envoyés par courriel dans les 48 heures ».
+- Immédiatement au bureau de poste. | Ce n'est pas dit.
+- Par courrier postal. | C'est par courriel.
+- Par téléphone. | Ce n'est pas dit.
+EXP: Lisez la dernière phrase pour les modalités.
+
+## CO 18 | B2 | information radio | relation logique | H:fr-FR
+DOC: H: De moins en moins de jeunes passent le permis de conduire dans les grandes villes. Le coût, qui dépasse souvent 1 500 euros, en décourage beaucoup. Mais surtout, dans les métropoles bien équipées en transports en commun et en vélos en libre-service, la voiture n'apparaît plus comme indispensable.
+Q: Quelle est la principale raison avancée ?
++ La voiture n'est plus jugée indispensable en ville. | « Mais surtout… la voiture n'apparaît plus comme indispensable ».
+- Le permis est trop difficile. | Ce n'est pas dit.
+- Les auto-écoles ferment. | Ce n'est pas dit.
+- Les jeunes n'aiment pas conduire. | Ce n'est pas dit.
+EXP: « Mais surtout » désigne la raison principale.
+
+## CO 19 | B2 | débat | argumentation | H:fr-FR, F:fr-FR
+DOC: H: Le sport en entreprise, c'est encore une manière de faire travailler les salariés plus longtemps. / F: Pas si c'est sur le temps de travail. Dans mon entreprise, une heure par semaine est comptée comme travaillée. Et personne n'est obligé d'y participer.
+Q: Quel argument la femme oppose-t-elle ?
++ Le sport est pris sur le temps de travail et reste facultatif. | « une heure… comptée comme travaillée… personne n'est obligé ».
+- Le sport rend les salariés plus productifs. | Ce n'est pas son argument ici.
+- Les salariés doivent travailler plus. | Ce n'est pas dit.
+- Le sport est obligatoire. | Personne n'est obligé.
+EXP: « Pas si » introduit une condition qui réfute l'objection.
+
+## CO 20 | B2 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous avez voté pour la première fois au budget participatif à quatorze ans. Qu'en avez-vous pensé ? / H: J'ai trouvé ça génial de pouvoir donner mon avis sur ma ville. J'ai voté pour un skatepark, et il a été construit ! Maintenant, j'ai hâte d'avoir dix-huit ans pour voter aux vraies élections.
+Q: Quel effet l'expérience a-t-elle eu sur le jeune ?
++ Elle lui a donné envie de voter plus tard. | « j'ai hâte d'avoir dix-huit ans pour voter ».
+- Elle l'a déçu. | Il a trouvé ça génial.
+- Son projet a été refusé. | Il a été construit.
+- Il ne votera plus. | C'est l'inverse.
+EXP: « Avoir hâte de » = être impatient de.
+
+## CO 21 | C1 | information radio | information détaillée | F:fr-FR
+DOC: F: Le nombre de contrats d'apprentissage a triplé en cinq ans, atteignant un record historique. Toutefois, la Cour des comptes souligne que cette hausse concerne surtout l'enseignement supérieur, alors que l'apprentissage visait initialement les jeunes peu qualifiés. Elle s'interroge aussi sur le coût du dispositif pour les finances publiques.
+Q: Quelle critique la Cour des comptes formule-t-elle ?
++ La hausse profite surtout aux étudiants du supérieur. | « concerne surtout l'enseignement supérieur ».
+- Le nombre de contrats a baissé. | Il a triplé.
+- Les jeunes peu qualifiés sont trop nombreux. | C'est l'inverse.
+- L'apprentissage ne coûte rien. | Elle s'interroge sur son coût.
+EXP: « Toutefois » introduit la critique.
+
+## CO 22 | B2 | conversation professionnelle | intention | H:fr-FR, F:fr-FR
+DOC: H: Votre apprenti est en retard tous les lundis. Vous lui en avez parlé ? / F: Pas encore, je ne veux pas le décourager, il travaille bien par ailleurs. / H: Justement, il vaut mieux en parler tôt, calmement, pour comprendre ce qui se passe. Peut-être a-t-il un problème de transport.
+Q: Que conseille l'homme ?
++ Parler rapidement et calmement avec l'apprenti. | « il vaut mieux en parler tôt, calmement ».
+- Ne rien dire. | C'est ce que fait la femme.
+- Licencier l'apprenti. | Ce n'est pas dit.
+- Changer ses horaires sans lui demander. | Ce n'est pas dit.
+EXP: « Justement » reprend l'argument de l'autre pour le retourner.
+
+## CO 23 | C1 | débat | point de vue implicite | F:fr-FR, H:fr-FR
+DOC: F: Il faut apprendre aux gens à supprimer leurs vieux courriels pour réduire la pollution numérique. / H: Supprimer ses courriels, c'est sympathique, mais c'est une goutte d'eau. Pendant ce temps, les plateformes de vidéo lancent automatiquement l'épisode suivant en haute définition. Culpabiliser les individus, c'est commode pour éviter de réguler les géants du numérique.
+Q: Que reproche l'homme au discours sur les petits gestes ?
++ Il détourne l'attention de la responsabilité des grandes entreprises. | « commode pour éviter de réguler les géants ».
+- Il est trop exigeant. | Ce n'est pas son reproche.
+- Il est très efficace. | « c'est une goutte d'eau ».
+- Il faut interdire les courriels. | Ce n'est pas dit.
+EXP: « C'est commode pour » suggère une manœuvre.
+
+## CO 24 | C1 | interview | nuance | H:fr-FR, F:fr-FR
+DOC: H: Faut-il abaisser l'âge du droit de vote à seize ans ? / F: Les arguments sont sérieux : les jeunes de seize ans travaillent parfois, paient des impôts et sont concernés par les décisions sur le climat. Mais les expériences étrangères montrent que leur participation dépend surtout de l'éducation civique reçue à l'école. Sans elle, abaisser l'âge ne changerait pas grand-chose.
+Q: Quelle est la position de la politologue ?
++ L'abaissement n'aurait d'effet qu'avec une vraie éducation civique. | « Sans elle, abaisser l'âge ne changerait pas grand-chose ».
+- Il faut absolument abaisser l'âge. | Elle nuance.
+- Les jeunes de seize ans ne paient pas d'impôts. | Elle dit qu'ils en paient parfois.
+- L'éducation civique est inutile. | Elle la juge essentielle.
+EXP: « Sans elle » renvoie à l'éducation civique.
+
+## CO 25 | C1 | information radio | relation logique | H:fr-FR
+DOC: H: Alors que le télétravail s'est généralisé, la sédentarité des salariés a fortement augmenté : beaucoup ne font plus que quelques centaines de pas par jour. C'est pourquoi certaines entreprises financent désormais des abonnements sportifs ou organisent des défis de marche connectés, avec des résultats encourageants sur la santé et la cohésion des équipes.
+Q: Pourquoi certaines entreprises financent-elles des activités sportives ?
++ Pour lutter contre la sédentarité liée au télétravail. | « C'est pourquoi… ».
+- Parce que les salariés le demandent. | Ce n'est pas dit.
+- Pour remplacer le télétravail. | Ce n'est pas dit.
+- Parce que la loi l'impose. | Ce n'est pas dit.
+EXP: « C'est pourquoi » relie la cause à la mesure.
+
+## CE 1 | A2 | annonce | information précise
+DOC: AUTO-ÉCOLE PRIORITÉ – Forfait permis B : 20 heures de conduite + code en ligne : 1 290 €. Paiement en 4 fois sans frais. Leçons du lundi au samedi.
+Q: Combien d'heures de conduite comprend le forfait ?
++ Vingt heures. | « 20 heures de conduite ».
+- Quatre heures. | 4 est le nombre de paiements.
+- Six heures. | Ce n'est pas dit.
+- Douze heures. | Ce n'est pas dit.
+EXP: Ne confondez pas les chiffres.
+
+## CE 2 | A2 | message | information précise
+DOC: Salut Max ! J'ai voté pour ton projet de terrain de basket au budget participatif. J'ai aussi demandé à mes parents de voter. Résultats le 15 mai. Croisons les doigts ! Léo
+Q: Quand seront donnés les résultats ?
++ Le 15 mai. | « Résultats le 15 mai ».
+- Aujourd'hui. | Ce n'est pas dit.
+- Le 5 mai. | C'est le 15.
+- À la fin de l'année. | Ce n'est pas dit.
+EXP: Repérez la date.
+
+## CE 3 | A2 | affiche | information précise
+DOC: SEMAINE DU SPORT AU TRAVAIL – Du 20 au 24 septembre. Course solidaire le mercredi à midi. Initiation au badminton le vendredi. Inscription à l'accueil. Douches disponibles au sous-sol.
+Q: Quand a lieu la course solidaire ?
++ Mercredi à midi. | « Course solidaire le mercredi à midi ».
+- Vendredi. | C'est le badminton.
+- Le 20 septembre. | C'est le début de la semaine.
+- Le soir. | C'est à midi.
+EXP: Associez chaque activité à son jour.
+
+## CE 4 | B1 | courriel | information précise
+DOC: Bonjour Sarah, bienvenue dans notre entreprise pour ton contrat d'apprentissage ! Ton rythme sera de trois semaines en entreprise et une semaine au centre de formation. Ta tutrice sera Mme Lemoine, du service comptabilité. Rendez-vous lundi à 9 h à l'accueil. À lundi ! Le service RH.
+Q: Quel sera le rythme de Sarah ?
++ Trois semaines en entreprise, une semaine en formation. | C'est le rythme indiqué.
+- Une semaine en entreprise, trois en formation. | C'est l'inverse.
+- Deux jours par semaine en formation. | Ce n'est pas dit.
+- Uniquement en entreprise. | Elle va aussi en formation.
+EXP: Lisez attentivement l'ordre des éléments.
+
+## CE 5 | B1 | article de presse | information globale
+DOC: À Grenoble, les habitants décident chaque année de l'utilisation de 800 000 euros du budget municipal. Ils proposent des projets, puis votent pour leurs préférés. Bancs, jardins, pistes cyclables, aires de jeux : plus de 150 projets ont été réalisés en dix ans.
+Q: De quoi parle cet article ?
++ D'un budget décidé par les habitants. | C'est le principe du budget participatif.
+- D'une hausse des impôts. | Ce n'est pas dit.
+- D'une élection municipale. | Ce n'est pas une élection.
+- D'un projet refusé. | Plus de 150 projets ont été réalisés.
+EXP: Le sujet est présenté dès la première phrase.
+
+## CE 6 | B1 | lettre administrative | information précise
+DOC: Madame, Monsieur, votre permis de conduire probatoire arrive à la fin de sa période de trois ans. Vous n'avez commis aucune infraction : votre permis sera donc automatiquement crédité de 12 points le 1er juillet. Aucune démarche n'est nécessaire de votre part.
+Q: Que doit faire le conducteur ?
++ Rien. | « Aucune démarche n'est nécessaire ».
+- Repasser l'examen. | Ce n'est pas dit.
+- Envoyer un formulaire. | Aucune démarche.
+- Payer une taxe. | Ce n'est pas dit.
+EXP: « Automatiquement » = sans action de la personne.
+
+## CE 7 | B1 | publicité | intention
+DOC: Votre ordinateur rame ? Ne le remplacez pas ! Notre atelier le nettoie, change ses pièces usées et installe un système plus léger. Résultat : un ordinateur comme neuf, pour trois fois moins cher qu'un appareil neuf. Bon pour votre budget et pour la planète.
+Q: Quel est l'argument principal de la publicité ?
++ Faire durer son ordinateur coûte moins cher et protège la planète. | « trois fois moins cher… bon pour la planète ».
+- Acheter un nouvel ordinateur. | « Ne le remplacez pas ! ».
+- Un ordinateur gratuit. | Il faut payer la réparation.
+- Un cours d'informatique. | Ce n'est pas dit.
+EXP: « Ramer » (familier) = fonctionner lentement.
+
+## CE 8 | B1 | message professionnel | information précise
+DOC: Chers collègues, pour réduire notre empreinte numérique, nous vous demandons de vider vos dossiers partagés des fichiers inutiles avant le 31 mars. Les fichiers non ouverts depuis plus de cinq ans seront archivés automatiquement après cette date. Merci de votre participation !
+Q: Que se passera-t-il après le 31 mars ?
++ Les vieux fichiers seront archivés automatiquement. | « seront archivés automatiquement après cette date ».
+- Tous les fichiers seront supprimés. | Seuls les vieux fichiers seront archivés.
+- Les dossiers partagés seront fermés. | Ce n'est pas dit.
+- Les ordinateurs seront remplacés. | Ce n'est pas dit.
+EXP: « Archiver » ≠ « supprimer ».
+
+## CE 9 | B1 | témoignage | opinion
+DOC: « J'ai raté mon bac, et tout le monde me disait que c'était fini pour moi. J'ai trouvé un apprentissage en mécanique. Aujourd'hui, j'ai un CDI et je prépare un brevet de technicien. L'alternance m'a donné une deuxième chance. » Mathis, 22 ans.
+Q: Que pense Mathis de l'alternance ?
++ Elle lui a permis de rebondir. | « m'a donné une deuxième chance ».
+- Elle est réservée aux bons élèves. | Il a raté son bac.
+- Elle ne mène à aucun emploi. | Il a un CDI.
+- Il la regrette. | Il en est satisfait.
+EXP: « Une deuxième chance » résume son opinion.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: Les vidéos en ligne représentent à elles seules plus de la moitié du trafic Internet mondial. Regarder une série en haute définition sur un téléphone consomme pourtant beaucoup plus d'énergie que nécessaire, l'écran étant trop petit pour apprécier la différence. Les experts recommandent de régler par défaut une qualité adaptée à l'appareil.
+Q: Que recommandent les experts ?
++ Adapter la qualité vidéo à l'appareil. | « régler par défaut une qualité adaptée à l'appareil ».
+- Arrêter de regarder des vidéos. | Ce n'est pas dit.
+- Regarder en haute définition. | C'est l'inverse.
+- Acheter de plus grands écrans. | Ce n'est pas dit.
+EXP: « Par défaut » = automatiquement, sans réglage.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: On répète aux jeunes que le permis de conduire est indispensable pour trouver un emploi. C'est souvent vrai à la campagne. Mais à 1 500 euros en moyenne, il reste hors de portée pour beaucoup de familles. Si l'État le considère comme essentiel à l'insertion, ne devrait-il pas le rendre gratuit, comme l'école ?
+Q: Quelle est l'intention de l'auteur ?
++ Plaider pour une prise en charge publique du permis. | La question finale suggère la gratuité.
+- Décourager les jeunes de passer le permis. | Ce n'est pas dit.
+- Critiquer l'école. | Ce n'est pas dit.
+- Défendre les auto-écoles. | Ce n'est pas dit.
+EXP: La question rhétorique formule une proposition.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Bonjour à tous, le défi « 10 000 pas par jour » a été un franc succès : 120 salariés ont participé et l'équipe du service logistique a remporté la première place. Nous renouvellerons l'opération au printemps. Sportivement, Le comité bien-être.
+Q: Que signifie « un franc succès » ?
++ Un succès net et incontestable. | 120 participants, opération renouvelée.
+- Un succès financier. | Ce n'est pas le sens.
+- Un échec. | C'est l'inverse.
+- Un succès limité. | C'est l'inverse.
+EXP: « Franc » signifie ici « clair, net ».
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: Dans la commune de Kingersheim, en Alsace, les décisions importantes sont discutées dans des « conseils participatifs » composés pour un tiers d'élus, un tiers d'habitants volontaires et un tiers d'habitants tirés au sort. Le maire s'engage à suivre leurs avis, sauf s'il justifie publiquement son refus.
+Q: Comment les conseils participatifs sont-ils composés ?
++ D'élus, de volontaires et d'habitants tirés au sort. | Un tiers de chaque.
+- Uniquement d'élus. | Il y a aussi des habitants.
+- Uniquement de volontaires. | Il y a des élus et des tirés au sort.
+- Uniquement d'experts. | Ce n'est pas dit.
+EXP: Repérez la répartition en tiers.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Madame, votre employeur a mis fin à votre contrat d'apprentissage pendant la période d'essai de 45 jours. Vous pouvez poursuivre votre formation au centre pendant six mois, le temps de trouver un nouvel employeur. Durant cette période, vous conserverez votre statut de stagiaire de la formation professionnelle.
+Q: Que peut faire l'apprentie après la rupture du contrat ?
++ Continuer sa formation pendant six mois. | « Vous pouvez poursuivre votre formation au centre pendant six mois ».
+- Reprendre immédiatement le même contrat. | Il a été rompu.
+- Toucher des indemnités de licenciement. | Ce n'est pas dit.
+- Arrêter définitivement sa formation. | Elle peut la poursuivre.
+EXP: « Le temps de » = pendant la durée nécessaire pour.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: Fabriquer un smartphone nécessite plus de 70 matériaux différents, dont certains sont extraits dans des conditions désastreuses. Autrement dit, chaque appareil que l'on garde un an de plus évite une partie de ces dégâts.
+Q: Quel est le rôle de « Autrement dit » ?
++ Reformuler en tirant une conséquence pratique. | Il reformule l'idée de façon concrète.
+- Introduire une opposition. | Ce n'est pas une opposition.
+- Introduire un exemple. | Ce n'est pas un exemple.
+- Introduire une cause. | Ce n'est pas une cause.
+EXP: « Autrement dit » = en d'autres termes.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: Le gouvernement envisage de rendre obligatoire une demi-heure d'activité physique quotidienne dans les entreprises de plus de 250 salariés. Pour notre éditorialiste, c'est une fausse bonne idée : « Le sport imposé devient une contrainte. Mieux vaut encourager, par exemple en finançant des abonnements ou des vélos de fonction. »
+Q: Que propose l'éditorialiste ?
++ Encourager le sport plutôt que l'imposer. | « Mieux vaut encourager ».
+- Rendre le sport obligatoire. | Il s'y oppose.
+- Supprimer le sport en entreprise. | Ce n'est pas dit.
+- Interdire les vélos de fonction. | Il les propose.
+EXP: « Une fausse bonne idée » rejette une proposition séduisante.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: Le contrat d'apprentissage est ouvert aux jeunes de 16 à 29 ans révolus. Cette limite d'âge ne s'applique pas aux personnes reconnues travailleurs handicapés, ni aux sportifs de haut niveau, ni aux personnes ayant un projet de création ou de reprise d'entreprise nécessitant le diplôme préparé.
+Q: Qui peut signer un contrat d'apprentissage après 29 ans ?
++ Une personne reconnue travailleur handicapé. | C'est une des exceptions.
+- Toute personne qui le souhaite. | Il y a une limite d'âge.
+- Un jeune de 15 ans. | C'est à partir de 16 ans.
+- Personne. | Il existe des exceptions.
+EXP: « Ne s'applique pas à » introduit les exceptions.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « Mon entreprise a lancé une grande campagne sur la sobriété numérique : on doit supprimer nos vieux courriels. Le même jour, on a tous reçu un nouveau téléphone professionnel, alors que les anciens marchaient très bien. » Claire, 41 ans.
+Q: Que sous-entend Claire ?
++ L'entreprise est incohérente. | Elle demande de petits gestes mais renouvelle les téléphones.
+- L'entreprise est très écologique. | Elle souligne une contradiction.
+- Les anciens téléphones étaient cassés. | Ils marchaient très bien.
+- Elle refuse de supprimer ses courriels. | Ce n'est pas dit.
+EXP: La juxtaposition « Le même jour » révèle la contradiction.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Faut-il abaisser le droit de vote à seize ans ? Ses partisans font valoir que les jeunes sont directement concernés par les décisions sur l'éducation et le climat. Ses opposants estiment qu'à cet âge, on est encore trop influençable et que la majorité civile et la majorité électorale doivent coïncider.
+Q: Quel argument avancent les opposants ?
++ Les jeunes de seize ans sont trop influençables. | « on est encore trop influençable ».
+- Les jeunes sont concernés par le climat. | C'est l'argument des partisans.
+- Les jeunes votent déjà. | Ce n'est pas dit.
+- Le vote devrait être obligatoire. | Ce n'est pas dit.
+EXP: « Faire valoir » = présenter comme argument.
+
+## CE 20 | B2 | article de presse | information détaillée
+DOC: Le gouvernement a annoncé une réforme de l'examen du permis de conduire : les délais d'attente entre deux passages, qui atteignent parfois trois mois, devraient être réduits à un mois grâce au recrutement de 200 inspecteurs supplémentaires. Les candidats pourront aussi choisir leur date en ligne.
+Q: Comment les délais seront-ils réduits ?
++ Grâce au recrutement de nouveaux inspecteurs. | « grâce au recrutement de 200 inspecteurs ».
+- En supprimant l'examen. | Ce n'est pas dit.
+- En baissant le prix. | Ce n'est pas dit.
+- En réduisant le nombre de candidats. | Ce n'est pas dit.
+EXP: « Grâce à » introduit une cause positive.
+
+## CE 21 | C1 | texte argumentatif | thèse
+DOC: La démocratie participative ne remplace pas la démocratie représentative : elle la complète. Les élus conservent la responsabilité des grands choix, mais en associant les citoyens aux décisions de proximité, ils regagnent une légitimité que l'abstention croissante ne cesse d'éroder.
+Q: Quelle est la thèse de l'auteur ?
++ La participation citoyenne complète et renforce la démocratie représentative. | « elle la complète… ils regagnent une légitimité ».
+- La démocratie participative doit remplacer les élus. | « ne remplace pas ».
+- Les élus doivent tout décider seuls. | Ils doivent associer les citoyens.
+- L'abstention diminue. | Elle est croissante.
+EXP: « Ne… pas…, elle… » oppose et corrige.
+
+## CE 22 | C1 | article de presse | information implicite
+DOC: L'entreprise a été récompensée pour son programme « Bien-être au travail », qui comprend une salle de sport et des cours de méditation. Le même mois, un rapport de l'inspection du travail pointait des horaires excessifs et un taux de rotation du personnel deux fois supérieur à la moyenne du secteur.
+Q: Que suggère l'article ?
++ Le programme de bien-être masque de réels problèmes de conditions de travail. | Le rapport contredit l'image donnée.
+- L'entreprise est un modèle de bien-être. | Le rapport dit le contraire.
+- Les salariés restent longtemps dans l'entreprise. | La rotation est élevée.
+- Le rapport félicite l'entreprise. | Il pointe des problèmes.
+EXP: Rapprocher deux faits contradictoires crée une critique implicite.
+
+## CE 23 | C1 | texte argumentatif | ton
+DOC: Le ministère invite les citoyens à « trier leurs photos » pour sauver la planète. On attend avec impatience la même campagne à destination des centres de données qui stockent, sans que personne ne s'en émeuve, des milliards de vidéos publicitaires.
+Q: Quel est le ton de l'auteur ?
++ Ironique. | « On attend avec impatience » est ironique.
+- Enthousiaste. | Il critique la campagne.
+- Neutre. | Il prend clairement position.
+- Inquiet. | Ce n'est pas le ton dominant.
+EXP: L'ironie sert à dénoncer un déséquilibre des responsabilités.
+
+## CE 24 | C1 | article de presse | relation logique
+DOC: Les entreprises qui proposent des activités sportives constatent une baisse de l'absentéisme. Toutefois, il est difficile d'établir un lien de cause à effet : les salariés qui participent sont souvent ceux qui étaient déjà en bonne santé, si bien que les bénéfices réels pourraient être surestimés.
+Q: Pourquoi les bénéfices pourraient-ils être surestimés ?
++ Les participants étaient déjà en meilleure santé. | « ceux qui étaient déjà en bonne santé ».
+- L'absentéisme augmente. | Il baisse.
+- Les activités sont trop rares. | Ce n'est pas dit.
+- Les salariés mentent. | Ce n'est pas dit.
+EXP: Corrélation ne signifie pas causalité.
+
+## CE 25 | C1 | document informatif | reformulation
+DOC: Tout projet déposé dans le cadre du budget participatif doit relever des compétences de la commune, présenter un intérêt général et ne pas générer de frais de fonctionnement excessifs. Les projets à caractère commercial ou servant les intérêts d'un groupe restreint sont irrecevables.
+Q: Quelle reformulation correspond au texte ?
++ Un projet privé ou commercial sera refusé. | « irrecevables ».
+- Tous les projets sont acceptés. | Il y a des conditions.
+- Les projets commerciaux sont prioritaires. | Ils sont irrecevables.
+- Les frais de fonctionnement ne comptent pas. | Ils ne doivent pas être excessifs.
+EXP: « Irrecevable » = qui ne peut pas être accepté.
+
+## EE 1 | A2 | écrire un message
+CONSIGNE: Vous avez réussi votre permis de conduire. Vous écrivez un message à un ami pour lui annoncer la nouvelle et lui proposer une sortie (30 à 60 mots).
+MODELE: Salut Yanis ! Grande nouvelle : j'ai eu mon permis ce matin, du premier coup ! Je suis tellement contente ! Pour fêter ça, je te propose une balade à la mer samedi, avec la voiture de mes parents. On peut partir vers 10 heures et pique-niquer sur la plage. Tu es partant ? Bises, Nora
+POINTS: annonce ; émotion ; proposition ; détails ; question
+CONSEILS: Exprimez vos émotions avec des exclamations.
+
+## EE 2 | B1 | présenter un projet
+CONSIGNE: Votre ville organise un budget participatif. Vous présentez un projet pour votre quartier sur le site de la mairie (40 à 90 mots).
+MODELE: Je propose de transformer le terrain vague de la rue des Lilas en jardin partagé. Aujourd'hui, cet espace est sale et inutilisé. Le jardin permettrait aux habitants de cultiver des légumes, aux enfants de découvrir la nature et aux voisins de se rencontrer. Il faudrait installer une clôture, des bacs de culture et un récupérateur d'eau de pluie, pour un coût estimé à 15 000 euros. L'association du quartier s'engage à entretenir le jardin. Votez pour un quartier plus vert !
+POINTS: proposition ; situation actuelle ; bénéfices ; besoins et coût ; engagement ; appel au vote
+CONSEILS: Le conditionnel (« permettrait ») présente les effets attendus.
+
+## EE 3 | B2 | argumenter sur un sujet de société
+CONSIGNE: « Le droit de vote devrait être accordé dès seize ans. » Vous donnez votre avis dans un forum en ligne (40 à 90 mots).
+MODELE: Je suis plutôt favorable à cette proposition. À seize ans, beaucoup de jeunes travaillent déjà, s'engagent dans des associations et se mobilisent pour le climat. Ils sont directement concernés par les décisions sur l'éducation et l'environnement. On objecte souvent qu'ils seraient trop influençables, mais les adultes ne le sont-ils pas aussi ? Toutefois, cette réforme n'aurait de sens qu'avec une véritable éducation civique au collège et au lycée. Voter à seize ans, oui, mais en citoyen informé.
+POINTS: position ; arguments ; réfutation d'une objection ; condition ; conclusion
+CONSEILS: Une question rhétorique peut réfuter une objection.
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous pose des questions sur votre parcours, vos habitudes numériques et votre rapport au sport.
+RELANCES: Avez-vous le permis de conduire ? / Avez-vous déjà fait un stage ou un apprentissage ? / Faites-vous du sport ? / Combien de temps passez-vous sur votre téléphone ? / Changez-vous souvent de téléphone ? / Vous intéressez-vous à la vie de votre quartier ?
+PHRASES: J'ai obtenu… / J'ai fait un stage chez… / Je fais du… deux fois par semaine / Je passe environ… / Je garde mon téléphone…
+MODELE: J'ai obtenu mon permis il y a cinq ans, mais je conduis rarement en ville. J'ai fait un stage de six mois dans une agence de voyages, c'était très formateur. Je fais de la natation deux fois par semaine. Je passe environ trois heures par jour sur mon téléphone, c'est trop ! Je garde mon téléphone au moins quatre ans. Je participe parfois aux réunions de quartier.
+
+## EO 2 | B2 | Négocier un aménagement | Employeur
+SCENARIO: Vous êtes salarié et vous souhaitez que votre entreprise finance un abonnement à une salle de sport ou installe un espace sportif. L'examinateur joue le rôle de votre directeur, sceptique. Présentez votre demande et négociez.
+RELANCES: Bonjour, de quoi voulez-vous parler ? / Nous n'avons pas de budget pour ça. / Combien de salariés seraient intéressés ? / Ce n'est pas le rôle de l'entreprise. / Et si personne ne l'utilise ? / Que proposez-vous ?
+PHRASES: J'ai mené un petit sondage… / Des études montrent que… / Pour limiter les coûts, nous pourrions… / Je propose de commencer par… / Si l'essai est concluant…
+MODELE: J'ai mené un petit sondage : trente collègues sur cinquante seraient intéressés par une activité sportive. Des études montrent que le sport en entreprise réduit l'absentéisme et améliore l'ambiance. Pour limiter les coûts, nous pourrions négocier un tarif de groupe avec la salle de sport voisine, l'entreprise ne payant que la moitié. Je propose de commencer par un essai de six mois. Si l'essai est concluant, nous pourrons le prolonger.
+
+## EO 3 | B2 | La pollution numérique : affaire de tous ? | Examinateur
+SCENARIO: Donnez votre opinion : « La pollution numérique est-elle la responsabilité des citoyens ou des entreprises ? » Argumentez, donnez des exemples, nuancez et concluez.
+RELANCES: Quelle est votre opinion ? / Quels gestes individuels sont utiles ? / Quel est le rôle des grandes entreprises ? / Faut-il une loi ? / Votre conclusion ?
+PHRASES: Il me semble que la responsabilité est partagée… / Au niveau individuel… / Mais les entreprises… / Il faudrait imposer… / En définitive…
+MODELE: Il me semble que la responsabilité est partagée, mais pas de façon égale. Au niveau individuel, le geste le plus utile est de garder ses appareils plus longtemps, bien plus que de supprimer ses courriels. Mais les entreprises ont un rôle décisif : ce sont elles qui conçoivent des appareils difficiles à réparer et des applications qui nous incitent à consommer toujours plus de vidéos. Il faudrait imposer des normes de réparabilité et d'éco-conception. En définitive, les citoyens peuvent agir, mais la loi doit encadrer les géants du numérique.
