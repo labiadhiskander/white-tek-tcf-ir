@@ -1,0 +1,490 @@
+@code EXAM-19
+@title Examen blanc n° 19 – Terroirs, campagnes et engagement international
+@level B2
+@description Examen complet calibré B1–B2 : gastronomie et savoir-faire, néoruraux, covoiturage rural, volontariat international, alimentation de demain.
+
+## CO 1 | A2 | message téléphonique | information précise | F:fr-FR
+DOC: F: Salut Hugo, c'est Clara. Je fais le trajet Lyon–Grenoble en covoiturage vendredi à 18 heures. Il reste une place. Ça coûte 8 euros. Tu veux venir ?
+Q: Combien coûte le trajet ?
++ 8 euros. | « Ça coûte 8 euros ».
+- 18 euros. | 18 heures est l'heure de départ.
+- Gratuit. | Il faut payer.
+- 10 euros. | Ce n'est pas dit.
+EXP: Ne confondez pas l'heure et le prix.
+
+## CO 2 | A2 | annonce publique | information précise | H:fr-FR
+DOC: H: Ce dimanche, grand marché des producteurs locaux sur la place de l'église, de 8 heures à 13 heures. Venez goûter les fromages, le miel et les vins de la région. Animation musicale à partir de 11 heures.
+Q: À quelle heure commence l'animation musicale ?
++ À 11 heures. | « Animation musicale à partir de 11 heures ».
+- À 8 heures. | C'est l'ouverture du marché.
+- À 13 heures. | C'est la fermeture.
+- À 10 heures. | Ce n'est pas dit.
+EXP: « À partir de » indique le début.
+
+## CO 3 | A2 | conversation quotidienne | information précise | H:fr-FR, F:fr-FR
+DOC: H: Alors, la vie à la campagne, ça te plaît ? / F: Beaucoup ! C'est calme et j'ai un grand jardin. Le seul problème, c'est qu'il n'y a pas de boulangerie au village. / H: Tu fais comment ? / F: Un camion passe deux fois par semaine.
+Q: Quel est le problème au village ?
++ Il n'y a pas de boulangerie. | « il n'y a pas de boulangerie au village ».
+- Il y a trop de bruit. | C'est calme.
+- Le jardin est petit. | Il est grand.
+- Le camion ne passe jamais. | Il passe deux fois par semaine.
+EXP: « Le seul problème, c'est » introduit l'inconvénient.
+
+## CO 4 | B1 | conversation quotidienne | intention | F:fr-FR, H:fr-FR
+DOC: F: J'aimerais partir un an à l'étranger pour aider dans un projet humanitaire, mais je n'ai pas d'argent. / H: Tu connais le volontariat de solidarité internationale ? Tu es logée, nourrie et tu reçois une petite indemnité. Renseigne-toi auprès de France Volontaires.
+Q: Que conseille l'homme ?
++ De se renseigner sur le volontariat international. | « Renseigne-toi auprès de France Volontaires ».
+- De travailler pour économiser. | Ce n'est pas dit.
+- De renoncer à son projet. | Il propose une solution.
+- De partir en vacances. | Ce n'est pas dit.
+EXP: L'impératif final formule le conseil.
+
+## CO 5 | B1 | message professionnel | information précise | H:fr-FR
+DOC: H: Bonjour Madame Faure, ici le restaurant Le Terroir. Pour votre repas d'anniversaire samedi, nous vous confirmons la table pour douze personnes. Le chef propose un menu spécial à 35 euros par personne, boissons non comprises. Merci de nous signaler les éventuelles allergies avant jeudi.
+Q: Que doit faire Mme Faure avant jeudi ?
++ Signaler les allergies. | « signaler les éventuelles allergies avant jeudi ».
+- Payer le repas. | Ce n'est pas dit.
+- Choisir les boissons. | Ce n'est pas dit.
+- Confirmer le nombre de personnes. | C'est déjà confirmé.
+EXP: « Merci de » introduit une demande.
+
+## CO 6 | B1 | information radio | information précise | F:fr-FR
+DOC: F: Dans les Hautes-Alpes, une plateforme de covoiturage pour les petits trajets du quotidien vient d'être lancée. Les conducteurs reçoivent deux euros par passager, payés par le département. Les passagers, eux, voyagent gratuitement.
+Q: Combien paient les passagers ?
++ Rien. | « Les passagers, eux, voyagent gratuitement ».
+- Deux euros. | C'est ce que reçoivent les conducteurs.
+- La moitié du trajet. | Ce n'est pas dit.
+- Un abonnement mensuel. | Ce n'est pas dit.
+EXP: « Eux » met en contraste les passagers et les conducteurs.
+
+## CO 7 | B1 | interview | opinion | H:fr-FR, F:fr-FR
+DOC: H: Vous avez quitté Paris pour élever des chèvres dans le Larzac. Comment s'est passée l'adaptation ? / F: Les premiers mois ont été difficiles : le travail ne s'arrête jamais, même le dimanche. Mais les voisins m'ont beaucoup aidée, et aujourd'hui, je vends mes fromages au marché. Je ne reviendrais pour rien au monde.
+Q: Qu'est-ce qui a aidé la femme ?
++ Ses voisins. | « les voisins m'ont beaucoup aidée ».
+- Sa famille parisienne. | Ce n'est pas dit.
+- Une aide de l'État. | Ce n'est pas dit.
+- Les touristes. | Ce n'est pas dit.
+EXP: « Mais » introduit l'aspect positif.
+
+## CO 8 | B1 | annonce publique | information précise | H:fr-FR
+DOC: H: La mairie de Saint-Julien offre un an de loyer gratuit aux familles qui viendront s'installer dans le village et reprendre un commerce fermé. Les candidats doivent présenter un projet d'activité. Les dossiers sont à déposer avant le 31 mars.
+Q: Que doivent présenter les candidats ?
++ Un projet d'activité. | « Les candidats doivent présenter un projet d'activité ».
+- Un an de loyer. | C'est ce qui est offert.
+- Un diplôme de commerce. | Ce n'est pas dit.
+- Une lettre du maire. | Ce n'est pas dit.
+EXP: « Doivent » marque l'obligation.
+
+## CO 9 | B1 | situation administrative | information précise | F:fr-FR, H:fr-FR
+DOC: F: Bonjour, je voudrais partir en volontariat international en entreprise. Quelles sont les conditions ? / H: Il faut avoir entre dix-huit et vingt-huit ans et être citoyen de l'Union européenne. La mission dure de six à vingt-quatre mois. Vous percevez une indemnité qui dépend du pays d'affectation.
+Q: De quoi dépend l'indemnité ?
++ Du pays d'affectation. | « une indemnité qui dépend du pays d'affectation ».
+- De l'âge. | Ce n'est pas dit.
+- De la durée de la mission. | Ce n'est pas dit.
+- Du diplôme. | Ce n'est pas dit.
+EXP: « Dépendre de » introduit une variable.
+
+## CO 10 | B1 | conversation professionnelle | information précise | H:fr-FR, F:fr-FR
+DOC: H: Pour le nouveau menu, on ajoute un plat à base d'insectes ? / F: C'est un peu tôt, les clients ne sont pas prêts. Commençons par un apéritif dégustation, gratuit, pour voir leur réaction. / H: D'accord, on teste pendant un mois.
+Q: Que propose la femme ?
++ Une dégustation gratuite pour tester. | « Commençons par un apéritif dégustation, gratuit ».
+- Un plat principal à base d'insectes. | C'est trop tôt selon elle.
+- Supprimer le nouveau menu. | Ce n'est pas dit.
+- Augmenter les prix. | Ce n'est pas dit.
+EXP: « Commençons par » propose une première étape.
+
+## CO 11 | B2 | débat | argumentation | F:fr-FR, H:fr-FR
+DOC: F: L'arrivée des néoruraux redonne vie aux villages : les écoles rouvrent, les commerces reprennent. / H: C'est vrai, mais elle fait aussi flamber les prix de l'immobilier. Les jeunes du village ne peuvent plus acheter de maison là où ils ont grandi. Il faudrait réserver une partie des logements aux habitants locaux.
+Q: Que propose l'homme ?
++ Réserver des logements aux habitants locaux. | « réserver une partie des logements aux habitants locaux ».
+- Interdire l'arrivée de néoruraux. | Ce n'est pas dit.
+- Fermer les écoles. | Ce n'est pas dit.
+- Augmenter les prix de l'immobilier. | C'est le problème.
+EXP: « Il faudrait » introduit une proposition.
+
+## CO 12 | B2 | information radio | information globale | H:fr-FR
+DOC: H: Depuis la crise sanitaire, le solde migratoire des villes moyennes et des campagnes est devenu positif : davantage de gens s'y installent qu'il n'en partent. Le télétravail a joué un rôle, mais les spécialistes notent que ce mouvement reste modeste et concerne surtout des cadres et des retraités.
+Q: Quelle nuance les spécialistes apportent-ils ?
++ Le mouvement reste limité et concerne surtout certaines catégories. | « reste modeste et concerne surtout des cadres et des retraités ».
+- Le mouvement est massif. | Il est modeste.
+- Tout le monde quitte les villes. | Ce n'est pas dit.
+- Le télétravail n'a joué aucun rôle. | Il a joué un rôle.
+EXP: « Mais » introduit la nuance.
+
+## CO 13 | B2 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes chef cuisinier. Que pensez-vous de l'inscription du repas gastronomique des Français au patrimoine de l'UNESCO ? / H: C'est une belle reconnaissance, mais attention à ne pas figer la cuisine dans un musée. La gastronomie vit parce qu'elle évolue, qu'elle s'enrichit des influences venues d'ailleurs.
+Q: Quelle réserve le chef exprime-t-il ?
++ Il ne faut pas figer la cuisine. | « attention à ne pas figer la cuisine dans un musée ».
+- L'UNESCO a eu tort. | Il parle de belle reconnaissance.
+- Il faut refuser les influences étrangères. | Il dit le contraire.
+- La gastronomie française est morte. | Elle vit et évolue.
+EXP: « Attention à » introduit une mise en garde.
+
+## CO 14 | B2 | message téléphonique | intention | H:fr-FR
+DOC: H: Bonjour Mademoiselle Kouassi, ici l'association Terre Solidaire. Votre candidature pour la mission d'enseignement au Bénin a retenu notre attention. Avant de valider votre départ, nous vous demandons de suivre une formation de préparation au départ de trois jours, du 4 au 6 juin. Merci de nous confirmer votre participation.
+Q: Que demande l'association ?
++ De suivre une formation avant le départ. | « suivre une formation de préparation au départ ».
+- De partir immédiatement. | Il faut d'abord la formation.
+- De payer la mission. | Ce n'est pas dit.
+- De choisir un autre pays. | Ce n'est pas dit.
+EXP: « Avant de » indique une étape préalable.
+
+## CO 15 | B2 | conversation professionnelle | relation logique | F:fr-FR, H:fr-FR
+DOC: F: Pourquoi le covoiturage marche-t-il si mal à la campagne ? / H: Les trajets sont très dispersés : chacun va dans une direction différente, à des heures différentes. Comme il est difficile de trouver quelqu'un qui fait exactement le même trajet, les gens reprennent leur voiture seuls.
+Q: Pourquoi le covoiturage fonctionne-t-il mal à la campagne ?
++ Parce que les trajets sont très variés. | « Les trajets sont très dispersés ».
+- Parce que les gens n'aiment pas parler. | Ce n'est pas dit.
+- Parce que l'essence est gratuite. | Ce n'est pas dit.
+- Parce qu'il n'y a pas de routes. | Ce n'est pas dit.
+EXP: « Comme » introduit la cause en début de phrase.
+
+## CO 16 | B2 | interview | information détaillée | H:fr-FR, F:fr-CA
+DOC: H: Votre entreprise élève des grillons pour l'alimentation humaine. Quels sont les avantages ? / F: Pour produire un kilo de protéines, les grillons ont besoin de douze fois moins de nourriture que les bovins et de presque pas d'eau. Ils émettent aussi très peu de gaz à effet de serre. Le seul obstacle, c'est notre dégoût culturel.
+Q: Quel est le principal obstacle selon la femme ?
++ Le dégoût culturel. | « Le seul obstacle, c'est notre dégoût culturel ».
+- Le manque d'eau. | Les grillons en consomment peu.
+- Le coût de production. | Ce n'est pas dit.
+- Les émissions de gaz. | Elles sont très faibles.
+EXP: « Le seul obstacle » identifie la difficulté.
+
+## CO 17 | B2 | annonce publique | information précise | F:fr-FR
+DOC: F: La ligne de bus 32, qui reliait les villages de la vallée à la ville, est supprimée à compter du 1er septembre. Elle sera remplacée par un service de transport à la demande : il suffira de réserver son trajet la veille avant 18 heures, par téléphone ou sur l'application.
+Q: Comment fonctionnera le nouveau service ?
++ Il faudra réserver la veille avant 18 heures. | « réserver son trajet la veille avant 18 heures ».
+- Le bus passera toutes les heures. | La ligne est supprimée.
+- Il faudra acheter un abonnement annuel. | Ce n'est pas dit.
+- Le service sera réservé aux personnes âgées. | Ce n'est pas dit.
+EXP: « À la demande » = sur réservation.
+
+## CO 18 | B2 | information radio | relation logique | H:fr-FR
+DOC: H: Les jeunes volontaires partis en mission humanitaire reviennent souvent avec un regard différent sur leur propre pays. Cependant, des ONG mettent en garde contre le « volontourisme », ces séjours courts et payants où des jeunes sans qualification construisent des écoles qu'un artisan local aurait mieux bâties, privant parfois ce dernier de travail.
+Q: Que reprochent les ONG au « volontourisme » ?
++ Il peut priver des travailleurs locaux d'emploi. | « privant parfois ce dernier de travail ».
+- Il coûte trop cher aux États. | Ce n'est pas dit.
+- Il dure trop longtemps. | Les séjours sont courts.
+- Il change le regard des jeunes. | C'est un effet positif.
+EXP: « Mettre en garde contre » = avertir d'un danger.
+
+## CO 19 | B2 | débat | argumentation | H:fr-FR, F:fr-FR
+DOC: H: Manger des insectes, c'est l'avenir pour nourrir la planète. / F: Peut-être, mais commençons par réduire le gaspillage : un tiers de la nourriture produite dans le monde est jetée. Avant de changer nos assiettes, utilisons mieux ce que nous produisons déjà.
+Q: Quelle priorité la femme défend-elle ?
++ Réduire le gaspillage alimentaire. | « commençons par réduire le gaspillage ».
+- Manger des insectes. | C'est la proposition de l'homme.
+- Produire davantage. | Ce n'est pas dit.
+- Supprimer la viande. | Ce n'est pas dit.
+EXP: « Avant de » établit une priorité.
+
+## CO 20 | B2 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes artisan fromager depuis quarante ans. Votre savoir-faire va-t-il se transmettre ? / H: J'ai un apprenti de vingt ans, très doué. Mais beaucoup de petits producteurs ne trouvent pas de successeur. Le métier est dur et mal payé. Si rien ne change, des fromages centenaires vont disparaître.
+Q: Quelle inquiétude l'artisan exprime-t-il ?
++ La disparition de fromages faute de successeurs. | « des fromages centenaires vont disparaître ».
+- Son apprenti n'est pas doué. | Il est très doué.
+- Le métier est trop facile. | Il est dur.
+- Les clients n'aiment plus le fromage. | Ce n'est pas dit.
+EXP: « Si rien ne change » introduit une hypothèse inquiétante.
+
+## CO 21 | C1 | information radio | information détaillée | F:fr-FR
+DOC: F: L'Union européenne a autorisé la commercialisation de plusieurs insectes comme aliments, dont le grillon domestique et le ver de farine. Les produits concernés doivent porter un étiquetage clair, mentionnant notamment un risque d'allergie croisée pour les personnes allergiques aux crustacés et aux acariens.
+Q: Quelle information l'étiquetage doit-il mentionner ?
++ Un risque d'allergie pour certaines personnes. | « un risque d'allergie croisée ».
+- Le pays d'origine uniquement. | Ce n'est pas dit.
+- Le prix au kilo. | Ce n'est pas dit.
+- Une interdiction aux enfants. | Ce n'est pas dit.
+EXP: « Notamment » introduit un élément important.
+
+## CO 22 | B2 | conversation professionnelle | intention | H:fr-FR, F:fr-FR
+DOC: H: Je voulais te parler de ton projet de partir en volontariat au Sénégal. / F: Oui, je pars pour un an en septembre. / H: Nous aimerions te garder dans l'équipe. Que dirais-tu d'un congé sans solde ? Ton poste t'attendrait à ton retour.
+Q: Que propose l'homme ?
++ Un congé sans solde avec retour garanti. | « Ton poste t'attendrait à ton retour ».
+- Une démission. | Il veut la garder.
+- Une augmentation pour qu'elle reste. | Ce n'est pas dit.
+- De partir avec elle. | Ce n'est pas dit.
+EXP: « Que dirais-tu de » formule une proposition.
+
+## CO 23 | C1 | débat | point de vue implicite | F:fr-FR, H:fr-FR
+DOC: F: Ces jeunes cadres qui s'installent à la campagne relancent l'économie locale. / H: Ils font leurs courses en ligne, travaillent pour des entreprises parisiennes et mettent leurs enfants dans des écoles privées en ville. On peut se demander ce qu'ils apportent vraiment au village, à part une hausse des prix.
+Q: Que laisse entendre l'homme ?
++ Ces nouveaux habitants contribuent peu à la vie locale. | Il énumère ce qu'ils font ailleurs.
+- Ils relancent fortement l'économie locale. | Il en doute.
+- Ils font baisser les prix. | Ils les font monter.
+- Ils inscrivent leurs enfants à l'école du village. | C'est l'inverse.
+EXP: « On peut se demander » exprime un doute critique.
+
+## CO 24 | C1 | interview | nuance | H:fr-FR, F:fr-FR
+DOC: H: Faut-il protéger les recettes traditionnelles par la loi ? / F: Les appellations d'origine protègent les producteurs contre les imitations, c'est essentiel. Mais vouloir fixer une recette unique et définitive serait absurde : chaque famille a sa propre version du pot-au-feu. La tradition est vivante, pas figée.
+Q: Quelle est la position de l'experte ?
++ Protéger les produits, oui ; figer les recettes, non. | Elle distingue les deux.
+- Il faut fixer une recette officielle par plat. | Ce serait absurde.
+- Les appellations d'origine sont inutiles. | Elles sont essentielles.
+- Il n'existe qu'une recette de pot-au-feu. | Chaque famille a la sienne.
+EXP: « Mais » sépare deux idées à ne pas confondre.
+
+## CO 25 | C1 | information radio | relation logique | H:fr-FR
+DOC: H: Si l'agriculture française produit suffisamment pour nourrir sa population, elle importe néanmoins la moitié des fruits et légumes consommés dans le pays. Ce paradoxe tient à la concurrence de pays où la main-d'œuvre coûte beaucoup moins cher, de sorte que de nombreux maraîchers français ont dû abandonner leur activité.
+Q: Quelle est la conséquence de la concurrence étrangère ?
++ De nombreux maraîchers ont arrêté leur activité. | « de sorte que de nombreux maraîchers… ont dû abandonner ».
+- La France ne produit pas assez. | Elle produit suffisamment.
+- Les fruits sont plus chers à l'étranger. | Ce n'est pas dit.
+- La main-d'œuvre française est moins chère. | C'est l'inverse.
+EXP: « De sorte que » introduit une conséquence.
+
+## CE 1 | A2 | annonce | information précise
+DOC: COVOITURAGE – Je vais tous les jours de Saint-Pierre à Valence. Départ 7 h 30, retour 17 h 45. Participation : 3 € par trajet. Non-fumeur. Appeler Julien au 06 78 90 12 34.
+Q: Combien coûte un trajet ?
++ 3 €. | « Participation : 3 € par trajet ».
+- 7,30 €. | 7 h 30 est l'heure de départ.
+- 17,45 €. | C'est l'heure de retour.
+- Gratuit. | Il y a une participation.
+EXP: Ne confondez pas les horaires et le prix.
+
+## CE 2 | A2 | message | information précise
+DOC: Coucou Mamie ! Tu peux m'envoyer ta recette de tarte aux pommes ? Je veux la faire pour l'anniversaire de Lucas samedi. Merci, je t'aime ! Zoé
+Q: Pourquoi Zoé veut-elle la recette ?
++ Pour l'anniversaire de Lucas. | « pour l'anniversaire de Lucas samedi ».
+- Pour un concours. | Ce n'est pas dit.
+- Pour l'anniversaire de sa grand-mère. | C'est celui de Lucas.
+- Pour la vendre. | Ce n'est pas dit.
+EXP: « Pour » introduit le but.
+
+## CE 3 | A2 | affiche | information précise
+DOC: FÊTE DU PAIN – Dimanche 14 mai. Démonstration de fabrication au four à bois à 10 h et 15 h. Atelier pour enfants à 11 h. Dégustation gratuite toute la journée. Place du village.
+Q: À quelle heure est l'atelier pour enfants ?
++ À 11 h. | « Atelier pour enfants à 11 h ».
+- À 10 h. | C'est une démonstration.
+- À 15 h. | C'est une démonstration.
+- Toute la journée. | C'est la dégustation.
+EXP: Associez chaque horaire à son activité.
+
+## CE 4 | B1 | courriel | information précise
+DOC: Bonjour Thomas, félicitations ! Votre candidature pour la mission de volontariat en Équateur est acceptée. Le départ est prévu le 15 septembre. Vous devez faire les vaccins obligatoires (fièvre jaune) au moins dix jours avant le départ et nous envoyer votre certificat. Bien cordialement, L'équipe Solidarités Jeunesses.
+Q: Que doit faire Thomas au moins dix jours avant le départ ?
++ Se faire vacciner contre la fièvre jaune. | « faire les vaccins obligatoires… au moins dix jours avant ».
+- Acheter son billet d'avion. | Ce n'est pas dit.
+- Apprendre l'espagnol. | Ce n'est pas dit.
+- Rencontrer l'équipe. | Ce n'est pas dit.
+EXP: Repérez la contrainte de temps.
+
+## CE 5 | B1 | article de presse | information globale
+DOC: Dans le Cantal, un village de 300 habitants a vu sa population augmenter de 20 % en trois ans. L'ouverture d'un espace de travail partagé avec Internet très haut débit a attiré des télétravailleurs. L'école, menacée de fermeture, a ouvert une deuxième classe.
+Q: Qu'est-ce qui a attiré de nouveaux habitants ?
++ Un espace de travail avec Internet rapide. | « L'ouverture d'un espace de travail partagé ».
+- La fermeture de l'école. | L'école a ouvert une classe.
+- Des maisons gratuites. | Ce n'est pas dit.
+- Une nouvelle usine. | Ce n'est pas dit.
+EXP: Identifiez la cause du changement.
+
+## CE 6 | B1 | lettre administrative | information précise
+DOC: Madame, Monsieur, votre demande d'aide à l'installation en milieu rural a été acceptée. Vous recevrez 5 000 euros pour l'ouverture de votre épicerie, à condition que le commerce reste ouvert au moins trois ans. En cas de fermeture anticipée, l'aide devra être remboursée.
+Q: Que se passe-t-il si l'épicerie ferme avant trois ans ?
++ L'aide doit être remboursée. | « l'aide devra être remboursée ».
+- L'aide est doublée. | Ce n'est pas dit.
+- Rien. | Il faut rembourser.
+- L'épicerie reçoit une amende. | Ce n'est pas dit.
+EXP: « Anticipé » = qui arrive plus tôt que prévu.
+
+## CE 7 | B1 | publicité | intention
+DOC: Envie de goûter autre chose ? Essayez nos chips de grillons au paprika ! Riches en protéines, élevés en France, sans antibiotiques. Une collation originale et écologique. Disponible en magasins bio.
+Q: Quel argument met en avant la publicité ?
++ Un produit riche en protéines et écologique. | « Riches en protéines… écologique ».
+- Un produit sans calories. | Ce n'est pas dit.
+- Un produit importé d'Asie. | Élevés en France.
+- Un produit très bon marché. | Ce n'est pas dit.
+EXP: Relevez les qualités annoncées.
+
+## CE 8 | B1 | message professionnel | information précise
+DOC: Chers collègues, pour réduire nos émissions et nos frais, l'entreprise lance une plateforme de covoiturage interne. Les conducteurs bénéficieront d'une place de parking réservée près de l'entrée. Inscriptions sur l'intranet avant le 1er avril.
+Q: Quel avantage auront les conducteurs ?
++ Une place de parking réservée. | « une place de parking réservée près de l'entrée ».
+- De l'essence gratuite. | Ce n'est pas dit.
+- Une prime mensuelle. | Ce n'est pas dit.
+- Des jours de congé. | Ce n'est pas dit.
+EXP: Repérez le mot « bénéficier ».
+
+## CE 9 | B1 | témoignage | opinion
+DOC: « J'ai passé un an au Cambodge comme volontaire dans une école. Je pensais apporter beaucoup, mais j'ai surtout reçu : une autre façon de voir le temps, la famille, la solidarité. Je suis rentrée transformée. » Élodie, 26 ans.
+Q: Comment Élodie résume-t-elle son expérience ?
++ Elle a reçu plus qu'elle n'a donné. | « j'ai surtout reçu ».
+- Elle a été déçue. | Elle est rentrée transformée.
+- Elle n'a rien appris. | Elle a beaucoup reçu.
+- Elle regrette d'être partie. | Ce n'est pas dit.
+EXP: « Je pensais… mais » oppose attente et réalité.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: Le nombre de boulangeries dans les communes rurales a diminué d'un tiers en vingt ans. Pour maintenir ce service essentiel, certaines mairies rachètent les locaux et les louent à bas prix à de jeunes artisans. D'autres soutiennent des tournées en camion qui desservent plusieurs villages.
+Q: Que font certaines mairies pour maintenir les boulangeries ?
++ Elles rachètent les locaux et les louent à bas prix. | C'est une des solutions citées.
+- Elles interdisent les supermarchés. | Ce n'est pas dit.
+- Elles fabriquent elles-mêmes le pain. | Ce n'est pas dit.
+- Elles ferment les boulangeries. | C'est l'inverse.
+EXP: « Pour maintenir » introduit le but des mesures.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: On célèbre volontiers la gastronomie française à l'étranger. Pourtant, dans nos cantines, nos autoroutes et nos zones commerciales, la malbouffe industrielle progresse. Défendre notre patrimoine culinaire, ce n'est pas seulement l'inscrire à l'UNESCO : c'est aussi permettre à chacun de bien manger au quotidien.
+Q: Quelle est l'intention de l'auteur ?
++ Souligner l'écart entre l'image et la réalité de l'alimentation. | « Pourtant… la malbouffe progresse ».
+- Critiquer l'UNESCO. | Ce n'est pas son but.
+- Faire la publicité des restaurants. | Ce n'est pas dit.
+- Défendre la malbouffe. | Il la dénonce.
+EXP: « Pourtant » révèle une contradiction.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Bonjour Paul, j'ai visité la ferme que tu voulais reprendre. Les bâtiments sont en bon état, mais le terrain est très escarpé : il sera difficile d'y faire passer un tracteur. Réfléchis bien avant de signer. Amitiés, Marc.
+Q: Que signifie « escarpé » ?
++ En pente raide. | Un tracteur aurait du mal à passer.
+- Très plat. | C'est l'inverse.
+- Très humide. | Ce n'est pas le sens.
+- Très petit. | Ce n'est pas le sens.
+EXP: Le contexte (tracteur) aide à comprendre.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: Une étude européenne montre que les consommateurs sont plus disposés à manger des insectes lorsqu'ils sont transformés en farine et intégrés à des produits familiers, comme des pâtes ou des biscuits. En revanche, seuls 10 % accepteraient de manger un insecte entier et reconnaissable.
+Q: Dans quelle forme les consommateurs acceptent-ils le mieux les insectes ?
++ Sous forme de farine dans des produits familiers. | « transformés en farine et intégrés à des produits familiers ».
+- Entiers et reconnaissables. | Seuls 10 % l'accepteraient.
+- Crus. | Ce n'est pas dit.
+- En plats exotiques. | Ce n'est pas dit.
+EXP: « En revanche » oppose deux comportements.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Monsieur, vous avez été retenu pour un volontariat international en entreprise (VIE) au sein de notre filiale de Singapour, pour une durée de dix-huit mois. Votre indemnité mensuelle s'élèvera à 3 800 euros, non imposable en France. Le logement reste à votre charge, mais une aide à la recherche vous sera apportée.
+Q: Qu'est-ce qui reste à la charge du volontaire ?
++ Le logement. | « Le logement reste à votre charge ».
+- Les impôts sur l'indemnité. | Elle n'est pas imposable.
+- Le billet d'avion. | Ce n'est pas dit.
+- Rien. | Le logement est à sa charge.
+EXP: « À la charge de » = à payer par.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: Les néoruraux apportent souvent des compétences et des projets nouveaux. Néanmoins, leur intégration n'est pas toujours facile : certains se plaignent du chant du coq ou de l'odeur des vaches, au grand étonnement des agriculteurs.
+Q: Quelle relation logique introduit « Néanmoins » ?
++ Une opposition. | Il nuance l'idée positive précédente.
+- Une cause. | Ce n'est pas une cause.
+- Une conséquence. | Ce n'est pas une conséquence.
+- Un ajout. | Il oppose.
+EXP: « Néanmoins » = cependant.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: Faut-il subventionner le covoiturage en zone rurale ? Pour la chroniqueuse, c'est une solution d'appoint, utile mais insuffisante : « On ne remplace pas une ligne de bus par une application. Les personnes âgées sans smartphone et les jeunes sans permis restent isolés. »
+Q: Quelle est l'opinion de la chroniqueuse ?
++ Le covoiturage est utile mais ne suffit pas. | « utile mais insuffisante ».
+- Le covoiturage résout tous les problèmes. | Il est insuffisant.
+- Il faut supprimer les bus. | Ce n'est pas dit.
+- Les jeunes ont tous le permis. | Certains n'en ont pas.
+EXP: « Solution d'appoint » = solution complémentaire.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: Le volontariat de solidarité internationale (VSI) est ouvert à toute personne majeure, sans condition de diplôme ni de nationalité, à condition de résider en France. La mission, d'une durée de un à six ans, est réalisée auprès d'une association agréée. Le volontaire bénéficie d'une couverture sociale complète.
+Q: Quelle condition faut-il remplir pour un VSI ?
++ Être majeur et résider en France. | « toute personne majeure… à condition de résider en France ».
+- Avoir la nationalité française. | « sans condition… de nationalité ».
+- Avoir un diplôme universitaire. | « sans condition de diplôme ».
+- Avoir moins de 28 ans. | Ce n'est pas dit.
+EXP: Lisez attentivement les conditions et les absences de conditions.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « Nous avons quitté Paris pour le calme de la campagne. La première nuit, entre les grenouilles, le chien du voisin et les cloches de l'église, nous n'avons pas fermé l'œil. » Céline, 39 ans.
+Q: Que sous-entend Céline avec humour ?
++ La campagne n'est pas aussi calme qu'elle l'imaginait. | Elle énumère les bruits.
+- Elle regrette Paris. | Ce n'est pas dit clairement.
+- Elle a très bien dormi. | « nous n'avons pas fermé l'œil ».
+- Elle n'aime pas les animaux. | Ce n'est pas dit.
+EXP: « Ne pas fermer l'œil » = ne pas dormir.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Faut-il servir des repas à base d'insectes dans les cantines ? Les partisans y voient une source de protéines durable et une manière d'habituer les enfants dès le plus jeune âge. Les opposants dénoncent une expérimentation sur les enfants et rappellent que les risques d'allergie sont encore mal connus.
+Q: Quel argument avancent les partisans ?
++ Habituer les enfants tôt à une protéine durable. | « une source de protéines durable… habituer les enfants ».
+- Les risques d'allergie. | C'est l'argument des opposants.
+- Une expérimentation sur les enfants. | C'est une critique.
+- Le prix élevé. | Ce n'est pas dit.
+EXP: Distinguez les arguments de chaque camp.
+
+## CE 20 | B2 | article de presse | information détaillée
+DOC: La Bretagne a lancé un programme pour former 500 nouveaux agriculteurs d'ici 2030. Les candidats, souvent issus d'autres métiers, suivent une formation de neuf mois, dont trois de stage dans une ferme. La région les aide ensuite à trouver des terres, en lien avec les agriculteurs qui partent à la retraite.
+Q: Combien de temps dure le stage ?
++ Trois mois. | « dont trois de stage dans une ferme ».
+- Neuf mois. | C'est la durée totale de la formation.
+- Cinq ans. | Ce n'est pas dit.
+- Un mois. | Ce n'est pas dit.
+EXP: « Dont » introduit une partie d'un ensemble.
+
+## CE 21 | C1 | texte argumentatif | thèse
+DOC: L'exode urbain dont on parle tant relève davantage du récit médiatique que d'une réalité statistique. Certes, quelques villages ont vu arriver des télétravailleurs. Mais les grandes métropoles continuent de gagner des habitants, et les campagnes les plus isolées, elles, poursuivent leur déclin.
+Q: Quelle est la thèse de l'auteur ?
++ L'exode urbain est surestimé. | « relève davantage du récit médiatique ».
+- Tout le monde quitte les villes. | Les métropoles gagnent des habitants.
+- Les campagnes isolées se repeuplent. | Elles poursuivent leur déclin.
+- Le télétravail n'existe pas. | Ce n'est pas dit.
+EXP: « Certes… Mais » : concession puis thèse.
+
+## CE 22 | C1 | article de presse | information implicite
+DOC: Le fast-food a été inauguré en grande pompe sur la place du village, juste en face de l'ancienne auberge, fermée l'an dernier faute de repreneur. Le maire s'est félicité de « la création de huit emplois ». L'auberge en comptait douze.
+Q: Que laisse entendre l'article ?
++ Le bilan en emplois est en réalité négatif. | Huit emplois créés contre douze perdus.
+- Le village a gagné des emplois. | Il en a perdu.
+- L'auberge a été reprise. | Elle est fermée.
+- Le maire est contre le fast-food. | Il s'en félicite.
+EXP: La dernière phrase, brève, renverse le discours officiel.
+
+## CE 23 | C1 | texte argumentatif | ton
+DOC: Rien de tel qu'une semaine de « mission humanitaire » à 2 000 euros pour repeindre une école au Népal, entre deux excursions en montagne, et rapporter des photos avec des enfants souriants pour son profil sur les réseaux sociaux. Les enfants, eux, verront passer un autre groupe la semaine suivante.
+Q: Quel est le ton de l'auteur ?
++ Ironique et critique. | « Rien de tel que » est ironique.
+- Enthousiaste. | Il critique.
+- Neutre. | Il prend position.
+- Nostalgique. | Ce n'est pas le cas.
+EXP: L'énumération ironique dénonce une pratique.
+
+## CE 24 | C1 | article de presse | relation logique
+DOC: Alors que les consommateurs plébiscitent les produits locaux, les agriculteurs qui les produisent peinent souvent à en vivre. Ce décalage s'explique notamment par le poids des intermédiaires, qui captent une part importante du prix final, si bien que la vente directe apparaît comme une condition de survie pour de nombreuses exploitations.
+Q: Pourquoi la vente directe est-elle une condition de survie ?
++ Parce qu'elle évite les intermédiaires qui captent une part du prix. | « le poids des intermédiaires ».
+- Parce que les consommateurs refusent les produits locaux. | Ils les plébiscitent.
+- Parce que les supermarchés sont fermés. | Ce n'est pas dit.
+- Parce que les produits locaux sont chers à produire. | Ce n'est pas l'explication donnée.
+EXP: « Si bien que » introduit la conséquence.
+
+## CE 25 | C1 | document informatif | reformulation
+DOC: La mention « produit de la ferme » est réservée aux produits élaborés sur l'exploitation, à partir de matières premières qui en sont issues, selon des méthodes traditionnelles. L'utilisation abusive de cette mention constitue une pratique commerciale trompeuse passible de sanctions.
+Q: Quelle reformulation correspond au texte ?
++ Seuls les produits fabriqués sur la ferme avec ses propres matières peuvent porter cette mention. | C'est la définition donnée.
+- Tout produit agricole peut porter cette mention. | Elle est réservée.
+- La mention est purement décorative. | Son abus est sanctionné.
+- Les produits industriels peuvent l'utiliser. | Il faut des méthodes traditionnelles.
+EXP: « Être réservé à » limite l'usage.
+
+## EE 1 | A2 | écrire un message
+CONSIGNE: Vous proposez un covoiturage pour aller à un festival. Vous écrivez une annonce sur un site de covoiturage (30 à 60 mots).
+MODELE: Je pars de Toulouse samedi 12 juillet à 9 heures pour le festival de Carcassonne. J'ai trois places dans ma voiture. Retour dimanche vers 18 heures. Participation : 10 euros par personne. Petits bagages uniquement. Bonne ambiance garantie ! Contactez-moi sur le site. Romain
+POINTS: trajet ; date et heure ; places ; retour ; prix ; conditions
+CONSEILS: Une annonce doit donner toutes les informations pratiques.
+
+## EE 2 | B1 | décrire une tradition
+CONSIGNE: Vous présentez un plat ou une tradition culinaire de votre pays ou de votre région sur un blog de cuisine (40 à 90 mots).
+MODELE: Chez moi, en Tunisie, le couscous du vendredi est une véritable tradition. Ma grand-mère prépare la semoule à la main, puis la fait cuire à la vapeur au-dessus d'un bouillon de légumes et de poisson. Toute la famille se réunit autour d'un grand plat commun. Chaque région a sa recette : au poisson sur la côte, à l'agneau à l'intérieur du pays. Pour moi, ce plat représente le partage et la chaleur familiale. Je vous conseille de le goûter !
+POINTS: présentation ; préparation ; moment de consommation ; variantes ; valeur symbolique
+CONSEILS: Le présent de vérité générale décrit une tradition.
+
+## EE 3 | B2 | argumenter sur un sujet de société
+CONSIGNE: « Pour sauver les villages, l'État devrait aider financièrement les citadins qui s'installent à la campagne. » Vous réagissez à cette proposition dans un forum en ligne (40 à 90 mots).
+MODELE: L'intention est louable, mais je doute que l'argent suffise. Une aide financière peut convaincre quelques familles, certes. Cependant, si le village n'a ni école, ni médecin, ni transports, les nouveaux habitants repartiront vite. À mon avis, il vaudrait mieux investir dans les services publics et la couverture Internet : ce sont eux qui rendent la vie rurale possible. De plus, il faudrait veiller à ce que ces arrivées ne fassent pas grimper les prix pour les habitants. Revitaliser, oui, mais durablement.
+POINTS: position nuancée ; concession ; objection ; alternative ; mise en garde ; conclusion
+CONSEILS: « Il vaudrait mieux » propose une alternative.
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous pose des questions sur votre alimentation, votre lieu de vie et vos projets.
+RELANCES: Préférez-vous la ville ou la campagne ? / Quel est votre plat préféré ? / Savez-vous cuisiner un plat traditionnel ? / Mangeriez-vous des insectes ? / Faites-vous du covoiturage ? / Aimeriez-vous partir faire du volontariat à l'étranger ?
+PHRASES: Je préfère… parce que… / Mon plat préféré, c'est… / Je sais préparer… / Je ne suis pas sûr de… / J'aimerais bien…
+MODELE: Je préfère la ville, parce que j'aime avoir des cinémas et des restaurants près de chez moi. Mon plat préféré, c'est le tajine aux pruneaux. Je sais préparer le couscous, ma mère me l'a appris. Je ne suis pas sûr de pouvoir manger des insectes, mais je pourrais goûter des biscuits à la farine de grillon. Je fais du covoiturage pour aller voir ma famille. J'aimerais bien faire du volontariat en Afrique un jour.
+
+## EO 2 | B2 | Négocier une reprise | Agriculteur partant à la retraite
+SCENARIO: Vous voulez reprendre une petite ferme pour y produire des légumes bio. L'examinateur joue le rôle de l'agriculteur qui part à la retraite et hésite à vous la vendre. Convainquez-le et négociez les conditions.
+RELANCES: Bonjour, vous venez pour la ferme ? / Vous n'avez jamais été agriculteur ! / Mon voisin veut agrandir sa propre exploitation. / Le prix est de 250 000 euros. / Je voudrais que les terres restent cultivées. / Que proposez-vous ?
+PHRASES: Je comprends votre inquiétude… / J'ai suivi une formation de… / Mon projet consiste à… / Serait-il possible de… ? / Je m'engage à…
+MODELE: Je comprends votre inquiétude : je viens d'un autre métier. Mais j'ai suivi une formation agricole d'un an et fait un stage dans une ferme bio. Mon projet consiste à vendre des légumes en circuit court, au marché et aux cantines du canton. Serait-il possible de payer en plusieurs fois, ou de louer les terres pendant deux ans avant l'achat ? Je m'engage à garder les terres cultivées, et j'aimerais beaucoup que vous me transmettiez vos conseils.
+
+## EO 3 | B2 | Les insectes : l'alimentation de demain ? | Examinateur
+SCENARIO: Donnez votre opinion : « Faut-il encourager la consommation d'insectes pour nourrir la planète ? » Argumentez, donnez des exemples, nuancez et concluez.
+RELANCES: Quelle est votre opinion ? / Quels sont les avantages écologiques ? / Pourquoi les Européens sont-ils réticents ? / Existe-t-il d'autres solutions ? / Votre conclusion ?
+PHRASES: Pour ma part… / D'un point de vue écologique… / Il faut toutefois reconnaître que… / Une autre piste serait… / Tout compte fait…
+MODELE: Pour ma part, je pense que les insectes peuvent faire partie de la solution, sans être la seule. D'un point de vue écologique, ils demandent très peu d'eau et de nourriture, et émettent peu de gaz à effet de serre. Dans de nombreux pays d'Asie et d'Afrique, on en mange depuis toujours. Il faut toutefois reconnaître que le dégoût est fort en Europe. Une autre piste serait de réduire le gaspillage et de manger davantage de légumineuses. Tout compte fait, encourager oui, imposer non.

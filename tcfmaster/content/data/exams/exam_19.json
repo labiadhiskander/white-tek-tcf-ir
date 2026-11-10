@@ -1,0 +1,1977 @@
+{
+ "code": "EXAM-19",
+ "title": "Examen blanc n° 19 – Terroirs, campagnes et engagement international",
+ "level": "B2",
+ "description": "Examen complet calibré B1–B2 : gastronomie et savoir-faire, néoruraux, covoiturage rural, volontariat international, alimentation de demain.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "F: Salut Hugo, c'est Clara. Je fais le trajet Lyon–Grenoble en covoiturage vendredi à 18 heures. Il reste une place. Ça coûte 8 euros. Tu veux venir ?",
+   "prompt": "Combien coûte le trajet ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "10 euros.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Gratuit.",
+     "correct": false,
+     "rationale": "Il faut payer."
+    },
+    {
+     "label": "C",
+     "text": "8 euros.",
+     "correct": true,
+     "rationale": "« Ça coûte 8 euros »."
+    },
+    {
+     "label": "D",
+     "text": "18 euros.",
+     "correct": false,
+     "rationale": "18 heures est l'heure de départ."
+    }
+   ],
+   "explanation": "Ne confondez pas l'heure et le prix.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Ce dimanche, grand marché des producteurs locaux sur la place de l'église, de 8 heures à 13 heures. Venez goûter les fromages, le miel et les vins de la région. Animation musicale à partir de 11 heures.",
+   "prompt": "À quelle heure commence l'animation musicale ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À 13 heures.",
+     "correct": false,
+     "rationale": "C'est la fermeture."
+    },
+    {
+     "label": "B",
+     "text": "À 10 heures.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "À 8 heures.",
+     "correct": false,
+     "rationale": "C'est l'ouverture du marché."
+    },
+    {
+     "label": "D",
+     "text": "À 11 heures.",
+     "correct": true,
+     "rationale": "« Animation musicale à partir de 11 heures »."
+    }
+   ],
+   "explanation": "« À partir de » indique le début.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "H: Alors, la vie à la campagne, ça te plaît ? / F: Beaucoup ! C'est calme et j'ai un grand jardin. Le seul problème, c'est qu'il n'y a pas de boulangerie au village. / H: Tu fais comment ? / F: Un camion passe deux fois par semaine.",
+   "prompt": "Quel est le problème au village ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il y a trop de bruit.",
+     "correct": false,
+     "rationale": "C'est calme."
+    },
+    {
+     "label": "B",
+     "text": "Il n'y a pas de boulangerie.",
+     "correct": true,
+     "rationale": "« il n'y a pas de boulangerie au village »."
+    },
+    {
+     "label": "C",
+     "text": "Le jardin est petit.",
+     "correct": false,
+     "rationale": "Il est grand."
+    },
+    {
+     "label": "D",
+     "text": "Le camion ne passe jamais.",
+     "correct": false,
+     "rationale": "Il passe deux fois par semaine."
+    }
+   ],
+   "explanation": "« Le seul problème, c'est » introduit l'inconvénient.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "F: J'aimerais partir un an à l'étranger pour aider dans un projet humanitaire, mais je n'ai pas d'argent. / H: Tu connais le volontariat de solidarité internationale ? Tu es logée, nourrie et tu reçois une petite indemnité. Renseigne-toi auprès de France Volontaires.",
+   "prompt": "Que conseille l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De se renseigner sur le volontariat international.",
+     "correct": true,
+     "rationale": "« Renseigne-toi auprès de France Volontaires »."
+    },
+    {
+     "label": "B",
+     "text": "De travailler pour économiser.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "De renoncer à son projet.",
+     "correct": false,
+     "rationale": "Il propose une solution."
+    },
+    {
+     "label": "D",
+     "text": "De partir en vacances.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "L'impératif final formule le conseil.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "H: Bonjour Madame Faure, ici le restaurant Le Terroir. Pour votre repas d'anniversaire samedi, nous vous confirmons la table pour douze personnes. Le chef propose un menu spécial à 35 euros par personne, boissons non comprises. Merci de nous signaler les éventuelles allergies avant jeudi.",
+   "prompt": "Que doit faire Mme Faure avant jeudi ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Choisir les boissons.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Payer le repas.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Signaler les allergies.",
+     "correct": true,
+     "rationale": "« signaler les éventuelles allergies avant jeudi »."
+    },
+    {
+     "label": "D",
+     "text": "Confirmer le nombre de personnes.",
+     "correct": false,
+     "rationale": "C'est déjà confirmé."
+    }
+   ],
+   "explanation": "« Merci de » introduit une demande.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information précise",
+   "document": "F: Dans les Hautes-Alpes, une plateforme de covoiturage pour les petits trajets du quotidien vient d'être lancée. Les conducteurs reçoivent deux euros par passager, payés par le département. Les passagers, eux, voyagent gratuitement.",
+   "prompt": "Combien paient les passagers ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La moitié du trajet.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Rien.",
+     "correct": true,
+     "rationale": "« Les passagers, eux, voyagent gratuitement »."
+    },
+    {
+     "label": "C",
+     "text": "Un abonnement mensuel.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Deux euros.",
+     "correct": false,
+     "rationale": "C'est ce que reçoivent les conducteurs."
+    }
+   ],
+   "explanation": "« Eux » met en contraste les passagers et les conducteurs.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Vous avez quitté Paris pour élever des chèvres dans le Larzac. Comment s'est passée l'adaptation ? / F: Les premiers mois ont été difficiles : le travail ne s'arrête jamais, même le dimanche. Mais les voisins m'ont beaucoup aidée, et aujourd'hui, je vends mes fromages au marché. Je ne reviendrais pour rien au monde.",
+   "prompt": "Qu'est-ce qui a aidé la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ses voisins.",
+     "correct": true,
+     "rationale": "« les voisins m'ont beaucoup aidée »."
+    },
+    {
+     "label": "B",
+     "text": "Les touristes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Une aide de l'État.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Sa famille parisienne.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Mais » introduit l'aspect positif.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: La mairie de Saint-Julien offre un an de loyer gratuit aux familles qui viendront s'installer dans le village et reprendre un commerce fermé. Les candidats doivent présenter un projet d'activité. Les dossiers sont à déposer avant le 31 mars.",
+   "prompt": "Que doivent présenter les candidats ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un an de loyer.",
+     "correct": false,
+     "rationale": "C'est ce qui est offert."
+    },
+    {
+     "label": "B",
+     "text": "Un diplôme de commerce.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Une lettre du maire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Un projet d'activité.",
+     "correct": true,
+     "rationale": "« Les candidats doivent présenter un projet d'activité »."
+    }
+   ],
+   "explanation": "« Doivent » marque l'obligation.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "situation administrative",
+   "skill": "information précise",
+   "document": "F: Bonjour, je voudrais partir en volontariat international en entreprise. Quelles sont les conditions ? / H: Il faut avoir entre dix-huit et vingt-huit ans et être citoyen de l'Union européenne. La mission dure de six à vingt-quatre mois. Vous percevez une indemnité qui dépend du pays d'affectation.",
+   "prompt": "De quoi dépend l'indemnité ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Du pays d'affectation.",
+     "correct": true,
+     "rationale": "« une indemnité qui dépend du pays d'affectation »."
+    },
+    {
+     "label": "B",
+     "text": "De l'âge.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Du diplôme.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "De la durée de la mission.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Dépendre de » introduit une variable.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "conversation professionnelle",
+   "skill": "information précise",
+   "document": "H: Pour le nouveau menu, on ajoute un plat à base d'insectes ? / F: C'est un peu tôt, les clients ne sont pas prêts. Commençons par un apéritif dégustation, gratuit, pour voir leur réaction. / H: D'accord, on teste pendant un mois.",
+   "prompt": "Que propose la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Augmenter les prix.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Supprimer le nouveau menu.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Une dégustation gratuite pour tester.",
+     "correct": true,
+     "rationale": "« Commençons par un apéritif dégustation, gratuit »."
+    },
+    {
+     "label": "D",
+     "text": "Un plat principal à base d'insectes.",
+     "correct": false,
+     "rationale": "C'est trop tôt selon elle."
+    }
+   ],
+   "explanation": "« Commençons par » propose une première étape.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "F: L'arrivée des néoruraux redonne vie aux villages : les écoles rouvrent, les commerces reprennent. / H: C'est vrai, mais elle fait aussi flamber les prix de l'immobilier. Les jeunes du village ne peuvent plus acheter de maison là où ils ont grandi. Il faudrait réserver une partie des logements aux habitants locaux.",
+   "prompt": "Que propose l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Fermer les écoles.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Réserver des logements aux habitants locaux.",
+     "correct": true,
+     "rationale": "« réserver une partie des logements aux habitants locaux »."
+    },
+    {
+     "label": "C",
+     "text": "Augmenter les prix de l'immobilier.",
+     "correct": false,
+     "rationale": "C'est le problème."
+    },
+    {
+     "label": "D",
+     "text": "Interdire l'arrivée de néoruraux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Il faudrait » introduit une proposition.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "H: Depuis la crise sanitaire, le solde migratoire des villes moyennes et des campagnes est devenu positif : davantage de gens s'y installent qu'il n'en partent. Le télétravail a joué un rôle, mais les spécialistes notent que ce mouvement reste modeste et concerne surtout des cadres et des retraités.",
+   "prompt": "Quelle nuance les spécialistes apportent-ils ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le télétravail n'a joué aucun rôle.",
+     "correct": false,
+     "rationale": "Il a joué un rôle."
+    },
+    {
+     "label": "B",
+     "text": "Le mouvement reste limité et concerne surtout certaines catégories.",
+     "correct": true,
+     "rationale": "« reste modeste et concerne surtout des cadres et des retraités »."
+    },
+    {
+     "label": "C",
+     "text": "Tout le monde quitte les villes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le mouvement est massif.",
+     "correct": false,
+     "rationale": "Il est modeste."
+    }
+   ],
+   "explanation": "« Mais » introduit la nuance.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous êtes chef cuisinier. Que pensez-vous de l'inscription du repas gastronomique des Français au patrimoine de l'UNESCO ? / H: C'est une belle reconnaissance, mais attention à ne pas figer la cuisine dans un musée. La gastronomie vit parce qu'elle évolue, qu'elle s'enrichit des influences venues d'ailleurs.",
+   "prompt": "Quelle réserve le chef exprime-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'UNESCO a eu tort.",
+     "correct": false,
+     "rationale": "Il parle de belle reconnaissance."
+    },
+    {
+     "label": "B",
+     "text": "Il faut refuser les influences étrangères.",
+     "correct": false,
+     "rationale": "Il dit le contraire."
+    },
+    {
+     "label": "C",
+     "text": "La gastronomie française est morte.",
+     "correct": false,
+     "rationale": "Elle vit et évolue."
+    },
+    {
+     "label": "D",
+     "text": "Il ne faut pas figer la cuisine.",
+     "correct": true,
+     "rationale": "« attention à ne pas figer la cuisine dans un musée »."
+    }
+   ],
+   "explanation": "« Attention à » introduit une mise en garde.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "message téléphonique",
+   "skill": "intention",
+   "document": "H: Bonjour Mademoiselle Kouassi, ici l'association Terre Solidaire. Votre candidature pour la mission d'enseignement au Bénin a retenu notre attention. Avant de valider votre départ, nous vous demandons de suivre une formation de préparation au départ de trois jours, du 4 au 6 juin. Merci de nous confirmer votre participation.",
+   "prompt": "Que demande l'association ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De payer la mission.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "De suivre une formation avant le départ.",
+     "correct": true,
+     "rationale": "« suivre une formation de préparation au départ »."
+    },
+    {
+     "label": "C",
+     "text": "De choisir un autre pays.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "De partir immédiatement.",
+     "correct": false,
+     "rationale": "Il faut d'abord la formation."
+    }
+   ],
+   "explanation": "« Avant de » indique une étape préalable.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "relation logique",
+   "document": "F: Pourquoi le covoiturage marche-t-il si mal à la campagne ? / H: Les trajets sont très dispersés : chacun va dans une direction différente, à des heures différentes. Comme il est difficile de trouver quelqu'un qui fait exactement le même trajet, les gens reprennent leur voiture seuls.",
+   "prompt": "Pourquoi le covoiturage fonctionne-t-il mal à la campagne ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce qu'il n'y a pas de routes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Parce que l'essence est gratuite.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Parce que les gens n'aiment pas parler.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce que les trajets sont très variés.",
+     "correct": true,
+     "rationale": "« Les trajets sont très dispersés »."
+    }
+   ],
+   "explanation": "« Comme » introduit la cause en début de phrase.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "H: Votre entreprise élève des grillons pour l'alimentation humaine. Quels sont les avantages ? / F: Pour produire un kilo de protéines, les grillons ont besoin de douze fois moins de nourriture que les bovins et de presque pas d'eau. Ils émettent aussi très peu de gaz à effet de serre. Le seul obstacle, c'est notre dégoût culturel.",
+   "prompt": "Quel est le principal obstacle selon la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le manque d'eau.",
+     "correct": false,
+     "rationale": "Les grillons en consomment peu."
+    },
+    {
+     "label": "B",
+     "text": "Les émissions de gaz.",
+     "correct": false,
+     "rationale": "Elles sont très faibles."
+    },
+    {
+     "label": "C",
+     "text": "Le coût de production.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le dégoût culturel.",
+     "correct": true,
+     "rationale": "« Le seul obstacle, c'est notre dégoût culturel »."
+    }
+   ],
+   "explanation": "« Le seul obstacle » identifie la difficulté.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-CA"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: La ligne de bus 32, qui reliait les villages de la vallée à la ville, est supprimée à compter du 1er septembre. Elle sera remplacée par un service de transport à la demande : il suffira de réserver son trajet la veille avant 18 heures, par téléphone ou sur l'application.",
+   "prompt": "Comment fonctionnera le nouveau service ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le service sera réservé aux personnes âgées.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Il faudra acheter un abonnement annuel.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Le bus passera toutes les heures.",
+     "correct": false,
+     "rationale": "La ligne est supprimée."
+    },
+    {
+     "label": "D",
+     "text": "Il faudra réserver la veille avant 18 heures.",
+     "correct": true,
+     "rationale": "« réserver son trajet la veille avant 18 heures »."
+    }
+   ],
+   "explanation": "« À la demande » = sur réservation.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: Les jeunes volontaires partis en mission humanitaire reviennent souvent avec un regard différent sur leur propre pays. Cependant, des ONG mettent en garde contre le « volontourisme », ces séjours courts et payants où des jeunes sans qualification construisent des écoles qu'un artisan local aurait mieux bâties, privant parfois ce dernier de travail.",
+   "prompt": "Que reprochent les ONG au « volontourisme » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il coûte trop cher aux États.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Il dure trop longtemps.",
+     "correct": false,
+     "rationale": "Les séjours sont courts."
+    },
+    {
+     "label": "C",
+     "text": "Il change le regard des jeunes.",
+     "correct": false,
+     "rationale": "C'est un effet positif."
+    },
+    {
+     "label": "D",
+     "text": "Il peut priver des travailleurs locaux d'emploi.",
+     "correct": true,
+     "rationale": "« privant parfois ce dernier de travail »."
+    }
+   ],
+   "explanation": "« Mettre en garde contre » = avertir d'un danger.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "H: Manger des insectes, c'est l'avenir pour nourrir la planète. / F: Peut-être, mais commençons par réduire le gaspillage : un tiers de la nourriture produite dans le monde est jetée. Avant de changer nos assiettes, utilisons mieux ce que nous produisons déjà.",
+   "prompt": "Quelle priorité la femme défend-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Manger des insectes.",
+     "correct": false,
+     "rationale": "C'est la proposition de l'homme."
+    },
+    {
+     "label": "B",
+     "text": "Produire davantage.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Supprimer la viande.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Réduire le gaspillage alimentaire.",
+     "correct": true,
+     "rationale": "« commençons par réduire le gaspillage »."
+    }
+   ],
+   "explanation": "« Avant de » établit une priorité.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous êtes artisan fromager depuis quarante ans. Votre savoir-faire va-t-il se transmettre ? / H: J'ai un apprenti de vingt ans, très doué. Mais beaucoup de petits producteurs ne trouvent pas de successeur. Le métier est dur et mal payé. Si rien ne change, des fromages centenaires vont disparaître.",
+   "prompt": "Quelle inquiétude l'artisan exprime-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La disparition de fromages faute de successeurs.",
+     "correct": true,
+     "rationale": "« des fromages centenaires vont disparaître »."
+    },
+    {
+     "label": "B",
+     "text": "Le métier est trop facile.",
+     "correct": false,
+     "rationale": "Il est dur."
+    },
+    {
+     "label": "C",
+     "text": "Les clients n'aiment plus le fromage.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Son apprenti n'est pas doué.",
+     "correct": false,
+     "rationale": "Il est très doué."
+    }
+   ],
+   "explanation": "« Si rien ne change » introduit une hypothèse inquiétante.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "F: L'Union européenne a autorisé la commercialisation de plusieurs insectes comme aliments, dont le grillon domestique et le ver de farine. Les produits concernés doivent porter un étiquetage clair, mentionnant notamment un risque d'allergie croisée pour les personnes allergiques aux crustacés et aux acariens.",
+   "prompt": "Quelle information l'étiquetage doit-il mentionner ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le pays d'origine uniquement.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Le prix au kilo.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Un risque d'allergie pour certaines personnes.",
+     "correct": true,
+     "rationale": "« un risque d'allergie croisée »."
+    },
+    {
+     "label": "D",
+     "text": "Une interdiction aux enfants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Notamment » introduit un élément important.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "H: Je voulais te parler de ton projet de partir en volontariat au Sénégal. / F: Oui, je pars pour un an en septembre. / H: Nous aimerions te garder dans l'équipe. Que dirais-tu d'un congé sans solde ? Ton poste t'attendrait à ton retour.",
+   "prompt": "Que propose l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une augmentation pour qu'elle reste.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Un congé sans solde avec retour garanti.",
+     "correct": true,
+     "rationale": "« Ton poste t'attendrait à ton retour »."
+    },
+    {
+     "label": "C",
+     "text": "De partir avec elle.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Une démission.",
+     "correct": false,
+     "rationale": "Il veut la garder."
+    }
+   ],
+   "explanation": "« Que dirais-tu de » formule une proposition.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "point de vue implicite",
+   "document": "F: Ces jeunes cadres qui s'installent à la campagne relancent l'économie locale. / H: Ils font leurs courses en ligne, travaillent pour des entreprises parisiennes et mettent leurs enfants dans des écoles privées en ville. On peut se demander ce qu'ils apportent vraiment au village, à part une hausse des prix.",
+   "prompt": "Que laisse entendre l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils relancent fortement l'économie locale.",
+     "correct": false,
+     "rationale": "Il en doute."
+    },
+    {
+     "label": "B",
+     "text": "Ils font baisser les prix.",
+     "correct": false,
+     "rationale": "Ils les font monter."
+    },
+    {
+     "label": "C",
+     "text": "Ils inscrivent leurs enfants à l'école du village.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "Ces nouveaux habitants contribuent peu à la vie locale.",
+     "correct": true,
+     "rationale": "Il énumère ce qu'ils font ailleurs."
+    }
+   ],
+   "explanation": "« On peut se demander » exprime un doute critique.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "interview",
+   "skill": "nuance",
+   "document": "H: Faut-il protéger les recettes traditionnelles par la loi ? / F: Les appellations d'origine protègent les producteurs contre les imitations, c'est essentiel. Mais vouloir fixer une recette unique et définitive serait absurde : chaque famille a sa propre version du pot-au-feu. La tradition est vivante, pas figée.",
+   "prompt": "Quelle est la position de l'experte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Protéger les produits, oui ; figer les recettes, non.",
+     "correct": true,
+     "rationale": "Elle distingue les deux."
+    },
+    {
+     "label": "B",
+     "text": "Il n'existe qu'une recette de pot-au-feu.",
+     "correct": false,
+     "rationale": "Chaque famille a la sienne."
+    },
+    {
+     "label": "C",
+     "text": "Les appellations d'origine sont inutiles.",
+     "correct": false,
+     "rationale": "Elles sont essentielles."
+    },
+    {
+     "label": "D",
+     "text": "Il faut fixer une recette officielle par plat.",
+     "correct": false,
+     "rationale": "Ce serait absurde."
+    }
+   ],
+   "explanation": "« Mais » sépare deux idées à ne pas confondre.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: Si l'agriculture française produit suffisamment pour nourrir sa population, elle importe néanmoins la moitié des fruits et légumes consommés dans le pays. Ce paradoxe tient à la concurrence de pays où la main-d'œuvre coûte beaucoup moins cher, de sorte que de nombreux maraîchers français ont dû abandonner leur activité.",
+   "prompt": "Quelle est la conséquence de la concurrence étrangère ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De nombreux maraîchers ont arrêté leur activité.",
+     "correct": true,
+     "rationale": "« de sorte que de nombreux maraîchers… ont dû abandonner »."
+    },
+    {
+     "label": "B",
+     "text": "La France ne produit pas assez.",
+     "correct": false,
+     "rationale": "Elle produit suffisamment."
+    },
+    {
+     "label": "C",
+     "text": "Les fruits sont plus chers à l'étranger.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "La main-d'œuvre française est moins chère.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    }
+   ],
+   "explanation": "« De sorte que » introduit une conséquence.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "COVOITURAGE – Je vais tous les jours de Saint-Pierre à Valence. Départ 7 h 30, retour 17 h 45. Participation : 3 € par trajet. Non-fumeur. Appeler Julien au 06 78 90 12 34.",
+   "prompt": "Combien coûte un trajet ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "17,45 €.",
+     "correct": false,
+     "rationale": "C'est l'heure de retour."
+    },
+    {
+     "label": "B",
+     "text": "Gratuit.",
+     "correct": false,
+     "rationale": "Il y a une participation."
+    },
+    {
+     "label": "C",
+     "text": "3 €.",
+     "correct": true,
+     "rationale": "« Participation : 3 € par trajet »."
+    },
+    {
+     "label": "D",
+     "text": "7,30 €.",
+     "correct": false,
+     "rationale": "7 h 30 est l'heure de départ."
+    }
+   ],
+   "explanation": "Ne confondez pas les horaires et le prix."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Coucou Mamie ! Tu peux m'envoyer ta recette de tarte aux pommes ? Je veux la faire pour l'anniversaire de Lucas samedi. Merci, je t'aime ! Zoé",
+   "prompt": "Pourquoi Zoé veut-elle la recette ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour l'anniversaire de Lucas.",
+     "correct": true,
+     "rationale": "« pour l'anniversaire de Lucas samedi »."
+    },
+    {
+     "label": "B",
+     "text": "Pour la vendre.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Pour l'anniversaire de sa grand-mère.",
+     "correct": false,
+     "rationale": "C'est celui de Lucas."
+    },
+    {
+     "label": "D",
+     "text": "Pour un concours.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Pour » introduit le but."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "affiche",
+   "skill": "information précise",
+   "document": "FÊTE DU PAIN – Dimanche 14 mai. Démonstration de fabrication au four à bois à 10 h et 15 h. Atelier pour enfants à 11 h. Dégustation gratuite toute la journée. Place du village.",
+   "prompt": "À quelle heure est l'atelier pour enfants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À 11 h.",
+     "correct": true,
+     "rationale": "« Atelier pour enfants à 11 h »."
+    },
+    {
+     "label": "B",
+     "text": "À 15 h.",
+     "correct": false,
+     "rationale": "C'est une démonstration."
+    },
+    {
+     "label": "C",
+     "text": "À 10 h.",
+     "correct": false,
+     "rationale": "C'est une démonstration."
+    },
+    {
+     "label": "D",
+     "text": "Toute la journée.",
+     "correct": false,
+     "rationale": "C'est la dégustation."
+    }
+   ],
+   "explanation": "Associez chaque horaire à son activité."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "courriel",
+   "skill": "information précise",
+   "document": "Bonjour Thomas, félicitations ! Votre candidature pour la mission de volontariat en Équateur est acceptée. Le départ est prévu le 15 septembre. Vous devez faire les vaccins obligatoires (fièvre jaune) au moins dix jours avant le départ et nous envoyer votre certificat. Bien cordialement, L'équipe Solidarités Jeunesses.",
+   "prompt": "Que doit faire Thomas au moins dix jours avant le départ ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Rencontrer l'équipe.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Apprendre l'espagnol.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Acheter son billet d'avion.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Se faire vacciner contre la fièvre jaune.",
+     "correct": true,
+     "rationale": "« faire les vaccins obligatoires… au moins dix jours avant »."
+    }
+   ],
+   "explanation": "Repérez la contrainte de temps."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Dans le Cantal, un village de 300 habitants a vu sa population augmenter de 20 % en trois ans. L'ouverture d'un espace de travail partagé avec Internet très haut débit a attiré des télétravailleurs. L'école, menacée de fermeture, a ouvert une deuxième classe.",
+   "prompt": "Qu'est-ce qui a attiré de nouveaux habitants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un espace de travail avec Internet rapide.",
+     "correct": true,
+     "rationale": "« L'ouverture d'un espace de travail partagé »."
+    },
+    {
+     "label": "B",
+     "text": "Une nouvelle usine.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Des maisons gratuites.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "La fermeture de l'école.",
+     "correct": false,
+     "rationale": "L'école a ouvert une classe."
+    }
+   ],
+   "explanation": "Identifiez la cause du changement."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, Monsieur, votre demande d'aide à l'installation en milieu rural a été acceptée. Vous recevrez 5 000 euros pour l'ouverture de votre épicerie, à condition que le commerce reste ouvert au moins trois ans. En cas de fermeture anticipée, l'aide devra être remboursée.",
+   "prompt": "Que se passe-t-il si l'épicerie ferme avant trois ans ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'aide doit être remboursée.",
+     "correct": true,
+     "rationale": "« l'aide devra être remboursée »."
+    },
+    {
+     "label": "B",
+     "text": "Rien.",
+     "correct": false,
+     "rationale": "Il faut rembourser."
+    },
+    {
+     "label": "C",
+     "text": "L'épicerie reçoit une amende.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "L'aide est doublée.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Anticipé » = qui arrive plus tôt que prévu."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "publicité",
+   "skill": "intention",
+   "document": "Envie de goûter autre chose ? Essayez nos chips de grillons au paprika ! Riches en protéines, élevés en France, sans antibiotiques. Une collation originale et écologique. Disponible en magasins bio.",
+   "prompt": "Quel argument met en avant la publicité ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un produit importé d'Asie.",
+     "correct": false,
+     "rationale": "Élevés en France."
+    },
+    {
+     "label": "B",
+     "text": "Un produit sans calories.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Un produit très bon marché.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Un produit riche en protéines et écologique.",
+     "correct": true,
+     "rationale": "« Riches en protéines… écologique »."
+    }
+   ],
+   "explanation": "Relevez les qualités annoncées."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "Chers collègues, pour réduire nos émissions et nos frais, l'entreprise lance une plateforme de covoiturage interne. Les conducteurs bénéficieront d'une place de parking réservée près de l'entrée. Inscriptions sur l'intranet avant le 1er avril.",
+   "prompt": "Quel avantage auront les conducteurs ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une place de parking réservée.",
+     "correct": true,
+     "rationale": "« une place de parking réservée près de l'entrée »."
+    },
+    {
+     "label": "B",
+     "text": "Des jours de congé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "De l'essence gratuite.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Une prime mensuelle.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Repérez le mot « bénéficier »."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« J'ai passé un an au Cambodge comme volontaire dans une école. Je pensais apporter beaucoup, mais j'ai surtout reçu : une autre façon de voir le temps, la famille, la solidarité. Je suis rentrée transformée. » Élodie, 26 ans.",
+   "prompt": "Comment Élodie résume-t-elle son expérience ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle a reçu plus qu'elle n'a donné.",
+     "correct": true,
+     "rationale": "« j'ai surtout reçu »."
+    },
+    {
+     "label": "B",
+     "text": "Elle n'a rien appris.",
+     "correct": false,
+     "rationale": "Elle a beaucoup reçu."
+    },
+    {
+     "label": "C",
+     "text": "Elle a été déçue.",
+     "correct": false,
+     "rationale": "Elle est rentrée transformée."
+    },
+    {
+     "label": "D",
+     "text": "Elle regrette d'être partie.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Je pensais… mais » oppose attente et réalité."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Le nombre de boulangeries dans les communes rurales a diminué d'un tiers en vingt ans. Pour maintenir ce service essentiel, certaines mairies rachètent les locaux et les louent à bas prix à de jeunes artisans. D'autres soutiennent des tournées en camion qui desservent plusieurs villages.",
+   "prompt": "Que font certaines mairies pour maintenir les boulangeries ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elles fabriquent elles-mêmes le pain.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Elles rachètent les locaux et les louent à bas prix.",
+     "correct": true,
+     "rationale": "C'est une des solutions citées."
+    },
+    {
+     "label": "C",
+     "text": "Elles ferment les boulangeries.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "Elles interdisent les supermarchés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Pour maintenir » introduit le but des mesures."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "On célèbre volontiers la gastronomie française à l'étranger. Pourtant, dans nos cantines, nos autoroutes et nos zones commerciales, la malbouffe industrielle progresse. Défendre notre patrimoine culinaire, ce n'est pas seulement l'inscrire à l'UNESCO : c'est aussi permettre à chacun de bien manger au quotidien.",
+   "prompt": "Quelle est l'intention de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Souligner l'écart entre l'image et la réalité de l'alimentation.",
+     "correct": true,
+     "rationale": "« Pourtant… la malbouffe progresse »."
+    },
+    {
+     "label": "B",
+     "text": "Défendre la malbouffe.",
+     "correct": false,
+     "rationale": "Il la dénonce."
+    },
+    {
+     "label": "C",
+     "text": "Critiquer l'UNESCO.",
+     "correct": false,
+     "rationale": "Ce n'est pas son but."
+    },
+    {
+     "label": "D",
+     "text": "Faire la publicité des restaurants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Pourtant » révèle une contradiction."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Bonjour Paul, j'ai visité la ferme que tu voulais reprendre. Les bâtiments sont en bon état, mais le terrain est très escarpé : il sera difficile d'y faire passer un tracteur. Réfléchis bien avant de signer. Amitiés, Marc.",
+   "prompt": "Que signifie « escarpé » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "En pente raide.",
+     "correct": true,
+     "rationale": "Un tracteur aurait du mal à passer."
+    },
+    {
+     "label": "B",
+     "text": "Très petit.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "C",
+     "text": "Très plat.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "Très humide.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    }
+   ],
+   "explanation": "Le contexte (tracteur) aide à comprendre."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Une étude européenne montre que les consommateurs sont plus disposés à manger des insectes lorsqu'ils sont transformés en farine et intégrés à des produits familiers, comme des pâtes ou des biscuits. En revanche, seuls 10 % accepteraient de manger un insecte entier et reconnaissable.",
+   "prompt": "Dans quelle forme les consommateurs acceptent-ils le mieux les insectes ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "En plats exotiques.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Entiers et reconnaissables.",
+     "correct": false,
+     "rationale": "Seuls 10 % l'accepteraient."
+    },
+    {
+     "label": "C",
+     "text": "Crus.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Sous forme de farine dans des produits familiers.",
+     "correct": true,
+     "rationale": "« transformés en farine et intégrés à des produits familiers »."
+    }
+   ],
+   "explanation": "« En revanche » oppose deux comportements."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Monsieur, vous avez été retenu pour un volontariat international en entreprise (VIE) au sein de notre filiale de Singapour, pour une durée de dix-huit mois. Votre indemnité mensuelle s'élèvera à 3 800 euros, non imposable en France. Le logement reste à votre charge, mais une aide à la recherche vous sera apportée.",
+   "prompt": "Qu'est-ce qui reste à la charge du volontaire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les impôts sur l'indemnité.",
+     "correct": false,
+     "rationale": "Elle n'est pas imposable."
+    },
+    {
+     "label": "B",
+     "text": "Le billet d'avion.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Rien.",
+     "correct": false,
+     "rationale": "Le logement est à sa charge."
+    },
+    {
+     "label": "D",
+     "text": "Le logement.",
+     "correct": true,
+     "rationale": "« Le logement reste à votre charge »."
+    }
+   ],
+   "explanation": "« À la charge de » = à payer par."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "Les néoruraux apportent souvent des compétences et des projets nouveaux. Néanmoins, leur intégration n'est pas toujours facile : certains se plaignent du chant du coq ou de l'odeur des vaches, au grand étonnement des agriculteurs.",
+   "prompt": "Quelle relation logique introduit « Néanmoins » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une opposition.",
+     "correct": true,
+     "rationale": "Il nuance l'idée positive précédente."
+    },
+    {
+     "label": "B",
+     "text": "Un ajout.",
+     "correct": false,
+     "rationale": "Il oppose."
+    },
+    {
+     "label": "C",
+     "text": "Une conséquence.",
+     "correct": false,
+     "rationale": "Ce n'est pas une conséquence."
+    },
+    {
+     "label": "D",
+     "text": "Une cause.",
+     "correct": false,
+     "rationale": "Ce n'est pas une cause."
+    }
+   ],
+   "explanation": "« Néanmoins » = cependant."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "Faut-il subventionner le covoiturage en zone rurale ? Pour la chroniqueuse, c'est une solution d'appoint, utile mais insuffisante : « On ne remplace pas une ligne de bus par une application. Les personnes âgées sans smartphone et les jeunes sans permis restent isolés. »",
+   "prompt": "Quelle est l'opinion de la chroniqueuse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les jeunes ont tous le permis.",
+     "correct": false,
+     "rationale": "Certains n'en ont pas."
+    },
+    {
+     "label": "B",
+     "text": "Le covoiturage est utile mais ne suffit pas.",
+     "correct": true,
+     "rationale": "« utile mais insuffisante »."
+    },
+    {
+     "label": "C",
+     "text": "Le covoiturage résout tous les problèmes.",
+     "correct": false,
+     "rationale": "Il est insuffisant."
+    },
+    {
+     "label": "D",
+     "text": "Il faut supprimer les bus.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Solution d'appoint » = solution complémentaire."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "Le volontariat de solidarité internationale (VSI) est ouvert à toute personne majeure, sans condition de diplôme ni de nationalité, à condition de résider en France. La mission, d'une durée de un à six ans, est réalisée auprès d'une association agréée. Le volontaire bénéficie d'une couverture sociale complète.",
+   "prompt": "Quelle condition faut-il remplir pour un VSI ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Avoir un diplôme universitaire.",
+     "correct": false,
+     "rationale": "« sans condition de diplôme »."
+    },
+    {
+     "label": "B",
+     "text": "Avoir la nationalité française.",
+     "correct": false,
+     "rationale": "« sans condition… de nationalité »."
+    },
+    {
+     "label": "C",
+     "text": "Avoir moins de 28 ans.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Être majeur et résider en France.",
+     "correct": true,
+     "rationale": "« toute personne majeure… à condition de résider en France »."
+    }
+   ],
+   "explanation": "Lisez attentivement les conditions et les absences de conditions."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« Nous avons quitté Paris pour le calme de la campagne. La première nuit, entre les grenouilles, le chien du voisin et les cloches de l'église, nous n'avons pas fermé l'œil. » Céline, 39 ans.",
+   "prompt": "Que sous-entend Céline avec humour ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle regrette Paris.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit clairement."
+    },
+    {
+     "label": "B",
+     "text": "Elle n'aime pas les animaux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "La campagne n'est pas aussi calme qu'elle l'imaginait.",
+     "correct": true,
+     "rationale": "Elle énumère les bruits."
+    },
+    {
+     "label": "D",
+     "text": "Elle a très bien dormi.",
+     "correct": false,
+     "rationale": "« nous n'avons pas fermé l'œil »."
+    }
+   ],
+   "explanation": "« Ne pas fermer l'œil » = ne pas dormir."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Faut-il servir des repas à base d'insectes dans les cantines ? Les partisans y voient une source de protéines durable et une manière d'habituer les enfants dès le plus jeune âge. Les opposants dénoncent une expérimentation sur les enfants et rappellent que les risques d'allergie sont encore mal connus.",
+   "prompt": "Quel argument avancent les partisans ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les risques d'allergie.",
+     "correct": false,
+     "rationale": "C'est l'argument des opposants."
+    },
+    {
+     "label": "B",
+     "text": "Une expérimentation sur les enfants.",
+     "correct": false,
+     "rationale": "C'est une critique."
+    },
+    {
+     "label": "C",
+     "text": "Le prix élevé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Habituer les enfants tôt à une protéine durable.",
+     "correct": true,
+     "rationale": "« une source de protéines durable… habituer les enfants »."
+    }
+   ],
+   "explanation": "Distinguez les arguments de chaque camp."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "La Bretagne a lancé un programme pour former 500 nouveaux agriculteurs d'ici 2030. Les candidats, souvent issus d'autres métiers, suivent une formation de neuf mois, dont trois de stage dans une ferme. La région les aide ensuite à trouver des terres, en lien avec les agriculteurs qui partent à la retraite.",
+   "prompt": "Combien de temps dure le stage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Neuf mois.",
+     "correct": false,
+     "rationale": "C'est la durée totale de la formation."
+    },
+    {
+     "label": "B",
+     "text": "Cinq ans.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Un mois.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Trois mois.",
+     "correct": true,
+     "rationale": "« dont trois de stage dans une ferme »."
+    }
+   ],
+   "explanation": "« Dont » introduit une partie d'un ensemble."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "thèse",
+   "document": "L'exode urbain dont on parle tant relève davantage du récit médiatique que d'une réalité statistique. Certes, quelques villages ont vu arriver des télétravailleurs. Mais les grandes métropoles continuent de gagner des habitants, et les campagnes les plus isolées, elles, poursuivent leur déclin.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les campagnes isolées se repeuplent.",
+     "correct": false,
+     "rationale": "Elles poursuivent leur déclin."
+    },
+    {
+     "label": "B",
+     "text": "Tout le monde quitte les villes.",
+     "correct": false,
+     "rationale": "Les métropoles gagnent des habitants."
+    },
+    {
+     "label": "C",
+     "text": "L'exode urbain est surestimé.",
+     "correct": true,
+     "rationale": "« relève davantage du récit médiatique »."
+    },
+    {
+     "label": "D",
+     "text": "Le télétravail n'existe pas.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Certes… Mais » : concession puis thèse."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "information implicite",
+   "document": "Le fast-food a été inauguré en grande pompe sur la place du village, juste en face de l'ancienne auberge, fermée l'an dernier faute de repreneur. Le maire s'est félicité de « la création de huit emplois ». L'auberge en comptait douze.",
+   "prompt": "Que laisse entendre l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'auberge a été reprise.",
+     "correct": false,
+     "rationale": "Elle est fermée."
+    },
+    {
+     "label": "B",
+     "text": "Le maire est contre le fast-food.",
+     "correct": false,
+     "rationale": "Il s'en félicite."
+    },
+    {
+     "label": "C",
+     "text": "Le village a gagné des emplois.",
+     "correct": false,
+     "rationale": "Il en a perdu."
+    },
+    {
+     "label": "D",
+     "text": "Le bilan en emplois est en réalité négatif.",
+     "correct": true,
+     "rationale": "Huit emplois créés contre douze perdus."
+    }
+   ],
+   "explanation": "La dernière phrase, brève, renverse le discours officiel."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "ton",
+   "document": "Rien de tel qu'une semaine de « mission humanitaire » à 2 000 euros pour repeindre une école au Népal, entre deux excursions en montagne, et rapporter des photos avec des enfants souriants pour son profil sur les réseaux sociaux. Les enfants, eux, verront passer un autre groupe la semaine suivante.",
+   "prompt": "Quel est le ton de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Enthousiaste.",
+     "correct": false,
+     "rationale": "Il critique."
+    },
+    {
+     "label": "B",
+     "text": "Neutre.",
+     "correct": false,
+     "rationale": "Il prend position."
+    },
+    {
+     "label": "C",
+     "text": "Nostalgique.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "D",
+     "text": "Ironique et critique.",
+     "correct": true,
+     "rationale": "« Rien de tel que » est ironique."
+    }
+   ],
+   "explanation": "L'énumération ironique dénonce une pratique."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "Alors que les consommateurs plébiscitent les produits locaux, les agriculteurs qui les produisent peinent souvent à en vivre. Ce décalage s'explique notamment par le poids des intermédiaires, qui captent une part importante du prix final, si bien que la vente directe apparaît comme une condition de survie pour de nombreuses exploitations.",
+   "prompt": "Pourquoi la vente directe est-elle une condition de survie ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que les produits locaux sont chers à produire.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'explication donnée."
+    },
+    {
+     "label": "B",
+     "text": "Parce qu'elle évite les intermédiaires qui captent une part du prix.",
+     "correct": true,
+     "rationale": "« le poids des intermédiaires »."
+    },
+    {
+     "label": "C",
+     "text": "Parce que les supermarchés sont fermés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce que les consommateurs refusent les produits locaux.",
+     "correct": false,
+     "rationale": "Ils les plébiscitent."
+    }
+   ],
+   "explanation": "« Si bien que » introduit la conséquence."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "reformulation",
+   "document": "La mention « produit de la ferme » est réservée aux produits élaborés sur l'exploitation, à partir de matières premières qui en sont issues, selon des méthodes traditionnelles. L'utilisation abusive de cette mention constitue une pratique commerciale trompeuse passible de sanctions.",
+   "prompt": "Quelle reformulation correspond au texte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les produits industriels peuvent l'utiliser.",
+     "correct": false,
+     "rationale": "Il faut des méthodes traditionnelles."
+    },
+    {
+     "label": "B",
+     "text": "La mention est purement décorative.",
+     "correct": false,
+     "rationale": "Son abus est sanctionné."
+    },
+    {
+     "label": "C",
+     "text": "Tout produit agricole peut porter cette mention.",
+     "correct": false,
+     "rationale": "Elle est réservée."
+    },
+    {
+     "label": "D",
+     "text": "Seuls les produits fabriqués sur la ferme avec ses propres matières peuvent porter cette mention.",
+     "correct": true,
+     "rationale": "C'est la définition donnée."
+    }
+   ],
+   "explanation": "« Être réservé à » limite l'usage."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "écrire un message",
+   "instructions": "Vous proposez un covoiturage pour aller à un festival. Vous écrivez une annonce sur un site de covoiturage (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Je pars de Toulouse samedi 12 juillet à 9 heures pour le festival de Carcassonne. J'ai trois places dans ma voiture. Retour dimanche vers 18 heures. Participation : 10 euros par personne. Petits bagages uniquement. Bonne ambiance garantie ! Contactez-moi sur le site. Romain",
+   "tips": "Une annonce doit donner toutes les informations pratiques.",
+   "expected_points": [
+    "trajet",
+    "date et heure",
+    "places",
+    "retour",
+    "prix",
+    "conditions"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "décrire une tradition",
+   "instructions": "Vous présentez un plat ou une tradition culinaire de votre pays ou de votre région sur un blog de cuisine (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Chez moi, en Tunisie, le couscous du vendredi est une véritable tradition. Ma grand-mère prépare la semoule à la main, puis la fait cuire à la vapeur au-dessus d'un bouillon de légumes et de poisson. Toute la famille se réunit autour d'un grand plat commun. Chaque région a sa recette : au poisson sur la côte, à l'agneau à l'intérieur du pays. Pour moi, ce plat représente le partage et la chaleur familiale. Je vous conseille de le goûter !",
+   "tips": "Le présent de vérité générale décrit une tradition.",
+   "expected_points": [
+    "présentation",
+    "préparation",
+    "moment de consommation",
+    "variantes",
+    "valeur symbolique"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "argumenter sur un sujet de société",
+   "instructions": "« Pour sauver les villages, l'État devrait aider financièrement les citadins qui s'installent à la campagne. » Vous réagissez à cette proposition dans un forum en ligne (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "L'intention est louable, mais je doute que l'argent suffise. Une aide financière peut convaincre quelques familles, certes. Cependant, si le village n'a ni école, ni médecin, ni transports, les nouveaux habitants repartiront vite. À mon avis, il vaudrait mieux investir dans les services publics et la couverture Internet : ce sont eux qui rendent la vie rurale possible. De plus, il faudrait veiller à ce que ces arrivées ne fassent pas grimper les prix pour les habitants. Revitaliser, oui, mais durablement.",
+   "tips": "« Il vaudrait mieux » propose une alternative.",
+   "expected_points": [
+    "position nuancée",
+    "concession",
+    "objection",
+    "alternative",
+    "mise en garde",
+    "conclusion"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous pose des questions sur votre alimentation, votre lieu de vie et vos projets.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Préférez-vous la ville ou la campagne ?",
+    "Quel est votre plat préféré ?",
+    "Savez-vous cuisiner un plat traditionnel ?",
+    "Mangeriez-vous des insectes ?",
+    "Faites-vous du covoiturage ?",
+    "Aimeriez-vous partir faire du volontariat à l'étranger ?"
+   ],
+   "useful_phrases": [
+    "Je préfère… parce que…",
+    "Mon plat préféré, c'est…",
+    "Je sais préparer…",
+    "Je ne suis pas sûr de…",
+    "J'aimerais bien…"
+   ],
+   "model_answer": "Je préfère la ville, parce que j'aime avoir des cinémas et des restaurants près de chez moi. Mon plat préféré, c'est le tajine aux pruneaux. Je sais préparer le couscous, ma mère me l'a appris. Je ne suis pas sûr de pouvoir manger des insectes, mais je pourrais goûter des biscuits à la farine de grillon. Je fais du covoiturage pour aller voir ma famille. J'aimerais bien faire du volontariat en Afrique un jour."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Négocier une reprise",
+   "examiner_role": "Agriculteur partant à la retraite",
+   "scenario": "Vous voulez reprendre une petite ferme pour y produire des légumes bio. L'examinateur joue le rôle de l'agriculteur qui part à la retraite et hésite à vous la vendre. Convainquez-le et négociez les conditions.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Bonjour, vous venez pour la ferme ?",
+    "Vous n'avez jamais été agriculteur !",
+    "Mon voisin veut agrandir sa propre exploitation.",
+    "Le prix est de 250 000 euros.",
+    "Je voudrais que les terres restent cultivées.",
+    "Que proposez-vous ?"
+   ],
+   "useful_phrases": [
+    "Je comprends votre inquiétude…",
+    "J'ai suivi une formation de…",
+    "Mon projet consiste à…",
+    "Serait-il possible de… ?",
+    "Je m'engage à…"
+   ],
+   "model_answer": "Je comprends votre inquiétude : je viens d'un autre métier. Mais j'ai suivi une formation agricole d'un an et fait un stage dans une ferme bio. Mon projet consiste à vendre des légumes en circuit court, au marché et aux cantines du canton. Serait-il possible de payer en plusieurs fois, ou de louer les terres pendant deux ans avant l'achat ? Je m'engage à garder les terres cultivées, et j'aimerais beaucoup que vous me transmettiez vos conseils."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Les insectes : l'alimentation de demain ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion : « Faut-il encourager la consommation d'insectes pour nourrir la planète ? » Argumentez, donnez des exemples, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Quelle est votre opinion ?",
+    "Quels sont les avantages écologiques ?",
+    "Pourquoi les Européens sont-ils réticents ?",
+    "Existe-t-il d'autres solutions ?",
+    "Votre conclusion ?"
+   ],
+   "useful_phrases": [
+    "Pour ma part…",
+    "D'un point de vue écologique…",
+    "Il faut toutefois reconnaître que…",
+    "Une autre piste serait…",
+    "Tout compte fait…"
+   ],
+   "model_answer": "Pour ma part, je pense que les insectes peuvent faire partie de la solution, sans être la seule. D'un point de vue écologique, ils demandent très peu d'eau et de nourriture, et émettent peu de gaz à effet de serre. Dans de nombreux pays d'Asie et d'Afrique, on en mange depuis toujours. Il faut toutefois reconnaître que le dégoût est fort en Europe. Une autre piste serait de réduire le gaspillage et de manger davantage de légumineuses. Tout compte fait, encourager oui, imposer non."
+  }
+ ]
+}

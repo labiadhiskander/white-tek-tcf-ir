@@ -1,0 +1,1975 @@
+{
+ "code": "EXAM-20",
+ "title": "Examen blanc n° 20 – Synthèse : francophonie, générations et avenir",
+ "level": "B2",
+ "description": "Examen de synthèse calibré B1–B2 : francophonie, transmission entre générations, villes intelligentes, déconnexion et lenteur, avenir du travail.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "F: Bonjour Marc, c'est Julie. Le cours de français pour les nouveaux arrivants commence lundi prochain, à 19 heures, au centre communautaire. Apporte une pièce d'identité. À lundi !",
+   "prompt": "Que doit apporter Marc ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une pièce d'identité.",
+     "correct": true,
+     "rationale": "« Apporte une pièce d'identité »."
+    },
+    {
+     "label": "B",
+     "text": "Un dictionnaire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Une photo.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "De l'argent.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "L'impératif « apporte » signale ce qu'il faut prendre.",
+   "speakers": [
+    "F:fr-CA"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Mesdames et messieurs, la médiathèque organise samedi un atelier « Grands-parents et petits-enfants » : les enfants apprennent aux aînés à utiliser une tablette. L'atelier a lieu de 14 heures à 16 heures, salle 2. Inscription gratuite à l'accueil.",
+   "prompt": "Où a lieu l'atelier ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dans la salle 2.",
+     "correct": true,
+     "rationale": "« salle 2 »."
+    },
+    {
+     "label": "B",
+     "text": "À l'accueil.",
+     "correct": false,
+     "rationale": "On s'y inscrit seulement."
+    },
+    {
+     "label": "C",
+     "text": "Au premier étage.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Dans la salle 14.",
+     "correct": false,
+     "rationale": "14 heures est l'horaire."
+    }
+   ],
+   "explanation": "Distinguez le lieu de l'activité et le lieu d'inscription.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "H: Tu as l'air reposée ! / F: Oui, j'ai passé le week-end sans téléphone. Je l'ai laissé dans un tiroir de vendredi soir à lundi matin. / H: Et alors ? / F: J'ai lu deux livres et je me suis promenée en forêt. C'était génial.",
+   "prompt": "Qu'a fait la femme pendant le week-end ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle a travaillé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Elle a lu et s'est promenée.",
+     "correct": true,
+     "rationale": "« J'ai lu deux livres et je me suis promenée »."
+    },
+    {
+     "label": "C",
+     "text": "Elle est restée au lit.",
+     "correct": false,
+     "rationale": "Elle s'est promenée en forêt."
+    },
+    {
+     "label": "D",
+     "text": "Elle a acheté un téléphone.",
+     "correct": false,
+     "rationale": "Elle l'a rangé dans un tiroir."
+    }
+   ],
+   "explanation": "Repérez les verbes au passé composé qui décrivent les activités.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "F: Tu sais que Papy a commencé à écrire ses souvenirs ? / H: Ah oui ? Sur la guerre et sur son métier de mineur ? / F: Exactement. Mais il écrit à la main et il a du mal à se relire. Tu pourrais l'aider à tout taper à l'ordinateur, toi qui tapes vite ?",
+   "prompt": "Que demande la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De devenir mineur.",
+     "correct": false,
+     "rationale": "C'était le métier du grand-père."
+    },
+    {
+     "label": "B",
+     "text": "D'acheter un ordinateur.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "D'aider le grand-père à taper ses souvenirs.",
+     "correct": true,
+     "rationale": "« Tu pourrais l'aider à tout taper »."
+    },
+    {
+     "label": "D",
+     "text": "D'écrire un livre sur la guerre.",
+     "correct": false,
+     "rationale": "C'est le grand-père qui écrit."
+    }
+   ],
+   "explanation": "Le conditionnel « tu pourrais » exprime une demande polie.",
+   "speakers": [
+    "F:fr-BE",
+    "H:fr-BE"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information détaillée",
+   "document": "H: À partir du 1er mars, les lampadaires de la ville s'allumeront uniquement lorsqu'un piéton ou un véhicule passera à proximité. Ce système, équipé de capteurs, doit permettre de réduire de 60 % la consommation d'électricité de l'éclairage public.",
+   "prompt": "Quand les lampadaires s'allumeront-ils ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À partir de 60 heures.",
+     "correct": false,
+     "rationale": "60 % est l'économie prévue."
+    },
+    {
+     "label": "B",
+     "text": "Toute la nuit.",
+     "correct": false,
+     "rationale": "C'est le système actuel."
+    },
+    {
+     "label": "C",
+     "text": "Seulement en mars.",
+     "correct": false,
+     "rationale": "Mars est la date de début."
+    },
+    {
+     "label": "D",
+     "text": "Quand quelqu'un passera à proximité.",
+     "correct": true,
+     "rationale": "« lorsqu'un piéton ou un véhicule passera »."
+    }
+   ],
+   "explanation": "« Lorsque » introduit la condition temporelle.",
+   "speakers": [
+    "H:fr-CH"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous travaillez quatre jours par semaine depuis un an. Quel bilan ? / H: Très positif. Je suis plus concentré, je m'occupe davantage de mes enfants. Le seul inconvénient, c'est que les journées sont plus longues : je finis à 19 heures au lieu de 17 heures.",
+   "prompt": "Quel inconvénient l'homme mentionne-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Moins de temps avec ses enfants.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "B",
+     "text": "Un salaire plus bas.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Des journées de travail plus longues.",
+     "correct": true,
+     "rationale": "« les journées sont plus longues »."
+    },
+    {
+     "label": "D",
+     "text": "Des difficultés de concentration.",
+     "correct": false,
+     "rationale": "Il est plus concentré."
+    }
+   ],
+   "explanation": "« Le seul inconvénient, c'est » annonce la réserve.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "F: À Montréal, la Semaine de la francophonie a attiré plus de 40 000 visiteurs. Au programme : concerts, dictées géantes, rencontres d'auteurs venus d'Haïti, du Sénégal ou de Belgique. Les organisateurs veulent montrer que le français est une langue vivante, parlée sur cinq continents.",
+   "prompt": "Quel est l'objectif des organisateurs ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Montrer la vitalité et la diversité du français.",
+     "correct": true,
+     "rationale": "« une langue vivante, parlée sur cinq continents »."
+    },
+    {
+     "label": "B",
+     "text": "Enseigner l'anglais.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Organiser un concours de chant.",
+     "correct": false,
+     "rationale": "Les concerts ne sont qu'une activité."
+    },
+    {
+     "label": "D",
+     "text": "Vendre des livres.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objectif dit."
+    }
+   ],
+   "explanation": "« Veulent montrer que » exprime le but.",
+   "speakers": [
+    "F:fr-CA"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "sentiment",
+   "document": "H: Alors, ton nouveau quartier « intelligent » ? / F: Franchement, je suis partagée. C'est pratique : l'appli me dit où il y a des places de parking. Mais il y a des caméras partout, et je n'aime pas trop l'idée d'être observée en permanence.",
+   "prompt": "Que ressent la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un enthousiasme total.",
+     "correct": false,
+     "rationale": "Elle a des réserves."
+    },
+    {
+     "label": "B",
+     "text": "De la colère.",
+     "correct": false,
+     "rationale": "Ce n'est pas si fort."
+    },
+    {
+     "label": "C",
+     "text": "De l'indifférence.",
+     "correct": false,
+     "rationale": "Elle exprime un avis."
+    },
+    {
+     "label": "D",
+     "text": "Des sentiments mitigés.",
+     "correct": true,
+     "rationale": "« je suis partagée »."
+    }
+   ],
+   "explanation": "« Partagé » signifie qu'on hésite entre deux opinions.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "H: Bonjour Madame Diallo, ici le service des ressources humaines. Votre demande de télétravail a été acceptée : deux jours par semaine, le mardi et le jeudi, à partir du mois prochain. Merci de signer l'avenant à votre contrat avant vendredi.",
+   "prompt": "Que doit faire Madame Diallo ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Venir au bureau le mardi.",
+     "correct": false,
+     "rationale": "Le mardi est télétravaillé."
+    },
+    {
+     "label": "B",
+     "text": "Signer un avenant avant vendredi.",
+     "correct": true,
+     "rationale": "« Merci de signer l'avenant… avant vendredi »."
+    },
+    {
+     "label": "C",
+     "text": "Appeler les ressources humaines.",
+     "correct": false,
+     "rationale": "Ce n'est pas demandé."
+    },
+    {
+     "label": "D",
+     "text": "Refaire une demande.",
+     "correct": false,
+     "rationale": "Elle est acceptée."
+    }
+   ],
+   "explanation": "« Merci de » formule une demande dans un registre professionnel.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "cause",
+   "document": "F: Pourquoi avez-vous quitté Paris pour une petite ville de province ? / H: J'en avais assez de courir tout le temps. Une heure de métro matin et soir, plus aucun temps pour moi. Ici, je vais au travail à pied et je prends le temps de vivre.",
+   "prompt": "Pourquoi l'homme a-t-il quitté Paris ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À cause du rythme de vie trop rapide.",
+     "correct": true,
+     "rationale": "« J'en avais assez de courir tout le temps »."
+    },
+    {
+     "label": "B",
+     "text": "Parce qu'il a perdu son emploi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Pour un meilleur salaire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Pour se rapprocher de sa famille.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« En avoir assez de » exprime la lassitude, donc la cause.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "H: Selon l'Organisation internationale de la Francophonie, on compte aujourd'hui plus de 320 millions de locuteurs du français dans le monde. D'ici 2050, ce nombre pourrait dépasser 700 millions, principalement grâce à la croissance démographique de l'Afrique, où vivent déjà plus de la moitié des francophones.",
+   "prompt": "Pourquoi le nombre de francophones devrait-il augmenter ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "En raison de la croissance démographique africaine.",
+     "correct": true,
+     "rationale": "« principalement grâce à la croissance démographique de l'Afrique »."
+    },
+    {
+     "label": "B",
+     "text": "Parce que l'Europe adopte le français.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Grâce aux cours en ligne.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "À cause de l'immigration en France.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Grâce à » introduit une cause positive.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "opinion",
+   "document": "F: Le droit à la déconnexion existe dans la loi depuis 2017. Est-il respecté ? / H: Sur le papier, oui. Dans les faits, beaucoup de cadres continuent de lire leurs courriels le soir, non pas parce qu'on les y oblige, mais parce qu'ils craignent de paraître moins investis que leurs collègues.",
+   "prompt": "Selon l'homme, pourquoi les cadres lisent-ils leurs courriels le soir ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que la loi l'exige.",
+     "correct": false,
+     "rationale": "La loi protège la déconnexion."
+    },
+    {
+     "label": "B",
+     "text": "Parce qu'ils aiment travailler la nuit.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Parce que leur patron les y oblige.",
+     "correct": false,
+     "rationale": "« non pas parce qu'on les y oblige »."
+    },
+    {
+     "label": "D",
+     "text": "Par peur de paraître moins impliqués.",
+     "correct": true,
+     "rationale": "« ils craignent de paraître moins investis »."
+    }
+   ],
+   "explanation": "« Non pas parce que… mais parce que » écarte une cause pour en retenir une autre.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "sens d'une expression",
+   "document": "F: Ma grand-mère disait toujours : « Il faut laisser le temps au temps. » Je ne comprenais pas. Aujourd'hui, quand je vois mes enfants s'impatienter si une vidéo met trois secondes à charger, je mesure à quel point ce conseil est précieux.",
+   "prompt": "Que signifie « laisser le temps au temps » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Arriver toujours en avance.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "B",
+     "text": "Ne jamais regarder l'heure.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "C",
+     "text": "Être patient et ne pas tout vouloir immédiatement.",
+     "correct": true,
+     "rationale": "La suite oppose ce conseil à l'impatience."
+    },
+    {
+     "label": "D",
+     "text": "Perdre son temps.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    }
+   ],
+   "explanation": "Le contexte (l'impatience des enfants) éclaire l'expression.",
+   "speakers": [
+    "F:fr-BE"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "H: Votre entreprise forme les jeunes par le compagnonnage. Comment ça marche ? / F: Chaque apprenti est associé à un ouvrier expérimenté, souvent proche de la retraite, pendant deux ans. Le senior transmet ses gestes, et le jeune lui apprend en retour à utiliser les nouveaux logiciels de conception. C'est un échange dans les deux sens.",
+   "prompt": "Qu'apporte le jeune à l'ouvrier expérimenté ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Des gestes techniques.",
+     "correct": false,
+     "rationale": "C'est ce que transmet le senior."
+    },
+    {
+     "label": "B",
+     "text": "Un salaire supplémentaire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Une formation de deux ans.",
+     "correct": false,
+     "rationale": "C'est la durée du dispositif."
+    },
+    {
+     "label": "D",
+     "text": "La maîtrise des nouveaux logiciels.",
+     "correct": true,
+     "rationale": "« le jeune lui apprend… les nouveaux logiciels »."
+    }
+   ],
+   "explanation": "« En retour » marque la réciprocité.",
+   "speakers": [
+    "H:fr-CH",
+    "F:fr-CH"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: Les villes qui ont installé des capteurs pour mesurer la qualité de l'air en temps réel ont pu réagir plus vite lors des pics de pollution. Toutefois, ces données ne servent à rien si elles ne débouchent pas sur des décisions concrètes, comme la réduction de la circulation.",
+   "prompt": "Quelle réserve est exprimée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les données sont inutiles sans décisions concrètes.",
+     "correct": true,
+     "rationale": "« ne servent à rien si elles ne débouchent pas sur des décisions »."
+    },
+    {
+     "label": "B",
+     "text": "Les capteurs sont souvent en panne.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les capteurs coûtent trop cher.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "La pollution a disparu.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Toutefois » introduit une restriction.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sentiment",
+   "document": "F: Quand je suis arrivée du Québec à Lyon, je pensais que parler la même langue suffirait. J'ai vite déchanté : les expressions, l'humour, même certains mots du quotidien étaient différents. Aujourd'hui, j'en ris, mais les premiers mois, je me suis sentie étrangère dans ma propre langue.",
+   "prompt": "Qu'a ressenti la femme à son arrivée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un sentiment d'étrangeté malgré la langue commune.",
+     "correct": true,
+     "rationale": "« je me suis sentie étrangère dans ma propre langue »."
+    },
+    {
+     "label": "B",
+     "text": "De la colère contre les Lyonnais.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Aucune difficulté.",
+     "correct": false,
+     "rationale": "Elle en a eu."
+    },
+    {
+     "label": "D",
+     "text": "Une joie immédiate.",
+     "correct": false,
+     "rationale": "Elle a « déchanté »."
+    }
+   ],
+   "explanation": "« Déchanter » signifie perdre ses illusions.",
+   "speakers": [
+    "F:fr-CA"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "arguments",
+   "document": "H: L'intelligence artificielle va détruire des millions d'emplois ! / F: Elle en transformera surtout beaucoup. Rappelez-vous : on craignait la même chose avec l'informatique dans les années 1980. Des métiers ont disparu, d'autres sont apparus. La vraie question, c'est la formation : saurons-nous préparer les travailleurs à ces changements ?",
+   "prompt": "Quel argument la femme utilise-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Son expérience personnelle.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Des statistiques précises.",
+     "correct": false,
+     "rationale": "Elle n'en donne pas."
+    },
+    {
+     "label": "C",
+     "text": "L'avis d'un expert.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Une comparaison historique avec l'informatique.",
+     "correct": true,
+     "rationale": "« on craignait la même chose avec l'informatique »."
+    }
+   ],
+   "explanation": "« Rappelez-vous » introduit un exemple historique.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information précise",
+   "document": "F: Le programme « Un toit, deux générations » met en relation des étudiants qui cherchent un logement et des personnes âgées qui vivent seules. L'étudiant est logé gratuitement ou pour un loyer modeste, en échange d'une présence le soir et de petits services. Plus de 3 000 binômes ont été formés l'an dernier.",
+   "prompt": "Que donne l'étudiant en échange du logement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Des cours particuliers.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Des travaux de rénovation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Un loyer élevé.",
+     "correct": false,
+     "rationale": "Le loyer est gratuit ou modeste."
+    },
+    {
+     "label": "D",
+     "text": "Une présence le soir et de petits services.",
+     "correct": true,
+     "rationale": "« en échange d'une présence le soir et de petits services »."
+    }
+   ],
+   "explanation": "« En échange de » introduit une contrepartie.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "intention",
+   "document": "H: On nous vend la « ville intelligente » comme la solution à tous nos maux. Mais une ville vraiment intelligente, c'est peut-être d'abord une ville où l'on peut s'asseoir sur un banc à l'ombre d'un arbre, où les enfants jouent dans la rue et où l'on connaît son boulanger.",
+   "prompt": "Quelle est l'intention du chroniqueur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Proposer une autre définition de la ville intelligente.",
+     "correct": true,
+     "rationale": "« une ville vraiment intelligente, c'est peut-être d'abord… »."
+    },
+    {
+     "label": "B",
+     "text": "Faire la publicité des capteurs.",
+     "correct": false,
+     "rationale": "Il s'en distancie."
+    },
+    {
+     "label": "C",
+     "text": "Critiquer les boulangers.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "D",
+     "text": "Décrire un projet municipal.",
+     "correct": false,
+     "rationale": "Ce n'est pas un projet précis."
+    }
+   ],
+   "explanation": "« Vraiment » et « d'abord » redéfinissent le concept.",
+   "speakers": [
+    "H:fr-BE"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information globale",
+   "document": "F: Vous avez créé une école de langue en ligne pour les enfants de la diaspora. Pourquoi ? / H: Beaucoup de parents installés à l'étranger constatent que leurs enfants comprennent le français, mais ne le parlent plus. Ils craignent qu'ils perdent le lien avec leurs grands-parents et leur culture. Nos cours, ludiques, visent à maintenir ce lien.",
+   "prompt": "Quel est le but de cette école ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Maintenir le lien linguistique et culturel des enfants expatriés.",
+     "correct": true,
+     "rationale": "« visent à maintenir ce lien »."
+    },
+    {
+     "label": "B",
+     "text": "Former des professeurs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Apprendre l'anglais aux enfants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Organiser des voyages.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Viser à » exprime le but.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "sous-entendu",
+   "document": "H: Notre entreprise accorde une grande importance à l'équilibre entre vie professionnelle et vie personnelle. / F: C'est sans doute pour cela que vous m'avez envoyé quatre courriels dimanche dernier, dont un à 23 heures ?",
+   "prompt": "Que sous-entend la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Qu'elle apprécie recevoir des courriels.",
+     "correct": false,
+     "rationale": "Elle ironise."
+    },
+    {
+     "label": "B",
+     "text": "Que l'entreprise respecte la vie privée.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "Qu'elle n'a pas lu les courriels.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Que le discours de l'entreprise ne correspond pas à la réalité.",
+     "correct": true,
+     "rationale": "Les courriels du dimanche contredisent l'affirmation."
+    }
+   ],
+   "explanation": "La fausse question souligne l'écart entre discours et pratique.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "F: Une étude menée auprès de 2 000 salariés montre que ceux qui coupent leurs notifications professionnelles après 19 heures dorment en moyenne quarante minutes de plus que les autres. Ils se déclarent également moins stressés, sans que leur productivité soit affectée.",
+   "prompt": "Quel effet sur la productivité est constaté ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle n'a pas été mesurée.",
+     "correct": false,
+     "rationale": "Elle est mentionnée."
+    },
+    {
+     "label": "B",
+     "text": "Une hausse de 40 %.",
+     "correct": false,
+     "rationale": "Quarante minutes concernent le sommeil."
+    },
+    {
+     "label": "C",
+     "text": "Une forte baisse.",
+     "correct": false,
+     "rationale": "Elle n'est pas affectée."
+    },
+    {
+     "label": "D",
+     "text": "Aucun effet négatif.",
+     "correct": true,
+     "rationale": "« sans que leur productivité soit affectée »."
+    }
+   ],
+   "explanation": "« Sans que » + subjonctif indique une conséquence qui ne se produit pas.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "chronique",
+   "skill": "thèse",
+   "document": "H: On accuse volontiers les jeunes de ne plus rien vouloir apprendre des anciens. C'est oublier que la transmission ne se décrète pas : elle suppose que les aînés acceptent, eux aussi, de se laisser surprendre par ce que les jeunes ont à leur enseigner. Une transmission à sens unique n'est qu'un monologue.",
+   "prompt": "Quelle est la thèse du chroniqueur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La transmission doit être réciproque entre générations.",
+     "correct": true,
+     "rationale": "« Une transmission à sens unique n'est qu'un monologue »."
+    },
+    {
+     "label": "B",
+     "text": "Les aînés n'ont rien à transmettre.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les jeunes refusent d'apprendre.",
+     "correct": false,
+     "rationale": "Il conteste ce reproche."
+    },
+    {
+     "label": "D",
+     "text": "La transmission doit être imposée par la loi.",
+     "correct": false,
+     "rationale": "« Elle ne se décrète pas »."
+    }
+   ],
+   "explanation": "La formule finale résume la thèse.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "nuance",
+   "document": "F: La lenteur est-elle un luxe réservé à ceux qui en ont les moyens ? / H: En partie, oui. Ralentir suppose une sécurité matérielle que tout le monde n'a pas : la caissière qui cumule deux emplois ne peut guère s'offrir un stage de méditation. Pour autant, je refuse d'en faire un simple caprice de privilégiés : réclamer du temps pour soi, c'est aussi une revendication sociale.",
+   "prompt": "Quelle est la position nuancée de l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La lenteur est en partie un privilège, mais aussi une revendication légitime.",
+     "correct": true,
+     "rationale": "« En partie, oui… Pour autant, je refuse d'en faire un simple caprice »."
+    },
+    {
+     "label": "B",
+     "text": "La lenteur est un pur caprice.",
+     "correct": false,
+     "rationale": "Il le refuse."
+    },
+    {
+     "label": "C",
+     "text": "La lenteur est accessible à tous.",
+     "correct": false,
+     "rationale": "Il reconnaît des inégalités."
+    },
+    {
+     "label": "D",
+     "text": "La méditation est obligatoire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« En partie » puis « pour autant » construisent la nuance.",
+   "speakers": [
+    "F:fr-CH",
+    "H:fr-CH"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: Si le télétravail a permis à de nombreux salariés de gagner du temps de transport, il a aussi brouillé la frontière entre domicile et bureau. Faute de rituels marquant la fin de la journée, certains travaillent davantage qu'auparavant, au point que des médecins observent une hausse des cas d'épuisement professionnel.",
+   "prompt": "Quelle est la conséquence de l'absence de rituels de fin de journée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les médecins recommandent le télétravail.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les salariés gagnent du temps de transport.",
+     "correct": false,
+     "rationale": "C'est un avantage du télétravail."
+    },
+    {
+     "label": "C",
+     "text": "Certains salariés travaillent plus, jusqu'à l'épuisement.",
+     "correct": true,
+     "rationale": "« au point que des médecins observent une hausse des cas d'épuisement »."
+    },
+    {
+     "label": "D",
+     "text": "Les salariés retournent au bureau.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Faute de » introduit la cause, « au point que » la conséquence.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "CAFÉ DES LANGUES – Tous les jeudis, de 18 h à 20 h, au café Le Globe. Venez parler français, espagnol ou arabe avec des personnes du monde entier. Entrée libre. Une boisson offerte aux nouveaux participants.",
+   "prompt": "Que reçoivent les nouveaux participants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un livre.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Une réduction.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Un cours gratuit.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Une boisson.",
+     "correct": true,
+     "rationale": "« Une boisson offerte aux nouveaux participants »."
+    }
+   ],
+   "explanation": "« Offert » signifie gratuit, donné."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Salut Lina ! Mamie veut nous apprendre sa recette de tarte aux pommes dimanche. Rendez-vous chez elle à 10 h. Apporte un tablier ! Les pommes, c'est elle qui les a. Bisous, Sarah",
+   "prompt": "Qu'est-ce que Lina doit apporter ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une tarte.",
+     "correct": false,
+     "rationale": "Elles vont la préparer."
+    },
+    {
+     "label": "B",
+     "text": "Un livre de recettes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Un tablier.",
+     "correct": true,
+     "rationale": "« Apporte un tablier »."
+    },
+    {
+     "label": "D",
+     "text": "Des pommes.",
+     "correct": false,
+     "rationale": "La grand-mère les a."
+    }
+   ],
+   "explanation": "Repérez l'impératif adressé à Lina."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "affiche",
+   "skill": "information précise",
+   "document": "JOURNÉE SANS ÉCRAN – Samedi 15 mai, la mairie vous invite à éteindre vos écrans ! Au programme dans le parc : jeux de société, lecture de contes, pique-nique géant. Apportez votre repas. Activités gratuites.",
+   "prompt": "Que faut-il apporter ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un jeu de société.",
+     "correct": false,
+     "rationale": "Ce n'est pas demandé."
+    },
+    {
+     "label": "B",
+     "text": "Son repas.",
+     "correct": true,
+     "rationale": "« Apportez votre repas »."
+    },
+    {
+     "label": "C",
+     "text": "De l'argent.",
+     "correct": false,
+     "rationale": "Les activités sont gratuites."
+    },
+    {
+     "label": "D",
+     "text": "Une tablette.",
+     "correct": false,
+     "rationale": "C'est une journée sans écran."
+    }
+   ],
+   "explanation": "« Apportez » indique ce que chacun doit prévoir."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "courriel",
+   "skill": "intention",
+   "document": "Bonjour Monsieur Petit, je travaille dans votre entreprise depuis 38 ans et je partirai à la retraite en juin. Avant mon départ, j'aimerais former la personne qui me remplacera, afin de lui transmettre mes connaissances sur nos clients historiques. Pourriez-vous me dire qui sera recruté ? Cordialement, Jacqueline Morel",
+   "prompt": "Pourquoi Madame Morel écrit-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour former son remplaçant avant son départ.",
+     "correct": true,
+     "rationale": "« j'aimerais former la personne qui me remplacera »."
+    },
+    {
+     "label": "B",
+     "text": "Pour demander une augmentation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Pour reporter sa retraite.",
+     "correct": false,
+     "rationale": "Elle part en juin."
+    },
+    {
+     "label": "D",
+     "text": "Pour se plaindre d'un client.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Afin de » exprime le but de la démarche."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Depuis septembre, la ville d'Angers propose une application qui indique en temps réel les places libres dans les parkings et les vélos disponibles. En six mois, le temps moyen passé à chercher une place a baissé de dix minutes, selon la mairie.",
+   "prompt": "Quel résultat la mairie annonce-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Six mois de travaux.",
+     "correct": false,
+     "rationale": "Six mois est la durée d'observation."
+    },
+    {
+     "label": "B",
+     "text": "Plus de vélos dans la ville.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Dix minutes de moins pour trouver une place.",
+     "correct": true,
+     "rationale": "« a baissé de dix minutes »."
+    },
+    {
+     "label": "D",
+     "text": "La fermeture de parkings.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Selon » introduit la source de l'information."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« J'ai passé un mois dans un monastère, sans téléphone ni Internet. Au début, j'étais angoissée. Puis, peu à peu, j'ai redécouvert le plaisir du silence et des conversations sans interruption. Je ne suis pas devenue moine, mais je garde une heure sans écran chaque soir. » – Inès, 34 ans",
+   "prompt": "Qu'a gardé Inès de cette expérience ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'interdiction totale du téléphone.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "L'habitude de vivre au monastère.",
+     "correct": false,
+     "rationale": "Elle n'est pas devenue moine."
+    },
+    {
+     "label": "C",
+     "text": "Une angoisse permanente.",
+     "correct": false,
+     "rationale": "Elle a disparu peu à peu."
+    },
+    {
+     "label": "D",
+     "text": "Une heure sans écran chaque soir.",
+     "correct": true,
+     "rationale": "« je garde une heure sans écran chaque soir »."
+    }
+   ],
+   "explanation": "« Garder » indique ce qui reste d'une expérience."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "Le 20 mars, Journée internationale de la Francophonie, les médiathèques de la ville proposent une dictée ouverte à tous, à 15 heures. Trois niveaux : juniors (8-12 ans), adultes débutants, adultes confirmés. Les meilleurs participants recevront des livres d'auteurs francophones.",
+   "prompt": "Combien de niveaux la dictée propose-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Trois.",
+     "correct": true,
+     "rationale": "« Trois niveaux »."
+    },
+    {
+     "label": "B",
+     "text": "Deux.",
+     "correct": false,
+     "rationale": "Il y en a trois."
+    },
+    {
+     "label": "C",
+     "text": "Huit.",
+     "correct": false,
+     "rationale": "8 ans est un âge."
+    },
+    {
+     "label": "D",
+     "text": "Douze.",
+     "correct": false,
+     "rationale": "12 ans est un âge."
+    }
+   ],
+   "explanation": "Ne confondez pas les âges et le nombre de niveaux."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "lettre",
+   "skill": "sentiment",
+   "document": "Chère Madame Rossi, je voulais vous remercier pour les cours de piano que vous m'avez donnés quand j'avais dix ans. Je suis aujourd'hui professeur de musique, et je transmets à mes élèves la patience et la passion que vous m'avez apprises. Avec toute ma reconnaissance, Thomas",
+   "prompt": "Quel sentiment Thomas exprime-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De la tristesse.",
+     "correct": false,
+     "rationale": "Ce n'est pas le ton."
+    },
+    {
+     "label": "B",
+     "text": "De la colère.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "De la gratitude.",
+     "correct": true,
+     "rationale": "« Avec toute ma reconnaissance »."
+    },
+    {
+     "label": "D",
+     "text": "Du regret.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Reconnaissance » est synonyme de gratitude."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "De plus en plus d'entreprises testent la semaine de quatre jours. En Islande, une expérience menée auprès de 2 500 fonctionnaires a montré que la productivité restait stable, tandis que le bien-être des salariés s'améliorait nettement.",
+   "prompt": "Quel est le résultat principal de l'expérience islandaise ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une baisse de la productivité.",
+     "correct": false,
+     "rationale": "Elle reste stable."
+    },
+    {
+     "label": "B",
+     "text": "Le licenciement de 2 500 fonctionnaires.",
+     "correct": false,
+     "rationale": "Ils ont participé à l'expérience."
+    },
+    {
+     "label": "C",
+     "text": "Une productivité stable et un meilleur bien-être.",
+     "correct": true,
+     "rationale": "« la productivité restait stable, tandis que le bien-être… s'améliorait »."
+    },
+    {
+     "label": "D",
+     "text": "La disparition du travail.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Tandis que » met en parallèle deux constats."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Le français n'est plus seulement la langue de la France. C'est en Afrique que se joue désormais son avenir : à Kinshasa, Abidjan ou Dakar, les jeunes le réinventent chaque jour, empruntant aux langues locales, créant des mots nouveaux que les dictionnaires finissent par accueillir. Le centre de gravité de la francophonie s'est déplacé vers le sud.",
+   "prompt": "Quelle est l'idée principale du texte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'avenir du français se joue désormais en Afrique.",
+     "correct": true,
+     "rationale": "« C'est en Afrique que se joue désormais son avenir »."
+    },
+    {
+     "label": "B",
+     "text": "Le français disparaît en Afrique.",
+     "correct": false,
+     "rationale": "Il s'y développe."
+    },
+    {
+     "label": "C",
+     "text": "La France reste le centre de la francophonie.",
+     "correct": false,
+     "rationale": "Le centre s'est déplacé."
+    },
+    {
+     "label": "D",
+     "text": "Les dictionnaires refusent les mots nouveaux.",
+     "correct": false,
+     "rationale": "Ils « finissent par accueillir »."
+    }
+   ],
+   "explanation": "La mise en relief « C'est… que » souligne l'idée essentielle."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "Chaque fois qu'une personne âgée disparaît, c'est un savoir qui s'éteint : une recette, un chant, un geste d'artisan, un mot de patois. Il est urgent que nos communes organisent la collecte de ces mémoires, par des enregistrements et des ateliers, avant qu'il ne soit trop tard.",
+   "prompt": "Quelle est l'intention de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Critiquer les artisans.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Raconter la vie d'une personne âgée.",
+     "correct": false,
+     "rationale": "Ce n'est pas un récit."
+    },
+    {
+     "label": "C",
+     "text": "Présenter une recette.",
+     "correct": false,
+     "rationale": "La recette n'est qu'un exemple."
+    },
+    {
+     "label": "D",
+     "text": "Inciter les communes à collecter la mémoire des aînés.",
+     "correct": true,
+     "rationale": "« Il est urgent que nos communes organisent la collecte »."
+    }
+   ],
+   "explanation": "« Il est urgent que » + subjonctif formule un appel à l'action."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Chers collègues, à compter du 1er janvier, les réunions ne pourront plus être programmées après 17 h 30, et aucun courriel ne devra être envoyé le week-end. Cette mesure vise à préserver l'équilibre entre vie professionnelle et vie privée. La direction",
+   "prompt": "Dans ce courriel, « préserver » signifie :",
+   "choices": [
+    {
+     "label": "A",
+     "text": "détruire.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "B",
+     "text": "mesurer.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "C",
+     "text": "retarder.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "D",
+     "text": "protéger.",
+     "correct": true,
+     "rationale": "La mesure protège l'équilibre."
+    }
+   ],
+   "explanation": "« Préserver » = protéger de ce qui pourrait nuire."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "À Barcelone, les « superîlots » regroupent neuf pâtés de maisons dans lesquels la circulation automobile est limitée à 10 km/h. Les rues intérieures sont rendues aux piétons, aux jeux d'enfants et aux terrasses. Selon une étude, ce modèle, s'il était généralisé, pourrait éviter près de 700 décès prématurés par an liés à la pollution.",
+   "prompt": "Combien de pâtés de maisons forment un superîlot ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dix.",
+     "correct": false,
+     "rationale": "10 km/h est la vitesse."
+    },
+    {
+     "label": "B",
+     "text": "Trois.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Sept cents.",
+     "correct": false,
+     "rationale": "700 est le nombre de décès évités."
+    },
+    {
+     "label": "D",
+     "text": "Neuf.",
+     "correct": true,
+     "rationale": "« regroupent neuf pâtés de maisons »."
+    }
+   ],
+   "explanation": "Associez chaque chiffre à ce qu'il mesure."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, nous vous informons que votre demande de congé sabbatique de onze mois a été acceptée. Vous pourrez réintégrer votre poste ou un poste équivalent à votre retour, avec une rémunération au moins identique. Nous vous rappelons que ce congé n'est pas rémunéré. Le service du personnel",
+   "prompt": "Que se passera-t-il pendant le congé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La salariée ne sera pas payée.",
+     "correct": true,
+     "rationale": "« ce congé n'est pas rémunéré »."
+    },
+    {
+     "label": "B",
+     "text": "Elle perdra son poste.",
+     "correct": false,
+     "rationale": "Elle pourra le réintégrer."
+    },
+    {
+     "label": "C",
+     "text": "Elle devra travailler à temps partiel.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Elle touchera son salaire.",
+     "correct": false,
+     "rationale": "Il n'est pas rémunéré."
+    }
+   ],
+   "explanation": "Lisez la fin des lettres administratives : les rappels importants s'y trouvent."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "Les capteurs installés dans les poubelles permettent d'optimiser les tournées de collecte : les camions ne passent que lorsque les conteneurs sont pleins. Par conséquent, les villes réduisent leurs coûts et leurs émissions de CO2. Encore faut-il que les habitants trient correctement leurs déchets.",
+   "prompt": "Quel lien logique introduit « Encore faut-il que » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une comparaison.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "B",
+     "text": "Une cause.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "C",
+     "text": "Une condition restrictive.",
+     "correct": true,
+     "rationale": "Les bénéfices dépendent du tri des habitants."
+    },
+    {
+     "label": "D",
+     "text": "Une conséquence.",
+     "correct": false,
+     "rationale": "C'est « par conséquent »."
+    }
+   ],
+   "explanation": "« Encore faut-il que » + subjonctif pose une condition nécessaire."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "Le mouvement « slow », né en Italie avec la « slow food », s'étend aujourd'hui au tourisme, à la mode et même à l'éducation. Ses partisans y voient une sagesse retrouvée. On peut pourtant se demander si cette lenteur, souvent vendue à prix d'or, n'est pas devenue un produit de consommation comme un autre.",
+   "prompt": "Quelle opinion le journaliste exprime-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une indifférence totale.",
+     "correct": false,
+     "rationale": "Il prend position."
+    },
+    {
+     "label": "B",
+     "text": "Un doute sur la sincérité commerciale du mouvement.",
+     "correct": true,
+     "rationale": "« n'est pas devenue un produit de consommation comme un autre »."
+    },
+    {
+     "label": "C",
+     "text": "Un enthousiasme sans réserve.",
+     "correct": false,
+     "rationale": "Il émet un doute."
+    },
+    {
+     "label": "D",
+     "text": "Un rejet de la cuisine italienne.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    }
+   ],
+   "explanation": "« On peut pourtant se demander si » introduit une critique prudente."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "Le Volontariat international en entreprise (VIE) permet aux jeunes de 18 à 28 ans de partir travailler de 6 à 24 mois pour une entreprise française à l'étranger. Le volontaire perçoit une indemnité mensuelle, variable selon le pays, et bénéficie d'une protection sociale complète.",
+   "prompt": "Quelle est la durée maximale d'un VIE ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "6 mois.",
+     "correct": false,
+     "rationale": "C'est la durée minimale."
+    },
+    {
+     "label": "B",
+     "text": "24 mois.",
+     "correct": true,
+     "rationale": "« de 6 à 24 mois »."
+    },
+    {
+     "label": "C",
+     "text": "28 mois.",
+     "correct": false,
+     "rationale": "28 ans est l'âge maximal."
+    },
+    {
+     "label": "D",
+     "text": "18 mois.",
+     "correct": false,
+     "rationale": "18 ans est l'âge minimal."
+    }
+   ],
+   "explanation": "« De… à… » indique un minimum et un maximum."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« Mon fils m'a offert une montre connectée pour mes 70 ans. Elle compte mes pas, mesure mon cœur et me rappelle de boire de l'eau. Très pratique. Il m'appelle d'ailleurs beaucoup moins depuis : il voit sur son téléphone que je suis toujours vivante. » – Georges",
+   "prompt": "Que laisse entendre Georges ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Son fils l'appelle tous les jours.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "B",
+     "text": "Il adore sa montre sans réserve.",
+     "correct": false,
+     "rationale": "La fin est amère."
+    },
+    {
+     "label": "C",
+     "text": "La technologie a remplacé le contact humain avec son fils.",
+     "correct": true,
+     "rationale": "« Il m'appelle… beaucoup moins depuis »."
+    },
+    {
+     "label": "D",
+     "text": "Il est en mauvaise santé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "L'ironie de la dernière phrase révèle le reproche."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Les défenseurs de la semaine de quatre jours avancent qu'elle améliore la santé des salariés et réduit l'absentéisme. Ses détracteurs objectent qu'elle est difficile à appliquer dans les hôpitaux, les commerces ou les écoles, où une présence continue est indispensable.",
+   "prompt": "Quel argument avancent les détracteurs ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle améliore la santé.",
+     "correct": false,
+     "rationale": "C'est un argument des défenseurs."
+    },
+    {
+     "label": "B",
+     "text": "Elle coûte trop cher à l'État.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Elle est difficile à appliquer dans certains secteurs.",
+     "correct": true,
+     "rationale": "« difficile à appliquer dans les hôpitaux, les commerces »."
+    },
+    {
+     "label": "D",
+     "text": "Elle réduit l'absentéisme.",
+     "correct": false,
+     "rationale": "C'est un argument des défenseurs."
+    }
+   ],
+   "explanation": "« Objecter » introduit un contre-argument."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Au Sénégal, une radio communautaire diffuse chaque semaine une émission où des anciens racontent les contes traditionnels en wolof, puis des étudiants les traduisent en français. Les enregistrements sont ensuite archivés à l'université de Dakar et mis à disposition des écoles.",
+   "prompt": "Que deviennent les enregistrements ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils sont vendus.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Ils sont archivés à l'université et mis à disposition des écoles.",
+     "correct": true,
+     "rationale": "« archivés à l'université de Dakar et mis à disposition des écoles »."
+    },
+    {
+     "label": "C",
+     "text": "Ils sont diffusés à la télévision.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Ils sont effacés.",
+     "correct": false,
+     "rationale": "Ils sont archivés."
+    }
+   ],
+   "explanation": "« Ensuite » introduit l'étape suivante du processus."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "thèse",
+   "document": "On présente souvent la ville intelligente comme une évidence technique. Elle est pourtant avant tout un choix politique : qui possède les données collectées, qui décide de leur usage, qui en tire profit ? Laisser ces questions aux seules entreprises technologiques, c'est renoncer à une part de la démocratie locale.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les données sont inutiles.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "La ville intelligente pose des questions politiques et démocratiques.",
+     "correct": true,
+     "rationale": "« Elle est pourtant avant tout un choix politique »."
+    },
+    {
+     "label": "C",
+     "text": "Les entreprises doivent tout décider.",
+     "correct": false,
+     "rationale": "Ce serait « renoncer à la démocratie »."
+    },
+    {
+     "label": "D",
+     "text": "La ville intelligente est une simple question technique.",
+     "correct": false,
+     "rationale": "Il conteste cette vision."
+    }
+   ],
+   "explanation": "« Pourtant avant tout » oppose la thèse à l'idée reçue."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "information implicite",
+   "document": "L'entreprise a annoncé fièrement la création d'une « salle de déconnexion », équipée de fauteuils et de plantes vertes, pour permettre aux salariés de se ressourcer. Elle est ouverte de 12 h 30 à 13 h 00. Le même jour, la direction a supprimé une semaine de congés.",
+   "prompt": "Que suggère l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La mesure est surtout symbolique face à des décisions défavorables.",
+     "correct": true,
+     "rationale": "Une demi-heure de détente contre une semaine de congés supprimée."
+    },
+    {
+     "label": "B",
+     "text": "Les salariés auront plus de congés.",
+     "correct": false,
+     "rationale": "Une semaine est supprimée."
+    },
+    {
+     "label": "C",
+     "text": "L'entreprise se soucie sincèrement du bien-être.",
+     "correct": false,
+     "rationale": "Le contraste laisse penser l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "La salle est ouverte toute la journée.",
+     "correct": false,
+     "rationale": "Elle est ouverte une demi-heure."
+    }
+   ],
+   "explanation": "La juxtaposition des faits, sans commentaire, crée l'ironie."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "ton",
+   "document": "Merveilleuse époque, en vérité, où l'on peut converser instantanément avec un inconnu à l'autre bout du monde, tout en ignorant le prénom de son voisin de palier. Nous n'avons jamais été aussi connectés ; reste à savoir à quoi.",
+   "prompt": "Quel est le ton de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Enthousiaste.",
+     "correct": false,
+     "rationale": "Il critique."
+    },
+    {
+     "label": "B",
+     "text": "Neutre et informatif.",
+     "correct": false,
+     "rationale": "Il prend position."
+    },
+    {
+     "label": "C",
+     "text": "Optimiste.",
+     "correct": false,
+     "rationale": "La chute est sceptique."
+    },
+    {
+     "label": "D",
+     "text": "Ironique et désabusé.",
+     "correct": true,
+     "rationale": "« Merveilleuse époque, en vérité » est antiphrastique."
+    }
+   ],
+   "explanation": "L'antiphrase dit le contraire de ce qu'elle pense."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "Bien que les seniors soient de plus en plus nombreux à vouloir continuer à travailler, les entreprises hésitent encore à les recruter, redoutant un coût plus élevé ou une moindre adaptabilité. Ce préjugé prive pourtant les équipes d'une expérience précieuse, d'autant que les équipes mixtes en âge se révèlent souvent plus performantes.",
+   "prompt": "Quel argument renforce la critique du préjugé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les équipes mixtes en âge sont souvent plus performantes.",
+     "correct": true,
+     "rationale": "« d'autant que les équipes mixtes… se révèlent souvent plus performantes »."
+    },
+    {
+     "label": "B",
+     "text": "Les seniors coûtent plus cher.",
+     "correct": false,
+     "rationale": "C'est la crainte des entreprises."
+    },
+    {
+     "label": "C",
+     "text": "Les entreprises recrutent beaucoup de seniors.",
+     "correct": false,
+     "rationale": "Elles hésitent."
+    },
+    {
+     "label": "D",
+     "text": "Les seniors veulent arrêter de travailler.",
+     "correct": false,
+     "rationale": "Ils veulent continuer."
+    }
+   ],
+   "explanation": "« D'autant que » ajoute une raison qui renforce l'argument."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "reformulation",
+   "document": "Le droit à la déconnexion impose aux entreprises de plus de cinquante salariés de négocier les modalités par lesquelles chaque salarié peut ne pas être joignable en dehors de son temps de travail. À défaut d'accord, l'employeur élabore une charte définissant ces modalités.",
+   "prompt": "Quelle reformulation correspond au texte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Toutes les entreprises doivent fermer le soir.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "La loi concerne seulement les entreprises de moins de cinquante salariés.",
+     "correct": false,
+     "rationale": "Elle concerne celles de plus de cinquante."
+    },
+    {
+     "label": "C",
+     "text": "Les salariés doivent toujours être joignables.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "Sans accord négocié, l'employeur doit rédiger une charte.",
+     "correct": true,
+     "rationale": "« À défaut d'accord, l'employeur élabore une charte »."
+    }
+   ],
+   "explanation": "« À défaut de » signifie « en l'absence de »."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "écrire un message",
+   "instructions": "Vous invitez votre grand-mère ou votre grand-père à venir déjeuner chez vous dimanche. Vous lui écrivez un message (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Chère Mamie, dimanche prochain, je t'invite à déjeuner chez moi à midi. Je vais préparer ton plat préféré, le poulet aux olives ! Ma sœur et mes cousins seront là aussi. Je peux venir te chercher en voiture à 11 h 30. Dis-moi si tu es d'accord. Je t'embrasse très fort. Yasmine",
+   "tips": "Utilisez le tutoiement et un ton affectueux avec un proche.",
+   "expected_points": [
+    "salutation",
+    "invitation (jour, heure)",
+    "menu",
+    "invités",
+    "transport",
+    "demande de réponse",
+    "formule finale"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "raconter une expérience",
+   "instructions": "Sur un blog, vous racontez une chose importante qu'une personne plus âgée vous a apprise (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Quand j'avais douze ans, mon grand-père m'a appris à jardiner. Chaque samedi, nous allions ensemble dans son potager. Il m'a montré comment planter des tomates, quand arroser et comment reconnaître les mauvaises herbes. Mais surtout, il m'a appris la patience : il faut attendre des semaines avant de récolter. Aujourd'hui, j'ai mon propre petit jardin sur mon balcon et, chaque fois que je cueille une tomate, je pense à lui. Merci, Papy !",
+   "tips": "Alternez passé composé (actions) et imparfait (habitudes, descriptions).",
+   "expected_points": [
+    "contexte",
+    "personne",
+    "apprentissage concret",
+    "leçon de vie",
+    "conséquence aujourd'hui",
+    "émotion"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "argumenter sur un sujet de société",
+   "instructions": "« Les entreprises devraient interdire l'envoi de courriels professionnels après 19 heures. » Vous donnez votre opinion dans un forum en ligne (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Je suis plutôt favorable à cette mesure, même si elle mérite d'être adaptée. D'une part, recevoir des courriels le soir empêche de se reposer réellement et favorise l'épuisement. D'autre part, beaucoup de messages envoyés tard ne sont pas urgents. Certes, une interdiction stricte poserait problème pour les équipes qui travaillent avec d'autres fuseaux horaires. C'est pourquoi je proposerais plutôt un envoi différé automatique. En somme, protéger le temps de repos est une nécessité, à condition de rester souple.",
+   "tips": "« D'une part… d'autre part » structure les arguments.",
+   "expected_points": [
+    "position",
+    "deux arguments",
+    "concession",
+    "proposition",
+    "conclusion"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous pose des questions sur vos langues, votre famille et votre rapport aux écrans.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Quelles langues parlez-vous ?",
+    "Pourquoi apprenez-vous le français ?",
+    "Qu'avez-vous appris de vos grands-parents ?",
+    "Combien de temps passez-vous sur votre téléphone ?",
+    "Avez-vous déjà essayé de vous déconnecter ?",
+    "Comment imaginez-vous votre travail dans dix ans ?"
+   ],
+   "useful_phrases": [
+    "Je parle… et je me débrouille en…",
+    "J'apprends le français pour…",
+    "Mes grands-parents m'ont appris…",
+    "Je passe environ…",
+    "J'aimerais…"
+   ],
+   "model_answer": "Je parle arabe et anglais, et je me débrouille de mieux en mieux en français. J'apprends le français pour m'installer au Canada avec ma famille. Ma grand-mère m'a appris à cuisiner et à respecter les autres. Je passe environ trois heures par jour sur mon téléphone, c'est trop ! Une fois, j'ai essayé de me déconnecter pendant un week-end et je me suis senti plus calme. Dans dix ans, j'aimerais travailler comme ingénieur à Montréal."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Convaincre son responsable",
+   "examiner_role": "Responsable des ressources humaines",
+   "scenario": "Vous souhaitez travailler quatre jours par semaine au lieu de cinq. L'examinateur joue le rôle du responsable des ressources humaines, réticent. Présentez votre demande, répondez à ses objections et proposez des solutions.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Bonjour, de quoi vouliez-vous me parler ?",
+    "Quatre jours ? Qui fera votre travail le vendredi ?",
+    "Vos clients ont besoin de vous joindre.",
+    "Les autres salariés vont demander la même chose.",
+    "Et votre salaire ?",
+    "Que proposez-vous concrètement ?"
+   ],
+   "useful_phrases": [
+    "Je souhaiterais vous proposer…",
+    "Je comprends tout à fait votre inquiétude…",
+    "Je m'engage à…",
+    "Pourquoi ne pas envisager… ?",
+    "Qu'en pensez-vous ?"
+   ],
+   "model_answer": "Je souhaiterais vous proposer de passer à quatre jours, avec des journées un peu plus longues. Je comprends tout à fait votre inquiétude concernant les clients : je m'engage à rester joignable pour les urgences et à organiser un relais avec ma collègue. Pourquoi ne pas envisager une période d'essai de trois mois, avec un bilan précis à la fin ? Si l'expérience est concluante, elle pourrait même servir de modèle à l'équipe. Qu'en pensez-vous ?"
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Une ville intelligente : progrès ou menace ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion : « Les villes intelligentes, équipées de capteurs et de caméras, améliorent-elles vraiment notre qualité de vie ? » Argumentez, donnez des exemples, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Quelle est votre opinion ?",
+    "Quels sont les avantages concrets ?",
+    "Que pensez-vous de la protection de la vie privée ?",
+    "Qui devrait contrôler les données ?",
+    "Votre conclusion ?"
+   ],
+   "useful_phrases": [
+    "À mon sens…",
+    "Prenons l'exemple de…",
+    "Il ne faut cependant pas négliger…",
+    "Il conviendrait de…",
+    "En définitive…"
+   ],
+   "model_answer": "À mon sens, les villes intelligentes peuvent améliorer notre quotidien, à condition d'être bien encadrées. Prenons l'exemple de l'éclairage public qui s'allume seulement au passage des piétons : il permet d'importantes économies d'énergie. De même, les capteurs de pollution aident les villes à réagir plus vite. Il ne faut cependant pas négliger les risques pour la vie privée : des caméras partout, c'est une forme de surveillance. Il conviendrait donc que les données restent publiques et contrôlées par les citoyens. En définitive, la technologie doit rester un outil au service des habitants."
+  }
+ ]
+}

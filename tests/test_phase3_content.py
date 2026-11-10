@@ -19,7 +19,7 @@ ROOT = content_dir()
 
 def test_content_directory_is_built():
     assert (ROOT / "exams").is_dir(), "lancer tools/build_content.py"
-    assert len(list((ROOT / "exams").glob("*.json"))) >= 10
+    assert len(list((ROOT / "exams").glob("*.json"))) >= 20
 
 
 @pytest.mark.parametrize("path", sorted((ROOT / "exams").glob("*.json")), ids=lambda p: p.stem)
@@ -54,7 +54,7 @@ def test_full_seed_of_real_content(db):
     with db.session() as s:
         rep = seed_all(s)
         assert rep.errors == []
-        assert rep.exams >= 10
+        assert rep.exams >= 20
         assert rep.grammar_chapters == 23
         assert rep.verbs >= 150
         assert rep.plan_days == 84
