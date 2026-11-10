@@ -4,10 +4,12 @@ name: Installateur Windows
 # - Manuellement : onglet Actions > « Installateur Windows » > Run workflow
 #   (l'installateur est alors téléchargeable dans les « Artifacts » de l'exécution).
 # - Sur un tag vX.Y.Z : l'installateur est aussi publié dans une Release GitHub.
+# - Quand l'empaquetage change (spec, script Inno Setup, ce workflow) : vérification.
 on:
   workflow_dispatch:
   push:
     tags: ["v*"]
+    paths: ["packaging/**", ".github/workflows/release.yml"]
 
 permissions:
   contents: write
