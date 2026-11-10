@@ -1,0 +1,490 @@
+@code EXAM-07
+@title Examen blanc n° 7 – Famille, sécurité et vie locale
+@level B2
+@description Examen complet calibré B1–B2 : parentalité, sécurité, accessibilité, langues, vie associative.
+
+## CO 1 | A2 | message téléphonique | information précise | F:fr-FR
+DOC: F: Bonjour, c'est la crèche Les Petits Pas. Votre fille Inès a un peu de fièvre, 38,5. Ce n'est pas grave, mais pouvez-vous venir la chercher avant midi ? Merci.
+Q: Que demande la crèche ?
++ De venir chercher l'enfant avant midi. | « pouvez-vous venir la chercher avant midi ? »
+- D'apporter des médicaments. | Ce n'est pas demandé.
+- D'appeler le médecin. | Ce n'est pas demandé.
+- De laisser l'enfant jusqu'au soir. | C'est l'inverse.
+EXP: La demande est à la fin du message, introduite par « pouvez-vous ».
+
+## CO 2 | A2 | annonce publique | information précise | H:fr-FR
+DOC: H: Chers parents, la kermesse de l'école aura lieu samedi 22 juin, de 14 h à 18 h, dans la cour. Jeux, tombola et goûter pour tous. Venez nombreux !
+Q: Où se passe la kermesse ?
++ Dans la cour de l'école. | « dans la cour ».
+- Au parc municipal. | Ce n'est pas dit.
+- Dans la salle des fêtes. | Ce n'est pas dit.
+- Au gymnase. | Ce n'est pas dit.
+EXP: Repérez le lieu : « dans la cour ».
+
+## CO 3 | A2 | conversation quotidienne | information précise | H:fr-FR, F:fr-FR
+DOC: H: Tu as acheté le cadeau pour l'anniversaire de maman ? / F: Pas encore. Je pensais à un livre, mais elle en a déjà beaucoup. / H: Et un bouquet de fleurs avec un dîner au restaurant ? / F: Oui, c'est une très bonne idée !
+Q: Qu'est-ce qu'ils vont offrir ?
++ Des fleurs et un dîner au restaurant. | Proposition acceptée : « c'est une très bonne idée ! »
+- Un livre. | Elle en a déjà beaucoup.
+- Des fleurs uniquement. | Il y a aussi le dîner.
+- Un voyage. | Ce n'est pas proposé.
+EXP: La dernière proposition est acceptée.
+
+## CO 4 | B1 | conversation quotidienne | intention | F:fr-FR, H:fr-FR
+DOC: F: Excusez-moi, vous pourriez m'aider ? Je suis en fauteuil roulant et l'ascenseur de la station est en panne. / H: Bien sûr. Il y a une autre sortie avec une rampe, à cent mètres. Je vous accompagne ? / F: Merci, c'est très gentil.
+Q: Que fait l'homme ?
++ Il propose d'accompagner la femme vers une sortie accessible. | « Je vous accompagne ? »
+- Il répare l'ascenseur. | Ce n'est pas dit.
+- Il appelle un taxi. | Ce n'est pas dit.
+- Il refuse d'aider. | Il aide.
+EXP: L'homme répond en donnant une information et en proposant son aide.
+
+## CO 5 | B1 | message professionnel | information précise | H:fr-CA
+DOC: H: Bonjour Madame Tremblay, ici le centre de langues. Votre test de niveau indique un niveau B1. Nous vous proposons donc le cours intermédiaire, le mardi et le jeudi soir, de 18 h 30 à 20 h. Les cours commencent le 15 septembre. Rappelez-nous pour confirmer votre inscription.
+Q: Quel cours propose-t-on à Mme Tremblay ?
++ Le cours intermédiaire, deux soirs par semaine. | Le mardi et le jeudi soir.
+- Le cours débutant. | Elle a un niveau B1.
+- Un cours le samedi matin. | Ce n'est pas dit.
+- Un cours intensif tous les jours. | Ce n'est pas dit.
+EXP: « Donc » relie le niveau au choix du cours.
+
+## CO 6 | B1 | information radio | information précise | F:fr-FR
+DOC: F: Attention aux faux agents des eaux ! La police signale plusieurs cas d'escroquerie : des individus se présentent chez des personnes âgées en prétendant vérifier les canalisations, puis volent bijoux et argent. Rappel : les vrais agents prennent toujours rendez-vous et présentent une carte professionnelle.
+Q: Comment reconnaître un vrai agent ?
++ Il prend rendez-vous et montre une carte professionnelle. | C'est le rappel final.
+- Il vient sans prévenir. | C'est ce que font les escrocs.
+- Il demande de l'argent. | Ce n'est pas un critère.
+- Il porte un uniforme. | Ce n'est pas mentionné.
+EXP: « Prétendre » = affirmer quelque chose de faux. Le rappel donne les critères fiables.
+
+## CO 7 | B1 | interview | opinion | H:fr-FR, F:fr-FR
+DOC: H: Vous élevez vos enfants en parlant trois langues à la maison. Ce n'est pas trop compliqué ? / F: Au début, mon fils mélangeait tout ! Mais maintenant, à six ans, il passe d'une langue à l'autre sans effort. C'est une vraie richesse : il peut parler avec ses grands-parents au Maroc et en Espagne.
+Q: Que pense la mère du plurilinguisme ?
++ C'est une grande richesse pour son fils. | « C'est une vraie richesse ».
+- C'est trop difficile pour les enfants. | Il parle maintenant sans effort.
+- Son fils mélange toujours les langues. | C'était au début.
+- Il faut choisir une seule langue. | Ce n'est pas son avis.
+EXP: L'opposition « au début… maintenant » montre l'évolution.
+
+## CO 8 | B1 | annonce publique | information précise | H:fr-FR
+DOC: H: La police municipale rappelle qu'à partir du 1er juillet, la vitesse sera limitée à 30 km/h dans toutes les rues de la ville, à l'exception des grands boulevards, où elle reste fixée à 50 km/h.
+Q: Quelle est la vitesse maximale sur les grands boulevards ?
++ 50 km/h. | « où elle reste fixée à 50 km/h ».
+- 30 km/h. | Les boulevards sont une exception.
+- 70 km/h. | Ce n'est pas dit.
+- 20 km/h. | Ce n'est pas dit.
+EXP: « À l'exception de » introduit une exception à la règle générale.
+
+## CO 9 | B1 | situation administrative | information précise | F:fr-FR, H:fr-FR
+DOC: F: Bonjour, je viens déclarer le vol de mon vélo. / H: Vous avez le numéro de gravage ? / F: Oui, je l'ai noté sur mon téléphone. / H: Très bien. Vous pouvez aussi faire une pré-plainte en ligne la prochaine fois, ça vous évitera d'attendre. Je vais enregistrer votre déclaration.
+Q: Que conseille le policier pour la prochaine fois ?
++ De commencer la plainte sur Internet. | « faire une pré-plainte en ligne ».
+- De ne pas déclarer le vol. | Ce n'est pas dit.
+- D'acheter un antivol. | Ce n'est pas dit.
+- De venir plus tôt le matin. | Ce n'est pas dit.
+EXP: « La prochaine fois » introduit un conseil pour l'avenir.
+
+## CO 10 | B1 | conversation professionnelle | information précise | H:fr-FR, F:fr-BE
+DOC: H: On organise l'atelier de prévention des risques pour les nouveaux salariés ? / F: Oui, le jeudi 8, de 9 h à 11 h. Il faudra prévoir une salle de vingt places. / H: La salle B ne fait que quinze places. / F: Alors prenons l'auditorium.
+Q: Où aura lieu l'atelier ?
++ Dans l'auditorium. | « Alors prenons l'auditorium ».
+- Dans la salle B. | Elle est trop petite.
+- Dans un bureau. | Ce n'est pas dit.
+- À l'extérieur de l'entreprise. | Ce n'est pas dit.
+EXP: « Alors » introduit la décision finale.
+
+## CO 11 | B2 | débat | opinion | F:fr-FR, H:fr-FR
+DOC: H: Il faudrait installer des caméras de surveillance dans toutes les rues. / F: Les caméras peuvent aider à résoudre certaines enquêtes, je ne le nie pas. Mais elles ne remplacent pas une présence humaine. Et surveiller tout le monde en permanence, c'est une atteinte à la vie privée. Je préférerais plus de policiers de proximité.
+Q: Quelle est la position de la femme ?
++ Elle préfère une présence policière humaine aux caméras généralisées. | « Je préférerais plus de policiers de proximité ».
+- Elle veut des caméras partout. | Elle s'y oppose.
+- Elle pense que les caméras sont inutiles. | Elle reconnaît leur utilité pour les enquêtes.
+- Elle veut supprimer la police. | Elle veut plus de policiers.
+EXP: « Je ne le nie pas. Mais » : concession puis objection.
+
+## CO 12 | B2 | information radio | information globale | H:fr-FR
+DOC: H: Selon une enquête, quatre parents sur dix disent ne pas savoir comment encadrer l'usage des écrans de leurs enfants. Le ministère lance une campagne d'information avec des conseils simples : pas d'écran avant trois ans, pas de téléphone dans la chambre la nuit, et des moments sans écran en famille.
+Q: Pourquoi le ministère lance-t-il cette campagne ?
++ Parce que beaucoup de parents se sentent démunis face aux écrans. | « ne pas savoir comment encadrer l'usage des écrans ».
+- Pour vendre des tablettes. | Ce n'est pas l'objectif.
+- Pour interdire les écrans à l'école. | Ce n'est pas dit.
+- Parce que les enfants n'utilisent plus d'écrans. | C'est le contraire.
+EXP: La cause est donnée par l'enquête au début.
+
+## CO 13 | B2 | interview | information détaillée | F:fr-FR, H:fr-FR
+DOC: F: Votre café emploie uniquement des personnes en situation de handicap. Pourquoi ce choix ? / H: Parce que les entreprises les recrutent encore trop peu, alors qu'elles sont parfaitement compétentes. Nous adaptons simplement les postes : des commandes illustrées, un rythme de travail ajusté. Et les clients reviennent pour la qualité du café, pas par charité.
+Q: Comment le café adapte-t-il le travail ?
++ Avec des commandes illustrées et un rythme ajusté. | Ce sont les adaptations citées.
+- En réduisant le nombre de clients. | Ce n'est pas dit.
+- En ne servant que des boissons froides. | Ce n'est pas dit.
+- En fermant le week-end. | Ce n'est pas dit.
+EXP: « Simplement » souligne que les adaptations sont modestes.
+
+## CO 14 | B2 | message téléphonique | implicite | H:fr-FR
+DOC: H: Coucou ma chérie, c'est papa. Je voulais juste te dire que j'ai bien reçu le nouveau téléphone que tu m'as offert. Il est très beau. J'ai réussi à l'allumer… C'est déjà ça. Pour le reste, on verra quand tu passeras dimanche, d'accord ?
+Q: Que comprend-on ?
++ Le père a du mal à utiliser son nouveau téléphone. | « J'ai réussi à l'allumer… C'est déjà ça ».
+- Le téléphone est en panne. | Il a réussi à l'allumer.
+- Le père n'aime pas le cadeau. | Il le trouve beau.
+- Le père maîtrise parfaitement le téléphone. | C'est le contraire.
+EXP: « C'est déjà ça » = c'est un petit progrès. Il attend l'aide de sa fille.
+
+## CO 15 | B2 | conversation professionnelle | relation logique | F:fr-FR, H:fr-CH
+DOC: F: Les accidents du travail ont diminué de moitié dans l'atelier. / H: C'est grâce aux formations ? / F: En partie. Mais surtout, on a réorganisé les postes pour que les salariés ne portent plus de charges lourdes seuls. Les formations, c'est bien, mais si l'environnement reste dangereux, ça ne suffit pas.
+Q: Selon la femme, qu'est-ce qui explique surtout la baisse des accidents ?
++ La réorganisation des postes de travail. | « Mais surtout, on a réorganisé les postes ».
+- Les formations uniquement. | « En partie » seulement.
+- L'embauche de nouveaux salariés. | Ce n'est pas dit.
+- L'achat de nouvelles machines. | Ce n'est pas dit.
+EXP: « En partie. Mais surtout » hiérarchise les causes.
+
+## CO 16 | B2 | interview | information détaillée | H:fr-FR, F:fr-CA
+DOC: H: Vous êtes à l'origine d'un réseau de « voisins solidaires ». Comment ça fonctionne ? / F: C'est une plateforme où chacun indique ce qu'il peut offrir : arroser des plantes, garder un enfant une heure, prêter une échelle. Pas d'argent, juste des services rendus. Ce qui m'a surprise, c'est que les personnes âgées sont les plus actives : elles proposent du temps, et c'est précieux.
+Q: Qu'est-ce qui a surpris la fondatrice ?
++ L'engagement important des personnes âgées. | « les personnes âgées sont les plus actives ».
+- Le manque de participants. | Ce n'est pas dit.
+- Le fait que les services soient payants. | « Pas d'argent ».
+- La participation des jeunes uniquement. | Ce sont les âgés les plus actifs.
+EXP: « Ce qui m'a surprise, c'est » met en relief l'information.
+
+## CO 17 | B2 | annonce publique | information précise | F:fr-FR
+DOC: F: Le conseil municipal des jeunes recrute ! Les jeunes de 11 à 15 ans habitant la commune peuvent déposer leur candidature jusqu'au 15 octobre. Les élus, choisis par vote dans les collèges, se réuniront une fois par mois pour proposer des projets financés par la mairie.
+Q: Comment les jeunes élus seront-ils choisis ?
++ Par un vote dans les collèges. | « choisis par vote dans les collèges ».
+- Par tirage au sort. | Ce n'est pas dit.
+- Par le maire. | Ce n'est pas dit.
+- Par leurs parents. | Ce n'est pas dit.
+EXP: Repérez le mode de désignation.
+
+## CO 18 | B2 | information radio | relation logique | H:fr-BE
+DOC: H: Les cambriolages ont augmenté de quinze pour cent pendant les vacances d'été. La gendarmerie rappelle l'existence de l'opération « Tranquillité vacances » : il suffit de signaler son absence pour que des patrouilles passent régulièrement devant le domicile. Un service gratuit encore trop peu connu.
+Q: Quel est le problème de l'opération « Tranquillité vacances » ?
++ Elle n'est pas assez connue. | « Un service gratuit encore trop peu connu ».
+- Elle est trop chère. | Elle est gratuite.
+- Elle ne fonctionne pas. | Ce n'est pas dit.
+- Elle a été supprimée. | Elle existe.
+EXP: La dernière phrase donne l'information demandée.
+
+## CO 19 | B2 | débat | argumentation | F:fr-FR, H:fr-FR
+DOC: H: Les enfants devraient apprendre une langue étrangère dès la maternelle. / F: Je suis d'accord sur le principe, mais à condition d'avoir des enseignants formés. Une langue mal enseignée, avec un mauvais accent, peut faire plus de mal que de bien. Il vaut mieux commencer un peu plus tard avec de bons professeurs.
+Q: À quelle condition la femme est-elle d'accord ?
++ Si les enseignants sont bien formés. | « à condition d'avoir des enseignants formés ».
+- Si les parents paient les cours. | Ce n'est pas dit.
+- Si les enfants le demandent. | Ce n'est pas dit.
+- Si l'on commence avant la maternelle. | Elle préfère commencer plus tard.
+EXP: « À condition de » exprime une condition nécessaire.
+
+## CO 20 | B2 | interview | implicite | H:fr-FR, F:fr-FR
+DOC: H: Vous êtes maire d'un village de trois cents habitants. Quel est votre principal défi ? / F: Garder l'école ouverte. Il nous faut au moins quinze élèves. Alors quand une famille avec trois enfants visite une maison à vendre, je vous assure que tout le village est très accueillant… et que la boulangère offre des croissants.
+Q: Que laisse entendre la maire ?
++ Le village fait tout pour attirer les familles avec enfants. | Accueil chaleureux et croissants offerts pour sauver l'école.
+- Le village n'aime pas les nouveaux habitants. | C'est le contraire.
+- L'école a déjà fermé. | Elle cherche à la garder ouverte.
+- La boulangère est sa fille. | Ce n'est pas dit.
+EXP: L'humour suggère une stratégie collective d'accueil intéressée.
+
+## CO 21 | C1 | information radio | information détaillée | F:fr-FR
+DOC: F: Une nouvelle loi oblige les établissements recevant du public à rendre leurs sites internet accessibles aux personnes malvoyantes d'ici deux ans. Les associations saluent cette avancée, tout en regrettant l'absence de sanctions financières significatives, qui risque, selon elles, de ralentir sa mise en œuvre.
+Q: Que regrettent les associations ?
++ L'absence de sanctions financières importantes. | « en regrettant l'absence de sanctions financières significatives ».
+- La loi elle-même. | Elles la saluent.
+- Le délai trop long. | Ce n'est pas leur critique.
+- L'obligation imposée aux établissements. | Elles la soutiennent.
+EXP: « Tout en » exprime une simultanéité avec nuance.
+
+## CO 22 | B2 | conversation professionnelle | intention | H:fr-FR, F:fr-FR
+DOC: F: Monsieur Girard, je voulais vous signaler que plusieurs collègues se sont plaints de vos remarques en réunion. / H: Mes remarques ? Je donne simplement mon avis franchement. / F: La franchise, c'est bien. Mais quand elle devient blessante, elle nuit à l'équipe. Je vous propose de suivre une formation sur la communication.
+Q: Que propose la responsable ?
++ Une formation à la communication. | « Je vous propose de suivre une formation sur la communication ».
+- Une sanction disciplinaire. | Ce n'est pas proposé.
+- Un changement d'équipe. | Ce n'est pas proposé.
+- Une augmentation. | Ce n'est pas proposé.
+EXP: Elle distingue franchise et propos blessants avant de proposer une solution.
+
+## CO 23 | C1 | débat | argumentation | H:fr-FR, F:fr-BE
+DOC: F: Interdire la fessée par la loi, c'était nécessaire. / H: Personne ne défend la violence. Mais l'État n'a pas à entrer dans les familles. / F: L'État entre déjà dans les familles quand il protège un enfant maltraité. La loi ne vise pas à punir les parents, mais à affirmer une norme : on n'éduque pas par la peur. Les pays qui l'ont adoptée ont vu les mentalités évoluer en une génération.
+Q: Quel argument la femme utilise-t-elle ?
++ La loi sert surtout à fixer une norme éducative. | « La loi ne vise pas à punir les parents, mais à affirmer une norme ».
+- Les parents doivent être emprisonnés. | Ce n'est pas l'objectif selon elle.
+- L'État ne doit jamais intervenir dans les familles. | C'est l'argument de l'homme.
+- La fessée est efficace. | Ce n'est pas son avis.
+EXP: Elle réfute l'argument adverse puis s'appuie sur l'exemple d'autres pays.
+
+## CO 24 | C1 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes sociologue. La solitude progresse-t-elle ? / H: Paradoxalement, oui, alors que nous n'avons jamais été aussi connectés. Le problème, c'est que les relations numériques remplacent parfois les liens de proximité au lieu de les compléter. Ce qui protège de la solitude, ce n'est pas le nombre de contacts, c'est la qualité de quelques relations solides.
+Q: Selon le sociologue, qu'est-ce qui protège de la solitude ?
++ Quelques relations solides et de qualité. | « c'est la qualité de quelques relations solides ».
+- Un grand nombre de contacts. | « ce n'est pas le nombre de contacts ».
+- Les réseaux sociaux. | Ils peuvent remplacer les liens de proximité.
+- Le travail. | Ce n'est pas dit.
+EXP: La structure « ce n'est pas X, c'est Y » donne la réponse.
+
+## CO 25 | C1 | information radio | implicite | H:fr-FR
+DOC: H: La mairie a inauguré hier, en grande pompe, une nouvelle rampe d'accès pour fauteuils roulants devant l'hôtel de ville. Une avancée saluée par tous… même si, détail amusant, la rampe mène à une porte qui ne s'ouvre que de l'intérieur.
+Q: Que souligne le journaliste ?
++ L'absurdité d'un aménagement mal pensé. | La rampe mène à une porte inutilisable de l'extérieur.
+- L'efficacité de la mairie. | Le ton est ironique.
+- Le coût élevé de la rampe. | Ce n'est pas dit.
+- L'absence de fauteuils roulants dans la ville. | Ce n'est pas dit.
+EXP: « Détail amusant » est ironique : le défaut rend l'aménagement inutile.
+
+## CE 1 | A2 | annonce | information précise
+DOC: Atelier parents-enfants : fabriquez vos décorations de Noël ! Samedi 9 décembre, de 10 h à 12 h, à la médiathèque. Pour les enfants de 4 à 8 ans accompagnés d'un adulte. Gratuit, inscription obligatoire à l'accueil.
+Q: Que faut-il faire pour participer ?
++ S'inscrire à l'accueil. | « inscription obligatoire à l'accueil ».
+- Payer à l'entrée. | C'est gratuit.
+- Apporter des décorations. | On les fabrique.
+- Venir sans adulte. | Un adulte doit accompagner.
+EXP: « Obligatoire » indique une condition.
+
+## CE 2 | A2 | message | information précise
+DOC: Mamie, je ne pourrai pas venir déjeuner dimanche, j'ai un match de foot. Je viendrai mercredi après l'école, d'accord ? Je t'apporterai les photos de mes vacances. Bisous, Hugo.
+Q: Quand Hugo va-t-il voir sa grand-mère ?
++ Mercredi après l'école. | « Je viendrai mercredi après l'école ».
+- Dimanche. | Il a un match.
+- Samedi. | Ce n'est pas dit.
+- Pendant les vacances. | Ce n'est pas dit.
+EXP: Le message annonce un changement de jour.
+
+## CE 3 | A2 | affiche | information précise
+DOC: PARC MUNICIPAL – Les chiens doivent être tenus en laisse. Interdit aux vélos dans les allées. Ouvert de 8 h à 20 h en été et de 8 h à 18 h en hiver.
+Q: À quelle heure le parc ferme-t-il en hiver ?
++ À 18 heures. | « de 8 h à 18 h en hiver ».
+- À 20 heures. | C'est en été.
+- À 8 heures. | C'est l'ouverture.
+- Il ne ferme pas. | Il a des horaires.
+EXP: Distinguez les horaires d'été et d'hiver.
+
+## CE 4 | B1 | courriel | intention
+DOC: Madame la Directrice, je souhaiterais vous rencontrer au sujet de mon fils Adam, en classe de CE2. Depuis quelques semaines, il ne veut plus aller à l'école et se plaint de moqueries de la part de certains camarades. Je suis très inquiète. Pourriez-vous me proposer un rendez-vous ? Respectueusement, Mme Benali
+Q: Pourquoi Mme Benali écrit-elle ?
++ Pour parler d'un problème de harcèlement concernant son fils. | Il se plaint de moqueries et ne veut plus aller à l'école.
+- Pour inscrire son fils à l'école. | Il y est déjà.
+- Pour féliciter l'enseignante. | Ce n'est pas l'objet.
+- Pour signaler une absence. | Ce n'est pas l'objet.
+EXP: La demande de rendez-vous est justifiée par l'inquiétude de la mère.
+
+## CE 5 | B1 | article de presse | information globale
+DOC: À Bordeaux, des retraités bénévoles accompagnent les enfants à l'école à pied, sous forme de « pédibus ». Chaque matin, ils suivent un itinéraire fixe avec des arrêts, comme un bus. Les parents gagnent du temps, les enfants font de l'exercice, et les rues sont moins encombrées de voitures.
+Q: Qu'est-ce qu'un « pédibus » ?
++ Un accompagnement à pied des enfants jusqu'à l'école. | Des bénévoles accompagnent les enfants à pied.
+- Un bus scolaire électrique. | C'est à pied.
+- Un vélo collectif. | Ce n'est pas dit.
+- Une garderie. | Ce n'est pas dit.
+EXP: Le mot combine « pied » et « bus » : un trajet organisé à pied.
+
+## CE 6 | B1 | lettre administrative | information précise
+DOC: Monsieur, votre enfant a été inscrit à l'accueil de loisirs pour les vacances de printemps. Nous vous rappelons que le paiement doit être effectué avant le 1er avril sur le portail famille. En cas d'absence de votre enfant, les journées ne seront remboursées que sur présentation d'un certificat médical.
+Q: Dans quel cas les journées d'absence sont-elles remboursées ?
++ Avec un certificat médical. | « que sur présentation d'un certificat médical ».
+- Toujours. | Seulement avec un certificat.
+- Jamais. | Avec un certificat, c'est possible.
+- Si les parents préviennent la veille. | Ce n'est pas suffisant.
+EXP: « Ne… que » = seulement.
+
+## CE 7 | B1 | publicité | information précise
+DOC: Sécurisez votre maison avec ProtectHome ! Alarme connectée, caméra et détecteurs de fumée installés en une journée. Contrôlez tout depuis votre téléphone. Premier mois offert, puis 29,90 € par mois. Installation gratuite.
+Q: Qu'est-ce qui est gratuit ?
++ L'installation et le premier mois. | « Premier mois offert » et « Installation gratuite ».
+- Tous les mois. | Après, 29,90 €.
+- Le téléphone. | Ce n'est pas dit.
+- Les réparations. | Ce n'est pas dit.
+EXP: Relevez tous les éléments gratuits.
+
+## CE 8 | B1 | message professionnel | information précise
+DOC: À tous les employés : un exercice d'évacuation incendie aura lieu cette semaine, sans date annoncée. Au signal sonore, quittez immédiatement votre poste par l'escalier le plus proche, sans utiliser les ascenseurs, et rejoignez le point de rassemblement sur le parking nord.
+Q: Que faut-il éviter pendant l'exercice ?
++ Prendre l'ascenseur. | « sans utiliser les ascenseurs ».
+- Prendre l'escalier. | C'est ce qu'il faut faire.
+- Aller sur le parking nord. | C'est le point de rassemblement.
+- Quitter son poste. | Il faut le quitter.
+EXP: « Sans + infinitif » indique ce qu'il ne faut pas faire.
+
+## CE 9 | B1 | témoignage | opinion
+DOC: « Je suis devenu pompier volontaire il y a cinq ans, en plus de mon travail de boulanger. Ce n'est pas toujours facile de concilier les deux, surtout les nuits de garde. Mais quand on aide quelqu'un dans un moment difficile, on oublie la fatigue. » Thomas, 33 ans.
+Q: Qu'est-ce qui motive Thomas ?
++ Le sentiment d'aider les autres. | « quand on aide quelqu'un… on oublie la fatigue ».
+- Le salaire. | Il est volontaire.
+- Les nuits de garde. | Elles sont difficiles.
+- Le désir de quitter la boulangerie. | Il continue son travail.
+EXP: « Concilier » = faire deux choses en même temps.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: Les « cafés des parents » se multiplient dans les écoles. Une fois par mois, des parents se retrouvent autour d'un café pour échanger sur l'éducation, avec parfois l'aide d'un psychologue. L'objectif n'est pas de donner des leçons, mais de rompre l'isolement de parents qui se sentent souvent seuls face aux difficultés.
+Q: Quel est l'objectif principal de ces rencontres ?
++ Rompre l'isolement des parents. | « rompre l'isolement de parents ».
+- Donner des cours aux parents. | « L'objectif n'est pas de donner des leçons ».
+- Remplacer les enseignants. | Ce n'est pas dit.
+- Organiser des fêtes. | Ce n'est pas dit.
+EXP: « Non pas X, mais Y » précise l'objectif.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: On voudrait nous faire croire que l'insécurité explose. Pourtant, selon les statistiques officielles, les homicides ont nettement diminué en trente ans. Ce qui a augmenté, c'est la médiatisation des faits divers, diffusés en boucle sur les chaînes d'information. Le sentiment d'insécurité ne suit pas forcément la réalité des chiffres.
+Q: Que veut montrer l'auteur ?
++ Le sentiment d'insécurité dépend en partie des médias. | La médiatisation a augmenté, pas les homicides.
+- L'insécurité a beaucoup augmenté. | C'est l'idée qu'il conteste.
+- Les statistiques sont fausses. | Il s'appuie sur elles.
+- Il faut plus de policiers. | Ce n'est pas dit.
+EXP: « Pourtant » introduit les données contradictoires.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Chers parents, en raison d'un mouvement de grève, la cantine ne sera pas assurée jeudi. Nous vous invitons à prévoir un repas froid pour votre enfant ou, à défaut, à venir le chercher à midi.
+Q: Que signifie « ne sera pas assurée » ?
++ ne fonctionnera pas. | Les enfants doivent prévoir un repas.
+- ne sera pas sécurisée. | Ce n'est pas le sens.
+- ne sera pas payante. | Ce n'est pas le sens.
+- sera remplacée par un restaurant. | Ce n'est pas dit.
+EXP: « Assurer un service » = le faire fonctionner.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: Pour lutter contre le harcèlement scolaire, un collège a formé des élèves « ambassadeurs ». Repérés pour leur écoute et leur bienveillance, ils sont chargés de signaler les situations préoccupantes aux adultes et d'accompagner les élèves isolés. En un an, les signalements ont doublé, signe, selon la direction, que la parole se libère.
+Q: Comment la direction interprète-t-elle le doublement des signalements ?
++ Comme le signe que les élèves osent davantage parler. | « signe… que la parole se libère ».
+- Comme une hausse du harcèlement. | Ce n'est pas son interprétation.
+- Comme un échec du programme. | Ce n'est pas dit.
+- Comme une erreur de calcul. | Ce n'est pas dit.
+EXP: Un chiffre peut être interprété de plusieurs façons ; ici, positivement.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Madame, votre demande de logement adapté à votre handicap a été transmise à la commission d'attribution. Afin de compléter votre dossier, nous vous prions de nous faire parvenir, sous quinze jours, la notification de la MDPH précisant votre taux d'incapacité. Sans ce document, la commission ne pourra pas statuer.
+Q: Que se passe-t-il si le document n'est pas envoyé ?
++ La commission ne pourra pas prendre de décision. | « la commission ne pourra pas statuer ».
+- Le logement sera attribué automatiquement. | C'est le contraire.
+- La demande sera acceptée plus tard. | Ce n'est pas dit.
+- La personne devra payer des frais. | Ce n'est pas dit.
+EXP: « Statuer » = prendre une décision officielle.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: On reproche souvent aux parents d'aujourd'hui d'être trop protecteurs. Il est vrai que les enfants jouent moins dehors qu'autrefois. Mais cette prudence s'explique aussi par l'urbanisation : les rues, envahies par les voitures, sont devenues réellement plus dangereuses. Accuser les parents sans repenser la ville serait donc injuste.
+Q: Quelle est la conclusion de l'auteur ?
++ Il faut aussi repenser la ville au lieu de blâmer les parents. | « Accuser les parents sans repenser la ville serait donc injuste ».
+- Les parents sont trop protecteurs. | Il nuance cette idée.
+- Les enfants jouent plus dehors qu'avant. | C'est le contraire.
+- Les voitures doivent être interdites. | Ce n'est pas dit.
+EXP: « Il est vrai que… Mais » : concession puis argument.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: Le projet de fusion de deux écoles rurales suscite des réactions contrastées. L'inspection académique met en avant de meilleures conditions d'enseignement. Les parents s'inquiètent des trajets plus longs pour leurs enfants, tandis que les élus locaux redoutent que la fermeture d'une école n'accélère le déclin du village.
+Q: Que craignent les élus locaux ?
++ Le déclin du village. | « redoutent que la fermeture d'une école n'accélère le déclin du village ».
+- Les trajets plus longs. | C'est l'inquiétude des parents.
+- De moins bonnes conditions d'enseignement. | L'inspection pense le contraire.
+- La hausse des impôts. | Ce n'est pas dit.
+EXP: « Redouter que… ne » : « ne » explétif.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: Le congé parental d'éducation permet à un salarié de réduire ou d'interrompre son activité pour s'occuper de son enfant jusqu'à ses trois ans. Pour en bénéficier, il faut justifier d'au moins un an d'ancienneté dans l'entreprise. L'employeur ne peut pas refuser, mais le salarié doit l'informer au moins un mois à l'avance.
+Q: Quelle condition faut-il remplir ?
++ Avoir au moins un an d'ancienneté dans l'entreprise. | « justifier d'au moins un an d'ancienneté ».
+- Avoir plus de trois enfants. | Ce n'est pas dit.
+- Obtenir l'accord de l'employeur. | Il ne peut pas refuser.
+- Travailler à temps partiel. | Ce n'est pas dit.
+EXP: « Ancienneté » = durée de présence dans l'entreprise.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « Quand j'ai annoncé que je prenais un congé parental, mon chef m'a félicité… puis m'a demandé si ma femme était malade. » Julien, 36 ans.
+Q: Que sous-entend Julien ?
++ Son chef trouve anormal qu'un père prenne un congé parental. | La question suggère que seul un problème justifierait ce choix.
+- Sa femme est malade. | Ce n'est pas le cas.
+- Son chef est très moderne. | La question montre le contraire.
+- Il a refusé le congé. | Il le prend.
+EXP: L'anecdote révèle un stéréotype de genre.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Faut-il interdire les téléphones portables au collège ? Les partisans soulignent les effets positifs sur la concentration et la diminution du cyberharcèlement pendant les heures de cours. Les opposants rappellent que le téléphone peut être un outil pédagogique et un moyen pour les parents de joindre leurs enfants en cas d'urgence.
+Q: Quel est un argument des opposants ?
++ Le téléphone permet de joindre les enfants en cas d'urgence. | C'est l'un des arguments cités.
+- L'interdiction améliore la concentration. | C'est l'argument des partisans.
+- Le cyberharcèlement diminue. | C'est l'argument des partisans.
+- Les téléphones coûtent cher. | Ce n'est pas dit.
+EXP: Identifiez les arguments de chaque camp.
+
+## CE 20 | B2 | article de presse | relation logique
+DOC: Le nombre de familles monoparentales a doublé en quarante ans. Cette évolution s'explique principalement par l'augmentation des séparations. Elle pose des défis importants, car ces familles, le plus souvent dirigées par des femmes, sont plus exposées à la pauvreté.
+Q: Pourquoi cette évolution pose-t-elle des défis ?
++ Ces familles sont plus exposées à la pauvreté. | « car ces familles… sont plus exposées à la pauvreté ».
+- Il y a moins de séparations. | C'est le contraire.
+- Les pères dirigent ces familles. | Ce sont le plus souvent des femmes.
+- Les enfants sont moins nombreux. | Ce n'est pas dit.
+EXP: « Car » introduit l'explication.
+
+## CE 21 | C1 | texte argumentatif | intention de l'auteur
+DOC: On exige des parents qu'ils soient tout à la fois éducateurs, psychologues, nutritionnistes et animateurs, sous le regard sévère des réseaux sociaux où s'affichent des familles idéales. Cette injonction à la perfection ne produit pas de meilleurs enfants ; elle produit des parents épuisés et culpabilisés.
+Q: Que dénonce l'auteur ?
++ La pression excessive qui pèse sur les parents. | « injonction à la perfection… parents épuisés et culpabilisés ».
+- Le manque d'investissement des parents. | C'est le contraire.
+- Les enfants mal élevés. | Ce n'est pas le sujet.
+- Le métier de psychologue. | Ce n'est pas le sujet.
+EXP: « Injonction » = ordre pressant. L'auteur oppose l'effet attendu et l'effet réel.
+
+## CE 22 | C1 | article de presse | sens d'un mot en contexte
+DOC: Les associations de quartier ont dû batailler ferme pour obtenir la réouverture du centre social, fermé depuis deux ans faute de financement.
+Q: Que signifie « batailler ferme » ?
++ se battre avec énergie et persévérance. | Elles ont lutté pour obtenir la réouverture.
+- se battre physiquement. | C'est un sens figuré.
+- accepter rapidement. | C'est le contraire.
+- fermer définitivement. | Ce n'est pas le sens.
+EXP: « Ferme » est ici un adverbe : avec force.
+
+## CE 23 | C1 | texte argumentatif | arguments contradictoires
+DOC: Les défenseurs de la vidéosurveillance algorithmique y voient un outil efficace pour repérer des comportements suspects dans les foules. Ses détracteurs dénoncent un risque d'erreurs et de discriminations, les algorithmes reproduisant les biais de leurs concepteurs. Entre efficacité promise et libertés menacées, le débat ne fait que commencer.
+Q: Quel risque soulignent les détracteurs ?
++ Les algorithmes peuvent reproduire des préjugés. | « les algorithmes reproduisant les biais de leurs concepteurs ».
+- L'outil est trop cher. | Ce n'est pas dit.
+- L'outil ne fonctionne pas dans les foules. | Ce n'est pas dit.
+- L'outil supprime les libertés de la police. | Ce n'est pas dit.
+EXP: « Biais » = préjugé, déformation systématique.
+
+## CE 24 | C1 | article de presse | sous-entendu
+DOC: Le ministre a annoncé un grand plan contre le harcèlement scolaire, le cinquième en dix ans. Les enseignants, eux, attendent toujours les formations promises par les quatre précédents.
+Q: Que suggère le journaliste ?
++ Les plans successifs n'ont pas été suivis d'effets concrets. | Les formations promises n'ont jamais eu lieu.
+- Le harcèlement a disparu. | Ce n'est pas dit.
+- Les enseignants ont été très bien formés. | C'est le contraire.
+- Le ministre n'a jamais rien annoncé. | Il a annoncé cinq plans.
+EXP: Le chiffre « cinquième » et « attendent toujours » expriment le scepticisme.
+
+## CE 25 | C1 | document informatif | compréhension globale
+DOC: Le Défenseur des droits est une autorité administrative indépendante chargée de veiller au respect des droits et libertés. Toute personne peut le saisir gratuitement, notamment en cas de discrimination, de difficultés avec un service public ou d'atteinte aux droits de l'enfant. Il ne peut pas annuler une décision de justice, mais il peut formuler des recommandations et proposer une médiation.
+Q: Que ne peut pas faire le Défenseur des droits ?
++ Annuler une décision de justice. | « Il ne peut pas annuler une décision de justice ».
+- Proposer une médiation. | Il le peut.
+- Formuler des recommandations. | Il le peut.
+- Être saisi gratuitement. | La saisine est gratuite.
+EXP: « Saisir » une autorité = lui soumettre une affaire.
+
+## EE 1 | A2 | décrire une personne
+CONSIGNE: Vous écrivez à votre correspondant pour lui décrire un membre de votre famille que vous admirez (qui c'est, son physique, son caractère, pourquoi vous l'admirez) (30 à 60 mots).
+MODELE: Cher Pablo, je voudrais te parler de ma grand-mère Aïcha. Elle a soixante-quinze ans, des cheveux blancs et des yeux très doux. Elle est courageuse et toujours souriante. Elle a élevé six enfants seule et elle cuisine merveilleusement bien. Je l'admire parce qu'elle ne se plaint jamais. Et toi, qui admires-tu ? Amitiés, Sami
+POINTS: présenter la personne ; physique ; caractère ; raison de l'admiration
+CONSEILS: Justifiez avec « parce que » et utilisez des adjectifs de caractère précis.
+
+## EE 2 | B1 | décrire un événement
+CONSIGNE: Votre quartier a organisé une journée de nettoyage. Vous écrivez un article pour le bulletin municipal (déroulement, participants, résultats) (40 à 90 mots).
+MODELE: Samedi dernier, une cinquantaine d'habitants du quartier des Tilleuls ont participé à une grande journée de nettoyage. Équipés de gants et de sacs fournis par la mairie, petits et grands ont ramassé les déchets dans le parc et le long de la rivière. En trois heures, plus de deux cents kilos de déchets ont été collectés, dont beaucoup de mégots et de bouteilles en plastique. La matinée s'est terminée par un pique-nique convivial. Rendez-vous l'année prochaine !
+POINTS: quand et où ; participants ; actions ; résultats chiffrés ; conclusion
+CONSEILS: Un article donne des faits précis (chiffres, lieux) et peut se terminer par une invitation.
+
+## EE 3 | B2 | justifier une décision
+CONSIGNE: Votre conseil municipal veut installer des caméras de surveillance dans votre rue. Vous écrivez au maire pour soutenir ou contester ce projet, en justifiant votre position (40 à 90 mots).
+MODELE: Monsieur le Maire, je souhaite exprimer mes réserves concernant le projet de caméras dans la rue des Lilas. Certes, la sécurité est une préoccupation légitime. Toutefois, notre rue connaît très peu d'incidents, et ces caméras représenteraient une dépense importante ainsi qu'une atteinte à la vie privée des habitants. Il me semblerait plus utile d'améliorer l'éclairage public et de renforcer la présence de la police municipale. Je vous prie d'agréer mes salutations distinguées.
+POINTS: registre formel ; position claire ; concession ; arguments ; proposition alternative
+CONSEILS: Une lettre formelle commence par « Monsieur le Maire » et se termine par une formule de politesse.
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous pose des questions sur votre famille, votre enfance et votre vie dans votre quartier.
+RELANCES: Pouvez-vous me parler de votre famille ? / Où avez-vous grandi ? / Quel était votre jeu préféré quand vous étiez enfant ? / Connaissez-vous vos voisins ? / Que faites-vous en famille le week-end ? / Comment imaginez-vous votre famille dans dix ans ?
+PHRASES: Je suis marié(e) et j'ai… / J'ai grandi dans… / Quand j'étais petit(e), j'adorais… / Avec mes voisins, nous… / Dans dix ans, j'espère que…
+MODELE: Je suis mariée et j'ai deux enfants de cinq et huit ans. J'ai grandi dans une petite ville au bord de la mer. Quand j'étais petite, j'adorais jouer au ballon avec mes cousins sur la plage. Aujourd'hui, je connais bien mes voisins : nous organisons parfois des repas ensemble. Le week-end, nous allons souvent au parc ou au cinéma en famille.
+
+## EO 2 | B2 | Organiser une activité avec un ami | Ami(e)
+SCENARIO: Vous voulez organiser une fête surprise pour l'anniversaire d'un ami commun. L'examinateur joue le rôle d'un ami. Discutez de la date, du lieu, des invités, du budget et du cadeau. Proposez, négociez et mettez-vous d'accord.
+RELANCES: Super idée ! On la fait où ? / Chez moi, c'est trop petit. / Samedi, je ne suis pas libre. / Combien on invite de personnes ? / Pour le cadeau, j'avais pensé à un week-end. / Qui s'occupe de quoi ?
+PHRASES: Et si on… ? / Qu'est-ce que tu dirais de… ? / Je propose que… / Ça me paraît un peu… / On n'a qu'à…
+MODELE: J'ai pensé qu'on pourrait organiser une fête surprise pour les trente ans de Karim. Si ton appartement est trop petit, qu'est-ce que tu dirais de louer la salle de l'association ? Ce n'est pas cher. Si tu n'es pas libre samedi, on n'a qu'à la faire vendredi soir. On invite une vingtaine de personnes ? Un week-end, ça me paraît un peu cher ; on pourrait plutôt lui offrir un baptême de parapente en se partageant les frais.
+
+## EO 3 | B2 | Faut-il privilégier les transports publics ? | Examinateur
+SCENARIO: Donnez votre opinion : « Faut-il privilégier les transports publics plutôt que la voiture individuelle ? » Argumentez, donnez des exemples, présentez avantages et inconvénients, nuancez et concluez.
+RELANCES: Quel est votre avis ? / Quels sont les avantages des transports publics ? / Et dans les zones rurales ? / Que faudrait-il améliorer ? / Votre conclusion ?
+PHRASES: Je considère que… / En outre… / Néanmoins… / Il faut prendre en considération plusieurs facteurs. / Il serait donc préférable de…
+MODELE: Je considère qu'il faut privilégier les transports publics, surtout en ville. Ils polluent moins, réduisent les embouteillages et coûtent moins cher qu'une voiture. En outre, on peut lire ou travailler pendant le trajet. Néanmoins, dans les zones rurales, les bus sont rares et la voiture reste indispensable. Il faut donc prendre en considération le territoire. Il serait préférable d'investir massivement dans les transports en ville et de développer le covoiturage à la campagne.
