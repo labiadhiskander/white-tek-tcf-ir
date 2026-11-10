@@ -1,0 +1,84 @@
+# Météo et nature
+météo | nom | f | A1 | Prévisions du temps qu'il fera. | La météo annonce de la pluie demain. | prévisions météorologiques | bulletin météo
+prévisions | nom | f | B1 | Annonce de ce qui va se passer. | Les prévisions annoncent un week-end ensoleillé. | pronostics | prévisions météo
+climat | nom | m | A2 | Conditions météorologiques habituelles d'une région. | Le climat méditerranéen est doux en hiver. | - | climat tempéré, changement de climat
+température | nom | f | A2 | Degré de chaleur ou de froid. | Les températures vont baisser cette nuit. | - | températures élevées, chute des températures
+ensoleillé | adjectif | - | A2 | Plein de soleil. | La Provence est une région très ensoleillée. | radieux | journée ensoleillée
+nuageux | adjectif | - | A2 | Couvert de nuages. | Le ciel sera nuageux dans l'après-midi. | couvert | temps nuageux
+couvert | adjectif | - | B1 | Se dit d'un ciel plein de nuages. | Le ciel est couvert ce matin. | nuageux | ciel couvert
+pluvieux | adjectif | - | B1 | Où il pleut souvent. | L'automne a été particulièrement pluvieux. | humide | temps pluvieux
+averse | nom | f | B1 | Pluie brève et forte. | Des averses sont prévues en fin de journée. | ondée | averse orageuse
+orage | nom | m | A2 | Perturbation avec éclairs et tonnerre. | Un violent orage a éclaté dans la nuit. | tempête | orage violent
+orageux | adjectif | - | B1 | Qui annonce un orage. | Le temps est lourd et orageux. | - | temps orageux
+éclair | nom | m | B1 | Lumière vive pendant un orage. | Un éclair a illuminé le ciel. | - | éclair et tonnerre
+tonnerre | nom | m | B1 | Bruit qui accompagne l'éclair. | On entend le tonnerre au loin. | grondement | coup de tonnerre
+foudre | nom | f | B2 | Décharge électrique pendant un orage. | La foudre est tombée sur un arbre. | - | frappé par la foudre
+grêle | nom | f | B2 | Pluie de glace. | La grêle a détruit les vignes. | grêlons | averse de grêle
+neige | nom | f | A1 | Eau gelée qui tombe en flocons. | La neige recouvre les montagnes. | - | chute de neige, bonhomme de neige
+verglas | nom | m | B2 | Fine couche de glace sur le sol. | Attention au verglas sur les routes. | - | plaque de verglas
+gel | nom | m | B1 | Température inférieure à zéro. | Le gel a abîmé les cultures. | gelée | risque de gel
+brouillard | nom | m | B1 | Nuage au ras du sol. | Le brouillard rend la conduite dangereuse. | brume | brouillard épais
+brume | nom | f | B2 | Brouillard léger. | Une brume matinale couvre la vallée. | brouillard | brume matinale
+vent | nom | m | A1 | Mouvement de l'air. | Le vent souffle fort sur la côte. | brise | coup de vent, vent violent
+rafale | nom | f | B2 | Coup de vent soudain et violent. | Des rafales à 100 km/h sont attendues. | bourrasque | rafales de vent
+tempête | nom | f | B1 | Vent très violent. | La tempête a arraché des arbres. | ouragan | tempête de neige
+ouragan | nom | m | B2 | Tempête tropicale très violente. | L'ouragan a dévasté les Antilles. | cyclone | ouragan dévastateur
+cyclone | nom | m | B2 | Tempête tropicale tournante. | Un cyclone menace l'île de la Réunion. | ouragan | alerte cyclone
+humidité | nom | f | B1 | Présence d'eau dans l'air. | L'humidité rend la chaleur étouffante. | moiteur | taux d'humidité
+sec | adjectif | - | A2 | Sans humidité. | L'air est très sec en hiver. | aride | climat sec
+doux | adjectif | - | A2 | Ni trop chaud ni trop froid. | Il fait doux pour la saison. | tempéré | temps doux
+frais | adjectif | - | A2 | Légèrement froid. | Les soirées sont fraîches en septembre. | frisquet | air frais
+glacial | adjectif | - | B2 | Très froid. | Un vent glacial souffle sur la ville. | gelé | froid glacial
+étouffant | adjectif | - | B2 | Si chaud qu'on respire mal. | La chaleur est étouffante dans le métro. | suffocant | chaleur étouffante
+alerte | nom | f | B1 | Signal de danger. | Le département est en alerte orange aux orages. | avertissement | alerte météo, vigilance orange
+vigilance | nom | f | B2 | Surveillance attentive face à un danger. | Météo-France a placé la région en vigilance rouge. | attention | vigilance orange
+saison | nom | f | A1 | Période de l'année. | L'automne est ma saison préférée. | - | changement de saison
+printemps | nom | m | A1 | Saison entre l'hiver et l'été. | Les arbres fleurissent au printemps. | - | au printemps
+automne | nom | m | A1 | Saison entre l'été et l'hiver. | Les feuilles tombent en automne. | - | en automne
+nature | nom | f | A2 | Ensemble du monde physique et vivant. | J'aime me promener dans la nature. | environnement | en pleine nature
+paysage | nom | m | A2 | Vue d'un territoire. | Ce paysage de montagne est magnifique. | panorama | paysage naturel
+montagne | nom | f | A1 | Grande élévation de terrain. | Nous passons nos vacances à la montagne. | mont | haute montagne
+sommet | nom | m | B1 | Point le plus haut d'une montagne. | Ils ont atteint le sommet à l'aube. | cime | atteindre le sommet
+vallée | nom | f | B1 | Espace entre deux montagnes. | Le village est situé au fond de la vallée. | val | vallée encaissée
+colline | nom | f | A2 | Petite élévation de terrain. | La maison est perchée sur une colline. | coteau | haut de la colline
+plaine | nom | f | B1 | Grande étendue plate. | La Beauce est une vaste plaine agricole. | - | plaine agricole
+forêt | nom | f | A1 | Grande étendue d'arbres. | La forêt couvre un tiers du territoire. | bois | forêt tropicale
+bois | nom | m | A2 | Petite forêt ; matière des arbres. | Nous nous sommes promenés dans les bois. | forêt | se promener dans les bois
+arbre | nom | m | A1 | Grande plante à tronc. | Ce chêne a plus de cent ans. | - | planter un arbre
+feuille | nom | f | A2 | Partie verte d'une plante. | Les feuilles jaunissent en octobre. | - | feuilles mortes
+fleur | nom | f | A1 | Partie colorée d'une plante. | Le jardin est plein de fleurs au printemps. | - | bouquet de fleurs
+plante | nom | f | A2 | Être vivant végétal. | Arrosez les plantes deux fois par semaine. | végétal | plante verte
+végétation | nom | f | B2 | Ensemble des plantes d'un lieu. | La végétation est abondante après la pluie. | flore | végétation luxuriante
+rivière | nom | f | A2 | Cours d'eau. | La rivière a débordé après les pluies. | cours d'eau | au bord de la rivière
+fleuve | nom | m | B1 | Grand cours d'eau qui se jette dans la mer. | La Loire est le plus long fleuve de France. | - | embouchure du fleuve
+lac | nom | m | A1 | Grande étendue d'eau entourée de terres. | Nous avons fait du bateau sur le lac. | étang | lac de montagne
+mer | nom | f | A1 | Grande étendue d'eau salée. | La mer est calme aujourd'hui. | océan | bord de mer
+océan | nom | m | A2 | Très grande étendue d'eau salée. | L'océan Atlantique borde la côte ouest. | mer | fond de l'océan
+côte | nom | f | B1 | Bord de mer. | La côte bretonne est très découpée. | littoral | côte rocheuse
+falaise | nom | f | B2 | Côte rocheuse escarpée. | Les falaises d'Étretat sont célèbres. | escarpement | haut de la falaise
+marée | nom | f | B2 | Mouvement régulier de la mer. | À marée basse, on peut marcher jusqu'à l'île. | - | marée haute, marée basse
+vague | nom | f | A2 | Mouvement de l'eau à la surface de la mer. | Les vagues sont idéales pour le surf. | lame | grosses vagues
+île | nom | f | A2 | Terre entourée d'eau. | Nous avons visité une petite île. | - | île déserte
+désert | nom | m | B1 | Région très sèche et peu peuplée. | Le Sahara est le plus grand désert chaud. | - | désert de sable
+volcan | nom | m | B1 | Montagne qui peut cracher de la lave. | Le volcan est entré en éruption. | - | volcan actif
+séisme | nom | m | B2 | Tremblement de terre. | Le séisme a fait d'importants dégâts. | tremblement de terre | séisme de magnitude 6
+glissement de terrain | nom | m | C1 | Mouvement brutal du sol en pente. | Un glissement de terrain a coupé la route. | éboulement | risque de glissement de terrain
+avalanche | nom | f | B2 | Masse de neige qui dévale une pente. | Le risque d'avalanche est élevé. | coulée de neige | risque d'avalanche
+incendie de forêt | nom | m | B2 | Feu qui ravage une forêt. | Les incendies de forêt se multiplient en été. | feu de forêt | lutter contre les incendies de forêt
+animal | nom | m | A1 | Être vivant qui se déplace. | Les animaux sauvages fuient les incendies. | bête | animal sauvage, animal domestique
+sauvage | adjectif | - | B1 | Qui vit en liberté dans la nature. | On peut observer des chevaux sauvages en Camargue. | - | animal sauvage, nature sauvage
+oiseau | nom | m | A1 | Animal à plumes. | Les oiseaux migrent vers le sud en automne. | - | chant des oiseaux
+migration | nom | f | B2 | Déplacement saisonnier des animaux. | La migration des oiseaux commence en septembre. | - | migration des oiseaux
+insecte | nom | m | B1 | Petit animal à six pattes. | Les insectes pollinisateurs sont menacés. | - | insectes pollinisateurs
+abeille | nom | f | B1 | Insecte qui fait le miel. | Les abeilles disparaissent à cause des pesticides. | - | ruche d'abeilles
+cycle | nom | m | B2 | Suite de phénomènes qui se répètent. | Le cycle de l'eau est essentiel à la vie. | - | cycle des saisons
+lever du soleil | nom | m | A2 | Apparition du soleil le matin. | Nous avons admiré le lever du soleil. | aube | au lever du soleil
+coucher du soleil | nom | m | A2 | Disparition du soleil le soir. | Le coucher du soleil sur la mer est magnifique. | crépuscule | au coucher du soleil
+ciel | nom | m | A1 | Espace au-dessus de la Terre. | Le ciel est dégagé ce soir. | firmament | ciel étoilé
+étoile | nom | f | A2 | Astre lumineux dans le ciel. | On voit les étoiles loin de la ville. | astre | nuit étoilée
+pluie | nom | f | A1 | Eau qui tombe des nuages. | La pluie est enfin arrivée après la sécheresse. | - | pluie battante, sous la pluie
+pleuvoir à verse | expression | - | B2 | Pleuvoir très fort. | Il pleut à verse depuis ce matin. | tomber des cordes | il pleut à verse
+il fait un temps de chien | expression | - | B2 | Il fait très mauvais temps. | Il fait un temps de chien, restons à la maison. | - | temps de chien
+se rafraîchir | verbe | - | B2 | Devenir plus frais. | Le temps se rafraîchit le soir. | refroidir | le temps se rafraîchit
+se réchauffer | verbe | - | B1 | Devenir plus chaud. | Les océans se réchauffent rapidement. | - | se réchauffer au soleil
+fondre | verbe | - | B1 | Devenir liquide sous l'effet de la chaleur. | La neige fond au soleil. | se liquéfier | faire fondre

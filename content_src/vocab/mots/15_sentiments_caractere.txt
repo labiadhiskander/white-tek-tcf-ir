@@ -1,0 +1,96 @@
+# Sentiments et caractère
+sentiment | nom | m | B1 | État affectif. | Il a du mal à exprimer ses sentiments. | émotion | exprimer ses sentiments
+émotion | nom | f | B1 | Réaction affective intense. | La cérémonie a suscité beaucoup d'émotion. | sentiment | gérer ses émotions
+joie | nom | f | A2 | Sentiment de grand bonheur. | Elle a appris la nouvelle avec joie. | bonheur, allégresse | sauter de joie
+bonheur | nom | m | A2 | État de pleine satisfaction. | Le bonheur ne s'achète pas. | félicité | trouver le bonheur
+tristesse | nom | f | A2 | État de peine. | Une profonde tristesse l'a envahi. | chagrin, peine | avec tristesse
+chagrin | nom | m | B1 | Peine morale. | Il a eu beaucoup de chagrin après la mort de son chien. | peine | chagrin d'amour
+colère | nom | f | A2 | Violent mécontentement. | Il est entré dans une colère noire. | fureur, rage | se mettre en colère
+peur | nom | f | A2 | Sentiment de danger. | Elle a peur de l'avion. | crainte, frayeur | avoir peur de
+crainte | nom | f | B2 | Peur, inquiétude. | Les salariés expriment leurs craintes pour l'avenir. | appréhension | par crainte de
+inquiétude | nom | f | B1 | Préoccupation face à un danger possible. | Son retard suscite l'inquiétude de ses parents. | souci | vive inquiétude
+s'inquiéter | verbe | - | B1 | Se faire du souci. | Ne t'inquiète pas, tout va bien. | se faire du souci | s'inquiéter pour
+angoisse | nom | f | B2 | Inquiétude très forte. | L'attente des résultats le plonge dans l'angoisse. | anxiété | crise d'angoisse
+soulagement | nom | m | B2 | Sentiment de libération après une inquiétude. | Il a poussé un soupir de soulagement. | apaisement | éprouver un soulagement
+surprise | nom | f | A2 | Sentiment devant l'inattendu. | À ma grande surprise, il a accepté. | étonnement | à la surprise générale
+étonnement | nom | m | B2 | Surprise. | Elle n'a pas caché son étonnement. | stupéfaction | à mon grand étonnement
+déception | nom | f | B1 | Sentiment de ne pas obtenir ce qu'on espérait. | Le résultat a été une grande déception. | désillusion | éprouver une déception
+déçu | adjectif | - | A2 | Qui éprouve une déception. | Je suis déçu par ce film. | désappointé | être déçu par
+fierté | nom | f | B1 | Satisfaction de soi ou d'un proche. | Ses parents parlent de lui avec fierté. | orgueil | éprouver de la fierté
+honte | nom | f | B1 | Sentiment d'humiliation. | Il avait honte de son erreur. | gêne | avoir honte de
+culpabilité | nom | f | B2 | Sentiment d'avoir mal agi. | Elle ressent de la culpabilité envers ses enfants. | remords | sentiment de culpabilité
+regret | nom | m | B1 | Peine d'avoir fait ou pas fait quelque chose. | Je n'ai aucun regret. | remords | avoir des regrets
+nostalgie | nom | f | B2 | Regret mélancolique du passé. | Il parle de son enfance avec nostalgie. | mélancolie | avoir la nostalgie de
+jalousie | nom | f | B2 | Crainte de perdre quelqu'un ou envie du bien d'autrui. | La jalousie détruit leur couple. | envie | crise de jalousie
+envie | nom | f | B1 | Désir ; jalousie du bien d'autrui. | J'ai envie de partir en voyage. | désir | avoir envie de
+gratitude | nom | f | B2 | Reconnaissance pour un bienfait. | Je vous exprime toute ma gratitude. | reconnaissance | témoigner sa gratitude
+reconnaissant | adjectif | - | B2 | Qui éprouve de la gratitude. | Je vous suis très reconnaissant de votre aide. | - | être reconnaissant
+enthousiasme | nom | m | B2 | Joie et excitation. | Les élèves ont accueilli le projet avec enthousiasme. | ardeur | avec enthousiasme
+enthousiaste | adjectif | - | B2 | Plein d'enthousiasme. | Le public était enthousiaste. | passionné | accueil enthousiaste
+ennui | nom | m | B1 | Lassitude ; souci. | Les enfants se plaignent d'ennui pendant les vacances. | lassitude | mourir d'ennui
+s'ennuyer | verbe | - | A2 | Éprouver de l'ennui. | Je m'ennuie le dimanche. | - | s'ennuyer à mourir
+frustration | nom | f | B2 | Sentiment d'insatisfaction. | L'absence de résultats crée de la frustration. | insatisfaction | ressentir de la frustration
+indignation | nom | f | C1 | Colère face à une injustice. | Cette décision a provoqué l'indignation générale. | révolte | susciter l'indignation
+s'indigner | verbe | - | C1 | Exprimer sa colère face à une injustice. | Les habitants s'indignent de la fermeture de l'hôpital. | protester | s'indigner contre
+compassion | nom | f | C1 | Sentiment de pitié pour la souffrance d'autrui. | Elle a fait preuve de compassion envers les victimes. | empathie | faire preuve de compassion
+empathie | nom | f | B2 | Capacité à comprendre les sentiments des autres. | Un bon médecin doit avoir de l'empathie. | compréhension | faire preuve d'empathie
+sérénité | nom | f | C1 | Calme intérieur. | Il aborde l'examen avec sérénité. | calme | en toute sérénité
+caractère | nom | m | B1 | Ensemble des traits de personnalité. | Elle a un caractère bien trempé. | tempérament | avoir du caractère, mauvais caractère
+personnalité | nom | f | B1 | Ce qui distingue une personne des autres. | Il a une forte personnalité. | caractère | trait de personnalité
+tempérament | nom | m | B2 | Caractère naturel. | Il est d'un tempérament calme. | nature | tempérament fougueux
+qualité | nom | f | A2 | Trait positif. | La patience est sa principale qualité. | atout | qualités et défauts
+défaut | nom | m | A2 | Trait négatif. | Son principal défaut est l'impatience. | faiblesse | avoir des défauts
+patient | adjectif | - | A2 | Qui sait attendre calmement. | Il faut être patient avec les enfants. | calme | rester patient
+impatient | adjectif | - | B1 | Qui supporte mal d'attendre. | Je suis impatient de te revoir. | - | être impatient de
+généreux | adjectif | - | A2 | Qui donne volontiers. | C'est quelqu'un de très généreux. | altruiste | geste généreux
+égoïste | adjectif | - | B1 | Qui ne pense qu'à soi. | Il est trop égoïste pour partager. | individualiste | comportement égoïste
+honnête | adjectif | - | A2 | Qui ne ment pas. | Sois honnête avec moi. | franc, sincère | rester honnête
+sincère | adjectif | - | B1 | Qui exprime vraiment ce qu'il pense. | Ses excuses semblaient sincères. | franc | amitié sincère
+hypocrite | adjectif | - | B2 | Qui cache ses vrais sentiments. | Je déteste les gens hypocrites. | faux | attitude hypocrite
+timide | adjectif | - | A2 | Qui manque d'assurance en société. | Il est trop timide pour parler en public. | réservé | enfant timide
+sociable | adjectif | - | B1 | Qui aime la compagnie des autres. | Elle est très sociable et se fait facilement des amis. | ouvert | personne sociable
+ouvert d'esprit | adjectif | - | B2 | Qui accepte les idées différentes. | Voyager rend plus ouvert d'esprit. | tolérant | être ouvert d'esprit
+tolérant | adjectif | - | B2 | Qui respecte les opinions des autres. | Il faut être tolérant envers les autres cultures. | ouvert | attitude tolérante
+têtu | adjectif | - | B1 | Qui ne change pas d'avis. | Il est têtu comme une mule. | obstiné | être têtu
+optimiste | adjectif | - | B1 | Qui voit le bon côté des choses. | Je reste optimiste pour l'avenir. | confiant | rester optimiste
+pessimiste | adjectif | - | B1 | Qui voit le mauvais côté des choses. | Les experts sont pessimistes sur la croissance. | défaitiste | vision pessimiste
+ambitieux | adjectif | - | B1 | Qui a de grandes ambitions. | C'est un projet ambitieux. | entreprenant | jeune ambitieux
+modeste | adjectif | - | B1 | Qui ne se vante pas. | Malgré son succès, il est resté modeste. | humble | rester modeste
+prétentieux | adjectif | - | B2 | Qui se croit supérieur. | Il est prétentieux et méprisant. | vaniteux | ton prétentieux
+susceptible | adjectif | - | B2 | Qui se vexe facilement. | Attention, il est très susceptible. | sensible | être susceptible
+sensible | adjectif | - | B1 | Qui ressent vivement les choses. | C'est un enfant très sensible. | émotif | personne sensible
+rancunier | adjectif | - | C1 | Qui garde le souvenir des offenses. | Il n'est pas rancunier, il a vite pardonné. | - | être rancunier
+travailleur | adjectif | - | A2 | Qui aime travailler. | C'est un élève sérieux et travailleur. | assidu | élève travailleur
+paresseux | adjectif | - | A2 | Qui n'aime pas l'effort. | Il est trop paresseux pour faire du sport. | fainéant | être paresseux
+fiable | adjectif | - | B2 | Sur qui on peut compter. | C'est un collègue fiable. | digne de confiance | personne fiable
+débrouillard | adjectif | - | B2 | Qui sait se tirer d'affaire. | Elle est débrouillarde et autonome. | ingénieux | esprit débrouillard
+rigoureux | adjectif | - | B2 | Précis et méthodique. | Ce métier exige d'être rigoureux. | méthodique | travail rigoureux
+curieux | adjectif | - | A2 | Qui veut apprendre ou savoir. | Les enfants sont naturellement curieux. | - | esprit curieux
+courageux | adjectif | - | A2 | Qui affronte le danger. | Les pompiers sont très courageux. | brave | acte courageux
+lâche | adjectif | - | B2 | Qui manque de courage. | Il a été lâche de fuir. | peureux | comportement lâche
+calme | adjectif | - | A2 | Qui n'est pas agité. | Restez calme en toutes circonstances. | serein | garder son calme
+nerveux | adjectif | - | A2 | Facilement agité. | Il est nerveux avant chaque examen. | tendu | être nerveux
+stressé | adjectif | - | A2 | Qui subit le stress. | Elle est très stressée par son travail. | tendu | être stressé
+épanoui | adjectif | - | B2 | Heureux et bien dans sa peau. | Il semble épanoui dans sa nouvelle vie. | heureux | personne épanouie
+bien dans sa peau | expression | - | B2 | À l'aise avec soi-même. | Depuis qu'il fait du sport, il est bien dans sa peau. | épanoui | se sentir bien dans sa peau
+avoir le moral | expression | - | B1 | Être de bonne humeur. | Malgré la maladie, elle a le moral. | être optimiste | avoir le moral, remonter le moral
+avoir le cafard | expression | - | B2 | Être triste, déprimé. | J'ai le cafard quand il pleut. | être déprimé | avoir le cafard
+être aux anges | expression | - | B2 | Être très heureux. | Elle a réussi son examen, elle est aux anges. | être ravi | être aux anges
+ravi | adjectif | - | B1 | Très content. | Je suis ravi de vous rencontrer. | enchanté | être ravi de
+vexé | adjectif | - | B2 | Blessé dans son amour-propre. | Il est vexé qu'on ne l'ait pas invité. | froissé | se sentir vexé
+ému | adjectif | - | B1 | Touché par une émotion. | Il était très ému en recevant son prix. | touché | profondément ému
+bouleversé | adjectif | - | B2 | Très profondément ému. | Nous sommes bouleversés par cette tragédie. | ébranlé | profondément bouleversé
+gêné | adjectif | - | B1 | Mal à l'aise. | Je suis gêné de vous déranger. | embarrassé | se sentir gêné
+confiance en soi | nom | f | B2 | Assurance dans ses capacités. | Le théâtre lui a donné confiance en soi. | assurance | manquer de confiance en soi
+estime de soi | nom | f | C1 | Valeur qu'on s'accorde. | Le harcèlement détruit l'estime de soi. | amour-propre | estime de soi
+motivation | nom | f | B1 | Ce qui pousse à agir. | Sa motivation est impressionnante. | envie | manque de motivation
+volonté | nom | f | B1 | Capacité de décider et d'agir. | Avec de la volonté, on peut tout apprendre. | détermination | force de volonté
+détermination | nom | f | B2 | Volonté ferme. | Elle a réussi grâce à sa détermination. | persévérance | faire preuve de détermination
+persévérance | nom | f | C1 | Fait de continuer malgré les difficultés. | La persévérance est la clé de la réussite. | ténacité | avec persévérance
+humeur | nom | f | B1 | Disposition d'esprit du moment. | Il est de bonne humeur ce matin. | état d'esprit | de bonne humeur, de mauvaise humeur
+ressentir | verbe | - | B1 | Éprouver un sentiment. | Je ressens une grande fatigue. | éprouver | ressentir de la joie
+éprouver | verbe | - | B2 | Ressentir. | Il éprouve de l'admiration pour son professeur. | ressentir | éprouver des difficultés
+se sentir | verbe | - | A2 | Avoir une sensation. | Je me sens bien ici. | - | se sentir seul
+apprécier | verbe | - | B1 | Aimer, estimer. | J'apprécie beaucoup votre franchise. | estimer | apprécier quelqu'un
+mépriser | verbe | - | C1 | Considérer sans valeur. | Il méprise ceux qui ne pensent pas comme lui. | dédaigner | mépriser quelqu'un
+admirer | verbe | - | B1 | Éprouver de l'admiration. | J'admire son courage. | estimer | admirer quelqu'un

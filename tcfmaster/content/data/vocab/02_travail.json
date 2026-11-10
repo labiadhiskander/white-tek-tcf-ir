@@ -1054,5 +1054,181 @@
   "example": "Un bon manager sait déléguer.",
   "synonyms": "confier",
   "collocations": "déléguer des tâches"
+ },
+ {
+  "word": "salaire minimum",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Travail et emploi",
+  "level": "B1",
+  "definition": "Rémunération la plus basse autorisée par la loi.",
+  "example": "Le salaire minimum est revalorisé chaque année.",
+  "synonyms": "SMIC",
+  "collocations": "toucher le salaire minimum"
+ },
+ {
+  "word": "augmentation",
+  "pos": "nom",
+  "gender": "f",
+  "theme": "Travail et emploi",
+  "level": "B1",
+  "definition": "Hausse de salaire.",
+  "example": "Elle a demandé une augmentation à son responsable.",
+  "synonyms": "revalorisation",
+  "collocations": "obtenir une augmentation"
+ },
+ {
+  "word": "responsable",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Travail et emploi",
+  "level": "B1",
+  "definition": "Personne qui dirige un service.",
+  "example": "Le responsable du service client est absent.",
+  "synonyms": "chef, manager",
+  "collocations": "responsable des ressources humaines"
+ },
+ {
+  "word": "ressources humaines",
+  "pos": "nom",
+  "gender": "f",
+  "theme": "Travail et emploi",
+  "level": "B2",
+  "definition": "Service qui gère le personnel.",
+  "example": "Envoyez votre CV au service des ressources humaines.",
+  "synonyms": "RH",
+  "collocations": "directeur des ressources humaines"
+ },
+ {
+  "word": "open space",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Travail et emploi",
+  "level": "B2",
+  "definition": "Bureau ouvert sans cloisons.",
+  "example": "Le bruit de l'open space nuit à la concentration.",
+  "synonyms": "plateau",
+  "collocations": "travailler en open space"
+ },
+ {
+  "word": "mutation",
+  "pos": "nom",
+  "gender": "f",
+  "theme": "Travail et emploi",
+  "level": "C1",
+  "definition": "Changement de poste ou de lieu de travail.",
+  "example": "Il a demandé une mutation à Lyon.",
+  "synonyms": "transfert",
+  "collocations": "obtenir une mutation"
+ },
+ {
+  "word": "mobilité professionnelle",
+  "pos": "nom",
+  "gender": "f",
+  "theme": "Travail et emploi",
+  "level": "C1",
+  "definition": "Capacité à changer de poste ou de région.",
+  "example": "La mobilité professionnelle est valorisée par les recruteurs.",
+  "synonyms": "",
+  "collocations": "favoriser la mobilité professionnelle"
+ },
+ {
+  "word": "bilan de compétences",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Travail et emploi",
+  "level": "C1",
+  "definition": "Analyse de ses aptitudes pour orienter sa carrière.",
+  "example": "Avant sa reconversion, elle a fait un bilan de compétences.",
+  "synonyms": "",
+  "collocations": "réaliser un bilan de compétences"
+ },
+ {
+  "word": "savoir-faire",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Travail et emploi",
+  "level": "B2",
+  "definition": "Compétence pratique.",
+  "example": "Cet artisan a un savoir-faire unique.",
+  "synonyms": "expertise",
+  "collocations": "transmettre son savoir-faire"
+ },
+ {
+  "word": "savoir-être",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Travail et emploi",
+  "level": "C1",
+  "definition": "Qualités humaines attendues au travail.",
+  "example": "Les recruteurs accordent autant d'importance au savoir-être qu'aux diplômes.",
+  "synonyms": "qualités relationnelles",
+  "collocations": "savoir-être professionnel"
+ },
+ {
+  "word": "réseau professionnel",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Travail et emploi",
+  "level": "B2",
+  "definition": "Ensemble des contacts utiles pour sa carrière.",
+  "example": "Il a trouvé son emploi grâce à son réseau professionnel.",
+  "synonyms": "contacts",
+  "collocations": "développer son réseau professionnel"
+ },
+ {
+  "word": "burn-out",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Travail et emploi",
+  "level": "B2",
+  "definition": "Épuisement lié au travail.",
+  "example": "Le burn-out touche de plus en plus de cadres.",
+  "synonyms": "épuisement professionnel",
+  "collocations": "faire un burn-out"
+ },
+ {
+  "word": "cadre",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Travail et emploi",
+  "level": "B2",
+  "definition": "Salarié qui a des responsabilités d'encadrement.",
+  "example": "Les cadres travaillent souvent plus de 45 heures.",
+  "synonyms": "manager",
+  "collocations": "cadre supérieur"
+ },
+ {
+  "word": "ouvrier",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Travail et emploi",
+  "level": "A2",
+  "definition": "Travailleur manuel.",
+  "example": "Les ouvriers de l'usine ont obtenu une prime.",
+  "synonyms": "travailleur",
+  "collocations": "ouvrier qualifié"
+ },
+ {
+  "word": "artisan",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Travail et emploi",
+  "level": "B1",
+  "definition": "Travailleur indépendant qui exerce un métier manuel.",
+  "example": "Les artisans boulangers se lèvent très tôt.",
+  "synonyms": "",
+  "collocations": "artisan d'art"
+ },
+ {
+  "word": "travail saisonnier",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Travail et emploi",
+  "level": "B2",
+  "definition": "Emploi limité à une saison.",
+  "example": "Les étudiants cherchent un travail saisonnier pour l'été.",
+  "synonyms": "emploi saisonnier",
+  "collocations": "faire un travail saisonnier"
  }
 ]

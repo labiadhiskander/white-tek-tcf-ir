@@ -95,3 +95,19 @@ offre d'emploi | nom | f | A2 | Annonce proposant un poste. | J'ai répondu à t
 postuler | verbe | - | B1 | Se porter candidat. | J'ai postulé à un poste d'assistant. | se porter candidat | postuler à un emploi
 gérer | verbe | - | B1 | Organiser, administrer. | Elle gère une équipe de dix personnes. | diriger, administrer | gérer un budget
 déléguer | verbe | - | B2 | Confier une tâche à quelqu'un. | Un bon manager sait déléguer. | confier | déléguer des tâches
+salaire minimum | nom | m | B1 | Rémunération la plus basse autorisée par la loi. | Le salaire minimum est revalorisé chaque année. | SMIC | toucher le salaire minimum
+augmentation | nom | f | B1 | Hausse de salaire. | Elle a demandé une augmentation à son responsable. | revalorisation | obtenir une augmentation
+responsable | nom | m | B1 | Personne qui dirige un service. | Le responsable du service client est absent. | chef, manager | responsable des ressources humaines
+ressources humaines | nom | f | B2 | Service qui gère le personnel. | Envoyez votre CV au service des ressources humaines. | RH | directeur des ressources humaines
+open space | nom | m | B2 | Bureau ouvert sans cloisons. | Le bruit de l'open space nuit à la concentration. | plateau | travailler en open space
+mutation | nom | f | C1 | Changement de poste ou de lieu de travail. | Il a demandé une mutation à Lyon. | transfert | obtenir une mutation
+mobilité professionnelle | nom | f | C1 | Capacité à changer de poste ou de région. | La mobilité professionnelle est valorisée par les recruteurs. | - | favoriser la mobilité professionnelle
+bilan de compétences | nom | m | C1 | Analyse de ses aptitudes pour orienter sa carrière. | Avant sa reconversion, elle a fait un bilan de compétences. | - | réaliser un bilan de compétences
+savoir-faire | nom | m | B2 | Compétence pratique. | Cet artisan a un savoir-faire unique. | expertise | transmettre son savoir-faire
+savoir-être | nom | m | C1 | Qualités humaines attendues au travail. | Les recruteurs accordent autant d'importance au savoir-être qu'aux diplômes. | qualités relationnelles | savoir-être professionnel
+réseau professionnel | nom | m | B2 | Ensemble des contacts utiles pour sa carrière. | Il a trouvé son emploi grâce à son réseau professionnel. | contacts | développer son réseau professionnel
+burn-out | nom | m | B2 | Épuisement lié au travail. | Le burn-out touche de plus en plus de cadres. | épuisement professionnel | faire un burn-out
+cadre | nom | m | B2 | Salarié qui a des responsabilités d'encadrement. | Les cadres travaillent souvent plus de 45 heures. | manager | cadre supérieur
+ouvrier | nom | m | A2 | Travailleur manuel. | Les ouvriers de l'usine ont obtenu une prime. | travailleur | ouvrier qualifié
+artisan | nom | m | B1 | Travailleur indépendant qui exerce un métier manuel. | Les artisans boulangers se lèvent très tôt. | - | artisan d'art
+travail saisonnier | nom | m | B2 | Emploi limité à une saison. | Les étudiants cherchent un travail saisonnier pour l'été. | emploi saisonnier | faire un travail saisonnier

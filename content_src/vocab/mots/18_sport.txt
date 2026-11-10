@@ -1,0 +1,88 @@
+# Sport
+sport | nom | m | A1 | Activité physique pratiquée selon des règles. | Je fais du sport trois fois par semaine. | activité physique | faire du sport, sport collectif
+sportif | nom | m | A2 | Personne qui pratique un sport. | Les sportifs de haut niveau s'entraînent tous les jours. | athlète | sportif professionnel
+activité physique | nom | f | B1 | Mouvement du corps qui dépense de l'énergie. | Trente minutes d'activité physique par jour sont recommandées. | exercice | pratiquer une activité physique
+s'entraîner | verbe | - | A2 | Se préparer par des exercices. | L'équipe s'entraîne le mercredi soir. | se préparer | s'entraîner dur
+entraînement | nom | m | B1 | Préparation physique régulière. | L'entraînement commence à 18 heures. | préparation | séance d'entraînement
+entraîneur | nom | m | B1 | Personne qui dirige l'entraînement. | L'entraîneur a changé de tactique. | coach | entraîneur national
+équipe | nom | f | A1 | Groupe de joueurs. | Notre équipe a gagné le championnat. | formation | esprit d'équipe, équipe nationale
+esprit d'équipe | nom | m | B1 | Sens de la coopération. | Le sport collectif développe l'esprit d'équipe. | solidarité | avoir l'esprit d'équipe
+joueur | nom | m | A1 | Personne qui participe à un jeu. | Ce joueur a marqué deux buts. | - | joueur de tennis
+match | nom | m | A1 | Compétition entre deux équipes. | Le match s'est terminé par un match nul. | rencontre | match nul, match retour
+compétition | nom | f | B1 | Épreuve sportive. | Elle participe à sa première compétition. | épreuve | compétition internationale
+championnat | nom | m | B1 | Compétition pour désigner le meilleur. | Le championnat de France reprend en août. | - | championnat du monde
+tournoi | nom | m | B1 | Compétition à plusieurs tours. | Le tournoi de Roland-Garros a lieu au printemps. | - | tournoi international
+Jeux olympiques | nom | m | B1 | Grande compétition sportive internationale. | Paris a accueilli les Jeux olympiques en 2024. | JO | médaille aux Jeux olympiques
+médaille | nom | f | A2 | Récompense pour les premiers. | Elle a remporté la médaille d'or. | récompense | médaille d'or
+victoire | nom | f | A2 | Fait de gagner. | Cette victoire est historique. | succès | remporter une victoire
+défaite | nom | f | B1 | Fait de perdre. | L'équipe a subi une lourde défaite. | échec | essuyer une défaite
+remporter | verbe | - | B2 | Gagner. | Il a remporté le tournoi pour la troisième fois. | gagner | remporter un match
+battre | verbe | - | A2 | Vaincre un adversaire. | La France a battu l'Italie. | vaincre | battre un record
+record | nom | m | B1 | Meilleure performance jamais réalisée. | Il a battu le record du monde du 100 mètres. | - | battre un record
+adversaire | nom | m | B1 | Personne contre qui on joue. | Il respecte toujours ses adversaires. | rival | adversaire redoutable
+supporter | nom | m | B1 | Personne qui encourage une équipe. | Les supporters ont envahi le terrain. | fan | supporters enthousiastes
+spectateur | nom | m | B1 | Personne qui assiste à un événement. | Le stade accueille 80 000 spectateurs. | public | stade plein de spectateurs
+stade | nom | m | A2 | Grand terrain de sport avec des tribunes. | Le stade est plein pour la finale. | arène | stade de football
+terrain | nom | m | A2 | Espace où l'on joue. | Les joueurs entrent sur le terrain. | pelouse | terrain de football
+gymnase | nom | m | A2 | Salle de sport couverte. | Le cours de basket a lieu au gymnase. | salle de sport | gymnase municipal
+salle de sport | nom | f | A2 | Lieu équipé pour faire du sport. | Il va à la salle de sport avant le travail. | club de gym | s'inscrire à la salle de sport
+piscine | nom | f | A1 | Bassin pour nager. | La piscine municipale ouvre à 7 heures. | bassin | piscine olympique
+natation | nom | f | A2 | Sport consistant à nager. | La natation est excellente pour le dos. | - | cours de natation
+course à pied | nom | f | A2 | Sport consistant à courir. | La course à pied est très populaire. | running | faire de la course à pied
+marathon | nom | m | B1 | Course de 42 kilomètres. | Elle a couru son premier marathon à 40 ans. | - | courir un marathon
+cyclisme | nom | m | B1 | Sport pratiqué à vélo. | Le Tour de France est la course de cyclisme la plus célèbre. | vélo | cyclisme sur route
+sport collectif | nom | m | B1 | Sport qui se joue en équipe. | Le football et le rugby sont des sports collectifs. | sport d'équipe | pratiquer un sport collectif
+sport individuel | nom | m | B1 | Sport pratiqué seul. | Le tennis est un sport individuel. | - | sport individuel
+sport extrême | nom | m | B2 | Sport à haut risque. | Le parachutisme est un sport extrême. | sport à risque | pratiquer un sport extrême
+arts martiaux | nom | m | B1 | Sports de combat d'origine asiatique. | Le judo fait partie des arts martiaux. | sports de combat | pratiquer les arts martiaux
+licence | nom | f | B2 | Inscription officielle dans un club. | Le football compte deux millions de licenciés. | adhésion | prendre une licence
+licencié | nom | m | C1 | Membre inscrit d'une fédération sportive. | Le club compte trois cents licenciés. | adhérent | nombre de licenciés
+club | nom | m | A2 | Association sportive. | Il est inscrit dans un club de tennis. | association | club de football
+fédération | nom | f | B2 | Organisation qui dirige un sport. | La fédération a suspendu le joueur. | - | fédération française de football
+arbitre | nom | m | B1 | Personne qui fait respecter les règles. | L'arbitre a sifflé un penalty. | juge | décision de l'arbitre
+règle | nom | f | A2 | Loi d'un jeu. | Il faut respecter les règles du jeu. | règlement | règles du jeu
+fair-play | nom | m | B2 | Respect de l'adversaire et des règles. | Les joueurs ont fait preuve de fair-play. | esprit sportif | faire preuve de fair-play
+tricher | verbe | - | B1 | Ne pas respecter les règles. | Il a été disqualifié pour avoir triché. | frauder | tricher au jeu
+dopage | nom | m | B2 | Usage de produits interdits pour améliorer ses performances. | Le dopage a terni l'image du cyclisme. | - | contrôle antidopage, lutte contre le dopage
+contrôle antidopage | nom | m | C1 | Test pour détecter le dopage. | Le coureur a été contrôlé positif lors d'un contrôle antidopage. | - | subir un contrôle antidopage
+performance | nom | f | B1 | Résultat obtenu dans une épreuve. | Sa performance a impressionné les spécialistes. | résultat | améliorer ses performances
+endurance | nom | f | B2 | Capacité à résister à l'effort long. | Le marathon demande beaucoup d'endurance. | résistance | sport d'endurance
+souplesse | nom | f | B2 | Capacité à se plier facilement. | Le yoga améliore la souplesse. | flexibilité | exercices de souplesse
+musculation | nom | f | B1 | Exercices pour développer les muscles. | Il fait de la musculation deux fois par semaine. | renforcement musculaire | faire de la musculation
+échauffement | nom | m | B2 | Exercices de préparation avant l'effort. | L'échauffement évite les blessures. | - | faire un échauffement
+s'échauffer | verbe | - | B2 | Préparer son corps à l'effort. | Il faut s'échauffer avant de courir. | se préparer | s'échauffer avant l'effort
+étirement | nom | m | B2 | Exercice pour allonger les muscles. | Faites des étirements après la séance. | - | exercices d'étirement
+blessure | nom | f | B1 | Lésion du corps. | Une blessure au genou l'empêche de jouer. | lésion | blessure musculaire
+courbatures | nom | f | B2 | Douleurs musculaires après l'effort. | J'ai des courbatures après la randonnée. | - | avoir des courbatures
+effort | nom | m | B1 | Travail physique intense. | Après l'effort, le réconfort. | - | faire un effort, effort physique
+se dépenser | verbe | - | B2 | Faire des efforts physiques. | Les enfants ont besoin de se dépenser. | se défouler | se dépenser physiquement
+se défouler | verbe | - | B2 | Libérer son énergie et ses tensions. | Le sport me permet de me défouler. | se détendre | se défouler après le travail
+dépassement de soi | nom | m | C1 | Fait d'aller au-delà de ses limites. | Le sport enseigne le dépassement de soi. | - | goût du dépassement de soi
+se surpasser | verbe | - | C1 | Faire mieux que d'habitude. | Les athlètes se sont surpassés en finale. | se dépasser | se surpasser
+haut niveau | nom | m | B2 | Niveau des meilleurs sportifs. | Le sport de haut niveau demande des sacrifices. | élite | sportif de haut niveau
+professionnel | adjectif | - | B1 | Qui pratique comme métier. | Il est devenu footballeur professionnel. | pro | sport professionnel
+amateur | adjectif | - | B1 | Qui pratique sans être payé. | Elle joue dans une équipe amateur. | - | sportif amateur
+sélection | nom | f | B2 | Choix des meilleurs joueurs. | Il a été retenu en sélection nationale. | - | sélection nationale
+qualification | nom | f | B2 | Fait de se qualifier. | L'équipe a obtenu sa qualification pour la finale. | - | match de qualification
+se qualifier | verbe | - | B2 | Obtenir le droit de participer à l'étape suivante. | Le club s'est qualifié pour la Ligue des champions. | - | se qualifier pour la finale
+finale | nom | f | A2 | Dernier match d'une compétition. | La finale aura lieu au Stade de France. | - | finale de la Coupe du monde
+éliminer | verbe | - | B2 | Faire sortir d'une compétition. | L'équipe a été éliminée en quart de finale. | sortir | être éliminé
+classement | nom | m | B1 | Ordre des résultats. | Elle est première au classement mondial. | palmarès | classement général
+palmarès | nom | m | C1 | Liste des victoires d'un sportif. | Son palmarès est impressionnant. | - | palmarès exceptionnel
+titre | nom | m | B1 | Victoire dans un championnat. | Le club a remporté son dixième titre. | trophée | remporter le titre
+trophée | nom | m | B2 | Objet remis au vainqueur. | Le capitaine a soulevé le trophée. | coupe | soulever le trophée
+transfert | nom | m | C1 | Passage d'un joueur à un autre club. | Ce transfert a coûté des millions d'euros. | - | marché des transferts
+sponsor | nom | m | B2 | Entreprise qui finance un sportif. | Le sponsor finance les maillots de l'équipe. | parrain, mécène | sponsor officiel
+retransmission | nom | f | C1 | Diffusion d'un événement à la télévision. | Les droits de retransmission rapportent beaucoup d'argent. | diffusion | retransmission en direct
+handisport | nom | m | B2 | Sport pratiqué par des personnes handicapées. | Les épreuves handisport attirent de plus en plus de public. | parasport | athlète handisport
+Jeux paralympiques | nom | m | B2 | Jeux olympiques des athlètes handicapés. | Les Jeux paralympiques se déroulent après les Jeux olympiques. | - | médaille paralympique
+sport-santé | nom | m | C1 | Activité physique prescrite pour la santé. | Les médecins peuvent prescrire du sport-santé. | - | maison sport-santé
+bienfait | nom | m | B2 | Effet positif. | Les bienfaits du sport sur le moral sont prouvés. | avantage | bienfaits du sport
+en forme | locution | - | A2 | En bonne condition physique. | Il fait du vélo pour rester en forme. | en bonne santé | rester en forme
+forme physique | nom | f | B1 | Condition du corps. | Elle entretient sa forme physique. | condition physique | être en bonne forme physique
+mode de vie actif | nom | m | B2 | Vie qui inclut beaucoup de mouvement. | Un mode de vie actif réduit les risques cardiaques. | - | adopter un mode de vie actif
+équipement | nom | m | B1 | Matériel nécessaire. | L'équipement de ski coûte cher. | matériel | équipement sportif
+infrastructures sportives | nom | f | C1 | Ensemble des installations sportives. | La ville investit dans les infrastructures sportives. | équipements sportifs | rénover les infrastructures sportives
+supporter (verbe) | verbe | - | B1 | Encourager une équipe. | Je supporte l'équipe de ma ville depuis toujours. | encourager | supporter une équipe
+encourager | verbe | - | B1 | Soutenir pour donner du courage. | Le public encourage les coureurs. | soutenir | encourager les joueurs
+hooliganisme | nom | m | C1 | Violence de certains supporters. | Les autorités luttent contre le hooliganisme. | violence dans les stades | lutter contre le hooliganisme

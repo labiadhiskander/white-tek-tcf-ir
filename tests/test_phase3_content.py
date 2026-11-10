@@ -10,8 +10,8 @@ from sqlalchemy import func, select
 
 from tcfmaster.content import validator as V
 from tcfmaster.content.seeder import content_dir, seed_all
-from tcfmaster.db.models import (Exam, GrammarChapter, GrammarExercise, PlanDay, Question,
-                                 Verb)
+from tcfmaster.db.models import (Exam, Expression, GrammarChapter, GrammarExercise, PlanDay,
+                                 Question, Verb, VocabWord)
 from tcfmaster.services import learning as LS
 
 ROOT = content_dir()
@@ -111,3 +111,22 @@ def test_plan_has_weekly_mock_exams(db):
         assert sum("complet" in m.is_mock_exam for m in mocks) >= 5
         for d in s.scalars(select(PlanDay)):
             assert all({"minutes", "module", "description"} <= set(a) for a in d.activities)
+
+
+def test_vocabulary_library_meets_the_specification(db):
+    """Cahier des charges : 1000 expressions, 2000 mots, 500 phrases complexes,
+    300 exemples d'argumentation, 200 connecteurs, chacun avec exercice corrigé."""
+    with db.session() as s:
+        seed_all(s)
+        counts = dict(s.execute(select(Expression.kind, func.count())
+                                .group_by(Expression.kind)).all())
+        assert counts.get("expression", 0) >= 1000
+        assert counts.get("phrase_complexe", 0) >= 500
+        assert counts.get("argumentation", 0) >= 300
+        assert counts.get("connecteur", 0) >= 200
+        assert s.scalar(select(func.count()).select_from(VocabWord)) >= 2000
+        for e in s.scalars(select(Expression)):
+            assert e.meaning and e.example and e.simple_equivalent and e.level
+            assert e.exercise and e.exercise_answer, e.text
+        themes = {w.theme for w in s.scalars(select(VocabWord))}
+        assert len(themes) >= 20

@@ -1010,5 +1010,159 @@
   "example": "Les activités périscolaires ont lieu après 16 heures.",
   "synonyms": "",
   "collocations": "activités périscolaires"
+ },
+ {
+  "word": "réussir",
+  "pos": "verbe",
+  "gender": null,
+  "theme": "Éducation",
+  "level": "A2",
+  "definition": "Obtenir un bon résultat.",
+  "example": "Il a réussi son examen du premier coup.",
+  "synonyms": "être reçu",
+  "collocations": "réussir un concours"
+ },
+ {
+  "word": "échouer",
+  "pos": "verbe",
+  "gender": null,
+  "theme": "Éducation",
+  "level": "B1",
+  "definition": "Ne pas réussir.",
+  "example": "Elle a échoué au permis de conduire.",
+  "synonyms": "rater",
+  "collocations": "échouer à un examen"
+ },
+ {
+  "word": "rater",
+  "pos": "verbe",
+  "gender": null,
+  "theme": "Éducation",
+  "level": "A2",
+  "definition": "Échouer (langage courant).",
+  "example": "J'ai raté mon contrôle de maths.",
+  "synonyms": "échouer",
+  "collocations": "rater un examen"
+ },
+ {
+  "word": "apprentissage",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Éducation",
+  "level": "B1",
+  "definition": "Fait d'apprendre.",
+  "example": "L'apprentissage de la lecture commence à six ans.",
+  "synonyms": "acquisition",
+  "collocations": "apprentissage de la lecture"
+ },
+ {
+  "word": "méthode",
+  "pos": "nom",
+  "gender": "f",
+  "theme": "Éducation",
+  "level": "B1",
+  "definition": "Manière ordonnée de procéder.",
+  "example": "Cette méthode de travail est efficace.",
+  "synonyms": "technique",
+  "collocations": "méthode d'apprentissage"
+ },
+ {
+  "word": "mémoriser",
+  "pos": "verbe",
+  "gender": null,
+  "theme": "Éducation",
+  "level": "B1",
+  "definition": "Retenir dans sa mémoire.",
+  "example": "Il mémorise facilement le vocabulaire.",
+  "synonyms": "retenir",
+  "collocations": "mémoriser une leçon"
+ },
+ {
+  "word": "formation continue",
+  "pos": "nom",
+  "gender": "f",
+  "theme": "Éducation",
+  "level": "B2",
+  "definition": "Formation suivie pendant la vie professionnelle.",
+  "example": "La formation continue permet d'évoluer.",
+  "synonyms": "formation professionnelle",
+  "collocations": "suivre une formation continue"
+ },
+ {
+  "word": "enseignement à distance",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Éducation",
+  "level": "B2",
+  "definition": "Enseignement qui se fait sans présence physique.",
+  "example": "L'enseignement à distance s'est développé pendant la crise sanitaire.",
+  "synonyms": "formation en ligne",
+  "collocations": "suivre un enseignement à distance"
+ },
+ {
+  "word": "inégalités scolaires",
+  "pos": "nom",
+  "gender": "f",
+  "theme": "Éducation",
+  "level": "C1",
+  "definition": "Différences de réussite liées à l'origine sociale.",
+  "example": "Les inégalités scolaires apparaissent dès la maternelle.",
+  "synonyms": "",
+  "collocations": "réduire les inégalités scolaires"
+ },
+ {
+  "word": "effectif",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Éducation",
+  "level": "B2",
+  "definition": "Nombre d'élèves dans une classe.",
+  "example": "Les effectifs sont trop chargés dans ce collège.",
+  "synonyms": "",
+  "collocations": "classe à effectif réduit"
+ },
+ {
+  "word": "uniforme",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Éducation",
+  "level": "B1",
+  "definition": "Tenue identique imposée aux élèves.",
+  "example": "Le port de l'uniforme fait débat en France.",
+  "synonyms": "tenue scolaire",
+  "collocations": "port de l'uniforme"
+ },
+ {
+  "word": "conseil de classe",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Éducation",
+  "level": "B2",
+  "definition": "Réunion des professeurs pour évaluer les élèves.",
+  "example": "Le conseil de classe a lieu en fin de trimestre.",
+  "synonyms": "",
+  "collocations": "avis du conseil de classe"
+ },
+ {
+  "word": "parcours",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Éducation",
+  "level": "B2",
+  "definition": "Suite des étapes d'une formation.",
+  "example": "Son parcours scolaire est exemplaire.",
+  "synonyms": "itinéraire",
+  "collocations": "parcours universitaire"
+ },
+ {
+  "word": "autodidacte",
+  "pos": "nom",
+  "gender": "m",
+  "theme": "Éducation",
+  "level": "C1",
+  "definition": "Personne qui a appris seule.",
+  "example": "Ce peintre est un autodidacte.",
+  "synonyms": "",
+  "collocations": "autodidacte talentueux"
  }
 ]
