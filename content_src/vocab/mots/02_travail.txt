@@ -1,0 +1,97 @@
+# Travail et emploi
+emploi | nom | m | A2 | Travail rémunéré. | Elle a trouvé un emploi dans une banque. | travail, poste | chercher un emploi, emploi stable
+poste | nom | m | A2 | Fonction occupée dans une entreprise. | Il occupe un poste de responsable. | fonction | poste à pourvoir, occuper un poste
+métier | nom | m | A2 | Profession, activité. | Infirmière est un métier difficile. | profession | exercer un métier, métier manuel
+candidature | nom | f | B1 | Demande pour obtenir un poste. | J'ai envoyé ma candidature par courriel. | - | poser sa candidature, candidature spontanée
+candidat | nom | m | A2 | Personne qui se présente à un poste ou un examen. | Trois candidats ont été retenus. | postulant | candidat sélectionné
+recruter | verbe | - | B1 | Embaucher du personnel. | L'entreprise recrute des techniciens. | embaucher | recruter du personnel
+recrutement | nom | m | B1 | Action d'embaucher. | Le recrutement se fait sur dossier. | embauche | processus de recrutement
+embaucher | verbe | - | B1 | Engager un salarié. | Ils ont embauché deux stagiaires. | recruter, engager | embaucher en CDI
+entretien | nom | m | A2 | Rencontre avec un recruteur. | J'ai un entretien d'embauche demain. | - | entretien d'embauche, passer un entretien
+CV | nom | m | A2 | Document résumant le parcours. | Envoyez votre CV et une lettre de motivation. | curriculum vitae | mettre à jour son CV
+salaire | nom | m | A2 | Argent reçu pour un travail. | Son salaire a augmenté de 5 %. | rémunération, paie | salaire minimum, augmentation de salaire
+rémunération | nom | f | B2 | Somme versée pour un travail. | La rémunération est fixée selon l'expérience. | salaire | rémunération brute
+salarié | nom | m | B1 | Personne payée par un employeur. | L'entreprise compte deux cents salariés. | employé | salarié à temps plein
+employeur | nom | m | B1 | Personne ou entreprise qui emploie. | L'employeur doit respecter le code du travail. | patron | obligations de l'employeur
+employé | nom | m | A2 | Personne qui travaille pour un employeur. | Les employés ont reçu une prime. | salarié | employé de bureau
+patron | nom | m | A2 | Chef d'entreprise (courant). | Le patron a annoncé de bonnes nouvelles. | employeur, chef | petit patron
+collègue | nom | - | A2 | Personne qui travaille avec nous. | Je déjeune avec mes collègues. | - | collègue de travail
+équipe | nom | f | A2 | Groupe de personnes qui travaillent ensemble. | Notre équipe compte six personnes. | groupe | travailler en équipe, chef d'équipe
+supérieur | nom | m | B1 | Personne placée au-dessus dans la hiérarchie. | J'en parlerai à mon supérieur. | responsable, chef | supérieur hiérarchique
+hiérarchie | nom | f | B2 | Organisation par niveaux de pouvoir. | La hiérarchie est très présente dans cette entreprise. | - | hiérarchie stricte
+contrat | nom | m | A2 | Accord écrit entre employeur et salarié. | Il a signé un contrat de deux ans. | - | contrat de travail, CDD, CDI
+CDI | nom | m | B1 | Contrat à durée indéterminée. | Elle a obtenu un CDI après son stage. | - | décrocher un CDI
+CDD | nom | m | B1 | Contrat à durée déterminée. | Il enchaîne les CDD depuis deux ans. | - | CDD de six mois
+intérim | nom | m | B2 | Travail temporaire par une agence. | Il travaille en intérim dans la logistique. | travail temporaire | agence d'intérim
+stage | nom | m | A2 | Période de formation en entreprise. | Elle fait un stage de six mois. | - | stage de fin d'études
+stagiaire | nom | - | B1 | Personne en stage. | Le stagiaire prépare les dossiers. | apprenti | accueillir un stagiaire
+apprentissage | nom | m | B1 | Formation alternant école et entreprise. | Il prépare son diplôme en apprentissage. | alternance | contrat d'apprentissage
+alternance | nom | f | B1 | Formation partagée entre école et entreprise. | L'alternance facilite l'embauche. | apprentissage | étudier en alternance
+chômage | nom | m | A2 | Situation de quelqu'un sans emploi. | Le chômage a baissé cette année. | - | être au chômage, taux de chômage
+chômeur | nom | m | B1 | Personne sans emploi qui en cherche un. | Le nombre de chômeurs diminue. | demandeur d'emploi | chômeur de longue durée
+demandeur d'emploi | nom | m | B2 | Personne inscrite pour chercher un emploi. | Les demandeurs d'emploi peuvent suivre une formation. | chômeur | s'inscrire comme demandeur d'emploi
+licenciement | nom | m | B1 | Fait d'être renvoyé par son employeur. | Les syndicats contestent les licenciements. | renvoi | licenciement économique
+licencier | verbe | - | B1 | Renvoyer un salarié. | L'usine a licencié cent personnes. | renvoyer, congédier | licencier pour faute
+démission | nom | f | B1 | Fait de quitter volontairement son emploi. | Il a présenté sa démission hier. | départ | donner sa démission
+démissionner | verbe | - | B1 | Quitter son emploi volontairement. | Elle a démissionné pour créer son entreprise. | partir | démissionner de son poste
+retraite | nom | f | A2 | Fin de la vie professionnelle. | Il prendra sa retraite l'an prochain. | - | partir à la retraite, âge de la retraite
+retraité | nom | m | A2 | Personne à la retraite. | Les retraités font souvent du bénévolat. | - | jeune retraité
+promotion | nom | f | B1 | Passage à un poste supérieur. | Elle a obtenu une promotion. | avancement | obtenir une promotion
+compétence | nom | f | B1 | Capacité, savoir-faire. | Ce poste demande des compétences en anglais. | savoir-faire, aptitude | compétences techniques
+qualification | nom | f | B2 | Ensemble des compétences reconnues. | Ce métier exige une qualification précise. | diplôme | qualification professionnelle
+expérience | nom | f | A2 | Connaissances acquises par la pratique. | J'ai cinq ans d'expérience dans la vente. | pratique | expérience professionnelle
+formation | nom | f | A2 | Enseignement pour apprendre un métier. | Il suit une formation en comptabilité. | apprentissage | formation continue
+reconversion | nom | f | B2 | Changement de métier. | Sa reconversion dans la cuisine est réussie. | changement de carrière | reconversion professionnelle
+carrière | nom | f | B1 | Parcours professionnel. | Elle a fait toute sa carrière dans l'hôtellerie. | parcours | faire carrière, évolution de carrière
+horaires | nom | m | A2 | Heures de travail. | Mes horaires sont flexibles. | emploi du temps | horaires de bureau, horaires décalés
+temps partiel | nom | m | B1 | Travail inférieur à la durée normale. | Il travaille à temps partiel le mercredi. | mi-temps | travailler à temps partiel
+temps plein | nom | m | B1 | Durée de travail complète. | Elle cherche un poste à temps plein. | - | travailler à temps plein
+heures supplémentaires | nom | f | B1 | Heures travaillées au-delà de la durée normale. | Les heures supplémentaires sont mieux payées. | - | faire des heures supplémentaires
+congé | nom | m | A2 | Période de repos autorisée. | Je suis en congé la semaine prochaine. | vacances | congés payés, congé maternité
+arrêt maladie | nom | m | B1 | Interruption du travail pour raison de santé. | Le médecin m'a prescrit un arrêt maladie. | - | être en arrêt maladie
+télétravail | nom | m | B1 | Travail effectué à distance. | Je fais du télétravail deux jours par semaine. | travail à distance | être en télétravail
+bureau | nom | m | A1 | Lieu de travail ; meuble. | Mon bureau se trouve au deuxième étage. | - | aller au bureau, bureau partagé
+réunion | nom | f | A2 | Rassemblement pour discuter. | La réunion commence à dix heures. | rencontre | réunion d'équipe, ordre du jour
+ordre du jour | nom | m | B2 | Liste des sujets d'une réunion. | Le budget est à l'ordre du jour. | programme | mettre à l'ordre du jour
+compte rendu | nom | m | B2 | Résumé écrit d'une réunion. | J'ai rédigé le compte rendu de la réunion. | procès-verbal | rédiger un compte rendu
+délai | nom | m | B1 | Temps accordé pour faire quelque chose. | Le délai de livraison est de dix jours. | échéance | respecter les délais
+échéance | nom | f | B2 | Date limite. | L'échéance du projet approche. | date limite | à court terme, à brève échéance
+objectif | nom | m | B1 | But à atteindre. | Nous avons atteint nos objectifs annuels. | but | fixer des objectifs
+tâche | nom | f | B1 | Travail à faire. | Chaque membre a une tâche précise. | mission | répartir les tâches
+mission | nom | f | B1 | Tâche confiée à quelqu'un. | Il part en mission à l'étranger. | tâche | mission ponctuelle
+projet | nom | m | A2 | Travail prévu. | Je travaille sur un nouveau projet. | - | mener un projet, chef de projet
+productivité | nom | f | B2 | Capacité à produire efficacement. | Le télétravail a amélioré la productivité. | rendement | gains de productivité
+efficace | adjectif | - | B1 | Qui produit l'effet attendu. | C'est une méthode très efficace. | performant | travail efficace
+motivé | adjectif | - | A2 | Qui a envie de faire quelque chose. | Nous recherchons une personne motivée. | enthousiaste | très motivé
+rigoureux | adjectif | - | B2 | Précis et sérieux. | Ce poste exige une personne rigoureuse. | méticuleux | travail rigoureux
+polyvalent | adjectif | - | B2 | Capable de faire des tâches variées. | Nous cherchons un employé polyvalent. | - | profil polyvalent
+autonome | adjectif | - | B1 | Capable de travailler seul. | Il est très autonome dans son travail. | indépendant | travailler de façon autonome
+syndicat | nom | m | B1 | Organisation qui défend les salariés. | Le syndicat a appelé à la grève. | - | délégué syndical
+grève | nom | f | A2 | Arrêt collectif du travail. | Les cheminots sont en grève. | débrayage | faire grève, préavis de grève
+revendication | nom | f | B2 | Demande collective. | Les revendications portent sur les salaires. | demande | revendications salariales
+négociation | nom | f | B2 | Discussion pour trouver un accord. | Les négociations ont abouti à un accord. | discussion | négociations salariales
+prime | nom | f | B1 | Somme d'argent en plus du salaire. | Les employés ont reçu une prime de fin d'année. | bonus | prime annuelle
+fiche de paie | nom | f | B1 | Document détaillant le salaire. | Vérifiez bien votre fiche de paie. | bulletin de salaire | recevoir sa fiche de paie
+brut | adjectif | - | B2 | Avant déduction des cotisations. | Le salaire brut est de 2 500 euros. | - | salaire brut
+net | adjectif | - | B2 | Après déduction des cotisations. | Je gagne 1 900 euros net par mois. | - | salaire net
+cotisation | nom | f | B2 | Somme versée pour la protection sociale. | Les cotisations financent les retraites. | contribution | cotisations sociales
+entreprise | nom | f | A2 | Organisation qui produit des biens ou des services. | Il travaille dans une petite entreprise. | société | créer une entreprise
+PME | nom | f | B2 | Petite ou moyenne entreprise. | Les PME créent beaucoup d'emplois. | - | dirigeant de PME
+start-up | nom | f | B2 | Jeune entreprise innovante. | Elle a rejoint une start-up de l'énergie. | jeune pousse | créer une start-up
+indépendant | nom | m | B1 | Travailleur non salarié. | Il travaille en indépendant comme graphiste. | freelance | travailleur indépendant
+entrepreneur | nom | m | B1 | Personne qui crée ou dirige une entreprise. | Les jeunes entrepreneurs bénéficient d'aides. | créateur d'entreprise | jeune entrepreneur
+auto-entrepreneur | nom | m | B2 | Statut simplifié de travailleur indépendant. | Il a choisi le statut d'auto-entrepreneur. | micro-entrepreneur | devenir auto-entrepreneur
+secteur | nom | m | B1 | Domaine d'activité économique. | Le secteur de la santé recrute. | domaine, branche | secteur d'activité
+débouché | nom | m | B2 | Possibilité d'emploi après une formation. | Cette formation offre de nombreux débouchés. | perspective | débouchés professionnels
+marché du travail | nom | m | B2 | Ensemble des offres et demandes d'emploi. | Le marché du travail évolue rapidement. | - | entrer sur le marché du travail
+pénibilité | nom | f | C1 | Caractère difficile et épuisant d'un travail. | La pénibilité du métier est reconnue. | difficulté | pénibilité au travail
+épuisement professionnel | nom | m | B2 | Fatigue extrême liée au travail. | L'épuisement professionnel touche de nombreux soignants. | burn-out | prévenir l'épuisement professionnel
+harcèlement | nom | m | B2 | Comportement répété qui humilie ou menace. | Le harcèlement au travail est puni par la loi. | - | harcèlement moral
+discrimination | nom | f | B2 | Traitement inégal et injuste. | La discrimination à l'embauche est interdite. | inégalité | lutter contre les discriminations
+égalité salariale | nom | f | B2 | Même salaire pour un même travail. | L'égalité salariale entre hommes et femmes progresse. | - | respecter l'égalité salariale
+période d'essai | nom | f | B1 | Premiers mois d'un contrat. | Ma période d'essai dure trois mois. | - | fin de la période d'essai
+lettre de motivation | nom | f | B1 | Lettre qui accompagne une candidature. | La lettre de motivation doit être personnalisée. | - | rédiger une lettre de motivation
+offre d'emploi | nom | f | A2 | Annonce proposant un poste. | J'ai répondu à trois offres d'emploi. | annonce | consulter les offres d'emploi
+postuler | verbe | - | B1 | Se porter candidat. | J'ai postulé à un poste d'assistant. | se porter candidat | postuler à un emploi
+gérer | verbe | - | B1 | Organiser, administrer. | Elle gère une équipe de dix personnes. | diriger, administrer | gérer un budget
+déléguer | verbe | - | B2 | Confier une tâche à quelqu'un. | Un bon manager sait déléguer. | confier | déléguer des tâches

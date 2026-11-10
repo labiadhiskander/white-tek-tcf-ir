@@ -1,0 +1,93 @@
+# Éducation
+école | nom | f | A1 | Établissement d'enseignement. | Les enfants vont à l'école à pied. | établissement scolaire | école primaire, école maternelle
+collège | nom | m | A2 | Établissement pour les 11-15 ans en France. | Mon fils entre au collège en septembre. | - | collège public
+lycée | nom | m | A2 | Établissement pour les 15-18 ans. | Elle est en terminale au lycée. | - | lycée professionnel
+université | nom | f | A2 | Établissement d'enseignement supérieur. | Il étudie le droit à l'université. | faculté | entrer à l'université
+élève | nom | - | A1 | Enfant ou adolescent qui suit des cours. | La classe compte vingt-cinq élèves. | écolier | bon élève
+étudiant | nom | m | A1 | Personne qui fait des études supérieures. | Les étudiants manifestent pour les bourses. | - | étudiant étranger
+enseignant | nom | m | A2 | Personne qui enseigne. | Les enseignants manquent dans certaines régions. | professeur | enseignant du primaire
+professeur | nom | m | A1 | Personne qui enseigne une matière. | Mon professeur de français est très patient. | enseignant | professeur principal
+instituteur | nom | m | B1 | Enseignant de l'école primaire. | L'instituteur organise une sortie au musée. | professeur des écoles | -
+enseigner | verbe | - | A2 | Transmettre des connaissances. | Elle enseigne les mathématiques au lycée. | apprendre à, transmettre | enseigner une matière
+apprendre | verbe | - | A1 | Acquérir des connaissances. | J'apprends le français depuis deux ans. | étudier | apprendre par cœur
+étudier | verbe | - | A1 | Faire des études, travailler pour apprendre. | Il étudie la médecine à Lyon. | apprendre | étudier à l'étranger
+réviser | verbe | - | A2 | Revoir ses cours pour un examen. | Je révise mes leçons tous les soirs. | revoir | réviser un examen
+matière | nom | f | A2 | Discipline enseignée. | Ma matière préférée est l'histoire. | discipline | matière obligatoire
+cours | nom | m | A1 | Leçon donnée par un enseignant. | Le cours commence à huit heures. | leçon | suivre un cours, cours du soir
+leçon | nom | f | A1 | Partie d'un enseignement. | Nous avons appris une nouvelle leçon. | cours | réciter sa leçon
+devoir | nom | m | A2 | Travail donné à faire à la maison. | Les élèves ont beaucoup de devoirs. | exercice | faire ses devoirs
+examen | nom | m | A2 | Épreuve pour évaluer des connaissances. | L'examen a lieu en juin. | épreuve | passer un examen, réussir un examen
+épreuve | nom | f | B1 | Partie d'un examen. | L'épreuve écrite dure trois heures. | examen | épreuve orale
+concours | nom | m | B1 | Examen avec un nombre limité de places. | Elle prépare un concours d'infirmière. | - | passer un concours, réussir un concours
+diplôme | nom | m | A2 | Document qui certifie un niveau d'études. | Il a obtenu son diplôme avec mention. | titre | obtenir un diplôme
+baccalauréat | nom | m | B1 | Diplôme de fin d'études secondaires en France. | Elle a eu son baccalauréat à dix-sept ans. | bac | passer le bac
+licence | nom | f | B1 | Diplôme universitaire de trois ans. | Il prépare une licence de psychologie. | - | licence professionnelle
+master | nom | m | B1 | Diplôme universitaire de cinq ans. | Elle fait un master en économie. | - | master de recherche
+doctorat | nom | m | B2 | Diplôme universitaire le plus élevé. | Il a soutenu son doctorat en chimie. | thèse | préparer un doctorat
+note | nom | f | A2 | Évaluation chiffrée d'un travail. | J'ai eu une bonne note en anglais. | résultat | bonne note, moyenne
+moyenne | nom | f | B1 | Note globale calculée. | Il a obtenu une moyenne de 14 sur 20. | - | avoir la moyenne
+bulletin | nom | m | B1 | Document qui présente les notes d'un élève. | Les parents ont reçu le bulletin trimestriel. | relevé de notes | bulletin scolaire
+redoubler | verbe | - | B1 | Refaire une année scolaire. | Il a dû redoubler sa seconde. | - | redoubler une classe
+orientation | nom | f | B1 | Choix d'études ou de métier. | La conseillère d'orientation l'a aidé. | - | conseiller d'orientation
+filière | nom | f | B2 | Voie d'études. | Elle a choisi une filière scientifique. | voie | filière professionnelle
+inscription | nom | f | A2 | Fait de s'inscrire. | Les inscriptions sont ouvertes jusqu'au 30 juin. | - | frais d'inscription
+bourse | nom | f | B1 | Aide financière pour étudier. | Il a obtenu une bourse d'études. | aide | bourse d'études
+frais de scolarité | nom | m | B2 | Somme payée pour suivre des études. | Les frais de scolarité ont augmenté. | droits d'inscription | payer les frais de scolarité
+cartable | nom | m | A2 | Sac pour porter les affaires scolaires. | Le cartable des enfants est trop lourd. | sac d'école | -
+cahier | nom | m | A1 | Ensemble de feuilles reliées. | Écrivez la date dans votre cahier. | - | cahier de textes
+manuel | nom | m | B1 | Livre scolaire. | Le manuel d'histoire est très illustré. | livre scolaire | manuel scolaire
+bibliothèque | nom | f | A2 | Lieu où l'on emprunte des livres. | Je travaille à la bibliothèque universitaire. | médiathèque | emprunter à la bibliothèque
+récréation | nom | f | A2 | Pause entre les cours. | Les enfants jouent pendant la récréation. | récré, pause | cour de récréation
+cantine | nom | f | A2 | Restaurant scolaire. | Mon fils mange à la cantine le midi. | restaurant scolaire | manger à la cantine
+rentrée | nom | f | A2 | Reprise des cours après les vacances. | La rentrée scolaire a lieu en septembre. | reprise | rentrée des classes
+vacances scolaires | nom | f | A2 | Périodes sans cours. | Les vacances scolaires durent deux semaines. | congés | pendant les vacances scolaires
+programme | nom | m | B1 | Contenu à enseigner. | Le programme de français a changé. | curriculum | programme scolaire
+pédagogie | nom | f | B2 | Science et art d'enseigner. | Cette école utilise une pédagogie active. | méthode | pédagogie innovante
+pédagogique | adjectif | - | B2 | Lié à l'enseignement. | L'équipe pédagogique se réunit lundi. | éducatif | projet pédagogique
+éducatif | adjectif | - | B1 | Qui sert à éduquer. | Ce jeu a une valeur éducative. | pédagogique | système éducatif
+scolarité | nom | f | B2 | Période et conditions des études. | Sa scolarité s'est bien passée. | études | scolarité obligatoire
+décrochage | nom | m | B2 | Abandon des études. | Le décrochage scolaire touche des milliers de jeunes. | abandon | décrochage scolaire
+échec scolaire | nom | m | B2 | Difficulté à réussir à l'école. | L'échec scolaire a des causes multiples. | - | lutter contre l'échec scolaire
+réussite | nom | f | B1 | Fait de réussir. | La réussite des élèves dépend de nombreux facteurs. | succès | réussite scolaire
+soutien scolaire | nom | m | B1 | Aide supplémentaire aux élèves. | Elle donne des cours de soutien scolaire. | aide aux devoirs | cours de soutien
+lacune | nom | f | B2 | Connaissance qui manque. | Il a des lacunes en grammaire. | manque, faiblesse | combler ses lacunes
+progresser | verbe | - | B1 | Faire des progrès. | Elle progresse rapidement en français. | s'améliorer | progresser en
+progrès | nom | m | A2 | Amélioration. | Tu as fait de grands progrès. | amélioration | faire des progrès
+assidu | adjectif | - | C1 | Qui est présent et travaille régulièrement. | C'est un élève assidu et sérieux. | régulier | élève assidu
+absentéisme | nom | m | B2 | Absences fréquentes. | L'absentéisme a baissé dans ce lycée. | absences | absentéisme scolaire
+discipline | nom | f | B1 | Respect des règles ; matière. | La discipline est stricte dans cette école. | ordre | discipline scolaire
+autorité | nom | f | B2 | Pouvoir de se faire respecter. | Le professeur a de l'autorité. | - | avoir de l'autorité
+harcèlement scolaire | nom | m | B2 | Violences répétées entre élèves. | Le harcèlement scolaire doit être signalé. | - | lutter contre le harcèlement scolaire
+classe | nom | f | A1 | Groupe d'élèves ; salle de cours. | La classe part en voyage scolaire. | - | classe surchargée, camarade de classe
+camarade | nom | - | A2 | Compagnon d'études. | Il s'entend bien avec ses camarades. | copain | camarade de classe
+conférence | nom | f | B1 | Exposé devant un public. | J'ai assisté à une conférence sur l'économie. | exposé | donner une conférence
+amphithéâtre | nom | m | B1 | Grande salle de cours à l'université. | Le cours a lieu dans l'amphithéâtre A. | amphi | -
+mémoire | nom | m | B2 | Travail écrit de fin d'études. | Elle rédige son mémoire de master. | thèse | soutenir un mémoire
+exposé | nom | m | B1 | Présentation orale d'un sujet. | Je dois préparer un exposé sur l'Europe. | présentation | faire un exposé
+dissertation | nom | f | B2 | Texte argumenté sur un sujet. | La dissertation de philosophie dure quatre heures. | - | rédiger une dissertation
+savoir | nom | m | B2 | Ensemble de connaissances. | L'école transmet des savoirs fondamentaux. | connaissances | transmettre le savoir
+connaissance | nom | f | B1 | Ce que l'on sait. | Il a de bonnes connaissances en histoire. | savoir | approfondir ses connaissances
+compréhension | nom | f | B1 | Capacité à comprendre. | L'exercice teste la compréhension écrite. | - | compréhension orale
+maîtriser | verbe | - | B2 | Connaître parfaitement. | Elle maîtrise trois langues. | dominer | maîtriser une langue
+alphabétisation | nom | f | B2 | Apprentissage de la lecture et de l'écriture. | L'association propose des cours d'alphabétisation. | - | cours d'alphabétisation
+illettrisme | nom | m | C1 | Difficulté à lire et écrire malgré une scolarité. | L'illettrisme touche des adultes scolarisés. | - | lutter contre l'illettrisme
+bilingue | adjectif | - | B1 | Qui parle deux langues. | Leurs enfants sont bilingues. | - | école bilingue
+enseignement supérieur | nom | m | B2 | Études après le baccalauréat. | L'enseignement supérieur accueille deux millions d'étudiants. | - | accès à l'enseignement supérieur
+grande école | nom | f | B2 | Établissement sélectif d'enseignement supérieur. | Il est entré dans une grande école d'ingénieurs. | - | concours des grandes écoles
+sélection | nom | f | B2 | Choix des meilleurs candidats. | La sélection à l'entrée est très stricte. | tri | sélection sur dossier
+cursus | nom | m | B2 | Parcours d'études. | Son cursus comprend un semestre à l'étranger. | parcours | cursus universitaire
+semestre | nom | m | B1 | Période de six mois. | Le premier semestre se termine en janvier. | - | semestre d'études
+échange | nom | m | B1 | Séjour d'études à l'étranger. | Elle part en échange au Canada. | - | programme d'échange
+tuteur | nom | m | B2 | Personne qui accompagne un élève ou un stagiaire. | Chaque stagiaire a un tuteur. | référent | tuteur de stage
+évaluation | nom | f | B1 | Mesure du niveau. | L'évaluation se fait en fin de semestre. | contrôle | évaluation continue
+contrôle | nom | m | A2 | Petit examen en classe. | Nous avons un contrôle de maths demain. | interrogation | contrôle continu
+correction | nom | f | B1 | Fait de corriger. | La correction des copies prend du temps. | - | correction détaillée
+copie | nom | f | B1 | Feuille d'examen rendue par l'élève. | Le professeur rend les copies corrigées. | - | rendre sa copie
+tricher | verbe | - | B1 | Ne pas respecter les règles pour réussir. | Il a été exclu pour avoir triché. | frauder | tricher à un examen
+mention | nom | f | B1 | Appréciation accompagnant un diplôme. | Elle a obtenu son bac avec mention très bien. | - | mention bien
+laïque | adjectif | - | B2 | Indépendant des religions. | L'école publique française est laïque. | - | école laïque
+gratuit | adjectif | - | A2 | Qui ne coûte rien. | L'école publique est gratuite. | - | enseignement gratuit
+obligatoire | adjectif | - | A2 | Imposé par la loi ou une règle. | L'instruction est obligatoire de 3 à 16 ans. | imposé | scolarité obligatoire
+crèche | nom | f | A2 | Lieu d'accueil des jeunes enfants. | Notre fille va à la crèche. | garderie | place en crèche
+maternelle | nom | f | A2 | École pour les enfants de 3 à 6 ans. | Elle entre en maternelle à trois ans. | école maternelle | -
+périscolaire | adjectif | - | C1 | Qui a lieu autour du temps scolaire. | Les activités périscolaires ont lieu après 16 heures. | - | activités périscolaires
