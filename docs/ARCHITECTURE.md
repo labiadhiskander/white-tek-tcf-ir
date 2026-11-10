@@ -77,8 +77,15 @@ exercice + correction) ; `vocab_words` ; `grammar_chapters` → `grammar_exercis
 
 * Moteur IA abstrait : moteur **local** (règles, correcteur, banque de relances) toujours
   disponible ; moteurs en ligne optionnels (Claude API ou compatible OpenAI).
-* Synthèse vocale : fichiers audio pré-générés pour les examens + voix Windows (SAPI)
-  en secours.
+* Synthèse vocale (`services/audio.py`) : chaque document CO « H: … / F: … » est
+  découpé en répliques ; chaque réplique est lue par une voix française du système
+  (SAPI via pyttsx3) choisie selon le genre puis l'accent (fr-FR, fr-CA, fr-BE, fr-CH),
+  et les répliques sont assemblées en un WAV mis en cache dans `cache_audio/`.
+  Ordre de priorité : enregistrement `content/audio/exam-NN_coMM.wav` (humain ou
+  pré-généré par `tools/pregen_audio.py`), puis cache, puis synthèse à la volée.
+* Lecture (`services/audio_player.py`) : génération dans un fil séparé, lecture par
+  Qt Multimedia. En mode examen, une écoute qui échoue est rendue au candidat ; en
+  entraînement, la transcription est proposée.
 * Reconnaissance vocale : moteur local hors ligne (Vosk, modèle français) et moteur en
   ligne facultatif.
 

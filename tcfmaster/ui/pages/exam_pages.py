@@ -9,7 +9,7 @@ from PySide6.QtWidgets import (QComboBox, QHBoxLayout, QHeaderView, QLabel, QPus
                                QVBoxLayout, QWidget)
 from sqlalchemy import select
 
-from tcfmaster.db.models import SECTION_LABELS, Attempt, Exam, Question
+from tcfmaster.db.models import SECTION_LABELS, Attempt, Question
 from tcfmaster.services import exam_service as ES
 from tcfmaster.ui.exam_session import STEP_FACTORIES, ExamSession
 from tcfmaster.ui.mcq_runner import McqRunner

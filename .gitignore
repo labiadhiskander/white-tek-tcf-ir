@@ -4,3 +4,5 @@ __pycache__/
 build/
 dist/
 *.sqlite3
+tcfmaster/content/audio/*.wav
+tcfmaster/content/audio/.tmp/

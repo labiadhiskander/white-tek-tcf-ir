@@ -40,7 +40,8 @@
    "explanation": "Repérez le lieu indiqué : l'accueil, rez-de-chaussée.",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co01.wav"
   },
   {
    "position": 2,
@@ -78,7 +79,8 @@
    "explanation": "Distinguez l'heure du rendez-vous (8 h) et celle de l'examen (8 h 30).",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co02.wav"
   },
   {
    "position": 3,
@@ -117,7 +119,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co03.wav"
   },
   {
    "position": 4,
@@ -156,7 +159,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-CA"
-   ]
+   ],
+   "audio_file": "exam-06_co04.wav"
   },
   {
    "position": 5,
@@ -194,7 +198,8 @@
    "explanation": "« Sauf » exclut un élément.",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co05.wav"
   },
   {
    "position": 6,
@@ -232,7 +237,8 @@
    "explanation": "Distinguez les deux tarifs.",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co06.wav"
   },
   {
    "position": 7,
@@ -271,7 +277,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co07.wav"
   },
   {
    "position": 8,
@@ -309,7 +316,8 @@
    "explanation": "« Exceptionnellement » signale un fonctionnement inhabituel.",
    "speakers": [
     "F:fr-BE"
-   ]
+   ],
+   "audio_file": "exam-06_co08.wav"
   },
   {
    "position": 9,
@@ -348,7 +356,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co09.wav"
   },
   {
    "position": 10,
@@ -387,7 +396,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-CH"
-   ]
+   ],
+   "audio_file": "exam-06_co10.wav"
   },
   {
    "position": 11,
@@ -426,7 +436,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co11.wav"
   },
   {
    "position": 12,
@@ -464,7 +475,8 @@
    "explanation": "« Pourtant illégal » souligne une contradiction. La dernière phrase donne l'enjeu social.",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co12.wav"
   },
   {
    "position": 13,
@@ -503,7 +515,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co13.wav"
   },
   {
    "position": 14,
@@ -541,7 +554,8 @@
    "explanation": "« Rien de dramatique, mais » et l'invitation au restaurant suggèrent un incident à se faire pardonner.",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co14.wav"
   },
   {
    "position": 15,
@@ -580,7 +594,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-BE"
-   ]
+   ],
+   "audio_file": "exam-06_co15.wav"
   },
   {
    "position": 16,
@@ -619,7 +634,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-CA"
-   ]
+   ],
+   "audio_file": "exam-06_co16.wav"
   },
   {
    "position": 17,
@@ -657,7 +673,8 @@
    "explanation": "Deux solutions sont proposées : le guichet et les partenaires.",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co17.wav"
   },
   {
    "position": 18,
@@ -695,7 +712,8 @@
    "explanation": "« Justifier par » introduit la cause invoquée.",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co18.wav"
   },
   {
    "position": 19,
@@ -734,7 +752,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co19.wav"
   },
   {
    "position": 20,
@@ -773,7 +792,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co20.wav"
   },
   {
    "position": 21,
@@ -811,7 +831,8 @@
    "explanation": "« Faute de » = par manque de. « Se reconvertir » = changer d'activité.",
    "speakers": [
     "H:fr-CH"
-   ]
+   ],
+   "audio_file": "exam-06_co21.wav"
   },
   {
    "position": 22,
@@ -850,7 +871,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co22.wav"
   },
   {
    "position": 23,
@@ -889,7 +911,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-CA"
-   ]
+   ],
+   "audio_file": "exam-06_co23.wav"
   },
   {
    "position": 24,
@@ -928,7 +951,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co24.wav"
   },
   {
    "position": 25,
@@ -966,7 +990,8 @@
    "explanation": "L'ironie oppose le slogan (« proches de vous ») aux fermetures d'agences.",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-06_co25.wav"
   }
  ],
  "CE": [

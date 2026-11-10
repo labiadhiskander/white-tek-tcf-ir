@@ -116,8 +116,59 @@ class McqRunner(QWidget):
         lay.addLayout(nav)
         lay.addWidget(disclaimer_label(
             "Format TCF IRN : 25 questions, 4 propositions, une seule bonne réponse."))
+        self._audio_qid: int | None = None
+        self._connect_audio(True)
         self._show()
         self.timer.start()
+
+    # --------------------------------------------------------------- audio
+    def _connect_audio(self, on: bool) -> None:
+        if self.audio is None or not hasattr(self.audio, "preparing"):
+            return
+        pairs = ((self.audio.preparing, self._on_audio_preparing),
+                 (self.audio.started, self._on_audio_started),
+                 (self.audio.finished, self._on_audio_finished),
+                 (self.audio.failed, self._on_audio_failed))
+        for sig, slot in pairs:
+            if on:
+                sig.connect(slot)
+            else:
+                try:
+                    sig.disconnect(slot)
+                except (RuntimeError, TypeError):
+                    pass
+
+    def _audio_is_current(self) -> bool:
+        return self._audio_qid is not None and self._audio_qid == self.qids[self.idx]
+
+    def _on_audio_preparing(self) -> None:
+        if self._audio_is_current():
+            self.play_btn.setEnabled(False)
+            self.play_info.setText("Préparation de l'audio… (la première fois seulement)")
+
+    def _on_audio_started(self) -> None:
+        if self._audio_is_current():
+            self.play_btn.setEnabled(False)
+            self.play_info.setText("Lecture en cours…")
+
+    def _on_audio_finished(self) -> None:
+        if self._audio_is_current():
+            self._update_play_info(self._audio_qid)
+
+    def _on_audio_failed(self, message: str) -> None:
+        qid = self._audio_qid
+        if qid is None:
+            return
+        # l'écoute n'a pas eu lieu : elle est rendue au candidat
+        self.plays[qid] = max(0, self.plays.get(qid, 1) - 1)
+        if qid == self.qids[self.idx]:
+            self._update_play_info(qid)
+            self.play_info.setText(f"⚠ {message}")
+            if self.mode == ES.MODE_TRAINING:
+                with self.ctx.db.session() as s:
+                    doc = s.get(Question, qid).document
+                self.document.setPlainText(
+                    "Audio indisponible : lisez la transcription.\n\n" + doc)
 
     # ------------------------------------------------------------- helpers
     def _question(self, s) -> Question:
@@ -175,6 +226,7 @@ class McqRunner(QWidget):
         if self.mode == ES.MODE_EXAM and self.plays.get(qid, 0) >= 1:
             return
         self.plays[qid] = self.plays.get(qid, 0) + 1
+        self._audio_qid = qid
         if self.audio is not None:
             with self.ctx.db.session() as s:
                 self.audio.play_question(self._question(s))
@@ -229,8 +281,14 @@ class McqRunner(QWidget):
         self.locked.add(qid)
         self._show()
 
+    def _stop_audio(self) -> None:
+        if self.audio is not None:
+            self.audio.stop()
+        self._audio_qid = None
+
     def next(self) -> None:
         self._save_current()
+        self._stop_audio()
         if self.idx < len(self.qids) - 1:
             self.idx += 1
             self._show()
@@ -241,6 +299,7 @@ class McqRunner(QWidget):
         if self.mode != ES.MODE_TRAINING or self.idx == 0:
             return
         self._save_current()
+        self._stop_audio()
         self.idx -= 1
         self._show()
 
@@ -265,6 +324,7 @@ class McqRunner(QWidget):
         self.timer.stop()
         if self.audio is not None:
             self.audio.stop()
+            self._connect_audio(False)
         if self.finalize:
             with self.ctx.db.session() as s:
                 a = s.get(Attempt, self.attempt_id)

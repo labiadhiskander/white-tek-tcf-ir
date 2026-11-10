@@ -28,7 +28,10 @@ def main() -> int:
         pass
     win = MainWindow(ctx)
     win.show()
-    return app.exec()
+    code = app.exec()
+    if getattr(ctx, "audio", None) is not None:
+        ctx.audio.shutdown()
+    return code
 
 
 if __name__ == "__main__":

@@ -40,7 +40,8 @@
    "explanation": "Ne confondez pas l'heure et le prix.",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co01.wav"
   },
   {
    "position": 2,
@@ -78,7 +79,8 @@
    "explanation": "« À partir de » indique le début.",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co02.wav"
   },
   {
    "position": 3,
@@ -117,7 +119,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co03.wav"
   },
   {
    "position": 4,
@@ -156,7 +159,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co04.wav"
   },
   {
    "position": 5,
@@ -194,7 +198,8 @@
    "explanation": "« Merci de » introduit une demande.",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co05.wav"
   },
   {
    "position": 6,
@@ -232,7 +237,8 @@
    "explanation": "« Eux » met en contraste les passagers et les conducteurs.",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co06.wav"
   },
   {
    "position": 7,
@@ -271,7 +277,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co07.wav"
   },
   {
    "position": 8,
@@ -309,7 +316,8 @@
    "explanation": "« Doivent » marque l'obligation.",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co08.wav"
   },
   {
    "position": 9,
@@ -348,7 +356,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co09.wav"
   },
   {
    "position": 10,
@@ -387,7 +396,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co10.wav"
   },
   {
    "position": 11,
@@ -426,7 +436,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co11.wav"
   },
   {
    "position": 12,
@@ -464,7 +475,8 @@
    "explanation": "« Mais » introduit la nuance.",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co12.wav"
   },
   {
    "position": 13,
@@ -503,7 +515,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co13.wav"
   },
   {
    "position": 14,
@@ -541,7 +554,8 @@
    "explanation": "« Avant de » indique une étape préalable.",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co14.wav"
   },
   {
    "position": 15,
@@ -580,7 +594,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co15.wav"
   },
   {
    "position": 16,
@@ -619,7 +634,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-CA"
-   ]
+   ],
+   "audio_file": "exam-19_co16.wav"
   },
   {
    "position": 17,
@@ -657,7 +673,8 @@
    "explanation": "« À la demande » = sur réservation.",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co17.wav"
   },
   {
    "position": 18,
@@ -695,7 +712,8 @@
    "explanation": "« Mettre en garde contre » = avertir d'un danger.",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co18.wav"
   },
   {
    "position": 19,
@@ -734,7 +752,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co19.wav"
   },
   {
    "position": 20,
@@ -773,7 +792,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co20.wav"
   },
   {
    "position": 21,
@@ -811,7 +831,8 @@
    "explanation": "« Notamment » introduit un élément important.",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co21.wav"
   },
   {
    "position": 22,
@@ -850,7 +871,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co22.wav"
   },
   {
    "position": 23,
@@ -889,7 +911,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co23.wav"
   },
   {
    "position": 24,
@@ -928,7 +951,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co24.wav"
   },
   {
    "position": 25,
@@ -966,7 +990,8 @@
    "explanation": "« De sorte que » introduit une conséquence.",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-19_co25.wav"
   }
  ],
  "CE": [
