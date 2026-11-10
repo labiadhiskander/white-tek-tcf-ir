@@ -1,0 +1,1975 @@
+{
+ "code": "EXAM-11",
+ "title": "Examen blanc n° 11 – Mer, mobilité et engagement",
+ "level": "B2",
+ "description": "Examen complet calibré B1–B2 : océans, expatriation, sommeil, réparation, bénévolat.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "F: Bonjour Paul, c'est Léa. Le bateau pour l'île part à 9 h 15, pas à 9 h 45 comme prévu. Rendez-vous au port à 9 heures, devant le guichet.",
+   "prompt": "À quelle heure part le bateau ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À 9 h 15.",
+     "correct": true,
+     "rationale": "« Le bateau pour l'île part à 9 h 15 »."
+    },
+    {
+     "label": "B",
+     "text": "À 9 h 45.",
+     "correct": false,
+     "rationale": "C'était l'horaire prévu, il a changé."
+    },
+    {
+     "label": "C",
+     "text": "À 9 heures.",
+     "correct": false,
+     "rationale": "C'est l'heure du rendez-vous."
+    },
+    {
+     "label": "D",
+     "text": "À 10 heures.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Distinguez l'heure du départ et l'heure du rendez-vous.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Avis aux baigneurs : la baignade est interdite aujourd'hui à cause des vagues. Le poste de secours reste ouvert jusqu'à 19 heures. Merci de respecter le drapeau rouge.",
+   "prompt": "Pourquoi la baignade est-elle interdite ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À cause des vagues.",
+     "correct": true,
+     "rationale": "« interdite aujourd'hui à cause des vagues »."
+    },
+    {
+     "label": "B",
+     "text": "Parce que le poste de secours est fermé.",
+     "correct": false,
+     "rationale": "Il reste ouvert."
+    },
+    {
+     "label": "C",
+     "text": "À cause de la pollution.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "À cause du froid.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« À cause de » introduit la cause.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "F: Tu as bien dormi ? / H: Pas vraiment. Les voisins ont fait la fête jusqu'à deux heures du matin. / F: Tu devrais leur parler. / H: Oui, je vais passer les voir ce soir.",
+   "prompt": "Pourquoi l'homme a-t-il mal dormi ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ses voisins faisaient la fête.",
+     "correct": true,
+     "rationale": "« Les voisins ont fait la fête jusqu'à deux heures »."
+    },
+    {
+     "label": "B",
+     "text": "Il avait trop chaud.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Il travaillait tard.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Il était malade.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La cause est donnée juste après « Pas vraiment ».",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "H: Mon grille-pain ne marche plus. Je crois que je vais en acheter un neuf. / F: Attends ! Samedi, il y a un repair café à la mairie. Des bénévoles t'aident à réparer tes appareils gratuitement. / H: Ah, je ne connaissais pas. Pourquoi pas ?",
+   "prompt": "Que conseille la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Acheter un grille-pain neuf.",
+     "correct": false,
+     "rationale": "C'est l'idée de l'homme."
+    },
+    {
+     "label": "B",
+     "text": "Jeter l'appareil.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Rapporter l'appareil au magasin.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Essayer de faire réparer l'appareil.",
+     "correct": true,
+     "rationale": "Elle parle du repair café."
+    }
+   ],
+   "explanation": "« Attends ! » introduit une autre proposition.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "F: Bonjour Monsieur Diallo, ici le service de mobilité internationale de l'université. Votre dossier pour le semestre à Montréal est accepté. Il vous reste à fournir une attestation d'assurance santé avant le 30 avril. Sans ce document, votre inscription ne pourra pas être finalisée.",
+   "prompt": "Que doit faire M. Diallo ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Passer un entretien.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Payer ses frais de scolarité.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Envoyer une attestation d'assurance santé.",
+     "correct": true,
+     "rationale": "« Il vous reste à fournir une attestation d'assurance santé »."
+    },
+    {
+     "label": "D",
+     "text": "Déposer un nouveau dossier.",
+     "correct": false,
+     "rationale": "Son dossier est accepté."
+    }
+   ],
+   "explanation": "« Il vous reste à » indique ce qui manque.",
+   "speakers": [
+    "F:fr-CA"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information précise",
+   "document": "H: Ce week-end, des milliers de bénévoles vont ramasser les déchets sur les plages de la côte atlantique. L'opération est ouverte à tous, à partir de huit ans. Les gants et les sacs sont fournis. Il suffit de s'inscrire sur le site de l'association.",
+   "prompt": "Que doivent faire les participants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Payer une participation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Avoir plus de dix-huit ans.",
+     "correct": false,
+     "rationale": "C'est à partir de huit ans."
+    },
+    {
+     "label": "C",
+     "text": "S'inscrire sur le site de l'association.",
+     "correct": true,
+     "rationale": "« Il suffit de s'inscrire sur le site »."
+    },
+    {
+     "label": "D",
+     "text": "Apporter leurs gants.",
+     "correct": false,
+     "rationale": "Les gants sont fournis."
+    }
+   ],
+   "explanation": "« Il suffit de » présente la seule condition.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous vivez à Lisbonne depuis trois ans. Qu'est-ce qui vous a le plus surpris ? / H: La facilité de l'accueil. Les gens sont patients quand on parle mal portugais. Par contre, trouver un logement a été un vrai parcours du combattant, les loyers ont beaucoup augmenté.",
+   "prompt": "Qu'est-ce qui a été difficile pour l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Apprendre le portugais.",
+     "correct": false,
+     "rationale": "Ce n'est pas présenté comme difficile."
+    },
+    {
+     "label": "B",
+     "text": "Être accueilli par les habitants.",
+     "correct": false,
+     "rationale": "L'accueil a été facile."
+    },
+    {
+     "label": "C",
+     "text": "Trouver un logement.",
+     "correct": true,
+     "rationale": "« trouver un logement a été un vrai parcours du combattant »."
+    },
+    {
+     "label": "D",
+     "text": "Trouver du travail.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Un parcours du combattant » = une suite de difficultés.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-BE"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Le musée de la Marine sera exceptionnellement fermé lundi pour l'installation d'une nouvelle exposition sur les grands navigateurs. Il rouvrira mardi à 10 heures. Les billets achetés pour lundi seront remboursés.",
+   "prompt": "Que se passera-t-il pour les billets de lundi ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils seront valables mardi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Ils seront échangés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Ils sont perdus.",
+     "correct": false,
+     "rationale": "Ils sont remboursés."
+    },
+    {
+     "label": "D",
+     "text": "Ils seront remboursés.",
+     "correct": true,
+     "rationale": "« Les billets achetés pour lundi seront remboursés »."
+    }
+   ],
+   "explanation": "Écoutez la dernière phrase des annonces.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "situation administrative",
+   "skill": "information précise",
+   "document": "H: Bonjour, je pars travailler deux ans en Australie. Je dois faire quelque chose avant de partir ? / F: Je vous conseille de vous inscrire au registre des Français établis hors de France. C'est gratuit et ça facilite vos démarches sur place. / H: C'est obligatoire ? / F: Non, mais c'est vivement recommandé.",
+   "prompt": "L'inscription au registre est-elle obligatoire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Seulement pour les étudiants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Non, mais elle est recommandée.",
+     "correct": true,
+     "rationale": "« Non, mais c'est vivement recommandé »."
+    },
+    {
+     "label": "C",
+     "text": "Oui, avant le départ.",
+     "correct": false,
+     "rationale": "Ce n'est pas obligatoire."
+    },
+    {
+     "label": "D",
+     "text": "Oui, et elle est payante.",
+     "correct": false,
+     "rationale": "Elle est gratuite et facultative."
+    }
+   ],
+   "explanation": "« Vivement recommandé » ≠ obligatoire.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "conversation professionnelle",
+   "skill": "information précise",
+   "document": "F: Pour la réunion de jeudi, on la fait en visio ou au bureau ? / H: Au bureau, si possible. On doit présenter le nouveau projet au client et c'est mieux en personne. / F: D'accord, je réserve la grande salle de 14 h à 16 h.",
+   "prompt": "Pourquoi l'homme préfère-t-il une réunion au bureau ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que la connexion est mauvaise.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Parce que le client l'exige.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Parce qu'ils présentent un projet au client.",
+     "correct": true,
+     "rationale": "« c'est mieux en personne »."
+    },
+    {
+     "label": "D",
+     "text": "Parce que la grande salle est libre.",
+     "correct": false,
+     "rationale": "C'est une conséquence, pas la raison."
+    }
+   ],
+   "explanation": "La justification suit « On doit présenter… ».",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "H: Il faudrait interdire la pêche industrielle dans les zones marines protégées. / F: Je suis d'accord sur le principe, mais il faut accompagner les pêcheurs. Sinon, des milliers de familles perdront leurs revenus du jour au lendemain. Une transition sur dix ans me semblerait plus juste.",
+   "prompt": "Quelle est la position de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle approuve l'idée, à condition d'accompagner les pêcheurs.",
+     "correct": true,
+     "rationale": "« d'accord sur le principe, mais il faut accompagner »."
+    },
+    {
+     "label": "B",
+     "text": "Elle s'oppose totalement à l'interdiction.",
+     "correct": false,
+     "rationale": "Elle est d'accord sur le principe."
+    },
+    {
+     "label": "C",
+     "text": "Elle pense que la pêche ne pose pas de problème.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Elle veut une interdiction immédiate.",
+     "correct": false,
+     "rationale": "Elle propose une transition sur dix ans."
+    }
+   ],
+   "explanation": "« D'accord sur le principe, mais » : accord nuancé.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "F: Selon une étude publiée hier, un adulte sur trois dort moins de six heures par nuit. Les chercheurs pointent l'usage des écrans le soir, mais aussi les horaires de travail décalés et le stress. Ils rappellent qu'un manque de sommeil chronique augmente les risques cardiovasculaires.",
+   "prompt": "Quel est le sujet principal de cette information ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le manque de sommeil chez les adultes et ses causes.",
+     "correct": true,
+     "rationale": "Le reportage présente le constat, les causes et les risques."
+    },
+    {
+     "label": "B",
+     "text": "Les dangers des horaires décalés.",
+     "correct": false,
+     "rationale": "C'est une cause parmi d'autres."
+    },
+    {
+     "label": "C",
+     "text": "L'usage des écrans par les enfants.",
+     "correct": false,
+     "rationale": "Il s'agit des adultes."
+    },
+    {
+     "label": "D",
+     "text": "Les maladies cardiovasculaires.",
+     "correct": false,
+     "rationale": "C'est une conséquence citée."
+    }
+   ],
+   "explanation": "Le thème général englobe constat, causes et conséquences.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Pourquoi avez-vous choisi de faire du bénévolat après votre retraite ? / F: Je ne voulais pas me retrouver seule devant la télévision. Aider des enfants à faire leurs devoirs me donne un rôle, un rythme. Et franchement, j'apprends autant d'eux qu'eux de moi.",
+   "prompt": "Que dit la femme sur son expérience ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle regrette sa retraite.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Elle préfère regarder la télévision.",
+     "correct": false,
+     "rationale": "C'est ce qu'elle voulait éviter."
+    },
+    {
+     "label": "C",
+     "text": "Elle s'ennuie dans ce rôle.",
+     "correct": false,
+     "rationale": "Elle y trouve un rythme."
+    },
+    {
+     "label": "D",
+     "text": "L'apprentissage est réciproque.",
+     "correct": true,
+     "rationale": "« j'apprends autant d'eux qu'eux de moi »."
+    }
+   ],
+   "explanation": "« Autant… que » exprime l'égalité.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-CH"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "message téléphonique",
+   "skill": "intention",
+   "document": "H: Bonjour, ici le service client de Réparplus. Votre lave-linge ne pourra pas être réparé : la pièce n'est plus fabriquée. Nous vous proposons soit un remboursement de 60 % du prix d'achat, soit un bon d'achat de 80 % valable un an. Merci de nous rappeler pour nous indiquer votre choix.",
+   "prompt": "Qu'est-ce qu'on demande au client ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De choisir entre deux compensations.",
+     "correct": true,
+     "rationale": "« soit un remboursement… soit un bon d'achat »."
+    },
+    {
+     "label": "B",
+     "text": "D'acheter un nouveau lave-linge en magasin.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "De payer la réparation.",
+     "correct": false,
+     "rationale": "La réparation est impossible."
+    },
+    {
+     "label": "D",
+     "text": "D'apporter une pièce.",
+     "correct": false,
+     "rationale": "La pièce n'existe plus."
+    }
+   ],
+   "explanation": "« Soit… soit… » présente une alternative.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "relation logique",
+   "document": "F: Nos ventes de vêtements reconditionnés ont doublé. / H: Oui, mais nos coûts ont aussi augmenté, car il faut contrôler et nettoyer chaque article. Résultat : notre marge reste faible. / F: Il faudrait peut-être automatiser le tri.",
+   "prompt": "Pourquoi la marge reste-t-elle faible ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que les ventes baissent.",
+     "correct": false,
+     "rationale": "Elles ont doublé."
+    },
+    {
+     "label": "B",
+     "text": "Parce que les clients ne paient pas.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Parce que le tri est automatisé.",
+     "correct": false,
+     "rationale": "C'est une proposition."
+    },
+    {
+     "label": "D",
+     "text": "Parce que le contrôle des articles coûte cher.",
+     "correct": true,
+     "rationale": "« il faut contrôler et nettoyer chaque article »."
+    }
+   ],
+   "explanation": "« Car » donne la cause, « Résultat » la conséquence.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "H: Votre association installe des récifs artificiels en Méditerranée. À quoi ça sert ? / F: Ces structures en béton imitent les fonds rocheux. En quelques mois, algues et coquillages s'y fixent, puis les poissons reviennent. Sur nos sites, la biodiversité a été multipliée par trois en cinq ans.",
+   "prompt": "Quel résultat la femme mentionne-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La pêche a été interdite.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Le béton a disparu.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "La biodiversité a triplé en cinq ans.",
+     "correct": true,
+     "rationale": "« multipliée par trois en cinq ans »."
+    },
+    {
+     "label": "D",
+     "text": "Les poissons sont revenus en quelques jours.",
+     "correct": false,
+     "rationale": "Il faut plusieurs mois."
+    }
+   ],
+   "explanation": "« Multiplier par trois » = tripler.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: En raison de travaux sur le pont, la navette maritime ne desservira pas l'arrêt « Vieux Port » du 3 au 17 juin. Un bus de substitution circulera toutes les vingt minutes entre la gare maritime et le Vieux Port. Les abonnements restent valables dans ce bus.",
+   "prompt": "Que doivent faire les voyageurs pour aller au Vieux Port ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Descendre à la gare maritime et marcher.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Acheter un nouveau billet.",
+     "correct": false,
+     "rationale": "Les abonnements restent valables."
+    },
+    {
+     "label": "C",
+     "text": "Attendre la fin des travaux.",
+     "correct": false,
+     "rationale": "Une solution est proposée."
+    },
+    {
+     "label": "D",
+     "text": "Prendre le bus de substitution.",
+     "correct": true,
+     "rationale": "« Un bus de substitution circulera… »."
+    }
+   ],
+   "explanation": "« De substitution » = qui remplace.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: Le nombre de Français installés à l'étranger a progressé de 20 % en dix ans. Ce mouvement s'explique en partie par le développement du télétravail, qui permet de garder un emploi en France tout en vivant ailleurs. Mais beaucoup reviennent au bout de quelques années, notamment pour se rapprocher de leur famille.",
+   "prompt": "Pourquoi beaucoup d'expatriés reviennent-ils ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce qu'ils perdent leur emploi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "À cause du télétravail.",
+     "correct": false,
+     "rationale": "Le télétravail explique les départs."
+    },
+    {
+     "label": "C",
+     "text": "Pour se rapprocher de leur famille.",
+     "correct": true,
+     "rationale": "« notamment pour se rapprocher de leur famille »."
+    },
+    {
+     "label": "D",
+     "text": "Parce que la vie est trop chère à l'étranger.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Distinguez la cause des départs et celle des retours.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "F: Les entreprises devraient accorder des jours de congé à leurs salariés bénévoles. / H: Ce serait formidable, mais qui paierait ? Les petites entreprises n'en ont pas les moyens. / F: L'État pourrait compenser une partie du coût, comme il le fait déjà pour les pompiers volontaires.",
+   "prompt": "Quel argument la femme utilise-t-elle pour répondre à l'objection ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un exemple existant de compensation par l'État.",
+     "correct": true,
+     "rationale": "« comme il le fait déjà pour les pompiers volontaires »."
+    },
+    {
+     "label": "B",
+     "text": "Le bénévolat est obligatoire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les petites entreprises sont riches.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les salariés paieraient eux-mêmes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "L'argument par l'exemple rend une proposition crédible.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Vous êtes spécialiste du sommeil. Faut-il bannir totalement les écrans le soir ? / F: Bannir, c'est irréaliste. Je conseille plutôt d'arrêter une heure avant le coucher et de ne pas garder le téléphone dans la chambre. Ce sont de petites habitudes, mais leurs effets sont considérables.",
+   "prompt": "Que recommande la spécialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Prendre des médicaments.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Arrêter les écrans une heure avant de dormir.",
+     "correct": true,
+     "rationale": "C'est son conseil principal."
+    },
+    {
+     "label": "C",
+     "text": "Dormir avec son téléphone.",
+     "correct": false,
+     "rationale": "Elle conseille l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "Supprimer totalement les écrans.",
+     "correct": false,
+     "rationale": "Elle juge cela irréaliste."
+    }
+   ],
+   "explanation": "« Plutôt » introduit une alternative préférée.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "F: Le traité international sur la haute mer, adopté après quinze ans de négociations, devrait permettre de créer des aires marines protégées dans les eaux qui n'appartiennent à aucun État. Ces zones représentent près des deux tiers des océans. Reste à obtenir suffisamment de ratifications pour que le texte entre en vigueur.",
+   "prompt": "Que manque-t-il pour que le traité s'applique ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une carte des océans.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "L'accord des pêcheurs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Des négociations supplémentaires.",
+     "correct": false,
+     "rationale": "Le traité est adopté."
+    },
+    {
+     "label": "D",
+     "text": "Un nombre suffisant de ratifications.",
+     "correct": true,
+     "rationale": "« Reste à obtenir suffisamment de ratifications »."
+    }
+   ],
+   "explanation": "« Reste à » indique l'étape suivante nécessaire.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "H: Je voulais te parler du planning d'été. Je sais que tu avais demandé trois semaines en août… / F: Oui, je pars voir ma famille au Sénégal. / H: Le problème, c'est que deux collègues seront absents à la même période. Est-ce que tu accepterais de décaler d'une semaine ?",
+   "prompt": "Que demande l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De remplacer les collègues absents.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "De partir en juillet.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "De décaler les congés d'une semaine.",
+     "correct": true,
+     "rationale": "« accepterais-tu de décaler d'une semaine ? »."
+    },
+    {
+     "label": "D",
+     "text": "D'annuler les vacances.",
+     "correct": false,
+     "rationale": "Il propose seulement un décalage."
+    }
+   ],
+   "explanation": "Le conditionnel « accepterais » adoucit la demande.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "point de vue implicite",
+   "document": "F: On nous répète que le bénévolat est en crise. / H: En réalité, les Français ne s'engagent pas moins, ils s'engagent autrement : plus ponctuellement, sur des missions courtes, parfois en ligne. Ce sont les associations qui peinent à s'adapter à ces nouvelles formes d'engagement.",
+   "prompt": "Selon l'homme, où se situe le problème ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dans la difficulté des associations à s'adapter.",
+     "correct": true,
+     "rationale": "« Ce sont les associations qui peinent à s'adapter »."
+    },
+    {
+     "label": "B",
+     "text": "Dans le manque de missions courtes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Dans le bénévolat en ligne.",
+     "correct": false,
+     "rationale": "C'est une nouvelle forme, pas un problème."
+    },
+    {
+     "label": "D",
+     "text": "Dans le manque de générosité des Français.",
+     "correct": false,
+     "rationale": "Il dit qu'ils ne s'engagent pas moins."
+    }
+   ],
+   "explanation": "La mise en relief « Ce sont… qui » désigne le vrai responsable.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "interview",
+   "skill": "nuance",
+   "document": "H: Le droit à la réparation, adopté au niveau européen, va-t-il changer nos habitudes ? / F: Il va dans le bon sens, indéniablement. Mais tant que réparer coûtera presque aussi cher qu'acheter neuf, les consommateurs continueront de remplacer leurs appareils. La loi ne suffira pas sans un vrai soutien financier aux réparateurs.",
+   "prompt": "Quelle est la position de l'experte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faut interdire les appareils neufs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "La loi va tout changer.",
+     "correct": false,
+     "rationale": "Elle nuance fortement."
+    },
+    {
+     "label": "C",
+     "text": "La loi est inutile.",
+     "correct": false,
+     "rationale": "Elle va dans le bon sens."
+    },
+    {
+     "label": "D",
+     "text": "La loi est positive mais insuffisante seule.",
+     "correct": true,
+     "rationale": "« va dans le bon sens… La loi ne suffira pas »."
+    }
+   ],
+   "explanation": "« Indéniablement… Mais » : concession puis réserve.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: Paradoxalement, le développement des énergies marines renouvelables pourrait profiter à la biodiversité. Les fondations des éoliennes en mer, interdites à la pêche au chalut, deviennent de véritables refuges pour les poissons. Encore faut-il que les travaux d'installation, très bruyants, ne fassent pas fuir les mammifères marins.",
+   "prompt": "Quelle réserve est exprimée à la fin ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le bruit des travaux pourrait déranger les mammifères marins.",
+     "correct": true,
+     "rationale": "« Encore faut-il que les travaux… ne fassent pas fuir »."
+    },
+    {
+     "label": "B",
+     "text": "La pêche au chalut va augmenter.",
+     "correct": false,
+     "rationale": "Elle y est interdite."
+    },
+    {
+     "label": "C",
+     "text": "Les poissons fuient les éoliennes.",
+     "correct": false,
+     "rationale": "Ils y trouvent refuge."
+    },
+    {
+     "label": "D",
+     "text": "Les éoliennes produisent trop peu d'énergie.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Encore faut-il que » introduit une condition restrictive.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "À LOUER – Studio de 25 m² près de la plage, entièrement meublé. Disponible du 1er juillet au 31 août. 450 € la semaine. Animaux non acceptés. Contact : 06 45 78 12 90.",
+   "prompt": "Quelle est la durée maximale de location ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un an.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Un mois.",
+     "correct": false,
+     "rationale": "C'est deux mois."
+    },
+    {
+     "label": "C",
+     "text": "Deux mois.",
+     "correct": true,
+     "rationale": "Du 1er juillet au 31 août."
+    },
+    {
+     "label": "D",
+     "text": "Une semaine.",
+     "correct": false,
+     "rationale": "Le prix est donné à la semaine, mais il est disponible deux mois."
+    }
+   ],
+   "explanation": "Calculez la durée à partir des dates."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Salut Inès ! Je ne pourrai pas venir au cours de plongée samedi, j'ai un rhume. Tu peux prévenir le moniteur ? Je viendrai la semaine prochaine. Merci ! Hugo",
+   "prompt": "Que demande Hugo à Inès ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "D'annuler le cours.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "De venir le voir.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "De prévenir le moniteur.",
+     "correct": true,
+     "rationale": "« Tu peux prévenir le moniteur ? »."
+    },
+    {
+     "label": "D",
+     "text": "D'acheter des médicaments.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La demande est formulée par une question."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "affiche",
+   "skill": "information précise",
+   "document": "REPAIR CAFÉ – Chaque premier samedi du mois, de 14 h à 18 h, salle des fêtes. Apportez vos objets cassés : petits appareils, vêtements, vélos. Réparation gratuite avec nos bénévoles. Café offert !",
+   "prompt": "Que peut-on faire au repair café ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Acheter des objets d'occasion.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Vendre ses objets cassés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Suivre un cours de cuisine.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Faire réparer un objet gratuitement.",
+     "correct": true,
+     "rationale": "« Réparation gratuite avec nos bénévoles »."
+    }
+   ],
+   "explanation": "Repérez le service principal proposé."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "courriel",
+   "skill": "information précise",
+   "document": "Chère Madame, nous avons bien reçu votre candidature pour la mission de bénévolat « Aide aux devoirs ». Une réunion d'information aura lieu le mardi 12 septembre à 18 h dans nos locaux. Votre présence est indispensable pour commencer la mission. Cordialement, L'équipe de Lire Ensemble.",
+   "prompt": "Que doit faire la candidate ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Assister à la réunion du 12 septembre.",
+     "correct": true,
+     "rationale": "« Votre présence est indispensable »."
+    },
+    {
+     "label": "B",
+     "text": "Commencer la mission le 12 septembre.",
+     "correct": false,
+     "rationale": "C'est une réunion d'information."
+    },
+    {
+     "label": "C",
+     "text": "Envoyer une nouvelle candidature.",
+     "correct": false,
+     "rationale": "Elle a été reçue."
+    },
+    {
+     "label": "D",
+     "text": "Appeler l'association.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Indispensable » = obligatoire."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "À Saint-Malo, une école propose depuis cette année des cours en plein air sur la plage, une matinée par semaine. Les enfants y étudient les marées, les algues et les oiseaux. Les enseignants constatent une meilleure concentration en classe les jours suivants.",
+   "prompt": "De quoi parle cet article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "D'un problème de concentration.",
+     "correct": false,
+     "rationale": "C'est un effet positif mentionné."
+    },
+    {
+     "label": "B",
+     "text": "D'une école qui fait cours sur la plage.",
+     "correct": true,
+     "rationale": "C'est le sujet principal."
+    },
+    {
+     "label": "C",
+     "text": "De la pollution des plages.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "D'une fermeture d'école.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Le sujet est donné dans la première phrase."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, Monsieur, votre demande de renouvellement de passeport a été enregistrée. Votre nouveau passeport sera disponible en mairie à partir du 5 mars. Vous devrez le retirer en personne, muni de l'ancien passeport, dans un délai de trois mois. Passé ce délai, il sera détruit.",
+   "prompt": "Que se passera-t-il si le passeport n'est pas retiré dans les trois mois ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faudra payer une amende.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "L'ancien passeport restera valable.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Il sera détruit.",
+     "correct": true,
+     "rationale": "« Passé ce délai, il sera détruit »."
+    },
+    {
+     "label": "D",
+     "text": "Il sera envoyé par la poste.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Passé ce délai » = après ce délai."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "publicité",
+   "skill": "intention",
+   "document": "Votre téléphone a deux ans ? Ne le jetez pas ! Chez ReNouveau, nous changeons votre batterie en 30 minutes pour 49 €. Votre téléphone repart pour deux ans, et la planète vous dit merci.",
+   "prompt": "Que veut cette publicité ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Proposer un abonnement.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Vendre des téléphones neufs.",
+     "correct": false,
+     "rationale": "Elle propose une réparation."
+    },
+    {
+     "label": "C",
+     "text": "Encourager à faire réparer son téléphone.",
+     "correct": true,
+     "rationale": "« Ne le jetez pas ! … nous changeons votre batterie »."
+    },
+    {
+     "label": "D",
+     "text": "Recycler les vieux téléphones.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "L'impératif « Ne le jetez pas » révèle l'intention."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "À tous les collaborateurs : à partir du 1er octobre, les salariés qui souhaitent participer à une action solidaire pourront bénéficier de deux jours par an rémunérés. Les demandes doivent être adressées au service RH un mois à l'avance.",
+   "prompt": "Combien de temps à l'avance faut-il faire la demande ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Deux jours.",
+     "correct": false,
+     "rationale": "C'est le nombre de jours accordés."
+    },
+    {
+     "label": "B",
+     "text": "Un mois.",
+     "correct": true,
+     "rationale": "« un mois à l'avance »."
+    },
+    {
+     "label": "C",
+     "text": "Un an.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Une semaine.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Ne confondez pas les deux durées du texte."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« Partir travailler au Canada a été la meilleure décision de ma vie. Bien sûr, l'hiver est rude et ma famille me manque. Mais j'ai découvert un rapport au travail plus détendu et des collègues très ouverts. » Yanis, 31 ans.",
+   "prompt": "Comment Yanis juge-t-il son expérience ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Très positivement, malgré quelques difficultés.",
+     "correct": true,
+     "rationale": "« la meilleure décision de ma vie », puis des réserves."
+    },
+    {
+     "label": "B",
+     "text": "Il regrette d'être parti.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "C",
+     "text": "Il veut rentrer rapidement.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Négativement, à cause de l'hiver.",
+     "correct": false,
+     "rationale": "L'hiver est une difficulté, pas son jugement global."
+    }
+   ],
+   "explanation": "« Bien sûr… Mais » : concession avant l'idée principale."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Les ventes de produits reconditionnés ont progressé de 15 % en un an. Smartphones, ordinateurs, électroménager : les consommateurs y voient une manière de faire des économies tout en réduisant leur impact environnemental. Les professionnels du secteur réclament toutefois un label officiel pour garantir la qualité des produits et rassurer les acheteurs encore méfiants.",
+   "prompt": "Que demandent les professionnels du reconditionné ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'interdiction des produits neufs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Un label officiel de qualité.",
+     "correct": true,
+     "rationale": "« réclament toutefois un label officiel »."
+    },
+    {
+     "label": "C",
+     "text": "Une baisse des prix.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Des subventions.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Toutefois » introduit une nuance importante."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "On présente souvent l'expatriation comme une aventure réservée aux jeunes diplômés. C'est oublier les milliers de retraités qui choisissent chaque année de s'installer au Portugal, au Maroc ou en Thaïlande, attirés par le soleil et un coût de la vie plus faible. Ce phénomène mérite davantage d'attention de la part des pouvoirs publics.",
+   "prompt": "Quelle est l'intention de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Attirer l'attention sur l'expatriation des retraités.",
+     "correct": true,
+     "rationale": "« mérite davantage d'attention »."
+    },
+    {
+     "label": "B",
+     "text": "Décourager les retraités de partir.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Critiquer les jeunes diplômés.",
+     "correct": false,
+     "rationale": "Ce n'est pas son propos."
+    },
+    {
+     "label": "D",
+     "text": "Faire la publicité du Portugal.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« C'est oublier » corrige une idée reçue."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Bonjour Léo, suite à notre échange, je te confirme que le projet de nettoyage du littoral est validé. Il reste toutefois un écueil : nous n'avons pas encore trouvé de partenaire pour transporter les déchets collectés. Peux-tu te renseigner auprès de la mairie ? Merci, Sonia.",
+   "prompt": "Que signifie « écueil » dans ce courriel ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une réunion.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "B",
+     "text": "Une difficulté.",
+     "correct": true,
+     "rationale": "Le problème : pas de partenaire pour le transport."
+    },
+    {
+     "label": "C",
+     "text": "Une réussite.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "D",
+     "text": "Un rocher.",
+     "correct": false,
+     "rationale": "C'est le sens propre, pas le sens ici."
+    }
+   ],
+   "explanation": "Au sens figuré, un écueil est un obstacle."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Une enquête menée auprès de 2 000 adolescents révèle que 40 % d'entre eux dorment avec leur téléphone allumé. Les notifications nocturnes réduisent la durée du sommeil profond, essentiel à la mémorisation. Les chercheurs recommandent aux familles d'installer une « station de recharge » commune, hors des chambres.",
+   "prompt": "Quelle solution proposent les chercheurs ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Interdire les téléphones aux adolescents.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Désactiver les notifications le jour.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Acheter des réveils.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Recharger les téléphones hors des chambres.",
+     "correct": true,
+     "rationale": "« une station de recharge commune, hors des chambres »."
+    }
+   ],
+   "explanation": "Repérez le verbe « recommander »."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, à la suite de votre demande de prise en charge des frais de déménagement liés à votre mutation à La Réunion, nous vous informons que celle-ci est acceptée à hauteur de 70 %. Le remboursement interviendra sur présentation des factures originales, au plus tard six mois après votre installation.",
+   "prompt": "Quelle condition doit remplir la salariée pour être remboursée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Présenter les factures originales dans les six mois.",
+     "correct": true,
+     "rationale": "« sur présentation des factures originales, au plus tard six mois après »."
+    },
+    {
+     "label": "B",
+     "text": "Envoyer des copies des factures.",
+     "correct": false,
+     "rationale": "Il faut les originaux."
+    },
+    {
+     "label": "C",
+     "text": "Payer 70 % des frais.",
+     "correct": false,
+     "rationale": "Elle est remboursée de 70 %."
+    },
+    {
+     "label": "D",
+     "text": "Déménager dans les six mois.",
+     "correct": false,
+     "rationale": "Le délai concerne les factures."
+    }
+   ],
+   "explanation": "« Sur présentation de » = à condition de montrer."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "Les plages françaises reçoivent chaque été des millions de visiteurs. Or, le piétinement des dunes accélère leur érosion, si bien que certaines communes ont dû fermer des accès. Autrement dit, la popularité du littoral menace son existence même.",
+   "prompt": "Quelle relation existe entre le piétinement et la fermeture des accès ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une opposition.",
+     "correct": false,
+     "rationale": "Ce n'est pas une opposition."
+    },
+    {
+     "label": "B",
+     "text": "Une relation de cause à conséquence.",
+     "correct": true,
+     "rationale": "« si bien que » introduit la conséquence."
+    },
+    {
+     "label": "C",
+     "text": "Une comparaison.",
+     "correct": false,
+     "rationale": "Ce n'est pas une comparaison."
+    },
+    {
+     "label": "D",
+     "text": "Une condition.",
+     "correct": false,
+     "rationale": "Ce n'est pas une condition."
+    }
+   ],
+   "explanation": "« Si bien que » = de sorte que (conséquence)."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "Le gouvernement veut doubler le nombre de missions de service civique. L'intention est louable, mais encore faudrait-il que ces missions ne remplacent pas de véritables emplois. Dans certaines structures, des jeunes payés 600 euros par mois effectuent des tâches qui relèveraient d'un poste salarié.",
+   "prompt": "Quelle est l'opinion de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il approuve l'idée mais craint des abus.",
+     "correct": true,
+     "rationale": "« louable, mais encore faudrait-il… »."
+    },
+    {
+     "label": "B",
+     "text": "Il pense que les jeunes sont trop payés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Il veut supprimer les postes salariés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Il s'oppose au service civique.",
+     "correct": false,
+     "rationale": "Il juge l'intention louable."
+    }
+   ],
+   "explanation": "« Encore faudrait-il que » exprime une condition, une réserve."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "Le permis vacances-travail permet aux jeunes de 18 à 30 ans (35 ans pour certains pays) de séjourner jusqu'à un an dans un pays partenaire tout en y travaillant pour financer leur voyage. Il ne peut être obtenu qu'une seule fois par pays. Une assurance couvrant toute la durée du séjour est exigée.",
+   "prompt": "Combien de fois peut-on obtenir ce permis pour un même pays ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Autant de fois qu'on veut.",
+     "correct": false,
+     "rationale": "C'est limité."
+    },
+    {
+     "label": "B",
+     "text": "Une fois par an.",
+     "correct": false,
+     "rationale": "C'est une fois au total par pays."
+    },
+    {
+     "label": "C",
+     "text": "Deux fois.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Une seule fois.",
+     "correct": true,
+     "rationale": "« qu'une seule fois par pays »."
+    }
+   ],
+   "explanation": "« Ne… que » = seulement."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« Mon médecin m'a conseillé de dormir huit heures par nuit. J'ai trois enfants de moins de cinq ans. Je lui ai demandé s'il pouvait aussi me prescrire une nounou de nuit. » Camille, 34 ans.",
+   "prompt": "Que sous-entend Camille ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle n'a pas d'enfants.",
+     "correct": false,
+     "rationale": "Elle en a trois."
+    },
+    {
+     "label": "B",
+     "text": "Elle dort huit heures par nuit.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "C",
+     "text": "Son médecin lui a prescrit une nounou.",
+     "correct": false,
+     "rationale": "C'est une plaisanterie."
+    },
+    {
+     "label": "D",
+     "text": "Le conseil du médecin est difficile à suivre pour elle.",
+     "correct": true,
+     "rationale": "Sa réponse ironique montre l'impossibilité."
+    }
+   ],
+   "explanation": "L'ironie sert ici à souligner une contrainte."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Faut-il limiter l'accès aux îles les plus fréquentées ? Les partisans des quotas soulignent que la nature ne peut supporter des milliers de visiteurs par jour. Les commerçants, eux, objectent que le tourisme est leur unique source de revenus et proposent plutôt d'étaler la fréquentation sur l'année.",
+   "prompt": "Que proposent les commerçants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Étaler la fréquentation sur toute l'année.",
+     "correct": true,
+     "rationale": "« proposent plutôt d'étaler la fréquentation »."
+    },
+    {
+     "label": "B",
+     "text": "Augmenter les prix.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Instaurer des quotas stricts.",
+     "correct": false,
+     "rationale": "C'est la proposition des partisans des quotas."
+    },
+    {
+     "label": "D",
+     "text": "Interdire le tourisme.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Objecter » = présenter un argument contraire."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Depuis l'interdiction des sacs plastiques à usage unique, la quantité de plastique retrouvée sur les plages bretonnes a diminué de 30 %. En revanche, les mégots de cigarettes restent le déchet le plus fréquent. Une campagne de sensibilisation sera lancée cet été, avec la distribution de cendriers de poche.",
+   "prompt": "Quel est aujourd'hui le déchet le plus fréquent sur les plages ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les sacs plastiques.",
+     "correct": false,
+     "rationale": "Ils ont diminué."
+    },
+    {
+     "label": "B",
+     "text": "Les filets de pêche.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les mégots de cigarettes.",
+     "correct": true,
+     "rationale": "« les mégots… restent le déchet le plus fréquent »."
+    },
+    {
+     "label": "D",
+     "text": "Les bouteilles en verre.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« En revanche » introduit un contraste."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "thèse",
+   "document": "L'injonction à dormir huit heures relève davantage du mythe que de la science. Les besoins varient considérablement d'un individu à l'autre : certains se portent à merveille avec six heures, d'autres en réclament neuf. Plutôt que de culpabiliser les « petits dormeurs », mieux vaudrait encourager chacun à écouter ses propres signaux de fatigue.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les petits dormeurs sont en mauvaise santé.",
+     "correct": false,
+     "rationale": "Il refuse de les culpabiliser."
+    },
+    {
+     "label": "B",
+     "text": "Il n'existe pas de durée de sommeil idéale valable pour tous.",
+     "correct": true,
+     "rationale": "« Les besoins varient considérablement »."
+    },
+    {
+     "label": "C",
+     "text": "Il faut dormir neuf heures.",
+     "correct": false,
+     "rationale": "C'est un exemple."
+    },
+    {
+     "label": "D",
+     "text": "Tout le monde doit dormir huit heures.",
+     "correct": false,
+     "rationale": "Il conteste cette idée."
+    }
+   ],
+   "explanation": "La thèse s'oppose à une idée reçue (« mythe »)."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "information implicite",
+   "document": "La ville de Marseille vient d'inaugurer son troisième parc marin. Si les plongeurs saluent l'initiative, les pêcheurs de loisir, désormais privés de leurs coins favoris, se montrent plus circonspects. La mairie promet une évaluation au bout de trois ans, sans préciser qui en serait chargé ni selon quels critères.",
+   "prompt": "Que laisse entendre la dernière phrase ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'évaluation annoncée reste floue.",
+     "correct": true,
+     "rationale": "« sans préciser qui… ni selon quels critères »."
+    },
+    {
+     "label": "B",
+     "text": "Le parc sera fermé dans trois ans.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "L'évaluation sera rigoureuse.",
+     "correct": false,
+     "rationale": "Rien ne le garantit."
+    },
+    {
+     "label": "D",
+     "text": "Les pêcheurs ont obtenu satisfaction.",
+     "correct": false,
+     "rationale": "Ils sont circonspects."
+    }
+   ],
+   "explanation": "« Sans préciser » révèle une critique implicite."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "ton",
+   "document": "Réparer plutôt que jeter : voilà un slogan que tout le monde approuve, à condition de ne pas avoir à attendre trois semaines une pièce détachée facturée le prix d'un appareil neuf. Les industriels, qui vantent volontiers leur engagement écologique, se montrent étonnamment discrets sur ce point.",
+   "prompt": "Quel est le ton de l'auteur envers les industriels ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Enthousiaste.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "B",
+     "text": "Ironique.",
+     "correct": true,
+     "rationale": "« étonnamment discrets » souligne une contradiction."
+    },
+    {
+     "label": "C",
+     "text": "Admiratif.",
+     "correct": false,
+     "rationale": "Il les critique."
+    },
+    {
+     "label": "D",
+     "text": "Neutre.",
+     "correct": false,
+     "rationale": "Le ton est critique."
+    }
+   ],
+   "explanation": "« Étonnamment » sert ici l'ironie."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "Les associations caritatives manquent de bénévoles réguliers alors même que les plateformes de mise en relation enregistrent des inscriptions record. Ce paradoxe s'explique par la préférence croissante pour des engagements ponctuels, que les structures traditionnelles, organisées autour de permanences hebdomadaires, peinent à intégrer.",
+   "prompt": "Comment l'article explique-t-il le paradoxe ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les associations refusent les bénévoles.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les permanences sont trop courtes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les plateformes découragent les bénévoles.",
+     "correct": false,
+     "rationale": "Elles enregistrent des inscriptions record."
+    },
+    {
+     "label": "D",
+     "text": "Les bénévoles préfèrent des engagements ponctuels.",
+     "correct": true,
+     "rationale": "« préférence croissante pour des engagements ponctuels »."
+    }
+   ],
+   "explanation": "« Ce paradoxe s'explique par » annonce l'explication."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "reformulation",
+   "document": "Conformément au règlement européen, les fabricants seront tenus de fournir des pièces détachées pendant au moins dix ans après la mise sur le marché du dernier exemplaire d'un modèle, et ce à un prix raisonnable. Tout manquement pourra donner lieu à des sanctions financières.",
+   "prompt": "Quelle reformulation correspond au texte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les fabricants devront proposer des pièces pendant dix ans minimum.",
+     "correct": true,
+     "rationale": "« tenus de fournir… pendant au moins dix ans »."
+    },
+    {
+     "label": "B",
+     "text": "Les appareils devront durer dix ans.",
+     "correct": false,
+     "rationale": "Le texte parle des pièces."
+    },
+    {
+     "label": "C",
+     "text": "Les pièces seront gratuites pendant dix ans.",
+     "correct": false,
+     "rationale": "À un prix raisonnable, pas gratuites."
+    },
+    {
+     "label": "D",
+     "text": "Les sanctions concernent les consommateurs.",
+     "correct": false,
+     "rationale": "Elles concernent les fabricants."
+    }
+   ],
+   "explanation": "« Être tenu de » = être obligé de."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "écrire un message",
+   "instructions": "Vous partez une semaine en vacances au bord de la mer. Vous écrivez un message à votre voisin pour lui demander d'arroser vos plantes et de prendre votre courrier (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Bonjour Marc, je pars à Biarritz du 10 au 17 juillet. Est-ce que tu pourrais arroser mes plantes deux fois pendant la semaine et prendre mon courrier ? Je te laisse la clé dans ta boîte aux lettres. Je te rapporterai une spécialité de là-bas. Merci beaucoup ! Sophie",
+   "tips": "Utilisez le conditionnel « pourrais » pour une demande polie.",
+   "expected_points": [
+    "salutation",
+    "dates",
+    "demandes précises",
+    "organisation (clé)",
+    "remerciement"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "raconter une expérience",
+   "instructions": "Vous avez participé à une action bénévole (nettoyage, collecte, aide aux devoirs…). Vous racontez cette expérience sur le site de l'association (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Dimanche dernier, j'ai participé pour la première fois au nettoyage de la plage du Prado avec une quarantaine de bénévoles. En trois heures, nous avons ramassé plus de 200 kilos de déchets, surtout des mégots et des morceaux de plastique. J'ai été choquée par la quantité, mais l'ambiance était très conviviale. J'ai rencontré des gens de tous âges et j'ai appris beaucoup sur la pollution marine. Je reviendrai sans hésiter le mois prochain !",
+   "tips": "Variez les temps : passé composé pour les actions, imparfait pour l'ambiance.",
+   "expected_points": [
+    "contexte",
+    "déroulement",
+    "chiffres ou détails",
+    "émotions",
+    "intention future"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "argumenter sur un sujet de société",
+   "instructions": "« Les entreprises devraient accorder des jours de congé payés à leurs salariés qui font du bénévolat. » Vous donnez votre avis dans un forum en ligne (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Je suis tout à fait favorable à cette idée. D'abord, le bénévolat profite à toute la société : aide aux personnes isolées, soutien scolaire, protection de l'environnement. Ensuite, les salariés engagés développent des compétences utiles à l'entreprise, comme l'organisation ou le travail en équipe. Certes, les petites entreprises auraient du mal à financer ces congés, mais l'État pourrait en compenser une partie. En somme, il s'agit d'un investissement gagnant pour tous.",
+   "tips": "Utilisez « Certes…, mais » pour intégrer l'objection.",
+   "expected_points": [
+    "position claire",
+    "deux arguments",
+    "concession",
+    "solution",
+    "conclusion"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous pose des questions sur vos habitudes, vos voyages et vos engagements.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Où passez-vous vos vacances ?",
+    "Préférez-vous la mer ou la montagne ?",
+    "Combien d'heures dormez-vous ?",
+    "Avez-vous déjà vécu à l'étranger ?",
+    "Faites-vous du bénévolat ?",
+    "Réparez-vous vos objets ou les remplacez-vous ?"
+   ],
+   "useful_phrases": [
+    "Je passe généralement…",
+    "Je préfère… parce que…",
+    "J'ai vécu… pendant…",
+    "Je fais partie de…",
+    "Quand un objet est cassé, je…"
+   ],
+   "model_answer": "En général, je passe mes vacances au bord de la mer, en Bretagne, parce que j'adore nager. Je dors environ sept heures par nuit, mais moins quand je travaille beaucoup. J'ai vécu un an en Espagne pendant mes études, c'était une expérience formidable. Je ne fais pas de bénévolat régulier, mais je donne des vêtements à une association. Quand un objet est cassé, j'essaie d'abord de le réparer."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Obtenir une solution",
+   "examiner_role": "Employé d'un service après-vente",
+   "scenario": "Votre ordinateur portable, acheté il y a 14 mois, ne s'allume plus. La garantie est d'un an. L'examinateur joue le rôle de l'employé du service après-vente. Expliquez le problème et obtenez une solution satisfaisante.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Bonjour, que puis-je pour vous ?",
+    "Votre garantie est terminée depuis deux mois.",
+    "La réparation coûte 280 euros.",
+    "Je ne peux pas faire d'exception.",
+    "Je peux vous proposer un geste commercial de 10 %.",
+    "Qu'en pensez-vous ?"
+   ],
+   "useful_phrases": [
+    "Je vous explique…",
+    "Je trouve anormal que…",
+    "La loi prévoit…",
+    "Serait-il possible de… ?",
+    "À défaut, je souhaiterais…"
+   ],
+   "model_answer": "Bonjour, mon ordinateur ne s'allume plus alors que je l'ai acheté il y a à peine quatorze mois. Je trouve anormal qu'un appareil de ce prix tombe en panne si vite. Il me semble d'ailleurs que la garantie légale de conformité dure deux ans. 280 euros, c'est presque la moitié du prix d'achat. Serait-il possible de prendre la réparation en charge, ou au moins de m'accorder une réduction de 50 % ?"
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Le bénévolat devrait-il être obligatoire ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion : « Faudrait-il rendre obligatoire quelques heures de bénévolat pour les lycéens ? » Argumentez, donnez des exemples, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Quelle est votre opinion ?",
+    "Quels seraient les avantages ?",
+    "Un engagement obligatoire a-t-il encore du sens ?",
+    "Comment l'organiser ?",
+    "Votre conclusion ?"
+   ],
+   "useful_phrases": [
+    "Selon moi…",
+    "D'un côté… de l'autre…",
+    "On pourrait objecter que…",
+    "Il me paraît essentiel de…",
+    "En définitive…"
+   ],
+   "model_answer": "Selon moi, l'idée est intéressante, mais elle doit être bien pensée. D'un côté, quelques heures de bénévolat permettraient aux lycéens de découvrir des réalités différentes, comme la solitude des personnes âgées ou la précarité. De l'autre, on pourrait objecter qu'un engagement imposé perd une partie de son sens. Il me paraît donc essentiel de laisser aux jeunes le choix de la mission. En définitive, je suis favorable à un bénévolat obligatoire, mais libre dans son contenu."
+  }
+ ]
+}

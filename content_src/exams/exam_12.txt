@@ -1,0 +1,490 @@
+@code EXAM-12
+@title Examen blanc n° 12 – Montagne, écrans et nouveaux modes de travail
+@level B2
+@description Examen complet calibré B1–B2 : stations de ski et climat, jeux vidéo, téléconsultation, coworking, langues précoces.
+
+## CO 1 | A2 | message téléphonique | information précise | H:fr-FR
+DOC: H: Allô Camille ? C'est Thomas. Il n'y a pas assez de neige, les pistes sont fermées. On fait une randonnée en raquettes à la place ? Rappelle-moi avant midi.
+Q: Pourquoi les pistes sont-elles fermées ?
++ Il n'y a pas assez de neige. | « Il n'y a pas assez de neige ».
+- Il y a trop de vent. | Ce n'est pas dit.
+- Il fait trop froid. | Ce n'est pas dit.
+- Il y a une grève. | Ce n'est pas dit.
+EXP: La cause est donnée en premier.
+
+## CO 2 | A2 | annonce publique | information précise | F:fr-FR
+DOC: F: Le cabinet médical sera fermé du 24 au 31 décembre. En cas d'urgence, appelez le 15. Les consultations reprendront le 2 janvier à 8 heures.
+Q: Quand les consultations reprendront-elles ?
++ Le 2 janvier. | « Les consultations reprendront le 2 janvier ».
+- Le 24 décembre. | C'est le début de la fermeture.
+- Le 31 décembre. | C'est la fin de la fermeture.
+- Le 1er janvier. | Ce n'est pas dit.
+EXP: Repérez le verbe « reprendre ».
+
+## CO 3 | A2 | conversation quotidienne | information précise | F:fr-FR, H:fr-FR
+DOC: F: Tu joues encore à ton jeu vidéo ? Il est onze heures ! / H: Oui, j'arrête dans dix minutes, promis. / F: Tu as cours demain à huit heures. / H: Je sais, maman.
+Q: Quand le garçon a-t-il cours ?
++ Demain à huit heures. | « Tu as cours demain à huit heures ».
+- Ce soir à onze heures. | C'est l'heure actuelle.
+- Dans dix minutes. | C'est quand il promet d'arrêter.
+- Demain après-midi. | Ce n'est pas dit.
+EXP: Distinguez les trois indications de temps.
+
+## CO 4 | B1 | conversation quotidienne | intention | H:fr-FR, F:fr-FR
+DOC: H: J'ai mal à la gorge depuis trois jours, mais mon médecin n'a pas de rendez-vous avant la semaine prochaine. / F: Pourquoi tu n'essaies pas la téléconsultation ? Tu vois un médecin par vidéo, souvent dans l'heure. / H: Je n'y avais pas pensé.
+Q: Que suggère la femme ?
++ Consulter un médecin en vidéo. | « Pourquoi tu n'essaies pas la téléconsultation ? ».
+- Attendre la semaine prochaine. | Elle propose autre chose.
+- Aller aux urgences. | Ce n'est pas dit.
+- Aller à la pharmacie. | Ce n'est pas dit.
+EXP: « Pourquoi tu n'essaies pas… ? » formule un conseil.
+
+## CO 5 | B1 | message professionnel | information précise | F:fr-FR
+DOC: F: Bonjour, ici l'espace de coworking La Ruche. Votre abonnement mensuel commence lundi. Votre badge est disponible à l'accueil. Attention, les salles de réunion doivent être réservées sur l'application au moins vingt-quatre heures à l'avance.
+Q: Comment réserver une salle de réunion ?
++ Sur l'application, 24 heures à l'avance. | « réservées sur l'application au moins vingt-quatre heures à l'avance ».
+- À l'accueil, le jour même. | Ce n'est pas dit.
+- Par téléphone. | Ce n'est pas dit.
+- Avec le badge. | Le badge sert à entrer.
+EXP: « Au moins » indique un minimum.
+
+## CO 6 | B1 | information radio | information précise | H:fr-FR
+DOC: H: Faute de neige, la petite station du Col Bleu ne rouvrira pas ses remontées mécaniques cet hiver. La commune veut désormais développer des activités toute l'année : VTT, randonnée et escalade. Les premiers aménagements seront prêts au printemps.
+Q: Que veut faire la commune ?
++ Développer des activités toute l'année. | « développer des activités toute l'année ».
+- Fabriquer de la neige artificielle. | Ce n'est pas dit.
+- Fermer définitivement la station. | Elle change d'activité.
+- Construire de nouvelles remontées. | Ce n'est pas dit.
+EXP: « Désormais » marque un changement de stratégie.
+
+## CO 7 | B1 | interview | opinion | F:fr-FR, H:fr-CA
+DOC: F: Vous êtes développeur de jeux vidéo. Les parents ont-ils raison de s'inquiéter ? / H: En partie. Le problème, ce n'est pas le jeu, c'est l'excès. Un jeu peut développer la logique et la coopération. Il faut simplement fixer des limites claires et jouer parfois avec ses enfants.
+Q: Selon l'homme, quel est le problème ?
++ L'excès de jeu. | « Le problème, ce n'est pas le jeu, c'est l'excès ».
+- Les jeux vidéo eux-mêmes. | Il dit le contraire.
+- La logique. | C'est un bénéfice.
+- Les parents qui jouent. | Il le conseille.
+EXP: « Ce n'est pas… c'est… » oppose deux idées.
+
+## CO 8 | B1 | annonce publique | information précise | H:fr-FR
+DOC: H: L'école maternelle Jules-Verne propose dès la rentrée une initiation à l'anglais, deux fois vingt minutes par semaine, à travers des chansons et des jeux. L'activité est gratuite et ouverte à tous les enfants de moyenne et grande section.
+Q: Comment se fait l'initiation à l'anglais ?
++ Avec des chansons et des jeux. | « à travers des chansons et des jeux ».
+- Avec des livres de grammaire. | Ce n'est pas dit.
+- Avec des cours de deux heures. | Ce sont deux fois vingt minutes.
+- Avec des écrans. | Ce n'est pas dit.
+EXP: « À travers » indique le moyen.
+
+## CO 9 | B1 | situation administrative | information précise | F:fr-FR, H:fr-FR
+DOC: F: Bonjour, ma téléconsultation sera-t-elle remboursée ? / H: Oui, au même taux qu'une consultation classique, si elle est réalisée par votre médecin traitant ou sur son orientation. Sinon, elle ne sera pas remboursée, sauf exceptions. / F: D'accord, merci.
+Q: Dans quel cas la téléconsultation est-elle remboursée ?
++ Si elle passe par le médecin traitant. | « réalisée par votre médecin traitant ou sur son orientation ».
+- Dans tous les cas. | Il y a des conditions.
+- Jamais. | Elle peut être remboursée.
+- Seulement le week-end. | Ce n'est pas dit.
+EXP: « Sinon » introduit le cas contraire.
+
+## CO 10 | B1 | conversation professionnelle | information précise | H:fr-FR, F:fr-FR
+DOC: H: Tu viens au bureau combien de jours par semaine maintenant ? / F: Deux jours. Le reste du temps, je travaille dans un coworking près de chez moi. Je gagne une heure de transport par jour. / H: Et l'entreprise paie ? / F: Oui, la moitié de l'abonnement.
+Q: Combien l'entreprise paie-t-elle ?
++ La moitié de l'abonnement. | « Oui, la moitié de l'abonnement ».
+- Tout l'abonnement. | Seulement la moitié.
+- Rien. | Elle paie la moitié.
+- Les transports. | Ce n'est pas dit.
+EXP: Écoutez la réponse finale.
+
+## CO 11 | B2 | débat | argumentation | F:fr-FR, H:fr-FR
+DOC: F: La neige artificielle permet de sauver les stations et des milliers d'emplois. / H: À court terme, peut-être. Mais elle consomme énormément d'eau et d'énergie, alors que les sécheresses se multiplient. On repousse le problème au lieu d'anticiper la reconversion.
+Q: Quelle critique l'homme adresse-t-il à la neige artificielle ?
++ Elle retarde une adaptation nécessaire. | « On repousse le problème au lieu d'anticiper ».
+- Elle détruit des emplois. | La femme dit qu'elle en sauve.
+- Elle n'est pas assez blanche. | Ce n'est pas dit.
+- Elle coûte trop cher aux skieurs. | Ce n'est pas dit.
+EXP: « Au lieu de » oppose ce qu'on fait et ce qu'on devrait faire.
+
+## CO 12 | B2 | information radio | information globale | H:fr-FR
+DOC: H: Le marché du jeu vidéo pèse désormais plus que le cinéma et la musique réunis. En France, sept personnes sur dix jouent au moins occasionnellement, et l'âge moyen des joueurs dépasse quarante ans. Loin du cliché de l'adolescent isolé, le jeu vidéo est devenu une pratique culturelle de masse.
+Q: Quelle idée principale ressort de ce reportage ?
++ Le jeu vidéo est devenu une pratique culturelle massive et variée. | C'est la conclusion du reportage.
+- Seuls les adolescents jouent. | C'est un cliché contredit.
+- Le cinéma est plus important que le jeu vidéo. | C'est l'inverse.
+- Les joueurs sont isolés. | C'est un cliché.
+EXP: « Loin du cliché » introduit l'idée principale.
+
+## CO 13 | B2 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes médecin en zone rurale. La téléconsultation est-elle une solution aux déserts médicaux ? / H: C'est un outil précieux, mais ce n'est pas une solution miracle. On ne peut pas ausculter un patient par écran. Et beaucoup de personnes âgées n'ont pas de bonne connexion Internet.
+Q: Quelle est l'opinion du médecin ?
++ La téléconsultation est utile mais limitée. | « outil précieux, mais pas une solution miracle ».
+- Elle règle totalement le problème. | Il dit le contraire.
+- Elle est inutile. | Il la juge précieuse.
+- Elle est réservée aux personnes âgées. | Ce n'est pas dit.
+EXP: « Pas une solution miracle » = pas une solution complète.
+
+## CO 14 | B2 | message téléphonique | intention | F:fr-FR
+DOC: F: Bonjour Monsieur Lambert, ici la directrice de l'école. Votre fille a montré beaucoup d'intérêt pour l'atelier d'espagnol. Nous aimerions lui proposer de participer à un échange par visioconférence avec une classe de Séville. Pourriez-vous nous faire savoir si vous êtes d'accord ?
+Q: Pourquoi la directrice appelle-t-elle ?
++ Pour obtenir l'accord du père pour un projet. | « Pourriez-vous nous faire savoir si vous êtes d'accord ? ».
+- Pour signaler un problème de comportement. | L'appel est positif.
+- Pour annuler l'atelier d'espagnol. | Ce n'est pas dit.
+- Pour proposer un voyage à Séville. | C'est un échange par visioconférence.
+EXP: L'objectif réel apparaît dans la dernière phrase.
+
+## CO 15 | B2 | conversation professionnelle | relation logique | H:fr-FR, F:fr-FR
+DOC: H: Pourquoi avoir ouvert un deuxième espace de coworking en banlieue ? / F: Nos clients ne veulent plus traverser la ville tous les jours. Comme beaucoup habitent en périphérie, on s'est rapprochés d'eux. D'ailleurs, le nouvel espace est déjà complet.
+Q: Pourquoi l'entreprise a-t-elle ouvert un espace en banlieue ?
++ Pour se rapprocher de clients vivant en périphérie. | « Comme beaucoup habitent en périphérie, on s'est rapprochés d'eux ».
+- Parce que les loyers sont moins chers. | Ce n'est pas dit.
+- Parce que le premier espace a fermé. | Ce n'est pas dit.
+- Pour accueillir des touristes. | Ce n'est pas dit.
+EXP: « Comme » en début de phrase introduit la cause.
+
+## CO 16 | B2 | interview | information détaillée | H:fr-FR, F:fr-BE
+DOC: H: Vous dirigez une étude sur l'apprentissage précoce des langues. Qu'avez-vous observé ? / F: Les enfants exposés tôt à une deuxième langue ont une meilleure prononciation. En revanche, ils n'apprennent pas forcément plus vite la grammaire que ceux qui commencent à dix ans. L'essentiel, c'est la régularité de l'exposition.
+Q: Quel avantage de l'apprentissage précoce est observé ?
++ Une meilleure prononciation. | « ont une meilleure prononciation ».
+- Une grammaire apprise plus vite. | Ce n'est pas forcément le cas.
+- Un meilleur niveau en mathématiques. | Ce n'est pas dit.
+- Aucun avantage. | La prononciation est meilleure.
+EXP: « En revanche » introduit une limite.
+
+## CO 17 | B2 | annonce publique | information précise | F:fr-FR
+DOC: F: Information aux usagers : en raison du risque d'avalanche, la route du col est fermée jusqu'à nouvel ordre. Les véhicules doivent emprunter la déviation par la vallée, qui rallonge le trajet d'environ quarante minutes. Les équipements spéciaux restent obligatoires.
+Q: Que doivent faire les automobilistes ?
++ Prendre la déviation par la vallée. | « doivent emprunter la déviation par la vallée ».
+- Attendre l'ouverture de la route. | Elle est fermée jusqu'à nouvel ordre.
+- Rouler sans équipement. | Les équipements restent obligatoires.
+- Prendre le train. | Ce n'est pas dit.
+EXP: « Jusqu'à nouvel ordre » = sans date de fin connue.
+
+## CO 18 | B2 | information radio | relation logique | H:fr-FR
+DOC: H: Le nombre d'espaces de coworking a triplé en cinq ans dans les villes moyennes. Cette croissance s'explique par l'essor du télétravail, mais aussi par le besoin de lien social : beaucoup de télétravailleurs se sentaient isolés chez eux. Les communes rurales y voient un moyen d'attirer de nouveaux habitants.
+Q: Selon le reportage, pourquoi les télétravailleurs vont-ils dans ces espaces ?
++ Pour rompre l'isolement. | « besoin de lien social… isolés chez eux ».
+- Parce que c'est gratuit. | Ce n'est pas dit.
+- Parce que leur entreprise l'impose. | Ce n'est pas dit.
+- Pour trouver un emploi. | Ce n'est pas dit.
+EXP: « Mais aussi » ajoute une deuxième cause.
+
+## CO 19 | B2 | débat | argumentation | H:fr-FR, F:fr-FR
+DOC: H: Il faudrait interdire les jeux vidéo aux moins de douze ans. / F: Interdire n'a jamais marché. Les enfants y joueront chez leurs amis. Je préfère qu'on renforce la classification par âge et qu'on aide les parents à utiliser le contrôle parental.
+Q: Que propose la femme ?
++ Mieux informer et outiller les parents. | « renforce la classification… aide les parents ».
+- Interdire les jeux aux moins de douze ans. | C'est la proposition de l'homme.
+- Laisser les enfants jouer sans limite. | Elle propose un contrôle.
+- Supprimer la classification par âge. | Elle veut la renforcer.
+EXP: « Je préfère que » introduit une proposition alternative.
+
+## CO 20 | B2 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous avez quitté Paris pour travailler depuis un village des Alpes. Des regrets ? / H: Aucun, sinon peut-être l'offre culturelle. Mais j'ai gagné en qualité de vie ce que j'ai perdu en sorties. Et grâce à la fibre, je travaille aussi efficacement qu'avant.
+Q: Que regrette un peu l'homme ?
++ L'offre culturelle de Paris. | « sinon peut-être l'offre culturelle ».
+- Son travail. | Il travaille aussi efficacement.
+- La qualité de vie. | Il a gagné en qualité de vie.
+- Internet. | Il a la fibre.
+EXP: « Aucun, sinon… » = aucun, à l'exception de…
+
+## CO 21 | C1 | information radio | information détaillée | F:fr-FR
+DOC: F: Selon un rapport de la Cour des comptes, plus de la moitié des stations de moyenne montagne ne seront plus rentables d'ici 2050 si elles continuent de dépendre du ski. Le rapport recommande de cesser de financer de nouvelles remontées mécaniques avec de l'argent public et d'accompagner plutôt la diversification des activités.
+Q: Que recommande le rapport ?
++ Arrêter de financer de nouvelles remontées avec de l'argent public. | « cesser de financer de nouvelles remontées… ».
+- Construire plus de remontées. | C'est l'inverse.
+- Fermer toutes les stations. | Il parle d'accompagner la diversification.
+- Augmenter le prix des forfaits. | Ce n'est pas dit.
+EXP: « Plutôt » introduit l'alternative recommandée.
+
+## CO 22 | B2 | conversation professionnelle | intention | H:fr-FR, F:fr-FR
+DOC: H: J'ai vu que tu avais posé ta candidature pour le poste de responsable. / F: Oui, mais je ne suis pas sûre d'avoir assez d'expérience. / H: Tu sais, ton projet sur les jeux éducatifs a beaucoup impressionné la direction. Je pense que tu as toutes tes chances.
+Q: Quelle est l'intention de l'homme ?
++ Encourager sa collègue. | « tu as toutes tes chances ».
+- La décourager. | Il fait l'inverse.
+- Lui proposer un autre poste. | Ce n'est pas dit.
+- Critiquer son projet. | Il dit qu'il a impressionné.
+EXP: « Avoir toutes ses chances » = pouvoir réussir.
+
+## CO 23 | C1 | débat | point de vue implicite | F:fr-FR, H:fr-FR
+DOC: F: On présente le coworking comme l'avenir du travail. / H: Pour les cadres du numérique, sans doute. Mais une caissière, un infirmier ou un maçon ne peuvent pas travailler depuis un espace partagé. À force de parler du télétravail, on oublie que la majorité des actifs n'y ont pas accès.
+Q: Que reproche implicitement l'homme au discours sur le coworking ?
++ Il ignore la majorité des travailleurs. | « on oublie que la majorité des actifs n'y ont pas accès ».
+- Il est trop pessimiste. | Ce n'est pas dit.
+- Il concerne surtout les maçons. | C'est l'inverse.
+- Il critique le numérique. | Ce n'est pas dit.
+EXP: « À force de… on oublie » dénonce un angle mort.
+
+## CO 24 | C1 | interview | nuance | H:fr-FR, F:fr-FR
+DOC: H: Les jeux vidéo rendent-ils violents ? / F: Les études les plus sérieuses ne montrent pas de lien direct entre jeux violents et comportements agressifs durables. Cela ne signifie pas pour autant que tous les contenus conviennent à tous les âges. Le débat mérite mieux que des positions caricaturales.
+Q: Quelle est la position de la chercheuse ?
++ Pas de lien direct prouvé, mais des précautions restent utiles. | Elle nuance les deux côtés.
+- Les jeux vidéo rendent violents. | Les études ne le montrent pas.
+- Tous les jeux conviennent aux enfants. | Elle dit le contraire.
+- Il ne faut pas étudier la question. | Ce n'est pas dit.
+EXP: « Cela ne signifie pas pour autant » : nuance une première affirmation.
+
+## CO 25 | C1 | information radio | relation logique | H:fr-FR
+DOC: H: Alors que l'on s'attendait à une explosion de la téléconsultation après la crise sanitaire, son usage s'est stabilisé à environ 5 % des consultations. Les patients semblent attachés à la relation directe avec leur médecin, tandis que les praticiens jugent l'examen physique irremplaçable dans la plupart des cas.
+Q: Comment le reportage explique-t-il la stabilisation de la téléconsultation ?
++ Par l'attachement à la relation directe et à l'examen physique. | Deux explications sont données.
+- Par son coût trop élevé. | Ce n'est pas dit.
+- Par une interdiction légale. | Ce n'est pas dit.
+- Par le manque de médecins. | Ce n'est pas dit.
+EXP: « Tandis que » relie deux explications parallèles.
+
+## CE 1 | A2 | annonce | information précise
+DOC: Station du Mont-Clair – Forfait journée : 38 €. Enfants de moins de 6 ans : gratuit. Location de skis sur place à partir de 15 €. Ouvert tous les jours de 9 h à 16 h 30.
+Q: Combien paie un enfant de 4 ans pour le forfait ?
++ Rien. | « Enfants de moins de 6 ans : gratuit ».
+- 15 €. | C'est la location de skis.
+- 38 €. | C'est le prix adulte.
+- 16 €. | Ce n'est pas dit.
+EXP: Repérez les conditions d'âge.
+
+## CE 2 | A2 | message | information précise
+DOC: Coucou Lucas ! Ce soir, on joue en ligne à 21 h avec Hugo et Sarah. Tu peux te connecter ? Le code de la partie est BLEU42. À ce soir ! Nina
+Q: À quelle heure commence la partie ?
++ À 21 h. | « on joue en ligne à 21 h ».
+- À 20 h. | Ce n'est pas dit.
+- À 22 h. | Ce n'est pas dit.
+- À 21 h 42. | 42 fait partie du code.
+EXP: Ne confondez pas l'heure et le code.
+
+## CE 3 | A2 | affiche | information précise
+DOC: ESPACE DE COWORKING « LE CHALET » – Bureaux partagés, wifi rapide, café à volonté. Journée : 15 €. Mois : 180 €. Ouvert du lundi au vendredi, de 8 h à 20 h.
+Q: Quand l'espace est-il fermé ?
++ Le week-end. | Ouvert du lundi au vendredi.
+- Le lundi. | Il est ouvert.
+- Le matin. | Il ouvre à 8 h.
+- Le vendredi. | Il est ouvert.
+EXP: Déduisez les jours de fermeture.
+
+## CE 4 | B1 | courriel | information précise
+DOC: Bonjour Madame Roux, votre téléconsultation avec le Dr Martin est confirmée pour demain à 10 h 30. Vous recevrez un lien par SMS quinze minutes avant. Merci de préparer votre carte Vitale et la liste de vos médicaments. Cordialement, Le secrétariat.
+Q: Que doit préparer Mme Roux ?
++ Sa carte Vitale et la liste de ses médicaments. | « Merci de préparer votre carte Vitale et la liste de vos médicaments ».
+- Une ordonnance. | Ce n'est pas dit.
+- Le lien de connexion. | Elle le recevra par SMS.
+- Une radiographie. | Ce n'est pas dit.
+EXP: « Merci de » formule une demande polie.
+
+## CE 5 | B1 | article de presse | information globale
+DOC: Dans les Pyrénées, une ancienne station de ski est devenue un centre de découverte de la montagne. Les remontées mécaniques ont été démontées et remplacées par des sentiers pédagogiques. Écoles et familles viennent y observer la faune et la flore toute l'année.
+Q: De quoi parle l'article ?
++ De la transformation d'une station de ski. | C'est le sujet.
+- De l'ouverture d'une nouvelle piste. | Les remontées ont été démontées.
+- D'un accident de ski. | Ce n'est pas dit.
+- D'une école de ski. | Ce n'est pas dit.
+EXP: « Est devenue » indique une transformation.
+
+## CE 6 | B1 | lettre administrative | information précise
+DOC: Madame, Monsieur, nous vous informons que votre enfant a été retenu pour la section bilingue français-allemand du collège. Pour confirmer son inscription, merci de nous retourner le formulaire ci-joint, signé, avant le 15 juin. Sans réponse de votre part, la place sera attribuée à un autre élève.
+Q: Que se passera-t-il sans réponse avant le 15 juin ?
++ La place sera donnée à un autre élève. | « la place sera attribuée à un autre élève ».
+- L'enfant sera inscrit automatiquement. | C'est l'inverse.
+- Les parents recevront un rappel. | Ce n'est pas dit.
+- L'enfant passera un test. | Ce n'est pas dit.
+EXP: « Sans réponse de votre part » = si vous ne répondez pas.
+
+## CE 7 | B1 | publicité | intention
+DOC: Vos enfants passent trop de temps devant les écrans ? Essayez « Famille Zen », l'application qui fixe des limites de temps et propose des activités sans écran : recettes, jeux de société, sorties nature. Premier mois offert !
+Q: À qui s'adresse cette publicité ?
++ Aux parents. | « Vos enfants passent trop de temps… ».
+- Aux enfants. | Elle parle des enfants à quelqu'un d'autre.
+- Aux enseignants. | Ce n'est pas dit.
+- Aux développeurs de jeux. | Ce n'est pas dit.
+EXP: Le possessif « vos enfants » désigne le public visé.
+
+## CE 8 | B1 | message professionnel | information précise
+DOC: Chers collègues, à partir du 1er mars, chaque salarié pourra télétravailler jusqu'à trois jours par semaine. Les jours choisis doivent être validés par votre responsable et restent fixes pendant un trimestre. Le mardi reste un jour de présence obligatoire pour tous.
+Q: Quel jour faut-il venir au bureau ?
++ Le mardi. | « Le mardi reste un jour de présence obligatoire ».
+- Le lundi. | Ce n'est pas dit.
+- Trois jours au choix. | Ce sont les jours de télétravail possibles.
+- Le vendredi. | Ce n'est pas dit.
+EXP: Repérez le mot « obligatoire ».
+
+## CE 9 | B1 | témoignage | opinion
+DOC: « J'ai commencé l'anglais à 35 ans, pour mon travail. Au début, j'avais honte de mon accent. Aujourd'hui, je fais des présentations devant des clients étrangers. Il n'est jamais trop tard pour apprendre une langue. » Malik, 41 ans.
+Q: Quel message Malik veut-il transmettre ?
++ On peut apprendre une langue à tout âge. | « Il n'est jamais trop tard ».
+- Il faut commencer les langues très jeune. | Il dit le contraire.
+- L'accent est très important. | Ce n'est pas son message.
+- Il n'aime pas l'anglais. | Ce n'est pas dit.
+EXP: La dernière phrase résume souvent l'opinion.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: Les stations de ski françaises ont connu une saison contrastée : si les domaines de haute altitude ont affiché complet, ceux situés sous 1 500 mètres ont dû fermer plusieurs semaines faute de neige. Les professionnels appellent à repenser le modèle économique de la montagne, trop dépendant d'une seule activité.
+Q: Que demandent les professionnels ?
++ Repenser un modèle trop dépendant du ski. | « repenser le modèle économique… trop dépendant d'une seule activité ».
+- Construire des stations plus basses. | Ce n'est pas dit.
+- Fermer les stations de haute altitude. | Elles ont affiché complet.
+- Augmenter la neige artificielle. | Ce n'est pas dit.
+EXP: « Si… ceux… » introduit une opposition.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: On accuse volontiers les jeux vidéo de tous les maux : isolement, violence, échec scolaire. Pourtant, des hôpitaux les utilisent pour la rééducation, des enseignants pour motiver leurs élèves, et des chercheurs pour étudier la prise de décision. Il serait temps de porter sur ce média un regard plus juste.
+Q: Quelle est l'intention de l'auteur ?
++ Défendre une vision plus équilibrée des jeux vidéo. | « porter sur ce média un regard plus juste ».
+- Interdire les jeux vidéo. | Il les défend.
+- Critiquer les hôpitaux. | Ce n'est pas dit.
+- Vendre un jeu vidéo. | Ce n'est pas dit.
+EXP: « Pourtant » introduit des contre-exemples.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Bonjour à tous, notre projet d'espace partagé à la campagne a pris de l'ampleur : nous avons déjà trente demandes d'abonnement avant même l'ouverture. Nous allons devoir chercher des locaux plus grands. Bonne journée, Élise.
+Q: Que signifie « a pris de l'ampleur » ?
++ S'est développé. | Trente demandes avant l'ouverture.
+- A échoué. | C'est l'inverse.
+- A été annulé. | Ce n'est pas le cas.
+- A ralenti. | C'est l'inverse.
+EXP: Le contexte (« plus grands ») éclaire le sens.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: Une expérimentation menée dans vingt écoles montre que les élèves initiés à une langue étrangère dès quatre ans ont, à dix ans, une compréhension orale supérieure de 25 % à celle de leurs camarades. L'effet est en revanche nul sur l'écrit. Les chercheurs insistent sur la nécessité de former les enseignants.
+Q: Sur quoi l'apprentissage précoce n'a-t-il aucun effet ?
++ Sur l'écrit. | « L'effet est en revanche nul sur l'écrit ».
+- Sur la compréhension orale. | Elle progresse de 25 %.
+- Sur la formation des enseignants. | Ce n'est pas un effet mesuré.
+- Sur la motivation. | Ce n'est pas dit.
+EXP: « En revanche » signale le contraste.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Monsieur, votre demande de télétravail à l'étranger pour une durée de deux mois a été examinée. Elle est acceptée à condition que vous restiez joignable aux horaires de l'entreprise (heure de Paris) et que vous ne travailliez pas depuis un pays hors de l'Union européenne, pour des raisons fiscales.
+Q: Quelle condition est imposée ?
++ Travailler depuis un pays de l'Union européenne. | « que vous ne travailliez pas depuis un pays hors de l'Union européenne ».
+- Travailler depuis un pays hors de l'UE. | C'est interdit.
+- Choisir ses horaires librement. | Il faut suivre l'heure de Paris.
+- Revenir chaque semaine. | Ce n'est pas dit.
+EXP: Attention à la double négation « ne… pas… hors de ».
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: La téléconsultation facilite l'accès aux soins dans les zones isolées. Encore faut-il disposer d'une connexion de qualité et savoir utiliser les outils numériques, ce qui est loin d'être le cas de tous les patients âgés. Ainsi, l'outil censé réduire les inégalités risque parfois de les renforcer.
+Q: Quel rôle joue « Ainsi » dans le texte ?
++ Il introduit une conclusion. | Il tire la conséquence du raisonnement.
+- Il introduit un exemple. | Ce n'est pas un exemple.
+- Il introduit une opposition. | Ce n'est pas une opposition.
+- Il introduit une cause. | C'est une conclusion.
+EXP: « Ainsi » en tête de phrase conclut souvent un raisonnement.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: Fermer les stations de basse altitude serait une erreur, affirme le maire de Saint-Lary-Bas. Selon lui, la montagne peut vivre autrement grâce aux randonnées, au thermalisme et au tourisme d'été. « Ce n'est pas la fin de la montagne, c'est la fin d'un modèle », résume-t-il.
+Q: Quelle est l'opinion du maire ?
++ La montagne doit changer de modèle, pas disparaître. | « c'est la fin d'un modèle ».
+- Il faut fermer les stations. | Il dit que ce serait une erreur.
+- Le ski doit rester la seule activité. | Il propose d'autres activités.
+- Le tourisme d'été est inutile. | Il le cite comme solution.
+EXP: La citation finale résume la position.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: Le pictogramme PEGI indique l'âge minimum conseillé pour un jeu vidéo : 3, 7, 12, 16 ou 18 ans. Il ne prend pas en compte la difficulté du jeu, mais seulement son contenu (violence, langage, peur). Des descripteurs complémentaires précisent la nature des contenus sensibles.
+Q: Que mesure le pictogramme PEGI ?
++ L'adéquation du contenu à l'âge. | « seulement son contenu ».
+- La difficulté du jeu. | Il ne la prend pas en compte.
+- Le prix du jeu. | Ce n'est pas dit.
+- La qualité du jeu. | Ce n'est pas dit.
+EXP: « Ne… pas…, mais seulement » précise le critère.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « Mon patron dit que le télétravail favorise l'autonomie. Depuis que je travaille chez moi, il m'appelle quatre fois par jour pour savoir ce que je fais. » Romain, 38 ans.
+Q: Que sous-entend Romain ?
++ Son patron ne lui fait pas vraiment confiance. | Les appels contredisent le discours sur l'autonomie.
+- Son patron est très disponible. | Ce n'est pas le sens.
+- Il ne travaille pas chez lui. | Il travaille chez lui.
+- Il aime être appelé souvent. | Ce n'est pas dit.
+EXP: Le décalage entre discours et actes crée l'ironie.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Faut-il enseigner une langue étrangère dès la maternelle ? Ses partisans invoquent la plasticité du cerveau des jeunes enfants. Ses détracteurs rappellent que la maîtrise de la langue maternelle doit rester la priorité et que, sans enseignants formés, l'initiative risque de rester symbolique.
+Q: Quel argument avancent les détracteurs ?
++ Le manque d'enseignants formés. | « sans enseignants formés, l'initiative risque de rester symbolique ».
+- La plasticité du cerveau. | C'est l'argument des partisans.
+- Le coût des livres. | Ce n'est pas dit.
+- Le refus des parents. | Ce n'est pas dit.
+EXP: « Détracteurs » = opposants.
+
+## CE 20 | B2 | article de presse | information détaillée
+DOC: Le gouvernement va financer l'installation de 300 cabines de téléconsultation dans des pharmacies rurales. Équipées d'outils connectés (tensiomètre, thermomètre, otoscope), elles permettront au médecin à distance de réaliser certains examens. Un pharmacien accompagnera chaque patient.
+Q: Qui accompagnera les patients ?
++ Un pharmacien. | « Un pharmacien accompagnera chaque patient ».
+- Un médecin sur place. | Le médecin est à distance.
+- Un infirmier. | Ce n'est pas dit.
+- Personne. | Un pharmacien les accompagne.
+EXP: Lisez la dernière phrase pour les détails pratiques.
+
+## CE 21 | C1 | texte argumentatif | thèse
+DOC: Le coworking est souvent présenté comme le remède à la solitude du télétravailleur. C'est confondre proximité physique et lien social. S'asseoir chaque jour à côté d'inconnus casque sur les oreilles ne crée pas une communauté ; seuls des projets partagés et des rituels collectifs le permettent.
+Q: Quelle est la thèse de l'auteur ?
++ Être à côté des autres ne suffit pas à créer du lien. | « C'est confondre proximité physique et lien social ».
+- Le coworking crée automatiquement une communauté. | Il conteste cette idée.
+- Le télétravail doit être interdit. | Ce n'est pas dit.
+- Les casques devraient être interdits. | C'est un exemple.
+EXP: « C'est confondre » dénonce une erreur de raisonnement.
+
+## CE 22 | C1 | article de presse | information implicite
+DOC: La station de Valfroide a investi huit millions d'euros dans de nouveaux canons à neige. Le maire assure que l'investissement sera amorti en quinze ans. Les climatologues, eux, estiment qu'à cette altitude, l'enneigement naturel aura quasiment disparu dans dix ans.
+Q: Que laisse entendre l'article ?
++ L'investissement risque de ne pas être rentable. | Quinze ans d'amortissement contre dix ans de neige.
+- Les climatologues soutiennent le projet. | Leurs prévisions le contredisent.
+- La neige va augmenter. | C'est l'inverse.
+- Le maire est climatologue. | Ce n'est pas dit.
+EXP: La juxtaposition des chiffres crée une critique implicite.
+
+## CE 23 | C1 | texte argumentatif | ton
+DOC: Voilà donc la solution aux déserts médicaux : un écran dans une pharmacie. Le patient de 85 ans, sans voiture et malentendant, appréciera certainement de décrire ses symptômes à un médecin pixelisé. Il serait peut-être plus utile de former et d'installer de vrais médecins.
+Q: Quel est le ton de l'auteur ?
++ Sarcastique. | « appréciera certainement » exprime le contraire.
+- Enthousiaste. | Il critique la mesure.
+- Neutre. | Le ton est critique.
+- Admiratif. | Ce n'est pas le cas.
+EXP: L'antiphrase est une marque d'ironie.
+
+## CE 24 | C1 | article de presse | relation logique
+DOC: Bien que le jeu vidéo soit désormais reconnu comme une industrie culturelle, il peine à obtenir les mêmes aides publiques que le cinéma. Les studios indépendants, faute de financements, sont nombreux à s'installer au Canada, où les crédits d'impôt sont plus généreux.
+Q: Pourquoi des studios s'installent-ils au Canada ?
++ Parce que les aides fiscales y sont plus importantes. | « où les crédits d'impôt sont plus généreux ».
+- Parce que le jeu vidéo y est interdit. | Ce n'est pas dit.
+- Parce que le cinéma y est moins développé. | Ce n'est pas dit.
+- Parce qu'ils sont reconnus en France. | La reconnaissance ne suffit pas.
+EXP: « Faute de » exprime la cause par manque.
+
+## CE 25 | C1 | document informatif | reformulation
+DOC: Le salarié en télétravail bénéficie des mêmes droits que le salarié qui exécute son travail dans les locaux de l'entreprise, notamment en matière d'accès à la formation, de déroulement de carrière et de respect de sa vie privée. L'employeur est tenu de fixer les plages horaires durant lesquelles il peut le contacter.
+Q: Quelle reformulation correspond au texte ?
++ Le télétravailleur a les mêmes droits et des horaires de contact définis. | Les deux idées du texte.
+- Le télétravailleur a moins de droits. | Il a les mêmes droits.
+- L'employeur peut l'appeler à tout moment. | Des plages horaires doivent être fixées.
+- Le télétravailleur n'a pas accès à la formation. | Il y a accès.
+EXP: « Être tenu de » = avoir l'obligation de.
+
+## EE 1 | A2 | écrire un message
+CONSIGNE: Vous ne pouvez pas aller au cours de ski de votre enfant samedi. Vous écrivez un message au moniteur pour le prévenir et proposer une autre date (30 à 60 mots).
+MODELE: Bonjour Monsieur Blanc, mon fils Théo ne pourra pas venir au cours de ski samedi matin, car nous partons voir sa grand-mère. Est-ce qu'il pourrait rattraper ce cours dimanche ou mercredi prochain ? Merci de me dire ce qui vous convient. Bonne journée, Claire Petit
+POINTS: salutation ; absence et raison ; proposition de date ; demande de réponse ; formule finale
+CONSEILS: « Car » permet de justifier simplement l'absence.
+
+## EE 2 | B1 | donner son avis sur une expérience
+CONSIGNE: Vous avez travaillé une semaine dans un espace de coworking. Vous écrivez un avis sur un site pour décrire votre expérience (40 à 90 mots).
+MODELE: J'ai passé une semaine au Chalet, un espace de coworking près de la gare. Les locaux sont lumineux, le wifi est rapide et le café est excellent. J'ai surtout apprécié l'ambiance : on échange facilement avec les autres travailleurs, et j'ai même trouvé un nouveau client ! Seul petit bémol, l'espace est un peu bruyant à l'heure du déjeuner. Je le recommande à tous les indépendants qui se sentent seuls chez eux.
+POINTS: présentation du lieu ; points positifs ; point négatif ; recommandation
+CONSEILS: « Seul petit bémol » permet d'introduire une critique légère.
+
+## EE 3 | B2 | argumenter sur un sujet de société
+CONSIGNE: « Il faudrait limiter par la loi le temps que les enfants passent devant les jeux vidéo. » Vous réagissez à cette proposition dans le courrier des lecteurs d'un magazine (40 à 90 mots).
+MODELE: Je comprends l'inquiétude des parents, mais une loi me paraît inapplicable. Comment l'État pourrait-il contrôler ce qui se passe dans chaque foyer ? À mon avis, la responsabilité revient d'abord aux familles, qui disposent déjà d'outils de contrôle parental. Par ailleurs, l'école pourrait sensibiliser les enfants aux risques de l'excès. Plutôt que d'interdire, il vaut mieux éduquer : un enfant qui comprend pourquoi il doit limiter son temps de jeu le fera plus volontiers.
+POINTS: concession ; objection argumentée ; alternative ; conclusion
+CONSEILS: Une question rhétorique (« Comment l'État pourrait-il… ? ») renforce l'argument.
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous pose des questions sur votre travail, vos loisirs et les langues que vous parlez.
+RELANCES: Quelles langues parlez-vous ? / À quel âge avez-vous commencé le français ? / Jouez-vous aux jeux vidéo ? / Préférez-vous travailler chez vous ou au bureau ? / Aimez-vous la montagne ? / Avez-vous déjà fait une téléconsultation ?
+PHRASES: Je parle… couramment / J'ai commencé à… ans / Je préfère… parce que… / Ça m'est arrivé de… / Je n'ai jamais…
+MODELE: Je parle arabe, ma langue maternelle, et anglais couramment. J'ai commencé le français à quinze ans, au lycée. Je ne joue pas beaucoup aux jeux vidéo, sauf parfois avec mes neveux. Je préfère travailler au bureau, parce que j'aime voir mes collègues. J'adore la montagne en été pour la randonnée. J'ai déjà fait une téléconsultation pour une angine, c'était pratique.
+
+## EO 2 | B2 | Convaincre un interlocuteur | Responsable des ressources humaines
+SCENARIO: Vous souhaitez télétravailler trois jours par semaine. L'examinateur joue le rôle de la responsable des ressources humaines, plutôt réticente. Présentez votre demande et convainquez-la.
+RELANCES: Bonjour, je vous écoute. / Pourquoi trois jours ? / Votre équipe a besoin de vous. / Comment pourrons-nous suivre votre travail ? / Les autres salariés vont demander la même chose. / Que proposez-vous ?
+PHRASES: Je souhaiterais vous proposer… / Cela me permettrait de… / Je m'engage à… / Nous pourrions faire un essai de… / Si cela ne convient pas, nous…
+MODELE: Bonjour, je souhaiterais télétravailler trois jours par semaine. J'habite à une heure et demie du bureau : cela me permettrait de gagner trois heures par jour et d'être plus concentré. Je m'engage à rester joignable aux horaires habituels et à venir chaque mardi et jeudi pour les réunions d'équipe. Nous pourrions faire un essai de trois mois avec des objectifs précis. Si les résultats ne sont pas satisfaisants, je reviendrai au rythme actuel.
+
+## EO 3 | B2 | La montagne doit-elle renoncer au ski ? | Examinateur
+SCENARIO: Donnez votre opinion : « Face au réchauffement climatique, les stations de ski doivent-elles se réinventer ? » Argumentez, donnez des exemples, nuancez et concluez.
+RELANCES: Quelle est votre position ? / Quelles conséquences économiques ? / Que penser de la neige artificielle ? / Quelles activités alternatives ? / Votre conclusion ?
+PHRASES: Il me semble indispensable de… / Certes… néanmoins… / Prenons l'exemple de… / À long terme… / Pour conclure…
+MODELE: Il me semble indispensable que les stations se réinventent. Certes, le ski fait vivre des milliers de familles et on ne peut pas l'abandonner du jour au lendemain. Néanmoins, la neige artificielle consomme beaucoup d'eau et ne règle pas le problème à long terme. Prenons l'exemple de certaines stations des Alpes qui développent déjà le VTT, la randonnée ou le bien-être. Pour conclure, je pense qu'il faut accompagner une transition progressive, avec l'aide de l'État.
