@@ -1,0 +1,1975 @@
+{
+ "code": "EXAM-14",
+ "title": "Examen blanc n° 14 – Partage, musique et temps de travail",
+ "level": "B2",
+ "description": "Examen complet calibré B1–B2 : économie collaborative, musique en streaming, nature en ville, semaine de quatre jours, orientation scolaire.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "H: Bonjour, c'est Antoine, j'ai loué votre perceuse sur l'application. Je peux venir la chercher ce soir vers 19 heures ? Je vous la rends samedi matin.",
+   "prompt": "Quand Antoine rendra-t-il la perceuse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Samedi matin.",
+     "correct": true,
+     "rationale": "« Je vous la rends samedi matin »."
+    },
+    {
+     "label": "B",
+     "text": "Vers 19 heures.",
+     "correct": false,
+     "rationale": "C'est l'heure de retrait."
+    },
+    {
+     "label": "C",
+     "text": "Dimanche.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Ce soir.",
+     "correct": false,
+     "rationale": "C'est quand il vient la chercher."
+    }
+   ],
+   "explanation": "Distinguez le retrait et le retour.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Ce soir, concert gratuit de jazz sur la place du marché à 20 heures. En cas de pluie, le concert aura lieu dans la salle des fêtes.",
+   "prompt": "Où aura lieu le concert s'il pleut ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Au théâtre.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Sur la place du marché.",
+     "correct": false,
+     "rationale": "C'est s'il fait beau."
+    },
+    {
+     "label": "C",
+     "text": "Il sera annulé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Dans la salle des fêtes.",
+     "correct": true,
+     "rationale": "« En cas de pluie, … dans la salle des fêtes »."
+    }
+   ],
+   "explanation": "« En cas de » introduit une hypothèse.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "F: Tu as vu ? Il y a des ruches sur le toit de la mairie ! / H: Oui, la ville produit son propre miel. Il est vendu à l'office de tourisme. / F: Super, j'en achèterai un pot.",
+   "prompt": "Où peut-on acheter le miel ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À la mairie.",
+     "correct": false,
+     "rationale": "Les ruches sont sur le toit de la mairie."
+    },
+    {
+     "label": "B",
+     "text": "Au marché.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Au supermarché.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "À l'office de tourisme.",
+     "correct": true,
+     "rationale": "« Il est vendu à l'office de tourisme »."
+    }
+   ],
+   "explanation": "Distinguez le lieu de production et le lieu de vente.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "H: Je ne sais pas quoi choisir après le bac : droit ou informatique. / F: Tu devrais aller aux journées portes ouvertes des deux formations. Tu pourras parler avec des étudiants et voir ce qui te plaît vraiment.",
+   "prompt": "Que conseille la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Choisir le droit.",
+     "correct": false,
+     "rationale": "Elle ne choisit pas pour lui."
+    },
+    {
+     "label": "B",
+     "text": "Arrêter ses études.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Choisir l'informatique.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Visiter les deux formations.",
+     "correct": true,
+     "rationale": "« aller aux journées portes ouvertes des deux formations »."
+    }
+   ],
+   "explanation": "« Tu devrais » introduit un conseil.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "F: Bonjour à tous, c'est Nadia des ressources humaines. Comme annoncé, nous testons la semaine de quatre jours à partir de janvier, pendant six mois. Chaque salarié choisira son jour de repos, le lundi ou le vendredi. Merci de nous indiquer votre choix avant le 15 décembre.",
+   "prompt": "Quels jours de repos peut-on choisir ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le lundi ou le vendredi.",
+     "correct": true,
+     "rationale": "« le lundi ou le vendredi »."
+    },
+    {
+     "label": "B",
+     "text": "N'importe quel jour.",
+     "correct": false,
+     "rationale": "Le choix est limité."
+    },
+    {
+     "label": "C",
+     "text": "Le samedi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le mercredi.",
+     "correct": false,
+     "rationale": "Ce n'est pas proposé."
+    }
+   ],
+   "explanation": "Repérez la liste des choix possibles.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information précise",
+   "document": "H: Bonne nouvelle pour les jardiniers : la ville met gratuitement à disposition quarante parcelles de jardin partagé dans le parc des Lilas. Les habitants intéressés doivent s'inscrire en mairie avant la fin du mois. Priorité sera donnée aux familles vivant en appartement.",
+   "prompt": "Qui sera prioritaire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les premiers inscrits.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les retraités.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les jardiniers professionnels.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les familles qui vivent en appartement.",
+     "correct": true,
+     "rationale": "« Priorité sera donnée aux familles vivant en appartement »."
+    }
+   ],
+   "explanation": "« Priorité sera donnée à » désigne un public prioritaire.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous êtes musicien. Que pensez-vous du streaming ? / H: C'est formidable pour se faire connaître, mes chansons sont écoutées dans le monde entier. Mais financièrement, c'est très peu : je gagne moins d'un centime par écoute. Je vis surtout grâce aux concerts.",
+   "prompt": "Comment le musicien gagne-t-il surtout sa vie ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Grâce aux concerts.",
+     "correct": true,
+     "rationale": "« Je vis surtout grâce aux concerts »."
+    },
+    {
+     "label": "B",
+     "text": "Grâce au streaming.",
+     "correct": false,
+     "rationale": "Cela rapporte très peu."
+    },
+    {
+     "label": "C",
+     "text": "Grâce à la vente de disques.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Grâce aux cours de musique.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Mais financièrement » introduit une limite.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Le lycée Victor-Hugo organise un salon de l'orientation le samedi 3 février, de 9 h à 13 h. Une trentaine d'établissements d'enseignement supérieur seront présents. Les parents sont les bienvenus. Pensez à préparer vos questions à l'avance.",
+   "prompt": "Combien d'établissements seront présents ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Trois.",
+     "correct": false,
+     "rationale": "C'est la date."
+    },
+    {
+     "label": "B",
+     "text": "Neuf.",
+     "correct": false,
+     "rationale": "C'est l'heure de début."
+    },
+    {
+     "label": "C",
+     "text": "Treize.",
+     "correct": false,
+     "rationale": "C'est l'heure de fin."
+    },
+    {
+     "label": "D",
+     "text": "Une trentaine.",
+     "correct": true,
+     "rationale": "« Une trentaine d'établissements »."
+    }
+   ],
+   "explanation": "« Une trentaine » = environ trente.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "situation administrative",
+   "skill": "information précise",
+   "document": "H: Bonjour, je loue mon appartement sur une plateforme quand je pars en vacances. Je dois le déclarer ? / F: Oui. À Paris, vous devez enregistrer votre logement à la mairie et vous ne pouvez pas le louer plus de 120 jours par an s'il s'agit de votre résidence principale.",
+   "prompt": "Combien de jours par an peut-on louer sa résidence principale ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Sans limite.",
+     "correct": false,
+     "rationale": "Il y a une limite."
+    },
+    {
+     "label": "B",
+     "text": "12 jours.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "120 jours maximum.",
+     "correct": true,
+     "rationale": "« pas plus de 120 jours par an »."
+    },
+    {
+     "label": "D",
+     "text": "Uniquement l'été.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Ne… pas plus de » fixe un maximum.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "conversation professionnelle",
+   "skill": "information précise",
+   "document": "F: Avec la semaine de quatre jours, tu travailles plus longtemps chaque jour ? / H: Oui, de 8 h 30 à 18 h 30, au lieu de 17 h 30. Mais j'ai mes vendredis libres. Je fais du bénévolat et je vois plus mes enfants.",
+   "prompt": "Jusqu'à quelle heure l'homme travaille-t-il maintenant ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "17 h 30.",
+     "correct": false,
+     "rationale": "C'était l'ancien horaire."
+    },
+    {
+     "label": "B",
+     "text": "8 h 30.",
+     "correct": false,
+     "rationale": "C'est l'heure de début."
+    },
+    {
+     "label": "C",
+     "text": "18 h 30.",
+     "correct": true,
+     "rationale": "« de 8 h 30 à 18 h 30 »."
+    },
+    {
+     "label": "D",
+     "text": "19 heures.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Au lieu de » indique l'ancienne situation.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "H: Les plateformes de location entre particuliers font monter les loyers dans les centres-villes. / F: C'est vrai dans les villes très touristiques. Mais pour beaucoup de familles modestes, louer son logement quelques semaines par an permet de boucler le budget. Il faut réguler, pas interdire.",
+   "prompt": "Quelle est la position de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faut interdire les plateformes.",
+     "correct": false,
+     "rationale": "Elle refuse l'interdiction."
+    },
+    {
+     "label": "B",
+     "text": "Les plateformes n'ont aucun effet.",
+     "correct": false,
+     "rationale": "Elle reconnaît un effet."
+    },
+    {
+     "label": "C",
+     "text": "Les loyers doivent augmenter.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Il faut encadrer les plateformes sans les interdire.",
+     "correct": true,
+     "rationale": "« Il faut réguler, pas interdire »."
+    }
+   ],
+   "explanation": "La dernière phrase résume la position.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "F: Les ventes de disques vinyles ont dépassé celles des CD pour la première fois depuis les années 1980. Ce retour s'explique par un attachement à l'objet, à la pochette, au rituel d'écoute. Paradoxalement, la plupart des acheteurs écoutent aussi leur musique en streaming.",
+   "prompt": "Quelle est l'idée principale ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le streaming disparaît.",
+     "correct": false,
+     "rationale": "Les acheteurs l'utilisent aussi."
+    },
+    {
+     "label": "B",
+     "text": "Le vinyle connaît un retour grâce à l'attachement à l'objet.",
+     "correct": true,
+     "rationale": "C'est le constat et l'explication."
+    },
+    {
+     "label": "C",
+     "text": "Les CD se vendent plus que les vinyles.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "Les jeunes n'écoutent plus de musique.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Paradoxalement » introduit une contradiction apparente.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Vous êtes conseillère d'orientation. Les jeunes choisissent-ils trop tôt ? / F: Le système leur demande de faire des choix très jeunes, à quinze ou seize ans, souvent sans bien connaître les métiers. Je pense qu'il faudrait multiplier les stages d'observation et accepter davantage les réorientations.",
+   "prompt": "Que propose la conseillère ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Supprimer l'orientation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Choisir encore plus tôt.",
+     "correct": false,
+     "rationale": "Elle trouve qu'ils choisissent trop tôt."
+    },
+    {
+     "label": "C",
+     "text": "Plus de stages et plus de réorientations.",
+     "correct": true,
+     "rationale": "« multiplier les stages… accepter davantage les réorientations »."
+    },
+    {
+     "label": "D",
+     "text": "Interdire les réorientations.",
+     "correct": false,
+     "rationale": "Elle veut les accepter davantage."
+    }
+   ],
+   "explanation": "« Je pense qu'il faudrait » introduit une proposition.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "message téléphonique",
+   "skill": "intention",
+   "document": "F: Bonjour Monsieur Petit, ici l'association Ruches en Ville. Nous avons bien reçu votre demande pour installer une ruche sur votre balcon. Malheureusement, la réglementation impose une distance d'au moins vingt mètres avec les voisins. Nous vous proposons plutôt de parrainer une ruche dans notre rucher collectif.",
+   "prompt": "Que propose l'association ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Installer la ruche sur le balcon.",
+     "correct": false,
+     "rationale": "C'est impossible."
+    },
+    {
+     "label": "B",
+     "text": "Parrainer une ruche dans un rucher collectif.",
+     "correct": true,
+     "rationale": "« parrainer une ruche dans notre rucher collectif »."
+    },
+    {
+     "label": "C",
+     "text": "Déménager.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Acheter du miel.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Plutôt » introduit une alternative.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "relation logique",
+   "document": "H: Depuis qu'on est passés à quatre jours, l'absentéisme a baissé de 30 %. / F: Et la productivité ? / H: Elle est restée stable. Les salariés sont plus reposés, donc plus concentrés. En revanche, l'organisation des réunions est devenue plus compliquée.",
+   "prompt": "Pourquoi les salariés sont-ils plus concentrés ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce qu'il y a moins de réunions.",
+     "correct": false,
+     "rationale": "Les réunions sont plus compliquées à organiser."
+    },
+    {
+     "label": "B",
+     "text": "Parce qu'ils sont plus reposés.",
+     "correct": true,
+     "rationale": "« plus reposés, donc plus concentrés »."
+    },
+    {
+     "label": "C",
+     "text": "Parce qu'ils sont mieux payés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce que la productivité a augmenté.",
+     "correct": false,
+     "rationale": "Elle est stable."
+    }
+   ],
+   "explanation": "« Donc » introduit la conséquence.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "F: Votre application permet d'emprunter des objets entre voisins. Combien d'utilisateurs ? / H: Environ 200 000 au Québec. La perceuse reste l'objet le plus prêté. En moyenne, une perceuse est utilisée treize minutes dans toute sa vie. Il est absurde que chaque foyer en possède une.",
+   "prompt": "Quel chiffre l'homme donne-t-il pour la perceuse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "200 000 perceuses sont prêtées.",
+     "correct": false,
+     "rationale": "C'est le nombre d'utilisateurs."
+    },
+    {
+     "label": "B",
+     "text": "Elle sert en moyenne treize minutes dans sa vie.",
+     "correct": true,
+     "rationale": "« utilisée treize minutes dans toute sa vie »."
+    },
+    {
+     "label": "C",
+     "text": "Elle est prêtée treize fois par an.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Elle coûte treize dollars.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Associez chaque chiffre à ce qu'il mesure.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-CA"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: La fête de la musique aura lieu le 21 juin. Les musiciens amateurs souhaitant jouer dans l'espace public doivent déclarer leur emplacement en mairie au moins dix jours avant. L'usage d'amplificateurs est interdit après 23 heures dans les zones résidentielles.",
+   "prompt": "Que doivent faire les musiciens amateurs ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Jouer uniquement en salle.",
+     "correct": false,
+     "rationale": "Ils jouent dans l'espace public."
+    },
+    {
+     "label": "B",
+     "text": "Jouer sans amplificateur toute la soirée.",
+     "correct": false,
+     "rationale": "L'interdiction commence à 23 h."
+    },
+    {
+     "label": "C",
+     "text": "Payer une autorisation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Déclarer leur emplacement en mairie dix jours avant.",
+     "correct": true,
+     "rationale": "« doivent déclarer leur emplacement… au moins dix jours avant »."
+    }
+   ],
+   "explanation": "« Au moins » fixe un minimum.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "F: Les villes multiplient les toitures végétalisées. Ces jardins sur les toits rafraîchissent les bâtiments en été, absorbent l'eau de pluie et accueillent insectes et oiseaux. Leur coût reste toutefois élevé, ce qui freine leur développement dans les immeubles anciens, dont la structure doit souvent être renforcée.",
+   "prompt": "Qu'est-ce qui freine le développement des toits végétalisés dans les immeubles anciens ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le manque d'insectes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Le refus des habitants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "La chaleur.",
+     "correct": false,
+     "rationale": "Les toits rafraîchissent."
+    },
+    {
+     "label": "D",
+     "text": "Leur coût, notamment pour renforcer la structure.",
+     "correct": true,
+     "rationale": "« coût… structure doit souvent être renforcée »."
+    }
+   ],
+   "explanation": "« Ce qui freine » introduit une conséquence négative.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "F: La semaine de quatre jours devrait être généralisée. / H: Pour les bureaux, pourquoi pas. Mais dans un hôpital ou un supermarché ouvert six jours sur sept, il faudrait embaucher beaucoup plus. Qui financerait ? / F: Une partie pourrait venir des économies réalisées sur les arrêts maladie.",
+   "prompt": "Quel argument la femme oppose-t-elle à l'objection du coût ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il n'y aurait aucun coût.",
+     "correct": false,
+     "rationale": "Elle parle d'« une partie »."
+    },
+    {
+     "label": "B",
+     "text": "Les économies sur les arrêts maladie.",
+     "correct": true,
+     "rationale": "« Une partie pourrait venir des économies réalisées sur les arrêts maladie »."
+    },
+    {
+     "label": "C",
+     "text": "Les hôpitaux pourraient fermer.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les salariés paieraient eux-mêmes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Répondre à une objection est une compétence clé du débat.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Vous avez changé de voie à trente ans pour devenir ébéniste. Des regrets ? / F: Aucun. J'ai fait des études de commerce parce que c'était « sérieux ». Mais je m'ennuyais. Aujourd'hui, je gagne moins, mais je me lève le matin avec plaisir. Je dirais aux jeunes : écoutez-vous.",
+   "prompt": "Quel conseil la femme donne-t-elle aux jeunes ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ne jamais changer de voie.",
+     "correct": false,
+     "rationale": "Elle a changé."
+    },
+    {
+     "label": "B",
+     "text": "Faire des études de commerce.",
+     "correct": false,
+     "rationale": "Elle s'y ennuyait."
+    },
+    {
+     "label": "C",
+     "text": "Choisir le métier le mieux payé.",
+     "correct": false,
+     "rationale": "Elle gagne moins mais est heureuse."
+    },
+    {
+     "label": "D",
+     "text": "Suivre leurs propres envies.",
+     "correct": true,
+     "rationale": "« écoutez-vous »."
+    }
+   ],
+   "explanation": "L'impératif final formule le conseil.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-BE"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "H: Une étude britannique menée dans soixante entreprises ayant testé la semaine de quatre jours révèle que 90 % d'entre elles ont choisi de la conserver. Le chiffre d'affaires est resté stable, voire a légèrement augmenté, tandis que les démissions ont chuté de moitié. Les auteurs soulignent toutefois que l'échantillon était composé d'entreprises volontaires.",
+   "prompt": "Quelle limite de l'étude les auteurs soulignent-ils ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Peu d'entreprises ont conservé le système.",
+     "correct": false,
+     "rationale": "90 % l'ont gardé."
+    },
+    {
+     "label": "B",
+     "text": "Les entreprises étudiées étaient volontaires.",
+     "correct": true,
+     "rationale": "« l'échantillon était composé d'entreprises volontaires »."
+    },
+    {
+     "label": "C",
+     "text": "Le chiffre d'affaires a baissé.",
+     "correct": false,
+     "rationale": "Il est resté stable."
+    },
+    {
+     "label": "D",
+     "text": "L'étude a duré trop peu de temps.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Un échantillon de volontaires peut biaiser les résultats.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "F: J'ai une proposition pour la fête de l'entreprise : au lieu d'un traiteur, on pourrait organiser un repas partagé où chacun apporte un plat. / H: C'est sympathique, mais certains vont trouver ça contraignant. / F: Alors, on peut faire moitié-moitié : le traiteur pour le plat principal, et les desserts faits maison.",
+   "prompt": "Que fait la femme dans sa dernière réplique ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle propose un compromis.",
+     "correct": true,
+     "rationale": "« moitié-moitié »."
+    },
+    {
+     "label": "B",
+     "text": "Elle annule la fête.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Elle abandonne son idée.",
+     "correct": false,
+     "rationale": "Elle l'adapte."
+    },
+    {
+     "label": "D",
+     "text": "Elle critique son collègue.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Moitié-moitié » = partager entre deux solutions.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "point de vue implicite",
+   "document": "H: L'économie du partage, c'est l'avenir : on mutualise au lieu de posséder. / F: À l'origine, oui. Mais regardez ce que sont devenues certaines plateformes : des multinationales qui prélèvent des commissions de 20 % et ne paient presque pas d'impôts en France. Le « partage » a bon dos.",
+   "prompt": "Que suggère la femme avec « Le partage a bon dos » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le mot « partage » cache une logique commerciale.",
+     "correct": true,
+     "rationale": "Elle dénonce une contradiction."
+    },
+    {
+     "label": "B",
+     "text": "Il faut posséder davantage.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les plateformes paient beaucoup d'impôts.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "Le partage est une bonne chose sans réserve.",
+     "correct": false,
+     "rationale": "Elle critique."
+    }
+   ],
+   "explanation": "« Avoir bon dos » = servir de prétexte.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "interview",
+   "skill": "nuance",
+   "document": "F: Les ruches en ville sont-elles bonnes pour la biodiversité ? / H: Pas forcément. Les abeilles domestiques entrent en concurrence avec les abeilles sauvages pour les fleurs. Multiplier les ruches sans planter davantage de fleurs peut donc nuire aux pollinisateurs sauvages. L'intention est bonne, la méthode est discutable.",
+   "prompt": "Quelle est la position de l'expert ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les ruches sauvent toujours la biodiversité.",
+     "correct": false,
+     "rationale": "Il dit « Pas forcément »."
+    },
+    {
+     "label": "B",
+     "text": "Les ruches peuvent nuire si on ne plante pas plus de fleurs.",
+     "correct": true,
+     "rationale": "Il nuance l'idée reçue."
+    },
+    {
+     "label": "C",
+     "text": "Les abeilles sauvages n'existent pas en ville.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Il faut interdire les abeilles.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« L'intention est bonne, la méthode est discutable » : jugement nuancé.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "F: Si les revenus du streaming musical ont permis à l'industrie de retrouver la croissance, leur répartition reste très inégale. Les plateformes reversent l'essentiel aux maisons de disques, qui ne redistribuent qu'une faible part aux artistes. Dès lors, seuls les musiciens cumulant des millions d'écoutes peuvent espérer en vivre.",
+   "prompt": "Que signifie « Dès lors » dans ce contexte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Par conséquent.",
+     "correct": true,
+     "rationale": "Il introduit la conséquence de la répartition inégale."
+    },
+    {
+     "label": "B",
+     "text": "Cependant.",
+     "correct": false,
+     "rationale": "Ce n'est pas une opposition."
+    },
+    {
+     "label": "C",
+     "text": "Depuis ce moment.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens ici."
+    },
+    {
+     "label": "D",
+     "text": "Par exemple.",
+     "correct": false,
+     "rationale": "Ce n'est pas un exemple."
+    }
+   ],
+   "explanation": "« Dès lors » peut exprimer la conséquence.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "À PRÊTER – Tondeuse à gazon électrique, échelle de 3 mètres, appareil à raclette. Gratuit entre voisins ! Contactez Paul, appartement 12, ou par l'application « VoisinsSolidaires ».",
+   "prompt": "Combien coûte l'emprunt des objets ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Rien.",
+     "correct": true,
+     "rationale": "« Gratuit entre voisins ! »."
+    },
+    {
+     "label": "B",
+     "text": "12 euros.",
+     "correct": false,
+     "rationale": "12 est le numéro de l'appartement."
+    },
+    {
+     "label": "C",
+     "text": "Ce n'est pas précisé.",
+     "correct": false,
+     "rationale": "C'est gratuit."
+    },
+    {
+     "label": "D",
+     "text": "3 euros.",
+     "correct": false,
+     "rationale": "3 mètres est la taille de l'échelle."
+    }
+   ],
+   "explanation": "Ne confondez pas les chiffres."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Salut Emma ! J'ai deux places pour le concert de samedi, mais Julien est malade. Tu veux venir avec moi ? Le concert commence à 20 h 30. On peut dîner avant ? Bises, Chloé",
+   "prompt": "Pourquoi Chloé propose-t-elle la place à Emma ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que Julien est malade.",
+     "correct": true,
+     "rationale": "« mais Julien est malade »."
+    },
+    {
+     "label": "B",
+     "text": "Parce que c'est l'anniversaire d'Emma.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Parce qu'elle a gagné les places.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce qu'Emma adore ce groupe.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Mais » introduit le problème."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "affiche",
+   "skill": "information précise",
+   "document": "JARDIN PARTAGÉ DES LILAS – Venez cultiver vos légumes avec nous ! Inscription : 10 € par an. Outils et graines fournis. Ateliers jardinage le mercredi après-midi pour les enfants.",
+   "prompt": "Que fournit le jardin partagé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les repas.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "La terre à emporter.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les légumes.",
+     "correct": false,
+     "rationale": "Il faut les cultiver."
+    },
+    {
+     "label": "D",
+     "text": "Les outils et les graines.",
+     "correct": true,
+     "rationale": "« Outils et graines fournis »."
+    }
+   ],
+   "explanation": "« Fourni » = donné, mis à disposition."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "courriel",
+   "skill": "information précise",
+   "document": "Bonjour Hugo, suite à ton entretien avec la conseillère d'orientation, voici les dates des journées portes ouvertes : IUT informatique le 2 février, faculté de droit le 9 février. N'oublie pas de t'inscrire sur Parcoursup avant le 14 mars. Bon courage ! Mme Leblanc, professeure principale.",
+   "prompt": "Quelle est la date limite d'inscription sur Parcoursup ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le 2 février.",
+     "correct": false,
+     "rationale": "C'est la journée de l'IUT."
+    },
+    {
+     "label": "B",
+     "text": "Le 9 février.",
+     "correct": false,
+     "rationale": "C'est la journée de la faculté de droit."
+    },
+    {
+     "label": "C",
+     "text": "Le 14 mars.",
+     "correct": true,
+     "rationale": "« avant le 14 mars »."
+    },
+    {
+     "label": "D",
+     "text": "Ce n'est pas dit.",
+     "correct": false,
+     "rationale": "La date est indiquée."
+    }
+   ],
+   "explanation": "Associez chaque date à son événement."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "À Nantes, une « bibliothèque d'objets » permet d'emprunter des outils, des appareils de cuisine ou du matériel de camping, comme on emprunterait un livre. L'abonnement coûte 20 euros par an. En deux ans, plus de 3 000 habitants s'y sont inscrits.",
+   "prompt": "Quel est le principe de cette bibliothèque ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Emprunter uniquement des livres.",
+     "correct": false,
+     "rationale": "Ce sont des objets."
+    },
+    {
+     "label": "B",
+     "text": "Emprunter des objets comme des livres.",
+     "correct": true,
+     "rationale": "« comme on emprunterait un livre »."
+    },
+    {
+     "label": "C",
+     "text": "Acheter des objets d'occasion.",
+     "correct": false,
+     "rationale": "On les emprunte."
+    },
+    {
+     "label": "D",
+     "text": "Réparer des objets.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La comparaison éclaire le concept."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, Monsieur, nous vous informons que la location de votre logement en meublé de tourisme nécessite désormais un numéro d'enregistrement. Ce numéro doit figurer sur chaque annonce en ligne. Les propriétaires qui ne respectent pas cette obligation s'exposent à une amende pouvant aller jusqu'à 5 000 euros.",
+   "prompt": "Où doit figurer le numéro d'enregistrement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Sur la facture d'électricité.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Sur le contrat de travail.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Sur chaque annonce en ligne.",
+     "correct": true,
+     "rationale": "« Ce numéro doit figurer sur chaque annonce en ligne »."
+    },
+    {
+     "label": "D",
+     "text": "Sur la porte du logement.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Figurer » = apparaître."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "publicité",
+   "skill": "intention",
+   "document": "Fatigué des publicités entre deux chansons ? Passez à MusiPlus Premium : écoute sans interruption, téléchargement hors ligne et qualité audio supérieure. Seulement 10,99 € par mois. Essai gratuit d'un mois, sans engagement.",
+   "prompt": "Quel avantage est mis en avant ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un prix de 1 € par mois.",
+     "correct": false,
+     "rationale": "C'est 10,99 €."
+    },
+    {
+     "label": "B",
+     "text": "Les concerts gratuits.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Un engagement d'un an.",
+     "correct": false,
+     "rationale": "C'est sans engagement."
+    },
+    {
+     "label": "D",
+     "text": "L'écoute sans publicité.",
+     "correct": true,
+     "rationale": "« écoute sans interruption »."
+    }
+   ],
+   "explanation": "La question d'accroche révèle l'argument principal."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "Chers collègues, la semaine de quatre jours sera évaluée à la fin du mois de juin. Un questionnaire anonyme vous sera envoyé le 1er juin. Vos réponses nous permettront de décider si le dispositif est maintenu. Merci d'y répondre avant le 15 juin.",
+   "prompt": "À quoi servira le questionnaire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À décider si le dispositif continue.",
+     "correct": true,
+     "rationale": "« nous permettront de décider si le dispositif est maintenu »."
+    },
+    {
+     "label": "B",
+     "text": "À recruter du personnel.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "À évaluer les salariés.",
+     "correct": false,
+     "rationale": "Il évalue le dispositif."
+    },
+    {
+     "label": "D",
+     "text": "À choisir le jour de repos.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Permettre de » indique l'objectif."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« Avec la semaine de quatre jours, j'ai enfin le temps de m'occuper de moi. Le vendredi, je fais du sport et je vois mes amis. Le seul inconvénient, ce sont les journées plus longues : le jeudi soir, je suis épuisée. » Sarah, comptable.",
+   "prompt": "Quel inconvénient Sarah mentionne-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle voit moins ses amis.",
+     "correct": false,
+     "rationale": "Elle les voit le vendredi."
+    },
+    {
+     "label": "B",
+     "text": "La fatigue liée aux journées plus longues.",
+     "correct": true,
+     "rationale": "« je suis épuisée »."
+    },
+    {
+     "label": "C",
+     "text": "Elle gagne moins.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Elle ne fait plus de sport.",
+     "correct": false,
+     "rationale": "Elle en fait le vendredi."
+    }
+   ],
+   "explanation": "« Le seul inconvénient » annonce la critique."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Les jeunes Français sont de plus en plus nombreux à se réorienter après leur première année d'études supérieures : près d'un sur quatre change de filière. Loin d'être un échec, cette réorientation est souvent le signe d'un choix plus mûri. Les universités adaptent d'ailleurs leurs dispositifs pour faciliter ces passerelles.",
+   "prompt": "Comment l'article présente-t-il la réorientation ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Comme un échec.",
+     "correct": false,
+     "rationale": "« Loin d'être un échec »."
+    },
+    {
+     "label": "B",
+     "text": "Comme un phénomène rare.",
+     "correct": false,
+     "rationale": "Un étudiant sur quatre."
+    },
+    {
+     "label": "C",
+     "text": "Comme une interdiction.",
+     "correct": false,
+     "rationale": "Les universités la facilitent."
+    },
+    {
+     "label": "D",
+     "text": "Comme le signe d'un choix plus réfléchi.",
+     "correct": true,
+     "rationale": "« le signe d'un choix plus mûri »."
+    }
+   ],
+   "explanation": "« Loin d'être » rejette une interprétation."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "Chaque foyer français possède en moyenne une centaine d'objets qu'il n'utilise presque jamais. Plutôt que d'acheter une ponceuse pour une seule utilisation, pourquoi ne pas l'emprunter à un voisin ? Le partage d'objets est une manière simple de faire des économies, de réduire les déchets et de recréer du lien dans les quartiers.",
+   "prompt": "Quelle est l'intention de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Vendre des ponceuses.",
+     "correct": false,
+     "rationale": "Il propose de les emprunter."
+    },
+    {
+     "label": "B",
+     "text": "Expliquer comment fabriquer des objets.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Critiquer les voisins.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Encourager le partage d'objets entre voisins.",
+     "correct": true,
+     "rationale": "Il en présente les avantages."
+    }
+   ],
+   "explanation": "La question rhétorique sert à convaincre."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Bonjour à tous, le projet de ruches sur le toit du siège a reçu le feu vert de la direction. Les premières colonies d'abeilles seront installées en avril. Les salariés intéressés pourront participer à la récolte du miel en septembre. Cordialement, Le comité RSE.",
+   "prompt": "Que signifie « a reçu le feu vert » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "A été autorisé.",
+     "correct": true,
+     "rationale": "Le projet va être réalisé."
+    },
+    {
+     "label": "B",
+     "text": "A été refusé.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "A été critiqué.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "D",
+     "text": "A été reporté.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    }
+   ],
+   "explanation": "« Donner le feu vert » = autoriser."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "En France, les artistes touchent en moyenne entre 0,002 et 0,004 euro par écoute en streaming. Pour gagner l'équivalent d'un salaire minimum mensuel, un musicien devrait donc cumuler environ 400 000 écoutes par mois. Une taxe sur les plateformes, destinée à financer la création musicale, est entrée en vigueur cette année.",
+   "prompt": "À quoi sert la nouvelle taxe ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À augmenter le prix des abonnements.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "À financer la création musicale.",
+     "correct": true,
+     "rationale": "« destinée à financer la création musicale »."
+    },
+    {
+     "label": "C",
+     "text": "À réduire le nombre de plateformes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "À payer directement chaque écoute.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Destiné à » exprime le but."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, votre demande de parcelle au jardin partagé des Lilas a été acceptée. Vous vous engagez à entretenir régulièrement votre parcelle, à ne pas utiliser de pesticides et à participer à deux journées collectives par an. Le non-respect de ces règles pourra entraîner le retrait de la parcelle.",
+   "prompt": "Laquelle de ces obligations est mentionnée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Payer 100 euros par an.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Venir tous les jours.",
+     "correct": false,
+     "rationale": "Il faut entretenir « régulièrement »."
+    },
+    {
+     "label": "C",
+     "text": "Vendre ses légumes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Ne pas utiliser de pesticides.",
+     "correct": true,
+     "rationale": "C'est une des règles."
+    }
+   ],
+   "explanation": "Repérez les engagements énumérés."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "La semaine de quatre jours séduit les salariés. Cependant, elle ne convient pas à tous les métiers : un service d'urgences ne peut pas fermer un jour par semaine. Par conséquent, chaque secteur devra inventer sa propre organisation du temps de travail.",
+   "prompt": "Quel est le rôle de « Par conséquent » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Introduire un exemple.",
+     "correct": false,
+     "rationale": "L'exemple est celui des urgences."
+    },
+    {
+     "label": "B",
+     "text": "Introduire une opposition.",
+     "correct": false,
+     "rationale": "C'est le rôle de « Cependant »."
+    },
+    {
+     "label": "C",
+     "text": "Introduire une conclusion logique.",
+     "correct": true,
+     "rationale": "Il découle de l'objection précédente."
+    },
+    {
+     "label": "D",
+     "text": "Introduire une cause.",
+     "correct": false,
+     "rationale": "Il introduit une conséquence."
+    }
+   ],
+   "explanation": "Distinguez « cependant » (opposition) et « par conséquent » (conséquence)."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "Certains critiquent les plateformes de location entre particuliers. Pour la chroniqueuse de notre rubrique économie, ce serait oublier qu'elles ont permis à des milliers de familles de voyager moins cher et à des propriétaires modestes de compléter leurs revenus. « Le problème n'est pas l'outil, mais l'absence de règles », estime-t-elle.",
+   "prompt": "Selon la chroniqueuse, quel est le problème ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les propriétaires modestes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les plateformes elles-mêmes.",
+     "correct": false,
+     "rationale": "« Le problème n'est pas l'outil »."
+    },
+    {
+     "label": "C",
+     "text": "Le manque de règles.",
+     "correct": true,
+     "rationale": "« mais l'absence de règles »."
+    },
+    {
+     "label": "D",
+     "text": "Les familles qui voyagent.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Ce n'est pas…, mais… » oppose deux idées."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "Parcoursup est la plateforme nationale d'admission dans l'enseignement supérieur. Les candidats peuvent formuler jusqu'à dix vœux, sans les classer. Ils reçoivent ensuite des propositions d'admission et doivent répondre dans les délais indiqués, faute de quoi la proposition est perdue.",
+   "prompt": "Que se passe-t-il si un candidat ne répond pas dans les délais ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il est admis automatiquement.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "B",
+     "text": "Il doit classer ses vœux.",
+     "correct": false,
+     "rationale": "Les vœux ne sont pas classés."
+    },
+    {
+     "label": "C",
+     "text": "Il perd la proposition.",
+     "correct": true,
+     "rationale": "« faute de quoi la proposition est perdue »."
+    },
+    {
+     "label": "D",
+     "text": "Il peut formuler un onzième vœu.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Faute de quoi » = sinon."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« J'ai prêté ma tondeuse à mon voisin au printemps. Il me l'a rendue en septembre, avec un grand sourire et la lame cassée. Je crois que je vais réfléchir avant de prêter mon taille-haie. » Gérard, 62 ans.",
+   "prompt": "Que sous-entend Gérard ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il veut prêter son taille-haie.",
+     "correct": false,
+     "rationale": "Il hésite."
+    },
+    {
+     "label": "B",
+     "text": "Il n'a pas de tondeuse.",
+     "correct": false,
+     "rationale": "Il en a une."
+    },
+    {
+     "label": "C",
+     "text": "Son voisin est très soigneux.",
+     "correct": false,
+     "rationale": "La lame est cassée."
+    },
+    {
+     "label": "D",
+     "text": "Il hésite désormais à prêter ses outils.",
+     "correct": true,
+     "rationale": "« je vais réfléchir avant de prêter »."
+    }
+   ],
+   "explanation": "L'ironie de « avec un grand sourire » souligne l'agacement."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Faut-il installer des ruches dans toutes les écoles ? Les partisans y voient un formidable outil pédagogique pour sensibiliser les enfants à la biodiversité. Les sceptiques mettent en avant le risque de piqûres et d'allergies, et rappellent que l'entretien d'une ruche exige des compétences que peu d'enseignants possèdent.",
+   "prompt": "Quel argument avancent les sceptiques ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le prix du miel.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Le manque d'abeilles.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "L'intérêt pédagogique.",
+     "correct": false,
+     "rationale": "C'est l'argument des partisans."
+    },
+    {
+     "label": "D",
+     "text": "Le risque pour la santé des enfants et le manque de compétences.",
+     "correct": true,
+     "rationale": "Piqûres, allergies, compétences."
+    }
+   ],
+   "explanation": "« Mettre en avant » = souligner un argument."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "La Belgique a adopté une loi permettant aux salariés de travailler quatre jours par semaine sans réduction de leur temps de travail total : ils peuvent concentrer leurs 38 heures hebdomadaires sur quatre jours. L'employeur peut refuser, mais il doit justifier son refus par écrit.",
+   "prompt": "Que doit faire l'employeur qui refuse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Accepter dans tous les cas.",
+     "correct": false,
+     "rationale": "Il peut refuser."
+    },
+    {
+     "label": "B",
+     "text": "Payer une amende.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Réduire le temps de travail.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Justifier son refus par écrit.",
+     "correct": true,
+     "rationale": "« il doit justifier son refus par écrit »."
+    }
+   ],
+   "explanation": "« Sans réduction du temps total » : on concentre les heures."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "thèse",
+   "document": "On demande à des adolescents de quinze ans de choisir une voie qui déterminera leur avenir professionnel, alors même que la plupart des métiers qu'ils exerceront n'existent peut-être pas encore. Plutôt que de les sommer de choisir, l'école devrait leur apprendre à apprendre et à changer de cap sans honte.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'orientation doit être supprimée.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les adolescents doivent choisir plus tôt.",
+     "correct": false,
+     "rationale": "Il critique les choix précoces."
+    },
+    {
+     "label": "C",
+     "text": "Les métiers ne changeront pas.",
+     "correct": false,
+     "rationale": "Il dit le contraire."
+    },
+    {
+     "label": "D",
+     "text": "L'école devrait préparer à l'adaptabilité plutôt qu'à un choix précoce.",
+     "correct": true,
+     "rationale": "« apprendre à apprendre et à changer de cap »."
+    }
+   ],
+   "explanation": "« Plutôt que de… devrait » oppose la situation actuelle et la proposition."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "information implicite",
+   "document": "La plateforme de location de courte durée a annoncé un « partenariat historique » avec la ville pour « lutter contre la crise du logement ». L'accord prévoit que la plateforme rappellera à ses hôtes les règles en vigueur. Aucune sanction n'est prévue en cas de non-respect.",
+   "prompt": "Que laisse entendre l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La ville a interdit la plateforme.",
+     "correct": false,
+     "rationale": "C'est un partenariat."
+    },
+    {
+     "label": "B",
+     "text": "L'accord va résoudre la crise du logement.",
+     "correct": false,
+     "rationale": "L'auteur en doute."
+    },
+    {
+     "label": "C",
+     "text": "La plateforme sera lourdement sanctionnée.",
+     "correct": false,
+     "rationale": "Aucune sanction n'est prévue."
+    },
+    {
+     "label": "D",
+     "text": "L'accord risque d'être peu efficace.",
+     "correct": true,
+     "rationale": "Il n'y a aucune sanction."
+    }
+   ],
+   "explanation": "Les guillemets mettent à distance les mots de la plateforme."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "ton",
+   "document": "Il paraît que la semaine de quatre jours va ruiner l'économie. On nous avait déjà annoncé la même catastrophe lors de la création des congés payés en 1936, puis lors du passage aux 35 heures. Étrangement, le pays n'a toujours pas sombré.",
+   "prompt": "Quel est le ton de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Admiratif.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "B",
+     "text": "Alarmiste.",
+     "correct": false,
+     "rationale": "Il se moque des alarmistes."
+    },
+    {
+     "label": "C",
+     "text": "Indifférent.",
+     "correct": false,
+     "rationale": "Il prend position."
+    },
+    {
+     "label": "D",
+     "text": "Ironique.",
+     "correct": true,
+     "rationale": "« Étrangement » souligne l'absurdité des prédictions."
+    }
+   ],
+   "explanation": "« Il paraît que » prend ses distances avec une opinion."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "Bien que les jardins partagés produisent peu de nourriture à l'échelle d'une ville, leurs bénéfices dépassent largement la question alimentaire. Ils créent du lien entre voisins qui ne se seraient jamais rencontrés, offrent aux enfants un contact avec la nature et participent à rafraîchir les quartiers lors des épisodes de canicule.",
+   "prompt": "Quelle relation logique introduit « Bien que » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une cause.",
+     "correct": false,
+     "rationale": "Ce n'est pas une cause."
+    },
+    {
+     "label": "B",
+     "text": "Une concession.",
+     "correct": true,
+     "rationale": "On reconnaît une faiblesse avant d'affirmer l'essentiel."
+    },
+    {
+     "label": "C",
+     "text": "Une conséquence.",
+     "correct": false,
+     "rationale": "Ce n'est pas une conséquence."
+    },
+    {
+     "label": "D",
+     "text": "Un but.",
+     "correct": false,
+     "rationale": "Ce n'est pas un but."
+    }
+   ],
+   "explanation": "« Bien que » + subjonctif exprime la concession."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "reformulation",
+   "document": "Le contrat de location entre particuliers via une plateforme n'exonère pas le loueur de ses obligations fiscales. Les revenus tirés de ces locations doivent être déclarés dès le premier euro, la plateforme transmettant elle-même chaque année à l'administration le montant des sommes perçues par ses utilisateurs.",
+   "prompt": "Quelle reformulation correspond au texte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le contrat dispense de déclarer ses revenus.",
+     "correct": false,
+     "rationale": "« n'exonère pas »."
+    },
+    {
+     "label": "B",
+     "text": "Les revenus doivent être déclarés et l'administration en est informée par la plateforme.",
+     "correct": true,
+     "rationale": "Les deux idées du texte."
+    },
+    {
+     "label": "C",
+     "text": "La plateforme paie les impôts à la place du loueur.",
+     "correct": false,
+     "rationale": "Elle transmet seulement les montants."
+    },
+    {
+     "label": "D",
+     "text": "Les petits revenus n'ont pas à être déclarés.",
+     "correct": false,
+     "rationale": "« dès le premier euro »."
+    }
+   ],
+   "explanation": "« Exonérer » = dispenser d'une obligation."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "écrire une annonce",
+   "instructions": "Vous voulez prêter ou échanger un objet que vous n'utilisez plus. Vous écrivez une annonce pour le panneau de votre immeuble (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Bonjour à tous ! Je prête gratuitement mon appareil à raclette (pour huit personnes) et ma machine à pain. Ils sont en très bon état. Je les prête pour une semaine maximum. En échange, j'aimerais emprunter une perceuse de temps en temps ! Contactez-moi : Léa, appartement 5, ou au 06 22 33 44 55.",
+   "tips": "Une annonce doit être claire, précise et aimable.",
+   "expected_points": [
+    "objets proposés",
+    "état",
+    "conditions",
+    "échange",
+    "contact"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "raconter une expérience",
+   "instructions": "Vous avez assisté à un concert ou à un festival de musique. Vous racontez cette soirée sur votre blog (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Samedi soir, je suis allée au festival des Nuits du Sud avec deux amies. La programmation était variée : rock, musique africaine et électro. Le meilleur moment a été le concert d'une chanteuse malienne que je ne connaissais pas : sa voix était extraordinaire et tout le public dansait. Seul regret : les boissons étaient très chères. Je suis rentrée à deux heures du matin, fatiguée mais ravie. Je reviendrai l'année prochaine, c'est sûr !",
+   "tips": "Utilisez des adjectifs pour transmettre vos émotions.",
+   "expected_points": [
+    "contexte",
+    "description",
+    "moment fort",
+    "critique",
+    "impression finale"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "argumenter sur un sujet de société",
+   "instructions": "« La semaine de quatre jours devrait devenir la norme pour tous les salariés. » Vous donnez votre avis dans un forum en ligne (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Je trouve l'idée séduisante, mais sa généralisation me paraît difficile. D'un côté, les expériences menées montrent que les salariés sont plus reposés, moins souvent absents et tout aussi productifs. De l'autre, certains secteurs, comme la santé ou le commerce, ne peuvent pas fermer un jour de plus sans embaucher massivement. Il serait donc plus réaliste de laisser chaque entreprise l'expérimenter selon ses contraintes. En somme, oui à la semaine de quatre jours, mais pas imposée partout.",
+   "tips": "« D'un côté… de l'autre » permet d'équilibrer l'argumentation.",
+   "expected_points": [
+    "position nuancée",
+    "avantages",
+    "limites",
+    "proposition",
+    "conclusion"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous pose des questions sur vos études, vos goûts musicaux et votre rapport au partage.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Qu'avez-vous étudié ?",
+    "Comment avez-vous choisi votre formation ?",
+    "Quel genre de musique écoutez-vous ?",
+    "Allez-vous souvent au concert ?",
+    "Empruntez-vous des objets à vos voisins ?",
+    "Aimeriez-vous travailler quatre jours par semaine ?"
+   ],
+   "useful_phrases": [
+    "J'ai étudié…",
+    "J'ai choisi… parce que…",
+    "J'écoute surtout…",
+    "Il m'arrive de…",
+    "J'aimerais bien…"
+   ],
+   "model_answer": "J'ai étudié la gestion à l'université. J'ai choisi cette formation parce que je voulais travailler dans le commerce international. J'écoute surtout de la musique pop et du raï. Je vais au concert deux ou trois fois par an. Il m'arrive d'emprunter des outils à mon voisin, et je lui prête ma voiture parfois. J'aimerais bien travailler quatre jours par semaine pour avoir plus de temps avec ma famille."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Négocier une organisation",
+   "examiner_role": "Responsable d'équipe",
+   "scenario": "Votre entreprise propose la semaine de quatre jours. Vous voulez le mercredi libre pour vous occuper de vos enfants, mais votre responsable préfère que tout le monde prenne le vendredi. L'examinateur joue le rôle du responsable. Négociez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Bonjour, vous vouliez me voir ?",
+    "Nous avons choisi le vendredi pour toute l'équipe.",
+    "Le mercredi, nous avons la réunion hebdomadaire.",
+    "Si je vous l'accorde, les autres vont demander pareil.",
+    "Comment ferez-vous pour les urgences ?",
+    "Que proposez-vous ?"
+   ],
+   "useful_phrases": [
+    "Je comprends la contrainte, mais…",
+    "Serait-il envisageable de… ?",
+    "Je pourrais m'engager à…",
+    "Pour la réunion, nous pourrions…",
+    "Faisons un essai pendant…"
+   ],
+   "model_answer": "Je comprends que le vendredi soit plus simple pour l'équipe, mais pour moi, le mercredi est essentiel : mes enfants n'ont pas école ce jour-là. Serait-il envisageable de déplacer la réunion hebdomadaire au mardi ? En cas d'urgence, je m'engage à rester joignable par téléphone. Et si d'autres collègues ont des contraintes similaires, nous pourrions organiser des roulements. Faisons un essai pendant trois mois et faisons le bilan ensemble."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "L'économie du partage : progrès ou illusion ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion : « L'économie du partage (location entre particuliers, covoiturage, prêt d'objets) est-elle un vrai progrès ? » Argumentez, donnez des exemples, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Quelle est votre opinion ?",
+    "Quels avantages économiques et écologiques ?",
+    "Quels effets négatifs ?",
+    "Faut-il réguler les plateformes ?",
+    "Votre conclusion ?"
+   ],
+   "useful_phrases": [
+    "À mes yeux…",
+    "Prenons l'exemple de…",
+    "Il ne faut cependant pas négliger…",
+    "Il serait souhaitable que…",
+    "Tout bien considéré…"
+   ],
+   "model_answer": "À mes yeux, l'économie du partage représente un progrès, mais à certaines conditions. Prenons l'exemple du covoiturage : il permet de voyager moins cher et de réduire la pollution. De même, emprunter une perceuse plutôt que l'acheter évite le gaspillage. Il ne faut cependant pas négliger les effets négatifs, comme la hausse des loyers liée aux locations touristiques. Il serait souhaitable que les plateformes soient mieux encadrées. Tout bien considéré, le partage est utile s'il reste au service des citoyens."
+  }
+ ]
+}

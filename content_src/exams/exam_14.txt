@@ -1,0 +1,490 @@
+@code EXAM-14
+@title Examen blanc n° 14 – Partage, musique et temps de travail
+@level B2
+@description Examen complet calibré B1–B2 : économie collaborative, musique en streaming, nature en ville, semaine de quatre jours, orientation scolaire.
+
+## CO 1 | A2 | message téléphonique | information précise | H:fr-FR
+DOC: H: Bonjour, c'est Antoine, j'ai loué votre perceuse sur l'application. Je peux venir la chercher ce soir vers 19 heures ? Je vous la rends samedi matin.
+Q: Quand Antoine rendra-t-il la perceuse ?
++ Samedi matin. | « Je vous la rends samedi matin ».
+- Ce soir. | C'est quand il vient la chercher.
+- Vers 19 heures. | C'est l'heure de retrait.
+- Dimanche. | Ce n'est pas dit.
+EXP: Distinguez le retrait et le retour.
+
+## CO 2 | A2 | annonce publique | information précise | F:fr-FR
+DOC: F: Ce soir, concert gratuit de jazz sur la place du marché à 20 heures. En cas de pluie, le concert aura lieu dans la salle des fêtes.
+Q: Où aura lieu le concert s'il pleut ?
++ Dans la salle des fêtes. | « En cas de pluie, … dans la salle des fêtes ».
+- Sur la place du marché. | C'est s'il fait beau.
+- Il sera annulé. | Ce n'est pas dit.
+- Au théâtre. | Ce n'est pas dit.
+EXP: « En cas de » introduit une hypothèse.
+
+## CO 3 | A2 | conversation quotidienne | information précise | F:fr-FR, H:fr-FR
+DOC: F: Tu as vu ? Il y a des ruches sur le toit de la mairie ! / H: Oui, la ville produit son propre miel. Il est vendu à l'office de tourisme. / F: Super, j'en achèterai un pot.
+Q: Où peut-on acheter le miel ?
++ À l'office de tourisme. | « Il est vendu à l'office de tourisme ».
+- À la mairie. | Les ruches sont sur le toit de la mairie.
+- Au marché. | Ce n'est pas dit.
+- Au supermarché. | Ce n'est pas dit.
+EXP: Distinguez le lieu de production et le lieu de vente.
+
+## CO 4 | B1 | conversation quotidienne | intention | H:fr-FR, F:fr-FR
+DOC: H: Je ne sais pas quoi choisir après le bac : droit ou informatique. / F: Tu devrais aller aux journées portes ouvertes des deux formations. Tu pourras parler avec des étudiants et voir ce qui te plaît vraiment.
+Q: Que conseille la femme ?
++ Visiter les deux formations. | « aller aux journées portes ouvertes des deux formations ».
+- Choisir le droit. | Elle ne choisit pas pour lui.
+- Choisir l'informatique. | Ce n'est pas dit.
+- Arrêter ses études. | Ce n'est pas dit.
+EXP: « Tu devrais » introduit un conseil.
+
+## CO 5 | B1 | message professionnel | information précise | F:fr-FR
+DOC: F: Bonjour à tous, c'est Nadia des ressources humaines. Comme annoncé, nous testons la semaine de quatre jours à partir de janvier, pendant six mois. Chaque salarié choisira son jour de repos, le lundi ou le vendredi. Merci de nous indiquer votre choix avant le 15 décembre.
+Q: Quels jours de repos peut-on choisir ?
++ Le lundi ou le vendredi. | « le lundi ou le vendredi ».
+- N'importe quel jour. | Le choix est limité.
+- Le mercredi. | Ce n'est pas proposé.
+- Le samedi. | Ce n'est pas dit.
+EXP: Repérez la liste des choix possibles.
+
+## CO 6 | B1 | information radio | information précise | H:fr-FR
+DOC: H: Bonne nouvelle pour les jardiniers : la ville met gratuitement à disposition quarante parcelles de jardin partagé dans le parc des Lilas. Les habitants intéressés doivent s'inscrire en mairie avant la fin du mois. Priorité sera donnée aux familles vivant en appartement.
+Q: Qui sera prioritaire ?
++ Les familles qui vivent en appartement. | « Priorité sera donnée aux familles vivant en appartement ».
+- Les retraités. | Ce n'est pas dit.
+- Les premiers inscrits. | Ce n'est pas dit.
+- Les jardiniers professionnels. | Ce n'est pas dit.
+EXP: « Priorité sera donnée à » désigne un public prioritaire.
+
+## CO 7 | B1 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes musicien. Que pensez-vous du streaming ? / H: C'est formidable pour se faire connaître, mes chansons sont écoutées dans le monde entier. Mais financièrement, c'est très peu : je gagne moins d'un centime par écoute. Je vis surtout grâce aux concerts.
+Q: Comment le musicien gagne-t-il surtout sa vie ?
++ Grâce aux concerts. | « Je vis surtout grâce aux concerts ».
+- Grâce au streaming. | Cela rapporte très peu.
+- Grâce à la vente de disques. | Ce n'est pas dit.
+- Grâce aux cours de musique. | Ce n'est pas dit.
+EXP: « Mais financièrement » introduit une limite.
+
+## CO 8 | B1 | annonce publique | information précise | F:fr-FR
+DOC: F: Le lycée Victor-Hugo organise un salon de l'orientation le samedi 3 février, de 9 h à 13 h. Une trentaine d'établissements d'enseignement supérieur seront présents. Les parents sont les bienvenus. Pensez à préparer vos questions à l'avance.
+Q: Combien d'établissements seront présents ?
++ Une trentaine. | « Une trentaine d'établissements ».
+- Trois. | C'est la date.
+- Treize. | C'est l'heure de fin.
+- Neuf. | C'est l'heure de début.
+EXP: « Une trentaine » = environ trente.
+
+## CO 9 | B1 | situation administrative | information précise | H:fr-FR, F:fr-FR
+DOC: H: Bonjour, je loue mon appartement sur une plateforme quand je pars en vacances. Je dois le déclarer ? / F: Oui. À Paris, vous devez enregistrer votre logement à la mairie et vous ne pouvez pas le louer plus de 120 jours par an s'il s'agit de votre résidence principale.
+Q: Combien de jours par an peut-on louer sa résidence principale ?
++ 120 jours maximum. | « pas plus de 120 jours par an ».
+- Sans limite. | Il y a une limite.
+- 12 jours. | Ce n'est pas dit.
+- Uniquement l'été. | Ce n'est pas dit.
+EXP: « Ne… pas plus de » fixe un maximum.
+
+## CO 10 | B1 | conversation professionnelle | information précise | F:fr-FR, H:fr-FR
+DOC: F: Avec la semaine de quatre jours, tu travailles plus longtemps chaque jour ? / H: Oui, de 8 h 30 à 18 h 30, au lieu de 17 h 30. Mais j'ai mes vendredis libres. Je fais du bénévolat et je vois plus mes enfants.
+Q: Jusqu'à quelle heure l'homme travaille-t-il maintenant ?
++ 18 h 30. | « de 8 h 30 à 18 h 30 ».
+- 17 h 30. | C'était l'ancien horaire.
+- 8 h 30. | C'est l'heure de début.
+- 19 heures. | Ce n'est pas dit.
+EXP: « Au lieu de » indique l'ancienne situation.
+
+## CO 11 | B2 | débat | argumentation | H:fr-FR, F:fr-FR
+DOC: H: Les plateformes de location entre particuliers font monter les loyers dans les centres-villes. / F: C'est vrai dans les villes très touristiques. Mais pour beaucoup de familles modestes, louer son logement quelques semaines par an permet de boucler le budget. Il faut réguler, pas interdire.
+Q: Quelle est la position de la femme ?
++ Il faut encadrer les plateformes sans les interdire. | « Il faut réguler, pas interdire ».
+- Il faut interdire les plateformes. | Elle refuse l'interdiction.
+- Les plateformes n'ont aucun effet. | Elle reconnaît un effet.
+- Les loyers doivent augmenter. | Ce n'est pas dit.
+EXP: La dernière phrase résume la position.
+
+## CO 12 | B2 | information radio | information globale | F:fr-FR
+DOC: F: Les ventes de disques vinyles ont dépassé celles des CD pour la première fois depuis les années 1980. Ce retour s'explique par un attachement à l'objet, à la pochette, au rituel d'écoute. Paradoxalement, la plupart des acheteurs écoutent aussi leur musique en streaming.
+Q: Quelle est l'idée principale ?
++ Le vinyle connaît un retour grâce à l'attachement à l'objet. | C'est le constat et l'explication.
+- Le streaming disparaît. | Les acheteurs l'utilisent aussi.
+- Les CD se vendent plus que les vinyles. | C'est l'inverse.
+- Les jeunes n'écoutent plus de musique. | Ce n'est pas dit.
+EXP: « Paradoxalement » introduit une contradiction apparente.
+
+## CO 13 | B2 | interview | opinion | H:fr-FR, F:fr-FR
+DOC: H: Vous êtes conseillère d'orientation. Les jeunes choisissent-ils trop tôt ? / F: Le système leur demande de faire des choix très jeunes, à quinze ou seize ans, souvent sans bien connaître les métiers. Je pense qu'il faudrait multiplier les stages d'observation et accepter davantage les réorientations.
+Q: Que propose la conseillère ?
++ Plus de stages et plus de réorientations. | « multiplier les stages… accepter davantage les réorientations ».
+- Choisir encore plus tôt. | Elle trouve qu'ils choisissent trop tôt.
+- Supprimer l'orientation. | Ce n'est pas dit.
+- Interdire les réorientations. | Elle veut les accepter davantage.
+EXP: « Je pense qu'il faudrait » introduit une proposition.
+
+## CO 14 | B2 | message téléphonique | intention | F:fr-FR
+DOC: F: Bonjour Monsieur Petit, ici l'association Ruches en Ville. Nous avons bien reçu votre demande pour installer une ruche sur votre balcon. Malheureusement, la réglementation impose une distance d'au moins vingt mètres avec les voisins. Nous vous proposons plutôt de parrainer une ruche dans notre rucher collectif.
+Q: Que propose l'association ?
++ Parrainer une ruche dans un rucher collectif. | « parrainer une ruche dans notre rucher collectif ».
+- Installer la ruche sur le balcon. | C'est impossible.
+- Déménager. | Ce n'est pas dit.
+- Acheter du miel. | Ce n'est pas dit.
+EXP: « Plutôt » introduit une alternative.
+
+## CO 15 | B2 | conversation professionnelle | relation logique | H:fr-FR, F:fr-FR
+DOC: H: Depuis qu'on est passés à quatre jours, l'absentéisme a baissé de 30 %. / F: Et la productivité ? / H: Elle est restée stable. Les salariés sont plus reposés, donc plus concentrés. En revanche, l'organisation des réunions est devenue plus compliquée.
+Q: Pourquoi les salariés sont-ils plus concentrés ?
++ Parce qu'ils sont plus reposés. | « plus reposés, donc plus concentrés ».
+- Parce qu'il y a moins de réunions. | Les réunions sont plus compliquées à organiser.
+- Parce qu'ils sont mieux payés. | Ce n'est pas dit.
+- Parce que la productivité a augmenté. | Elle est stable.
+EXP: « Donc » introduit la conséquence.
+
+## CO 16 | B2 | interview | information détaillée | F:fr-FR, H:fr-CA
+DOC: F: Votre application permet d'emprunter des objets entre voisins. Combien d'utilisateurs ? / H: Environ 200 000 au Québec. La perceuse reste l'objet le plus prêté. En moyenne, une perceuse est utilisée treize minutes dans toute sa vie. Il est absurde que chaque foyer en possède une.
+Q: Quel chiffre l'homme donne-t-il pour la perceuse ?
++ Elle sert en moyenne treize minutes dans sa vie. | « utilisée treize minutes dans toute sa vie ».
+- Elle coûte treize dollars. | Ce n'est pas dit.
+- 200 000 perceuses sont prêtées. | C'est le nombre d'utilisateurs.
+- Elle est prêtée treize fois par an. | Ce n'est pas dit.
+EXP: Associez chaque chiffre à ce qu'il mesure.
+
+## CO 17 | B2 | annonce publique | information précise | H:fr-FR
+DOC: H: La fête de la musique aura lieu le 21 juin. Les musiciens amateurs souhaitant jouer dans l'espace public doivent déclarer leur emplacement en mairie au moins dix jours avant. L'usage d'amplificateurs est interdit après 23 heures dans les zones résidentielles.
+Q: Que doivent faire les musiciens amateurs ?
++ Déclarer leur emplacement en mairie dix jours avant. | « doivent déclarer leur emplacement… au moins dix jours avant ».
+- Jouer sans amplificateur toute la soirée. | L'interdiction commence à 23 h.
+- Payer une autorisation. | Ce n'est pas dit.
+- Jouer uniquement en salle. | Ils jouent dans l'espace public.
+EXP: « Au moins » fixe un minimum.
+
+## CO 18 | B2 | information radio | relation logique | F:fr-FR
+DOC: F: Les villes multiplient les toitures végétalisées. Ces jardins sur les toits rafraîchissent les bâtiments en été, absorbent l'eau de pluie et accueillent insectes et oiseaux. Leur coût reste toutefois élevé, ce qui freine leur développement dans les immeubles anciens, dont la structure doit souvent être renforcée.
+Q: Qu'est-ce qui freine le développement des toits végétalisés dans les immeubles anciens ?
++ Leur coût, notamment pour renforcer la structure. | « coût… structure doit souvent être renforcée ».
+- Le manque d'insectes. | Ce n'est pas dit.
+- Le refus des habitants. | Ce n'est pas dit.
+- La chaleur. | Les toits rafraîchissent.
+EXP: « Ce qui freine » introduit une conséquence négative.
+
+## CO 19 | B2 | débat | argumentation | F:fr-FR, H:fr-FR
+DOC: F: La semaine de quatre jours devrait être généralisée. / H: Pour les bureaux, pourquoi pas. Mais dans un hôpital ou un supermarché ouvert six jours sur sept, il faudrait embaucher beaucoup plus. Qui financerait ? / F: Une partie pourrait venir des économies réalisées sur les arrêts maladie.
+Q: Quel argument la femme oppose-t-elle à l'objection du coût ?
++ Les économies sur les arrêts maladie. | « Une partie pourrait venir des économies réalisées sur les arrêts maladie ».
+- Les hôpitaux pourraient fermer. | Ce n'est pas dit.
+- Les salariés paieraient eux-mêmes. | Ce n'est pas dit.
+- Il n'y aurait aucun coût. | Elle parle d'« une partie ».
+EXP: Répondre à une objection est une compétence clé du débat.
+
+## CO 20 | B2 | interview | opinion | H:fr-FR, F:fr-BE
+DOC: H: Vous avez changé de voie à trente ans pour devenir ébéniste. Des regrets ? / F: Aucun. J'ai fait des études de commerce parce que c'était « sérieux ». Mais je m'ennuyais. Aujourd'hui, je gagne moins, mais je me lève le matin avec plaisir. Je dirais aux jeunes : écoutez-vous.
+Q: Quel conseil la femme donne-t-elle aux jeunes ?
++ Suivre leurs propres envies. | « écoutez-vous ».
+- Faire des études de commerce. | Elle s'y ennuyait.
+- Choisir le métier le mieux payé. | Elle gagne moins mais est heureuse.
+- Ne jamais changer de voie. | Elle a changé.
+EXP: L'impératif final formule le conseil.
+
+## CO 21 | C1 | information radio | information détaillée | H:fr-FR
+DOC: H: Une étude britannique menée dans soixante entreprises ayant testé la semaine de quatre jours révèle que 90 % d'entre elles ont choisi de la conserver. Le chiffre d'affaires est resté stable, voire a légèrement augmenté, tandis que les démissions ont chuté de moitié. Les auteurs soulignent toutefois que l'échantillon était composé d'entreprises volontaires.
+Q: Quelle limite de l'étude les auteurs soulignent-ils ?
++ Les entreprises étudiées étaient volontaires. | « l'échantillon était composé d'entreprises volontaires ».
+- Le chiffre d'affaires a baissé. | Il est resté stable.
+- Peu d'entreprises ont conservé le système. | 90 % l'ont gardé.
+- L'étude a duré trop peu de temps. | Ce n'est pas dit.
+EXP: Un échantillon de volontaires peut biaiser les résultats.
+
+## CO 22 | B2 | conversation professionnelle | intention | F:fr-FR, H:fr-FR
+DOC: F: J'ai une proposition pour la fête de l'entreprise : au lieu d'un traiteur, on pourrait organiser un repas partagé où chacun apporte un plat. / H: C'est sympathique, mais certains vont trouver ça contraignant. / F: Alors, on peut faire moitié-moitié : le traiteur pour le plat principal, et les desserts faits maison.
+Q: Que fait la femme dans sa dernière réplique ?
++ Elle propose un compromis. | « moitié-moitié ».
+- Elle abandonne son idée. | Elle l'adapte.
+- Elle critique son collègue. | Ce n'est pas dit.
+- Elle annule la fête. | Ce n'est pas dit.
+EXP: « Moitié-moitié » = partager entre deux solutions.
+
+## CO 23 | C1 | débat | point de vue implicite | H:fr-FR, F:fr-FR
+DOC: H: L'économie du partage, c'est l'avenir : on mutualise au lieu de posséder. / F: À l'origine, oui. Mais regardez ce que sont devenues certaines plateformes : des multinationales qui prélèvent des commissions de 20 % et ne paient presque pas d'impôts en France. Le « partage » a bon dos.
+Q: Que suggère la femme avec « Le partage a bon dos » ?
++ Le mot « partage » cache une logique commerciale. | Elle dénonce une contradiction.
+- Le partage est une bonne chose sans réserve. | Elle critique.
+- Les plateformes paient beaucoup d'impôts. | C'est l'inverse.
+- Il faut posséder davantage. | Ce n'est pas dit.
+EXP: « Avoir bon dos » = servir de prétexte.
+
+## CO 24 | C1 | interview | nuance | F:fr-FR, H:fr-FR
+DOC: F: Les ruches en ville sont-elles bonnes pour la biodiversité ? / H: Pas forcément. Les abeilles domestiques entrent en concurrence avec les abeilles sauvages pour les fleurs. Multiplier les ruches sans planter davantage de fleurs peut donc nuire aux pollinisateurs sauvages. L'intention est bonne, la méthode est discutable.
+Q: Quelle est la position de l'expert ?
++ Les ruches peuvent nuire si on ne plante pas plus de fleurs. | Il nuance l'idée reçue.
+- Les ruches sauvent toujours la biodiversité. | Il dit « Pas forcément ».
+- Il faut interdire les abeilles. | Ce n'est pas dit.
+- Les abeilles sauvages n'existent pas en ville. | Ce n'est pas dit.
+EXP: « L'intention est bonne, la méthode est discutable » : jugement nuancé.
+
+## CO 25 | C1 | information radio | relation logique | F:fr-FR
+DOC: F: Si les revenus du streaming musical ont permis à l'industrie de retrouver la croissance, leur répartition reste très inégale. Les plateformes reversent l'essentiel aux maisons de disques, qui ne redistribuent qu'une faible part aux artistes. Dès lors, seuls les musiciens cumulant des millions d'écoutes peuvent espérer en vivre.
+Q: Que signifie « Dès lors » dans ce contexte ?
++ Par conséquent. | Il introduit la conséquence de la répartition inégale.
+- Cependant. | Ce n'est pas une opposition.
+- Depuis ce moment. | Ce n'est pas le sens ici.
+- Par exemple. | Ce n'est pas un exemple.
+EXP: « Dès lors » peut exprimer la conséquence.
+
+## CE 1 | A2 | annonce | information précise
+DOC: À PRÊTER – Tondeuse à gazon électrique, échelle de 3 mètres, appareil à raclette. Gratuit entre voisins ! Contactez Paul, appartement 12, ou par l'application « VoisinsSolidaires ».
+Q: Combien coûte l'emprunt des objets ?
++ Rien. | « Gratuit entre voisins ! ».
+- 3 euros. | 3 mètres est la taille de l'échelle.
+- 12 euros. | 12 est le numéro de l'appartement.
+- Ce n'est pas précisé. | C'est gratuit.
+EXP: Ne confondez pas les chiffres.
+
+## CE 2 | A2 | message | information précise
+DOC: Salut Emma ! J'ai deux places pour le concert de samedi, mais Julien est malade. Tu veux venir avec moi ? Le concert commence à 20 h 30. On peut dîner avant ? Bises, Chloé
+Q: Pourquoi Chloé propose-t-elle la place à Emma ?
++ Parce que Julien est malade. | « mais Julien est malade ».
+- Parce qu'elle a gagné les places. | Ce n'est pas dit.
+- Parce que c'est l'anniversaire d'Emma. | Ce n'est pas dit.
+- Parce qu'Emma adore ce groupe. | Ce n'est pas dit.
+EXP: « Mais » introduit le problème.
+
+## CE 3 | A2 | affiche | information précise
+DOC: JARDIN PARTAGÉ DES LILAS – Venez cultiver vos légumes avec nous ! Inscription : 10 € par an. Outils et graines fournis. Ateliers jardinage le mercredi après-midi pour les enfants.
+Q: Que fournit le jardin partagé ?
++ Les outils et les graines. | « Outils et graines fournis ».
+- Les légumes. | Il faut les cultiver.
+- Les repas. | Ce n'est pas dit.
+- La terre à emporter. | Ce n'est pas dit.
+EXP: « Fourni » = donné, mis à disposition.
+
+## CE 4 | B1 | courriel | information précise
+DOC: Bonjour Hugo, suite à ton entretien avec la conseillère d'orientation, voici les dates des journées portes ouvertes : IUT informatique le 2 février, faculté de droit le 9 février. N'oublie pas de t'inscrire sur Parcoursup avant le 14 mars. Bon courage ! Mme Leblanc, professeure principale.
+Q: Quelle est la date limite d'inscription sur Parcoursup ?
++ Le 14 mars. | « avant le 14 mars ».
+- Le 2 février. | C'est la journée de l'IUT.
+- Le 9 février. | C'est la journée de la faculté de droit.
+- Ce n'est pas dit. | La date est indiquée.
+EXP: Associez chaque date à son événement.
+
+## CE 5 | B1 | article de presse | information globale
+DOC: À Nantes, une « bibliothèque d'objets » permet d'emprunter des outils, des appareils de cuisine ou du matériel de camping, comme on emprunterait un livre. L'abonnement coûte 20 euros par an. En deux ans, plus de 3 000 habitants s'y sont inscrits.
+Q: Quel est le principe de cette bibliothèque ?
++ Emprunter des objets comme des livres. | « comme on emprunterait un livre ».
+- Acheter des objets d'occasion. | On les emprunte.
+- Réparer des objets. | Ce n'est pas dit.
+- Emprunter uniquement des livres. | Ce sont des objets.
+EXP: La comparaison éclaire le concept.
+
+## CE 6 | B1 | lettre administrative | information précise
+DOC: Madame, Monsieur, nous vous informons que la location de votre logement en meublé de tourisme nécessite désormais un numéro d'enregistrement. Ce numéro doit figurer sur chaque annonce en ligne. Les propriétaires qui ne respectent pas cette obligation s'exposent à une amende pouvant aller jusqu'à 5 000 euros.
+Q: Où doit figurer le numéro d'enregistrement ?
++ Sur chaque annonce en ligne. | « Ce numéro doit figurer sur chaque annonce en ligne ».
+- Sur la porte du logement. | Ce n'est pas dit.
+- Sur le contrat de travail. | Ce n'est pas dit.
+- Sur la facture d'électricité. | Ce n'est pas dit.
+EXP: « Figurer » = apparaître.
+
+## CE 7 | B1 | publicité | intention
+DOC: Fatigué des publicités entre deux chansons ? Passez à MusiPlus Premium : écoute sans interruption, téléchargement hors ligne et qualité audio supérieure. Seulement 10,99 € par mois. Essai gratuit d'un mois, sans engagement.
+Q: Quel avantage est mis en avant ?
++ L'écoute sans publicité. | « écoute sans interruption ».
+- Les concerts gratuits. | Ce n'est pas dit.
+- Un prix de 1 € par mois. | C'est 10,99 €.
+- Un engagement d'un an. | C'est sans engagement.
+EXP: La question d'accroche révèle l'argument principal.
+
+## CE 8 | B1 | message professionnel | information précise
+DOC: Chers collègues, la semaine de quatre jours sera évaluée à la fin du mois de juin. Un questionnaire anonyme vous sera envoyé le 1er juin. Vos réponses nous permettront de décider si le dispositif est maintenu. Merci d'y répondre avant le 15 juin.
+Q: À quoi servira le questionnaire ?
++ À décider si le dispositif continue. | « nous permettront de décider si le dispositif est maintenu ».
+- À choisir le jour de repos. | Ce n'est pas dit.
+- À évaluer les salariés. | Il évalue le dispositif.
+- À recruter du personnel. | Ce n'est pas dit.
+EXP: « Permettre de » indique l'objectif.
+
+## CE 9 | B1 | témoignage | opinion
+DOC: « Avec la semaine de quatre jours, j'ai enfin le temps de m'occuper de moi. Le vendredi, je fais du sport et je vois mes amis. Le seul inconvénient, ce sont les journées plus longues : le jeudi soir, je suis épuisée. » Sarah, comptable.
+Q: Quel inconvénient Sarah mentionne-t-elle ?
++ La fatigue liée aux journées plus longues. | « je suis épuisée ».
+- Elle voit moins ses amis. | Elle les voit le vendredi.
+- Elle gagne moins. | Ce n'est pas dit.
+- Elle ne fait plus de sport. | Elle en fait le vendredi.
+EXP: « Le seul inconvénient » annonce la critique.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: Les jeunes Français sont de plus en plus nombreux à se réorienter après leur première année d'études supérieures : près d'un sur quatre change de filière. Loin d'être un échec, cette réorientation est souvent le signe d'un choix plus mûri. Les universités adaptent d'ailleurs leurs dispositifs pour faciliter ces passerelles.
+Q: Comment l'article présente-t-il la réorientation ?
++ Comme le signe d'un choix plus réfléchi. | « le signe d'un choix plus mûri ».
+- Comme un échec. | « Loin d'être un échec ».
+- Comme un phénomène rare. | Un étudiant sur quatre.
+- Comme une interdiction. | Les universités la facilitent.
+EXP: « Loin d'être » rejette une interprétation.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: Chaque foyer français possède en moyenne une centaine d'objets qu'il n'utilise presque jamais. Plutôt que d'acheter une ponceuse pour une seule utilisation, pourquoi ne pas l'emprunter à un voisin ? Le partage d'objets est une manière simple de faire des économies, de réduire les déchets et de recréer du lien dans les quartiers.
+Q: Quelle est l'intention de l'auteur ?
++ Encourager le partage d'objets entre voisins. | Il en présente les avantages.
+- Vendre des ponceuses. | Il propose de les emprunter.
+- Critiquer les voisins. | Ce n'est pas dit.
+- Expliquer comment fabriquer des objets. | Ce n'est pas dit.
+EXP: La question rhétorique sert à convaincre.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Bonjour à tous, le projet de ruches sur le toit du siège a reçu le feu vert de la direction. Les premières colonies d'abeilles seront installées en avril. Les salariés intéressés pourront participer à la récolte du miel en septembre. Cordialement, Le comité RSE.
+Q: Que signifie « a reçu le feu vert » ?
++ A été autorisé. | Le projet va être réalisé.
+- A été refusé. | C'est l'inverse.
+- A été reporté. | Ce n'est pas le sens.
+- A été critiqué. | Ce n'est pas le sens.
+EXP: « Donner le feu vert » = autoriser.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: En France, les artistes touchent en moyenne entre 0,002 et 0,004 euro par écoute en streaming. Pour gagner l'équivalent d'un salaire minimum mensuel, un musicien devrait donc cumuler environ 400 000 écoutes par mois. Une taxe sur les plateformes, destinée à financer la création musicale, est entrée en vigueur cette année.
+Q: À quoi sert la nouvelle taxe ?
++ À financer la création musicale. | « destinée à financer la création musicale ».
+- À augmenter le prix des abonnements. | Ce n'est pas dit.
+- À payer directement chaque écoute. | Ce n'est pas dit.
+- À réduire le nombre de plateformes. | Ce n'est pas dit.
+EXP: « Destiné à » exprime le but.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Madame, votre demande de parcelle au jardin partagé des Lilas a été acceptée. Vous vous engagez à entretenir régulièrement votre parcelle, à ne pas utiliser de pesticides et à participer à deux journées collectives par an. Le non-respect de ces règles pourra entraîner le retrait de la parcelle.
+Q: Laquelle de ces obligations est mentionnée ?
++ Ne pas utiliser de pesticides. | C'est une des règles.
+- Vendre ses légumes. | Ce n'est pas dit.
+- Venir tous les jours. | Il faut entretenir « régulièrement ».
+- Payer 100 euros par an. | Ce n'est pas dit.
+EXP: Repérez les engagements énumérés.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: La semaine de quatre jours séduit les salariés. Cependant, elle ne convient pas à tous les métiers : un service d'urgences ne peut pas fermer un jour par semaine. Par conséquent, chaque secteur devra inventer sa propre organisation du temps de travail.
+Q: Quel est le rôle de « Par conséquent » ?
++ Introduire une conclusion logique. | Il découle de l'objection précédente.
+- Introduire une opposition. | C'est le rôle de « Cependant ».
+- Introduire un exemple. | L'exemple est celui des urgences.
+- Introduire une cause. | Il introduit une conséquence.
+EXP: Distinguez « cependant » (opposition) et « par conséquent » (conséquence).
+
+## CE 16 | B2 | article de presse | opinion
+DOC: Certains critiquent les plateformes de location entre particuliers. Pour la chroniqueuse de notre rubrique économie, ce serait oublier qu'elles ont permis à des milliers de familles de voyager moins cher et à des propriétaires modestes de compléter leurs revenus. « Le problème n'est pas l'outil, mais l'absence de règles », estime-t-elle.
+Q: Selon la chroniqueuse, quel est le problème ?
++ Le manque de règles. | « mais l'absence de règles ».
+- Les plateformes elles-mêmes. | « Le problème n'est pas l'outil ».
+- Les familles qui voyagent. | Ce n'est pas dit.
+- Les propriétaires modestes. | Ce n'est pas dit.
+EXP: « Ce n'est pas…, mais… » oppose deux idées.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: Parcoursup est la plateforme nationale d'admission dans l'enseignement supérieur. Les candidats peuvent formuler jusqu'à dix vœux, sans les classer. Ils reçoivent ensuite des propositions d'admission et doivent répondre dans les délais indiqués, faute de quoi la proposition est perdue.
+Q: Que se passe-t-il si un candidat ne répond pas dans les délais ?
++ Il perd la proposition. | « faute de quoi la proposition est perdue ».
+- Il est admis automatiquement. | C'est l'inverse.
+- Il peut formuler un onzième vœu. | Ce n'est pas dit.
+- Il doit classer ses vœux. | Les vœux ne sont pas classés.
+EXP: « Faute de quoi » = sinon.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « J'ai prêté ma tondeuse à mon voisin au printemps. Il me l'a rendue en septembre, avec un grand sourire et la lame cassée. Je crois que je vais réfléchir avant de prêter mon taille-haie. » Gérard, 62 ans.
+Q: Que sous-entend Gérard ?
++ Il hésite désormais à prêter ses outils. | « je vais réfléchir avant de prêter ».
+- Son voisin est très soigneux. | La lame est cassée.
+- Il veut prêter son taille-haie. | Il hésite.
+- Il n'a pas de tondeuse. | Il en a une.
+EXP: L'ironie de « avec un grand sourire » souligne l'agacement.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Faut-il installer des ruches dans toutes les écoles ? Les partisans y voient un formidable outil pédagogique pour sensibiliser les enfants à la biodiversité. Les sceptiques mettent en avant le risque de piqûres et d'allergies, et rappellent que l'entretien d'une ruche exige des compétences que peu d'enseignants possèdent.
+Q: Quel argument avancent les sceptiques ?
++ Le risque pour la santé des enfants et le manque de compétences. | Piqûres, allergies, compétences.
+- L'intérêt pédagogique. | C'est l'argument des partisans.
+- Le prix du miel. | Ce n'est pas dit.
+- Le manque d'abeilles. | Ce n'est pas dit.
+EXP: « Mettre en avant » = souligner un argument.
+
+## CE 20 | B2 | article de presse | information détaillée
+DOC: La Belgique a adopté une loi permettant aux salariés de travailler quatre jours par semaine sans réduction de leur temps de travail total : ils peuvent concentrer leurs 38 heures hebdomadaires sur quatre jours. L'employeur peut refuser, mais il doit justifier son refus par écrit.
+Q: Que doit faire l'employeur qui refuse ?
++ Justifier son refus par écrit. | « il doit justifier son refus par écrit ».
+- Payer une amende. | Ce n'est pas dit.
+- Réduire le temps de travail. | Ce n'est pas dit.
+- Accepter dans tous les cas. | Il peut refuser.
+EXP: « Sans réduction du temps total » : on concentre les heures.
+
+## CE 21 | C1 | texte argumentatif | thèse
+DOC: On demande à des adolescents de quinze ans de choisir une voie qui déterminera leur avenir professionnel, alors même que la plupart des métiers qu'ils exerceront n'existent peut-être pas encore. Plutôt que de les sommer de choisir, l'école devrait leur apprendre à apprendre et à changer de cap sans honte.
+Q: Quelle est la thèse de l'auteur ?
++ L'école devrait préparer à l'adaptabilité plutôt qu'à un choix précoce. | « apprendre à apprendre et à changer de cap ».
+- Les adolescents doivent choisir plus tôt. | Il critique les choix précoces.
+- Les métiers ne changeront pas. | Il dit le contraire.
+- L'orientation doit être supprimée. | Ce n'est pas dit.
+EXP: « Plutôt que de… devrait » oppose la situation actuelle et la proposition.
+
+## CE 22 | C1 | article de presse | information implicite
+DOC: La plateforme de location de courte durée a annoncé un « partenariat historique » avec la ville pour « lutter contre la crise du logement ». L'accord prévoit que la plateforme rappellera à ses hôtes les règles en vigueur. Aucune sanction n'est prévue en cas de non-respect.
+Q: Que laisse entendre l'article ?
++ L'accord risque d'être peu efficace. | Il n'y a aucune sanction.
+- L'accord va résoudre la crise du logement. | L'auteur en doute.
+- La plateforme sera lourdement sanctionnée. | Aucune sanction n'est prévue.
+- La ville a interdit la plateforme. | C'est un partenariat.
+EXP: Les guillemets mettent à distance les mots de la plateforme.
+
+## CE 23 | C1 | texte argumentatif | ton
+DOC: Il paraît que la semaine de quatre jours va ruiner l'économie. On nous avait déjà annoncé la même catastrophe lors de la création des congés payés en 1936, puis lors du passage aux 35 heures. Étrangement, le pays n'a toujours pas sombré.
+Q: Quel est le ton de l'auteur ?
++ Ironique. | « Étrangement » souligne l'absurdité des prédictions.
+- Alarmiste. | Il se moque des alarmistes.
+- Admiratif. | Ce n'est pas le cas.
+- Indifférent. | Il prend position.
+EXP: « Il paraît que » prend ses distances avec une opinion.
+
+## CE 24 | C1 | article de presse | relation logique
+DOC: Bien que les jardins partagés produisent peu de nourriture à l'échelle d'une ville, leurs bénéfices dépassent largement la question alimentaire. Ils créent du lien entre voisins qui ne se seraient jamais rencontrés, offrent aux enfants un contact avec la nature et participent à rafraîchir les quartiers lors des épisodes de canicule.
+Q: Quelle relation logique introduit « Bien que » ?
++ Une concession. | On reconnaît une faiblesse avant d'affirmer l'essentiel.
+- Une cause. | Ce n'est pas une cause.
+- Un but. | Ce n'est pas un but.
+- Une conséquence. | Ce n'est pas une conséquence.
+EXP: « Bien que » + subjonctif exprime la concession.
+
+## CE 25 | C1 | document informatif | reformulation
+DOC: Le contrat de location entre particuliers via une plateforme n'exonère pas le loueur de ses obligations fiscales. Les revenus tirés de ces locations doivent être déclarés dès le premier euro, la plateforme transmettant elle-même chaque année à l'administration le montant des sommes perçues par ses utilisateurs.
+Q: Quelle reformulation correspond au texte ?
++ Les revenus doivent être déclarés et l'administration en est informée par la plateforme. | Les deux idées du texte.
+- Les petits revenus n'ont pas à être déclarés. | « dès le premier euro ».
+- La plateforme paie les impôts à la place du loueur. | Elle transmet seulement les montants.
+- Le contrat dispense de déclarer ses revenus. | « n'exonère pas ».
+EXP: « Exonérer » = dispenser d'une obligation.
+
+## EE 1 | A2 | écrire une annonce
+CONSIGNE: Vous voulez prêter ou échanger un objet que vous n'utilisez plus. Vous écrivez une annonce pour le panneau de votre immeuble (30 à 60 mots).
+MODELE: Bonjour à tous ! Je prête gratuitement mon appareil à raclette (pour huit personnes) et ma machine à pain. Ils sont en très bon état. Je les prête pour une semaine maximum. En échange, j'aimerais emprunter une perceuse de temps en temps ! Contactez-moi : Léa, appartement 5, ou au 06 22 33 44 55.
+POINTS: objets proposés ; état ; conditions ; échange ; contact
+CONSEILS: Une annonce doit être claire, précise et aimable.
+
+## EE 2 | B1 | raconter une expérience
+CONSIGNE: Vous avez assisté à un concert ou à un festival de musique. Vous racontez cette soirée sur votre blog (40 à 90 mots).
+MODELE: Samedi soir, je suis allée au festival des Nuits du Sud avec deux amies. La programmation était variée : rock, musique africaine et électro. Le meilleur moment a été le concert d'une chanteuse malienne que je ne connaissais pas : sa voix était extraordinaire et tout le public dansait. Seul regret : les boissons étaient très chères. Je suis rentrée à deux heures du matin, fatiguée mais ravie. Je reviendrai l'année prochaine, c'est sûr !
+POINTS: contexte ; description ; moment fort ; critique ; impression finale
+CONSEILS: Utilisez des adjectifs pour transmettre vos émotions.
+
+## EE 3 | B2 | argumenter sur un sujet de société
+CONSIGNE: « La semaine de quatre jours devrait devenir la norme pour tous les salariés. » Vous donnez votre avis dans un forum en ligne (40 à 90 mots).
+MODELE: Je trouve l'idée séduisante, mais sa généralisation me paraît difficile. D'un côté, les expériences menées montrent que les salariés sont plus reposés, moins souvent absents et tout aussi productifs. De l'autre, certains secteurs, comme la santé ou le commerce, ne peuvent pas fermer un jour de plus sans embaucher massivement. Il serait donc plus réaliste de laisser chaque entreprise l'expérimenter selon ses contraintes. En somme, oui à la semaine de quatre jours, mais pas imposée partout.
+POINTS: position nuancée ; avantages ; limites ; proposition ; conclusion
+CONSEILS: « D'un côté… de l'autre » permet d'équilibrer l'argumentation.
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous pose des questions sur vos études, vos goûts musicaux et votre rapport au partage.
+RELANCES: Qu'avez-vous étudié ? / Comment avez-vous choisi votre formation ? / Quel genre de musique écoutez-vous ? / Allez-vous souvent au concert ? / Empruntez-vous des objets à vos voisins ? / Aimeriez-vous travailler quatre jours par semaine ?
+PHRASES: J'ai étudié… / J'ai choisi… parce que… / J'écoute surtout… / Il m'arrive de… / J'aimerais bien…
+MODELE: J'ai étudié la gestion à l'université. J'ai choisi cette formation parce que je voulais travailler dans le commerce international. J'écoute surtout de la musique pop et du raï. Je vais au concert deux ou trois fois par an. Il m'arrive d'emprunter des outils à mon voisin, et je lui prête ma voiture parfois. J'aimerais bien travailler quatre jours par semaine pour avoir plus de temps avec ma famille.
+
+## EO 2 | B2 | Négocier une organisation | Responsable d'équipe
+SCENARIO: Votre entreprise propose la semaine de quatre jours. Vous voulez le mercredi libre pour vous occuper de vos enfants, mais votre responsable préfère que tout le monde prenne le vendredi. L'examinateur joue le rôle du responsable. Négociez.
+RELANCES: Bonjour, vous vouliez me voir ? / Nous avons choisi le vendredi pour toute l'équipe. / Le mercredi, nous avons la réunion hebdomadaire. / Si je vous l'accorde, les autres vont demander pareil. / Comment ferez-vous pour les urgences ? / Que proposez-vous ?
+PHRASES: Je comprends la contrainte, mais… / Serait-il envisageable de… ? / Je pourrais m'engager à… / Pour la réunion, nous pourrions… / Faisons un essai pendant…
+MODELE: Je comprends que le vendredi soit plus simple pour l'équipe, mais pour moi, le mercredi est essentiel : mes enfants n'ont pas école ce jour-là. Serait-il envisageable de déplacer la réunion hebdomadaire au mardi ? En cas d'urgence, je m'engage à rester joignable par téléphone. Et si d'autres collègues ont des contraintes similaires, nous pourrions organiser des roulements. Faisons un essai pendant trois mois et faisons le bilan ensemble.
+
+## EO 3 | B2 | L'économie du partage : progrès ou illusion ? | Examinateur
+SCENARIO: Donnez votre opinion : « L'économie du partage (location entre particuliers, covoiturage, prêt d'objets) est-elle un vrai progrès ? » Argumentez, donnez des exemples, nuancez et concluez.
+RELANCES: Quelle est votre opinion ? / Quels avantages économiques et écologiques ? / Quels effets négatifs ? / Faut-il réguler les plateformes ? / Votre conclusion ?
+PHRASES: À mes yeux… / Prenons l'exemple de… / Il ne faut cependant pas négliger… / Il serait souhaitable que… / Tout bien considéré…
+MODELE: À mes yeux, l'économie du partage représente un progrès, mais à certaines conditions. Prenons l'exemple du covoiturage : il permet de voyager moins cher et de réduire la pollution. De même, emprunter une perceuse plutôt que l'acheter évite le gaspillage. Il ne faut cependant pas négliger les effets négatifs, comme la hausse des loyers liée aux locations touristiques. Il serait souhaitable que les plateformes soient mieux encadrées. Tout bien considéré, le partage est utile s'il reste au service des citoyens.

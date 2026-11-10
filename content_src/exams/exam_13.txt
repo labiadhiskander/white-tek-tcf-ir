@@ -1,0 +1,490 @@
+@code EXAM-13
+@title Examen blanc n° 13 – Justice, assiette et ville apaisée
+@level B2
+@description Examen complet calibré B1–B2 : médiation et justice, alimentation végétale, centres-villes piétons, podcasts, seniors et numérique.
+
+## CO 1 | A2 | message téléphonique | information précise | F:fr-FR
+DOC: F: Bonjour Mamie, c'est Julie. Je passe chez toi mercredi à 15 heures pour t'aider à installer ta nouvelle tablette. N'oublie pas de la charger avant !
+Q: Que doit faire la grand-mère ?
++ Charger sa tablette. | « N'oublie pas de la charger avant ! ».
+- Acheter une tablette. | Elle en a déjà une nouvelle.
+- Appeler Julie. | Ce n'est pas dit.
+- Venir chez Julie. | C'est Julie qui passe.
+EXP: L'impératif négatif « N'oublie pas » exprime une consigne.
+
+## CO 2 | A2 | annonce publique | information précise | H:fr-FR
+DOC: H: À partir du 1er mai, la rue principale sera réservée aux piétons tous les samedis et dimanches, de 10 heures à 19 heures. Les livraisons restent autorisées avant 10 heures.
+Q: Quand la rue sera-t-elle piétonne ?
++ Le week-end, de 10 h à 19 h. | « tous les samedis et dimanches, de 10 heures à 19 heures ».
+- Tous les jours. | Seulement le week-end.
+- Avant 10 heures. | C'est l'horaire des livraisons.
+- Le 1er mai uniquement. | C'est la date de début.
+EXP: Distinguez la date de début et les horaires.
+
+## CO 3 | A2 | conversation quotidienne | information précise | H:fr-FR, F:fr-FR
+DOC: H: Qu'est-ce que tu prends ? / F: Le burger végétarien, aux pois chiches. / H: Ah bon ? Tu ne manges plus de viande ? / F: Si, mais seulement le week-end.
+Q: Quand la femme mange-t-elle de la viande ?
++ Le week-end. | « seulement le week-end ».
+- Jamais. | Elle dit « Si ».
+- Tous les jours. | Seulement le week-end.
+- Le midi. | Ce n'est pas dit.
+EXP: « Si » répond positivement à une question négative.
+
+## CO 4 | B1 | conversation quotidienne | intention | F:fr-FR, H:fr-FR
+DOC: F: Mon voisin a planté une haie qui fait de l'ombre à tout mon jardin. Je pense porter plainte. / H: Avant ça, tu devrais essayer le conciliateur de justice. C'est gratuit et souvent plus rapide qu'un procès.
+Q: Que conseille l'homme ?
++ De faire appel à un conciliateur. | « tu devrais essayer le conciliateur de justice ».
+- De porter plainte immédiatement. | Il conseille d'abord autre chose.
+- De couper la haie elle-même. | Ce n'est pas dit.
+- De déménager. | Ce n'est pas dit.
+EXP: « Avant ça, tu devrais » introduit un conseil alternatif.
+
+## CO 5 | B1 | message professionnel | information précise | H:fr-FR
+DOC: H: Bonjour, ici le studio Ondes Vives. Nous avons bien écouté votre projet de podcast sur la cuisine du monde. Nous vous proposons un premier enregistrement le 14 octobre. Pensez à préparer un plan détaillé de l'épisode et à venir avec votre invité.
+Q: Que doit préparer la personne ?
++ Un plan détaillé de l'épisode. | « préparer un plan détaillé de l'épisode ».
+- Un micro. | Ce n'est pas dit.
+- Une recette. | Ce n'est pas dit.
+- Un contrat. | Ce n'est pas dit.
+EXP: « Pensez à » introduit une consigne.
+
+## CO 6 | B1 | information radio | information précise | F:fr-FR
+DOC: F: La médiathèque lance des ateliers numériques gratuits pour les plus de soixante ans. Au programme : envoyer un courriel, faire une visioconférence avec ses petits-enfants et effectuer ses démarches en ligne. Les ateliers ont lieu le jeudi matin, en petits groupes de six personnes.
+Q: Combien de personnes participent à chaque atelier ?
++ Six. | « en petits groupes de six personnes ».
+- Soixante. | C'est l'âge minimum.
+- Dix. | Ce n'est pas dit.
+- Deux. | Ce n'est pas dit.
+EXP: Ne confondez pas l'âge et la taille du groupe.
+
+## CO 7 | B1 | interview | opinion | H:fr-FR, F:fr-FR
+DOC: H: Depuis que le centre-ville est piéton, les commerces vont mieux ? / F: Au début, on avait peur de perdre des clients en voiture. Finalement, les gens restent plus longtemps, se promènent, s'arrêtent en terrasse. Mon chiffre d'affaires a augmenté de 10 %.
+Q: Quel a été l'effet de la piétonnisation pour la commerçante ?
++ Son chiffre d'affaires a augmenté. | « a augmenté de 10 % ».
+- Elle a perdu des clients. | C'était une crainte.
+- Elle a fermé sa terrasse. | Ce n'est pas dit.
+- Elle a déménagé. | Ce n'est pas dit.
+EXP: « Finalement » marque le résultat après une crainte.
+
+## CO 8 | B1 | annonce publique | information précise | H:fr-FR
+DOC: H: Le tribunal organise ce samedi une journée portes ouvertes. Les visiteurs pourront assister à un faux procès joué par des étudiants en droit et poser leurs questions à des magistrats. L'entrée est libre, mais une pièce d'identité sera demandée à l'accueil.
+Q: Que faut-il présenter à l'entrée ?
++ Une pièce d'identité. | « une pièce d'identité sera demandée ».
+- Un billet. | L'entrée est libre.
+- Une carte d'étudiant. | Ce n'est pas dit.
+- Une convocation. | Ce n'est pas dit.
+EXP: « Entrée libre » = gratuite et sans réservation.
+
+## CO 9 | B1 | situation administrative | information précise | F:fr-FR, H:fr-FR
+DOC: F: Bonjour, je voudrais savoir si j'ai droit à un avocat gratuit. / H: Cela dépend de vos revenus. Vous pouvez demander l'aide juridictionnelle en remplissant ce formulaire. Joignez votre dernier avis d'imposition. La réponse arrive en général sous un mois.
+Q: De quoi dépend l'aide juridictionnelle ?
++ Des revenus. | « Cela dépend de vos revenus ».
+- De l'âge. | Ce n'est pas dit.
+- De la nationalité. | Ce n'est pas dit.
+- Du type de procès. | Ce n'est pas dit.
+EXP: « Cela dépend de » introduit la condition.
+
+## CO 10 | B1 | conversation professionnelle | information précise | H:fr-FR, F:fr-FR
+DOC: H: Pour le menu de la cantine, on garde un repas végétarien par semaine ? / F: La loi nous l'impose déjà. Je propose d'en faire deux, avec des produits locaux. / H: D'accord, mais il faudra former les cuisiniers.
+Q: Que propose la femme ?
++ Deux repas végétariens par semaine. | « Je propose d'en faire deux ».
+- Supprimer les repas végétariens. | Ce n'est pas dit.
+- Un seul repas végétarien. | C'est ce qui existe déjà.
+- Former les clients. | Il s'agit des cuisiniers.
+EXP: « En » remplace « repas végétariens ».
+
+## CO 11 | B2 | débat | argumentation | F:fr-FR, H:fr-FR
+DOC: F: Réduire la place de la voiture en ville, c'est améliorer la qualité de l'air. / H: Je suis d'accord, mais à condition de proposer des transports en commun efficaces. Sinon, on pénalise ceux qui habitent loin et qui n'ont pas d'autre choix que la voiture.
+Q: Quelle condition pose l'homme ?
++ Proposer des transports en commun efficaces. | « à condition de proposer des transports en commun efficaces ».
+- Interdire totalement les voitures. | Ce n'est pas dit.
+- Construire plus de parkings. | Ce n'est pas dit.
+- Habiter en centre-ville. | Ce n'est pas dit.
+EXP: « À condition de » introduit une condition.
+
+## CO 12 | B2 | information radio | information globale | H:fr-FR
+DOC: H: Les Français écoutent de plus en plus de podcasts : près d'un sur deux en écoute au moins un par mois. Histoire, faits divers, développement personnel : les thèmes sont variés. Les auditeurs apprécient de pouvoir écouter quand ils veulent, dans les transports ou en faisant du sport.
+Q: Pourquoi les auditeurs apprécient-ils les podcasts ?
++ Pour la liberté d'écoute. | « pouvoir écouter quand ils veulent ».
+- Pour leur prix élevé. | Ce n'est pas dit.
+- Parce qu'ils sont courts. | Ce n'est pas dit.
+- Parce qu'ils sont tous sur l'histoire. | Les thèmes sont variés.
+EXP: Repérez le verbe « apprécier ».
+
+## CO 13 | B2 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes nutritionniste. Faut-il arrêter complètement la viande ? / H: Pas nécessairement. On peut très bien manger un peu de viande de qualité, une ou deux fois par semaine. L'essentiel est de varier les sources de protéines : légumineuses, œufs, poisson. Le tout-ou-rien est rarement la bonne approche.
+Q: Que pense le nutritionniste ?
++ Il faut varier les protéines sans forcément supprimer la viande. | « Pas nécessairement… varier les sources ».
+- Il faut supprimer totalement la viande. | Il dit « Pas nécessairement ».
+- Il faut manger de la viande tous les jours. | Une ou deux fois par semaine.
+- Les œufs sont dangereux. | Ce n'est pas dit.
+EXP: « Le tout-ou-rien » = les positions extrêmes.
+
+## CO 14 | B2 | message téléphonique | intention | H:fr-FR
+DOC: H: Madame Leroy, ici Maître Garnier. J'ai étudié votre dossier de litige avec votre propriétaire. Avant d'aller au tribunal, je vous conseille de lui envoyer une mise en demeure par lettre recommandée. S'il ne répond pas sous quinze jours, nous engagerons la procédure. Rappelez-moi pour en discuter.
+Q: Que recommande l'avocat ?
++ Envoyer d'abord une mise en demeure. | « je vous conseille de lui envoyer une mise en demeure ».
+- Aller directement au tribunal. | C'est l'étape suivante.
+- Changer de logement. | Ce n'est pas dit.
+- Abandonner le litige. | Ce n'est pas dit.
+EXP: « Avant de » indique l'ordre des étapes.
+
+## CO 15 | B2 | conversation professionnelle | relation logique | F:fr-FR, H:fr-FR
+DOC: F: Pourquoi le nombre d'abonnés à notre podcast a baissé ce mois-ci ? / H: On a publié moins souvent, faute d'invités disponibles. Or, les auditeurs attendent un rendez-vous régulier. / F: Alors, préparons des épisodes à l'avance.
+Q: Pourquoi le nombre d'abonnés a-t-il baissé ?
++ Les épisodes ont été moins réguliers. | « On a publié moins souvent ».
+- Le son était mauvais. | Ce n'est pas dit.
+- Les invités étaient ennuyeux. | Ils n'étaient pas disponibles.
+- Les épisodes étaient trop longs. | Ce n'est pas dit.
+EXP: « Faute de » exprime une cause par manque.
+
+## CO 16 | B2 | interview | information détaillée | H:fr-FR, F:fr-CA
+DOC: H: Vous avez créé une association qui forme des jeunes à aider les seniors avec le numérique. Comment ça marche ? / F: Des étudiants rendent visite à des personnes âgées deux heures par semaine. En échange, ils obtiennent des crédits pour leurs études. Les deux générations y gagnent : les uns apprennent, les autres se sentent utiles.
+Q: Qu'obtiennent les étudiants en échange ?
++ Des crédits pour leurs études. | « ils obtiennent des crédits pour leurs études ».
+- Un salaire. | Ce n'est pas dit.
+- Un logement. | Ce n'est pas dit.
+- Un ordinateur. | Ce n'est pas dit.
+EXP: « En échange » introduit une contrepartie.
+
+## CO 17 | B2 | annonce publique | information précise | F:fr-FR
+DOC: F: Avis aux automobilistes : à compter du 1er septembre, la vitesse sera limitée à 30 km/h dans l'ensemble de la ville, à l'exception des grands boulevards, qui restent à 50 km/h. Des contrôles seront effectués dès la première semaine.
+Q: Où la vitesse reste-t-elle à 50 km/h ?
++ Sur les grands boulevards. | « à l'exception des grands boulevards ».
+- Dans toute la ville. | La ville passe à 30 km/h.
+- Près des écoles. | Ce n'est pas dit.
+- Sur les petites rues. | Elles passent à 30 km/h.
+EXP: « À l'exception de » = sauf.
+
+## CO 18 | B2 | information radio | relation logique | H:fr-FR
+DOC: H: Le recours à la médiation dans les conflits familiaux progresse fortement. En effet, les tribunaux sont débordés et les délais pour obtenir un jugement dépassent souvent un an. De plus, la médiation permet aux parents de construire eux-mêmes une solution, ce qui apaise les relations après la séparation.
+Q: Pourquoi la médiation apaise-t-elle les relations ?
++ Les parents construisent eux-mêmes la solution. | « permet aux parents de construire eux-mêmes une solution ».
+- Elle est plus rapide. | C'est un autre avantage, lié aux délais.
+- Elle est obligatoire. | Ce n'est pas dit.
+- Elle est faite par un juge. | Ce n'est pas dit.
+EXP: « De plus » ajoute un second argument.
+
+## CO 19 | B2 | débat | argumentation | H:fr-FR, F:fr-FR
+DOC: H: Imposer des repas végétariens à la cantine, c'est priver les enfants de protéines. / F: Pas du tout. Un repas à base de lentilles et d'œufs apporte autant de protéines qu'un steak. Et cela permet de financer des produits de meilleure qualité les autres jours.
+Q: Quel argument la femme ajoute-t-elle ?
++ Cela finance une meilleure qualité les autres jours. | « permet de financer des produits de meilleure qualité ».
+- Les enfants n'aiment pas la viande. | Ce n'est pas dit.
+- Les lentilles sont plus chères. | Ce n'est pas dit.
+- Les protéines sont inutiles. | Ce n'est pas dit.
+EXP: « Et » ajoute ici un argument économique.
+
+## CO 20 | B2 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous avez 78 ans et vous animez une chaîne de vidéos sur la cuisine. Comment avez-vous appris ? / H: Mon petit-fils m'a montré les bases. Le reste, je l'ai appris seul, en faisant des erreurs. Les gens croient que les vieux ont peur de la technologie. Ce n'est pas la peur, c'est qu'on ne nous explique pas.
+Q: Selon l'homme, pourquoi les seniors utilisent-ils peu la technologie ?
++ On ne leur explique pas. | « c'est qu'on ne nous explique pas ».
+- Ils ont peur. | Il conteste cette idée.
+- Ils n'ont pas d'argent. | Ce n'est pas dit.
+- Ils ne sont pas intéressés. | Ce n'est pas dit.
+EXP: « Ce n'est pas…, c'est… » corrige une idée reçue.
+
+## CO 21 | C1 | information radio | information détaillée | F:fr-FR
+DOC: F: Le projet de loi prévoit de rendre obligatoire une tentative de médiation avant toute action en justice pour les litiges de moins de 5 000 euros. Les avocats craignent une restriction de l'accès au juge, tandis que le gouvernement met en avant le désengorgement des tribunaux.
+Q: Quelle crainte les avocats expriment-ils ?
++ Un accès plus difficile au juge. | « une restriction de l'accès au juge ».
+- Le désengorgement des tribunaux. | C'est l'argument du gouvernement.
+- Une hausse des petits litiges. | Ce n'est pas dit.
+- La disparition des médiateurs. | Ce n'est pas dit.
+EXP: « Tandis que » oppose deux points de vue.
+
+## CO 22 | B2 | conversation professionnelle | intention | H:fr-FR, F:fr-FR
+DOC: H: J'ai lu ton projet de reportage sur les rues piétonnes. C'est bien, mais il manque le point de vue des habitants qui sont contre. / F: Tu as raison, je n'ai interrogé que des commerçants satisfaits. / H: Essaie de contacter l'association des riverains.
+Q: Que reproche l'homme au reportage ?
++ Il manque de points de vue opposés. | « il manque le point de vue des habitants qui sont contre ».
+- Il est trop long. | Ce n'est pas dit.
+- Il contient des erreurs. | Ce n'est pas dit.
+- Il critique trop les commerçants. | Ce n'est pas dit.
+EXP: Un reportage équilibré présente plusieurs points de vue.
+
+## CO 23 | C1 | débat | point de vue implicite | F:fr-FR, H:fr-FR
+DOC: F: On dit que les seniors sont exclus du numérique. / H: Ce sont surtout les services publics qui les excluent, en supprimant les guichets. Quand on ne peut plus parler à un être humain pour renouveler sa carte d'identité, ce n'est pas la personne âgée qui est en retard, c'est l'administration qui a oublié une partie de la population.
+Q: Qui l'homme rend-il responsable de l'exclusion ?
++ L'administration. | « c'est l'administration qui a oublié… ».
+- Les personnes âgées. | Il dit le contraire.
+- Les familles. | Ce n'est pas dit.
+- Les entreprises numériques. | Ce n'est pas dit.
+EXP: La mise en relief « c'est… qui » désigne le responsable.
+
+## CO 24 | C1 | interview | nuance | H:fr-FR, F:fr-FR
+DOC: H: Les substituts végétaux de la viande sont-ils une bonne chose ? / F: Ils peuvent faciliter la transition pour certains consommateurs. Mais beaucoup sont ultratransformés, très salés, avec de longues listes d'additifs. Mieux vaut, quand c'est possible, cuisiner directement des légumineuses.
+Q: Quelle est la position de la spécialiste ?
++ Ils peuvent aider, mais ne sont pas la meilleure option. | Elle nuance leur intérêt.
+- Ils sont parfaits pour la santé. | Elle signale des défauts.
+- Il faut les interdire. | Ce n'est pas dit.
+- La viande est meilleure. | Ce n'est pas dit.
+EXP: « Mieux vaut » exprime une préférence.
+
+## CO 25 | C1 | information radio | relation logique | H:fr-FR
+DOC: H: Contrairement aux idées reçues, la piétonnisation ne fait pas fuir les commerces. Une étude menée dans quinze villes montre même une hausse moyenne de la fréquentation. Néanmoins, les commerces qui dépendent de clients venus en voiture, comme les magasins de bricolage, en souffrent davantage, d'où l'importance de prévoir des parkings relais.
+Q: Pourquoi faut-il prévoir des parkings relais ?
++ Pour les commerces dépendant des clients en voiture. | « d'où l'importance de prévoir des parkings relais ».
+- Parce que la fréquentation baisse partout. | Elle augmente en moyenne.
+- Pour les piétons. | Ce n'est pas dit.
+- Parce que les commerces ferment. | Ce n'est pas dit.
+EXP: « D'où » introduit une conséquence.
+
+## CE 1 | A2 | annonce | information précise
+DOC: Restaurant « Le Potager » – Cuisine 100 % végétale. Menu du midi : entrée + plat + dessert, 16 €. Fermé le lundi. Réservation conseillée le week-end.
+Q: Quel jour le restaurant est-il fermé ?
++ Le lundi. | « Fermé le lundi ».
+- Le dimanche. | Ce n'est pas dit.
+- Le week-end. | Il est ouvert, réservation conseillée.
+- Le midi. | Il y a un menu du midi.
+EXP: Lisez attentivement les informations pratiques.
+
+## CE 2 | A2 | message | information précise
+DOC: Bonjour Monsieur Ferrand, je suis votre nouvelle voisine du 2e étage. Je fais une petite fête samedi soir pour mon anniversaire. Excusez-moi d'avance pour le bruit. Vous êtes invité si vous voulez ! Anaïs
+Q: Pourquoi Anaïs écrit-elle ?
++ Pour prévenir de la fête et inviter son voisin. | Elle s'excuse et l'invite.
+- Pour se plaindre du bruit. | C'est elle qui fera du bruit.
+- Pour demander de l'aide. | Ce n'est pas dit.
+- Pour annoncer son déménagement. | Elle vient d'arriver.
+EXP: Un message peut avoir deux objectifs.
+
+## CE 3 | A2 | affiche | information précise
+DOC: ATELIER « TABLETTE FACILE » – Pour les seniors. Apprenez à envoyer des photos et à faire des appels vidéo. Mardi 14 h – Salle des associations. Gratuit. Apportez votre tablette !
+Q: Que faut-il apporter ?
++ Sa tablette. | « Apportez votre tablette ! ».
+- Des photos imprimées. | Ce n'est pas dit.
+- De l'argent. | C'est gratuit.
+- Un ordinateur. | Ce n'est pas dit.
+EXP: L'impératif signale une consigne.
+
+## CE 4 | B1 | courriel | information précise
+DOC: Bonjour Madame Diaz, votre demande de médiation avec votre voisin a été enregistrée. Une première rencontre est prévue le 3 avril à 17 h à la maison de la justice. Votre voisin a accepté d'y participer. Si vous avez un empêchement, prévenez-nous au moins 48 heures avant. Le service de médiation.
+Q: Que doit faire Mme Diaz si elle ne peut pas venir ?
++ Prévenir au moins 48 heures avant. | « prévenez-nous au moins 48 heures avant ».
+- Envoyer son voisin seul. | Ce n'est pas dit.
+- Annuler sa demande. | Ce n'est pas dit.
+- Venir un autre jour sans prévenir. | Il faut prévenir.
+EXP: « Empêchement » = impossibilité de venir.
+
+## CE 5 | B1 | article de presse | information globale
+DOC: À Pontevedra, en Espagne, le centre-ville est interdit aux voitures depuis plus de vingt ans. La pollution a fortement baissé, les accidents ont presque disparu et les familles sont revenues habiter au centre. La ville est devenue un modèle étudié dans toute l'Europe.
+Q: De quoi parle cet article ?
++ D'une ville sans voitures devenue un modèle. | C'est l'idée principale.
+- D'une ville très polluée. | La pollution a baissé.
+- D'un accident de voiture. | Ce n'est pas dit.
+- D'une nouvelle route. | Ce n'est pas dit.
+EXP: La dernière phrase confirme le sujet.
+
+## CE 6 | B1 | lettre administrative | information précise
+DOC: Madame, Monsieur, vous êtes convoqué en qualité de témoin devant le tribunal de police le 12 juin à 9 h. Votre présence est obligatoire. En cas d'absence non justifiée, une amende pourra vous être infligée. Merci de vous présenter muni de cette convocation et d'une pièce d'identité.
+Q: Que risque la personne si elle ne vient pas sans justification ?
++ Une amende. | « une amende pourra vous être infligée ».
+- La prison. | Ce n'est pas dit.
+- Une nouvelle convocation. | Ce n'est pas dit.
+- Rien. | Elle risque une amende.
+EXP: « Infliger une amende » = imposer une amende.
+
+## CE 7 | B1 | publicité | intention
+DOC: Envie de manger moins de viande sans perdre le goût ? Découvrez « Graines & Co », nos box de recettes végétariennes livrées chez vous chaque semaine. Des plats savoureux, rapides et équilibrés. Première box à -50 % !
+Q: Que propose cette publicité ?
++ Des recettes végétariennes livrées à domicile. | « box de recettes végétariennes livrées chez vous ».
+- Un restaurant végétarien. | Ce n'est pas dit.
+- Des cours de cuisine. | Ce n'est pas dit.
+- De la viande de qualité. | C'est végétarien.
+EXP: Identifiez le produit vendu.
+
+## CE 8 | B1 | message professionnel | information précise
+DOC: Chère équipe, notre podcast « Voix d'ici » a dépassé les 100 000 écoutes ! Pour fêter ça, nous enregistrerons un épisode en public le vendredi 20 à 19 h au café du théâtre. Chacun peut inviter deux personnes. Merci de confirmer vos invités avant mercredi.
+Q: Combien de personnes chaque membre peut-il inviter ?
++ Deux. | « Chacun peut inviter deux personnes ».
+- Vingt. | C'est la date.
+- Aucune. | Ils peuvent inviter.
+- Autant qu'il veut. | C'est limité à deux.
+EXP: Ne confondez pas les chiffres du texte.
+
+## CE 9 | B1 | témoignage | opinion
+DOC: « J'avais peur que la rue piétonne fasse fuir mes clients. Je me trompais. Les familles viennent se promener, les enfants jouent, et mon café n'a jamais été aussi plein. Je regrette seulement que les travaux aient duré un an. » Karim, commerçant.
+Q: Que regrette Karim ?
++ La durée des travaux. | « Je regrette seulement que les travaux aient duré un an ».
+- La piétonnisation. | Il en est satisfait.
+- La perte de clients. | Il n'en a pas perdu.
+- Les enfants qui jouent. | Ce n'est pas un regret.
+EXP: « Seulement » limite le regret à un point.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: La consommation de viande en France a baissé de 12 % en dix ans. Ce recul s'explique par des préoccupations de santé, d'environnement et de bien-être animal, mais aussi par la hausse des prix. Les « flexitariens », qui réduisent leur consommation sans la supprimer, représentent désormais un tiers de la population.
+Q: Qui sont les « flexitariens » ?
++ Des personnes qui mangent moins de viande sans l'arrêter. | « réduisent leur consommation sans la supprimer ».
+- Des végétariens stricts. | Ils ne suppriment pas la viande.
+- Des éleveurs. | Ce n'est pas dit.
+- Des personnes qui mangent plus de viande. | C'est l'inverse.
+EXP: La définition est donnée dans la relative.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: On répète que la justice est trop lente. C'est vrai. Mais on oublie de dire que la France consacre à sa justice deux fois moins de moyens par habitant que l'Allemagne. Exiger des magistrats qu'ils jugent plus vite sans leur donner davantage de personnel relève de la pensée magique.
+Q: Quelle est l'intention de l'auteur ?
++ Montrer que la lenteur de la justice vient du manque de moyens. | Il compare les budgets.
+- Critiquer les magistrats. | Il les défend.
+- Défendre la justice allemande. | C'est une comparaison.
+- Réclamer la suppression des tribunaux. | Ce n'est pas dit.
+EXP: « Relève de la pensée magique » = est irréaliste.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Bonjour Lucie, j'ai écouté ton premier épisode : c'est très prometteur ! Le son est bon et ton invité est passionnant. Mon seul conseil : élague un peu l'introduction, qui dure cinq minutes. Les auditeurs veulent entrer vite dans le sujet. Bravo, Marc.
+Q: Que signifie « élague » dans ce courriel ?
++ Raccourcis. | L'introduction est trop longue.
+- Allonge. | C'est l'inverse.
+- Supprime entièrement. | Il dit « un peu ».
+- Enregistre à nouveau. | Ce n'est pas le sens.
+EXP: Au sens figuré, « élaguer » = retirer le superflu.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: Selon une enquête nationale, 30 % des plus de 75 ans n'ont jamais utilisé Internet. Parmi eux, deux sur trois déclarent avoir renoncé à une démarche administrative faute de pouvoir la réaliser en ligne. Les associations réclament le maintien d'un accueil physique dans tous les services publics.
+Q: Que réclament les associations ?
++ Un accueil physique dans les services publics. | « le maintien d'un accueil physique ».
+- Plus de démarches en ligne. | C'est le problème.
+- Des ordinateurs gratuits. | Ce n'est pas dit.
+- Des cours obligatoires. | Ce n'est pas dit.
+EXP: « Réclamer » = demander avec insistance.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Monsieur, nous accusons réception de votre demande d'aide juridictionnelle. Votre dossier est incomplet : il manque votre dernier avis d'imposition. Vous disposez d'un délai de quinze jours à compter de la réception de ce courrier pour le transmettre. À défaut, votre demande sera classée sans suite.
+Q: Que se passera-t-il si le document n'est pas envoyé à temps ?
++ La demande sera abandonnée. | « classée sans suite ».
+- Le délai sera prolongé. | Ce n'est pas dit.
+- L'aide sera accordée quand même. | Ce n'est pas le cas.
+- Il devra payer une amende. | Ce n'est pas dit.
+EXP: « Classer sans suite » = ne pas donner suite.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: Les podcasts sont gratuits pour l'auditeur. Pourtant, leur production coûte cher : matériel, montage, rémunération des invités. C'est pourquoi de nombreux créateurs se tournent vers le financement participatif ou la publicité.
+Q: Quel lien logique introduit « C'est pourquoi » ?
++ Une conséquence. | Les coûts expliquent le recours au financement.
+- Une opposition. | C'est « Pourtant » qui oppose.
+- Une cause. | Il introduit la conséquence.
+- Un exemple. | Ce n'est pas un exemple.
+EXP: « C'est pourquoi » = c'est la raison pour laquelle.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: La généralisation des 30 km/h en ville divise. Pour l'éditorialiste de notre journal, il s'agit d'une mesure de bon sens : à cette vitesse, un piéton renversé a neuf chances sur dix de survivre, contre une sur deux à 50 km/h. Les quelques minutes perdues pèsent peu face aux vies sauvées.
+Q: Quelle est l'opinion de l'éditorialiste ?
++ Il soutient la mesure au nom de la sécurité. | « mesure de bon sens… vies sauvées ».
+- Il s'y oppose. | Il la juge de bon sens.
+- Il est indifférent. | Il prend position.
+- Il pense que les minutes perdues sont essentielles. | Elles « pèsent peu ».
+EXP: Les chiffres servent d'argument.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: Le conciliateur de justice est un bénévole assermenté qui aide à régler à l'amiable les petits litiges : conflits de voisinage, impayés, problèmes entre propriétaire et locataire. Son intervention est gratuite. Il ne peut pas intervenir dans les affaires de divorce ou les litiges avec l'administration.
+Q: Dans quel cas ne peut-on pas faire appel au conciliateur ?
++ Pour un divorce. | « Il ne peut pas intervenir dans les affaires de divorce ».
+- Pour un conflit de voisinage. | C'est possible.
+- Pour un impayé. | C'est possible.
+- Pour un problème avec un propriétaire. | C'est possible.
+EXP: Repérez la phrase négative qui fixe les limites.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « Ma fille m'a offert une tablette pour que je l'appelle en vidéo. Depuis, c'est moi qui l'appelle tous les soirs. Elle me dit maintenant qu'elle est très occupée. » Jeanne, 81 ans.
+Q: Que sous-entend Jeanne avec humour ?
++ Sa fille est un peu dépassée par son enthousiasme. | Le cadeau s'est retourné contre la fille.
+- Elle n'utilise pas la tablette. | Elle l'utilise tous les soirs.
+- Sa fille l'appelle tous les soirs. | C'est l'inverse.
+- La tablette ne fonctionne pas. | Ce n'est pas dit.
+EXP: L'humour naît du renversement de situation.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Faut-il imposer un repas végétarien quotidien dans les cantines ? Ses défenseurs avancent l'argument écologique et la réduction des coûts. Ses opposants rappellent que pour certains enfants défavorisés, la cantine est le seul endroit où ils mangent de la viande, et craignent des carences.
+Q: Quelle crainte expriment les opposants ?
++ Des carences chez les enfants défavorisés. | « craignent des carences ».
+- Une hausse des coûts. | Les défenseurs parlent de réduction.
+- Un impact écologique. | C'est un argument des défenseurs.
+- Le refus des cuisiniers. | Ce n'est pas dit.
+EXP: Identifiez à qui appartient chaque argument.
+
+## CE 20 | B2 | article de presse | information détaillée
+DOC: La ville de Gand, en Belgique, a divisé son centre en six zones. Les voitures peuvent entrer dans chaque zone, mais pas passer directement de l'une à l'autre : elles doivent ressortir par le périphérique. Résultat : le trafic de transit a diminué de 25 % et l'usage du vélo a progressé de 60 %.
+Q: Comment fonctionne le système de Gand ?
++ Les voitures ne peuvent pas aller directement d'une zone à l'autre. | « pas passer directement de l'une à l'autre ».
+- Les voitures sont interdites partout. | Elles peuvent entrer dans chaque zone.
+- Les vélos sont interdits. | Leur usage a progressé.
+- Le périphérique est fermé. | Il sert de passage.
+EXP: Lisez précisément le mécanisme décrit.
+
+## CE 21 | C1 | texte argumentatif | thèse
+DOC: La fracture numérique n'est pas une affaire de génération. Des jeunes maîtrisent parfaitement les réseaux sociaux mais sont incapables de rédiger un courriel administratif ou de remplir une déclaration en ligne. Réduire le problème aux seniors, c'est ignorer qu'il traverse toutes les classes d'âge, selon le niveau d'éducation et de revenus.
+Q: Quelle est la thèse de l'auteur ?
++ La fracture numérique concerne tous les âges. | « n'est pas une affaire de génération ».
+- Seuls les seniors sont concernés. | Il conteste cette idée.
+- Les jeunes maîtrisent tout le numérique. | Il donne des contre-exemples.
+- Les réseaux sociaux sont dangereux. | Ce n'est pas dit.
+EXP: La thèse s'exprime souvent dès la première phrase.
+
+## CE 22 | C1 | article de presse | information implicite
+DOC: Le ministre a inauguré hier le nouveau palais de justice, « symbole d'une justice moderne et accessible ». Le bâtiment, situé à dix kilomètres du centre-ville, n'est desservi par aucune ligne de bus. Les avocats ont d'ores et déjà baptisé l'endroit « le palais du désert ».
+Q: Que laisse entendre l'article ?
++ Le palais de justice est difficilement accessible. | Le surnom contredit le discours officiel.
+- Le bâtiment est très moderne et pratique. | Il n'est pas desservi.
+- Les avocats sont satisfaits. | Ils se moquent.
+- Il y a un désert près du palais. | C'est une image.
+EXP: Le contraste entre citation et faits crée une critique.
+
+## CE 23 | C1 | texte argumentatif | ton
+DOC: Encore un rapport pour nous apprendre que la viande rouge, consommée en excès, nuit à la santé. Merci aux experts pour cette révélation. Il serait peut-être temps de passer de la constatation à l'action : étiquetage clair, éducation alimentaire, aides aux agriculteurs qui se diversifient.
+Q: Quel est le ton de l'auteur ?
++ Ironique et impatient. | « Merci… pour cette révélation » est ironique.
+- Reconnaissant. | Le remerciement est ironique.
+- Neutre. | Il exprime de l'impatience.
+- Inquiet. | Ce n'est pas le ton dominant.
+EXP: « Révélation » est employé par antiphrase.
+
+## CE 24 | C1 | article de presse | relation logique
+DOC: Loin de réduire les embouteillages, la construction de nouvelles routes tend à les aggraver à moyen terme : en rendant les déplacements en voiture plus faciles, elle incite davantage d'automobilistes à les utiliser. Ce phénomène, appelé « trafic induit », est aujourd'hui bien documenté.
+Q: Pourquoi les nouvelles routes aggravent-elles les embouteillages ?
++ Elles encouragent plus de gens à prendre la voiture. | « elle incite davantage d'automobilistes ».
+- Elles sont mal construites. | Ce n'est pas dit.
+- Elles réduisent les transports en commun. | Ce n'est pas dit.
+- Elles sont trop étroites. | Ce n'est pas dit.
+EXP: Le gérondif « en rendant » exprime la cause.
+
+## CE 25 | C1 | document informatif | reformulation
+DOC: Toute personne peut saisir gratuitement le Défenseur des droits lorsqu'elle s'estime victime d'une discrimination ou lorsqu'elle rencontre des difficultés dans ses relations avec un service public. La saisine n'interrompt pas les délais de recours devant les juridictions.
+Q: Quelle reformulation correspond au texte ?
++ Saisir le Défenseur des droits ne suspend pas les délais pour aller en justice. | « n'interrompt pas les délais de recours ».
+- Saisir le Défenseur des droits est payant. | C'est gratuit.
+- Le Défenseur des droits remplace le juge. | Ce n'est pas dit.
+- Il faut attendre sa réponse avant d'aller en justice. | Les délais continuent de courir.
+EXP: « Ne pas interrompre » = ne pas arrêter.
+
+## EE 1 | A2 | écrire un message
+CONSIGNE: Votre grand-père veut apprendre à utiliser une tablette. Vous lui écrivez un message pour lui proposer de l'aider (30 à 60 mots).
+MODELE: Bonjour Papi, maman m'a dit que tu avais une nouvelle tablette. Je peux venir t'aider dimanche après-midi, vers 15 heures. Je te montrerai comment envoyer des photos et appeler en vidéo. Prépare tes questions ! Tu es d'accord ? Je t'embrasse, Léo
+POINTS: salutation ; proposition ; date et heure ; contenu de l'aide ; question finale
+CONSEILS: Le futur simple (« je te montrerai ») sert à présenter un projet.
+
+## EE 2 | B1 | décrire un changement
+CONSIGNE: Le centre-ville de votre ville est devenu piéton. Vous écrivez un article pour le journal de votre quartier pour décrire ce changement et ses effets (40 à 90 mots).
+MODELE: Depuis trois mois, la rue de la République est réservée aux piétons. Le changement est spectaculaire : plus de bruit de moteurs, des terrasses partout et des enfants qui jouent en toute sécurité. Les commerçants, inquiets au début, constatent une hausse de leur clientèle. Certains habitants regrettent cependant de ne plus pouvoir se garer près de chez eux. Globalement, le quartier a gagné en convivialité, et beaucoup souhaitent étendre la zone piétonne aux rues voisines.
+POINTS: présentation du changement ; effets positifs ; réserves ; bilan
+CONSEILS: « Depuis » + présent indique une situation qui dure.
+
+## EE 3 | B2 | argumenter sur un sujet de société
+CONSIGNE: « Les cantines scolaires devraient proposer un repas végétarien tous les jours. » Vous donnez votre opinion sur le forum d'une association de parents (40 à 90 mots).
+MODELE: Je suis favorable à une option végétarienne quotidienne, mais pas obligatoire. D'une part, elle répond aux attentes de familles de plus en plus nombreuses, pour des raisons de santé, d'éthique ou de religion. D'autre part, elle permettrait de réduire l'impact environnemental des repas. Toutefois, imposer ce menu à tous priverait certains enfants d'un apport en viande qu'ils n'ont pas toujours à la maison. Laisser le choix me semble donc la solution la plus juste.
+POINTS: position nuancée ; deux arguments ; objection ; conclusion
+CONSEILS: « D'une part… d'autre part » structure l'argumentation.
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous pose des questions sur votre alimentation, votre ville et vos habitudes médiatiques.
+RELANCES: Mangez-vous souvent de la viande ? / Quel est votre plat préféré ? / Votre ville a-t-elle des rues piétonnes ? / Comment vous déplacez-vous ? / Écoutez-vous des podcasts ? / Aidez-vous des personnes âgées de votre entourage ?
+PHRASES: Je mange… environ… fois par semaine / Dans ma ville, il y a… / Je me déplace surtout… / J'écoute… pendant que… / J'aide… à…
+MODELE: Je mange de la viande deux ou trois fois par semaine, mais j'aime beaucoup les plats de lentilles. Dans ma ville, il y a une grande rue piétonne très agréable le samedi. Je me déplace surtout en tramway et à vélo. J'écoute des podcasts d'histoire pendant que je fais la cuisine. J'aide souvent ma voisine âgée à faire ses démarches en ligne.
+
+## EO 2 | B2 | Résoudre un conflit | Voisin
+SCENARIO: Votre voisin fait des travaux bruyants tous les dimanches matin depuis un mois. L'examinateur joue le rôle du voisin. Expliquez le problème calmement et trouvez un compromis.
+RELANCES: Bonjour, qu'y a-t-il ? / Je travaille toute la semaine, je n'ai que le dimanche. / Ce n'est que pour quelques heures. / Vous exagérez un peu. / Que proposez-vous ? / D'accord, mais…
+PHRASES: Je ne voudrais pas vous déranger, mais… / Je comprends que… / Ce serait possible de… ? / Que diriez-vous de… ? / Si on ne trouve pas d'accord, je serai obligé de…
+MODELE: Bonjour, je ne voudrais pas vous déranger, mais je voulais vous parler de vos travaux du dimanche matin. Je comprends que vous n'ayez que ce jour-là, mais c'est aussi mon seul jour de repos et j'ai un bébé. Que diriez-vous de commencer à partir de dix heures et d'arrêter à midi ? Le reste de l'après-midi, vous pourriez faire les travaux les moins bruyants. Je préfère vraiment qu'on trouve un accord entre nous.
+
+## EO 3 | B2 | Faut-il bannir la voiture des centres-villes ? | Examinateur
+SCENARIO: Donnez votre opinion : « Faut-il interdire les voitures dans les centres-villes ? » Argumentez, donnez des exemples, nuancez et concluez.
+RELANCES: Quelle est votre position ? / Quels avantages pour les habitants ? / Quels inconvénients pour les commerçants ou les personnes âgées ? / Quelles alternatives ? / Votre conclusion ?
+PHRASES: Je suis plutôt favorable à… / Cela permettrait de… / Il faut néanmoins penser à… / Des villes comme… ont montré que… / En conclusion…
+MODELE: Je suis plutôt favorable à une limitation forte de la voiture en centre-ville. Cela permettrait de réduire la pollution, le bruit et les accidents. Des villes comme Pontevedra ou Gand ont montré que les commerces en profitent souvent. Il faut néanmoins penser aux personnes âgées, aux personnes handicapées et aux livraisons, avec des exceptions et des navettes. En conclusion, je ne suis pas pour une interdiction totale, mais pour une transition accompagnée de transports en commun efficaces.

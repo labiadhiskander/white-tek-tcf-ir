@@ -1,0 +1,1973 @@
+{
+ "code": "EXAM-13",
+ "title": "Examen blanc n° 13 – Justice, assiette et ville apaisée",
+ "level": "B2",
+ "description": "Examen complet calibré B1–B2 : médiation et justice, alimentation végétale, centres-villes piétons, podcasts, seniors et numérique.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "F: Bonjour Mamie, c'est Julie. Je passe chez toi mercredi à 15 heures pour t'aider à installer ta nouvelle tablette. N'oublie pas de la charger avant !",
+   "prompt": "Que doit faire la grand-mère ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Appeler Julie.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Venir chez Julie.",
+     "correct": false,
+     "rationale": "C'est Julie qui passe."
+    },
+    {
+     "label": "C",
+     "text": "Acheter une tablette.",
+     "correct": false,
+     "rationale": "Elle en a déjà une nouvelle."
+    },
+    {
+     "label": "D",
+     "text": "Charger sa tablette.",
+     "correct": true,
+     "rationale": "« N'oublie pas de la charger avant ! »."
+    }
+   ],
+   "explanation": "L'impératif négatif « N'oublie pas » exprime une consigne.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: À partir du 1er mai, la rue principale sera réservée aux piétons tous les samedis et dimanches, de 10 heures à 19 heures. Les livraisons restent autorisées avant 10 heures.",
+   "prompt": "Quand la rue sera-t-elle piétonne ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Avant 10 heures.",
+     "correct": false,
+     "rationale": "C'est l'horaire des livraisons."
+    },
+    {
+     "label": "B",
+     "text": "Le 1er mai uniquement.",
+     "correct": false,
+     "rationale": "C'est la date de début."
+    },
+    {
+     "label": "C",
+     "text": "Tous les jours.",
+     "correct": false,
+     "rationale": "Seulement le week-end."
+    },
+    {
+     "label": "D",
+     "text": "Le week-end, de 10 h à 19 h.",
+     "correct": true,
+     "rationale": "« tous les samedis et dimanches, de 10 heures à 19 heures »."
+    }
+   ],
+   "explanation": "Distinguez la date de début et les horaires.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "H: Qu'est-ce que tu prends ? / F: Le burger végétarien, aux pois chiches. / H: Ah bon ? Tu ne manges plus de viande ? / F: Si, mais seulement le week-end.",
+   "prompt": "Quand la femme mange-t-elle de la viande ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le week-end.",
+     "correct": true,
+     "rationale": "« seulement le week-end »."
+    },
+    {
+     "label": "B",
+     "text": "Le midi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Tous les jours.",
+     "correct": false,
+     "rationale": "Seulement le week-end."
+    },
+    {
+     "label": "D",
+     "text": "Jamais.",
+     "correct": false,
+     "rationale": "Elle dit « Si »."
+    }
+   ],
+   "explanation": "« Si » répond positivement à une question négative.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "F: Mon voisin a planté une haie qui fait de l'ombre à tout mon jardin. Je pense porter plainte. / H: Avant ça, tu devrais essayer le conciliateur de justice. C'est gratuit et souvent plus rapide qu'un procès.",
+   "prompt": "Que conseille l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De déménager.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "De couper la haie elle-même.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "De porter plainte immédiatement.",
+     "correct": false,
+     "rationale": "Il conseille d'abord autre chose."
+    },
+    {
+     "label": "D",
+     "text": "De faire appel à un conciliateur.",
+     "correct": true,
+     "rationale": "« tu devrais essayer le conciliateur de justice »."
+    }
+   ],
+   "explanation": "« Avant ça, tu devrais » introduit un conseil alternatif.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "H: Bonjour, ici le studio Ondes Vives. Nous avons bien écouté votre projet de podcast sur la cuisine du monde. Nous vous proposons un premier enregistrement le 14 octobre. Pensez à préparer un plan détaillé de l'épisode et à venir avec votre invité.",
+   "prompt": "Que doit préparer la personne ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un micro.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Un contrat.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Une recette.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Un plan détaillé de l'épisode.",
+     "correct": true,
+     "rationale": "« préparer un plan détaillé de l'épisode »."
+    }
+   ],
+   "explanation": "« Pensez à » introduit une consigne.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information précise",
+   "document": "F: La médiathèque lance des ateliers numériques gratuits pour les plus de soixante ans. Au programme : envoyer un courriel, faire une visioconférence avec ses petits-enfants et effectuer ses démarches en ligne. Les ateliers ont lieu le jeudi matin, en petits groupes de six personnes.",
+   "prompt": "Combien de personnes participent à chaque atelier ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Soixante.",
+     "correct": false,
+     "rationale": "C'est l'âge minimum."
+    },
+    {
+     "label": "B",
+     "text": "Deux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Six.",
+     "correct": true,
+     "rationale": "« en petits groupes de six personnes »."
+    },
+    {
+     "label": "D",
+     "text": "Dix.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Ne confondez pas l'âge et la taille du groupe.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Depuis que le centre-ville est piéton, les commerces vont mieux ? / F: Au début, on avait peur de perdre des clients en voiture. Finalement, les gens restent plus longtemps, se promènent, s'arrêtent en terrasse. Mon chiffre d'affaires a augmenté de 10 %.",
+   "prompt": "Quel a été l'effet de la piétonnisation pour la commerçante ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle a déménagé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Son chiffre d'affaires a augmenté.",
+     "correct": true,
+     "rationale": "« a augmenté de 10 % »."
+    },
+    {
+     "label": "C",
+     "text": "Elle a perdu des clients.",
+     "correct": false,
+     "rationale": "C'était une crainte."
+    },
+    {
+     "label": "D",
+     "text": "Elle a fermé sa terrasse.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Finalement » marque le résultat après une crainte.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Le tribunal organise ce samedi une journée portes ouvertes. Les visiteurs pourront assister à un faux procès joué par des étudiants en droit et poser leurs questions à des magistrats. L'entrée est libre, mais une pièce d'identité sera demandée à l'accueil.",
+   "prompt": "Que faut-il présenter à l'entrée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une pièce d'identité.",
+     "correct": true,
+     "rationale": "« une pièce d'identité sera demandée »."
+    },
+    {
+     "label": "B",
+     "text": "Une carte d'étudiant.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Une convocation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Un billet.",
+     "correct": false,
+     "rationale": "L'entrée est libre."
+    }
+   ],
+   "explanation": "« Entrée libre » = gratuite et sans réservation.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "situation administrative",
+   "skill": "information précise",
+   "document": "F: Bonjour, je voudrais savoir si j'ai droit à un avocat gratuit. / H: Cela dépend de vos revenus. Vous pouvez demander l'aide juridictionnelle en remplissant ce formulaire. Joignez votre dernier avis d'imposition. La réponse arrive en général sous un mois.",
+   "prompt": "De quoi dépend l'aide juridictionnelle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Des revenus.",
+     "correct": true,
+     "rationale": "« Cela dépend de vos revenus »."
+    },
+    {
+     "label": "B",
+     "text": "De la nationalité.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "De l'âge.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Du type de procès.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Cela dépend de » introduit la condition.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "conversation professionnelle",
+   "skill": "information précise",
+   "document": "H: Pour le menu de la cantine, on garde un repas végétarien par semaine ? / F: La loi nous l'impose déjà. Je propose d'en faire deux, avec des produits locaux. / H: D'accord, mais il faudra former les cuisiniers.",
+   "prompt": "Que propose la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Deux repas végétariens par semaine.",
+     "correct": true,
+     "rationale": "« Je propose d'en faire deux »."
+    },
+    {
+     "label": "B",
+     "text": "Supprimer les repas végétariens.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Former les clients.",
+     "correct": false,
+     "rationale": "Il s'agit des cuisiniers."
+    },
+    {
+     "label": "D",
+     "text": "Un seul repas végétarien.",
+     "correct": false,
+     "rationale": "C'est ce qui existe déjà."
+    }
+   ],
+   "explanation": "« En » remplace « repas végétariens ».",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "F: Réduire la place de la voiture en ville, c'est améliorer la qualité de l'air. / H: Je suis d'accord, mais à condition de proposer des transports en commun efficaces. Sinon, on pénalise ceux qui habitent loin et qui n'ont pas d'autre choix que la voiture.",
+   "prompt": "Quelle condition pose l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Habiter en centre-ville.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Construire plus de parkings.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Proposer des transports en commun efficaces.",
+     "correct": true,
+     "rationale": "« à condition de proposer des transports en commun efficaces »."
+    },
+    {
+     "label": "D",
+     "text": "Interdire totalement les voitures.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« À condition de » introduit une condition.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "H: Les Français écoutent de plus en plus de podcasts : près d'un sur deux en écoute au moins un par mois. Histoire, faits divers, développement personnel : les thèmes sont variés. Les auditeurs apprécient de pouvoir écouter quand ils veulent, dans les transports ou en faisant du sport.",
+   "prompt": "Pourquoi les auditeurs apprécient-ils les podcasts ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour leur prix élevé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Parce qu'ils sont courts.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Parce qu'ils sont tous sur l'histoire.",
+     "correct": false,
+     "rationale": "Les thèmes sont variés."
+    },
+    {
+     "label": "D",
+     "text": "Pour la liberté d'écoute.",
+     "correct": true,
+     "rationale": "« pouvoir écouter quand ils veulent »."
+    }
+   ],
+   "explanation": "Repérez le verbe « apprécier ».",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous êtes nutritionniste. Faut-il arrêter complètement la viande ? / H: Pas nécessairement. On peut très bien manger un peu de viande de qualité, une ou deux fois par semaine. L'essentiel est de varier les sources de protéines : légumineuses, œufs, poisson. Le tout-ou-rien est rarement la bonne approche.",
+   "prompt": "Que pense le nutritionniste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faut manger de la viande tous les jours.",
+     "correct": false,
+     "rationale": "Une ou deux fois par semaine."
+    },
+    {
+     "label": "B",
+     "text": "Il faut varier les protéines sans forcément supprimer la viande.",
+     "correct": true,
+     "rationale": "« Pas nécessairement… varier les sources »."
+    },
+    {
+     "label": "C",
+     "text": "Il faut supprimer totalement la viande.",
+     "correct": false,
+     "rationale": "Il dit « Pas nécessairement »."
+    },
+    {
+     "label": "D",
+     "text": "Les œufs sont dangereux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Le tout-ou-rien » = les positions extrêmes.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "message téléphonique",
+   "skill": "intention",
+   "document": "H: Madame Leroy, ici Maître Garnier. J'ai étudié votre dossier de litige avec votre propriétaire. Avant d'aller au tribunal, je vous conseille de lui envoyer une mise en demeure par lettre recommandée. S'il ne répond pas sous quinze jours, nous engagerons la procédure. Rappelez-moi pour en discuter.",
+   "prompt": "Que recommande l'avocat ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Aller directement au tribunal.",
+     "correct": false,
+     "rationale": "C'est l'étape suivante."
+    },
+    {
+     "label": "B",
+     "text": "Envoyer d'abord une mise en demeure.",
+     "correct": true,
+     "rationale": "« je vous conseille de lui envoyer une mise en demeure »."
+    },
+    {
+     "label": "C",
+     "text": "Abandonner le litige.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Changer de logement.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Avant de » indique l'ordre des étapes.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "relation logique",
+   "document": "F: Pourquoi le nombre d'abonnés à notre podcast a baissé ce mois-ci ? / H: On a publié moins souvent, faute d'invités disponibles. Or, les auditeurs attendent un rendez-vous régulier. / F: Alors, préparons des épisodes à l'avance.",
+   "prompt": "Pourquoi le nombre d'abonnés a-t-il baissé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les épisodes étaient trop longs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les épisodes ont été moins réguliers.",
+     "correct": true,
+     "rationale": "« On a publié moins souvent »."
+    },
+    {
+     "label": "C",
+     "text": "Le son était mauvais.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les invités étaient ennuyeux.",
+     "correct": false,
+     "rationale": "Ils n'étaient pas disponibles."
+    }
+   ],
+   "explanation": "« Faute de » exprime une cause par manque.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "H: Vous avez créé une association qui forme des jeunes à aider les seniors avec le numérique. Comment ça marche ? / F: Des étudiants rendent visite à des personnes âgées deux heures par semaine. En échange, ils obtiennent des crédits pour leurs études. Les deux générations y gagnent : les uns apprennent, les autres se sentent utiles.",
+   "prompt": "Qu'obtiennent les étudiants en échange ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un salaire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Un ordinateur.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Un logement.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Des crédits pour leurs études.",
+     "correct": true,
+     "rationale": "« ils obtiennent des crédits pour leurs études »."
+    }
+   ],
+   "explanation": "« En échange » introduit une contrepartie.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-CA"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Avis aux automobilistes : à compter du 1er septembre, la vitesse sera limitée à 30 km/h dans l'ensemble de la ville, à l'exception des grands boulevards, qui restent à 50 km/h. Des contrôles seront effectués dès la première semaine.",
+   "prompt": "Où la vitesse reste-t-elle à 50 km/h ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dans toute la ville.",
+     "correct": false,
+     "rationale": "La ville passe à 30 km/h."
+    },
+    {
+     "label": "B",
+     "text": "Près des écoles.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Sur les petites rues.",
+     "correct": false,
+     "rationale": "Elles passent à 30 km/h."
+    },
+    {
+     "label": "D",
+     "text": "Sur les grands boulevards.",
+     "correct": true,
+     "rationale": "« à l'exception des grands boulevards »."
+    }
+   ],
+   "explanation": "« À l'exception de » = sauf.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: Le recours à la médiation dans les conflits familiaux progresse fortement. En effet, les tribunaux sont débordés et les délais pour obtenir un jugement dépassent souvent un an. De plus, la médiation permet aux parents de construire eux-mêmes une solution, ce qui apaise les relations après la séparation.",
+   "prompt": "Pourquoi la médiation apaise-t-elle les relations ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle est faite par un juge.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Elle est obligatoire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Elle est plus rapide.",
+     "correct": false,
+     "rationale": "C'est un autre avantage, lié aux délais."
+    },
+    {
+     "label": "D",
+     "text": "Les parents construisent eux-mêmes la solution.",
+     "correct": true,
+     "rationale": "« permet aux parents de construire eux-mêmes une solution »."
+    }
+   ],
+   "explanation": "« De plus » ajoute un second argument.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "H: Imposer des repas végétariens à la cantine, c'est priver les enfants de protéines. / F: Pas du tout. Un repas à base de lentilles et d'œufs apporte autant de protéines qu'un steak. Et cela permet de financer des produits de meilleure qualité les autres jours.",
+   "prompt": "Quel argument la femme ajoute-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Cela finance une meilleure qualité les autres jours.",
+     "correct": true,
+     "rationale": "« permet de financer des produits de meilleure qualité »."
+    },
+    {
+     "label": "B",
+     "text": "Les lentilles sont plus chères.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les enfants n'aiment pas la viande.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les protéines sont inutiles.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Et » ajoute ici un argument économique.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous avez 78 ans et vous animez une chaîne de vidéos sur la cuisine. Comment avez-vous appris ? / H: Mon petit-fils m'a montré les bases. Le reste, je l'ai appris seul, en faisant des erreurs. Les gens croient que les vieux ont peur de la technologie. Ce n'est pas la peur, c'est qu'on ne nous explique pas.",
+   "prompt": "Selon l'homme, pourquoi les seniors utilisent-ils peu la technologie ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils ne sont pas intéressés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Ils ont peur.",
+     "correct": false,
+     "rationale": "Il conteste cette idée."
+    },
+    {
+     "label": "C",
+     "text": "Ils n'ont pas d'argent.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "On ne leur explique pas.",
+     "correct": true,
+     "rationale": "« c'est qu'on ne nous explique pas »."
+    }
+   ],
+   "explanation": "« Ce n'est pas…, c'est… » corrige une idée reçue.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "F: Le projet de loi prévoit de rendre obligatoire une tentative de médiation avant toute action en justice pour les litiges de moins de 5 000 euros. Les avocats craignent une restriction de l'accès au juge, tandis que le gouvernement met en avant le désengorgement des tribunaux.",
+   "prompt": "Quelle crainte les avocats expriment-ils ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le désengorgement des tribunaux.",
+     "correct": false,
+     "rationale": "C'est l'argument du gouvernement."
+    },
+    {
+     "label": "B",
+     "text": "Un accès plus difficile au juge.",
+     "correct": true,
+     "rationale": "« une restriction de l'accès au juge »."
+    },
+    {
+     "label": "C",
+     "text": "La disparition des médiateurs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Une hausse des petits litiges.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Tandis que » oppose deux points de vue.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "H: J'ai lu ton projet de reportage sur les rues piétonnes. C'est bien, mais il manque le point de vue des habitants qui sont contre. / F: Tu as raison, je n'ai interrogé que des commerçants satisfaits. / H: Essaie de contacter l'association des riverains.",
+   "prompt": "Que reproche l'homme au reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il manque de points de vue opposés.",
+     "correct": true,
+     "rationale": "« il manque le point de vue des habitants qui sont contre »."
+    },
+    {
+     "label": "B",
+     "text": "Il est trop long.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Il critique trop les commerçants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Il contient des erreurs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Un reportage équilibré présente plusieurs points de vue.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "point de vue implicite",
+   "document": "F: On dit que les seniors sont exclus du numérique. / H: Ce sont surtout les services publics qui les excluent, en supprimant les guichets. Quand on ne peut plus parler à un être humain pour renouveler sa carte d'identité, ce n'est pas la personne âgée qui est en retard, c'est l'administration qui a oublié une partie de la population.",
+   "prompt": "Qui l'homme rend-il responsable de l'exclusion ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les personnes âgées.",
+     "correct": false,
+     "rationale": "Il dit le contraire."
+    },
+    {
+     "label": "B",
+     "text": "Les familles.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "L'administration.",
+     "correct": true,
+     "rationale": "« c'est l'administration qui a oublié… »."
+    },
+    {
+     "label": "D",
+     "text": "Les entreprises numériques.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La mise en relief « c'est… qui » désigne le responsable.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "interview",
+   "skill": "nuance",
+   "document": "H: Les substituts végétaux de la viande sont-ils une bonne chose ? / F: Ils peuvent faciliter la transition pour certains consommateurs. Mais beaucoup sont ultratransformés, très salés, avec de longues listes d'additifs. Mieux vaut, quand c'est possible, cuisiner directement des légumineuses.",
+   "prompt": "Quelle est la position de la spécialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faut les interdire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Ils sont parfaits pour la santé.",
+     "correct": false,
+     "rationale": "Elle signale des défauts."
+    },
+    {
+     "label": "C",
+     "text": "La viande est meilleure.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Ils peuvent aider, mais ne sont pas la meilleure option.",
+     "correct": true,
+     "rationale": "Elle nuance leur intérêt."
+    }
+   ],
+   "explanation": "« Mieux vaut » exprime une préférence.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: Contrairement aux idées reçues, la piétonnisation ne fait pas fuir les commerces. Une étude menée dans quinze villes montre même une hausse moyenne de la fréquentation. Néanmoins, les commerces qui dépendent de clients venus en voiture, comme les magasins de bricolage, en souffrent davantage, d'où l'importance de prévoir des parkings relais.",
+   "prompt": "Pourquoi faut-il prévoir des parkings relais ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour les commerces dépendant des clients en voiture.",
+     "correct": true,
+     "rationale": "« d'où l'importance de prévoir des parkings relais »."
+    },
+    {
+     "label": "B",
+     "text": "Pour les piétons.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Parce que la fréquentation baisse partout.",
+     "correct": false,
+     "rationale": "Elle augmente en moyenne."
+    },
+    {
+     "label": "D",
+     "text": "Parce que les commerces ferment.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« D'où » introduit une conséquence.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "Restaurant « Le Potager » – Cuisine 100 % végétale. Menu du midi : entrée + plat + dessert, 16 €. Fermé le lundi. Réservation conseillée le week-end.",
+   "prompt": "Quel jour le restaurant est-il fermé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le dimanche.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Le midi.",
+     "correct": false,
+     "rationale": "Il y a un menu du midi."
+    },
+    {
+     "label": "C",
+     "text": "Le week-end.",
+     "correct": false,
+     "rationale": "Il est ouvert, réservation conseillée."
+    },
+    {
+     "label": "D",
+     "text": "Le lundi.",
+     "correct": true,
+     "rationale": "« Fermé le lundi »."
+    }
+   ],
+   "explanation": "Lisez attentivement les informations pratiques."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Bonjour Monsieur Ferrand, je suis votre nouvelle voisine du 2e étage. Je fais une petite fête samedi soir pour mon anniversaire. Excusez-moi d'avance pour le bruit. Vous êtes invité si vous voulez ! Anaïs",
+   "prompt": "Pourquoi Anaïs écrit-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour prévenir de la fête et inviter son voisin.",
+     "correct": true,
+     "rationale": "Elle s'excuse et l'invite."
+    },
+    {
+     "label": "B",
+     "text": "Pour annoncer son déménagement.",
+     "correct": false,
+     "rationale": "Elle vient d'arriver."
+    },
+    {
+     "label": "C",
+     "text": "Pour se plaindre du bruit.",
+     "correct": false,
+     "rationale": "C'est elle qui fera du bruit."
+    },
+    {
+     "label": "D",
+     "text": "Pour demander de l'aide.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Un message peut avoir deux objectifs."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "affiche",
+   "skill": "information précise",
+   "document": "ATELIER « TABLETTE FACILE » – Pour les seniors. Apprenez à envoyer des photos et à faire des appels vidéo. Mardi 14 h – Salle des associations. Gratuit. Apportez votre tablette !",
+   "prompt": "Que faut-il apporter ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un ordinateur.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "De l'argent.",
+     "correct": false,
+     "rationale": "C'est gratuit."
+    },
+    {
+     "label": "C",
+     "text": "Sa tablette.",
+     "correct": true,
+     "rationale": "« Apportez votre tablette ! »."
+    },
+    {
+     "label": "D",
+     "text": "Des photos imprimées.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "L'impératif signale une consigne."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "courriel",
+   "skill": "information précise",
+   "document": "Bonjour Madame Diaz, votre demande de médiation avec votre voisin a été enregistrée. Une première rencontre est prévue le 3 avril à 17 h à la maison de la justice. Votre voisin a accepté d'y participer. Si vous avez un empêchement, prévenez-nous au moins 48 heures avant. Le service de médiation.",
+   "prompt": "Que doit faire Mme Diaz si elle ne peut pas venir ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Venir un autre jour sans prévenir.",
+     "correct": false,
+     "rationale": "Il faut prévenir."
+    },
+    {
+     "label": "B",
+     "text": "Envoyer son voisin seul.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Annuler sa demande.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Prévenir au moins 48 heures avant.",
+     "correct": true,
+     "rationale": "« prévenez-nous au moins 48 heures avant »."
+    }
+   ],
+   "explanation": "« Empêchement » = impossibilité de venir."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "À Pontevedra, en Espagne, le centre-ville est interdit aux voitures depuis plus de vingt ans. La pollution a fortement baissé, les accidents ont presque disparu et les familles sont revenues habiter au centre. La ville est devenue un modèle étudié dans toute l'Europe.",
+   "prompt": "De quoi parle cet article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "D'une ville sans voitures devenue un modèle.",
+     "correct": true,
+     "rationale": "C'est l'idée principale."
+    },
+    {
+     "label": "B",
+     "text": "D'une ville très polluée.",
+     "correct": false,
+     "rationale": "La pollution a baissé."
+    },
+    {
+     "label": "C",
+     "text": "D'un accident de voiture.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "D'une nouvelle route.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La dernière phrase confirme le sujet."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, Monsieur, vous êtes convoqué en qualité de témoin devant le tribunal de police le 12 juin à 9 h. Votre présence est obligatoire. En cas d'absence non justifiée, une amende pourra vous être infligée. Merci de vous présenter muni de cette convocation et d'une pièce d'identité.",
+   "prompt": "Que risque la personne si elle ne vient pas sans justification ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une nouvelle convocation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Rien.",
+     "correct": false,
+     "rationale": "Elle risque une amende."
+    },
+    {
+     "label": "C",
+     "text": "La prison.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Une amende.",
+     "correct": true,
+     "rationale": "« une amende pourra vous être infligée »."
+    }
+   ],
+   "explanation": "« Infliger une amende » = imposer une amende."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "publicité",
+   "skill": "intention",
+   "document": "Envie de manger moins de viande sans perdre le goût ? Découvrez « Graines & Co », nos box de recettes végétariennes livrées chez vous chaque semaine. Des plats savoureux, rapides et équilibrés. Première box à -50 % !",
+   "prompt": "Que propose cette publicité ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un restaurant végétarien.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Des recettes végétariennes livrées à domicile.",
+     "correct": true,
+     "rationale": "« box de recettes végétariennes livrées chez vous »."
+    },
+    {
+     "label": "C",
+     "text": "Des cours de cuisine.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "De la viande de qualité.",
+     "correct": false,
+     "rationale": "C'est végétarien."
+    }
+   ],
+   "explanation": "Identifiez le produit vendu."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "Chère équipe, notre podcast « Voix d'ici » a dépassé les 100 000 écoutes ! Pour fêter ça, nous enregistrerons un épisode en public le vendredi 20 à 19 h au café du théâtre. Chacun peut inviter deux personnes. Merci de confirmer vos invités avant mercredi.",
+   "prompt": "Combien de personnes chaque membre peut-il inviter ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Vingt.",
+     "correct": false,
+     "rationale": "C'est la date."
+    },
+    {
+     "label": "B",
+     "text": "Deux.",
+     "correct": true,
+     "rationale": "« Chacun peut inviter deux personnes »."
+    },
+    {
+     "label": "C",
+     "text": "Aucune.",
+     "correct": false,
+     "rationale": "Ils peuvent inviter."
+    },
+    {
+     "label": "D",
+     "text": "Autant qu'il veut.",
+     "correct": false,
+     "rationale": "C'est limité à deux."
+    }
+   ],
+   "explanation": "Ne confondez pas les chiffres du texte."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« J'avais peur que la rue piétonne fasse fuir mes clients. Je me trompais. Les familles viennent se promener, les enfants jouent, et mon café n'a jamais été aussi plein. Je regrette seulement que les travaux aient duré un an. » Karim, commerçant.",
+   "prompt": "Que regrette Karim ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La durée des travaux.",
+     "correct": true,
+     "rationale": "« Je regrette seulement que les travaux aient duré un an »."
+    },
+    {
+     "label": "B",
+     "text": "Les enfants qui jouent.",
+     "correct": false,
+     "rationale": "Ce n'est pas un regret."
+    },
+    {
+     "label": "C",
+     "text": "La piétonnisation.",
+     "correct": false,
+     "rationale": "Il en est satisfait."
+    },
+    {
+     "label": "D",
+     "text": "La perte de clients.",
+     "correct": false,
+     "rationale": "Il n'en a pas perdu."
+    }
+   ],
+   "explanation": "« Seulement » limite le regret à un point."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "La consommation de viande en France a baissé de 12 % en dix ans. Ce recul s'explique par des préoccupations de santé, d'environnement et de bien-être animal, mais aussi par la hausse des prix. Les « flexitariens », qui réduisent leur consommation sans la supprimer, représentent désormais un tiers de la population.",
+   "prompt": "Qui sont les « flexitariens » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Des personnes qui mangent plus de viande.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "B",
+     "text": "Des éleveurs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Des végétariens stricts.",
+     "correct": false,
+     "rationale": "Ils ne suppriment pas la viande."
+    },
+    {
+     "label": "D",
+     "text": "Des personnes qui mangent moins de viande sans l'arrêter.",
+     "correct": true,
+     "rationale": "« réduisent leur consommation sans la supprimer »."
+    }
+   ],
+   "explanation": "La définition est donnée dans la relative."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "On répète que la justice est trop lente. C'est vrai. Mais on oublie de dire que la France consacre à sa justice deux fois moins de moyens par habitant que l'Allemagne. Exiger des magistrats qu'ils jugent plus vite sans leur donner davantage de personnel relève de la pensée magique.",
+   "prompt": "Quelle est l'intention de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Réclamer la suppression des tribunaux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Défendre la justice allemande.",
+     "correct": false,
+     "rationale": "C'est une comparaison."
+    },
+    {
+     "label": "C",
+     "text": "Montrer que la lenteur de la justice vient du manque de moyens.",
+     "correct": true,
+     "rationale": "Il compare les budgets."
+    },
+    {
+     "label": "D",
+     "text": "Critiquer les magistrats.",
+     "correct": false,
+     "rationale": "Il les défend."
+    }
+   ],
+   "explanation": "« Relève de la pensée magique » = est irréaliste."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Bonjour Lucie, j'ai écouté ton premier épisode : c'est très prometteur ! Le son est bon et ton invité est passionnant. Mon seul conseil : élague un peu l'introduction, qui dure cinq minutes. Les auditeurs veulent entrer vite dans le sujet. Bravo, Marc.",
+   "prompt": "Que signifie « élague » dans ce courriel ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Supprime entièrement.",
+     "correct": false,
+     "rationale": "Il dit « un peu »."
+    },
+    {
+     "label": "B",
+     "text": "Allonge.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "Enregistre à nouveau.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "D",
+     "text": "Raccourcis.",
+     "correct": true,
+     "rationale": "L'introduction est trop longue."
+    }
+   ],
+   "explanation": "Au sens figuré, « élaguer » = retirer le superflu."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Selon une enquête nationale, 30 % des plus de 75 ans n'ont jamais utilisé Internet. Parmi eux, deux sur trois déclarent avoir renoncé à une démarche administrative faute de pouvoir la réaliser en ligne. Les associations réclament le maintien d'un accueil physique dans tous les services publics.",
+   "prompt": "Que réclament les associations ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Des cours obligatoires.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Des ordinateurs gratuits.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Plus de démarches en ligne.",
+     "correct": false,
+     "rationale": "C'est le problème."
+    },
+    {
+     "label": "D",
+     "text": "Un accueil physique dans les services publics.",
+     "correct": true,
+     "rationale": "« le maintien d'un accueil physique »."
+    }
+   ],
+   "explanation": "« Réclamer » = demander avec insistance."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Monsieur, nous accusons réception de votre demande d'aide juridictionnelle. Votre dossier est incomplet : il manque votre dernier avis d'imposition. Vous disposez d'un délai de quinze jours à compter de la réception de ce courrier pour le transmettre. À défaut, votre demande sera classée sans suite.",
+   "prompt": "Que se passera-t-il si le document n'est pas envoyé à temps ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il devra payer une amende.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "L'aide sera accordée quand même.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "C",
+     "text": "La demande sera abandonnée.",
+     "correct": true,
+     "rationale": "« classée sans suite »."
+    },
+    {
+     "label": "D",
+     "text": "Le délai sera prolongé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Classer sans suite » = ne pas donner suite."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "Les podcasts sont gratuits pour l'auditeur. Pourtant, leur production coûte cher : matériel, montage, rémunération des invités. C'est pourquoi de nombreux créateurs se tournent vers le financement participatif ou la publicité.",
+   "prompt": "Quel lien logique introduit « C'est pourquoi » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une opposition.",
+     "correct": false,
+     "rationale": "C'est « Pourtant » qui oppose."
+    },
+    {
+     "label": "B",
+     "text": "Une cause.",
+     "correct": false,
+     "rationale": "Il introduit la conséquence."
+    },
+    {
+     "label": "C",
+     "text": "Une conséquence.",
+     "correct": true,
+     "rationale": "Les coûts expliquent le recours au financement."
+    },
+    {
+     "label": "D",
+     "text": "Un exemple.",
+     "correct": false,
+     "rationale": "Ce n'est pas un exemple."
+    }
+   ],
+   "explanation": "« C'est pourquoi » = c'est la raison pour laquelle."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "La généralisation des 30 km/h en ville divise. Pour l'éditorialiste de notre journal, il s'agit d'une mesure de bon sens : à cette vitesse, un piéton renversé a neuf chances sur dix de survivre, contre une sur deux à 50 km/h. Les quelques minutes perdues pèsent peu face aux vies sauvées.",
+   "prompt": "Quelle est l'opinion de l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il est indifférent.",
+     "correct": false,
+     "rationale": "Il prend position."
+    },
+    {
+     "label": "B",
+     "text": "Il s'y oppose.",
+     "correct": false,
+     "rationale": "Il la juge de bon sens."
+    },
+    {
+     "label": "C",
+     "text": "Il soutient la mesure au nom de la sécurité.",
+     "correct": true,
+     "rationale": "« mesure de bon sens… vies sauvées »."
+    },
+    {
+     "label": "D",
+     "text": "Il pense que les minutes perdues sont essentielles.",
+     "correct": false,
+     "rationale": "Elles « pèsent peu »."
+    }
+   ],
+   "explanation": "Les chiffres servent d'argument."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "Le conciliateur de justice est un bénévole assermenté qui aide à régler à l'amiable les petits litiges : conflits de voisinage, impayés, problèmes entre propriétaire et locataire. Son intervention est gratuite. Il ne peut pas intervenir dans les affaires de divorce ou les litiges avec l'administration.",
+   "prompt": "Dans quel cas ne peut-on pas faire appel au conciliateur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour un divorce.",
+     "correct": true,
+     "rationale": "« Il ne peut pas intervenir dans les affaires de divorce »."
+    },
+    {
+     "label": "B",
+     "text": "Pour un problème avec un propriétaire.",
+     "correct": false,
+     "rationale": "C'est possible."
+    },
+    {
+     "label": "C",
+     "text": "Pour un impayé.",
+     "correct": false,
+     "rationale": "C'est possible."
+    },
+    {
+     "label": "D",
+     "text": "Pour un conflit de voisinage.",
+     "correct": false,
+     "rationale": "C'est possible."
+    }
+   ],
+   "explanation": "Repérez la phrase négative qui fixe les limites."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« Ma fille m'a offert une tablette pour que je l'appelle en vidéo. Depuis, c'est moi qui l'appelle tous les soirs. Elle me dit maintenant qu'elle est très occupée. » Jeanne, 81 ans.",
+   "prompt": "Que sous-entend Jeanne avec humour ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Sa fille est un peu dépassée par son enthousiasme.",
+     "correct": true,
+     "rationale": "Le cadeau s'est retourné contre la fille."
+    },
+    {
+     "label": "B",
+     "text": "Sa fille l'appelle tous les soirs.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "Elle n'utilise pas la tablette.",
+     "correct": false,
+     "rationale": "Elle l'utilise tous les soirs."
+    },
+    {
+     "label": "D",
+     "text": "La tablette ne fonctionne pas.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "L'humour naît du renversement de situation."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Faut-il imposer un repas végétarien quotidien dans les cantines ? Ses défenseurs avancent l'argument écologique et la réduction des coûts. Ses opposants rappellent que pour certains enfants défavorisés, la cantine est le seul endroit où ils mangent de la viande, et craignent des carences.",
+   "prompt": "Quelle crainte expriment les opposants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le refus des cuisiniers.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Une hausse des coûts.",
+     "correct": false,
+     "rationale": "Les défenseurs parlent de réduction."
+    },
+    {
+     "label": "C",
+     "text": "Des carences chez les enfants défavorisés.",
+     "correct": true,
+     "rationale": "« craignent des carences »."
+    },
+    {
+     "label": "D",
+     "text": "Un impact écologique.",
+     "correct": false,
+     "rationale": "C'est un argument des défenseurs."
+    }
+   ],
+   "explanation": "Identifiez à qui appartient chaque argument."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "La ville de Gand, en Belgique, a divisé son centre en six zones. Les voitures peuvent entrer dans chaque zone, mais pas passer directement de l'une à l'autre : elles doivent ressortir par le périphérique. Résultat : le trafic de transit a diminué de 25 % et l'usage du vélo a progressé de 60 %.",
+   "prompt": "Comment fonctionne le système de Gand ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les voitures sont interdites partout.",
+     "correct": false,
+     "rationale": "Elles peuvent entrer dans chaque zone."
+    },
+    {
+     "label": "B",
+     "text": "Le périphérique est fermé.",
+     "correct": false,
+     "rationale": "Il sert de passage."
+    },
+    {
+     "label": "C",
+     "text": "Les voitures ne peuvent pas aller directement d'une zone à l'autre.",
+     "correct": true,
+     "rationale": "« pas passer directement de l'une à l'autre »."
+    },
+    {
+     "label": "D",
+     "text": "Les vélos sont interdits.",
+     "correct": false,
+     "rationale": "Leur usage a progressé."
+    }
+   ],
+   "explanation": "Lisez précisément le mécanisme décrit."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "thèse",
+   "document": "La fracture numérique n'est pas une affaire de génération. Des jeunes maîtrisent parfaitement les réseaux sociaux mais sont incapables de rédiger un courriel administratif ou de remplir une déclaration en ligne. Réduire le problème aux seniors, c'est ignorer qu'il traverse toutes les classes d'âge, selon le niveau d'éducation et de revenus.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les réseaux sociaux sont dangereux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Seuls les seniors sont concernés.",
+     "correct": false,
+     "rationale": "Il conteste cette idée."
+    },
+    {
+     "label": "C",
+     "text": "Les jeunes maîtrisent tout le numérique.",
+     "correct": false,
+     "rationale": "Il donne des contre-exemples."
+    },
+    {
+     "label": "D",
+     "text": "La fracture numérique concerne tous les âges.",
+     "correct": true,
+     "rationale": "« n'est pas une affaire de génération »."
+    }
+   ],
+   "explanation": "La thèse s'exprime souvent dès la première phrase."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "information implicite",
+   "document": "Le ministre a inauguré hier le nouveau palais de justice, « symbole d'une justice moderne et accessible ». Le bâtiment, situé à dix kilomètres du centre-ville, n'est desservi par aucune ligne de bus. Les avocats ont d'ores et déjà baptisé l'endroit « le palais du désert ».",
+   "prompt": "Que laisse entendre l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les avocats sont satisfaits.",
+     "correct": false,
+     "rationale": "Ils se moquent."
+    },
+    {
+     "label": "B",
+     "text": "Le bâtiment est très moderne et pratique.",
+     "correct": false,
+     "rationale": "Il n'est pas desservi."
+    },
+    {
+     "label": "C",
+     "text": "Le palais de justice est difficilement accessible.",
+     "correct": true,
+     "rationale": "Le surnom contredit le discours officiel."
+    },
+    {
+     "label": "D",
+     "text": "Il y a un désert près du palais.",
+     "correct": false,
+     "rationale": "C'est une image."
+    }
+   ],
+   "explanation": "Le contraste entre citation et faits crée une critique."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "ton",
+   "document": "Encore un rapport pour nous apprendre que la viande rouge, consommée en excès, nuit à la santé. Merci aux experts pour cette révélation. Il serait peut-être temps de passer de la constatation à l'action : étiquetage clair, éducation alimentaire, aides aux agriculteurs qui se diversifient.",
+   "prompt": "Quel est le ton de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Inquiet.",
+     "correct": false,
+     "rationale": "Ce n'est pas le ton dominant."
+    },
+    {
+     "label": "B",
+     "text": "Reconnaissant.",
+     "correct": false,
+     "rationale": "Le remerciement est ironique."
+    },
+    {
+     "label": "C",
+     "text": "Neutre.",
+     "correct": false,
+     "rationale": "Il exprime de l'impatience."
+    },
+    {
+     "label": "D",
+     "text": "Ironique et impatient.",
+     "correct": true,
+     "rationale": "« Merci… pour cette révélation » est ironique."
+    }
+   ],
+   "explanation": "« Révélation » est employé par antiphrase."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "Loin de réduire les embouteillages, la construction de nouvelles routes tend à les aggraver à moyen terme : en rendant les déplacements en voiture plus faciles, elle incite davantage d'automobilistes à les utiliser. Ce phénomène, appelé « trafic induit », est aujourd'hui bien documenté.",
+   "prompt": "Pourquoi les nouvelles routes aggravent-elles les embouteillages ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elles sont mal construites.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Elles sont trop étroites.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Elles encouragent plus de gens à prendre la voiture.",
+     "correct": true,
+     "rationale": "« elle incite davantage d'automobilistes »."
+    },
+    {
+     "label": "D",
+     "text": "Elles réduisent les transports en commun.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Le gérondif « en rendant » exprime la cause."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "reformulation",
+   "document": "Toute personne peut saisir gratuitement le Défenseur des droits lorsqu'elle s'estime victime d'une discrimination ou lorsqu'elle rencontre des difficultés dans ses relations avec un service public. La saisine n'interrompt pas les délais de recours devant les juridictions.",
+   "prompt": "Quelle reformulation correspond au texte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Saisir le Défenseur des droits est payant.",
+     "correct": false,
+     "rationale": "C'est gratuit."
+    },
+    {
+     "label": "B",
+     "text": "Le Défenseur des droits remplace le juge.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Il faut attendre sa réponse avant d'aller en justice.",
+     "correct": false,
+     "rationale": "Les délais continuent de courir."
+    },
+    {
+     "label": "D",
+     "text": "Saisir le Défenseur des droits ne suspend pas les délais pour aller en justice.",
+     "correct": true,
+     "rationale": "« n'interrompt pas les délais de recours »."
+    }
+   ],
+   "explanation": "« Ne pas interrompre » = ne pas arrêter."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "écrire un message",
+   "instructions": "Votre grand-père veut apprendre à utiliser une tablette. Vous lui écrivez un message pour lui proposer de l'aider (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Bonjour Papi, maman m'a dit que tu avais une nouvelle tablette. Je peux venir t'aider dimanche après-midi, vers 15 heures. Je te montrerai comment envoyer des photos et appeler en vidéo. Prépare tes questions ! Tu es d'accord ? Je t'embrasse, Léo",
+   "tips": "Le futur simple (« je te montrerai ») sert à présenter un projet.",
+   "expected_points": [
+    "salutation",
+    "proposition",
+    "date et heure",
+    "contenu de l'aide",
+    "question finale"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "décrire un changement",
+   "instructions": "Le centre-ville de votre ville est devenu piéton. Vous écrivez un article pour le journal de votre quartier pour décrire ce changement et ses effets (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Depuis trois mois, la rue de la République est réservée aux piétons. Le changement est spectaculaire : plus de bruit de moteurs, des terrasses partout et des enfants qui jouent en toute sécurité. Les commerçants, inquiets au début, constatent une hausse de leur clientèle. Certains habitants regrettent cependant de ne plus pouvoir se garer près de chez eux. Globalement, le quartier a gagné en convivialité, et beaucoup souhaitent étendre la zone piétonne aux rues voisines.",
+   "tips": "« Depuis » + présent indique une situation qui dure.",
+   "expected_points": [
+    "présentation du changement",
+    "effets positifs",
+    "réserves",
+    "bilan"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "argumenter sur un sujet de société",
+   "instructions": "« Les cantines scolaires devraient proposer un repas végétarien tous les jours. » Vous donnez votre opinion sur le forum d'une association de parents (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Je suis favorable à une option végétarienne quotidienne, mais pas obligatoire. D'une part, elle répond aux attentes de familles de plus en plus nombreuses, pour des raisons de santé, d'éthique ou de religion. D'autre part, elle permettrait de réduire l'impact environnemental des repas. Toutefois, imposer ce menu à tous priverait certains enfants d'un apport en viande qu'ils n'ont pas toujours à la maison. Laisser le choix me semble donc la solution la plus juste.",
+   "tips": "« D'une part… d'autre part » structure l'argumentation.",
+   "expected_points": [
+    "position nuancée",
+    "deux arguments",
+    "objection",
+    "conclusion"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous pose des questions sur votre alimentation, votre ville et vos habitudes médiatiques.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Mangez-vous souvent de la viande ?",
+    "Quel est votre plat préféré ?",
+    "Votre ville a-t-elle des rues piétonnes ?",
+    "Comment vous déplacez-vous ?",
+    "Écoutez-vous des podcasts ?",
+    "Aidez-vous des personnes âgées de votre entourage ?"
+   ],
+   "useful_phrases": [
+    "Je mange… environ… fois par semaine",
+    "Dans ma ville, il y a…",
+    "Je me déplace surtout…",
+    "J'écoute… pendant que…",
+    "J'aide… à…"
+   ],
+   "model_answer": "Je mange de la viande deux ou trois fois par semaine, mais j'aime beaucoup les plats de lentilles. Dans ma ville, il y a une grande rue piétonne très agréable le samedi. Je me déplace surtout en tramway et à vélo. J'écoute des podcasts d'histoire pendant que je fais la cuisine. J'aide souvent ma voisine âgée à faire ses démarches en ligne."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Résoudre un conflit",
+   "examiner_role": "Voisin",
+   "scenario": "Votre voisin fait des travaux bruyants tous les dimanches matin depuis un mois. L'examinateur joue le rôle du voisin. Expliquez le problème calmement et trouvez un compromis.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Bonjour, qu'y a-t-il ?",
+    "Je travaille toute la semaine, je n'ai que le dimanche.",
+    "Ce n'est que pour quelques heures.",
+    "Vous exagérez un peu.",
+    "Que proposez-vous ?",
+    "D'accord, mais…"
+   ],
+   "useful_phrases": [
+    "Je ne voudrais pas vous déranger, mais…",
+    "Je comprends que…",
+    "Ce serait possible de… ?",
+    "Que diriez-vous de… ?",
+    "Si on ne trouve pas d'accord, je serai obligé de…"
+   ],
+   "model_answer": "Bonjour, je ne voudrais pas vous déranger, mais je voulais vous parler de vos travaux du dimanche matin. Je comprends que vous n'ayez que ce jour-là, mais c'est aussi mon seul jour de repos et j'ai un bébé. Que diriez-vous de commencer à partir de dix heures et d'arrêter à midi ? Le reste de l'après-midi, vous pourriez faire les travaux les moins bruyants. Je préfère vraiment qu'on trouve un accord entre nous."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il bannir la voiture des centres-villes ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion : « Faut-il interdire les voitures dans les centres-villes ? » Argumentez, donnez des exemples, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Quelle est votre position ?",
+    "Quels avantages pour les habitants ?",
+    "Quels inconvénients pour les commerçants ou les personnes âgées ?",
+    "Quelles alternatives ?",
+    "Votre conclusion ?"
+   ],
+   "useful_phrases": [
+    "Je suis plutôt favorable à…",
+    "Cela permettrait de…",
+    "Il faut néanmoins penser à…",
+    "Des villes comme… ont montré que…",
+    "En conclusion…"
+   ],
+   "model_answer": "Je suis plutôt favorable à une limitation forte de la voiture en centre-ville. Cela permettrait de réduire la pollution, le bruit et les accidents. Des villes comme Pontevedra ou Gand ont montré que les commerces en profitent souvent. Il faut néanmoins penser aux personnes âgées, aux personnes handicapées et aux livraisons, avec des exceptions et des navettes. En conclusion, je ne suis pas pour une interdiction totale, mais pour une transition accompagnée de transports en commun efficaces."
+  }
+ ]
+}
