@@ -133,7 +133,7 @@ def build(src_root: Path, out_root: Path) -> list[str]:
                      if kind in ("expression", "connecteur")
                      else parse_transformations(f, kind, errors))
             for it in items:
-                key = (kind, it["text"].lower())
+                key = (kind, it["text"].lower(), it["category"])
                 if key in seen:
                     errors.append(f"{f.name}: doublon « {it['text']} »")
                 seen.add(key)
