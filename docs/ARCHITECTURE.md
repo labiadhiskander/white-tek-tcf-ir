@@ -152,6 +152,21 @@ exercice + correction) ; `vocab_words` ; `grammar_chapters` → `grammar_exercis
   productions de l'apprenant, exercices des chapitres liés aux difficultés récurrentes,
   diagnostic si le journal est vide ; chaque exercice indique pourquoi il est proposé.
 
+## 6 quinquies. Tableau de bord
+
+* `services/progress.py` : historique par compétence, niveau estimé (moyenne des
+  5 derniers résultats), statut de préparation par compétence (« stabilisé »,
+  « à confirmer », « insuffisant », « non évalué »), avis global prudent, minutes
+  d'entraînement par jour (exercices, examens plafonnés à 3 h, productions libres),
+  avancement du programme de 12 semaines et recommandations priorisées avec la page
+  à ouvrir.
+* Règle « prêt » : les 3 derniers résultats ET la moyenne récente de CHAQUE
+  compétence atteignent B2, et au moins 2 examens blancs complets (4 épreuves) ont
+  été passés. Une seule bonne note ne suffit jamais.
+* `ui/pages/dashboard_page.py` : bandeau d'avis, 12 indicateurs, tableau de
+  préparation, courbes CECRL, minutes par semaine, programme, erreurs fréquentes,
+  recommandations avec boutons « Y aller », mention d'estimation pédagogique.
+
 ## 7. Distribution
 
 PyInstaller (exécutable autonome, Python embarqué) puis Inno Setup (installateur
