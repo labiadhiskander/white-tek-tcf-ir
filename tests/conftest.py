@@ -59,3 +59,28 @@ def content_root(tmp_path) -> Path:
     (root / "exams" / "test.json").write_text(json.dumps(make_exam(), ensure_ascii=False),
                                               encoding="utf-8")
     return root
+
+
+@pytest.fixture(autouse=True)
+def _qt_cleanup():
+    """Détruit les widgets créés par un test avant le suivant.
+
+    Sans cela, des widgets orphelins (et leurs QMediaPlayer / QTimer) survivent
+    jusqu'à la fin de l'interpréteur et sont détruits après QApplication, ce qui
+    provoque des plantages aléatoires à la sortie de pytest."""
+    yield
+    try:
+        from PySide6.QtCore import QCoreApplication, QEvent
+        from PySide6.QtWidgets import QApplication
+    except ImportError:
+        return
+    app = QApplication.instance()
+    if app is None:
+        return
+    for w in QApplication.topLevelWidgets():
+        w.close()
+        w.deleteLater()
+    QCoreApplication.sendPostedEvents(None, QEvent.DeferredDelete)
+    QCoreApplication.processEvents()
+    import gc
+    gc.collect()

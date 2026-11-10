@@ -106,6 +106,25 @@ exercice + correction) ; `vocab_words` ; `grammar_chapters` → `grammar_exercis
 * `services/writing_service.py` : enregistrement (`writing_submissions`) et note EE
   d'une tentative (moyenne des 3 tâches, une tâche non rendue vaut 0).
 
+## 6 ter. Expression orale
+
+* `services/recorder.py` : enregistrement du micro (WAV mono 16 kHz, sounddevice),
+  mis en pause pendant que l'examinateur simulé parle ; `speech_profile()` mesure le
+  temps de parole et les longues pauses à partir de l'énergie du signal.
+* `services/stt.py` : reconnaissance vocale hors ligne Vosk (modèle
+  `vosk-model-small-fr-0.22`, cherché dans le paramètre `stt_model_path`, puis
+  `<données>/modeles`, puis les ressources embarquées ; `tools/fetch_vosk_model.py`
+  le télécharge avant la création de l'installateur). Sans micro ou sans modèle,
+  la réponse peut être saisie au clavier.
+* `services/speaking_eval.py` : quatre critères (tâche, aisance, lexique,
+  morphosyntaxe) ; éléments attendus propres à chaque tâche ; débit, pauses,
+  hésitations ; plafonds pour les productions courtes ; la prononciation n'est pas
+  notée. Avertissement officiel + mise en garde sur la transcription automatique.
+* `services/speaking_service.py` : enregistrement en base, réévaluation après
+  correction de la transcription, suppression d'un enregistrement ou d'une
+  production ; si « Conserver les enregistrements » est décoché, le fichier audio
+  est supprimé dès la transcription.
+
 ## 7. Distribution
 
 PyInstaller (exécutable autonome, Python embarqué) puis Inno Setup (installateur

@@ -70,6 +70,16 @@ class AudioSettingsCard(Card):
         self.cache_info.setObjectName("Muted")
         self.lay.addWidget(self.cache_info)
 
+        self.voice_info = QLabel()
+        self.voice_info.setWordWrap(True)
+        self.lay.addWidget(self.voice_info)
+        row3 = QHBoxLayout()
+        model_btn = QPushButton("Choisir le dossier du modèle de reconnaissance vocale…")
+        model_btn.clicked.connect(self._choose_model)
+        row3.addWidget(model_btn)
+        row3.addStretch(1)
+        self.lay.addLayout(row3)
+
     # ----------------------------------------------------------------
     @property
     def generator(self):
@@ -102,6 +112,29 @@ class AudioSettingsCard(Card):
                     "⚠ Aucune voix française installée. Windows : Paramètres > Heure et "
                     "langue > Voix > Ajouter des voix > Français (France, Canada…). " + err)
         self._update_cache_info()
+        mic = "✔ micro détecté" if getattr(self.ctx, "recorder", None) else "⚠ aucun micro"
+        stt = getattr(self.ctx, "stt", None)
+        self.voice_info.setText(
+            f"Expression orale : {mic} · reconnaissance vocale : "
+            + ("✔ hors ligne (Vosk)" if stt else
+               "⚠ modèle français absent – téléchargez « vosk-model-small-fr-0.22 » sur "
+               "alphacephei.com/vosk/models et indiquez son dossier ci-dessous."))
+
+    def _choose_model(self) -> None:
+        from PySide6.QtWidgets import QFileDialog
+        from tcfmaster.services.stt import default_engine, find_model
+        d = QFileDialog.getExistingDirectory(self, "Dossier du modèle Vosk")
+        if not d:
+            return
+        from pathlib import Path
+        if find_model([Path(d)]) is None:
+            QMessageBox.warning(self, "Reconnaissance vocale",
+                                "Ce dossier ne contient pas de modèle Vosk.")
+            return
+        with self.ctx.db.session() as s:
+            S.set_(s, "stt_model_path", d)
+        self.ctx.stt = default_engine([Path(d)])
+        self.refresh()
 
     def _update_cache_info(self) -> None:
         files = list(self.ctx.paths.audio_cache.glob("co_*.wav"))
