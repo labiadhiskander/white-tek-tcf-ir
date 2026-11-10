@@ -1,0 +1,490 @@
+@code EXAM-09
+@title Examen blanc n° 9 – Énergie, médias et loisirs
+@level B2
+@description Examen complet calibré B1–B2 : économies d'énergie, presse, sport amateur, festivals, consommation.
+
+## CO 1 | A2 | annonce publique | information précise | F:fr-FR
+DOC: F: Bienvenue à bord du TGV à destination de Bordeaux. La voiture-bar se trouve en voiture 4. Prochain arrêt : Poitiers, dans une heure.
+Q: Où se trouve la voiture-bar ?
++ En voiture 4. | « La voiture-bar se trouve en voiture 4 ».
+- À Poitiers. | C'est le prochain arrêt.
+- À Bordeaux. | C'est la destination.
+- En voiture 1. | Ce n'est pas dit.
+EXP: Ne confondez pas le lieu dans le train et les gares.
+
+## CO 2 | A2 | message téléphonique | information précise | H:fr-FR
+DOC: H: Salut Julie, c'est Kevin. Le match de basket de samedi est annulé, le gymnase est fermé pour travaux. On jouera dimanche à 10 heures au gymnase Jean-Jaurès. À dimanche !
+Q: Pourquoi le match de samedi est-il annulé ?
++ Le gymnase est fermé pour travaux. | « le gymnase est fermé pour travaux ».
+- Il pleut. | Ce n'est pas dit.
+- Des joueurs sont malades. | Ce n'est pas dit.
+- L'arbitre est absent. | Ce n'est pas dit.
+EXP: La cause suit l'annonce de l'annulation.
+
+## CO 3 | A2 | conversation quotidienne | information précise | F:fr-FR, H:fr-FR
+DOC: F: Tu as pensé à éteindre le chauffage avant de partir ? / H: Non, j'ai oublié ! / F: Ce n'est pas grave, on peut le faire avec l'application sur le téléphone. / H: Ah oui, c'est pratique. Voilà, c'est fait.
+Q: Comment l'homme éteint-il le chauffage ?
++ Avec une application sur son téléphone. | « on peut le faire avec l'application ».
+- Il rentre à la maison. | Ce n'est pas nécessaire.
+- Il appelle un voisin. | Ce n'est pas dit.
+- Il ne l'éteint pas. | « c'est fait ».
+EXP: La solution est proposée par la femme puis réalisée.
+
+## CO 4 | B1 | conversation quotidienne | intention | H:fr-FR, F:fr-FR
+DOC: H: Vous êtes la nouvelle voisine ? Bienvenue dans l'immeuble ! Je m'appelle Gérard, j'habite au troisième. Si vous avez besoin de quoi que ce soit, n'hésitez pas. / F: C'est très gentil, merci. Je m'appelle Leïla. / H: Et le jeudi, on sort les poubelles jaunes, au cas où.
+Q: Que fait l'homme ?
++ Il accueille sa nouvelle voisine et lui donne une information pratique. | Bienvenue et rappel des poubelles.
+- Il se plaint du bruit. | Ce n'est pas dit.
+- Il lui demande un service. | Il propose son aide.
+- Il lui vend son appartement. | Ce n'est pas dit.
+EXP: « Au cas où » = pour le cas où ce serait utile.
+
+## CO 5 | B1 | message professionnel | information précise | F:fr-FR
+DOC: F: Bonjour Monsieur Petit, ici l'agence immobilière Ville et Maison. Le propriétaire a accepté votre offre de 240 000 euros pour la maison de la rue des Roses. Il faudrait maintenant prendre rendez-vous chez le notaire pour signer le compromis de vente. Rappelez-moi pour fixer une date.
+Q: Quelle est la prochaine étape ?
++ Signer le compromis chez le notaire. | « prendre rendez-vous chez le notaire pour signer le compromis ».
+- Visiter la maison. | L'offre est déjà acceptée.
+- Faire une nouvelle offre. | Elle est acceptée.
+- Payer la totalité immédiatement. | Ce n'est pas dit.
+EXP: « Compromis de vente » = avant-contrat d'achat immobilier.
+
+## CO 6 | B1 | information radio | information précise | H:fr-FR
+DOC: H: Le festival de jazz de la ville se déroulera du 5 au 8 juillet. Cette année, une scène gratuite sera installée sur la place du marché pour les jeunes talents. Les concerts payants auront lieu au théâtre antique. Les billets sont en vente à l'office de tourisme.
+Q: Où peut-on voir des concerts gratuits ?
++ Sur la place du marché. | « une scène gratuite… sur la place du marché ».
+- Au théâtre antique. | Les concerts y sont payants.
+- À l'office de tourisme. | On y achète les billets.
+- Dans les bars. | Ce n'est pas dit.
+EXP: Distinguez les lieux selon le prix.
+
+## CO 7 | B1 | interview | opinion | F:fr-FR, H:fr-CA
+DOC: F: Vous avez commencé le marathon à quarante ans. Pourquoi ? / H: Mon médecin m'a dit de faire du sport. J'ai commencé par courir dix minutes, puis vingt… Aujourd'hui, j'ai couru cinq marathons. Ce que j'aime, ce n'est pas la compétition, c'est le dépassement de soi. Et l'ambiance des courses est extraordinaire.
+Q: Qu'est-ce que l'homme aime dans la course ?
++ Se dépasser et l'ambiance. | « le dépassement de soi » et « l'ambiance ».
+- Gagner des compétitions. | « ce n'est pas la compétition ».
+- Obéir à son médecin. | C'était la raison de départ.
+- Courir seul. | Ce n'est pas dit.
+EXP: « Ce n'est pas X, c'est Y » distingue la vraie motivation.
+
+## CO 8 | B1 | annonce publique | information précise | F:fr-CH
+DOC: F: En raison du risque d'incendie, les barbecues et les feux sont strictement interdits dans toutes les forêts du canton jusqu'à nouvel ordre. Les contrevenants s'exposent à une amende de 500 francs.
+Q: Que risquent ceux qui ne respectent pas l'interdiction ?
++ Une amende. | « une amende de 500 francs ».
+- La prison. | Ce n'est pas dit.
+- Une interdiction d'entrer dans la forêt. | Ce n'est pas dit.
+- Rien. | Une amende est prévue.
+EXP: « Contrevenants » = ceux qui ne respectent pas la règle. « Jusqu'à nouvel ordre » = sans date de fin connue.
+
+## CO 9 | B1 | situation administrative | information précise | H:fr-FR, F:fr-FR
+DOC: H: Bonjour, je voudrais savoir comment obtenir une aide pour isoler ma maison. / F: Vous pouvez demander MaPrimeRénov'. Il faut d'abord faire un diagnostic énergétique, puis choisir un artisan certifié. La demande se fait en ligne, avant le début des travaux. / H: Avant ? / F: Oui, sinon vous ne pourrez pas être aidé.
+Q: Quand faut-il faire la demande d'aide ?
++ Avant de commencer les travaux. | « avant le début des travaux… sinon vous ne pourrez pas être aidé ».
+- Après les travaux. | C'est trop tard.
+- Pendant les travaux. | Ce n'est pas dit.
+- N'importe quand. | Il y a une condition.
+EXP: L'insistance (« Avant ? — Oui, sinon… ») souligne la condition.
+
+## CO 10 | B1 | conversation professionnelle | information précise | F:fr-FR, H:fr-FR
+DOC: F: Le journal veut un article sur le marché de Noël pour mercredi. Tu peux t'en occuper ? / H: Oui, mais j'aurai besoin d'un photographe. / F: Camille est disponible mardi après-midi. / H: Parfait, je l'accompagne mardi et j'écris l'article le soir même.
+Q: Quand l'article sera-t-il écrit ?
++ Mardi soir. | « j'écris l'article le soir même » (mardi).
+- Mercredi. | C'est la date de publication.
+- Lundi. | Ce n'est pas dit.
+- Jeudi. | Ce n'est pas dit.
+EXP: « Le soir même » renvoie au mardi.
+
+## CO 11 | B2 | débat | opinion | H:fr-FR, F:fr-FR
+DOC: H: Il faudrait baisser le chauffage à dix-sept degrés dans tous les bâtiments publics. / F: Dix-sept degrés dans les bureaux, d'accord, on peut mettre un pull. Mais dans les écoles maternelles ou les maisons de retraite, ce serait irresponsable. Les enfants et les personnes âgées sont beaucoup plus sensibles au froid.
+Q: Quelle est la position de la femme ?
++ Elle accepte la mesure, sauf pour les publics fragiles. | Accord pour les bureaux, refus pour les écoles et maisons de retraite.
+- Elle refuse totalement la mesure. | Elle l'accepte pour les bureaux.
+- Elle veut augmenter le chauffage partout. | Ce n'est pas dit.
+- Elle pense que les enfants n'ont pas froid. | C'est le contraire.
+EXP: « D'accord… Mais… » : accord partiel avec exceptions.
+
+## CO 12 | B2 | information radio | information globale | F:fr-FR
+DOC: F: La confiance des Français dans les médias atteint son plus bas niveau depuis trente ans, selon un baromètre annuel. Moins d'un sur trois estime que les journalistes sont indépendants des pouvoirs politiques et économiques. Paradoxalement, la consommation d'informations n'a jamais été aussi élevée.
+Q: Qu'est-ce qui est présenté comme paradoxal ?
++ On consomme beaucoup d'informations malgré une faible confiance. | « Paradoxalement, la consommation d'informations n'a jamais été aussi élevée ».
+- La confiance a augmenté. | Elle a baissé.
+- Les journalistes sont indépendants. | Les Français en doutent.
+- Le baromètre est publié chaque année. | Ce n'est pas paradoxal.
+EXP: « Paradoxalement » souligne une contradiction.
+
+## CO 13 | B2 | interview | information détaillée | H:fr-FR, F:fr-FR
+DOC: H: Vous avez rénové votre maison pour qu'elle consomme presque zéro énergie. Combien ça vous a coûté ? / F: Environ soixante mille euros, avec les aides. C'est beaucoup, mais ma facture de chauffage est passée de deux mille euros par an à presque rien. Dans vingt-cinq ans, l'investissement sera remboursé. Et surtout, la maison est confortable en hiver comme en été.
+Q: Qu'est-ce que la femme souligne surtout ?
++ Le confort de la maison toute l'année. | « Et surtout, la maison est confortable en hiver comme en été ».
+- Le prix très bas des travaux. | Elle dit que « c'est beaucoup ».
+- L'absence d'aides publiques. | Elle a reçu des aides.
+- La hausse de sa facture. | Elle a baissé.
+EXP: « Et surtout » met en avant l'argument principal.
+
+## CO 14 | B2 | message téléphonique | implicite | F:fr-FR
+DOC: F: Allô Sébastien, c'est Nathalie, la trésorière du club. Tu sais, la cotisation annuelle… Je crois que tu es le seul à ne pas encore l'avoir réglée. Je sais que tu as beaucoup de travail, ce n'est sûrement qu'un oubli. Je te rappelle juste que l'assemblée générale est vendredi.
+Q: Que comprend-on ?
++ Nathalie rappelle poliment à Sébastien qu'il doit payer avant vendredi. | Rappel diplomatique de la cotisation impayée.
+- Sébastien a déjà payé sa cotisation. | Il est le seul à ne pas l'avoir réglée.
+- Nathalie annule l'assemblée générale. | Ce n'est pas dit.
+- Nathalie est très en colère. | Elle reste aimable.
+EXP: Formules diplomatiques : « ce n'est sûrement qu'un oubli », « je te rappelle juste ».
+
+## CO 15 | B2 | conversation professionnelle | relation logique | H:fr-FR, F:fr-BE
+DOC: H: Pourquoi le nombre d'abonnés du journal a augmenté alors que tous les autres perdent des lecteurs ? / F: Parce qu'on a misé sur l'information locale. Les gens trouvent les actualités nationales partout gratuitement, mais pour savoir ce qui se passe dans leur village ou au conseil municipal, il n'y a que nous.
+Q: Comment la femme explique-t-elle le succès du journal ?
++ Il propose une information locale qu'on ne trouve pas ailleurs. | « on a misé sur l'information locale… il n'y a que nous ».
+- Il est gratuit. | Il s'agit d'abonnés.
+- Il traite surtout l'actualité internationale. | C'est l'information locale.
+- Il a baissé ses prix. | Ce n'est pas dit.
+EXP: « Miser sur » = faire le choix stratégique de.
+
+## CO 16 | B2 | interview | information détaillée | F:fr-FR, H:fr-CH
+DOC: F: Vous organisez un festival de musique « zéro déchet ». Comment faites-vous ? / H: Pas de bouteilles en plastique : chacun reçoit une gourde à l'entrée. Les verres sont consignés, un euro, rendu au retour. Les stands de nourriture utilisent de la vaisselle lavable. Et les toilettes sont sèches. La première année, les festivaliers râlaient un peu ; maintenant, ils en sont fiers.
+Q: Comment les festivaliers ont-ils réagi au début ?
++ Ils étaient un peu mécontents. | « La première année, les festivaliers râlaient un peu ».
+- Ils étaient immédiatement enthousiastes. | Ils râlaient.
+- Ils ont boycotté le festival. | Ce n'est pas dit.
+- Ils ont demandé des bouteilles en plastique. | Ce n'est pas dit.
+EXP: « Râler » = protester, se plaindre (familier).
+
+## CO 17 | B2 | annonce publique | information précise | H:fr-FR
+DOC: H: Le fournisseur d'électricité informe ses clients qu'une coupure de courant aura lieu mardi de 9 h à 12 h dans les rues Victor-Hugo et Pasteur, pour des travaux sur le réseau. Les clients utilisant un appareil médical électrique sont invités à contacter le service client afin d'organiser une solution de secours.
+Q: Qui doit contacter le service client ?
++ Les personnes qui utilisent un appareil médical électrique. | C'est la consigne donnée.
+- Tous les habitants de la ville. | Seulement deux rues sont concernées.
+- Les commerçants. | Ce n'est pas dit.
+- Les personnes absentes mardi. | Ce n'est pas dit.
+EXP: Repérez le public visé par la consigne.
+
+## CO 18 | B2 | information radio | relation logique | F:fr-FR
+DOC: F: Les clubs sportifs amateurs manquent de bénévoles. Les dirigeants expliquent que les responsabilités administratives et juridiques se sont alourdies ces dernières années, découragent de nombreux parents qui se contentaient autrefois d'encadrer un entraînement. Sans renouvellement, certains clubs pourraient disparaître.
+Q: Pourquoi les bénévoles sont-ils moins nombreux ?
++ Les responsabilités administratives et juridiques sont plus lourdes. | « se sont alourdies… découragent de nombreux parents ».
+- Les enfants ne veulent plus faire de sport. | Ce n'est pas dit.
+- Les clubs refusent les parents. | Ce n'est pas dit.
+- Les entraînements sont trop longs. | Ce n'est pas dit.
+EXP: La cause est suivie de la conséquence possible (disparition de clubs).
+
+## CO 19 | B2 | débat | argumentation | H:fr-FR, F:fr-FR
+DOC: F: Les compteurs électriques intelligents permettent de suivre sa consommation et de faire des économies. / H: En théorie. Mais combien de gens regardent vraiment leurs courbes de consommation ? Et ces compteurs collectent des données très précises sur nos habitudes : à quelle heure on se lève, quand on part en vacances. Je ne suis pas sûr que ce soit sans risque.
+Q: Quelles réserves l'homme exprime-t-il ?
++ Peu de gens les utilisent vraiment et ils posent un problème de vie privée. | Deux objections : usage réel et données collectées.
+- Ils coûtent trop cher. | Ce n'est pas dit.
+- Ils augmentent la consommation. | Ce n'est pas dit.
+- Ils tombent souvent en panne. | Ce n'est pas dit.
+EXP: « En théorie. Mais » oppose la théorie et la pratique.
+
+## CO 20 | B2 | interview | implicite | H:fr-FR, F:fr-FR
+DOC: H: Votre émission de radio existe depuis trente ans. Comment avez-vous duré si longtemps ? / F: J'ai vu passer onze directeurs de la station. Chacun voulait changer mon émission à son arrivée. Je les ai tous écoutés très poliment… et j'ai continué à faire exactement la même chose.
+Q: Que comprend-on ?
++ L'animatrice a gardé son style malgré les pressions. | Elle a écouté poliment puis n'a rien changé.
+- Elle a suivi tous les conseils des directeurs. | C'est le contraire.
+- Elle a été directrice de la station. | Ce n'est pas dit.
+- Son émission a beaucoup changé. | Elle a fait « exactement la même chose ».
+EXP: L'humour vient du contraste entre la politesse et la désobéissance tranquille.
+
+## CO 21 | C1 | information radio | information détaillée | H:fr-FR
+DOC: H: Une commune bretonne a créé une coopérative citoyenne d'énergie : les habitants ont financé ensemble l'installation de panneaux solaires sur les toits de l'école et du gymnase. L'électricité produite est revendue, et les bénéfices servent à financer des projets locaux. Chaque habitant peut devenir sociétaire à partir de cent euros.
+Q: À quoi servent les bénéfices de la coopérative ?
++ À financer des projets locaux. | « les bénéfices servent à financer des projets locaux ».
+- À baisser les impôts. | Ce n'est pas dit.
+- À rémunérer la mairie. | Ce n'est pas dit.
+- À acheter du gaz. | Ce n'est pas dit.
+EXP: « Sociétaire » = membre d'une coopérative qui en détient une part.
+
+## CO 22 | B2 | conversation professionnelle | intention | F:fr-FR, H:fr-FR
+DOC: F: Votre article sur l'entreprise Durand contenait une erreur : vous avez écrit qu'elle allait licencier cent personnes, alors qu'il s'agit de départs volontaires. / H: Vous avez raison, j'ai mal interprété le communiqué. / F: L'entreprise demande un rectificatif. Il faut le publier dès demain, en page 3. / H: Je m'en occupe tout de suite.
+Q: Que demande la rédactrice en chef ?
++ De publier une correction rapidement. | « Il faut le publier dès demain ».
+- De supprimer le journal. | Ce n'est pas dit.
+- De licencier le journaliste. | Ce n'est pas dit.
+- D'écrire un nouvel article sur un autre sujet. | Ce n'est pas dit.
+EXP: « Rectificatif » = texte qui corrige une erreur publiée.
+
+## CO 23 | C1 | débat | argumentation | H:fr-FR, F:fr-CA
+DOC: H: Le nucléaire, c'est la seule énergie capable de produire beaucoup d'électricité sans émettre de CO2. / F: Sans CO2, certes. Mais on oublie les déchets radioactifs, dont personne ne sait vraiment quoi faire pour des milliers d'années, et les coûts des nouvelles centrales, qui explosent. Je ne dis pas qu'il faut tout arrêter demain, mais miser uniquement sur le nucléaire serait une erreur.
+Q: Quelle est la position de la femme ?
++ Elle refuse de miser uniquement sur le nucléaire. | « miser uniquement sur le nucléaire serait une erreur ».
+- Elle veut arrêter immédiatement toutes les centrales. | « Je ne dis pas qu'il faut tout arrêter demain ».
+- Elle pense que le nucléaire émet beaucoup de CO2. | Elle admet qu'il n'en émet pas.
+- Elle soutient sans réserve le nucléaire. | Elle émet des réserves.
+EXP: « Certes. Mais » : concession puis objections.
+
+## CO 24 | C1 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Le sport professionnel est-il devenu trop commercial ? / H: Il l'est devenu, c'est indéniable : les salaires astronomiques, les matchs programmés à des heures absurdes pour les télévisions étrangères… Mais il ne faut pas oublier que cet argent finance aussi, en partie, le sport amateur et les centres de formation. Le problème, c'est la répartition, pas l'argent en soi.
+Q: Selon l'homme, quel est le vrai problème ?
++ La mauvaise répartition de l'argent. | « Le problème, c'est la répartition, pas l'argent en soi ».
+- L'existence même de l'argent dans le sport. | « pas l'argent en soi ».
+- Les centres de formation. | Ils bénéficient de cet argent.
+- Le sport amateur. | Ce n'est pas le problème.
+EXP: La phrase finale hiérarchise le problème.
+
+## CO 25 | C1 | information radio | implicite | H:fr-FR
+DOC: H: Le gouvernement appelle les Français à la sobriété énergétique et à baisser le chauffage d'un degré. Dans le même temps, les patinoires couvertes des stations de ski restent ouvertes en plein mois d'août. Chacun appréciera la cohérence.
+Q: Que sous-entend le journaliste ?
++ Il existe une contradiction dans les politiques énergétiques. | « Chacun appréciera la cohérence » est ironique.
+- Le gouvernement est très cohérent. | Le ton est ironique.
+- Les patinoires sont fermées. | Elles restent ouvertes.
+- Il faut augmenter le chauffage. | Ce n'est pas dit.
+EXP: « Chacun appréciera » est une formule ironique pour souligner une incohérence.
+
+## CE 1 | A2 | annonce | information précise
+DOC: Club de randonnée « Les Marcheurs » – Sorties tous les dimanches matin. Rendez-vous à 8 h devant la mairie. Prévoir des chaussures de marche et de l'eau. Adhésion annuelle : 25 €. Première sortie d'essai gratuite.
+Q: Où est le rendez-vous ?
++ Devant la mairie. | « Rendez-vous à 8 h devant la mairie ».
+- À la gare. | Ce n'est pas dit.
+- Au parc. | Ce n'est pas dit.
+- Au club. | Ce n'est pas dit.
+EXP: Repérez le lieu du rendez-vous.
+
+## CE 2 | A2 | message | information précise
+DOC: Bonjour Monsieur, je suis votre voisine du 4e. Votre colis est arrivé pendant votre absence. Le livreur me l'a laissé. Vous pouvez venir le chercher ce soir après 19 h. Bonne journée, Mme Dubois.
+Q: Où est le colis ?
++ Chez la voisine du 4e. | « Le livreur me l'a laissé ».
+- À la poste. | Ce n'est pas dit.
+- Devant la porte. | Ce n'est pas dit.
+- Chez le gardien. | Ce n'est pas dit.
+EXP: « Me » renvoie à Mme Dubois.
+
+## CE 3 | A2 | affiche | information précise
+DOC: ÉCONOMISEZ L'ÉNERGIE ! Éteignez la lumière en quittant une pièce. Ne laissez pas vos appareils en veille. Fermez les fenêtres quand le chauffage est allumé.
+Q: Que conseille l'affiche quand le chauffage est allumé ?
++ Fermer les fenêtres. | « Fermez les fenêtres quand le chauffage est allumé ».
+- Ouvrir les fenêtres. | C'est le contraire.
+- Éteindre la lumière. | C'est un autre conseil.
+- Allumer les appareils. | Ce n'est pas dit.
+EXP: Associez chaque conseil à sa situation.
+
+## CE 4 | B1 | courriel | intention
+DOC: Madame la rédactrice, j'ai lu avec intérêt votre article sur le projet de nouvelle piscine. Cependant, vous indiquez qu'elle sera construite près de la gare, alors que le conseil municipal a choisi le terrain du stade. Pourriez-vous corriger cette information ? Cordialement, Jean Moreau, conseiller municipal
+Q: Pourquoi Jean Moreau écrit-il ?
++ Pour signaler une erreur dans un article. | Il demande de corriger l'emplacement.
+- Pour féliciter la journaliste. | Ce n'est pas l'objectif principal.
+- Pour s'opposer au projet de piscine. | Ce n'est pas dit.
+- Pour proposer un nouveau terrain. | Ce n'est pas dit.
+EXP: « Cependant » introduit la correction.
+
+## CE 5 | B1 | article de presse | information globale
+DOC: Dans un village du Jura, l'unique café a fermé l'an dernier. Les habitants ont décidé de le racheter ensemble et de le transformer en café associatif. Géré par des bénévoles, il propose aussi un dépôt de pain, un point poste et des soirées concerts. « C'est redevenu le cœur du village », se réjouit le maire.
+Q: Qu'ont fait les habitants ?
++ Ils ont racheté le café pour le faire revivre. | « les habitants ont décidé de le racheter ensemble ».
+- Ils ont construit une nouvelle mairie. | Ce n'est pas dit.
+- Ils ont fermé le café. | Il avait déjà fermé.
+- Ils ont ouvert une boulangerie. | C'est un dépôt de pain dans le café.
+EXP: « Associatif » = géré par une association.
+
+## CE 6 | B1 | lettre administrative | information précise
+DOC: Madame, votre facture d'électricité du mois de janvier présente un montant anormalement élevé en raison d'une erreur de relevé de compteur. Une facture rectificative vous sera envoyée dans les quinze jours. Vous n'avez pas à régler la facture initiale.
+Q: Que doit faire la cliente ?
++ Ne pas payer la première facture. | « Vous n'avez pas à régler la facture initiale ».
+- Payer la facture initiale. | C'est l'inverse.
+- Relever elle-même son compteur. | Ce n'est pas dit.
+- Changer de fournisseur. | Ce n'est pas dit.
+EXP: « Rectificative » = qui corrige.
+
+## CE 7 | B1 | publicité | information précise
+DOC: Abonnez-vous au journal Le Quotidien du Sud ! Version numérique : 9,90 € par mois. Version papier livrée chez vous + numérique : 24,90 € par mois. Le premier mois est offert pour tout nouvel abonné.
+Q: Que comprend la formule à 24,90 € ?
++ Le journal papier livré et la version numérique. | « Version papier livrée chez vous + numérique ».
+- Seulement la version numérique. | C'est la formule à 9,90 €.
+- Un mois gratuit uniquement. | C'est une offre de bienvenue.
+- Un magazine en plus. | Ce n'est pas dit.
+EXP: Comparez les deux offres.
+
+## CE 8 | B1 | message professionnel | information précise
+DOC: Chers collègues, pour réduire notre consommation d'énergie, le chauffage des bureaux sera réglé à 19 °C. Le soir, les ordinateurs devront être éteints, et non mis en veille. Les lumières des couloirs s'allumeront désormais uniquement à la détection de mouvement.
+Q: Que doivent faire les employés le soir ?
++ Éteindre complètement leur ordinateur. | « les ordinateurs devront être éteints, et non mis en veille ».
+- Mettre leur ordinateur en veille. | C'est ce qu'il faut éviter.
+- Régler le chauffage à 19 °C. | C'est automatique.
+- Allumer les lumières des couloirs. | Elles s'allument seules.
+EXP: « Et non » exclut une option.
+
+## CE 9 | B1 | témoignage | opinion
+DOC: « Je n'avais jamais fait de théâtre. À cinquante ans, je me suis inscrit à un atelier amateur. J'étais terrorisé à l'idée de monter sur scène. Le jour de la première représentation, j'ai oublié une réplique, mais le public a ri et j'ai continué. Aujourd'hui, je ne pourrais plus m'en passer. » Philippe, 54 ans.
+Q: Que ressent Philippe aujourd'hui ?
++ Il ne peut plus se passer du théâtre. | « je ne pourrais plus m'en passer ».
+- Il a peur de monter sur scène. | C'était au début.
+- Il a arrêté le théâtre. | Ce n'est pas dit.
+- Il regrette d'avoir oublié une réplique. | Ce n'est pas le cas.
+EXP: « Se passer de » = vivre sans.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: Les podcasts d'information connaissent un succès croissant, notamment auprès des 25-35 ans. Format long, ton personnel, possibilité d'écouter à tout moment : ils répondent à une demande d'approfondissement que les journaux télévisés, jugés trop rapides, ne satisfont plus. Les médias traditionnels s'y lancent désormais à leur tour.
+Q: Pourquoi les podcasts ont-ils du succès ?
++ Ils permettent d'approfondir l'information. | « ils répondent à une demande d'approfondissement ».
+- Ils sont plus courts que les journaux télévisés. | Ils sont plus longs.
+- Ils sont réservés aux seniors. | Ils plaisent aux 25-35 ans.
+- Les médias traditionnels les interdisent. | Ils s'y lancent.
+EXP: « À leur tour » = eux aussi, après les autres.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: On nous incite à changer nos ampoules, à débrancher nos chargeurs, à prendre des douches plus courtes. Ces gestes sont utiles, mais ils ne doivent pas faire oublier que l'essentiel des émissions provient de l'industrie, des transports et du bâtiment. Faire porter tout l'effort sur les individus, c'est détourner l'attention des véritables leviers.
+Q: Quelle idée l'auteur défend-il ?
++ Les gestes individuels ne suffisent pas ; il faut agir sur les grands secteurs. | « détourner l'attention des véritables leviers ».
+- Les gestes individuels sont inutiles. | Il dit qu'ils sont « utiles ».
+- L'industrie ne pollue pas. | C'est le contraire.
+- Il faut prendre des douches plus longues. | Ce n'est pas dit.
+EXP: « Ces gestes sont utiles, mais » : concession avant la thèse.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Cher adhérent, l'assemblée générale de notre association se tiendra le 15 mars. Si vous ne pouvez pas y assister, vous pouvez donner procuration à un autre membre afin qu'il vote en votre nom.
+Q: Que signifie « donner procuration » ?
++ autoriser quelqu'un à agir à sa place. | « afin qu'il vote en votre nom ».
+- démissionner. | Ce n'est pas le sens.
+- payer sa cotisation. | Ce n'est pas le sens.
+- proposer sa candidature. | Ce n'est pas le sens.
+EXP: Une procuration est un document qui autorise quelqu'un à agir pour soi.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: Pour lutter contre les fausses informations, plusieurs lycées ont mis en place des ateliers d'éducation aux médias animés par des journalistes. Les élèves apprennent à vérifier l'origine d'une photo, à identifier une source fiable et à repérer les techniques de manipulation. Selon une enquête, les participants partagent deux fois moins de rumeurs sur les réseaux sociaux.
+Q: Quel résultat est observé chez les participants ?
++ Ils partagent moins de fausses informations. | « partagent deux fois moins de rumeurs ».
+- Ils veulent tous devenir journalistes. | Ce n'est pas dit.
+- Ils n'utilisent plus les réseaux sociaux. | Ce n'est pas dit.
+- Ils lisent plus de journaux papier. | Ce n'est pas dit.
+EXP: « Deux fois moins » = divisé par deux.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Monsieur, nous accusons réception de votre réclamation concernant la panne de votre chaudière, survenue pendant la période de garantie. Un technicien interviendra sous 72 heures. La réparation ainsi que le déplacement seront intégralement pris en charge, conformément aux conditions de votre contrat d'entretien.
+Q: Qui paiera la réparation ?
++ L'entreprise, dans le cadre du contrat. | « intégralement pris en charge ».
+- Le client. | Ce n'est pas le cas.
+- Le client et l'entreprise à moitié. | C'est « intégralement ».
+- L'assurance habitation. | Ce n'est pas dit.
+EXP: « Pris en charge » = payé par quelqu'un d'autre.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: Les chaînes d'information en continu doivent remplir l'antenne vingt-quatre heures sur vingt-quatre. Faute d'informations nouvelles, elles multiplient les débats et les commentaires. Si bien que l'opinion finit par prendre plus de place que le fait lui-même.
+Q: Quelle conséquence l'auteur décrit-il ?
++ Les opinions prennent plus de place que les faits. | « Si bien que l'opinion finit par prendre plus de place que le fait ».
+- Les chaînes manquent de journalistes. | Ce n'est pas dit.
+- Les débats disparaissent. | Ils se multiplient.
+- Les informations nouvelles sont trop nombreuses. | C'est le contraire.
+EXP: « Si bien que » introduit une conséquence.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: Le projet d'implantation d'un parc éolien sur les collines du village suscite des réactions variées. Le maire met en avant les recettes fiscales pour la commune. Certains habitants dénoncent la dégradation du paysage, tandis que d'autres, plus nombreux selon un sondage local, y sont favorables au nom de la transition énergétique.
+Q: Selon le sondage, quelle est l'opinion majoritaire ?
++ Une majorité d'habitants est favorable au projet. | « d'autres, plus nombreux selon un sondage local, y sont favorables ».
+- Une majorité dénonce la dégradation du paysage. | Ils sont moins nombreux.
+- Personne ne soutient le projet. | C'est faux.
+- Le maire est opposé au projet. | Il le soutient.
+EXP: « Plus nombreux » indique la majorité.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: Le diagnostic de performance énergétique (DPE) classe les logements de A (très économe) à G (très énergivore). Depuis 2025, les logements classés G ne peuvent plus être proposés à la location. Cette interdiction s'étendra aux logements classés F en 2028, puis E en 2034.
+Q: Quels logements ne peuvent plus être loués depuis 2025 ?
++ Les logements classés G. | « les logements classés G ne peuvent plus être proposés à la location ».
+- Les logements classés A. | Ils sont très économes.
+- Les logements classés F. | Ce sera en 2028.
+- Tous les logements anciens. | Ce n'est pas dit.
+EXP: Repérez le calendrier progressif.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « J'ai acheté un thermostat connecté pour faire des économies. Résultat : j'ai passé tellement de temps à jouer avec l'application que j'ai fini par trouver le chauffage idéal… à 23 degrés. » Antoine, 31 ans.
+Q: Que sous-entend Antoine ?
++ Le thermostat ne lui a pas fait faire d'économies. | Il a fini à 23 degrés, une température élevée.
+- Il a beaucoup économisé. | C'est le contraire.
+- L'application ne fonctionne pas. | Il l'a beaucoup utilisée.
+- Il a éteint son chauffage. | Ce n'est pas dit.
+EXP: La chute ironique contredit l'objectif annoncé.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Faut-il interdire la publicité pour les SUV, ces voitures lourdes et polluantes ? Les défenseurs de la mesure comparent ces véhicules au tabac et estiment que la publicité encourage des comportements nuisibles. Ses opposants rappellent que les SUV sont des produits légaux et qu'interdire leur promotion porterait atteinte à la liberté du commerce.
+Q: Quel argument avancent les opposants ?
++ Les SUV sont légaux et l'interdiction nuirait à la liberté du commerce. | Ce sont les deux arguments cités.
+- Les SUV ressemblent au tabac. | C'est la comparaison des défenseurs.
+- La publicité encourage des comportements nuisibles. | C'est l'argument des défenseurs.
+- Les SUV sont peu polluants. | Ce n'est pas dit.
+EXP: Distinguez les positions des deux camps.
+
+## CE 20 | B2 | article de presse | relation logique
+DOC: Les inscriptions dans les conservatoires de musique ont baissé de 10 % en cinq ans. Les directeurs mettent en cause le coût des cours, mais aussi la concurrence des tutoriels gratuits en ligne, qui permettent d'apprendre seul à jouer de la guitare ou du piano.
+Q: Quelles causes sont évoquées ?
++ Le coût des cours et les tutoriels gratuits en ligne. | Ce sont les deux causes citées.
+- Le manque de professeurs. | Ce n'est pas dit.
+- La fermeture des conservatoires. | Ce n'est pas dit.
+- Le désintérêt pour la musique. | Ce n'est pas dit.
+EXP: « Mettre en cause » = désigner comme responsable.
+
+## CE 21 | C1 | texte argumentatif | intention de l'auteur
+DOC: Chaque catastrophe climatique donne lieu au même rituel médiatique : images spectaculaires, témoignages bouleversants, puis oubli. Les causes structurelles, elles, sont rarement expliquées, comme si la tempête ou la canicule relevaient de la fatalité. En privilégiant l'émotion sur l'analyse, les médias contribuent paradoxalement à l'inaction.
+Q: Que reproche l'auteur aux médias ?
++ De privilégier l'émotion au détriment de l'explication. | « En privilégiant l'émotion sur l'analyse ».
+- De ne pas montrer d'images des catastrophes. | Ils en montrent.
+- D'exagérer le changement climatique. | Ce n'est pas dit.
+- De trop expliquer les causes. | Elles sont rarement expliquées.
+EXP: « Rituel » souligne la répétition ; « paradoxalement » l'effet inverse.
+
+## CE 22 | C1 | article de presse | sens d'un mot en contexte
+DOC: Le nouveau directeur de la chaîne a fait table rase des anciennes émissions pour imposer une grille entièrement renouvelée.
+Q: Que signifie « faire table rase » ?
++ supprimer tout ce qui existait pour recommencer. | Il remplace toutes les émissions.
+- organiser un repas. | Ce n'est pas le sens.
+- garder les anciennes émissions. | C'est le contraire.
+- faire des économies. | Ce n'est pas le sens.
+EXP: « Faire table rase » = effacer complètement le passé.
+
+## CE 23 | C1 | texte argumentatif | arguments contradictoires
+DOC: Pour les uns, la gratuité de l'information en ligne est une conquête démocratique : chacun peut s'informer sans payer. Pour les autres, elle a fragilisé les rédactions, contraintes de multiplier les contenus « à clics » pour attirer la publicité. Une information de qualité a un coût ; reste à savoir qui doit le payer.
+Q: Quelle question l'auteur pose-t-il en conclusion ?
++ Qui doit financer une information de qualité ? | « reste à savoir qui doit le payer ».
+- Faut-il interdire Internet ? | Ce n'est pas dit.
+- Les journalistes sont-ils trop payés ? | Ce n'est pas dit.
+- La publicité est-elle gratuite ? | Ce n'est pas dit.
+EXP: « Reste à savoir » introduit une question ouverte.
+
+## CE 24 | C1 | article de presse | sous-entendu
+DOC: Le club de football, qui vient de dépenser 200 millions d'euros pour recruter un attaquant, a annoncé une hausse de 15 % du prix des places « pour faire face à la hausse des coûts ».
+Q: Que suggère le journaliste ?
++ Les supporters paient les dépenses excessives du club. | La justification de la hausse est mise en contraste avec l'achat.
+- Le club est en grande difficulté financière. | Ce n'est pas l'idée.
+- Les places sont gratuites. | Ce n'est pas le cas.
+- L'attaquant a été payé par les supporters directement. | Ce n'est pas dit.
+EXP: La juxtaposition des deux faits crée un sous-entendu critique.
+
+## CE 25 | C1 | document informatif | compréhension globale
+DOC: Le statut d'auto-entrepreneur, créé en 2009, permet d'exercer une activité indépendante avec des formalités simplifiées et des cotisations sociales calculées sur le chiffre d'affaires réellement encaissé. En l'absence de recettes, aucune cotisation n'est due. Ce régime est toutefois soumis à des plafonds de chiffre d'affaires, au-delà desquels l'entrepreneur doit changer de statut.
+Q: Que se passe-t-il si l'auto-entrepreneur n'a aucune recette ?
++ Il ne paie pas de cotisations. | « En l'absence de recettes, aucune cotisation n'est due ».
+- Il paie une cotisation minimale. | Ce n'est pas le cas.
+- Il perd son statut. | Ce n'est pas dit.
+- Il doit fermer son entreprise. | Ce n'est pas dit.
+EXP: « Encaissé » = réellement reçu.
+
+## EE 1 | A2 | répondre à un message
+CONSIGNE: Votre collègue Sarah vous écrit : « On fait un repas de fin d'année avec l'équipe vendredi midi. Tu préfères un restaurant italien ou japonais ? Tu viens ? » Vous lui répondez (30 à 60 mots).
+MODELE: Bonjour Sarah ! Merci pour l'organisation, c'est une super idée. Je viendrai avec plaisir vendredi midi. Je préfère le restaurant italien, parce que je ne mange pas de poisson cru. Par contre, je dois partir à 14 heures pour une réunion. Si tu as besoin d'aide pour réserver, dis-le-moi. À vendredi !
+POINTS: remercier ; accepter ; donner sa préférence et la justifier ; information supplémentaire
+CONSEILS: Répondez précisément aux deux questions posées.
+
+## EE 2 | B1 | présenter une activité
+CONSIGNE: Vous pratiquez une activité sportive ou artistique. Vous la présentez dans le journal de votre entreprise pour donner envie à vos collègues d'essayer (40 à 90 mots).
+MODELE: Depuis trois ans, je pratique l'escalade dans une salle près du bureau, et je voudrais vous faire découvrir ce sport passionnant. L'escalade fait travailler tout le corps, mais aussi la concentration et la confiance en soi. On grimpe toujours à deux : l'un monte, l'autre l'assure avec une corde. Pas besoin d'être sportif pour commencer, les débutants sont très bien encadrés. La salle propose une séance découverte gratuite le jeudi soir. Venez essayer avec moi !
+POINTS: présentation ; bienfaits ; fonctionnement ; accessibilité ; invitation
+CONSEILS: Donnez envie : utilisez des adjectifs positifs et terminez par une invitation.
+
+## EE 3 | B2 | expliquer ses préférences
+CONSIGNE: Un magazine demande : « Pour vous informer, préférez-vous la presse écrite, la télévision ou les réseaux sociaux ? » Vous expliquez votre choix (40 à 90 mots).
+MODELE: Pour m'informer, je privilégie la presse écrite, en particulier les sites de journaux reconnus. En effet, les articles sont généralement plus approfondis que les reportages télévisés, et je peux les lire à mon rythme. Les réseaux sociaux me permettent de découvrir rapidement l'actualité, mais je m'en méfie : les fausses informations y circulent facilement. Quant à la télévision, je la regarde surtout pour les grands événements. Finalement, l'important est de croiser plusieurs sources.
+POINTS: choix clair ; justification ; comparaison avec les autres médias ; conclusion
+CONSEILS: Utilisez « quant à » pour introduire un autre élément de comparaison.
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous pose des questions sur vos loisirs, vos habitudes médiatiques et votre logement.
+RELANCES: Que faites-vous pendant votre temps libre ? / Comment vous informez-vous ? / Écoutez-vous la radio ou des podcasts ? / Comment faites-vous des économies d'énergie chez vous ? / Pratiquez-vous un sport ? / Quel événement culturel vous a marqué récemment ?
+PHRASES: Pendant mon temps libre, j'aime… / Je m'informe surtout grâce à… / Chez moi, je fais attention à… / Je pratique… depuis… / Récemment, je suis allé(e)…
+MODELE: Pendant mon temps libre, j'aime lire et aller au cinéma. Je m'informe surtout grâce à l'application d'un journal et à la radio le matin dans la voiture. Chez moi, je fais attention à éteindre les lumières et je ne chauffe pas trop les chambres. Je joue au football avec des amis le dimanche. Récemment, je suis allé à un concert de musique africaine qui m'a beaucoup plu.
+
+## EO 2 | B2 | Faire une réclamation | Conseiller du fournisseur d'énergie
+SCENARIO: Votre facture d'électricité a doublé alors que votre consommation n'a pas changé. L'examinateur joue le rôle d'un conseiller du fournisseur d'énergie. Expliquez le problème, posez des questions et demandez une solution.
+RELANCES: Bonjour, je vous écoute. / Les prix de l'électricité ont augmenté cette année. / Votre compteur indique une forte consommation en janvier. / Avez-vous acheté de nouveaux appareils ? / Nous pouvons étaler le paiement sur six mois. / Souhaitez-vous qu'un technicien vienne vérifier ?
+PHRASES: Je ne comprends pas comment… / Ma consommation est identique à celle de l'an dernier. / Pourriez-vous vérifier… ? / Je souhaiterais qu'un technicien… / En attendant, est-ce que…
+MODELE: Bonjour, j'ai reçu ma facture de janvier et elle a doublé par rapport à l'an dernier. Je ne comprends pas, car ma consommation est identique : je n'ai acheté aucun nouvel appareil. Même avec la hausse des prix, ce n'est pas normal. Pourriez-vous vérifier si le relevé du compteur est correct ? Je souhaiterais qu'un technicien vienne contrôler. En attendant, est-ce que je peux suspendre le paiement de cette facture ?
+
+## EO 3 | B2 | Les médias sont-ils encore fiables ? | Examinateur
+SCENARIO: Donnez votre opinion : « Peut-on encore faire confiance aux médias pour s'informer ? » Argumentez, donnez des exemples, nuancez et concluez.
+RELANCES: Faites-vous confiance aux médias ? / Pourquoi certaines personnes s'en méfient-elles ? / Et les réseaux sociaux ? / Comment vérifier une information ? / Votre conclusion ?
+PHRASES: Je suis convaincu(e) que… / Cela s'explique notamment par… / Néanmoins… / Il ne faut cependant pas perdre de vue que… / En définitive…
+MODELE: Je suis convaincu qu'on peut faire confiance à certains médias, à condition de rester vigilant. La méfiance actuelle s'explique notamment par la course au scoop et par la concentration des médias entre les mains de quelques grands groupes. Néanmoins, les journalistes sérieux vérifient leurs sources, contrairement à de nombreux comptes sur les réseaux sociaux. Il ne faut cependant pas perdre de vue que chacun doit comparer plusieurs sources. En définitive, la confiance se construit, elle ne se décrète pas.

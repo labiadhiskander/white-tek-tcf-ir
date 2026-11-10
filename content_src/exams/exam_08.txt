@@ -1,0 +1,490 @@
+@code EXAM-08
+@title Examen blanc n° 8 – Sciences, consommation et générations
+@level B2
+@description Examen complet calibré B1–B2 : santé publique, mode, retraite, agriculture, arts, cybersécurité.
+
+## CO 1 | A2 | annonce publique | information précise | H:fr-FR
+DOC: H: Le musée est gratuit pour tous le premier dimanche de chaque mois. Les autres jours, l'entrée coûte 12 euros, et 6 euros pour les étudiants.
+Q: Quand peut-on visiter le musée gratuitement ?
++ Le premier dimanche du mois. | « gratuit pour tous le premier dimanche de chaque mois ».
+- Tous les dimanches. | Seulement le premier.
+- Le samedi. | Ce n'est pas dit.
+- Uniquement pour les étudiants. | Les étudiants paient 6 €.
+EXP: « Chaque mois » + « premier dimanche » = une fois par mois.
+
+## CO 2 | A2 | message téléphonique | information précise | F:fr-FR
+DOC: F: Bonjour, ici le cabinet dentaire. Nous vous rappelons votre rendez-vous de demain, lundi, à 17 h 15, avec le docteur Mercier. En cas d'empêchement, merci de prévenir au moins 24 heures à l'avance.
+Q: Avec qui est le rendez-vous ?
++ Avec le docteur Mercier. | « avec le docteur Mercier ».
+- Avec un ophtalmologue. | C'est un cabinet dentaire.
+- Avec la secrétaire. | Ce n'est pas dit.
+- Avec un kinésithérapeute. | Ce n'est pas dit.
+EXP: Un message de rappel contient le jour, l'heure et le praticien.
+
+## CO 3 | A2 | conversation quotidienne | information précise | H:fr-FR, F:fr-FR
+DOC: H: On va voir le nouveau film de science-fiction ce soir ? / F: Ce soir, je suis fatiguée. Demain plutôt ? / H: Demain, il n'y a qu'une séance à 22 h, c'est tard. / F: Alors samedi après-midi ? / H: D'accord, samedi à 16 h.
+Q: Quand vont-ils au cinéma ?
++ Samedi à 16 heures. | « D'accord, samedi à 16 h ».
+- Ce soir. | Elle est fatiguée.
+- Demain à 22 heures. | C'est trop tard.
+- Dimanche. | Ce n'est pas proposé.
+EXP: Plusieurs propositions sont refusées avant l'accord.
+
+## CO 4 | B1 | conversation quotidienne | intention | F:fr-FR, H:fr-FR
+DOC: F: Je vois que tu fumes encore… Tu avais dit que tu arrêtais en janvier. / H: Je sais, je sais. C'est plus dur que prévu. / F: Tu devrais parler au pharmacien, il y a des patchs maintenant remboursés. Je peux t'accompagner si tu veux.
+Q: Que fait la femme ?
++ Elle encourage l'homme à arrêter de fumer et propose son aide. | Elle conseille le pharmacien et propose de l'accompagner.
+- Elle lui demande une cigarette. | Ce n'est pas dit.
+- Elle le félicite d'avoir arrêté. | Il fume encore.
+- Elle lui interdit de venir chez elle. | Ce n'est pas dit.
+EXP: Conseil au conditionnel (« Tu devrais ») suivi d'une proposition d'aide.
+
+## CO 5 | B1 | message professionnel | information précise | H:fr-FR
+DOC: H: Bonjour à tous, c'est Pierre du service informatique. Suite à plusieurs tentatives de piratage, tous les mots de passe doivent être changés avant vendredi. Le nouveau mot de passe doit contenir au moins douze caractères, dont un chiffre et un symbole. Ne le communiquez à personne.
+Q: Que doivent faire les employés ?
++ Changer leur mot de passe avant vendredi. | « tous les mots de passe doivent être changés avant vendredi ».
+- Envoyer leur mot de passe à Pierre. | Il faut ne le communiquer à personne.
+- Acheter un nouvel ordinateur. | Ce n'est pas dit.
+- Supprimer leurs courriels. | Ce n'est pas dit.
+EXP: Les règles du mot de passe sont précisées : 12 caractères, un chiffre, un symbole.
+
+## CO 6 | B1 | information radio | information précise | F:fr-FR
+DOC: F: La campagne de vaccination contre la grippe commence le 15 octobre. Elle est gratuite pour les personnes de plus de soixante-cinq ans, les femmes enceintes et les personnes atteintes de maladies chroniques. Les autres peuvent se faire vacciner en pharmacie pour environ dix euros.
+Q: Pour qui le vaccin est-il gratuit ?
++ Notamment pour les plus de 65 ans et les femmes enceintes. | Ce sont des publics cités.
+- Pour tout le monde. | Les autres paient environ dix euros.
+- Uniquement pour les enfants. | Ce n'est pas dit.
+- Pour les pharmaciens. | Ce n'est pas dit.
+EXP: Repérez la liste des personnes concernées par la gratuité.
+
+## CO 7 | B1 | interview | opinion | H:fr-FR, F:fr-CA
+DOC: H: Vous êtes à la retraite depuis un an. Comment ça se passe ? / F: Les premiers mois, je me sentais un peu perdue, sans emploi du temps. Puis je me suis inscrite à l'université du temps libre : j'apprends l'histoire de l'art et l'italien. Je n'ai jamais été aussi occupée… ni aussi heureuse !
+Q: Comment la femme vit-elle sa retraite aujourd'hui ?
++ Elle est très active et épanouie. | « Je n'ai jamais été aussi occupée… ni aussi heureuse ! »
+- Elle s'ennuie. | C'était au début.
+- Elle veut retravailler. | Ce n'est pas dit.
+- Elle est malade. | Ce n'est pas dit.
+EXP: L'évolution est marquée par « Les premiers mois… Puis… ».
+
+## CO 8 | B1 | annonce publique | information précise | H:fr-BE
+DOC: H: Le grand marché aux puces annuel aura lieu dimanche dans les rues du centre. Les particuliers qui souhaitent vendre doivent réserver un emplacement à la mairie avant mercredi. Le prix est de 10 euros pour trois mètres.
+Q: Que doivent faire les particuliers qui veulent vendre ?
++ Réserver un emplacement à la mairie avant mercredi. | C'est la démarche indiquée.
+- Venir dimanche matin sans réservation. | Une réservation est nécessaire.
+- Payer 3 euros. | C'est 10 € pour trois mètres.
+- Demander une autorisation à la police. | Ce n'est pas dit.
+EXP: Attention aux nombres : 10 € (prix), 3 m (longueur).
+
+## CO 9 | B1 | situation administrative | information précise | F:fr-FR, H:fr-FR
+DOC: H: Bonjour, ma mère a quatre-vingts ans et elle vit seule. Est-ce qu'elle peut avoir une aide à domicile ? / F: Oui, elle peut demander l'allocation personnalisée d'autonomie. Il faut remplir un dossier au centre communal d'action sociale. Ensuite, une personne viendra chez elle évaluer ses besoins.
+Q: Que se passera-t-il après le dépôt du dossier ?
++ Quelqu'un viendra évaluer les besoins de la mère. | « une personne viendra chez elle évaluer ses besoins ».
+- La mère devra entrer en maison de retraite. | Ce n'est pas dit.
+- L'aide sera versée immédiatement. | Une évaluation est d'abord nécessaire.
+- Le fils devra payer une aide-ménagère. | Ce n'est pas dit.
+EXP: « Ensuite » indique l'étape suivante.
+
+## CO 10 | B1 | conversation professionnelle | information précise | H:fr-FR, F:fr-FR
+DOC: F: Tu as préparé la présentation pour le client ? / H: Presque. Il me manque les chiffres de ventes du dernier trimestre. / F: Demande-les à Sylvie, c'est elle qui s'occupe des statistiques. Et envoie-moi la présentation avant 17 h, je voudrais la relire.
+Q: À qui l'homme doit-il demander les chiffres ?
++ À Sylvie. | « Demande-les à Sylvie ».
+- Au client. | Ce n'est pas dit.
+- À la femme qui parle. | Elle le renvoie vers Sylvie.
+- Au directeur. | Ce n'est pas dit.
+EXP: Le pronom « les » remplace « les chiffres de ventes ».
+
+## CO 11 | B2 | débat | opinion | F:fr-FR, H:fr-FR
+DOC: H: La « fast fashion », ces vêtements bon marché renouvelés chaque semaine, permet à tout le monde de s'habiller à la mode. / F: À quel prix ? Des ouvriers sous-payés à l'autre bout du monde et des montagnes de vêtements jetés après trois lavages. Je comprends qu'on cherche des prix bas, mais on pourrait acheter moins et mieux, ou se tourner vers la seconde main.
+Q: Que propose la femme ?
++ Acheter moins, de meilleure qualité, ou d'occasion. | « acheter moins et mieux, ou se tourner vers la seconde main ».
+- Acheter davantage de vêtements bon marché. | C'est ce qu'elle critique.
+- Interdire la mode. | Ce n'est pas dit.
+- Augmenter les salaires en France. | Ce n'est pas dit.
+EXP: « À quel prix ? » est une question rhétorique qui introduit les coûts cachés.
+
+## CO 12 | B2 | information radio | information globale | H:fr-FR
+DOC: H: Des chercheurs français ont mis au point un test sanguin capable de détecter certains cancers plusieurs années avant l'apparition des symptômes. Prometteur, ce test devra toutefois être validé sur un plus grand nombre de patients avant d'être proposé en pratique courante, d'ici cinq à dix ans.
+Q: Quand le test pourrait-il être utilisé couramment ?
++ Dans cinq à dix ans. | « d'ici cinq à dix ans ».
+- Immédiatement. | Il doit d'abord être validé.
+- Jamais. | Il est « prometteur ».
+- L'année prochaine. | Ce n'est pas dit.
+EXP: « Toutefois » introduit une limite à l'enthousiasme.
+
+## CO 13 | B2 | interview | information détaillée | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes agriculteur et vous avez transformé votre ferme en agroforesterie. Expliquez-nous. / H: J'ai planté des arbres au milieu de mes champs de céréales. Ça peut sembler bizarre, mais les arbres protègent les cultures du vent, gardent l'humidité du sol et abritent des insectes utiles. Les premières années, j'ai perdu un peu de rendement, mais aujourd'hui, mes sols sont en bien meilleure santé.
+Q: Quel inconvénient l'agriculteur a-t-il connu au début ?
++ Une légère baisse de rendement. | « j'ai perdu un peu de rendement ».
+- Une invasion d'insectes nuisibles. | Les insectes sont utiles.
+- Des sols plus secs. | Les arbres gardent l'humidité.
+- La mort des arbres. | Ce n'est pas dit.
+EXP: Le connecteur « mais » oppose l'inconvénient passé et le bénéfice actuel.
+
+## CO 14 | B2 | message téléphonique | implicite | H:fr-FR
+DOC: H: Bonjour Madame Roussel, c'est le service après-vente. Concernant votre lave-linge… alors, bonne nouvelle, il est réparable. Moins bonne nouvelle, la pièce est commandée en Allemagne et le fournisseur parle de six semaines, peut-être plus. Je vous laisse réfléchir à la solution d'un appareil neuf…
+Q: Que suggère le technicien ?
++ Il pourrait être plus pratique d'acheter un appareil neuf. | « Je vous laisse réfléchir à la solution d'un appareil neuf ».
+- La réparation sera immédiate. | Elle prendra six semaines ou plus.
+- L'appareil n'est pas réparable. | Il est réparable.
+- La pièce est disponible en magasin. | Elle vient d'Allemagne.
+EXP: La structure « bonne nouvelle / moins bonne nouvelle » prépare la suggestion finale.
+
+## CO 15 | B2 | conversation professionnelle | relation logique | F:fr-FR, H:fr-BE
+DOC: F: Notre site a été piraté la semaine dernière. Les données de mille clients ont été volées. / H: Comment c'est arrivé ? / F: Un employé a cliqué sur un lien dans un faux courriel. Le pirate a récupéré son mot de passe, et comme il était le même pour tous ses comptes… / H: Il faut absolument former l'équipe et imposer la double authentification.
+Q: Quelle erreur a permis le piratage ?
++ Un employé a cliqué sur un faux lien et utilisait le même mot de passe partout. | C'est l'explication donnée.
+- Le site n'avait pas de mot de passe. | Ce n'est pas dit.
+- Un client a volé les données. | C'est un pirate.
+- Le serveur était en panne. | Ce n'est pas dit.
+EXP: L'enchaînement cause-conséquence explique le piratage.
+
+## CO 16 | B2 | interview | information détaillée | H:fr-FR, F:fr-FR
+DOC: H: Vous dirigez un « repair café ». De quoi s'agit-il ? / F: Un samedi par mois, des bénévoles bricoleurs aident les habitants à réparer leurs objets cassés : grille-pain, vélos, vêtements, ordinateurs. L'idée n'est pas de réparer à leur place, mais avec eux, pour qu'ils apprennent. Sur cent objets apportés, on en sauve environ soixante-dix.
+Q: Quel est le principe du « repair café » ?
++ Réparer les objets avec les habitants pour qu'ils apprennent. | « pas de réparer à leur place, mais avec eux ».
+- Vendre des objets réparés. | Ce n'est pas dit.
+- Réparer les objets à la place des habitants. | C'est ce qu'ils évitent.
+- Recycler les objets cassés. | Ils les réparent.
+EXP: La structure « non pas X, mais Y » précise le principe.
+
+## CO 17 | B2 | annonce publique | information précise | F:fr-FR
+DOC: F: Le centre hospitalier informe que, en raison d'une forte affluence, le délai d'attente aux urgences dépasse actuellement quatre heures. Pour les problèmes de santé non urgents, il est recommandé de contacter son médecin traitant ou d'appeler le 116 117, le numéro de la permanence des soins.
+Q: Que recommande l'hôpital pour les cas non urgents ?
++ Contacter son médecin ou appeler la permanence des soins. | C'est la recommandation.
+- Attendre aux urgences. | L'attente dépasse quatre heures.
+- Aller dans un autre pays. | Ce n'est pas dit.
+- Appeler la police. | Ce n'est pas dit.
+EXP: « Affluence » = arrivée de beaucoup de personnes.
+
+## CO 18 | B2 | information radio | relation logique | H:fr-FR
+DOC: H: Les ventes de livres audio ont progressé de quarante pour cent en deux ans. Les éditeurs y voient l'effet du développement des trajets en transports et de la pratique du sport, pendant lesquels on ne peut pas lire mais on peut écouter. Ce format attire aussi de nouveaux publics, éloignés de la lecture traditionnelle.
+Q: Selon les éditeurs, qu'est-ce qui explique ce succès ?
++ La possibilité d'écouter pendant d'autres activités. | Trajets et sport, pendant lesquels on peut écouter.
+- La baisse du prix des livres papier. | Ce n'est pas dit.
+- La fermeture des librairies. | Ce n'est pas dit.
+- L'interdiction des livres papier. | Ce n'est pas dit.
+EXP: « Y voir l'effet de » = l'expliquer par.
+
+## CO 19 | B2 | débat | argumentation | F:fr-FR, H:fr-CH
+DOC: F: Il faudrait reculer l'âge de la retraite parce qu'on vit plus longtemps. / H: On vit plus longtemps, d'accord, mais pas forcément en bonne santé. Et pour un maçon ou une aide-soignante, travailler jusqu'à soixante-sept ans, c'est physiquement épuisant. Il faudrait au moins tenir compte de la pénibilité des métiers.
+Q: Quel argument l'homme avance-t-il ?
++ Il faut prendre en compte la difficulté physique de certains métiers. | « Il faudrait au moins tenir compte de la pénibilité des métiers ».
+- Les gens vivent moins longtemps qu'avant. | Il admet qu'on vit plus longtemps.
+- Tout le monde devrait partir à 55 ans. | Ce n'est pas dit.
+- Les maçons travaillent peu. | Ce n'est pas dit.
+EXP: « D'accord, mais » : concession puis objection.
+
+## CO 20 | B2 | interview | implicite | H:fr-FR, F:fr-FR
+DOC: H: Vous êtes centenaire. Quel est votre secret ? / F: Mon médecin me demande la même chose ! Je mange de tout, je bois un petit verre de vin le dimanche et je n'ai jamais fait de sport de ma vie. Il n'a pas l'air très content de ma réponse.
+Q: Que suggère la dame ?
++ Sa longévité ne correspond pas aux conseils médicaux habituels. | Elle n'a jamais fait de sport et boit du vin ; le médecin n'est pas content.
+- Elle a suivi tous les conseils de son médecin. | C'est le contraire.
+- Elle fait beaucoup de sport. | « jamais fait de sport ».
+- Elle ne boit jamais d'alcool. | Elle boit un verre le dimanche.
+EXP: L'humour vient du décalage entre ses habitudes et les recommandations médicales.
+
+## CO 21 | C1 | information radio | information détaillée | F:fr-FR
+DOC: F: Une étude portant sur vingt mille personnes suggère que la pratique régulière d'un instrument de musique pourrait ralentir le déclin cognitif lié à l'âge. Les auteurs restent prudents : il s'agit d'une corrélation, et non d'un lien de cause à effet démontré. Les musiciens ont peut-être, par ailleurs, un mode de vie plus favorable.
+Q: Pourquoi les chercheurs restent-ils prudents ?
++ Le lien de cause à effet n'est pas démontré. | « il s'agit d'une corrélation, et non d'un lien de cause à effet démontré ».
+- L'étude porte sur trop peu de personnes. | Elle porte sur vingt mille personnes.
+- La musique accélère le déclin. | Ce n'est pas dit.
+- Les musiciens refusent de participer. | Ce n'est pas dit.
+EXP: « Corrélation » = deux phénomènes liés statistiquement, sans preuve que l'un cause l'autre.
+
+## CO 22 | B2 | conversation professionnelle | intention | H:fr-FR, F:fr-FR
+DOC: F: Je vous appelle car votre établissement n'a pas encore transmis les résultats de l'audit d'hygiène. / H: Oui, nous avons eu quelques retards à cause de travaux dans la cuisine. / F: Je comprends, mais la date limite était lundi. Je vous laisse jusqu'à vendredi. Passé ce délai, je serai obligée de programmer une inspection.
+Q: Quelle est l'intention de la femme ?
++ Accorder un dernier délai en avertissant des conséquences. | Délai jusqu'à vendredi, puis inspection.
+- Annuler l'audit. | Ce n'est pas dit.
+- Féliciter l'établissement. | Ce n'est pas le cas.
+- Fermer immédiatement le restaurant. | Elle laisse un délai.
+EXP: « Passé ce délai » introduit une menace conditionnelle.
+
+## CO 23 | C1 | débat | argumentation | H:fr-FR, F:fr-FR
+DOC: H: Les écrans rendent les enfants moins intelligents, c'est prouvé. / F: Ce qui est prouvé, c'est qu'un usage excessif et passif, surtout chez les tout-petits, nuit au langage et à l'attention. Mais mettre dans le même sac un dessin animé regardé seul pendant trois heures et un appel vidéo avec un grand-parent, c'est absurde. Le contenu et le contexte comptent autant que la durée.
+Q: Que reproche la femme à l'homme ?
++ De faire une généralisation abusive. | « mettre dans le même sac… c'est absurde ».
+- De sous-estimer les dangers des écrans. | Il les surestime plutôt.
+- De ne pas avoir d'enfants. | Ce n'est pas dit.
+- D'utiliser trop les appels vidéo. | Ce n'est pas dit.
+EXP: « Mettre dans le même sac » = confondre des choses différentes.
+
+## CO 24 | C1 | interview | opinion | F:fr-FR, H:fr-BE
+DOC: F: Les musées doivent-ils rendre les œuvres issues de la colonisation ? / H: Je crois que oui, au moins pour celles acquises dans des conditions contestables. Un musée n'est pas seulement un lieu de conservation, c'est aussi un lieu de mémoire. Restituer, ce n'est pas vider les musées, c'est reconnaître une histoire et construire de nouveaux partenariats.
+Q: Quelle est l'opinion du conservateur ?
++ Il est favorable aux restitutions dans certains cas. | « au moins pour celles acquises dans des conditions contestables ».
+- Il est totalement opposé aux restitutions. | Il dit « oui ».
+- Il veut vider les musées. | « ce n'est pas vider les musées ».
+- Il pense que les musées ne servent à rien. | Ce n'est pas dit.
+EXP: La restriction « au moins pour celles » nuance l'accord.
+
+## CO 25 | C1 | information radio | implicite | H:fr-FR
+DOC: H: Le fabricant de téléphones a présenté hier son nouveau modèle, plus fin d'un millimètre que le précédent, au prix de 1 400 euros. Une révolution, selon le PDG, qui a salué « le fruit de trois ans de recherche ». Trois ans pour un millimètre : on mesure l'ampleur de l'effort.
+Q: Quel est le ton de la dernière phrase ?
++ Ironique. | Le journaliste se moque d'une innovation minime.
+- Admiratif. | Le ton est moqueur.
+- Neutre. | Il prend position.
+- Inquiet. | Ce n'est pas le cas.
+EXP: Le contraste entre « trois ans » et « un millimètre » crée l'ironie.
+
+## CE 1 | A2 | annonce | information précise
+DOC: Vends vélo de ville, couleur bleue, très bon état, avec panier et lumières. Utilisé un an. Prix : 150 € (prix neuf : 400 €). À voir à Nantes. Contact par SMS uniquement : 07 81 23 45 67.
+Q: Comment contacter le vendeur ?
++ Par SMS. | « Contact par SMS uniquement ».
+- Par téléphone. | Uniquement SMS.
+- Par courriel. | Ce n'est pas dit.
+- En personne à Paris. | C'est à Nantes.
+EXP: « Uniquement » exclut les autres moyens.
+
+## CE 2 | A2 | message | information précise
+DOC: Chéri, j'ai pris rendez-vous chez le médecin pour Léo jeudi à 16 h 30. Je ne peux pas l'accompagner, j'ai une réunion. Tu peux y aller ? Son carnet de santé est dans le tiroir de la cuisine. Bisous, Marion.
+Q: Où se trouve le carnet de santé ?
++ Dans le tiroir de la cuisine. | « dans le tiroir de la cuisine ».
+- Chez le médecin. | Ce n'est pas dit.
+- Dans le sac de Léo. | Ce n'est pas dit.
+- Au bureau de Marion. | Ce n'est pas dit.
+EXP: Repérez l'indication de lieu.
+
+## CE 3 | A2 | affiche | information précise
+DOC: SALON DES VINS ET FROMAGES – Du 8 au 10 mars, Parc des expositions. Entrée : 8 €, verre de dégustation offert. Gratuit pour les moins de 18 ans. L'abus d'alcool est dangereux pour la santé.
+Q: Qu'est-ce qui est offert avec l'entrée ?
++ Un verre de dégustation. | « verre de dégustation offert ».
+- Une bouteille de vin. | Ce n'est pas dit.
+- Un fromage. | Ce n'est pas dit.
+- Un repas. | Ce n'est pas dit.
+EXP: « Offert » = donné gratuitement.
+
+## CE 4 | B1 | courriel | intention
+DOC: Bonjour, j'ai acheté sur votre site une robe le 2 mai. Elle est trop petite. Je souhaiterais l'échanger contre une taille au-dessus, en même couleur. Pouvez-vous m'indiquer la procédure de retour ? Merci. Cordialement, Lina Haddad
+Q: Que veut Lina ?
++ Échanger la robe contre une taille plus grande. | « l'échanger contre une taille au-dessus ».
+- Être remboursée. | Elle veut un échange.
+- Changer de couleur. | « en même couleur ».
+- Acheter une deuxième robe. | Ce n'est pas dit.
+EXP: « Une taille au-dessus » = la taille supérieure.
+
+## CE 5 | B1 | article de presse | information globale
+DOC: Les friperies, magasins de vêtements d'occasion, n'ont jamais eu autant de succès auprès des jeunes. Prix bas, pièces uniques et geste pour la planète : les arguments séduisent. Certaines enseignes de prêt-à-porter ouvrent même désormais des rayons de seconde main dans leurs magasins.
+Q: De quoi parle l'article ?
++ Du succès des vêtements d'occasion. | Les friperies ont beaucoup de succès.
+- De la fermeture des friperies. | C'est le contraire.
+- De la hausse du prix des vêtements neufs. | Ce n'est pas dit.
+- D'un défilé de mode. | Ce n'est pas dit.
+EXP: « N'ont jamais eu autant de succès » = succès maximal.
+
+## CE 6 | B1 | lettre administrative | information précise
+DOC: Madame, Monsieur, nous vous informons que votre médecin traitant, le Dr Lemoine, cessera son activité le 31 décembre. Afin de continuer à bénéficier d'un remboursement optimal de vos soins, nous vous invitons à déclarer un nouveau médecin traitant auprès de votre caisse d'assurance maladie.
+Q: Pourquoi faut-il déclarer un nouveau médecin traitant ?
++ Pour continuer à être bien remboursé. | « Afin de continuer à bénéficier d'un remboursement optimal ».
+- Parce que le Dr Lemoine déménage dans la ville. | Il cesse son activité.
+- Pour obtenir une carte Vitale. | Ce n'est pas dit.
+- Pour payer moins d'impôts. | Ce n'est pas dit.
+EXP: « Afin de » introduit le but.
+
+## CE 7 | B1 | publicité | information précise
+DOC: Nouveau à la pharmacie du Marché ! Faites mesurer gratuitement votre tension et votre taux de sucre, sans rendez-vous, tous les mardis matin. Un pharmacien vous conseille et vous oriente si nécessaire vers votre médecin.
+Q: Quand peut-on faire ces mesures ?
++ Le mardi matin, sans rendez-vous. | « sans rendez-vous, tous les mardis matin ».
+- Tous les jours sur rendez-vous. | C'est le mardi, sans rendez-vous.
+- Le samedi. | Ce n'est pas dit.
+- Uniquement avec une ordonnance. | Ce n'est pas dit.
+EXP: Repérez les conditions : jour et modalités.
+
+## CE 8 | B1 | message professionnel | information précise
+DOC: Chers collègues, une collecte de sang est organisée dans l'entreprise le jeudi 14, de 9 h à 15 h, en salle polyvalente. Le don dure environ 45 minutes et peut se faire pendant le temps de travail. Pensez à bien manger avant de venir. Merci pour votre générosité !
+Q: Que recommande-t-on aux donneurs ?
++ De manger avant de donner. | « Pensez à bien manger avant de venir ».
+- De venir à jeun. | C'est le contraire.
+- De prendre un jour de congé. | Le don se fait pendant le temps de travail.
+- D'arriver après 15 h. | La collecte se termine à 15 h.
+EXP: « Pensez à » introduit un conseil.
+
+## CE 9 | B1 | témoignage | opinion
+DOC: « J'ai acheté une voiture électrique il y a deux ans. Au début, j'avais peur de tomber en panne de batterie. En réalité, je la recharge chez moi la nuit et je fais 300 km sans problème. Le seul inconvénient, ce sont les longs trajets en vacances, où il faut bien planifier les arrêts. » Olivier, 52 ans.
+Q: Quel inconvénient Olivier mentionne-t-il ?
++ Les longs trajets demandent de planifier les recharges. | « il faut bien planifier les arrêts ».
+- Les pannes de batterie fréquentes. | C'était une peur, pas une réalité.
+- Le prix de l'électricité. | Ce n'est pas dit.
+- La recharge impossible chez lui. | Il recharge chez lui.
+EXP: « Le seul inconvénient » limite les critiques à un point.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: La téléconsultation médicale, en plein essor depuis la crise sanitaire, permet d'obtenir un rendez-vous rapidement et d'éviter les déplacements. Les médecins rappellent néanmoins qu'elle ne remplace pas l'examen physique, indispensable pour de nombreux diagnostics, et qu'elle doit rester un complément plutôt qu'une alternative.
+Q: Quelle est la position des médecins ?
++ La téléconsultation est utile mais ne doit pas remplacer la consultation en personne. | « un complément plutôt qu'une alternative ».
+- Elle doit être interdite. | Ce n'est pas dit.
+- Elle remplace parfaitement l'examen physique. | C'est le contraire.
+- Elle est trop lente. | Elle permet un rendez-vous rapide.
+EXP: Distinguez « complément » et « alternative ».
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: On présente souvent les seniors comme une charge pour la société. C'est oublier leur rôle essentiel : ils gardent leurs petits-enfants, s'engagent dans les associations, aident financièrement leurs enfants. Sans eux, des pans entiers de la vie sociale s'effondreraient. Plutôt qu'une charge, ils sont une ressource.
+Q: Quelle idée l'auteur défend-il ?
++ Les seniors apportent beaucoup à la société. | « Plutôt qu'une charge, ils sont une ressource ».
+- Les seniors coûtent trop cher. | C'est l'idée contestée.
+- Les seniors ne s'occupent pas de leur famille. | C'est le contraire.
+- Les associations n'ont pas besoin des seniors. | C'est le contraire.
+EXP: « C'est oublier que » introduit une réfutation.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Madame, nous avons le regret de vous informer que le produit que vous avez commandé est actuellement en rupture de stock. Nous vous proposons de patienter jusqu'au réapprovisionnement, prévu sous trois semaines, ou d'annuler votre commande.
+Q: Que signifie « en rupture de stock » ?
++ plus disponible pour le moment. | Le réapprovisionnement est prévu.
+- cassé. | Ce n'est pas le sens.
+- en promotion. | Ce n'est pas le sens.
+- déjà livré. | Ce n'est pas le sens.
+EXP: « Rupture de stock » = il n'y en a plus en réserve.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: Pour encourager la consommation de fruits et légumes, une ville expérimente une « ordonnance verte » : les médecins peuvent prescrire à certains patients, notamment diabétiques ou en surpoids, des paniers de produits frais gratuits pendant six mois. Les premiers résultats montrent une amélioration des habitudes alimentaires chez deux tiers des participants.
+Q: À qui s'adresse l'« ordonnance verte » ?
++ À certains patients, comme les diabétiques. | « notamment diabétiques ou en surpoids ».
+- À tous les habitants. | Seulement certains patients.
+- Aux médecins eux-mêmes. | Ce n'est pas dit.
+- Aux agriculteurs. | Ce n'est pas dit.
+EXP: « Notamment » introduit des exemples.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Monsieur, votre déclaration de revenus fait apparaître une erreur dans le montant des frais de garde d'enfants déclarés. Vous disposez d'un délai de trente jours pour présenter vos observations ou justificatifs. À défaut de réponse dans ce délai, la rectification sera appliquée et un avis d'imposition corrigé vous sera adressé.
+Q: Que se passera-t-il sans réponse dans les trente jours ?
++ La correction sera appliquée automatiquement. | « la rectification sera appliquée ».
+- L'erreur sera ignorée. | Ce n'est pas le cas.
+- Le contribuable sera convoqué. | Ce n'est pas dit.
+- Les frais seront remboursés. | Ce n'est pas dit.
+EXP: « À défaut de » = sans.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: Les objets connectés promettent de nous simplifier la vie : réfrigérateur qui commande les courses, thermostat qui apprend nos habitudes. Mais chaque appareil connecté est une porte d'entrée potentielle pour les pirates informatiques. Plus nous connectons d'objets, plus nous sommes vulnérables.
+Q: Quelle relation logique exprime la dernière phrase ?
++ Une proportion : plus d'objets, plus de risques. | « Plus… plus… ».
+- Une opposition. | Ce n'est pas le cas.
+- Une concession. | Ce n'est pas le cas.
+- Un but. | Ce n'est pas le cas.
+EXP: « Plus… plus… » exprime une relation proportionnelle.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: Le projet d'installation d'une ferme d'élevage industriel de mille vaches divise le département. L'exploitant met en avant la modernisation et la compétitivité. Les éleveurs traditionnels craignent une concurrence déloyale, et les riverains s'inquiètent des odeurs et de la pollution des sols.
+Q: Que craignent les éleveurs traditionnels ?
++ Une concurrence injuste. | « une concurrence déloyale ».
+- Les odeurs. | Ce sont les riverains.
+- La modernisation. | C'est l'argument de l'exploitant.
+- Le manque de vaches. | Ce n'est pas dit.
+EXP: « Déloyal » = injuste, qui ne respecte pas les règles du jeu.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: Le Nutri-Score est un logo apposé sur les emballages alimentaires, qui classe les produits de A (vert, meilleure qualité nutritionnelle) à E (rouge, moins bonne qualité). Il prend en compte les éléments à favoriser (fibres, protéines, fruits et légumes) et ceux à limiter (sucres, sel, graisses saturées). Son affichage reste facultatif pour les fabricants.
+Q: Le Nutri-Score est-il obligatoire ?
++ Non, il est facultatif pour les fabricants. | « Son affichage reste facultatif ».
+- Oui, pour tous les produits. | C'est facultatif.
+- Oui, seulement pour les produits sucrés. | Ce n'est pas dit.
+- Oui, en restauration. | Ce n'est pas dit.
+EXP: « Facultatif » = non obligatoire.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « Mon fils de quinze ans m'a installé une application pour surveiller mon temps d'écran. Le soir même, il m'a demandé le code du wifi… qu'il avait oublié après avoir passé six heures sur sa console. » Nathalie, 45 ans.
+Q: Que sous-entend Nathalie ?
++ Son fils devrait d'abord surveiller son propre usage des écrans. | Il a passé six heures sur sa console.
+- Son fils ne joue jamais aux jeux vidéo. | C'est le contraire.
+- Elle utilise trop peu son téléphone. | Ce n'est pas dit.
+- Le wifi ne fonctionne pas. | Ce n'est pas dit.
+EXP: L'humour vient de l'inversion des rôles parent-enfant.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Faut-il taxer les produits trop salés ? Les partisans estiment que le sel est responsable de nombreuses maladies cardiovasculaires et qu'une taxe inciterait les industriels à reformuler leurs recettes. Les opposants jugent qu'une telle taxe pèserait surtout sur les ménages modestes et qu'une meilleure information des consommateurs serait plus efficace.
+Q: Que proposent les opposants ?
++ Mieux informer les consommateurs. | « une meilleure information des consommateurs serait plus efficace ».
+- Taxer davantage les produits salés. | C'est la proposition des partisans.
+- Interdire le sel. | Ce n'est pas dit.
+- Augmenter les salaires. | Ce n'est pas dit.
+EXP: « Peser sur » = être un poids pour.
+
+## CE 20 | B2 | article de presse | relation logique
+DOC: Le nombre de médecins généralistes diminue chaque année dans les zones rurales. Beaucoup partent à la retraite sans trouver de successeur, car les jeunes médecins préfèrent exercer en ville ou en groupe. Résultat : des milliers de patients se retrouvent sans médecin traitant.
+Q: Pourquoi les médecins partant à la retraite ne trouvent-ils pas de successeur ?
++ Les jeunes médecins préfèrent la ville ou le travail en groupe. | « car les jeunes médecins préfèrent exercer en ville ou en groupe ».
+- Il n'y a plus de patients. | C'est le contraire.
+- Les études de médecine sont supprimées. | Ce n'est pas dit.
+- Les salaires sont plus élevés à la campagne. | Ce n'est pas dit.
+EXP: « Car » introduit la cause ; « Résultat : » la conséquence.
+
+## CE 21 | C1 | texte argumentatif | intention de l'auteur
+DOC: L'industrie agroalimentaire excelle dans l'art de vendre la santé : yaourts « qui renforcent les défenses », céréales « riches en vitamines ». Le consommateur, rassuré par ces allégations, en oublie de lire la liste des ingrédients, où le sucre figure souvent en deuxième position. La santé est devenue un argument de vente bien plus qu'une préoccupation réelle.
+Q: Que critique l'auteur ?
++ L'utilisation trompeuse de la santé comme argument commercial. | « La santé est devenue un argument de vente ».
+- Les consommateurs qui mangent trop de yaourts. | Ce n'est pas le propos.
+- Les vitamines. | Ce n'est pas le propos.
+- Les listes d'ingrédients trop courtes. | Ce n'est pas dit.
+EXP: « Allégations » = affirmations non prouvées.
+
+## CE 22 | C1 | article de presse | sens d'un mot en contexte
+DOC: Le scandale sanitaire a éclaboussé plusieurs responsables politiques, accusés d'avoir minimisé les risques pendant des années.
+Q: Que signifie « éclaboussé » dans ce contexte ?
++ atteint la réputation de. | Les responsables sont mis en cause.
+- mouillé. | C'est le sens propre.
+- protégé. | C'est le contraire.
+- récompensé. | Ce n'est pas le sens.
+EXP: Au sens figuré, « éclabousser » = compromettre, salir la réputation.
+
+## CE 23 | C1 | texte argumentatif | arguments contradictoires
+DOC: Pour les uns, l'allongement de l'espérance de vie est une victoire de la médecine qui ouvre une nouvelle étape de la vie, riche et active. Pour les autres, il pose des défis vertigineux : financement des retraites, prise en charge de la dépendance, solitude des grands âgés. L'enjeu n'est plus seulement d'ajouter des années à la vie, mais de la vie aux années.
+Q: Quelle est la thèse de l'auteur ?
++ Il faut garantir la qualité de vie des années gagnées. | « ajouter… de la vie aux années ».
+- L'espérance de vie doit diminuer. | Ce n'est pas dit.
+- Les retraites sont faciles à financer. | Ce n'est pas dit.
+- La médecine a échoué. | Ce n'est pas dit.
+EXP: Le chiasme (« des années à la vie / de la vie aux années ») résume la thèse.
+
+## CE 24 | C1 | article de presse | sous-entendu
+DOC: Le fabricant de sodas sponsorise désormais un grand marathon sous le slogan « Bougez plus ». On attend avec impatience le partenariat entre un fabricant de cigarettes et une campagne contre le cancer.
+Q: Que suggère le journaliste ?
++ Ce parrainage est hypocrite. | La comparaison avec les cigarettes souligne la contradiction.
+- Le partenariat est cohérent. | Le ton est ironique.
+- Les fabricants de cigarettes vont sponsoriser une campagne. | C'est une hypothèse ironique.
+- Le marathon est annulé. | Ce n'est pas dit.
+EXP: L'ironie par l'absurde : une comparaison volontairement exagérée.
+
+## CE 25 | C1 | document informatif | compréhension globale
+DOC: La directive anticipée est un document écrit dans lequel une personne majeure exprime ses volontés concernant sa fin de vie, notamment la poursuite, la limitation ou l'arrêt de traitements, pour le cas où elle ne serait plus en mesure de s'exprimer. Elle est révisable à tout moment et s'impose au médecin, sauf en cas d'urgence vitale ou si elle apparaît manifestement inappropriée.
+Q: Dans quel cas le médecin peut-il ne pas suivre la directive anticipée ?
++ En cas d'urgence vitale ou si elle est manifestement inappropriée. | Ce sont les deux exceptions citées.
+- Si la famille n'est pas d'accord. | Ce n'est pas mentionné.
+- Toujours, elle n'a aucune valeur. | Elle « s'impose au médecin ».
+- Si elle a plus d'un an. | Ce n'est pas dit.
+EXP: « S'imposer à » = être obligatoire pour. « Sauf » introduit les exceptions.
+
+## EE 1 | A2 | présenter un lieu
+CONSIGNE: Un collègue arrive dans votre entreprise. Vous lui écrivez pour lui présenter un restaurant près du bureau où vous déjeunez souvent (30 à 60 mots).
+MODELE: Bonjour Thomas, bienvenue dans l'équipe ! Je te conseille le restaurant « Chez Lola », à deux minutes du bureau, en face de la banque. Le menu du jour coûte 13 euros, avec une entrée, un plat et un dessert. La cuisine est simple mais délicieuse, et le service est rapide. On y va ensemble demain midi ?
+POINTS: saluer ; situer le restaurant ; prix et menu ; qualités ; proposition
+CONSEILS: Donnez des détails concrets (prix, distance) et terminez par une proposition.
+
+## EE 2 | B1 | faire un compte rendu
+CONSIGNE: Vous avez assisté à une conférence sur le sommeil. Vous en faites un compte rendu pour le journal interne de votre entreprise (40 à 90 mots).
+MODELE: Le 12 mars, le docteur Martin, spécialiste du sommeil, a donné une conférence dans notre entreprise. Il a rappelé qu'un adulte a besoin de sept à neuf heures de sommeil par nuit. Selon lui, les écrans le soir perturbent l'endormissement à cause de leur lumière bleue. Il conseille de se coucher à heure fixe, d'éviter le café après seize heures et de faire une courte sieste si nécessaire. Une soixantaine de salariés ont assisté à cette conférence très appréciée.
+POINTS: date et intervenant ; idées principales ; conseils ; participation
+CONSEILS: Utilisez le discours rapporté : « Il a rappelé que… », « Selon lui… », « Il conseille de… ».
+
+## EE 3 | B2 | donner son opinion
+CONSIGNE: « Les personnes âgées devraient vivre avec leur famille plutôt qu'en maison de retraite. » Vous donnez votre opinion sur un forum (40 à 90 mots).
+MODELE: Cette question est délicate et il me semble difficile de donner une réponse unique. Vivre en famille permet de maintenir des liens affectifs forts et évite l'isolement. Cependant, lorsque la personne âgée devient très dépendante, les soins exigent des compétences et une disponibilité que les familles n'ont pas toujours. Dans ce cas, un établissement spécialisé peut être la meilleure solution. À mon sens, l'essentiel est de respecter le choix de la personne et de rester présent.
+POINTS: opinion nuancée ; avantages ; limites ; conclusion personnelle
+CONSEILS: Pour un sujet sensible, nuancez : « il me semble difficile de… », « dans ce cas… ».
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous pose des questions sur votre santé, votre alimentation et votre mode de vie.
+RELANCES: Comment prenez-vous soin de votre santé ? / Faites-vous du sport ? / Que mangez-vous en général le matin ? / Avez-vous déjà été malade à l'étranger ? Racontez. / Que faites-vous quand vous êtes stressé ? / Qu'aimeriez-vous changer dans votre mode de vie ?
+PHRASES: Pour rester en forme, je… / Le matin, je prends… / Une fois, quand j'étais… / Quand je suis stressé, j'ai tendance à… / J'aimerais…
+MODELE: Pour rester en forme, je marche beaucoup et je fais de la natation deux fois par semaine. Le matin, je prends un thé et des tartines. Une fois, quand j'étais en Italie, j'ai eu une intoxication alimentaire ; heureusement, un pharmacien m'a bien conseillé. Quand je suis stressé, j'écoute de la musique. J'aimerais dormir davantage.
+
+## EO 2 | B2 | Négocier un service | Artisan
+SCENARIO: Vous voulez faire repeindre votre appartement. L'examinateur joue le rôle d'un artisan peintre. Expliquez ce que vous voulez, demandez un devis, discutez du prix et des délais, et négociez.
+RELANCES: Bonjour, de quoi avez-vous besoin ? / Pour trois pièces, il faut compter 2 500 euros. / Je ne peux pas commencer avant deux mois. / La peinture n'est pas comprise dans le prix. / Je demande un acompte de 40 %. / Alors, on fait comment ?
+PHRASES: J'aurais besoin de… / Est-ce que ce prix comprend… ? / C'est un peu au-dessus de mon budget. / Si je fournis…, est-ce que… ? / Je pourrais accepter à condition que…
+MODELE: Bonjour, j'aurais besoin de faire repeindre le salon et deux chambres, environ soixante mètres carrés. 2 500 euros, c'est un peu au-dessus de mon budget, surtout si la peinture n'est pas comprise. Si j'achète la peinture moi-même et que je déplace les meubles, est-ce que vous pourriez baisser le prix ? Deux mois d'attente, c'est long ; si vous commencez plus tôt, je peux accepter un acompte de 30 %.
+
+## EO 3 | B2 | Faut-il reculer l'âge de la retraite ? | Examinateur
+SCENARIO: Donnez votre opinion : « Faut-il travailler plus longtemps parce que l'on vit plus longtemps ? » Argumentez, donnez des exemples, nuancez et concluez.
+RELANCES: Qu'en pensez-vous ? / Tous les métiers sont-ils comparables ? / Avez-vous un exemple autour de vous ? / Quelles autres solutions voyez-vous ? / Votre conclusion ?
+PHRASES: De mon point de vue… / Cela s'explique notamment par… / Il serait réducteur de… / Dans une certaine mesure… / En définitive…
+MODELE: De mon point de vue, il est logique de travailler un peu plus longtemps, dans une certaine mesure, car l'espérance de vie augmente. Cependant, il serait réducteur de traiter tous les métiers de la même façon : mon oncle, maçon, avait mal au dos dès cinquante ans. On pourrait permettre aux personnes dont le métier est pénible de partir plus tôt et proposer une retraite progressive aux autres. En définitive, il faut plus de souplesse.
