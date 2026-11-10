@@ -61,13 +61,12 @@ def attempt_report_html(s, attempt_id: int, with_correction: bool = True) -> str
                                + (f" — <i>{html.escape(c.rationale)}</i>" if c.rationale else "")
                                + "</li>")
                 out.append("</ul>")
-        for ws in a.writing_submissions:
-            ev = ws.evaluation or {}
-            out.append(f"<h3>Expression écrite – tâche {ws.task.task_number if ws.task else ''}"
-                       f"</h3><p>{ws.word_count} mots · note {ws.note20 or 0:.1f}/20 · "
-                       f"{ws.level or ''}</p><p>{html.escape(ws.text)}</p>")
-            if ev.get("corrected_text"):
-                out.append(f"<p><b>Version corrigée :</b> {html.escape(ev['corrected_text'])}</p>")
+        for ws in sorted(a.writing_submissions,
+                         key=lambda w: w.task.task_number if w.task else 0):
+            from tcfmaster.ui.writing_report import evaluation_html
+            out.append(evaluation_html(ws.evaluation or {}, ws.text,
+                                       f"Expression écrite – tâche "
+                                       f"{ws.task.task_number if ws.task else ''}"))
         for sp in a.speaking_submissions:
             out.append(f"<h3>Expression orale – tâche {sp.task.task_number if sp.task else ''}"
                        f"</h3><p>Note {sp.note20 or 0:.1f}/20 · {sp.level or ''}</p>"

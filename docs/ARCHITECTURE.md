@@ -89,6 +89,23 @@ exercice + correction) ; `vocab_words` ; `grammar_chapters` → `grammar_exercis
 * Reconnaissance vocale : moteur local hors ligne (Vosk, modèle français) et moteur en
   ligne facultatif.
 
+## 6 bis. Correction de l'expression écrite
+
+* `services/writing_rules.py` : environ 50 règles d'erreurs fréquentes des apprenants
+  (orthographe, élision, accents, accords, subjonctif, hypothèse, auxiliaire, négation,
+  registre, anglicismes, ponctuation). Chaque règle a une explication, une correction
+  automatique quand elle est sûre et un lien vers un chapitre de grammaire. Les règles
+  visent la précision (des tests vérifient l'absence de faux positifs sur des phrases
+  correctes et sur les 60 réponses modèles).
+* `services/writing_eval.py` : analyse de la tâche (mots, éléments de la consigne),
+  cohérence (connecteurs par fonction, phrases), lexique (variété, répétitions,
+  structures complexes) et note estimée sur 20 en quatre critères de 5 points.
+  Plafonds : 16/20 au maximum (au-delà, seul un humain peut juger), 9,5 si le texte
+  contient au moins 7 erreurs pour 100 mots, 7,5 au-delà de 12, 5 si le texte fait
+  moins de la moitié du minimum. Le résultat porte toujours l'avertissement officiel.
+* `services/writing_service.py` : enregistrement (`writing_submissions`) et note EE
+  d'une tentative (moyenne des 3 tâches, une tâche non rendue vaut 0).
+
 ## 7. Distribution
 
 PyInstaller (exécutable autonome, Python embarqué) puis Inno Setup (installateur
