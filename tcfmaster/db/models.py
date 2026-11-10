@@ -286,6 +286,7 @@ class Attempt(Base):
     results: Mapped[dict | None] = mapped_column(JSON, nullable=True)
     # results : {CO: {score, level, correct, total}, CE: …, EE: {note20, level}, EO: …}
 
+    exam: Mapped[Exam | None] = relationship()
     answers: Mapped[list["Answer"]] = relationship(back_populates="attempt",
                                                    cascade="all, delete-orphan")
     writing_submissions: Mapped[list["WritingSubmission"]] = relationship(
