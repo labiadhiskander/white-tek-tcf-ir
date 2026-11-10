@@ -1,0 +1,93 @@
+# Famille et relations
+famille | nom | f | A1 | Ensemble des parents et des enfants. | Je passe Noël en famille. | foyer | famille nombreuse, famille recomposée
+famille monoparentale | nom | f | B2 | Famille avec un seul parent. | Les familles monoparentales sont plus exposées à la pauvreté. | - | aide aux familles monoparentales
+famille recomposée | nom | f | B2 | Famille avec des enfants d'unions différentes. | Dans les familles recomposées, les enfants ont parfois deux maisons. | - | vivre dans une famille recomposée
+parent | nom | m | A1 | Père ou mère. | Les parents d'élèves se réunissent ce soir. | - | parents d'élèves
+proche | nom | m | B1 | Membre de la famille ou ami intime. | Il a fêté son anniversaire avec ses proches. | intime | ses proches
+entourage | nom | m | B2 | Personnes qui vivent autour de quelqu'un. | Son entourage l'a beaucoup soutenu. | proches | soutien de l'entourage
+lien | nom | m | B1 | Relation entre des personnes. | Les liens familiaux sont importants pour lui. | relation | lien familial, créer des liens
+génération | nom | f | B1 | Ensemble des personnes du même âge. | Trois générations vivent sous le même toit. | - | conflit de générations
+intergénérationnel | adjectif | - | C1 | Qui concerne plusieurs générations. | La colocation intergénérationnelle rapproche jeunes et seniors. | - | lien intergénérationnel
+grands-parents | nom | m | A1 | Parents du père ou de la mère. | Les grands-parents gardent souvent les petits-enfants. | aïeuls | chez les grands-parents
+petit-enfant | nom | m | A2 | Enfant du fils ou de la fille. | Elle a cinq petits-enfants. | - | petits-enfants
+beau-père | nom | m | B1 | Père du conjoint ou nouveau mari de la mère. | Je m'entends bien avec mon beau-père. | - | belle-famille
+belle-famille | nom | f | B1 | Famille du conjoint. | Nous passons l'été chez ma belle-famille. | - | dîner avec sa belle-famille
+neveu | nom | m | A2 | Fils du frère ou de la sœur. | Mon neveu entre à l'université. | - | nièce et neveu
+cousin | nom | m | A1 | Enfant de l'oncle ou de la tante. | Mes cousins habitent à Montréal. | - | cousin germain
+aîné | nom | m | B1 | Le plus âgé des enfants. | L'aîné aide ses frères à faire leurs devoirs. | grand frère | fils aîné
+cadet | nom | m | B1 | Le plus jeune ou le second enfant. | Le cadet de la famille est très timide. | benjamin | frère cadet
+enfant unique | nom | m | A2 | Enfant sans frère ni sœur. | Être enfant unique a des avantages et des inconvénients. | - | être enfant unique
+fratrie | nom | f | C1 | Ensemble des frères et sœurs. | Il est le troisième d'une fratrie de cinq. | frères et sœurs | au sein de la fratrie
+couple | nom | m | A2 | Deux personnes unies par une relation amoureuse. | Ce couple vit ensemble depuis dix ans. | - | vie de couple
+conjoint | nom | m | B1 | Époux ou épouse. | Le conjoint peut bénéficier de la mutuelle. | époux | conjoint survivant
+concubinage | nom | m | C1 | Vie commune sans mariage. | Ils vivent en concubinage depuis cinq ans. | union libre | vivre en concubinage
+PACS | nom | m | B2 | Pacte civil de solidarité, contrat d'union en France. | Ils ont signé un PACS avant d'acheter leur appartement. | - | se pacser
+mariage | nom | m | A2 | Union officielle de deux personnes. | Le mariage aura lieu en juin. | union | célébrer un mariage
+se marier | verbe | - | A2 | S'unir par le mariage. | Ils se sont mariés à la mairie. | épouser | se marier avec
+fiançailles | nom | f | B1 | Promesse de mariage. | Ils ont annoncé leurs fiançailles. | - | bague de fiançailles
+divorce | nom | m | B1 | Fin légale d'un mariage. | Le divorce a été prononcé en mars. | séparation | demander le divorce
+séparation | nom | f | B1 | Fait de ne plus vivre ensemble. | La séparation de ses parents l'a affecté. | rupture | séparation à l'amiable
+rupture | nom | f | B2 | Fin d'une relation. | Il ne s'est pas remis de sa rupture. | séparation | rupture amoureuse
+garde des enfants | nom | f | B2 | Responsabilité de s'occuper des enfants. | Le juge a confié la garde des enfants à la mère. | - | garde alternée
+garde alternée | nom | f | C1 | Les enfants vivent alternativement chez chaque parent. | En garde alternée, les enfants changent de maison chaque semaine. | résidence alternée | obtenir la garde alternée
+pension alimentaire | nom | f | C1 | Somme versée pour l'entretien d'un enfant. | Le père verse une pension alimentaire chaque mois. | - | verser une pension alimentaire
+éducation | nom | f | A2 | Façon d'élever un enfant. | Ses parents lui ont donné une éducation stricte. | - | éducation des enfants
+élever | verbe | - | B1 | S'occuper d'un enfant jusqu'à l'âge adulte. | Elle a élevé seule ses trois enfants. | éduquer | élever des enfants
+autorité parentale | nom | f | C1 | Droits et devoirs des parents envers l'enfant. | Les deux parents exercent l'autorité parentale. | - | exercer l'autorité parentale
+congé parental | nom | m | B2 | Interruption du travail pour s'occuper d'un enfant. | Il a pris un congé parental de six mois. | - | prendre un congé parental
+congé de paternité | nom | m | B2 | Congé accordé au père à la naissance. | Le congé de paternité est passé à 25 jours. | - | allonger le congé de paternité
+garde d'enfants | nom | f | B1 | Fait de s'occuper d'enfants. | Le coût de la garde d'enfants est élevé. | - | mode de garde
+crèche | nom | f | A2 | Lieu d'accueil des jeunes enfants. | Il n'y a plus de place à la crèche. | garderie | place en crèche
+nounou | nom | f | B1 | Personne qui garde des enfants. | La nounou vient chercher les enfants à l'école. | assistante maternelle | embaucher une nounou
+adolescent | nom | m | A2 | Jeune entre l'enfance et l'âge adulte. | Les adolescents ont besoin d'autonomie. | ado, jeune | crise d'adolescence
+crise d'adolescence | nom | f | B2 | Période de conflit typique de l'adolescence. | Sa fille traverse une crise d'adolescence. | - | traverser une crise d'adolescence
+conflit | nom | m | B1 | Opposition entre des personnes. | Les conflits familiaux éclatent souvent à table. | dispute | conflit de générations
+dispute | nom | f | A2 | Échange vif de reproches. | Ils ont eu une dispute à propos de l'argent. | querelle | dispute conjugale
+se disputer | verbe | - | A2 | Avoir une dispute. | Les enfants se disputent pour la télécommande. | se quereller | se disputer avec quelqu'un
+se réconcilier | verbe | - | B1 | Faire la paix après un conflit. | Ils se sont réconciliés après des années de silence. | faire la paix | se réconcilier avec
+s'entendre | verbe | - | A2 | Avoir de bonnes relations. | Je m'entends très bien avec ma sœur. | s'accorder | bien s'entendre avec
+complicité | nom | f | B2 | Entente profonde entre des personnes. | Une grande complicité unit les deux frères. | connivence | complicité entre
+confiance | nom | f | B1 | Sentiment de sécurité envers quelqu'un. | La confiance est la base du couple. | foi | avoir confiance en, faire confiance
+soutien | nom | m | B1 | Aide morale ou matérielle. | Merci pour ton soutien pendant cette période difficile. | appui | apporter son soutien
+solidarité | nom | f | B2 | Entraide entre personnes. | La solidarité familiale joue un rôle important. | entraide | solidarité familiale
+entraide | nom | f | B2 | Aide mutuelle. | L'entraide entre voisins s'est renforcée. | solidarité | réseau d'entraide
+amitié | nom | f | A2 | Relation d'affection entre amis. | Leur amitié dure depuis l'école primaire. | camaraderie | lien d'amitié
+ami d'enfance | nom | m | B1 | Ami depuis l'enfance. | Mon témoin de mariage est un ami d'enfance. | - | ami d'enfance
+connaissance | nom | f | B1 | Personne que l'on connaît sans être proche. | Ce n'est pas un ami, juste une connaissance. | relation | faire la connaissance de
+voisin | nom | m | A1 | Personne qui habite à côté. | Mes voisins sont très sympathiques. | - | voisin de palier
+voisinage | nom | m | B2 | Ensemble des voisins. | Les relations de voisinage se sont dégradées. | quartier | troubles du voisinage
+rencontre | nom | f | A2 | Fait de faire connaissance. | Leur rencontre a eu lieu à l'université. | - | site de rencontre
+site de rencontre | nom | m | B1 | Site pour rencontrer un partenaire. | Ils se sont connus sur un site de rencontre. | application de rencontre | s'inscrire sur un site de rencontre
+célibataire | nom | m | A2 | Personne qui ne vit pas en couple. | Le nombre de célibataires augmente dans les villes. | - | rester célibataire
+solitude | nom | f | B1 | État d'une personne seule. | La solitude touche de nombreuses personnes âgées. | isolement | souffrir de solitude
+isolement | nom | m | B2 | Situation d'une personne isolée. | L'isolement social est un problème de santé publique. | solitude | isolement social
+personne âgée | nom | f | A2 | Personne d'un âge avancé. | Les personnes âgées sont plus vulnérables à la chaleur. | senior | prise en charge des personnes âgées
+senior | nom | m | B1 | Personne de plus de 60 ans. | Les seniors utilisent de plus en plus Internet. | personne âgée | activités pour seniors
+aidant | nom | m | C1 | Personne qui s'occupe d'un proche dépendant. | Les aidants familiaux manquent de reconnaissance. | aidant familial | statut d'aidant
+natalité | nom | f | B2 | Nombre de naissances. | La natalité baisse en France depuis dix ans. | naissances | taux de natalité
+naissance | nom | f | A2 | Fait de naître. | La naissance de leur fille a changé leur vie. | - | date de naissance
+adoption | nom | f | B2 | Fait d'adopter un enfant. | La procédure d'adoption peut durer des années. | - | adoption internationale
+adopter | verbe | - | B1 | Prendre légalement un enfant comme le sien. | Ils ont adopté un enfant en Colombie. | - | adopter un enfant
+foyer | nom | m | B2 | Lieu où vit une famille ; famille. | Chaque foyer reçoit une aide de l'État. | ménage | fonder un foyer
+ménage | nom | m | B2 | Ensemble des personnes vivant dans un logement. | Les ménages modestes consacrent plus au logement. | foyer | ménages modestes
+fonder une famille | expression | - | B1 | Se marier et avoir des enfants. | Il souhaite fonder une famille avant 35 ans. | - | fonder une famille
+tâches ménagères | nom | f | B1 | Travaux d'entretien de la maison. | Les femmes assurent encore la majorité des tâches ménagères. | corvées | partage des tâches ménagères
+partage | nom | m | B1 | Répartition entre plusieurs personnes. | Le partage des tâches est un sujet de dispute. | répartition | partage des tâches
+égalité | nom | f | B1 | Fait d'être égal. | L'égalité entre les femmes et les hommes progresse lentement. | parité | égalité des sexes
+respect | nom | m | A2 | Considération envers quelqu'un. | Le respect mutuel est essentiel. | considération | respect mutuel
+valeur | nom | f | B1 | Principe moral important. | Mes parents m'ont transmis des valeurs fortes. | principe | valeurs familiales
+transmettre | verbe | - | B2 | Faire passer à quelqu'un. | Les grands-parents transmettent les traditions. | léguer | transmettre des valeurs
+tradition | nom | f | B1 | Coutume transmise de génération en génération. | Chez nous, c'est une tradition de manger ensemble le dimanche. | coutume | tradition familiale
+fête | nom | f | A1 | Célébration. | La fête des mères est en mai. | célébration | fête de famille
+anniversaire | nom | m | A1 | Jour qui rappelle une naissance ou un événement. | Nous fêtons l'anniversaire de mariage de mes parents. | - | anniversaire de mariage
+réunion de famille | nom | f | B1 | Rassemblement des membres d'une famille. | Toute la famille se retrouve pour la réunion annuelle. | - | organiser une réunion de famille
+hériter | verbe | - | B2 | Recevoir des biens après un décès. | Il a hérité de la maison de son grand-père. | - | hériter de
+deuil | nom | m | B2 | Douleur après la mort d'un proche. | Toute la famille est en deuil. | - | faire son deuil, être en deuil
+décès | nom | m | B2 | Mort d'une personne. | Le décès de son père l'a profondément marqué. | mort | acte de décès
+veuf | nom | m | B2 | Personne dont le conjoint est mort. | Il est veuf depuis cinq ans. | - | rester veuf
+bienveillance | nom | f | B2 | Disposition favorable envers les autres. | L'éducation bienveillante refuse les punitions humiliantes. | gentillesse | faire preuve de bienveillance
+bienveillant | adjectif | - | B2 | Qui veut du bien aux autres. | Elle porte un regard bienveillant sur ses élèves. | indulgent | parent bienveillant
+épanouissement | nom | m | B2 | Plein développement de la personnalité. | Les loisirs contribuent à l'épanouissement des enfants. | développement | épanouissement personnel
+s'épanouir | verbe | - | B2 | Se développer pleinement. | Il s'épanouit dans son nouveau travail. | s'accomplir | s'épanouir dans
+autonomie | nom | f | B2 | Capacité à agir seul. | Il faut favoriser l'autonomie des adolescents. | indépendance | gagner en autonomie
+quitter le nid | expression | - | B2 | Quitter la maison familiale. | Les jeunes quittent le nid de plus en plus tard. | prendre son indépendance | quitter le nid familial

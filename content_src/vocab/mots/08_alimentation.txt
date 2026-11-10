@@ -1,0 +1,91 @@
+# Alimentation
+alimentation | nom | f | B1 | Manière de se nourrir. | Une alimentation variée est essentielle à la santé. | nourriture | alimentation saine
+nourriture | nom | f | A2 | Ce que l'on mange. | La nourriture de la cantine s'est améliorée. | aliments | nourriture équilibrée
+aliment | nom | m | B1 | Substance qui sert à se nourrir. | Les aliments transformés contiennent beaucoup de sel. | denrée | aliment de base
+repas | nom | m | A1 | Nourriture prise à heure fixe. | Nous prenons le repas du soir en famille. | - | repas de famille, sauter un repas
+petit-déjeuner | nom | m | A1 | Premier repas de la journée. | Le petit-déjeuner est le repas le plus important. | - | prendre son petit-déjeuner
+goûter | nom | m | A2 | Petit repas de l'après-midi. | Les enfants prennent un goûter à 16 heures. | collation | heure du goûter
+collation | nom | f | B2 | Repas léger. | Une collation sera servie pendant la pause. | en-cas | collation matinale
+grignoter | verbe | - | B1 | Manger un peu entre les repas. | Évitez de grignoter devant la télévision. | picorer | grignoter entre les repas
+régime | nom | m | B1 | Façon de s'alimenter, souvent pour maigrir. | Elle suit un régime sans sel. | diète | faire un régime, régime alimentaire
+végétarien | adjectif | - | B1 | Qui ne mange pas de viande. | Le restaurant propose un menu végétarien. | - | plat végétarien
+végan | adjectif | - | B1 | Qui ne consomme aucun produit animal. | Il est devenu végan pour des raisons éthiques. | végétalien | régime végan
+protéine | nom | f | B2 | Nutriment qui construit les muscles. | Les lentilles sont riches en protéines. | - | protéines végétales
+vitamine | nom | f | B1 | Substance indispensable à l'organisme. | Les agrumes contiennent beaucoup de vitamine C. | - | carence en vitamines
+nutriment | nom | m | C1 | Élément nutritif. | Les légumes apportent de nombreux nutriments. | élément nutritif | nutriments essentiels
+calorie | nom | f | B1 | Unité d'énergie des aliments. | Les sodas sont très riches en calories. | - | apport en calories
+sucre | nom | m | A1 | Substance sucrée. | Il faut réduire la consommation de sucre. | - | sucre ajouté
+matière grasse | nom | f | B1 | Graisse contenue dans un aliment. | Ce plat contient trop de matières grasses. | graisse | matières grasses saturées
+produit laitier | nom | m | B1 | Aliment à base de lait. | Les produits laitiers apportent du calcium. | laitage | produits laitiers
+féculent | nom | m | B2 | Aliment riche en amidon. | Les pâtes et le riz sont des féculents. | - | portion de féculents
+fruits et légumes | nom | m | A1 | Produits végétaux frais. | Mangez au moins cinq fruits et légumes par jour. | - | cinq fruits et légumes par jour
+de saison | locution | - | B1 | Produit à la période naturelle de récolte. | Je préfère acheter des fruits de saison. | - | légumes de saison
+produit local | nom | m | B1 | Produit fabriqué près du lieu de vente. | Ce marché ne vend que des produits locaux. | produit du terroir | consommer local
+circuit court | nom | m | B2 | Vente avec peu ou pas d'intermédiaires. | Les circuits courts rapprochent producteurs et consommateurs. | vente directe | acheter en circuit court
+terroir | nom | m | B2 | Région et ses productions agricoles typiques. | Ce fromage est un produit du terroir. | région | produits du terroir
+appellation d'origine | nom | f | C1 | Label garantissant l'origine d'un produit. | Le roquefort bénéficie d'une appellation d'origine protégée. | AOP | appellation d'origine contrôlée
+label | nom | m | B2 | Marque qui garantit une qualité. | Ce label garantit une production biologique. | certification | label bio, label rouge
+étiquette | nom | f | B1 | Petit papier qui donne des informations sur un produit. | Lisez bien l'étiquette avant d'acheter. | - | étiquette nutritionnelle
+date de péremption | nom | f | B1 | Date limite de consommation. | Ce yaourt a dépassé sa date de péremption. | date limite | vérifier la date de péremption
+périmé | adjectif | - | B1 | Dont la date de consommation est dépassée. | Ne mangez pas ce jambon, il est périmé. | expiré | produit périmé
+conservateur | nom | m | B2 | Additif qui prolonge la durée de conservation. | Ce pain ne contient aucun conservateur. | additif | sans conservateur
+additif | nom | m | B2 | Substance ajoutée à un aliment. | Certains additifs sont soupçonnés d'être nocifs. | - | additif alimentaire
+ultratransformé | adjectif | - | C1 | Fabriqué industriellement avec de nombreux additifs. | Les aliments ultratransformés favorisent l'obésité. | industriel | aliment ultratransformé
+fait maison | locution | - | B1 | Préparé sur place, non industriel. | Tous nos desserts sont faits maison. | artisanal | plat fait maison
+restauration rapide | nom | f | B2 | Repas servis rapidement. | La restauration rapide séduit les étudiants. | fast-food | chaîne de restauration rapide
+malbouffe | nom | f | B2 | Alimentation de mauvaise qualité. | La malbouffe est responsable de nombreuses maladies. | - | lutter contre la malbouffe
+cantine | nom | f | A2 | Restaurant d'une école ou d'une entreprise. | Les élèves déjeunent à la cantine. | restaurant scolaire | manger à la cantine
+restauration collective | nom | f | C1 | Repas servis dans les écoles, hôpitaux, entreprises. | La loi impose des produits bio dans la restauration collective. | - | restauration collective
+gastronomie | nom | f | B2 | Art de bien manger. | La gastronomie française est inscrite au patrimoine de l'UNESCO. | art culinaire | gastronomie française
+gastronomique | adjectif | - | B2 | Qui relève de la cuisine raffinée. | Nous avons dîné dans un restaurant gastronomique. | raffiné | repas gastronomique
+culinaire | adjectif | - | B2 | Qui concerne la cuisine. | Il a suivi une formation culinaire. | - | art culinaire, spécialité culinaire
+recette | nom | f | A2 | Instructions pour préparer un plat. | Ma grand-mère m'a donné sa recette de tarte. | - | recette de cuisine
+ingrédient | nom | m | A2 | Élément entrant dans une recette. | Tous les ingrédients sont bio. | composant | ingrédients frais
+cuisiner | verbe | - | A2 | Préparer des plats. | J'aime cuisiner le week-end. | préparer | cuisiner des produits frais
+faire cuire | verbe | - | A2 | Soumettre à la chaleur. | Faites cuire les pâtes dix minutes. | cuire | faire cuire à feu doux
+saveur | nom | f | B2 | Goût particulier. | Ce plat a une saveur épicée. | goût | saveur sucrée
+savoureux | adjectif | - | B2 | Qui a bon goût. | Ce gâteau est vraiment savoureux. | délicieux | plat savoureux
+fade | adjectif | - | B2 | Qui manque de goût. | La soupe est fade, il faut ajouter du sel. | insipide | goût fade
+copieux | adjectif | - | B2 | Abondant. | Le repas était copieux. | abondant | repas copieux
+épicé | adjectif | - | B1 | Relevé avec des épices. | La cuisine indienne est souvent épicée. | relevé | plat épicé
+spécialité | nom | f | B1 | Plat typique d'une région. | La bouillabaisse est une spécialité marseillaise. | - | spécialité régionale
+plat | nom | m | A1 | Mets préparé ou partie d'un repas. | Le plat du jour est un poulet rôti. | mets | plat principal, plat du jour
+entrée | nom | f | A1 | Premier plat d'un repas. | En entrée, je prendrai une salade. | hors-d'œuvre | entrée, plat, dessert
+addition | nom | f | A2 | Note à payer au restaurant. | L'addition, s'il vous plaît ! | note | demander l'addition
+pourboire | nom | m | B1 | Somme donnée en plus pour le service. | En France, le pourboire n'est pas obligatoire. | - | laisser un pourboire
+traiteur | nom | m | B2 | Professionnel qui prépare des plats à emporter. | Nous avons commandé le buffet chez un traiteur. | - | service traiteur
+à emporter | locution | - | B1 | Que l'on prend pour manger ailleurs. | Vous mangez sur place ou à emporter ? | - | plat à emporter
+livraison à domicile | nom | f | B1 | Apport d'un repas chez le client. | La livraison à domicile s'est développée en ville. | - | service de livraison à domicile
+gaspillage alimentaire | nom | m | B2 | Fait de jeter de la nourriture consommable. | Les supermarchés doivent donner leurs invendus pour éviter le gaspillage alimentaire. | - | réduire le gaspillage alimentaire
+invendu | nom | m | B2 | Produit non vendu. | Les invendus sont donnés aux associations. | - | don des invendus
+restes | nom | m | A2 | Nourriture non mangée lors d'un repas. | On mangera les restes demain midi. | - | accommoder les restes
+agriculteur | nom | m | A2 | Personne qui cultive la terre. | Les agriculteurs souffrent de la sécheresse. | paysan, exploitant agricole | jeune agriculteur
+éleveur | nom | m | B1 | Personne qui élève des animaux. | Les éleveurs de vaches laitières manifestent. | - | éleveur de bovins
+récolte | nom | f | B1 | Fait de recueillir les produits de la terre. | La récolte de blé a été mauvaise. | moisson | récolte abondante
+élevage intensif | nom | m | B2 | Élevage industriel d'un grand nombre d'animaux. | L'élevage intensif est critiqué pour la souffrance animale. | élevage industriel | dénoncer l'élevage intensif
+bien-être animal | nom | m | B2 | Conditions de vie respectueuses des animaux. | Les consommateurs sont sensibles au bien-être animal. | - | respect du bien-être animal
+sécurité alimentaire | nom | f | C1 | Accès à une nourriture suffisante et saine. | La guerre menace la sécurité alimentaire mondiale. | - | garantir la sécurité alimentaire
+famine | nom | f | B2 | Manque extrême de nourriture. | La sécheresse a provoqué une famine. | disette | risque de famine
+malnutrition | nom | f | C1 | Alimentation insuffisante ou déséquilibrée. | La malnutrition touche des millions d'enfants. | sous-alimentation | lutter contre la malnutrition
+carence | nom | f | B2 | Manque d'un élément nécessaire. | Une carence en fer provoque de la fatigue. | manque | carence en vitamines
+intoxication alimentaire | nom | f | B2 | Maladie due à un aliment contaminé. | Plusieurs élèves ont eu une intoxication alimentaire. | - | intoxication alimentaire
+intolérance | nom | f | B2 | Mauvaise réaction à un aliment. | Il a une intolérance au lactose. | allergie | intolérance au gluten
+sans gluten | locution | - | B2 | Qui ne contient pas de gluten. | Ce restaurant propose des pâtes sans gluten. | - | produit sans gluten
+équilibré | adjectif | - | B1 | Qui comporte tous les éléments nécessaires. | Un menu équilibré comprend des légumes. | varié | repas équilibré
+nutritionniste | nom | m | B2 | Spécialiste de l'alimentation. | La nutritionniste m'a conseillé de manger moins salé. | diététicien | consulter un nutritionniste
+habitudes alimentaires | nom | f | B2 | Façon dont on mange habituellement. | Les habitudes alimentaires ont beaucoup changé. | - | changer ses habitudes alimentaires
+portion | nom | f | B1 | Quantité servie à une personne. | Les portions sont généreuses dans ce restaurant. | part | portion individuelle
+boisson | nom | f | A1 | Liquide que l'on boit. | Les boissons sucrées sont taxées. | - | boisson gazeuse, boisson alcoolisée
+alcool | nom | m | A2 | Boisson qui contient de l'éthanol. | L'abus d'alcool est dangereux pour la santé. | - | consommation d'alcool
+supermarché | nom | m | A1 | Grand magasin d'alimentation. | Je fais mes courses au supermarché. | grande surface | rayon du supermarché
+épicerie | nom | f | A2 | Petit magasin d'alimentation. | L'épicerie du coin est ouverte tard. | - | épicerie fine, épicerie solidaire
+marché | nom | m | A1 | Lieu de vente en plein air. | Je vais au marché le samedi matin. | - | marché de producteurs
+vrac | nom | m | B2 | Vente sans emballage. | J'achète les céréales en vrac. | - | acheter en vrac, épicerie vrac
+conserve | nom | f | B1 | Aliment conservé dans une boîte. | Les conserves se gardent longtemps. | boîte | boîte de conserve
+surgelé | nom | m | B1 | Aliment conservé par le froid. | Les surgelés sont pratiques en semaine. | congelé | produit surgelé
+congeler | verbe | - | B1 | Conserver par le froid. | On peut congeler le pain. | surgeler | congeler les restes
+gourmand | adjectif | - | B1 | Qui aime manger de bonnes choses. | Mon fils est très gourmand. | - | café gourmand
+convivialité | nom | f | B2 | Plaisir d'être ensemble. | Le repas français est synonyme de convivialité. | chaleur humaine | moment de convivialité
+se nourrir | verbe | - | B1 | Absorber des aliments. | Il est essentiel de bien se nourrir. | s'alimenter | se nourrir correctement
+consommer | verbe | - | B1 | Utiliser comme nourriture ou produit. | Les Français consomment moins de viande qu'avant. | manger | consommer local
+apport | nom | m | C1 | Quantité de nutriments fournie. | L'apport quotidien en sel ne doit pas dépasser 5 grammes. | - | apport calorique

@@ -1,0 +1,101 @@
+# Santé
+santé | nom | f | A1 | État de bon fonctionnement du corps et de l'esprit. | Le sport est bon pour la santé. | bien-être | être en bonne santé, système de santé
+maladie | nom | f | A2 | Altération de la santé. | Cette maladie touche surtout les personnes âgées. | affection, pathologie | maladie chronique, maladie contagieuse
+médecin | nom | m | A1 | Personne qui soigne les malades. | J'ai rendez-vous chez le médecin à 10 heures. | docteur | médecin généraliste, médecin traitant
+généraliste | nom | m | B1 | Médecin qui traite toutes les maladies courantes. | Consultez d'abord votre généraliste avant un spécialiste. | médecin de famille | médecin généraliste
+spécialiste | nom | m | B1 | Médecin expert d'un domaine précis. | Le généraliste m'a orienté vers un spécialiste. | - | consulter un spécialiste
+ordonnance | nom | f | A2 | Document où le médecin prescrit des médicaments. | Ce médicament n'est délivré que sur ordonnance. | prescription | rédiger une ordonnance
+médicament | nom | m | A2 | Substance utilisée pour soigner. | N'oubliez pas de prendre vos médicaments. | remède | prendre un médicament, médicament générique
+pharmacie | nom | f | A1 | Magasin où l'on vend des médicaments. | La pharmacie de garde est ouverte le dimanche. | officine | pharmacie de garde
+symptôme | nom | m | B1 | Signe qui révèle une maladie. | La fièvre est un symptôme fréquent de la grippe. | signe | présenter des symptômes
+fièvre | nom | f | A2 | Élévation anormale de la température du corps. | L'enfant a de la fièvre depuis hier soir. | température | avoir de la fièvre, faire baisser la fièvre
+douleur | nom | f | A2 | Sensation pénible ressentie dans une partie du corps. | Il ressent une douleur au dos. | mal, souffrance | douleur aiguë, soulager la douleur
+blessure | nom | f | B1 | Lésion causée par un choc ou une coupure. | Sa blessure au genou l'empêche de courir. | lésion | blessure grave, soigner une blessure
+urgences | nom | f | A2 | Service hospitalier qui accueille les cas graves. | Nous avons attendu trois heures aux urgences. | - | service des urgences, aller aux urgences
+hôpital | nom | m | A1 | Établissement où l'on soigne les malades. | Elle a été transportée à l'hôpital. | centre hospitalier | hôpital public, être hospitalisé
+clinique | nom | f | B1 | Établissement de soins, souvent privé. | Il s'est fait opérer dans une clinique privée. | - | clinique privée
+infirmier | nom | m | A2 | Personne qui donne des soins sous la direction du médecin. | L'infirmier passe chaque matin pour le pansement. | soignant | infirmier libéral
+soin | nom | m | B1 | Action de soigner quelqu'un. | Les soins dentaires coûtent cher. | traitement | soins médicaux, prodiguer des soins
+traitement | nom | m | B1 | Ensemble des moyens utilisés pour guérir. | Le traitement dure trois semaines. | thérapie | suivre un traitement
+guérison | nom | f | B2 | Fait de retrouver la santé. | Les médecins sont optimistes quant à sa guérison. | rétablissement | guérison complète
+guérir | verbe | - | A2 | Recouvrer la santé ou rendre la santé. | Ce sirop l'a aidé à guérir plus vite. | se rétablir | guérir d'une maladie
+soigner | verbe | - | A2 | Donner des soins à un malade. | Le vétérinaire soigne aussi les animaux sauvages. | traiter | se faire soigner
+consulter | verbe | - | B1 | Aller voir un médecin pour un avis. | Si la douleur persiste, consultez un médecin. | - | consulter un médecin
+diagnostic | nom | m | B2 | Identification d'une maladie par ses symptômes. | Un diagnostic précoce augmente les chances de guérison. | - | poser un diagnostic, diagnostic précoce
+dépistage | nom | m | B2 | Recherche systématique d'une maladie. | Le dépistage du cancer du sein est gratuit à partir de 50 ans. | détection | campagne de dépistage
+prévention | nom | f | B1 | Ensemble des mesures pour éviter un risque. | La prévention coûte moins cher que le soin. | précaution | campagne de prévention, prévention routière
+vaccin | nom | m | A2 | Substance qui protège contre une maladie. | Le vaccin contre la grippe est conseillé aux seniors. | - | se faire vacciner, vaccin obligatoire
+vaccination | nom | f | B1 | Action d'administrer un vaccin. | La vaccination a permis d'éradiquer la variole. | immunisation | campagne de vaccination
+épidémie | nom | f | B1 | Propagation rapide d'une maladie dans une population. | L'épidémie de grippe arrive chaque hiver. | - | épidémie de grippe, enrayer une épidémie
+pandémie | nom | f | B2 | Épidémie qui touche le monde entier. | La pandémie a bouleversé nos habitudes de travail. | - | pandémie mondiale
+contagieux | adjectif | - | B1 | Qui se transmet facilement. | Restez chez vous tant que vous êtes contagieux. | transmissible | maladie contagieuse
+chronique | adjectif | - | B2 | Se dit d'une maladie qui dure longtemps. | Le diabète est une maladie chronique. | persistant | douleur chronique
+grave | adjectif | - | A2 | Qui présente un danger important. | Heureusement, son accident n'est pas grave. | sérieux | état grave, maladie grave
+bénin | adjectif | - | C1 | Sans gravité (féminin : bénigne). | Rassurez-vous, la tumeur est bénigne. | sans gravité | forme bénigne
+mutuelle | nom | f | B1 | Assurance complémentaire santé. | Ma mutuelle rembourse une partie des lunettes. | complémentaire santé | adhérer à une mutuelle
+Sécurité sociale | nom | f | B1 | Système public de protection sociale en France. | La Sécurité sociale rembourse 70 % de la consultation. | Assurance maladie | carte Vitale, Sécurité sociale
+remboursement | nom | m | B1 | Fait de rendre une somme dépensée. | Le remboursement arrive sous cinq jours. | - | remboursement des soins
+carte Vitale | nom | f | B1 | Carte de l'Assurance maladie en France. | Présentez votre carte Vitale à la pharmacie. | - | mettre à jour sa carte Vitale
+arrêt maladie | nom | m | B1 | Interruption du travail pour raison de santé. | Le médecin lui a prescrit un arrêt maladie d'une semaine. | congé maladie | être en arrêt maladie
+rendez-vous | nom | m | A1 | Rencontre fixée à l'avance. | Il est difficile d'obtenir un rendez-vous chez l'ophtalmologue. | - | prendre rendez-vous, annuler un rendez-vous
+désert médical | nom | m | B2 | Zone où l'on manque de médecins. | Les déserts médicaux se multiplient dans les campagnes. | - | lutter contre les déserts médicaux
+opération | nom | f | A2 | Intervention chirurgicale. | Son opération du cœur s'est bien passée. | intervention | subir une opération
+chirurgien | nom | m | B1 | Médecin qui pratique des opérations. | Le chirurgien a réussi une greffe difficile. | - | chirurgien esthétique
+anesthésie | nom | f | B2 | Suppression de la sensibilité avant une opération. | L'opération se fait sous anesthésie générale. | - | anesthésie locale, anesthésie générale
+convalescence | nom | f | C1 | Période de récupération après une maladie. | Après sa convalescence, il a repris le travail. | rétablissement | être en convalescence
+rechute | nom | f | B2 | Retour d'une maladie qu'on croyait guérie. | Il a fait une rechute après l'arrêt du traitement. | récidive | faire une rechute
+allergie | nom | f | B1 | Réaction anormale de l'organisme à une substance. | J'ai une allergie aux arachides. | intolérance | allergie alimentaire
+rhume | nom | m | A2 | Infection bénigne du nez et de la gorge. | Avec ce froid, j'ai attrapé un rhume. | - | attraper un rhume
+grippe | nom | f | A2 | Maladie virale avec fièvre et courbatures. | La grippe l'a cloué au lit pendant une semaine. | - | avoir la grippe
+toux | nom | f | A2 | Expulsion bruyante d'air des poumons. | Ce sirop calme la toux. | - | toux sèche, quinte de toux
+virus | nom | m | B1 | Agent infectieux microscopique. | Le virus se transmet par les mains. | - | attraper un virus
+bactérie | nom | f | B2 | Micro-organisme parfois responsable de maladies. | Les antibiotiques ne sont efficaces que contre les bactéries. | microbe | bactérie résistante
+antibiotique | nom | m | B1 | Médicament qui détruit les bactéries. | Les antibiotiques ne doivent pas être pris sans avis médical. | - | prendre des antibiotiques
+effet secondaire | nom | m | B2 | Conséquence non désirée d'un médicament. | Ce traitement peut provoquer des effets secondaires. | effet indésirable | effets secondaires graves
+posologie | nom | f | C1 | Dose et fréquence de prise d'un médicament. | Respectez la posologie indiquée sur la notice. | dosage | respecter la posologie
+notice | nom | f | B1 | Document explicatif joint à un médicament. | Lisez attentivement la notice avant usage. | mode d'emploi | lire la notice
+handicap | nom | m | B1 | Limitation durable d'une capacité physique ou mentale. | Les bâtiments publics doivent être accessibles aux personnes en situation de handicap. | invalidité | personne en situation de handicap
+accessible | adjectif | - | B1 | Que l'on peut atteindre ou utiliser facilement. | La gare est accessible en fauteuil roulant. | - | accessible à tous
+santé mentale | nom | f | B2 | État psychologique d'une personne. | La santé mentale des jeunes s'est dégradée. | équilibre psychique | troubles de la santé mentale
+stress | nom | m | A2 | Tension nerveuse due à la pression. | Le stress au travail provoque des insomnies. | anxiété, tension | gérer son stress
+anxiété | nom | f | B2 | Inquiétude intense et durable. | Les examens génèrent de l'anxiété chez les étudiants. | angoisse | crise d'anxiété
+dépression | nom | f | B2 | Trouble psychique marqué par une profonde tristesse. | La dépression doit être prise en charge par un professionnel. | - | souffrir de dépression
+épuisement | nom | m | B2 | Fatigue extrême. | Son épuisement professionnel l'a obligée à s'arrêter. | burn-out | épuisement professionnel
+insomnie | nom | f | B2 | Difficulté à dormir. | Il souffre d'insomnie depuis son déménagement. | troubles du sommeil | souffrir d'insomnie
+sommeil | nom | m | A2 | État de repos pendant lequel on dort. | Un bon sommeil est essentiel pour la mémoire. | repos | manque de sommeil
+fatigue | nom | f | A2 | Sensation de manque d'énergie. | La fatigue s'accumule en fin de semaine. | lassitude | fatigue chronique
+alimentation équilibrée | nom | f | B1 | Régime varié qui couvre les besoins du corps. | Une alimentation équilibrée réduit le risque de maladies. | régime sain | adopter une alimentation équilibrée
+obésité | nom | f | B2 | Excès important de poids. | L'obésité infantile progresse dans les pays riches. | surpoids | lutter contre l'obésité
+sédentarité | nom | f | B2 | Mode de vie avec peu d'activité physique. | La sédentarité est un facteur de risque cardiovasculaire. | inactivité | lutter contre la sédentarité
+tabagisme | nom | m | B2 | Consommation régulière de tabac. | Le tabagisme passif est également dangereux. | - | tabagisme passif
+addiction | nom | f | B2 | Dépendance à une substance ou une activité. | L'addiction aux écrans inquiète les parents. | dépendance | lutter contre une addiction
+sevrage | nom | m | C1 | Arrêt progressif d'une substance dont on dépend. | Le sevrage tabagique demande de la volonté. | arrêt | sevrage tabagique
+espérance de vie | nom | f | B2 | Durée moyenne de vie d'une population. | L'espérance de vie a beaucoup augmenté en un siècle. | longévité | espérance de vie en bonne santé
+vieillissement | nom | m | B2 | Fait de devenir vieux. | Le vieillissement de la population pèse sur les retraites. | - | vieillissement de la population
+dépendance | nom | f | B2 | Perte d'autonomie d'une personne âgée ou malade. | Les maisons de retraite accueillent des personnes en situation de dépendance. | perte d'autonomie | prise en charge de la dépendance
+maison de retraite | nom | f | B1 | Établissement qui accueille les personnes âgées. | Ma grand-mère vit en maison de retraite. | EHPAD | entrer en maison de retraite
+aide-soignant | nom | m | B1 | Professionnel qui assiste les infirmiers. | Les aides-soignants manquent dans les hôpitaux. | - | aide-soignant de nuit
+personnel soignant | nom | m | B2 | Ensemble des professionnels de santé d'un établissement. | Le personnel soignant réclame de meilleures conditions de travail. | soignants | manque de personnel soignant
+pénurie | nom | f | B2 | Manque grave de quelque chose. | On observe une pénurie de certains médicaments. | manque | pénurie de médecins
+téléconsultation | nom | f | B2 | Consultation médicale à distance par vidéo. | La téléconsultation facilite l'accès aux soins en zone rurale. | télémédecine | téléconsultation remboursée
+dossier médical | nom | m | B1 | Ensemble des informations médicales d'un patient. | Votre dossier médical est confidentiel. | - | dossier médical partagé
+secret médical | nom | m | B2 | Obligation pour le médecin de garder le silence. | Le médecin est tenu au secret médical. | confidentialité | respecter le secret médical
+patient | nom | m | A2 | Personne qui reçoit des soins. | Le patient attend dans la salle d'attente. | malade | patient hospitalisé
+se rétablir | verbe | - | B2 | Retrouver la santé. | Il lui a fallu un mois pour se rétablir complètement. | guérir | se rétablir rapidement
+souffrir | verbe | - | B1 | Éprouver une douleur ou une maladie. | Elle souffre de migraines fréquentes. | endurer | souffrir de
+prescrire | verbe | - | B2 | Ordonner un traitement. | Le médecin m'a prescrit du repos. | ordonner | prescrire un médicament
+soulager | verbe | - | B2 | Diminuer une douleur. | Cette crème soulage les douleurs musculaires. | apaiser | soulager la douleur
+aggraver | verbe | - | B2 | Rendre plus grave. | Le manque de sommeil aggrave le stress. | empirer | aggraver la situation
+se blesser | verbe | - | B1 | Se faire une blessure. | Il s'est blessé en jouant au football. | - | se blesser au genou
+hospitaliser | verbe | - | B2 | Faire admettre à l'hôpital. | Elle a été hospitalisée pour une pneumonie. | - | être hospitalisé
+vacciner | verbe | - | B1 | Administrer un vaccin. | Il faut vacciner les enfants contre la rougeole. | immuniser | se faire vacciner
+examen médical | nom | m | B1 | Contrôle de l'état de santé. | Un examen médical est obligatoire avant l'embauche. | bilan de santé | passer un examen médical
+analyse | nom | f | B1 | Examen en laboratoire d'un prélèvement. | Les analyses de sang sont normales. | examen | analyse de sang
+radiographie | nom | f | B1 | Image de l'intérieur du corps par rayons X. | La radiographie montre une fracture du poignet. | radio | passer une radiographie
+fracture | nom | f | B1 | Os cassé. | Il a une fracture de la jambe après sa chute. | - | fracture ouverte
+premiers secours | nom | m | B2 | Gestes d'urgence avant l'arrivée des secours. | Tout le monde devrait apprendre les premiers secours. | gestes qui sauvent | formation aux premiers secours
+ambulance | nom | f | A2 | Véhicule qui transporte les malades. | L'ambulance est arrivée en dix minutes. | - | appeler une ambulance
+don du sang | nom | m | B1 | Fait de donner son sang pour les malades. | Le don du sang sauve des vies chaque jour. | - | faire un don du sang
+hygiène | nom | f | B1 | Ensemble des règles de propreté pour rester en bonne santé. | Se laver les mains est un geste d'hygiène essentiel. | propreté | règles d'hygiène
+bien-être | nom | m | B1 | État agréable de santé physique et mentale. | Le yoga contribue à mon bien-être. | confort | bien-être au travail
+inégalités de santé | nom | f | C1 | Différences d'accès à la santé selon le milieu social. | Les inégalités de santé persistent entre villes et campagnes. | - | réduire les inégalités de santé

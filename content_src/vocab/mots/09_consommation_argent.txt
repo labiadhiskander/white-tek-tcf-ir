@@ -1,0 +1,90 @@
+# Consommation et argent
+argent | nom | m | A1 | Moyen de paiement. | Il ne reste plus d'argent sur mon compte. | monnaie | gagner de l'argent, retirer de l'argent
+compte bancaire | nom | m | A2 | Compte ouvert dans une banque. | J'ai ouvert un compte bancaire en arrivant en France. | compte | ouvrir un compte bancaire
+banque | nom | f | A1 | Établissement qui gère l'argent. | Ma banque m'a accordé un prêt. | établissement bancaire | banque en ligne
+carte bancaire | nom | f | A2 | Carte qui permet de payer. | Le paiement par carte bancaire est accepté. | carte bleue | payer par carte bancaire
+espèces | nom | f | A2 | Argent en billets et pièces. | Ce commerçant n'accepte que les espèces. | liquide | payer en espèces
+paiement sans contact | nom | m | B1 | Paiement en approchant la carte du terminal. | Le paiement sans contact est limité à 50 euros. | - | payer sans contact
+virement | nom | m | B1 | Transfert d'argent d'un compte à un autre. | Mon salaire est versé par virement. | transfert | faire un virement
+prélèvement | nom | m | B1 | Retrait automatique sur un compte. | Le loyer est payé par prélèvement automatique. | - | prélèvement automatique
+découvert | nom | m | B1 | Solde négatif d'un compte. | Je suis à découvert depuis le 20 du mois. | solde négatif | être à découvert
+épargne | nom | f | B1 | Argent mis de côté. | Les Français ont une épargne importante. | économies | compte épargne
+épargner | verbe | - | B1 | Mettre de l'argent de côté. | J'épargne un peu chaque mois pour les vacances. | économiser | épargner pour sa retraite
+mettre de côté | expression | - | B1 | Garder de l'argent pour plus tard. | Elle met de côté pour acheter une voiture. | épargner | mettre de l'argent de côté
+prêt | nom | m | B1 | Somme prêtée par une banque. | Ils ont obtenu un prêt immobilier sur vingt ans. | crédit | prêt immobilier, rembourser un prêt
+crédit | nom | m | B1 | Somme prêtée qu'on rembourse avec des intérêts. | Il a acheté sa voiture à crédit. | prêt | acheter à crédit, crédit à la consommation
+taux d'intérêt | nom | m | B2 | Pourcentage payé sur un prêt. | Les taux d'intérêt ont augmenté cette année. | - | taux d'intérêt élevé
+endettement | nom | m | B2 | Fait d'avoir des dettes. | L'endettement des ménages inquiète les économistes. | dettes | taux d'endettement
+surendettement | nom | m | C1 | Impossibilité de rembourser ses dettes. | La commission de surendettement a étalé ses remboursements. | - | dossier de surendettement
+dette | nom | f | B1 | Somme d'argent due. | Il a mis cinq ans à rembourser ses dettes. | créance | avoir des dettes, dette publique
+budget | nom | m | B1 | Prévision des recettes et des dépenses. | Nous avons un budget serré ce mois-ci. | - | gérer son budget, budget familial
+dépense | nom | f | B1 | Argent dépensé. | Le logement représente la principale dépense des ménages. | frais | dépenses courantes
+dépenser | verbe | - | A2 | Utiliser de l'argent pour acheter. | Il dépense tout son salaire en sorties. | débourser | dépenser sans compter
+pouvoir d'achat | nom | m | B2 | Quantité de biens que l'on peut acheter avec son revenu. | L'inflation réduit le pouvoir d'achat. | - | baisse du pouvoir d'achat
+inflation | nom | f | B2 | Hausse générale des prix. | L'inflation a atteint 5 % l'an dernier. | hausse des prix | taux d'inflation
+coût de la vie | nom | m | B2 | Ensemble des dépenses nécessaires pour vivre. | Le coût de la vie est plus élevé à Paris. | - | hausse du coût de la vie
+fin de mois | nom | f | B1 | Période où l'argent manque avant le salaire. | Beaucoup de familles ont du mal à boucler leurs fins de mois. | - | fins de mois difficiles
+facture | nom | f | A2 | Document indiquant le prix à payer. | La facture d'électricité a doublé. | note | payer une facture
+abonnement | nom | m | B1 | Contrat pour un service régulier. | J'ai résilié mon abonnement à la salle de sport. | souscription | résilier un abonnement
+résilier | verbe | - | B2 | Mettre fin à un contrat. | Vous pouvez résilier votre contrat à tout moment. | annuler | résilier un contrat
+consommateur | nom | m | B1 | Personne qui achète des biens ou des services. | Les consommateurs sont de plus en plus exigeants. | client | association de consommateurs
+consommation | nom | f | B1 | Fait d'acheter et d'utiliser des biens. | La consommation des ménages a ralenti. | - | société de consommation
+société de consommation | nom | f | B2 | Société fondée sur l'achat permanent de biens. | Ce film critique la société de consommation. | - | dérives de la société de consommation
+surconsommation | nom | f | C1 | Consommation excessive. | La surconsommation épuise les ressources de la planète. | - | dénoncer la surconsommation
+achat compulsif | nom | m | C1 | Achat impulsif et irrésistible. | Les soldes favorisent les achats compulsifs. | achat impulsif | faire des achats compulsifs
+soldes | nom | m | A2 | Période de vente à prix réduits. | Les soldes d'hiver commencent en janvier. | - | faire les soldes
+réduction | nom | f | A2 | Baisse de prix. | Les étudiants bénéficient d'une réduction de 20 %. | remise, rabais | obtenir une réduction
+promotion | nom | f | A2 | Offre à prix réduit. | Les pâtes sont en promotion cette semaine. | promo | en promotion
+bon plan | nom | m | B1 | Bonne affaire (familier). | J'ai trouvé un bon plan pour partir à Rome. | bonne affaire | partager un bon plan
+bonne affaire | nom | f | B1 | Achat avantageux. | Ce canapé d'occasion est une bonne affaire. | aubaine | faire une bonne affaire
+rapport qualité-prix | nom | m | B1 | Équilibre entre la qualité et le prix. | Ce restaurant offre un excellent rapport qualité-prix. | - | bon rapport qualité-prix
+hors de prix | locution | - | B2 | Très cher. | Les logements sont hors de prix dans cette ville. | exorbitant | être hors de prix
+abordable | adjectif | - | B2 | D'un prix raisonnable. | Ce téléphone est performant et abordable. | accessible | prix abordable
+onéreux | adjectif | - | C1 | Qui coûte cher. | Les travaux se sont révélés onéreux. | coûteux | traitement onéreux
+gratuit | adjectif | - | A1 | Qui ne coûte rien. | L'entrée du musée est gratuite le dimanche. | offert | entrée gratuite
+marque | nom | f | A2 | Nom d'un fabricant. | Il n'achète que des vêtements de marque. | enseigne | grande marque
+marque de distributeur | nom | f | C1 | Produit vendu sous le nom du magasin. | Les marques de distributeur sont moins chères. | - | produits de marque de distributeur
+grande surface | nom | f | B1 | Supermarché ou hypermarché. | Les grandes surfaces menacent les petits commerces. | hypermarché | grande surface
+commerce de proximité | nom | m | B2 | Petit commerce de quartier. | La mairie soutient le commerce de proximité. | petit commerce | défendre le commerce de proximité
+commerçant | nom | m | A2 | Personne qui tient un commerce. | Les commerçants du quartier se connaissent bien. | marchand | commerçant indépendant
+vendeur | nom | m | A1 | Personne qui vend. | Le vendeur m'a bien conseillé. | - | vendeur en magasin
+garantie | nom | f | B1 | Engagement de réparer un produit défectueux. | L'ordinateur est encore sous garantie. | - | être sous garantie, extension de garantie
+défectueux | adjectif | - | B2 | Qui ne fonctionne pas correctement. | J'ai rapporté l'appareil défectueux au magasin. | en panne | produit défectueux
+remboursement | nom | m | B1 | Fait de rendre l'argent. | J'ai demandé le remboursement de mon billet. | - | demander un remboursement
+échanger | verbe | - | A2 | Remplacer un produit par un autre. | Vous pouvez échanger cet article sous trente jours. | remplacer | échanger un article
+réclamation | nom | f | B1 | Plainte adressée à un vendeur ou un service. | J'ai fait une réclamation auprès du service client. | plainte | faire une réclamation
+service client | nom | m | B1 | Service qui répond aux clients. | Le service client est joignable par téléphone. | service après-vente | contacter le service client
+service après-vente | nom | m | B2 | Service qui s'occupe des réparations après l'achat. | Le service après-vente a réparé ma machine. | SAV | contacter le service après-vente
+droit de rétractation | nom | m | C1 | Droit d'annuler un achat dans un délai. | Vous disposez d'un droit de rétractation de quatorze jours. | - | exercer son droit de rétractation
+arnaque | nom | f | B1 | Tromperie pour obtenir de l'argent. | Cette offre trop belle était une arnaque. | escroquerie | être victime d'une arnaque
+publicité mensongère | nom | f | B2 | Publicité qui trompe le consommateur. | L'entreprise a été condamnée pour publicité mensongère. | - | publicité mensongère
+salaire | nom | m | A2 | Rémunération d'un travail. | Son salaire a augmenté de 3 %. | rémunération, paie | salaire minimum
+revenu | nom | m | B1 | Ensemble des sommes perçues. | Les revenus modestes bénéficient d'aides. | ressources | revenu mensuel, bas revenus
+impôt | nom | m | B1 | Contribution obligatoire versée à l'État. | Les impôts financent les services publics. | taxe | impôt sur le revenu, payer ses impôts
+taxe | nom | f | B1 | Prélèvement obligatoire sur un bien ou un service. | La TVA est une taxe sur la consommation. | impôt | taxe d'habitation
+allocation | nom | f | B2 | Aide financière versée par l'État. | Ils touchent des allocations familiales. | aide | allocations familiales, allocation logement
+aide sociale | nom | f | B2 | Soutien financier aux personnes en difficulté. | Les aides sociales protègent les plus fragiles. | prestation sociale | bénéficier d'une aide sociale
+précarité | nom | f | B2 | Situation instable et incertaine. | La précarité touche de plus en plus d'étudiants. | instabilité | précarité financière
+pauvreté | nom | f | B1 | Manque de ressources. | Neuf millions de Français vivent sous le seuil de pauvreté. | misère | seuil de pauvreté
+richesse | nom | f | B1 | Abondance de biens. | La richesse est inégalement répartie. | fortune | répartition des richesses
+fortune | nom | f | B2 | Ensemble des biens d'une personne riche. | Il a fait fortune dans l'immobilier. | richesse | faire fortune
+héritage | nom | m | B2 | Biens transmis après un décès. | Elle a reçu un héritage de sa tante. | succession | toucher un héritage
+investir | verbe | - | B2 | Placer de l'argent pour en gagner. | Il a investi dans l'immobilier. | placer | investir en bourse
+placement | nom | m | B2 | Argent investi pour rapporter. | Le livret A est un placement sans risque. | investissement | placement financier
+bourse | nom | f | B2 | Marché où s'échangent des actions. | La bourse de Paris a chuté ce matin. | marché boursier | investir en bourse
+monnaie | nom | f | B1 | Pièces ou devise d'un pays. | Vous avez de la monnaie sur 20 euros ? | devise | monnaie unique, rendre la monnaie
+devise | nom | f | B2 | Monnaie étrangère. | Il faut changer ses euros en devises locales. | monnaie étrangère | bureau de change
+cryptomonnaie | nom | f | C1 | Monnaie numérique décentralisée. | Les cryptomonnaies sont très volatiles. | monnaie virtuelle | investir en cryptomonnaie
+pièce | nom | f | A2 | Monnaie métallique. | Il me faut une pièce pour le chariot. | - | pièce de monnaie
+billet | nom | m | A1 | Monnaie en papier. | Il m'a payé avec un billet de 50 euros. | - | billet de banque
+distributeur | nom | m | A2 | Machine qui délivre des billets. | Le distributeur a avalé ma carte. | guichet automatique | retirer au distributeur
+radin | adjectif | - | B1 | Qui n'aime pas dépenser (familier). | Il est trop radin pour offrir un café. | avare | être radin
+dépensier | adjectif | - | B2 | Qui dépense beaucoup. | Mon frère est très dépensier. | - | trop dépensier
+économe | adjectif | - | B2 | Qui dépense avec modération. | Elle est économe et ne gaspille rien. | prudent | se montrer économe
+fauché | adjectif | - | B1 | Sans argent (familier). | Je suis fauché jusqu'à la fin du mois. | sans le sou | être fauché
+avoir les moyens | expression | - | B1 | Pouvoir financièrement. | Nous n'avons pas les moyens de partir cet été. | pouvoir se permettre | avoir les moyens de
+se serrer la ceinture | expression | - | B2 | Réduire ses dépenses. | Avec l'inflation, beaucoup de ménages se serrent la ceinture. | faire des économies | devoir se serrer la ceinture
+minimalisme | nom | m | C1 | Mode de vie qui réduit les possessions au minimum. | Le minimalisme séduit ceux qui veulent consommer moins. | sobriété | adopter le minimalisme
+consommation responsable | nom | f | C1 | Achats qui tiennent compte de leurs impacts. | La consommation responsable privilégie la qualité. | consommation éthique | adopter une consommation responsable
+commerce équitable | nom | m | B2 | Commerce qui rémunère justement les producteurs. | Ce café est issu du commerce équitable. | - | produit du commerce équitable
+occasion | nom | f | B1 | Bien déjà utilisé et revendu. | J'ai acheté une voiture d'occasion. | seconde main | d'occasion, marché de l'occasion
