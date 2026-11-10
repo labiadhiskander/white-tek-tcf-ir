@@ -1,0 +1,490 @@
+@code EXAM-05
+@title Examen blanc n° 5 – Logement, alimentation et études
+@level B2
+@description Examen complet calibré B1–B2 : colocation, consommation, université, climat, loisirs.
+
+## CO 1 | A2 | message téléphonique | information précise | F:fr-FR
+DOC: F: Salut Paul, c'est Anne. Je suis en retard, mon bus est bloqué dans les embouteillages. J'arrive dans vingt minutes. Commande sans moi, je prendrai la même chose que toi !
+Q: Pourquoi Anne appelle-t-elle ?
++ Pour prévenir de son retard. | « Je suis en retard… J'arrive dans vingt minutes ».
+- Pour annuler le rendez-vous. | Elle arrive dans vingt minutes.
+- Pour demander à Paul de venir la chercher. | Ce n'est pas demandé.
+- Pour changer de restaurant. | Ce n'est pas dit.
+EXP: Le motif de l'appel est donné dès la deuxième phrase.
+
+## CO 2 | A2 | annonce publique | information précise | H:fr-FR
+DOC: H: Mesdames et messieurs, le spectacle va commencer dans cinq minutes. Merci d'éteindre vos téléphones portables. Les photos et les vidéos sont interdites pendant la représentation.
+Q: Qu'est-ce qui est interdit ?
++ Prendre des photos et filmer. | « Les photos et les vidéos sont interdites ».
+- Entrer dans la salle. | Le spectacle va commencer.
+- Applaudir. | Ce n'est pas dit.
+- Parler avant le spectacle. | Ce n'est pas dit.
+EXP: Les consignes sont introduites par « Merci de » et « interdites ».
+
+## CO 3 | A2 | conversation quotidienne | information précise | H:fr-FR, F:fr-FR
+DOC: H: Tu as vu la météo pour demain ? / F: Oui, il va pleuvoir le matin, mais il fera beau l'après-midi. / H: Alors on fait le pique-nique l'après-midi ? / F: Bonne idée, vers deux heures.
+Q: Quand vont-ils pique-niquer ?
++ Demain après-midi, vers deux heures. | « vers deux heures » l'après-midi.
+- Demain matin. | Il va pleuvoir le matin.
+- Aujourd'hui. | Ils parlent de demain.
+- Le soir. | Ce n'est pas proposé.
+EXP: La météo justifie le choix du moment.
+
+## CO 4 | B1 | conversation quotidienne | intention | F:fr-FR, H:fr-CA
+DOC: F: Tu pourrais me prêter ta voiture samedi ? La mienne est au garage. / H: Samedi, j'en ai besoin le matin, mais l'après-midi, pas de problème. / F: Parfait, je dois juste aller chez IKEA vers 15 heures.
+Q: Que demande la femme ?
++ D'emprunter la voiture de l'homme. | « Tu pourrais me prêter ta voiture samedi ? »
+- De l'accompagner au garage. | Ce n'est pas demandé.
+- De réparer sa voiture. | Elle est au garage.
+- D'aller chez IKEA à sa place. | Elle y va elle-même.
+EXP: « Prêter » : l'homme donne temporairement ; « emprunter » : la femme reçoit temporairement.
+
+## CO 5 | B1 | message professionnel | information précise | H:fr-FR
+DOC: H: Bonjour, ici le secrétariat de l'université. Votre inscription en master est confirmée. La réunion de rentrée aura lieu le 4 septembre à 10 heures, amphithéâtre B. N'oubliez pas de télécharger votre certificat de scolarité sur votre espace étudiant.
+Q: Que doit faire l'étudiant ?
++ Télécharger son certificat de scolarité. | « N'oubliez pas de télécharger votre certificat ».
+- Confirmer son inscription. | Elle est déjà confirmée.
+- Payer ses frais d'inscription. | Ce n'est pas mentionné.
+- Choisir son amphithéâtre. | Il est déjà indiqué.
+EXP: « N'oubliez pas de » signale une action à faire.
+
+## CO 6 | B1 | information radio | information précise | F:fr-FR
+DOC: F: Canicule : la préfecture a déclenché l'alerte orange. Les températures pourraient atteindre 39 degrés jeudi. Il est conseillé de boire régulièrement, de fermer les volets en journée et d'éviter les activités physiques entre midi et 16 heures.
+Q: Que recommande-t-on ?
++ D'éviter le sport aux heures les plus chaudes. | « éviter les activités physiques entre midi et 16 heures ».
+- D'ouvrir les fenêtres en journée. | Il faut fermer les volets.
+- De sortir à midi. | C'est déconseillé.
+- De boire seulement le soir. | Il faut boire régulièrement.
+EXP: « Canicule » = forte chaleur. Les conseils sont des consignes de prévention.
+
+## CO 7 | B1 | interview | opinion | H:fr-FR, F:fr-FR
+DOC: H: Vous vivez en colocation à cinquante ans. C'est original ! / F: Peut-être, mais c'est très pratique. Après mon divorce, je ne voulais pas vivre seule dans un grand appartement. Nous sommes trois, on partage les frais, et il y a toujours quelqu'un pour discuter le soir. Il faut juste être organisé pour le ménage !
+Q: Que pense la femme de la colocation ?
++ Elle en apprécie les avantages pratiques et sociaux. | Partage des frais, compagnie.
+- Elle la trouve réservée aux étudiants. | Elle la pratique à cinquante ans.
+- Elle veut vivre seule. | Elle ne voulait pas vivre seule.
+- Elle déteste le partage des tâches. | Elle dit seulement qu'il faut être organisé.
+EXP: « Peut-être, mais » : concession puis avis personnel positif.
+
+## CO 8 | B1 | annonce publique | information précise | H:fr-CH
+DOC: H: Le marché de Noël ouvrira ses portes le 25 novembre sur la place centrale. Il sera ouvert tous les jours de 11 h à 21 h, et jusqu'à 23 h le vendredi et le samedi. Une patinoire gratuite sera installée pour les enfants.
+Q: Quand le marché ferme-t-il le plus tard ?
++ Le vendredi et le samedi. | « jusqu'à 23 h le vendredi et le samedi ».
+- Le dimanche. | Ce n'est pas le cas.
+- Tous les jours. | Les autres jours, il ferme à 21 h.
+- Le 25 novembre. | C'est le jour de l'ouverture.
+EXP: Repérez les exceptions aux horaires habituels.
+
+## CO 9 | B1 | situation administrative | information précise | F:fr-FR, H:fr-FR
+DOC: F: Bonjour, je voudrais savoir si j'ai droit à une aide pour mon loyer. Je suis étudiante. / H: Oui, vous pouvez faire une simulation sur le site de la CAF. Si vous y avez droit, la demande se fait en ligne. L'aide est versée chaque mois, directement à votre propriétaire ou sur votre compte.
+Q: Comment l'étudiante peut-elle savoir si elle a droit à l'aide ?
++ En faisant une simulation en ligne. | « vous pouvez faire une simulation sur le site ».
+- En demandant à son propriétaire. | Ce n'est pas proposé.
+- En prenant rendez-vous au guichet. | Ce n'est pas proposé.
+- En envoyant un courrier. | Ce n'est pas proposé.
+EXP: « Simulation » = calcul indicatif avant la demande.
+
+## CO 10 | B1 | conversation professionnelle | information précise | H:fr-FR, F:fr-FR
+DOC: H: Pour le séminaire de juin, on garde l'hôtel de l'an dernier ? / F: Non, il était trop loin de la gare. J'ai trouvé un centre de congrès juste en face, avec un restaurant sur place. / H: Et le prix ? / F: Un peu plus cher, mais on économise les taxis.
+Q: Pourquoi la femme a-t-elle choisi un autre lieu ?
++ Il est plus proche de la gare. | L'ancien hôtel était trop loin de la gare.
+- Il est moins cher. | Il est « un peu plus cher ».
+- Il a plus de chambres. | Ce n'est pas mentionné.
+- L'hôtel de l'an dernier est fermé. | Ce n'est pas dit.
+EXP: L'argument principal est la proximité ; le prix est compensé par les taxis évités.
+
+## CO 11 | B2 | débat | opinion | F:fr-FR, H:fr-FR
+DOC: H: Il faudrait servir un repas végétarien chaque jour dans les cantines. / F: Une alternative quotidienne, pourquoi pas. Mais l'imposer à tous, non. Certains enfants ne mangent de la viande qu'à la cantine. Et un repas végétarien mal équilibré peut être pire qu'un repas classique. Tout dépend de la formation des cuisiniers.
+Q: Quelle est la position de la femme ?
++ Elle accepte une option végétarienne mais refuse de l'imposer. | « Une alternative quotidienne, pourquoi pas. Mais l'imposer à tous, non ».
+- Elle est contre tout repas végétarien. | Elle accepte une alternative.
+- Elle veut supprimer la viande. | Elle ne le propose pas.
+- Elle pense que les cuisiniers sont bien formés. | Elle dit que « tout dépend » de leur formation.
+EXP: Distinguez « proposer une alternative » et « imposer à tous ».
+
+## CO 12 | B2 | information radio | information globale | H:fr-FR
+DOC: H: Le prix moyen des loyers a encore augmenté de cinq pour cent dans les grandes villes. Conséquence : de nombreux étudiants renoncent à poursuivre leurs études loin de chez leurs parents. Les syndicats étudiants demandent la construction de résidences universitaires et un encadrement plus strict des loyers.
+Q: Quelle est la conséquence de la hausse des loyers ?
++ Des étudiants renoncent à étudier loin de chez eux. | « de nombreux étudiants renoncent à poursuivre leurs études loin de chez leurs parents ».
+- Les résidences universitaires se vident. | Ce n'est pas dit.
+- Les étudiants arrêtent tous leurs études. | Seulement leurs études loin de chez eux.
+- Les loyers baissent dans les petites villes. | Ce n'est pas mentionné.
+EXP: « Conséquence : » introduit directement l'effet.
+
+## CO 13 | B2 | interview | information détaillée | F:fr-FR, H:fr-BE
+DOC: F: Vous êtes apiculteur en ville. Les abeilles s'y plaisent ? / H: Étonnamment, oui. En ville, il y a une grande diversité de fleurs dans les parcs et les balcons, et beaucoup moins de pesticides qu'à la campagne. Le vrai problème, c'est qu'on installe trop de ruches : les abeilles domestiques finissent par priver de nourriture les abeilles sauvages.
+Q: Quel problème l'apiculteur signale-t-il ?
++ Trop de ruches nuisent aux abeilles sauvages. | « les abeilles domestiques finissent par priver de nourriture les abeilles sauvages ».
+- L'utilisation de pesticides en ville. | Il y en a moins qu'à la campagne.
+- Le manque de fleurs en ville. | Il y a « une grande diversité de fleurs ».
+- Les habitants n'aiment pas les abeilles. | Ce n'est pas dit.
+EXP: « Le vrai problème, c'est » met en relief l'inconvénient après les avantages.
+
+## CO 14 | B2 | message téléphonique | implicite | H:fr-FR
+DOC: H: Allô, Madame Faure ? C'est votre propriétaire. Je voulais vous dire que… bon, les travaux de la salle de bains, je ne pourrai pas les faire ce mois-ci. Ni le mois prochain, d'ailleurs. Mais rassurez-vous, le loyer, lui, n'augmentera qu'en janvier.
+Q: Que comprend-on de ce message ?
++ Le propriétaire repousse les travaux mais pas l'augmentation du loyer. | Travaux reportés, hausse maintenue en janvier.
+- Le propriétaire va baisser le loyer. | Il va l'augmenter.
+- Les travaux sont terminés. | Ils sont reportés.
+- La locataire doit faire les travaux elle-même. | Ce n'est pas dit.
+EXP: « Rassurez-vous » est paradoxal : l'information qui suit n'est pas rassurante. On perçoit l'absurdité de la situation.
+
+## CO 15 | B2 | conversation professionnelle | relation logique | F:fr-FR, H:fr-FR
+DOC: F: Le taux de réussite à l'examen a baissé de quinze points cette année. / H: C'est surtout en expression écrite. Les étudiants ont perdu l'habitude d'écrire à la main, et l'examen se fait toujours sur papier. / F: Il faudrait organiser des entraînements dans les conditions réelles. / H: Oui, ou alors passer l'examen sur ordinateur.
+Q: Quelle explication l'homme donne-t-il ?
++ Les étudiants n'ont plus l'habitude d'écrire à la main. | « Les étudiants ont perdu l'habitude d'écrire à la main ».
+- L'examen est devenu plus difficile. | Ce n'est pas dit.
+- Les professeurs sont moins bien formés. | Ce n'est pas dit.
+- Les étudiants ne révisent plus. | Ce n'est pas dit.
+EXP: L'explication est suivie de deux solutions possibles.
+
+## CO 16 | B2 | interview | information détaillée | H:fr-FR, F:fr-CA
+DOC: H: Votre épicerie ne vend que des produits en vrac. Comment réagissent les clients ? / F: Au début, ils étaient perdus : il faut apporter ses propres contenants, peser… Mais ils ont vite compris l'intérêt : on achète la quantité exacte dont on a besoin, on ne jette plus d'emballages, et les prix sont souvent plus bas, puisqu'on ne paie pas le packaging.
+Q: Pourquoi les prix sont-ils souvent plus bas ?
++ Parce que les clients ne paient pas l'emballage. | « on ne paie pas le packaging ».
+- Parce que les produits sont de moins bonne qualité. | Ce n'est pas dit.
+- Parce que l'épicerie reçoit des aides. | Ce n'est pas dit.
+- Parce que les clients achètent en grande quantité. | Ils achètent « la quantité exacte ».
+EXP: « Puisque » introduit une cause évidente. « Vrac » = sans emballage.
+
+## CO 17 | B2 | annonce publique | information précise | F:fr-FR
+DOC: F: Avis aux étudiants : les demandes de logement en résidence universitaire pour la rentrée prochaine doivent être déposées avant le 31 mai. Les dossiers incomplets ne seront pas étudiés. Les étudiants internationaux bénéficient d'un délai supplémentaire jusqu'au 30 juin.
+Q: Qui peut déposer son dossier après le 31 mai ?
++ Les étudiants internationaux, jusqu'au 30 juin. | « délai supplémentaire jusqu'au 30 juin ».
+- Tous les étudiants. | La date limite générale est le 31 mai.
+- Les étudiants dont le dossier est incomplet. | Ces dossiers ne seront pas étudiés.
+- Personne. | Il existe une exception.
+EXP: Repérez la règle générale et l'exception.
+
+## CO 18 | B2 | information radio | relation logique | H:fr-FR
+DOC: H: La consommation de produits bio a reculé pour la deuxième année consécutive. L'inflation pousse les ménages à privilégier les prix bas. Paradoxalement, la demande de produits locaux, parfois non bio mais vendus en circuit court, continue de progresser.
+Q: Qu'est-ce qui est présenté comme paradoxal ?
++ Les produits locaux progressent alors que le bio recule. | « Paradoxalement, la demande de produits locaux… continue de progresser ».
+- Le bio recule à cause de l'inflation. | C'est logique, non paradoxal.
+- Les ménages cherchent les prix bas. | C'est logique.
+- Les produits locaux sont tous bio. | Ils sont « parfois non bio ».
+EXP: « Paradoxalement » introduit un fait inattendu par rapport au contexte.
+
+## CO 19 | B2 | débat | argumentation | F:fr-FR, H:fr-FR
+DOC: F: Les frais d'inscription à l'université devraient augmenter pour améliorer la qualité. / H: Augmenter les frais, c'est fermer la porte aux étudiants modestes. Dans les pays où l'université est chère, les étudiants sortent avec des dettes énormes. La qualité doit être financée par l'État, c'est un investissement pour toute la société.
+Q: Quel argument l'homme avance-t-il ?
++ Des frais élevés excluraient les étudiants modestes. | « c'est fermer la porte aux étudiants modestes ».
+- L'université est déjà trop chère en France. | Il ne dit pas cela.
+- Les étudiants doivent s'endetter. | Il présente cela comme un danger.
+- La qualité de l'université est suffisante. | Ce n'est pas son argument.
+EXP: « Fermer la porte à » = exclure. L'exemple des autres pays renforce l'argument.
+
+## CO 20 | B2 | interview | implicite | H:fr-FR, F:fr-FR
+DOC: H: Vous avez été élue meilleure cheffe pâtissière. Votre famille vous a encouragée ? / F: Mon père voulait que je sois avocate. Quand je lui ai dit que j'arrêtais le droit pour faire de la pâtisserie, il ne m'a pas parlé pendant un mois. Aujourd'hui, il apporte mes gâteaux à tous ses dîners… et il raconte à tout le monde que c'était son idée.
+Q: Que comprend-on à propos du père ?
++ Il s'attribue désormais le mérite d'un choix qu'il avait désapprouvé. | « il raconte à tout le monde que c'était son idée ».
+- Il a toujours soutenu sa fille. | Il ne lui a pas parlé pendant un mois.
+- Il est avocat. | Il voulait qu'elle le soit.
+- Il n'aime pas ses gâteaux. | Il les apporte à ses dîners.
+EXP: L'humour repose sur le contraste entre l'opposition passée et la fierté actuelle.
+
+## CO 21 | C1 | information radio | information détaillée | F:fr-FR
+DOC: F: Une étude menée auprès de dix mille étudiants révèle que près d'un sur cinq a déjà sauté un repas faute d'argent. Les chercheurs pointent la hausse des loyers, qui absorbe désormais plus de la moitié du budget étudiant, et l'insuffisance des bourses, dont les montants n'ont pas suivi l'inflation.
+Q: Selon l'étude, quelle part du budget le loyer représente-t-il ?
++ Plus de la moitié. | « absorbe désormais plus de la moitié du budget étudiant ».
+- Un cinquième. | « Un sur cinq » concerne les repas sautés.
+- Un tiers. | Ce n'est pas dit.
+- La totalité. | Ce n'est pas dit.
+EXP: Attention aux chiffres : « un sur cinq » (étudiants), « plus de la moitié » (budget).
+
+## CO 22 | B2 | conversation professionnelle | intention | H:fr-FR, F:fr-FR
+DOC: F: Professeur, je voulais vous demander un délai pour mon mémoire. J'ai eu des problèmes de santé ce mois-ci. / H: Je suis désolé de l'apprendre. Vous avez un certificat médical ? / F: Oui, je peux vous l'envoyer. / H: Dans ce cas, je vous accorde deux semaines supplémentaires. Mais pas plus, le jury se réunit début juillet.
+Q: Comment le professeur répond-il ?
++ Il accepte un délai limité, sur justificatif. | Il demande un certificat et accorde deux semaines.
+- Il refuse tout délai. | Il accorde deux semaines.
+- Il accorde un délai illimité. | « Mais pas plus ».
+- Il annule le mémoire. | Ce n'est pas dit.
+EXP: « Dans ce cas » lie la décision à la condition du certificat.
+
+## CO 23 | C1 | débat | argumentation | H:fr-FR, F:fr-BE
+DOC: H: Les notes à l'école, c'est la seule manière objective d'évaluer. / F: Objective ? Des études montrent qu'une même copie peut recevoir des notes très différentes selon le correcteur. Je ne dis pas qu'il faut tout supprimer, mais une évaluation par compétences explique mieux à l'élève ce qu'il maîtrise et ce qui lui reste à travailler.
+Q: Que conteste la femme ?
++ L'objectivité des notes. | « Objective ? Des études montrent… ».
+- L'utilité de toute évaluation. | Elle propose une autre forme d'évaluation.
+- La compétence des correcteurs. | Elle souligne leurs différences, pas leur incompétence.
+- L'évaluation par compétences. | Elle la défend.
+EXP: La reprise interrogative du mot « objective ? » marque la contestation.
+
+## CO 24 | C1 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Le gaspillage alimentaire diminue-t-il ? / H: Dans les supermarchés, oui, grâce à la loi qui les oblige à donner leurs invendus. Mais l'essentiel du gaspillage se fait à la maison : on achète trop, on oublie les restes au fond du frigo. Tant qu'on ne changera pas nos habitudes, les lois ne suffiront pas.
+Q: Selon l'homme, où se fait l'essentiel du gaspillage ?
++ Dans les foyers. | « l'essentiel du gaspillage se fait à la maison ».
+- Dans les supermarchés. | Il y diminue grâce à la loi.
+- Dans les restaurants. | Ce n'est pas mentionné.
+- Dans les exploitations agricoles. | Ce n'est pas mentionné.
+EXP: « Tant que… ne… pas » exprime une condition qui dure.
+
+## CO 25 | C1 | information radio | implicite | H:fr-FR
+DOC: H: L'université a inauguré hier un nouveau bâtiment ultramoderne de quarante millions d'euros, avec salle de réalité virtuelle et café panoramique. Dans l'ancien bâtiment de lettres, toujours chauffé par intermittence, les étudiants ont suivi la cérémonie en direct… en manteau.
+Q: Que suggère le journaliste ?
++ Les priorités de financement de l'université sont discutables. | Contraste entre le luxe du nouveau bâtiment et le froid de l'ancien.
+- Les étudiants de lettres ont froid parce qu'ils sont dehors. | Ils sont dans l'ancien bâtiment mal chauffé.
+- Le nouveau bâtiment est inutile. | Il ne le dit pas directement.
+- Tous les bâtiments ont été rénovés. | L'ancien est « chauffé par intermittence ».
+EXP: Le détail final « en manteau » crée un contraste ironique.
+
+## CE 1 | A2 | annonce | information précise
+DOC: Colocation – Cherche colocataire pour appartement de 3 chambres près de l'université. Chambre de 12 m², cuisine et salon partagés. 420 € par mois, internet compris. Étudiant ou jeune actif. Animaux non acceptés.
+Q: Qu'est-ce qui est compris dans le prix ?
++ Internet. | « internet compris ».
+- L'électricité et le chauffage. | Ce n'est pas indiqué.
+- Une place de parking. | Ce n'est pas indiqué.
+- Les repas. | Ce n'est pas indiqué.
+EXP: « Compris » = inclus dans le prix.
+
+## CE 2 | A2 | message | information précise
+DOC: Chère voisine, je pars en vacances du 10 au 20 août. Pouvez-vous arroser mes plantes deux fois par semaine ? Je vous laisse mes clés dans votre boîte aux lettres. Merci beaucoup ! Robert (appartement 5)
+Q: Que demande Robert ?
++ D'arroser ses plantes pendant son absence. | « Pouvez-vous arroser mes plantes ».
+- De garder son chat. | Ce n'est pas mentionné.
+- De récupérer son courrier. | Ce n'est pas demandé.
+- De lui envoyer ses clés. | Il les laisse dans la boîte aux lettres.
+EXP: La demande est formulée par « Pouvez-vous ».
+
+## CE 3 | A2 | affiche | information précise
+DOC: RESTAURANT UNIVERSITAIRE – Repas complet : 3,30 €. Ouvert du lundi au vendredi, de 11 h 30 à 14 h. Paiement uniquement par carte étudiante. Fermé pendant les vacances scolaires.
+Q: Comment peut-on payer ?
++ Avec la carte étudiante. | « Paiement uniquement par carte étudiante ».
+- En espèces. | Ce n'est pas accepté.
+- Par chèque. | Ce n'est pas accepté.
+- Avec n'importe quelle carte bancaire. | Seule la carte étudiante est acceptée.
+EXP: « Uniquement » exclut les autres moyens de paiement.
+
+## CE 4 | B1 | courriel | intention
+DOC: Bonjour Madame Morel, je suis locataire de votre appartement depuis deux ans. Depuis une semaine, le chauffe-eau ne fonctionne plus et nous n'avons plus d'eau chaude. Pourriez-vous envoyer un réparateur rapidement ? Je suis disponible tous les jours après 17 h. Merci d'avance. Cordialement, David Simon
+Q: Pourquoi David écrit-il ?
++ Pour demander une réparation. | « Pourriez-vous envoyer un réparateur rapidement ? »
+- Pour donner son préavis. | Il ne quitte pas l'appartement.
+- Pour payer son loyer. | Ce n'est pas mentionné.
+- Pour proposer une visite de l'appartement. | Ce n'est pas l'objet.
+EXP: La demande polie au conditionnel suit l'exposé du problème.
+
+## CE 5 | B1 | article de presse | information globale
+DOC: À Rennes, une association propose aux étudiants des paniers de légumes à 2 euros, préparés avec des invendus des producteurs locaux. Chaque semaine, plus de quatre cents paniers sont distribués sur le campus. L'objectif est double : lutter contre la précarité étudiante et réduire le gaspillage alimentaire.
+Q: Quel est l'objectif de l'association ?
++ Aider les étudiants et limiter le gaspillage. | « L'objectif est double : lutter contre la précarité… et réduire le gaspillage ».
+- Vendre des légumes bio aux habitants. | Les paniers sont destinés aux étudiants.
+- Ouvrir un restaurant universitaire. | Ce n'est pas dit.
+- Aider uniquement les producteurs. | Ce n'est pas l'objectif principal.
+EXP: « L'objectif est double » annonce deux buts.
+
+## CE 6 | B1 | lettre administrative | information précise
+DOC: Madame, nous vous informons que votre bail prendra fin le 30 juin. Conformément à la loi, vous devez nous prévenir au moins un mois à l'avance si vous souhaitez le renouveler. Le dépôt de garantie vous sera restitué dans un délai de deux mois après l'état des lieux de sortie, déduction faite des éventuelles réparations.
+Q: Quand la locataire récupérera-t-elle son dépôt de garantie ?
++ Dans les deux mois après l'état des lieux de sortie. | « restitué dans un délai de deux mois après l'état des lieux ».
+- Le jour de son départ. | Ce n'est pas le cas.
+- Un mois avant la fin du bail. | C'est le délai de préavis.
+- Jamais. | Il sera restitué.
+EXP: « Restitué » = rendu. « Déduction faite de » = après avoir retiré.
+
+## CE 7 | B1 | publicité | information précise
+DOC: Envie de manger sain sans cuisiner ? FraîchBox vous livre chaque semaine trois repas équilibrés, préparés par des chefs avec des produits de saison. Sans engagement : suspendez ou arrêtez votre abonnement quand vous voulez. Première box à moitié prix avec le code BIENVENUE.
+Q: Comment obtenir une réduction sur la première box ?
++ En utilisant le code BIENVENUE. | « Première box à moitié prix avec le code BIENVENUE ».
+- En s'engageant pour un an. | L'abonnement est sans engagement.
+- En commandant trois box. | Ce n'est pas indiqué.
+- En cuisinant soi-même. | Les repas sont déjà préparés.
+EXP: « À moitié prix » = 50 % de réduction.
+
+## CE 8 | B1 | message professionnel | information précise
+DOC: Bonjour à tous, le prochain conseil de classe aura lieu le mardi 12 décembre à 17 h. Les professeurs doivent saisir leurs notes et appréciations avant le vendredi 8 à midi. Après cette date, le logiciel sera bloqué. Merci de votre ponctualité. La direction.
+Q: Que doivent faire les professeurs avant le vendredi 8 à midi ?
++ Entrer leurs notes et appréciations dans le logiciel. | « doivent saisir leurs notes et appréciations ».
+- Assister au conseil de classe. | Il a lieu le mardi 12.
+- Bloquer le logiciel. | Il sera bloqué automatiquement.
+- Rencontrer les parents. | Ce n'est pas mentionné.
+EXP: « Saisir » = taper, entrer des données dans un ordinateur.
+
+## CE 9 | B1 | témoignage | opinion
+DOC: « J'ai fait une année d'échange au Canada pendant mes études. Au début, l'hiver m'a semblé interminable et ma famille me manquait. Mais j'ai rencontré des gens du monde entier et je suis devenu beaucoup plus autonome. Si c'était à refaire, je partirais sans hésiter. » Romain, 24 ans.
+Q: Quel est l'avis de Romain sur son expérience ?
++ Très positif malgré des difficultés au début. | « Si c'était à refaire, je partirais sans hésiter ».
+- Négatif à cause de l'hiver. | L'hiver était une difficulté passagère.
+- Il ne repartirait pas. | C'est le contraire.
+- Il n'a rencontré personne. | Il a rencontré des gens du monde entier.
+EXP: « Si c'était à refaire » + conditionnel exprime un jugement global.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: Le « batch cooking », qui consiste à préparer en deux heures le dimanche tous les repas de la semaine, séduit de plus en plus de familles. Ses adeptes y voient un gain de temps, d'argent et une alimentation plus équilibrée. Les nutritionnistes mettent toutefois en garde : certains aliments perdent leurs vitamines lorsqu'ils sont conservés plusieurs jours.
+Q: Quelle réserve les nutritionnistes expriment-ils ?
++ Certains aliments perdent leurs qualités nutritives avec le temps. | « certains aliments perdent leurs vitamines ».
+- Cette méthode coûte plus cher. | Ses adeptes disent qu'elle fait économiser.
+- Elle prend trop de temps. | Elle fait gagner du temps.
+- Elle est réservée aux célibataires. | Elle séduit les familles.
+EXP: « Mettre en garde » = avertir d'un danger. « Toutefois » introduit la réserve.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: On accuse souvent les étudiants de choisir des filières « sans débouchés ». C'est oublier que les compétences acquises en lettres ou en histoire, l'analyse, la rédaction, l'esprit critique, sont précisément celles que recherchent de nombreux employeurs. Le problème n'est pas tant la filière que le manque de passerelles entre l'université et l'entreprise.
+Q: Que défend l'auteur ?
++ La valeur des filières littéraires sur le marché du travail. | Les compétences acquises sont recherchées.
+- La suppression des filières de lettres. | Il les défend.
+- L'idée que l'histoire ne sert à rien. | C'est l'inverse.
+- Le choix exclusif de filières scientifiques. | Ce n'est pas dit.
+EXP: « C'est oublier que » réfute une critique. « Passerelles » = liens, ponts.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Chers résidents, nous vous rappelons que les vélos doivent être rangés exclusivement dans le local prévu à cet effet. Les vélos entreposés dans les couloirs entravent la circulation et seront retirés sans préavis.
+Q: Que signifie « entravent » ?
++ gênent, empêchent. | Les vélos bloquent la circulation dans les couloirs.
+- facilitent. | C'est le contraire.
+- décorent. | Ce n'est pas le sens.
+- protègent. | Ce n'est pas le sens.
+EXP: « Entraver » = gêner, faire obstacle. « Sans préavis » = sans prévenir.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: Pour lutter contre la solitude des personnes âgées et le manque de logements étudiants, la cohabitation intergénérationnelle se développe. L'étudiant est logé gratuitement ou pour un loyer modique en échange d'une présence le soir et de petits services. Il ne s'agit en aucun cas d'aide médicale ou de ménage, précisent les associations.
+Q: Que doit faire l'étudiant en échange du logement ?
++ Être présent le soir et rendre de petits services. | « en échange d'une présence le soir et de petits services ».
+- Faire le ménage. | « Il ne s'agit en aucun cas… de ménage ».
+- Apporter une aide médicale. | C'est exclu.
+- Payer un loyer élevé. | Le loyer est gratuit ou modique.
+EXP: « Modique » = faible. « En aucun cas » = absolument pas.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Madame, nous avons bien reçu votre demande de bourse sur critères sociaux. Votre dossier étant complet, il sera examiné dans un délai de six semaines. Vous serez informée de la décision par courriel. En cas d'avis favorable, le premier versement interviendra au plus tard le 10 octobre.
+Q: Quand recevra-t-elle le premier versement si la bourse est accordée ?
++ Au plus tard le 10 octobre. | « le premier versement interviendra au plus tard le 10 octobre ».
+- Dans six semaines. | C'est le délai d'examen.
+- Immédiatement. | Ce n'est pas dit.
+- Après un entretien. | Aucun entretien n'est prévu.
+EXP: « Au plus tard » = cette date est la limite.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: Les applications de livraison de repas ont révolutionné nos habitudes. Elles offrent un confort indéniable, mais ce confort a un prix : des livreurs souvent précaires, des restaurants qui reversent jusqu'à 30 % de leur chiffre d'affaires aux plateformes et une montagne d'emballages jetables. Commander n'est donc jamais un geste neutre.
+Q: Quelle est la conclusion de l'auteur ?
++ Commander un repas a des conséquences sociales et environnementales. | « Commander n'est donc jamais un geste neutre ».
+- Les applications doivent être interdites. | Il ne le propose pas.
+- Les livreurs sont bien payés. | Ils sont « souvent précaires ».
+- Les applications n'offrent aucun confort. | Il reconnaît un « confort indéniable ».
+EXP: « Donc » introduit la conclusion. « Ce confort a un prix » : métaphore pour les coûts cachés.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: La ville envisage de transformer un ancien parking en parc urbain. Les riverains applaudissent, rêvant d'un espace vert au cœur du quartier. Les commerçants, eux, craignent la disparition des places de stationnement, tandis que la municipalité promet la construction d'un parking souterrain à proximité.
+Q: Que promet la municipalité ?
++ La construction d'un parking souterrain. | « la municipalité promet la construction d'un parking souterrain ».
+- L'abandon du projet. | Ce n'est pas dit.
+- La création de nouveaux commerces. | Ce n'est pas dit.
+- Un parc sans arbres. | Ce n'est pas dit.
+EXP: La promesse répond à l'inquiétude des commerçants.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: L'état des lieux d'entrée, réalisé contradictoirement par le locataire et le propriétaire, décrit l'état du logement au moment de la remise des clés. Il sert de référence lors du départ du locataire : seules les dégradations constatées entre les deux états des lieux peuvent être retenues sur le dépôt de garantie. L'usure normale due au temps ne peut être facturée au locataire.
+Q: Qu'est-ce qui ne peut pas être facturé au locataire ?
++ L'usure normale liée au temps. | « L'usure normale due au temps ne peut être facturée ».
+- Les dégradations constatées. | Elles peuvent être retenues.
+- Les clés perdues. | Ce n'est pas mentionné.
+- L'état des lieux. | Ce n'est pas dit.
+EXP: « Contradictoirement » = en présence des deux parties.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « Mes parents m'avaient prévenu que vivre seul coûtait cher. Je pensais qu'ils exagéraient. Après trois mois, je connais par cœur le prix des pâtes dans tous les supermarchés du quartier. » Lucas, 20 ans, étudiant.
+Q: Que sous-entend Lucas ?
++ Il a des difficultés financières et doit faire attention à ses dépenses. | Il compare le prix des pâtes partout.
+- Il adore cuisiner des pâtes. | Ce n'est pas l'idée.
+- Ses parents exagéraient vraiment. | Il reconnaît implicitement qu'ils avaient raison.
+- Il travaille dans un supermarché. | Ce n'est pas dit.
+EXP: L'humour suggère qu'il doit économiser et que ses parents avaient raison.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Faut-il interdire la publicité pour la malbouffe à la télévision aux heures où les enfants regardent ? Les partisans rappellent que l'obésité infantile progresse et que les enfants sont particulièrement sensibles aux messages publicitaires. Les opposants estiment que la responsabilité revient aux parents et que la mesure priverait les chaînes de revenus importants.
+Q: Quel est l'argument des opposants ?
++ Les parents sont responsables et les chaînes perdraient de l'argent. | Ce sont les deux arguments cités.
+- L'obésité infantile progresse. | C'est un argument des partisans.
+- Les enfants sont sensibles à la publicité. | C'est un argument des partisans.
+- La publicité améliore l'alimentation. | Ce n'est pas dit.
+EXP: Identifiez les deux camps et leurs arguments respectifs.
+
+## CE 20 | B2 | article de presse | relation logique
+DOC: Les inscriptions en BTS ont fortement augmenté cette année. Les jeunes se tournent vers ces formations courtes et professionnalisantes, notamment parce qu'elles permettent une insertion rapide sur le marché du travail. L'alternance, qui permet d'être rémunéré pendant les études, renforce encore leur attractivité.
+Q: Qu'est-ce qui rend ces formations encore plus attractives ?
++ La possibilité d'être payé pendant les études grâce à l'alternance. | « L'alternance… renforce encore leur attractivité ».
+- Leur durée très longue. | Ce sont des formations courtes.
+- Leur gratuité totale. | Ce n'est pas mentionné.
+- L'absence d'examen. | Ce n'est pas mentionné.
+EXP: « Renforcer encore » ajoute un argument supplémentaire.
+
+## CE 21 | C1 | texte argumentatif | intention de l'auteur
+DOC: L'injonction à « bien manger » s'est muée en véritable morale : il faudrait manger bio, local, de saison, peu transformé. Louable sur le principe, ce discours ignore superbement les contraintes de ceux pour qui le choix alimentaire est d'abord dicté par le prix. Culpabiliser les plus modestes ne remplacera jamais une politique publique de l'alimentation.
+Q: Que reproche l'auteur à ce discours ?
++ D'ignorer les contraintes financières et de culpabiliser les plus modestes. | « ignore superbement les contraintes… Culpabiliser les plus modestes ».
+- De promouvoir les produits transformés. | C'est le contraire.
+- D'être inutile sur le principe. | Il le juge « louable sur le principe ».
+- De défendre une politique publique. | Il en réclame une.
+EXP: « Superbement » est ici ironique (= totalement). « S'est muée en » = s'est transformée en.
+
+## CE 22 | C1 | article de presse | sens d'un mot en contexte
+DOC: La réforme, présentée comme une simplification, a surtout eu pour effet d'alourdir les démarches. Une gageure que les usagers peinent à comprendre.
+Q: Dans ce contexte, « une gageure » désigne :
++ une situation paradoxale, difficile à admettre. | Une simplification qui alourdit est paradoxale.
+- un succès complet. | Ce n'est pas le cas.
+- une obligation légale. | Ce n'est pas le sens.
+- une récompense. | Ce n'est pas le sens.
+EXP: « Gageure » (prononcé [gaʒyʁ]) désigne une entreprise difficile ou un paradoxe.
+
+## CE 23 | C1 | texte argumentatif | arguments contradictoires
+DOC: Les uns voient dans les cours en ligne une démocratisation du savoir : chacun peut suivre gratuitement les enseignements des meilleures universités. Les autres rappellent que le taux d'abandon y dépasse souvent 90 % et que ce sont surtout des diplômés qui en profitent. Le numérique ne crée pas l'envie d'apprendre ; il amplifie celle qui existe déjà.
+Q: Quelle est la thèse de l'auteur ?
++ Le numérique profite surtout à ceux qui sont déjà motivés. | « il amplifie celle qui existe déjà ».
+- Les cours en ligne démocratisent parfaitement le savoir. | C'est une position qu'il nuance.
+- Les cours en ligne doivent être supprimés. | Ce n'est pas dit.
+- Les universités devraient être payantes. | Ce n'est pas dit.
+EXP: La dernière phrase, concise et contrastée, exprime la thèse.
+
+## CE 24 | C1 | article de presse | sous-entendu
+DOC: Le restaurant, qui se présente comme « éco-responsable », sert ses salades dans des bols en carton… livrés chaque matin par avion depuis l'autre bout de l'Europe.
+Q: Que met en évidence le journaliste ?
++ L'incohérence entre le discours écologique et les pratiques. | Bols en carton, mais livrés par avion.
+- Le sérieux de l'engagement écologique. | Le ton est ironique.
+- La qualité des salades. | Ce n'est pas le sujet.
+- Le prix élevé du restaurant. | Ce n'est pas mentionné.
+EXP: Les points de suspension préparent la chute ironique.
+
+## CE 25 | C1 | document informatif | compréhension globale
+DOC: L'encadrement des loyers, en vigueur dans plusieurs grandes villes, fixe un loyer de référence par quartier et par type de logement. Le propriétaire ne peut dépasser ce plafond que de 20 %, sauf s'il justifie d'un « complément de loyer » lié à des caractéristiques exceptionnelles (terrasse, vue remarquable). Le locataire qui estime payer un loyer abusif peut saisir une commission de conciliation.
+Q: Dans quel cas le propriétaire peut-il dépasser le plafond ?
++ Si le logement présente des caractéristiques exceptionnelles. | « sauf s'il justifie d'un complément de loyer lié à des caractéristiques exceptionnelles ».
+- S'il le souhaite, sans justification. | Une justification est nécessaire.
+- Si le locataire est étudiant. | Ce n'est pas mentionné.
+- Si le logement est petit. | Ce n'est pas dit.
+EXP: « Sauf si » introduit l'exception. « Saisir une commission » = lui demander d'intervenir.
+
+## EE 1 | A2 | répondre à un message
+CONSIGNE: Votre amie Julie vous écrit : « J'organise un repas chez moi samedi soir. Tu viens ? Tu peux apporter quelque chose ? » Vous lui répondez (30 à 60 mots).
+MODELE: Coucou Julie ! Merci pour l'invitation, je viendrai avec plaisir samedi soir. Je peux apporter un dessert : une tarte aux pommes faite maison, ça te va ? Je pense arriver vers 20 heures, après mon cours de sport. Est-ce que je peux venir avec mon frère ? Il est chez moi ce week-end. Bisous !
+POINTS: remercier ; accepter ; proposer ce qu'on apporte ; préciser l'heure ; formule finale
+CONSEILS: Répondez à toutes les questions du message. Gardez un ton amical.
+
+## EE 2 | B1 | raconter une expérience
+CONSIGNE: Vous avez déménagé récemment. Vous racontez cette journée de déménagement à un ami dans un courriel (déroulement, difficultés, sentiments) (40 à 90 mots).
+MODELE: Salut Ali ! Ça y est, j'ai déménagé samedi ! La journée a été épuisante. Les déménageurs sont arrivés avec une heure de retard et l'ascenseur était en panne : nous avons dû monter tous les cartons au quatrième étage à pied ! Heureusement, mes cousins sont venus m'aider. Le soir, nous avons mangé des pizzas assis par terre au milieu des cartons. J'étais fatigué mais très heureux d'être enfin chez moi. Viens me voir bientôt !
+POINTS: annonce ; déroulement ; difficultés ; sentiments ; invitation
+CONSEILS: Utilisez « heureusement », « malheureusement », « finalement » pour organiser le récit.
+
+## EE 3 | B2 | donner son opinion
+CONSIGNE: Un journal pose la question : « Les étudiants devraient-ils travailler pendant leurs études ? » Vous donnez votre opinion argumentée (40 à 90 mots).
+MODELE: À mon sens, travailler pendant ses études peut être enrichissant, à condition de ne pas y consacrer trop d'heures. D'une part, un petit emploi permet de gagner en autonomie et d'acquérir une première expérience professionnelle. D'autre part, il apprend à s'organiser. Néanmoins, au-delà de quinze heures par semaine, les résultats universitaires risquent d'en souffrir. Il serait donc préférable de développer les bourses pour que personne ne soit obligé de travailler.
+POINTS: opinion nuancée ; arguments pour ; argument contre ; proposition
+CONSEILS: Utilisez « d'une part… d'autre part » et une condition (« à condition de »).
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous pose des questions sur vos études, votre logement et vos loisirs. Répondez avec des détails.
+RELANCES: Qu'avez-vous étudié ? / Quel souvenir gardez-vous de vos études ? / Décrivez votre logement idéal. / Aimez-vous cuisiner ? Quel est votre plat préféré ? / Que faites-vous pour vous détendre ? / Quels sont vos projets pour l'année prochaine ?
+PHRASES: J'ai étudié… à… / Ce que je préférais, c'était… / Mon logement idéal serait… / Mon plat préféré, c'est… / Pour me détendre, je…
+MODELE: J'ai étudié l'économie à l'université de Tunis. Je garde un très bon souvenir de mes professeurs et de mes amis. Mon logement idéal serait une maison avec un petit jardin, pas trop loin du centre-ville. J'aime beaucoup cuisiner, surtout des plats épicés. Pour me détendre, je fais du yoga et je lis des romans policiers.
+
+## EO 2 | B2 | Résoudre un problème avec un fournisseur | Conseiller du service client
+SCENARIO: Vous avez commandé un canapé en ligne. Il est arrivé avec trois semaines de retard et il est abîmé. L'examinateur joue le rôle du conseiller du service client. Expliquez le problème, demandez une solution et négociez.
+RELANCES: Service client, bonjour, que puis-je faire pour vous ? / Avez-vous des photos des dégâts ? / Nous pouvons vous proposer une réduction de dix pour cent. / Un échange prendrait environ un mois. / Le transporteur est responsable, pas nous. / Que souhaitez-vous faire ?
+PHRASES: Je vous appelle au sujet de… / Je ne peux pas accepter… / Il me semble normal que… / Je préférerais… / Si ce n'est pas possible, je…
+MODELE: Bonjour, je vous appelle au sujet de ma commande d'un canapé. Il est arrivé avec trois semaines de retard et le tissu est déchiré sur un côté. J'ai pris des photos. Une réduction de dix pour cent, ce n'est pas suffisant pour un produit abîmé. Il me semble normal que vous le remplaciez, même si cela prend un mois. Sinon, je préférerais être remboursé intégralement. Le transporteur travaille pour vous, c'est donc à vous de gérer.
+
+## EO 3 | B2 | Est-il préférable de vivre en ville ou à la campagne ? | Examinateur
+SCENARIO: Donnez votre opinion : « Est-il préférable de vivre en ville ou à la campagne ? » Présentez les avantages et les inconvénients, donnez des exemples, nuancez et concluez.
+RELANCES: Où préférez-vous vivre ? / Quels sont les avantages de la ville ? / Et ceux de la campagne ? / Le choix dépend-il de l'âge ? / Quelle est votre conclusion ?
+PHRASES: Cela dépend essentiellement du contexte. / D'un côté… de l'autre… / Il faut prendre en considération plusieurs facteurs. / Même si cet argument est pertinent… / Pour toutes ces raisons…
+MODELE: Cela dépend essentiellement de l'étape de la vie. D'un côté, la ville offre des emplois, des transports et une vie culturelle riche : quand j'étais étudiant, c'était idéal. De l'autre, la campagne apporte le calme, l'espace et un air plus pur, ce qui est précieux pour élever des enfants. Même si le télétravail rend la campagne plus accessible, il faut prendre en considération l'accès aux soins et aux services. Pour toutes ces raisons, je choisirais une petite ville bien desservie.

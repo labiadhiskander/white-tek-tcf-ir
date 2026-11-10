@@ -1,0 +1,1974 @@
+{
+ "code": "EXAM-05",
+ "title": "Examen blanc n° 5 – Logement, alimentation et études",
+ "level": "B2",
+ "description": "Examen complet calibré B1–B2 : colocation, consommation, université, climat, loisirs.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "F: Salut Paul, c'est Anne. Je suis en retard, mon bus est bloqué dans les embouteillages. J'arrive dans vingt minutes. Commande sans moi, je prendrai la même chose que toi !",
+   "prompt": "Pourquoi Anne appelle-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour annuler le rendez-vous.",
+     "correct": false,
+     "rationale": "Elle arrive dans vingt minutes."
+    },
+    {
+     "label": "B",
+     "text": "Pour prévenir de son retard.",
+     "correct": true,
+     "rationale": "« Je suis en retard… J'arrive dans vingt minutes »."
+    },
+    {
+     "label": "C",
+     "text": "Pour changer de restaurant.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Pour demander à Paul de venir la chercher.",
+     "correct": false,
+     "rationale": "Ce n'est pas demandé."
+    }
+   ],
+   "explanation": "Le motif de l'appel est donné dès la deuxième phrase.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Mesdames et messieurs, le spectacle va commencer dans cinq minutes. Merci d'éteindre vos téléphones portables. Les photos et les vidéos sont interdites pendant la représentation.",
+   "prompt": "Qu'est-ce qui est interdit ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Entrer dans la salle.",
+     "correct": false,
+     "rationale": "Le spectacle va commencer."
+    },
+    {
+     "label": "B",
+     "text": "Applaudir.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Prendre des photos et filmer.",
+     "correct": true,
+     "rationale": "« Les photos et les vidéos sont interdites »."
+    },
+    {
+     "label": "D",
+     "text": "Parler avant le spectacle.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Les consignes sont introduites par « Merci de » et « interdites ».",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "H: Tu as vu la météo pour demain ? / F: Oui, il va pleuvoir le matin, mais il fera beau l'après-midi. / H: Alors on fait le pique-nique l'après-midi ? / F: Bonne idée, vers deux heures.",
+   "prompt": "Quand vont-ils pique-niquer ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Demain matin.",
+     "correct": false,
+     "rationale": "Il va pleuvoir le matin."
+    },
+    {
+     "label": "B",
+     "text": "Le soir.",
+     "correct": false,
+     "rationale": "Ce n'est pas proposé."
+    },
+    {
+     "label": "C",
+     "text": "Demain après-midi, vers deux heures.",
+     "correct": true,
+     "rationale": "« vers deux heures » l'après-midi."
+    },
+    {
+     "label": "D",
+     "text": "Aujourd'hui.",
+     "correct": false,
+     "rationale": "Ils parlent de demain."
+    }
+   ],
+   "explanation": "La météo justifie le choix du moment.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "F: Tu pourrais me prêter ta voiture samedi ? La mienne est au garage. / H: Samedi, j'en ai besoin le matin, mais l'après-midi, pas de problème. / F: Parfait, je dois juste aller chez IKEA vers 15 heures.",
+   "prompt": "Que demande la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "D'emprunter la voiture de l'homme.",
+     "correct": true,
+     "rationale": "« Tu pourrais me prêter ta voiture samedi ? »"
+    },
+    {
+     "label": "B",
+     "text": "De l'accompagner au garage.",
+     "correct": false,
+     "rationale": "Ce n'est pas demandé."
+    },
+    {
+     "label": "C",
+     "text": "De réparer sa voiture.",
+     "correct": false,
+     "rationale": "Elle est au garage."
+    },
+    {
+     "label": "D",
+     "text": "D'aller chez IKEA à sa place.",
+     "correct": false,
+     "rationale": "Elle y va elle-même."
+    }
+   ],
+   "explanation": "« Prêter » : l'homme donne temporairement ; « emprunter » : la femme reçoit temporairement.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-CA"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "H: Bonjour, ici le secrétariat de l'université. Votre inscription en master est confirmée. La réunion de rentrée aura lieu le 4 septembre à 10 heures, amphithéâtre B. N'oubliez pas de télécharger votre certificat de scolarité sur votre espace étudiant.",
+   "prompt": "Que doit faire l'étudiant ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Télécharger son certificat de scolarité.",
+     "correct": true,
+     "rationale": "« N'oubliez pas de télécharger votre certificat »."
+    },
+    {
+     "label": "B",
+     "text": "Confirmer son inscription.",
+     "correct": false,
+     "rationale": "Elle est déjà confirmée."
+    },
+    {
+     "label": "C",
+     "text": "Payer ses frais d'inscription.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Choisir son amphithéâtre.",
+     "correct": false,
+     "rationale": "Il est déjà indiqué."
+    }
+   ],
+   "explanation": "« N'oubliez pas de » signale une action à faire.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information précise",
+   "document": "F: Canicule : la préfecture a déclenché l'alerte orange. Les températures pourraient atteindre 39 degrés jeudi. Il est conseillé de boire régulièrement, de fermer les volets en journée et d'éviter les activités physiques entre midi et 16 heures.",
+   "prompt": "Que recommande-t-on ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De boire seulement le soir.",
+     "correct": false,
+     "rationale": "Il faut boire régulièrement."
+    },
+    {
+     "label": "B",
+     "text": "D'ouvrir les fenêtres en journée.",
+     "correct": false,
+     "rationale": "Il faut fermer les volets."
+    },
+    {
+     "label": "C",
+     "text": "De sortir à midi.",
+     "correct": false,
+     "rationale": "C'est déconseillé."
+    },
+    {
+     "label": "D",
+     "text": "D'éviter le sport aux heures les plus chaudes.",
+     "correct": true,
+     "rationale": "« éviter les activités physiques entre midi et 16 heures »."
+    }
+   ],
+   "explanation": "« Canicule » = forte chaleur. Les conseils sont des consignes de prévention.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Vous vivez en colocation à cinquante ans. C'est original ! / F: Peut-être, mais c'est très pratique. Après mon divorce, je ne voulais pas vivre seule dans un grand appartement. Nous sommes trois, on partage les frais, et il y a toujours quelqu'un pour discuter le soir. Il faut juste être organisé pour le ménage !",
+   "prompt": "Que pense la femme de la colocation ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle veut vivre seule.",
+     "correct": false,
+     "rationale": "Elle ne voulait pas vivre seule."
+    },
+    {
+     "label": "B",
+     "text": "Elle la trouve réservée aux étudiants.",
+     "correct": false,
+     "rationale": "Elle la pratique à cinquante ans."
+    },
+    {
+     "label": "C",
+     "text": "Elle déteste le partage des tâches.",
+     "correct": false,
+     "rationale": "Elle dit seulement qu'il faut être organisé."
+    },
+    {
+     "label": "D",
+     "text": "Elle en apprécie les avantages pratiques et sociaux.",
+     "correct": true,
+     "rationale": "Partage des frais, compagnie."
+    }
+   ],
+   "explanation": "« Peut-être, mais » : concession puis avis personnel positif.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Le marché de Noël ouvrira ses portes le 25 novembre sur la place centrale. Il sera ouvert tous les jours de 11 h à 21 h, et jusqu'à 23 h le vendredi et le samedi. Une patinoire gratuite sera installée pour les enfants.",
+   "prompt": "Quand le marché ferme-t-il le plus tard ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le 25 novembre.",
+     "correct": false,
+     "rationale": "C'est le jour de l'ouverture."
+    },
+    {
+     "label": "B",
+     "text": "Le dimanche.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "C",
+     "text": "Tous les jours.",
+     "correct": false,
+     "rationale": "Les autres jours, il ferme à 21 h."
+    },
+    {
+     "label": "D",
+     "text": "Le vendredi et le samedi.",
+     "correct": true,
+     "rationale": "« jusqu'à 23 h le vendredi et le samedi »."
+    }
+   ],
+   "explanation": "Repérez les exceptions aux horaires habituels.",
+   "speakers": [
+    "H:fr-CH"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "situation administrative",
+   "skill": "information précise",
+   "document": "F: Bonjour, je voudrais savoir si j'ai droit à une aide pour mon loyer. Je suis étudiante. / H: Oui, vous pouvez faire une simulation sur le site de la CAF. Si vous y avez droit, la demande se fait en ligne. L'aide est versée chaque mois, directement à votre propriétaire ou sur votre compte.",
+   "prompt": "Comment l'étudiante peut-elle savoir si elle a droit à l'aide ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "En envoyant un courrier.",
+     "correct": false,
+     "rationale": "Ce n'est pas proposé."
+    },
+    {
+     "label": "B",
+     "text": "En demandant à son propriétaire.",
+     "correct": false,
+     "rationale": "Ce n'est pas proposé."
+    },
+    {
+     "label": "C",
+     "text": "En faisant une simulation en ligne.",
+     "correct": true,
+     "rationale": "« vous pouvez faire une simulation sur le site »."
+    },
+    {
+     "label": "D",
+     "text": "En prenant rendez-vous au guichet.",
+     "correct": false,
+     "rationale": "Ce n'est pas proposé."
+    }
+   ],
+   "explanation": "« Simulation » = calcul indicatif avant la demande.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "conversation professionnelle",
+   "skill": "information précise",
+   "document": "H: Pour le séminaire de juin, on garde l'hôtel de l'an dernier ? / F: Non, il était trop loin de la gare. J'ai trouvé un centre de congrès juste en face, avec un restaurant sur place. / H: Et le prix ? / F: Un peu plus cher, mais on économise les taxis.",
+   "prompt": "Pourquoi la femme a-t-elle choisi un autre lieu ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il est plus proche de la gare.",
+     "correct": true,
+     "rationale": "L'ancien hôtel était trop loin de la gare."
+    },
+    {
+     "label": "B",
+     "text": "Il est moins cher.",
+     "correct": false,
+     "rationale": "Il est « un peu plus cher »."
+    },
+    {
+     "label": "C",
+     "text": "L'hôtel de l'an dernier est fermé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Il a plus de chambres.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "L'argument principal est la proximité ; le prix est compensé par les taxis évités.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "opinion",
+   "document": "H: Il faudrait servir un repas végétarien chaque jour dans les cantines. / F: Une alternative quotidienne, pourquoi pas. Mais l'imposer à tous, non. Certains enfants ne mangent de la viande qu'à la cantine. Et un repas végétarien mal équilibré peut être pire qu'un repas classique. Tout dépend de la formation des cuisiniers.",
+   "prompt": "Quelle est la position de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle pense que les cuisiniers sont bien formés.",
+     "correct": false,
+     "rationale": "Elle dit que « tout dépend » de leur formation."
+    },
+    {
+     "label": "B",
+     "text": "Elle accepte une option végétarienne mais refuse de l'imposer.",
+     "correct": true,
+     "rationale": "« Une alternative quotidienne, pourquoi pas. Mais l'imposer à tous, non »."
+    },
+    {
+     "label": "C",
+     "text": "Elle est contre tout repas végétarien.",
+     "correct": false,
+     "rationale": "Elle accepte une alternative."
+    },
+    {
+     "label": "D",
+     "text": "Elle veut supprimer la viande.",
+     "correct": false,
+     "rationale": "Elle ne le propose pas."
+    }
+   ],
+   "explanation": "Distinguez « proposer une alternative » et « imposer à tous ».",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "H: Le prix moyen des loyers a encore augmenté de cinq pour cent dans les grandes villes. Conséquence : de nombreux étudiants renoncent à poursuivre leurs études loin de chez leurs parents. Les syndicats étudiants demandent la construction de résidences universitaires et un encadrement plus strict des loyers.",
+   "prompt": "Quelle est la conséquence de la hausse des loyers ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Des étudiants renoncent à étudier loin de chez eux.",
+     "correct": true,
+     "rationale": "« de nombreux étudiants renoncent à poursuivre leurs études loin de chez leurs parents »."
+    },
+    {
+     "label": "B",
+     "text": "Les résidences universitaires se vident.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les étudiants arrêtent tous leurs études.",
+     "correct": false,
+     "rationale": "Seulement leurs études loin de chez eux."
+    },
+    {
+     "label": "D",
+     "text": "Les loyers baissent dans les petites villes.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "« Conséquence : » introduit directement l'effet.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "F: Vous êtes apiculteur en ville. Les abeilles s'y plaisent ? / H: Étonnamment, oui. En ville, il y a une grande diversité de fleurs dans les parcs et les balcons, et beaucoup moins de pesticides qu'à la campagne. Le vrai problème, c'est qu'on installe trop de ruches : les abeilles domestiques finissent par priver de nourriture les abeilles sauvages.",
+   "prompt": "Quel problème l'apiculteur signale-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le manque de fleurs en ville.",
+     "correct": false,
+     "rationale": "Il y a « une grande diversité de fleurs »."
+    },
+    {
+     "label": "B",
+     "text": "L'utilisation de pesticides en ville.",
+     "correct": false,
+     "rationale": "Il y en a moins qu'à la campagne."
+    },
+    {
+     "label": "C",
+     "text": "Les habitants n'aiment pas les abeilles.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Trop de ruches nuisent aux abeilles sauvages.",
+     "correct": true,
+     "rationale": "« les abeilles domestiques finissent par priver de nourriture les abeilles sauvages »."
+    }
+   ],
+   "explanation": "« Le vrai problème, c'est » met en relief l'inconvénient après les avantages.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-BE"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "message téléphonique",
+   "skill": "implicite",
+   "document": "H: Allô, Madame Faure ? C'est votre propriétaire. Je voulais vous dire que… bon, les travaux de la salle de bains, je ne pourrai pas les faire ce mois-ci. Ni le mois prochain, d'ailleurs. Mais rassurez-vous, le loyer, lui, n'augmentera qu'en janvier.",
+   "prompt": "Que comprend-on de ce message ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La locataire doit faire les travaux elle-même.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Le propriétaire repousse les travaux mais pas l'augmentation du loyer.",
+     "correct": true,
+     "rationale": "Travaux reportés, hausse maintenue en janvier."
+    },
+    {
+     "label": "C",
+     "text": "Les travaux sont terminés.",
+     "correct": false,
+     "rationale": "Ils sont reportés."
+    },
+    {
+     "label": "D",
+     "text": "Le propriétaire va baisser le loyer.",
+     "correct": false,
+     "rationale": "Il va l'augmenter."
+    }
+   ],
+   "explanation": "« Rassurez-vous » est paradoxal : l'information qui suit n'est pas rassurante. On perçoit l'absurdité de la situation.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "relation logique",
+   "document": "F: Le taux de réussite à l'examen a baissé de quinze points cette année. / H: C'est surtout en expression écrite. Les étudiants ont perdu l'habitude d'écrire à la main, et l'examen se fait toujours sur papier. / F: Il faudrait organiser des entraînements dans les conditions réelles. / H: Oui, ou alors passer l'examen sur ordinateur.",
+   "prompt": "Quelle explication l'homme donne-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'examen est devenu plus difficile.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les professeurs sont moins bien formés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les étudiants n'ont plus l'habitude d'écrire à la main.",
+     "correct": true,
+     "rationale": "« Les étudiants ont perdu l'habitude d'écrire à la main »."
+    },
+    {
+     "label": "D",
+     "text": "Les étudiants ne révisent plus.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "L'explication est suivie de deux solutions possibles.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "H: Votre épicerie ne vend que des produits en vrac. Comment réagissent les clients ? / F: Au début, ils étaient perdus : il faut apporter ses propres contenants, peser… Mais ils ont vite compris l'intérêt : on achète la quantité exacte dont on a besoin, on ne jette plus d'emballages, et les prix sont souvent plus bas, puisqu'on ne paie pas le packaging.",
+   "prompt": "Pourquoi les prix sont-ils souvent plus bas ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que les clients achètent en grande quantité.",
+     "correct": false,
+     "rationale": "Ils achètent « la quantité exacte »."
+    },
+    {
+     "label": "B",
+     "text": "Parce que les clients ne paient pas l'emballage.",
+     "correct": true,
+     "rationale": "« on ne paie pas le packaging »."
+    },
+    {
+     "label": "C",
+     "text": "Parce que l'épicerie reçoit des aides.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce que les produits sont de moins bonne qualité.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Puisque » introduit une cause évidente. « Vrac » = sans emballage.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-CA"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Avis aux étudiants : les demandes de logement en résidence universitaire pour la rentrée prochaine doivent être déposées avant le 31 mai. Les dossiers incomplets ne seront pas étudiés. Les étudiants internationaux bénéficient d'un délai supplémentaire jusqu'au 30 juin.",
+   "prompt": "Qui peut déposer son dossier après le 31 mai ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Tous les étudiants.",
+     "correct": false,
+     "rationale": "La date limite générale est le 31 mai."
+    },
+    {
+     "label": "B",
+     "text": "Les étudiants internationaux, jusqu'au 30 juin.",
+     "correct": true,
+     "rationale": "« délai supplémentaire jusqu'au 30 juin »."
+    },
+    {
+     "label": "C",
+     "text": "Personne.",
+     "correct": false,
+     "rationale": "Il existe une exception."
+    },
+    {
+     "label": "D",
+     "text": "Les étudiants dont le dossier est incomplet.",
+     "correct": false,
+     "rationale": "Ces dossiers ne seront pas étudiés."
+    }
+   ],
+   "explanation": "Repérez la règle générale et l'exception.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: La consommation de produits bio a reculé pour la deuxième année consécutive. L'inflation pousse les ménages à privilégier les prix bas. Paradoxalement, la demande de produits locaux, parfois non bio mais vendus en circuit court, continue de progresser.",
+   "prompt": "Qu'est-ce qui est présenté comme paradoxal ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le bio recule à cause de l'inflation.",
+     "correct": false,
+     "rationale": "C'est logique, non paradoxal."
+    },
+    {
+     "label": "B",
+     "text": "Les produits locaux sont tous bio.",
+     "correct": false,
+     "rationale": "Ils sont « parfois non bio »."
+    },
+    {
+     "label": "C",
+     "text": "Les produits locaux progressent alors que le bio recule.",
+     "correct": true,
+     "rationale": "« Paradoxalement, la demande de produits locaux… continue de progresser »."
+    },
+    {
+     "label": "D",
+     "text": "Les ménages cherchent les prix bas.",
+     "correct": false,
+     "rationale": "C'est logique."
+    }
+   ],
+   "explanation": "« Paradoxalement » introduit un fait inattendu par rapport au contexte.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "F: Les frais d'inscription à l'université devraient augmenter pour améliorer la qualité. / H: Augmenter les frais, c'est fermer la porte aux étudiants modestes. Dans les pays où l'université est chère, les étudiants sortent avec des dettes énormes. La qualité doit être financée par l'État, c'est un investissement pour toute la société.",
+   "prompt": "Quel argument l'homme avance-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les étudiants doivent s'endetter.",
+     "correct": false,
+     "rationale": "Il présente cela comme un danger."
+    },
+    {
+     "label": "B",
+     "text": "Des frais élevés excluraient les étudiants modestes.",
+     "correct": true,
+     "rationale": "« c'est fermer la porte aux étudiants modestes »."
+    },
+    {
+     "label": "C",
+     "text": "L'université est déjà trop chère en France.",
+     "correct": false,
+     "rationale": "Il ne dit pas cela."
+    },
+    {
+     "label": "D",
+     "text": "La qualité de l'université est suffisante.",
+     "correct": false,
+     "rationale": "Ce n'est pas son argument."
+    }
+   ],
+   "explanation": "« Fermer la porte à » = exclure. L'exemple des autres pays renforce l'argument.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "implicite",
+   "document": "H: Vous avez été élue meilleure cheffe pâtissière. Votre famille vous a encouragée ? / F: Mon père voulait que je sois avocate. Quand je lui ai dit que j'arrêtais le droit pour faire de la pâtisserie, il ne m'a pas parlé pendant un mois. Aujourd'hui, il apporte mes gâteaux à tous ses dîners… et il raconte à tout le monde que c'était son idée.",
+   "prompt": "Que comprend-on à propos du père ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il n'aime pas ses gâteaux.",
+     "correct": false,
+     "rationale": "Il les apporte à ses dîners."
+    },
+    {
+     "label": "B",
+     "text": "Il s'attribue désormais le mérite d'un choix qu'il avait désapprouvé.",
+     "correct": true,
+     "rationale": "« il raconte à tout le monde que c'était son idée »."
+    },
+    {
+     "label": "C",
+     "text": "Il a toujours soutenu sa fille.",
+     "correct": false,
+     "rationale": "Il ne lui a pas parlé pendant un mois."
+    },
+    {
+     "label": "D",
+     "text": "Il est avocat.",
+     "correct": false,
+     "rationale": "Il voulait qu'elle le soit."
+    }
+   ],
+   "explanation": "L'humour repose sur le contraste entre l'opposition passée et la fierté actuelle.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "F: Une étude menée auprès de dix mille étudiants révèle que près d'un sur cinq a déjà sauté un repas faute d'argent. Les chercheurs pointent la hausse des loyers, qui absorbe désormais plus de la moitié du budget étudiant, et l'insuffisance des bourses, dont les montants n'ont pas suivi l'inflation.",
+   "prompt": "Selon l'étude, quelle part du budget le loyer représente-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un cinquième.",
+     "correct": false,
+     "rationale": "« Un sur cinq » concerne les repas sautés."
+    },
+    {
+     "label": "B",
+     "text": "Un tiers.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Plus de la moitié.",
+     "correct": true,
+     "rationale": "« absorbe désormais plus de la moitié du budget étudiant »."
+    },
+    {
+     "label": "D",
+     "text": "La totalité.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Attention aux chiffres : « un sur cinq » (étudiants), « plus de la moitié » (budget).",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "F: Professeur, je voulais vous demander un délai pour mon mémoire. J'ai eu des problèmes de santé ce mois-ci. / H: Je suis désolé de l'apprendre. Vous avez un certificat médical ? / F: Oui, je peux vous l'envoyer. / H: Dans ce cas, je vous accorde deux semaines supplémentaires. Mais pas plus, le jury se réunit début juillet.",
+   "prompt": "Comment le professeur répond-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il accepte un délai limité, sur justificatif.",
+     "correct": true,
+     "rationale": "Il demande un certificat et accorde deux semaines."
+    },
+    {
+     "label": "B",
+     "text": "Il refuse tout délai.",
+     "correct": false,
+     "rationale": "Il accorde deux semaines."
+    },
+    {
+     "label": "C",
+     "text": "Il annule le mémoire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Il accorde un délai illimité.",
+     "correct": false,
+     "rationale": "« Mais pas plus »."
+    }
+   ],
+   "explanation": "« Dans ce cas » lie la décision à la condition du certificat.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "H: Les notes à l'école, c'est la seule manière objective d'évaluer. / F: Objective ? Des études montrent qu'une même copie peut recevoir des notes très différentes selon le correcteur. Je ne dis pas qu'il faut tout supprimer, mais une évaluation par compétences explique mieux à l'élève ce qu'il maîtrise et ce qui lui reste à travailler.",
+   "prompt": "Que conteste la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'utilité de toute évaluation.",
+     "correct": false,
+     "rationale": "Elle propose une autre forme d'évaluation."
+    },
+    {
+     "label": "B",
+     "text": "L'évaluation par compétences.",
+     "correct": false,
+     "rationale": "Elle la défend."
+    },
+    {
+     "label": "C",
+     "text": "L'objectivité des notes.",
+     "correct": true,
+     "rationale": "« Objective ? Des études montrent… »."
+    },
+    {
+     "label": "D",
+     "text": "La compétence des correcteurs.",
+     "correct": false,
+     "rationale": "Elle souligne leurs différences, pas leur incompétence."
+    }
+   ],
+   "explanation": "La reprise interrogative du mot « objective ? » marque la contestation.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-BE"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Le gaspillage alimentaire diminue-t-il ? / H: Dans les supermarchés, oui, grâce à la loi qui les oblige à donner leurs invendus. Mais l'essentiel du gaspillage se fait à la maison : on achète trop, on oublie les restes au fond du frigo. Tant qu'on ne changera pas nos habitudes, les lois ne suffiront pas.",
+   "prompt": "Selon l'homme, où se fait l'essentiel du gaspillage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dans les restaurants.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "Dans les exploitations agricoles.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Dans les supermarchés.",
+     "correct": false,
+     "rationale": "Il y diminue grâce à la loi."
+    },
+    {
+     "label": "D",
+     "text": "Dans les foyers.",
+     "correct": true,
+     "rationale": "« l'essentiel du gaspillage se fait à la maison »."
+    }
+   ],
+   "explanation": "« Tant que… ne… pas » exprime une condition qui dure.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "implicite",
+   "document": "H: L'université a inauguré hier un nouveau bâtiment ultramoderne de quarante millions d'euros, avec salle de réalité virtuelle et café panoramique. Dans l'ancien bâtiment de lettres, toujours chauffé par intermittence, les étudiants ont suivi la cérémonie en direct… en manteau.",
+   "prompt": "Que suggère le journaliste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les étudiants de lettres ont froid parce qu'ils sont dehors.",
+     "correct": false,
+     "rationale": "Ils sont dans l'ancien bâtiment mal chauffé."
+    },
+    {
+     "label": "B",
+     "text": "Les priorités de financement de l'université sont discutables.",
+     "correct": true,
+     "rationale": "Contraste entre le luxe du nouveau bâtiment et le froid de l'ancien."
+    },
+    {
+     "label": "C",
+     "text": "Tous les bâtiments ont été rénovés.",
+     "correct": false,
+     "rationale": "L'ancien est « chauffé par intermittence »."
+    },
+    {
+     "label": "D",
+     "text": "Le nouveau bâtiment est inutile.",
+     "correct": false,
+     "rationale": "Il ne le dit pas directement."
+    }
+   ],
+   "explanation": "Le détail final « en manteau » crée un contraste ironique.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "Colocation – Cherche colocataire pour appartement de 3 chambres près de l'université. Chambre de 12 m², cuisine et salon partagés. 420 € par mois, internet compris. Étudiant ou jeune actif. Animaux non acceptés.",
+   "prompt": "Qu'est-ce qui est compris dans le prix ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Internet.",
+     "correct": true,
+     "rationale": "« internet compris »."
+    },
+    {
+     "label": "B",
+     "text": "L'électricité et le chauffage.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    },
+    {
+     "label": "C",
+     "text": "Les repas.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    },
+    {
+     "label": "D",
+     "text": "Une place de parking.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    }
+   ],
+   "explanation": "« Compris » = inclus dans le prix."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Chère voisine, je pars en vacances du 10 au 20 août. Pouvez-vous arroser mes plantes deux fois par semaine ? Je vous laisse mes clés dans votre boîte aux lettres. Merci beaucoup ! Robert (appartement 5)",
+   "prompt": "Que demande Robert ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De garder son chat.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "De récupérer son courrier.",
+     "correct": false,
+     "rationale": "Ce n'est pas demandé."
+    },
+    {
+     "label": "C",
+     "text": "De lui envoyer ses clés.",
+     "correct": false,
+     "rationale": "Il les laisse dans la boîte aux lettres."
+    },
+    {
+     "label": "D",
+     "text": "D'arroser ses plantes pendant son absence.",
+     "correct": true,
+     "rationale": "« Pouvez-vous arroser mes plantes »."
+    }
+   ],
+   "explanation": "La demande est formulée par « Pouvez-vous »."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "affiche",
+   "skill": "information précise",
+   "document": "RESTAURANT UNIVERSITAIRE – Repas complet : 3,30 €. Ouvert du lundi au vendredi, de 11 h 30 à 14 h. Paiement uniquement par carte étudiante. Fermé pendant les vacances scolaires.",
+   "prompt": "Comment peut-on payer ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Par chèque.",
+     "correct": false,
+     "rationale": "Ce n'est pas accepté."
+    },
+    {
+     "label": "B",
+     "text": "Avec n'importe quelle carte bancaire.",
+     "correct": false,
+     "rationale": "Seule la carte étudiante est acceptée."
+    },
+    {
+     "label": "C",
+     "text": "Avec la carte étudiante.",
+     "correct": true,
+     "rationale": "« Paiement uniquement par carte étudiante »."
+    },
+    {
+     "label": "D",
+     "text": "En espèces.",
+     "correct": false,
+     "rationale": "Ce n'est pas accepté."
+    }
+   ],
+   "explanation": "« Uniquement » exclut les autres moyens de paiement."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "courriel",
+   "skill": "intention",
+   "document": "Bonjour Madame Morel, je suis locataire de votre appartement depuis deux ans. Depuis une semaine, le chauffe-eau ne fonctionne plus et nous n'avons plus d'eau chaude. Pourriez-vous envoyer un réparateur rapidement ? Je suis disponible tous les jours après 17 h. Merci d'avance. Cordialement, David Simon",
+   "prompt": "Pourquoi David écrit-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour donner son préavis.",
+     "correct": false,
+     "rationale": "Il ne quitte pas l'appartement."
+    },
+    {
+     "label": "B",
+     "text": "Pour demander une réparation.",
+     "correct": true,
+     "rationale": "« Pourriez-vous envoyer un réparateur rapidement ? »"
+    },
+    {
+     "label": "C",
+     "text": "Pour proposer une visite de l'appartement.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objet."
+    },
+    {
+     "label": "D",
+     "text": "Pour payer son loyer.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "La demande polie au conditionnel suit l'exposé du problème."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "À Rennes, une association propose aux étudiants des paniers de légumes à 2 euros, préparés avec des invendus des producteurs locaux. Chaque semaine, plus de quatre cents paniers sont distribués sur le campus. L'objectif est double : lutter contre la précarité étudiante et réduire le gaspillage alimentaire.",
+   "prompt": "Quel est l'objectif de l'association ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Vendre des légumes bio aux habitants.",
+     "correct": false,
+     "rationale": "Les paniers sont destinés aux étudiants."
+    },
+    {
+     "label": "B",
+     "text": "Ouvrir un restaurant universitaire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Aider les étudiants et limiter le gaspillage.",
+     "correct": true,
+     "rationale": "« L'objectif est double : lutter contre la précarité… et réduire le gaspillage »."
+    },
+    {
+     "label": "D",
+     "text": "Aider uniquement les producteurs.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objectif principal."
+    }
+   ],
+   "explanation": "« L'objectif est double » annonce deux buts."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, nous vous informons que votre bail prendra fin le 30 juin. Conformément à la loi, vous devez nous prévenir au moins un mois à l'avance si vous souhaitez le renouveler. Le dépôt de garantie vous sera restitué dans un délai de deux mois après l'état des lieux de sortie, déduction faite des éventuelles réparations.",
+   "prompt": "Quand la locataire récupérera-t-elle son dépôt de garantie ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dans les deux mois après l'état des lieux de sortie.",
+     "correct": true,
+     "rationale": "« restitué dans un délai de deux mois après l'état des lieux »."
+    },
+    {
+     "label": "B",
+     "text": "Jamais.",
+     "correct": false,
+     "rationale": "Il sera restitué."
+    },
+    {
+     "label": "C",
+     "text": "Le jour de son départ.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "D",
+     "text": "Un mois avant la fin du bail.",
+     "correct": false,
+     "rationale": "C'est le délai de préavis."
+    }
+   ],
+   "explanation": "« Restitué » = rendu. « Déduction faite de » = après avoir retiré."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "publicité",
+   "skill": "information précise",
+   "document": "Envie de manger sain sans cuisiner ? FraîchBox vous livre chaque semaine trois repas équilibrés, préparés par des chefs avec des produits de saison. Sans engagement : suspendez ou arrêtez votre abonnement quand vous voulez. Première box à moitié prix avec le code BIENVENUE.",
+   "prompt": "Comment obtenir une réduction sur la première box ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "En cuisinant soi-même.",
+     "correct": false,
+     "rationale": "Les repas sont déjà préparés."
+    },
+    {
+     "label": "B",
+     "text": "En commandant trois box.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    },
+    {
+     "label": "C",
+     "text": "En s'engageant pour un an.",
+     "correct": false,
+     "rationale": "L'abonnement est sans engagement."
+    },
+    {
+     "label": "D",
+     "text": "En utilisant le code BIENVENUE.",
+     "correct": true,
+     "rationale": "« Première box à moitié prix avec le code BIENVENUE »."
+    }
+   ],
+   "explanation": "« À moitié prix » = 50 % de réduction."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "Bonjour à tous, le prochain conseil de classe aura lieu le mardi 12 décembre à 17 h. Les professeurs doivent saisir leurs notes et appréciations avant le vendredi 8 à midi. Après cette date, le logiciel sera bloqué. Merci de votre ponctualité. La direction.",
+   "prompt": "Que doivent faire les professeurs avant le vendredi 8 à midi ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Assister au conseil de classe.",
+     "correct": false,
+     "rationale": "Il a lieu le mardi 12."
+    },
+    {
+     "label": "B",
+     "text": "Rencontrer les parents.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Bloquer le logiciel.",
+     "correct": false,
+     "rationale": "Il sera bloqué automatiquement."
+    },
+    {
+     "label": "D",
+     "text": "Entrer leurs notes et appréciations dans le logiciel.",
+     "correct": true,
+     "rationale": "« doivent saisir leurs notes et appréciations »."
+    }
+   ],
+   "explanation": "« Saisir » = taper, entrer des données dans un ordinateur."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« J'ai fait une année d'échange au Canada pendant mes études. Au début, l'hiver m'a semblé interminable et ma famille me manquait. Mais j'ai rencontré des gens du monde entier et je suis devenu beaucoup plus autonome. Si c'était à refaire, je partirais sans hésiter. » Romain, 24 ans.",
+   "prompt": "Quel est l'avis de Romain sur son expérience ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il ne repartirait pas.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "B",
+     "text": "Négatif à cause de l'hiver.",
+     "correct": false,
+     "rationale": "L'hiver était une difficulté passagère."
+    },
+    {
+     "label": "C",
+     "text": "Il n'a rencontré personne.",
+     "correct": false,
+     "rationale": "Il a rencontré des gens du monde entier."
+    },
+    {
+     "label": "D",
+     "text": "Très positif malgré des difficultés au début.",
+     "correct": true,
+     "rationale": "« Si c'était à refaire, je partirais sans hésiter »."
+    }
+   ],
+   "explanation": "« Si c'était à refaire » + conditionnel exprime un jugement global."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Le « batch cooking », qui consiste à préparer en deux heures le dimanche tous les repas de la semaine, séduit de plus en plus de familles. Ses adeptes y voient un gain de temps, d'argent et une alimentation plus équilibrée. Les nutritionnistes mettent toutefois en garde : certains aliments perdent leurs vitamines lorsqu'ils sont conservés plusieurs jours.",
+   "prompt": "Quelle réserve les nutritionnistes expriment-ils ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle prend trop de temps.",
+     "correct": false,
+     "rationale": "Elle fait gagner du temps."
+    },
+    {
+     "label": "B",
+     "text": "Elle est réservée aux célibataires.",
+     "correct": false,
+     "rationale": "Elle séduit les familles."
+    },
+    {
+     "label": "C",
+     "text": "Cette méthode coûte plus cher.",
+     "correct": false,
+     "rationale": "Ses adeptes disent qu'elle fait économiser."
+    },
+    {
+     "label": "D",
+     "text": "Certains aliments perdent leurs qualités nutritives avec le temps.",
+     "correct": true,
+     "rationale": "« certains aliments perdent leurs vitamines »."
+    }
+   ],
+   "explanation": "« Mettre en garde » = avertir d'un danger. « Toutefois » introduit la réserve."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "On accuse souvent les étudiants de choisir des filières « sans débouchés ». C'est oublier que les compétences acquises en lettres ou en histoire, l'analyse, la rédaction, l'esprit critique, sont précisément celles que recherchent de nombreux employeurs. Le problème n'est pas tant la filière que le manque de passerelles entre l'université et l'entreprise.",
+   "prompt": "Que défend l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La valeur des filières littéraires sur le marché du travail.",
+     "correct": true,
+     "rationale": "Les compétences acquises sont recherchées."
+    },
+    {
+     "label": "B",
+     "text": "L'idée que l'histoire ne sert à rien.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "La suppression des filières de lettres.",
+     "correct": false,
+     "rationale": "Il les défend."
+    },
+    {
+     "label": "D",
+     "text": "Le choix exclusif de filières scientifiques.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« C'est oublier que » réfute une critique. « Passerelles » = liens, ponts."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Chers résidents, nous vous rappelons que les vélos doivent être rangés exclusivement dans le local prévu à cet effet. Les vélos entreposés dans les couloirs entravent la circulation et seront retirés sans préavis.",
+   "prompt": "Que signifie « entravent » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "facilitent.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "B",
+     "text": "protègent.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "C",
+     "text": "décorent.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "D",
+     "text": "gênent, empêchent.",
+     "correct": true,
+     "rationale": "Les vélos bloquent la circulation dans les couloirs."
+    }
+   ],
+   "explanation": "« Entraver » = gêner, faire obstacle. « Sans préavis » = sans prévenir."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Pour lutter contre la solitude des personnes âgées et le manque de logements étudiants, la cohabitation intergénérationnelle se développe. L'étudiant est logé gratuitement ou pour un loyer modique en échange d'une présence le soir et de petits services. Il ne s'agit en aucun cas d'aide médicale ou de ménage, précisent les associations.",
+   "prompt": "Que doit faire l'étudiant en échange du logement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Payer un loyer élevé.",
+     "correct": false,
+     "rationale": "Le loyer est gratuit ou modique."
+    },
+    {
+     "label": "B",
+     "text": "Apporter une aide médicale.",
+     "correct": false,
+     "rationale": "C'est exclu."
+    },
+    {
+     "label": "C",
+     "text": "Faire le ménage.",
+     "correct": false,
+     "rationale": "« Il ne s'agit en aucun cas… de ménage »."
+    },
+    {
+     "label": "D",
+     "text": "Être présent le soir et rendre de petits services.",
+     "correct": true,
+     "rationale": "« en échange d'une présence le soir et de petits services »."
+    }
+   ],
+   "explanation": "« Modique » = faible. « En aucun cas » = absolument pas."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, nous avons bien reçu votre demande de bourse sur critères sociaux. Votre dossier étant complet, il sera examiné dans un délai de six semaines. Vous serez informée de la décision par courriel. En cas d'avis favorable, le premier versement interviendra au plus tard le 10 octobre.",
+   "prompt": "Quand recevra-t-elle le premier versement si la bourse est accordée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Au plus tard le 10 octobre.",
+     "correct": true,
+     "rationale": "« le premier versement interviendra au plus tard le 10 octobre »."
+    },
+    {
+     "label": "B",
+     "text": "Après un entretien.",
+     "correct": false,
+     "rationale": "Aucun entretien n'est prévu."
+    },
+    {
+     "label": "C",
+     "text": "Dans six semaines.",
+     "correct": false,
+     "rationale": "C'est le délai d'examen."
+    },
+    {
+     "label": "D",
+     "text": "Immédiatement.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Au plus tard » = cette date est la limite."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "Les applications de livraison de repas ont révolutionné nos habitudes. Elles offrent un confort indéniable, mais ce confort a un prix : des livreurs souvent précaires, des restaurants qui reversent jusqu'à 30 % de leur chiffre d'affaires aux plateformes et une montagne d'emballages jetables. Commander n'est donc jamais un geste neutre.",
+   "prompt": "Quelle est la conclusion de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Commander un repas a des conséquences sociales et environnementales.",
+     "correct": true,
+     "rationale": "« Commander n'est donc jamais un geste neutre »."
+    },
+    {
+     "label": "B",
+     "text": "Les livreurs sont bien payés.",
+     "correct": false,
+     "rationale": "Ils sont « souvent précaires »."
+    },
+    {
+     "label": "C",
+     "text": "Les applications doivent être interdites.",
+     "correct": false,
+     "rationale": "Il ne le propose pas."
+    },
+    {
+     "label": "D",
+     "text": "Les applications n'offrent aucun confort.",
+     "correct": false,
+     "rationale": "Il reconnaît un « confort indéniable »."
+    }
+   ],
+   "explanation": "« Donc » introduit la conclusion. « Ce confort a un prix » : métaphore pour les coûts cachés."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "La ville envisage de transformer un ancien parking en parc urbain. Les riverains applaudissent, rêvant d'un espace vert au cœur du quartier. Les commerçants, eux, craignent la disparition des places de stationnement, tandis que la municipalité promet la construction d'un parking souterrain à proximité.",
+   "prompt": "Que promet la municipalité ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'abandon du projet.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "La construction d'un parking souterrain.",
+     "correct": true,
+     "rationale": "« la municipalité promet la construction d'un parking souterrain »."
+    },
+    {
+     "label": "C",
+     "text": "Un parc sans arbres.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "La création de nouveaux commerces.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La promesse répond à l'inquiétude des commerçants."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "L'état des lieux d'entrée, réalisé contradictoirement par le locataire et le propriétaire, décrit l'état du logement au moment de la remise des clés. Il sert de référence lors du départ du locataire : seules les dégradations constatées entre les deux états des lieux peuvent être retenues sur le dépôt de garantie. L'usure normale due au temps ne peut être facturée au locataire.",
+   "prompt": "Qu'est-ce qui ne peut pas être facturé au locataire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'usure normale liée au temps.",
+     "correct": true,
+     "rationale": "« L'usure normale due au temps ne peut être facturée »."
+    },
+    {
+     "label": "B",
+     "text": "L'état des lieux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les dégradations constatées.",
+     "correct": false,
+     "rationale": "Elles peuvent être retenues."
+    },
+    {
+     "label": "D",
+     "text": "Les clés perdues.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "« Contradictoirement » = en présence des deux parties."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« Mes parents m'avaient prévenu que vivre seul coûtait cher. Je pensais qu'ils exagéraient. Après trois mois, je connais par cœur le prix des pâtes dans tous les supermarchés du quartier. » Lucas, 20 ans, étudiant.",
+   "prompt": "Que sous-entend Lucas ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il travaille dans un supermarché.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Il a des difficultés financières et doit faire attention à ses dépenses.",
+     "correct": true,
+     "rationale": "Il compare le prix des pâtes partout."
+    },
+    {
+     "label": "C",
+     "text": "Ses parents exagéraient vraiment.",
+     "correct": false,
+     "rationale": "Il reconnaît implicitement qu'ils avaient raison."
+    },
+    {
+     "label": "D",
+     "text": "Il adore cuisiner des pâtes.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'idée."
+    }
+   ],
+   "explanation": "L'humour suggère qu'il doit économiser et que ses parents avaient raison."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Faut-il interdire la publicité pour la malbouffe à la télévision aux heures où les enfants regardent ? Les partisans rappellent que l'obésité infantile progresse et que les enfants sont particulièrement sensibles aux messages publicitaires. Les opposants estiment que la responsabilité revient aux parents et que la mesure priverait les chaînes de revenus importants.",
+   "prompt": "Quel est l'argument des opposants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La publicité améliore l'alimentation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les enfants sont sensibles à la publicité.",
+     "correct": false,
+     "rationale": "C'est un argument des partisans."
+    },
+    {
+     "label": "C",
+     "text": "Les parents sont responsables et les chaînes perdraient de l'argent.",
+     "correct": true,
+     "rationale": "Ce sont les deux arguments cités."
+    },
+    {
+     "label": "D",
+     "text": "L'obésité infantile progresse.",
+     "correct": false,
+     "rationale": "C'est un argument des partisans."
+    }
+   ],
+   "explanation": "Identifiez les deux camps et leurs arguments respectifs."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "Les inscriptions en BTS ont fortement augmenté cette année. Les jeunes se tournent vers ces formations courtes et professionnalisantes, notamment parce qu'elles permettent une insertion rapide sur le marché du travail. L'alternance, qui permet d'être rémunéré pendant les études, renforce encore leur attractivité.",
+   "prompt": "Qu'est-ce qui rend ces formations encore plus attractives ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'absence d'examen.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "La possibilité d'être payé pendant les études grâce à l'alternance.",
+     "correct": true,
+     "rationale": "« L'alternance… renforce encore leur attractivité »."
+    },
+    {
+     "label": "C",
+     "text": "Leur gratuité totale.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Leur durée très longue.",
+     "correct": false,
+     "rationale": "Ce sont des formations courtes."
+    }
+   ],
+   "explanation": "« Renforcer encore » ajoute un argument supplémentaire."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "L'injonction à « bien manger » s'est muée en véritable morale : il faudrait manger bio, local, de saison, peu transformé. Louable sur le principe, ce discours ignore superbement les contraintes de ceux pour qui le choix alimentaire est d'abord dicté par le prix. Culpabiliser les plus modestes ne remplacera jamais une politique publique de l'alimentation.",
+   "prompt": "Que reproche l'auteur à ce discours ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "D'être inutile sur le principe.",
+     "correct": false,
+     "rationale": "Il le juge « louable sur le principe »."
+    },
+    {
+     "label": "B",
+     "text": "D'ignorer les contraintes financières et de culpabiliser les plus modestes.",
+     "correct": true,
+     "rationale": "« ignore superbement les contraintes… Culpabiliser les plus modestes »."
+    },
+    {
+     "label": "C",
+     "text": "De défendre une politique publique.",
+     "correct": false,
+     "rationale": "Il en réclame une."
+    },
+    {
+     "label": "D",
+     "text": "De promouvoir les produits transformés.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    }
+   ],
+   "explanation": "« Superbement » est ici ironique (= totalement). « S'est muée en » = s'est transformée en."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "sens d'un mot en contexte",
+   "document": "La réforme, présentée comme une simplification, a surtout eu pour effet d'alourdir les démarches. Une gageure que les usagers peinent à comprendre.",
+   "prompt": "Dans ce contexte, « une gageure » désigne :",
+   "choices": [
+    {
+     "label": "A",
+     "text": "un succès complet.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "B",
+     "text": "une récompense.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "C",
+     "text": "une situation paradoxale, difficile à admettre.",
+     "correct": true,
+     "rationale": "Une simplification qui alourdit est paradoxale."
+    },
+    {
+     "label": "D",
+     "text": "une obligation légale.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    }
+   ],
+   "explanation": "« Gageure » (prononcé [gaʒyʁ]) désigne une entreprise difficile ou un paradoxe."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments contradictoires",
+   "document": "Les uns voient dans les cours en ligne une démocratisation du savoir : chacun peut suivre gratuitement les enseignements des meilleures universités. Les autres rappellent que le taux d'abandon y dépasse souvent 90 % et que ce sont surtout des diplômés qui en profitent. Le numérique ne crée pas l'envie d'apprendre ; il amplifie celle qui existe déjà.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les universités devraient être payantes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les cours en ligne démocratisent parfaitement le savoir.",
+     "correct": false,
+     "rationale": "C'est une position qu'il nuance."
+    },
+    {
+     "label": "C",
+     "text": "Le numérique profite surtout à ceux qui sont déjà motivés.",
+     "correct": true,
+     "rationale": "« il amplifie celle qui existe déjà »."
+    },
+    {
+     "label": "D",
+     "text": "Les cours en ligne doivent être supprimés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La dernière phrase, concise et contrastée, exprime la thèse."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "sous-entendu",
+   "document": "Le restaurant, qui se présente comme « éco-responsable », sert ses salades dans des bols en carton… livrés chaque matin par avion depuis l'autre bout de l'Europe.",
+   "prompt": "Que met en évidence le journaliste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La qualité des salades.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    },
+    {
+     "label": "B",
+     "text": "Le prix élevé du restaurant.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "L'incohérence entre le discours écologique et les pratiques.",
+     "correct": true,
+     "rationale": "Bols en carton, mais livrés par avion."
+    },
+    {
+     "label": "D",
+     "text": "Le sérieux de l'engagement écologique.",
+     "correct": false,
+     "rationale": "Le ton est ironique."
+    }
+   ],
+   "explanation": "Les points de suspension préparent la chute ironique."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "compréhension globale",
+   "document": "L'encadrement des loyers, en vigueur dans plusieurs grandes villes, fixe un loyer de référence par quartier et par type de logement. Le propriétaire ne peut dépasser ce plafond que de 20 %, sauf s'il justifie d'un « complément de loyer » lié à des caractéristiques exceptionnelles (terrasse, vue remarquable). Le locataire qui estime payer un loyer abusif peut saisir une commission de conciliation.",
+   "prompt": "Dans quel cas le propriétaire peut-il dépasser le plafond ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Si le logement présente des caractéristiques exceptionnelles.",
+     "correct": true,
+     "rationale": "« sauf s'il justifie d'un complément de loyer lié à des caractéristiques exceptionnelles »."
+    },
+    {
+     "label": "B",
+     "text": "S'il le souhaite, sans justification.",
+     "correct": false,
+     "rationale": "Une justification est nécessaire."
+    },
+    {
+     "label": "C",
+     "text": "Si le locataire est étudiant.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Si le logement est petit.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Sauf si » introduit l'exception. « Saisir une commission » = lui demander d'intervenir."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "répondre à un message",
+   "instructions": "Votre amie Julie vous écrit : « J'organise un repas chez moi samedi soir. Tu viens ? Tu peux apporter quelque chose ? » Vous lui répondez (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Coucou Julie ! Merci pour l'invitation, je viendrai avec plaisir samedi soir. Je peux apporter un dessert : une tarte aux pommes faite maison, ça te va ? Je pense arriver vers 20 heures, après mon cours de sport. Est-ce que je peux venir avec mon frère ? Il est chez moi ce week-end. Bisous !",
+   "tips": "Répondez à toutes les questions du message. Gardez un ton amical.",
+   "expected_points": [
+    "remercier",
+    "accepter",
+    "proposer ce qu'on apporte",
+    "préciser l'heure",
+    "formule finale"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "raconter une expérience",
+   "instructions": "Vous avez déménagé récemment. Vous racontez cette journée de déménagement à un ami dans un courriel (déroulement, difficultés, sentiments) (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Salut Ali ! Ça y est, j'ai déménagé samedi ! La journée a été épuisante. Les déménageurs sont arrivés avec une heure de retard et l'ascenseur était en panne : nous avons dû monter tous les cartons au quatrième étage à pied ! Heureusement, mes cousins sont venus m'aider. Le soir, nous avons mangé des pizzas assis par terre au milieu des cartons. J'étais fatigué mais très heureux d'être enfin chez moi. Viens me voir bientôt !",
+   "tips": "Utilisez « heureusement », « malheureusement », « finalement » pour organiser le récit.",
+   "expected_points": [
+    "annonce",
+    "déroulement",
+    "difficultés",
+    "sentiments",
+    "invitation"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "donner son opinion",
+   "instructions": "Un journal pose la question : « Les étudiants devraient-ils travailler pendant leurs études ? » Vous donnez votre opinion argumentée (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "À mon sens, travailler pendant ses études peut être enrichissant, à condition de ne pas y consacrer trop d'heures. D'une part, un petit emploi permet de gagner en autonomie et d'acquérir une première expérience professionnelle. D'autre part, il apprend à s'organiser. Néanmoins, au-delà de quinze heures par semaine, les résultats universitaires risquent d'en souffrir. Il serait donc préférable de développer les bourses pour que personne ne soit obligé de travailler.",
+   "tips": "Utilisez « d'une part… d'autre part » et une condition (« à condition de »).",
+   "expected_points": [
+    "opinion nuancée",
+    "arguments pour",
+    "argument contre",
+    "proposition"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous pose des questions sur vos études, votre logement et vos loisirs. Répondez avec des détails.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Qu'avez-vous étudié ?",
+    "Quel souvenir gardez-vous de vos études ?",
+    "Décrivez votre logement idéal.",
+    "Aimez-vous cuisiner ? Quel est votre plat préféré ?",
+    "Que faites-vous pour vous détendre ?",
+    "Quels sont vos projets pour l'année prochaine ?"
+   ],
+   "useful_phrases": [
+    "J'ai étudié… à…",
+    "Ce que je préférais, c'était…",
+    "Mon logement idéal serait…",
+    "Mon plat préféré, c'est…",
+    "Pour me détendre, je…"
+   ],
+   "model_answer": "J'ai étudié l'économie à l'université de Tunis. Je garde un très bon souvenir de mes professeurs et de mes amis. Mon logement idéal serait une maison avec un petit jardin, pas trop loin du centre-ville. J'aime beaucoup cuisiner, surtout des plats épicés. Pour me détendre, je fais du yoga et je lis des romans policiers."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Résoudre un problème avec un fournisseur",
+   "examiner_role": "Conseiller du service client",
+   "scenario": "Vous avez commandé un canapé en ligne. Il est arrivé avec trois semaines de retard et il est abîmé. L'examinateur joue le rôle du conseiller du service client. Expliquez le problème, demandez une solution et négociez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Service client, bonjour, que puis-je faire pour vous ?",
+    "Avez-vous des photos des dégâts ?",
+    "Nous pouvons vous proposer une réduction de dix pour cent.",
+    "Un échange prendrait environ un mois.",
+    "Le transporteur est responsable, pas nous.",
+    "Que souhaitez-vous faire ?"
+   ],
+   "useful_phrases": [
+    "Je vous appelle au sujet de…",
+    "Je ne peux pas accepter…",
+    "Il me semble normal que…",
+    "Je préférerais…",
+    "Si ce n'est pas possible, je…"
+   ],
+   "model_answer": "Bonjour, je vous appelle au sujet de ma commande d'un canapé. Il est arrivé avec trois semaines de retard et le tissu est déchiré sur un côté. J'ai pris des photos. Une réduction de dix pour cent, ce n'est pas suffisant pour un produit abîmé. Il me semble normal que vous le remplaciez, même si cela prend un mois. Sinon, je préférerais être remboursé intégralement. Le transporteur travaille pour vous, c'est donc à vous de gérer."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Est-il préférable de vivre en ville ou à la campagne ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion : « Est-il préférable de vivre en ville ou à la campagne ? » Présentez les avantages et les inconvénients, donnez des exemples, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Où préférez-vous vivre ?",
+    "Quels sont les avantages de la ville ?",
+    "Et ceux de la campagne ?",
+    "Le choix dépend-il de l'âge ?",
+    "Quelle est votre conclusion ?"
+   ],
+   "useful_phrases": [
+    "Cela dépend essentiellement du contexte.",
+    "D'un côté… de l'autre…",
+    "Il faut prendre en considération plusieurs facteurs.",
+    "Même si cet argument est pertinent…",
+    "Pour toutes ces raisons…"
+   ],
+   "model_answer": "Cela dépend essentiellement de l'étape de la vie. D'un côté, la ville offre des emplois, des transports et une vie culturelle riche : quand j'étais étudiant, c'était idéal. De l'autre, la campagne apporte le calme, l'espace et un air plus pur, ce qui est précieux pour élever des enfants. Même si le télétravail rend la campagne plus accessible, il faut prendre en considération l'accès aux soins et aux services. Pour toutes ces raisons, je choisirais une petite ville bien desservie."
+  }
+ ]
+}
