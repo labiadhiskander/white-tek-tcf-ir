@@ -7,3 +7,4 @@ vosk>=0.3.45
 sounddevice>=0.4
 numpy>=1.26
 pywin32>=306; sys_platform == "win32"
+anthropic>=2.8   # tuteur IA en ligne (facultatif)

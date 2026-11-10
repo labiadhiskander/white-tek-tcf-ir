@@ -7,10 +7,12 @@ from PySide6.QtWidgets import (QHBoxLayout, QLabel, QListWidget, QListWidgetItem
 
 from tcfmaster import APP_NAME, __version__
 from tcfmaster.services import settings as S
+from tcfmaster.ui.pages import custom_page as CP
 from tcfmaster.ui.pages import exam_pages as EP
 from tcfmaster.ui.pages import learning_pages as LP
 from tcfmaster.ui.pages import misc_pages as MP
 from tcfmaster.ui.pages import speaking_page as SP
+from tcfmaster.ui.pages import tutor_page as TP
 from tcfmaster.ui.pages import writing_page as WP
 
 # (clé, icône, libellé, fabrique)
@@ -25,10 +27,8 @@ MENU = [
     ("vocab", "Aa", "Vocabulaire B2", lambda c: LP.VocabularyPage(c)),
     ("grammar", "§", "Grammaire", lambda c: LP.GrammarPage(c)),
     ("conj", "⇄", "Conjugaison", lambda c: LP.ConjugationPage(c)),
-    ("ai", "💬", "Conversation avec l'IA", lambda c: MP.PendingPage(
-        c, "Conversation avec l'IA", 7, "Professeur, conversation libre, examinateur.")),
-    ("custom", "★", "Exercices personnalisés", lambda c: MP.PendingPage(
-        c, "Exercices personnalisés", 7, "Exercices ciblés sur vos erreurs récurrentes.")),
+    ("ai", "💬", "Conversation avec l'IA", lambda c: TP.TutorPage(c)),
+    ("custom", "★", "Exercices personnalisés", lambda c: CP.CustomExercisesPage(c)),
     ("history", "⏲", "Historique et résultats", lambda c: MP.HistoryPage(c)),
     ("plan", "📅", "Mon programme de préparation", lambda c: MP.PlanPage(c)),
     ("settings", "⚙", "Paramètres", lambda c: MP.SettingsPage(c)),

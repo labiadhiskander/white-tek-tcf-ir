@@ -9,6 +9,7 @@ from sqlalchemy.orm import Session
 
 from tcfmaster.core import levels as L
 from tcfmaster.db.models import Attempt, SpeakingSubmission, SpeakingTask
+from tcfmaster.services import error_tracking as ET
 from tcfmaster.services import settings as S
 from tcfmaster.services import speaking_eval as SE
 
@@ -42,6 +43,7 @@ def submit(s: Session, task_id: int, transcript: str, *, profile: dict | None = 
         sub = s.execute(select(SpeakingSubmission).where(
             SpeakingSubmission.attempt_id == attempt_id,
             SpeakingSubmission.task_id == task_id)).scalar_one_or_none()
+    is_new = sub is None
     if sub is None:
         sub = SpeakingSubmission(attempt_id=attempt_id, task_id=task_id)
         s.add(sub)
@@ -62,6 +64,8 @@ def submit(s: Session, task_id: int, transcript: str, *, profile: dict | None = 
     sub.evaluation = ev.to_dict()
     sub.note20 = ev.note20
     sub.level = ev.level
+    if is_new:                      # une réévaluation ne compte pas les erreurs deux fois
+        ET.log_issues(s, "EO", ev.issues)
     s.flush()
     return sub
 

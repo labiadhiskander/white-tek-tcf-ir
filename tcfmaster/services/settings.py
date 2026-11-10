@@ -19,9 +19,10 @@ log = logging.getLogger("tcfmaster.settings")
 
 DEFAULTS: dict[str, Any] = {
     "correction_mode": "fin",          # « immediate » ou « fin » d'exercice
-    "ai_provider": "local",            # local | anthropic | openai_compatible
-    "ai_model": "",
-    "ai_base_url": "",
+    "ai_provider": "local",            # local (hors ligne) | anthropic (Claude, en ligne)
+    "ai_model": "claude-opus-5-5",
+    "ai_effort": "medium",             # low | medium | high
+    "ai_consent": False,               # avertissement de confidentialité accepté
     "tts_engine": "systeme",           # voix SAPI Windows / pyttsx3
     "tts_rate": 170,
     "stt_engine": "local",             # moteur de reconnaissance vocale

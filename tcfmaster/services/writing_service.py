@@ -6,6 +6,7 @@ from sqlalchemy.orm import Session
 
 from tcfmaster.core import levels as L
 from tcfmaster.db.models import Attempt, WritingSubmission, WritingTask
+from tcfmaster.services import error_tracking as ET
 from tcfmaster.services import writing_eval as WE
 
 
@@ -29,6 +30,7 @@ def submit(s: Session, task_id: int, text: str, duration_s: float = 0,
         sub = s.execute(select(WritingSubmission).where(
             WritingSubmission.attempt_id == attempt_id,
             WritingSubmission.task_id == task_id)).scalar_one_or_none()
+    is_new = sub is None
     if sub is None:
         sub = WritingSubmission(attempt_id=attempt_id, task_id=task_id)
         s.add(sub)
@@ -38,6 +40,8 @@ def submit(s: Session, task_id: int, text: str, duration_s: float = 0,
     sub.evaluation = ev.to_dict()
     sub.note20 = ev.note20
     sub.level = ev.level
+    if is_new:
+        ET.log_issues(s, "EE", ev.issues)     # une seule fois par production
     s.flush()
     return sub
 

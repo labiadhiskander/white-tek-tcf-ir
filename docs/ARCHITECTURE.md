@@ -76,7 +76,7 @@ exercice + correction) ; `vocab_words` ; `grammar_chapters` → `grammar_exercis
 ## 6. IA, audio, voix
 
 * Moteur IA abstrait : moteur **local** (règles, correcteur, banque de relances) toujours
-  disponible ; moteurs en ligne optionnels (Claude API ou compatible OpenAI).
+  disponible ; moteur en ligne optionnel (Claude, SDK officiel `anthropic`). Voir 6 quater.
 * Synthèse vocale (`services/audio.py`) : chaque document CO « H: … / F: … » est
   découpé en répliques ; chaque réplique est lue par une voix française du système
   (SAPI via pyttsx3) choisie selon le genre puis l'accent (fr-FR, fr-CA, fr-BE, fr-CH),
@@ -124,6 +124,33 @@ exercice + correction) ; `vocab_words` ; `grammar_chapters` → `grammar_exercis
   correction de la transcription, suppression d'un enregistrement ou d'une
   production ; si « Conserver les enregistrements » est décoché, le fichier audio
   est supprimé dès la transcription.
+
+## 6 quater. Tuteur IA et exercices personnalisés
+
+* `services/ai/` : `base.py` (modes, `Conversation`, `TutorReply`), `local.py` (tuteur
+  hors ligne), `anthropic_engine.py` (Claude), `prompts.py` (consignes système),
+  `tutor.py` (`TutorService` : choix du moteur, repli, évaluation).
+* Trois modes : **professeur** (corrige avec les règles de `writing_rules`, explique un
+  chapitre de grammaire et propose un exercice corrigé, définit un mot du lexique),
+  **conversation libre** (banque de 8 thèmes, relances, reformulation discrète de deux
+  erreurs au plus), **examinateur** (tâche EO tirée de la base, relances et objections,
+  puis note estimée par `speaking_eval` sur les réponses tapées ; durée estimée à
+  130 mots/min et signalée comme telle).
+* Claude : modèle `claude-opus-5-5` par défaut, réflexion adaptative, niveau d'effort
+  réglable, replis côté serveur activés (`server-side-fallback-2026-07-01`,
+  `fallbacks="default"`), refus final signalé poliment. Toute erreur (clé, réseau, quota)
+  bascule sur le tuteur local avec un message. La note d'un examen simulé est toujours
+  calculée localement ; Claude n'ajoute qu'un retour qualitatif. Le prompt système
+  interdit de présenter une évaluation comme un résultat officiel de France Éducation
+  international et la mention est ajoutée si elle manque.
+* Clé API : saisie dans Paramètres › Tuteur IA, enregistrée par `keyring` dans le
+  Gestionnaire d'identification Windows, jamais dans la base, un fichier ou le journal.
+  Avant le premier envoi en ligne, un avertissement de confidentialité doit être accepté.
+* Journal des erreurs (`services/error_tracking.py`) : les erreurs des productions EE,
+  EO (hors réévaluation) et du tuteur alimentent `error_log` (`rule` = « [id] … »).
+* Exercices personnalisés (`services/custom_exercises.py`) : corrections tirées des
+  productions de l'apprenant, exercices des chapitres liés aux difficultés récurrentes,
+  diagnostic si le journal est vide ; chaque exercice indique pourquoi il est proposé.
 
 ## 7. Distribution
 
