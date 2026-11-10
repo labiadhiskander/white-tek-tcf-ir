@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 from typing import Any
 
 from sqlalchemy.orm import Session
@@ -47,7 +48,13 @@ def get(s: Session, key: str, default: Any = None) -> Any:
         return row.value
 
 
+_SECRET_KEY = re.compile(r"(api_?key|secret|token|password|mot_de_passe)", re.I)
+
+
 def set_(s: Session, key: str, value: Any) -> None:
+    if _SECRET_KEY.search(key):
+        raise ValueError("Les secrets ne sont jamais stockés en base : utilisez "
+                         "store_api_key() (coffre d'identifiants du système).")
     row = s.get(Setting, key)
     payload = json.dumps(value, ensure_ascii=False)
     if row is None:
