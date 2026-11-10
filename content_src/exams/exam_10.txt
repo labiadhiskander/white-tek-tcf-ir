@@ -1,0 +1,490 @@
+@code EXAM-10
+@title Examen blanc n° 10 – Innovation, patrimoine et vie pratique
+@level B2
+@description Examen complet calibré B1–B2 : création d'entreprise, animaux, patrimoine, IA au quotidien, eau.
+
+## CO 1 | A2 | message téléphonique | information précise | F:fr-FR
+DOC: F: Bonjour, c'est la clinique vétérinaire. Votre chat Moustache peut rentrer à la maison. L'opération s'est bien passée. Vous pouvez venir le chercher après 16 heures.
+Q: Quand peut-on aller chercher le chat ?
++ Après 16 heures. | « Vous pouvez venir le chercher après 16 heures ».
+- Avant 16 heures. | C'est après.
+- Demain matin. | Ce n'est pas dit.
+- Tout de suite. | Il faut attendre 16 h.
+EXP: « Après » indique le moment à partir duquel c'est possible.
+
+## CO 2 | A2 | annonce publique | information précise | H:fr-FR
+DOC: H: Mesdames et messieurs, le château ferme dans trente minutes. La boutique de souvenirs reste ouverte jusqu'à 18 h 30. Merci de votre visite.
+Q: Jusqu'à quelle heure la boutique est-elle ouverte ?
++ 18 h 30. | « La boutique… reste ouverte jusqu'à 18 h 30 ».
+- Dans trente minutes. | C'est la fermeture du château.
+- 18 heures. | Ce n'est pas dit.
+- 19 heures. | Ce n'est pas dit.
+EXP: Distinguez le château et la boutique.
+
+## CO 3 | A2 | conversation quotidienne | information précise | H:fr-FR, F:fr-FR
+DOC: H: Je cherche la rue de la République, s'il vous plaît. / F: C'est tout près. Continuez tout droit, puis prenez la deuxième rue à gauche. C'est juste après la pharmacie. / H: Merci beaucoup !
+Q: Où se trouve la rue de la République ?
++ Deuxième rue à gauche, après la pharmacie. | C'est l'itinéraire indiqué.
+- Première rue à droite. | Ce n'est pas dit.
+- Derrière la gare. | Ce n'est pas dit.
+- Avant la pharmacie. | C'est après.
+EXP: Retenez les indications de direction dans l'ordre.
+
+## CO 4 | B1 | conversation quotidienne | intention | F:fr-FR, H:fr-FR
+DOC: F: Votre chien aboie toute la journée quand vous êtes au travail. / H: Ah bon ? Je ne savais pas, je suis désolé. / F: Ce n'est pas un reproche, mais je travaille à la maison et c'est difficile de me concentrer. / H: Je vais demander à un promeneur de chiens de passer le midi.
+Q: Que propose l'homme ?
++ Faire sortir son chien par un promeneur. | « Je vais demander à un promeneur de chiens de passer le midi ».
+- Se débarrasser de son chien. | Ce n'est pas dit.
+- Déménager. | Ce n'est pas dit.
+- Travailler à la maison. | Ce n'est pas dit.
+EXP: « Ce n'est pas un reproche, mais » : formule pour adoucir une plainte.
+
+## CO 5 | B1 | message professionnel | information précise | H:fr-CA
+DOC: H: Bonjour Madame Côté, ici la chambre de commerce. Votre dossier de création d'entreprise est complet. Vous êtes invitée à une formation gratuite de deux jours sur la gestion, les 10 et 11 mars. Elle est fortement recommandée, mais pas obligatoire. Confirmez votre participation par courriel.
+Q: La formation est-elle obligatoire ?
++ Non, elle est seulement recommandée. | « fortement recommandée, mais pas obligatoire ».
+- Oui, absolument. | Ce n'est pas obligatoire.
+- Oui, mais seulement le 10 mars. | Ce n'est pas dit.
+- Elle est payante. | Elle est gratuite.
+EXP: Distinguez « recommandé » et « obligatoire ».
+
+## CO 6 | B1 | information radio | information précise | F:fr-FR
+DOC: F: Sécheresse : la préfecture interdit, à partir de demain, l'arrosage des jardins entre 8 h et 20 h, le lavage des voitures et le remplissage des piscines privées. Ces restrictions s'appliquent jusqu'à la fin du mois, sauf si de fortes pluies arrivent.
+Q: Qu'est-ce qui est interdit ?
++ Remplir une piscine privée. | Cela fait partie des interdictions.
+- Arroser son jardin la nuit. | L'interdiction est entre 8 h et 20 h.
+- Boire l'eau du robinet. | Ce n'est pas dit.
+- Prendre une douche. | Ce n'est pas dit.
+EXP: Lisez précisément les horaires des restrictions.
+
+## CO 7 | B1 | interview | opinion | H:fr-FR, F:fr-BE
+DOC: H: Vous avez adopté un chien dans un refuge. Pourquoi pas dans un élevage ? / F: Il y a tellement d'animaux abandonnés qui attendent une famille ! Mon chien avait été laissé au bord d'une route. Au début, il avait peur de tout. Maintenant, c'est le chien le plus joyeux du quartier. Je recommande l'adoption à tout le monde.
+Q: Pourquoi la femme a-t-elle choisi un refuge ?
++ Pour donner une famille à un animal abandonné. | « tellement d'animaux abandonnés qui attendent une famille ».
+- Parce que c'était moins cher. | Ce n'est pas dit.
+- Parce que les élevages étaient fermés. | Ce n'est pas dit.
+- Parce qu'elle voulait un chien de race. | Ce n'est pas dit.
+EXP: La motivation est exprimée dès la première phrase.
+
+## CO 8 | B1 | annonce publique | information précise | H:fr-FR
+DOC: H: La bibliothèque propose désormais un service de prêt de liseuses électroniques. Chaque liseuse contient cinquante romans et peut être empruntée pour trois semaines. Le service est réservé aux adhérents de plus de seize ans.
+Q: Qui peut emprunter une liseuse ?
++ Les adhérents de plus de seize ans. | « réservé aux adhérents de plus de seize ans ».
+- Tout le monde. | Il faut être adhérent et avoir plus de 16 ans.
+- Les enfants. | Ce n'est pas le cas.
+- Uniquement les étudiants. | Ce n'est pas dit.
+EXP: « Réservé à » limite l'accès.
+
+## CO 9 | B1 | situation administrative | information précise | F:fr-FR, H:fr-FR
+DOC: F: Bonjour, je voudrais créer une micro-entreprise de couture. / H: Vous pouvez faire la déclaration en ligne sur le guichet unique, c'est gratuit. Vous recevrez votre numéro SIRET sous quinze jours environ. / F: Et je peux commencer à vendre avant ? / H: Non, il faut attendre votre numéro.
+Q: Quand la femme pourra-t-elle commencer à vendre ?
++ Après avoir reçu son numéro SIRET. | « il faut attendre votre numéro ».
+- Immédiatement. | Elle doit attendre.
+- Dans un an. | Environ quinze jours.
+- Après une formation. | Ce n'est pas dit.
+EXP: La réponse « Non, il faut attendre » précise la condition.
+
+## CO 10 | B1 | conversation professionnelle | information précise | H:fr-FR, F:fr-FR
+DOC: H: Les clients se plaignent que notre site est trop lent. / F: Oui, c'est à cause des photos, elles sont trop lourdes. On va les compresser cette semaine. / H: Et l'application mobile ? / F: Elle sortira en janvier, comme prévu.
+Q: Pourquoi le site est-il lent ?
++ Les photos sont trop lourdes. | « c'est à cause des photos, elles sont trop lourdes ».
+- Il y a trop de clients. | Ce n'est pas dit.
+- L'application mobile est en panne. | Elle n'est pas encore sortie.
+- Le serveur est trop vieux. | Ce n'est pas dit.
+EXP: « À cause de » introduit une cause négative.
+
+## CO 11 | B2 | débat | opinion | F:fr-FR, H:fr-FR
+DOC: H: L'intelligence artificielle va supprimer des millions d'emplois. / F: Elle va en transformer beaucoup, c'est certain, et certains disparaîtront. Mais à chaque révolution technologique, de nouveaux métiers sont apparus. Le vrai défi, c'est de former les gens à temps, pour que personne ne reste sur le bord de la route.
+Q: Quelle est l'opinion de la femme ?
++ L'IA transformera les emplois ; il faut former les travailleurs. | « Le vrai défi, c'est de former les gens à temps ».
+- L'IA ne changera rien. | Elle dit qu'elle transformera beaucoup d'emplois.
+- Aucun emploi ne disparaîtra. | « certains disparaîtront ».
+- Il faut interdire l'IA. | Ce n'est pas dit.
+EXP: « Rester sur le bord de la route » = être laissé de côté.
+
+## CO 12 | B2 | information radio | information globale | H:fr-FR
+DOC: H: Le nombre d'animaux abandonnés pendant l'été atteint un niveau record cette année. Les refuges sont saturés. La fondation qui les gère rappelle qu'un animal est un engagement de dix à quinze ans et appelle les futurs propriétaires à bien réfléchir avant toute adoption.
+Q: Quel est le message principal ?
++ Adopter un animal est un engagement de long terme. | « un animal est un engagement de dix à quinze ans ».
+- Les refuges ont de la place. | Ils sont saturés.
+- Il faut adopter pendant l'été. | Ce n'est pas dit.
+- Les abandons diminuent. | Ils atteignent un record.
+EXP: « Saturé » = complètement plein.
+
+## CO 13 | B2 | interview | information détaillée | F:fr-FR, H:fr-FR
+DOC: F: Vous restaurez des châteaux médiévaux. Quelle est la principale difficulté ? / H: Trouver des artisans qui maîtrisent les techniques anciennes : tailleurs de pierre, charpentiers traditionnels. Ces savoir-faire se perdent. C'est pour ça qu'on a ouvert un chantier-école : des jeunes viennent apprendre sur place, et certains en font leur métier.
+Q: Quelle solution a été trouvée ?
++ Un chantier-école pour former des jeunes. | « on a ouvert un chantier-école ».
+- Utiliser des machines modernes. | Ce n'est pas dit.
+- Faire venir des artisans étrangers. | Ce n'est pas dit.
+- Abandonner la restauration. | Ce n'est pas dit.
+EXP: « C'est pour ça que » introduit la solution liée au problème.
+
+## CO 14 | B2 | message téléphonique | implicite | H:fr-FR
+DOC: H: Bonjour, c'est Romain, votre voisin. Je voulais vous dire que votre perroquet est très doué. Il imite parfaitement la sonnerie de mon téléphone… Ça fait trois matins que je me lève à six heures pour répondre. Peut-être qu'on pourrait en discuter ?
+Q: Que suggère le voisin ?
++ Le perroquet le dérange et il souhaite trouver une solution. | Il se lève à six heures à cause de lui.
+- Il veut acheter le perroquet. | Ce n'est pas dit.
+- Il admire simplement le perroquet. | Le compliment est ironique.
+- Son téléphone est en panne. | Ce n'est pas dit.
+EXP: Le compliment « très doué » introduit une plainte avec humour.
+
+## CO 15 | B2 | conversation professionnelle | relation logique | F:fr-FR, H:fr-BE
+DOC: F: Notre boutique en ligne vend moins depuis trois mois. / H: Ce n'est pas la qualité des produits, les avis sont excellents. C'est le coût de livraison : nos concurrents la proposent gratuite à partir de cinquante euros, nous à partir de cent. / F: Alors alignons-nous sur eux.
+Q: Pourquoi les ventes ont-elles baissé ?
++ La livraison gratuite est moins accessible que chez les concurrents. | Seuil de 100 € contre 50 € chez les concurrents.
+- Les produits sont de mauvaise qualité. | Les avis sont excellents.
+- Le site est en panne. | Ce n'est pas dit.
+- Les prix ont augmenté. | Ce n'est pas dit.
+EXP: « S'aligner sur » = adopter les mêmes conditions.
+
+## CO 16 | B2 | interview | information détaillée | H:fr-FR, F:fr-CA
+DOC: H: Votre entreprise récupère l'eau de pluie pour les immeubles. Ça intéresse vraiment les gens ? / F: De plus en plus, avec les sécheresses. L'eau de pluie peut servir pour les toilettes, l'arrosage, le lavage. Ça représente jusqu'à la moitié de la consommation d'un foyer. Le seul frein, c'est le coût de l'installation dans les bâtiments anciens.
+Q: Quel est le principal frein ?
++ Le coût d'installation dans les bâtiments anciens. | « Le seul frein, c'est le coût de l'installation dans les bâtiments anciens ».
+- Le manque de pluie. | Ce n'est pas dit.
+- L'eau de pluie est dangereuse. | Ce n'est pas dit.
+- Les gens ne s'y intéressent pas. | Ils s'y intéressent de plus en plus.
+EXP: « Frein » = obstacle.
+
+## CO 17 | B2 | annonce publique | information précise | F:fr-FR
+DOC: F: Le parc national rappelle que les chiens, même tenus en laisse, sont interdits dans le cœur du parc afin de protéger la faune sauvage. Ils restent autorisés, en laisse, dans les zones périphériques et sur les parkings. Les contrevenants s'exposent à une amende de 135 euros.
+Q: Où les chiens sont-ils autorisés ?
++ En laisse dans les zones périphériques. | « Ils restent autorisés, en laisse, dans les zones périphériques ».
+- Dans le cœur du parc, en laisse. | C'est interdit.
+- Partout sans laisse. | Ce n'est pas le cas.
+- Nulle part. | Ils sont autorisés dans certaines zones.
+EXP: « Même tenus en laisse » renforce l'interdiction.
+
+## CO 18 | B2 | information radio | relation logique | H:fr-FR
+DOC: H: Les créations d'entreprises ont atteint un niveau record l'an dernier. La simplification des démarches et le développement du travail indépendant y ont largement contribué. Mais près d'une entreprise sur trois disparaît avant ses trois ans, souvent faute de trésorerie suffisante.
+Q: Pourquoi de nombreuses jeunes entreprises disparaissent-elles ?
++ Par manque d'argent disponible. | « faute de trésorerie suffisante ».
+- À cause de la complexité des démarches. | Elles ont été simplifiées.
+- Parce que leurs fondateurs prennent leur retraite. | Ce n'est pas dit.
+- Parce qu'il y a trop de clients. | Ce n'est pas dit.
+EXP: « Trésorerie » = argent disponible immédiatement.
+
+## CO 19 | B2 | débat | argumentation | F:fr-FR, H:fr-FR
+DOC: H: Les élèves ne devraient pas avoir le droit d'utiliser l'intelligence artificielle pour leurs devoirs. / F: Interdire, c'est illusoire, ils l'utiliseront quand même. Il vaut mieux leur apprendre à s'en servir intelligemment : vérifier les réponses, comprendre les erreurs, citer leurs sources. Et pourquoi ne pas privilégier les exercices faits en classe ?
+Q: Que propose la femme ?
++ Apprendre aux élèves à bien utiliser l'IA. | « Il vaut mieux leur apprendre à s'en servir intelligemment ».
+- Interdire totalement l'IA. | Elle juge cela illusoire.
+- Supprimer les devoirs. | Ce n'est pas exactement dit.
+- Laisser l'IA faire tous les devoirs. | Ce n'est pas dit.
+EXP: « Illusoire » = qui ne peut pas fonctionner.
+
+## CO 20 | B2 | interview | implicite | H:fr-FR, F:fr-FR
+DOC: H: Votre start-up a été rachetée pour cinquante millions d'euros. Vous allez continuer à travailler ? / F: Bien sûr ! D'ailleurs, ma mère m'a déjà demandé quand j'allais enfin trouver un « vrai travail ».
+Q: Que comprend-on ?
++ La mère ne considère pas le métier de sa fille comme un vrai travail. | Malgré le succès, elle parle de « vrai travail ».
+- La femme va arrêter de travailler. | Elle continue.
+- La start-up a fait faillite. | Elle a été rachetée.
+- La mère travaille dans la start-up. | Ce n'est pas dit.
+EXP: Le décalage entre le succès financier et la remarque de la mère est humoristique.
+
+## CO 21 | C1 | information radio | information détaillée | F:fr-FR
+DOC: F: Une étude révèle que les assistants vocaux installés dans les foyers enregistrent parfois des conversations sans avoir été activés volontairement. Une partie de ces enregistrements est écoutée par des employés chargés d'améliorer la reconnaissance vocale. Les fabricants assurent que les données sont anonymisées, ce que contestent plusieurs associations.
+Q: Que contestent les associations ?
++ Le caractère réellement anonyme des données. | « Les fabricants assurent que les données sont anonymisées, ce que contestent plusieurs associations ».
+- L'existence des assistants vocaux. | Ce n'est pas dit.
+- Le travail des employés. | Ce n'est pas l'objet.
+- L'utilité de la reconnaissance vocale. | Ce n'est pas dit.
+EXP: « Ce que » reprend l'affirmation des fabricants.
+
+## CO 22 | B2 | conversation professionnelle | intention | H:fr-FR, F:fr-FR
+DOC: F: Monsieur Leroy, votre projet de restaurant m'intéresse, mais votre plan de financement me paraît fragile. / H: Pourquoi ? / F: Vous prévoyez d'être rentable dès le troisième mois. C'est très optimiste. Revoyez vos prévisions sur dix-huit mois et revenez me voir. La banque pourra alors étudier votre demande de prêt.
+Q: Que demande la banquière ?
++ Des prévisions financières plus réalistes. | « Revoyez vos prévisions sur dix-huit mois ».
+- L'abandon du projet. | Le projet l'intéresse.
+- Un prêt plus important. | Ce n'est pas dit.
+- L'ouverture immédiate du restaurant. | Ce n'est pas dit.
+EXP: « C'est très optimiste » est une critique polie.
+
+## CO 23 | C1 | débat | argumentation | H:fr-FR, F:fr-CH
+DOC: F: Les zoos devraient fermer, les animaux n'ont rien à faire en cage. / H: Les mauvais zoos, oui. Mais certains parcs participent à des programmes de reproduction d'espèces menacées, qui ont permis de réintroduire des animaux dans la nature. Sans eux, certaines espèces auraient disparu. La question n'est pas zoo ou pas zoo, mais quel zoo.
+Q: Quel argument l'homme oppose-t-il ?
++ Certains zoos contribuent à sauver des espèces menacées. | Programmes de reproduction et réintroduction.
+- Tous les zoos sont parfaits. | Il critique les « mauvais zoos ».
+- Les animaux préfèrent les cages. | Ce n'est pas dit.
+- Les espèces menacées n'existent pas. | Ce n'est pas dit.
+EXP: La dernière phrase reformule le débat (« La question n'est pas… mais… »).
+
+## CO 24 | C1 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Faut-il reconstruire les monuments détruits à l'identique ? / H: Cela dépend. Pour un monument très symbolique, la reconstruction à l'identique a du sens, elle répare une blessure collective. Mais l'histoire de l'architecture est aussi faite de couches successives. Figer un bâtiment dans un état idéal, c'est parfois effacer son histoire réelle.
+Q: Quelle est la position de l'architecte ?
++ Nuancée : cela dépend du monument et de son histoire. | « Cela dépend ».
+- Il faut toujours reconstruire à l'identique. | Il nuance.
+- Il ne faut jamais reconstruire. | Ce n'est pas dit.
+- L'histoire n'a pas d'importance. | C'est le contraire.
+EXP: « Figer » = immobiliser dans un état.
+
+## CO 25 | C1 | information radio | implicite | H:fr-FR
+DOC: H: L'entreprise a présenté son nouveau robot domestique, capable de plier le linge en seulement… quatre minutes par t-shirt. Un progrès qui devrait libérer un temps précieux, à condition de ne pas avoir trop de linge.
+Q: Quel est le ton du journaliste ?
++ Ironique. | Quatre minutes par t-shirt est très lent.
+- Enthousiaste. | Il se moque.
+- Neutre. | Il prend position.
+- Inquiet. | Ce n'est pas le cas.
+EXP: Les points de suspension et la condition finale soulignent l'ironie.
+
+## CE 1 | A2 | annonce | information précise
+DOC: Donne chatons de deux mois, propres et vaccinés, contre bons soins. Trois mâles et une femelle. Disponibles à partir du 15 mai. Appeler Martine au 06 98 76 54 32 le soir.
+Q: Combien coûtent les chatons ?
++ Ils sont donnés gratuitement. | « Donne chatons… contre bons soins ».
+- 15 euros. | 15 mai est la date.
+- 2 euros. | Ils ont deux mois.
+- Le prix n'est pas indiqué mais ils sont payants. | Ils sont donnés.
+EXP: « Contre bons soins » = gratuitement, si on s'en occupe bien.
+
+## CE 2 | A2 | message | information précise
+DOC: Salut Yanis, ce soir, je rentre tard du travail. Peux-tu sortir le chien vers 19 h ? Sa laisse est accrochée derrière la porte d'entrée. Merci, je te dois un service ! Sam
+Q: Où est la laisse ?
++ Derrière la porte d'entrée. | « Sa laisse est accrochée derrière la porte d'entrée ».
+- Dans la cuisine. | Ce n'est pas dit.
+- Dans la voiture. | Ce n'est pas dit.
+- Chez le voisin. | Ce n'est pas dit.
+EXP: Repérez l'indication de lieu.
+
+## CE 3 | A2 | affiche | information précise
+DOC: VISITE GUIDÉE DE LA VIEILLE VILLE – Tous les jours à 10 h et 15 h. Départ devant l'office de tourisme. Durée : 1 h 30. Adultes : 9 €, enfants : 5 €. Réservation conseillée en été.
+Q: Combien de temps dure la visite ?
++ Une heure et demie. | « Durée : 1 h 30 ».
+- Trois heures. | Ce n'est pas dit.
+- Une heure. | C'est 1 h 30.
+- Toute la journée. | Ce n'est pas dit.
+EXP: « 1 h 30 » = une heure et demie.
+
+## CE 4 | B1 | courriel | intention
+DOC: Bonjour, je suis propriétaire d'un petit restaurant et je souhaiterais créer un site internet avec un système de réservation en ligne. Pourriez-vous m'envoyer un devis et m'indiquer les délais de réalisation ? Je suis disponible pour un rendez-vous la semaine prochaine. Cordialement, Karima Saïdi
+Q: Que demande Karima ?
++ Un devis pour un site internet. | « Pourriez-vous m'envoyer un devis ».
+- Une réservation au restaurant. | Elle est propriétaire.
+- Un emploi. | Ce n'est pas dit.
+- Un prêt bancaire. | Ce n'est pas dit.
+EXP: « Devis » = estimation du prix avant les travaux.
+
+## CE 5 | B1 | article de presse | information globale
+DOC: Dans plusieurs villes, des « boîtes à livres » ont été installées dans les rues. Le principe est simple : chacun peut prendre un livre gratuitement ou en déposer un qu'il a déjà lu. Ces petites bibliothèques libres favorisent la lecture et les échanges entre habitants.
+Q: Quel est le principe des boîtes à livres ?
++ Prendre ou déposer des livres librement. | « chacun peut prendre un livre gratuitement ou en déposer un ».
+- Acheter des livres d'occasion. | C'est gratuit.
+- Rendre les livres de la bibliothèque. | Ce n'est pas dit.
+- Lire uniquement sur place. | Ce n'est pas dit.
+EXP: « Libre » = sans contrôle ni paiement.
+
+## CE 6 | B1 | lettre administrative | information précise
+DOC: Monsieur, nous vous rappelons que tout propriétaire de chien doit faire identifier son animal par puce électronique ou tatouage. Cette identification est obligatoire pour les chiens de plus de quatre mois. Elle permet de retrouver plus facilement un animal perdu.
+Q: À partir de quel âge l'identification est-elle obligatoire ?
++ Quatre mois. | « obligatoire pour les chiens de plus de quatre mois ».
+- Un an. | Ce n'est pas dit.
+- Dès la naissance. | Ce n'est pas dit.
+- Deux mois. | Ce n'est pas dit.
+EXP: Repérez la condition d'âge.
+
+## CE 7 | B1 | publicité | information précise
+DOC: Lancez votre entreprise avec CréaPro ! Accompagnement personnalisé pendant un an : rendez-vous mensuels avec un expert, aide au business plan et accès à notre réseau de partenaires. Premier rendez-vous gratuit et sans engagement.
+Q: Qu'est-ce qui est gratuit ?
++ Le premier rendez-vous. | « Premier rendez-vous gratuit ».
+- Tout l'accompagnement. | Seul le premier rendez-vous est gratuit.
+- Le business plan. | Ce n'est pas dit.
+- L'accès au réseau. | Ce n'est pas dit.
+EXP: Repérez ce qui est explicitement gratuit.
+
+## CE 8 | B1 | message professionnel | information précise
+DOC: Chers collaborateurs, un outil d'intelligence artificielle est désormais disponible pour vous aider à rédiger vos courriels. Attention : il est strictement interdit d'y saisir des informations confidentielles sur nos clients. Une formation de 30 minutes est obligatoire avant toute utilisation.
+Q: Que faut-il faire avant d'utiliser l'outil ?
++ Suivre une formation de 30 minutes. | « Une formation de 30 minutes est obligatoire ».
+- Saisir les informations des clients. | C'est interdit.
+- Demander l'accord du client. | Ce n'est pas dit.
+- Acheter une licence. | Ce n'est pas dit.
+EXP: Distinguez l'interdiction et l'obligation.
+
+## CE 9 | B1 | témoignage | opinion
+DOC: « J'ai ouvert ma boulangerie il y a deux ans. Les débuts ont été très durs : je travaillais quatorze heures par jour. Aujourd'hui, j'ai deux employés et mes clients sont fidèles. Je suis fatiguée, mais fière d'avoir réalisé mon rêve. » Inès, 36 ans.
+Q: Que ressent Inès ?
++ De la fierté malgré la fatigue. | « Je suis fatiguée, mais fière ».
+- Des regrets. | Ce n'est pas dit.
+- De l'ennui. | Ce n'est pas dit.
+- De la colère contre ses clients. | Ils sont fidèles.
+EXP: « Mais » oppose la fatigue et la fierté.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: De plus en plus de communes rurales rachètent leurs commerces fermés pour les louer à bas prix à de jeunes entrepreneurs. Boulangerie, épicerie, café : l'objectif est de maintenir des services de proximité et d'attirer de nouveaux habitants. Une stratégie qui porte ses fruits, même si elle représente un investissement important pour de petits budgets.
+Q: Quelle est la limite de cette stratégie ?
++ Elle coûte cher aux petites communes. | « elle représente un investissement important pour de petits budgets ».
+- Elle ne fonctionne pas. | Elle « porte ses fruits ».
+- Elle fait fuir les habitants. | Elle en attire.
+- Elle est interdite. | Ce n'est pas dit.
+EXP: « Porter ses fruits » = donner de bons résultats.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: On présente l'intelligence artificielle comme neutre et objective. Rien n'est plus faux. Les algorithmes apprennent à partir de données produites par des humains, avec leurs préjugés et leurs angles morts. Croire qu'une machine décide sans biais, c'est oublier qui l'a programmée et nourrie.
+Q: Quelle idée l'auteur conteste-t-il ?
++ L'idée que l'IA serait neutre. | « On présente l'IA comme neutre… Rien n'est plus faux ».
+- L'idée que les humains ont des préjugés. | Il l'admet.
+- L'utilité des données. | Ce n'est pas le propos.
+- L'existence des algorithmes. | Ce n'est pas le propos.
+EXP: « Rien n'est plus faux » = réfutation forte.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Madame, votre candidature au concours de jeunes créateurs a retenu toute notre attention. Nous avons le plaisir de vous annoncer que vous êtes lauréate du prix de l'innovation, doté de 10 000 euros.
+Q: Que signifie « lauréate » ?
++ gagnante d'un prix. | Elle reçoit le prix de l'innovation.
+- candidate refusée. | C'est le contraire.
+- membre du jury. | Ce n'est pas le sens.
+- spectatrice. | Ce n'est pas le sens.
+EXP: « Lauréat » = personne qui a remporté un prix. « Doté de » = accompagné de.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: Un village de Provence a mis en place un système de compteurs d'eau intelligents qui alertent les habitants en cas de consommation anormale. En un an, des centaines de fuites invisibles ont été détectées et réparées, permettant d'économiser 20 % de l'eau distribuée. Le dispositif sera étendu aux communes voisines.
+Q: Quel a été le principal résultat ?
++ La détection de nombreuses fuites et une économie d'eau. | Centaines de fuites et 20 % d'économie.
+- Une hausse du prix de l'eau. | Ce n'est pas dit.
+- La suppression des compteurs. | Ce n'est pas dit.
+- Une consommation en hausse. | Ce n'est pas dit.
+EXP: « Étendu à » = appliqué aussi à.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Monsieur, votre demande d'autorisation de travaux pour la modification de la façade de votre maison, située dans le périmètre d'un monument historique, a été transmise à l'architecte des Bâtiments de France. Son avis est obligatoire. Le délai d'instruction est porté à deux mois. Aucun travail ne doit commencer avant la décision.
+Q: Pourquoi le délai est-il de deux mois ?
++ Parce que l'avis d'un architecte spécialisé est obligatoire. | La maison est près d'un monument historique.
+- Parce que le dossier est incomplet. | Ce n'est pas dit.
+- Parce que les travaux sont interdits. | Ce n'est pas dit.
+- Parce que la mairie est fermée. | Ce n'est pas dit.
+EXP: « Être porté à » = être allongé jusqu'à.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: Les animaux de compagnie apportent un soutien affectif reconnu, notamment aux personnes âgées et isolées. Encore faut-il que leurs propriétaires puissent assumer les frais vétérinaires, parfois élevés. C'est pourquoi certaines associations proposent des soins à prix réduits pour les ménages modestes.
+Q: Pourquoi certaines associations proposent-elles des soins à prix réduits ?
++ Pour aider les ménages modestes à payer les frais vétérinaires. | « C'est pourquoi… pour les ménages modestes ».
+- Pour remplacer les vétérinaires. | Ce n'est pas dit.
+- Pour décourager l'adoption. | Ce n'est pas dit.
+- Pour vendre des animaux. | Ce n'est pas dit.
+EXP: « C'est pourquoi » introduit une conséquence.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: Le projet de transformation d'une ancienne usine en centre culturel divise la ville. La mairie y voit une manière de valoriser le patrimoine industriel. Une partie des habitants aurait préféré des logements sociaux, tandis que les artistes locaux applaudissent la création d'ateliers à loyer modéré.
+Q: Que préféreraient certains habitants ?
++ Des logements sociaux. | « Une partie des habitants aurait préféré des logements sociaux ».
+- Des ateliers d'artistes. | Ce sont les artistes qui les souhaitent.
+- La démolition de l'usine. | Ce n'est pas dit.
+- Un centre commercial. | Ce n'est pas dit.
+EXP: Le conditionnel passé « aurait préféré » exprime un regret.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: Le prêt d'honneur est un prêt personnel sans intérêts et sans garantie, accordé au créateur d'entreprise par des réseaux associatifs. Il permet de renforcer les fonds propres et facilite ainsi l'obtention d'un prêt bancaire complémentaire. Son montant varie généralement entre 3 000 et 50 000 euros.
+Q: Quel est l'avantage indirect du prêt d'honneur ?
++ Il facilite l'obtention d'un prêt bancaire. | « facilite ainsi l'obtention d'un prêt bancaire complémentaire ».
+- Il n'a pas besoin d'être remboursé. | C'est un prêt, il se rembourse.
+- Il est accordé par l'État. | Il est accordé par des réseaux associatifs.
+- Il a des intérêts élevés. | Il est sans intérêts.
+EXP: « Ainsi » introduit une conséquence.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « J'ai demandé à une IA de m'aider à écrire un discours pour le mariage de ma sœur. Le texte était parfait… à part qu'il félicitait chaleureusement "Kevin", alors que mon beau-frère s'appelle Mathieu. » Claire, 29 ans.
+Q: Que sous-entend Claire ?
++ Il faut toujours vérifier les textes produits par une IA. | L'IA a inventé un prénom.
+- L'IA a parfaitement fonctionné. | Elle a fait une erreur importante.
+- Son beau-frère s'appelle Kevin. | Il s'appelle Mathieu.
+- Elle n'a pas assisté au mariage. | Ce n'est pas dit.
+EXP: L'anecdote humoristique montre les limites de l'IA.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Faut-il interdire les animaux sauvages dans les cirques ? Les défenseurs de l'interdiction dénoncent des conditions de vie incompatibles avec les besoins de ces animaux. Les circassiens rétorquent que leurs animaux sont bien traités et que l'interdiction menace une tradition et des centaines d'emplois.
+Q: Quel argument avancent les circassiens ?
++ Leurs animaux sont bien traités et des emplois sont menacés. | Ce sont leurs arguments.
+- Les animaux souffrent. | C'est l'argument des défenseurs de l'interdiction.
+- Les cirques doivent fermer. | Ce n'est pas leur avis.
+- Les animaux sauvages sont dangereux. | Ce n'est pas dit.
+EXP: « Circassien » = professionnel du cirque.
+
+## CE 20 | B2 | article de presse | relation logique
+DOC: Les ventes de produits reconditionnés, comme les téléphones et ordinateurs remis à neuf, progressent fortement. Les consommateurs y trouvent des prix inférieurs de 30 à 50 % à ceux du neuf, ainsi qu'une garantie. Cette tendance contribue aussi à réduire les déchets électroniques.
+Q: Quel effet environnemental est mentionné ?
++ La réduction des déchets électroniques. | « contribue aussi à réduire les déchets électroniques ».
+- La hausse de la pollution. | Ce n'est pas dit.
+- La baisse de la consommation d'eau. | Ce n'est pas dit.
+- La disparition des produits neufs. | Ce n'est pas dit.
+EXP: « Reconditionné » = réparé et remis en état pour être revendu.
+
+## CE 21 | C1 | texte argumentatif | intention de l'auteur
+DOC: On a érigé l'entrepreneur en héros moderne, celui qui ose, innove et crée des emplois. Ce récit flatteur occulte une réalité moins glorieuse : une majorité de créateurs gagnent moins que le salaire minimum, travaillent sans filet de protection sociale et s'épuisent à la tâche. Célébrer l'audace sans en montrer le coût relève de la propagande douce.
+Q: Que dénonce l'auteur ?
++ Un discours qui embellit la réalité de l'entrepreneuriat. | « Ce récit flatteur occulte une réalité moins glorieuse ».
+- L'existence des entrepreneurs. | Ce n'est pas l'objet.
+- Le salaire minimum trop élevé. | Ce n'est pas dit.
+- Les créations d'emplois. | Ce n'est pas l'objet.
+EXP: « Propagande douce » = manipulation discrète par le discours.
+
+## CE 22 | C1 | article de presse | sens d'un mot en contexte
+DOC: Le projet de rénovation de la cathédrale a pris du plomb dans l'aile après la découverte d'un dépassement de budget de 40 %.
+Q: Que signifie « a pris du plomb dans l'aile » ?
++ a été sérieusement compromis. | Le dépassement de budget met le projet en difficulté.
+- a été accéléré. | Ce n'est pas le sens.
+- a été terminé. | Ce n'est pas le sens.
+- a reçu des financements. | Ce n'est pas le sens.
+EXP: Image de l'oiseau touché : « avoir du plomb dans l'aile » = être affaibli.
+
+## CE 23 | C1 | texte argumentatif | arguments contradictoires
+DOC: Pour certains, l'intelligence artificielle générative démocratise la création : chacun peut produire des images ou des textes sans formation. Pour d'autres, elle menace les artistes, dont les œuvres ont servi, sans leur accord, à entraîner ces outils. La question n'est donc pas seulement technique : elle est juridique et éthique.
+Q: Selon l'auteur, de quelle nature est la question ?
++ Juridique et éthique, pas seulement technique. | « elle est juridique et éthique ».
+- Uniquement technique. | « pas seulement technique ».
+- Purement économique. | Ce n'est pas dit.
+- Sans importance. | Ce n'est pas dit.
+EXP: La dernière phrase élargit le débat.
+
+## CE 24 | C1 | article de presse | sous-entendu
+DOC: La ville a dépensé 300 000 euros pour une campagne de communication vantant sa « gestion exemplaire de l'eau ». Au même moment, les habitants de deux quartiers étaient privés d'eau potable pendant une semaine à cause d'une canalisation vétuste.
+Q: Que suggère le journaliste ?
++ La ville privilégie son image plutôt que l'entretien du réseau. | Contraste entre la campagne et la canalisation vétuste.
+- La gestion de l'eau est exemplaire. | Le contraste montre le contraire.
+- Les habitants ont refusé l'eau potable. | Ce n'est pas dit.
+- La campagne était gratuite. | Elle a coûté 300 000 €.
+EXP: « Vétuste » = vieux, en mauvais état.
+
+## CE 25 | C1 | document informatif | compréhension globale
+DOC: Le règlement européen sur l'intelligence artificielle classe les systèmes selon leur niveau de risque. Ceux présentant un risque « inacceptable », comme la notation sociale des citoyens, sont interdits. Les systèmes à haut risque, utilisés par exemple dans le recrutement ou l'accès au crédit, sont soumis à des obligations strictes de transparence et de contrôle humain.
+Q: Que prévoit le règlement pour les systèmes utilisés dans le recrutement ?
++ Des obligations de transparence et de contrôle humain. | Ils sont classés « à haut risque ».
+- Une interdiction totale. | Seuls les risques inacceptables sont interdits.
+- Aucune obligation. | Ils ont des obligations strictes.
+- Une notation sociale. | C'est un exemple de risque inacceptable.
+EXP: Repérez les catégories de risque et les règles associées.
+
+## EE 1 | A2 | décrire une personne
+CONSIGNE: Vous cherchez quelqu'un pour garder votre chien pendant vos vacances. Vous écrivez une annonce pour décrire votre chien et ses habitudes (30 à 60 mots).
+MODELE: Cherche personne pour garder mon chien du 1er au 15 août. Rocky est un labrador marron de cinq ans, très gentil et calme. Il adore les enfants et s'entend bien avec les chats. Il doit sortir trois fois par jour et mange le matin et le soir. Je fournis la nourriture. Contactez-moi au 06 11 22 33 44.
+POINTS: objet de l'annonce ; description physique ; caractère ; habitudes ; contact
+CONSEILS: Une annonce est concise : phrases courtes, informations essentielles.
+
+## EE 2 | B1 | décrire un événement
+CONSIGNE: Vous avez visité un monument ou un musée lors des Journées du patrimoine. Vous racontez votre visite sur votre blog (40 à 90 mots).
+MODELE: Samedi, à l'occasion des Journées du patrimoine, j'ai enfin pu visiter l'hôtel de ville, habituellement fermé au public. Un guide passionné nous a fait découvrir la grande salle des fêtes, avec ses plafonds peints du XIXe siècle et ses lustres immenses. Nous avons même pu entrer dans le bureau du maire ! J'ai appris beaucoup d'anecdotes sur l'histoire de la ville. Il y avait du monde, mais l'attente valait vraiment la peine. Je vous recommande cette visite !
+POINTS: contexte ; description du lieu ; moments marquants ; impression ; recommandation
+CONSEILS: Utilisez « valoir la peine » et des adjectifs descriptifs.
+
+## EE 3 | B2 | argumenter sur un sujet de société
+CONSIGNE: « L'intelligence artificielle devrait être interdite à l'école. » Vous réagissez à cette affirmation dans un forum de parents d'élèves (40 à 90 mots).
+MODELE: Je ne partage pas cet avis. Interdire l'intelligence artificielle me semble à la fois irréaliste et contre-productif, car les élèves l'utiliseront de toute façon chez eux. Il vaudrait mieux leur apprendre à s'en servir de manière critique : vérifier les informations, repérer les erreurs, comprendre ses limites. Par ailleurs, certains exercices devraient être réalisés en classe, sans écran. En définitive, l'école a pour mission de préparer les enfants au monde qui les attend, pas de le leur cacher.
+POINTS: position claire ; arguments ; proposition ; conclusion forte
+CONSEILS: Une conclusion percutante peut opposer deux idées (« préparer… pas cacher »).
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous pose des questions sur vos projets, vos centres d'intérêt et votre usage des technologies.
+RELANCES: Avez-vous un animal de compagnie ? / Quels sont vos projets professionnels ? / Aimeriez-vous créer votre propre entreprise ? / Utilisez-vous l'intelligence artificielle ? Pour quoi faire ? / Quel monument aimeriez-vous visiter ? / Que faites-vous pour protéger l'environnement ?
+PHRASES: J'ai un… qui s'appelle… / Mon projet, c'est de… / J'aimerais un jour… / J'utilise… pour… / Je fais attention à…
+MODELE: Je n'ai pas d'animal pour le moment, mais j'aimerais adopter un chat. Mon projet professionnel, c'est de devenir chef de projet dans le numérique. Un jour, j'aimerais peut-être créer ma propre entreprise de formation. J'utilise parfois l'intelligence artificielle pour traduire des textes ou trouver des idées. J'aimerais beaucoup visiter le Mont-Saint-Michel.
+
+## EO 2 | B2 | Négocier un service | Responsable d'une salle de réception
+SCENARIO: Vous organisez une fête de famille pour 60 personnes. L'examinateur joue le rôle du responsable d'une salle de réception. Posez des questions sur la capacité, les tarifs, les horaires, la décoration, le traiteur, et négociez.
+RELANCES: Bonjour, pour quelle date ? / La salle coûte 1 200 euros pour la soirée. / Il faut libérer la salle à minuit. / Nous travaillons uniquement avec notre traiteur. / Le ménage est en supplément. / Que décidez-vous ?
+PHRASES: Nous serons environ… / Est-ce que le prix comprend… ? / Serait-il possible de prolonger… ? / Nous préférerions… / Si vous faites un geste sur…, nous…
+MODELE: Bonjour, nous organisons les soixante-dix ans de mon père, le samedi 14 juin, pour environ soixante personnes. 1 200 euros, est-ce que cela comprend les tables, les chaises et la sono ? Minuit, c'est un peu tôt pour une fête de famille : serait-il possible de prolonger jusqu'à deux heures ? Nous aurions préféré choisir notre traiteur. Si vous incluez le ménage, nous signons aujourd'hui.
+
+## EO 3 | B2 | L'intelligence artificielle : progrès ou menace ? | Examinateur
+SCENARIO: Donnez votre opinion : « L'intelligence artificielle est-elle plutôt un progrès ou une menace pour notre société ? » Argumentez, donnez des exemples, nuancez et concluez.
+RELANCES: Quelle est votre opinion ? / Dans quels domaines l'IA est-elle utile ? / Quels risques voyez-vous ? / Faut-il l'encadrer ? / Votre conclusion ?
+PHRASES: À mon sens… / Tout d'abord… / Par ailleurs… / Il serait réducteur de… / En tenant compte de ces différents éléments…
+MODELE: À mon sens, l'intelligence artificielle est avant tout un outil, ni bon ni mauvais en soi. Tout d'abord, elle apporte de réels progrès, par exemple en médecine pour détecter certaines maladies plus tôt. Par ailleurs, elle facilite des tâches répétitives. Cependant, il serait réducteur d'ignorer les risques : fausses informations, surveillance, suppression d'emplois. En tenant compte de ces éléments, je pense qu'elle représente un progrès, à condition d'être strictement encadrée par la loi.
