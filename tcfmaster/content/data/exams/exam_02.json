@@ -1,0 +1,1974 @@
+{
+ "code": "EXAM-02",
+ "title": "Examen blanc n° 2 – Santé, loisirs et société",
+ "level": "B2",
+ "description": "Examen complet calibré B1–B2 : santé, sport, banque, école, culture, consommation.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Le magasin fermera ses portes dans quinze minutes. Nous invitons notre aimable clientèle à se diriger vers les caisses. Merci de votre visite et à demain.",
+   "prompt": "Que doivent faire les clients ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Revenir dans quinze minutes.",
+     "correct": false,
+     "rationale": "Le magasin ferme dans quinze minutes."
+    },
+    {
+     "label": "B",
+     "text": "Revenir le lendemain pour payer.",
+     "correct": false,
+     "rationale": "Ils doivent payer maintenant."
+    },
+    {
+     "label": "C",
+     "text": "Aller payer leurs achats.",
+     "correct": true,
+     "rationale": "« se diriger vers les caisses »."
+    },
+    {
+     "label": "D",
+     "text": "Attendre l'ouverture des caisses.",
+     "correct": false,
+     "rationale": "Les caisses sont déjà ouvertes."
+    }
+   ],
+   "explanation": "« Se diriger vers les caisses » signifie aller payer. Le message annonce une fermeture imminente : les clients doivent terminer leurs achats.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "H: Allô Nadia, c'est Hugo. Je suis devant le restaurant, mais il est fermé ! Il y a un panneau : « Fermé pour congés ». On se retrouve plutôt à la pizzeria en face de la poste ? Rappelle-moi vite.",
+   "prompt": "Où Hugo propose-t-il d'aller ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À la poste.",
+     "correct": false,
+     "rationale": "La poste sert seulement de repère."
+    },
+    {
+     "label": "B",
+     "text": "À la pizzeria en face de la poste.",
+     "correct": true,
+     "rationale": "« On se retrouve plutôt à la pizzeria en face de la poste ? »"
+    },
+    {
+     "label": "C",
+     "text": "Chez Nadia.",
+     "correct": false,
+     "rationale": "Il ne propose pas d'aller chez elle."
+    },
+    {
+     "label": "D",
+     "text": "Au restaurant prévu.",
+     "correct": false,
+     "rationale": "Il est fermé pour congés."
+    }
+   ],
+   "explanation": "« Plutôt » introduit une alternative. « En face de la poste » est un repère de lieu, pas la destination.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "F: Bonjour, je voudrais un kilo de tomates et des fraises, s'il vous plaît. / H: Les fraises sont à quatre euros la barquette. / F: Oh, c'est un peu cher… Juste les tomates alors. / H: Voilà, ça fait deux euros cinquante.",
+   "prompt": "Qu'achète la cliente ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Des tomates et des fraises.",
+     "correct": false,
+     "rationale": "Elle renonce aux fraises."
+    },
+    {
+     "label": "B",
+     "text": "Seulement des fraises.",
+     "correct": false,
+     "rationale": "Elle trouve les fraises trop chères."
+    },
+    {
+     "label": "C",
+     "text": "Une barquette de fraises à deux euros cinquante.",
+     "correct": false,
+     "rationale": "2,50 € est le prix des tomates."
+    },
+    {
+     "label": "D",
+     "text": "Seulement des tomates.",
+     "correct": true,
+     "rationale": "« Juste les tomates alors »."
+    }
+   ],
+   "explanation": "La cliente change d'avis après avoir entendu le prix : « c'est un peu cher… juste les tomates ». Le dernier choix exprimé est celui qui compte.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "H: Tu as l'air fatiguée. / F: Oui, je dors mal depuis que les voisins ont un chien. Il aboie toute la nuit. / H: Tu devrais aller leur parler, gentiment. Ils ne s'en rendent peut-être pas compte. / F: Tu as raison, j'irai ce soir.",
+   "prompt": "Que conseille l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De déménager.",
+     "correct": false,
+     "rationale": "Ce n'est pas proposé."
+    },
+    {
+     "label": "B",
+     "text": "D'appeler la police.",
+     "correct": false,
+     "rationale": "Ce n'est pas proposé."
+    },
+    {
+     "label": "C",
+     "text": "D'acheter un chien.",
+     "correct": false,
+     "rationale": "Le chien appartient aux voisins."
+    },
+    {
+     "label": "D",
+     "text": "D'aller discuter calmement avec les voisins.",
+     "correct": true,
+     "rationale": "« Tu devrais aller leur parler, gentiment »."
+    }
+   ],
+   "explanation": "« Tu devrais + infinitif » (conditionnel de devoir) sert à donner un conseil. « Gentiment » indique la manière : sans conflit.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-CA"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "F: Bonjour Monsieur Benali, ici Isabelle Morin, du service des ressources humaines. Votre candidature pour le poste de comptable a retenu notre attention. Nous aimerions vous rencontrer mardi prochain à 15 heures. Merci d'apporter vos diplômes et une pièce d'identité. Pouvez-vous me confirmer votre présence par courriel ?",
+   "prompt": "Que doit faire M. Benali pour répondre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Envoyer ses diplômes à l'avance.",
+     "correct": false,
+     "rationale": "Il doit les apporter à l'entretien."
+    },
+    {
+     "label": "B",
+     "text": "Envoyer un courriel de confirmation.",
+     "correct": true,
+     "rationale": "« Pouvez-vous me confirmer votre présence par courriel ? »"
+    },
+    {
+     "label": "C",
+     "text": "Rappeler le service par téléphone.",
+     "correct": false,
+     "rationale": "La confirmation se fait par courriel."
+    },
+    {
+     "label": "D",
+     "text": "Se présenter mardi sans prévenir.",
+     "correct": false,
+     "rationale": "Une confirmation est demandée."
+    }
+   ],
+   "explanation": "Le message contient plusieurs informations (date, documents, confirmation). La question porte sur la réponse attendue : un courriel.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information précise",
+   "document": "H: Bonne nouvelle pour les amateurs de musique : le festival des Nuits d'été revient du 12 au 15 juillet. Cette année, les concerts du jeudi et du vendredi seront gratuits pour les moins de vingt-cinq ans. Les billets pour le week-end sont déjà en vente sur le site du festival.",
+   "prompt": "Qui pourra assister gratuitement à certains concerts ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Tous les spectateurs le week-end.",
+     "correct": false,
+     "rationale": "Les billets du week-end sont payants."
+    },
+    {
+     "label": "B",
+     "text": "Les jeunes de moins de vingt-cinq ans.",
+     "correct": true,
+     "rationale": "Les concerts du jeudi et du vendredi sont gratuits pour eux."
+    },
+    {
+     "label": "C",
+     "text": "Les personnes qui achètent sur Internet.",
+     "correct": false,
+     "rationale": "Le site sert à acheter, pas à obtenir la gratuité."
+    },
+    {
+     "label": "D",
+     "text": "Les habitants de la ville.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "La gratuité est limitée par deux conditions : l'âge (moins de 25 ans) et les jours (jeudi et vendredi).",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous avez appris le piano à cinquante ans. Ce n'était pas trop difficile ? / H: Si, au début, mes doigts ne m'obéissaient pas ! Mais j'ai eu une professeure très patiente. Aujourd'hui, je joue tous les soirs une demi-heure. C'est mon moment à moi, ça m'aide à oublier le stress du travail.",
+   "prompt": "Que représente le piano pour cet homme aujourd'hui ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une activité trop difficile pour lui.",
+     "correct": false,
+     "rationale": "C'était difficile au début seulement."
+    },
+    {
+     "label": "B",
+     "text": "Une source de stress.",
+     "correct": false,
+     "rationale": "Au contraire, il l'aide à se détendre."
+    },
+    {
+     "label": "C",
+     "text": "Une nouvelle profession.",
+     "correct": false,
+     "rationale": "Il a toujours son travail."
+    },
+    {
+     "label": "D",
+     "text": "Un moment de détente quotidien.",
+     "correct": true,
+     "rationale": "« C'est mon moment à moi, ça m'aide à oublier le stress »."
+    }
+   ],
+   "explanation": "« Si » répond affirmativement à une question négative. Le passage du passé (« au début ») au présent (« aujourd'hui ») montre l'évolution.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Attention : en raison d'une manifestation, la ligne de bus numéro 4 ne desservira pas les arrêts « Hôtel de ville » et « Cathédrale » entre 14 h et 18 h. Un arrêt provisoire est installé rue des Lilas. Nous vous remercions de votre compréhension.",
+   "prompt": "Que se passe-t-il cet après-midi ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La rue des Lilas est fermée.",
+     "correct": false,
+     "rationale": "Un arrêt provisoire y est installé."
+    },
+    {
+     "label": "B",
+     "text": "Le bus 4 ne s'arrête pas à deux arrêts habituels.",
+     "correct": true,
+     "rationale": "Il ne dessert pas « Hôtel de ville » et « Cathédrale »."
+    },
+    {
+     "label": "C",
+     "text": "La ligne 4 est totalement supprimée.",
+     "correct": false,
+     "rationale": "Seuls deux arrêts sont concernés."
+    },
+    {
+     "label": "D",
+     "text": "Les bus sont gratuits.",
+     "correct": false,
+     "rationale": "Rien n'est dit sur le prix."
+    }
+   ],
+   "explanation": "« Desservir un arrêt » = s'y arrêter. L'arrêt provisoire remplace les arrêts supprimés pendant la manifestation.",
+   "speakers": [
+    "F:fr-CH"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "situation administrative",
+   "skill": "information précise",
+   "document": "F: Bonjour, j'ai perdu ma carte bancaire. / H: Vous l'avez fait opposer ? / F: Non, pas encore. / H: Il faut le faire tout de suite : appelez le numéro au dos de votre chéquier ou utilisez l'application. Ensuite, nous vous commanderons une nouvelle carte. Vous la recevrez sous une semaine.",
+   "prompt": "Quelle est la première chose que la cliente doit faire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Attendre une semaine.",
+     "correct": false,
+     "rationale": "C'est le délai de réception de la nouvelle carte."
+    },
+    {
+     "label": "B",
+     "text": "Commander une nouvelle carte.",
+     "correct": false,
+     "rationale": "Ce sera fait « ensuite »."
+    },
+    {
+     "label": "C",
+     "text": "Changer de banque.",
+     "correct": false,
+     "rationale": "Ce n'est pas évoqué."
+    },
+    {
+     "label": "D",
+     "text": "Faire bloquer sa carte.",
+     "correct": true,
+     "rationale": "« Il faut le faire tout de suite » : faire opposition."
+    }
+   ],
+   "explanation": "« Faire opposition » = bloquer une carte perdue ou volée. Les marqueurs « tout de suite » et « ensuite » indiquent l'ordre des étapes.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "conversation professionnelle",
+   "skill": "information précise",
+   "document": "H: Le salon de l'emploi, c'est jeudi. On y va en voiture ? / F: Non, c'est impossible de se garer là-bas. Prenons le train de 7 h 40, on arrivera à l'ouverture. / H: D'accord, et pour les brochures ? / F: Je les ai fait imprimer, je les apporte.",
+   "prompt": "Comment iront-ils au salon ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "En bus.",
+     "correct": false,
+     "rationale": "Le bus n'est pas évoqué."
+    },
+    {
+     "label": "B",
+     "text": "En train.",
+     "correct": true,
+     "rationale": "« Prenons le train de 7 h 40 »."
+    },
+    {
+     "label": "C",
+     "text": "À pied.",
+     "correct": false,
+     "rationale": "Ce n'est pas évoqué."
+    },
+    {
+     "label": "D",
+     "text": "En voiture.",
+     "correct": false,
+     "rationale": "Elle refuse : impossible de se garer."
+    }
+   ],
+   "explanation": "La proposition de l'homme est refusée (« Non, c'est impossible… ») et remplacée par celle de la femme, introduite par l'impératif « Prenons ».",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-BE"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "opinion",
+   "document": "H: Le sport à l'école, deux heures par semaine, c'est largement suffisant. / F: Vous plaisantez ? Avec la sédentarité des enfants aujourd'hui, c'est le minimum ! Et il ne s'agit pas seulement de santé : le sport apprend à perdre, à coopérer, à respecter des règles. Je serais même favorable à une heure par jour.",
+   "prompt": "Quelle est la position de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle pense que deux heures suffisent.",
+     "correct": false,
+     "rationale": "Elle dit que c'est « le minimum »."
+    },
+    {
+     "label": "B",
+     "text": "Elle veut supprimer le sport à l'école.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "Elle souhaite augmenter le temps de sport à l'école.",
+     "correct": true,
+     "rationale": "« Je serais même favorable à une heure par jour »."
+    },
+    {
+     "label": "D",
+     "text": "Elle estime que le sport est uniquement une question de santé.",
+     "correct": false,
+     "rationale": "« Il ne s'agit pas seulement de santé »."
+    }
+   ],
+   "explanation": "« Vous plaisantez ? » marque un désaccord fort. « Ne… pas seulement » ajoute des arguments éducatifs. « Même » renforce la proposition finale.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "H: Les pharmacies alertent sur des difficultés d'approvisionnement en certains antibiotiques pour enfants. Les autorités sanitaires assurent qu'il n'y a pas de pénurie générale, mais recommandent aux médecins de privilégier, lorsque c'est possible, d'autres formes de traitement, comme les comprimés à écraser.",
+   "prompt": "Quel est le sujet de cette information ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La fermeture de pharmacies.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "B",
+     "text": "Des tensions sur certains médicaments pour enfants.",
+     "correct": true,
+     "rationale": "« difficultés d'approvisionnement en certains antibiotiques pour enfants »."
+    },
+    {
+     "label": "C",
+     "text": "Un nouveau médicament pour enfants.",
+     "correct": false,
+     "rationale": "Il s'agit de médicaments existants."
+    },
+    {
+     "label": "D",
+     "text": "Une pénurie générale de médicaments.",
+     "correct": false,
+     "rationale": "Les autorités disent qu'il n'y a pas de pénurie générale."
+    }
+   ],
+   "explanation": "« Approvisionnement » = livraison de stocks. La nuance « pas de pénurie générale, mais… » limite le problème à certains produits.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "F: Vous êtes boulanger et vous avez décidé de fermer le lundi et le mardi. Pourquoi ? / H: J'ai calculé que ces deux jours représentaient à peine dix pour cent de mes ventes. En fermant, je garde la même qualité les autres jours, mon équipe se repose, et franchement, les clients se sont adaptés en quelques semaines.",
+   "prompt": "Pourquoi le boulanger a-t-il décidé de fermer deux jours ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ses clients le lui ont demandé.",
+     "correct": false,
+     "rationale": "Les clients se sont adaptés, ils n'ont rien demandé."
+    },
+    {
+     "label": "B",
+     "text": "Ces jours rapportaient peu et la fermeture améliore les conditions de travail.",
+     "correct": true,
+     "rationale": "Faibles ventes (10 %) et repos de l'équipe."
+    },
+    {
+     "label": "C",
+     "text": "Il manquait de farine.",
+     "correct": false,
+     "rationale": "Ce n'est pas évoqué."
+    },
+    {
+     "label": "D",
+     "text": "Il voulait augmenter ses prix.",
+     "correct": false,
+     "rationale": "Les prix ne sont pas mentionnés."
+    }
+   ],
+   "explanation": "Deux raisons sont données : économique (« à peine dix pour cent ») et humaine (« mon équipe se repose »). « À peine » = presque pas, très peu.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-CA"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "message téléphonique",
+   "skill": "implicite",
+   "document": "H: Bonjour Madame Lopez, c'est Julien, du garage. Bon, j'ai regardé votre voiture… Les freins, c'est fait. Par contre, j'ai remarqué autre chose au niveau du moteur. Je préfère vous en parler de vive voix avant de commander la pièce, parce que… enfin, ce n'est pas donné. Passez quand vous pouvez.",
+   "prompt": "Que laisse comprendre le garagiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une réparation supplémentaire risque de coûter cher.",
+     "correct": true,
+     "rationale": "« ce n'est pas donné » = c'est cher."
+    },
+    {
+     "label": "B",
+     "text": "La voiture est prête et sans problème.",
+     "correct": false,
+     "rationale": "Il a découvert un problème au moteur."
+    },
+    {
+     "label": "C",
+     "text": "Les freins n'ont pas pu être réparés.",
+     "correct": false,
+     "rationale": "« Les freins, c'est fait »."
+    },
+    {
+     "label": "D",
+     "text": "Il a déjà commandé la pièce.",
+     "correct": false,
+     "rationale": "Il veut en parler « avant de commander »."
+    }
+   ],
+   "explanation": "« Ce n'est pas donné » est une litote pour « c'est cher ». Les hésitations (« parce que… enfin ») et le choix de parler « de vive voix » suggèrent une mauvaise nouvelle.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "relation logique",
+   "document": "F: Les inscriptions à la formation ont chuté de moitié cette année. / H: Ça ne m'étonne pas. Depuis qu'on l'a rendue payante pour les salariés, beaucoup y ont renoncé. Ce n'est pas le contenu qui pose problème, les évaluations sont excellentes. / F: Alors il faudrait convaincre la direction de revenir sur cette décision.",
+   "prompt": "Pourquoi les inscriptions ont-elles baissé, selon l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que les salariés manquent de temps.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "Parce que la formation est devenue payante.",
+     "correct": true,
+     "rationale": "« Depuis qu'on l'a rendue payante… beaucoup y ont renoncé »."
+    },
+    {
+     "label": "C",
+     "text": "Parce que la direction l'a supprimée.",
+     "correct": false,
+     "rationale": "Elle existe toujours."
+    },
+    {
+     "label": "D",
+     "text": "Parce que le contenu est mauvais.",
+     "correct": false,
+     "rationale": "Les évaluations sont excellentes."
+    }
+   ],
+   "explanation": "« Depuis que » introduit une cause qui dure. La phrase « ce n'est pas le contenu qui pose problème » écarte une autre explication.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "H: Votre application aide les gens à moins gaspiller. Comment ça marche ? / F: Les commerçants proposent, en fin de journée, leurs invendus à prix réduit dans des paniers surprises. Le client ne choisit pas exactement ce qu'il aura, mais il paie environ un tiers du prix. Tout le monde y gagne : le commerçant récupère un peu d'argent, et la nourriture n'est pas jetée.",
+   "prompt": "Quelle est la particularité des paniers proposés ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils contiennent uniquement des produits frais du matin.",
+     "correct": false,
+     "rationale": "Ce sont des invendus de fin de journée."
+    },
+    {
+     "label": "B",
+     "text": "Le client ne sait pas exactement ce qu'ils contiennent.",
+     "correct": true,
+     "rationale": "« Le client ne choisit pas exactement ce qu'il aura »."
+    },
+    {
+     "label": "C",
+     "text": "Ils sont gratuits.",
+     "correct": false,
+     "rationale": "Le client paie environ un tiers du prix."
+    },
+    {
+     "label": "D",
+     "text": "Ils sont livrés à domicile.",
+     "correct": false,
+     "rationale": "La livraison n'est pas évoquée."
+    }
+   ],
+   "explanation": "« Panier surprise » et « ne choisit pas exactement » se répondent. « Invendus » = produits non vendus. « Tout le monde y gagne » résume l'intérêt.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Le musée des Beaux-Arts informe ses visiteurs que l'exposition « Lumières du Nord » est prolongée jusqu'au 30 novembre en raison de son succès. Afin de limiter l'attente, la réservation d'un créneau horaire est désormais obligatoire le week-end, y compris pour les détenteurs du pass annuel.",
+   "prompt": "Qui doit réserver le week-end ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Tous les visiteurs, y compris ceux qui ont un pass annuel.",
+     "correct": true,
+     "rationale": "« y compris pour les détenteurs du pass annuel »."
+    },
+    {
+     "label": "B",
+     "text": "Uniquement les visiteurs sans pass.",
+     "correct": false,
+     "rationale": "« Y compris » inclut aussi les détenteurs du pass."
+    },
+    {
+     "label": "C",
+     "text": "Seulement les groupes.",
+     "correct": false,
+     "rationale": "Les groupes ne sont pas mentionnés."
+    },
+    {
+     "label": "D",
+     "text": "Personne, la réservation est facultative.",
+     "correct": false,
+     "rationale": "Elle est « désormais obligatoire »."
+    }
+   ],
+   "explanation": "« Y compris » = également, inclus. Ne confondez pas avec « sauf » ou « excepté ». « Créneau horaire » = plage horaire réservée.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: Le nombre d'apprentis a atteint un niveau record cette année. Les aides financières versées aux entreprises qui recrutent un apprenti y sont pour beaucoup. Reste à savoir si ce mouvement résistera à la baisse de ces aides, prévue pour l'an prochain.",
+   "prompt": "Quelle inquiétude le journaliste exprime-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les apprentis abandonnent leur formation.",
+     "correct": false,
+     "rationale": "Ce n'est pas évoqué."
+    },
+    {
+     "label": "B",
+     "text": "Les aides vont augmenter l'an prochain.",
+     "correct": false,
+     "rationale": "Elles vont baisser."
+    },
+    {
+     "label": "C",
+     "text": "Les entreprises refusent les apprentis.",
+     "correct": false,
+     "rationale": "Elles en recrutent un nombre record."
+    },
+    {
+     "label": "D",
+     "text": "La hausse pourrait ne pas durer après la réduction des aides.",
+     "correct": true,
+     "rationale": "« Reste à savoir si ce mouvement résistera à la baisse de ces aides »."
+    }
+   ],
+   "explanation": "« Y être pour beaucoup » = être une cause importante. « Reste à savoir si » exprime un doute sur l'avenir.",
+   "speakers": [
+    "H:fr-BE"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "F: On devrait taxer davantage les produits trop sucrés. / H: Taxer, c'est toujours pénaliser les plus modestes, qui consomment justement ces produits bon marché. Je préférerais qu'on oblige les industriels à réduire le sucre dans leurs recettes. Là, tout le monde en profiterait sans payer plus.",
+   "prompt": "Que propose l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Imposer aux fabricants de réduire le sucre.",
+     "correct": true,
+     "rationale": "« Je préférerais qu'on oblige les industriels à réduire le sucre »."
+    },
+    {
+     "label": "B",
+     "text": "Baisser le prix des produits sucrés.",
+     "correct": false,
+     "rationale": "Ce n'est pas sa proposition."
+    },
+    {
+     "label": "C",
+     "text": "Augmenter la taxe sur les produits sucrés.",
+     "correct": false,
+     "rationale": "Il s'y oppose."
+    },
+    {
+     "label": "D",
+     "text": "Interdire les produits sucrés.",
+     "correct": false,
+     "rationale": "Il ne propose pas d'interdiction."
+    }
+   ],
+   "explanation": "L'argument contre la taxe (elle pénalise les modestes) est suivi d'une contre-proposition au conditionnel « Je préférerais que + subjonctif ».",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-CH"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "implicite",
+   "document": "H: Vous avez été élue meilleure entraîneuse de l'année. Vous vous y attendiez ? / F: Honnêtement, non. Il y a deux ans, on me disait que mon équipe était trop jeune pour viser quoi que ce soit. Je crois que mes joueuses ont pris ça comme un défi personnel. Je ne remercierai jamais assez ceux qui ont douté de nous.",
+   "prompt": "Qu'exprime l'entraîneuse dans sa dernière phrase ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une profonde gratitude envers ses dirigeants.",
+     "correct": false,
+     "rationale": "Il ne s'agit pas de ses dirigeants."
+    },
+    {
+     "label": "B",
+     "text": "Une forme d'ironie envers ceux qui ne croyaient pas en l'équipe.",
+     "correct": true,
+     "rationale": "Les critiques ont motivé l'équipe : elle les « remercie » ironiquement."
+    },
+    {
+     "label": "C",
+     "text": "Des regrets pour les années passées.",
+     "correct": false,
+     "rationale": "Rien n'exprime des regrets."
+    },
+    {
+     "label": "D",
+     "text": "De la colère contre ses joueuses.",
+     "correct": false,
+     "rationale": "Elle les félicite implicitement."
+    }
+   ],
+   "explanation": "Remercier « ceux qui ont douté » est paradoxal : leurs doutes ont servi de motivation. C'est une remarque ironique et triomphante.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "F: La ville expérimente depuis septembre des « rues aux écoles » : aux heures d'entrée et de sortie des classes, la circulation automobile est interdite devant les établissements. Premier bilan : une qualité de l'air nettement améliorée aux abords des écoles, mais un report du trafic sur les rues adjacentes, dont les riverains commencent à se plaindre.",
+   "prompt": "Quel effet négatif est signalé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les écoles ont changé leurs horaires.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "La qualité de l'air s'est dégradée devant les écoles.",
+     "correct": false,
+     "rationale": "Elle s'est améliorée."
+    },
+    {
+     "label": "C",
+     "text": "Les parents ne peuvent plus accompagner leurs enfants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "La circulation s'est déplacée vers les rues voisines.",
+     "correct": true,
+     "rationale": "« un report du trafic sur les rues adjacentes »."
+    }
+   ],
+   "explanation": "« Report » = déplacement. « Adjacentes » = voisines, qui touchent. « Riverains » = habitants d'une rue. La structure « premier bilan : X, mais Y » présente l'avantage puis l'inconvénient.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "H: Madame Petit, je vous ai fait venir parce que plusieurs clients se sont plaints de délais de réponse trop longs dans votre service. / F: Je comprends, mais nous sommes deux à traiter le travail de quatre depuis le départ de nos collègues. / H: Je l'entends. Je vais voir ce que je peux faire pour un renfort temporaire.",
+   "prompt": "Comment réagit le responsable à l'explication de Mme Petit ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il lui demande de travailler plus vite.",
+     "correct": false,
+     "rationale": "Ce n'est pas sa réponse."
+    },
+    {
+     "label": "B",
+     "text": "Il lui annonce le retour de ses collègues.",
+     "correct": false,
+     "rationale": "Il parle d'un renfort temporaire."
+    },
+    {
+     "label": "C",
+     "text": "Il la prend en compte et envisage une aide.",
+     "correct": true,
+     "rationale": "« Je l'entends. Je vais voir… pour un renfort temporaire »."
+    },
+    {
+     "label": "D",
+     "text": "Il la rejette et la sanctionne.",
+     "correct": false,
+     "rationale": "Il ne la sanctionne pas."
+    }
+   ],
+   "explanation": "« Je l'entends » = je comprends et je prends en compte. « Renfort » = personnel supplémentaire. Le reproche initial se transforme en recherche de solution.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "H: Le vote obligatoire réglerait le problème de l'abstention. / F: Il réglerait le symptôme, pas la cause. Forcer les gens à se rendre aux urnes ne les rendra pas plus confiants envers leurs représentants. Si l'on veut que les citoyens votent, il faut d'abord qu'ils aient le sentiment que leur voix compte réellement.",
+   "prompt": "Quel est l'argument de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'obligation ne traite pas la vraie raison de l'abstention.",
+     "correct": true,
+     "rationale": "« Il réglerait le symptôme, pas la cause »."
+    },
+    {
+     "label": "B",
+     "text": "Le vote obligatoire existe déjà.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "L'abstention n'est pas un problème.",
+     "correct": false,
+     "rationale": "Elle ne nie pas le problème."
+    },
+    {
+     "label": "D",
+     "text": "Les citoyens font trop confiance aux élus.",
+     "correct": false,
+     "rationale": "Elle évoque un manque de confiance."
+    }
+   ],
+   "explanation": "L'opposition symptôme/cause est une image médicale courante dans l'argumentation. La condition « il faut d'abord que + subjonctif » donne la vraie solution selon elle.",
+   "speakers": [
+    "F:fr-CA",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous êtes urbaniste. Les villes doivent-elles se densifier ? / H: La densité fait peur, on l'associe aux grands ensembles des années soixante. Pourtant, une ville dense bien conçue, avec des espaces verts et des services de proximité, consomme moins de terres agricoles et permet de se passer de voiture. Le véritable enjeu n'est pas la densité elle-même, mais sa qualité.",
+   "prompt": "Quelle est l'opinion de l'urbaniste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les villes devraient supprimer les espaces verts.",
+     "correct": false,
+     "rationale": "Il les intègre à une ville dense réussie."
+    },
+    {
+     "label": "B",
+     "text": "La densité est souhaitable si elle est bien pensée.",
+     "correct": true,
+     "rationale": "« Le véritable enjeu n'est pas la densité elle-même, mais sa qualité »."
+    },
+    {
+     "label": "C",
+     "text": "La densité doit être évitée à tout prix.",
+     "correct": false,
+     "rationale": "Il en défend les avantages."
+    },
+    {
+     "label": "D",
+     "text": "Les grands ensembles sont un modèle à suivre.",
+     "correct": false,
+     "rationale": "Il les cite comme source de peur."
+    }
+   ],
+   "explanation": "Le texte suit une progression : idée reçue (« fait peur »), réfutation (« Pourtant »), thèse (« Le véritable enjeu… »).",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "implicite",
+   "document": "F: Le nouveau stade, dont le coût initial était estimé à cent millions d'euros, a été inauguré hier en présence du ministre. Une facture finale qui avoisinerait les deux cent cinquante millions… Le ministre a salué « un équipement à la hauteur de nos ambitions ». Les contribuables apprécieront.",
+   "prompt": "Que sous-entend la journaliste dans la dernière phrase ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les citoyens pourraient être mécontents du coût.",
+     "correct": true,
+     "rationale": "« Les contribuables apprécieront » est ironique."
+    },
+    {
+     "label": "B",
+     "text": "Le stade a coûté moins que prévu.",
+     "correct": false,
+     "rationale": "Il a coûté deux fois et demie plus."
+    },
+    {
+     "label": "C",
+     "text": "Les contribuables sont ravis du stade.",
+     "correct": false,
+     "rationale": "La phrase est ironique."
+    },
+    {
+     "label": "D",
+     "text": "Le ministre a payé le stade lui-même.",
+     "correct": false,
+     "rationale": "Ce sont les contribuables qui paient."
+    }
+   ],
+   "explanation": "L'ironie naît du contraste entre l'enthousiasme du ministre et l'explosion du budget. « Les contribuables apprécieront » signifie l'inverse : ils ne seront pas contents.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Bonjour Madame Diallo, la réunion des parents d'élèves aura lieu le jeudi 9 novembre à 18 h dans la salle 12. Nous parlerons du voyage scolaire de printemps. Merci de confirmer votre présence avant lundi. Mme Roux, professeure principale.",
+   "prompt": "De quoi va-t-on parler à la réunion ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De la cantine.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    },
+    {
+     "label": "B",
+     "text": "Du changement de professeur.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    },
+    {
+     "label": "C",
+     "text": "Du voyage scolaire.",
+     "correct": true,
+     "rationale": "« Nous parlerons du voyage scolaire de printemps »."
+    },
+    {
+     "label": "D",
+     "text": "Des notes des élèves.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    }
+   ],
+   "explanation": "Le sujet est annoncé par « Nous parlerons de… ». Les autres informations (date, salle, confirmation) sont pratiques."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "Cours de yoga pour débutants – Tous les mercredis de 19 h à 20 h, salle des fêtes. Premier cours gratuit ! Ensuite : 8 € la séance ou 70 € les 10 séances. Apportez votre tapis.",
+   "prompt": "Combien coûte le premier cours ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il est gratuit.",
+     "correct": true,
+     "rationale": "« Premier cours gratuit ! »"
+    },
+    {
+     "label": "B",
+     "text": "10 euros.",
+     "correct": false,
+     "rationale": "Ce prix n'apparaît pas."
+    },
+    {
+     "label": "C",
+     "text": "70 euros.",
+     "correct": false,
+     "rationale": "C'est le prix de 10 séances."
+    },
+    {
+     "label": "D",
+     "text": "8 euros.",
+     "correct": false,
+     "rationale": "C'est le prix des séances suivantes."
+    }
+   ],
+   "explanation": "L'annonce distingue le premier cours (gratuit) et les suivants (« Ensuite »)."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "courriel",
+   "skill": "information précise",
+   "document": "Salut Max, merci pour ton invitation ! Je viendrai avec plaisir à ta fête samedi. Je pense arriver vers 20 h, après le travail. Est-ce que je peux venir avec ma sœur ? Elle est chez moi ce week-end. À samedi ! Inès",
+   "prompt": "Que demande Inès ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'adresse de la fête.",
+     "correct": false,
+     "rationale": "Elle ne la demande pas."
+    },
+    {
+     "label": "B",
+     "text": "Si elle peut venir accompagnée de sa sœur.",
+     "correct": true,
+     "rationale": "« Est-ce que je peux venir avec ma sœur ? »"
+    },
+    {
+     "label": "C",
+     "text": "Si Max peut venir la chercher.",
+     "correct": false,
+     "rationale": "Ce n'est pas demandé."
+    },
+    {
+     "label": "D",
+     "text": "Si la fête peut commencer plus tard.",
+     "correct": false,
+     "rationale": "Elle ne demande pas de changement d'horaire."
+    }
+   ],
+   "explanation": "Repérez la phrase interrogative : c'est elle qui contient la demande."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Dans le quartier des Lilas, les habitants ont transformé un terrain vague en jardin partagé. Chaque famille dispose d'une petite parcelle, et des ateliers sont organisés le samedi pour apprendre à cultiver sans pesticides. « Au-delà des légumes, ce jardin a recréé du lien entre voisins qui ne se parlaient pas », explique Fatou, l'une des fondatrices.",
+   "prompt": "Selon Fatou, quel est le principal bénéfice du jardin ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il a rapproché les habitants du quartier.",
+     "correct": true,
+     "rationale": "« ce jardin a recréé du lien entre voisins »."
+    },
+    {
+     "label": "B",
+     "text": "Il permet de vendre des légumes.",
+     "correct": false,
+     "rationale": "La vente n'est pas évoquée."
+    },
+    {
+     "label": "C",
+     "text": "Il utilise des pesticides naturels.",
+     "correct": false,
+     "rationale": "On y cultive sans pesticides."
+    },
+    {
+     "label": "D",
+     "text": "Il a remplacé un parking.",
+     "correct": false,
+     "rationale": "C'était un terrain vague."
+    }
+   ],
+   "explanation": "« Au-delà de » introduit un bénéfice plus important que le premier. « Recréer du lien » = rétablir des relations."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, Monsieur, nous vous informons que la collecte des encombrants (meubles, gros appareils) aura lieu le premier mardi de chaque mois. Les objets doivent être déposés sur le trottoir la veille au soir, après 19 heures. Les produits dangereux (peintures, batteries) ne sont pas acceptés et doivent être apportés à la déchetterie.",
+   "prompt": "Quand faut-il sortir les encombrants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "N'importe quel jour du mois.",
+     "correct": false,
+     "rationale": "La collecte a lieu un jour précis."
+    },
+    {
+     "label": "B",
+     "text": "Le lundi soir précédant la collecte, après 19 heures.",
+     "correct": true,
+     "rationale": "« la veille au soir, après 19 heures » (collecte le mardi)."
+    },
+    {
+     "label": "C",
+     "text": "Le mardi matin avant 19 heures.",
+     "correct": false,
+     "rationale": "Il faut les sortir la veille."
+    },
+    {
+     "label": "D",
+     "text": "Le premier lundi du mois à la déchetterie.",
+     "correct": false,
+     "rationale": "La déchetterie concerne les produits dangereux."
+    }
+   ],
+   "explanation": "« La veille » = le jour d'avant. La collecte ayant lieu le mardi, la veille est le lundi."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "publicité",
+   "skill": "information précise",
+   "document": "Nouveau ! La salle de sport FormaPlus ouvre ses portes rue Victor-Hugo. Pour l'ouverture, abonnement à 19,90 € par mois sans engagement. Accès illimité aux machines, cours collectifs inclus. Offre réservée aux 200 premiers inscrits.",
+   "prompt": "Qu'est-ce qui limite cette offre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'accès aux cours collectifs.",
+     "correct": false,
+     "rationale": "Ils sont inclus."
+    },
+    {
+     "label": "B",
+     "text": "Le nombre d'inscrits.",
+     "correct": true,
+     "rationale": "« Offre réservée aux 200 premiers inscrits »."
+    },
+    {
+     "label": "C",
+     "text": "La durée de l'engagement.",
+     "correct": false,
+     "rationale": "L'abonnement est sans engagement."
+    },
+    {
+     "label": "D",
+     "text": "L'âge des clients.",
+     "correct": false,
+     "rationale": "L'âge n'est pas mentionné."
+    }
+   ],
+   "explanation": "« Réservée aux 200 premiers inscrits » fixe une limite quantitative. « Sans engagement » signifie qu'on peut arrêter à tout moment."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "intention",
+   "document": "Chers collègues, comme vous le savez, Marie part à la retraite à la fin du mois après 30 ans dans l'entreprise. Nous organisons un pot de départ le vendredi 28 à 17 h. Pour son cadeau, une enveloppe circule dans les bureaux : chacun donne ce qu'il souhaite. Merci de ne rien lui dire, c'est une surprise ! Paul",
+   "prompt": "Quel est l'objectif de ce message ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Organiser discrètement une fête et un cadeau pour une collègue.",
+     "correct": true,
+     "rationale": "Pot de départ, collecte et surprise."
+    },
+    {
+     "label": "B",
+     "text": "Inviter Marie à une réunion.",
+     "correct": false,
+     "rationale": "Marie ne doit pas être informée."
+    },
+    {
+     "label": "C",
+     "text": "Annoncer le départ de Paul.",
+     "correct": false,
+     "rationale": "C'est Marie qui part."
+    },
+    {
+     "label": "D",
+     "text": "Demander à chacun une somme fixe.",
+     "correct": false,
+     "rationale": "« Chacun donne ce qu'il souhaite »."
+    }
+   ],
+   "explanation": "Le message combine trois informations : l'événement (pot), la collecte (enveloppe) et la consigne de discrétion (surprise)."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« Je travaille à quatre jours par semaine depuis un an. Je gagne un peu moins, c'est vrai, mais j'ai enfin du temps pour mes enfants et pour moi. Je ne reviendrais en arrière pour rien au monde. » Céline, 38 ans, graphiste.",
+   "prompt": "Que pense Céline de son choix ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle le regrette à cause du salaire.",
+     "correct": false,
+     "rationale": "Elle accepte de gagner moins."
+    },
+    {
+     "label": "B",
+     "text": "Elle veut retravailler cinq jours.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "Elle n'a toujours pas de temps libre.",
+     "correct": false,
+     "rationale": "Elle a « enfin du temps »."
+    },
+    {
+     "label": "D",
+     "text": "Elle en est très satisfaite malgré la baisse de salaire.",
+     "correct": true,
+     "rationale": "« Je ne reviendrais en arrière pour rien au monde »."
+    }
+   ],
+   "explanation": "« Pour rien au monde » renforce la négation : en aucun cas. La concession « c'est vrai, mais » relativise l'inconvénient."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "Bibliothèque universitaire – Règlement. Les livres peuvent être empruntés pour trois semaines, renouvelables une fois en ligne. En cas de retard, le compte est bloqué pendant une durée égale au retard. Les ordinateurs portables se prêtent uniquement sur place, pour quatre heures maximum.",
+   "prompt": "Que se passe-t-il si un étudiant rend un livre en retard ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il ne peut plus jamais emprunter.",
+     "correct": false,
+     "rationale": "Le blocage est temporaire."
+    },
+    {
+     "label": "B",
+     "text": "Il ne peut plus emprunter pendant un certain temps.",
+     "correct": true,
+     "rationale": "Le compte est bloqué pendant une durée égale au retard."
+    },
+    {
+     "label": "C",
+     "text": "Il doit racheter le livre.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    },
+    {
+     "label": "D",
+     "text": "Il doit payer une amende.",
+     "correct": false,
+     "rationale": "Aucune amende n'est prévue."
+    }
+   ],
+   "explanation": "« Une durée égale au retard » : 5 jours de retard = 5 jours de blocage. C'est une sanction proportionnelle et temporaire."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Les ventes de vélos d'occasion explosent. Plateformes en ligne, bourses aux vélos organisées par les associations, ateliers de réparation solidaires : les solutions se multiplient pour s'équiper à moindre coût. Une tendance qui répond à la fois à la hausse des prix des vélos neufs et à une volonté croissante de consommer de manière plus responsable.",
+   "prompt": "Comment l'article explique-t-il cette tendance ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Par une obligation légale.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "B",
+     "text": "Par la fermeture des magasins de vélos.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Par des raisons économiques et écologiques.",
+     "correct": true,
+     "rationale": "Hausse des prix des vélos neufs et consommation responsable."
+    },
+    {
+     "label": "D",
+     "text": "Par la baisse de qualité des vélos neufs.",
+     "correct": false,
+     "rationale": "La qualité n'est pas évoquée."
+    }
+   ],
+   "explanation": "« À la fois… et… » introduit deux causes. « À moindre coût » = moins cher."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "Chaque année, on nous promet que les devoirs à la maison vont disparaître. Chaque année, ils reviennent, plus discrets mais toujours là. Le problème n'est pas tant leur existence que les inégalités qu'ils creusent : l'enfant aidé par des parents disponibles et diplômés part avec une longueur d'avance sur celui qui travaille seul.",
+   "prompt": "Que dénonce l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les inégalités renforcées par les devoirs.",
+     "correct": true,
+     "rationale": "« les inégalités qu'ils creusent »."
+    },
+    {
+     "label": "B",
+     "text": "Le manque de travail des élèves.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objet du texte."
+    },
+    {
+     "label": "C",
+     "text": "Les parents trop diplômés.",
+     "correct": false,
+     "rationale": "Il décrit un avantage, il ne dénonce pas les parents."
+    },
+    {
+     "label": "D",
+     "text": "L'existence même des devoirs.",
+     "correct": false,
+     "rationale": "« Le problème n'est pas tant leur existence »."
+    }
+   ],
+   "explanation": "« Ne… pas tant X que Y » signifie « moins X que Y » : l'auteur déplace le problème. « Creuser les inégalités » = les augmenter."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Monsieur, je me permets de revenir vers vous concernant la facture n° 2045, restée impayée malgré notre relance du 15 mars. Sans règlement de votre part sous quinze jours, nous nous verrons contraints d'engager une procédure de recouvrement.",
+   "prompt": "Que signifie « une procédure de recouvrement » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un nouveau devis.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "B",
+     "text": "Une démarche pour récupérer une somme due.",
+     "correct": true,
+     "rationale": "Recouvrer = récupérer de l'argent."
+    },
+    {
+     "label": "C",
+     "text": "Un remboursement au client.",
+     "correct": false,
+     "rationale": "C'est le client qui doit payer."
+    },
+    {
+     "label": "D",
+     "text": "Une remise de dette.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    }
+   ],
+   "explanation": "« Recouvrer » (récupérer) n'a rien à voir avec « recouvrir ». Le contexte (facture impayée, relance, menace) l'indique."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Pour lutter contre la désertification médicale, le département a mis en place un bus médical qui sillonne les villages. Deux médecins généralistes y consultent à tour de rôle, quatre jours par semaine. Les patients doivent prendre rendez-vous par téléphone. Le dispositif, financé pour deux ans, sera évalué avant d'être éventuellement prolongé.",
+   "prompt": "Qu'est-il prévu à la fin des deux ans ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'ouverture d'un cabinet fixe.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Une évaluation avant une éventuelle prolongation.",
+     "correct": true,
+     "rationale": "« sera évalué avant d'être éventuellement prolongé »."
+    },
+    {
+     "label": "C",
+     "text": "La fin définitive du service.",
+     "correct": false,
+     "rationale": "Une prolongation est possible."
+    },
+    {
+     "label": "D",
+     "text": "L'arrivée de nouveaux médecins.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Éventuellement » = peut-être (faux ami de « eventually »). « Désertification médicale » = manque de médecins."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, nous avons le regret de vous informer que votre demande de bourse n'a pas pu aboutir, vos revenus dépassant le plafond autorisé. Vous disposez d'un délai de deux mois à compter de la réception de ce courrier pour former un recours gracieux auprès de nos services, en joignant tout justificatif d'un changement de situation.",
+   "prompt": "Que peut faire la destinataire si elle conteste la décision ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Déposer un recours dans les deux mois avec des justificatifs.",
+     "correct": true,
+     "rationale": "« former un recours gracieux… en joignant tout justificatif »."
+    },
+    {
+     "label": "B",
+     "text": "Rien, la décision est définitive.",
+     "correct": false,
+     "rationale": "Un recours est prévu."
+    },
+    {
+     "label": "C",
+     "text": "Refaire une demande l'an prochain uniquement.",
+     "correct": false,
+     "rationale": "Un recours immédiat est possible."
+    },
+    {
+     "label": "D",
+     "text": "Demander un délai de paiement.",
+     "correct": false,
+     "rationale": "Il ne s'agit pas de payer."
+    }
+   ],
+   "explanation": "« Ne pas aboutir » = échouer. « Plafond » = limite maximale. « Recours gracieux » = demande de réexamen à la même administration."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "On accuse volontiers les jeux vidéo de rendre les jeunes violents. Or, aucune étude sérieuse n'a établi de lien de cause à effet. Certains travaux suggèrent même que les jeux coopératifs développent l'esprit d'équipe. Cela ne signifie pas pour autant que tout est permis : le temps de jeu et l'âge des joueurs restent des questions légitimes.",
+   "prompt": "Quelle est la fonction de la dernière phrase ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle prouve que les jeux rendent violent.",
+     "correct": false,
+     "rationale": "Elle ne revient pas sur cette accusation."
+    },
+    {
+     "label": "B",
+     "text": "Elle conclut que les jeux doivent être interdits.",
+     "correct": false,
+     "rationale": "Elle parle de questions légitimes, pas d'interdiction."
+    },
+    {
+     "label": "C",
+     "text": "Elle nuance la défense des jeux vidéo.",
+     "correct": true,
+     "rationale": "« Cela ne signifie pas pour autant que tout est permis »."
+    },
+    {
+     "label": "D",
+     "text": "Elle présente une nouvelle étude scientifique.",
+     "correct": false,
+     "rationale": "Aucune étude n'y est citée."
+    }
+   ],
+   "explanation": "« Pour autant » introduit une restriction : après avoir défendu les jeux, l'auteur rappelle des limites. « Or » introduit un fait qui contredit l'accusation."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "Le projet d'éoliennes au large de la côte divise. Les pêcheurs redoutent la perte de zones de pêche, tandis que les élus locaux mettent en avant les emplois créés. Quant aux associations environnementales, elles soutiennent le projet tout en réclamant des études approfondies sur les oiseaux migrateurs.",
+   "prompt": "Quelle est la position des associations environnementales ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Inquiètes pour les emplois.",
+     "correct": false,
+     "rationale": "Ce sont les élus qui parlent des emplois."
+    },
+    {
+     "label": "B",
+     "text": "Indifférentes.",
+     "correct": false,
+     "rationale": "Elles prennent position."
+    },
+    {
+     "label": "C",
+     "text": "Favorables, mais avec des exigences.",
+     "correct": true,
+     "rationale": "Elles soutiennent le projet « tout en réclamant des études »."
+    },
+    {
+     "label": "D",
+     "text": "Totalement opposées.",
+     "correct": false,
+     "rationale": "Elles soutiennent le projet."
+    }
+   ],
+   "explanation": "« Tout en + participe présent » exprime une simultanéité avec nuance. « Quant à » introduit un nouvel acteur."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "La rupture conventionnelle permet à un employeur et à un salarié en CDI de mettre fin d'un commun accord au contrat de travail. Le salarié perçoit une indemnité au moins égale à l'indemnité légale de licenciement et peut bénéficier de l'allocation chômage. Chaque partie dispose d'un délai de rétractation de quinze jours après la signature.",
+   "prompt": "Quelle est la particularité de la rupture conventionnelle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle ne peut pas être annulée.",
+     "correct": false,
+     "rationale": "Il existe un délai de rétractation."
+    },
+    {
+     "label": "B",
+     "text": "Elle est décidée par l'employeur seul.",
+     "correct": false,
+     "rationale": "Il faut l'accord des deux."
+    },
+    {
+     "label": "C",
+     "text": "Elle repose sur l'accord des deux parties.",
+     "correct": true,
+     "rationale": "« mettre fin d'un commun accord »."
+    },
+    {
+     "label": "D",
+     "text": "Elle prive le salarié du chômage.",
+     "correct": false,
+     "rationale": "Il peut en bénéficier."
+    }
+   ],
+   "explanation": "« D'un commun accord » = avec l'accord des deux parties. « Se rétracter » = revenir sur sa décision."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« Mon fils a passé son été à faire du bénévolat dans un refuge pour animaux. À la rentrée, il m'a annoncé qu'il voulait devenir vétérinaire. Moi qui avais insisté pour qu'il trouve un \"vrai\" job d'été afin de gagner un peu d'argent… » Sylvie, 52 ans.",
+   "prompt": "Que sous-entend Sylvie ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle a obligé son fils à faire du bénévolat.",
+     "correct": false,
+     "rationale": "Elle voulait un « vrai » job."
+    },
+    {
+     "label": "B",
+     "text": "L'expérience non rémunérée a été plus utile qu'elle ne le pensait.",
+     "correct": true,
+     "rationale": "Le bénévolat a révélé une vocation, alors qu'elle préférait un job payé."
+    },
+    {
+     "label": "C",
+     "text": "Son fils a trouvé un emploi de vétérinaire.",
+     "correct": false,
+     "rationale": "Il veut le devenir, il ne l'est pas."
+    },
+    {
+     "label": "D",
+     "text": "Elle est déçue que son fils n'ait pas gagné d'argent.",
+     "correct": false,
+     "rationale": "Le ton suggère plutôt une surprise positive."
+    }
+   ],
+   "explanation": "La phrase inachevée (« Moi qui avais insisté… ») et les guillemets autour de « vrai » marquent l'autodérision : elle reconnaît s'être trompée."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Les partisans de l'uniforme scolaire soutiennent qu'il efface les différences sociales visibles et limite la pression des marques. Ses opposants rétorquent qu'il ne supprime pas les inégalités, qui se manifestent autrement (téléphones, chaussures, activités), et qu'il bride l'expression de la personnalité des adolescents.",
+   "prompt": "Quel argument est avancé contre l'uniforme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il coûte trop cher aux familles.",
+     "correct": false,
+     "rationale": "Le coût n'est pas évoqué."
+    },
+    {
+     "label": "B",
+     "text": "Il efface les différences sociales.",
+     "correct": false,
+     "rationale": "C'est l'argument des partisans."
+    },
+    {
+     "label": "C",
+     "text": "Il augmente la pression des marques.",
+     "correct": false,
+     "rationale": "Les partisans disent qu'il la limite."
+    },
+    {
+     "label": "D",
+     "text": "Les inégalités apparaissent sous d'autres formes.",
+     "correct": true,
+     "rationale": "« il ne supprime pas les inégalités, qui se manifestent autrement »."
+    }
+   ],
+   "explanation": "« Rétorquer » = répondre en s'opposant. « Brider » = limiter, empêcher de s'exprimer librement."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "Les inscriptions dans les écoles de soins infirmiers ont baissé de 15 % en deux ans. Les conditions de travail difficiles, largement médiatisées pendant la crise sanitaire, ont découragé une partie des candidats. Si rien n'est fait, préviennent les syndicats, la pénurie de personnel soignant s'aggravera dans les hôpitaux.",
+   "prompt": "Selon les syndicats, que se passera-t-il si la situation ne change pas ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les écoles fermeront.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les inscriptions repartiront à la hausse.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "C",
+     "text": "Les conditions de travail s'amélioreront.",
+     "correct": false,
+     "rationale": "C'est ce qu'il faudrait faire, pas une prédiction."
+    },
+    {
+     "label": "D",
+     "text": "Le manque d'infirmiers augmentera.",
+     "correct": true,
+     "rationale": "« la pénurie de personnel soignant s'aggravera »."
+    }
+   ],
+   "explanation": "« Si rien n'est fait » introduit une hypothèse ; le futur « s'aggravera » donne la conséquence prévue."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "On célèbre à l'envi l'« esprit d'entreprise » et l'audace des jeunes créateurs. On oublie un peu vite que la prise de risque est un luxe : il est plus aisé de tout quitter pour lancer sa start-up lorsqu'on sait pouvoir compter, en cas d'échec, sur un filet de sécurité familial. Le mythe du self-made-man occulte souvent cette réalité prosaïque.",
+   "prompt": "Quelle est l'intention de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Montrer que l'audace entrepreneuriale dépend souvent de privilèges.",
+     "correct": true,
+     "rationale": "« la prise de risque est un luxe » ; « filet de sécurité familial »."
+    },
+    {
+     "label": "B",
+     "text": "Faire l'éloge des self-made-men.",
+     "correct": false,
+     "rationale": "Il parle de « mythe »."
+    },
+    {
+     "label": "C",
+     "text": "Prouver que les start-up échouent toujours.",
+     "correct": false,
+     "rationale": "Il ne dit pas cela."
+    },
+    {
+     "label": "D",
+     "text": "Encourager tous les jeunes à créer leur entreprise.",
+     "correct": false,
+     "rationale": "Il nuance l'enthousiasme."
+    }
+   ],
+   "explanation": "« À l'envi » = autant qu'on veut. « Occulter » = cacher. « Prosaïque » = banal, terre-à-terre. L'auteur démystifie un discours dominant."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "sens d'un mot en contexte",
+   "document": "Après des mois de tergiversations, le conseil municipal a enfin tranché : la vieille halle sera rénovée plutôt que détruite. Une décision saluée par les défenseurs du patrimoine.",
+   "prompt": "Que signifie « tergiversations » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "disputes violentes.",
+     "correct": false,
+     "rationale": "L'idée de violence n'est pas présente."
+    },
+    {
+     "label": "B",
+     "text": "travaux de rénovation.",
+     "correct": false,
+     "rationale": "Les travaux viendront après."
+    },
+    {
+     "label": "C",
+     "text": "manifestations publiques.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "D",
+     "text": "hésitations et retards dans la prise de décision.",
+     "correct": true,
+     "rationale": "Le mot « enfin tranché » le confirme."
+    }
+   ],
+   "explanation": "« Enfin » et « trancher » (décider) montrent qu'avant, on hésitait. « Tergiverser » = chercher à gagner du temps au lieu de décider."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments contradictoires",
+   "document": "Pour les uns, la gratuité des musées démocratise l'accès à la culture. Pour les autres, elle profite surtout à un public déjà familier des institutions culturelles, sans attirer ceux qui n'en franchissent jamais la porte. Sans doute la gratuité est-elle nécessaire, mais elle ne saurait suffire : c'est la médiation, l'accompagnement, qui fait tomber les barrières symboliques.",
+   "prompt": "Quelle est la position de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les musées devraient être payants pour tous.",
+     "correct": false,
+     "rationale": "Il ne le propose pas."
+    },
+    {
+     "label": "B",
+     "text": "La gratuité suffit à démocratiser la culture.",
+     "correct": false,
+     "rationale": "Il dit qu'elle ne suffit pas."
+    },
+    {
+     "label": "C",
+     "text": "La gratuité est utile mais doit être complétée par un accompagnement.",
+     "correct": true,
+     "rationale": "« nécessaire, mais elle ne saurait suffire : c'est la médiation… »."
+    },
+    {
+     "label": "D",
+     "text": "La gratuité est inutile.",
+     "correct": false,
+     "rationale": "Il la juge nécessaire."
+    }
+   ],
+   "explanation": "« Sans doute… mais » = concession. « Ne saurait » = ne peut pas (registre soutenu). « Barrières symboliques » = obstacles sociaux et culturels."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "sous-entendu",
+   "document": "Le constructeur présente sa nouvelle voiture comme « la plus écologique de sa gamme ». Il est vrai que, comparée aux trois autres modèles, des 4x4 de plus de deux tonnes, la performance n'était pas difficile à atteindre.",
+   "prompt": "Que laisse entendre le journaliste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le constructeur ne fabrique que des petites voitures.",
+     "correct": false,
+     "rationale": "Il fabrique des 4x4."
+    },
+    {
+     "label": "B",
+     "text": "La voiture est la plus écologique du marché.",
+     "correct": false,
+     "rationale": "Elle l'est seulement dans sa gamme."
+    },
+    {
+     "label": "C",
+     "text": "Le slogan est trompeur car la comparaison est facile.",
+     "correct": true,
+     "rationale": "Les autres modèles sont des 4x4 très lourds."
+    },
+    {
+     "label": "D",
+     "text": "Le journaliste admire l'effort écologique.",
+     "correct": false,
+     "rationale": "Le ton est ironique."
+    }
+   ],
+   "explanation": "« Il est vrai que » semble concéder, mais la suite ridiculise le slogan : être le plus écologique parmi des 4x4 n'a rien d'exceptionnel."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "compréhension globale",
+   "document": "Le droit à la déconnexion, introduit dans le Code du travail en 2017, impose aux entreprises de plus de cinquante salariés de négocier les modalités par lesquelles leurs employés peuvent ne pas répondre aux sollicitations professionnelles en dehors de leur temps de travail. La loi ne fixe toutefois ni horaires précis ni sanctions spécifiques, laissant aux partenaires sociaux le soin d'en définir le contenu.",
+   "prompt": "Quelle limite de la loi le texte souligne-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle ne prévoit ni règles précises ni sanctions.",
+     "correct": true,
+     "rationale": "« La loi ne fixe toutefois ni horaires précis ni sanctions spécifiques »."
+    },
+    {
+     "label": "B",
+     "text": "Elle interdit aux salariés de travailler le soir.",
+     "correct": false,
+     "rationale": "Elle permet de ne pas répondre."
+    },
+    {
+     "label": "C",
+     "text": "Elle a été supprimée.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "D",
+     "text": "Elle s'applique à toutes les entreprises.",
+     "correct": false,
+     "rationale": "Seulement à celles de plus de 50 salariés."
+    }
+   ],
+   "explanation": "« Toutefois » introduit la limite. « Partenaires sociaux » = représentants des employeurs et des salariés. La loi fixe un cadre, pas un contenu."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "décrire une personne",
+   "instructions": "Vous avez un nouveau collègue très sympathique. Vous écrivez un message à un ami pour le lui décrire (physique, caractère, ce que vous faites ensemble) (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Salut Léo ! Au travail, il y a un nouveau collègue, Samir. Il est grand, brun, avec des lunettes et un grand sourire. Il est drôle, patient et toujours prêt à aider. Le midi, on mange souvent ensemble et on parle de football. Je pense que tu l'apprécierais. Je te le présenterai bientôt !",
+   "tips": "Variez les adjectifs (patient, drôle, serviable) et accordez-les correctement.",
+   "expected_points": [
+    "saluer",
+    "décrire le physique",
+    "décrire le caractère",
+    "activité commune",
+    "formule de fin"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "décrire un événement",
+   "instructions": "Votre ville a organisé une fête de quartier. Vous écrivez un article pour le journal local pour décrire l'événement (lieu, activités, ambiance, participants) (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Dimanche dernier, la place du marché s'est transformée en grande salle de fête à ciel ouvert. Dès midi, plus de trois cents habitants ont partagé un repas où chacun avait apporté un plat. L'après-midi, les enfants ont participé à des jeux et à un atelier de peinture, pendant que les adultes dansaient au son d'un orchestre local. L'ambiance était chaleureuse et conviviale. Les organisateurs ont déjà promis une nouvelle édition l'été prochain.",
+   "tips": "Utilisez le passé composé pour les actions et l'imparfait pour l'ambiance. Évitez les répétitions de « il y avait ».",
+   "expected_points": [
+    "situer l'événement",
+    "décrire les activités",
+    "décrire l'ambiance",
+    "conclure"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "justifier une décision",
+   "instructions": "Votre entreprise propose aux salariés de travailler quatre jours par semaine avec un salaire réduit de 10 %. Vous écrivez au service des ressources humaines pour accepter ou refuser cette proposition en justifiant votre décision (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Madame, Monsieur, j'ai bien pris connaissance de la proposition de semaine de quatre jours et je souhaite l'accepter. En effet, ce jour libre me permettrait de suivre une formation en gestion de projet, ce qui profitera également à l'entreprise. Par ailleurs, je suis convaincu que je serai plus concentré et plus efficace sur quatre jours. Certes, la baisse de salaire n'est pas négligeable, mais j'estime que ce choix est le bon pour mon équilibre. Cordialement.",
+   "tips": "Employez le conditionnel pour les projets (me permettrait), des connecteurs (en effet, par ailleurs, certes… mais).",
+   "expected_points": [
+    "registre formel",
+    "décision claire",
+    "deux arguments",
+    "concession",
+    "formule de politesse"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous interroge sur votre famille, votre logement, vos études et vos habitudes. Développez vos réponses avec des exemples.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Parlez-moi de votre famille.",
+    "Où habitez-vous ? Décrivez votre logement.",
+    "Qu'avez-vous étudié ?",
+    "Quelles sont vos habitudes le week-end ?",
+    "Avez-vous un souvenir d'enfance marquant ?",
+    "Pourquoi souhaitez-vous vivre en France ?"
+   ],
+   "useful_phrases": [
+    "Je viens d'une famille de…",
+    "J'habite dans un… qui se trouve…",
+    "Quand j'étais enfant, je…",
+    "Le week-end, j'ai l'habitude de…",
+    "Je souhaite m'installer en France parce que…"
+   ],
+   "model_answer": "Je viens d'une famille de quatre enfants, je suis le deuxième. J'habite dans un petit appartement près du centre, avec une vue sur un parc. J'ai étudié l'informatique à l'université. Le week-end, j'ai l'habitude d'aller courir le samedi matin et de rendre visite à mes amis. Quand j'étais enfant, je passais tous mes étés chez mes grands-parents, à la campagne : c'est mon meilleur souvenir."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Demander des renseignements dans une administration",
+   "examiner_role": "Agent de la mairie",
+   "scenario": "Vous venez d'arriver dans la ville et vous souhaitez inscrire votre enfant à l'école et à la cantine. L'examinateur joue le rôle d'un agent de la mairie. Posez des questions sur les démarches, les documents, les tarifs et les délais.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Bonjour, je vous écoute.",
+    "Quel âge a votre enfant ?",
+    "Il faut un justificatif de domicile de moins de trois mois.",
+    "Le tarif de la cantine dépend de vos revenus.",
+    "L'école de votre secteur est complète, nous pouvons vous proposer une autre école.",
+    "Avez-vous d'autres questions ?"
+   ],
+   "useful_phrases": [
+    "Je voudrais savoir quelles démarches…",
+    "Quels documents dois-je fournir ?",
+    "Comment le tarif est-il calculé ?",
+    "Serait-il possible de… ?",
+    "Dans ce cas, est-ce que…"
+   ],
+   "model_answer": "Bonjour, je viens d'emménager et je voudrais inscrire mon fils de sept ans à l'école. Quels documents dois-je fournir ? Comme je viens d'arriver, je n'ai pas encore de facture d'électricité ; est-ce que mon bail suffit ? Et pour la cantine, comment est calculé le tarif ? Si l'école du quartier est complète, est-ce que l'autre école est desservie par un bus scolaire ?"
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Les enfants doivent-ils pratiquer une activité sportive ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion sur la question : « Faut-il obliger les enfants à pratiquer une activité sportive en dehors de l'école ? » Argumentez, donnez des exemples, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Qu'en pensez-vous ?",
+    "Pouvez-vous donner un exemple ?",
+    "Et si l'enfant n'aime pas le sport ?",
+    "Le coût peut-il être un obstacle ?",
+    "Quelle est votre conclusion ?"
+   ],
+   "useful_phrases": [
+    "Je suis convaincu que…",
+    "Cela s'explique notamment par…",
+    "Toutefois…",
+    "Dans une certaine mesure…",
+    "Pour toutes ces raisons…"
+   ],
+   "model_answer": "Je suis convaincu que le sport est essentiel pour les enfants, mais je ne pense pas qu'il faille l'imposer. Le sport développe la santé, la confiance et l'esprit d'équipe : mon neveu, très timide, s'est fait beaucoup d'amis au club de basket. Toutefois, un enfant forcé risque de se dégoûter. Il vaut mieux lui faire essayer plusieurs activités. Par ailleurs, le coût des clubs peut être un obstacle pour certaines familles. Pour toutes ces raisons, j'encouragerais plutôt que d'obliger."
+  }
+ ]
+}

@@ -1,0 +1,490 @@
+@code EXAM-02
+@title Examen blanc n° 2 – Santé, loisirs et société
+@level B2
+@description Examen complet calibré B1–B2 : santé, sport, banque, école, culture, consommation.
+
+## CO 1 | A2 | annonce publique | information précise | F:fr-FR
+DOC: F: Le magasin fermera ses portes dans quinze minutes. Nous invitons notre aimable clientèle à se diriger vers les caisses. Merci de votre visite et à demain.
+Q: Que doivent faire les clients ?
++ Aller payer leurs achats. | « se diriger vers les caisses ».
+- Revenir dans quinze minutes. | Le magasin ferme dans quinze minutes.
+- Attendre l'ouverture des caisses. | Les caisses sont déjà ouvertes.
+- Revenir le lendemain pour payer. | Ils doivent payer maintenant.
+EXP: « Se diriger vers les caisses » signifie aller payer. Le message annonce une fermeture imminente : les clients doivent terminer leurs achats.
+
+## CO 2 | A2 | message téléphonique | information précise | H:fr-FR
+DOC: H: Allô Nadia, c'est Hugo. Je suis devant le restaurant, mais il est fermé ! Il y a un panneau : « Fermé pour congés ». On se retrouve plutôt à la pizzeria en face de la poste ? Rappelle-moi vite.
+Q: Où Hugo propose-t-il d'aller ?
++ À la pizzeria en face de la poste. | « On se retrouve plutôt à la pizzeria en face de la poste ? »
+- Au restaurant prévu. | Il est fermé pour congés.
+- À la poste. | La poste sert seulement de repère.
+- Chez Nadia. | Il ne propose pas d'aller chez elle.
+EXP: « Plutôt » introduit une alternative. « En face de la poste » est un repère de lieu, pas la destination.
+
+## CO 3 | A2 | conversation quotidienne | information précise | F:fr-FR, H:fr-FR
+DOC: F: Bonjour, je voudrais un kilo de tomates et des fraises, s'il vous plaît. / H: Les fraises sont à quatre euros la barquette. / F: Oh, c'est un peu cher… Juste les tomates alors. / H: Voilà, ça fait deux euros cinquante.
+Q: Qu'achète la cliente ?
++ Seulement des tomates. | « Juste les tomates alors ».
+- Des tomates et des fraises. | Elle renonce aux fraises.
+- Seulement des fraises. | Elle trouve les fraises trop chères.
+- Une barquette de fraises à deux euros cinquante. | 2,50 € est le prix des tomates.
+EXP: La cliente change d'avis après avoir entendu le prix : « c'est un peu cher… juste les tomates ». Le dernier choix exprimé est celui qui compte.
+
+## CO 4 | B1 | conversation quotidienne | intention | H:fr-FR, F:fr-CA
+DOC: H: Tu as l'air fatiguée. / F: Oui, je dors mal depuis que les voisins ont un chien. Il aboie toute la nuit. / H: Tu devrais aller leur parler, gentiment. Ils ne s'en rendent peut-être pas compte. / F: Tu as raison, j'irai ce soir.
+Q: Que conseille l'homme ?
++ D'aller discuter calmement avec les voisins. | « Tu devrais aller leur parler, gentiment ».
+- D'appeler la police. | Ce n'est pas proposé.
+- De déménager. | Ce n'est pas proposé.
+- D'acheter un chien. | Le chien appartient aux voisins.
+EXP: « Tu devrais + infinitif » (conditionnel de devoir) sert à donner un conseil. « Gentiment » indique la manière : sans conflit.
+
+## CO 5 | B1 | message professionnel | information précise | F:fr-FR
+DOC: F: Bonjour Monsieur Benali, ici Isabelle Morin, du service des ressources humaines. Votre candidature pour le poste de comptable a retenu notre attention. Nous aimerions vous rencontrer mardi prochain à 15 heures. Merci d'apporter vos diplômes et une pièce d'identité. Pouvez-vous me confirmer votre présence par courriel ?
+Q: Que doit faire M. Benali pour répondre ?
++ Envoyer un courriel de confirmation. | « Pouvez-vous me confirmer votre présence par courriel ? »
+- Rappeler le service par téléphone. | La confirmation se fait par courriel.
+- Envoyer ses diplômes à l'avance. | Il doit les apporter à l'entretien.
+- Se présenter mardi sans prévenir. | Une confirmation est demandée.
+EXP: Le message contient plusieurs informations (date, documents, confirmation). La question porte sur la réponse attendue : un courriel.
+
+## CO 6 | B1 | information radio | information précise | H:fr-FR
+DOC: H: Bonne nouvelle pour les amateurs de musique : le festival des Nuits d'été revient du 12 au 15 juillet. Cette année, les concerts du jeudi et du vendredi seront gratuits pour les moins de vingt-cinq ans. Les billets pour le week-end sont déjà en vente sur le site du festival.
+Q: Qui pourra assister gratuitement à certains concerts ?
++ Les jeunes de moins de vingt-cinq ans. | Les concerts du jeudi et du vendredi sont gratuits pour eux.
+- Tous les spectateurs le week-end. | Les billets du week-end sont payants.
+- Les habitants de la ville. | Ce n'est pas mentionné.
+- Les personnes qui achètent sur Internet. | Le site sert à acheter, pas à obtenir la gratuité.
+EXP: La gratuité est limitée par deux conditions : l'âge (moins de 25 ans) et les jours (jeudi et vendredi).
+
+## CO 7 | B1 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous avez appris le piano à cinquante ans. Ce n'était pas trop difficile ? / H: Si, au début, mes doigts ne m'obéissaient pas ! Mais j'ai eu une professeure très patiente. Aujourd'hui, je joue tous les soirs une demi-heure. C'est mon moment à moi, ça m'aide à oublier le stress du travail.
+Q: Que représente le piano pour cet homme aujourd'hui ?
++ Un moment de détente quotidien. | « C'est mon moment à moi, ça m'aide à oublier le stress ».
+- Une nouvelle profession. | Il a toujours son travail.
+- Une source de stress. | Au contraire, il l'aide à se détendre.
+- Une activité trop difficile pour lui. | C'était difficile au début seulement.
+EXP: « Si » répond affirmativement à une question négative. Le passage du passé (« au début ») au présent (« aujourd'hui ») montre l'évolution.
+
+## CO 8 | B1 | annonce publique | information précise | F:fr-CH
+DOC: F: Attention : en raison d'une manifestation, la ligne de bus numéro 4 ne desservira pas les arrêts « Hôtel de ville » et « Cathédrale » entre 14 h et 18 h. Un arrêt provisoire est installé rue des Lilas. Nous vous remercions de votre compréhension.
+Q: Que se passe-t-il cet après-midi ?
++ Le bus 4 ne s'arrête pas à deux arrêts habituels. | Il ne dessert pas « Hôtel de ville » et « Cathédrale ».
+- La ligne 4 est totalement supprimée. | Seuls deux arrêts sont concernés.
+- Les bus sont gratuits. | Rien n'est dit sur le prix.
+- La rue des Lilas est fermée. | Un arrêt provisoire y est installé.
+EXP: « Desservir un arrêt » = s'y arrêter. L'arrêt provisoire remplace les arrêts supprimés pendant la manifestation.
+
+## CO 9 | B1 | situation administrative | information précise | H:fr-FR, F:fr-FR
+DOC: F: Bonjour, j'ai perdu ma carte bancaire. / H: Vous l'avez fait opposer ? / F: Non, pas encore. / H: Il faut le faire tout de suite : appelez le numéro au dos de votre chéquier ou utilisez l'application. Ensuite, nous vous commanderons une nouvelle carte. Vous la recevrez sous une semaine.
+Q: Quelle est la première chose que la cliente doit faire ?
++ Faire bloquer sa carte. | « Il faut le faire tout de suite » : faire opposition.
+- Commander une nouvelle carte. | Ce sera fait « ensuite ».
+- Attendre une semaine. | C'est le délai de réception de la nouvelle carte.
+- Changer de banque. | Ce n'est pas évoqué.
+EXP: « Faire opposition » = bloquer une carte perdue ou volée. Les marqueurs « tout de suite » et « ensuite » indiquent l'ordre des étapes.
+
+## CO 10 | B1 | conversation professionnelle | information précise | H:fr-FR, F:fr-BE
+DOC: H: Le salon de l'emploi, c'est jeudi. On y va en voiture ? / F: Non, c'est impossible de se garer là-bas. Prenons le train de 7 h 40, on arrivera à l'ouverture. / H: D'accord, et pour les brochures ? / F: Je les ai fait imprimer, je les apporte.
+Q: Comment iront-ils au salon ?
++ En train. | « Prenons le train de 7 h 40 ».
+- En voiture. | Elle refuse : impossible de se garer.
+- En bus. | Le bus n'est pas évoqué.
+- À pied. | Ce n'est pas évoqué.
+EXP: La proposition de l'homme est refusée (« Non, c'est impossible… ») et remplacée par celle de la femme, introduite par l'impératif « Prenons ».
+
+## CO 11 | B2 | débat | opinion | F:fr-FR, H:fr-FR
+DOC: H: Le sport à l'école, deux heures par semaine, c'est largement suffisant. / F: Vous plaisantez ? Avec la sédentarité des enfants aujourd'hui, c'est le minimum ! Et il ne s'agit pas seulement de santé : le sport apprend à perdre, à coopérer, à respecter des règles. Je serais même favorable à une heure par jour.
+Q: Quelle est la position de la femme ?
++ Elle souhaite augmenter le temps de sport à l'école. | « Je serais même favorable à une heure par jour ».
+- Elle pense que deux heures suffisent. | Elle dit que c'est « le minimum ».
+- Elle estime que le sport est uniquement une question de santé. | « Il ne s'agit pas seulement de santé ».
+- Elle veut supprimer le sport à l'école. | C'est l'inverse.
+EXP: « Vous plaisantez ? » marque un désaccord fort. « Ne… pas seulement » ajoute des arguments éducatifs. « Même » renforce la proposition finale.
+
+## CO 12 | B2 | information radio | information globale | H:fr-FR
+DOC: H: Les pharmacies alertent sur des difficultés d'approvisionnement en certains antibiotiques pour enfants. Les autorités sanitaires assurent qu'il n'y a pas de pénurie générale, mais recommandent aux médecins de privilégier, lorsque c'est possible, d'autres formes de traitement, comme les comprimés à écraser.
+Q: Quel est le sujet de cette information ?
++ Des tensions sur certains médicaments pour enfants. | « difficultés d'approvisionnement en certains antibiotiques pour enfants ».
+- Une pénurie générale de médicaments. | Les autorités disent qu'il n'y a pas de pénurie générale.
+- La fermeture de pharmacies. | Rien ne l'indique.
+- Un nouveau médicament pour enfants. | Il s'agit de médicaments existants.
+EXP: « Approvisionnement » = livraison de stocks. La nuance « pas de pénurie générale, mais… » limite le problème à certains produits.
+
+## CO 13 | B2 | interview | information détaillée | F:fr-FR, H:fr-CA
+DOC: F: Vous êtes boulanger et vous avez décidé de fermer le lundi et le mardi. Pourquoi ? / H: J'ai calculé que ces deux jours représentaient à peine dix pour cent de mes ventes. En fermant, je garde la même qualité les autres jours, mon équipe se repose, et franchement, les clients se sont adaptés en quelques semaines.
+Q: Pourquoi le boulanger a-t-il décidé de fermer deux jours ?
++ Ces jours rapportaient peu et la fermeture améliore les conditions de travail. | Faibles ventes (10 %) et repos de l'équipe.
+- Ses clients le lui ont demandé. | Les clients se sont adaptés, ils n'ont rien demandé.
+- Il manquait de farine. | Ce n'est pas évoqué.
+- Il voulait augmenter ses prix. | Les prix ne sont pas mentionnés.
+EXP: Deux raisons sont données : économique (« à peine dix pour cent ») et humaine (« mon équipe se repose »). « À peine » = presque pas, très peu.
+
+## CO 14 | B2 | message téléphonique | implicite | H:fr-FR
+DOC: H: Bonjour Madame Lopez, c'est Julien, du garage. Bon, j'ai regardé votre voiture… Les freins, c'est fait. Par contre, j'ai remarqué autre chose au niveau du moteur. Je préfère vous en parler de vive voix avant de commander la pièce, parce que… enfin, ce n'est pas donné. Passez quand vous pouvez.
+Q: Que laisse comprendre le garagiste ?
++ Une réparation supplémentaire risque de coûter cher. | « ce n'est pas donné » = c'est cher.
+- La voiture est prête et sans problème. | Il a découvert un problème au moteur.
+- Les freins n'ont pas pu être réparés. | « Les freins, c'est fait ».
+- Il a déjà commandé la pièce. | Il veut en parler « avant de commander ».
+EXP: « Ce n'est pas donné » est une litote pour « c'est cher ». Les hésitations (« parce que… enfin ») et le choix de parler « de vive voix » suggèrent une mauvaise nouvelle.
+
+## CO 15 | B2 | conversation professionnelle | relation logique | F:fr-FR, H:fr-FR
+DOC: F: Les inscriptions à la formation ont chuté de moitié cette année. / H: Ça ne m'étonne pas. Depuis qu'on l'a rendue payante pour les salariés, beaucoup y ont renoncé. Ce n'est pas le contenu qui pose problème, les évaluations sont excellentes. / F: Alors il faudrait convaincre la direction de revenir sur cette décision.
+Q: Pourquoi les inscriptions ont-elles baissé, selon l'homme ?
++ Parce que la formation est devenue payante. | « Depuis qu'on l'a rendue payante… beaucoup y ont renoncé ».
+- Parce que le contenu est mauvais. | Les évaluations sont excellentes.
+- Parce que la direction l'a supprimée. | Elle existe toujours.
+- Parce que les salariés manquent de temps. | Ce n'est pas mentionné.
+EXP: « Depuis que » introduit une cause qui dure. La phrase « ce n'est pas le contenu qui pose problème » écarte une autre explication.
+
+## CO 16 | B2 | interview | information détaillée | H:fr-FR, F:fr-FR
+DOC: H: Votre application aide les gens à moins gaspiller. Comment ça marche ? / F: Les commerçants proposent, en fin de journée, leurs invendus à prix réduit dans des paniers surprises. Le client ne choisit pas exactement ce qu'il aura, mais il paie environ un tiers du prix. Tout le monde y gagne : le commerçant récupère un peu d'argent, et la nourriture n'est pas jetée.
+Q: Quelle est la particularité des paniers proposés ?
++ Le client ne sait pas exactement ce qu'ils contiennent. | « Le client ne choisit pas exactement ce qu'il aura ».
+- Ils sont gratuits. | Le client paie environ un tiers du prix.
+- Ils sont livrés à domicile. | La livraison n'est pas évoquée.
+- Ils contiennent uniquement des produits frais du matin. | Ce sont des invendus de fin de journée.
+EXP: « Panier surprise » et « ne choisit pas exactement » se répondent. « Invendus » = produits non vendus. « Tout le monde y gagne » résume l'intérêt.
+
+## CO 17 | B2 | annonce publique | information précise | F:fr-FR
+DOC: F: Le musée des Beaux-Arts informe ses visiteurs que l'exposition « Lumières du Nord » est prolongée jusqu'au 30 novembre en raison de son succès. Afin de limiter l'attente, la réservation d'un créneau horaire est désormais obligatoire le week-end, y compris pour les détenteurs du pass annuel.
+Q: Qui doit réserver le week-end ?
++ Tous les visiteurs, y compris ceux qui ont un pass annuel. | « y compris pour les détenteurs du pass annuel ».
+- Uniquement les visiteurs sans pass. | « Y compris » inclut aussi les détenteurs du pass.
+- Seulement les groupes. | Les groupes ne sont pas mentionnés.
+- Personne, la réservation est facultative. | Elle est « désormais obligatoire ».
+EXP: « Y compris » = également, inclus. Ne confondez pas avec « sauf » ou « excepté ». « Créneau horaire » = plage horaire réservée.
+
+## CO 18 | B2 | information radio | relation logique | H:fr-BE
+DOC: H: Le nombre d'apprentis a atteint un niveau record cette année. Les aides financières versées aux entreprises qui recrutent un apprenti y sont pour beaucoup. Reste à savoir si ce mouvement résistera à la baisse de ces aides, prévue pour l'an prochain.
+Q: Quelle inquiétude le journaliste exprime-t-il ?
++ La hausse pourrait ne pas durer après la réduction des aides. | « Reste à savoir si ce mouvement résistera à la baisse de ces aides ».
+- Les entreprises refusent les apprentis. | Elles en recrutent un nombre record.
+- Les apprentis abandonnent leur formation. | Ce n'est pas évoqué.
+- Les aides vont augmenter l'an prochain. | Elles vont baisser.
+EXP: « Y être pour beaucoup » = être une cause importante. « Reste à savoir si » exprime un doute sur l'avenir.
+
+## CO 19 | B2 | débat | argumentation | F:fr-FR, H:fr-CH
+DOC: F: On devrait taxer davantage les produits trop sucrés. / H: Taxer, c'est toujours pénaliser les plus modestes, qui consomment justement ces produits bon marché. Je préférerais qu'on oblige les industriels à réduire le sucre dans leurs recettes. Là, tout le monde en profiterait sans payer plus.
+Q: Que propose l'homme ?
++ Imposer aux fabricants de réduire le sucre. | « Je préférerais qu'on oblige les industriels à réduire le sucre ».
+- Augmenter la taxe sur les produits sucrés. | Il s'y oppose.
+- Interdire les produits sucrés. | Il ne propose pas d'interdiction.
+- Baisser le prix des produits sucrés. | Ce n'est pas sa proposition.
+EXP: L'argument contre la taxe (elle pénalise les modestes) est suivi d'une contre-proposition au conditionnel « Je préférerais que + subjonctif ».
+
+## CO 20 | B2 | interview | implicite | H:fr-FR, F:fr-FR
+DOC: H: Vous avez été élue meilleure entraîneuse de l'année. Vous vous y attendiez ? / F: Honnêtement, non. Il y a deux ans, on me disait que mon équipe était trop jeune pour viser quoi que ce soit. Je crois que mes joueuses ont pris ça comme un défi personnel. Je ne remercierai jamais assez ceux qui ont douté de nous.
+Q: Qu'exprime l'entraîneuse dans sa dernière phrase ?
++ Une forme d'ironie envers ceux qui ne croyaient pas en l'équipe. | Les critiques ont motivé l'équipe : elle les « remercie » ironiquement.
+- Une profonde gratitude envers ses dirigeants. | Il ne s'agit pas de ses dirigeants.
+- Des regrets pour les années passées. | Rien n'exprime des regrets.
+- De la colère contre ses joueuses. | Elle les félicite implicitement.
+EXP: Remercier « ceux qui ont douté » est paradoxal : leurs doutes ont servi de motivation. C'est une remarque ironique et triomphante.
+
+## CO 21 | C1 | information radio | information détaillée | F:fr-FR
+DOC: F: La ville expérimente depuis septembre des « rues aux écoles » : aux heures d'entrée et de sortie des classes, la circulation automobile est interdite devant les établissements. Premier bilan : une qualité de l'air nettement améliorée aux abords des écoles, mais un report du trafic sur les rues adjacentes, dont les riverains commencent à se plaindre.
+Q: Quel effet négatif est signalé ?
++ La circulation s'est déplacée vers les rues voisines. | « un report du trafic sur les rues adjacentes ».
+- La qualité de l'air s'est dégradée devant les écoles. | Elle s'est améliorée.
+- Les parents ne peuvent plus accompagner leurs enfants. | Ce n'est pas dit.
+- Les écoles ont changé leurs horaires. | Ce n'est pas mentionné.
+EXP: « Report » = déplacement. « Adjacentes » = voisines, qui touchent. « Riverains » = habitants d'une rue. La structure « premier bilan : X, mais Y » présente l'avantage puis l'inconvénient.
+
+## CO 22 | B2 | conversation professionnelle | intention | H:fr-FR, F:fr-FR
+DOC: H: Madame Petit, je vous ai fait venir parce que plusieurs clients se sont plaints de délais de réponse trop longs dans votre service. / F: Je comprends, mais nous sommes deux à traiter le travail de quatre depuis le départ de nos collègues. / H: Je l'entends. Je vais voir ce que je peux faire pour un renfort temporaire.
+Q: Comment réagit le responsable à l'explication de Mme Petit ?
++ Il la prend en compte et envisage une aide. | « Je l'entends. Je vais voir… pour un renfort temporaire ».
+- Il la rejette et la sanctionne. | Il ne la sanctionne pas.
+- Il lui demande de travailler plus vite. | Ce n'est pas sa réponse.
+- Il lui annonce le retour de ses collègues. | Il parle d'un renfort temporaire.
+EXP: « Je l'entends » = je comprends et je prends en compte. « Renfort » = personnel supplémentaire. Le reproche initial se transforme en recherche de solution.
+
+## CO 23 | C1 | débat | argumentation | F:fr-CA, H:fr-FR
+DOC: H: Le vote obligatoire réglerait le problème de l'abstention. / F: Il réglerait le symptôme, pas la cause. Forcer les gens à se rendre aux urnes ne les rendra pas plus confiants envers leurs représentants. Si l'on veut que les citoyens votent, il faut d'abord qu'ils aient le sentiment que leur voix compte réellement.
+Q: Quel est l'argument de la femme ?
++ L'obligation ne traite pas la vraie raison de l'abstention. | « Il réglerait le symptôme, pas la cause ».
+- L'abstention n'est pas un problème. | Elle ne nie pas le problème.
+- Le vote obligatoire existe déjà. | Ce n'est pas dit.
+- Les citoyens font trop confiance aux élus. | Elle évoque un manque de confiance.
+EXP: L'opposition symptôme/cause est une image médicale courante dans l'argumentation. La condition « il faut d'abord que + subjonctif » donne la vraie solution selon elle.
+
+## CO 24 | C1 | interview | opinion | H:fr-FR, F:fr-FR
+DOC: F: Vous êtes urbaniste. Les villes doivent-elles se densifier ? / H: La densité fait peur, on l'associe aux grands ensembles des années soixante. Pourtant, une ville dense bien conçue, avec des espaces verts et des services de proximité, consomme moins de terres agricoles et permet de se passer de voiture. Le véritable enjeu n'est pas la densité elle-même, mais sa qualité.
+Q: Quelle est l'opinion de l'urbaniste ?
++ La densité est souhaitable si elle est bien pensée. | « Le véritable enjeu n'est pas la densité elle-même, mais sa qualité ».
+- La densité doit être évitée à tout prix. | Il en défend les avantages.
+- Les grands ensembles sont un modèle à suivre. | Il les cite comme source de peur.
+- Les villes devraient supprimer les espaces verts. | Il les intègre à une ville dense réussie.
+EXP: Le texte suit une progression : idée reçue (« fait peur »), réfutation (« Pourtant »), thèse (« Le véritable enjeu… »).
+
+## CO 25 | C1 | information radio | implicite | F:fr-FR
+DOC: F: Le nouveau stade, dont le coût initial était estimé à cent millions d'euros, a été inauguré hier en présence du ministre. Une facture finale qui avoisinerait les deux cent cinquante millions… Le ministre a salué « un équipement à la hauteur de nos ambitions ». Les contribuables apprécieront.
+Q: Que sous-entend la journaliste dans la dernière phrase ?
++ Les citoyens pourraient être mécontents du coût. | « Les contribuables apprécieront » est ironique.
+- Les contribuables sont ravis du stade. | La phrase est ironique.
+- Le stade a coûté moins que prévu. | Il a coûté deux fois et demie plus.
+- Le ministre a payé le stade lui-même. | Ce sont les contribuables qui paient.
+EXP: L'ironie naît du contraste entre l'enthousiasme du ministre et l'explosion du budget. « Les contribuables apprécieront » signifie l'inverse : ils ne seront pas contents.
+
+## CE 1 | A2 | message | information précise
+DOC: Bonjour Madame Diallo, la réunion des parents d'élèves aura lieu le jeudi 9 novembre à 18 h dans la salle 12. Nous parlerons du voyage scolaire de printemps. Merci de confirmer votre présence avant lundi. Mme Roux, professeure principale.
+Q: De quoi va-t-on parler à la réunion ?
++ Du voyage scolaire. | « Nous parlerons du voyage scolaire de printemps ».
+- Des notes des élèves. | Ce n'est pas indiqué.
+- De la cantine. | Ce n'est pas indiqué.
+- Du changement de professeur. | Ce n'est pas indiqué.
+EXP: Le sujet est annoncé par « Nous parlerons de… ». Les autres informations (date, salle, confirmation) sont pratiques.
+
+## CE 2 | A2 | annonce | information précise
+DOC: Cours de yoga pour débutants – Tous les mercredis de 19 h à 20 h, salle des fêtes. Premier cours gratuit ! Ensuite : 8 € la séance ou 70 € les 10 séances. Apportez votre tapis.
+Q: Combien coûte le premier cours ?
++ Il est gratuit. | « Premier cours gratuit ! »
+- 8 euros. | C'est le prix des séances suivantes.
+- 70 euros. | C'est le prix de 10 séances.
+- 10 euros. | Ce prix n'apparaît pas.
+EXP: L'annonce distingue le premier cours (gratuit) et les suivants (« Ensuite »).
+
+## CE 3 | A2 | courriel | information précise
+DOC: Salut Max, merci pour ton invitation ! Je viendrai avec plaisir à ta fête samedi. Je pense arriver vers 20 h, après le travail. Est-ce que je peux venir avec ma sœur ? Elle est chez moi ce week-end. À samedi ! Inès
+Q: Que demande Inès ?
++ Si elle peut venir accompagnée de sa sœur. | « Est-ce que je peux venir avec ma sœur ? »
+- L'adresse de la fête. | Elle ne la demande pas.
+- Si la fête peut commencer plus tard. | Elle ne demande pas de changement d'horaire.
+- Si Max peut venir la chercher. | Ce n'est pas demandé.
+EXP: Repérez la phrase interrogative : c'est elle qui contient la demande.
+
+## CE 4 | B1 | article de presse | information globale
+DOC: Dans le quartier des Lilas, les habitants ont transformé un terrain vague en jardin partagé. Chaque famille dispose d'une petite parcelle, et des ateliers sont organisés le samedi pour apprendre à cultiver sans pesticides. « Au-delà des légumes, ce jardin a recréé du lien entre voisins qui ne se parlaient pas », explique Fatou, l'une des fondatrices.
+Q: Selon Fatou, quel est le principal bénéfice du jardin ?
++ Il a rapproché les habitants du quartier. | « ce jardin a recréé du lien entre voisins ».
+- Il permet de vendre des légumes. | La vente n'est pas évoquée.
+- Il a remplacé un parking. | C'était un terrain vague.
+- Il utilise des pesticides naturels. | On y cultive sans pesticides.
+EXP: « Au-delà de » introduit un bénéfice plus important que le premier. « Recréer du lien » = rétablir des relations.
+
+## CE 5 | B1 | lettre administrative | information précise
+DOC: Madame, Monsieur, nous vous informons que la collecte des encombrants (meubles, gros appareils) aura lieu le premier mardi de chaque mois. Les objets doivent être déposés sur le trottoir la veille au soir, après 19 heures. Les produits dangereux (peintures, batteries) ne sont pas acceptés et doivent être apportés à la déchetterie.
+Q: Quand faut-il sortir les encombrants ?
++ Le lundi soir précédant la collecte, après 19 heures. | « la veille au soir, après 19 heures » (collecte le mardi).
+- Le mardi matin avant 19 heures. | Il faut les sortir la veille.
+- N'importe quel jour du mois. | La collecte a lieu un jour précis.
+- Le premier lundi du mois à la déchetterie. | La déchetterie concerne les produits dangereux.
+EXP: « La veille » = le jour d'avant. La collecte ayant lieu le mardi, la veille est le lundi.
+
+## CE 6 | B1 | publicité | information précise
+DOC: Nouveau ! La salle de sport FormaPlus ouvre ses portes rue Victor-Hugo. Pour l'ouverture, abonnement à 19,90 € par mois sans engagement. Accès illimité aux machines, cours collectifs inclus. Offre réservée aux 200 premiers inscrits.
+Q: Qu'est-ce qui limite cette offre ?
++ Le nombre d'inscrits. | « Offre réservée aux 200 premiers inscrits ».
+- La durée de l'engagement. | L'abonnement est sans engagement.
+- L'accès aux cours collectifs. | Ils sont inclus.
+- L'âge des clients. | L'âge n'est pas mentionné.
+EXP: « Réservée aux 200 premiers inscrits » fixe une limite quantitative. « Sans engagement » signifie qu'on peut arrêter à tout moment.
+
+## CE 7 | B1 | message professionnel | intention
+DOC: Chers collègues, comme vous le savez, Marie part à la retraite à la fin du mois après 30 ans dans l'entreprise. Nous organisons un pot de départ le vendredi 28 à 17 h. Pour son cadeau, une enveloppe circule dans les bureaux : chacun donne ce qu'il souhaite. Merci de ne rien lui dire, c'est une surprise ! Paul
+Q: Quel est l'objectif de ce message ?
++ Organiser discrètement une fête et un cadeau pour une collègue. | Pot de départ, collecte et surprise.
+- Annoncer le départ de Paul. | C'est Marie qui part.
+- Demander à chacun une somme fixe. | « Chacun donne ce qu'il souhaite ».
+- Inviter Marie à une réunion. | Marie ne doit pas être informée.
+EXP: Le message combine trois informations : l'événement (pot), la collecte (enveloppe) et la consigne de discrétion (surprise).
+
+## CE 8 | B1 | témoignage | opinion
+DOC: « Je travaille à quatre jours par semaine depuis un an. Je gagne un peu moins, c'est vrai, mais j'ai enfin du temps pour mes enfants et pour moi. Je ne reviendrais en arrière pour rien au monde. » Céline, 38 ans, graphiste.
+Q: Que pense Céline de son choix ?
++ Elle en est très satisfaite malgré la baisse de salaire. | « Je ne reviendrais en arrière pour rien au monde ».
+- Elle le regrette à cause du salaire. | Elle accepte de gagner moins.
+- Elle veut retravailler cinq jours. | C'est l'inverse.
+- Elle n'a toujours pas de temps libre. | Elle a « enfin du temps ».
+EXP: « Pour rien au monde » renforce la négation : en aucun cas. La concession « c'est vrai, mais » relativise l'inconvénient.
+
+## CE 9 | B1 | document informatif | information précise
+DOC: Bibliothèque universitaire – Règlement. Les livres peuvent être empruntés pour trois semaines, renouvelables une fois en ligne. En cas de retard, le compte est bloqué pendant une durée égale au retard. Les ordinateurs portables se prêtent uniquement sur place, pour quatre heures maximum.
+Q: Que se passe-t-il si un étudiant rend un livre en retard ?
++ Il ne peut plus emprunter pendant un certain temps. | Le compte est bloqué pendant une durée égale au retard.
+- Il doit payer une amende. | Aucune amende n'est prévue.
+- Il ne peut plus jamais emprunter. | Le blocage est temporaire.
+- Il doit racheter le livre. | Ce n'est pas indiqué.
+EXP: « Une durée égale au retard » : 5 jours de retard = 5 jours de blocage. C'est une sanction proportionnelle et temporaire.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: Les ventes de vélos d'occasion explosent. Plateformes en ligne, bourses aux vélos organisées par les associations, ateliers de réparation solidaires : les solutions se multiplient pour s'équiper à moindre coût. Une tendance qui répond à la fois à la hausse des prix des vélos neufs et à une volonté croissante de consommer de manière plus responsable.
+Q: Comment l'article explique-t-il cette tendance ?
++ Par des raisons économiques et écologiques. | Hausse des prix des vélos neufs et consommation responsable.
+- Par la baisse de qualité des vélos neufs. | La qualité n'est pas évoquée.
+- Par une obligation légale. | Rien ne l'indique.
+- Par la fermeture des magasins de vélos. | Ce n'est pas mentionné.
+EXP: « À la fois… et… » introduit deux causes. « À moindre coût » = moins cher.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: Chaque année, on nous promet que les devoirs à la maison vont disparaître. Chaque année, ils reviennent, plus discrets mais toujours là. Le problème n'est pas tant leur existence que les inégalités qu'ils creusent : l'enfant aidé par des parents disponibles et diplômés part avec une longueur d'avance sur celui qui travaille seul.
+Q: Que dénonce l'auteur ?
++ Les inégalités renforcées par les devoirs. | « les inégalités qu'ils creusent ».
+- L'existence même des devoirs. | « Le problème n'est pas tant leur existence ».
+- Le manque de travail des élèves. | Ce n'est pas l'objet du texte.
+- Les parents trop diplômés. | Il décrit un avantage, il ne dénonce pas les parents.
+EXP: « Ne… pas tant X que Y » signifie « moins X que Y » : l'auteur déplace le problème. « Creuser les inégalités » = les augmenter.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Monsieur, je me permets de revenir vers vous concernant la facture n° 2045, restée impayée malgré notre relance du 15 mars. Sans règlement de votre part sous quinze jours, nous nous verrons contraints d'engager une procédure de recouvrement.
+Q: Que signifie « une procédure de recouvrement » ?
++ Une démarche pour récupérer une somme due. | Recouvrer = récupérer de l'argent.
+- Une remise de dette. | C'est l'inverse.
+- Un nouveau devis. | Ce n'est pas le sens.
+- Un remboursement au client. | C'est le client qui doit payer.
+EXP: « Recouvrer » (récupérer) n'a rien à voir avec « recouvrir ». Le contexte (facture impayée, relance, menace) l'indique.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: Pour lutter contre la désertification médicale, le département a mis en place un bus médical qui sillonne les villages. Deux médecins généralistes y consultent à tour de rôle, quatre jours par semaine. Les patients doivent prendre rendez-vous par téléphone. Le dispositif, financé pour deux ans, sera évalué avant d'être éventuellement prolongé.
+Q: Qu'est-il prévu à la fin des deux ans ?
++ Une évaluation avant une éventuelle prolongation. | « sera évalué avant d'être éventuellement prolongé ».
+- La fin définitive du service. | Une prolongation est possible.
+- L'ouverture d'un cabinet fixe. | Ce n'est pas dit.
+- L'arrivée de nouveaux médecins. | Ce n'est pas dit.
+EXP: « Éventuellement » = peut-être (faux ami de « eventually »). « Désertification médicale » = manque de médecins.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Madame, nous avons le regret de vous informer que votre demande de bourse n'a pas pu aboutir, vos revenus dépassant le plafond autorisé. Vous disposez d'un délai de deux mois à compter de la réception de ce courrier pour former un recours gracieux auprès de nos services, en joignant tout justificatif d'un changement de situation.
+Q: Que peut faire la destinataire si elle conteste la décision ?
++ Déposer un recours dans les deux mois avec des justificatifs. | « former un recours gracieux… en joignant tout justificatif ».
+- Refaire une demande l'an prochain uniquement. | Un recours immédiat est possible.
+- Demander un délai de paiement. | Il ne s'agit pas de payer.
+- Rien, la décision est définitive. | Un recours est prévu.
+EXP: « Ne pas aboutir » = échouer. « Plafond » = limite maximale. « Recours gracieux » = demande de réexamen à la même administration.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: On accuse volontiers les jeux vidéo de rendre les jeunes violents. Or, aucune étude sérieuse n'a établi de lien de cause à effet. Certains travaux suggèrent même que les jeux coopératifs développent l'esprit d'équipe. Cela ne signifie pas pour autant que tout est permis : le temps de jeu et l'âge des joueurs restent des questions légitimes.
+Q: Quelle est la fonction de la dernière phrase ?
++ Elle nuance la défense des jeux vidéo. | « Cela ne signifie pas pour autant que tout est permis ».
+- Elle prouve que les jeux rendent violent. | Elle ne revient pas sur cette accusation.
+- Elle conclut que les jeux doivent être interdits. | Elle parle de questions légitimes, pas d'interdiction.
+- Elle présente une nouvelle étude scientifique. | Aucune étude n'y est citée.
+EXP: « Pour autant » introduit une restriction : après avoir défendu les jeux, l'auteur rappelle des limites. « Or » introduit un fait qui contredit l'accusation.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: Le projet d'éoliennes au large de la côte divise. Les pêcheurs redoutent la perte de zones de pêche, tandis que les élus locaux mettent en avant les emplois créés. Quant aux associations environnementales, elles soutiennent le projet tout en réclamant des études approfondies sur les oiseaux migrateurs.
+Q: Quelle est la position des associations environnementales ?
++ Favorables, mais avec des exigences. | Elles soutiennent le projet « tout en réclamant des études ».
+- Totalement opposées. | Elles soutiennent le projet.
+- Indifférentes. | Elles prennent position.
+- Inquiètes pour les emplois. | Ce sont les élus qui parlent des emplois.
+EXP: « Tout en + participe présent » exprime une simultanéité avec nuance. « Quant à » introduit un nouvel acteur.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: La rupture conventionnelle permet à un employeur et à un salarié en CDI de mettre fin d'un commun accord au contrat de travail. Le salarié perçoit une indemnité au moins égale à l'indemnité légale de licenciement et peut bénéficier de l'allocation chômage. Chaque partie dispose d'un délai de rétractation de quinze jours après la signature.
+Q: Quelle est la particularité de la rupture conventionnelle ?
++ Elle repose sur l'accord des deux parties. | « mettre fin d'un commun accord ».
+- Elle est décidée par l'employeur seul. | Il faut l'accord des deux.
+- Elle prive le salarié du chômage. | Il peut en bénéficier.
+- Elle ne peut pas être annulée. | Il existe un délai de rétractation.
+EXP: « D'un commun accord » = avec l'accord des deux parties. « Se rétracter » = revenir sur sa décision.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « Mon fils a passé son été à faire du bénévolat dans un refuge pour animaux. À la rentrée, il m'a annoncé qu'il voulait devenir vétérinaire. Moi qui avais insisté pour qu'il trouve un "vrai" job d'été afin de gagner un peu d'argent… » Sylvie, 52 ans.
+Q: Que sous-entend Sylvie ?
++ L'expérience non rémunérée a été plus utile qu'elle ne le pensait. | Le bénévolat a révélé une vocation, alors qu'elle préférait un job payé.
+- Elle est déçue que son fils n'ait pas gagné d'argent. | Le ton suggère plutôt une surprise positive.
+- Son fils a trouvé un emploi de vétérinaire. | Il veut le devenir, il ne l'est pas.
+- Elle a obligé son fils à faire du bénévolat. | Elle voulait un « vrai » job.
+EXP: La phrase inachevée (« Moi qui avais insisté… ») et les guillemets autour de « vrai » marquent l'autodérision : elle reconnaît s'être trompée.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Les partisans de l'uniforme scolaire soutiennent qu'il efface les différences sociales visibles et limite la pression des marques. Ses opposants rétorquent qu'il ne supprime pas les inégalités, qui se manifestent autrement (téléphones, chaussures, activités), et qu'il bride l'expression de la personnalité des adolescents.
+Q: Quel argument est avancé contre l'uniforme ?
++ Les inégalités apparaissent sous d'autres formes. | « il ne supprime pas les inégalités, qui se manifestent autrement ».
+- Il coûte trop cher aux familles. | Le coût n'est pas évoqué.
+- Il augmente la pression des marques. | Les partisans disent qu'il la limite.
+- Il efface les différences sociales. | C'est l'argument des partisans.
+EXP: « Rétorquer » = répondre en s'opposant. « Brider » = limiter, empêcher de s'exprimer librement.
+
+## CE 20 | B2 | article de presse | relation logique
+DOC: Les inscriptions dans les écoles de soins infirmiers ont baissé de 15 % en deux ans. Les conditions de travail difficiles, largement médiatisées pendant la crise sanitaire, ont découragé une partie des candidats. Si rien n'est fait, préviennent les syndicats, la pénurie de personnel soignant s'aggravera dans les hôpitaux.
+Q: Selon les syndicats, que se passera-t-il si la situation ne change pas ?
++ Le manque d'infirmiers augmentera. | « la pénurie de personnel soignant s'aggravera ».
+- Les écoles fermeront. | Ce n'est pas dit.
+- Les conditions de travail s'amélioreront. | C'est ce qu'il faudrait faire, pas une prédiction.
+- Les inscriptions repartiront à la hausse. | C'est le contraire.
+EXP: « Si rien n'est fait » introduit une hypothèse ; le futur « s'aggravera » donne la conséquence prévue.
+
+## CE 21 | C1 | texte argumentatif | intention de l'auteur
+DOC: On célèbre à l'envi l'« esprit d'entreprise » et l'audace des jeunes créateurs. On oublie un peu vite que la prise de risque est un luxe : il est plus aisé de tout quitter pour lancer sa start-up lorsqu'on sait pouvoir compter, en cas d'échec, sur un filet de sécurité familial. Le mythe du self-made-man occulte souvent cette réalité prosaïque.
+Q: Quelle est l'intention de l'auteur ?
++ Montrer que l'audace entrepreneuriale dépend souvent de privilèges. | « la prise de risque est un luxe » ; « filet de sécurité familial ».
+- Encourager tous les jeunes à créer leur entreprise. | Il nuance l'enthousiasme.
+- Prouver que les start-up échouent toujours. | Il ne dit pas cela.
+- Faire l'éloge des self-made-men. | Il parle de « mythe ».
+EXP: « À l'envi » = autant qu'on veut. « Occulter » = cacher. « Prosaïque » = banal, terre-à-terre. L'auteur démystifie un discours dominant.
+
+## CE 22 | C1 | article de presse | sens d'un mot en contexte
+DOC: Après des mois de tergiversations, le conseil municipal a enfin tranché : la vieille halle sera rénovée plutôt que détruite. Une décision saluée par les défenseurs du patrimoine.
+Q: Que signifie « tergiversations » ?
++ hésitations et retards dans la prise de décision. | Le mot « enfin tranché » le confirme.
+- disputes violentes. | L'idée de violence n'est pas présente.
+- travaux de rénovation. | Les travaux viendront après.
+- manifestations publiques. | Rien ne l'indique.
+EXP: « Enfin » et « trancher » (décider) montrent qu'avant, on hésitait. « Tergiverser » = chercher à gagner du temps au lieu de décider.
+
+## CE 23 | C1 | texte argumentatif | arguments contradictoires
+DOC: Pour les uns, la gratuité des musées démocratise l'accès à la culture. Pour les autres, elle profite surtout à un public déjà familier des institutions culturelles, sans attirer ceux qui n'en franchissent jamais la porte. Sans doute la gratuité est-elle nécessaire, mais elle ne saurait suffire : c'est la médiation, l'accompagnement, qui fait tomber les barrières symboliques.
+Q: Quelle est la position de l'auteur ?
++ La gratuité est utile mais doit être complétée par un accompagnement. | « nécessaire, mais elle ne saurait suffire : c'est la médiation… ».
+- La gratuité est inutile. | Il la juge nécessaire.
+- La gratuité suffit à démocratiser la culture. | Il dit qu'elle ne suffit pas.
+- Les musées devraient être payants pour tous. | Il ne le propose pas.
+EXP: « Sans doute… mais » = concession. « Ne saurait » = ne peut pas (registre soutenu). « Barrières symboliques » = obstacles sociaux et culturels.
+
+## CE 24 | C1 | article de presse | sous-entendu
+DOC: Le constructeur présente sa nouvelle voiture comme « la plus écologique de sa gamme ». Il est vrai que, comparée aux trois autres modèles, des 4x4 de plus de deux tonnes, la performance n'était pas difficile à atteindre.
+Q: Que laisse entendre le journaliste ?
++ Le slogan est trompeur car la comparaison est facile. | Les autres modèles sont des 4x4 très lourds.
+- La voiture est la plus écologique du marché. | Elle l'est seulement dans sa gamme.
+- Le constructeur ne fabrique que des petites voitures. | Il fabrique des 4x4.
+- Le journaliste admire l'effort écologique. | Le ton est ironique.
+EXP: « Il est vrai que » semble concéder, mais la suite ridiculise le slogan : être le plus écologique parmi des 4x4 n'a rien d'exceptionnel.
+
+## CE 25 | C1 | document informatif | compréhension globale
+DOC: Le droit à la déconnexion, introduit dans le Code du travail en 2017, impose aux entreprises de plus de cinquante salariés de négocier les modalités par lesquelles leurs employés peuvent ne pas répondre aux sollicitations professionnelles en dehors de leur temps de travail. La loi ne fixe toutefois ni horaires précis ni sanctions spécifiques, laissant aux partenaires sociaux le soin d'en définir le contenu.
+Q: Quelle limite de la loi le texte souligne-t-il ?
++ Elle ne prévoit ni règles précises ni sanctions. | « La loi ne fixe toutefois ni horaires précis ni sanctions spécifiques ».
+- Elle s'applique à toutes les entreprises. | Seulement à celles de plus de 50 salariés.
+- Elle interdit aux salariés de travailler le soir. | Elle permet de ne pas répondre.
+- Elle a été supprimée. | Rien ne l'indique.
+EXP: « Toutefois » introduit la limite. « Partenaires sociaux » = représentants des employeurs et des salariés. La loi fixe un cadre, pas un contenu.
+
+## EE 1 | A2 | décrire une personne
+CONSIGNE: Vous avez un nouveau collègue très sympathique. Vous écrivez un message à un ami pour le lui décrire (physique, caractère, ce que vous faites ensemble) (30 à 60 mots).
+MODELE: Salut Léo ! Au travail, il y a un nouveau collègue, Samir. Il est grand, brun, avec des lunettes et un grand sourire. Il est drôle, patient et toujours prêt à aider. Le midi, on mange souvent ensemble et on parle de football. Je pense que tu l'apprécierais. Je te le présenterai bientôt !
+POINTS: saluer ; décrire le physique ; décrire le caractère ; activité commune ; formule de fin
+CONSEILS: Variez les adjectifs (patient, drôle, serviable) et accordez-les correctement.
+
+## EE 2 | B1 | décrire un événement
+CONSIGNE: Votre ville a organisé une fête de quartier. Vous écrivez un article pour le journal local pour décrire l'événement (lieu, activités, ambiance, participants) (40 à 90 mots).
+MODELE: Dimanche dernier, la place du marché s'est transformée en grande salle de fête à ciel ouvert. Dès midi, plus de trois cents habitants ont partagé un repas où chacun avait apporté un plat. L'après-midi, les enfants ont participé à des jeux et à un atelier de peinture, pendant que les adultes dansaient au son d'un orchestre local. L'ambiance était chaleureuse et conviviale. Les organisateurs ont déjà promis une nouvelle édition l'été prochain.
+POINTS: situer l'événement ; décrire les activités ; décrire l'ambiance ; conclure
+CONSEILS: Utilisez le passé composé pour les actions et l'imparfait pour l'ambiance. Évitez les répétitions de « il y avait ».
+
+## EE 3 | B2 | justifier une décision
+CONSIGNE: Votre entreprise propose aux salariés de travailler quatre jours par semaine avec un salaire réduit de 10 %. Vous écrivez au service des ressources humaines pour accepter ou refuser cette proposition en justifiant votre décision (40 à 90 mots).
+MODELE: Madame, Monsieur, j'ai bien pris connaissance de la proposition de semaine de quatre jours et je souhaite l'accepter. En effet, ce jour libre me permettrait de suivre une formation en gestion de projet, ce qui profitera également à l'entreprise. Par ailleurs, je suis convaincu que je serai plus concentré et plus efficace sur quatre jours. Certes, la baisse de salaire n'est pas négligeable, mais j'estime que ce choix est le bon pour mon équilibre. Cordialement.
+POINTS: registre formel ; décision claire ; deux arguments ; concession ; formule de politesse
+CONSEILS: Employez le conditionnel pour les projets (me permettrait), des connecteurs (en effet, par ailleurs, certes… mais).
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous interroge sur votre famille, votre logement, vos études et vos habitudes. Développez vos réponses avec des exemples.
+RELANCES: Parlez-moi de votre famille. / Où habitez-vous ? Décrivez votre logement. / Qu'avez-vous étudié ? / Quelles sont vos habitudes le week-end ? / Avez-vous un souvenir d'enfance marquant ? / Pourquoi souhaitez-vous vivre en France ?
+PHRASES: Je viens d'une famille de… / J'habite dans un… qui se trouve… / Quand j'étais enfant, je… / Le week-end, j'ai l'habitude de… / Je souhaite m'installer en France parce que…
+MODELE: Je viens d'une famille de quatre enfants, je suis le deuxième. J'habite dans un petit appartement près du centre, avec une vue sur un parc. J'ai étudié l'informatique à l'université. Le week-end, j'ai l'habitude d'aller courir le samedi matin et de rendre visite à mes amis. Quand j'étais enfant, je passais tous mes étés chez mes grands-parents, à la campagne : c'est mon meilleur souvenir.
+
+## EO 2 | B2 | Demander des renseignements dans une administration | Agent de la mairie
+SCENARIO: Vous venez d'arriver dans la ville et vous souhaitez inscrire votre enfant à l'école et à la cantine. L'examinateur joue le rôle d'un agent de la mairie. Posez des questions sur les démarches, les documents, les tarifs et les délais.
+RELANCES: Bonjour, je vous écoute. / Quel âge a votre enfant ? / Il faut un justificatif de domicile de moins de trois mois. / Le tarif de la cantine dépend de vos revenus. / L'école de votre secteur est complète, nous pouvons vous proposer une autre école. / Avez-vous d'autres questions ?
+PHRASES: Je voudrais savoir quelles démarches… / Quels documents dois-je fournir ? / Comment le tarif est-il calculé ? / Serait-il possible de… ? / Dans ce cas, est-ce que…
+MODELE: Bonjour, je viens d'emménager et je voudrais inscrire mon fils de sept ans à l'école. Quels documents dois-je fournir ? Comme je viens d'arriver, je n'ai pas encore de facture d'électricité ; est-ce que mon bail suffit ? Et pour la cantine, comment est calculé le tarif ? Si l'école du quartier est complète, est-ce que l'autre école est desservie par un bus scolaire ?
+
+## EO 3 | B2 | Les enfants doivent-ils pratiquer une activité sportive ? | Examinateur
+SCENARIO: Donnez votre opinion sur la question : « Faut-il obliger les enfants à pratiquer une activité sportive en dehors de l'école ? » Argumentez, donnez des exemples, nuancez et concluez.
+RELANCES: Qu'en pensez-vous ? / Pouvez-vous donner un exemple ? / Et si l'enfant n'aime pas le sport ? / Le coût peut-il être un obstacle ? / Quelle est votre conclusion ?
+PHRASES: Je suis convaincu que… / Cela s'explique notamment par… / Toutefois… / Dans une certaine mesure… / Pour toutes ces raisons…
+MODELE: Je suis convaincu que le sport est essentiel pour les enfants, mais je ne pense pas qu'il faille l'imposer. Le sport développe la santé, la confiance et l'esprit d'équipe : mon neveu, très timide, s'est fait beaucoup d'amis au club de basket. Toutefois, un enfant forcé risque de se dégoûter. Il vaut mieux lui faire essayer plusieurs activités. Par ailleurs, le coût des clubs peut être un obstacle pour certaines familles. Pour toutes ces raisons, j'encouragerais plutôt que d'obliger.

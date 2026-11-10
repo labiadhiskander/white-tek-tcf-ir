@@ -1,0 +1,490 @@
+@code EXAM-03
+@title Examen blanc n° 3 – Numérique, transports et environnement
+@level B2
+@description Examen complet calibré B1–B2 : services en ligne, mobilité, énergie, alimentation.
+
+## CO 1 | A2 | message téléphonique | information précise | F:fr-FR
+DOC: F: Bonjour, ici la pharmacie du Centre. Les médicaments que vous avez commandés sont arrivés. Vous pouvez venir les chercher à partir de demain matin, neuf heures. N'oubliez pas votre ordonnance. Au revoir.
+Q: Que doit apporter la personne ?
++ Son ordonnance. | « N'oubliez pas votre ordonnance ».
+- Sa carte bancaire uniquement. | Ce n'est pas demandé.
+- Les anciens médicaments. | Ce n'est pas demandé.
+- Une pièce d'identité. | Ce n'est pas demandé.
+EXP: L'impératif négatif « N'oubliez pas » signale ce qu'il faut apporter.
+
+## CO 2 | A2 | annonce publique | information précise | H:fr-FR
+DOC: H: Votre attention, s'il vous plaît. Le vol AF 1234 à destination de Marseille est retardé d'environ une heure. Embarquement prévu à 16 h 30, porte 22.
+Q: À quelle heure les passagers vont-ils embarquer ?
++ À 16 h 30. | « Embarquement prévu à 16 h 30 ».
+- Dans une demi-heure. | Le retard est d'environ une heure.
+- À 22 heures. | 22 est le numéro de la porte.
+- À 12 h 34. | 1234 est le numéro du vol.
+EXP: Ne confondez pas les nombres : numéro de vol (1234), porte (22), heure (16 h 30).
+
+## CO 3 | A2 | conversation quotidienne | information précise | H:fr-FR, F:fr-FR
+DOC: H: On se retrouve où pour aller au concert ? / F: Devant la station de métro République, à 19 h 30 ? / H: Plutôt à 19 h, le concert commence à 20 h et il y aura du monde. / F: D'accord, 19 h alors.
+Q: À quelle heure vont-ils se retrouver ?
++ À 19 heures. | « D'accord, 19 h alors ».
+- À 19 h 30. | Cette proposition est modifiée.
+- À 20 heures. | C'est le début du concert.
+- À 18 h 30. | Cette heure n'est pas mentionnée.
+EXP: Retenez l'heure finalement acceptée (« D'accord… alors »).
+
+## CO 4 | B1 | conversation quotidienne | intention | F:fr-FR, H:fr-FR
+DOC: F: Tu pourrais baisser un peu la musique ? Je dois appeler un client. / H: Oh pardon, je ne savais pas que tu travaillais ce soir. Je mets mes écouteurs. / F: Merci, c'est gentil.
+Q: Que demande la femme ?
++ Que l'homme fasse moins de bruit. | « Tu pourrais baisser un peu la musique ? »
+- Que l'homme appelle un client. | C'est elle qui doit appeler.
+- Que l'homme lui prête ses écouteurs. | Il les utilise lui-même.
+- Que l'homme sorte de la maison. | Ce n'est pas demandé.
+EXP: « Tu pourrais… ? » au conditionnel est une demande polie.
+
+## CO 5 | B1 | message professionnel | information précise | H:fr-CA
+DOC: H: Bonjour Madame Lambert, c'est Olivier, de l'agence de voyages. Pour votre séjour au Portugal, le vol du 3 mai est complet. Je peux vous proposer le 4 mai, au même prix, ou le 3 mai avec une escale à Madrid, mais quarante euros moins cher. Dites-moi ce que vous préférez.
+Q: Quel est l'avantage du vol avec escale ?
++ Il est moins cher. | « quarante euros moins cher ».
+- Il est plus rapide. | Une escale rallonge le trajet.
+- Il part le 4 mai. | Il part le 3 mai.
+- Il est direct. | Il comporte une escale à Madrid.
+EXP: L'agent compare deux options : même prix un autre jour, ou même jour avec escale et réduction.
+
+## CO 6 | B1 | annonce publique | information précise | F:fr-FR
+DOC: F: Chers voyageurs, en raison d'un mouvement social, le trafic sera fortement perturbé demain sur l'ensemble du réseau. Seul un train sur trois circulera. Nous vous invitons à consulter l'application avant votre départ et à reporter si possible vos déplacements.
+Q: Que conseille-t-on aux voyageurs ?
++ De vérifier les horaires et de reporter leur voyage si possible. | Consulter l'application et reporter les déplacements.
+- D'acheter un nouveau billet. | Ce n'est pas demandé.
+- De prendre le bus. | Ce n'est pas mentionné.
+- D'arriver à la gare très tôt. | Ce n'est pas dit.
+EXP: « Mouvement social » = grève. Les conseils sont introduits par « Nous vous invitons à ».
+
+## CO 7 | B1 | interview | opinion | H:fr-FR, F:fr-BE
+DOC: H: Vous n'avez plus de voiture depuis deux ans. Comment vous faites ? / F: Je fais presque tout à vélo, et pour les longs trajets, je prends le train. Pour les grosses courses, je loue une voiture partagée quelques heures. Honnêtement, je ne me suis jamais sentie aussi libre, et j'économise beaucoup d'argent.
+Q: Comment la femme vit-elle sans voiture ?
++ Très bien, elle se sent libre et économise. | « je ne me suis jamais sentie aussi libre, et j'économise ».
+- Difficilement, elle regrette sa voiture. | Elle en parle positivement.
+- Elle emprunte la voiture de ses amis. | Elle loue une voiture partagée.
+- Elle ne fait plus de longs trajets. | Elle prend le train.
+EXP: La formule « jamais… aussi libre » exprime un degré maximal de satisfaction.
+
+## CO 8 | B1 | information radio | information globale | H:fr-FR
+DOC: H: À partir du mois prochain, les sacs en plastique seront interdits sur tous les marchés de la ville. Les commerçants devront proposer des sacs en papier ou en tissu. La mairie distribuera gratuitement des sacs réutilisables aux habitants la première semaine.
+Q: De quoi parle ce message ?
++ D'une nouvelle règle contre les sacs en plastique. | « les sacs en plastique seront interdits ».
+- De la fermeture des marchés. | Les marchés restent ouverts.
+- D'une hausse des prix sur les marchés. | Les prix ne sont pas évoqués.
+- D'un nouveau marché bio. | Ce n'est pas mentionné.
+EXP: Le thème est annoncé dès la première phrase : une interdiction. Le reste précise les mesures d'accompagnement.
+
+## CO 9 | B1 | situation administrative | information précise | F:fr-FR, H:fr-FR
+DOC: H: Bonjour, je voudrais changer l'adresse sur ma carte grise. / F: Vous pouvez le faire en ligne sur le site officiel, c'est gratuit et ça prend dix minutes. Vous recevrez une étiquette à coller sur votre certificat. / H: Je n'ai pas besoin de venir ici, alors ? / F: Non, tout se fait par Internet.
+Q: Comment l'homme doit-il faire sa démarche ?
++ Sur Internet. | « tout se fait par Internet ».
+- Au guichet, avec un rendez-vous. | Il n'a pas besoin de venir.
+- Par courrier postal. | Ce n'est pas proposé.
+- En payant des frais au garage. | C'est gratuit et en ligne.
+EXP: La confirmation finale (« tout se fait par Internet ») répond à la question de l'homme.
+
+## CO 10 | B1 | conversation professionnelle | information précise | H:fr-FR, F:fr-CH
+DOC: F: Le nouveau logiciel de facturation sera installé lundi. / H: On aura une formation ? / F: Oui, deux séances d'une heure, mardi et jeudi à 9 h. Elles sont obligatoires pour toute l'équipe comptable. / H: Et si on est en congé ? / F: Une vidéo sera disponible sur l'intranet.
+Q: Que peuvent faire les employés en congé ?
++ Regarder une vidéo sur l'intranet. | « Une vidéo sera disponible sur l'intranet ».
+- Suivre la formation lundi. | Lundi est le jour de l'installation.
+- Ne pas utiliser le logiciel. | Ce n'est pas proposé.
+- Demander une formation individuelle. | Ce n'est pas mentionné.
+EXP: La question « Et si on est en congé ? » appelle une solution alternative : la vidéo.
+
+## CO 11 | B2 | débat | opinion | F:fr-FR, H:fr-FR
+DOC: F: Les trottinettes électriques en libre-service, c'est une catastrophe : elles encombrent les trottoirs ! / H: Le problème, ce n'est pas la trottinette, c'est le stationnement anarchique. Paris les a interdites, mais d'autres villes ont créé des emplacements obligatoires, et ça fonctionne très bien. Je pense qu'il faut encadrer plutôt qu'interdire.
+Q: Quelle est la position de l'homme ?
++ Il préfère réglementer les trottinettes plutôt que les interdire. | « il faut encadrer plutôt qu'interdire ».
+- Il est favorable à leur interdiction. | Il s'y oppose.
+- Il pense qu'elles ne posent aucun problème. | Il reconnaît le problème du stationnement.
+- Il veut qu'on les réserve à Paris. | Paris les a justement interdites.
+EXP: L'homme déplace le problème (« ce n'est pas X, c'est Y ») et s'appuie sur l'exemple d'autres villes.
+
+## CO 12 | B2 | information radio | information globale | F:fr-FR
+DOC: F: Les arnaques par SMS se multiplient. Des messages imitant ceux des services de livraison invitent à cliquer sur un lien pour régler de prétendus frais de douane. La police rappelle qu'aucun organisme sérieux ne demande de coordonnées bancaires par message et conseille de signaler ces SMS au 33700.
+Q: Quel est l'objectif de ce message ?
++ Mettre en garde contre une fraude. | La police rappelle les règles et conseille de signaler.
+- Annoncer des frais de douane. | Ces frais sont « prétendus », donc faux.
+- Promouvoir un service de livraison. | Les messages imitent les livreurs.
+- Expliquer comment payer en ligne. | Au contraire, il ne faut pas payer.
+EXP: « Prétendus » = faux, présentés comme vrais. Le message a une fonction de prévention.
+
+## CO 13 | B2 | interview | information détaillée | H:fr-FR, F:fr-FR
+DOC: F: Votre restaurant ne propose que trois plats par jour. Ce n'est pas risqué ? / H: Au contraire. Avec une carte courte, je n'achète que des produits frais et de saison, je ne jette presque rien, et mes cuisiniers maîtrisent parfaitement chaque plat. Les clients nous font confiance : ils viennent pour la qualité, pas pour le choix.
+Q: Selon le restaurateur, quel est l'intérêt d'une carte courte ?
++ Garantir la fraîcheur et limiter le gaspillage. | Produits frais, de saison, presque rien jeté.
+- Attirer les clients qui aiment le choix. | Ils viennent « pas pour le choix ».
+- Réduire le nombre de cuisiniers. | Ce n'est pas dit.
+- Proposer des prix très bas. | Les prix ne sont pas évoqués.
+EXP: « Au contraire » réfute l'idée de risque. Les avantages sont énumérés : fraîcheur, peu de déchets, maîtrise.
+
+## CO 14 | B2 | message téléphonique | implicite | F:fr-CA
+DOC: F: Bonsoir Patrick, c'est Martine, ta voisine du dessous. Écoute, je ne veux pas en faire une histoire, mais c'est la troisième fois ce mois-ci que l'eau coule de mon plafond. La dernière fois, tu m'avais dit que le plombier passerait… Rappelle-moi, s'il te plaît.
+Q: Quel est l'état d'esprit de Martine ?
++ Elle est agacée mais reste polie. | « je ne veux pas en faire une histoire, mais c'est la troisième fois ».
+- Elle est très satisfaite. | Elle se plaint.
+- Elle est indifférente. | Elle demande qu'on la rappelle.
+- Elle est violente et menaçante. | Elle reste polie.
+EXP: « Je ne veux pas en faire une histoire, mais… » minimise pour mieux reprocher. La répétition (« troisième fois ») et le rappel de la promesse montrent l'agacement.
+
+## CO 15 | B2 | conversation professionnelle | relation logique | H:fr-FR, F:fr-FR
+DOC: H: Les ventes en ligne ont augmenté de trente pour cent, mais les retours aussi. / F: C'est logique : depuis qu'on a rendu les retours gratuits, les clients commandent plusieurs tailles et renvoient celles qui ne vont pas. / H: Il faudrait améliorer le guide des tailles sur le site. / F: Oui, ce serait moins coûteux que de rendre les retours payants.
+Q: Pourquoi les retours ont-ils augmenté ?
++ Parce qu'ils sont gratuits et que les clients commandent plusieurs tailles. | C'est l'explication donnée par la femme.
+- Parce que les produits sont de mauvaise qualité. | La qualité n'est pas évoquée.
+- Parce que les ventes en magasin ont baissé. | Ce n'est pas dit.
+- Parce que le site ne fonctionne pas. | Ce n'est pas dit.
+EXP: « Depuis que » introduit la cause ; la solution envisagée (guide des tailles) vise cette cause.
+
+## CO 16 | B2 | interview | information détaillée | F:fr-FR, H:fr-BE
+DOC: H: Vous organisez des ateliers d'initiation au numérique pour les seniors. Quelles sont leurs principales demandes ? / F: Avant, c'était surtout envoyer des photos à leurs petits-enfants. Aujourd'hui, ce sont les démarches administratives : déclarer ses impôts, prendre un rendez-vous médical. Beaucoup se sentent exclus depuis que tout est passé en ligne.
+Q: Qu'est-ce qui a changé dans les demandes des seniors ?
++ Elles concernent davantage les démarches administratives. | « Aujourd'hui, ce sont les démarches administratives ».
+- Ils veulent surtout envoyer des photos. | C'était le cas « avant ».
+- Ils refusent d'utiliser Internet. | Ils viennent apprendre.
+- Ils demandent des cours de jeux vidéo. | Ce n'est pas mentionné.
+EXP: L'opposition « Avant… Aujourd'hui… » marque l'évolution. « Exclus » = mis à l'écart.
+
+## CO 17 | B2 | annonce publique | information précise | H:fr-FR
+DOC: H: Information aux usagers : à compter du 1er janvier, le ticket de métro papier sera remplacé par une carte rechargeable ou par le paiement sur téléphone. Les tickets papier achetés avant cette date resteront valables jusqu'au 31 mars, et pourront être échangés gratuitement en agence jusqu'au 30 juin.
+Q: Jusqu'à quand peut-on utiliser les anciens tickets ?
++ Jusqu'au 31 mars. | « resteront valables jusqu'au 31 mars ».
+- Jusqu'au 1er janvier. | C'est la date du changement.
+- Jusqu'au 30 juin. | C'est la limite pour les échanger.
+- Sans limite de durée. | Une date limite est fixée.
+EXP: Distinguez « valables » (utilisables) et « échangés » (remplacés en agence) : deux dates différentes.
+
+## CO 18 | B2 | information radio | relation logique | F:fr-FR
+DOC: F: Les ventes de voitures électriques ont reculé de dix pour cent ce trimestre. Les professionnels pointent la suppression de certaines aides à l'achat, mais aussi le manque de bornes de recharge dans les zones rurales, qui freine les ménages vivant loin des villes.
+Q: Quelles raisons expliquent le recul des ventes ?
++ La fin de certaines aides et le manque de bornes à la campagne. | Ce sont les deux causes citées.
+- La hausse du prix de l'électricité. | Ce n'est pas mentionné.
+- Le manque de modèles disponibles. | Ce n'est pas mentionné.
+- La qualité des batteries. | Ce n'est pas mentionné.
+EXP: « Pointer » = désigner comme cause. « Mais aussi » ajoute une seconde cause.
+
+## CO 19 | B2 | débat | argumentation | H:fr-FR, F:fr-FR
+DOC: H: Il faut interdire les vols intérieurs quand il existe une alternative en train de moins de quatre heures. / F: Sur le papier, c'est séduisant. Mais encore faut-il que le train soit abordable ! Aujourd'hui, un Paris-Toulouse en train coûte souvent plus cher que l'avion. Interdire sans baisser le prix du train, c'est pénaliser ceux qui ont peu de moyens.
+Q: Quel argument la femme oppose-t-elle ?
++ Le train doit d'abord devenir moins cher. | « encore faut-il que le train soit abordable ».
+- Le train est trop lent. | Ce n'est pas son argument.
+- L'avion pollue moins que le train. | Elle ne dit pas cela.
+- Les vols intérieurs sont déjà interdits. | Ce n'est pas dit.
+EXP: « Sur le papier, c'est séduisant. Mais… » : accord théorique, objection pratique. « Encore faut-il que » pose une condition.
+
+## CO 20 | B2 | interview | implicite | F:fr-FR, H:fr-FR
+DOC: F: Votre roman a été refusé par douze éditeurs avant d'être publié. Aujourd'hui, il s'est vendu à cinq cent mille exemplaires. / H: Oui… Je garde toutes les lettres de refus dans un tiroir. De temps en temps, je les relis. Certaines sont très polies, d'autres beaucoup moins. Je me demande si leurs auteurs ont lu le livre depuis.
+Q: Que suggère l'écrivain ?
++ Certains éditeurs doivent regretter leur refus. | Il se demande s'ils ont lu le livre depuis son succès.
+- Il est encore blessé et en colère. | Le ton est plutôt amusé.
+- Il a jeté les lettres de refus. | Il les garde dans un tiroir.
+- Les éditeurs avaient raison de refuser. | Le succès montre le contraire.
+EXP: La dernière phrase est ironique : elle suggère, sans le dire, que les éditeurs se sont trompés.
+
+## CO 21 | C1 | information radio | information détaillée | H:fr-CH
+DOC: H: Le canton expérimente une tarification progressive de l'eau : les premiers mètres cubes, correspondant aux besoins essentiels, sont facturés à un prix très bas, tandis que le tarif augmente fortement au-delà d'un certain seuil. L'objectif est double : garantir l'accès à l'eau pour tous et dissuader les usages jugés superflus, comme le remplissage des piscines privées.
+Q: Comment fonctionne la nouvelle tarification ?
++ Le prix augmente avec la quantité consommée. | « le tarif augmente fortement au-delà d'un certain seuil ».
+- L'eau devient gratuite pour tous. | Les premiers m³ sont très peu chers, pas gratuits.
+- Le prix est le même pour tous les usages. | Il varie selon la consommation.
+- Les piscines privées sont interdites. | On veut les dissuader, pas les interdire.
+EXP: « Progressive » = qui augmente par paliers. « Dissuader » = décourager. « Superflus » = non nécessaires.
+
+## CO 22 | B2 | conversation professionnelle | intention | F:fr-FR, H:fr-FR
+DOC: F: J'ai vu que vous aviez envoyé le rapport au client sans me le faire relire. / H: Oui, il le voulait avant midi, et vous étiez en réunion. / F: Je comprends l'urgence, mais il contenait deux erreurs de chiffres. La prochaine fois, appelez-moi, même en réunion. Je préfère être dérangée que corriger après coup.
+Q: Que demande la responsable ?
++ D'être contactée avant tout envoi urgent. | « La prochaine fois, appelez-moi, même en réunion ».
+- De ne plus jamais envoyer de rapport. | Ce n'est pas demandé.
+- D'écrire au client pour s'excuser. | Ce n'est pas demandé.
+- De ne pas la déranger pendant les réunions. | C'est l'inverse.
+EXP: « Je préfère être dérangée que corriger après coup » justifie la consigne. « Après coup » = une fois que c'est fait.
+
+## CO 23 | C1 | débat | argumentation | H:fr-FR, F:fr-CA
+DOC: F: Le numérique à l'école, c'est préparer les enfants au monde de demain. / H: Encore faudrait-il savoir ce qu'on entend par là. Distribuer des tablettes ne forme pas des citoyens éclairés. Ce dont les élèves ont besoin, c'est d'apprendre à vérifier une source, à comprendre comment fonctionne un algorithme. L'outil sans la réflexion, c'est un gadget.
+Q: Selon l'homme, que faut-il privilégier ?
++ L'esprit critique face au numérique. | Vérifier une source, comprendre un algorithme.
+- La distribution de tablettes. | Il dit que cela ne suffit pas.
+- L'interdiction du numérique à l'école. | Il ne propose pas d'interdire.
+- L'apprentissage de jeux éducatifs. | Ce n'est pas évoqué.
+EXP: « Ce dont… c'est » met en relief le besoin réel. « Gadget » = objet sans réelle utilité.
+
+## CO 24 | C1 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: H: Vous êtes agricultrice bio. Le bio peut-il nourrir tout le monde ? / F: La question est mal posée. Aujourd'hui, un tiers de la nourriture produite est gaspillée et une grande partie des céréales sert à nourrir le bétail. Si l'on réduisait le gaspillage et notre consommation de viande, la question des rendements se poserait tout autrement.
+Q: Comment l'agricultrice répond-elle à la question ?
++ Elle la reformule en évoquant le gaspillage et la consommation de viande. | « La question est mal posée » puis elle déplace le problème.
+- Elle reconnaît que le bio ne peut pas nourrir tout le monde. | Elle n'accepte pas les termes de la question.
+- Elle affirme que les rendements bio sont supérieurs. | Elle ne parle pas de rendements supérieurs.
+- Elle refuse de répondre. | Elle répond en reformulant.
+EXP: « La question est mal posée » est une stratégie argumentative : on conteste le cadre du débat. L'hypothèse « si l'on réduisait… » propose une autre perspective.
+
+## CO 25 | C1 | information radio | implicite | H:fr-FR
+DOC: H: Le géant du numérique a annoncé hier un plan « zéro carbone » d'ici 2040, assorti d'une campagne publicitaire de grande ampleur. Dans le même temps, la consommation électrique de ses centres de données a doublé en trois ans. Mais rassurons-nous : les affiches de la campagne sont imprimées sur du papier recyclé.
+Q: Quel est le ton de la dernière phrase ?
++ Ironique. | Le papier recyclé est dérisoire face au doublement de la consommation.
+- Rassurant. | « Rassurons-nous » est ironique.
+- Enthousiaste. | Le journaliste critique l'entreprise.
+- Neutre. | Il prend position.
+EXP: L'ironie oppose un détail insignifiant (papier recyclé) à un problème majeur (consommation électrique). On parle aussi d'écoblanchiment (« greenwashing »).
+
+## CE 1 | A2 | message | information précise
+DOC: Bonjour, je suis votre nouvelle voisine du 2e étage. Je fais une petite fête samedi soir pour mon anniversaire. Il y aura peut-être un peu de bruit jusqu'à minuit. Excusez-moi d'avance ! Vous êtes les bienvenus si vous voulez passer. Claire
+Q: Pourquoi Claire écrit-elle ce message ?
++ Pour prévenir ses voisins d'une fête. | Elle annonce une fête et s'excuse du bruit.
+- Pour se plaindre du bruit. | C'est elle qui fera du bruit.
+- Pour annoncer son déménagement. | Elle vient d'arriver.
+- Pour demander de l'aide. | Elle n'en demande pas.
+EXP: Le message prévient (fête, bruit) et invite (« Vous êtes les bienvenus »).
+
+## CE 2 | A2 | annonce | information précise
+DOC: Perdu : chat gris et blanc, très gentil, nommé Filou. Il porte un collier rouge. Disparu le 5 juin près du parc Monceau. Récompense. Appelez Sophie au 06 45 78 12 90.
+Q: Comment reconnaître le chat ?
++ Il est gris et blanc avec un collier rouge. | Ce sont les éléments de description.
+- Il est noir avec un collier gris. | Les couleurs ne correspondent pas.
+- Il est roux et très gentil. | Il est gris et blanc.
+- Il porte un collier blanc. | Le collier est rouge.
+EXP: Relevez les éléments de description : couleur du pelage, collier.
+
+## CE 3 | A2 | affiche | information précise
+DOC: Bibliothèque municipale – Horaires d'été (juillet-août) : du mardi au vendredi, de 10 h à 17 h. Fermée le samedi, le dimanche et le lundi. Retour des livres possible 24 h/24 dans la boîte extérieure.
+Q: Quand peut-on rendre des livres ?
++ À tout moment, grâce à la boîte extérieure. | « Retour des livres possible 24 h/24 ».
+- Seulement le samedi. | La bibliothèque est fermée le samedi.
+- Seulement de 10 h à 17 h. | La boîte est accessible 24 h/24.
+- Uniquement le lundi. | La bibliothèque est fermée le lundi.
+EXP: « 24 h/24 » signifie jour et nuit, tous les jours.
+
+## CE 4 | B1 | courriel | intention
+DOC: Bonjour Monsieur Petit, je suis étudiante en marketing et je recherche un stage de trois mois à partir d'avril. Votre agence m'intéresse beaucoup, notamment pour ses campagnes sur les réseaux sociaux. Vous trouverez ci-joint mon CV. Je serais heureuse de vous rencontrer pour en discuter. Cordialement, Amina Kaci
+Q: Pourquoi Amina écrit-elle ?
++ Pour proposer sa candidature à un stage. | Elle recherche un stage et joint son CV.
+- Pour répondre à une offre d'emploi en CDI. | Il s'agit d'un stage.
+- Pour commander une campagne publicitaire. | Elle est étudiante, pas cliente.
+- Pour annuler un rendez-vous. | Elle demande un rendez-vous.
+EXP: Une candidature spontanée contient : présentation, objet de la demande, motivation, pièce jointe, demande de rendez-vous.
+
+## CE 5 | B1 | article de presse | information globale
+DOC: Depuis un an, la commune de Saint-Martin éteint l'éclairage public entre 1 h et 5 h du matin. Résultat : une économie de 40 % sur la facture d'électricité. Les habitants, d'abord inquiets pour leur sécurité, se sont habitués, et la gendarmerie n'a constaté aucune hausse des cambriolages.
+Q: Quel est le bilan de cette mesure ?
++ Positif : des économies sans problème de sécurité. | 40 % d'économies et pas de hausse des cambriolages.
+- Négatif : les cambriolages ont augmenté. | Aucune hausse n'est constatée.
+- Les habitants restent très inquiets. | Ils « se sont habitués ».
+- La facture a augmenté. | Elle a baissé de 40 %.
+EXP: « D'abord inquiets… se sont habitués » montre une évolution des opinions.
+
+## CE 6 | B1 | lettre administrative | information précise
+DOC: Madame, votre carte de séjour arrive à expiration le 15 septembre. Nous vous rappelons que la demande de renouvellement doit être déposée en ligne dans les deux mois précédant cette date. Un récépissé vous sera délivré, qui vous permettra de rester en situation régulière pendant l'instruction de votre dossier.
+Q: À quoi sert le récépissé ?
++ À prouver que la personne est en règle pendant l'examen du dossier. | « vous permettra de rester en situation régulière pendant l'instruction ».
+- À remplacer définitivement la carte de séjour. | Il est temporaire.
+- À obtenir un rendez-vous. | Ce n'est pas son rôle.
+- À voyager à l'étranger sans carte. | Ce n'est pas mentionné.
+EXP: « Récépissé » = document qui prouve qu'une demande a été déposée. « Instruction » = examen du dossier.
+
+## CE 7 | B1 | publicité | information précise
+DOC: Apprenez à cuisiner comme un chef ! L'atelier Saveurs propose des cours en petits groupes (8 personnes maximum). 3 heures de cours suivies d'un repas partagé avec les plats préparés. 65 € par personne. Offrez un bon cadeau : valable un an.
+Q: Que se passe-t-il après le cours ?
++ Les participants mangent ensemble ce qu'ils ont préparé. | « suivies d'un repas partagé avec les plats préparés ».
+- Ils reçoivent un diplôme. | Ce n'est pas mentionné.
+- Ils emportent les plats chez eux. | Ils les mangent sur place.
+- Ils reçoivent un bon cadeau. | Le bon cadeau est une offre à acheter.
+EXP: « Suivies de » indique ce qui vient après.
+
+## CE 8 | B1 | message professionnel | information précise
+DOC: À tous les salariés : la cantine sera fermée du 1er au 15 août pour travaux. Pendant cette période, des tickets-restaurant d'une valeur de 9 € par jour travaillé vous seront remis. Ils seront distribués par votre responsable le 31 juillet.
+Q: Que recevront les salariés pendant la fermeture ?
++ Des tickets-restaurant. | « des tickets-restaurant d'une valeur de 9 € ».
+- Des repas livrés au bureau. | Ce n'est pas mentionné.
+- Une prime de 9 € par mois. | C'est 9 € par jour travaillé.
+- Un jour de congé supplémentaire. | Ce n'est pas mentionné.
+EXP: « Par jour travaillé » : le montant dépend du nombre de jours de présence.
+
+## CE 9 | B1 | témoignage | opinion
+DOC: « J'ai supprimé tous mes réseaux sociaux il y a six mois. Les premières semaines, je regardais mon téléphone sans raison. Maintenant, je lis davantage et je dors mieux. Je reste en contact avec mes vrais amis par téléphone. Certaines infos me manquent un peu, mais c'est peu de chose. » Karim, 29 ans.
+Q: Quel bilan Karim fait-il ?
++ Globalement positif, avec un léger manque. | Il lit, dort mieux ; « certaines infos me manquent un peu, mais c'est peu de chose ».
+- Très négatif : il a perdu ses amis. | Il reste en contact avec ses vrais amis.
+- Il veut réinstaller les réseaux sociaux. | Ce n'est pas dit.
+- Il dort moins bien. | Il dort mieux.
+EXP: « C'est peu de chose » minimise l'inconvénient.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: Covoiturage domicile-travail : malgré les incitations financières, la pratique peine à décoller. Les salariés invoquent le manque de flexibilité, la crainte de dépendre d'un conducteur et des horaires de travail de plus en plus variables. Les entreprises qui réussissent sont celles qui proposent une garantie de retour, en taxi ou en transports, en cas d'imprévu.
+Q: Quelle solution semble favoriser le covoiturage ?
++ Garantir un moyen de rentrer en cas d'imprévu. | « les entreprises qui réussissent… proposent une garantie de retour ».
+- Supprimer les incitations financières. | Elles existent mais ne suffisent pas.
+- Imposer des horaires fixes. | Ce n'est pas la solution citée.
+- Interdire la voiture individuelle. | Ce n'est pas proposé.
+EXP: « Peine à décoller » = a du mal à se développer. La dernière phrase donne la clé du succès.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: On présente souvent la « fracture numérique » comme une affaire de générations. C'est oublier que de nombreux jeunes, très à l'aise sur les réseaux sociaux, sont incapables de rédiger un courriel formel ou de remplir un formulaire en ligne. Savoir utiliser une application de divertissement ne fait pas de quelqu'un un citoyen numériquement autonome.
+Q: Que veut montrer l'auteur ?
++ La fracture numérique touche aussi les jeunes. | Il cite des jeunes incapables d'effectuer des démarches.
+- Seuls les seniors ont des difficultés numériques. | C'est l'idée qu'il conteste.
+- Les réseaux sociaux sont dangereux. | Ce n'est pas son propos.
+- Les jeunes rédigent très bien les courriels. | C'est l'inverse.
+EXP: « C'est oublier que » introduit une réfutation. L'auteur distingue usage de loisir et autonomie numérique.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Cher client, suite à une maintenance de nos serveurs, nos services seront momentanément indisponibles dans la nuit de samedi à dimanche. Nous mettons tout en œuvre pour que cette interruption soit la plus brève possible.
+Q: Que signifie « momentanément » ?
++ pendant une courte durée. | « la plus brève possible » le confirme.
+- définitivement. | C'est le contraire.
+- immédiatement. | Ce n'est pas le sens.
+- partiellement. | Ce n'est pas le sens.
+EXP: « Momentanément » = pour un moment, temporairement.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: La ville de Grenoble a remplacé ses panneaux publicitaires par des arbres et des panneaux d'information municipale. Une perte de recettes d'environ 150 000 euros par an, que la municipalité juge « acceptable au regard du gain en qualité de vie ». Les commerçants locaux, eux, regrettent de ne plus disposer d'espaces d'affichage abordables.
+Q: Qu'est-ce que les commerçants regrettent ?
++ La disparition d'espaces publicitaires à bas prix. | « ne plus disposer d'espaces d'affichage abordables ».
+- La plantation d'arbres. | Ils ne critiquent pas les arbres.
+- La perte de 150 000 euros pour la ville. | C'est la municipalité qui en parle.
+- Les panneaux d'information municipale. | Ce n'est pas leur critique.
+EXP: « Eux » marque le changement de point de vue. « Abordables » = pas chers.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Monsieur, à la suite du contrôle effectué le 12 mars, nous constatons que votre véhicule ne répond plus aux normes de sécurité en vigueur. Vous disposez d'un délai de deux mois pour effectuer les réparations nécessaires et soumettre votre véhicule à une contre-visite. À défaut, il ne pourra plus circuler légalement.
+Q: Que se passera-t-il si les réparations ne sont pas faites dans les deux mois ?
++ Le véhicule ne pourra plus circuler légalement. | « À défaut, il ne pourra plus circuler légalement ».
+- Le propriétaire devra racheter un véhicule. | Ce n'est pas obligatoire.
+- Le contrôle sera automatiquement validé. | C'est l'inverse.
+- Le délai sera prolongé. | Ce n'est pas prévu.
+EXP: « Contre-visite » = second contrôle après réparation. « À défaut » = sinon.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: Le télétravail devait vider les grandes villes au profit des campagnes. Il n'en a rien été, ou presque : si quelques cadres ont effectivement déménagé, la majorité des salariés reste attachée aux services et à la vie culturelle urbaine. Le mouvement existe donc, mais il demeure marginal.
+Q: Quelle est la conclusion de l'auteur ?
++ L'exode vers les campagnes reste limité. | « il demeure marginal ».
+- Les grandes villes se sont vidées. | « Il n'en a rien été, ou presque ».
+- Tous les cadres ont quitté les villes. | Seulement « quelques cadres ».
+- Le télétravail a disparu. | Ce n'est pas dit.
+EXP: « Il n'en a rien été » = cela ne s'est pas produit. « Donc » introduit la conclusion.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: La suppression des caisses traditionnelles au profit des caisses automatiques fait débat. La direction de l'enseigne met en avant la rapidité et la réduction des files d'attente. Les syndicats dénoncent la suppression d'emplois, tandis que des associations de consommateurs âgés déplorent la disparition d'un contact humain parfois essentiel.
+Q: Que regrettent les associations de consommateurs âgés ?
++ La perte du contact humain. | « la disparition d'un contact humain parfois essentiel ».
+- Les files d'attente plus longues. | La direction dit qu'elles sont réduites.
+- La suppression d'emplois. | Ce sont les syndicats qui la dénoncent.
+- Le prix des produits. | Ce n'est pas évoqué.
+EXP: Trois acteurs, trois points de vue. « Déplorer » = regretter.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: Le bonus réparation permet de bénéficier d'une réduction immédiate sur la facture de réparation de certains appareils (lave-linge, téléphone, aspirateur…), à condition de s'adresser à un réparateur labellisé. Le montant varie de 15 à 50 euros selon l'appareil. Aucune démarche n'est à effectuer par le client : la réduction est déduite directement par le réparateur.
+Q: Que doit faire le client pour bénéficier du bonus ?
++ Choisir un réparateur labellisé. | C'est la condition ; ensuite la réduction est automatique.
+- Envoyer un dossier en ligne. | « Aucune démarche n'est à effectuer ».
+- Acheter un appareil neuf. | Il s'agit de réparation.
+- Payer puis demander un remboursement. | La réduction est immédiate.
+EXP: « À condition de » introduit la seule condition. « Déduite directement » = retirée du prix immédiatement.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « Quand j'ai acheté mon premier smartphone, le vendeur m'a juré qu'il durerait dix ans. Trois ans plus tard, la batterie ne tenait plus la journée et les mises à jour n'étaient plus disponibles. Le vendeur, lui, a changé de magasin. » Hélène, 61 ans.
+Q: Que sous-entend Hélène ?
++ La promesse du vendeur n'était pas sincère. | Le téléphone n'a duré que trois ans ; la dernière phrase est ironique.
+- Son téléphone fonctionne encore parfaitement. | La batterie ne tient plus.
+- Le vendeur l'a aidée à réparer son téléphone. | Il a changé de magasin.
+- Elle a cassé son téléphone. | Rien ne le dit.
+EXP: La dernière phrase sous-entend qu'on ne peut plus demander de comptes au vendeur. Le texte évoque l'obsolescence programmée.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Faut-il limiter la vitesse à 110 km/h sur autoroute ? Les défenseurs de la mesure évoquent une baisse de la consommation de carburant et des émissions de CO2, ainsi qu'une réduction de la gravité des accidents. Ses opposants dénoncent une perte de temps pour les professionnels de la route et une mesure symbolique au regard des émissions du transport de marchandises.
+Q: Quel argument avancent les opposants ?
++ La mesure aurait peu d'effet par rapport à d'autres sources de pollution. | « une mesure symbolique au regard des émissions du transport de marchandises ».
+- La mesure augmenterait la consommation de carburant. | Les défenseurs disent qu'elle la réduit.
+- La mesure aggraverait les accidents. | C'est le contraire.
+- La mesure ferait gagner du temps. | Ils parlent de perte de temps.
+EXP: « Symbolique » = qui a peu d'effet réel. « Au regard de » = en comparaison avec.
+
+## CE 20 | B2 | article de presse | relation logique
+DOC: Les inscriptions dans les clubs de randonnée ont doublé en cinq ans. Le phénomène tient en partie à la crise sanitaire, qui a donné à beaucoup le goût du grand air. Mais il s'explique aussi par le vieillissement de la population : la marche est l'activité préférée des plus de soixante ans.
+Q: Quelles causes l'article donne-t-il ?
++ La crise sanitaire et le vieillissement de la population. | « en partie à la crise sanitaire… aussi par le vieillissement ».
+- La baisse du prix des équipements. | Ce n'est pas mentionné.
+- La création de nouveaux sentiers. | Ce n'est pas mentionné.
+- Une campagne publicitaire. | Ce n'est pas mentionné.
+EXP: « Tenir à » = s'expliquer par. « Mais… aussi » ajoute une seconde cause.
+
+## CE 21 | C1 | texte argumentatif | intention de l'auteur
+DOC: Les applications de rencontre promettaient d'élargir le champ des possibles amoureux. Elles l'ont, paradoxalement, rétréci : à force de filtrer selon l'âge, la taille, la profession, l'utilisateur ne rencontre plus que des profils qui lui ressemblent. L'algorithme, censé ouvrir des portes, construit surtout des miroirs.
+Q: Quelle idée l'auteur défend-il ?
++ Les applications favorisent l'entre-soi au lieu de la diversité. | « ne rencontre plus que des profils qui lui ressemblent » ; « construit des miroirs ».
+- Les applications élargissent les rencontres. | C'est la promesse qu'il conteste.
+- Les algorithmes sont neutres. | Il montre qu'ils orientent les choix.
+- Il faut interdire les applications de rencontre. | Il ne le propose pas.
+EXP: « Paradoxalement » annonce un résultat inverse de l'attendu. La métaphore des portes et des miroirs résume la thèse.
+
+## CE 22 | C1 | article de presse | sens d'un mot en contexte
+DOC: Le projet d'autoroute, longtemps resté lettre morte, refait surface à la faveur du changement de majorité au conseil régional.
+Q: Que signifie « resté lettre morte » ?
++ resté sans application, abandonné. | Le projet « refait surface », donc il était oublié.
+- été réalisé rapidement. | C'est le contraire.
+- été très médiatisé. | Ce n'est pas le sens.
+- été refusé par la justice. | Ce n'est pas précisé.
+EXP: « Lettre morte » se dit d'un texte ou projet qui n'a aucun effet. « À la faveur de » = grâce à.
+
+## CE 23 | C1 | texte argumentatif | arguments contradictoires
+DOC: Pour certains, la voiture autonome réduira drastiquement les accidents, puisque l'erreur humaine en est la première cause. Pour d'autres, elle soulève des questions inédites de responsabilité : qui sera jugé coupable en cas d'accident, le constructeur, le programmeur ou le propriétaire ? La technologie progresse plus vite que le droit, et c'est peut-être là le véritable défi.
+Q: Selon l'auteur, quel est le principal défi ?
++ Adapter le droit à cette nouvelle technologie. | « La technologie progresse plus vite que le droit… le véritable défi ».
+- Améliorer la vitesse des voitures. | Ce n'est pas évoqué.
+- Supprimer l'erreur humaine. | C'est un argument des partisans.
+- Interdire les voitures autonomes. | Ce n'est pas proposé.
+EXP: Après deux points de vue, l'auteur donne le sien dans la dernière phrase (« c'est peut-être là le véritable défi »).
+
+## CE 24 | C1 | article de presse | sous-entendu
+DOC: La compagnie aérienne annonce fièrement qu'elle propose désormais des billets à 9,99 euros. Bagage cabine, choix du siège et boisson restent bien entendu en option. Le passager, lui, reste encore inclus dans le prix.
+Q: Que sous-entend le journaliste ?
++ Le prix affiché est trompeur car presque tout est payant. | Ironie : seul « le passager » est inclus.
+- Les billets sont vraiment très avantageux. | Le ton est ironique.
+- Les boissons sont gratuites. | Elles sont en option.
+- La compagnie a supprimé les options. | Elles restent payantes.
+EXP: « Bien entendu » et la dernière phrase absurde créent l'ironie : le prix d'appel cache de nombreux suppléments.
+
+## CE 25 | C1 | document informatif | compréhension globale
+DOC: Le règlement général sur la protection des données (RGPD), applicable depuis 2018 dans l'Union européenne, impose aux organismes qui collectent des données personnelles d'obtenir un consentement libre et éclairé, de limiter la collecte au strict nécessaire et de permettre aux personnes d'accéder à leurs données, de les rectifier ou d'en demander l'effacement. Les manquements peuvent être sanctionnés par des amendes allant jusqu'à 4 % du chiffre d'affaires mondial.
+Q: Quel droit le RGPD donne-t-il aux personnes ?
++ Demander la suppression de leurs données. | « d'en demander l'effacement ».
+- Vendre leurs données aux entreprises. | Ce n'est pas mentionné.
+- Collecter les données des autres. | Ce n'est pas un droit.
+- Refuser de payer les amendes. | Les amendes concernent les organismes.
+EXP: « Effacement » = suppression. « Consentement éclairé » = accord donné en connaissance de cause.
+
+## EE 1 | A2 | présenter un lieu
+CONSIGNE: Un ami étranger va visiter votre ville. Vous lui écrivez pour lui présenter votre lieu préféré (où il se trouve, comment il est, ce qu'on peut y faire) (30 à 60 mots).
+MODELE: Salut Tom ! Quand tu viendras, je t'emmènerai au jardin des Plantes, près de la gare. C'est un grand parc avec des fleurs magnifiques, un lac et de vieux arbres. On peut s'y promener, faire un pique-nique ou visiter les serres tropicales. Le dimanche, il y a souvent des concerts gratuits. Tu vas adorer !
+POINTS: situer le lieu ; le décrire ; activités possibles ; registre amical
+CONSEILS: Utilisez « on peut » + infinitif, le pronom « y » et des adjectifs variés.
+
+## EE 2 | B1 | faire un compte rendu
+CONSIGNE: Vous avez participé à une réunion d'information sur le tri des déchets organisée par votre mairie. Vous en faites un compte rendu pour les habitants de votre immeuble (40 à 90 mots).
+MODELE: Chers voisins, voici un résumé de la réunion de mardi à la mairie. Depuis le 1er mars, les déchets alimentaires doivent être jetés dans le bac marron, qui sera collecté chaque jeudi. Les emballages en plastique, le carton et le métal vont tous dans le bac jaune. Le verre doit toujours être déposé dans les conteneurs de la rue. La mairie distribue gratuitement des petits seaux pour la cuisine. N'hésitez pas à me poser vos questions !
+POINTS: annoncer l'objet ; informations principales ; consignes pratiques ; formule finale
+CONSEILS: Un compte rendu est objectif : présentez les informations clairement, sans donner votre opinion.
+
+## EE 3 | B2 | argumenter sur un sujet de société
+CONSIGNE: « Il faudrait rendre les transports publics gratuits dans toutes les villes. » Vous réagissez à cette proposition sur le site d'un journal en donnant votre opinion argumentée (40 à 90 mots).
+MODELE: Cette proposition est séduisante, mais elle me semble difficile à généraliser. Certes, la gratuité encouragerait certains automobilistes à laisser leur voiture et aiderait les familles modestes. Néanmoins, elle priverait les réseaux de ressources indispensables pour améliorer la fréquence et la ponctualité, qui sont, à mon sens, les vrais critères de choix. Il serait donc préférable de proposer des tarifs réduits aux personnes qui en ont besoin et d'investir dans la qualité du service.
+POINTS: position claire ; concession ; arguments ; proposition ; conclusion
+CONSEILS: Structure conseillée : avis → certes (concession) → néanmoins (argument) → donc (conclusion).
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous pose des questions sur votre vie quotidienne, votre travail et vos loisirs. Parlez de manière naturelle et précise.
+RELANCES: Pouvez-vous vous présenter ? / Comment venez-vous au travail ou à l'école ? / Qu'est-ce que vous aimez cuisiner ? / Utilisez-vous beaucoup Internet dans votre vie quotidienne ? / Quel est votre dernier film ou livre préféré ? / Que ferez-vous l'été prochain ?
+PHRASES: Je me déplace surtout en… / Ma spécialité, c'est… / J'utilise Internet pour… / Ce qui m'a plu dans ce film, c'est… / L'été prochain, je compte…
+MODELE: Je m'appelle Youssef, je suis technicien informatique. Je vais au travail en métro, c'est rapide mais souvent bondé. J'aime cuisiner des plats de mon pays, surtout le couscous, pour mes amis le week-end. J'utilise Internet pour tout : mon travail, mes démarches et pour regarder des séries. L'été prochain, je compte visiter la Bretagne à vélo.
+
+## EO 2 | B2 | Organiser un voyage | Employé d'agence de voyages
+SCENARIO: Vous souhaitez organiser un voyage d'une semaine pour fêter l'anniversaire de mariage de vos parents. L'examinateur joue le rôle d'un employé d'agence de voyages. Expliquez vos besoins, posez des questions et faites un choix.
+RELANCES: Bonjour, quel type de voyage recherchez-vous ? / Quel est votre budget ? / Je peux vous proposer un circuit en Italie ou un séjour au bord de la mer. / Le circuit implique beaucoup de marche. / L'hôtel au bord de la mer est complet à ces dates. / Souhaitez-vous une assurance annulation ?
+PHRASES: Je cherche quelque chose de… / Mes parents ont du mal à… / Est-ce qu'il serait possible de… / Qu'est-ce qui est inclus dans le prix ? / Je vais prendre…
+MODELE: Bonjour, je voudrais offrir un voyage à mes parents pour leurs quarante ans de mariage. Ils ont soixante-dix ans, donc je cherche quelque chose de reposant, sans trop de marche. Notre budget est d'environ deux mille euros. Le circuit en Italie me semble trop fatigant. Si l'hôtel est complet, est-ce que vous auriez un hôtel similaire, ou est-ce qu'on pourrait décaler d'une semaine ? Et l'assurance annulation, combien coûte-t-elle ?
+
+## EO 3 | B2 | Faut-il limiter l'utilisation des voitures dans les centres-villes ? | Examinateur
+SCENARIO: Donnez votre opinion : « Faut-il limiter l'utilisation des voitures dans les centres-villes ? » Présentez avantages et inconvénients, donnez des exemples, nuancez et concluez.
+RELANCES: Quel est votre point de vue ? / Quels avantages voyez-vous ? / Et les personnes qui habitent loin ou les commerçants ? / Avez-vous un exemple de ville ? / Que proposeriez-vous ?
+PHRASES: De mon point de vue… / Par ailleurs… / En revanche… / Il convient toutefois de nuancer… / Il serait donc préférable de…
+MODELE: De mon point de vue, il faut limiter la voiture en centre-ville, car la pollution et le bruit dégradent la qualité de vie. Par exemple, à Strasbourg, les rues piétonnes et le tramway ont rendu le centre très agréable. En revanche, il convient de penser aux personnes âgées, aux artisans et à ceux qui habitent loin. Il serait donc préférable de développer des parkings relais et des transports fréquents avant de restreindre l'accès.

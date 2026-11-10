@@ -1,0 +1,1974 @@
+{
+ "code": "EXAM-01",
+ "title": "Examen blanc n° 1 – Vie quotidienne et travail",
+ "level": "B2",
+ "description": "Examen complet calibré B1–B2 : démarches, logement, travail, environnement.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "F: Bonjour Monsieur Garnier, ici le cabinet du docteur Lefèvre. Votre rendez-vous de jeudi à 10 heures est déplacé à vendredi, même heure, car le docteur sera absent jeudi. Si cela ne vous convient pas, rappelez-nous au 01 45 22 18 30. Merci et bonne journée.",
+   "prompt": "Pourquoi le cabinet appelle-t-il M. Garnier ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour annuler définitivement le rendez-vous.",
+     "correct": false,
+     "rationale": "Le rendez-vous n'est pas annulé, il est déplacé."
+    },
+    {
+     "label": "B",
+     "text": "Pour lui demander un document.",
+     "correct": false,
+     "rationale": "Aucun document n'est demandé."
+    },
+    {
+     "label": "C",
+     "text": "Pour changer le jour du rendez-vous.",
+     "correct": true,
+     "rationale": "Le rendez-vous passe de jeudi à vendredi, à la même heure."
+    },
+    {
+     "label": "D",
+     "text": "Pour changer l'heure du rendez-vous.",
+     "correct": false,
+     "rationale": "L'heure reste la même : « même heure »."
+    }
+   ],
+   "explanation": "Le mot clé est « déplacé » : le rendez-vous change de jour (jeudi → vendredi) mais garde la même heure (10 h). Dans un message téléphonique, repérez d'abord le motif de l'appel, souvent annoncé au début.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Mesdames et messieurs, en raison de travaux sur la voie, le train de 18 h 12 à destination de Lyon partira exceptionnellement du quai numéro 7. Nous vous prions de nous excuser pour la gêne occasionnée.",
+   "prompt": "Qu'est-ce qui change pour le train de 18 h 12 ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La destination.",
+     "correct": false,
+     "rationale": "La destination reste Lyon."
+    },
+    {
+     "label": "B",
+     "text": "L'heure de départ.",
+     "correct": false,
+     "rationale": "L'heure reste 18 h 12."
+    },
+    {
+     "label": "C",
+     "text": "Le prix du billet.",
+     "correct": false,
+     "rationale": "Le prix n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Le quai de départ.",
+     "correct": true,
+     "rationale": "Le train part « exceptionnellement du quai numéro 7 »."
+    }
+   ],
+   "explanation": "Dans les annonces de gare, trois informations reviennent : l'heure, la destination, le quai. Ici, seul le quai change, à cause de travaux. « Exceptionnellement » signale un changement inhabituel.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "F: Tu viens au cinéma ce soir ? / H: J'aimerais bien, mais je dois finir un dossier pour demain. Samedi, ça te va ? / F: Samedi, je suis chez mes parents. Dimanche après-midi alors ? / H: Parfait, dimanche après-midi.",
+   "prompt": "Quand vont-ils aller au cinéma ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dimanche après-midi.",
+     "correct": true,
+     "rationale": "C'est la proposition finale acceptée : « Parfait, dimanche après-midi »."
+    },
+    {
+     "label": "B",
+     "text": "Demain.",
+     "correct": false,
+     "rationale": "Demain, l'homme doit rendre son dossier."
+    },
+    {
+     "label": "C",
+     "text": "Ce soir.",
+     "correct": false,
+     "rationale": "L'homme doit finir un dossier ce soir."
+    },
+    {
+     "label": "D",
+     "text": "Samedi.",
+     "correct": false,
+     "rationale": "La femme est chez ses parents samedi."
+    }
+   ],
+   "explanation": "Dans une négociation de rendez-vous, plusieurs dates sont proposées puis refusées. Il faut retenir la dernière proposition acceptée (« Parfait »).",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "H: Excusez-moi, madame, je crois que vous avez pris ma place. J'ai réservé le siège 24, côté fenêtre. / F: Oh, pardon ! Je pensais que c'était le 23. Je me déplace tout de suite. / H: Ce n'est pas grave, merci beaucoup.",
+   "prompt": "Que fait l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il propose sa place à la dame.",
+     "correct": false,
+     "rationale": "C'est l'inverse : il réclame sa place."
+    },
+    {
+     "label": "B",
+     "text": "Il se plaint du confort du siège.",
+     "correct": false,
+     "rationale": "Le confort n'est pas évoqué."
+    },
+    {
+     "label": "C",
+     "text": "Il signale poliment une erreur de place.",
+     "correct": true,
+     "rationale": "Il indique que la femme occupe son siège réservé."
+    },
+    {
+     "label": "D",
+     "text": "Il demande à changer de place.",
+     "correct": false,
+     "rationale": "Il veut récupérer sa place, pas en changer."
+    }
+   ],
+   "explanation": "L'intention se déduit des formules : « Excusez-moi… je crois que vous avez pris ma place » est une façon polie de signaler une erreur. La réponse « pardon, je me déplace » confirme le malentendu.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-BE"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "F: Bonjour à toute l'équipe. Petit rappel : la réunion de lundi est remplacée par une visioconférence mardi à 14 h. Merci de préparer chacun un bilan de vos projets en cours, cinq minutes maximum par personne. Le lien de connexion vous sera envoyé par courriel lundi matin.",
+   "prompt": "Que doivent préparer les employés ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le lien de la visioconférence.",
+     "correct": false,
+     "rationale": "Le lien sera envoyé par courriel, ils n'ont pas à le préparer."
+    },
+    {
+     "label": "B",
+     "text": "Une courte présentation de leurs projets.",
+     "correct": true,
+     "rationale": "« Un bilan de vos projets en cours, cinq minutes maximum »."
+    },
+    {
+     "label": "C",
+     "text": "Une salle de réunion.",
+     "correct": false,
+     "rationale": "La réunion se fait à distance."
+    },
+    {
+     "label": "D",
+     "text": "Un rapport écrit détaillé.",
+     "correct": false,
+     "rationale": "Il s'agit d'un bilan oral court, non d'un rapport détaillé."
+    }
+   ],
+   "explanation": "Repérez le verbe d'action adressé aux auditeurs : « Merci de préparer… ». La contrainte « cinq minutes maximum » indique une présentation brève.",
+   "speakers": [
+    "F:fr-CA"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: La médiathèque municipale vous informe qu'à partir du 1er septembre, elle sera ouverte le dimanche de 10 h à 13 h. En revanche, elle fermera désormais le lundi toute la journée. Les horaires des autres jours restent inchangés.",
+   "prompt": "Quel changement est annoncé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une fermeture le dimanche.",
+     "correct": false,
+     "rationale": "C'est l'inverse : elle ouvrira le dimanche."
+    },
+    {
+     "label": "B",
+     "text": "Une ouverture le dimanche matin et une fermeture le lundi.",
+     "correct": true,
+     "rationale": "Les deux changements sont annoncés."
+    },
+    {
+     "label": "C",
+     "text": "Une ouverture le lundi après-midi.",
+     "correct": false,
+     "rationale": "Elle sera fermée le lundi toute la journée."
+    },
+    {
+     "label": "D",
+     "text": "De nouveaux horaires pour toute la semaine.",
+     "correct": false,
+     "rationale": "Les autres jours restent inchangés."
+    }
+   ],
+   "explanation": "Le connecteur « en revanche » introduit une information opposée : un avantage (dimanche) est compensé par une fermeture (lundi). Attention aux réponses partielles.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous avez quitté Paris pour vous installer dans un village. Vous ne regrettez pas ? / H: Pas du tout. Bien sûr, il faut prendre la voiture pour tout, et les cinémas me manquent un peu. Mais je respire, je connais mes voisins, et mes enfants jouent dehors. Pour moi, la qualité de vie n'a pas de prix.",
+   "prompt": "Quelle est l'opinion de l'homme sur son installation à la campagne ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il trouve la vie à la campagne trop chère.",
+     "correct": false,
+     "rationale": "Le coût n'est pas évoqué ; « n'a pas de prix » est une expression."
+    },
+    {
+     "label": "B",
+     "text": "Il regrette sa vie parisienne.",
+     "correct": false,
+     "rationale": "Il répond « Pas du tout » à la question des regrets."
+    },
+    {
+     "label": "C",
+     "text": "Il est satisfait malgré quelques inconvénients.",
+     "correct": true,
+     "rationale": "Il cite des inconvénients (voiture, cinémas) mais conclut positivement."
+    },
+    {
+     "label": "D",
+     "text": "Il souhaite repartir en ville pour ses enfants.",
+     "correct": false,
+     "rationale": "Au contraire, ses enfants profitent de la campagne."
+    }
+   ],
+   "explanation": "Une opinion nuancée suit souvent le schéma « Bien sûr… mais… ». Ce qui suit « mais » exprime l'avis principal. « N'avoir pas de prix » signifie « être très précieux ».",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "H: Les automobilistes sont invités à la prudence ce matin : un épais brouillard recouvre la région, réduisant la visibilité à moins de cinquante mètres sur certaines routes. Les autorités recommandent de limiter sa vitesse et de reporter les déplacements non indispensables. Le brouillard devrait se dissiper en fin de matinée.",
+   "prompt": "Quel est l'objectif principal de ce message ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Informer d'un accident grave.",
+     "correct": false,
+     "rationale": "Aucun accident n'est mentionné."
+    },
+    {
+     "label": "B",
+     "text": "Présenter la météo de la semaine.",
+     "correct": false,
+     "rationale": "Le message concerne seulement ce matin."
+    },
+    {
+     "label": "C",
+     "text": "Avertir d'un risque lié à la météo.",
+     "correct": true,
+     "rationale": "Le message appelle à la prudence à cause du brouillard."
+    },
+    {
+     "label": "D",
+     "text": "Annoncer la fermeture des routes.",
+     "correct": false,
+     "rationale": "Les routes ne sont pas fermées."
+    }
+   ],
+   "explanation": "La première phrase donne souvent le but : « invités à la prudence ». Les recommandations (limiter sa vitesse, reporter les déplacements) confirment la fonction d'avertissement.",
+   "speakers": [
+    "H:fr-CH"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "situation administrative",
+   "skill": "information précise",
+   "document": "H: Bonjour, je viens renouveler mon titre de séjour. / F: Vous avez pris rendez-vous en ligne ? / H: Non, je ne savais pas que c'était obligatoire. / F: Désormais, oui. Connectez-vous sur le site de la préfecture, rubrique « Mes démarches ». Vous recevrez une confirmation par courriel avec la liste des documents à apporter.",
+   "prompt": "Que doit faire l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Remplir un formulaire sur place.",
+     "correct": false,
+     "rationale": "Aucune démarche sur place n'est proposée."
+    },
+    {
+     "label": "B",
+     "text": "Envoyer ses documents par courriel.",
+     "correct": false,
+     "rationale": "Il recevra la liste par courriel, il n'envoie rien."
+    },
+    {
+     "label": "C",
+     "text": "Prendre rendez-vous sur Internet.",
+     "correct": true,
+     "rationale": "L'agente lui indique de se connecter au site de la préfecture."
+    },
+    {
+     "label": "D",
+     "text": "Revenir avec ses documents le lendemain.",
+     "correct": false,
+     "rationale": "Il doit d'abord prendre rendez-vous en ligne."
+    }
+   ],
+   "explanation": "« Désormais, oui » confirme que le rendez-vous en ligne est obligatoire. Les étapes sont : se connecter → prendre rendez-vous → recevoir la liste des documents.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "F: Thomas, tu aurais cinq minutes ? Le client Durand trouve notre devis trop élevé. / H: Encore ? On a déjà baissé de dix pour cent. / F: Je sais, mais il menace d'aller voir la concurrence. On pourrait peut-être lui offrir la livraison ? / H: Bonne idée, ça nous coûte peu et ça montre notre bonne volonté.",
+   "prompt": "Que décident-ils ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De laisser partir le client.",
+     "correct": false,
+     "rationale": "Ils cherchent au contraire à le garder."
+    },
+    {
+     "label": "B",
+     "text": "De proposer un avantage au client sans baisser le prix.",
+     "correct": true,
+     "rationale": "Ils choisissent d'offrir la livraison."
+    },
+    {
+     "label": "C",
+     "text": "D'augmenter le devis.",
+     "correct": false,
+     "rationale": "Ce serait contraire à leur objectif."
+    },
+    {
+     "label": "D",
+     "text": "De baisser encore le prix de dix pour cent.",
+     "correct": false,
+     "rationale": "La baisse de 10 % a déjà été faite."
+    }
+   ],
+   "explanation": "La solution est formulée au conditionnel (« On pourrait… lui offrir la livraison ») puis validée (« Bonne idée »). Le conditionnel sert souvent à faire une proposition polie.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "opinion",
+   "document": "F: Interdire les voitures dans le centre-ville, c'est rendre la ville aux piétons ! / H: Sur le principe, je suis d'accord, mais pensez aux commerçants : leurs clients viennent souvent en voiture. Sans parkings ni transports publics renforcés, on risque de vider le centre. Il faudrait d'abord développer les alternatives.",
+   "prompt": "Quelle est la position de l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il soutient la mesure sans réserve.",
+     "correct": false,
+     "rationale": "Il exprime des réserves importantes."
+    },
+    {
+     "label": "B",
+     "text": "Il pense que les commerçants sont favorables.",
+     "correct": false,
+     "rationale": "Il craint au contraire pour les commerçants."
+    },
+    {
+     "label": "C",
+     "text": "Il est totalement opposé à la mesure.",
+     "correct": false,
+     "rationale": "Il se dit d'accord sur le principe."
+    },
+    {
+     "label": "D",
+     "text": "Il approuve l'idée mais juge qu'il faut d'abord préparer des alternatives.",
+     "correct": true,
+     "rationale": "« Sur le principe, je suis d'accord, mais… Il faudrait d'abord développer les alternatives »."
+    }
+   ],
+   "explanation": "« Sur le principe, je suis d'accord, mais… » est une concession : l'accord est partiel. La condition est donnée par « Il faudrait d'abord… ». Distinguez accord de principe et accord sans réserve.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "F: Selon une étude publiée ce matin, près d'un salarié sur trois pratique désormais le télétravail au moins un jour par semaine. Si la majorité y voit un gain de temps et de concentration, les chercheurs soulignent un risque d'isolement, notamment chez les jeunes recrues, qui ont plus de difficultés à s'intégrer dans les équipes.",
+   "prompt": "Quel risque l'étude met-elle en avant ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'isolement des nouveaux salariés.",
+     "correct": true,
+     "rationale": "« Un risque d'isolement, notamment chez les jeunes recrues »."
+    },
+    {
+     "label": "B",
+     "text": "La hausse du chômage chez les jeunes.",
+     "correct": false,
+     "rationale": "Le chômage n'est pas évoqué."
+    },
+    {
+     "label": "C",
+     "text": "La perte de temps dans les transports.",
+     "correct": false,
+     "rationale": "Le télétravail fait gagner du temps."
+    },
+    {
+     "label": "D",
+     "text": "La baisse de la concentration.",
+     "correct": false,
+     "rationale": "Au contraire, la concentration est citée comme un gain."
+    }
+   ],
+   "explanation": "« Si… » introduit ici une opposition (= « bien que »). La première partie présente les avantages, la seconde le risque. « Jeunes recrues » = nouveaux employés.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "F: Votre entreprise de vélos a doublé son chiffre d'affaires en deux ans. Quel est votre secret ? / H: Il n'y a pas de secret. Nous avons misé sur la réparation plutôt que sur la vente. Les gens gardent leur vélo plus longtemps, et ils reviennent nous voir. La fidélité, c'est ce qui fait tourner une petite entreprise comme la nôtre.",
+   "prompt": "Selon l'homme, qu'est-ce qui explique le succès de son entreprise ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une campagne publicitaire importante.",
+     "correct": false,
+     "rationale": "La publicité n'est pas mentionnée."
+    },
+    {
+     "label": "B",
+     "text": "Un secret de fabrication.",
+     "correct": false,
+     "rationale": "Il affirme : « Il n'y a pas de secret »."
+    },
+    {
+     "label": "C",
+     "text": "Le choix de la réparation qui fidélise les clients.",
+     "correct": true,
+     "rationale": "Il dit avoir « misé sur la réparation » et insiste sur la fidélité."
+    },
+    {
+     "label": "D",
+     "text": "La vente de vélos neufs bon marché.",
+     "correct": false,
+     "rationale": "Il a privilégié la réparation plutôt que la vente."
+    }
+   ],
+   "explanation": "« Miser sur » signifie « parier sur, faire le choix stratégique de ». La conclusion (« La fidélité, c'est ce qui fait tourner… ») résume la cause du succès.",
+   "speakers": [
+    "H:fr-CA",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "message téléphonique",
+   "skill": "implicite",
+   "document": "F: Salut Marc, c'est Claire. Bon, je t'avais dit que je passerais récupérer mes livres samedi… Finalement, je crois que je vais attendre que tu aies fini de déménager. Je ne voudrais surtout pas te déranger au milieu des cartons. Rappelle-moi quand tu seras installé, on boira un café.",
+   "prompt": "Que comprend-on du message de Claire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle propose d'aider Marc à déménager.",
+     "correct": false,
+     "rationale": "Elle ne propose pas son aide."
+    },
+    {
+     "label": "B",
+     "text": "Elle est fâchée contre Marc.",
+     "correct": false,
+     "rationale": "Le ton est amical (« on boira un café »)."
+    },
+    {
+     "label": "C",
+     "text": "Elle reporte sa visite par délicatesse.",
+     "correct": true,
+     "rationale": "Elle ne veut « surtout pas déranger » Marc pendant son déménagement."
+    },
+    {
+     "label": "D",
+     "text": "Elle a besoin de ses livres rapidement.",
+     "correct": false,
+     "rationale": "Elle accepte d'attendre."
+    }
+   ],
+   "explanation": "L'implicite se lit dans la justification : « Je ne voudrais surtout pas te déranger ». Le report est motivé par la politesse, pas par un conflit.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "relation logique",
+   "document": "H: Le projet a pris trois semaines de retard. / F: Oui, mais ce n'est pas faute d'avoir prévenu. Dès janvier, j'avais signalé que l'équipe était trop réduite. Personne n'a voulu recruter, et maintenant on nous reproche les délais. / H: Je comprends. Je vais présenter la situation à la direction avec vos messages de janvier.",
+   "prompt": "Selon la femme, quelle est la cause du retard ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le manque de personnel, signalé mais ignoré.",
+     "correct": true,
+     "rationale": "Elle avait averti que l'équipe était « trop réduite » et personne n'a recruté."
+    },
+    {
+     "label": "B",
+     "text": "La mauvaise volonté de l'équipe.",
+     "correct": false,
+     "rationale": "Elle défend son équipe."
+    },
+    {
+     "label": "C",
+     "text": "Des problèmes techniques imprévus.",
+     "correct": false,
+     "rationale": "Aucun problème technique n'est mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Un manque de communication de sa part.",
+     "correct": false,
+     "rationale": "Au contraire, elle avait prévenu dès janvier."
+    }
+   ],
+   "explanation": "« Ce n'est pas faute d'avoir prévenu » signifie « nous avons bien prévenu ». La cause est l'équipe trop réduite ; la conséquence, les délais. L'homme s'appuie sur ces preuves écrites.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "H: Vous dirigez une association d'aide aux devoirs. Qui sont vos bénévoles ? / F: Beaucoup de retraités, bien sûr, d'anciens enseignants surtout. Mais ce qui me réjouit, c'est l'arrivée d'étudiants depuis deux ans. Ils apportent une proximité avec les élèves que les plus âgés n'ont pas toujours. Les deux profils se complètent très bien.",
+   "prompt": "Qu'est-ce qui réjouit la responsable de l'association ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le remplacement des retraités par des jeunes.",
+     "correct": false,
+     "rationale": "Elle dit que les deux profils se complètent."
+    },
+    {
+     "label": "B",
+     "text": "La venue de bénévoles étudiants.",
+     "correct": true,
+     "rationale": "« Ce qui me réjouit, c'est l'arrivée d'étudiants »."
+    },
+    {
+     "label": "C",
+     "text": "Le départ des anciens enseignants.",
+     "correct": false,
+     "rationale": "Les retraités restent nombreux et utiles."
+    },
+    {
+     "label": "D",
+     "text": "La hausse du nombre d'élèves.",
+     "correct": false,
+     "rationale": "Le nombre d'élèves n'est pas évoqué."
+    }
+   ],
+   "explanation": "La structure « ce qui me réjouit, c'est… » met en relief l'information importante. Attention : « se complètent » exclut l'idée de remplacement.",
+   "speakers": [
+    "F:fr-BE",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Chers clients, à l'occasion de nos vingt ans, profitez jusqu'à dimanche de trente pour cent de réduction sur l'ensemble du rayon électroménager, hors produits déjà soldés. Pour tout achat supérieur à cinq cents euros, la livraison et l'installation sont offertes.",
+   "prompt": "À quelle condition l'installation est-elle gratuite ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Si l'achat est effectué avant dimanche.",
+     "correct": false,
+     "rationale": "Dimanche est la limite de la réduction, pas la condition de l'installation."
+    },
+    {
+     "label": "B",
+     "text": "Si le produit est déjà soldé.",
+     "correct": false,
+     "rationale": "Les produits soldés sont exclus de la réduction."
+    },
+    {
+     "label": "C",
+     "text": "Pour tous les produits électroménagers.",
+     "correct": false,
+     "rationale": "Il faut dépasser un montant minimal."
+    },
+    {
+     "label": "D",
+     "text": "Si l'achat dépasse cinq cents euros.",
+     "correct": true,
+     "rationale": "« Pour tout achat supérieur à cinq cents euros »."
+    }
+   ],
+   "explanation": "Distinguez les deux offres : la réduction (30 % jusqu'à dimanche, hors soldes) et l'installation gratuite (achat > 500 €). « Hors » signifie « à l'exception de ».",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "F: Le prix des fruits et légumes a fortement augmenté ce printemps. En cause : des gelées tardives en avril qui ont détruit une partie des récoltes, mais aussi la hausse du coût du transport. Les consommateurs se tournent de plus en plus vers les marchés locaux, où les prix restent plus stables.",
+   "prompt": "Quelles sont les causes de la hausse des prix ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le développement des marchés locaux.",
+     "correct": false,
+     "rationale": "Les marchés locaux sont une conséquence, pas une cause."
+    },
+    {
+     "label": "B",
+     "text": "Une forte demande des consommateurs.",
+     "correct": false,
+     "rationale": "La demande n'est pas citée comme cause."
+    },
+    {
+     "label": "C",
+     "text": "La sécheresse de l'été.",
+     "correct": false,
+     "rationale": "Il s'agit de gelées au printemps."
+    },
+    {
+     "label": "D",
+     "text": "Le gel et l'augmentation du coût du transport.",
+     "correct": true,
+     "rationale": "« Des gelées tardives… mais aussi la hausse du coût du transport »."
+    }
+   ],
+   "explanation": "« En cause : » introduit les causes. « Mais aussi » ajoute une deuxième cause. Les marchés locaux sont la réaction des consommateurs (conséquence).",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "H: Les réseaux sociaux isolent les adolescents. / F: Je ne serais pas aussi catégorique. Pour certains jeunes, qui se sentent différents dans leur école, ce sont justement des espaces où ils trouvent des personnes qui leur ressemblent. Le problème, ce n'est pas l'outil, c'est l'usage excessif et l'absence d'accompagnement des parents.",
+   "prompt": "Quel argument la femme avance-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Tous les adolescents sont isolés à l'école.",
+     "correct": false,
+     "rationale": "Elle parle seulement de « certains jeunes »."
+    },
+    {
+     "label": "B",
+     "text": "Le problème vient de l'usage, pas de l'outil lui-même.",
+     "correct": true,
+     "rationale": "« Le problème, ce n'est pas l'outil, c'est l'usage excessif »."
+    },
+    {
+     "label": "C",
+     "text": "Les réseaux sociaux devraient être interdits aux adolescents.",
+     "correct": false,
+     "rationale": "Elle ne propose aucune interdiction."
+    },
+    {
+     "label": "D",
+     "text": "Les parents utilisent trop les réseaux sociaux.",
+     "correct": false,
+     "rationale": "Elle évoque l'absence d'accompagnement, pas l'usage des parents."
+    }
+   ],
+   "explanation": "« Je ne serais pas aussi catégorique » introduit une nuance. L'argument central oppose l'outil et son usage (structure « ce n'est pas X, c'est Y »).",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-CA"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "implicite",
+   "document": "F: On dit que vous êtes un chef exigeant. / H: Exigeant… disons que je ne laisse rien passer. Quand un plat sort de ma cuisine, il porte mon nom. Mes cuisiniers le savent : ils peuvent se tromper, mais ils ne peuvent pas être négligents. Et ceux qui restent deviennent souvent d'excellents chefs.",
+   "prompt": "Que laisse entendre le chef ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ses cuisiniers ne font jamais d'erreurs.",
+     "correct": false,
+     "rationale": "Il admet qu'« ils peuvent se tromper »."
+    },
+    {
+     "label": "B",
+     "text": "Il refuse d'être considéré comme exigeant.",
+     "correct": false,
+     "rationale": "Il reformule mais assume (« je ne laisse rien passer »)."
+    },
+    {
+     "label": "C",
+     "text": "Il accepte facilement les erreurs de négligence.",
+     "correct": false,
+     "rationale": "Il dit au contraire qu'on ne peut pas être négligent."
+    },
+    {
+     "label": "D",
+     "text": "Certains employés ne supportent pas son niveau d'exigence.",
+     "correct": true,
+     "rationale": "« Ceux qui restent » sous-entend que d'autres partent."
+    }
+   ],
+   "explanation": "L'implicite repose sur « ceux qui restent » : si certains restent, d'autres sont partis. Le chef distingue l'erreur (acceptée) et la négligence (refusée).",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "H: Le gouvernement a présenté hier un plan de rénovation énergétique des logements. L'objectif affiché est ambitieux : cinq cent mille rénovations par an. Mais plusieurs associations doutent de sa faisabilité, faute d'artisans qualifiés en nombre suffisant. Elles réclament un volet formation, absent du plan pour l'instant.",
+   "prompt": "Que reprochent les associations au plan ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il coûte trop cher à l'État.",
+     "correct": false,
+     "rationale": "Le coût n'est pas abordé."
+    },
+    {
+     "label": "B",
+     "text": "Il ne concerne que les logements neufs.",
+     "correct": false,
+     "rationale": "Il s'agit de rénovation, donc de logements existants."
+    },
+    {
+     "label": "C",
+     "text": "Son objectif est trop modeste.",
+     "correct": false,
+     "rationale": "L'objectif est qualifié d'« ambitieux »."
+    },
+    {
+     "label": "D",
+     "text": "Il ne prévoit rien pour former des artisans.",
+     "correct": true,
+     "rationale": "Elles réclament « un volet formation, absent du plan »."
+    }
+   ],
+   "explanation": "« Faute de » = « par manque de ». Le doute porte sur la faisabilité, liée au manque d'artisans ; la revendication est un volet formation.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "F: Je voulais vous parler de ma demande de passage à quatre jours. / H: Oui, j'ai bien reçu votre courrier. Sur le fond, je n'y suis pas opposé. Mais en pleine période de lancement, ce serait compliqué pour l'équipe. Revenons-en en septembre, une fois le produit sorti, d'accord ? / F: D'accord, je note septembre.",
+   "prompt": "Comment le responsable répond-il à la demande ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il la reporte sans la refuser.",
+     "correct": true,
+     "rationale": "Il n'est « pas opposé » mais propose d'en reparler en septembre."
+    },
+    {
+     "label": "B",
+     "text": "Il la refuse définitivement.",
+     "correct": false,
+     "rationale": "Il dit ne pas être opposé sur le fond."
+    },
+    {
+     "label": "C",
+     "text": "Il l'accepte immédiatement.",
+     "correct": false,
+     "rationale": "Il propose d'attendre septembre."
+    },
+    {
+     "label": "D",
+     "text": "Il demande un nouveau courrier.",
+     "correct": false,
+     "rationale": "Il a déjà reçu le courrier."
+    }
+   ],
+   "explanation": "« Sur le fond, je n'y suis pas opposé. Mais… » : accord de principe + obstacle temporaire. « Revenons-en en septembre » = report de la décision.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-CH"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "F: La gratuité des transports publics, c'est la solution pour réduire la voiture en ville. / H: Les expériences montrent pourtant que la gratuité attire surtout des piétons et des cyclistes, pas les automobilistes. Ce qui fait changer les habitudes, c'est la fréquence et la fiabilité. Un bus gratuit qui passe toutes les quarante minutes ne convaincra personne.",
+   "prompt": "Quelle objection l'homme formule-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La gratuité coûte trop cher aux villes.",
+     "correct": false,
+     "rationale": "Le coût n'est pas son argument."
+    },
+    {
+     "label": "B",
+     "text": "Les cyclistes devraient payer les transports.",
+     "correct": false,
+     "rationale": "Il ne propose rien de tel."
+    },
+    {
+     "label": "C",
+     "text": "La qualité du service compte plus que la gratuité.",
+     "correct": true,
+     "rationale": "« Ce qui fait changer les habitudes, c'est la fréquence et la fiabilité »."
+    },
+    {
+     "label": "D",
+     "text": "Les automobilistes adorent les transports gratuits.",
+     "correct": false,
+     "rationale": "Les expériences montrent l'inverse."
+    }
+   ],
+   "explanation": "L'objection s'appuie sur des faits (« les expériences montrent ») puis sur un contre-exemple concret (le bus toutes les quarante minutes). « Pourtant » marque l'opposition.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: L'intelligence artificielle va-t-elle remplacer les traducteurs ? / F: Elle remplace déjà une partie du travail le plus répétitif, c'est indéniable. Mais traduire, ce n'est pas seulement transposer des mots ; c'est arbitrer, comprendre une intention, un contexte culturel. Le métier ne disparaîtra pas, il se transformera : on deviendra davantage des réviseurs et des conseillers.",
+   "prompt": "Quel est le point de vue de la traductrice ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le métier évoluera plutôt qu'il ne disparaîtra.",
+     "correct": true,
+     "rationale": "« Le métier ne disparaîtra pas, il se transformera »."
+    },
+    {
+     "label": "B",
+     "text": "L'IA comprend parfaitement les contextes culturels.",
+     "correct": false,
+     "rationale": "Elle présente cela comme une compétence humaine."
+    },
+    {
+     "label": "C",
+     "text": "Les traducteurs vont tous perdre leur emploi.",
+     "correct": false,
+     "rationale": "Elle affirme le contraire."
+    },
+    {
+     "label": "D",
+     "text": "L'IA ne joue encore aucun rôle dans la traduction.",
+     "correct": false,
+     "rationale": "Elle admet que l'IA remplace déjà une partie du travail."
+    }
+   ],
+   "explanation": "La concession (« c'est indéniable. Mais… ») précède la thèse. La conclusion oppose disparition et transformation. « Arbitrer » = faire des choix entre plusieurs possibilités.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-BE"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "implicite",
+   "document": "H: La mairie se félicite de la fréquentation record de la nouvelle piscine : trente mille entrées le premier mois. Un succès qui s'explique peut-être aussi par la fermeture, en même temps, des deux piscines voisines, dont les travaux, annoncés pour six mois, en dureront finalement dix-huit.",
+   "prompt": "Que suggère le journaliste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le succès de la piscine est en partie dû à l'absence de concurrence.",
+     "correct": true,
+     "rationale": "« peut-être aussi par la fermeture… des deux piscines voisines »."
+    },
+    {
+     "label": "B",
+     "text": "La mairie a menti sur les chiffres.",
+     "correct": false,
+     "rationale": "Il ne conteste pas les chiffres, il les relativise."
+    },
+    {
+     "label": "C",
+     "text": "La nouvelle piscine est trop petite.",
+     "correct": false,
+     "rationale": "La taille n'est pas évoquée."
+    },
+    {
+     "label": "D",
+     "text": "Les travaux des piscines voisines sont terminés.",
+     "correct": false,
+     "rationale": "Ils dureront dix-huit mois au lieu de six."
+    }
+   ],
+   "explanation": "Le journaliste relativise l'autosatisfaction de la mairie avec « peut-être aussi » : il propose une autre explication, moins flatteuse. L'ironie se perçoit dans le contraste entre « record » et la fermeture des concurrents.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "À LOUER – Studio meublé de 25 m², centre-ville, 3e étage avec ascenseur. Cuisine équipée, salle de douche. 580 € par mois, charges comprises. Libre le 1er octobre. Non-fumeurs uniquement. Contact : 06 12 34 56 78 (après 18 h).",
+   "prompt": "Quand peut-on appeler le propriétaire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le soir, après 18 heures.",
+     "correct": true,
+     "rationale": "L'annonce précise « (après 18 h) »."
+    },
+    {
+     "label": "B",
+     "text": "Le matin seulement.",
+     "correct": false,
+     "rationale": "Il faut appeler après 18 h."
+    },
+    {
+     "label": "C",
+     "text": "À n'importe quelle heure.",
+     "correct": false,
+     "rationale": "Un horaire est imposé."
+    },
+    {
+     "label": "D",
+     "text": "À partir du 1er octobre.",
+     "correct": false,
+     "rationale": "C'est la date de disponibilité du studio."
+    }
+   ],
+   "explanation": "Les informations pratiques des annonces (prix, date, contact) sont souvent abrégées. La parenthèse « (après 18 h) » se rapporte au numéro de téléphone."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Coucou Léa ! Je suis désolée, je ne pourrai pas venir à ton anniversaire samedi : mon fils a de la fièvre depuis hier. Je t'ai acheté un petit cadeau, je te le donnerai la semaine prochaine. Bisous, Sonia.",
+   "prompt": "Pourquoi Sonia ne va-t-elle pas à l'anniversaire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle est malade.",
+     "correct": false,
+     "rationale": "C'est son fils qui est malade."
+    },
+    {
+     "label": "B",
+     "text": "Son fils est malade.",
+     "correct": true,
+     "rationale": "« Mon fils a de la fièvre depuis hier »."
+    },
+    {
+     "label": "C",
+     "text": "Elle travaille samedi.",
+     "correct": false,
+     "rationale": "Le travail n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Elle n'a pas de cadeau.",
+     "correct": false,
+     "rationale": "Elle a acheté un cadeau."
+    }
+   ],
+   "explanation": "La cause suit l'annonce de l'absence, introduite par les deux-points ( : ). « Avoir de la fièvre » est un signe de maladie."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "affiche",
+   "skill": "information précise",
+   "document": "PISCINE MUNICIPALE – Bonnet de bain obligatoire. Short de bain interdit. Douche obligatoire avant l'entrée dans les bassins. Les enfants de moins de 10 ans doivent être accompagnés d'un adulte.",
+   "prompt": "Qui doit être accompagné d'un adulte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les nageurs débutants.",
+     "correct": false,
+     "rationale": "Les débutants ne sont pas mentionnés."
+    },
+    {
+     "label": "B",
+     "text": "Tous les enfants.",
+     "correct": false,
+     "rationale": "Seulement les moins de 10 ans."
+    },
+    {
+     "label": "C",
+     "text": "Les enfants de moins de 10 ans.",
+     "correct": true,
+     "rationale": "C'est écrit dans la dernière phrase."
+    },
+    {
+     "label": "D",
+     "text": "Les personnes sans bonnet.",
+     "correct": false,
+     "rationale": "Le bonnet est obligatoire pour tous."
+    }
+   ],
+   "explanation": "Lisez la règle complète : la limite d'âge (« moins de 10 ans ») restreint le groupe concerné."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "courriel",
+   "skill": "intention",
+   "document": "Objet : Commande n° 45872. Madame, Monsieur, J'ai reçu hier ma commande d'une lampe de bureau. Malheureusement, le pied est cassé. Je vous joins deux photos. Je souhaiterais recevoir un produit de remplacement dans les meilleurs délais, ou à défaut être remboursé. Cordialement, Paul Morel.",
+   "prompt": "Que demande Paul Morel ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Des photos du produit.",
+     "correct": false,
+     "rationale": "C'est lui qui envoie des photos."
+    },
+    {
+     "label": "B",
+     "text": "Un échange ou un remboursement.",
+     "correct": true,
+     "rationale": "« un produit de remplacement… ou à défaut être remboursé »."
+    },
+    {
+     "label": "C",
+     "text": "L'annulation de sa commande avant livraison.",
+     "correct": false,
+     "rationale": "Il a déjà reçu la commande."
+    },
+    {
+     "label": "D",
+     "text": "Une réduction sur sa prochaine commande.",
+     "correct": false,
+     "rationale": "Il ne demande pas de réduction."
+    }
+   ],
+   "explanation": "« À défaut » signifie « si ce n'est pas possible ». Paul propose donc une solution principale (remplacement) et une solution secondaire (remboursement)."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Depuis la rentrée, le collège Jean-Moulin teste les « téléphones au casier ». Chaque matin, les élèves déposent leur portable dans un casier fermé et le récupèrent à la sortie. Résultat, selon la principale : moins de conflits dans la cour et davantage de discussions entre élèves. Certains parents, en revanche, regrettent de ne plus pouvoir joindre leurs enfants en journée.",
+   "prompt": "De quoi parle cet article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De vols de téléphones au collège.",
+     "correct": false,
+     "rationale": "Aucun vol n'est évoqué."
+    },
+    {
+     "label": "B",
+     "text": "D'un nouveau cours sur les réseaux sociaux.",
+     "correct": false,
+     "rationale": "Aucun cours n'est mentionné."
+    },
+    {
+     "label": "C",
+     "text": "D'une interdiction des téléphones décidée par l'État.",
+     "correct": false,
+     "rationale": "C'est une initiative du collège."
+    },
+    {
+     "label": "D",
+     "text": "D'une expérience qui limite l'usage du téléphone au collège.",
+     "correct": true,
+     "rationale": "Le collège « teste » le dépôt des portables dans des casiers."
+    }
+   ],
+   "explanation": "Le verbe « teste » indique une expérience locale. L'article présente ensuite des effets positifs (moins de conflits) et une critique (parents), structure typique de l'article d'information."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, suite à votre demande du 3 mars, nous vous informons que votre dossier d'aide au logement est incomplet. Afin de poursuivre son examen, merci de nous transmettre, avant le 30 avril, votre dernier avis d'imposition ainsi qu'une copie de votre bail. Passé ce délai, votre demande sera classée sans suite.",
+   "prompt": "Que se passera-t-il si la personne n'envoie pas les documents avant le 30 avril ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Sa demande ne sera pas traitée.",
+     "correct": true,
+     "rationale": "« Classée sans suite » = abandonnée."
+    },
+    {
+     "label": "B",
+     "text": "Elle sera convoquée à un rendez-vous.",
+     "correct": false,
+     "rationale": "Aucun rendez-vous n'est mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Elle recevra une aide réduite.",
+     "correct": false,
+     "rationale": "La demande est abandonnée, pas réduite."
+    },
+    {
+     "label": "D",
+     "text": "Elle devra payer une amende.",
+     "correct": false,
+     "rationale": "Aucune amende n'est prévue."
+    }
+   ],
+   "explanation": "« Classer sans suite » est une expression administrative : le dossier est fermé sans décision. « Passé ce délai » = après cette date."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "publicité",
+   "skill": "information précise",
+   "document": "Envie de bouger sans vous ruiner ? Avec VéloCité, louez un vélo électrique pour 1 € la demi-heure. Abonnement annuel : 60 €, avec les 30 premières minutes gratuites à chaque trajet. Plus de 200 stations dans toute l'agglomération, ouvertes 24 h/24.",
+   "prompt": "Quel est l'avantage de l'abonnement annuel ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le vélo est livré à domicile.",
+     "correct": false,
+     "rationale": "La livraison n'est pas proposée."
+    },
+    {
+     "label": "B",
+     "text": "Le vélo est gratuit toute la journée.",
+     "correct": false,
+     "rationale": "Seules les 30 premières minutes sont gratuites."
+    },
+    {
+     "label": "C",
+     "text": "La première demi-heure de chaque trajet est gratuite.",
+     "correct": true,
+     "rationale": "« avec les 30 premières minutes gratuites à chaque trajet »."
+    },
+    {
+     "label": "D",
+     "text": "Les stations sont ouvertes la nuit uniquement pour les abonnés.",
+     "correct": false,
+     "rationale": "Elles sont ouvertes 24 h/24 pour tous."
+    }
+   ],
+   "explanation": "Comparez les deux tarifs : sans abonnement, 1 € la demi-heure ; avec abonnement, 30 minutes gratuites par trajet. « Sans vous ruiner » = sans dépenser beaucoup."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "Bonjour à tous, suite aux travaux de climatisation, les bureaux du 2e étage seront inaccessibles du lundi 12 au mercredi 14. Les équipes concernées pourront travailler en salle de réunion B ou en télétravail, au choix. Merci de réserver votre place en salle B auprès de l'accueil avant vendredi. Le service technique.",
+   "prompt": "Que doivent faire les employés qui veulent travailler en salle B ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Venir le lundi 12 pour s'inscrire.",
+     "correct": false,
+     "rationale": "Il faut réserver avant vendredi."
+    },
+    {
+     "label": "B",
+     "text": "Demander l'autorisation de télétravailler.",
+     "correct": false,
+     "rationale": "Le télétravail est libre, au choix."
+    },
+    {
+     "label": "C",
+     "text": "Prévenir le service technique.",
+     "correct": false,
+     "rationale": "La réservation se fait auprès de l'accueil."
+    },
+    {
+     "label": "D",
+     "text": "Réserver leur place à l'accueil avant vendredi.",
+     "correct": true,
+     "rationale": "C'est la consigne de la dernière phrase."
+    }
+   ],
+   "explanation": "Le message propose deux options (salle B ou télétravail) puis une démarche pour la première option. Repérez l'interlocuteur de la démarche : « auprès de l'accueil »."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« J'ai commencé le bénévolat dans une épicerie solidaire pour occuper ma retraite. Je pensais donner un peu de mon temps ; en réalité, j'ai beaucoup reçu. Les rencontres, les sourires, le sentiment d'être utile… Je conseille à tous les jeunes retraités de tenter l'expérience. » Michel, 67 ans.",
+   "prompt": "Que pense Michel de son expérience ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle lui apporte plus qu'il ne l'imaginait.",
+     "correct": true,
+     "rationale": "« Je pensais donner… en réalité, j'ai beaucoup reçu »."
+    },
+    {
+     "label": "B",
+     "text": "Elle lui prend trop de temps.",
+     "correct": false,
+     "rationale": "Il ne se plaint pas du temps passé."
+    },
+    {
+     "label": "C",
+     "text": "Elle est réservée aux jeunes.",
+     "correct": false,
+     "rationale": "Il conseille l'expérience aux jeunes retraités."
+    },
+    {
+     "label": "D",
+     "text": "Elle est décevante.",
+     "correct": false,
+     "rationale": "Il la recommande."
+    }
+   ],
+   "explanation": "L'opposition « je pensais… en réalité… » montre que la réalité dépasse les attentes. La recommandation finale confirme une opinion positive."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Longtemps considérée comme un simple loisir, la randonnée connaît un essor inédit. Les sentiers de montagne, autrefois réservés aux initiés, voient affluer chaque été des milliers de citadins en quête de nature. Une bonne nouvelle pour l'économie locale, mais une source d'inquiétude pour les gardes des parcs nationaux, qui constatent une augmentation des déchets et des secours pour des marcheurs mal équipés.",
+   "prompt": "Quelle est l'idée principale du texte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les parcs nationaux vont fermer leurs sentiers.",
+     "correct": false,
+     "rationale": "Aucune fermeture n'est annoncée."
+    },
+    {
+     "label": "B",
+     "text": "Les citadins sont mieux équipés qu'avant.",
+     "correct": false,
+     "rationale": "Le texte parle de marcheurs mal équipés."
+    },
+    {
+     "label": "C",
+     "text": "La randonnée est réservée aux sportifs expérimentés.",
+     "correct": false,
+     "rationale": "Elle attire au contraire des citadins non initiés."
+    },
+    {
+     "label": "D",
+     "text": "La popularité de la randonnée a des effets positifs et négatifs.",
+     "correct": true,
+     "rationale": "Le texte cite l'économie locale (positif) puis les déchets et les secours (négatif)."
+    }
+   ],
+   "explanation": "La structure « une bonne nouvelle pour…, mais une source d'inquiétude pour… » organise le texte autour d'avantages et d'inconvénients. « Essor » = développement rapide."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "On répète volontiers que les jeunes ne lisent plus. Les chiffres racontent pourtant une autre histoire : les ventes de romans destinés aux adolescents progressent chaque année, et les bibliothèques n'ont jamais prêté autant de bandes dessinées. Peut-être faudrait-il cesser de confondre « ne plus lire » et « ne plus lire ce que lisaient leurs parents ».",
+   "prompt": "Quelle est l'intention de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Critiquer les bandes dessinées.",
+     "correct": false,
+     "rationale": "Il les cite comme preuve de lecture."
+    },
+    {
+     "label": "B",
+     "text": "Prouver que les jeunes lisent moins qu'avant.",
+     "correct": false,
+     "rationale": "Il soutient le contraire."
+    },
+    {
+     "label": "C",
+     "text": "Contester une idée reçue sur la lecture des jeunes.",
+     "correct": true,
+     "rationale": "Il oppose l'idée répandue (« on répète ») aux chiffres."
+    },
+    {
+     "label": "D",
+     "text": "Encourager les parents à lire davantage.",
+     "correct": false,
+     "rationale": "Les parents ne sont pas la cible du texte."
+    }
+   ],
+   "explanation": "« On répète volontiers que… » introduit une opinion courante que l'auteur va réfuter (« pourtant »). La dernière phrase reformule le problème : les jeunes lisent autrement."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Chère Madame Roux, nous avons bien pris note de vos remarques concernant le retard de livraison. Nous en sommes sincèrement navrés et tenons à vous assurer que tout sera mis en œuvre pour qu'un tel incident ne se reproduise pas. En guise de dédommagement, nous vous offrons un bon d'achat de 20 €.",
+   "prompt": "Dans ce courriel, « en guise de dédommagement » signifie :",
+   "choices": [
+    {
+     "label": "A",
+     "text": "pour annuler votre commande.",
+     "correct": false,
+     "rationale": "Rien n'est annulé."
+    },
+    {
+     "label": "B",
+     "text": "pour vous inviter à commander à nouveau.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objectif principal."
+    },
+    {
+     "label": "C",
+     "text": "pour vous remercier de votre fidélité.",
+     "correct": false,
+     "rationale": "Il ne s'agit pas d'un remerciement."
+    },
+    {
+     "label": "D",
+     "text": "pour compenser le préjudice subi.",
+     "correct": true,
+     "rationale": "Un dédommagement répare un tort."
+    }
+   ],
+   "explanation": "« En guise de » = « comme, à titre de ». « Dédommager » = compenser un dommage. Le contexte (retard, excuses) confirme l'idée de réparation."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "À Nantes, une entreprise de logiciels a supprimé les horaires fixes. Chaque salarié organise librement sa journée, à condition d'être joignable entre 10 h et 16 h et de respecter les délais des projets. Six mois plus tard, l'absentéisme a diminué de moitié. La direction reconnaît toutefois que la coordination entre services demande plus d'efforts qu'auparavant.",
+   "prompt": "Quelle difficulté la direction reconnaît-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il est plus difficile de coordonner les services.",
+     "correct": true,
+     "rationale": "« la coordination entre services demande plus d'efforts »."
+    },
+    {
+     "label": "B",
+     "text": "Les salariés ne sont plus joignables.",
+     "correct": false,
+     "rationale": "Ils doivent l'être entre 10 h et 16 h."
+    },
+    {
+     "label": "C",
+     "text": "L'absentéisme a augmenté.",
+     "correct": false,
+     "rationale": "Il a diminué de moitié."
+    },
+    {
+     "label": "D",
+     "text": "Les délais ne sont plus respectés.",
+     "correct": false,
+     "rationale": "Respecter les délais est une condition du dispositif."
+    }
+   ],
+   "explanation": "« Toutefois » introduit la limite du dispositif après le résultat positif. Repérez les mots de nuance (toutefois, cependant, néanmoins) pour trouver les inconvénients."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Monsieur, nous accusons réception de votre demande de naturalisation. Votre dossier est complet et sera instruit dans un délai moyen de douze mois. Vous serez convoqué ultérieurement à un entretien d'assimilation, au cours duquel votre connaissance de la langue française et des valeurs de la République sera évaluée. Aucune démarche n'est nécessaire de votre part d'ici là.",
+   "prompt": "Que doit faire le demandeur à ce stade ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Prendre rendez-vous pour un entretien.",
+     "correct": false,
+     "rationale": "Il sera convoqué par l'administration."
+    },
+    {
+     "label": "B",
+     "text": "Attendre la convocation sans rien faire.",
+     "correct": true,
+     "rationale": "« Aucune démarche n'est nécessaire de votre part d'ici là »."
+    },
+    {
+     "label": "C",
+     "text": "Passer un examen de français dans les douze mois.",
+     "correct": false,
+     "rationale": "Ce n'est pas demandé dans la lettre."
+    },
+    {
+     "label": "D",
+     "text": "Compléter son dossier.",
+     "correct": false,
+     "rationale": "Le dossier est complet."
+    }
+   ],
+   "explanation": "« Accuser réception » = confirmer avoir reçu. « Ultérieurement » = plus tard. « D'ici là » = jusqu'à ce moment."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "Les défenseurs de la semaine de quatre jours avancent qu'elle améliore le bien-être et la productivité. Encore faut-il que la charge de travail soit réellement réorganisée : comprimer cinq jours de tâches en quatre risque au contraire d'accroître le stress. La réforme ne vaut donc que si elle s'accompagne d'une réflexion sur les méthodes de travail.",
+   "prompt": "Selon l'auteur, à quelle condition la semaine de quatre jours est-elle bénéfique ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Si les salaires augmentent.",
+     "correct": false,
+     "rationale": "Les salaires ne sont pas évoqués."
+    },
+    {
+     "label": "B",
+     "text": "Si les salariés travaillent plus d'heures par jour.",
+     "correct": false,
+     "rationale": "C'est le risque dénoncé."
+    },
+    {
+     "label": "C",
+     "text": "Si l'organisation du travail est repensée.",
+     "correct": true,
+     "rationale": "« La réforme ne vaut que si elle s'accompagne d'une réflexion sur les méthodes de travail »."
+    },
+    {
+     "label": "D",
+     "text": "Si elle est imposée par la loi.",
+     "correct": false,
+     "rationale": "La loi n'est pas évoquée."
+    }
+   ],
+   "explanation": "« Encore faut-il que… » introduit une condition restrictive. « Ne… que si » exprime une condition nécessaire."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "Le maire défend son projet de piétonnisation du centre historique : « Les villes qui l'ont fait ont vu revenir les familles et les commerces de proximité. » Une affirmation que nuancent les commerçants interrogés, qui redoutent la période de transition, souvent longue, pendant laquelle leur clientèle habituelle pourrait se détourner.",
+   "prompt": "Que craignent les commerçants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'arrivée de nouvelles familles.",
+     "correct": false,
+     "rationale": "Le maire présente cela comme positif."
+    },
+    {
+     "label": "B",
+     "text": "Une baisse de clientèle pendant la transition.",
+     "correct": true,
+     "rationale": "Ils redoutent que la clientèle « se détourne » pendant la transition."
+    },
+    {
+     "label": "C",
+     "text": "Une hausse des loyers.",
+     "correct": false,
+     "rationale": "Les loyers ne sont pas évoqués."
+    },
+    {
+     "label": "D",
+     "text": "La disparition définitive du centre historique.",
+     "correct": false,
+     "rationale": "Ce n'est pas leur crainte."
+    }
+   ],
+   "explanation": "« Nuancer » = apporter des réserves. Le verbe « redouter » exprime la crainte. « Se détourner » = s'éloigner, aller ailleurs."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "Le compte personnel de formation (CPF) permet à tout salarié d'acquérir des droits à la formation tout au long de sa vie professionnelle. Ces droits, exprimés en euros, sont crédités chaque année et restent acquis en cas de changement d'employeur ou de perte d'emploi. Le salarié peut les utiliser librement, sans l'accord de son employeur, si la formation a lieu en dehors de son temps de travail.",
+   "prompt": "Dans quel cas le salarié n'a-t-il pas besoin de l'accord de son employeur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Si la formation est gratuite.",
+     "correct": false,
+     "rationale": "La gratuité n'est pas une condition."
+    },
+    {
+     "label": "B",
+     "text": "Si la formation se déroule hors du temps de travail.",
+     "correct": true,
+     "rationale": "C'est la condition indiquée dans la dernière phrase."
+    },
+    {
+     "label": "C",
+     "text": "S'il change d'employeur.",
+     "correct": false,
+     "rationale": "Dans ce cas, il conserve ses droits, mais cela ne concerne pas l'accord."
+    },
+    {
+     "label": "D",
+     "text": "S'il a plus de dix ans d'ancienneté.",
+     "correct": false,
+     "rationale": "L'ancienneté n'est pas mentionnée."
+    }
+   ],
+   "explanation": "Une information précise se trouve souvent dans une subordonnée de condition (« si… »). « Restent acquis » = ne sont pas perdus."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« Quand j'ai annoncé à mes collègues que je quittais la banque pour devenir boulanger, certains ont souri poliment. Trois ans plus tard, plusieurs d'entre eux viennent acheter leur pain chez moi… et me demandent comment on se reconvertit. » Antoine, 41 ans.",
+   "prompt": "Que sous-entend Antoine ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Certains collègues sceptiques envient aujourd'hui son choix.",
+     "correct": true,
+     "rationale": "Ils lui demandent « comment on se reconvertit »."
+    },
+    {
+     "label": "B",
+     "text": "Ses anciens collègues ne lui parlent plus.",
+     "correct": false,
+     "rationale": "Ils viennent acheter leur pain chez lui."
+    },
+    {
+     "label": "C",
+     "text": "Il regrette d'avoir quitté la banque.",
+     "correct": false,
+     "rationale": "Rien n'indique des regrets."
+    },
+    {
+     "label": "D",
+     "text": "Sa boulangerie est en difficulté.",
+     "correct": false,
+     "rationale": "Rien ne le suggère."
+    }
+   ],
+   "explanation": "« Sourire poliment » suggère le scepticisme. Le retournement (« trois ans plus tard… ») montre que ces mêmes personnes envisagent désormais une reconversion."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Faut-il rendre le service civique obligatoire ? Ses partisans y voient un moyen de renforcer la cohésion sociale en faisant se rencontrer des jeunes de milieux différents. Ses détracteurs objectent qu'un engagement imposé perd son sens et que l'État n'a pas les moyens d'encadrer correctement des centaines de milliers de volontaires.",
+   "prompt": "Quels sont les arguments des opposants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le service civique renforce la cohésion sociale.",
+     "correct": false,
+     "rationale": "C'est l'argument des partisans."
+    },
+    {
+     "label": "B",
+     "text": "L'obligation dénature l'engagement et l'encadrement serait insuffisant.",
+     "correct": true,
+     "rationale": "Ce sont les deux objections citées."
+    },
+    {
+     "label": "C",
+     "text": "Les jeunes de milieux différents ne s'entendent pas.",
+     "correct": false,
+     "rationale": "Cet argument n'est pas avancé."
+    },
+    {
+     "label": "D",
+     "text": "Le service civique coûte moins cher que prévu.",
+     "correct": false,
+     "rationale": "C'est contraire à l'argument des moyens."
+    }
+   ],
+   "explanation": "Repérez les deux camps : « partisans » (pour) et « détracteurs » (contre). « Objecter » introduit un contre-argument."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "La consommation de viande diminue en France depuis une dizaine d'années. Ce recul ne s'explique pas uniquement par des préoccupations environnementales ou éthiques : la hausse des prix y contribue largement, si bien que les ménages modestes sont ceux qui ont le plus réduit leurs achats.",
+   "prompt": "Selon l'article, pourquoi les ménages modestes ont-ils le plus réduit leur consommation de viande ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que la viande est moins disponible.",
+     "correct": false,
+     "rationale": "La disponibilité n'est pas évoquée."
+    },
+    {
+     "label": "B",
+     "text": "À cause de l'augmentation des prix.",
+     "correct": true,
+     "rationale": "« la hausse des prix y contribue largement, si bien que les ménages modestes… »."
+    },
+    {
+     "label": "C",
+     "text": "Parce qu'ils sont plus sensibles à l'environnement.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'explication donnée pour eux."
+    },
+    {
+     "label": "D",
+     "text": "Pour des raisons éthiques.",
+     "correct": false,
+     "rationale": "L'article dit que l'éthique n'explique pas tout."
+    }
+   ],
+   "explanation": "« Si bien que » introduit une conséquence : la hausse des prix touche d'abord les ménages modestes. « Ne… pas uniquement » annonce une cause supplémentaire."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "Il est de bon ton de célébrer la « sobriété ». Mais exhorter à la modération des ménages qui peinent déjà à chauffer leur logement relève, au mieux, de la maladresse. Avant de prêcher la frugalité, encore faudrait-il s'assurer que l'effort soit équitablement réparti et que ceux qui consomment le plus montrent l'exemple.",
+   "prompt": "Que critique l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'exemple donné par les ménages modestes.",
+     "correct": false,
+     "rationale": "Il demande l'exemple des plus gros consommateurs."
+    },
+    {
+     "label": "B",
+     "text": "Le manque de logements chauffés.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objet de sa critique."
+    },
+    {
+     "label": "C",
+     "text": "La sobriété en elle-même.",
+     "correct": false,
+     "rationale": "Il ne rejette pas la sobriété, mais sa répartition."
+    },
+    {
+     "label": "D",
+     "text": "Un discours sur la sobriété qui ignore les inégalités.",
+     "correct": true,
+     "rationale": "Il dénonce le fait de demander des efforts aux ménages déjà en difficulté."
+    }
+   ],
+   "explanation": "« Il est de bon ton de » introduit une mode que l'auteur critique. « Au mieux, de la maladresse » est une litote : au pire, ce serait de l'injustice. La condition « encore faudrait-il » pose l'exigence d'équité."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "sens d'un mot en contexte",
+   "document": "Le rapport, publié en catimini un vendredi soir de juillet, pointe pourtant des dysfonctionnements majeurs dans la gestion des hôpitaux de la région. Plusieurs élus dénoncent une volonté manifeste d'en limiter l'écho médiatique.",
+   "prompt": "Que signifie « en catimini » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "en urgence.",
+     "correct": false,
+     "rationale": "L'idée de rapidité n'apparaît pas."
+    },
+    {
+     "label": "B",
+     "text": "officiellement et solennellement.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "C",
+     "text": "discrètement, en évitant d'attirer l'attention.",
+     "correct": true,
+     "rationale": "Le contexte (vendredi soir de juillet, limiter l'écho) le confirme."
+    },
+    {
+     "label": "D",
+     "text": "en plusieurs parties.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    }
+   ],
+   "explanation": "Le contexte aide à deviner le sens : un vendredi soir d'été est un moment peu suivi par les médias, et les élus dénoncent une volonté de limiter l'écho."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments contradictoires",
+   "document": "Les uns voient dans le travail à distance la fin du « métro-boulot-dodo » et une chance de revitaliser les villes moyennes. Les autres y lisent l'avènement d'une société fragmentée, où le lien social se dissout dans les écrans. Les deux lectures ne sont peut-être pas incompatibles : tout dépendra de la manière dont les entreprises et les territoires s'approprieront ce mouvement.",
+   "prompt": "Quelle est la position de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les deux opinions sont totalement contradictoires.",
+     "correct": false,
+     "rationale": "Il dit qu'elles ne sont « peut-être pas incompatibles »."
+    },
+    {
+     "label": "B",
+     "text": "Les effets du télétravail dépendront de la façon dont il sera mis en œuvre.",
+     "correct": true,
+     "rationale": "« tout dépendra de la manière dont… s'approprieront ce mouvement »."
+    },
+    {
+     "label": "C",
+     "text": "Le télétravail détruira forcément le lien social.",
+     "correct": false,
+     "rationale": "C'est l'une des deux lectures, pas la position de l'auteur."
+    },
+    {
+     "label": "D",
+     "text": "Le télétravail sauvera les villes moyennes.",
+     "correct": false,
+     "rationale": "C'est l'autre lecture."
+    }
+   ],
+   "explanation": "L'auteur présente deux points de vue (« les uns… les autres… ») puis dépasse l'opposition. La conclusion conditionnelle (« tout dépendra… ») exprime sa thèse."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "sous-entendu",
+   "document": "Le nouveau directeur promettait une « révolution managériale ». Dix-huit mois plus tard, l'organigramme a changé trois fois, les réunions se sont multipliées et la moitié de l'équipe de direction a démissionné. La révolution a bien eu lieu, à défaut d'avoir produit les résultats escomptés.",
+   "prompt": "Quel est le ton de la dernière phrase ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Enthousiaste.",
+     "correct": false,
+     "rationale": "Le bilan décrit est négatif."
+    },
+    {
+     "label": "B",
+     "text": "Admiratif.",
+     "correct": false,
+     "rationale": "Rien n'exprime l'admiration."
+    },
+    {
+     "label": "C",
+     "text": "Ironique.",
+     "correct": true,
+     "rationale": "Le mot « révolution » est repris pour souligner un échec."
+    },
+    {
+     "label": "D",
+     "text": "Neutre.",
+     "correct": false,
+     "rationale": "Le journaliste prend clairement position."
+    }
+   ],
+   "explanation": "L'ironie consiste à dire une chose pour en faire entendre une autre : « la révolution a bien eu lieu » reprend la promesse pour montrer le désordre. « À défaut de » = sans."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "compréhension globale",
+   "document": "Le principe de précaution, inscrit dans la Constitution française depuis 2005, impose aux autorités de prendre des mesures provisoires et proportionnées lorsqu'un dommage grave et irréversible à l'environnement est possible, même en l'absence de certitude scientifique. Ses critiques lui reprochent de freiner l'innovation ; ses défenseurs rappellent qu'il n'impose pas l'inaction, mais une action mesurée face à l'incertitude.",
+   "prompt": "Selon ses défenseurs, que permet le principe de précaution ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "D'agir de façon mesurée en cas d'incertitude.",
+     "correct": true,
+     "rationale": "« il n'impose pas l'inaction, mais une action mesurée face à l'incertitude »."
+    },
+    {
+     "label": "B",
+     "text": "D'attendre une certitude scientifique avant d'agir.",
+     "correct": false,
+     "rationale": "Il s'applique justement en l'absence de certitude."
+    },
+    {
+     "label": "C",
+     "text": "D'interdire toute innovation risquée.",
+     "correct": false,
+     "rationale": "C'est le reproche des critiques, déformé."
+    },
+    {
+     "label": "D",
+     "text": "De réparer les dommages déjà causés.",
+     "correct": false,
+     "rationale": "Il vise à prévenir, non à réparer."
+    }
+   ],
+   "explanation": "Distinguez les critiques et les défenseurs. La structure « non pas X, mais Y » donne la thèse des défenseurs. « Proportionnées » = adaptées à la gravité du risque."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "répondre à un message",
+   "instructions": "Votre ami Karim vous écrit : « Salut ! Je viens d'emménager dans ton quartier. Tu peux me conseiller un endroit sympa pour faire mes courses ou boire un café ? » Répondez-lui en présentant un lieu que vous aimez (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Salut Karim ! Bienvenue dans le quartier ! Je te conseille le marché de la place Carnot, le samedi matin. Les produits sont frais et pas trop chers. Juste à côté, il y a un petit café, « Le Comptoir », très calme, avec une terrasse ensoleillée. On pourrait s'y retrouver samedi vers dix heures ? À bientôt !",
+   "tips": "Respectez le registre amical (tutoiement), structurez : salutation, conseil, description, proposition, formule finale.",
+   "expected_points": [
+    "saluer et répondre au message",
+    "présenter un lieu précis",
+    "donner deux ou trois détails",
+    "formule de fin"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "raconter une expérience",
+   "instructions": "Vous avez participé à une journée de bénévolat (nettoyage d'un parc, collecte alimentaire…). Vous racontez cette expérience sur le blog de votre association : déroulement de la journée et ce que vous avez ressenti (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Samedi dernier, j'ai participé pour la première fois à la collecte alimentaire de notre association. Dès huit heures, nous nous sommes installés à l'entrée du supermarché pour expliquer notre démarche aux clients. Beaucoup ont accepté de donner des pâtes, du riz ou des conserves. Le soir, nous avions rempli quarante cartons ! J'étais fatiguée, mais vraiment fière : je me suis sentie utile et j'ai rencontré des bénévoles formidables. Je recommencerai sans hésiter.",
+   "tips": "Alternez passé composé (actions) et imparfait (description, sentiments). Utilisez des connecteurs temporels : dès, puis, le soir, finalement.",
+   "expected_points": [
+    "situer l'expérience dans le temps",
+    "raconter les étapes au passé",
+    "exprimer des sentiments",
+    "conclure"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "donner son opinion",
+   "instructions": "Sur un forum, on lit : « Les écrans devraient être interdits aux enfants de moins de six ans. » Vous donnez votre opinion en la justifiant avec des arguments et des exemples (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "À mon sens, une interdiction totale serait difficile à appliquer et peu efficace. En revanche, je suis convaincu qu'il faut limiter fortement le temps d'écran des jeunes enfants. En effet, ils ont besoin de bouger, de jouer et de parler pour se développer. Par exemple, une demi-heure de dessin animé choisi avec un parent n'est pas dangereuse. Il me semble donc préférable d'accompagner les familles plutôt que d'interdire.",
+   "tips": "Utilisez des connecteurs logiques (en effet, en revanche, donc) et des formules d'opinion variées (à mon sens, je suis convaincu que, il me semble préférable de).",
+   "expected_points": [
+    "exprimer clairement son opinion",
+    "au moins deux arguments",
+    "un exemple",
+    "nuance",
+    "conclusion"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous pose des questions sur vous, votre parcours, vos habitudes et vos projets. Répondez de manière développée et naturelle.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Pouvez-vous vous présenter ?",
+    "Que faites-vous dans la vie ?",
+    "Pourquoi avez-vous choisi ce métier ou ces études ?",
+    "Comment se passe une journée typique pour vous ?",
+    "Que faites-vous pendant votre temps libre ?",
+    "Quel est le plus beau voyage que vous ayez fait ?",
+    "Quels sont vos projets pour les prochaines années ?"
+   ],
+   "useful_phrases": [
+    "Je m'appelle… et je vis à… depuis…",
+    "J'ai fait des études de…",
+    "Ce qui me plaît dans mon travail, c'est…",
+    "Pendant mon temps libre, j'aime…",
+    "D'ici quelques années, j'aimerais…"
+   ],
+   "model_answer": "Je m'appelle Sara, j'ai trente-deux ans et je vis à Lyon depuis quatre ans. Je suis infirmière dans un hôpital. J'ai choisi ce métier parce que j'aime aider les autres et que chaque journée est différente. Pendant mon temps libre, je fais de la randonnée et je cuisine pour mes amis. D'ici deux ans, j'aimerais me spécialiser en pédiatrie."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Chercher un logement",
+   "examiner_role": "Agent immobilier",
+   "scenario": "Vous cherchez un appartement à louer pour vous et votre famille. L'examinateur joue le rôle d'un agent immobilier. Posez des questions (surface, quartier, loyer, charges, transports, écoles…), expliquez vos besoins et négociez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Bonjour, que puis-je faire pour vous ?",
+    "Quel est votre budget ?",
+    "J'ai un trois-pièces au cinquième étage sans ascenseur, ça vous intéresse ?",
+    "Le loyer est de 1 200 euros hors charges.",
+    "Il faut aussi trois fiches de paie et un garant.",
+    "Vous voulez le visiter quand ?"
+   ],
+   "useful_phrases": [
+    "Je souhaiterais savoir si…",
+    "Est-ce que les charges sont comprises ?",
+    "Ce serait possible de… ?",
+    "C'est un peu au-dessus de notre budget, est-ce que le propriétaire accepterait… ?",
+    "Dans ce cas, je préférerais…"
+   ],
+   "model_answer": "Bonjour, je cherche un trois-pièces pour ma famille, idéalement près d'une école primaire et d'une station de métro. Notre budget est d'environ mille euros charges comprises. Le cinquième sans ascenseur, ce serait difficile avec une poussette. Auriez-vous quelque chose de plus bas ? Et pour le loyer, est-ce que le propriétaire accepterait de négocier si nous signons pour trois ans ?"
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Le télétravail est-il une bonne solution ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion sur la question suivante : « Le télétravail est-il une bonne solution pour les salariés et les entreprises ? » Développez des arguments, donnez des exemples, présentez avantages et inconvénients, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Quel est votre avis ?",
+    "Pouvez-vous donner un exemple concret ?",
+    "Et pour les entreprises, quels sont les avantages ?",
+    "Ne pensez-vous pas que le télétravail isole les salariés ?",
+    "Quelle serait, selon vous, la solution idéale ?"
+   ],
+   "useful_phrases": [
+    "À mon sens…",
+    "D'un côté… de l'autre…",
+    "Il ne faut pas négliger le fait que…",
+    "Il serait réducteur de considérer que…",
+    "En définitive…"
+   ],
+   "model_answer": "À mon sens, le télétravail est une bonne solution, à condition de ne pas en abuser. D'un côté, il fait gagner du temps de transport et permet de mieux se concentrer : personnellement, je travaille beaucoup plus efficacement chez moi pour rédiger des rapports. De l'autre, il ne faut pas négliger le risque d'isolement, surtout pour les nouveaux salariés. En définitive, je pense qu'un système hybride, deux ou trois jours à distance, est l'équilibre idéal."
+  }
+ ]
+}

@@ -1,0 +1,490 @@
+@code EXAM-01
+@title Examen blanc n° 1 – Vie quotidienne et travail
+@level B2
+@description Examen complet calibré B1–B2 : démarches, logement, travail, environnement.
+
+## CO 1 | A2 | message téléphonique | information précise | F:fr-FR
+DOC: F: Bonjour Monsieur Garnier, ici le cabinet du docteur Lefèvre. Votre rendez-vous de jeudi à 10 heures est déplacé à vendredi, même heure, car le docteur sera absent jeudi. Si cela ne vous convient pas, rappelez-nous au 01 45 22 18 30. Merci et bonne journée.
+Q: Pourquoi le cabinet appelle-t-il M. Garnier ?
++ Pour changer le jour du rendez-vous. | Le rendez-vous passe de jeudi à vendredi, à la même heure.
+- Pour annuler définitivement le rendez-vous. | Le rendez-vous n'est pas annulé, il est déplacé.
+- Pour changer l'heure du rendez-vous. | L'heure reste la même : « même heure ».
+- Pour lui demander un document. | Aucun document n'est demandé.
+EXP: Le mot clé est « déplacé » : le rendez-vous change de jour (jeudi → vendredi) mais garde la même heure (10 h). Dans un message téléphonique, repérez d'abord le motif de l'appel, souvent annoncé au début.
+
+## CO 2 | A2 | annonce publique | information précise | H:fr-FR
+DOC: H: Mesdames et messieurs, en raison de travaux sur la voie, le train de 18 h 12 à destination de Lyon partira exceptionnellement du quai numéro 7. Nous vous prions de nous excuser pour la gêne occasionnée.
+Q: Qu'est-ce qui change pour le train de 18 h 12 ?
++ Le quai de départ. | Le train part « exceptionnellement du quai numéro 7 ».
+- L'heure de départ. | L'heure reste 18 h 12.
+- La destination. | La destination reste Lyon.
+- Le prix du billet. | Le prix n'est pas mentionné.
+EXP: Dans les annonces de gare, trois informations reviennent : l'heure, la destination, le quai. Ici, seul le quai change, à cause de travaux. « Exceptionnellement » signale un changement inhabituel.
+
+## CO 3 | A2 | conversation quotidienne | information précise | F:fr-FR, H:fr-FR
+DOC: F: Tu viens au cinéma ce soir ? / H: J'aimerais bien, mais je dois finir un dossier pour demain. Samedi, ça te va ? / F: Samedi, je suis chez mes parents. Dimanche après-midi alors ? / H: Parfait, dimanche après-midi.
+Q: Quand vont-ils aller au cinéma ?
++ Dimanche après-midi. | C'est la proposition finale acceptée : « Parfait, dimanche après-midi ».
+- Ce soir. | L'homme doit finir un dossier ce soir.
+- Samedi. | La femme est chez ses parents samedi.
+- Demain. | Demain, l'homme doit rendre son dossier.
+EXP: Dans une négociation de rendez-vous, plusieurs dates sont proposées puis refusées. Il faut retenir la dernière proposition acceptée (« Parfait »).
+
+## CO 4 | B1 | conversation quotidienne | intention | F:fr-FR, H:fr-BE
+DOC: H: Excusez-moi, madame, je crois que vous avez pris ma place. J'ai réservé le siège 24, côté fenêtre. / F: Oh, pardon ! Je pensais que c'était le 23. Je me déplace tout de suite. / H: Ce n'est pas grave, merci beaucoup.
+Q: Que fait l'homme ?
++ Il signale poliment une erreur de place. | Il indique que la femme occupe son siège réservé.
+- Il demande à changer de place. | Il veut récupérer sa place, pas en changer.
+- Il se plaint du confort du siège. | Le confort n'est pas évoqué.
+- Il propose sa place à la dame. | C'est l'inverse : il réclame sa place.
+EXP: L'intention se déduit des formules : « Excusez-moi… je crois que vous avez pris ma place » est une façon polie de signaler une erreur. La réponse « pardon, je me déplace » confirme le malentendu.
+
+## CO 5 | B1 | message professionnel | information précise | F:fr-CA
+DOC: F: Bonjour à toute l'équipe. Petit rappel : la réunion de lundi est remplacée par une visioconférence mardi à 14 h. Merci de préparer chacun un bilan de vos projets en cours, cinq minutes maximum par personne. Le lien de connexion vous sera envoyé par courriel lundi matin.
+Q: Que doivent préparer les employés ?
++ Une courte présentation de leurs projets. | « Un bilan de vos projets en cours, cinq minutes maximum ».
+- Le lien de la visioconférence. | Le lien sera envoyé par courriel, ils n'ont pas à le préparer.
+- Une salle de réunion. | La réunion se fait à distance.
+- Un rapport écrit détaillé. | Il s'agit d'un bilan oral court, non d'un rapport détaillé.
+EXP: Repérez le verbe d'action adressé aux auditeurs : « Merci de préparer… ». La contrainte « cinq minutes maximum » indique une présentation brève.
+
+## CO 6 | B1 | annonce publique | information précise | H:fr-FR
+DOC: H: La médiathèque municipale vous informe qu'à partir du 1er septembre, elle sera ouverte le dimanche de 10 h à 13 h. En revanche, elle fermera désormais le lundi toute la journée. Les horaires des autres jours restent inchangés.
+Q: Quel changement est annoncé ?
++ Une ouverture le dimanche matin et une fermeture le lundi. | Les deux changements sont annoncés.
+- Une fermeture le dimanche. | C'est l'inverse : elle ouvrira le dimanche.
+- De nouveaux horaires pour toute la semaine. | Les autres jours restent inchangés.
+- Une ouverture le lundi après-midi. | Elle sera fermée le lundi toute la journée.
+EXP: Le connecteur « en revanche » introduit une information opposée : un avantage (dimanche) est compensé par une fermeture (lundi). Attention aux réponses partielles.
+
+## CO 7 | B1 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous avez quitté Paris pour vous installer dans un village. Vous ne regrettez pas ? / H: Pas du tout. Bien sûr, il faut prendre la voiture pour tout, et les cinémas me manquent un peu. Mais je respire, je connais mes voisins, et mes enfants jouent dehors. Pour moi, la qualité de vie n'a pas de prix.
+Q: Quelle est l'opinion de l'homme sur son installation à la campagne ?
++ Il est satisfait malgré quelques inconvénients. | Il cite des inconvénients (voiture, cinémas) mais conclut positivement.
+- Il regrette sa vie parisienne. | Il répond « Pas du tout » à la question des regrets.
+- Il trouve la vie à la campagne trop chère. | Le coût n'est pas évoqué ; « n'a pas de prix » est une expression.
+- Il souhaite repartir en ville pour ses enfants. | Au contraire, ses enfants profitent de la campagne.
+EXP: Une opinion nuancée suit souvent le schéma « Bien sûr… mais… ». Ce qui suit « mais » exprime l'avis principal. « N'avoir pas de prix » signifie « être très précieux ».
+
+## CO 8 | B1 | information radio | information globale | H:fr-CH
+DOC: H: Les automobilistes sont invités à la prudence ce matin : un épais brouillard recouvre la région, réduisant la visibilité à moins de cinquante mètres sur certaines routes. Les autorités recommandent de limiter sa vitesse et de reporter les déplacements non indispensables. Le brouillard devrait se dissiper en fin de matinée.
+Q: Quel est l'objectif principal de ce message ?
++ Avertir d'un risque lié à la météo. | Le message appelle à la prudence à cause du brouillard.
+- Annoncer la fermeture des routes. | Les routes ne sont pas fermées.
+- Informer d'un accident grave. | Aucun accident n'est mentionné.
+- Présenter la météo de la semaine. | Le message concerne seulement ce matin.
+EXP: La première phrase donne souvent le but : « invités à la prudence ». Les recommandations (limiter sa vitesse, reporter les déplacements) confirment la fonction d'avertissement.
+
+## CO 9 | B1 | situation administrative | information précise | F:fr-FR, H:fr-FR
+DOC: H: Bonjour, je viens renouveler mon titre de séjour. / F: Vous avez pris rendez-vous en ligne ? / H: Non, je ne savais pas que c'était obligatoire. / F: Désormais, oui. Connectez-vous sur le site de la préfecture, rubrique « Mes démarches ». Vous recevrez une confirmation par courriel avec la liste des documents à apporter.
+Q: Que doit faire l'homme ?
++ Prendre rendez-vous sur Internet. | L'agente lui indique de se connecter au site de la préfecture.
+- Revenir avec ses documents le lendemain. | Il doit d'abord prendre rendez-vous en ligne.
+- Envoyer ses documents par courriel. | Il recevra la liste par courriel, il n'envoie rien.
+- Remplir un formulaire sur place. | Aucune démarche sur place n'est proposée.
+EXP: « Désormais, oui » confirme que le rendez-vous en ligne est obligatoire. Les étapes sont : se connecter → prendre rendez-vous → recevoir la liste des documents.
+
+## CO 10 | B1 | conversation professionnelle | intention | F:fr-FR, H:fr-FR
+DOC: F: Thomas, tu aurais cinq minutes ? Le client Durand trouve notre devis trop élevé. / H: Encore ? On a déjà baissé de dix pour cent. / F: Je sais, mais il menace d'aller voir la concurrence. On pourrait peut-être lui offrir la livraison ? / H: Bonne idée, ça nous coûte peu et ça montre notre bonne volonté.
+Q: Que décident-ils ?
++ De proposer un avantage au client sans baisser le prix. | Ils choisissent d'offrir la livraison.
+- De baisser encore le prix de dix pour cent. | La baisse de 10 % a déjà été faite.
+- De laisser partir le client. | Ils cherchent au contraire à le garder.
+- D'augmenter le devis. | Ce serait contraire à leur objectif.
+EXP: La solution est formulée au conditionnel (« On pourrait… lui offrir la livraison ») puis validée (« Bonne idée »). Le conditionnel sert souvent à faire une proposition polie.
+
+## CO 11 | B2 | débat | opinion | F:fr-FR, H:fr-FR
+DOC: F: Interdire les voitures dans le centre-ville, c'est rendre la ville aux piétons ! / H: Sur le principe, je suis d'accord, mais pensez aux commerçants : leurs clients viennent souvent en voiture. Sans parkings ni transports publics renforcés, on risque de vider le centre. Il faudrait d'abord développer les alternatives.
+Q: Quelle est la position de l'homme ?
++ Il approuve l'idée mais juge qu'il faut d'abord préparer des alternatives. | « Sur le principe, je suis d'accord, mais… Il faudrait d'abord développer les alternatives ».
+- Il est totalement opposé à la mesure. | Il se dit d'accord sur le principe.
+- Il soutient la mesure sans réserve. | Il exprime des réserves importantes.
+- Il pense que les commerçants sont favorables. | Il craint au contraire pour les commerçants.
+EXP: « Sur le principe, je suis d'accord, mais… » est une concession : l'accord est partiel. La condition est donnée par « Il faudrait d'abord… ». Distinguez accord de principe et accord sans réserve.
+
+## CO 12 | B2 | information radio | information globale | F:fr-FR
+DOC: F: Selon une étude publiée ce matin, près d'un salarié sur trois pratique désormais le télétravail au moins un jour par semaine. Si la majorité y voit un gain de temps et de concentration, les chercheurs soulignent un risque d'isolement, notamment chez les jeunes recrues, qui ont plus de difficultés à s'intégrer dans les équipes.
+Q: Quel risque l'étude met-elle en avant ?
++ L'isolement des nouveaux salariés. | « Un risque d'isolement, notamment chez les jeunes recrues ».
+- La baisse de la concentration. | Au contraire, la concentration est citée comme un gain.
+- La perte de temps dans les transports. | Le télétravail fait gagner du temps.
+- La hausse du chômage chez les jeunes. | Le chômage n'est pas évoqué.
+EXP: « Si… » introduit ici une opposition (= « bien que »). La première partie présente les avantages, la seconde le risque. « Jeunes recrues » = nouveaux employés.
+
+## CO 13 | B2 | interview | information détaillée | H:fr-CA, F:fr-FR
+DOC: F: Votre entreprise de vélos a doublé son chiffre d'affaires en deux ans. Quel est votre secret ? / H: Il n'y a pas de secret. Nous avons misé sur la réparation plutôt que sur la vente. Les gens gardent leur vélo plus longtemps, et ils reviennent nous voir. La fidélité, c'est ce qui fait tourner une petite entreprise comme la nôtre.
+Q: Selon l'homme, qu'est-ce qui explique le succès de son entreprise ?
++ Le choix de la réparation qui fidélise les clients. | Il dit avoir « misé sur la réparation » et insiste sur la fidélité.
+- La vente de vélos neufs bon marché. | Il a privilégié la réparation plutôt que la vente.
+- Une campagne publicitaire importante. | La publicité n'est pas mentionnée.
+- Un secret de fabrication. | Il affirme : « Il n'y a pas de secret ».
+EXP: « Miser sur » signifie « parier sur, faire le choix stratégique de ». La conclusion (« La fidélité, c'est ce qui fait tourner… ») résume la cause du succès.
+
+## CO 14 | B2 | message téléphonique | implicite | F:fr-FR
+DOC: F: Salut Marc, c'est Claire. Bon, je t'avais dit que je passerais récupérer mes livres samedi… Finalement, je crois que je vais attendre que tu aies fini de déménager. Je ne voudrais surtout pas te déranger au milieu des cartons. Rappelle-moi quand tu seras installé, on boira un café.
+Q: Que comprend-on du message de Claire ?
++ Elle reporte sa visite par délicatesse. | Elle ne veut « surtout pas déranger » Marc pendant son déménagement.
+- Elle est fâchée contre Marc. | Le ton est amical (« on boira un café »).
+- Elle a besoin de ses livres rapidement. | Elle accepte d'attendre.
+- Elle propose d'aider Marc à déménager. | Elle ne propose pas son aide.
+EXP: L'implicite se lit dans la justification : « Je ne voudrais surtout pas te déranger ». Le report est motivé par la politesse, pas par un conflit.
+
+## CO 15 | B2 | conversation professionnelle | relation logique | H:fr-FR, F:fr-FR
+DOC: H: Le projet a pris trois semaines de retard. / F: Oui, mais ce n'est pas faute d'avoir prévenu. Dès janvier, j'avais signalé que l'équipe était trop réduite. Personne n'a voulu recruter, et maintenant on nous reproche les délais. / H: Je comprends. Je vais présenter la situation à la direction avec vos messages de janvier.
+Q: Selon la femme, quelle est la cause du retard ?
++ Le manque de personnel, signalé mais ignoré. | Elle avait averti que l'équipe était « trop réduite » et personne n'a recruté.
+- Un manque de communication de sa part. | Au contraire, elle avait prévenu dès janvier.
+- Des problèmes techniques imprévus. | Aucun problème technique n'est mentionné.
+- La mauvaise volonté de l'équipe. | Elle défend son équipe.
+EXP: « Ce n'est pas faute d'avoir prévenu » signifie « nous avons bien prévenu ». La cause est l'équipe trop réduite ; la conséquence, les délais. L'homme s'appuie sur ces preuves écrites.
+
+## CO 16 | B2 | interview | information détaillée | F:fr-BE, H:fr-FR
+DOC: H: Vous dirigez une association d'aide aux devoirs. Qui sont vos bénévoles ? / F: Beaucoup de retraités, bien sûr, d'anciens enseignants surtout. Mais ce qui me réjouit, c'est l'arrivée d'étudiants depuis deux ans. Ils apportent une proximité avec les élèves que les plus âgés n'ont pas toujours. Les deux profils se complètent très bien.
+Q: Qu'est-ce qui réjouit la responsable de l'association ?
++ La venue de bénévoles étudiants. | « Ce qui me réjouit, c'est l'arrivée d'étudiants ».
+- Le départ des anciens enseignants. | Les retraités restent nombreux et utiles.
+- La hausse du nombre d'élèves. | Le nombre d'élèves n'est pas évoqué.
+- Le remplacement des retraités par des jeunes. | Elle dit que les deux profils se complètent.
+EXP: La structure « ce qui me réjouit, c'est… » met en relief l'information importante. Attention : « se complètent » exclut l'idée de remplacement.
+
+## CO 17 | B2 | annonce publique | information précise | H:fr-FR
+DOC: H: Chers clients, à l'occasion de nos vingt ans, profitez jusqu'à dimanche de trente pour cent de réduction sur l'ensemble du rayon électroménager, hors produits déjà soldés. Pour tout achat supérieur à cinq cents euros, la livraison et l'installation sont offertes.
+Q: À quelle condition l'installation est-elle gratuite ?
++ Si l'achat dépasse cinq cents euros. | « Pour tout achat supérieur à cinq cents euros ».
+- Si le produit est déjà soldé. | Les produits soldés sont exclus de la réduction.
+- Si l'achat est effectué avant dimanche. | Dimanche est la limite de la réduction, pas la condition de l'installation.
+- Pour tous les produits électroménagers. | Il faut dépasser un montant minimal.
+EXP: Distinguez les deux offres : la réduction (30 % jusqu'à dimanche, hors soldes) et l'installation gratuite (achat > 500 €). « Hors » signifie « à l'exception de ».
+
+## CO 18 | B2 | information radio | relation logique | F:fr-FR
+DOC: F: Le prix des fruits et légumes a fortement augmenté ce printemps. En cause : des gelées tardives en avril qui ont détruit une partie des récoltes, mais aussi la hausse du coût du transport. Les consommateurs se tournent de plus en plus vers les marchés locaux, où les prix restent plus stables.
+Q: Quelles sont les causes de la hausse des prix ?
++ Le gel et l'augmentation du coût du transport. | « Des gelées tardives… mais aussi la hausse du coût du transport ».
+- Le développement des marchés locaux. | Les marchés locaux sont une conséquence, pas une cause.
+- Une forte demande des consommateurs. | La demande n'est pas citée comme cause.
+- La sécheresse de l'été. | Il s'agit de gelées au printemps.
+EXP: « En cause : » introduit les causes. « Mais aussi » ajoute une deuxième cause. Les marchés locaux sont la réaction des consommateurs (conséquence).
+
+## CO 19 | B2 | débat | argumentation | H:fr-FR, F:fr-CA
+DOC: H: Les réseaux sociaux isolent les adolescents. / F: Je ne serais pas aussi catégorique. Pour certains jeunes, qui se sentent différents dans leur école, ce sont justement des espaces où ils trouvent des personnes qui leur ressemblent. Le problème, ce n'est pas l'outil, c'est l'usage excessif et l'absence d'accompagnement des parents.
+Q: Quel argument la femme avance-t-elle ?
++ Le problème vient de l'usage, pas de l'outil lui-même. | « Le problème, ce n'est pas l'outil, c'est l'usage excessif ».
+- Les réseaux sociaux devraient être interdits aux adolescents. | Elle ne propose aucune interdiction.
+- Les parents utilisent trop les réseaux sociaux. | Elle évoque l'absence d'accompagnement, pas l'usage des parents.
+- Tous les adolescents sont isolés à l'école. | Elle parle seulement de « certains jeunes ».
+EXP: « Je ne serais pas aussi catégorique » introduit une nuance. L'argument central oppose l'outil et son usage (structure « ce n'est pas X, c'est Y »).
+
+## CO 20 | B2 | interview | implicite | F:fr-FR, H:fr-FR
+DOC: F: On dit que vous êtes un chef exigeant. / H: Exigeant… disons que je ne laisse rien passer. Quand un plat sort de ma cuisine, il porte mon nom. Mes cuisiniers le savent : ils peuvent se tromper, mais ils ne peuvent pas être négligents. Et ceux qui restent deviennent souvent d'excellents chefs.
+Q: Que laisse entendre le chef ?
++ Certains employés ne supportent pas son niveau d'exigence. | « Ceux qui restent » sous-entend que d'autres partent.
+- Il accepte facilement les erreurs de négligence. | Il dit au contraire qu'on ne peut pas être négligent.
+- Il refuse d'être considéré comme exigeant. | Il reformule mais assume (« je ne laisse rien passer »).
+- Ses cuisiniers ne font jamais d'erreurs. | Il admet qu'« ils peuvent se tromper ».
+EXP: L'implicite repose sur « ceux qui restent » : si certains restent, d'autres sont partis. Le chef distingue l'erreur (acceptée) et la négligence (refusée).
+
+## CO 21 | C1 | information radio | information détaillée | H:fr-FR
+DOC: H: Le gouvernement a présenté hier un plan de rénovation énergétique des logements. L'objectif affiché est ambitieux : cinq cent mille rénovations par an. Mais plusieurs associations doutent de sa faisabilité, faute d'artisans qualifiés en nombre suffisant. Elles réclament un volet formation, absent du plan pour l'instant.
+Q: Que reprochent les associations au plan ?
++ Il ne prévoit rien pour former des artisans. | Elles réclament « un volet formation, absent du plan ».
+- Son objectif est trop modeste. | L'objectif est qualifié d'« ambitieux ».
+- Il coûte trop cher à l'État. | Le coût n'est pas abordé.
+- Il ne concerne que les logements neufs. | Il s'agit de rénovation, donc de logements existants.
+EXP: « Faute de » = « par manque de ». Le doute porte sur la faisabilité, liée au manque d'artisans ; la revendication est un volet formation.
+
+## CO 22 | B2 | conversation professionnelle | intention | F:fr-FR, H:fr-CH
+DOC: F: Je voulais vous parler de ma demande de passage à quatre jours. / H: Oui, j'ai bien reçu votre courrier. Sur le fond, je n'y suis pas opposé. Mais en pleine période de lancement, ce serait compliqué pour l'équipe. Revenons-en en septembre, une fois le produit sorti, d'accord ? / F: D'accord, je note septembre.
+Q: Comment le responsable répond-il à la demande ?
++ Il la reporte sans la refuser. | Il n'est « pas opposé » mais propose d'en reparler en septembre.
+- Il l'accepte immédiatement. | Il propose d'attendre septembre.
+- Il la refuse définitivement. | Il dit ne pas être opposé sur le fond.
+- Il demande un nouveau courrier. | Il a déjà reçu le courrier.
+EXP: « Sur le fond, je n'y suis pas opposé. Mais… » : accord de principe + obstacle temporaire. « Revenons-en en septembre » = report de la décision.
+
+## CO 23 | C1 | débat | argumentation | H:fr-FR, F:fr-FR
+DOC: F: La gratuité des transports publics, c'est la solution pour réduire la voiture en ville. / H: Les expériences montrent pourtant que la gratuité attire surtout des piétons et des cyclistes, pas les automobilistes. Ce qui fait changer les habitudes, c'est la fréquence et la fiabilité. Un bus gratuit qui passe toutes les quarante minutes ne convaincra personne.
+Q: Quelle objection l'homme formule-t-il ?
++ La qualité du service compte plus que la gratuité. | « Ce qui fait changer les habitudes, c'est la fréquence et la fiabilité ».
+- La gratuité coûte trop cher aux villes. | Le coût n'est pas son argument.
+- Les automobilistes adorent les transports gratuits. | Les expériences montrent l'inverse.
+- Les cyclistes devraient payer les transports. | Il ne propose rien de tel.
+EXP: L'objection s'appuie sur des faits (« les expériences montrent ») puis sur un contre-exemple concret (le bus toutes les quarante minutes). « Pourtant » marque l'opposition.
+
+## CO 24 | C1 | interview | opinion | F:fr-FR, H:fr-BE
+DOC: H: L'intelligence artificielle va-t-elle remplacer les traducteurs ? / F: Elle remplace déjà une partie du travail le plus répétitif, c'est indéniable. Mais traduire, ce n'est pas seulement transposer des mots ; c'est arbitrer, comprendre une intention, un contexte culturel. Le métier ne disparaîtra pas, il se transformera : on deviendra davantage des réviseurs et des conseillers.
+Q: Quel est le point de vue de la traductrice ?
++ Le métier évoluera plutôt qu'il ne disparaîtra. | « Le métier ne disparaîtra pas, il se transformera ».
+- L'IA ne joue encore aucun rôle dans la traduction. | Elle admet que l'IA remplace déjà une partie du travail.
+- Les traducteurs vont tous perdre leur emploi. | Elle affirme le contraire.
+- L'IA comprend parfaitement les contextes culturels. | Elle présente cela comme une compétence humaine.
+EXP: La concession (« c'est indéniable. Mais… ») précède la thèse. La conclusion oppose disparition et transformation. « Arbitrer » = faire des choix entre plusieurs possibilités.
+
+## CO 25 | C1 | information radio | implicite | H:fr-FR
+DOC: H: La mairie se félicite de la fréquentation record de la nouvelle piscine : trente mille entrées le premier mois. Un succès qui s'explique peut-être aussi par la fermeture, en même temps, des deux piscines voisines, dont les travaux, annoncés pour six mois, en dureront finalement dix-huit.
+Q: Que suggère le journaliste ?
++ Le succès de la piscine est en partie dû à l'absence de concurrence. | « peut-être aussi par la fermeture… des deux piscines voisines ».
+- La nouvelle piscine est trop petite. | La taille n'est pas évoquée.
+- La mairie a menti sur les chiffres. | Il ne conteste pas les chiffres, il les relativise.
+- Les travaux des piscines voisines sont terminés. | Ils dureront dix-huit mois au lieu de six.
+EXP: Le journaliste relativise l'autosatisfaction de la mairie avec « peut-être aussi » : il propose une autre explication, moins flatteuse. L'ironie se perçoit dans le contraste entre « record » et la fermeture des concurrents.
+
+## CE 1 | A2 | annonce | information précise
+DOC: À LOUER – Studio meublé de 25 m², centre-ville, 3e étage avec ascenseur. Cuisine équipée, salle de douche. 580 € par mois, charges comprises. Libre le 1er octobre. Non-fumeurs uniquement. Contact : 06 12 34 56 78 (après 18 h).
+Q: Quand peut-on appeler le propriétaire ?
++ Le soir, après 18 heures. | L'annonce précise « (après 18 h) ».
+- Le matin seulement. | Il faut appeler après 18 h.
+- À partir du 1er octobre. | C'est la date de disponibilité du studio.
+- À n'importe quelle heure. | Un horaire est imposé.
+EXP: Les informations pratiques des annonces (prix, date, contact) sont souvent abrégées. La parenthèse « (après 18 h) » se rapporte au numéro de téléphone.
+
+## CE 2 | A2 | message | information précise
+DOC: Coucou Léa ! Je suis désolée, je ne pourrai pas venir à ton anniversaire samedi : mon fils a de la fièvre depuis hier. Je t'ai acheté un petit cadeau, je te le donnerai la semaine prochaine. Bisous, Sonia.
+Q: Pourquoi Sonia ne va-t-elle pas à l'anniversaire ?
++ Son fils est malade. | « Mon fils a de la fièvre depuis hier ».
+- Elle travaille samedi. | Le travail n'est pas mentionné.
+- Elle n'a pas de cadeau. | Elle a acheté un cadeau.
+- Elle est malade. | C'est son fils qui est malade.
+EXP: La cause suit l'annonce de l'absence, introduite par les deux-points ( : ). « Avoir de la fièvre » est un signe de maladie.
+
+## CE 3 | A2 | affiche | information précise
+DOC: PISCINE MUNICIPALE – Bonnet de bain obligatoire. Short de bain interdit. Douche obligatoire avant l'entrée dans les bassins. Les enfants de moins de 10 ans doivent être accompagnés d'un adulte.
+Q: Qui doit être accompagné d'un adulte ?
++ Les enfants de moins de 10 ans. | C'est écrit dans la dernière phrase.
+- Tous les enfants. | Seulement les moins de 10 ans.
+- Les personnes sans bonnet. | Le bonnet est obligatoire pour tous.
+- Les nageurs débutants. | Les débutants ne sont pas mentionnés.
+EXP: Lisez la règle complète : la limite d'âge (« moins de 10 ans ») restreint le groupe concerné.
+
+## CE 4 | B1 | courriel | intention
+DOC: Objet : Commande n° 45872. Madame, Monsieur, J'ai reçu hier ma commande d'une lampe de bureau. Malheureusement, le pied est cassé. Je vous joins deux photos. Je souhaiterais recevoir un produit de remplacement dans les meilleurs délais, ou à défaut être remboursé. Cordialement, Paul Morel.
+Q: Que demande Paul Morel ?
++ Un échange ou un remboursement. | « un produit de remplacement… ou à défaut être remboursé ».
+- Des photos du produit. | C'est lui qui envoie des photos.
+- Une réduction sur sa prochaine commande. | Il ne demande pas de réduction.
+- L'annulation de sa commande avant livraison. | Il a déjà reçu la commande.
+EXP: « À défaut » signifie « si ce n'est pas possible ». Paul propose donc une solution principale (remplacement) et une solution secondaire (remboursement).
+
+## CE 5 | B1 | article de presse | information globale
+DOC: Depuis la rentrée, le collège Jean-Moulin teste les « téléphones au casier ». Chaque matin, les élèves déposent leur portable dans un casier fermé et le récupèrent à la sortie. Résultat, selon la principale : moins de conflits dans la cour et davantage de discussions entre élèves. Certains parents, en revanche, regrettent de ne plus pouvoir joindre leurs enfants en journée.
+Q: De quoi parle cet article ?
++ D'une expérience qui limite l'usage du téléphone au collège. | Le collège « teste » le dépôt des portables dans des casiers.
+- D'une interdiction des téléphones décidée par l'État. | C'est une initiative du collège.
+- De vols de téléphones au collège. | Aucun vol n'est évoqué.
+- D'un nouveau cours sur les réseaux sociaux. | Aucun cours n'est mentionné.
+EXP: Le verbe « teste » indique une expérience locale. L'article présente ensuite des effets positifs (moins de conflits) et une critique (parents), structure typique de l'article d'information.
+
+## CE 6 | B1 | lettre administrative | information précise
+DOC: Madame, suite à votre demande du 3 mars, nous vous informons que votre dossier d'aide au logement est incomplet. Afin de poursuivre son examen, merci de nous transmettre, avant le 30 avril, votre dernier avis d'imposition ainsi qu'une copie de votre bail. Passé ce délai, votre demande sera classée sans suite.
+Q: Que se passera-t-il si la personne n'envoie pas les documents avant le 30 avril ?
++ Sa demande ne sera pas traitée. | « Classée sans suite » = abandonnée.
+- Elle devra payer une amende. | Aucune amende n'est prévue.
+- Elle recevra une aide réduite. | La demande est abandonnée, pas réduite.
+- Elle sera convoquée à un rendez-vous. | Aucun rendez-vous n'est mentionné.
+EXP: « Classer sans suite » est une expression administrative : le dossier est fermé sans décision. « Passé ce délai » = après cette date.
+
+## CE 7 | B1 | publicité | information précise
+DOC: Envie de bouger sans vous ruiner ? Avec VéloCité, louez un vélo électrique pour 1 € la demi-heure. Abonnement annuel : 60 €, avec les 30 premières minutes gratuites à chaque trajet. Plus de 200 stations dans toute l'agglomération, ouvertes 24 h/24.
+Q: Quel est l'avantage de l'abonnement annuel ?
++ La première demi-heure de chaque trajet est gratuite. | « avec les 30 premières minutes gratuites à chaque trajet ».
+- Le vélo est livré à domicile. | La livraison n'est pas proposée.
+- Les stations sont ouvertes la nuit uniquement pour les abonnés. | Elles sont ouvertes 24 h/24 pour tous.
+- Le vélo est gratuit toute la journée. | Seules les 30 premières minutes sont gratuites.
+EXP: Comparez les deux tarifs : sans abonnement, 1 € la demi-heure ; avec abonnement, 30 minutes gratuites par trajet. « Sans vous ruiner » = sans dépenser beaucoup.
+
+## CE 8 | B1 | message professionnel | information précise
+DOC: Bonjour à tous, suite aux travaux de climatisation, les bureaux du 2e étage seront inaccessibles du lundi 12 au mercredi 14. Les équipes concernées pourront travailler en salle de réunion B ou en télétravail, au choix. Merci de réserver votre place en salle B auprès de l'accueil avant vendredi. Le service technique.
+Q: Que doivent faire les employés qui veulent travailler en salle B ?
++ Réserver leur place à l'accueil avant vendredi. | C'est la consigne de la dernière phrase.
+- Prévenir le service technique. | La réservation se fait auprès de l'accueil.
+- Demander l'autorisation de télétravailler. | Le télétravail est libre, au choix.
+- Venir le lundi 12 pour s'inscrire. | Il faut réserver avant vendredi.
+EXP: Le message propose deux options (salle B ou télétravail) puis une démarche pour la première option. Repérez l'interlocuteur de la démarche : « auprès de l'accueil ».
+
+## CE 9 | B1 | témoignage | opinion
+DOC: « J'ai commencé le bénévolat dans une épicerie solidaire pour occuper ma retraite. Je pensais donner un peu de mon temps ; en réalité, j'ai beaucoup reçu. Les rencontres, les sourires, le sentiment d'être utile… Je conseille à tous les jeunes retraités de tenter l'expérience. » Michel, 67 ans.
+Q: Que pense Michel de son expérience ?
++ Elle lui apporte plus qu'il ne l'imaginait. | « Je pensais donner… en réalité, j'ai beaucoup reçu ».
+- Elle lui prend trop de temps. | Il ne se plaint pas du temps passé.
+- Elle est réservée aux jeunes. | Il conseille l'expérience aux jeunes retraités.
+- Elle est décevante. | Il la recommande.
+EXP: L'opposition « je pensais… en réalité… » montre que la réalité dépasse les attentes. La recommandation finale confirme une opinion positive.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: Longtemps considérée comme un simple loisir, la randonnée connaît un essor inédit. Les sentiers de montagne, autrefois réservés aux initiés, voient affluer chaque été des milliers de citadins en quête de nature. Une bonne nouvelle pour l'économie locale, mais une source d'inquiétude pour les gardes des parcs nationaux, qui constatent une augmentation des déchets et des secours pour des marcheurs mal équipés.
+Q: Quelle est l'idée principale du texte ?
++ La popularité de la randonnée a des effets positifs et négatifs. | Le texte cite l'économie locale (positif) puis les déchets et les secours (négatif).
+- La randonnée est réservée aux sportifs expérimentés. | Elle attire au contraire des citadins non initiés.
+- Les parcs nationaux vont fermer leurs sentiers. | Aucune fermeture n'est annoncée.
+- Les citadins sont mieux équipés qu'avant. | Le texte parle de marcheurs mal équipés.
+EXP: La structure « une bonne nouvelle pour…, mais une source d'inquiétude pour… » organise le texte autour d'avantages et d'inconvénients. « Essor » = développement rapide.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: On répète volontiers que les jeunes ne lisent plus. Les chiffres racontent pourtant une autre histoire : les ventes de romans destinés aux adolescents progressent chaque année, et les bibliothèques n'ont jamais prêté autant de bandes dessinées. Peut-être faudrait-il cesser de confondre « ne plus lire » et « ne plus lire ce que lisaient leurs parents ».
+Q: Quelle est l'intention de l'auteur ?
++ Contester une idée reçue sur la lecture des jeunes. | Il oppose l'idée répandue (« on répète ») aux chiffres.
+- Prouver que les jeunes lisent moins qu'avant. | Il soutient le contraire.
+- Critiquer les bandes dessinées. | Il les cite comme preuve de lecture.
+- Encourager les parents à lire davantage. | Les parents ne sont pas la cible du texte.
+EXP: « On répète volontiers que… » introduit une opinion courante que l'auteur va réfuter (« pourtant »). La dernière phrase reformule le problème : les jeunes lisent autrement.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Chère Madame Roux, nous avons bien pris note de vos remarques concernant le retard de livraison. Nous en sommes sincèrement navrés et tenons à vous assurer que tout sera mis en œuvre pour qu'un tel incident ne se reproduise pas. En guise de dédommagement, nous vous offrons un bon d'achat de 20 €.
+Q: Dans ce courriel, « en guise de dédommagement » signifie :
++ pour compenser le préjudice subi. | Un dédommagement répare un tort.
+- pour vous remercier de votre fidélité. | Il ne s'agit pas d'un remerciement.
+- pour vous inviter à commander à nouveau. | Ce n'est pas l'objectif principal.
+- pour annuler votre commande. | Rien n'est annulé.
+EXP: « En guise de » = « comme, à titre de ». « Dédommager » = compenser un dommage. Le contexte (retard, excuses) confirme l'idée de réparation.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: À Nantes, une entreprise de logiciels a supprimé les horaires fixes. Chaque salarié organise librement sa journée, à condition d'être joignable entre 10 h et 16 h et de respecter les délais des projets. Six mois plus tard, l'absentéisme a diminué de moitié. La direction reconnaît toutefois que la coordination entre services demande plus d'efforts qu'auparavant.
+Q: Quelle difficulté la direction reconnaît-elle ?
++ Il est plus difficile de coordonner les services. | « la coordination entre services demande plus d'efforts ».
+- L'absentéisme a augmenté. | Il a diminué de moitié.
+- Les délais ne sont plus respectés. | Respecter les délais est une condition du dispositif.
+- Les salariés ne sont plus joignables. | Ils doivent l'être entre 10 h et 16 h.
+EXP: « Toutefois » introduit la limite du dispositif après le résultat positif. Repérez les mots de nuance (toutefois, cependant, néanmoins) pour trouver les inconvénients.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Monsieur, nous accusons réception de votre demande de naturalisation. Votre dossier est complet et sera instruit dans un délai moyen de douze mois. Vous serez convoqué ultérieurement à un entretien d'assimilation, au cours duquel votre connaissance de la langue française et des valeurs de la République sera évaluée. Aucune démarche n'est nécessaire de votre part d'ici là.
+Q: Que doit faire le demandeur à ce stade ?
++ Attendre la convocation sans rien faire. | « Aucune démarche n'est nécessaire de votre part d'ici là ».
+- Compléter son dossier. | Le dossier est complet.
+- Prendre rendez-vous pour un entretien. | Il sera convoqué par l'administration.
+- Passer un examen de français dans les douze mois. | Ce n'est pas demandé dans la lettre.
+EXP: « Accuser réception » = confirmer avoir reçu. « Ultérieurement » = plus tard. « D'ici là » = jusqu'à ce moment.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: Les défenseurs de la semaine de quatre jours avancent qu'elle améliore le bien-être et la productivité. Encore faut-il que la charge de travail soit réellement réorganisée : comprimer cinq jours de tâches en quatre risque au contraire d'accroître le stress. La réforme ne vaut donc que si elle s'accompagne d'une réflexion sur les méthodes de travail.
+Q: Selon l'auteur, à quelle condition la semaine de quatre jours est-elle bénéfique ?
++ Si l'organisation du travail est repensée. | « La réforme ne vaut que si elle s'accompagne d'une réflexion sur les méthodes de travail ».
+- Si les salaires augmentent. | Les salaires ne sont pas évoqués.
+- Si les salariés travaillent plus d'heures par jour. | C'est le risque dénoncé.
+- Si elle est imposée par la loi. | La loi n'est pas évoquée.
+EXP: « Encore faut-il que… » introduit une condition restrictive. « Ne… que si » exprime une condition nécessaire.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: Le maire défend son projet de piétonnisation du centre historique : « Les villes qui l'ont fait ont vu revenir les familles et les commerces de proximité. » Une affirmation que nuancent les commerçants interrogés, qui redoutent la période de transition, souvent longue, pendant laquelle leur clientèle habituelle pourrait se détourner.
+Q: Que craignent les commerçants ?
++ Une baisse de clientèle pendant la transition. | Ils redoutent que la clientèle « se détourne » pendant la transition.
+- La disparition définitive du centre historique. | Ce n'est pas leur crainte.
+- L'arrivée de nouvelles familles. | Le maire présente cela comme positif.
+- Une hausse des loyers. | Les loyers ne sont pas évoqués.
+EXP: « Nuancer » = apporter des réserves. Le verbe « redouter » exprime la crainte. « Se détourner » = s'éloigner, aller ailleurs.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: Le compte personnel de formation (CPF) permet à tout salarié d'acquérir des droits à la formation tout au long de sa vie professionnelle. Ces droits, exprimés en euros, sont crédités chaque année et restent acquis en cas de changement d'employeur ou de perte d'emploi. Le salarié peut les utiliser librement, sans l'accord de son employeur, si la formation a lieu en dehors de son temps de travail.
+Q: Dans quel cas le salarié n'a-t-il pas besoin de l'accord de son employeur ?
++ Si la formation se déroule hors du temps de travail. | C'est la condition indiquée dans la dernière phrase.
+- Si la formation est gratuite. | La gratuité n'est pas une condition.
+- S'il change d'employeur. | Dans ce cas, il conserve ses droits, mais cela ne concerne pas l'accord.
+- S'il a plus de dix ans d'ancienneté. | L'ancienneté n'est pas mentionnée.
+EXP: Une information précise se trouve souvent dans une subordonnée de condition (« si… »). « Restent acquis » = ne sont pas perdus.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « Quand j'ai annoncé à mes collègues que je quittais la banque pour devenir boulanger, certains ont souri poliment. Trois ans plus tard, plusieurs d'entre eux viennent acheter leur pain chez moi… et me demandent comment on se reconvertit. » Antoine, 41 ans.
+Q: Que sous-entend Antoine ?
++ Certains collègues sceptiques envient aujourd'hui son choix. | Ils lui demandent « comment on se reconvertit ».
+- Ses anciens collègues ne lui parlent plus. | Ils viennent acheter leur pain chez lui.
+- Il regrette d'avoir quitté la banque. | Rien n'indique des regrets.
+- Sa boulangerie est en difficulté. | Rien ne le suggère.
+EXP: « Sourire poliment » suggère le scepticisme. Le retournement (« trois ans plus tard… ») montre que ces mêmes personnes envisagent désormais une reconversion.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Faut-il rendre le service civique obligatoire ? Ses partisans y voient un moyen de renforcer la cohésion sociale en faisant se rencontrer des jeunes de milieux différents. Ses détracteurs objectent qu'un engagement imposé perd son sens et que l'État n'a pas les moyens d'encadrer correctement des centaines de milliers de volontaires.
+Q: Quels sont les arguments des opposants ?
++ L'obligation dénature l'engagement et l'encadrement serait insuffisant. | Ce sont les deux objections citées.
+- Les jeunes de milieux différents ne s'entendent pas. | Cet argument n'est pas avancé.
+- Le service civique coûte moins cher que prévu. | C'est contraire à l'argument des moyens.
+- Le service civique renforce la cohésion sociale. | C'est l'argument des partisans.
+EXP: Repérez les deux camps : « partisans » (pour) et « détracteurs » (contre). « Objecter » introduit un contre-argument.
+
+## CE 20 | B2 | article de presse | relation logique
+DOC: La consommation de viande diminue en France depuis une dizaine d'années. Ce recul ne s'explique pas uniquement par des préoccupations environnementales ou éthiques : la hausse des prix y contribue largement, si bien que les ménages modestes sont ceux qui ont le plus réduit leurs achats.
+Q: Selon l'article, pourquoi les ménages modestes ont-ils le plus réduit leur consommation de viande ?
++ À cause de l'augmentation des prix. | « la hausse des prix y contribue largement, si bien que les ménages modestes… ».
+- Pour des raisons éthiques. | L'article dit que l'éthique n'explique pas tout.
+- Parce qu'ils sont plus sensibles à l'environnement. | Ce n'est pas l'explication donnée pour eux.
+- Parce que la viande est moins disponible. | La disponibilité n'est pas évoquée.
+EXP: « Si bien que » introduit une conséquence : la hausse des prix touche d'abord les ménages modestes. « Ne… pas uniquement » annonce une cause supplémentaire.
+
+## CE 21 | C1 | texte argumentatif | intention de l'auteur
+DOC: Il est de bon ton de célébrer la « sobriété ». Mais exhorter à la modération des ménages qui peinent déjà à chauffer leur logement relève, au mieux, de la maladresse. Avant de prêcher la frugalité, encore faudrait-il s'assurer que l'effort soit équitablement réparti et que ceux qui consomment le plus montrent l'exemple.
+Q: Que critique l'auteur ?
++ Un discours sur la sobriété qui ignore les inégalités. | Il dénonce le fait de demander des efforts aux ménages déjà en difficulté.
+- La sobriété en elle-même. | Il ne rejette pas la sobriété, mais sa répartition.
+- Le manque de logements chauffés. | Ce n'est pas l'objet de sa critique.
+- L'exemple donné par les ménages modestes. | Il demande l'exemple des plus gros consommateurs.
+EXP: « Il est de bon ton de » introduit une mode que l'auteur critique. « Au mieux, de la maladresse » est une litote : au pire, ce serait de l'injustice. La condition « encore faudrait-il » pose l'exigence d'équité.
+
+## CE 22 | C1 | article de presse | sens d'un mot en contexte
+DOC: Le rapport, publié en catimini un vendredi soir de juillet, pointe pourtant des dysfonctionnements majeurs dans la gestion des hôpitaux de la région. Plusieurs élus dénoncent une volonté manifeste d'en limiter l'écho médiatique.
+Q: Que signifie « en catimini » ?
++ discrètement, en évitant d'attirer l'attention. | Le contexte (vendredi soir de juillet, limiter l'écho) le confirme.
+- en urgence. | L'idée de rapidité n'apparaît pas.
+- officiellement et solennellement. | C'est le contraire.
+- en plusieurs parties. | Rien ne l'indique.
+EXP: Le contexte aide à deviner le sens : un vendredi soir d'été est un moment peu suivi par les médias, et les élus dénoncent une volonté de limiter l'écho.
+
+## CE 23 | C1 | texte argumentatif | arguments contradictoires
+DOC: Les uns voient dans le travail à distance la fin du « métro-boulot-dodo » et une chance de revitaliser les villes moyennes. Les autres y lisent l'avènement d'une société fragmentée, où le lien social se dissout dans les écrans. Les deux lectures ne sont peut-être pas incompatibles : tout dépendra de la manière dont les entreprises et les territoires s'approprieront ce mouvement.
+Q: Quelle est la position de l'auteur ?
++ Les effets du télétravail dépendront de la façon dont il sera mis en œuvre. | « tout dépendra de la manière dont… s'approprieront ce mouvement ».
+- Le télétravail détruira forcément le lien social. | C'est l'une des deux lectures, pas la position de l'auteur.
+- Le télétravail sauvera les villes moyennes. | C'est l'autre lecture.
+- Les deux opinions sont totalement contradictoires. | Il dit qu'elles ne sont « peut-être pas incompatibles ».
+EXP: L'auteur présente deux points de vue (« les uns… les autres… ») puis dépasse l'opposition. La conclusion conditionnelle (« tout dépendra… ») exprime sa thèse.
+
+## CE 24 | C1 | article de presse | sous-entendu
+DOC: Le nouveau directeur promettait une « révolution managériale ». Dix-huit mois plus tard, l'organigramme a changé trois fois, les réunions se sont multipliées et la moitié de l'équipe de direction a démissionné. La révolution a bien eu lieu, à défaut d'avoir produit les résultats escomptés.
+Q: Quel est le ton de la dernière phrase ?
++ Ironique. | Le mot « révolution » est repris pour souligner un échec.
+- Enthousiaste. | Le bilan décrit est négatif.
+- Neutre. | Le journaliste prend clairement position.
+- Admiratif. | Rien n'exprime l'admiration.
+EXP: L'ironie consiste à dire une chose pour en faire entendre une autre : « la révolution a bien eu lieu » reprend la promesse pour montrer le désordre. « À défaut de » = sans.
+
+## CE 25 | C1 | document informatif | compréhension globale
+DOC: Le principe de précaution, inscrit dans la Constitution française depuis 2005, impose aux autorités de prendre des mesures provisoires et proportionnées lorsqu'un dommage grave et irréversible à l'environnement est possible, même en l'absence de certitude scientifique. Ses critiques lui reprochent de freiner l'innovation ; ses défenseurs rappellent qu'il n'impose pas l'inaction, mais une action mesurée face à l'incertitude.
+Q: Selon ses défenseurs, que permet le principe de précaution ?
++ D'agir de façon mesurée en cas d'incertitude. | « il n'impose pas l'inaction, mais une action mesurée face à l'incertitude ».
+- D'interdire toute innovation risquée. | C'est le reproche des critiques, déformé.
+- D'attendre une certitude scientifique avant d'agir. | Il s'applique justement en l'absence de certitude.
+- De réparer les dommages déjà causés. | Il vise à prévenir, non à réparer.
+EXP: Distinguez les critiques et les défenseurs. La structure « non pas X, mais Y » donne la thèse des défenseurs. « Proportionnées » = adaptées à la gravité du risque.
+
+## EE 1 | A2 | répondre à un message
+CONSIGNE: Votre ami Karim vous écrit : « Salut ! Je viens d'emménager dans ton quartier. Tu peux me conseiller un endroit sympa pour faire mes courses ou boire un café ? » Répondez-lui en présentant un lieu que vous aimez (30 à 60 mots).
+MODELE: Salut Karim ! Bienvenue dans le quartier ! Je te conseille le marché de la place Carnot, le samedi matin. Les produits sont frais et pas trop chers. Juste à côté, il y a un petit café, « Le Comptoir », très calme, avec une terrasse ensoleillée. On pourrait s'y retrouver samedi vers dix heures ? À bientôt !
+POINTS: saluer et répondre au message ; présenter un lieu précis ; donner deux ou trois détails ; formule de fin
+CONSEILS: Respectez le registre amical (tutoiement), structurez : salutation, conseil, description, proposition, formule finale.
+
+## EE 2 | B1 | raconter une expérience
+CONSIGNE: Vous avez participé à une journée de bénévolat (nettoyage d'un parc, collecte alimentaire…). Vous racontez cette expérience sur le blog de votre association : déroulement de la journée et ce que vous avez ressenti (40 à 90 mots).
+MODELE: Samedi dernier, j'ai participé pour la première fois à la collecte alimentaire de notre association. Dès huit heures, nous nous sommes installés à l'entrée du supermarché pour expliquer notre démarche aux clients. Beaucoup ont accepté de donner des pâtes, du riz ou des conserves. Le soir, nous avions rempli quarante cartons ! J'étais fatiguée, mais vraiment fière : je me suis sentie utile et j'ai rencontré des bénévoles formidables. Je recommencerai sans hésiter.
+POINTS: situer l'expérience dans le temps ; raconter les étapes au passé ; exprimer des sentiments ; conclure
+CONSEILS: Alternez passé composé (actions) et imparfait (description, sentiments). Utilisez des connecteurs temporels : dès, puis, le soir, finalement.
+
+## EE 3 | B2 | donner son opinion
+CONSIGNE: Sur un forum, on lit : « Les écrans devraient être interdits aux enfants de moins de six ans. » Vous donnez votre opinion en la justifiant avec des arguments et des exemples (40 à 90 mots).
+MODELE: À mon sens, une interdiction totale serait difficile à appliquer et peu efficace. En revanche, je suis convaincu qu'il faut limiter fortement le temps d'écran des jeunes enfants. En effet, ils ont besoin de bouger, de jouer et de parler pour se développer. Par exemple, une demi-heure de dessin animé choisi avec un parent n'est pas dangereuse. Il me semble donc préférable d'accompagner les familles plutôt que d'interdire.
+POINTS: exprimer clairement son opinion ; au moins deux arguments ; un exemple ; nuance ; conclusion
+CONSEILS: Utilisez des connecteurs logiques (en effet, en revanche, donc) et des formules d'opinion variées (à mon sens, je suis convaincu que, il me semble préférable de).
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous pose des questions sur vous, votre parcours, vos habitudes et vos projets. Répondez de manière développée et naturelle.
+RELANCES: Pouvez-vous vous présenter ? / Que faites-vous dans la vie ? / Pourquoi avez-vous choisi ce métier ou ces études ? / Comment se passe une journée typique pour vous ? / Que faites-vous pendant votre temps libre ? / Quel est le plus beau voyage que vous ayez fait ? / Quels sont vos projets pour les prochaines années ?
+PHRASES: Je m'appelle… et je vis à… depuis… / J'ai fait des études de… / Ce qui me plaît dans mon travail, c'est… / Pendant mon temps libre, j'aime… / D'ici quelques années, j'aimerais…
+MODELE: Je m'appelle Sara, j'ai trente-deux ans et je vis à Lyon depuis quatre ans. Je suis infirmière dans un hôpital. J'ai choisi ce métier parce que j'aime aider les autres et que chaque journée est différente. Pendant mon temps libre, je fais de la randonnée et je cuisine pour mes amis. D'ici deux ans, j'aimerais me spécialiser en pédiatrie.
+
+## EO 2 | B2 | Chercher un logement | Agent immobilier
+SCENARIO: Vous cherchez un appartement à louer pour vous et votre famille. L'examinateur joue le rôle d'un agent immobilier. Posez des questions (surface, quartier, loyer, charges, transports, écoles…), expliquez vos besoins et négociez.
+RELANCES: Bonjour, que puis-je faire pour vous ? / Quel est votre budget ? / J'ai un trois-pièces au cinquième étage sans ascenseur, ça vous intéresse ? / Le loyer est de 1 200 euros hors charges. / Il faut aussi trois fiches de paie et un garant. / Vous voulez le visiter quand ?
+PHRASES: Je souhaiterais savoir si… / Est-ce que les charges sont comprises ? / Ce serait possible de… ? / C'est un peu au-dessus de notre budget, est-ce que le propriétaire accepterait… ? / Dans ce cas, je préférerais…
+MODELE: Bonjour, je cherche un trois-pièces pour ma famille, idéalement près d'une école primaire et d'une station de métro. Notre budget est d'environ mille euros charges comprises. Le cinquième sans ascenseur, ce serait difficile avec une poussette. Auriez-vous quelque chose de plus bas ? Et pour le loyer, est-ce que le propriétaire accepterait de négocier si nous signons pour trois ans ?
+
+## EO 3 | B2 | Le télétravail est-il une bonne solution ? | Examinateur
+SCENARIO: Donnez votre opinion sur la question suivante : « Le télétravail est-il une bonne solution pour les salariés et les entreprises ? » Développez des arguments, donnez des exemples, présentez avantages et inconvénients, nuancez et concluez.
+RELANCES: Quel est votre avis ? / Pouvez-vous donner un exemple concret ? / Et pour les entreprises, quels sont les avantages ? / Ne pensez-vous pas que le télétravail isole les salariés ? / Quelle serait, selon vous, la solution idéale ?
+PHRASES: À mon sens… / D'un côté… de l'autre… / Il ne faut pas négliger le fait que… / Il serait réducteur de considérer que… / En définitive…
+MODELE: À mon sens, le télétravail est une bonne solution, à condition de ne pas en abuser. D'un côté, il fait gagner du temps de transport et permet de mieux se concentrer : personnellement, je travaille beaucoup plus efficacement chez moi pour rédiger des rapports. De l'autre, il ne faut pas négliger le risque d'isolement, surtout pour les nouveaux salariés. En définitive, je pense qu'un système hybride, deux ou trois jours à distance, est l'équilibre idéal.
