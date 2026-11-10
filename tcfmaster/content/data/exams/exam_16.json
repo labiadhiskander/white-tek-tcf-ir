@@ -1,0 +1,1975 @@
+{
+ "code": "EXAM-16",
+ "title": "Examen blanc n° 16 – Espace, langues régionales et rythmes de vie",
+ "level": "B2",
+ "description": "Examen complet calibré B1–B2 : conquête spatiale, langues régionales, publicité pour enfants, travail de nuit, don du sang.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "H: Bonsoir Sophie, c'est Marc. Ce soir, on peut voir la station spatiale passer dans le ciel à 22 h 10. Je t'attends sur la colline derrière l'église. Apporte une couverture !",
+   "prompt": "Que doit apporter Sophie ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À manger.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Un télescope.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Une lampe.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Une couverture.",
+     "correct": true,
+     "rationale": "« Apporte une couverture ! »."
+    }
+   ],
+   "explanation": "L'impératif exprime une demande.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Collecte de sang ce jeudi de 14 heures à 19 heures à la salle polyvalente. Pensez à bien manger avant de venir et à apporter une pièce d'identité. Une collation vous sera offerte après le don.",
+   "prompt": "Que faut-il faire avant de venir ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Prendre rendez-vous.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Être à jeun.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "Bien manger.",
+     "correct": true,
+     "rationale": "« Pensez à bien manger avant de venir »."
+    },
+    {
+     "label": "D",
+     "text": "Faire du sport.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Ne pas confondre avec une prise de sang à jeun.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "F: Tu as l'air fatigué. / H: Oui, cette semaine je travaille de nuit à l'hôpital, de 21 heures à 7 heures. / F: Et tu dors quand ? / H: Le matin, jusqu'à 14 heures.",
+   "prompt": "Jusqu'à quelle heure l'homme dort-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Midi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "21 heures.",
+     "correct": false,
+     "rationale": "C'est le début de son travail."
+    },
+    {
+     "label": "C",
+     "text": "7 heures.",
+     "correct": false,
+     "rationale": "C'est la fin de son travail."
+    },
+    {
+     "label": "D",
+     "text": "14 heures.",
+     "correct": true,
+     "rationale": "« Le matin, jusqu'à 14 heures »."
+    }
+   ],
+   "explanation": "Distinguez les horaires de travail et de sommeil.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "H: Mon fils veut absolument les céréales qu'il voit à la télé, avec le jouet dans la boîte. / F: Moi, j'ai trouvé une solution : on regarde les dessins animés en replay, sans publicité. Il ne réclame plus rien !",
+   "prompt": "Quelle solution la femme propose-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Interdire la télévision.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Regarder les programmes sans publicité.",
+     "correct": true,
+     "rationale": "« en replay, sans publicité »."
+    },
+    {
+     "label": "C",
+     "text": "Acheter les céréales.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Cacher le jouet.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Repérez « j'ai trouvé une solution ».",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "F: Bonjour, ici l'école Diwan de Quimper. Nous avons bien reçu votre demande d'inscription pour votre fille en classe bilingue breton-français. Une réunion d'accueil pour les nouvelles familles aura lieu le samedi 7 septembre à 10 heures. Les parents n'ont pas besoin de parler breton.",
+   "prompt": "Que précise l'école ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les parents n'ont pas besoin de parler breton.",
+     "correct": true,
+     "rationale": "« Les parents n'ont pas besoin de parler breton »."
+    },
+    {
+     "label": "B",
+     "text": "Les parents doivent parler breton.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "L'inscription est refusée.",
+     "correct": false,
+     "rationale": "Elle est reçue."
+    },
+    {
+     "label": "D",
+     "text": "La réunion est obligatoire pour les enfants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Ne pas avoir besoin de » = ce n'est pas nécessaire.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information précise",
+   "document": "H: L'astronaute française Claire Moreau décollera le 12 mars pour une mission de six mois à bord de la Station spatiale internationale. Elle y réalisera une centaine d'expériences scientifiques, notamment sur le sommeil et le vieillissement des muscles.",
+   "prompt": "Combien de temps durera la mission ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un an.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Six mois.",
+     "correct": true,
+     "rationale": "« une mission de six mois »."
+    },
+    {
+     "label": "C",
+     "text": "Douze mois.",
+     "correct": false,
+     "rationale": "12 est la date."
+    },
+    {
+     "label": "D",
+     "text": "Cent jours.",
+     "correct": false,
+     "rationale": "Il s'agit d'une centaine d'expériences."
+    }
+   ],
+   "explanation": "Associez chaque nombre à ce qu'il désigne.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous êtes boulanger et vous travaillez la nuit depuis vingt ans. Comment le vivez-vous ? / H: Je me suis habitué, mais c'est dur pour la vie de famille. Je vois peu ma femme le soir. Heureusement, j'ai mes après-midi pour aller chercher les enfants à l'école.",
+   "prompt": "Quel avantage le boulanger trouve-t-il à ses horaires ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il gagne beaucoup d'argent.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Il voit beaucoup sa femme le soir.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "Il peut aller chercher ses enfants l'après-midi.",
+     "correct": true,
+     "rationale": "« j'ai mes après-midi pour aller chercher les enfants »."
+    },
+    {
+     "label": "D",
+     "text": "Il dort la nuit.",
+     "correct": false,
+     "rationale": "Il travaille la nuit."
+    }
+   ],
+   "explanation": "« Heureusement » introduit un point positif.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Le planétarium propose pendant les vacances une séance spéciale pour les enfants de 6 à 10 ans : « Voyage vers Mars ». La séance dure quarante-cinq minutes. Les enfants doivent être accompagnés d'un adulte. Réservation conseillée.",
+   "prompt": "Que faut-il pour les enfants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Venir seuls.",
+     "correct": false,
+     "rationale": "Ils doivent être accompagnés."
+    },
+    {
+     "label": "B",
+     "text": "Être accompagnés d'un adulte.",
+     "correct": true,
+     "rationale": "« doivent être accompagnés d'un adulte »."
+    },
+    {
+     "label": "C",
+     "text": "Apporter un livre.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Avoir plus de dix ans.",
+     "correct": false,
+     "rationale": "C'est de 6 à 10 ans."
+    }
+   ],
+   "explanation": "« Doivent » marque l'obligation.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "situation administrative",
+   "skill": "information précise",
+   "document": "H: Bonjour, je voudrais donner mon sang, mais je suis revenu d'un voyage au Brésil il y a deux semaines. / F: Dans ce cas, il faut attendre quatre mois après votre retour, à cause des risques de maladies tropicales. Revenez en juillet. / H: D'accord, merci.",
+   "prompt": "Pourquoi l'homme ne peut-il pas donner son sang maintenant ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce qu'il est malade.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Parce qu'il est trop jeune.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "À cause de son voyage récent au Brésil.",
+     "correct": true,
+     "rationale": "« il faut attendre quatre mois après votre retour »."
+    },
+    {
+     "label": "D",
+     "text": "Parce que le centre est fermé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Dans ce cas » renvoie à la situation décrite.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "conversation professionnelle",
+   "skill": "information précise",
+   "document": "F: Pour la campagne de publicité des nouveaux biscuits, on cible les enfants ? / H: Non, la nouvelle loi l'interdit pour les produits trop sucrés. On va s'adresser aux parents, en insistant sur les ingrédients naturels. / F: D'accord, je modifie le visuel.",
+   "prompt": "À qui la publicité va-t-elle s'adresser ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Aux sportifs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Aux parents.",
+     "correct": true,
+     "rationale": "« On va s'adresser aux parents »."
+    },
+    {
+     "label": "C",
+     "text": "Aux enfants.",
+     "correct": false,
+     "rationale": "La loi l'interdit."
+    },
+    {
+     "label": "D",
+     "text": "Aux enseignants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« S'adresser à » = viser.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "H: Dépenser des milliards pour envoyer des humains sur Mars, alors qu'il y a tant de problèmes sur Terre, c'est indécent. / F: Je comprends, mais la recherche spatiale a apporté beaucoup d'innovations utiles : satellites météo, GPS, matériaux médicaux. Et elle fait rêver les jeunes et suscite des vocations scientifiques.",
+   "prompt": "Quels arguments la femme avance-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'urgence des problèmes sur Terre.",
+     "correct": false,
+     "rationale": "C'est l'argument de l'homme."
+    },
+    {
+     "label": "B",
+     "text": "Le tourisme spatial.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Le coût trop élevé.",
+     "correct": false,
+     "rationale": "C'est l'argument de l'homme."
+    },
+    {
+     "label": "D",
+     "text": "Les innovations utiles et les vocations scientifiques.",
+     "correct": true,
+     "rationale": "Elle cite les deux."
+    }
+   ],
+   "explanation": "« Je comprends, mais » : concession puis contre-argument.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "F: Les langues régionales connaissent un regain d'intérêt. Le nombre d'élèves inscrits dans les écoles bilingues basques, bretonnes ou occitanes a doublé en quinze ans. Pourtant, le nombre de locuteurs âgés diminue plus vite que celui des nouveaux apprenants n'augmente, et plusieurs de ces langues restent menacées.",
+   "prompt": "Quelle idée principale ressort de ce reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les langues régionales ont disparu.",
+     "correct": false,
+     "rationale": "Elles connaissent un regain."
+    },
+    {
+     "label": "B",
+     "text": "Les langues régionales ne sont plus menacées.",
+     "correct": false,
+     "rationale": "Elles le restent."
+    },
+    {
+     "label": "C",
+     "text": "Malgré un regain d'intérêt, les langues régionales restent menacées.",
+     "correct": true,
+     "rationale": "Constat positif nuancé par « Pourtant »."
+    },
+    {
+     "label": "D",
+     "text": "Le nombre d'écoles bilingues a diminué.",
+     "correct": false,
+     "rationale": "Il a doublé."
+    }
+   ],
+   "explanation": "« Pourtant » nuance le constat initial.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Vous êtes médecin du travail. Le travail de nuit est-il dangereux pour la santé ? / F: À long terme, oui. Il perturbe l'horloge biologique et augmente les risques de troubles du sommeil, de diabète et de maladies cardiaques. C'est pourquoi les travailleurs de nuit doivent bénéficier d'un suivi médical renforcé.",
+   "prompt": "Que recommande la médecin ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Interdire le travail de nuit.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Travailler plus longtemps.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Prendre des somnifères.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Un suivi médical renforcé pour les travailleurs de nuit.",
+     "correct": true,
+     "rationale": "« doivent bénéficier d'un suivi médical renforcé »."
+    }
+   ],
+   "explanation": "« C'est pourquoi » introduit la conséquence pratique.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "message téléphonique",
+   "skill": "intention",
+   "document": "H: Bonjour Madame Leclerc, ici l'Établissement français du sang. Votre groupe sanguin, O négatif, est très recherché en ce moment, car nos réserves sont au plus bas. Seriez-vous disponible pour un don cette semaine ? Vous pouvez prendre rendez-vous directement sur notre site.",
+   "prompt": "Pourquoi appelle-t-on Mme Leclerc ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour la remercier d'un don passé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Pour lui demander de donner son sang rapidement.",
+     "correct": true,
+     "rationale": "« Seriez-vous disponible pour un don cette semaine ? »."
+    },
+    {
+     "label": "C",
+     "text": "Pour lui annoncer un résultat d'analyse.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Pour lui proposer une transfusion.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La question au conditionnel formule une demande polie.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "relation logique",
+   "document": "F: Pourquoi les entrepôts recrutent-ils autant de travailleurs de nuit ? / H: Les clients veulent être livrés le lendemain de leur commande. Pour tenir ce délai, il faut préparer les colis pendant la nuit. Résultat : le travail de nuit a fortement progressé dans la logistique.",
+   "prompt": "Quelle est la cause de l'augmentation du travail de nuit ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'exigence de livraison rapide.",
+     "correct": true,
+     "rationale": "« Les clients veulent être livrés le lendemain »."
+    },
+    {
+     "label": "B",
+     "text": "Le manque de travailleurs de jour.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les salaires plus élevés la nuit.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "La fermeture des magasins.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Résultat : » introduit la conséquence.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "H: Vous avez passé six mois dans l'espace. Qu'est-ce qui a été le plus difficile au retour ? / F: Retrouver la gravité ! Les premiers jours, je n'arrivais plus à tenir debout plus de quelques minutes. Il m'a fallu trois semaines de rééducation pour remarcher normalement. Et j'avais oublié que les objets tombent quand on les lâche !",
+   "prompt": "Combien de temps a duré la rééducation ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Trois semaines.",
+     "correct": true,
+     "rationale": "« trois semaines de rééducation »."
+    },
+    {
+     "label": "B",
+     "text": "Quelques minutes.",
+     "correct": false,
+     "rationale": "C'est le temps qu'elle tenait debout."
+    },
+    {
+     "label": "C",
+     "text": "Un an.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Six mois.",
+     "correct": false,
+     "rationale": "C'est la durée de la mission."
+    }
+   ],
+   "explanation": "Repérez la durée associée au mot « rééducation ».",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: À partir du 1er janvier, les panneaux d'entrée de toutes les communes du département seront bilingues : français et occitan. Le coût, estimé à 200 000 euros, sera pris en charge par la région. Les communes qui ne souhaitent pas participer devront le faire savoir avant le 30 novembre.",
+   "prompt": "Qui paiera les nouveaux panneaux ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les communes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les habitants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "La région.",
+     "correct": true,
+     "rationale": "« sera pris en charge par la région »."
+    },
+    {
+     "label": "D",
+     "text": "L'État.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Prendre en charge » = payer.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "F: Les dons de sang diminuent chaque été. En effet, les donneurs réguliers partent en vacances, alors que les besoins des hôpitaux restent constants, voire augmentent avec les accidents de la route. L'Établissement français du sang lance donc un appel aux nouveaux donneurs.",
+   "prompt": "Pourquoi les dons diminuent-ils en été ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les centres sont fermés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Il fait trop chaud pour donner.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les hôpitaux ont moins besoin de sang.",
+     "correct": false,
+     "rationale": "Les besoins restent constants."
+    },
+    {
+     "label": "D",
+     "text": "Les donneurs réguliers partent en vacances.",
+     "correct": true,
+     "rationale": "« les donneurs réguliers partent en vacances »."
+    }
+   ],
+   "explanation": "« En effet » introduit une explication.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "F: Il faut interdire toute publicité destinée aux enfants. Ils ne savent pas distinguer une publicité d'un programme. / H: C'est vrai pour les plus petits. Mais une interdiction totale priverait les chaînes jeunesse de financement, et donc de programmes de qualité. Je serais plutôt pour interdire la publicité pour la malbouffe.",
+   "prompt": "Que propose l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Interdire toute publicité.",
+     "correct": false,
+     "rationale": "C'est la position de la femme."
+    },
+    {
+     "label": "B",
+     "text": "Supprimer les chaînes jeunesse.",
+     "correct": false,
+     "rationale": "Il veut les préserver."
+    },
+    {
+     "label": "C",
+     "text": "Augmenter la publicité.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Interdire seulement la publicité pour la malbouffe.",
+     "correct": true,
+     "rationale": "« Je serais plutôt pour interdire la publicité pour la malbouffe »."
+    }
+   ],
+   "explanation": "Le conditionnel « serais » nuance la proposition.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Vous enseignez le corse. Est-ce utile d'apprendre une langue que peu de gens parlent ? / F: Une langue n'est pas qu'un outil de communication. C'est une façon de voir le monde, une mémoire, des chansons, des proverbes. Et les enfants bilingues apprennent ensuite plus facilement d'autres langues.",
+   "prompt": "Selon l'enseignante, pourquoi apprendre le corse est-il utile ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que c'est obligatoire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "C'est un patrimoine culturel et cela facilite l'apprentissage d'autres langues.",
+     "correct": true,
+     "rationale": "Elle avance ces deux idées."
+    },
+    {
+     "label": "C",
+     "text": "Parce que beaucoup de gens le parlent.",
+     "correct": false,
+     "rationale": "La question suggère l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "Pour trouver un emploi à l'étranger.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« N'est pas que » = n'est pas seulement.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "H: L'Agence spatiale européenne vient de confirmer le financement d'une mission destinée à récupérer des débris spatiaux. Plus de 30 000 objets de plus de dix centimètres tournent actuellement autour de la Terre, menaçant les satellites en activité. La mission, prévue pour 2028, tentera de capturer un ancien satellite à l'aide de bras robotisés.",
+   "prompt": "Quel est l'objectif de la mission ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Réparer les satellites en activité.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Capturer un ancien satellite pour réduire les débris.",
+     "correct": true,
+     "rationale": "« tentera de capturer un ancien satellite »."
+    },
+    {
+     "label": "C",
+     "text": "Envoyer des humains sur la Lune.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Lancer 30 000 nouveaux satellites.",
+     "correct": false,
+     "rationale": "30 000 est le nombre de débris."
+    }
+   ],
+   "explanation": "Identifiez le verbe d'action principal.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "F: Je voulais vous parler de mon planning. Je fais des nuits depuis trois ans et je commence à avoir de vrais problèmes de sommeil. / H: Je comprends. Malheureusement, je n'ai pas de poste de jour disponible tout de suite. / F: Et si on alternait, une semaine de nuit, une semaine de jour, avec un collègue ?",
+   "prompt": "Que propose la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Alterner les semaines de jour et de nuit.",
+     "correct": true,
+     "rationale": "« une semaine de nuit, une semaine de jour »."
+    },
+    {
+     "label": "B",
+     "text": "Démissionner.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Prendre un congé maladie.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Travailler uniquement de nuit.",
+     "correct": false,
+     "rationale": "C'est ce qu'elle fait déjà."
+    }
+   ],
+   "explanation": "« Et si on… ? » formule une proposition.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "point de vue implicite",
+   "document": "H: Le tourisme spatial va démocratiser l'accès à l'espace. / F: Démocratiser ? Un billet coûte aujourd'hui plusieurs centaines de milliers d'euros, pour quelques minutes d'apesanteur. Et chaque vol émet autant de CO2 qu'une personne en plusieurs années. Drôle de démocratie.",
+   "prompt": "Que pense la femme du tourisme spatial ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il est accessible à tous.",
+     "correct": false,
+     "rationale": "Elle dit le contraire."
+    },
+    {
+     "label": "B",
+     "text": "Il est écologique.",
+     "correct": false,
+     "rationale": "Il émet beaucoup de CO2."
+    },
+    {
+     "label": "C",
+     "text": "Il faut le développer.",
+     "correct": false,
+     "rationale": "Elle le critique."
+    },
+    {
+     "label": "D",
+     "text": "Il est réservé aux très riches et polluant.",
+     "correct": true,
+     "rationale": "Elle conteste le mot « démocratiser »."
+    }
+   ],
+   "explanation": "« Drôle de démocratie » : ironie qui rejette le terme.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "interview",
+   "skill": "nuance",
+   "document": "F: La loi qui interdit la publicité dans les programmes pour enfants est-elle efficace ? / H: En partie seulement. Elle a supprimé les spots pendant les dessins animés, mais les enfants passent désormais plus de temps sur les plateformes vidéo, où les influenceurs présentent des produits sans que cela soit toujours clairement identifié comme de la publicité.",
+   "prompt": "Pourquoi la loi n'est-elle efficace qu'en partie ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les dessins animés ont toujours des spots.",
+     "correct": false,
+     "rationale": "Ils ont été supprimés."
+    },
+    {
+     "label": "B",
+     "text": "La loi n'a jamais été appliquée.",
+     "correct": false,
+     "rationale": "Elle a supprimé les spots."
+    },
+    {
+     "label": "C",
+     "text": "La publicité s'est déplacée vers les plateformes vidéo.",
+     "correct": true,
+     "rationale": "Les influenceurs prennent le relais."
+    },
+    {
+     "label": "D",
+     "text": "Les enfants regardent plus la télévision.",
+     "correct": false,
+     "rationale": "Ils vont sur les plateformes."
+    }
+   ],
+   "explanation": "« En partie seulement » annonce une nuance.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "F: Longtemps interdites à l'école, les langues régionales y ont été progressivement réintroduites à partir des années 1950. Cette reconnaissance tardive n'a cependant pas suffi à enrayer leur déclin, la transmission familiale ayant été rompue pendant plusieurs générations, souvent par crainte que les enfants soient pénalisés.",
+   "prompt": "Pourquoi la réintroduction à l'école n'a-t-elle pas suffi ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que l'école les interdit encore.",
+     "correct": false,
+     "rationale": "Elles ont été réintroduites."
+    },
+    {
+     "label": "B",
+     "text": "Parce que la transmission familiale avait été interrompue.",
+     "correct": true,
+     "rationale": "« la transmission familiale ayant été rompue »."
+    },
+    {
+     "label": "C",
+     "text": "Parce qu'elles sont trop difficiles.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce que les enfants refusent de les apprendre.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Le participe composé « ayant été rompue » exprime la cause.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "SOIRÉE ÉTOILES – Observation du ciel avec le club d'astronomie. Vendredi 21 h, stade municipal. Télescopes fournis. Gratuit. Annulé en cas de nuages.",
+   "prompt": "Quand la soirée sera-t-elle annulée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "S'il y a des nuages.",
+     "correct": true,
+     "rationale": "« Annulé en cas de nuages »."
+    },
+    {
+     "label": "B",
+     "text": "S'il y a trop de monde.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "S'il fait froid.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le vendredi.",
+     "correct": false,
+     "rationale": "C'est le jour prévu."
+    }
+   ],
+   "explanation": "« En cas de » introduit une condition."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Bonjour Julie, je travaille de nuit cette semaine. Merci de ne pas sonner à ma porte avant 15 h. Tu peux laisser le colis chez le gardien. Merci ! Ton voisin, David",
+   "prompt": "Que demande David ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Venir le réveiller.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "B",
+     "text": "Apporter le colis à 15 h.",
+     "correct": false,
+     "rationale": "Il propose le gardien."
+    },
+    {
+     "label": "C",
+     "text": "Ne pas sonner avant 15 h.",
+     "correct": true,
+     "rationale": "« Merci de ne pas sonner à ma porte avant 15 h »."
+    },
+    {
+     "label": "D",
+     "text": "Garder ses enfants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Merci de ne pas » = demande polie de ne pas faire."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "affiche",
+   "skill": "information précise",
+   "document": "DON DU SANG – Vous avez entre 18 et 70 ans et pesez plus de 50 kg ? Venez donner votre sang ! Mardi 10 h – 18 h, gymnase Jean-Moulin. Un don = trois vies sauvées.",
+   "prompt": "Qui peut donner son sang ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Tout le monde.",
+     "correct": false,
+     "rationale": "Il y a des conditions."
+    },
+    {
+     "label": "B",
+     "text": "Les personnes de 18 à 70 ans pesant plus de 50 kg.",
+     "correct": true,
+     "rationale": "Ce sont les conditions indiquées."
+    },
+    {
+     "label": "C",
+     "text": "Les enfants.",
+     "correct": false,
+     "rationale": "Il faut avoir au moins 18 ans."
+    },
+    {
+     "label": "D",
+     "text": "Seulement les personnes de plus de 70 ans.",
+     "correct": false,
+     "rationale": "C'est la limite supérieure."
+    }
+   ],
+   "explanation": "Lisez toutes les conditions."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "courriel",
+   "skill": "information précise",
+   "document": "Bonjour Monsieur Lopez, nous vous confirmons l'inscription de votre fils au stage d'initiation à l'astronomie du 15 au 19 avril. Le stage a lieu de 9 h à 16 h. Prévoyez un pique-nique pour le midi. Une soirée d'observation est organisée le jeudi : les parents y sont invités. L'équipe du planétarium.",
+   "prompt": "Quand les parents sont-ils invités ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Tous les jours à 16 h.",
+     "correct": false,
+     "rationale": "C'est la fin du stage."
+    },
+    {
+     "label": "B",
+     "text": "Le midi.",
+     "correct": false,
+     "rationale": "C'est l'heure du pique-nique."
+    },
+    {
+     "label": "C",
+     "text": "Le jeudi soir.",
+     "correct": true,
+     "rationale": "« Une soirée d'observation est organisée le jeudi »."
+    },
+    {
+     "label": "D",
+     "text": "Le 15 avril.",
+     "correct": false,
+     "rationale": "C'est le début du stage."
+    }
+   ],
+   "explanation": "Repérez le mot « parents »."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "En Alsace, une crèche propose depuis septembre un accueil entièrement bilingue en alsacien et en français. Les éducatrices parlent alsacien aux enfants, qui l'entendent ainsi dès le plus jeune âge. Les inscriptions ont été prises d'assaut : la liste d'attente compte déjà quarante familles.",
+   "prompt": "Quel est le succès de cette crèche ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle a fermé faute d'inscriptions.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "B",
+     "text": "Elle est gratuite.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Beaucoup de familles veulent y inscrire leur enfant.",
+     "correct": true,
+     "rationale": "« la liste d'attente compte déjà quarante familles »."
+    },
+    {
+     "label": "D",
+     "text": "Les enfants parlent cinq langues.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Être pris d'assaut » = être très demandé."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, en tant que salariée travaillant de nuit, vous bénéficiez d'une visite médicale tous les six mois, ainsi que d'un repos compensateur de deux jours par an. Votre prochaine visite est fixée au 18 octobre à 10 h. En cas d'empêchement, contactez le service de santé au travail.",
+   "prompt": "À quelle fréquence la salariée a-t-elle une visite médicale ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une fois par an.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Tous les six mois.",
+     "correct": true,
+     "rationale": "« une visite médicale tous les six mois »."
+    },
+    {
+     "label": "C",
+     "text": "Tous les deux jours.",
+     "correct": false,
+     "rationale": "Il s'agit du repos compensateur."
+    },
+    {
+     "label": "D",
+     "text": "Le 18 de chaque mois.",
+     "correct": false,
+     "rationale": "18 octobre est la prochaine visite."
+    }
+   ],
+   "explanation": "Distinguez fréquence et date ponctuelle."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "publicité",
+   "skill": "intention",
+   "document": "Vous rêvez de voir la Terre depuis l'espace ? Vivez l'expérience en réalité virtuelle au Cosmodrome ! Simulation de décollage, sortie dans l'espace, alunissage. Dès 8 ans. Réservez votre « mission » en ligne !",
+   "prompt": "Que propose cette publicité ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un film documentaire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Une expérience spatiale en réalité virtuelle.",
+     "correct": true,
+     "rationale": "« Vivez l'expérience en réalité virtuelle »."
+    },
+    {
+     "label": "C",
+     "text": "Un vrai voyage dans l'espace.",
+     "correct": false,
+     "rationale": "C'est une simulation."
+    },
+    {
+     "label": "D",
+     "text": "Un cours d'astronomie.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Les guillemets autour de « mission » signalent un usage figuré."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "À l'attention des équipes de nuit : la cafétéria restera désormais ouverte de 22 h à 2 h. Des repas chauds y seront servis. Par ailleurs, une salle de repos équipée de fauteuils inclinables est à votre disposition au 2e étage pendant les pauses.",
+   "prompt": "Où se trouve la salle de repos ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Au rez-de-chaussée.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "À l'extérieur.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Dans la cafétéria.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Au 2e étage.",
+     "correct": true,
+     "rationale": "« au 2e étage »."
+    }
+   ],
+   "explanation": "« Par ailleurs » introduit une information supplémentaire."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« Je donne mon sang quatre fois par an depuis vingt ans. Ça ne prend qu'une heure, ça ne fait pas mal, et je me dis que quelque part, quelqu'un va mieux grâce à moi. C'est le geste le plus simple que je connaisse pour être utile. » Bernard, 58 ans.",
+   "prompt": "Comment Bernard présente-t-il le don du sang ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Comme une obligation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Comme une expérience douloureuse.",
+     "correct": false,
+     "rationale": "« ça ne fait pas mal »."
+    },
+    {
+     "label": "C",
+     "text": "Comme une perte de temps.",
+     "correct": false,
+     "rationale": "Il dit que ça prend une heure seulement."
+    },
+    {
+     "label": "D",
+     "text": "Comme un geste simple et utile.",
+     "correct": true,
+     "rationale": "« le geste le plus simple… pour être utile »."
+    }
+   ],
+   "explanation": "Le superlatif final résume l'opinion."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Un salarié sur six travaille la nuit, de manière régulière ou occasionnelle, contre un sur dix il y a trente ans. Cette progression concerne particulièrement les femmes, notamment dans les secteurs de la santé et de la logistique. Les syndicats demandent une meilleure reconnaissance de la pénibilité de ces horaires.",
+   "prompt": "Que demandent les syndicats ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une meilleure reconnaissance de la pénibilité.",
+     "correct": true,
+     "rationale": "« une meilleure reconnaissance de la pénibilité »."
+    },
+    {
+     "label": "B",
+     "text": "Plus de femmes dans la logistique.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Une hausse du nombre de travailleurs de nuit.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "La suppression du travail de nuit.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Pénibilité » = caractère difficile, fatigant."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "Chaque fois qu'une fusée décolle, des voix s'élèvent pour dénoncer un gaspillage d'argent. Elles oublient que sans satellites, il n'y aurait ni prévisions météo fiables, ni GPS, ni surveillance de la déforestation. L'espace n'est pas une lubie de milliardaires, c'est une infrastructure dont nous dépendons tous.",
+   "prompt": "Quelle est l'intention de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dénoncer les milliardaires.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'idée principale."
+    },
+    {
+     "label": "B",
+     "text": "Critiquer les dépenses spatiales.",
+     "correct": false,
+     "rationale": "Il les défend."
+    },
+    {
+     "label": "C",
+     "text": "Faire la publicité du GPS.",
+     "correct": false,
+     "rationale": "Ce n'est pas son but."
+    },
+    {
+     "label": "D",
+     "text": "Défendre l'utilité des activités spatiales.",
+     "correct": true,
+     "rationale": "« une infrastructure dont nous dépendons tous »."
+    }
+   ],
+   "explanation": "« Elles oublient que » introduit une réfutation."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Chère Madame, nous sommes heureux de vous annoncer que votre projet de livre pour enfants en langue basque a été retenu par notre comité. Nous saluons particulièrement la qualité de vos illustrations. Notre éditrice vous contactera prochainement. Cordialement, Les Éditions Elkar.",
+   "prompt": "Que signifie « a été retenu » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "A été choisi.",
+     "correct": true,
+     "rationale": "Le comité a sélectionné le projet."
+    },
+    {
+     "label": "B",
+     "text": "A été mémorisé.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens ici."
+    },
+    {
+     "label": "C",
+     "text": "A été retardé.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "D",
+     "text": "A été refusé.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    }
+   ],
+   "explanation": "« Retenir un projet » = le sélectionner."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Une étude portant sur 500 publicités diffusées pendant les programmes jeunesse sur Internet révèle que 70 % concernent des produits trop gras, trop sucrés ou trop salés. Les chercheurs recommandent d'étendre aux plateformes en ligne les règles qui s'appliquent déjà à la télévision.",
+   "prompt": "Que recommandent les chercheurs ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Réduire les règles à la télévision.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Interdire Internet aux enfants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Appliquer aux plateformes les règles de la télévision.",
+     "correct": true,
+     "rationale": "« étendre aux plateformes en ligne les règles… »."
+    },
+    {
+     "label": "D",
+     "text": "Supprimer les programmes jeunesse.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Étendre à » = appliquer aussi à."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Monsieur, votre candidature au programme de sélection des futurs astronautes a bien été enregistrée. La première étape consiste en des tests psychotechniques en ligne. Seuls les candidats ayant obtenu au moins 80 % de réussite seront convoqués aux examens médicaux. Les résultats vous seront communiqués sous six semaines.",
+   "prompt": "Qui sera convoqué aux examens médicaux ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les candidats de moins de 30 ans.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les candidats ayant au moins 80 % aux tests.",
+     "correct": true,
+     "rationale": "« Seuls les candidats ayant obtenu au moins 80 % »."
+    },
+    {
+     "label": "C",
+     "text": "Tous les candidats.",
+     "correct": false,
+     "rationale": "Il y a une sélection."
+    },
+    {
+     "label": "D",
+     "text": "Les candidats déjà médecins.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Seuls » restreint le groupe concerné."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "Les poches de sang ne se conservent que 42 jours, et les plaquettes seulement sept jours. Il est donc impossible de constituer de grandes réserves : les dons doivent être réguliers tout au long de l'année.",
+   "prompt": "Quelle relation logique relie les deux phrases ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La conservation limitée explique la nécessité de dons réguliers.",
+     "correct": true,
+     "rationale": "« donc » introduit la conséquence."
+    },
+    {
+     "label": "B",
+     "text": "Un exemple.",
+     "correct": false,
+     "rationale": "Ce n'est pas un exemple."
+    },
+    {
+     "label": "C",
+     "text": "Une opposition.",
+     "correct": false,
+     "rationale": "Ce n'est pas une opposition."
+    },
+    {
+     "label": "D",
+     "text": "Une hypothèse.",
+     "correct": false,
+     "rationale": "Ce n'est pas une hypothèse."
+    }
+   ],
+   "explanation": "« Donc » marque la conséquence."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "Faut-il enseigner les langues régionales à tous les élèves de la région ? Pour l'éditorialiste, ce serait une erreur de les imposer : « Une langue qu'on oblige à apprendre devient une corvée. Il faut au contraire donner envie, par la musique, le théâtre, les fêtes populaires. »",
+   "prompt": "Quelle est l'opinion de l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les langues régionales sont inutiles.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Il faut rendre l'enseignement obligatoire.",
+     "correct": false,
+     "rationale": "Il pense que ce serait une erreur."
+    },
+    {
+     "label": "C",
+     "text": "Il faut supprimer les fêtes populaires.",
+     "correct": false,
+     "rationale": "Il les propose comme moyen."
+    },
+    {
+     "label": "D",
+     "text": "Il faut donner envie d'apprendre plutôt qu'obliger.",
+     "correct": true,
+     "rationale": "« Il faut au contraire donner envie »."
+    }
+   ],
+   "explanation": "« Au contraire » oppose deux approches."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "Est considéré comme travailleur de nuit tout salarié qui accomplit au moins trois heures de travail entre 21 h et 6 h, au moins deux fois par semaine. La durée quotidienne de travail ne peut excéder huit heures, sauf dérogation accordée par l'inspection du travail.",
+   "prompt": "Quelle est la durée maximale de travail quotidien pour un travailleur de nuit ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Aucune limite.",
+     "correct": false,
+     "rationale": "Il y a une limite."
+    },
+    {
+     "label": "B",
+     "text": "Trois heures.",
+     "correct": false,
+     "rationale": "C'est le minimum pour être considéré comme travailleur de nuit."
+    },
+    {
+     "label": "C",
+     "text": "Huit heures, sauf dérogation.",
+     "correct": true,
+     "rationale": "« ne peut excéder huit heures, sauf dérogation »."
+    },
+    {
+     "label": "D",
+     "text": "Neuf heures.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Excéder » = dépasser."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« À la maison, mes grands-parents parlaient breton entre eux, mais toujours français avec nous. Ils disaient que c'était pour notre bien. Aujourd'hui, je prends des cours du soir pour apprendre la langue qu'ils auraient pu me transmettre gratuitement. » Gwen, 45 ans.",
+   "prompt": "Que sous-entend Gwen ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle parle breton depuis l'enfance.",
+     "correct": false,
+     "rationale": "Elle l'apprend maintenant."
+    },
+    {
+     "label": "B",
+     "text": "Elle reproche à ses grands-parents de parler breton.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "C",
+     "text": "Elle regrette que la langue ne lui ait pas été transmise.",
+     "correct": true,
+     "rationale": "Elle doit l'apprendre maintenant."
+    },
+    {
+     "label": "D",
+     "text": "Les cours du soir sont gratuits.",
+     "correct": false,
+     "rationale": "Elle souligne qu'ils auraient pu être gratuits en famille."
+    }
+   ],
+   "explanation": "« Gratuitement » souligne le regret avec une pointe d'ironie."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Faut-il interdire les jouets offerts dans les menus pour enfants des chaînes de restauration rapide ? Les partisans de l'interdiction estiment qu'ils incitent les enfants à réclamer une nourriture déséquilibrée. Les restaurateurs répondent que les parents restent libres de leurs choix et que ces menus contiennent désormais des fruits et de l'eau.",
+   "prompt": "Quel argument avancent les restaurateurs ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La liberté des parents et l'amélioration des menus.",
+     "correct": true,
+     "rationale": "Ce sont leurs deux arguments."
+    },
+    {
+     "label": "B",
+     "text": "Les jouets incitent à la malbouffe.",
+     "correct": false,
+     "rationale": "C'est l'argument des partisans."
+    },
+    {
+     "label": "C",
+     "text": "Les jouets sont dangereux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les enfants n'aiment pas les jouets.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Répondre que » introduit les contre-arguments."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Le premier vol habité du programme lunaire européen a été repoussé de deux ans. En cause : des problèmes techniques sur le module d'atterrissage et un budget insuffisant. L'agence spatiale assure toutefois que l'objectif d'installer une base permanente sur la Lune d'ici 2040 reste inchangé.",
+   "prompt": "Pourquoi le vol a-t-il été repoussé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que l'objectif a changé.",
+     "correct": false,
+     "rationale": "Il reste inchangé."
+    },
+    {
+     "label": "B",
+     "text": "À cause d'un accident.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Pour des problèmes techniques et budgétaires.",
+     "correct": true,
+     "rationale": "« des problèmes techniques… et un budget insuffisant »."
+    },
+    {
+     "label": "D",
+     "text": "À cause de la météo.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« En cause : » introduit les raisons."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "thèse",
+   "document": "On présente souvent le travail de nuit comme un choix personnel, compensé par des primes. C'est méconnaître la réalité : pour beaucoup de salariés peu qualifiés, il s'agit de la seule offre disponible. Parler de choix quand il n'existe pas d'alternative relève de l'hypocrisie.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le travail de nuit est un choix libre.",
+     "correct": false,
+     "rationale": "Il conteste cette idée."
+    },
+    {
+     "label": "B",
+     "text": "Le travail de nuit est souvent subi, pas choisi.",
+     "correct": true,
+     "rationale": "« il s'agit de la seule offre disponible »."
+    },
+    {
+     "label": "C",
+     "text": "Les primes sont trop élevées.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les salariés qualifiés travaillent la nuit.",
+     "correct": false,
+     "rationale": "Il parle des peu qualifiés."
+    }
+   ],
+   "explanation": "« C'est méconnaître » réfute une idée reçue."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "information implicite",
+   "document": "La chaîne de télévision s'est engagée à « ne plus diffuser de publicités pour des produits gras ou sucrés pendant les dessins animés ». Les publicités en question sont désormais programmées juste avant et juste après.",
+   "prompt": "Que laisse entendre l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'engagement est contourné.",
+     "correct": true,
+     "rationale": "Les publicités sont simplement déplacées."
+    },
+    {
+     "label": "B",
+     "text": "Les publicités ont disparu.",
+     "correct": false,
+     "rationale": "Elles sont déplacées."
+    },
+    {
+     "label": "C",
+     "text": "Les dessins animés ont été supprimés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "La chaîne respecte parfaitement la santé des enfants.",
+     "correct": false,
+     "rationale": "L'auteur suggère le contraire."
+    }
+   ],
+   "explanation": "Le fait final contredit l'esprit de l'engagement."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "ton",
+   "document": "Après avoir passé des décennies à interdire aux enfants de parler leur langue à l'école, sous peine de punition, l'État découvre aujourd'hui avec émotion la richesse du patrimoine linguistique régional. Mieux vaut tard que jamais, sans doute.",
+   "prompt": "Quel est le ton de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Neutre.",
+     "correct": false,
+     "rationale": "Il exprime une critique."
+    },
+    {
+     "label": "B",
+     "text": "Nostalgique.",
+     "correct": false,
+     "rationale": "Ce n'est pas le ton dominant."
+    },
+    {
+     "label": "C",
+     "text": "Ironique.",
+     "correct": true,
+     "rationale": "« découvre avec émotion » et « Mieux vaut tard que jamais » soulignent le paradoxe."
+    },
+    {
+     "label": "D",
+     "text": "Enthousiaste.",
+     "correct": false,
+     "rationale": "Il souligne une contradiction."
+    }
+   ],
+   "explanation": "Le proverbe final est employé ironiquement."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "Si la France figure parmi les pays où le don du sang est le plus organisé, la proportion de donneurs reste modeste : à peine 4 % de la population en âge de donner. Le renouvellement des générations de donneurs inquiète d'autant plus que les jeunes, sollicités par de multiples causes, se montrent moins fidèles.",
+   "prompt": "Pourquoi le renouvellement des donneurs inquiète-t-il particulièrement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que 40 % de la population donne.",
+     "correct": false,
+     "rationale": "C'est 4 %."
+    },
+    {
+     "label": "B",
+     "text": "Parce que les jeunes donnent de manière moins régulière.",
+     "correct": true,
+     "rationale": "« se montrent moins fidèles »."
+    },
+    {
+     "label": "C",
+     "text": "Parce que les besoins diminuent.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce que le don est mal organisé.",
+     "correct": false,
+     "rationale": "Il est très organisé."
+    }
+   ],
+   "explanation": "« D'autant plus que » renforce une cause."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "reformulation",
+   "document": "Le don de sang est anonyme, volontaire et non rémunéré. Le donneur ne peut connaître l'identité du receveur, et inversement. Aucune contrepartie financière ne peut être proposée, à l'exception du remboursement des frais de transport dans certains cas.",
+   "prompt": "Quelle reformulation correspond au texte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le donneur n'est pas payé et ne connaît pas le receveur.",
+     "correct": true,
+     "rationale": "Anonyme et non rémunéré."
+    },
+    {
+     "label": "B",
+     "text": "Le donneur reçoit une somme d'argent.",
+     "correct": false,
+     "rationale": "Aucune contrepartie financière."
+    },
+    {
+     "label": "C",
+     "text": "Le don est obligatoire.",
+     "correct": false,
+     "rationale": "Il est volontaire."
+    },
+    {
+     "label": "D",
+     "text": "Le receveur peut contacter le donneur.",
+     "correct": false,
+     "rationale": "C'est anonyme dans les deux sens."
+    }
+   ],
+   "explanation": "« Inversement » = dans l'autre sens aussi."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "écrire un message",
+   "instructions": "Vous travaillez de nuit cette semaine. Vous écrivez un message à vos voisins pour leur demander d'éviter le bruit le matin (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Bonjour à tous, je suis infirmière et je travaille de nuit toute cette semaine. Je dors le matin, de 8 heures à 14 heures. Pourriez-vous, si possible, éviter les bruits forts pendant ces heures ? Je vous remercie beaucoup pour votre compréhension. Bonne semaine ! Amélie, 3e étage",
+   "tips": "« Pourriez-vous, si possible » rend la demande très polie.",
+   "expected_points": [
+    "salutation",
+    "situation",
+    "horaires",
+    "demande polie",
+    "remerciement"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "raconter une expérience",
+   "instructions": "Vous avez visité un musée, un planétarium ou assisté à un événement scientifique. Vous racontez cette sortie à un ami par courriel (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Salut Hugo, samedi je suis allé à la Cité de l'espace à Toulouse avec mes neveux. On a visité une vraie station spatiale et on a même essayé un simulateur d'apesanteur, c'était incroyable ! Le planétarium m'a beaucoup impressionné : on avait l'impression de voler entre les planètes. Les enfants ont adoré, moi aussi ! Si tu passes par Toulouse, je te conseille vraiment d'y aller, prévois une journée entière. À bientôt, Yanis",
+   "tips": "« On avait l'impression de » permet de décrire une sensation.",
+   "expected_points": [
+    "contexte",
+    "activités",
+    "moment marquant",
+    "réaction",
+    "conseil"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "argumenter sur un sujet de société",
+   "instructions": "« Les dépenses pour l'exploration spatiale sont un luxe que nous ne pouvons plus nous permettre. » Vous réagissez à cette affirmation dans le courrier des lecteurs d'un magazine (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Je ne partage pas cet avis. Certes, les budgets spatiaux sont importants, alors que les besoins sur Terre sont immenses. Cependant, l'exploration spatiale nous rend des services concrets : prévisions météo, télécommunications, surveillance du climat. Sans satellites, nous ne pourrions même pas mesurer la fonte des glaces. De plus, elle suscite des vocations scientifiques chez les jeunes. Plutôt que de l'abandonner, il faudrait l'orienter davantage vers l'observation de notre planète.",
+   "tips": "Un exemple frappant (« mesurer la fonte des glaces ») renforce l'argument.",
+   "expected_points": [
+    "position",
+    "concession",
+    "arguments concrets",
+    "argument supplémentaire",
+    "proposition"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous pose des questions sur vos langues, vos horaires et vos centres d'intérêt.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Parlez-vous une langue régionale ou un dialecte ?",
+    "Quelles langues parle-t-on dans votre famille ?",
+    "Avez-vous déjà travaillé de nuit ?",
+    "Vous intéressez-vous à l'espace ?",
+    "Avez-vous déjà donné votre sang ?",
+    "Regardez-vous beaucoup de publicités ?"
+   ],
+   "useful_phrases": [
+    "Dans ma famille, on parle…",
+    "J'ai déjà…",
+    "Je n'ai jamais…",
+    "Ce qui m'intéresse, c'est…",
+    "Je trouve que les publicités…"
+   ],
+   "model_answer": "Dans ma famille, on parle arabe et berbère, et moi j'ai appris le français à l'école. Je n'ai jamais travaillé de nuit, mais mon frère est boulanger, donc il travaille la nuit. Je m'intéresse beaucoup à l'espace : je regarde souvent des documentaires. J'ai donné mon sang une fois, à l'université. Je trouve que les publicités sont trop nombreuses, surtout sur Internet."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Convaincre de participer",
+   "examiner_role": "Collègue",
+   "scenario": "Vous organisez une collecte de sang dans votre entreprise. Un collègue hésite à participer. L'examinateur joue le rôle du collègue. Convainquez-le.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Bonjour ! Tu voulais me parler ?",
+    "J'ai peur des aiguilles.",
+    "Je n'ai pas le temps.",
+    "Ça sert vraiment à quelque chose ?",
+    "Et si je me sens mal après ?",
+    "Bon, je vais réfléchir…"
+   ],
+   "useful_phrases": [
+    "Je comprends ta peur, mais…",
+    "Ça ne prend que…",
+    "Tu sais que… ?",
+    "Les infirmières sont là pour…",
+    "Si tu veux, je peux…"
+   ],
+   "model_answer": "Je comprends ta peur des aiguilles, beaucoup de gens l'ont, mais la piqûre dure à peine une seconde. Le don lui-même ne prend que dix minutes, et la collecte a lieu ici, pendant la pause déjeuner. Tu sais qu'un seul don peut sauver trois vies ? Les infirmières sont là pour surveiller, et on t'offre une collation après. Si tu veux, je peux t'accompagner et rester à côté de toi."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il interdire la publicité destinée aux enfants ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion : « La publicité qui vise les enfants devrait-elle être totalement interdite ? » Argumentez, donnez des exemples, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Quelle est votre position ?",
+    "Pourquoi les enfants sont-ils vulnérables ?",
+    "Quelles conséquences économiques ?",
+    "Le rôle des parents ?",
+    "Votre conclusion ?"
+   ],
+   "useful_phrases": [
+    "Je suis plutôt pour…",
+    "Les enfants ne sont pas en mesure de…",
+    "D'un autre côté…",
+    "Il me semble que les parents…",
+    "En définitive…"
+   ],
+   "model_answer": "Je suis plutôt pour une interdiction, au moins pour les produits mauvais pour la santé. Les enfants ne sont pas en mesure de distinguer une publicité d'une information, ils sont donc facilement manipulés. D'un autre côté, la publicité finance les chaînes jeunesse, et une interdiction totale pourrait réduire l'offre de programmes. Il me semble aussi que les parents ont un rôle essentiel à jouer. En définitive, je défends une interdiction ciblée, accompagnée d'une éducation aux médias."
+  }
+ ]
+}

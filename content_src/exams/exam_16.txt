@@ -1,0 +1,490 @@
+@code EXAM-16
+@title Examen blanc n° 16 – Espace, langues régionales et rythmes de vie
+@level B2
+@description Examen complet calibré B1–B2 : conquête spatiale, langues régionales, publicité pour enfants, travail de nuit, don du sang.
+
+## CO 1 | A2 | message téléphonique | information précise | H:fr-FR
+DOC: H: Bonsoir Sophie, c'est Marc. Ce soir, on peut voir la station spatiale passer dans le ciel à 22 h 10. Je t'attends sur la colline derrière l'église. Apporte une couverture !
+Q: Que doit apporter Sophie ?
++ Une couverture. | « Apporte une couverture ! ».
+- Un télescope. | Ce n'est pas dit.
+- À manger. | Ce n'est pas dit.
+- Une lampe. | Ce n'est pas dit.
+EXP: L'impératif exprime une demande.
+
+## CO 2 | A2 | annonce publique | information précise | F:fr-FR
+DOC: F: Collecte de sang ce jeudi de 14 heures à 19 heures à la salle polyvalente. Pensez à bien manger avant de venir et à apporter une pièce d'identité. Une collation vous sera offerte après le don.
+Q: Que faut-il faire avant de venir ?
++ Bien manger. | « Pensez à bien manger avant de venir ».
+- Être à jeun. | C'est l'inverse.
+- Prendre rendez-vous. | Ce n'est pas dit.
+- Faire du sport. | Ce n'est pas dit.
+EXP: Ne pas confondre avec une prise de sang à jeun.
+
+## CO 3 | A2 | conversation quotidienne | information précise | F:fr-FR, H:fr-FR
+DOC: F: Tu as l'air fatigué. / H: Oui, cette semaine je travaille de nuit à l'hôpital, de 21 heures à 7 heures. / F: Et tu dors quand ? / H: Le matin, jusqu'à 14 heures.
+Q: Jusqu'à quelle heure l'homme dort-il ?
++ 14 heures. | « Le matin, jusqu'à 14 heures ».
+- 7 heures. | C'est la fin de son travail.
+- 21 heures. | C'est le début de son travail.
+- Midi. | Ce n'est pas dit.
+EXP: Distinguez les horaires de travail et de sommeil.
+
+## CO 4 | B1 | conversation quotidienne | intention | H:fr-FR, F:fr-FR
+DOC: H: Mon fils veut absolument les céréales qu'il voit à la télé, avec le jouet dans la boîte. / F: Moi, j'ai trouvé une solution : on regarde les dessins animés en replay, sans publicité. Il ne réclame plus rien !
+Q: Quelle solution la femme propose-t-elle ?
++ Regarder les programmes sans publicité. | « en replay, sans publicité ».
+- Acheter les céréales. | Ce n'est pas dit.
+- Interdire la télévision. | Ce n'est pas dit.
+- Cacher le jouet. | Ce n'est pas dit.
+EXP: Repérez « j'ai trouvé une solution ».
+
+## CO 5 | B1 | message professionnel | information précise | F:fr-FR
+DOC: F: Bonjour, ici l'école Diwan de Quimper. Nous avons bien reçu votre demande d'inscription pour votre fille en classe bilingue breton-français. Une réunion d'accueil pour les nouvelles familles aura lieu le samedi 7 septembre à 10 heures. Les parents n'ont pas besoin de parler breton.
+Q: Que précise l'école ?
++ Les parents n'ont pas besoin de parler breton. | « Les parents n'ont pas besoin de parler breton ».
+- Les parents doivent parler breton. | C'est l'inverse.
+- La réunion est obligatoire pour les enfants. | Ce n'est pas dit.
+- L'inscription est refusée. | Elle est reçue.
+EXP: « Ne pas avoir besoin de » = ce n'est pas nécessaire.
+
+## CO 6 | B1 | information radio | information précise | H:fr-FR
+DOC: H: L'astronaute française Claire Moreau décollera le 12 mars pour une mission de six mois à bord de la Station spatiale internationale. Elle y réalisera une centaine d'expériences scientifiques, notamment sur le sommeil et le vieillissement des muscles.
+Q: Combien de temps durera la mission ?
++ Six mois. | « une mission de six mois ».
+- Douze mois. | 12 est la date.
+- Cent jours. | Il s'agit d'une centaine d'expériences.
+- Un an. | Ce n'est pas dit.
+EXP: Associez chaque nombre à ce qu'il désigne.
+
+## CO 7 | B1 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes boulanger et vous travaillez la nuit depuis vingt ans. Comment le vivez-vous ? / H: Je me suis habitué, mais c'est dur pour la vie de famille. Je vois peu ma femme le soir. Heureusement, j'ai mes après-midi pour aller chercher les enfants à l'école.
+Q: Quel avantage le boulanger trouve-t-il à ses horaires ?
++ Il peut aller chercher ses enfants l'après-midi. | « j'ai mes après-midi pour aller chercher les enfants ».
+- Il voit beaucoup sa femme le soir. | C'est l'inverse.
+- Il dort la nuit. | Il travaille la nuit.
+- Il gagne beaucoup d'argent. | Ce n'est pas dit.
+EXP: « Heureusement » introduit un point positif.
+
+## CO 8 | B1 | annonce publique | information précise | F:fr-FR
+DOC: F: Le planétarium propose pendant les vacances une séance spéciale pour les enfants de 6 à 10 ans : « Voyage vers Mars ». La séance dure quarante-cinq minutes. Les enfants doivent être accompagnés d'un adulte. Réservation conseillée.
+Q: Que faut-il pour les enfants ?
++ Être accompagnés d'un adulte. | « doivent être accompagnés d'un adulte ».
+- Avoir plus de dix ans. | C'est de 6 à 10 ans.
+- Venir seuls. | Ils doivent être accompagnés.
+- Apporter un livre. | Ce n'est pas dit.
+EXP: « Doivent » marque l'obligation.
+
+## CO 9 | B1 | situation administrative | information précise | H:fr-FR, F:fr-FR
+DOC: H: Bonjour, je voudrais donner mon sang, mais je suis revenu d'un voyage au Brésil il y a deux semaines. / F: Dans ce cas, il faut attendre quatre mois après votre retour, à cause des risques de maladies tropicales. Revenez en juillet. / H: D'accord, merci.
+Q: Pourquoi l'homme ne peut-il pas donner son sang maintenant ?
++ À cause de son voyage récent au Brésil. | « il faut attendre quatre mois après votre retour ».
+- Parce qu'il est trop jeune. | Ce n'est pas dit.
+- Parce qu'il est malade. | Ce n'est pas dit.
+- Parce que le centre est fermé. | Ce n'est pas dit.
+EXP: « Dans ce cas » renvoie à la situation décrite.
+
+## CO 10 | B1 | conversation professionnelle | information précise | F:fr-FR, H:fr-FR
+DOC: F: Pour la campagne de publicité des nouveaux biscuits, on cible les enfants ? / H: Non, la nouvelle loi l'interdit pour les produits trop sucrés. On va s'adresser aux parents, en insistant sur les ingrédients naturels. / F: D'accord, je modifie le visuel.
+Q: À qui la publicité va-t-elle s'adresser ?
++ Aux parents. | « On va s'adresser aux parents ».
+- Aux enfants. | La loi l'interdit.
+- Aux enseignants. | Ce n'est pas dit.
+- Aux sportifs. | Ce n'est pas dit.
+EXP: « S'adresser à » = viser.
+
+## CO 11 | B2 | débat | argumentation | H:fr-FR, F:fr-FR
+DOC: H: Dépenser des milliards pour envoyer des humains sur Mars, alors qu'il y a tant de problèmes sur Terre, c'est indécent. / F: Je comprends, mais la recherche spatiale a apporté beaucoup d'innovations utiles : satellites météo, GPS, matériaux médicaux. Et elle fait rêver les jeunes et suscite des vocations scientifiques.
+Q: Quels arguments la femme avance-t-elle ?
++ Les innovations utiles et les vocations scientifiques. | Elle cite les deux.
+- Le coût trop élevé. | C'est l'argument de l'homme.
+- L'urgence des problèmes sur Terre. | C'est l'argument de l'homme.
+- Le tourisme spatial. | Ce n'est pas dit.
+EXP: « Je comprends, mais » : concession puis contre-argument.
+
+## CO 12 | B2 | information radio | information globale | F:fr-FR
+DOC: F: Les langues régionales connaissent un regain d'intérêt. Le nombre d'élèves inscrits dans les écoles bilingues basques, bretonnes ou occitanes a doublé en quinze ans. Pourtant, le nombre de locuteurs âgés diminue plus vite que celui des nouveaux apprenants n'augmente, et plusieurs de ces langues restent menacées.
+Q: Quelle idée principale ressort de ce reportage ?
++ Malgré un regain d'intérêt, les langues régionales restent menacées. | Constat positif nuancé par « Pourtant ».
+- Les langues régionales ont disparu. | Elles connaissent un regain.
+- Les langues régionales ne sont plus menacées. | Elles le restent.
+- Le nombre d'écoles bilingues a diminué. | Il a doublé.
+EXP: « Pourtant » nuance le constat initial.
+
+## CO 13 | B2 | interview | opinion | H:fr-FR, F:fr-FR
+DOC: H: Vous êtes médecin du travail. Le travail de nuit est-il dangereux pour la santé ? / F: À long terme, oui. Il perturbe l'horloge biologique et augmente les risques de troubles du sommeil, de diabète et de maladies cardiaques. C'est pourquoi les travailleurs de nuit doivent bénéficier d'un suivi médical renforcé.
+Q: Que recommande la médecin ?
++ Un suivi médical renforcé pour les travailleurs de nuit. | « doivent bénéficier d'un suivi médical renforcé ».
+- Interdire le travail de nuit. | Ce n'est pas dit.
+- Prendre des somnifères. | Ce n'est pas dit.
+- Travailler plus longtemps. | Ce n'est pas dit.
+EXP: « C'est pourquoi » introduit la conséquence pratique.
+
+## CO 14 | B2 | message téléphonique | intention | H:fr-FR
+DOC: H: Bonjour Madame Leclerc, ici l'Établissement français du sang. Votre groupe sanguin, O négatif, est très recherché en ce moment, car nos réserves sont au plus bas. Seriez-vous disponible pour un don cette semaine ? Vous pouvez prendre rendez-vous directement sur notre site.
+Q: Pourquoi appelle-t-on Mme Leclerc ?
++ Pour lui demander de donner son sang rapidement. | « Seriez-vous disponible pour un don cette semaine ? ».
+- Pour lui annoncer un résultat d'analyse. | Ce n'est pas dit.
+- Pour la remercier d'un don passé. | Ce n'est pas dit.
+- Pour lui proposer une transfusion. | Ce n'est pas dit.
+EXP: La question au conditionnel formule une demande polie.
+
+## CO 15 | B2 | conversation professionnelle | relation logique | F:fr-FR, H:fr-FR
+DOC: F: Pourquoi les entrepôts recrutent-ils autant de travailleurs de nuit ? / H: Les clients veulent être livrés le lendemain de leur commande. Pour tenir ce délai, il faut préparer les colis pendant la nuit. Résultat : le travail de nuit a fortement progressé dans la logistique.
+Q: Quelle est la cause de l'augmentation du travail de nuit ?
++ L'exigence de livraison rapide. | « Les clients veulent être livrés le lendemain ».
+- Le manque de travailleurs de jour. | Ce n'est pas dit.
+- Les salaires plus élevés la nuit. | Ce n'est pas dit.
+- La fermeture des magasins. | Ce n'est pas dit.
+EXP: « Résultat : » introduit la conséquence.
+
+## CO 16 | B2 | interview | information détaillée | H:fr-FR, F:fr-FR
+DOC: H: Vous avez passé six mois dans l'espace. Qu'est-ce qui a été le plus difficile au retour ? / F: Retrouver la gravité ! Les premiers jours, je n'arrivais plus à tenir debout plus de quelques minutes. Il m'a fallu trois semaines de rééducation pour remarcher normalement. Et j'avais oublié que les objets tombent quand on les lâche !
+Q: Combien de temps a duré la rééducation ?
++ Trois semaines. | « trois semaines de rééducation ».
+- Six mois. | C'est la durée de la mission.
+- Quelques minutes. | C'est le temps qu'elle tenait debout.
+- Un an. | Ce n'est pas dit.
+EXP: Repérez la durée associée au mot « rééducation ».
+
+## CO 17 | B2 | annonce publique | information précise | H:fr-FR
+DOC: H: À partir du 1er janvier, les panneaux d'entrée de toutes les communes du département seront bilingues : français et occitan. Le coût, estimé à 200 000 euros, sera pris en charge par la région. Les communes qui ne souhaitent pas participer devront le faire savoir avant le 30 novembre.
+Q: Qui paiera les nouveaux panneaux ?
++ La région. | « sera pris en charge par la région ».
+- Les communes. | Ce n'est pas dit.
+- L'État. | Ce n'est pas dit.
+- Les habitants. | Ce n'est pas dit.
+EXP: « Prendre en charge » = payer.
+
+## CO 18 | B2 | information radio | relation logique | F:fr-FR
+DOC: F: Les dons de sang diminuent chaque été. En effet, les donneurs réguliers partent en vacances, alors que les besoins des hôpitaux restent constants, voire augmentent avec les accidents de la route. L'Établissement français du sang lance donc un appel aux nouveaux donneurs.
+Q: Pourquoi les dons diminuent-ils en été ?
++ Les donneurs réguliers partent en vacances. | « les donneurs réguliers partent en vacances ».
+- Les hôpitaux ont moins besoin de sang. | Les besoins restent constants.
+- Il fait trop chaud pour donner. | Ce n'est pas dit.
+- Les centres sont fermés. | Ce n'est pas dit.
+EXP: « En effet » introduit une explication.
+
+## CO 19 | B2 | débat | argumentation | F:fr-FR, H:fr-FR
+DOC: F: Il faut interdire toute publicité destinée aux enfants. Ils ne savent pas distinguer une publicité d'un programme. / H: C'est vrai pour les plus petits. Mais une interdiction totale priverait les chaînes jeunesse de financement, et donc de programmes de qualité. Je serais plutôt pour interdire la publicité pour la malbouffe.
+Q: Que propose l'homme ?
++ Interdire seulement la publicité pour la malbouffe. | « Je serais plutôt pour interdire la publicité pour la malbouffe ».
+- Interdire toute publicité. | C'est la position de la femme.
+- Augmenter la publicité. | Ce n'est pas dit.
+- Supprimer les chaînes jeunesse. | Il veut les préserver.
+EXP: Le conditionnel « serais » nuance la proposition.
+
+## CO 20 | B2 | interview | opinion | H:fr-FR, F:fr-FR
+DOC: H: Vous enseignez le corse. Est-ce utile d'apprendre une langue que peu de gens parlent ? / F: Une langue n'est pas qu'un outil de communication. C'est une façon de voir le monde, une mémoire, des chansons, des proverbes. Et les enfants bilingues apprennent ensuite plus facilement d'autres langues.
+Q: Selon l'enseignante, pourquoi apprendre le corse est-il utile ?
++ C'est un patrimoine culturel et cela facilite l'apprentissage d'autres langues. | Elle avance ces deux idées.
+- Parce que beaucoup de gens le parlent. | La question suggère l'inverse.
+- Pour trouver un emploi à l'étranger. | Ce n'est pas dit.
+- Parce que c'est obligatoire. | Ce n'est pas dit.
+EXP: « N'est pas que » = n'est pas seulement.
+
+## CO 21 | C1 | information radio | information détaillée | H:fr-FR
+DOC: H: L'Agence spatiale européenne vient de confirmer le financement d'une mission destinée à récupérer des débris spatiaux. Plus de 30 000 objets de plus de dix centimètres tournent actuellement autour de la Terre, menaçant les satellites en activité. La mission, prévue pour 2028, tentera de capturer un ancien satellite à l'aide de bras robotisés.
+Q: Quel est l'objectif de la mission ?
++ Capturer un ancien satellite pour réduire les débris. | « tentera de capturer un ancien satellite ».
+- Lancer 30 000 nouveaux satellites. | 30 000 est le nombre de débris.
+- Envoyer des humains sur la Lune. | Ce n'est pas dit.
+- Réparer les satellites en activité. | Ce n'est pas dit.
+EXP: Identifiez le verbe d'action principal.
+
+## CO 22 | B2 | conversation professionnelle | intention | F:fr-FR, H:fr-FR
+DOC: F: Je voulais vous parler de mon planning. Je fais des nuits depuis trois ans et je commence à avoir de vrais problèmes de sommeil. / H: Je comprends. Malheureusement, je n'ai pas de poste de jour disponible tout de suite. / F: Et si on alternait, une semaine de nuit, une semaine de jour, avec un collègue ?
+Q: Que propose la femme ?
++ Alterner les semaines de jour et de nuit. | « une semaine de nuit, une semaine de jour ».
+- Démissionner. | Ce n'est pas dit.
+- Travailler uniquement de nuit. | C'est ce qu'elle fait déjà.
+- Prendre un congé maladie. | Ce n'est pas dit.
+EXP: « Et si on… ? » formule une proposition.
+
+## CO 23 | C1 | débat | point de vue implicite | H:fr-FR, F:fr-FR
+DOC: H: Le tourisme spatial va démocratiser l'accès à l'espace. / F: Démocratiser ? Un billet coûte aujourd'hui plusieurs centaines de milliers d'euros, pour quelques minutes d'apesanteur. Et chaque vol émet autant de CO2 qu'une personne en plusieurs années. Drôle de démocratie.
+Q: Que pense la femme du tourisme spatial ?
++ Il est réservé aux très riches et polluant. | Elle conteste le mot « démocratiser ».
+- Il est accessible à tous. | Elle dit le contraire.
+- Il est écologique. | Il émet beaucoup de CO2.
+- Il faut le développer. | Elle le critique.
+EXP: « Drôle de démocratie » : ironie qui rejette le terme.
+
+## CO 24 | C1 | interview | nuance | F:fr-FR, H:fr-FR
+DOC: F: La loi qui interdit la publicité dans les programmes pour enfants est-elle efficace ? / H: En partie seulement. Elle a supprimé les spots pendant les dessins animés, mais les enfants passent désormais plus de temps sur les plateformes vidéo, où les influenceurs présentent des produits sans que cela soit toujours clairement identifié comme de la publicité.
+Q: Pourquoi la loi n'est-elle efficace qu'en partie ?
++ La publicité s'est déplacée vers les plateformes vidéo. | Les influenceurs prennent le relais.
+- Les dessins animés ont toujours des spots. | Ils ont été supprimés.
+- Les enfants regardent plus la télévision. | Ils vont sur les plateformes.
+- La loi n'a jamais été appliquée. | Elle a supprimé les spots.
+EXP: « En partie seulement » annonce une nuance.
+
+## CO 25 | C1 | information radio | relation logique | F:fr-FR
+DOC: F: Longtemps interdites à l'école, les langues régionales y ont été progressivement réintroduites à partir des années 1950. Cette reconnaissance tardive n'a cependant pas suffi à enrayer leur déclin, la transmission familiale ayant été rompue pendant plusieurs générations, souvent par crainte que les enfants soient pénalisés.
+Q: Pourquoi la réintroduction à l'école n'a-t-elle pas suffi ?
++ Parce que la transmission familiale avait été interrompue. | « la transmission familiale ayant été rompue ».
+- Parce que l'école les interdit encore. | Elles ont été réintroduites.
+- Parce que les enfants refusent de les apprendre. | Ce n'est pas dit.
+- Parce qu'elles sont trop difficiles. | Ce n'est pas dit.
+EXP: Le participe composé « ayant été rompue » exprime la cause.
+
+## CE 1 | A2 | annonce | information précise
+DOC: SOIRÉE ÉTOILES – Observation du ciel avec le club d'astronomie. Vendredi 21 h, stade municipal. Télescopes fournis. Gratuit. Annulé en cas de nuages.
+Q: Quand la soirée sera-t-elle annulée ?
++ S'il y a des nuages. | « Annulé en cas de nuages ».
+- S'il fait froid. | Ce n'est pas dit.
+- S'il y a trop de monde. | Ce n'est pas dit.
+- Le vendredi. | C'est le jour prévu.
+EXP: « En cas de » introduit une condition.
+
+## CE 2 | A2 | message | information précise
+DOC: Bonjour Julie, je travaille de nuit cette semaine. Merci de ne pas sonner à ma porte avant 15 h. Tu peux laisser le colis chez le gardien. Merci ! Ton voisin, David
+Q: Que demande David ?
++ Ne pas sonner avant 15 h. | « Merci de ne pas sonner à ma porte avant 15 h ».
+- Venir le réveiller. | C'est l'inverse.
+- Apporter le colis à 15 h. | Il propose le gardien.
+- Garder ses enfants. | Ce n'est pas dit.
+EXP: « Merci de ne pas » = demande polie de ne pas faire.
+
+## CE 3 | A2 | affiche | information précise
+DOC: DON DU SANG – Vous avez entre 18 et 70 ans et pesez plus de 50 kg ? Venez donner votre sang ! Mardi 10 h – 18 h, gymnase Jean-Moulin. Un don = trois vies sauvées.
+Q: Qui peut donner son sang ?
++ Les personnes de 18 à 70 ans pesant plus de 50 kg. | Ce sont les conditions indiquées.
+- Tout le monde. | Il y a des conditions.
+- Les enfants. | Il faut avoir au moins 18 ans.
+- Seulement les personnes de plus de 70 ans. | C'est la limite supérieure.
+EXP: Lisez toutes les conditions.
+
+## CE 4 | B1 | courriel | information précise
+DOC: Bonjour Monsieur Lopez, nous vous confirmons l'inscription de votre fils au stage d'initiation à l'astronomie du 15 au 19 avril. Le stage a lieu de 9 h à 16 h. Prévoyez un pique-nique pour le midi. Une soirée d'observation est organisée le jeudi : les parents y sont invités. L'équipe du planétarium.
+Q: Quand les parents sont-ils invités ?
++ Le jeudi soir. | « Une soirée d'observation est organisée le jeudi ».
+- Tous les jours à 16 h. | C'est la fin du stage.
+- Le 15 avril. | C'est le début du stage.
+- Le midi. | C'est l'heure du pique-nique.
+EXP: Repérez le mot « parents ».
+
+## CE 5 | B1 | article de presse | information globale
+DOC: En Alsace, une crèche propose depuis septembre un accueil entièrement bilingue en alsacien et en français. Les éducatrices parlent alsacien aux enfants, qui l'entendent ainsi dès le plus jeune âge. Les inscriptions ont été prises d'assaut : la liste d'attente compte déjà quarante familles.
+Q: Quel est le succès de cette crèche ?
++ Beaucoup de familles veulent y inscrire leur enfant. | « la liste d'attente compte déjà quarante familles ».
+- Les enfants parlent cinq langues. | Ce n'est pas dit.
+- Elle a fermé faute d'inscriptions. | C'est l'inverse.
+- Elle est gratuite. | Ce n'est pas dit.
+EXP: « Être pris d'assaut » = être très demandé.
+
+## CE 6 | B1 | lettre administrative | information précise
+DOC: Madame, en tant que salariée travaillant de nuit, vous bénéficiez d'une visite médicale tous les six mois, ainsi que d'un repos compensateur de deux jours par an. Votre prochaine visite est fixée au 18 octobre à 10 h. En cas d'empêchement, contactez le service de santé au travail.
+Q: À quelle fréquence la salariée a-t-elle une visite médicale ?
++ Tous les six mois. | « une visite médicale tous les six mois ».
+- Une fois par an. | Ce n'est pas dit.
+- Tous les deux jours. | Il s'agit du repos compensateur.
+- Le 18 de chaque mois. | 18 octobre est la prochaine visite.
+EXP: Distinguez fréquence et date ponctuelle.
+
+## CE 7 | B1 | publicité | intention
+DOC: Vous rêvez de voir la Terre depuis l'espace ? Vivez l'expérience en réalité virtuelle au Cosmodrome ! Simulation de décollage, sortie dans l'espace, alunissage. Dès 8 ans. Réservez votre « mission » en ligne !
+Q: Que propose cette publicité ?
++ Une expérience spatiale en réalité virtuelle. | « Vivez l'expérience en réalité virtuelle ».
+- Un vrai voyage dans l'espace. | C'est une simulation.
+- Un cours d'astronomie. | Ce n'est pas dit.
+- Un film documentaire. | Ce n'est pas dit.
+EXP: Les guillemets autour de « mission » signalent un usage figuré.
+
+## CE 8 | B1 | message professionnel | information précise
+DOC: À l'attention des équipes de nuit : la cafétéria restera désormais ouverte de 22 h à 2 h. Des repas chauds y seront servis. Par ailleurs, une salle de repos équipée de fauteuils inclinables est à votre disposition au 2e étage pendant les pauses.
+Q: Où se trouve la salle de repos ?
++ Au 2e étage. | « au 2e étage ».
+- Dans la cafétéria. | Ce n'est pas dit.
+- Au rez-de-chaussée. | Ce n'est pas dit.
+- À l'extérieur. | Ce n'est pas dit.
+EXP: « Par ailleurs » introduit une information supplémentaire.
+
+## CE 9 | B1 | témoignage | opinion
+DOC: « Je donne mon sang quatre fois par an depuis vingt ans. Ça ne prend qu'une heure, ça ne fait pas mal, et je me dis que quelque part, quelqu'un va mieux grâce à moi. C'est le geste le plus simple que je connaisse pour être utile. » Bernard, 58 ans.
+Q: Comment Bernard présente-t-il le don du sang ?
++ Comme un geste simple et utile. | « le geste le plus simple… pour être utile ».
+- Comme une expérience douloureuse. | « ça ne fait pas mal ».
+- Comme une perte de temps. | Il dit que ça prend une heure seulement.
+- Comme une obligation. | Ce n'est pas dit.
+EXP: Le superlatif final résume l'opinion.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: Un salarié sur six travaille la nuit, de manière régulière ou occasionnelle, contre un sur dix il y a trente ans. Cette progression concerne particulièrement les femmes, notamment dans les secteurs de la santé et de la logistique. Les syndicats demandent une meilleure reconnaissance de la pénibilité de ces horaires.
+Q: Que demandent les syndicats ?
++ Une meilleure reconnaissance de la pénibilité. | « une meilleure reconnaissance de la pénibilité ».
+- La suppression du travail de nuit. | Ce n'est pas dit.
+- Plus de femmes dans la logistique. | Ce n'est pas dit.
+- Une hausse du nombre de travailleurs de nuit. | Ce n'est pas dit.
+EXP: « Pénibilité » = caractère difficile, fatigant.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: Chaque fois qu'une fusée décolle, des voix s'élèvent pour dénoncer un gaspillage d'argent. Elles oublient que sans satellites, il n'y aurait ni prévisions météo fiables, ni GPS, ni surveillance de la déforestation. L'espace n'est pas une lubie de milliardaires, c'est une infrastructure dont nous dépendons tous.
+Q: Quelle est l'intention de l'auteur ?
++ Défendre l'utilité des activités spatiales. | « une infrastructure dont nous dépendons tous ».
+- Critiquer les dépenses spatiales. | Il les défend.
+- Faire la publicité du GPS. | Ce n'est pas son but.
+- Dénoncer les milliardaires. | Ce n'est pas l'idée principale.
+EXP: « Elles oublient que » introduit une réfutation.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Chère Madame, nous sommes heureux de vous annoncer que votre projet de livre pour enfants en langue basque a été retenu par notre comité. Nous saluons particulièrement la qualité de vos illustrations. Notre éditrice vous contactera prochainement. Cordialement, Les Éditions Elkar.
+Q: Que signifie « a été retenu » ?
++ A été choisi. | Le comité a sélectionné le projet.
+- A été refusé. | C'est l'inverse.
+- A été retardé. | Ce n'est pas le sens.
+- A été mémorisé. | Ce n'est pas le sens ici.
+EXP: « Retenir un projet » = le sélectionner.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: Une étude portant sur 500 publicités diffusées pendant les programmes jeunesse sur Internet révèle que 70 % concernent des produits trop gras, trop sucrés ou trop salés. Les chercheurs recommandent d'étendre aux plateformes en ligne les règles qui s'appliquent déjà à la télévision.
+Q: Que recommandent les chercheurs ?
++ Appliquer aux plateformes les règles de la télévision. | « étendre aux plateformes en ligne les règles… ».
+- Interdire Internet aux enfants. | Ce n'est pas dit.
+- Supprimer les programmes jeunesse. | Ce n'est pas dit.
+- Réduire les règles à la télévision. | Ce n'est pas dit.
+EXP: « Étendre à » = appliquer aussi à.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Monsieur, votre candidature au programme de sélection des futurs astronautes a bien été enregistrée. La première étape consiste en des tests psychotechniques en ligne. Seuls les candidats ayant obtenu au moins 80 % de réussite seront convoqués aux examens médicaux. Les résultats vous seront communiqués sous six semaines.
+Q: Qui sera convoqué aux examens médicaux ?
++ Les candidats ayant au moins 80 % aux tests. | « Seuls les candidats ayant obtenu au moins 80 % ».
+- Tous les candidats. | Il y a une sélection.
+- Les candidats de moins de 30 ans. | Ce n'est pas dit.
+- Les candidats déjà médecins. | Ce n'est pas dit.
+EXP: « Seuls » restreint le groupe concerné.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: Les poches de sang ne se conservent que 42 jours, et les plaquettes seulement sept jours. Il est donc impossible de constituer de grandes réserves : les dons doivent être réguliers tout au long de l'année.
+Q: Quelle relation logique relie les deux phrases ?
++ La conservation limitée explique la nécessité de dons réguliers. | « donc » introduit la conséquence.
+- Une opposition. | Ce n'est pas une opposition.
+- Un exemple. | Ce n'est pas un exemple.
+- Une hypothèse. | Ce n'est pas une hypothèse.
+EXP: « Donc » marque la conséquence.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: Faut-il enseigner les langues régionales à tous les élèves de la région ? Pour l'éditorialiste, ce serait une erreur de les imposer : « Une langue qu'on oblige à apprendre devient une corvée. Il faut au contraire donner envie, par la musique, le théâtre, les fêtes populaires. »
+Q: Quelle est l'opinion de l'éditorialiste ?
++ Il faut donner envie d'apprendre plutôt qu'obliger. | « Il faut au contraire donner envie ».
+- Il faut rendre l'enseignement obligatoire. | Il pense que ce serait une erreur.
+- Les langues régionales sont inutiles. | Ce n'est pas dit.
+- Il faut supprimer les fêtes populaires. | Il les propose comme moyen.
+EXP: « Au contraire » oppose deux approches.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: Est considéré comme travailleur de nuit tout salarié qui accomplit au moins trois heures de travail entre 21 h et 6 h, au moins deux fois par semaine. La durée quotidienne de travail ne peut excéder huit heures, sauf dérogation accordée par l'inspection du travail.
+Q: Quelle est la durée maximale de travail quotidien pour un travailleur de nuit ?
++ Huit heures, sauf dérogation. | « ne peut excéder huit heures, sauf dérogation ».
+- Trois heures. | C'est le minimum pour être considéré comme travailleur de nuit.
+- Neuf heures. | Ce n'est pas dit.
+- Aucune limite. | Il y a une limite.
+EXP: « Excéder » = dépasser.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « À la maison, mes grands-parents parlaient breton entre eux, mais toujours français avec nous. Ils disaient que c'était pour notre bien. Aujourd'hui, je prends des cours du soir pour apprendre la langue qu'ils auraient pu me transmettre gratuitement. » Gwen, 45 ans.
+Q: Que sous-entend Gwen ?
++ Elle regrette que la langue ne lui ait pas été transmise. | Elle doit l'apprendre maintenant.
+- Elle reproche à ses grands-parents de parler breton. | Ce n'est pas le sens.
+- Les cours du soir sont gratuits. | Elle souligne qu'ils auraient pu être gratuits en famille.
+- Elle parle breton depuis l'enfance. | Elle l'apprend maintenant.
+EXP: « Gratuitement » souligne le regret avec une pointe d'ironie.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Faut-il interdire les jouets offerts dans les menus pour enfants des chaînes de restauration rapide ? Les partisans de l'interdiction estiment qu'ils incitent les enfants à réclamer une nourriture déséquilibrée. Les restaurateurs répondent que les parents restent libres de leurs choix et que ces menus contiennent désormais des fruits et de l'eau.
+Q: Quel argument avancent les restaurateurs ?
++ La liberté des parents et l'amélioration des menus. | Ce sont leurs deux arguments.
+- Les jouets incitent à la malbouffe. | C'est l'argument des partisans.
+- Les jouets sont dangereux. | Ce n'est pas dit.
+- Les enfants n'aiment pas les jouets. | Ce n'est pas dit.
+EXP: « Répondre que » introduit les contre-arguments.
+
+## CE 20 | B2 | article de presse | information détaillée
+DOC: Le premier vol habité du programme lunaire européen a été repoussé de deux ans. En cause : des problèmes techniques sur le module d'atterrissage et un budget insuffisant. L'agence spatiale assure toutefois que l'objectif d'installer une base permanente sur la Lune d'ici 2040 reste inchangé.
+Q: Pourquoi le vol a-t-il été repoussé ?
++ Pour des problèmes techniques et budgétaires. | « des problèmes techniques… et un budget insuffisant ».
+- Parce que l'objectif a changé. | Il reste inchangé.
+- À cause d'un accident. | Ce n'est pas dit.
+- À cause de la météo. | Ce n'est pas dit.
+EXP: « En cause : » introduit les raisons.
+
+## CE 21 | C1 | texte argumentatif | thèse
+DOC: On présente souvent le travail de nuit comme un choix personnel, compensé par des primes. C'est méconnaître la réalité : pour beaucoup de salariés peu qualifiés, il s'agit de la seule offre disponible. Parler de choix quand il n'existe pas d'alternative relève de l'hypocrisie.
+Q: Quelle est la thèse de l'auteur ?
++ Le travail de nuit est souvent subi, pas choisi. | « il s'agit de la seule offre disponible ».
+- Le travail de nuit est un choix libre. | Il conteste cette idée.
+- Les primes sont trop élevées. | Ce n'est pas dit.
+- Les salariés qualifiés travaillent la nuit. | Il parle des peu qualifiés.
+EXP: « C'est méconnaître » réfute une idée reçue.
+
+## CE 22 | C1 | article de presse | information implicite
+DOC: La chaîne de télévision s'est engagée à « ne plus diffuser de publicités pour des produits gras ou sucrés pendant les dessins animés ». Les publicités en question sont désormais programmées juste avant et juste après.
+Q: Que laisse entendre l'article ?
++ L'engagement est contourné. | Les publicités sont simplement déplacées.
+- La chaîne respecte parfaitement la santé des enfants. | L'auteur suggère le contraire.
+- Les publicités ont disparu. | Elles sont déplacées.
+- Les dessins animés ont été supprimés. | Ce n'est pas dit.
+EXP: Le fait final contredit l'esprit de l'engagement.
+
+## CE 23 | C1 | texte argumentatif | ton
+DOC: Après avoir passé des décennies à interdire aux enfants de parler leur langue à l'école, sous peine de punition, l'État découvre aujourd'hui avec émotion la richesse du patrimoine linguistique régional. Mieux vaut tard que jamais, sans doute.
+Q: Quel est le ton de l'auteur ?
++ Ironique. | « découvre avec émotion » et « Mieux vaut tard que jamais » soulignent le paradoxe.
+- Enthousiaste. | Il souligne une contradiction.
+- Neutre. | Il exprime une critique.
+- Nostalgique. | Ce n'est pas le ton dominant.
+EXP: Le proverbe final est employé ironiquement.
+
+## CE 24 | C1 | article de presse | relation logique
+DOC: Si la France figure parmi les pays où le don du sang est le plus organisé, la proportion de donneurs reste modeste : à peine 4 % de la population en âge de donner. Le renouvellement des générations de donneurs inquiète d'autant plus que les jeunes, sollicités par de multiples causes, se montrent moins fidèles.
+Q: Pourquoi le renouvellement des donneurs inquiète-t-il particulièrement ?
++ Parce que les jeunes donnent de manière moins régulière. | « se montrent moins fidèles ».
+- Parce que le don est mal organisé. | Il est très organisé.
+- Parce que 40 % de la population donne. | C'est 4 %.
+- Parce que les besoins diminuent. | Ce n'est pas dit.
+EXP: « D'autant plus que » renforce une cause.
+
+## CE 25 | C1 | document informatif | reformulation
+DOC: Le don de sang est anonyme, volontaire et non rémunéré. Le donneur ne peut connaître l'identité du receveur, et inversement. Aucune contrepartie financière ne peut être proposée, à l'exception du remboursement des frais de transport dans certains cas.
+Q: Quelle reformulation correspond au texte ?
++ Le donneur n'est pas payé et ne connaît pas le receveur. | Anonyme et non rémunéré.
+- Le donneur reçoit une somme d'argent. | Aucune contrepartie financière.
+- Le receveur peut contacter le donneur. | C'est anonyme dans les deux sens.
+- Le don est obligatoire. | Il est volontaire.
+EXP: « Inversement » = dans l'autre sens aussi.
+
+## EE 1 | A2 | écrire un message
+CONSIGNE: Vous travaillez de nuit cette semaine. Vous écrivez un message à vos voisins pour leur demander d'éviter le bruit le matin (30 à 60 mots).
+MODELE: Bonjour à tous, je suis infirmière et je travaille de nuit toute cette semaine. Je dors le matin, de 8 heures à 14 heures. Pourriez-vous, si possible, éviter les bruits forts pendant ces heures ? Je vous remercie beaucoup pour votre compréhension. Bonne semaine ! Amélie, 3e étage
+POINTS: salutation ; situation ; horaires ; demande polie ; remerciement
+CONSEILS: « Pourriez-vous, si possible » rend la demande très polie.
+
+## EE 2 | B1 | raconter une expérience
+CONSIGNE: Vous avez visité un musée, un planétarium ou assisté à un événement scientifique. Vous racontez cette sortie à un ami par courriel (40 à 90 mots).
+MODELE: Salut Hugo, samedi je suis allé à la Cité de l'espace à Toulouse avec mes neveux. On a visité une vraie station spatiale et on a même essayé un simulateur d'apesanteur, c'était incroyable ! Le planétarium m'a beaucoup impressionné : on avait l'impression de voler entre les planètes. Les enfants ont adoré, moi aussi ! Si tu passes par Toulouse, je te conseille vraiment d'y aller, prévois une journée entière. À bientôt, Yanis
+POINTS: contexte ; activités ; moment marquant ; réaction ; conseil
+CONSEILS: « On avait l'impression de » permet de décrire une sensation.
+
+## EE 3 | B2 | argumenter sur un sujet de société
+CONSIGNE: « Les dépenses pour l'exploration spatiale sont un luxe que nous ne pouvons plus nous permettre. » Vous réagissez à cette affirmation dans le courrier des lecteurs d'un magazine (40 à 90 mots).
+MODELE: Je ne partage pas cet avis. Certes, les budgets spatiaux sont importants, alors que les besoins sur Terre sont immenses. Cependant, l'exploration spatiale nous rend des services concrets : prévisions météo, télécommunications, surveillance du climat. Sans satellites, nous ne pourrions même pas mesurer la fonte des glaces. De plus, elle suscite des vocations scientifiques chez les jeunes. Plutôt que de l'abandonner, il faudrait l'orienter davantage vers l'observation de notre planète.
+POINTS: position ; concession ; arguments concrets ; argument supplémentaire ; proposition
+CONSEILS: Un exemple frappant (« mesurer la fonte des glaces ») renforce l'argument.
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous pose des questions sur vos langues, vos horaires et vos centres d'intérêt.
+RELANCES: Parlez-vous une langue régionale ou un dialecte ? / Quelles langues parle-t-on dans votre famille ? / Avez-vous déjà travaillé de nuit ? / Vous intéressez-vous à l'espace ? / Avez-vous déjà donné votre sang ? / Regardez-vous beaucoup de publicités ?
+PHRASES: Dans ma famille, on parle… / J'ai déjà… / Je n'ai jamais… / Ce qui m'intéresse, c'est… / Je trouve que les publicités…
+MODELE: Dans ma famille, on parle arabe et berbère, et moi j'ai appris le français à l'école. Je n'ai jamais travaillé de nuit, mais mon frère est boulanger, donc il travaille la nuit. Je m'intéresse beaucoup à l'espace : je regarde souvent des documentaires. J'ai donné mon sang une fois, à l'université. Je trouve que les publicités sont trop nombreuses, surtout sur Internet.
+
+## EO 2 | B2 | Convaincre de participer | Collègue
+SCENARIO: Vous organisez une collecte de sang dans votre entreprise. Un collègue hésite à participer. L'examinateur joue le rôle du collègue. Convainquez-le.
+RELANCES: Bonjour ! Tu voulais me parler ? / J'ai peur des aiguilles. / Je n'ai pas le temps. / Ça sert vraiment à quelque chose ? / Et si je me sens mal après ? / Bon, je vais réfléchir…
+PHRASES: Je comprends ta peur, mais… / Ça ne prend que… / Tu sais que… ? / Les infirmières sont là pour… / Si tu veux, je peux…
+MODELE: Je comprends ta peur des aiguilles, beaucoup de gens l'ont, mais la piqûre dure à peine une seconde. Le don lui-même ne prend que dix minutes, et la collecte a lieu ici, pendant la pause déjeuner. Tu sais qu'un seul don peut sauver trois vies ? Les infirmières sont là pour surveiller, et on t'offre une collation après. Si tu veux, je peux t'accompagner et rester à côté de toi.
+
+## EO 3 | B2 | Faut-il interdire la publicité destinée aux enfants ? | Examinateur
+SCENARIO: Donnez votre opinion : « La publicité qui vise les enfants devrait-elle être totalement interdite ? » Argumentez, donnez des exemples, nuancez et concluez.
+RELANCES: Quelle est votre position ? / Pourquoi les enfants sont-ils vulnérables ? / Quelles conséquences économiques ? / Le rôle des parents ? / Votre conclusion ?
+PHRASES: Je suis plutôt pour… / Les enfants ne sont pas en mesure de… / D'un autre côté… / Il me semble que les parents… / En définitive…
+MODELE: Je suis plutôt pour une interdiction, au moins pour les produits mauvais pour la santé. Les enfants ne sont pas en mesure de distinguer une publicité d'une information, ils sont donc facilement manipulés. D'un autre côté, la publicité finance les chaînes jeunesse, et une interdiction totale pourrait réduire l'offre de programmes. Il me semble aussi que les parents ont un rôle essentiel à jouer. En définitive, je défends une interdiction ciblée, accompagnée d'une éducation aux médias.
