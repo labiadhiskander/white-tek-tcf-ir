@@ -184,9 +184,24 @@ exercice + correction) ; `vocab_words` ; `grammar_chapters` → `grammar_exercis
 * Restauration : une sauvegarde n'est restaurée qu'après `PRAGMA integrity_check`,
   et l'état courant est copié avant remplacement.
 
-## 7. Distribution
+## 7. Distribution et mises à jour
 
-PyInstaller (exécutable autonome, Python embarqué) puis Inno Setup (installateur
-`.exe`, raccourci bureau, désinstallation, choix du dossier). Construction automatisée
-sur un runner Windows GitHub Actions. Mise à jour : vérification d'un manifeste de
-version en ligne et téléchargement du nouvel installateur.
+* `packaging/tcfmaster.spec` (PyInstaller, mode dossier) : embarque le contenu
+  (`content/data`), l'audio pré-généré s'il existe, le modèle Vosk français
+  (`tcfmaster/models`, téléchargé par `tools/fetch_vosk_model.py`), l'icône et le guide.
+  `packaging/launch.py` est le point d'entrée ; `tools/write_version_info.py` écrit les
+  métadonnées Windows de l'exécutable.
+* `packaging/installer.iss` (Inno Setup 6, en français) : installation sans droits
+  administrateur, raccourcis menu Démarrer et Bureau, désinstallation ; les données
+  restent dans le profil (`%APPDATA%`, `%LOCALAPPDATA%`) et survivent aux mises à jour.
+* GitHub Actions :
+  * `ci.yml` : analyse statique et tests sur Ubuntu et Windows à chaque push/PR ;
+  * `release.yml` : sur un runner Windows, tests, modèle Vosk, audio CO (voix SAPI),
+    PyInstaller, test de démarrage de l'exécutable, Inno Setup, puis artefact
+    téléchargeable ; sur un tag `vX.Y.Z`, publication d'une Release avec l'installateur.
+* Mises à jour (`services/updates.py`) : requête anonyme vers la dernière Release
+  GitHub au démarrage (désactivable), comparaison de versions, proposition d'ouvrir la
+  page de téléchargement. Le nouvel installateur s'installe par-dessus ; au démarrage,
+  le contenu est réimporté sans perdre l'historique (identifiants stables).
+* Guide utilisateur : `tcfmaster/docs/GUIDE_UTILISATEUR.md`, ouvert depuis
+  Paramètres › Aide et mises à jour.

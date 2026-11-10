@@ -99,6 +99,19 @@ class MainWindow(QMainWindow):
         self.nav.setCurrentRow(keys.index(key))
         return self.pages[key]
 
+    def check_updates_on_start(self) -> None:
+        """Recherche discrète d'une nouvelle version (si l'utilisateur l'a permis)."""
+        from tcfmaster.services import updates as UP
+        from tcfmaster.ui.help_settings import announce_update, update_url
+        from tcfmaster.ui.speaking import run_background
+        with self.ctx.db.session() as s:
+            if not S.get(s, "check_updates"):
+                return
+        url = update_url(self.ctx)
+        run_background(self, lambda: UP.check(url), lambda info: (
+            announce_update(self, info, quiet=True)
+            if isinstance(info, UP.UpdateInfo) else None))
+
     def _auto_backup(self) -> None:
         with self.ctx.db.session() as s:
             enabled = S.get(s, "auto_backup")
