@@ -8,6 +8,7 @@ name: Installateur Windows
 on:
   workflow_dispatch:
   push:
+    branches: ["**"]
     tags: ["v*"]
     paths: ["packaging/**", ".github/workflows/release.yml"]
 
