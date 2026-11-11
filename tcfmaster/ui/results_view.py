@@ -67,10 +67,13 @@ def attempt_report_html(s, attempt_id: int, with_correction: bool = True) -> str
             out.append(evaluation_html(ws.evaluation or {}, ws.text,
                                        f"Expression écrite – tâche "
                                        f"{ws.task.task_number if ws.task else ''}"))
-        for sp in a.speaking_submissions:
-            out.append(f"<h3>Expression orale – tâche {sp.task.task_number if sp.task else ''}"
-                       f"</h3><p>Note {sp.note20 or 0:.1f}/20 · {sp.level or ''}</p>"
-                       f"<p>{html.escape(sp.transcript)}</p>")
+        for sp in sorted(a.speaking_submissions,
+                         key=lambda w: w.task.task_number if w.task else 0):
+            from tcfmaster.ui.speaking_report import oral_html
+            out.append(oral_html(sp.evaluation or {}, sp.transcript,
+                                 f"Expression orale – tâche "
+                                 f"{sp.task.task_number if sp.task else ''}",
+                                 sp.dialogue, bool(sp.audio_path)))
     return "".join(out)
 
 

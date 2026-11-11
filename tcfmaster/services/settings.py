@@ -25,6 +25,7 @@ DEFAULTS: dict[str, Any] = {
     "tts_engine": "systeme",           # voix SAPI Windows / pyttsx3
     "tts_rate": 170,
     "stt_engine": "local",             # moteur de reconnaissance vocale
+    "stt_model_path": "",              # dossier d'un modèle Vosk personnalisé
     "keep_recordings": True,
     "auto_backup": True,
     "backup_interval_min": 30,

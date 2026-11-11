@@ -11,6 +11,7 @@ from sqlalchemy import select
 
 from tcfmaster.db.models import SECTION_LABELS, Attempt, Question
 from tcfmaster.services import exam_service as ES
+from tcfmaster.ui import speaking as _speaking  # noqa: F401 (enregistre l'épreuve EO)
 from tcfmaster.ui import writing as _writing  # noqa: F401 (enregistre l'épreuve EE)
 from tcfmaster.ui.exam_session import STEP_FACTORIES, ExamSession
 from tcfmaster.ui.mcq_runner import McqRunner

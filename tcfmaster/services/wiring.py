@@ -27,11 +27,26 @@ def make_generator(ctx, backend: TTSBackend | None = None) -> AudioGenerator:
                           resource_dir=resource_root() / "content" / "audio")
 
 
-def wire(ctx, backend: TTSBackend | None = None) -> None:
+def stt_model_candidates(ctx) -> list:
+    from pathlib import Path
+    with ctx.db.session() as s:
+        custom = S.get(s, "stt_model_path") or ""
+    return [Path(custom) if custom else None, ctx.paths.data_root / "modeles",
+            resource_root() / "models"]
+
+
+def wire(ctx, backend: TTSBackend | None = None, recorder=None, stt=None) -> None:
     from tcfmaster.services.audio_player import AudioService
+    from tcfmaster.services.recorder import default_recorder
+    from tcfmaster.services.stt import default_engine
     ctx.audio = AudioService(make_generator(ctx, backend))
     log.info("Audio : moteur %s", ctx.audio.generator.backend.name
              if ctx.audio.generator.backend else "indisponible")
+    ctx.recorder = recorder if recorder is not None else default_recorder()
+    ctx.stt = stt if stt is not None else default_engine(stt_model_candidates(ctx))
+    log.info("Micro : %s · reconnaissance vocale : %s",
+             "disponible" if ctx.recorder else "indisponible",
+             getattr(ctx.stt, "name", "indisponible"))
 
 
 def pregenerate_all(ctx, generator: AudioGenerator,

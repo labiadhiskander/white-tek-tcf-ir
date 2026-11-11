@@ -21,6 +21,8 @@ class AppContext:
     db: Database
     log: logging.Logger
     audio: Any = None        # AudioService, branché par services.wiring
+    recorder: Any = None     # Recorder (micro)
+    stt: Any = None          # moteur de reconnaissance vocale
 
 
 def bootstrap(paths: AppPaths | None = None, seed: bool = True) -> AppContext:
