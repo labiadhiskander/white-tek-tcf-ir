@@ -1,0 +1,133 @@
+{
+ "exercises": [
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Les élèves de cette classe ___ (être) très motivés.",
+   "options": null,
+   "answer": "sont",
+   "explanation": "Le sujet est « les élèves » (pluriel), et non « cette classe » : le verbe s'accorde au pluriel."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Ma mère et mon père ___ (travailler) à l'hôpital.",
+   "options": null,
+   "answer": "travaillent",
+   "explanation": "Deux sujets coordonnés par « et » : le verbe se met au pluriel."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Toi et moi ___ (aller) préparer le repas.",
+   "options": null,
+   "answer": "allons",
+   "explanation": "La 1re personne l'emporte : toi et moi = nous → allons."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "C'est vous qui ___ (décider).",
+   "options": null,
+   "answer": "décidez",
+   "explanation": "Après « qui », le verbe s'accorde avec l'antécédent du pronom relatif : vous → décidez."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« La plupart des habitants ___ favorables au projet. »",
+   "options": [
+    "sont",
+    "est",
+    "soit",
+    "être"
+   ],
+   "answer": "sont",
+   "explanation": "Avec « la plupart de » suivi d'un nom pluriel, le verbe se met au pluriel."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Une veste et un pantalon ___ (noir).",
+   "options": null,
+   "answer": "noirs",
+   "explanation": "Un adjectif qui qualifie des noms de genres différents s'accorde au masculin pluriel."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "J'ai attendu une heure et ___ (demi).",
+   "options": null,
+   "answer": "demie",
+   "explanation": "Placé après le nom, « demi » s'accorde en genre (heure est féminin) mais reste au singulier : une heure et demie."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Elle portait des chaussures ___. »",
+   "options": [
+    "orange",
+    "oranges",
+    "orangées",
+    "orangé"
+   ],
+   "answer": "orange",
+   "explanation": "Les adjectifs de couleur issus d'un nom (orange, marron, crème) sont invariables. « Orangées » existe mais signifie « tirant sur l'orange »."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Les dossiers ___ (recevoir) après la date limite ne seront pas examinés.",
+   "options": null,
+   "answer": "reçus",
+   "explanation": "Le participe employé seul s'accorde comme un adjectif avec le nom auquel il se rapporte : les dossiers reçus."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Elles étaient ___ (tout) surprises par la nouvelle.",
+   "options": null,
+   "answer": "toutes",
+   "explanation": "Adverbe « tout » devant un adjectif féminin commençant par une consonne : il s'accorde pour l'euphonie → toutes surprises."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Ils étaient ___ (tout) heureux de se retrouver.",
+   "options": null,
+   "answer": "tout",
+   "explanation": "« Heureux » est masculin : l'adverbe « tout » reste invariable (h muet, masculin)."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Choisissez la phrase correcte.",
+   "options": [
+    "Les décisions qu'ils ont prises ont été critiquées.",
+    "Les décisions qu'ils ont pris ont été critiqué.",
+    "Les décisions qu'ils ont prises ont été critiqué.",
+    "Les décisions qu'ils ont pris ont été critiquées."
+   ],
+   "answer": "Les décisions qu'ils ont prises ont été critiquées.",
+   "explanation": "« Prises » s'accorde avec le COD « que » (les décisions) placé avant « avoir » ; « critiquées » s'accorde avec le sujet « les décisions » (passif avec être)."
+  }
+ ],
+ "slug": "accords",
+ "title": "Les accords (sujet-verbe, participe, adjectif)",
+ "module": "grammaire",
+ "order": 15,
+ "level": "B1",
+ "lesson": "## L'accord du verbe avec le sujet\n- Le verbe s'accorde avec son sujet, même éloigné : *Les enfants de ma voisine jouent dehors.*\n- Plusieurs sujets → pluriel : *Mon frère et ma sœur viennent.*\n- Sujets de personnes différentes : la 1re l'emporte sur la 2e, la 2e sur la 3e : *Toi et moi partirons. Ton frère et toi viendrez.*\n- **Qui** : le verbe s'accorde avec l'antécédent : *C'est moi qui suis responsable. C'est vous qui avez raison.*\n- Nom collectif + complément (la plupart, une foule de, un grand nombre de) : *La plupart des élèves ont réussi* (pluriel avec la plupart). Avec *une foule de, un groupe de*, accord au choix selon le sens.\n- **On** → 3e personne du singulier, mais l'adjectif ou le participe peut s'accorder au sens : *On est arrivés en retard* (= nous).\n\n## L'accord de l'adjectif\n- en genre et en nombre avec le nom : *une décision importante, des résultats encourageants.*\n- un adjectif pour plusieurs noms de genres différents → **masculin pluriel** : *une rue et un parc très fréquentés.*\n- adjectifs de couleur issus d'un nom (marron, orange) et adjectifs composés : invariables : *des chaussures marron, des yeux bleu clair.*\n- *demi* avant le nom : invariable (*une demi-heure*) ; après : accord en genre (*une heure et demie*).\n\n## L'accord du participe passé (rappel)\n- avec **être** : accord avec le sujet. *Elles sont parties.*\n- avec **avoir** : accord avec le COD **placé avant**. *La lettre que j'ai écrite.*\n- participe employé seul : comme un adjectif. *Les dossiers reçus seront traités.*\n\n## Tout\n- adjectif : *tout, toute, tous, toutes* (*toutes les semaines*)\n- adverbe (= complètement) : invariable, **sauf** devant un adjectif féminin commençant par une consonne ou un h aspiré : *ils sont tout contents, elle est tout émue, elle est toute surprise.*",
+ "simple_examples": [
+  "Les fleurs sont belles.",
+  "Mes parents habitent à Nice.",
+  "C'est moi qui ai raison.",
+  "Elle a acheté des chaussures marron."
+ ],
+ "b2_examples": [
+  "La plupart des participants ont salué la qualité des interventions.",
+  "Les mesures prises par la municipalité se sont révélées particulièrement efficaces.",
+  "C'est nous qui avons proposé cette solution lors de la dernière réunion.",
+  "Les candidates, tout émues, ont attendu les résultats pendant une heure et demie."
+ ]
+}

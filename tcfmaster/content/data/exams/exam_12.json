@@ -1,0 +1,1973 @@
+{
+ "code": "EXAM-12",
+ "title": "Examen blanc n° 12 – Montagne, écrans et nouveaux modes de travail",
+ "level": "B2",
+ "description": "Examen complet calibré B1–B2 : stations de ski et climat, jeux vidéo, téléconsultation, coworking, langues précoces.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "H: Allô Camille ? C'est Thomas. Il n'y a pas assez de neige, les pistes sont fermées. On fait une randonnée en raquettes à la place ? Rappelle-moi avant midi.",
+   "prompt": "Pourquoi les pistes sont-elles fermées ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il y a trop de vent.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Il n'y a pas assez de neige.",
+     "correct": true,
+     "rationale": "« Il n'y a pas assez de neige »."
+    },
+    {
+     "label": "C",
+     "text": "Il fait trop froid.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Il y a une grève.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La cause est donnée en premier.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Le cabinet médical sera fermé du 24 au 31 décembre. En cas d'urgence, appelez le 15. Les consultations reprendront le 2 janvier à 8 heures.",
+   "prompt": "Quand les consultations reprendront-elles ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le 31 décembre.",
+     "correct": false,
+     "rationale": "C'est la fin de la fermeture."
+    },
+    {
+     "label": "B",
+     "text": "Le 24 décembre.",
+     "correct": false,
+     "rationale": "C'est le début de la fermeture."
+    },
+    {
+     "label": "C",
+     "text": "Le 1er janvier.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le 2 janvier.",
+     "correct": true,
+     "rationale": "« Les consultations reprendront le 2 janvier »."
+    }
+   ],
+   "explanation": "Repérez le verbe « reprendre ».",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "F: Tu joues encore à ton jeu vidéo ? Il est onze heures ! / H: Oui, j'arrête dans dix minutes, promis. / F: Tu as cours demain à huit heures. / H: Je sais, maman.",
+   "prompt": "Quand le garçon a-t-il cours ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Demain après-midi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Dans dix minutes.",
+     "correct": false,
+     "rationale": "C'est quand il promet d'arrêter."
+    },
+    {
+     "label": "C",
+     "text": "Demain à huit heures.",
+     "correct": true,
+     "rationale": "« Tu as cours demain à huit heures »."
+    },
+    {
+     "label": "D",
+     "text": "Ce soir à onze heures.",
+     "correct": false,
+     "rationale": "C'est l'heure actuelle."
+    }
+   ],
+   "explanation": "Distinguez les trois indications de temps.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "H: J'ai mal à la gorge depuis trois jours, mais mon médecin n'a pas de rendez-vous avant la semaine prochaine. / F: Pourquoi tu n'essaies pas la téléconsultation ? Tu vois un médecin par vidéo, souvent dans l'heure. / H: Je n'y avais pas pensé.",
+   "prompt": "Que suggère la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Aller à la pharmacie.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Attendre la semaine prochaine.",
+     "correct": false,
+     "rationale": "Elle propose autre chose."
+    },
+    {
+     "label": "C",
+     "text": "Consulter un médecin en vidéo.",
+     "correct": true,
+     "rationale": "« Pourquoi tu n'essaies pas la téléconsultation ? »."
+    },
+    {
+     "label": "D",
+     "text": "Aller aux urgences.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Pourquoi tu n'essaies pas… ? » formule un conseil.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "F: Bonjour, ici l'espace de coworking La Ruche. Votre abonnement mensuel commence lundi. Votre badge est disponible à l'accueil. Attention, les salles de réunion doivent être réservées sur l'application au moins vingt-quatre heures à l'avance.",
+   "prompt": "Comment réserver une salle de réunion ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À l'accueil, le jour même.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Sur l'application, 24 heures à l'avance.",
+     "correct": true,
+     "rationale": "« réservées sur l'application au moins vingt-quatre heures à l'avance »."
+    },
+    {
+     "label": "C",
+     "text": "Avec le badge.",
+     "correct": false,
+     "rationale": "Le badge sert à entrer."
+    },
+    {
+     "label": "D",
+     "text": "Par téléphone.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Au moins » indique un minimum.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information précise",
+   "document": "H: Faute de neige, la petite station du Col Bleu ne rouvrira pas ses remontées mécaniques cet hiver. La commune veut désormais développer des activités toute l'année : VTT, randonnée et escalade. Les premiers aménagements seront prêts au printemps.",
+   "prompt": "Que veut faire la commune ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Fermer définitivement la station.",
+     "correct": false,
+     "rationale": "Elle change d'activité."
+    },
+    {
+     "label": "B",
+     "text": "Fabriquer de la neige artificielle.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Développer des activités toute l'année.",
+     "correct": true,
+     "rationale": "« développer des activités toute l'année »."
+    },
+    {
+     "label": "D",
+     "text": "Construire de nouvelles remontées.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Désormais » marque un changement de stratégie.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous êtes développeur de jeux vidéo. Les parents ont-ils raison de s'inquiéter ? / H: En partie. Le problème, ce n'est pas le jeu, c'est l'excès. Un jeu peut développer la logique et la coopération. Il faut simplement fixer des limites claires et jouer parfois avec ses enfants.",
+   "prompt": "Selon l'homme, quel est le problème ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les jeux vidéo eux-mêmes.",
+     "correct": false,
+     "rationale": "Il dit le contraire."
+    },
+    {
+     "label": "B",
+     "text": "L'excès de jeu.",
+     "correct": true,
+     "rationale": "« Le problème, ce n'est pas le jeu, c'est l'excès »."
+    },
+    {
+     "label": "C",
+     "text": "La logique.",
+     "correct": false,
+     "rationale": "C'est un bénéfice."
+    },
+    {
+     "label": "D",
+     "text": "Les parents qui jouent.",
+     "correct": false,
+     "rationale": "Il le conseille."
+    }
+   ],
+   "explanation": "« Ce n'est pas… c'est… » oppose deux idées.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-CA"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: L'école maternelle Jules-Verne propose dès la rentrée une initiation à l'anglais, deux fois vingt minutes par semaine, à travers des chansons et des jeux. L'activité est gratuite et ouverte à tous les enfants de moyenne et grande section.",
+   "prompt": "Comment se fait l'initiation à l'anglais ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Avec des chansons et des jeux.",
+     "correct": true,
+     "rationale": "« à travers des chansons et des jeux »."
+    },
+    {
+     "label": "B",
+     "text": "Avec des cours de deux heures.",
+     "correct": false,
+     "rationale": "Ce sont deux fois vingt minutes."
+    },
+    {
+     "label": "C",
+     "text": "Avec des livres de grammaire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Avec des écrans.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« À travers » indique le moyen.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "situation administrative",
+   "skill": "information précise",
+   "document": "F: Bonjour, ma téléconsultation sera-t-elle remboursée ? / H: Oui, au même taux qu'une consultation classique, si elle est réalisée par votre médecin traitant ou sur son orientation. Sinon, elle ne sera pas remboursée, sauf exceptions. / F: D'accord, merci.",
+   "prompt": "Dans quel cas la téléconsultation est-elle remboursée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Jamais.",
+     "correct": false,
+     "rationale": "Elle peut être remboursée."
+    },
+    {
+     "label": "B",
+     "text": "Seulement le week-end.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Dans tous les cas.",
+     "correct": false,
+     "rationale": "Il y a des conditions."
+    },
+    {
+     "label": "D",
+     "text": "Si elle passe par le médecin traitant.",
+     "correct": true,
+     "rationale": "« réalisée par votre médecin traitant ou sur son orientation »."
+    }
+   ],
+   "explanation": "« Sinon » introduit le cas contraire.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "conversation professionnelle",
+   "skill": "information précise",
+   "document": "H: Tu viens au bureau combien de jours par semaine maintenant ? / F: Deux jours. Le reste du temps, je travaille dans un coworking près de chez moi. Je gagne une heure de transport par jour. / H: Et l'entreprise paie ? / F: Oui, la moitié de l'abonnement.",
+   "prompt": "Combien l'entreprise paie-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La moitié de l'abonnement.",
+     "correct": true,
+     "rationale": "« Oui, la moitié de l'abonnement »."
+    },
+    {
+     "label": "B",
+     "text": "Rien.",
+     "correct": false,
+     "rationale": "Elle paie la moitié."
+    },
+    {
+     "label": "C",
+     "text": "Les transports.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Tout l'abonnement.",
+     "correct": false,
+     "rationale": "Seulement la moitié."
+    }
+   ],
+   "explanation": "Écoutez la réponse finale.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "F: La neige artificielle permet de sauver les stations et des milliers d'emplois. / H: À court terme, peut-être. Mais elle consomme énormément d'eau et d'énergie, alors que les sécheresses se multiplient. On repousse le problème au lieu d'anticiper la reconversion.",
+   "prompt": "Quelle critique l'homme adresse-t-il à la neige artificielle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle retarde une adaptation nécessaire.",
+     "correct": true,
+     "rationale": "« On repousse le problème au lieu d'anticiper »."
+    },
+    {
+     "label": "B",
+     "text": "Elle détruit des emplois.",
+     "correct": false,
+     "rationale": "La femme dit qu'elle en sauve."
+    },
+    {
+     "label": "C",
+     "text": "Elle n'est pas assez blanche.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Elle coûte trop cher aux skieurs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Au lieu de » oppose ce qu'on fait et ce qu'on devrait faire.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "H: Le marché du jeu vidéo pèse désormais plus que le cinéma et la musique réunis. En France, sept personnes sur dix jouent au moins occasionnellement, et l'âge moyen des joueurs dépasse quarante ans. Loin du cliché de l'adolescent isolé, le jeu vidéo est devenu une pratique culturelle de masse.",
+   "prompt": "Quelle idée principale ressort de ce reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les joueurs sont isolés.",
+     "correct": false,
+     "rationale": "C'est un cliché."
+    },
+    {
+     "label": "B",
+     "text": "Le jeu vidéo est devenu une pratique culturelle massive et variée.",
+     "correct": true,
+     "rationale": "C'est la conclusion du reportage."
+    },
+    {
+     "label": "C",
+     "text": "Le cinéma est plus important que le jeu vidéo.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "Seuls les adolescents jouent.",
+     "correct": false,
+     "rationale": "C'est un cliché contredit."
+    }
+   ],
+   "explanation": "« Loin du cliché » introduit l'idée principale.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous êtes médecin en zone rurale. La téléconsultation est-elle une solution aux déserts médicaux ? / H: C'est un outil précieux, mais ce n'est pas une solution miracle. On ne peut pas ausculter un patient par écran. Et beaucoup de personnes âgées n'ont pas de bonne connexion Internet.",
+   "prompt": "Quelle est l'opinion du médecin ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle est inutile.",
+     "correct": false,
+     "rationale": "Il la juge précieuse."
+    },
+    {
+     "label": "B",
+     "text": "Elle est réservée aux personnes âgées.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "La téléconsultation est utile mais limitée.",
+     "correct": true,
+     "rationale": "« outil précieux, mais pas une solution miracle »."
+    },
+    {
+     "label": "D",
+     "text": "Elle règle totalement le problème.",
+     "correct": false,
+     "rationale": "Il dit le contraire."
+    }
+   ],
+   "explanation": "« Pas une solution miracle » = pas une solution complète.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "message téléphonique",
+   "skill": "intention",
+   "document": "F: Bonjour Monsieur Lambert, ici la directrice de l'école. Votre fille a montré beaucoup d'intérêt pour l'atelier d'espagnol. Nous aimerions lui proposer de participer à un échange par visioconférence avec une classe de Séville. Pourriez-vous nous faire savoir si vous êtes d'accord ?",
+   "prompt": "Pourquoi la directrice appelle-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour obtenir l'accord du père pour un projet.",
+     "correct": true,
+     "rationale": "« Pourriez-vous nous faire savoir si vous êtes d'accord ? »."
+    },
+    {
+     "label": "B",
+     "text": "Pour annuler l'atelier d'espagnol.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Pour signaler un problème de comportement.",
+     "correct": false,
+     "rationale": "L'appel est positif."
+    },
+    {
+     "label": "D",
+     "text": "Pour proposer un voyage à Séville.",
+     "correct": false,
+     "rationale": "C'est un échange par visioconférence."
+    }
+   ],
+   "explanation": "L'objectif réel apparaît dans la dernière phrase.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "relation logique",
+   "document": "H: Pourquoi avoir ouvert un deuxième espace de coworking en banlieue ? / F: Nos clients ne veulent plus traverser la ville tous les jours. Comme beaucoup habitent en périphérie, on s'est rapprochés d'eux. D'ailleurs, le nouvel espace est déjà complet.",
+   "prompt": "Pourquoi l'entreprise a-t-elle ouvert un espace en banlieue ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour accueillir des touristes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Pour se rapprocher de clients vivant en périphérie.",
+     "correct": true,
+     "rationale": "« Comme beaucoup habitent en périphérie, on s'est rapprochés d'eux »."
+    },
+    {
+     "label": "C",
+     "text": "Parce que les loyers sont moins chers.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce que le premier espace a fermé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Comme » en début de phrase introduit la cause.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "H: Vous dirigez une étude sur l'apprentissage précoce des langues. Qu'avez-vous observé ? / F: Les enfants exposés tôt à une deuxième langue ont une meilleure prononciation. En revanche, ils n'apprennent pas forcément plus vite la grammaire que ceux qui commencent à dix ans. L'essentiel, c'est la régularité de l'exposition.",
+   "prompt": "Quel avantage de l'apprentissage précoce est observé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un meilleur niveau en mathématiques.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Une meilleure prononciation.",
+     "correct": true,
+     "rationale": "« ont une meilleure prononciation »."
+    },
+    {
+     "label": "C",
+     "text": "Aucun avantage.",
+     "correct": false,
+     "rationale": "La prononciation est meilleure."
+    },
+    {
+     "label": "D",
+     "text": "Une grammaire apprise plus vite.",
+     "correct": false,
+     "rationale": "Ce n'est pas forcément le cas."
+    }
+   ],
+   "explanation": "« En revanche » introduit une limite.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-BE"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Information aux usagers : en raison du risque d'avalanche, la route du col est fermée jusqu'à nouvel ordre. Les véhicules doivent emprunter la déviation par la vallée, qui rallonge le trajet d'environ quarante minutes. Les équipements spéciaux restent obligatoires.",
+   "prompt": "Que doivent faire les automobilistes ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Prendre le train.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Prendre la déviation par la vallée.",
+     "correct": true,
+     "rationale": "« doivent emprunter la déviation par la vallée »."
+    },
+    {
+     "label": "C",
+     "text": "Rouler sans équipement.",
+     "correct": false,
+     "rationale": "Les équipements restent obligatoires."
+    },
+    {
+     "label": "D",
+     "text": "Attendre l'ouverture de la route.",
+     "correct": false,
+     "rationale": "Elle est fermée jusqu'à nouvel ordre."
+    }
+   ],
+   "explanation": "« Jusqu'à nouvel ordre » = sans date de fin connue.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: Le nombre d'espaces de coworking a triplé en cinq ans dans les villes moyennes. Cette croissance s'explique par l'essor du télétravail, mais aussi par le besoin de lien social : beaucoup de télétravailleurs se sentaient isolés chez eux. Les communes rurales y voient un moyen d'attirer de nouveaux habitants.",
+   "prompt": "Selon le reportage, pourquoi les télétravailleurs vont-ils dans ces espaces ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que leur entreprise l'impose.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Pour rompre l'isolement.",
+     "correct": true,
+     "rationale": "« besoin de lien social… isolés chez eux »."
+    },
+    {
+     "label": "C",
+     "text": "Pour trouver un emploi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce que c'est gratuit.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Mais aussi » ajoute une deuxième cause.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "H: Il faudrait interdire les jeux vidéo aux moins de douze ans. / F: Interdire n'a jamais marché. Les enfants y joueront chez leurs amis. Je préfère qu'on renforce la classification par âge et qu'on aide les parents à utiliser le contrôle parental.",
+   "prompt": "Que propose la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Laisser les enfants jouer sans limite.",
+     "correct": false,
+     "rationale": "Elle propose un contrôle."
+    },
+    {
+     "label": "B",
+     "text": "Supprimer la classification par âge.",
+     "correct": false,
+     "rationale": "Elle veut la renforcer."
+    },
+    {
+     "label": "C",
+     "text": "Mieux informer et outiller les parents.",
+     "correct": true,
+     "rationale": "« renforce la classification… aide les parents »."
+    },
+    {
+     "label": "D",
+     "text": "Interdire les jeux aux moins de douze ans.",
+     "correct": false,
+     "rationale": "C'est la proposition de l'homme."
+    }
+   ],
+   "explanation": "« Je préfère que » introduit une proposition alternative.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous avez quitté Paris pour travailler depuis un village des Alpes. Des regrets ? / H: Aucun, sinon peut-être l'offre culturelle. Mais j'ai gagné en qualité de vie ce que j'ai perdu en sorties. Et grâce à la fibre, je travaille aussi efficacement qu'avant.",
+   "prompt": "Que regrette un peu l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Son travail.",
+     "correct": false,
+     "rationale": "Il travaille aussi efficacement."
+    },
+    {
+     "label": "B",
+     "text": "L'offre culturelle de Paris.",
+     "correct": true,
+     "rationale": "« sinon peut-être l'offre culturelle »."
+    },
+    {
+     "label": "C",
+     "text": "La qualité de vie.",
+     "correct": false,
+     "rationale": "Il a gagné en qualité de vie."
+    },
+    {
+     "label": "D",
+     "text": "Internet.",
+     "correct": false,
+     "rationale": "Il a la fibre."
+    }
+   ],
+   "explanation": "« Aucun, sinon… » = aucun, à l'exception de…",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "F: Selon un rapport de la Cour des comptes, plus de la moitié des stations de moyenne montagne ne seront plus rentables d'ici 2050 si elles continuent de dépendre du ski. Le rapport recommande de cesser de financer de nouvelles remontées mécaniques avec de l'argent public et d'accompagner plutôt la diversification des activités.",
+   "prompt": "Que recommande le rapport ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Fermer toutes les stations.",
+     "correct": false,
+     "rationale": "Il parle d'accompagner la diversification."
+    },
+    {
+     "label": "B",
+     "text": "Augmenter le prix des forfaits.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Construire plus de remontées.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "Arrêter de financer de nouvelles remontées avec de l'argent public.",
+     "correct": true,
+     "rationale": "« cesser de financer de nouvelles remontées… »."
+    }
+   ],
+   "explanation": "« Plutôt » introduit l'alternative recommandée.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "H: J'ai vu que tu avais posé ta candidature pour le poste de responsable. / F: Oui, mais je ne suis pas sûre d'avoir assez d'expérience. / H: Tu sais, ton projet sur les jeux éducatifs a beaucoup impressionné la direction. Je pense que tu as toutes tes chances.",
+   "prompt": "Quelle est l'intention de l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Critiquer son projet.",
+     "correct": false,
+     "rationale": "Il dit qu'il a impressionné."
+    },
+    {
+     "label": "B",
+     "text": "Encourager sa collègue.",
+     "correct": true,
+     "rationale": "« tu as toutes tes chances »."
+    },
+    {
+     "label": "C",
+     "text": "La décourager.",
+     "correct": false,
+     "rationale": "Il fait l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "Lui proposer un autre poste.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Avoir toutes ses chances » = pouvoir réussir.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "point de vue implicite",
+   "document": "F: On présente le coworking comme l'avenir du travail. / H: Pour les cadres du numérique, sans doute. Mais une caissière, un infirmier ou un maçon ne peuvent pas travailler depuis un espace partagé. À force de parler du télétravail, on oublie que la majorité des actifs n'y ont pas accès.",
+   "prompt": "Que reproche implicitement l'homme au discours sur le coworking ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il ignore la majorité des travailleurs.",
+     "correct": true,
+     "rationale": "« on oublie que la majorité des actifs n'y ont pas accès »."
+    },
+    {
+     "label": "B",
+     "text": "Il critique le numérique.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Il est trop pessimiste.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Il concerne surtout les maçons.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    }
+   ],
+   "explanation": "« À force de… on oublie » dénonce un angle mort.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "interview",
+   "skill": "nuance",
+   "document": "H: Les jeux vidéo rendent-ils violents ? / F: Les études les plus sérieuses ne montrent pas de lien direct entre jeux violents et comportements agressifs durables. Cela ne signifie pas pour autant que tous les contenus conviennent à tous les âges. Le débat mérite mieux que des positions caricaturales.",
+   "prompt": "Quelle est la position de la chercheuse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les jeux vidéo rendent violents.",
+     "correct": false,
+     "rationale": "Les études ne le montrent pas."
+    },
+    {
+     "label": "B",
+     "text": "Tous les jeux conviennent aux enfants.",
+     "correct": false,
+     "rationale": "Elle dit le contraire."
+    },
+    {
+     "label": "C",
+     "text": "Il ne faut pas étudier la question.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Pas de lien direct prouvé, mais des précautions restent utiles.",
+     "correct": true,
+     "rationale": "Elle nuance les deux côtés."
+    }
+   ],
+   "explanation": "« Cela ne signifie pas pour autant » : nuance une première affirmation.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: Alors que l'on s'attendait à une explosion de la téléconsultation après la crise sanitaire, son usage s'est stabilisé à environ 5 % des consultations. Les patients semblent attachés à la relation directe avec leur médecin, tandis que les praticiens jugent l'examen physique irremplaçable dans la plupart des cas.",
+   "prompt": "Comment le reportage explique-t-il la stabilisation de la téléconsultation ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Par son coût trop élevé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Par le manque de médecins.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Par l'attachement à la relation directe et à l'examen physique.",
+     "correct": true,
+     "rationale": "Deux explications sont données."
+    },
+    {
+     "label": "D",
+     "text": "Par une interdiction légale.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Tandis que » relie deux explications parallèles.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "Station du Mont-Clair – Forfait journée : 38 €. Enfants de moins de 6 ans : gratuit. Location de skis sur place à partir de 15 €. Ouvert tous les jours de 9 h à 16 h 30.",
+   "prompt": "Combien paie un enfant de 4 ans pour le forfait ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "16 €.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Rien.",
+     "correct": true,
+     "rationale": "« Enfants de moins de 6 ans : gratuit »."
+    },
+    {
+     "label": "C",
+     "text": "15 €.",
+     "correct": false,
+     "rationale": "C'est la location de skis."
+    },
+    {
+     "label": "D",
+     "text": "38 €.",
+     "correct": false,
+     "rationale": "C'est le prix adulte."
+    }
+   ],
+   "explanation": "Repérez les conditions d'âge."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Coucou Lucas ! Ce soir, on joue en ligne à 21 h avec Hugo et Sarah. Tu peux te connecter ? Le code de la partie est BLEU42. À ce soir ! Nina",
+   "prompt": "À quelle heure commence la partie ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À 20 h.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "À 22 h.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "À 21 h.",
+     "correct": true,
+     "rationale": "« on joue en ligne à 21 h »."
+    },
+    {
+     "label": "D",
+     "text": "À 21 h 42.",
+     "correct": false,
+     "rationale": "42 fait partie du code."
+    }
+   ],
+   "explanation": "Ne confondez pas l'heure et le code."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "affiche",
+   "skill": "information précise",
+   "document": "ESPACE DE COWORKING « LE CHALET » – Bureaux partagés, wifi rapide, café à volonté. Journée : 15 €. Mois : 180 €. Ouvert du lundi au vendredi, de 8 h à 20 h.",
+   "prompt": "Quand l'espace est-il fermé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le matin.",
+     "correct": false,
+     "rationale": "Il ouvre à 8 h."
+    },
+    {
+     "label": "B",
+     "text": "Le vendredi.",
+     "correct": false,
+     "rationale": "Il est ouvert."
+    },
+    {
+     "label": "C",
+     "text": "Le lundi.",
+     "correct": false,
+     "rationale": "Il est ouvert."
+    },
+    {
+     "label": "D",
+     "text": "Le week-end.",
+     "correct": true,
+     "rationale": "Ouvert du lundi au vendredi."
+    }
+   ],
+   "explanation": "Déduisez les jours de fermeture."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "courriel",
+   "skill": "information précise",
+   "document": "Bonjour Madame Roux, votre téléconsultation avec le Dr Martin est confirmée pour demain à 10 h 30. Vous recevrez un lien par SMS quinze minutes avant. Merci de préparer votre carte Vitale et la liste de vos médicaments. Cordialement, Le secrétariat.",
+   "prompt": "Que doit préparer Mme Roux ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une ordonnance.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Sa carte Vitale et la liste de ses médicaments.",
+     "correct": true,
+     "rationale": "« Merci de préparer votre carte Vitale et la liste de vos médicaments »."
+    },
+    {
+     "label": "C",
+     "text": "Une radiographie.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le lien de connexion.",
+     "correct": false,
+     "rationale": "Elle le recevra par SMS."
+    }
+   ],
+   "explanation": "« Merci de » formule une demande polie."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Dans les Pyrénées, une ancienne station de ski est devenue un centre de découverte de la montagne. Les remontées mécaniques ont été démontées et remplacées par des sentiers pédagogiques. Écoles et familles viennent y observer la faune et la flore toute l'année.",
+   "prompt": "De quoi parle l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "D'un accident de ski.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "De l'ouverture d'une nouvelle piste.",
+     "correct": false,
+     "rationale": "Les remontées ont été démontées."
+    },
+    {
+     "label": "C",
+     "text": "D'une école de ski.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "De la transformation d'une station de ski.",
+     "correct": true,
+     "rationale": "C'est le sujet."
+    }
+   ],
+   "explanation": "« Est devenue » indique une transformation."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, Monsieur, nous vous informons que votre enfant a été retenu pour la section bilingue français-allemand du collège. Pour confirmer son inscription, merci de nous retourner le formulaire ci-joint, signé, avant le 15 juin. Sans réponse de votre part, la place sera attribuée à un autre élève.",
+   "prompt": "Que se passera-t-il sans réponse avant le 15 juin ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La place sera donnée à un autre élève.",
+     "correct": true,
+     "rationale": "« la place sera attribuée à un autre élève »."
+    },
+    {
+     "label": "B",
+     "text": "L'enfant passera un test.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "L'enfant sera inscrit automatiquement.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "Les parents recevront un rappel.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Sans réponse de votre part » = si vous ne répondez pas."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "publicité",
+   "skill": "intention",
+   "document": "Vos enfants passent trop de temps devant les écrans ? Essayez « Famille Zen », l'application qui fixe des limites de temps et propose des activités sans écran : recettes, jeux de société, sorties nature. Premier mois offert !",
+   "prompt": "À qui s'adresse cette publicité ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Aux enfants.",
+     "correct": false,
+     "rationale": "Elle parle des enfants à quelqu'un d'autre."
+    },
+    {
+     "label": "B",
+     "text": "Aux parents.",
+     "correct": true,
+     "rationale": "« Vos enfants passent trop de temps… »."
+    },
+    {
+     "label": "C",
+     "text": "Aux enseignants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Aux développeurs de jeux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Le possessif « vos enfants » désigne le public visé."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "Chers collègues, à partir du 1er mars, chaque salarié pourra télétravailler jusqu'à trois jours par semaine. Les jours choisis doivent être validés par votre responsable et restent fixes pendant un trimestre. Le mardi reste un jour de présence obligatoire pour tous.",
+   "prompt": "Quel jour faut-il venir au bureau ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le vendredi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Trois jours au choix.",
+     "correct": false,
+     "rationale": "Ce sont les jours de télétravail possibles."
+    },
+    {
+     "label": "C",
+     "text": "Le lundi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le mardi.",
+     "correct": true,
+     "rationale": "« Le mardi reste un jour de présence obligatoire »."
+    }
+   ],
+   "explanation": "Repérez le mot « obligatoire »."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« J'ai commencé l'anglais à 35 ans, pour mon travail. Au début, j'avais honte de mon accent. Aujourd'hui, je fais des présentations devant des clients étrangers. Il n'est jamais trop tard pour apprendre une langue. » Malik, 41 ans.",
+   "prompt": "Quel message Malik veut-il transmettre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'accent est très important.",
+     "correct": false,
+     "rationale": "Ce n'est pas son message."
+    },
+    {
+     "label": "B",
+     "text": "Il faut commencer les langues très jeune.",
+     "correct": false,
+     "rationale": "Il dit le contraire."
+    },
+    {
+     "label": "C",
+     "text": "Il n'aime pas l'anglais.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "On peut apprendre une langue à tout âge.",
+     "correct": true,
+     "rationale": "« Il n'est jamais trop tard »."
+    }
+   ],
+   "explanation": "La dernière phrase résume souvent l'opinion."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Les stations de ski françaises ont connu une saison contrastée : si les domaines de haute altitude ont affiché complet, ceux situés sous 1 500 mètres ont dû fermer plusieurs semaines faute de neige. Les professionnels appellent à repenser le modèle économique de la montagne, trop dépendant d'une seule activité.",
+   "prompt": "Que demandent les professionnels ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Repenser un modèle trop dépendant du ski.",
+     "correct": true,
+     "rationale": "« repenser le modèle économique… trop dépendant d'une seule activité »."
+    },
+    {
+     "label": "B",
+     "text": "Augmenter la neige artificielle.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Construire des stations plus basses.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Fermer les stations de haute altitude.",
+     "correct": false,
+     "rationale": "Elles ont affiché complet."
+    }
+   ],
+   "explanation": "« Si… ceux… » introduit une opposition."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "On accuse volontiers les jeux vidéo de tous les maux : isolement, violence, échec scolaire. Pourtant, des hôpitaux les utilisent pour la rééducation, des enseignants pour motiver leurs élèves, et des chercheurs pour étudier la prise de décision. Il serait temps de porter sur ce média un regard plus juste.",
+   "prompt": "Quelle est l'intention de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Critiquer les hôpitaux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Interdire les jeux vidéo.",
+     "correct": false,
+     "rationale": "Il les défend."
+    },
+    {
+     "label": "C",
+     "text": "Vendre un jeu vidéo.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Défendre une vision plus équilibrée des jeux vidéo.",
+     "correct": true,
+     "rationale": "« porter sur ce média un regard plus juste »."
+    }
+   ],
+   "explanation": "« Pourtant » introduit des contre-exemples."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Bonjour à tous, notre projet d'espace partagé à la campagne a pris de l'ampleur : nous avons déjà trente demandes d'abonnement avant même l'ouverture. Nous allons devoir chercher des locaux plus grands. Bonne journée, Élise.",
+   "prompt": "Que signifie « a pris de l'ampleur » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "S'est développé.",
+     "correct": true,
+     "rationale": "Trente demandes avant l'ouverture."
+    },
+    {
+     "label": "B",
+     "text": "A échoué.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "A ralenti.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "A été annulé.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    }
+   ],
+   "explanation": "Le contexte (« plus grands ») éclaire le sens."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Une expérimentation menée dans vingt écoles montre que les élèves initiés à une langue étrangère dès quatre ans ont, à dix ans, une compréhension orale supérieure de 25 % à celle de leurs camarades. L'effet est en revanche nul sur l'écrit. Les chercheurs insistent sur la nécessité de former les enseignants.",
+   "prompt": "Sur quoi l'apprentissage précoce n'a-t-il aucun effet ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Sur l'écrit.",
+     "correct": true,
+     "rationale": "« L'effet est en revanche nul sur l'écrit »."
+    },
+    {
+     "label": "B",
+     "text": "Sur la formation des enseignants.",
+     "correct": false,
+     "rationale": "Ce n'est pas un effet mesuré."
+    },
+    {
+     "label": "C",
+     "text": "Sur la motivation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Sur la compréhension orale.",
+     "correct": false,
+     "rationale": "Elle progresse de 25 %."
+    }
+   ],
+   "explanation": "« En revanche » signale le contraste."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Monsieur, votre demande de télétravail à l'étranger pour une durée de deux mois a été examinée. Elle est acceptée à condition que vous restiez joignable aux horaires de l'entreprise (heure de Paris) et que vous ne travailliez pas depuis un pays hors de l'Union européenne, pour des raisons fiscales.",
+   "prompt": "Quelle condition est imposée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Travailler depuis un pays hors de l'UE.",
+     "correct": false,
+     "rationale": "C'est interdit."
+    },
+    {
+     "label": "B",
+     "text": "Choisir ses horaires librement.",
+     "correct": false,
+     "rationale": "Il faut suivre l'heure de Paris."
+    },
+    {
+     "label": "C",
+     "text": "Revenir chaque semaine.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Travailler depuis un pays de l'Union européenne.",
+     "correct": true,
+     "rationale": "« que vous ne travailliez pas depuis un pays hors de l'Union européenne »."
+    }
+   ],
+   "explanation": "Attention à la double négation « ne… pas… hors de »."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "La téléconsultation facilite l'accès aux soins dans les zones isolées. Encore faut-il disposer d'une connexion de qualité et savoir utiliser les outils numériques, ce qui est loin d'être le cas de tous les patients âgés. Ainsi, l'outil censé réduire les inégalités risque parfois de les renforcer.",
+   "prompt": "Quel rôle joue « Ainsi » dans le texte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il introduit un exemple.",
+     "correct": false,
+     "rationale": "Ce n'est pas un exemple."
+    },
+    {
+     "label": "B",
+     "text": "Il introduit une opposition.",
+     "correct": false,
+     "rationale": "Ce n'est pas une opposition."
+    },
+    {
+     "label": "C",
+     "text": "Il introduit une cause.",
+     "correct": false,
+     "rationale": "C'est une conclusion."
+    },
+    {
+     "label": "D",
+     "text": "Il introduit une conclusion.",
+     "correct": true,
+     "rationale": "Il tire la conséquence du raisonnement."
+    }
+   ],
+   "explanation": "« Ainsi » en tête de phrase conclut souvent un raisonnement."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "Fermer les stations de basse altitude serait une erreur, affirme le maire de Saint-Lary-Bas. Selon lui, la montagne peut vivre autrement grâce aux randonnées, au thermalisme et au tourisme d'été. « Ce n'est pas la fin de la montagne, c'est la fin d'un modèle », résume-t-il.",
+   "prompt": "Quelle est l'opinion du maire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faut fermer les stations.",
+     "correct": false,
+     "rationale": "Il dit que ce serait une erreur."
+    },
+    {
+     "label": "B",
+     "text": "La montagne doit changer de modèle, pas disparaître.",
+     "correct": true,
+     "rationale": "« c'est la fin d'un modèle »."
+    },
+    {
+     "label": "C",
+     "text": "Le tourisme d'été est inutile.",
+     "correct": false,
+     "rationale": "Il le cite comme solution."
+    },
+    {
+     "label": "D",
+     "text": "Le ski doit rester la seule activité.",
+     "correct": false,
+     "rationale": "Il propose d'autres activités."
+    }
+   ],
+   "explanation": "La citation finale résume la position."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "Le pictogramme PEGI indique l'âge minimum conseillé pour un jeu vidéo : 3, 7, 12, 16 ou 18 ans. Il ne prend pas en compte la difficulté du jeu, mais seulement son contenu (violence, langage, peur). Des descripteurs complémentaires précisent la nature des contenus sensibles.",
+   "prompt": "Que mesure le pictogramme PEGI ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'adéquation du contenu à l'âge.",
+     "correct": true,
+     "rationale": "« seulement son contenu »."
+    },
+    {
+     "label": "B",
+     "text": "La difficulté du jeu.",
+     "correct": false,
+     "rationale": "Il ne la prend pas en compte."
+    },
+    {
+     "label": "C",
+     "text": "La qualité du jeu.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le prix du jeu.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Ne… pas…, mais seulement » précise le critère."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« Mon patron dit que le télétravail favorise l'autonomie. Depuis que je travaille chez moi, il m'appelle quatre fois par jour pour savoir ce que je fais. » Romain, 38 ans.",
+   "prompt": "Que sous-entend Romain ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Son patron ne lui fait pas vraiment confiance.",
+     "correct": true,
+     "rationale": "Les appels contredisent le discours sur l'autonomie."
+    },
+    {
+     "label": "B",
+     "text": "Son patron est très disponible.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "C",
+     "text": "Il ne travaille pas chez lui.",
+     "correct": false,
+     "rationale": "Il travaille chez lui."
+    },
+    {
+     "label": "D",
+     "text": "Il aime être appelé souvent.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Le décalage entre discours et actes crée l'ironie."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Faut-il enseigner une langue étrangère dès la maternelle ? Ses partisans invoquent la plasticité du cerveau des jeunes enfants. Ses détracteurs rappellent que la maîtrise de la langue maternelle doit rester la priorité et que, sans enseignants formés, l'initiative risque de rester symbolique.",
+   "prompt": "Quel argument avancent les détracteurs ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le refus des parents.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Le manque d'enseignants formés.",
+     "correct": true,
+     "rationale": "« sans enseignants formés, l'initiative risque de rester symbolique »."
+    },
+    {
+     "label": "C",
+     "text": "Le coût des livres.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "La plasticité du cerveau.",
+     "correct": false,
+     "rationale": "C'est l'argument des partisans."
+    }
+   ],
+   "explanation": "« Détracteurs » = opposants."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Le gouvernement va financer l'installation de 300 cabines de téléconsultation dans des pharmacies rurales. Équipées d'outils connectés (tensiomètre, thermomètre, otoscope), elles permettront au médecin à distance de réaliser certains examens. Un pharmacien accompagnera chaque patient.",
+   "prompt": "Qui accompagnera les patients ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un médecin sur place.",
+     "correct": false,
+     "rationale": "Le médecin est à distance."
+    },
+    {
+     "label": "B",
+     "text": "Un pharmacien.",
+     "correct": true,
+     "rationale": "« Un pharmacien accompagnera chaque patient »."
+    },
+    {
+     "label": "C",
+     "text": "Un infirmier.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Personne.",
+     "correct": false,
+     "rationale": "Un pharmacien les accompagne."
+    }
+   ],
+   "explanation": "Lisez la dernière phrase pour les détails pratiques."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "thèse",
+   "document": "Le coworking est souvent présenté comme le remède à la solitude du télétravailleur. C'est confondre proximité physique et lien social. S'asseoir chaque jour à côté d'inconnus casque sur les oreilles ne crée pas une communauté ; seuls des projets partagés et des rituels collectifs le permettent.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le télétravail doit être interdit.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Être à côté des autres ne suffit pas à créer du lien.",
+     "correct": true,
+     "rationale": "« C'est confondre proximité physique et lien social »."
+    },
+    {
+     "label": "C",
+     "text": "Le coworking crée automatiquement une communauté.",
+     "correct": false,
+     "rationale": "Il conteste cette idée."
+    },
+    {
+     "label": "D",
+     "text": "Les casques devraient être interdits.",
+     "correct": false,
+     "rationale": "C'est un exemple."
+    }
+   ],
+   "explanation": "« C'est confondre » dénonce une erreur de raisonnement."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "information implicite",
+   "document": "La station de Valfroide a investi huit millions d'euros dans de nouveaux canons à neige. Le maire assure que l'investissement sera amorti en quinze ans. Les climatologues, eux, estiment qu'à cette altitude, l'enneigement naturel aura quasiment disparu dans dix ans.",
+   "prompt": "Que laisse entendre l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La neige va augmenter.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "B",
+     "text": "L'investissement risque de ne pas être rentable.",
+     "correct": true,
+     "rationale": "Quinze ans d'amortissement contre dix ans de neige."
+    },
+    {
+     "label": "C",
+     "text": "Les climatologues soutiennent le projet.",
+     "correct": false,
+     "rationale": "Leurs prévisions le contredisent."
+    },
+    {
+     "label": "D",
+     "text": "Le maire est climatologue.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La juxtaposition des chiffres crée une critique implicite."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "ton",
+   "document": "Voilà donc la solution aux déserts médicaux : un écran dans une pharmacie. Le patient de 85 ans, sans voiture et malentendant, appréciera certainement de décrire ses symptômes à un médecin pixelisé. Il serait peut-être plus utile de former et d'installer de vrais médecins.",
+   "prompt": "Quel est le ton de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Admiratif.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "B",
+     "text": "Neutre.",
+     "correct": false,
+     "rationale": "Le ton est critique."
+    },
+    {
+     "label": "C",
+     "text": "Enthousiaste.",
+     "correct": false,
+     "rationale": "Il critique la mesure."
+    },
+    {
+     "label": "D",
+     "text": "Sarcastique.",
+     "correct": true,
+     "rationale": "« appréciera certainement » exprime le contraire."
+    }
+   ],
+   "explanation": "L'antiphrase est une marque d'ironie."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "Bien que le jeu vidéo soit désormais reconnu comme une industrie culturelle, il peine à obtenir les mêmes aides publiques que le cinéma. Les studios indépendants, faute de financements, sont nombreux à s'installer au Canada, où les crédits d'impôt sont plus généreux.",
+   "prompt": "Pourquoi des studios s'installent-ils au Canada ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce qu'ils sont reconnus en France.",
+     "correct": false,
+     "rationale": "La reconnaissance ne suffit pas."
+    },
+    {
+     "label": "B",
+     "text": "Parce que le jeu vidéo y est interdit.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Parce que le cinéma y est moins développé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce que les aides fiscales y sont plus importantes.",
+     "correct": true,
+     "rationale": "« où les crédits d'impôt sont plus généreux »."
+    }
+   ],
+   "explanation": "« Faute de » exprime la cause par manque."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "reformulation",
+   "document": "Le salarié en télétravail bénéficie des mêmes droits que le salarié qui exécute son travail dans les locaux de l'entreprise, notamment en matière d'accès à la formation, de déroulement de carrière et de respect de sa vie privée. L'employeur est tenu de fixer les plages horaires durant lesquelles il peut le contacter.",
+   "prompt": "Quelle reformulation correspond au texte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'employeur peut l'appeler à tout moment.",
+     "correct": false,
+     "rationale": "Des plages horaires doivent être fixées."
+    },
+    {
+     "label": "B",
+     "text": "Le télétravailleur a les mêmes droits et des horaires de contact définis.",
+     "correct": true,
+     "rationale": "Les deux idées du texte."
+    },
+    {
+     "label": "C",
+     "text": "Le télétravailleur n'a pas accès à la formation.",
+     "correct": false,
+     "rationale": "Il y a accès."
+    },
+    {
+     "label": "D",
+     "text": "Le télétravailleur a moins de droits.",
+     "correct": false,
+     "rationale": "Il a les mêmes droits."
+    }
+   ],
+   "explanation": "« Être tenu de » = avoir l'obligation de."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "écrire un message",
+   "instructions": "Vous ne pouvez pas aller au cours de ski de votre enfant samedi. Vous écrivez un message au moniteur pour le prévenir et proposer une autre date (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Bonjour Monsieur Blanc, mon fils Théo ne pourra pas venir au cours de ski samedi matin, car nous partons voir sa grand-mère. Est-ce qu'il pourrait rattraper ce cours dimanche ou mercredi prochain ? Merci de me dire ce qui vous convient. Bonne journée, Claire Petit",
+   "tips": "« Car » permet de justifier simplement l'absence.",
+   "expected_points": [
+    "salutation",
+    "absence et raison",
+    "proposition de date",
+    "demande de réponse",
+    "formule finale"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "donner son avis sur une expérience",
+   "instructions": "Vous avez travaillé une semaine dans un espace de coworking. Vous écrivez un avis sur un site pour décrire votre expérience (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "J'ai passé une semaine au Chalet, un espace de coworking près de la gare. Les locaux sont lumineux, le wifi est rapide et le café est excellent. J'ai surtout apprécié l'ambiance : on échange facilement avec les autres travailleurs, et j'ai même trouvé un nouveau client ! Seul petit bémol, l'espace est un peu bruyant à l'heure du déjeuner. Je le recommande à tous les indépendants qui se sentent seuls chez eux.",
+   "tips": "« Seul petit bémol » permet d'introduire une critique légère.",
+   "expected_points": [
+    "présentation du lieu",
+    "points positifs",
+    "point négatif",
+    "recommandation"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "argumenter sur un sujet de société",
+   "instructions": "« Il faudrait limiter par la loi le temps que les enfants passent devant les jeux vidéo. » Vous réagissez à cette proposition dans le courrier des lecteurs d'un magazine (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Je comprends l'inquiétude des parents, mais une loi me paraît inapplicable. Comment l'État pourrait-il contrôler ce qui se passe dans chaque foyer ? À mon avis, la responsabilité revient d'abord aux familles, qui disposent déjà d'outils de contrôle parental. Par ailleurs, l'école pourrait sensibiliser les enfants aux risques de l'excès. Plutôt que d'interdire, il vaut mieux éduquer : un enfant qui comprend pourquoi il doit limiter son temps de jeu le fera plus volontiers.",
+   "tips": "Une question rhétorique (« Comment l'État pourrait-il… ? ») renforce l'argument.",
+   "expected_points": [
+    "concession",
+    "objection argumentée",
+    "alternative",
+    "conclusion"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous pose des questions sur votre travail, vos loisirs et les langues que vous parlez.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Quelles langues parlez-vous ?",
+    "À quel âge avez-vous commencé le français ?",
+    "Jouez-vous aux jeux vidéo ?",
+    "Préférez-vous travailler chez vous ou au bureau ?",
+    "Aimez-vous la montagne ?",
+    "Avez-vous déjà fait une téléconsultation ?"
+   ],
+   "useful_phrases": [
+    "Je parle… couramment",
+    "J'ai commencé à… ans",
+    "Je préfère… parce que…",
+    "Ça m'est arrivé de…",
+    "Je n'ai jamais…"
+   ],
+   "model_answer": "Je parle arabe, ma langue maternelle, et anglais couramment. J'ai commencé le français à quinze ans, au lycée. Je ne joue pas beaucoup aux jeux vidéo, sauf parfois avec mes neveux. Je préfère travailler au bureau, parce que j'aime voir mes collègues. J'adore la montagne en été pour la randonnée. J'ai déjà fait une téléconsultation pour une angine, c'était pratique."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Convaincre un interlocuteur",
+   "examiner_role": "Responsable des ressources humaines",
+   "scenario": "Vous souhaitez télétravailler trois jours par semaine. L'examinateur joue le rôle de la responsable des ressources humaines, plutôt réticente. Présentez votre demande et convainquez-la.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Bonjour, je vous écoute.",
+    "Pourquoi trois jours ?",
+    "Votre équipe a besoin de vous.",
+    "Comment pourrons-nous suivre votre travail ?",
+    "Les autres salariés vont demander la même chose.",
+    "Que proposez-vous ?"
+   ],
+   "useful_phrases": [
+    "Je souhaiterais vous proposer…",
+    "Cela me permettrait de…",
+    "Je m'engage à…",
+    "Nous pourrions faire un essai de…",
+    "Si cela ne convient pas, nous…"
+   ],
+   "model_answer": "Bonjour, je souhaiterais télétravailler trois jours par semaine. J'habite à une heure et demie du bureau : cela me permettrait de gagner trois heures par jour et d'être plus concentré. Je m'engage à rester joignable aux horaires habituels et à venir chaque mardi et jeudi pour les réunions d'équipe. Nous pourrions faire un essai de trois mois avec des objectifs précis. Si les résultats ne sont pas satisfaisants, je reviendrai au rythme actuel."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "La montagne doit-elle renoncer au ski ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion : « Face au réchauffement climatique, les stations de ski doivent-elles se réinventer ? » Argumentez, donnez des exemples, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Quelle est votre position ?",
+    "Quelles conséquences économiques ?",
+    "Que penser de la neige artificielle ?",
+    "Quelles activités alternatives ?",
+    "Votre conclusion ?"
+   ],
+   "useful_phrases": [
+    "Il me semble indispensable de…",
+    "Certes… néanmoins…",
+    "Prenons l'exemple de…",
+    "À long terme…",
+    "Pour conclure…"
+   ],
+   "model_answer": "Il me semble indispensable que les stations se réinventent. Certes, le ski fait vivre des milliers de familles et on ne peut pas l'abandonner du jour au lendemain. Néanmoins, la neige artificielle consomme beaucoup d'eau et ne règle pas le problème à long terme. Prenons l'exemple de certaines stations des Alpes qui développent déjà le VTT, la randonnée ou le bien-être. Pour conclure, je pense qu'il faut accompagner une transition progressive, avec l'aide de l'État."
+  }
+ ]
+}

@@ -1,0 +1,1975 @@
+{
+ "code": "EXAM-15",
+ "title": "Examen blanc n° 15 – Tourisme, lecture et bien-être étudiant",
+ "level": "B2",
+ "description": "Examen complet calibré B1–B2 : surtourisme, lecture chez les jeunes, livraison à vélo, santé mentale des étudiants, monnaies locales.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "F: Bonjour, ici la librairie Les Mots Passants. Le livre que vous avez commandé est arrivé. Vous pouvez venir le chercher jusqu'à samedi. Nous sommes ouverts de 10 heures à 19 heures.",
+   "prompt": "Jusqu'à quand peut-on aller chercher le livre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Jusqu'à dimanche.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Jusqu'à samedi.",
+     "correct": true,
+     "rationale": "« Vous pouvez venir le chercher jusqu'à samedi »."
+    },
+    {
+     "label": "C",
+     "text": "Aujourd'hui seulement.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Jusqu'à 10 heures.",
+     "correct": false,
+     "rationale": "C'est l'heure d'ouverture."
+    }
+   ],
+   "explanation": "« Jusqu'à » indique une limite dans le temps.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Mesdames et messieurs, en raison de la forte affluence, l'accès au belvédère est limité à cinquante personnes à la fois. Merci de patienter dans la file d'attente. Le temps d'attente est d'environ vingt minutes.",
+   "prompt": "Combien de temps faut-il attendre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Cinquante minutes.",
+     "correct": false,
+     "rationale": "Cinquante est le nombre de personnes."
+    },
+    {
+     "label": "B",
+     "text": "Cinq minutes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Environ vingt minutes.",
+     "correct": true,
+     "rationale": "« Le temps d'attente est d'environ vingt minutes »."
+    },
+    {
+     "label": "D",
+     "text": "Une heure.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Ne confondez pas les chiffres.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "H: Tu as commandé une pizza ? / F: Oui, elle arrive à vélo dans quinze minutes. / H: Encore ? On en a mangé hier ! / F: C'est mon anniversaire, j'ai le droit !",
+   "prompt": "Comment la pizza va-t-elle être livrée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À vélo.",
+     "correct": true,
+     "rationale": "« elle arrive à vélo »."
+    },
+    {
+     "label": "B",
+     "text": "À pied.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "À scooter.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "En voiture.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Repérez le moyen de transport.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "F: Je suis épuisée, je dors mal depuis le début des examens. / H: Tu sais que l'université a un service d'écoute psychologique gratuit ? Tu pourrais prendre rendez-vous. Ça m'a beaucoup aidé l'an dernier.",
+   "prompt": "Que propose l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Réviser davantage.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Consulter le service psychologique de l'université.",
+     "correct": true,
+     "rationale": "« Tu pourrais prendre rendez-vous »."
+    },
+    {
+     "label": "C",
+     "text": "Prendre des somnifères.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Arrêter ses études.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Le conditionnel « pourrais » formule une suggestion.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "H: Bonjour Madame Morel, ici la mairie. Votre demande pour accepter la monnaie locale « l'Abeille » dans votre boulangerie est validée. Vous recevrez le kit de communication la semaine prochaine : un autocollant pour la vitrine et des affichettes pour le comptoir.",
+   "prompt": "Que contient le kit ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une caisse enregistreuse.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Des billets de monnaie locale.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Un autocollant et des affichettes.",
+     "correct": true,
+     "rationale": "« un autocollant pour la vitrine et des affichettes »."
+    },
+    {
+     "label": "D",
+     "text": "Un contrat.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Les deux-points annoncent une énumération.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information précise",
+   "document": "F: Pour lutter contre la foule, le site des calanques limitera l'accès à 400 visiteurs par jour cet été. La réservation sera obligatoire et gratuite sur Internet. Les habitants des communes voisines pourront venir sans réserver.",
+   "prompt": "Qui pourra venir sans réserver ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les 400 premiers visiteurs.",
+     "correct": false,
+     "rationale": "Ils doivent réserver."
+    },
+    {
+     "label": "B",
+     "text": "Les touristes étrangers.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les habitants des communes voisines.",
+     "correct": true,
+     "rationale": "« pourront venir sans réserver »."
+    },
+    {
+     "label": "D",
+     "text": "Tous les visiteurs.",
+     "correct": false,
+     "rationale": "La réservation est obligatoire."
+    }
+   ],
+   "explanation": "Repérez l'exception à la règle.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Vous êtes livreuse à vélo cargo. Ce métier vous plaît ? / F: J'adore être dehors et faire du sport en travaillant. Le plus dur, c'est la pluie en hiver et les automobilistes qui ne respectent pas les pistes cyclables. Mais je ne retournerais pas dans un bureau.",
+   "prompt": "Qu'est-ce qui est difficile pour la livreuse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La pluie et le comportement des automobilistes.",
+     "correct": true,
+     "rationale": "« la pluie en hiver et les automobilistes… »."
+    },
+    {
+     "label": "B",
+     "text": "Le sport.",
+     "correct": false,
+     "rationale": "Elle aime faire du sport."
+    },
+    {
+     "label": "C",
+     "text": "Être dehors.",
+     "correct": false,
+     "rationale": "Elle adore ça."
+    },
+    {
+     "label": "D",
+     "text": "Le travail de bureau.",
+     "correct": false,
+     "rationale": "Elle n'y travaille pas."
+    }
+   ],
+   "explanation": "« Le plus dur, c'est » annonce les difficultés.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Le prix littéraire des lycéens ouvre ses inscriptions. Les classes participantes liront cinq romans entre octobre et mars, puis voteront pour leur préféré. L'auteur gagnant viendra rencontrer les élèves en mai.",
+   "prompt": "Que se passera-t-il en mai ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les élèves voteront.",
+     "correct": false,
+     "rationale": "Le vote a lieu en mars."
+    },
+    {
+     "label": "B",
+     "text": "L'auteur gagnant rencontrera les élèves.",
+     "correct": true,
+     "rationale": "« L'auteur gagnant viendra rencontrer les élèves en mai »."
+    },
+    {
+     "label": "C",
+     "text": "Les élèves commenceront à lire.",
+     "correct": false,
+     "rationale": "Ils commencent en octobre."
+    },
+    {
+     "label": "D",
+     "text": "Les inscriptions ouvriront.",
+     "correct": false,
+     "rationale": "Elles ouvrent maintenant."
+    }
+   ],
+   "explanation": "Associez chaque mois à une étape.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "situation administrative",
+   "skill": "information précise",
+   "document": "F: Bonjour, je suis étudiante et j'ai du mal à payer mes séances chez une psychologue. / H: Il existe un dispositif national : vous pouvez bénéficier de huit séances gratuites par an avec un psychologue partenaire. Il suffit de passer d'abord par le service de santé de votre université.",
+   "prompt": "Combien de séances gratuites l'étudiante peut-elle avoir ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Autant qu'elle veut.",
+     "correct": false,
+     "rationale": "C'est limité."
+    },
+    {
+     "label": "B",
+     "text": "Une par mois.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Deux par an.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Huit par an.",
+     "correct": true,
+     "rationale": "« huit séances gratuites par an »."
+    }
+   ],
+   "explanation": "Repérez la quantité et la période.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "conversation professionnelle",
+   "skill": "information précise",
+   "document": "H: On remplace la camionnette de livraison par des vélos cargos ? / F: Pour le centre-ville, oui. Ils passent partout et on n'a plus de problèmes de stationnement. Mais pour les gros colis, on garde la camionnette. / H: D'accord, on commence par deux vélos.",
+   "prompt": "Pour quoi garde-t-on la camionnette ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour les problèmes de stationnement.",
+     "correct": false,
+     "rationale": "Les vélos évitent ce problème."
+    },
+    {
+     "label": "B",
+     "text": "Pour les livraisons de nuit.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Pour les gros colis.",
+     "correct": true,
+     "rationale": "« pour les gros colis, on garde la camionnette »."
+    },
+    {
+     "label": "D",
+     "text": "Pour le centre-ville.",
+     "correct": false,
+     "rationale": "C'est pour les vélos cargos."
+    }
+   ],
+   "explanation": "« Mais » introduit une restriction.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "F: Il faudrait taxer davantage les touristes dans les villes saturées comme Venise ou Barcelone. / H: Une taxe ne fera pas venir moins de monde, les touristes paieront et viendront quand même. Il vaut mieux limiter le nombre de bateaux de croisière et de logements touristiques.",
+   "prompt": "Que propose l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Interdire tout tourisme.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Construire plus d'hôtels.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "Limiter les croisières et les logements touristiques.",
+     "correct": true,
+     "rationale": "« limiter le nombre de bateaux de croisière et de logements touristiques »."
+    },
+    {
+     "label": "D",
+     "text": "Augmenter la taxe touristique.",
+     "correct": false,
+     "rationale": "Il pense que ce n'est pas efficace."
+    }
+   ],
+   "explanation": "« Il vaut mieux » introduit une alternative préférée.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "H: Contrairement aux idées reçues, les adolescents n'ont pas abandonné la lecture. Les ventes de mangas et de romans pour jeunes adultes explosent, portées notamment par les recommandations sur les réseaux sociaux. En revanche, la lecture de classiques et de journaux continue de reculer.",
+   "prompt": "Quelle est l'idée principale ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les réseaux sociaux empêchent la lecture.",
+     "correct": false,
+     "rationale": "Ils la favorisent."
+    },
+    {
+     "label": "B",
+     "text": "Les adolescents ne lisent plus.",
+     "correct": false,
+     "rationale": "C'est une idée reçue contredite."
+    },
+    {
+     "label": "C",
+     "text": "Les adolescents lisent toujours, mais d'autres genres.",
+     "correct": true,
+     "rationale": "Mangas et romans progressent, classiques reculent."
+    },
+    {
+     "label": "D",
+     "text": "Les journaux se vendent mieux.",
+     "correct": false,
+     "rationale": "Ils reculent."
+    }
+   ],
+   "explanation": "« Contrairement aux idées reçues » annonce une correction.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous êtes psychiatre. La santé mentale des étudiants s'est-elle dégradée ? / H: Oui, nettement. La précarité financière, l'isolement et la pression des résultats forment un cocktail explosif. Mais il y a aussi une bonne nouvelle : les jeunes osent davantage en parler et demander de l'aide.",
+   "prompt": "Quelle « bonne nouvelle » le psychiatre mentionne-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La précarité a disparu.",
+     "correct": false,
+     "rationale": "C'est une cause du problème."
+    },
+    {
+     "label": "B",
+     "text": "Il y a plus de psychiatres.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les résultats sont meilleurs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les jeunes parlent plus facilement de leurs difficultés.",
+     "correct": true,
+     "rationale": "« les jeunes osent davantage en parler »."
+    }
+   ],
+   "explanation": "« Mais il y a aussi » introduit un élément positif.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "message téléphonique",
+   "skill": "intention",
+   "document": "H: Bonjour, ici l'agence Voyages Autrement. Suite à votre demande, nous vous déconseillons de visiter Dubrovnik en août : la ville est envahie de croisiéristes. Nous vous proposons plutôt les îles moins connues du sud de la Croatie, tout aussi belles et beaucoup plus calmes. Rappelez-nous pour en discuter.",
+   "prompt": "Que fait l'agence ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle propose une destination alternative.",
+     "correct": true,
+     "rationale": "« Nous vous proposons plutôt les îles moins connues »."
+    },
+    {
+     "label": "B",
+     "text": "Elle propose une croisière.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Elle annule le voyage.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Elle confirme le voyage à Dubrovnik.",
+     "correct": false,
+     "rationale": "Elle le déconseille."
+    }
+   ],
+   "explanation": "« Déconseiller » = conseiller de ne pas faire.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "relation logique",
+   "document": "F: Pourquoi la monnaie locale marche-t-elle mieux chez nous que dans la ville voisine ? / H: Parce qu'ici, la mairie accepte la monnaie locale pour payer la cantine et la piscine. Du coup, les habitants ont une vraie raison de l'utiliser au quotidien.",
+   "prompt": "Pourquoi la monnaie locale fonctionne-t-elle bien ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que la ville voisine l'interdit.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Parce qu'elle sert aussi à payer des services municipaux.",
+     "correct": true,
+     "rationale": "« la mairie accepte la monnaie locale… »."
+    },
+    {
+     "label": "C",
+     "text": "Parce qu'elle est obligatoire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce qu'elle est plus forte que l'euro.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Du coup » introduit une conséquence (registre courant).",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "H: Vous avez ouvert une librairie dans un village de 800 habitants. Comment tenez-vous ? / F: La librairie est aussi un café et un point relais pour les colis. Le soir, nous organisons des lectures et des ateliers d'écriture. Sans ces activités, nous ne pourrions pas vivre de la seule vente de livres.",
+   "prompt": "Comment la librairie arrive-t-elle à vivre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Grâce à la seule vente de livres.",
+     "correct": false,
+     "rationale": "Ce ne serait pas suffisant."
+    },
+    {
+     "label": "B",
+     "text": "Grâce aux touristes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Grâce à des activités complémentaires.",
+     "correct": true,
+     "rationale": "Café, point relais, ateliers."
+    },
+    {
+     "label": "D",
+     "text": "Grâce aux subventions.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Sans ces activités, nous ne pourrions pas » : hypothèse négative.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Information aux visiteurs : à partir du 1er juillet, l'entrée du centre historique sera payante pour les visiteurs à la journée, le samedi et le dimanche. Le tarif est fixé à 5 euros. Les personnes qui dorment dans un hébergement de la ville, les résidents et les moins de 14 ans sont exemptés.",
+   "prompt": "Qui doit payer l'entrée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les moins de 14 ans.",
+     "correct": false,
+     "rationale": "Ils sont exemptés."
+    },
+    {
+     "label": "B",
+     "text": "Les visiteurs à la journée le week-end.",
+     "correct": true,
+     "rationale": "« payante pour les visiteurs à la journée, le samedi et le dimanche »."
+    },
+    {
+     "label": "C",
+     "text": "Les résidents.",
+     "correct": false,
+     "rationale": "Ils sont exemptés."
+    },
+    {
+     "label": "D",
+     "text": "Les clients des hôtels de la ville.",
+     "correct": false,
+     "rationale": "Ils sont exemptés."
+    }
+   ],
+   "explanation": "« Être exempté » = ne pas être soumis à une obligation.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: Le nombre de livreurs à vélo a été multiplié par cinq en cinq ans dans les grandes villes. Si ce mode de livraison réduit la pollution, il soulève aussi des questions sociales : la plupart des livreurs sont auto-entrepreneurs, sans congés payés ni protection en cas d'accident.",
+   "prompt": "Quelles questions soulève ce mode de livraison ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Des questions de vitesse.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Des questions de protection sociale des livreurs.",
+     "correct": true,
+     "rationale": "« sans congés payés ni protection en cas d'accident »."
+    },
+    {
+     "label": "C",
+     "text": "Des questions de pollution.",
+     "correct": false,
+     "rationale": "Il la réduit."
+    },
+    {
+     "label": "D",
+     "text": "Des questions de prix des vélos.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Si… il soulève aussi » = bien que… il soulève.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "H: Obliger les lycéens à lire des classiques, ça les dégoûte de la lecture. / F: Je ne crois pas. Sans l'école, la plupart ne découvriraient jamais Victor Hugo ou Maupassant. Le problème, c'est la manière : on pourrait leur laisser choisir parmi une liste plus large.",
+   "prompt": "Selon la femme, où est le problème ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dans l'école.",
+     "correct": false,
+     "rationale": "Elle défend son rôle."
+    },
+    {
+     "label": "B",
+     "text": "Dans la manière d'enseigner les classiques.",
+     "correct": true,
+     "rationale": "« Le problème, c'est la manière »."
+    },
+    {
+     "label": "C",
+     "text": "Dans les classiques eux-mêmes.",
+     "correct": false,
+     "rationale": "Elle les défend."
+    },
+    {
+     "label": "D",
+     "text": "Dans la lecture en général.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Le problème, c'est » recentre le débat.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Pourquoi avoir créé une ligne d'écoute tenue par des étudiants pour des étudiants ? / H: Parce qu'on se confie plus facilement à quelqu'un de son âge. Attention, nous ne remplaçons pas les professionnels : nous écoutons et, si nécessaire, nous orientons vers un psychologue.",
+   "prompt": "Que précise l'homme sur le rôle des bénévoles ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils écoutent et orientent, sans remplacer les professionnels.",
+     "correct": true,
+     "rationale": "« nous ne remplaçons pas les professionnels »."
+    },
+    {
+     "label": "B",
+     "text": "Ils sont psychologues.",
+     "correct": false,
+     "rationale": "Ce sont des étudiants."
+    },
+    {
+     "label": "C",
+     "text": "Ils soignent les étudiants.",
+     "correct": false,
+     "rationale": "Ils ne remplacent pas les professionnels."
+    },
+    {
+     "label": "D",
+     "text": "Ils donnent des médicaments.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Attention » introduit une précision importante.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-CH"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "F: Amsterdam a décidé de plafonner à vingt millions le nombre de nuitées touristiques par an. Au-delà, la ville cessera de délivrer de nouveaux permis pour les hôtels et limitera davantage les locations de courte durée. La municipalité dit vouloir préserver la qualité de vie des habitants plutôt que maximiser les recettes touristiques.",
+   "prompt": "Que fera la ville si le plafond est dépassé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle interdira les touristes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Elle augmentera la taxe touristique.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Elle cessera de délivrer de nouveaux permis d'hôtels.",
+     "correct": true,
+     "rationale": "« cessera de délivrer de nouveaux permis pour les hôtels »."
+    },
+    {
+     "label": "D",
+     "text": "Elle fermera les musées.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Plafonner » = fixer une limite maximale.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "H: Je voulais te prévenir : plusieurs étudiants m'ont dit qu'ils trouvaient tes partiels trop longs. / F: Ah bon ? Je pensais qu'ils étaient bien calibrés. / H: Ce n'est pas une critique. Peut-être pourrais-tu en parler avec eux au prochain cours ?",
+   "prompt": "Quelle est l'intention de l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Se plaindre des étudiants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Critiquer violemment sa collègue.",
+     "correct": false,
+     "rationale": "Il prend des précautions."
+    },
+    {
+     "label": "C",
+     "text": "Transmettre un retour avec tact.",
+     "correct": true,
+     "rationale": "« Ce n'est pas une critique… Peut-être pourrais-tu… »."
+    },
+    {
+     "label": "D",
+     "text": "Annuler les partiels.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Les formules de précaution adoucissent un message délicat.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "point de vue implicite",
+   "document": "F: Les monnaies locales sont une belle idée pour soutenir les commerces de proximité. / H: Une belle idée, certes. Mais leur circulation reste confidentielle, souvent moins de 1 % des achats d'une ville. On peut se demander si l'énergie dépensée par les bénévoles ne serait pas plus utile ailleurs.",
+   "prompt": "Que suggère l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les monnaies locales sont très utilisées.",
+     "correct": false,
+     "rationale": "Moins de 1 %."
+    },
+    {
+     "label": "B",
+     "text": "Les bénévoles devraient être payés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Il faut les rendre obligatoires.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "L'efficacité des monnaies locales est limitée.",
+     "correct": true,
+     "rationale": "« circulation reste confidentielle »."
+    }
+   ],
+   "explanation": "« On peut se demander si » formule une critique prudente.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "interview",
+   "skill": "nuance",
+   "document": "H: Les réseaux sociaux font-ils lire les jeunes ? / F: Ils créent indéniablement un engouement pour certains livres. Mais cet engouement se concentre sur une poignée de titres, toujours les mêmes. On lit davantage, peut-être, mais on lit moins varié. C'est une démocratisation en trompe-l'œil.",
+   "prompt": "Quelle est la position de la spécialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les réseaux sociaux augmentent la lecture mais réduisent sa diversité.",
+     "correct": true,
+     "rationale": "« on lit moins varié »."
+    },
+    {
+     "label": "B",
+     "text": "La lecture est totalement démocratisée.",
+     "correct": false,
+     "rationale": "« en trompe-l'œil »."
+    },
+    {
+     "label": "C",
+     "text": "Les réseaux sociaux empêchent de lire.",
+     "correct": false,
+     "rationale": "Ils créent un engouement."
+    },
+    {
+     "label": "D",
+     "text": "Les jeunes lisent des livres très variés.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    }
+   ],
+   "explanation": "« En trompe-l'œil » = qui donne une fausse impression.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: Les étudiants qui travaillent plus de quinze heures par semaine ont deux fois plus de risques d'échouer à leurs examens. Or, faute de bourses suffisantes, près de la moitié d'entre eux sont contraints d'avoir un emploi. C'est donc tout le système d'aides qui mériterait d'être repensé.",
+   "prompt": "Quelle conclusion est tirée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les étudiants ne devraient jamais travailler.",
+     "correct": false,
+     "rationale": "Ce n'est pas la conclusion."
+    },
+    {
+     "label": "B",
+     "text": "Les examens sont trop difficiles.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Le système d'aides aux étudiants doit être repensé.",
+     "correct": true,
+     "rationale": "« C'est donc tout le système d'aides… »."
+    },
+    {
+     "label": "D",
+     "text": "Les bourses sont trop élevées.",
+     "correct": false,
+     "rationale": "Elles sont insuffisantes."
+    }
+   ],
+   "explanation": "« Or » introduit un fait décisif, « donc » la conclusion.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "LIVRES D'OCCASION – Grande braderie de la bibliothèque. Samedi 9 h – 17 h, hall de la mairie. Romans : 1 €. Livres pour enfants : 0,50 €. Bandes dessinées : 2 €.",
+   "prompt": "Combien coûte une bande dessinée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "0,50 €.",
+     "correct": false,
+     "rationale": "C'est le prix d'un livre pour enfants."
+    },
+    {
+     "label": "B",
+     "text": "1 €.",
+     "correct": false,
+     "rationale": "C'est le prix d'un roman."
+    },
+    {
+     "label": "C",
+     "text": "2 €.",
+     "correct": true,
+     "rationale": "« Bandes dessinées : 2 € »."
+    },
+    {
+     "label": "D",
+     "text": "9 €.",
+     "correct": false,
+     "rationale": "9 h est l'heure d'ouverture."
+    }
+   ],
+   "explanation": "Associez chaque prix à son article."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Salut Tom ! Le livreur est passé, mais tu n'étais pas là. Ton colis est chez moi, appartement 3. Je suis là ce soir après 18 h. À plus ! Inès",
+   "prompt": "Où est le colis de Tom ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Chez le livreur.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Devant sa porte.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Au bureau de poste.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Chez Inès.",
+     "correct": true,
+     "rationale": "« Ton colis est chez moi »."
+    }
+   ],
+   "explanation": "« Chez moi » renvoie à l'auteure du message."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "affiche",
+   "skill": "information précise",
+   "document": "CAFÉ-ÉCOUTE ÉTUDIANT – Tu te sens stressé ou seul ? Viens parler avec nous autour d'un thé. Tous les jeudis, 18 h – 20 h, Maison des étudiants. Anonyme et gratuit.",
+   "prompt": "Quand a lieu le café-écoute ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Tous les jours.",
+     "correct": false,
+     "rationale": "Seulement le jeudi."
+    },
+    {
+     "label": "B",
+     "text": "Le jeudi matin.",
+     "correct": false,
+     "rationale": "C'est le soir."
+    },
+    {
+     "label": "C",
+     "text": "Le samedi matin.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le jeudi soir.",
+     "correct": true,
+     "rationale": "« Tous les jeudis, 18 h – 20 h »."
+    }
+   ],
+   "explanation": "Repérez le jour et l'heure."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "courriel",
+   "skill": "information précise",
+   "document": "Bonjour Madame Klein, merci pour votre réservation. Pour préserver le site, l'accès au parc naturel se fait uniquement par créneau de deux heures. Votre créneau : samedi 10 h – 12 h. Le parking étant limité, nous vous recommandons de venir en navette depuis la gare. Bonne visite !",
+   "prompt": "Pourquoi recommande-t-on la navette ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que le parking est limité.",
+     "correct": true,
+     "rationale": "« Le parking étant limité »."
+    },
+    {
+     "label": "B",
+     "text": "Parce que la navette est gratuite.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Parce que le créneau dure deux heures.",
+     "correct": false,
+     "rationale": "Ce n'est pas la raison."
+    },
+    {
+     "label": "D",
+     "text": "Parce que la gare est fermée.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Le participe présent « étant » exprime ici la cause."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "À Bayonne, l'eusko, une monnaie locale créée il y a dix ans, est aujourd'hui acceptée par plus de 1 000 commerces et associations. Un eusko vaut un euro. L'objectif : faire circuler l'argent dans l'économie locale plutôt que dans les grandes chaînes internationales.",
+   "prompt": "Quel est l'objectif de l'eusko ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Financer les grandes chaînes.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "B",
+     "text": "Favoriser l'économie locale.",
+     "correct": true,
+     "rationale": "« faire circuler l'argent dans l'économie locale »."
+    },
+    {
+     "label": "C",
+     "text": "Attirer les touristes étrangers.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Remplacer l'euro dans toute la France.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« L'objectif : » annonce le but."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, Monsieur, vous avez demandé une aide d'urgence auprès du CROUS. Votre demande a été acceptée : une aide de 300 euros vous sera versée sous dix jours. Nous vous invitons également à prendre rendez-vous avec une assistante sociale pour faire le point sur votre situation.",
+   "prompt": "Que conseille-t-on à l'étudiant ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De rencontrer une assistante sociale.",
+     "correct": true,
+     "rationale": "« prendre rendez-vous avec une assistante sociale »."
+    },
+    {
+     "label": "B",
+     "text": "D'attendre trois mois.",
+     "correct": false,
+     "rationale": "L'aide arrive sous dix jours."
+    },
+    {
+     "label": "C",
+     "text": "De refaire une demande.",
+     "correct": false,
+     "rationale": "Elle est acceptée."
+    },
+    {
+     "label": "D",
+     "text": "De rembourser l'aide.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Nous vous invitons à » = nous vous conseillons de."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "publicité",
+   "skill": "intention",
+   "document": "Marre des bouchons ? Livrez vos colis avec CargoVert ! Nos vélos électriques transportent jusqu'à 150 kg et livrent en centre-ville en moins d'une heure. Zéro émission, zéro stress. Demandez un devis gratuit !",
+   "prompt": "À qui s'adresse cette publicité ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Aux cyclistes amateurs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Aux chauffeurs de taxi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Aux enfants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Aux entreprises qui ont des colis à livrer.",
+     "correct": true,
+     "rationale": "« Livrez vos colis avec CargoVert »."
+    }
+   ],
+   "explanation": "Le service proposé indique la cible."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "Chers collègues, notre librairie participe au « Mois de la lecture jeunesse ». Du 1er au 30 novembre, chaque enfant qui achète un livre recevra un marque-page dédicacé par un illustrateur. Merci de vérifier les stocks de marque-pages chaque matin.",
+   "prompt": "Que doivent faire les employés chaque matin ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dédicacer des livres.",
+     "correct": false,
+     "rationale": "C'est l'illustrateur."
+    },
+    {
+     "label": "B",
+     "text": "Commander des livres.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Vérifier les stocks de marque-pages.",
+     "correct": true,
+     "rationale": "« vérifier les stocks de marque-pages chaque matin »."
+    },
+    {
+     "label": "D",
+     "text": "Lire un livre aux enfants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La consigne est à la fin du message."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« Je rêvais de voir le Machu Picchu. Quand je suis arrivée, il y avait tellement de monde que je n'ai pas pu profiter du lieu. La prochaine fois, je choisirai une destination moins connue. » Laura, 27 ans.",
+   "prompt": "Quelle leçon Laura tire-t-elle de son voyage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle préférera des destinations moins fréquentées.",
+     "correct": true,
+     "rationale": "« je choisirai une destination moins connue »."
+    },
+    {
+     "label": "B",
+     "text": "Elle a adoré la foule.",
+     "correct": false,
+     "rationale": "Elle n'a pas pu profiter."
+    },
+    {
+     "label": "C",
+     "text": "Elle ne voyagera plus.",
+     "correct": false,
+     "rationale": "Elle prévoit un autre voyage."
+    },
+    {
+     "label": "D",
+     "text": "Elle veut retourner au Machu Picchu.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La dernière phrase exprime une décision."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Un étudiant sur trois déclare avoir ressenti des symptômes dépressifs au cours de l'année, selon une enquête nationale. Isolement, difficultés financières et incertitude sur l'avenir sont les causes les plus citées. Les services de santé universitaires, débordés, réclament le recrutement de psychologues supplémentaires.",
+   "prompt": "Que demandent les services de santé universitaires ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Moins d'étudiants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "La fermeture des universités.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Des bourses plus élevées.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Plus de psychologues.",
+     "correct": true,
+     "rationale": "« réclament le recrutement de psychologues supplémentaires »."
+    }
+   ],
+   "explanation": "« Débordé » = qui a trop de travail."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "On accuse souvent les écrans d'avoir tué la lecture. Pourtant, jamais les jeunes n'ont autant lu : messages, articles, fanfictions, mangas numériques. La vraie question n'est pas de savoir s'ils lisent, mais ce qu'ils lisent et comment ils le comprennent.",
+   "prompt": "Quelle est l'intention de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Montrer que les jeunes ne lisent plus.",
+     "correct": false,
+     "rationale": "Il dit le contraire."
+    },
+    {
+     "label": "B",
+     "text": "Interdire les écrans.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Déplacer le débat vers la qualité de la lecture.",
+     "correct": true,
+     "rationale": "« La vraie question n'est pas… mais… »."
+    },
+    {
+     "label": "D",
+     "text": "Faire la promotion des mangas.",
+     "correct": false,
+     "rationale": "Ce n'est pas son objectif."
+    }
+   ],
+   "explanation": "« La vraie question » recentre le débat."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Bonjour Julien, je reviens de Lisbonne. La ville est magnifique, mais le quartier de l'Alfama est complètement dénaturé : presque tous les appartements sont devenus des locations touristiques et les habitants sont partis. C'est dommage. À bientôt, Claire.",
+   "prompt": "Que signifie « dénaturé » ici ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Qui a perdu son caractère authentique.",
+     "correct": true,
+     "rationale": "Les habitants sont partis."
+    },
+    {
+     "label": "B",
+     "text": "Qui est devenu plus naturel.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "Qui a été détruit.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "D",
+     "text": "Qui a été rénové.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    }
+   ],
+   "explanation": "Le préfixe « dé- » exprime la perte."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "À Lyon, les livraisons en vélo cargo représentent désormais 15 % des livraisons du centre-ville. La métropole a créé des « hubs » logistiques en périphérie : les camions y déposent les marchandises, qui sont ensuite acheminées à vélo jusqu'aux commerces. Les émissions liées aux livraisons ont baissé de 20 %.",
+   "prompt": "À quoi servent les « hubs » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À vendre des produits.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "À réparer les vélos.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "À transférer les marchandises des camions vers les vélos.",
+     "correct": true,
+     "rationale": "Les camions déposent, les vélos livrent."
+    },
+    {
+     "label": "D",
+     "text": "À garer les voitures.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Suivez la chaîne logistique décrite."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Monsieur, votre demande d'aménagement d'examen pour raisons de santé a été acceptée. Vous bénéficierez d'un tiers-temps supplémentaire et d'une salle séparée. Ces aménagements sont valables pour l'année universitaire en cours. Une nouvelle demande devra être déposée l'année prochaine.",
+   "prompt": "Que doit faire l'étudiant l'année prochaine ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Rien, l'aménagement est permanent.",
+     "correct": false,
+     "rationale": "Il est valable un an."
+    },
+    {
+     "label": "B",
+     "text": "Changer d'université.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Déposer une nouvelle demande.",
+     "correct": true,
+     "rationale": "« Une nouvelle demande devra être déposée »."
+    },
+    {
+     "label": "D",
+     "text": "Passer ses examens à distance.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Valable pour l'année en cours » = pour cette année seulement."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "Les monnaies locales ne peuvent être dépensées que dans une zone limitée. C'est précisément leur intérêt : l'argent ne peut pas « s'échapper » vers des multinationales et profite donc aux commerces du territoire.",
+   "prompt": "Quel lien existe entre la limite géographique et le soutien aux commerces ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La limite est une conséquence du soutien.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "B",
+     "text": "Ce sont deux idées opposées.",
+     "correct": false,
+     "rationale": "L'auteur les relie positivement."
+    },
+    {
+     "label": "C",
+     "text": "Il n'y a aucun lien.",
+     "correct": false,
+     "rationale": "« C'est précisément leur intérêt »."
+    },
+    {
+     "label": "D",
+     "text": "La limite est la cause du soutien.",
+     "correct": true,
+     "rationale": "L'argent reste sur le territoire, donc profite aux commerces."
+    }
+   ],
+   "explanation": "Ce qui semble un défaut est présenté comme un avantage."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "Faut-il rendre payante l'entrée des centres historiques ? Pour notre chroniqueur, il s'agit d'une fausse bonne idée : « On transforme une ville en parc d'attractions. Les habitants deviennent des figurants. » Il plaide plutôt pour une limitation des logements touristiques.",
+   "prompt": "Pourquoi le chroniqueur s'oppose-t-il à l'entrée payante ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle est illégale.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Elle transforme la ville en parc d'attractions.",
+     "correct": true,
+     "rationale": "« On transforme une ville en parc d'attractions »."
+    },
+    {
+     "label": "C",
+     "text": "Elle coûte trop cher aux touristes.",
+     "correct": false,
+     "rationale": "Ce n'est pas son argument."
+    },
+    {
+     "label": "D",
+     "text": "Elle rapporte trop d'argent.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Une fausse bonne idée » = une idée séduisante mais mauvaise."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "Le Pass Culture offre aux jeunes de 18 ans un crédit de 300 euros à dépenser en livres, places de concert, cours de musique ou abonnements culturels. Le crédit est valable deux ans. Il ne peut pas être utilisé pour des jeux vidéo, sauf ceux à vocation éducative.",
+   "prompt": "Dans quel cas peut-on acheter un jeu vidéo avec le Pass Culture ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Jamais.",
+     "correct": false,
+     "rationale": "Il y a une exception."
+    },
+    {
+     "label": "B",
+     "text": "S'il a une vocation éducative.",
+     "correct": true,
+     "rationale": "« sauf ceux à vocation éducative »."
+    },
+    {
+     "label": "C",
+     "text": "Après deux ans.",
+     "correct": false,
+     "rationale": "Le crédit expire après deux ans."
+    },
+    {
+     "label": "D",
+     "text": "Toujours.",
+     "correct": false,
+     "rationale": "C'est limité."
+    }
+   ],
+   "explanation": "« Sauf » introduit une exception."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« Mon université a organisé une semaine de sensibilisation au stress des étudiants. Elle tombait pendant les examens. » Mehdi, 21 ans.",
+   "prompt": "Que sous-entend Mehdi ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le moment choisi était absurde.",
+     "correct": true,
+     "rationale": "Organiser cela pendant les examens est contradictoire."
+    },
+    {
+     "label": "B",
+     "text": "Il n'avait pas d'examens.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "La semaine était très utile.",
+     "correct": false,
+     "rationale": "Il souligne une contradiction."
+    },
+    {
+     "label": "D",
+     "text": "Il n'était pas stressé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "L'ironie repose sur la brièveté et la juxtaposition."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Faut-il interdire les bateaux de croisière dans les ports historiques ? Les défenseurs de l'interdiction dénoncent la pollution et la foule déversée en quelques heures. Les commerçants répondent que les croisiéristes représentent une part importante de leur chiffre d'affaires et proposent plutôt de limiter le nombre d'escales par jour.",
+   "prompt": "Que proposent les commerçants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Interdire les bateaux.",
+     "correct": false,
+     "rationale": "C'est l'autre camp."
+    },
+    {
+     "label": "B",
+     "text": "Fermer leurs commerces.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Augmenter le nombre de croisières.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Limiter le nombre d'escales quotidiennes.",
+     "correct": true,
+     "rationale": "« limiter le nombre d'escales par jour »."
+    }
+   ],
+   "explanation": "Distinguez les deux camps."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Une expérimentation menée dans dix collèges a instauré un quart d'heure de lecture silencieuse chaque jour, pour tous, élèves comme adultes. Après un an, les résultats en compréhension écrite ont progressé de 12 %, et les incidents de discipline ont diminué. Le dispositif sera étendu à 200 établissements.",
+   "prompt": "Qui participe au quart d'heure de lecture ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les élèves et les adultes.",
+     "correct": true,
+     "rationale": "« pour tous, élèves comme adultes »."
+    },
+    {
+     "label": "B",
+     "text": "Les parents.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Seulement les élèves en difficulté.",
+     "correct": false,
+     "rationale": "C'est pour tous."
+    },
+    {
+     "label": "D",
+     "text": "Seulement les professeurs de français.",
+     "correct": false,
+     "rationale": "C'est pour tous."
+    }
+   ],
+   "explanation": "« Élèves comme adultes » = aussi bien les élèves que les adultes."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "thèse",
+   "document": "Le surtourisme n'est pas une fatalité, mais le résultat de choix politiques : publicité massive pour quelques sites emblématiques, vols à bas prix subventionnés, absence de régulation des locations de courte durée. Ce que des décisions ont créé, d'autres décisions peuvent le défaire.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La publicité est inutile.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Le surtourisme résulte de choix politiques et peut être corrigé.",
+     "correct": true,
+     "rationale": "« Ce que des décisions ont créé, d'autres décisions peuvent le défaire »."
+    },
+    {
+     "label": "C",
+     "text": "Le surtourisme est inévitable.",
+     "correct": false,
+     "rationale": "« n'est pas une fatalité »."
+    },
+    {
+     "label": "D",
+     "text": "Il faut interdire les vols.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La formule finale reprend la thèse."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "information implicite",
+   "document": "L'université a lancé une campagne d'affichage invitant les étudiants à « prendre soin de leur santé mentale ». Le service de psychologie de l'établissement compte deux praticiens pour 30 000 étudiants, et le délai moyen pour obtenir un rendez-vous est de deux mois.",
+   "prompt": "Que laisse entendre l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le service de psychologie est suffisant.",
+     "correct": false,
+     "rationale": "Deux praticiens pour 30 000 étudiants."
+    },
+    {
+     "label": "B",
+     "text": "Les rendez-vous sont immédiats.",
+     "correct": false,
+     "rationale": "Deux mois d'attente."
+    },
+    {
+     "label": "C",
+     "text": "Les étudiants refusent de consulter.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "L'université communique plus qu'elle n'agit.",
+     "correct": true,
+     "rationale": "Les moyens réels contrastent avec la campagne."
+    }
+   ],
+   "explanation": "La juxtaposition de faits suggère une critique."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "ton",
+   "document": "Les plateformes de livraison se présentent comme des acteurs de la « mobilité douce ». On ne saurait trop les féliciter de faire pédaler, pour quelques euros la course, des milliers de jeunes sans contrat, sans congés et sans assurance, sous la pluie de novembre.",
+   "prompt": "Quel est le ton de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Enthousiaste.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "B",
+     "text": "Admiratif.",
+     "correct": false,
+     "rationale": "Le compliment est ironique."
+    },
+    {
+     "label": "C",
+     "text": "Neutre.",
+     "correct": false,
+     "rationale": "Il dénonce."
+    },
+    {
+     "label": "D",
+     "text": "Ironique et critique.",
+     "correct": true,
+     "rationale": "« On ne saurait trop les féliciter » est une antiphrase."
+    }
+   ],
+   "explanation": "L'antiphrase dit le contraire de ce que l'on pense."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "Alors que les librairies indépendantes semblaient condamnées par la vente en ligne, elles ont connu un regain inattendu ces dernières années. Les lecteurs y recherchent ce qu'aucun algorithme ne leur offre : le conseil personnalisé, la découverte imprévue et le lien humain.",
+   "prompt": "Comment l'article explique-t-il le regain des librairies ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Par ce qu'elles offrent de plus que les algorithmes.",
+     "correct": true,
+     "rationale": "Conseil, découverte, lien humain."
+    },
+    {
+     "label": "B",
+     "text": "Par la baisse des prix des livres.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Par la fermeture des sites de vente en ligne.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Par des subventions publiques.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Alors que » oppose la prévision et la réalité."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "reformulation",
+   "document": "Les sommes converties en monnaie locale sont déposées en euros sur un compte bancaire dédié, qui sert de fonds de garantie. Ce fonds assure à tout moment la reconversion possible de la monnaie locale en euros par les professionnels, moyennant une commission de 3 %.",
+   "prompt": "Quelle reformulation correspond au texte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La monnaie locale ne peut jamais être reconvertie.",
+     "correct": false,
+     "rationale": "Elle peut l'être."
+    },
+    {
+     "label": "B",
+     "text": "Les professionnels peuvent reconvertir la monnaie locale en euros, avec une petite commission.",
+     "correct": true,
+     "rationale": "« reconversion possible… moyennant une commission »."
+    },
+    {
+     "label": "C",
+     "text": "Les euros déposés sont dépensés par l'association.",
+     "correct": false,
+     "rationale": "Ils servent de garantie."
+    },
+    {
+     "label": "D",
+     "text": "Tous les particuliers peuvent reconvertir gratuitement.",
+     "correct": false,
+     "rationale": "Il s'agit des professionnels, avec commission."
+    }
+   ],
+   "explanation": "« Moyennant » = en échange de."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "écrire un message",
+   "instructions": "Un ami vient visiter votre ville le week-end prochain. Vous lui écrivez un message pour lui proposer un programme (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Salut Karim ! Super que tu viennes samedi ! Le matin, on peut visiter la vieille ville et monter à la tour pour la vue. À midi, je t'emmène dans un petit restaurant de spécialités. L'après-midi, s'il fait beau, on fera une balade au bord du lac. Dis-moi à quelle heure arrive ton train ! À samedi, Sami",
+   "tips": "Utilisez le futur proche ou « on peut » pour proposer.",
+   "expected_points": [
+    "salutation",
+    "programme du matin",
+    "repas",
+    "après-midi",
+    "question pratique"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "donner son avis sur un livre",
+   "instructions": "Vous avez lu un livre qui vous a marqué. Vous écrivez une critique pour le site de votre bibliothèque (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Je viens de terminer « Le Petit Prince » de Saint-Exupéry, que je n'avais jamais lu. Sous l'apparence d'un conte pour enfants, ce livre parle d'amitié, de responsabilité et de ce qui compte vraiment dans la vie. Certaines phrases m'ont beaucoup touché, comme « On ne voit bien qu'avec le cœur ». Le style est simple mais très poétique. Je le recommande à tous, petits et grands : on y découvre quelque chose de nouveau à chaque lecture.",
+   "tips": "« Sous l'apparence de » permet d'opposer forme et fond.",
+   "expected_points": [
+    "présentation du livre",
+    "thèmes",
+    "citation ou passage marquant",
+    "style",
+    "recommandation"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "argumenter sur un sujet de société",
+   "instructions": "« Pour lutter contre le surtourisme, il faut rendre payante l'entrée des villes les plus visitées. » Vous réagissez à cette proposition sur un forum de voyageurs (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Je comprends l'objectif, mais je doute de l'efficacité de cette mesure. Quelques euros ne dissuaderont pas un touriste qui a déjà payé son billet d'avion. Pire, on risque de transformer des villes vivantes en musées à ciel ouvert. À mon sens, il serait plus utile de limiter les locations touristiques, qui chassent les habitants, et de mieux répartir les visiteurs sur l'année. En définitive, le problème n'est pas l'accès à la ville, mais son organisation.",
+   "tips": "« Pire, » permet d'ajouter un argument plus fort.",
+   "expected_points": [
+    "concession",
+    "objection",
+    "conséquence négative",
+    "propositions",
+    "conclusion"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous pose des questions sur vos voyages, vos lectures et votre vie d'étudiant ou de travailleur.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Quel est le dernier voyage que vous avez fait ?",
+    "Préférez-vous les lieux connus ou peu fréquentés ?",
+    "Lisez-vous beaucoup ?",
+    "Quel livre avez-vous aimé ?",
+    "Comment gérez-vous le stress ?",
+    "Vous faites-vous livrer des repas ?"
+   ],
+   "useful_phrases": [
+    "Le dernier voyage que j'ai fait…",
+    "Je préfère… car…",
+    "En ce moment, je lis…",
+    "Pour me détendre, je…",
+    "Il m'arrive de…"
+   ],
+   "model_answer": "Le dernier voyage que j'ai fait, c'était au Portugal l'été dernier. Je préfère les lieux peu fréquentés, car je déteste la foule. En ce moment, je lis un roman policier de Fred Vargas. Pour gérer le stress, je fais du sport et je parle avec mes amis. Il m'arrive de me faire livrer des repas quand je suis fatigué, mais j'essaie de cuisiner le plus souvent possible."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Obtenir une aide",
+   "examiner_role": "Responsable du service de la vie étudiante",
+   "scenario": "Vous êtes étudiant, vous avez perdu votre petit boulot et vous n'arrivez plus à payer votre loyer. L'examinateur joue le rôle du responsable du service de la vie étudiante. Expliquez votre situation et obtenez une aide.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Bonjour, je vous écoute.",
+    "Avez-vous une bourse ?",
+    "Vos parents peuvent-ils vous aider ?",
+    "Il y a une aide d'urgence, mais le dossier prend du temps.",
+    "Nous avons aussi une épicerie solidaire.",
+    "Qu'attendez-vous exactement ?"
+   ],
+   "useful_phrases": [
+    "Je me trouve dans une situation difficile…",
+    "Depuis…, je…",
+    "Je souhaiterais savoir si…",
+    "Est-ce qu'il serait possible d'accélérer… ?",
+    "En attendant, …"
+   ],
+   "model_answer": "Bonjour, je me trouve dans une situation difficile : depuis le mois dernier, j'ai perdu mon emploi de serveur et je ne peux plus payer mon loyer de 450 euros. Je n'ai pas de bourse et mes parents ne peuvent pas m'aider. Je souhaiterais savoir s'il serait possible d'accélérer le dossier d'aide d'urgence, car mon propriétaire m'a déjà envoyé un rappel. En attendant, l'épicerie solidaire m'aiderait beaucoup."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Le tourisme : chance ou menace ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion : « Le tourisme de masse est-il une chance ou une menace pour les villes et les sites naturels ? » Argumentez, donnez des exemples, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Quelle est votre opinion ?",
+    "Quels sont les bénéfices économiques ?",
+    "Quels sont les effets négatifs ?",
+    "Quelles solutions ?",
+    "Votre conclusion ?"
+   ],
+   "useful_phrases": [
+    "Il est indéniable que…",
+    "En revanche…",
+    "On l'a vu à…",
+    "Une solution consisterait à…",
+    "Pour conclure…"
+   ],
+   "model_answer": "Il est indéniable que le tourisme fait vivre de nombreuses régions : hôtels, restaurants, commerces, guides. En revanche, quand il devient massif, il chasse les habitants et abîme les sites naturels. On l'a vu à Venise ou dans les calanques de Marseille. Une solution consisterait à limiter les locations de courte durée et à mettre en place des réservations pour les sites fragiles. Pour conclure, le tourisme est une chance, à condition d'être maîtrisé."
+  }
+ ]
+}

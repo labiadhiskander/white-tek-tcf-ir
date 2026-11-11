@@ -1,0 +1,1973 @@
+{
+ "code": "EXAM-08",
+ "title": "Examen blanc n° 8 – Sciences, consommation et générations",
+ "level": "B2",
+ "description": "Examen complet calibré B1–B2 : santé publique, mode, retraite, agriculture, arts, cybersécurité.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Le musée est gratuit pour tous le premier dimanche de chaque mois. Les autres jours, l'entrée coûte 12 euros, et 6 euros pour les étudiants.",
+   "prompt": "Quand peut-on visiter le musée gratuitement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le premier dimanche du mois.",
+     "correct": true,
+     "rationale": "« gratuit pour tous le premier dimanche de chaque mois »."
+    },
+    {
+     "label": "B",
+     "text": "Le samedi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Uniquement pour les étudiants.",
+     "correct": false,
+     "rationale": "Les étudiants paient 6 €."
+    },
+    {
+     "label": "D",
+     "text": "Tous les dimanches.",
+     "correct": false,
+     "rationale": "Seulement le premier."
+    }
+   ],
+   "explanation": "« Chaque mois » + « premier dimanche » = une fois par mois.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "F: Bonjour, ici le cabinet dentaire. Nous vous rappelons votre rendez-vous de demain, lundi, à 17 h 15, avec le docteur Mercier. En cas d'empêchement, merci de prévenir au moins 24 heures à l'avance.",
+   "prompt": "Avec qui est le rendez-vous ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Avec un kinésithérapeute.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Avec la secrétaire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Avec le docteur Mercier.",
+     "correct": true,
+     "rationale": "« avec le docteur Mercier »."
+    },
+    {
+     "label": "D",
+     "text": "Avec un ophtalmologue.",
+     "correct": false,
+     "rationale": "C'est un cabinet dentaire."
+    }
+   ],
+   "explanation": "Un message de rappel contient le jour, l'heure et le praticien.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "H: On va voir le nouveau film de science-fiction ce soir ? / F: Ce soir, je suis fatiguée. Demain plutôt ? / H: Demain, il n'y a qu'une séance à 22 h, c'est tard. / F: Alors samedi après-midi ? / H: D'accord, samedi à 16 h.",
+   "prompt": "Quand vont-ils au cinéma ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Samedi à 16 heures.",
+     "correct": true,
+     "rationale": "« D'accord, samedi à 16 h »."
+    },
+    {
+     "label": "B",
+     "text": "Dimanche.",
+     "correct": false,
+     "rationale": "Ce n'est pas proposé."
+    },
+    {
+     "label": "C",
+     "text": "Ce soir.",
+     "correct": false,
+     "rationale": "Elle est fatiguée."
+    },
+    {
+     "label": "D",
+     "text": "Demain à 22 heures.",
+     "correct": false,
+     "rationale": "C'est trop tard."
+    }
+   ],
+   "explanation": "Plusieurs propositions sont refusées avant l'accord.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "F: Je vois que tu fumes encore… Tu avais dit que tu arrêtais en janvier. / H: Je sais, je sais. C'est plus dur que prévu. / F: Tu devrais parler au pharmacien, il y a des patchs maintenant remboursés. Je peux t'accompagner si tu veux.",
+   "prompt": "Que fait la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle lui interdit de venir chez elle.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Elle encourage l'homme à arrêter de fumer et propose son aide.",
+     "correct": true,
+     "rationale": "Elle conseille le pharmacien et propose de l'accompagner."
+    },
+    {
+     "label": "C",
+     "text": "Elle lui demande une cigarette.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Elle le félicite d'avoir arrêté.",
+     "correct": false,
+     "rationale": "Il fume encore."
+    }
+   ],
+   "explanation": "Conseil au conditionnel (« Tu devrais ») suivi d'une proposition d'aide.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "H: Bonjour à tous, c'est Pierre du service informatique. Suite à plusieurs tentatives de piratage, tous les mots de passe doivent être changés avant vendredi. Le nouveau mot de passe doit contenir au moins douze caractères, dont un chiffre et un symbole. Ne le communiquez à personne.",
+   "prompt": "Que doivent faire les employés ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Changer leur mot de passe avant vendredi.",
+     "correct": true,
+     "rationale": "« tous les mots de passe doivent être changés avant vendredi »."
+    },
+    {
+     "label": "B",
+     "text": "Acheter un nouvel ordinateur.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Envoyer leur mot de passe à Pierre.",
+     "correct": false,
+     "rationale": "Il faut ne le communiquer à personne."
+    },
+    {
+     "label": "D",
+     "text": "Supprimer leurs courriels.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Les règles du mot de passe sont précisées : 12 caractères, un chiffre, un symbole.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information précise",
+   "document": "F: La campagne de vaccination contre la grippe commence le 15 octobre. Elle est gratuite pour les personnes de plus de soixante-cinq ans, les femmes enceintes et les personnes atteintes de maladies chroniques. Les autres peuvent se faire vacciner en pharmacie pour environ dix euros.",
+   "prompt": "Pour qui le vaccin est-il gratuit ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Uniquement pour les enfants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Pour tout le monde.",
+     "correct": false,
+     "rationale": "Les autres paient environ dix euros."
+    },
+    {
+     "label": "C",
+     "text": "Pour les pharmaciens.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Notamment pour les plus de 65 ans et les femmes enceintes.",
+     "correct": true,
+     "rationale": "Ce sont des publics cités."
+    }
+   ],
+   "explanation": "Repérez la liste des personnes concernées par la gratuité.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Vous êtes à la retraite depuis un an. Comment ça se passe ? / F: Les premiers mois, je me sentais un peu perdue, sans emploi du temps. Puis je me suis inscrite à l'université du temps libre : j'apprends l'histoire de l'art et l'italien. Je n'ai jamais été aussi occupée… ni aussi heureuse !",
+   "prompt": "Comment la femme vit-elle sa retraite aujourd'hui ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle veut retravailler.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Elle est très active et épanouie.",
+     "correct": true,
+     "rationale": "« Je n'ai jamais été aussi occupée… ni aussi heureuse ! »"
+    },
+    {
+     "label": "C",
+     "text": "Elle est malade.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Elle s'ennuie.",
+     "correct": false,
+     "rationale": "C'était au début."
+    }
+   ],
+   "explanation": "L'évolution est marquée par « Les premiers mois… Puis… ».",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-CA"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Le grand marché aux puces annuel aura lieu dimanche dans les rues du centre. Les particuliers qui souhaitent vendre doivent réserver un emplacement à la mairie avant mercredi. Le prix est de 10 euros pour trois mètres.",
+   "prompt": "Que doivent faire les particuliers qui veulent vendre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Réserver un emplacement à la mairie avant mercredi.",
+     "correct": true,
+     "rationale": "C'est la démarche indiquée."
+    },
+    {
+     "label": "B",
+     "text": "Demander une autorisation à la police.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Venir dimanche matin sans réservation.",
+     "correct": false,
+     "rationale": "Une réservation est nécessaire."
+    },
+    {
+     "label": "D",
+     "text": "Payer 3 euros.",
+     "correct": false,
+     "rationale": "C'est 10 € pour trois mètres."
+    }
+   ],
+   "explanation": "Attention aux nombres : 10 € (prix), 3 m (longueur).",
+   "speakers": [
+    "H:fr-BE"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "situation administrative",
+   "skill": "information précise",
+   "document": "H: Bonjour, ma mère a quatre-vingts ans et elle vit seule. Est-ce qu'elle peut avoir une aide à domicile ? / F: Oui, elle peut demander l'allocation personnalisée d'autonomie. Il faut remplir un dossier au centre communal d'action sociale. Ensuite, une personne viendra chez elle évaluer ses besoins.",
+   "prompt": "Que se passera-t-il après le dépôt du dossier ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'aide sera versée immédiatement.",
+     "correct": false,
+     "rationale": "Une évaluation est d'abord nécessaire."
+    },
+    {
+     "label": "B",
+     "text": "Quelqu'un viendra évaluer les besoins de la mère.",
+     "correct": true,
+     "rationale": "« une personne viendra chez elle évaluer ses besoins »."
+    },
+    {
+     "label": "C",
+     "text": "Le fils devra payer une aide-ménagère.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "La mère devra entrer en maison de retraite.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Ensuite » indique l'étape suivante.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "conversation professionnelle",
+   "skill": "information précise",
+   "document": "F: Tu as préparé la présentation pour le client ? / H: Presque. Il me manque les chiffres de ventes du dernier trimestre. / F: Demande-les à Sylvie, c'est elle qui s'occupe des statistiques. Et envoie-moi la présentation avant 17 h, je voudrais la relire.",
+   "prompt": "À qui l'homme doit-il demander les chiffres ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Au client.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "À Sylvie.",
+     "correct": true,
+     "rationale": "« Demande-les à Sylvie »."
+    },
+    {
+     "label": "C",
+     "text": "À la femme qui parle.",
+     "correct": false,
+     "rationale": "Elle le renvoie vers Sylvie."
+    },
+    {
+     "label": "D",
+     "text": "Au directeur.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Le pronom « les » remplace « les chiffres de ventes ».",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "opinion",
+   "document": "H: La « fast fashion », ces vêtements bon marché renouvelés chaque semaine, permet à tout le monde de s'habiller à la mode. / F: À quel prix ? Des ouvriers sous-payés à l'autre bout du monde et des montagnes de vêtements jetés après trois lavages. Je comprends qu'on cherche des prix bas, mais on pourrait acheter moins et mieux, ou se tourner vers la seconde main.",
+   "prompt": "Que propose la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Acheter moins, de meilleure qualité, ou d'occasion.",
+     "correct": true,
+     "rationale": "« acheter moins et mieux, ou se tourner vers la seconde main »."
+    },
+    {
+     "label": "B",
+     "text": "Interdire la mode.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Augmenter les salaires en France.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Acheter davantage de vêtements bon marché.",
+     "correct": false,
+     "rationale": "C'est ce qu'elle critique."
+    }
+   ],
+   "explanation": "« À quel prix ? » est une question rhétorique qui introduit les coûts cachés.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "H: Des chercheurs français ont mis au point un test sanguin capable de détecter certains cancers plusieurs années avant l'apparition des symptômes. Prometteur, ce test devra toutefois être validé sur un plus grand nombre de patients avant d'être proposé en pratique courante, d'ici cinq à dix ans.",
+   "prompt": "Quand le test pourrait-il être utilisé couramment ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dans cinq à dix ans.",
+     "correct": true,
+     "rationale": "« d'ici cinq à dix ans »."
+    },
+    {
+     "label": "B",
+     "text": "L'année prochaine.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Jamais.",
+     "correct": false,
+     "rationale": "Il est « prometteur »."
+    },
+    {
+     "label": "D",
+     "text": "Immédiatement.",
+     "correct": false,
+     "rationale": "Il doit d'abord être validé."
+    }
+   ],
+   "explanation": "« Toutefois » introduit une limite à l'enthousiasme.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "F: Vous êtes agriculteur et vous avez transformé votre ferme en agroforesterie. Expliquez-nous. / H: J'ai planté des arbres au milieu de mes champs de céréales. Ça peut sembler bizarre, mais les arbres protègent les cultures du vent, gardent l'humidité du sol et abritent des insectes utiles. Les premières années, j'ai perdu un peu de rendement, mais aujourd'hui, mes sols sont en bien meilleure santé.",
+   "prompt": "Quel inconvénient l'agriculteur a-t-il connu au début ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une invasion d'insectes nuisibles.",
+     "correct": false,
+     "rationale": "Les insectes sont utiles."
+    },
+    {
+     "label": "B",
+     "text": "Des sols plus secs.",
+     "correct": false,
+     "rationale": "Les arbres gardent l'humidité."
+    },
+    {
+     "label": "C",
+     "text": "La mort des arbres.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Une légère baisse de rendement.",
+     "correct": true,
+     "rationale": "« j'ai perdu un peu de rendement »."
+    }
+   ],
+   "explanation": "Le connecteur « mais » oppose l'inconvénient passé et le bénéfice actuel.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "message téléphonique",
+   "skill": "implicite",
+   "document": "H: Bonjour Madame Roussel, c'est le service après-vente. Concernant votre lave-linge… alors, bonne nouvelle, il est réparable. Moins bonne nouvelle, la pièce est commandée en Allemagne et le fournisseur parle de six semaines, peut-être plus. Je vous laisse réfléchir à la solution d'un appareil neuf…",
+   "prompt": "Que suggère le technicien ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La réparation sera immédiate.",
+     "correct": false,
+     "rationale": "Elle prendra six semaines ou plus."
+    },
+    {
+     "label": "B",
+     "text": "La pièce est disponible en magasin.",
+     "correct": false,
+     "rationale": "Elle vient d'Allemagne."
+    },
+    {
+     "label": "C",
+     "text": "L'appareil n'est pas réparable.",
+     "correct": false,
+     "rationale": "Il est réparable."
+    },
+    {
+     "label": "D",
+     "text": "Il pourrait être plus pratique d'acheter un appareil neuf.",
+     "correct": true,
+     "rationale": "« Je vous laisse réfléchir à la solution d'un appareil neuf »."
+    }
+   ],
+   "explanation": "La structure « bonne nouvelle / moins bonne nouvelle » prépare la suggestion finale.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "relation logique",
+   "document": "F: Notre site a été piraté la semaine dernière. Les données de mille clients ont été volées. / H: Comment c'est arrivé ? / F: Un employé a cliqué sur un lien dans un faux courriel. Le pirate a récupéré son mot de passe, et comme il était le même pour tous ses comptes… / H: Il faut absolument former l'équipe et imposer la double authentification.",
+   "prompt": "Quelle erreur a permis le piratage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le site n'avait pas de mot de passe.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Un employé a cliqué sur un faux lien et utilisait le même mot de passe partout.",
+     "correct": true,
+     "rationale": "C'est l'explication donnée."
+    },
+    {
+     "label": "C",
+     "text": "Le serveur était en panne.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Un client a volé les données.",
+     "correct": false,
+     "rationale": "C'est un pirate."
+    }
+   ],
+   "explanation": "L'enchaînement cause-conséquence explique le piratage.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-BE"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "H: Vous dirigez un « repair café ». De quoi s'agit-il ? / F: Un samedi par mois, des bénévoles bricoleurs aident les habitants à réparer leurs objets cassés : grille-pain, vélos, vêtements, ordinateurs. L'idée n'est pas de réparer à leur place, mais avec eux, pour qu'ils apprennent. Sur cent objets apportés, on en sauve environ soixante-dix.",
+   "prompt": "Quel est le principe du « repair café » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Recycler les objets cassés.",
+     "correct": false,
+     "rationale": "Ils les réparent."
+    },
+    {
+     "label": "B",
+     "text": "Réparer les objets à la place des habitants.",
+     "correct": false,
+     "rationale": "C'est ce qu'ils évitent."
+    },
+    {
+     "label": "C",
+     "text": "Vendre des objets réparés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Réparer les objets avec les habitants pour qu'ils apprennent.",
+     "correct": true,
+     "rationale": "« pas de réparer à leur place, mais avec eux »."
+    }
+   ],
+   "explanation": "La structure « non pas X, mais Y » précise le principe.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Le centre hospitalier informe que, en raison d'une forte affluence, le délai d'attente aux urgences dépasse actuellement quatre heures. Pour les problèmes de santé non urgents, il est recommandé de contacter son médecin traitant ou d'appeler le 116 117, le numéro de la permanence des soins.",
+   "prompt": "Que recommande l'hôpital pour les cas non urgents ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Attendre aux urgences.",
+     "correct": false,
+     "rationale": "L'attente dépasse quatre heures."
+    },
+    {
+     "label": "B",
+     "text": "Appeler la police.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Contacter son médecin ou appeler la permanence des soins.",
+     "correct": true,
+     "rationale": "C'est la recommandation."
+    },
+    {
+     "label": "D",
+     "text": "Aller dans un autre pays.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Affluence » = arrivée de beaucoup de personnes.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: Les ventes de livres audio ont progressé de quarante pour cent en deux ans. Les éditeurs y voient l'effet du développement des trajets en transports et de la pratique du sport, pendant lesquels on ne peut pas lire mais on peut écouter. Ce format attire aussi de nouveaux publics, éloignés de la lecture traditionnelle.",
+   "prompt": "Selon les éditeurs, qu'est-ce qui explique ce succès ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'interdiction des livres papier.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "La possibilité d'écouter pendant d'autres activités.",
+     "correct": true,
+     "rationale": "Trajets et sport, pendant lesquels on peut écouter."
+    },
+    {
+     "label": "C",
+     "text": "La baisse du prix des livres papier.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "La fermeture des librairies.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Y voir l'effet de » = l'expliquer par.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "F: Il faudrait reculer l'âge de la retraite parce qu'on vit plus longtemps. / H: On vit plus longtemps, d'accord, mais pas forcément en bonne santé. Et pour un maçon ou une aide-soignante, travailler jusqu'à soixante-sept ans, c'est physiquement épuisant. Il faudrait au moins tenir compte de la pénibilité des métiers.",
+   "prompt": "Quel argument l'homme avance-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les maçons travaillent peu.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les gens vivent moins longtemps qu'avant.",
+     "correct": false,
+     "rationale": "Il admet qu'on vit plus longtemps."
+    },
+    {
+     "label": "C",
+     "text": "Il faut prendre en compte la difficulté physique de certains métiers.",
+     "correct": true,
+     "rationale": "« Il faudrait au moins tenir compte de la pénibilité des métiers »."
+    },
+    {
+     "label": "D",
+     "text": "Tout le monde devrait partir à 55 ans.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« D'accord, mais » : concession puis objection.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-CH"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "implicite",
+   "document": "H: Vous êtes centenaire. Quel est votre secret ? / F: Mon médecin me demande la même chose ! Je mange de tout, je bois un petit verre de vin le dimanche et je n'ai jamais fait de sport de ma vie. Il n'a pas l'air très content de ma réponse.",
+   "prompt": "Que suggère la dame ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle ne boit jamais d'alcool.",
+     "correct": false,
+     "rationale": "Elle boit un verre le dimanche."
+    },
+    {
+     "label": "B",
+     "text": "Sa longévité ne correspond pas aux conseils médicaux habituels.",
+     "correct": true,
+     "rationale": "Elle n'a jamais fait de sport et boit du vin ; le médecin n'est pas content."
+    },
+    {
+     "label": "C",
+     "text": "Elle a suivi tous les conseils de son médecin.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "D",
+     "text": "Elle fait beaucoup de sport.",
+     "correct": false,
+     "rationale": "« jamais fait de sport »."
+    }
+   ],
+   "explanation": "L'humour vient du décalage entre ses habitudes et les recommandations médicales.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "F: Une étude portant sur vingt mille personnes suggère que la pratique régulière d'un instrument de musique pourrait ralentir le déclin cognitif lié à l'âge. Les auteurs restent prudents : il s'agit d'une corrélation, et non d'un lien de cause à effet démontré. Les musiciens ont peut-être, par ailleurs, un mode de vie plus favorable.",
+   "prompt": "Pourquoi les chercheurs restent-ils prudents ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La musique accélère le déclin.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "L'étude porte sur trop peu de personnes.",
+     "correct": false,
+     "rationale": "Elle porte sur vingt mille personnes."
+    },
+    {
+     "label": "C",
+     "text": "Le lien de cause à effet n'est pas démontré.",
+     "correct": true,
+     "rationale": "« il s'agit d'une corrélation, et non d'un lien de cause à effet démontré »."
+    },
+    {
+     "label": "D",
+     "text": "Les musiciens refusent de participer.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Corrélation » = deux phénomènes liés statistiquement, sans preuve que l'un cause l'autre.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "F: Je vous appelle car votre établissement n'a pas encore transmis les résultats de l'audit d'hygiène. / H: Oui, nous avons eu quelques retards à cause de travaux dans la cuisine. / F: Je comprends, mais la date limite était lundi. Je vous laisse jusqu'à vendredi. Passé ce délai, je serai obligée de programmer une inspection.",
+   "prompt": "Quelle est l'intention de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Annuler l'audit.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Féliciter l'établissement.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "C",
+     "text": "Fermer immédiatement le restaurant.",
+     "correct": false,
+     "rationale": "Elle laisse un délai."
+    },
+    {
+     "label": "D",
+     "text": "Accorder un dernier délai en avertissant des conséquences.",
+     "correct": true,
+     "rationale": "Délai jusqu'à vendredi, puis inspection."
+    }
+   ],
+   "explanation": "« Passé ce délai » introduit une menace conditionnelle.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "H: Les écrans rendent les enfants moins intelligents, c'est prouvé. / F: Ce qui est prouvé, c'est qu'un usage excessif et passif, surtout chez les tout-petits, nuit au langage et à l'attention. Mais mettre dans le même sac un dessin animé regardé seul pendant trois heures et un appel vidéo avec un grand-parent, c'est absurde. Le contenu et le contexte comptent autant que la durée.",
+   "prompt": "Que reproche la femme à l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De sous-estimer les dangers des écrans.",
+     "correct": false,
+     "rationale": "Il les surestime plutôt."
+    },
+    {
+     "label": "B",
+     "text": "D'utiliser trop les appels vidéo.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "De ne pas avoir d'enfants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "De faire une généralisation abusive.",
+     "correct": true,
+     "rationale": "« mettre dans le même sac… c'est absurde »."
+    }
+   ],
+   "explanation": "« Mettre dans le même sac » = confondre des choses différentes.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Les musées doivent-ils rendre les œuvres issues de la colonisation ? / H: Je crois que oui, au moins pour celles acquises dans des conditions contestables. Un musée n'est pas seulement un lieu de conservation, c'est aussi un lieu de mémoire. Restituer, ce n'est pas vider les musées, c'est reconnaître une histoire et construire de nouveaux partenariats.",
+   "prompt": "Quelle est l'opinion du conservateur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il est favorable aux restitutions dans certains cas.",
+     "correct": true,
+     "rationale": "« au moins pour celles acquises dans des conditions contestables »."
+    },
+    {
+     "label": "B",
+     "text": "Il est totalement opposé aux restitutions.",
+     "correct": false,
+     "rationale": "Il dit « oui »."
+    },
+    {
+     "label": "C",
+     "text": "Il pense que les musées ne servent à rien.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Il veut vider les musées.",
+     "correct": false,
+     "rationale": "« ce n'est pas vider les musées »."
+    }
+   ],
+   "explanation": "La restriction « au moins pour celles » nuance l'accord.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-BE"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "implicite",
+   "document": "H: Le fabricant de téléphones a présenté hier son nouveau modèle, plus fin d'un millimètre que le précédent, au prix de 1 400 euros. Une révolution, selon le PDG, qui a salué « le fruit de trois ans de recherche ». Trois ans pour un millimètre : on mesure l'ampleur de l'effort.",
+   "prompt": "Quel est le ton de la dernière phrase ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Neutre.",
+     "correct": false,
+     "rationale": "Il prend position."
+    },
+    {
+     "label": "B",
+     "text": "Ironique.",
+     "correct": true,
+     "rationale": "Le journaliste se moque d'une innovation minime."
+    },
+    {
+     "label": "C",
+     "text": "Inquiet.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "D",
+     "text": "Admiratif.",
+     "correct": false,
+     "rationale": "Le ton est moqueur."
+    }
+   ],
+   "explanation": "Le contraste entre « trois ans » et « un millimètre » crée l'ironie.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "Vends vélo de ville, couleur bleue, très bon état, avec panier et lumières. Utilisé un an. Prix : 150 € (prix neuf : 400 €). À voir à Nantes. Contact par SMS uniquement : 07 81 23 45 67.",
+   "prompt": "Comment contacter le vendeur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "En personne à Paris.",
+     "correct": false,
+     "rationale": "C'est à Nantes."
+    },
+    {
+     "label": "B",
+     "text": "Par téléphone.",
+     "correct": false,
+     "rationale": "Uniquement SMS."
+    },
+    {
+     "label": "C",
+     "text": "Par courriel.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Par SMS.",
+     "correct": true,
+     "rationale": "« Contact par SMS uniquement »."
+    }
+   ],
+   "explanation": "« Uniquement » exclut les autres moyens."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Chéri, j'ai pris rendez-vous chez le médecin pour Léo jeudi à 16 h 30. Je ne peux pas l'accompagner, j'ai une réunion. Tu peux y aller ? Son carnet de santé est dans le tiroir de la cuisine. Bisous, Marion.",
+   "prompt": "Où se trouve le carnet de santé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Chez le médecin.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Au bureau de Marion.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Dans le tiroir de la cuisine.",
+     "correct": true,
+     "rationale": "« dans le tiroir de la cuisine »."
+    },
+    {
+     "label": "D",
+     "text": "Dans le sac de Léo.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Repérez l'indication de lieu."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "affiche",
+   "skill": "information précise",
+   "document": "SALON DES VINS ET FROMAGES – Du 8 au 10 mars, Parc des expositions. Entrée : 8 €, verre de dégustation offert. Gratuit pour les moins de 18 ans. L'abus d'alcool est dangereux pour la santé.",
+   "prompt": "Qu'est-ce qui est offert avec l'entrée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une bouteille de vin.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Un verre de dégustation.",
+     "correct": true,
+     "rationale": "« verre de dégustation offert »."
+    },
+    {
+     "label": "C",
+     "text": "Un repas.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Un fromage.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Offert » = donné gratuitement."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "courriel",
+   "skill": "intention",
+   "document": "Bonjour, j'ai acheté sur votre site une robe le 2 mai. Elle est trop petite. Je souhaiterais l'échanger contre une taille au-dessus, en même couleur. Pouvez-vous m'indiquer la procédure de retour ? Merci. Cordialement, Lina Haddad",
+   "prompt": "Que veut Lina ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Acheter une deuxième robe.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Échanger la robe contre une taille plus grande.",
+     "correct": true,
+     "rationale": "« l'échanger contre une taille au-dessus »."
+    },
+    {
+     "label": "C",
+     "text": "Changer de couleur.",
+     "correct": false,
+     "rationale": "« en même couleur »."
+    },
+    {
+     "label": "D",
+     "text": "Être remboursée.",
+     "correct": false,
+     "rationale": "Elle veut un échange."
+    }
+   ],
+   "explanation": "« Une taille au-dessus » = la taille supérieure."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Les friperies, magasins de vêtements d'occasion, n'ont jamais eu autant de succès auprès des jeunes. Prix bas, pièces uniques et geste pour la planète : les arguments séduisent. Certaines enseignes de prêt-à-porter ouvrent même désormais des rayons de seconde main dans leurs magasins.",
+   "prompt": "De quoi parle l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De la hausse du prix des vêtements neufs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Du succès des vêtements d'occasion.",
+     "correct": true,
+     "rationale": "Les friperies ont beaucoup de succès."
+    },
+    {
+     "label": "C",
+     "text": "De la fermeture des friperies.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "D",
+     "text": "D'un défilé de mode.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« N'ont jamais eu autant de succès » = succès maximal."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, Monsieur, nous vous informons que votre médecin traitant, le Dr Lemoine, cessera son activité le 31 décembre. Afin de continuer à bénéficier d'un remboursement optimal de vos soins, nous vous invitons à déclarer un nouveau médecin traitant auprès de votre caisse d'assurance maladie.",
+   "prompt": "Pourquoi faut-il déclarer un nouveau médecin traitant ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que le Dr Lemoine déménage dans la ville.",
+     "correct": false,
+     "rationale": "Il cesse son activité."
+    },
+    {
+     "label": "B",
+     "text": "Pour payer moins d'impôts.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Pour continuer à être bien remboursé.",
+     "correct": true,
+     "rationale": "« Afin de continuer à bénéficier d'un remboursement optimal »."
+    },
+    {
+     "label": "D",
+     "text": "Pour obtenir une carte Vitale.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Afin de » introduit le but."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "publicité",
+   "skill": "information précise",
+   "document": "Nouveau à la pharmacie du Marché ! Faites mesurer gratuitement votre tension et votre taux de sucre, sans rendez-vous, tous les mardis matin. Un pharmacien vous conseille et vous oriente si nécessaire vers votre médecin.",
+   "prompt": "Quand peut-on faire ces mesures ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Uniquement avec une ordonnance.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Tous les jours sur rendez-vous.",
+     "correct": false,
+     "rationale": "C'est le mardi, sans rendez-vous."
+    },
+    {
+     "label": "C",
+     "text": "Le samedi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le mardi matin, sans rendez-vous.",
+     "correct": true,
+     "rationale": "« sans rendez-vous, tous les mardis matin »."
+    }
+   ],
+   "explanation": "Repérez les conditions : jour et modalités."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "Chers collègues, une collecte de sang est organisée dans l'entreprise le jeudi 14, de 9 h à 15 h, en salle polyvalente. Le don dure environ 45 minutes et peut se faire pendant le temps de travail. Pensez à bien manger avant de venir. Merci pour votre générosité !",
+   "prompt": "Que recommande-t-on aux donneurs ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "D'arriver après 15 h.",
+     "correct": false,
+     "rationale": "La collecte se termine à 15 h."
+    },
+    {
+     "label": "B",
+     "text": "De manger avant de donner.",
+     "correct": true,
+     "rationale": "« Pensez à bien manger avant de venir »."
+    },
+    {
+     "label": "C",
+     "text": "De venir à jeun.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "D",
+     "text": "De prendre un jour de congé.",
+     "correct": false,
+     "rationale": "Le don se fait pendant le temps de travail."
+    }
+   ],
+   "explanation": "« Pensez à » introduit un conseil."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« J'ai acheté une voiture électrique il y a deux ans. Au début, j'avais peur de tomber en panne de batterie. En réalité, je la recharge chez moi la nuit et je fais 300 km sans problème. Le seul inconvénient, ce sont les longs trajets en vacances, où il faut bien planifier les arrêts. » Olivier, 52 ans.",
+   "prompt": "Quel inconvénient Olivier mentionne-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les longs trajets demandent de planifier les recharges.",
+     "correct": true,
+     "rationale": "« il faut bien planifier les arrêts »."
+    },
+    {
+     "label": "B",
+     "text": "La recharge impossible chez lui.",
+     "correct": false,
+     "rationale": "Il recharge chez lui."
+    },
+    {
+     "label": "C",
+     "text": "Les pannes de batterie fréquentes.",
+     "correct": false,
+     "rationale": "C'était une peur, pas une réalité."
+    },
+    {
+     "label": "D",
+     "text": "Le prix de l'électricité.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Le seul inconvénient » limite les critiques à un point."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "La téléconsultation médicale, en plein essor depuis la crise sanitaire, permet d'obtenir un rendez-vous rapidement et d'éviter les déplacements. Les médecins rappellent néanmoins qu'elle ne remplace pas l'examen physique, indispensable pour de nombreux diagnostics, et qu'elle doit rester un complément plutôt qu'une alternative.",
+   "prompt": "Quelle est la position des médecins ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La téléconsultation est utile mais ne doit pas remplacer la consultation en personne.",
+     "correct": true,
+     "rationale": "« un complément plutôt qu'une alternative »."
+    },
+    {
+     "label": "B",
+     "text": "Elle remplace parfaitement l'examen physique.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "C",
+     "text": "Elle est trop lente.",
+     "correct": false,
+     "rationale": "Elle permet un rendez-vous rapide."
+    },
+    {
+     "label": "D",
+     "text": "Elle doit être interdite.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Distinguez « complément » et « alternative »."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "On présente souvent les seniors comme une charge pour la société. C'est oublier leur rôle essentiel : ils gardent leurs petits-enfants, s'engagent dans les associations, aident financièrement leurs enfants. Sans eux, des pans entiers de la vie sociale s'effondreraient. Plutôt qu'une charge, ils sont une ressource.",
+   "prompt": "Quelle idée l'auteur défend-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les seniors coûtent trop cher.",
+     "correct": false,
+     "rationale": "C'est l'idée contestée."
+    },
+    {
+     "label": "B",
+     "text": "Les seniors ne s'occupent pas de leur famille.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "C",
+     "text": "Les associations n'ont pas besoin des seniors.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "D",
+     "text": "Les seniors apportent beaucoup à la société.",
+     "correct": true,
+     "rationale": "« Plutôt qu'une charge, ils sont une ressource »."
+    }
+   ],
+   "explanation": "« C'est oublier que » introduit une réfutation."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Madame, nous avons le regret de vous informer que le produit que vous avez commandé est actuellement en rupture de stock. Nous vous proposons de patienter jusqu'au réapprovisionnement, prévu sous trois semaines, ou d'annuler votre commande.",
+   "prompt": "Que signifie « en rupture de stock » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "cassé.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "B",
+     "text": "déjà livré.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "C",
+     "text": "plus disponible pour le moment.",
+     "correct": true,
+     "rationale": "Le réapprovisionnement est prévu."
+    },
+    {
+     "label": "D",
+     "text": "en promotion.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    }
+   ],
+   "explanation": "« Rupture de stock » = il n'y en a plus en réserve."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Pour encourager la consommation de fruits et légumes, une ville expérimente une « ordonnance verte » : les médecins peuvent prescrire à certains patients, notamment diabétiques ou en surpoids, des paniers de produits frais gratuits pendant six mois. Les premiers résultats montrent une amélioration des habitudes alimentaires chez deux tiers des participants.",
+   "prompt": "À qui s'adresse l'« ordonnance verte » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Aux agriculteurs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "À tous les habitants.",
+     "correct": false,
+     "rationale": "Seulement certains patients."
+    },
+    {
+     "label": "C",
+     "text": "Aux médecins eux-mêmes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "À certains patients, comme les diabétiques.",
+     "correct": true,
+     "rationale": "« notamment diabétiques ou en surpoids »."
+    }
+   ],
+   "explanation": "« Notamment » introduit des exemples."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Monsieur, votre déclaration de revenus fait apparaître une erreur dans le montant des frais de garde d'enfants déclarés. Vous disposez d'un délai de trente jours pour présenter vos observations ou justificatifs. À défaut de réponse dans ce délai, la rectification sera appliquée et un avis d'imposition corrigé vous sera adressé.",
+   "prompt": "Que se passera-t-il sans réponse dans les trente jours ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La correction sera appliquée automatiquement.",
+     "correct": true,
+     "rationale": "« la rectification sera appliquée »."
+    },
+    {
+     "label": "B",
+     "text": "Le contribuable sera convoqué.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les frais seront remboursés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "L'erreur sera ignorée.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    }
+   ],
+   "explanation": "« À défaut de » = sans."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "Les objets connectés promettent de nous simplifier la vie : réfrigérateur qui commande les courses, thermostat qui apprend nos habitudes. Mais chaque appareil connecté est une porte d'entrée potentielle pour les pirates informatiques. Plus nous connectons d'objets, plus nous sommes vulnérables.",
+   "prompt": "Quelle relation logique exprime la dernière phrase ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une proportion : plus d'objets, plus de risques.",
+     "correct": true,
+     "rationale": "« Plus… plus… »."
+    },
+    {
+     "label": "B",
+     "text": "Une concession.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "C",
+     "text": "Un but.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "D",
+     "text": "Une opposition.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    }
+   ],
+   "explanation": "« Plus… plus… » exprime une relation proportionnelle."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "Le projet d'installation d'une ferme d'élevage industriel de mille vaches divise le département. L'exploitant met en avant la modernisation et la compétitivité. Les éleveurs traditionnels craignent une concurrence déloyale, et les riverains s'inquiètent des odeurs et de la pollution des sols.",
+   "prompt": "Que craignent les éleveurs traditionnels ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une concurrence injuste.",
+     "correct": true,
+     "rationale": "« une concurrence déloyale »."
+    },
+    {
+     "label": "B",
+     "text": "Les odeurs.",
+     "correct": false,
+     "rationale": "Ce sont les riverains."
+    },
+    {
+     "label": "C",
+     "text": "La modernisation.",
+     "correct": false,
+     "rationale": "C'est l'argument de l'exploitant."
+    },
+    {
+     "label": "D",
+     "text": "Le manque de vaches.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Déloyal » = injuste, qui ne respecte pas les règles du jeu."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "Le Nutri-Score est un logo apposé sur les emballages alimentaires, qui classe les produits de A (vert, meilleure qualité nutritionnelle) à E (rouge, moins bonne qualité). Il prend en compte les éléments à favoriser (fibres, protéines, fruits et légumes) et ceux à limiter (sucres, sel, graisses saturées). Son affichage reste facultatif pour les fabricants.",
+   "prompt": "Le Nutri-Score est-il obligatoire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Non, il est facultatif pour les fabricants.",
+     "correct": true,
+     "rationale": "« Son affichage reste facultatif »."
+    },
+    {
+     "label": "B",
+     "text": "Oui, pour tous les produits.",
+     "correct": false,
+     "rationale": "C'est facultatif."
+    },
+    {
+     "label": "C",
+     "text": "Oui, en restauration.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Oui, seulement pour les produits sucrés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Facultatif » = non obligatoire."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« Mon fils de quinze ans m'a installé une application pour surveiller mon temps d'écran. Le soir même, il m'a demandé le code du wifi… qu'il avait oublié après avoir passé six heures sur sa console. » Nathalie, 45 ans.",
+   "prompt": "Que sous-entend Nathalie ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle utilise trop peu son téléphone.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Son fils devrait d'abord surveiller son propre usage des écrans.",
+     "correct": true,
+     "rationale": "Il a passé six heures sur sa console."
+    },
+    {
+     "label": "C",
+     "text": "Le wifi ne fonctionne pas.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Son fils ne joue jamais aux jeux vidéo.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    }
+   ],
+   "explanation": "L'humour vient de l'inversion des rôles parent-enfant."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Faut-il taxer les produits trop salés ? Les partisans estiment que le sel est responsable de nombreuses maladies cardiovasculaires et qu'une taxe inciterait les industriels à reformuler leurs recettes. Les opposants jugent qu'une telle taxe pèserait surtout sur les ménages modestes et qu'une meilleure information des consommateurs serait plus efficace.",
+   "prompt": "Que proposent les opposants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Augmenter les salaires.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Taxer davantage les produits salés.",
+     "correct": false,
+     "rationale": "C'est la proposition des partisans."
+    },
+    {
+     "label": "C",
+     "text": "Mieux informer les consommateurs.",
+     "correct": true,
+     "rationale": "« une meilleure information des consommateurs serait plus efficace »."
+    },
+    {
+     "label": "D",
+     "text": "Interdire le sel.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Peser sur » = être un poids pour."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "Le nombre de médecins généralistes diminue chaque année dans les zones rurales. Beaucoup partent à la retraite sans trouver de successeur, car les jeunes médecins préfèrent exercer en ville ou en groupe. Résultat : des milliers de patients se retrouvent sans médecin traitant.",
+   "prompt": "Pourquoi les médecins partant à la retraite ne trouvent-ils pas de successeur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les études de médecine sont supprimées.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les salaires sont plus élevés à la campagne.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les jeunes médecins préfèrent la ville ou le travail en groupe.",
+     "correct": true,
+     "rationale": "« car les jeunes médecins préfèrent exercer en ville ou en groupe »."
+    },
+    {
+     "label": "D",
+     "text": "Il n'y a plus de patients.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    }
+   ],
+   "explanation": "« Car » introduit la cause ; « Résultat : » la conséquence."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "L'industrie agroalimentaire excelle dans l'art de vendre la santé : yaourts « qui renforcent les défenses », céréales « riches en vitamines ». Le consommateur, rassuré par ces allégations, en oublie de lire la liste des ingrédients, où le sucre figure souvent en deuxième position. La santé est devenue un argument de vente bien plus qu'une préoccupation réelle.",
+   "prompt": "Que critique l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les listes d'ingrédients trop courtes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "L'utilisation trompeuse de la santé comme argument commercial.",
+     "correct": true,
+     "rationale": "« La santé est devenue un argument de vente »."
+    },
+    {
+     "label": "C",
+     "text": "Les vitamines.",
+     "correct": false,
+     "rationale": "Ce n'est pas le propos."
+    },
+    {
+     "label": "D",
+     "text": "Les consommateurs qui mangent trop de yaourts.",
+     "correct": false,
+     "rationale": "Ce n'est pas le propos."
+    }
+   ],
+   "explanation": "« Allégations » = affirmations non prouvées."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "sens d'un mot en contexte",
+   "document": "Le scandale sanitaire a éclaboussé plusieurs responsables politiques, accusés d'avoir minimisé les risques pendant des années.",
+   "prompt": "Que signifie « éclaboussé » dans ce contexte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "protégé.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "B",
+     "text": "mouillé.",
+     "correct": false,
+     "rationale": "C'est le sens propre."
+    },
+    {
+     "label": "C",
+     "text": "récompensé.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "D",
+     "text": "atteint la réputation de.",
+     "correct": true,
+     "rationale": "Les responsables sont mis en cause."
+    }
+   ],
+   "explanation": "Au sens figuré, « éclabousser » = compromettre, salir la réputation."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments contradictoires",
+   "document": "Pour les uns, l'allongement de l'espérance de vie est une victoire de la médecine qui ouvre une nouvelle étape de la vie, riche et active. Pour les autres, il pose des défis vertigineux : financement des retraites, prise en charge de la dépendance, solitude des grands âgés. L'enjeu n'est plus seulement d'ajouter des années à la vie, mais de la vie aux années.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'espérance de vie doit diminuer.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Il faut garantir la qualité de vie des années gagnées.",
+     "correct": true,
+     "rationale": "« ajouter… de la vie aux années »."
+    },
+    {
+     "label": "C",
+     "text": "La médecine a échoué.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les retraites sont faciles à financer.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Le chiasme (« des années à la vie / de la vie aux années ») résume la thèse."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "sous-entendu",
+   "document": "Le fabricant de sodas sponsorise désormais un grand marathon sous le slogan « Bougez plus ». On attend avec impatience le partenariat entre un fabricant de cigarettes et une campagne contre le cancer.",
+   "prompt": "Que suggère le journaliste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le partenariat est cohérent.",
+     "correct": false,
+     "rationale": "Le ton est ironique."
+    },
+    {
+     "label": "B",
+     "text": "Le marathon est annulé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Ce parrainage est hypocrite.",
+     "correct": true,
+     "rationale": "La comparaison avec les cigarettes souligne la contradiction."
+    },
+    {
+     "label": "D",
+     "text": "Les fabricants de cigarettes vont sponsoriser une campagne.",
+     "correct": false,
+     "rationale": "C'est une hypothèse ironique."
+    }
+   ],
+   "explanation": "L'ironie par l'absurde : une comparaison volontairement exagérée."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "compréhension globale",
+   "document": "La directive anticipée est un document écrit dans lequel une personne majeure exprime ses volontés concernant sa fin de vie, notamment la poursuite, la limitation ou l'arrêt de traitements, pour le cas où elle ne serait plus en mesure de s'exprimer. Elle est révisable à tout moment et s'impose au médecin, sauf en cas d'urgence vitale ou si elle apparaît manifestement inappropriée.",
+   "prompt": "Dans quel cas le médecin peut-il ne pas suivre la directive anticipée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Si elle a plus d'un an.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Toujours, elle n'a aucune valeur.",
+     "correct": false,
+     "rationale": "Elle « s'impose au médecin »."
+    },
+    {
+     "label": "C",
+     "text": "En cas d'urgence vitale ou si elle est manifestement inappropriée.",
+     "correct": true,
+     "rationale": "Ce sont les deux exceptions citées."
+    },
+    {
+     "label": "D",
+     "text": "Si la famille n'est pas d'accord.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "« S'imposer à » = être obligatoire pour. « Sauf » introduit les exceptions."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "présenter un lieu",
+   "instructions": "Un collègue arrive dans votre entreprise. Vous lui écrivez pour lui présenter un restaurant près du bureau où vous déjeunez souvent (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Bonjour Thomas, bienvenue dans l'équipe ! Je te conseille le restaurant « Chez Lola », à deux minutes du bureau, en face de la banque. Le menu du jour coûte 13 euros, avec une entrée, un plat et un dessert. La cuisine est simple mais délicieuse, et le service est rapide. On y va ensemble demain midi ?",
+   "tips": "Donnez des détails concrets (prix, distance) et terminez par une proposition.",
+   "expected_points": [
+    "saluer",
+    "situer le restaurant",
+    "prix et menu",
+    "qualités",
+    "proposition"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "faire un compte rendu",
+   "instructions": "Vous avez assisté à une conférence sur le sommeil. Vous en faites un compte rendu pour le journal interne de votre entreprise (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Le 12 mars, le docteur Martin, spécialiste du sommeil, a donné une conférence dans notre entreprise. Il a rappelé qu'un adulte a besoin de sept à neuf heures de sommeil par nuit. Selon lui, les écrans le soir perturbent l'endormissement à cause de leur lumière bleue. Il conseille de se coucher à heure fixe, d'éviter le café après seize heures et de faire une courte sieste si nécessaire. Une soixantaine de salariés ont assisté à cette conférence très appréciée.",
+   "tips": "Utilisez le discours rapporté : « Il a rappelé que… », « Selon lui… », « Il conseille de… ».",
+   "expected_points": [
+    "date et intervenant",
+    "idées principales",
+    "conseils",
+    "participation"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "donner son opinion",
+   "instructions": "« Les personnes âgées devraient vivre avec leur famille plutôt qu'en maison de retraite. » Vous donnez votre opinion sur un forum (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Cette question est délicate et il me semble difficile de donner une réponse unique. Vivre en famille permet de maintenir des liens affectifs forts et évite l'isolement. Cependant, lorsque la personne âgée devient très dépendante, les soins exigent des compétences et une disponibilité que les familles n'ont pas toujours. Dans ce cas, un établissement spécialisé peut être la meilleure solution. À mon sens, l'essentiel est de respecter le choix de la personne et de rester présent.",
+   "tips": "Pour un sujet sensible, nuancez : « il me semble difficile de… », « dans ce cas… ».",
+   "expected_points": [
+    "opinion nuancée",
+    "avantages",
+    "limites",
+    "conclusion personnelle"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous pose des questions sur votre santé, votre alimentation et votre mode de vie.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Comment prenez-vous soin de votre santé ?",
+    "Faites-vous du sport ?",
+    "Que mangez-vous en général le matin ?",
+    "Avez-vous déjà été malade à l'étranger ? Racontez.",
+    "Que faites-vous quand vous êtes stressé ?",
+    "Qu'aimeriez-vous changer dans votre mode de vie ?"
+   ],
+   "useful_phrases": [
+    "Pour rester en forme, je…",
+    "Le matin, je prends…",
+    "Une fois, quand j'étais…",
+    "Quand je suis stressé, j'ai tendance à…",
+    "J'aimerais…"
+   ],
+   "model_answer": "Pour rester en forme, je marche beaucoup et je fais de la natation deux fois par semaine. Le matin, je prends un thé et des tartines. Une fois, quand j'étais en Italie, j'ai eu une intoxication alimentaire ; heureusement, un pharmacien m'a bien conseillé. Quand je suis stressé, j'écoute de la musique. J'aimerais dormir davantage."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Négocier un service",
+   "examiner_role": "Artisan",
+   "scenario": "Vous voulez faire repeindre votre appartement. L'examinateur joue le rôle d'un artisan peintre. Expliquez ce que vous voulez, demandez un devis, discutez du prix et des délais, et négociez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Bonjour, de quoi avez-vous besoin ?",
+    "Pour trois pièces, il faut compter 2 500 euros.",
+    "Je ne peux pas commencer avant deux mois.",
+    "La peinture n'est pas comprise dans le prix.",
+    "Je demande un acompte de 40 %.",
+    "Alors, on fait comment ?"
+   ],
+   "useful_phrases": [
+    "J'aurais besoin de…",
+    "Est-ce que ce prix comprend… ?",
+    "C'est un peu au-dessus de mon budget.",
+    "Si je fournis…, est-ce que… ?",
+    "Je pourrais accepter à condition que…"
+   ],
+   "model_answer": "Bonjour, j'aurais besoin de faire repeindre le salon et deux chambres, environ soixante mètres carrés. 2 500 euros, c'est un peu au-dessus de mon budget, surtout si la peinture n'est pas comprise. Si j'achète la peinture moi-même et que je déplace les meubles, est-ce que vous pourriez baisser le prix ? Deux mois d'attente, c'est long ; si vous commencez plus tôt, je peux accepter un acompte de 30 %."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il reculer l'âge de la retraite ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion : « Faut-il travailler plus longtemps parce que l'on vit plus longtemps ? » Argumentez, donnez des exemples, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Qu'en pensez-vous ?",
+    "Tous les métiers sont-ils comparables ?",
+    "Avez-vous un exemple autour de vous ?",
+    "Quelles autres solutions voyez-vous ?",
+    "Votre conclusion ?"
+   ],
+   "useful_phrases": [
+    "De mon point de vue…",
+    "Cela s'explique notamment par…",
+    "Il serait réducteur de…",
+    "Dans une certaine mesure…",
+    "En définitive…"
+   ],
+   "model_answer": "De mon point de vue, il est logique de travailler un peu plus longtemps, dans une certaine mesure, car l'espérance de vie augmente. Cependant, il serait réducteur de traiter tous les métiers de la même façon : mon oncle, maçon, avait mal au dos dès cinquante ans. On pourrait permettre aux personnes dont le métier est pénible de partir plus tôt et proposer une retraite progressive aux autres. En définitive, il faut plus de souplesse."
+  }
+ ]
+}

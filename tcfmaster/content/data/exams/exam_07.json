@@ -1,0 +1,1974 @@
+{
+ "code": "EXAM-07",
+ "title": "Examen blanc n° 7 – Famille, sécurité et vie locale",
+ "level": "B2",
+ "description": "Examen complet calibré B1–B2 : parentalité, sécurité, accessibilité, langues, vie associative.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "F: Bonjour, c'est la crèche Les Petits Pas. Votre fille Inès a un peu de fièvre, 38,5. Ce n'est pas grave, mais pouvez-vous venir la chercher avant midi ? Merci.",
+   "prompt": "Que demande la crèche ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De laisser l'enfant jusqu'au soir.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "B",
+     "text": "D'apporter des médicaments.",
+     "correct": false,
+     "rationale": "Ce n'est pas demandé."
+    },
+    {
+     "label": "C",
+     "text": "D'appeler le médecin.",
+     "correct": false,
+     "rationale": "Ce n'est pas demandé."
+    },
+    {
+     "label": "D",
+     "text": "De venir chercher l'enfant avant midi.",
+     "correct": true,
+     "rationale": "« pouvez-vous venir la chercher avant midi ? »"
+    }
+   ],
+   "explanation": "La demande est à la fin du message, introduite par « pouvez-vous ».",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Chers parents, la kermesse de l'école aura lieu samedi 22 juin, de 14 h à 18 h, dans la cour. Jeux, tombola et goûter pour tous. Venez nombreux !",
+   "prompt": "Où se passe la kermesse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Au gymnase.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Dans la salle des fêtes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Au parc municipal.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Dans la cour de l'école.",
+     "correct": true,
+     "rationale": "« dans la cour »."
+    }
+   ],
+   "explanation": "Repérez le lieu : « dans la cour ».",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "H: Tu as acheté le cadeau pour l'anniversaire de maman ? / F: Pas encore. Je pensais à un livre, mais elle en a déjà beaucoup. / H: Et un bouquet de fleurs avec un dîner au restaurant ? / F: Oui, c'est une très bonne idée !",
+   "prompt": "Qu'est-ce qu'ils vont offrir ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Des fleurs uniquement.",
+     "correct": false,
+     "rationale": "Il y a aussi le dîner."
+    },
+    {
+     "label": "B",
+     "text": "Des fleurs et un dîner au restaurant.",
+     "correct": true,
+     "rationale": "Proposition acceptée : « c'est une très bonne idée ! »"
+    },
+    {
+     "label": "C",
+     "text": "Un livre.",
+     "correct": false,
+     "rationale": "Elle en a déjà beaucoup."
+    },
+    {
+     "label": "D",
+     "text": "Un voyage.",
+     "correct": false,
+     "rationale": "Ce n'est pas proposé."
+    }
+   ],
+   "explanation": "La dernière proposition est acceptée.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "F: Excusez-moi, vous pourriez m'aider ? Je suis en fauteuil roulant et l'ascenseur de la station est en panne. / H: Bien sûr. Il y a une autre sortie avec une rampe, à cent mètres. Je vous accompagne ? / F: Merci, c'est très gentil.",
+   "prompt": "Que fait l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il appelle un taxi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Il refuse d'aider.",
+     "correct": false,
+     "rationale": "Il aide."
+    },
+    {
+     "label": "C",
+     "text": "Il propose d'accompagner la femme vers une sortie accessible.",
+     "correct": true,
+     "rationale": "« Je vous accompagne ? »"
+    },
+    {
+     "label": "D",
+     "text": "Il répare l'ascenseur.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "L'homme répond en donnant une information et en proposant son aide.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "H: Bonjour Madame Tremblay, ici le centre de langues. Votre test de niveau indique un niveau B1. Nous vous proposons donc le cours intermédiaire, le mardi et le jeudi soir, de 18 h 30 à 20 h. Les cours commencent le 15 septembre. Rappelez-nous pour confirmer votre inscription.",
+   "prompt": "Quel cours propose-t-on à Mme Tremblay ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le cours intermédiaire, deux soirs par semaine.",
+     "correct": true,
+     "rationale": "Le mardi et le jeudi soir."
+    },
+    {
+     "label": "B",
+     "text": "Le cours débutant.",
+     "correct": false,
+     "rationale": "Elle a un niveau B1."
+    },
+    {
+     "label": "C",
+     "text": "Un cours le samedi matin.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Un cours intensif tous les jours.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Donc » relie le niveau au choix du cours.",
+   "speakers": [
+    "H:fr-CA"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information précise",
+   "document": "F: Attention aux faux agents des eaux ! La police signale plusieurs cas d'escroquerie : des individus se présentent chez des personnes âgées en prétendant vérifier les canalisations, puis volent bijoux et argent. Rappel : les vrais agents prennent toujours rendez-vous et présentent une carte professionnelle.",
+   "prompt": "Comment reconnaître un vrai agent ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il demande de l'argent.",
+     "correct": false,
+     "rationale": "Ce n'est pas un critère."
+    },
+    {
+     "label": "B",
+     "text": "Il vient sans prévenir.",
+     "correct": false,
+     "rationale": "C'est ce que font les escrocs."
+    },
+    {
+     "label": "C",
+     "text": "Il porte un uniforme.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Il prend rendez-vous et montre une carte professionnelle.",
+     "correct": true,
+     "rationale": "C'est le rappel final."
+    }
+   ],
+   "explanation": "« Prétendre » = affirmer quelque chose de faux. Le rappel donne les critères fiables.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Vous élevez vos enfants en parlant trois langues à la maison. Ce n'est pas trop compliqué ? / F: Au début, mon fils mélangeait tout ! Mais maintenant, à six ans, il passe d'une langue à l'autre sans effort. C'est une vraie richesse : il peut parler avec ses grands-parents au Maroc et en Espagne.",
+   "prompt": "Que pense la mère du plurilinguisme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "C'est une grande richesse pour son fils.",
+     "correct": true,
+     "rationale": "« C'est une vraie richesse »."
+    },
+    {
+     "label": "B",
+     "text": "Son fils mélange toujours les langues.",
+     "correct": false,
+     "rationale": "C'était au début."
+    },
+    {
+     "label": "C",
+     "text": "C'est trop difficile pour les enfants.",
+     "correct": false,
+     "rationale": "Il parle maintenant sans effort."
+    },
+    {
+     "label": "D",
+     "text": "Il faut choisir une seule langue.",
+     "correct": false,
+     "rationale": "Ce n'est pas son avis."
+    }
+   ],
+   "explanation": "L'opposition « au début… maintenant » montre l'évolution.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: La police municipale rappelle qu'à partir du 1er juillet, la vitesse sera limitée à 30 km/h dans toutes les rues de la ville, à l'exception des grands boulevards, où elle reste fixée à 50 km/h.",
+   "prompt": "Quelle est la vitesse maximale sur les grands boulevards ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "30 km/h.",
+     "correct": false,
+     "rationale": "Les boulevards sont une exception."
+    },
+    {
+     "label": "B",
+     "text": "20 km/h.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "70 km/h.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "50 km/h.",
+     "correct": true,
+     "rationale": "« où elle reste fixée à 50 km/h »."
+    }
+   ],
+   "explanation": "« À l'exception de » introduit une exception à la règle générale.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "situation administrative",
+   "skill": "information précise",
+   "document": "F: Bonjour, je viens déclarer le vol de mon vélo. / H: Vous avez le numéro de gravage ? / F: Oui, je l'ai noté sur mon téléphone. / H: Très bien. Vous pouvez aussi faire une pré-plainte en ligne la prochaine fois, ça vous évitera d'attendre. Je vais enregistrer votre déclaration.",
+   "prompt": "Que conseille le policier pour la prochaine fois ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "D'acheter un antivol.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "De commencer la plainte sur Internet.",
+     "correct": true,
+     "rationale": "« faire une pré-plainte en ligne »."
+    },
+    {
+     "label": "C",
+     "text": "De venir plus tôt le matin.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "De ne pas déclarer le vol.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« La prochaine fois » introduit un conseil pour l'avenir.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "conversation professionnelle",
+   "skill": "information précise",
+   "document": "H: On organise l'atelier de prévention des risques pour les nouveaux salariés ? / F: Oui, le jeudi 8, de 9 h à 11 h. Il faudra prévoir une salle de vingt places. / H: La salle B ne fait que quinze places. / F: Alors prenons l'auditorium.",
+   "prompt": "Où aura lieu l'atelier ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dans un bureau.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Dans la salle B.",
+     "correct": false,
+     "rationale": "Elle est trop petite."
+    },
+    {
+     "label": "C",
+     "text": "À l'extérieur de l'entreprise.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Dans l'auditorium.",
+     "correct": true,
+     "rationale": "« Alors prenons l'auditorium »."
+    }
+   ],
+   "explanation": "« Alors » introduit la décision finale.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-BE"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "opinion",
+   "document": "H: Il faudrait installer des caméras de surveillance dans toutes les rues. / F: Les caméras peuvent aider à résoudre certaines enquêtes, je ne le nie pas. Mais elles ne remplacent pas une présence humaine. Et surveiller tout le monde en permanence, c'est une atteinte à la vie privée. Je préférerais plus de policiers de proximité.",
+   "prompt": "Quelle est la position de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle pense que les caméras sont inutiles.",
+     "correct": false,
+     "rationale": "Elle reconnaît leur utilité pour les enquêtes."
+    },
+    {
+     "label": "B",
+     "text": "Elle préfère une présence policière humaine aux caméras généralisées.",
+     "correct": true,
+     "rationale": "« Je préférerais plus de policiers de proximité »."
+    },
+    {
+     "label": "C",
+     "text": "Elle veut supprimer la police.",
+     "correct": false,
+     "rationale": "Elle veut plus de policiers."
+    },
+    {
+     "label": "D",
+     "text": "Elle veut des caméras partout.",
+     "correct": false,
+     "rationale": "Elle s'y oppose."
+    }
+   ],
+   "explanation": "« Je ne le nie pas. Mais » : concession puis objection.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "H: Selon une enquête, quatre parents sur dix disent ne pas savoir comment encadrer l'usage des écrans de leurs enfants. Le ministère lance une campagne d'information avec des conseils simples : pas d'écran avant trois ans, pas de téléphone dans la chambre la nuit, et des moments sans écran en famille.",
+   "prompt": "Pourquoi le ministère lance-t-il cette campagne ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour vendre des tablettes.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objectif."
+    },
+    {
+     "label": "B",
+     "text": "Parce que beaucoup de parents se sentent démunis face aux écrans.",
+     "correct": true,
+     "rationale": "« ne pas savoir comment encadrer l'usage des écrans »."
+    },
+    {
+     "label": "C",
+     "text": "Pour interdire les écrans à l'école.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce que les enfants n'utilisent plus d'écrans.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    }
+   ],
+   "explanation": "La cause est donnée par l'enquête au début.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "F: Votre café emploie uniquement des personnes en situation de handicap. Pourquoi ce choix ? / H: Parce que les entreprises les recrutent encore trop peu, alors qu'elles sont parfaitement compétentes. Nous adaptons simplement les postes : des commandes illustrées, un rythme de travail ajusté. Et les clients reviennent pour la qualité du café, pas par charité.",
+   "prompt": "Comment le café adapte-t-il le travail ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "En ne servant que des boissons froides.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "En réduisant le nombre de clients.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Avec des commandes illustrées et un rythme ajusté.",
+     "correct": true,
+     "rationale": "Ce sont les adaptations citées."
+    },
+    {
+     "label": "D",
+     "text": "En fermant le week-end.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Simplement » souligne que les adaptations sont modestes.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "message téléphonique",
+   "skill": "implicite",
+   "document": "H: Coucou ma chérie, c'est papa. Je voulais juste te dire que j'ai bien reçu le nouveau téléphone que tu m'as offert. Il est très beau. J'ai réussi à l'allumer… C'est déjà ça. Pour le reste, on verra quand tu passeras dimanche, d'accord ?",
+   "prompt": "Que comprend-on ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le père a du mal à utiliser son nouveau téléphone.",
+     "correct": true,
+     "rationale": "« J'ai réussi à l'allumer… C'est déjà ça »."
+    },
+    {
+     "label": "B",
+     "text": "Le père n'aime pas le cadeau.",
+     "correct": false,
+     "rationale": "Il le trouve beau."
+    },
+    {
+     "label": "C",
+     "text": "Le téléphone est en panne.",
+     "correct": false,
+     "rationale": "Il a réussi à l'allumer."
+    },
+    {
+     "label": "D",
+     "text": "Le père maîtrise parfaitement le téléphone.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    }
+   ],
+   "explanation": "« C'est déjà ça » = c'est un petit progrès. Il attend l'aide de sa fille.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "relation logique",
+   "document": "F: Les accidents du travail ont diminué de moitié dans l'atelier. / H: C'est grâce aux formations ? / F: En partie. Mais surtout, on a réorganisé les postes pour que les salariés ne portent plus de charges lourdes seuls. Les formations, c'est bien, mais si l'environnement reste dangereux, ça ne suffit pas.",
+   "prompt": "Selon la femme, qu'est-ce qui explique surtout la baisse des accidents ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La réorganisation des postes de travail.",
+     "correct": true,
+     "rationale": "« Mais surtout, on a réorganisé les postes »."
+    },
+    {
+     "label": "B",
+     "text": "L'embauche de nouveaux salariés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "L'achat de nouvelles machines.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les formations uniquement.",
+     "correct": false,
+     "rationale": "« En partie » seulement."
+    }
+   ],
+   "explanation": "« En partie. Mais surtout » hiérarchise les causes.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-CH"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "H: Vous êtes à l'origine d'un réseau de « voisins solidaires ». Comment ça fonctionne ? / F: C'est une plateforme où chacun indique ce qu'il peut offrir : arroser des plantes, garder un enfant une heure, prêter une échelle. Pas d'argent, juste des services rendus. Ce qui m'a surprise, c'est que les personnes âgées sont les plus actives : elles proposent du temps, et c'est précieux.",
+   "prompt": "Qu'est-ce qui a surpris la fondatrice ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le manque de participants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "La participation des jeunes uniquement.",
+     "correct": false,
+     "rationale": "Ce sont les âgés les plus actifs."
+    },
+    {
+     "label": "C",
+     "text": "L'engagement important des personnes âgées.",
+     "correct": true,
+     "rationale": "« les personnes âgées sont les plus actives »."
+    },
+    {
+     "label": "D",
+     "text": "Le fait que les services soient payants.",
+     "correct": false,
+     "rationale": "« Pas d'argent »."
+    }
+   ],
+   "explanation": "« Ce qui m'a surprise, c'est » met en relief l'information.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-CA"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Le conseil municipal des jeunes recrute ! Les jeunes de 11 à 15 ans habitant la commune peuvent déposer leur candidature jusqu'au 15 octobre. Les élus, choisis par vote dans les collèges, se réuniront une fois par mois pour proposer des projets financés par la mairie.",
+   "prompt": "Comment les jeunes élus seront-ils choisis ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Par tirage au sort.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Par leurs parents.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Par un vote dans les collèges.",
+     "correct": true,
+     "rationale": "« choisis par vote dans les collèges »."
+    },
+    {
+     "label": "D",
+     "text": "Par le maire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Repérez le mode de désignation.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: Les cambriolages ont augmenté de quinze pour cent pendant les vacances d'été. La gendarmerie rappelle l'existence de l'opération « Tranquillité vacances » : il suffit de signaler son absence pour que des patrouilles passent régulièrement devant le domicile. Un service gratuit encore trop peu connu.",
+   "prompt": "Quel est le problème de l'opération « Tranquillité vacances » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle ne fonctionne pas.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Elle a été supprimée.",
+     "correct": false,
+     "rationale": "Elle existe."
+    },
+    {
+     "label": "C",
+     "text": "Elle n'est pas assez connue.",
+     "correct": true,
+     "rationale": "« Un service gratuit encore trop peu connu »."
+    },
+    {
+     "label": "D",
+     "text": "Elle est trop chère.",
+     "correct": false,
+     "rationale": "Elle est gratuite."
+    }
+   ],
+   "explanation": "La dernière phrase donne l'information demandée.",
+   "speakers": [
+    "H:fr-BE"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "H: Les enfants devraient apprendre une langue étrangère dès la maternelle. / F: Je suis d'accord sur le principe, mais à condition d'avoir des enseignants formés. Une langue mal enseignée, avec un mauvais accent, peut faire plus de mal que de bien. Il vaut mieux commencer un peu plus tard avec de bons professeurs.",
+   "prompt": "À quelle condition la femme est-elle d'accord ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Si les enseignants sont bien formés.",
+     "correct": true,
+     "rationale": "« à condition d'avoir des enseignants formés »."
+    },
+    {
+     "label": "B",
+     "text": "Si les enfants le demandent.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Si les parents paient les cours.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Si l'on commence avant la maternelle.",
+     "correct": false,
+     "rationale": "Elle préfère commencer plus tard."
+    }
+   ],
+   "explanation": "« À condition de » exprime une condition nécessaire.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "implicite",
+   "document": "H: Vous êtes maire d'un village de trois cents habitants. Quel est votre principal défi ? / F: Garder l'école ouverte. Il nous faut au moins quinze élèves. Alors quand une famille avec trois enfants visite une maison à vendre, je vous assure que tout le village est très accueillant… et que la boulangère offre des croissants.",
+   "prompt": "Que laisse entendre la maire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'école a déjà fermé.",
+     "correct": false,
+     "rationale": "Elle cherche à la garder ouverte."
+    },
+    {
+     "label": "B",
+     "text": "Le village n'aime pas les nouveaux habitants.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "C",
+     "text": "La boulangère est sa fille.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le village fait tout pour attirer les familles avec enfants.",
+     "correct": true,
+     "rationale": "Accueil chaleureux et croissants offerts pour sauver l'école."
+    }
+   ],
+   "explanation": "L'humour suggère une stratégie collective d'accueil intéressée.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "F: Une nouvelle loi oblige les établissements recevant du public à rendre leurs sites internet accessibles aux personnes malvoyantes d'ici deux ans. Les associations saluent cette avancée, tout en regrettant l'absence de sanctions financières significatives, qui risque, selon elles, de ralentir sa mise en œuvre.",
+   "prompt": "Que regrettent les associations ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'obligation imposée aux établissements.",
+     "correct": false,
+     "rationale": "Elles la soutiennent."
+    },
+    {
+     "label": "B",
+     "text": "L'absence de sanctions financières importantes.",
+     "correct": true,
+     "rationale": "« en regrettant l'absence de sanctions financières significatives »."
+    },
+    {
+     "label": "C",
+     "text": "Le délai trop long.",
+     "correct": false,
+     "rationale": "Ce n'est pas leur critique."
+    },
+    {
+     "label": "D",
+     "text": "La loi elle-même.",
+     "correct": false,
+     "rationale": "Elles la saluent."
+    }
+   ],
+   "explanation": "« Tout en » exprime une simultanéité avec nuance.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "F: Monsieur Girard, je voulais vous signaler que plusieurs collègues se sont plaints de vos remarques en réunion. / H: Mes remarques ? Je donne simplement mon avis franchement. / F: La franchise, c'est bien. Mais quand elle devient blessante, elle nuit à l'équipe. Je vous propose de suivre une formation sur la communication.",
+   "prompt": "Que propose la responsable ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une formation à la communication.",
+     "correct": true,
+     "rationale": "« Je vous propose de suivre une formation sur la communication »."
+    },
+    {
+     "label": "B",
+     "text": "Une sanction disciplinaire.",
+     "correct": false,
+     "rationale": "Ce n'est pas proposé."
+    },
+    {
+     "label": "C",
+     "text": "Un changement d'équipe.",
+     "correct": false,
+     "rationale": "Ce n'est pas proposé."
+    },
+    {
+     "label": "D",
+     "text": "Une augmentation.",
+     "correct": false,
+     "rationale": "Ce n'est pas proposé."
+    }
+   ],
+   "explanation": "Elle distingue franchise et propos blessants avant de proposer une solution.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "F: Interdire la fessée par la loi, c'était nécessaire. / H: Personne ne défend la violence. Mais l'État n'a pas à entrer dans les familles. / F: L'État entre déjà dans les familles quand il protège un enfant maltraité. La loi ne vise pas à punir les parents, mais à affirmer une norme : on n'éduque pas par la peur. Les pays qui l'ont adoptée ont vu les mentalités évoluer en une génération.",
+   "prompt": "Quel argument la femme utilise-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La loi sert surtout à fixer une norme éducative.",
+     "correct": true,
+     "rationale": "« La loi ne vise pas à punir les parents, mais à affirmer une norme »."
+    },
+    {
+     "label": "B",
+     "text": "Les parents doivent être emprisonnés.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objectif selon elle."
+    },
+    {
+     "label": "C",
+     "text": "L'État ne doit jamais intervenir dans les familles.",
+     "correct": false,
+     "rationale": "C'est l'argument de l'homme."
+    },
+    {
+     "label": "D",
+     "text": "La fessée est efficace.",
+     "correct": false,
+     "rationale": "Ce n'est pas son avis."
+    }
+   ],
+   "explanation": "Elle réfute l'argument adverse puis s'appuie sur l'exemple d'autres pays.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-BE"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous êtes sociologue. La solitude progresse-t-elle ? / H: Paradoxalement, oui, alors que nous n'avons jamais été aussi connectés. Le problème, c'est que les relations numériques remplacent parfois les liens de proximité au lieu de les compléter. Ce qui protège de la solitude, ce n'est pas le nombre de contacts, c'est la qualité de quelques relations solides.",
+   "prompt": "Selon le sociologue, qu'est-ce qui protège de la solitude ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le travail.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Quelques relations solides et de qualité.",
+     "correct": true,
+     "rationale": "« c'est la qualité de quelques relations solides »."
+    },
+    {
+     "label": "C",
+     "text": "Les réseaux sociaux.",
+     "correct": false,
+     "rationale": "Ils peuvent remplacer les liens de proximité."
+    },
+    {
+     "label": "D",
+     "text": "Un grand nombre de contacts.",
+     "correct": false,
+     "rationale": "« ce n'est pas le nombre de contacts »."
+    }
+   ],
+   "explanation": "La structure « ce n'est pas X, c'est Y » donne la réponse.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "implicite",
+   "document": "H: La mairie a inauguré hier, en grande pompe, une nouvelle rampe d'accès pour fauteuils roulants devant l'hôtel de ville. Une avancée saluée par tous… même si, détail amusant, la rampe mène à une porte qui ne s'ouvre que de l'intérieur.",
+   "prompt": "Que souligne le journaliste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'efficacité de la mairie.",
+     "correct": false,
+     "rationale": "Le ton est ironique."
+    },
+    {
+     "label": "B",
+     "text": "Le coût élevé de la rampe.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "L'absence de fauteuils roulants dans la ville.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "L'absurdité d'un aménagement mal pensé.",
+     "correct": true,
+     "rationale": "La rampe mène à une porte inutilisable de l'extérieur."
+    }
+   ],
+   "explanation": "« Détail amusant » est ironique : le défaut rend l'aménagement inutile.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "Atelier parents-enfants : fabriquez vos décorations de Noël ! Samedi 9 décembre, de 10 h à 12 h, à la médiathèque. Pour les enfants de 4 à 8 ans accompagnés d'un adulte. Gratuit, inscription obligatoire à l'accueil.",
+   "prompt": "Que faut-il faire pour participer ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Payer à l'entrée.",
+     "correct": false,
+     "rationale": "C'est gratuit."
+    },
+    {
+     "label": "B",
+     "text": "S'inscrire à l'accueil.",
+     "correct": true,
+     "rationale": "« inscription obligatoire à l'accueil »."
+    },
+    {
+     "label": "C",
+     "text": "Apporter des décorations.",
+     "correct": false,
+     "rationale": "On les fabrique."
+    },
+    {
+     "label": "D",
+     "text": "Venir sans adulte.",
+     "correct": false,
+     "rationale": "Un adulte doit accompagner."
+    }
+   ],
+   "explanation": "« Obligatoire » indique une condition."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Mamie, je ne pourrai pas venir déjeuner dimanche, j'ai un match de foot. Je viendrai mercredi après l'école, d'accord ? Je t'apporterai les photos de mes vacances. Bisous, Hugo.",
+   "prompt": "Quand Hugo va-t-il voir sa grand-mère ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Mercredi après l'école.",
+     "correct": true,
+     "rationale": "« Je viendrai mercredi après l'école »."
+    },
+    {
+     "label": "B",
+     "text": "Dimanche.",
+     "correct": false,
+     "rationale": "Il a un match."
+    },
+    {
+     "label": "C",
+     "text": "Pendant les vacances.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Samedi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Le message annonce un changement de jour."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "affiche",
+   "skill": "information précise",
+   "document": "PARC MUNICIPAL – Les chiens doivent être tenus en laisse. Interdit aux vélos dans les allées. Ouvert de 8 h à 20 h en été et de 8 h à 18 h en hiver.",
+   "prompt": "À quelle heure le parc ferme-t-il en hiver ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il ne ferme pas.",
+     "correct": false,
+     "rationale": "Il a des horaires."
+    },
+    {
+     "label": "B",
+     "text": "À 20 heures.",
+     "correct": false,
+     "rationale": "C'est en été."
+    },
+    {
+     "label": "C",
+     "text": "À 18 heures.",
+     "correct": true,
+     "rationale": "« de 8 h à 18 h en hiver »."
+    },
+    {
+     "label": "D",
+     "text": "À 8 heures.",
+     "correct": false,
+     "rationale": "C'est l'ouverture."
+    }
+   ],
+   "explanation": "Distinguez les horaires d'été et d'hiver."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "courriel",
+   "skill": "intention",
+   "document": "Madame la Directrice, je souhaiterais vous rencontrer au sujet de mon fils Adam, en classe de CE2. Depuis quelques semaines, il ne veut plus aller à l'école et se plaint de moqueries de la part de certains camarades. Je suis très inquiète. Pourriez-vous me proposer un rendez-vous ? Respectueusement, Mme Benali",
+   "prompt": "Pourquoi Mme Benali écrit-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour inscrire son fils à l'école.",
+     "correct": false,
+     "rationale": "Il y est déjà."
+    },
+    {
+     "label": "B",
+     "text": "Pour signaler une absence.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objet."
+    },
+    {
+     "label": "C",
+     "text": "Pour féliciter l'enseignante.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objet."
+    },
+    {
+     "label": "D",
+     "text": "Pour parler d'un problème de harcèlement concernant son fils.",
+     "correct": true,
+     "rationale": "Il se plaint de moqueries et ne veut plus aller à l'école."
+    }
+   ],
+   "explanation": "La demande de rendez-vous est justifiée par l'inquiétude de la mère."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "À Bordeaux, des retraités bénévoles accompagnent les enfants à l'école à pied, sous forme de « pédibus ». Chaque matin, ils suivent un itinéraire fixe avec des arrêts, comme un bus. Les parents gagnent du temps, les enfants font de l'exercice, et les rues sont moins encombrées de voitures.",
+   "prompt": "Qu'est-ce qu'un « pédibus » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un bus scolaire électrique.",
+     "correct": false,
+     "rationale": "C'est à pied."
+    },
+    {
+     "label": "B",
+     "text": "Une garderie.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Un vélo collectif.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Un accompagnement à pied des enfants jusqu'à l'école.",
+     "correct": true,
+     "rationale": "Des bénévoles accompagnent les enfants à pied."
+    }
+   ],
+   "explanation": "Le mot combine « pied » et « bus » : un trajet organisé à pied."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Monsieur, votre enfant a été inscrit à l'accueil de loisirs pour les vacances de printemps. Nous vous rappelons que le paiement doit être effectué avant le 1er avril sur le portail famille. En cas d'absence de votre enfant, les journées ne seront remboursées que sur présentation d'un certificat médical.",
+   "prompt": "Dans quel cas les journées d'absence sont-elles remboursées ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Avec un certificat médical.",
+     "correct": true,
+     "rationale": "« que sur présentation d'un certificat médical »."
+    },
+    {
+     "label": "B",
+     "text": "Toujours.",
+     "correct": false,
+     "rationale": "Seulement avec un certificat."
+    },
+    {
+     "label": "C",
+     "text": "Jamais.",
+     "correct": false,
+     "rationale": "Avec un certificat, c'est possible."
+    },
+    {
+     "label": "D",
+     "text": "Si les parents préviennent la veille.",
+     "correct": false,
+     "rationale": "Ce n'est pas suffisant."
+    }
+   ],
+   "explanation": "« Ne… que » = seulement."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "publicité",
+   "skill": "information précise",
+   "document": "Sécurisez votre maison avec ProtectHome ! Alarme connectée, caméra et détecteurs de fumée installés en une journée. Contrôlez tout depuis votre téléphone. Premier mois offert, puis 29,90 € par mois. Installation gratuite.",
+   "prompt": "Qu'est-ce qui est gratuit ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Tous les mois.",
+     "correct": false,
+     "rationale": "Après, 29,90 €."
+    },
+    {
+     "label": "B",
+     "text": "Le téléphone.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les réparations.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "L'installation et le premier mois.",
+     "correct": true,
+     "rationale": "« Premier mois offert » et « Installation gratuite »."
+    }
+   ],
+   "explanation": "Relevez tous les éléments gratuits."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "À tous les employés : un exercice d'évacuation incendie aura lieu cette semaine, sans date annoncée. Au signal sonore, quittez immédiatement votre poste par l'escalier le plus proche, sans utiliser les ascenseurs, et rejoignez le point de rassemblement sur le parking nord.",
+   "prompt": "Que faut-il éviter pendant l'exercice ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Prendre l'ascenseur.",
+     "correct": true,
+     "rationale": "« sans utiliser les ascenseurs »."
+    },
+    {
+     "label": "B",
+     "text": "Quitter son poste.",
+     "correct": false,
+     "rationale": "Il faut le quitter."
+    },
+    {
+     "label": "C",
+     "text": "Aller sur le parking nord.",
+     "correct": false,
+     "rationale": "C'est le point de rassemblement."
+    },
+    {
+     "label": "D",
+     "text": "Prendre l'escalier.",
+     "correct": false,
+     "rationale": "C'est ce qu'il faut faire."
+    }
+   ],
+   "explanation": "« Sans + infinitif » indique ce qu'il ne faut pas faire."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« Je suis devenu pompier volontaire il y a cinq ans, en plus de mon travail de boulanger. Ce n'est pas toujours facile de concilier les deux, surtout les nuits de garde. Mais quand on aide quelqu'un dans un moment difficile, on oublie la fatigue. » Thomas, 33 ans.",
+   "prompt": "Qu'est-ce qui motive Thomas ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le salaire.",
+     "correct": false,
+     "rationale": "Il est volontaire."
+    },
+    {
+     "label": "B",
+     "text": "Les nuits de garde.",
+     "correct": false,
+     "rationale": "Elles sont difficiles."
+    },
+    {
+     "label": "C",
+     "text": "Le désir de quitter la boulangerie.",
+     "correct": false,
+     "rationale": "Il continue son travail."
+    },
+    {
+     "label": "D",
+     "text": "Le sentiment d'aider les autres.",
+     "correct": true,
+     "rationale": "« quand on aide quelqu'un… on oublie la fatigue »."
+    }
+   ],
+   "explanation": "« Concilier » = faire deux choses en même temps."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Les « cafés des parents » se multiplient dans les écoles. Une fois par mois, des parents se retrouvent autour d'un café pour échanger sur l'éducation, avec parfois l'aide d'un psychologue. L'objectif n'est pas de donner des leçons, mais de rompre l'isolement de parents qui se sentent souvent seuls face aux difficultés.",
+   "prompt": "Quel est l'objectif principal de ces rencontres ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Donner des cours aux parents.",
+     "correct": false,
+     "rationale": "« L'objectif n'est pas de donner des leçons »."
+    },
+    {
+     "label": "B",
+     "text": "Organiser des fêtes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Remplacer les enseignants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Rompre l'isolement des parents.",
+     "correct": true,
+     "rationale": "« rompre l'isolement de parents »."
+    }
+   ],
+   "explanation": "« Non pas X, mais Y » précise l'objectif."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "On voudrait nous faire croire que l'insécurité explose. Pourtant, selon les statistiques officielles, les homicides ont nettement diminué en trente ans. Ce qui a augmenté, c'est la médiatisation des faits divers, diffusés en boucle sur les chaînes d'information. Le sentiment d'insécurité ne suit pas forcément la réalité des chiffres.",
+   "prompt": "Que veut montrer l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faut plus de policiers.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "L'insécurité a beaucoup augmenté.",
+     "correct": false,
+     "rationale": "C'est l'idée qu'il conteste."
+    },
+    {
+     "label": "C",
+     "text": "Les statistiques sont fausses.",
+     "correct": false,
+     "rationale": "Il s'appuie sur elles."
+    },
+    {
+     "label": "D",
+     "text": "Le sentiment d'insécurité dépend en partie des médias.",
+     "correct": true,
+     "rationale": "La médiatisation a augmenté, pas les homicides."
+    }
+   ],
+   "explanation": "« Pourtant » introduit les données contradictoires."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Chers parents, en raison d'un mouvement de grève, la cantine ne sera pas assurée jeudi. Nous vous invitons à prévoir un repas froid pour votre enfant ou, à défaut, à venir le chercher à midi.",
+   "prompt": "Que signifie « ne sera pas assurée » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "ne sera pas sécurisée.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "B",
+     "text": "sera remplacée par un restaurant.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "ne sera pas payante.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "D",
+     "text": "ne fonctionnera pas.",
+     "correct": true,
+     "rationale": "Les enfants doivent prévoir un repas."
+    }
+   ],
+   "explanation": "« Assurer un service » = le faire fonctionner."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Pour lutter contre le harcèlement scolaire, un collège a formé des élèves « ambassadeurs ». Repérés pour leur écoute et leur bienveillance, ils sont chargés de signaler les situations préoccupantes aux adultes et d'accompagner les élèves isolés. En un an, les signalements ont doublé, signe, selon la direction, que la parole se libère.",
+   "prompt": "Comment la direction interprète-t-elle le doublement des signalements ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Comme un échec du programme.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Comme une hausse du harcèlement.",
+     "correct": false,
+     "rationale": "Ce n'est pas son interprétation."
+    },
+    {
+     "label": "C",
+     "text": "Comme le signe que les élèves osent davantage parler.",
+     "correct": true,
+     "rationale": "« signe… que la parole se libère »."
+    },
+    {
+     "label": "D",
+     "text": "Comme une erreur de calcul.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Un chiffre peut être interprété de plusieurs façons ; ici, positivement."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, votre demande de logement adapté à votre handicap a été transmise à la commission d'attribution. Afin de compléter votre dossier, nous vous prions de nous faire parvenir, sous quinze jours, la notification de la MDPH précisant votre taux d'incapacité. Sans ce document, la commission ne pourra pas statuer.",
+   "prompt": "Que se passe-t-il si le document n'est pas envoyé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La personne devra payer des frais.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "La commission ne pourra pas prendre de décision.",
+     "correct": true,
+     "rationale": "« la commission ne pourra pas statuer »."
+    },
+    {
+     "label": "C",
+     "text": "La demande sera acceptée plus tard.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le logement sera attribué automatiquement.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    }
+   ],
+   "explanation": "« Statuer » = prendre une décision officielle."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "On reproche souvent aux parents d'aujourd'hui d'être trop protecteurs. Il est vrai que les enfants jouent moins dehors qu'autrefois. Mais cette prudence s'explique aussi par l'urbanisation : les rues, envahies par les voitures, sont devenues réellement plus dangereuses. Accuser les parents sans repenser la ville serait donc injuste.",
+   "prompt": "Quelle est la conclusion de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les voitures doivent être interdites.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les enfants jouent plus dehors qu'avant.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "C",
+     "text": "Les parents sont trop protecteurs.",
+     "correct": false,
+     "rationale": "Il nuance cette idée."
+    },
+    {
+     "label": "D",
+     "text": "Il faut aussi repenser la ville au lieu de blâmer les parents.",
+     "correct": true,
+     "rationale": "« Accuser les parents sans repenser la ville serait donc injuste »."
+    }
+   ],
+   "explanation": "« Il est vrai que… Mais » : concession puis argument."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "Le projet de fusion de deux écoles rurales suscite des réactions contrastées. L'inspection académique met en avant de meilleures conditions d'enseignement. Les parents s'inquiètent des trajets plus longs pour leurs enfants, tandis que les élus locaux redoutent que la fermeture d'une école n'accélère le déclin du village.",
+   "prompt": "Que craignent les élus locaux ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De moins bonnes conditions d'enseignement.",
+     "correct": false,
+     "rationale": "L'inspection pense le contraire."
+    },
+    {
+     "label": "B",
+     "text": "Le déclin du village.",
+     "correct": true,
+     "rationale": "« redoutent que la fermeture d'une école n'accélère le déclin du village »."
+    },
+    {
+     "label": "C",
+     "text": "Les trajets plus longs.",
+     "correct": false,
+     "rationale": "C'est l'inquiétude des parents."
+    },
+    {
+     "label": "D",
+     "text": "La hausse des impôts.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Redouter que… ne » : « ne » explétif."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "Le congé parental d'éducation permet à un salarié de réduire ou d'interrompre son activité pour s'occuper de son enfant jusqu'à ses trois ans. Pour en bénéficier, il faut justifier d'au moins un an d'ancienneté dans l'entreprise. L'employeur ne peut pas refuser, mais le salarié doit l'informer au moins un mois à l'avance.",
+   "prompt": "Quelle condition faut-il remplir ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Avoir plus de trois enfants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Obtenir l'accord de l'employeur.",
+     "correct": false,
+     "rationale": "Il ne peut pas refuser."
+    },
+    {
+     "label": "C",
+     "text": "Avoir au moins un an d'ancienneté dans l'entreprise.",
+     "correct": true,
+     "rationale": "« justifier d'au moins un an d'ancienneté »."
+    },
+    {
+     "label": "D",
+     "text": "Travailler à temps partiel.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Ancienneté » = durée de présence dans l'entreprise."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« Quand j'ai annoncé que je prenais un congé parental, mon chef m'a félicité… puis m'a demandé si ma femme était malade. » Julien, 36 ans.",
+   "prompt": "Que sous-entend Julien ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Son chef trouve anormal qu'un père prenne un congé parental.",
+     "correct": true,
+     "rationale": "La question suggère que seul un problème justifierait ce choix."
+    },
+    {
+     "label": "B",
+     "text": "Sa femme est malade.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "C",
+     "text": "Son chef est très moderne.",
+     "correct": false,
+     "rationale": "La question montre le contraire."
+    },
+    {
+     "label": "D",
+     "text": "Il a refusé le congé.",
+     "correct": false,
+     "rationale": "Il le prend."
+    }
+   ],
+   "explanation": "L'anecdote révèle un stéréotype de genre."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Faut-il interdire les téléphones portables au collège ? Les partisans soulignent les effets positifs sur la concentration et la diminution du cyberharcèlement pendant les heures de cours. Les opposants rappellent que le téléphone peut être un outil pédagogique et un moyen pour les parents de joindre leurs enfants en cas d'urgence.",
+   "prompt": "Quel est un argument des opposants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'interdiction améliore la concentration.",
+     "correct": false,
+     "rationale": "C'est l'argument des partisans."
+    },
+    {
+     "label": "B",
+     "text": "Le téléphone permet de joindre les enfants en cas d'urgence.",
+     "correct": true,
+     "rationale": "C'est l'un des arguments cités."
+    },
+    {
+     "label": "C",
+     "text": "Les téléphones coûtent cher.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le cyberharcèlement diminue.",
+     "correct": false,
+     "rationale": "C'est l'argument des partisans."
+    }
+   ],
+   "explanation": "Identifiez les arguments de chaque camp."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "Le nombre de familles monoparentales a doublé en quarante ans. Cette évolution s'explique principalement par l'augmentation des séparations. Elle pose des défis importants, car ces familles, le plus souvent dirigées par des femmes, sont plus exposées à la pauvreté.",
+   "prompt": "Pourquoi cette évolution pose-t-elle des défis ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les pères dirigent ces familles.",
+     "correct": false,
+     "rationale": "Ce sont le plus souvent des femmes."
+    },
+    {
+     "label": "B",
+     "text": "Il y a moins de séparations.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "C",
+     "text": "Les enfants sont moins nombreux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Ces familles sont plus exposées à la pauvreté.",
+     "correct": true,
+     "rationale": "« car ces familles… sont plus exposées à la pauvreté »."
+    }
+   ],
+   "explanation": "« Car » introduit l'explication."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "On exige des parents qu'ils soient tout à la fois éducateurs, psychologues, nutritionnistes et animateurs, sous le regard sévère des réseaux sociaux où s'affichent des familles idéales. Cette injonction à la perfection ne produit pas de meilleurs enfants ; elle produit des parents épuisés et culpabilisés.",
+   "prompt": "Que dénonce l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le manque d'investissement des parents.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "B",
+     "text": "Les enfants mal élevés.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    },
+    {
+     "label": "C",
+     "text": "La pression excessive qui pèse sur les parents.",
+     "correct": true,
+     "rationale": "« injonction à la perfection… parents épuisés et culpabilisés »."
+    },
+    {
+     "label": "D",
+     "text": "Le métier de psychologue.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    }
+   ],
+   "explanation": "« Injonction » = ordre pressant. L'auteur oppose l'effet attendu et l'effet réel."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "sens d'un mot en contexte",
+   "document": "Les associations de quartier ont dû batailler ferme pour obtenir la réouverture du centre social, fermé depuis deux ans faute de financement.",
+   "prompt": "Que signifie « batailler ferme » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "se battre avec énergie et persévérance.",
+     "correct": true,
+     "rationale": "Elles ont lutté pour obtenir la réouverture."
+    },
+    {
+     "label": "B",
+     "text": "accepter rapidement.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "C",
+     "text": "se battre physiquement.",
+     "correct": false,
+     "rationale": "C'est un sens figuré."
+    },
+    {
+     "label": "D",
+     "text": "fermer définitivement.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    }
+   ],
+   "explanation": "« Ferme » est ici un adverbe : avec force."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments contradictoires",
+   "document": "Les défenseurs de la vidéosurveillance algorithmique y voient un outil efficace pour repérer des comportements suspects dans les foules. Ses détracteurs dénoncent un risque d'erreurs et de discriminations, les algorithmes reproduisant les biais de leurs concepteurs. Entre efficacité promise et libertés menacées, le débat ne fait que commencer.",
+   "prompt": "Quel risque soulignent les détracteurs ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'outil ne fonctionne pas dans les foules.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les algorithmes peuvent reproduire des préjugés.",
+     "correct": true,
+     "rationale": "« les algorithmes reproduisant les biais de leurs concepteurs »."
+    },
+    {
+     "label": "C",
+     "text": "L'outil supprime les libertés de la police.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "L'outil est trop cher.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Biais » = préjugé, déformation systématique."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "sous-entendu",
+   "document": "Le ministre a annoncé un grand plan contre le harcèlement scolaire, le cinquième en dix ans. Les enseignants, eux, attendent toujours les formations promises par les quatre précédents.",
+   "prompt": "Que suggère le journaliste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les enseignants ont été très bien formés.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "B",
+     "text": "Les plans successifs n'ont pas été suivis d'effets concrets.",
+     "correct": true,
+     "rationale": "Les formations promises n'ont jamais eu lieu."
+    },
+    {
+     "label": "C",
+     "text": "Le ministre n'a jamais rien annoncé.",
+     "correct": false,
+     "rationale": "Il a annoncé cinq plans."
+    },
+    {
+     "label": "D",
+     "text": "Le harcèlement a disparu.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Le chiffre « cinquième » et « attendent toujours » expriment le scepticisme."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "compréhension globale",
+   "document": "Le Défenseur des droits est une autorité administrative indépendante chargée de veiller au respect des droits et libertés. Toute personne peut le saisir gratuitement, notamment en cas de discrimination, de difficultés avec un service public ou d'atteinte aux droits de l'enfant. Il ne peut pas annuler une décision de justice, mais il peut formuler des recommandations et proposer une médiation.",
+   "prompt": "Que ne peut pas faire le Défenseur des droits ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Annuler une décision de justice.",
+     "correct": true,
+     "rationale": "« Il ne peut pas annuler une décision de justice »."
+    },
+    {
+     "label": "B",
+     "text": "Être saisi gratuitement.",
+     "correct": false,
+     "rationale": "La saisine est gratuite."
+    },
+    {
+     "label": "C",
+     "text": "Formuler des recommandations.",
+     "correct": false,
+     "rationale": "Il le peut."
+    },
+    {
+     "label": "D",
+     "text": "Proposer une médiation.",
+     "correct": false,
+     "rationale": "Il le peut."
+    }
+   ],
+   "explanation": "« Saisir » une autorité = lui soumettre une affaire."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "décrire une personne",
+   "instructions": "Vous écrivez à votre correspondant pour lui décrire un membre de votre famille que vous admirez (qui c'est, son physique, son caractère, pourquoi vous l'admirez) (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Cher Pablo, je voudrais te parler de ma grand-mère Aïcha. Elle a soixante-quinze ans, des cheveux blancs et des yeux très doux. Elle est courageuse et toujours souriante. Elle a élevé six enfants seule et elle cuisine merveilleusement bien. Je l'admire parce qu'elle ne se plaint jamais. Et toi, qui admires-tu ? Amitiés, Sami",
+   "tips": "Justifiez avec « parce que » et utilisez des adjectifs de caractère précis.",
+   "expected_points": [
+    "présenter la personne",
+    "physique",
+    "caractère",
+    "raison de l'admiration"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "décrire un événement",
+   "instructions": "Votre quartier a organisé une journée de nettoyage. Vous écrivez un article pour le bulletin municipal (déroulement, participants, résultats) (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Samedi dernier, une cinquantaine d'habitants du quartier des Tilleuls ont participé à une grande journée de nettoyage. Équipés de gants et de sacs fournis par la mairie, petits et grands ont ramassé les déchets dans le parc et le long de la rivière. En trois heures, plus de deux cents kilos de déchets ont été collectés, dont beaucoup de mégots et de bouteilles en plastique. La matinée s'est terminée par un pique-nique convivial. Rendez-vous l'année prochaine !",
+   "tips": "Un article donne des faits précis (chiffres, lieux) et peut se terminer par une invitation.",
+   "expected_points": [
+    "quand et où",
+    "participants",
+    "actions",
+    "résultats chiffrés",
+    "conclusion"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "justifier une décision",
+   "instructions": "Votre conseil municipal veut installer des caméras de surveillance dans votre rue. Vous écrivez au maire pour soutenir ou contester ce projet, en justifiant votre position (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Monsieur le Maire, je souhaite exprimer mes réserves concernant le projet de caméras dans la rue des Lilas. Certes, la sécurité est une préoccupation légitime. Toutefois, notre rue connaît très peu d'incidents, et ces caméras représenteraient une dépense importante ainsi qu'une atteinte à la vie privée des habitants. Il me semblerait plus utile d'améliorer l'éclairage public et de renforcer la présence de la police municipale. Je vous prie d'agréer mes salutations distinguées.",
+   "tips": "Une lettre formelle commence par « Monsieur le Maire » et se termine par une formule de politesse.",
+   "expected_points": [
+    "registre formel",
+    "position claire",
+    "concession",
+    "arguments",
+    "proposition alternative"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous pose des questions sur votre famille, votre enfance et votre vie dans votre quartier.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Pouvez-vous me parler de votre famille ?",
+    "Où avez-vous grandi ?",
+    "Quel était votre jeu préféré quand vous étiez enfant ?",
+    "Connaissez-vous vos voisins ?",
+    "Que faites-vous en famille le week-end ?",
+    "Comment imaginez-vous votre famille dans dix ans ?"
+   ],
+   "useful_phrases": [
+    "Je suis marié(e) et j'ai…",
+    "J'ai grandi dans…",
+    "Quand j'étais petit(e), j'adorais…",
+    "Avec mes voisins, nous…",
+    "Dans dix ans, j'espère que…"
+   ],
+   "model_answer": "Je suis mariée et j'ai deux enfants de cinq et huit ans. J'ai grandi dans une petite ville au bord de la mer. Quand j'étais petite, j'adorais jouer au ballon avec mes cousins sur la plage. Aujourd'hui, je connais bien mes voisins : nous organisons parfois des repas ensemble. Le week-end, nous allons souvent au parc ou au cinéma en famille."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Organiser une activité avec un ami",
+   "examiner_role": "Ami(e)",
+   "scenario": "Vous voulez organiser une fête surprise pour l'anniversaire d'un ami commun. L'examinateur joue le rôle d'un ami. Discutez de la date, du lieu, des invités, du budget et du cadeau. Proposez, négociez et mettez-vous d'accord.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Super idée ! On la fait où ?",
+    "Chez moi, c'est trop petit.",
+    "Samedi, je ne suis pas libre.",
+    "Combien on invite de personnes ?",
+    "Pour le cadeau, j'avais pensé à un week-end.",
+    "Qui s'occupe de quoi ?"
+   ],
+   "useful_phrases": [
+    "Et si on… ?",
+    "Qu'est-ce que tu dirais de… ?",
+    "Je propose que…",
+    "Ça me paraît un peu…",
+    "On n'a qu'à…"
+   ],
+   "model_answer": "J'ai pensé qu'on pourrait organiser une fête surprise pour les trente ans de Karim. Si ton appartement est trop petit, qu'est-ce que tu dirais de louer la salle de l'association ? Ce n'est pas cher. Si tu n'es pas libre samedi, on n'a qu'à la faire vendredi soir. On invite une vingtaine de personnes ? Un week-end, ça me paraît un peu cher ; on pourrait plutôt lui offrir un baptême de parapente en se partageant les frais."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il privilégier les transports publics ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion : « Faut-il privilégier les transports publics plutôt que la voiture individuelle ? » Argumentez, donnez des exemples, présentez avantages et inconvénients, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Quel est votre avis ?",
+    "Quels sont les avantages des transports publics ?",
+    "Et dans les zones rurales ?",
+    "Que faudrait-il améliorer ?",
+    "Votre conclusion ?"
+   ],
+   "useful_phrases": [
+    "Je considère que…",
+    "En outre…",
+    "Néanmoins…",
+    "Il faut prendre en considération plusieurs facteurs.",
+    "Il serait donc préférable de…"
+   ],
+   "model_answer": "Je considère qu'il faut privilégier les transports publics, surtout en ville. Ils polluent moins, réduisent les embouteillages et coûtent moins cher qu'une voiture. En outre, on peut lire ou travailler pendant le trajet. Néanmoins, dans les zones rurales, les bus sont rares et la voiture reste indispensable. Il faut donc prendre en considération le territoire. Il serait préférable d'investir massivement dans les transports en ville et de développer le covoiturage à la campagne."
+  }
+ ]
+}

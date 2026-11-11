@@ -1,0 +1,490 @@
+@code EXAM-17
+@title Examen blanc n° 17 – Inclusion, forêts et transformations urbaines
+@level B2
+@description Examen complet calibré B1–B2 : handicap et emploi, forêts, reconversion de bâtiments, fin de l'argent liquide, chant choral.
+
+## CO 1 | A2 | message téléphonique | information précise | F:fr-FR
+DOC: F: Bonjour Hélène, c'est Martine de la chorale. La répétition de jeudi est déplacée à vendredi, même heure, 19 heures. N'oublie pas ta partition !
+Q: Quand a lieu la répétition ?
++ Vendredi à 19 heures. | « déplacée à vendredi, même heure, 19 heures ».
+- Jeudi à 19 heures. | Elle a été déplacée.
+- Vendredi à 20 heures. | C'est 19 heures.
+- Samedi. | Ce n'est pas dit.
+EXP: « Même heure » = l'heure ne change pas.
+
+## CO 2 | A2 | annonce publique | information précise | H:fr-FR
+DOC: H: En raison du risque d'incendie, l'accès à la forêt domaniale est interdit aujourd'hui de 11 heures à 19 heures. Barbecues et cigarettes sont strictement interdits.
+Q: Pourquoi l'accès à la forêt est-il interdit ?
++ À cause du risque d'incendie. | « En raison du risque d'incendie ».
+- À cause d'une tempête. | Ce n'est pas dit.
+- À cause de la chasse. | Ce n'est pas dit.
+- À cause de travaux. | Ce n'est pas dit.
+EXP: « En raison de » introduit la cause.
+
+## CO 3 | A2 | conversation quotidienne | information précise | H:fr-FR, F:fr-FR
+DOC: H: Je peux payer en espèces ? / F: Désolée, monsieur, nous n'acceptons plus que la carte bancaire. / H: Il y a un distributeur près d'ici ? / F: Oui, à côté de la pharmacie, mais ça ne servira à rien ici.
+Q: Comment peut-on payer dans ce magasin ?
++ Uniquement par carte bancaire. | « nous n'acceptons plus que la carte bancaire ».
+- En espèces. | Ce n'est plus accepté.
+- Par chèque. | Ce n'est pas dit.
+- Par carte ou en espèces. | Seulement par carte.
+EXP: « Ne… plus que » = seulement, désormais.
+
+## CO 4 | B1 | conversation quotidienne | intention | F:fr-FR, H:fr-FR
+DOC: F: L'ancienne usine textile va être démolie ? / H: Non, la mairie veut la transformer en logements et en ateliers d'artistes. / F: Bonne idée ! Je préfère ça à un parking.
+Q: Que pense la femme du projet ?
++ Elle l'approuve. | « Bonne idée ! ».
+- Elle préfère un parking. | Elle dit le contraire.
+- Elle veut démolir l'usine. | Ce n'est pas dit.
+- Elle est indifférente. | Elle donne un avis positif.
+EXP: « Je préfère ça à… » exprime une préférence.
+
+## CO 5 | B1 | message professionnel | information précise | H:fr-FR
+DOC: H: Bonjour Monsieur Benali, ici Lucie de Cap Emploi. Une entreprise de logistique recherche un gestionnaire de stock et a aménagé ses locaux pour les personnes en fauteuil roulant. Votre profil correspond. L'entretien aurait lieu mardi à 14 heures. Merci de me confirmer votre disponibilité.
+Q: Qu'a fait l'entreprise ?
++ Elle a aménagé ses locaux pour les fauteuils roulants. | « a aménagé ses locaux pour les personnes en fauteuil roulant ».
+- Elle a déjà embauché M. Benali. | L'entretien n'a pas eu lieu.
+- Elle a fermé ses locaux. | Ce n'est pas dit.
+- Elle a changé de secteur. | Ce n'est pas dit.
+EXP: « Aménager » = adapter un lieu.
+
+## CO 6 | B1 | information radio | information précise | F:fr-FR
+DOC: F: L'Office national des forêts lance une grande opération de plantation : un million d'arbres seront plantés cet hiver dans les forêts touchées par la sécheresse. Les essences choisies, comme le chêne vert ou le cèdre, résistent mieux à la chaleur que les épicéas.
+Q: Pourquoi a-t-on choisi ces essences d'arbres ?
++ Elles résistent mieux à la chaleur. | « résistent mieux à la chaleur que les épicéas ».
+- Elles poussent plus vite. | Ce n'est pas dit.
+- Elles sont moins chères. | Ce n'est pas dit.
+- Elles produisent plus de bois. | Ce n'est pas dit.
+EXP: Une « essence » d'arbre = une espèce.
+
+## CO 7 | B1 | interview | opinion | H:fr-FR, F:fr-FR
+DOC: H: Vous chantez dans une chorale depuis dix ans. Qu'est-ce que ça vous apporte ? / F: Un équilibre ! Quand je chante, j'oublie tous mes soucis. Et puis, chanter à quarante voix, c'est une émotion incroyable. On ne peut pas tricher : il faut écouter les autres.
+Q: Que dit la femme sur le chant en chorale ?
++ Il oblige à écouter les autres. | « il faut écouter les autres ».
+- Il est réservé aux professionnels. | Ce n'est pas dit.
+- Il lui donne des soucis. | Elle oublie ses soucis.
+- On peut chanter seul. | Ce n'est pas le sujet.
+EXP: « On ne peut pas tricher » souligne une exigence.
+
+## CO 8 | B1 | annonce publique | information précise | H:fr-FR
+DOC: H: L'ancienne église Saint-Martin, transformée en médiathèque, ouvrira ses portes au public le 2 octobre. Les vitraux du XVe siècle ont été conservés. Une visite guidée gratuite sera proposée chaque samedi à 11 heures pendant le premier mois.
+Q: Qu'est-ce qui a été conservé ?
++ Les vitraux du XVe siècle. | « Les vitraux du XVe siècle ont été conservés ».
+- Les bancs. | Ce n'est pas dit.
+- L'autel. | Ce n'est pas dit.
+- Les cloches. | Ce n'est pas dit.
+EXP: Repérez le verbe « conserver ».
+
+## CO 9 | B1 | situation administrative | information précise | F:fr-FR, H:fr-FR
+DOC: F: Bonjour, je souhaite faire reconnaître mon handicap pour obtenir des aménagements au travail. / H: Il faut déposer un dossier à la Maison départementale des personnes handicapées, avec un certificat médical de moins d'un an. Le délai de réponse est d'environ quatre mois.
+Q: Que faut-il joindre au dossier ?
++ Un certificat médical de moins d'un an. | « avec un certificat médical de moins d'un an ».
+- Une lettre de l'employeur. | Ce n'est pas dit.
+- Un contrat de travail. | Ce n'est pas dit.
+- Une photo d'identité. | Ce n'est pas dit.
+EXP: « De moins d'un an » = récent.
+
+## CO 10 | B1 | conversation professionnelle | information précise | H:fr-FR, F:fr-FR
+DOC: H: On accepte toujours les espèces au restaurant ? / F: Oui, la loi nous y oblige, sauf exceptions. Mais on encourage le paiement par carte, c'est plus pratique pour la caisse. / H: D'accord, je garde un fond de caisse de cent euros.
+Q: Pourquoi le restaurant accepte-t-il les espèces ?
++ Parce que la loi l'y oblige. | « la loi nous y oblige ».
+- Parce que c'est plus pratique. | La carte est plus pratique.
+- Parce que les clients ne paient qu'en espèces. | Ce n'est pas dit.
+- Parce que le terminal est en panne. | Ce n'est pas dit.
+EXP: « Y » remplace « à accepter les espèces ».
+
+## CO 11 | B2 | débat | argumentation | F:fr-FR, H:fr-FR
+DOC: F: Il faudrait supprimer l'argent liquide, ça réduirait la fraude et le travail au noir. / H: Peut-être, mais pensez aux personnes âgées, aux personnes sans compte bancaire, aux enfants qui apprennent à gérer leur argent de poche. Et en cas de panne informatique, on ne pourrait plus rien acheter.
+Q: Quels arguments l'homme oppose-t-il ?
++ L'exclusion de certaines personnes et le risque de panne. | Il cite ces deux types d'arguments.
+- La réduction de la fraude. | C'est l'argument de la femme.
+- Le coût des cartes bancaires. | Ce n'est pas dit.
+- La sécurité des distributeurs. | Ce n'est pas dit.
+EXP: « Peut-être, mais » introduit une objection.
+
+## CO 12 | B2 | information radio | information globale | H:fr-FR
+DOC: H: Les forêts françaises ont doublé de surface depuis le XIXe siècle et couvrent aujourd'hui un tiers du territoire. Mais cette bonne nouvelle cache une réalité plus inquiétante : sécheresses et parasites affaiblissent les arbres, et la forêt absorbe deux fois moins de CO2 qu'il y a dix ans.
+Q: Quelle est l'idée principale du reportage ?
++ Les forêts s'étendent mais sont fragilisées. | Constat positif puis réalité inquiétante.
+- Les forêts disparaissent. | Elles ont doublé de surface.
+- Les forêts absorbent de plus en plus de CO2. | Elles en absorbent moins.
+- Il n'y a plus de parasites. | Ils affaiblissent les arbres.
+EXP: « Mais cette bonne nouvelle cache » introduit la nuance.
+
+## CO 13 | B2 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes chef d'entreprise et vous avez embauché plusieurs personnes handicapées. Pourquoi ? / H: Au départ, pour respecter la loi. Mais j'ai vite compris que c'était une richesse : ces collaborateurs sont très motivés, et leur présence a changé l'ambiance de l'équipe. Les aménagements coûtent souvent beaucoup moins cher qu'on ne le croit.
+Q: Qu'a découvert le chef d'entreprise ?
++ Que ces embauches étaient une richesse pour l'entreprise. | « j'ai vite compris que c'était une richesse ».
+- Que les aménagements étaient très coûteux. | Ils coûtent moins cher qu'on le croit.
+- Que la loi n'existait pas. | Il l'a respectée.
+- Que l'ambiance s'était dégradée. | Elle a changé positivement.
+EXP: « Au départ… Mais » marque une évolution.
+
+## CO 14 | B2 | message téléphonique | intention | H:fr-FR
+DOC: H: Madame Rousseau, ici votre conseiller bancaire. Nous avons remarqué un paiement inhabituel de 2 000 euros sur votre compte cette nuit, depuis l'étranger. Par précaution, nous avons bloqué votre carte. Si vous êtes à l'origine de ce paiement, rappelez-nous pour la débloquer.
+Q: Pourquoi le conseiller appelle-t-il ?
++ Pour signaler un paiement suspect et le blocage de la carte. | « paiement inhabituel… nous avons bloqué votre carte ».
+- Pour proposer un prêt. | Ce n'est pas dit.
+- Pour annoncer un virement reçu. | Ce n'est pas dit.
+- Pour fermer le compte. | Ce n'est pas dit.
+EXP: « Par précaution » justifie une mesure préventive.
+
+## CO 15 | B2 | conversation professionnelle | relation logique | F:fr-FR, H:fr-FR
+DOC: F: Pourquoi est-il si difficile de transformer les bureaux vides en logements ? / H: Les bureaux sont souvent très profonds, avec peu de fenêtres. Pour faire des appartements, il faut de la lumière dans chaque pièce. Résultat : la transformation coûte parfois plus cher qu'une construction neuve.
+Q: Pourquoi la transformation coûte-t-elle cher ?
++ Parce que les bureaux manquent de lumière naturelle. | « très profonds, avec peu de fenêtres ».
+- Parce que les bureaux sont trop petits. | Ils sont profonds.
+- Parce que les logements sont interdits. | Ce n'est pas dit.
+- Parce qu'il y a trop de fenêtres. | Il y en a peu.
+EXP: Reconstituez la chaîne cause → conséquence.
+
+## CO 16 | B2 | interview | information détaillée | H:fr-FR, F:fr-BE
+DOC: H: Vous êtes garde forestière. En quoi consiste votre travail ? / F: Je surveille l'état des arbres, je marque ceux qui doivent être coupés et j'accueille le public. De plus en plus, je fais aussi de la sensibilisation : beaucoup de visiteurs ignorent qu'il est interdit de cueillir certaines plantes ou de faire du feu.
+Q: Quelle partie de son travail se développe ?
++ La sensibilisation du public. | « De plus en plus, je fais aussi de la sensibilisation ».
+- La coupe des arbres. | Ce n'est pas dit qu'elle augmente.
+- La chasse. | Ce n'est pas dit.
+- La vente de bois. | Ce n'est pas dit.
+EXP: « De plus en plus » indique une évolution.
+
+## CO 17 | B2 | annonce publique | information précise | F:fr-FR
+DOC: F: Le festival des chorales aura lieu du 14 au 16 juin. Les concerts de l'église sont gratuits, ceux de l'auditorium sont payants. Les personnes en situation de handicap bénéficient de places réservées dans les deux lieux, sur simple demande à l'accueil.
+Q: Comment obtenir une place réservée pour les personnes handicapées ?
++ En la demandant à l'accueil. | « sur simple demande à l'accueil ».
+- En la réservant en ligne. | Ce n'est pas dit.
+- En payant un supplément. | Ce n'est pas dit.
+- Uniquement à l'auditorium. | C'est dans les deux lieux.
+EXP: « Sur simple demande » = il suffit de demander.
+
+## CO 18 | B2 | information radio | relation logique | H:fr-FR
+DOC: H: En Suède, moins de 10 % des achats se font encore en espèces. Mais face au risque de cyberattaques et de pannes géantes, le gouvernement recommande désormais aux citoyens de garder un peu d'argent liquide chez eux. Un retour en arrière qui montre les limites d'une société entièrement numérique.
+Q: Pourquoi le gouvernement suédois recommande-t-il de garder des espèces ?
++ À cause des risques de cyberattaques et de pannes. | « face au risque de cyberattaques et de pannes géantes ».
+- Parce que les cartes sont trop chères. | Ce n'est pas dit.
+- Parce que les commerces refusent les cartes. | Ce n'est pas dit.
+- Pour lutter contre la fraude. | Ce n'est pas dit.
+EXP: « Face à » introduit la cause d'une réaction.
+
+## CO 19 | B2 | débat | argumentation | H:fr-FR, F:fr-FR
+DOC: H: Transformer les églises vides en salles de concert ou en bibliothèques, c'est un manque de respect. / F: Je comprends que ce soit délicat. Mais une église abandonnée se dégrade et finit par être démolie. Lui donner une nouvelle vie, c'est justement la préserver pour les générations futures.
+Q: Quel argument la femme utilise-t-elle ?
++ La transformation permet de préserver le bâtiment. | « Lui donner une nouvelle vie, c'est justement la préserver ».
+- Les églises sont inutiles. | Ce n'est pas dit.
+- Il faut démolir les églises. | Elle veut l'éviter.
+- La religion n'est plus importante. | Ce n'est pas dit.
+EXP: « Justement » renverse l'argument adverse.
+
+## CO 20 | B2 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes aveugle et vous travaillez comme développeur informatique. Quels sont les obstacles ? / H: La technologie n'est pas le problème : les lecteurs d'écran sont très performants. Le vrai obstacle, ce sont les préjugés. Lors de mes premiers entretiens, on me demandait comment je pouvais travailler, au lieu de m'interroger sur mes compétences.
+Q: Selon l'homme, quel est le principal obstacle ?
++ Les préjugés des employeurs. | « Le vrai obstacle, ce sont les préjugés ».
+- La technologie. | « La technologie n'est pas le problème ».
+- Le manque de compétences. | Ce n'est pas dit.
+- Les lecteurs d'écran. | Ils sont performants.
+EXP: « Le vrai obstacle » oppose apparence et réalité.
+
+## CO 21 | C1 | information radio | information détaillée | F:fr-FR
+DOC: F: Le taux d'emploi des personnes handicapées reste inférieur de moitié à celui de la population générale. Depuis 1987, les entreprises de plus de vingt salariés doivent employer au moins 6 % de travailleurs handicapés, sous peine de verser une contribution financière. Or, seules un tiers d'entre elles atteignent cet objectif.
+Q: Que doivent faire les entreprises qui n'atteignent pas l'objectif ?
++ Verser une contribution financière. | « sous peine de verser une contribution financière ».
+- Fermer leurs portes. | Ce n'est pas dit.
+- Embaucher 20 salariés. | 20 est le seuil d'application.
+- Rien, il n'y a pas de sanction. | Il y a une contribution.
+EXP: « Sous peine de » introduit la sanction.
+
+## CO 22 | B2 | conversation professionnelle | intention | H:fr-FR, F:fr-FR
+DOC: H: J'ai une demande un peu particulière. Mon fils est autiste et il a un rendez-vous médical important jeudi matin. / F: Pas de problème, prends ta matinée. / H: Merci. En fait, ça arrive assez souvent. Serait-il possible d'avoir des horaires plus souples de manière générale ?
+Q: Que demande l'homme dans sa dernière réplique ?
++ Des horaires flexibles de façon durable. | « des horaires plus souples de manière générale ».
+- Un congé jeudi uniquement. | C'est déjà accordé.
+- Une augmentation. | Ce n'est pas dit.
+- Un changement de poste. | Ce n'est pas dit.
+EXP: « De manière générale » élargit la demande.
+
+## CO 23 | C1 | débat | point de vue implicite | F:fr-FR, H:fr-FR
+DOC: F: Planter des millions d'arbres, c'est la solution au changement climatique. / H: Planter, c'est bien. Encore faut-il planter les bonnes espèces, au bon endroit, et s'assurer qu'elles survivent. Certaines campagnes très médiatisées ont vu mourir la moitié des jeunes arbres dans l'année. Et rien ne remplace la protection des forêts anciennes.
+Q: Que pense l'homme des grandes campagnes de plantation ?
++ Elles sont parfois plus médiatiques qu'efficaces. | « très médiatisées… mourir la moitié ».
+- Elles résolvent le changement climatique. | Il nuance.
+- Il faut arrêter de planter. | Il dit que planter, c'est bien.
+- Les forêts anciennes sont inutiles. | Il dit qu'elles sont irremplaçables.
+EXP: « Encore faut-il » pose des conditions restrictives.
+
+## CO 24 | C1 | interview | nuance | H:fr-FR, F:fr-FR
+DOC: H: La disparition progressive de l'argent liquide est-elle inévitable ? / F: La tendance est forte, c'est indéniable. Mais tant que les espèces restent légalement obligatoires et que des personnes vulnérables en dépendent, il serait irresponsable de les laisser disparaître. Il faut accompagner la transition, pas la précipiter.
+Q: Quelle est la position de la spécialiste ?
++ La transition vers le numérique doit être accompagnée, pas précipitée. | « accompagner la transition, pas la précipiter ».
+- L'argent liquide doit disparaître rapidement. | Elle refuse de précipiter.
+- La tendance est faible. | Elle est forte.
+- Les espèces sont illégales. | Elles restent légalement obligatoires.
+EXP: « Espèces » désigne l'argent liquide (billets et pièces).
+
+## CO 25 | C1 | information radio | relation logique | H:fr-FR
+DOC: H: La reconversion des bâtiments existants est souvent présentée comme plus écologique que la construction neuve. En effet, le béton et l'acier nécessaires à un nouvel immeuble représentent une part considérable de son empreinte carbone totale. Dès lors, démolir un bâtiment encore solide revient à gaspiller l'énergie déjà investie dans sa construction.
+Q: Pourquoi démolir un bâtiment solide est-il considéré comme un gaspillage ?
++ Parce que l'énergie de sa construction serait perdue. | « gaspiller l'énergie déjà investie ».
+- Parce que les nouveaux bâtiments sont plus beaux. | Ce n'est pas dit.
+- Parce que le béton est interdit. | Ce n'est pas dit.
+- Parce que les anciens bâtiments consomment peu. | Ce n'est pas l'argument.
+EXP: « Dès lors » tire la conséquence du raisonnement.
+
+## CE 1 | A2 | annonce | information précise
+DOC: LA CHORALE « VOIX MÊLÉES » RECRUTE ! Hommes et femmes, débutants bienvenus. Pas besoin de savoir lire la musique. Répétitions le mardi de 20 h à 22 h. Cotisation : 60 € par an.
+Q: Faut-il savoir lire la musique ?
++ Non. | « Pas besoin de savoir lire la musique ».
+- Oui, c'est obligatoire. | Ce n'est pas nécessaire.
+- Seulement pour les hommes. | Ce n'est pas dit.
+- Seulement pour les débutants. | Ce n'est pas dit.
+EXP: « Pas besoin de » = ce n'est pas nécessaire.
+
+## CE 2 | A2 | message | information précise
+DOC: Coucou Léna ! On se retrouve à l'entrée de la forêt dimanche à 9 h pour la balade. Mets de bonnes chaussures, le chemin est boueux. J'apporte le pique-nique. À dimanche ! Paul
+Q: Pourquoi faut-il de bonnes chaussures ?
++ Parce que le chemin est boueux. | « le chemin est boueux ».
+- Parce que la balade est longue. | Ce n'est pas dit.
+- Parce qu'il va pleuvoir. | Ce n'est pas dit.
+- Parce qu'il fait froid. | Ce n'est pas dit.
+EXP: La justification suit la consigne.
+
+## CE 3 | A2 | affiche | information précise
+DOC: CE MAGASIN N'ACCEPTE PLUS LES CHÈQUES. Paiement par carte bancaire ou en espèces uniquement. Merci de votre compréhension.
+Q: Quel moyen de paiement n'est plus accepté ?
++ Le chèque. | « N'ACCEPTE PLUS LES CHÈQUES ».
+- La carte bancaire. | Elle est acceptée.
+- Les espèces. | Elles sont acceptées.
+- Aucun, tous sont acceptés. | Le chèque est refusé.
+EXP: Lisez la phrase négative en premier.
+
+## CE 4 | B1 | courriel | information précise
+DOC: Bonjour Madame Girard, suite à votre entretien, nous avons le plaisir de vous proposer le poste d'assistante administrative. Comme convenu, votre bureau sera équipé d'un logiciel de grossissement d'écran et d'un éclairage adapté. Votre prise de poste est prévue le 2 mai. Bienvenue ! Le service RH.
+Q: Quels aménagements sont prévus ?
++ Un logiciel de grossissement d'écran et un éclairage adapté. | Ce sont les équipements cités.
+- Un fauteuil roulant. | Ce n'est pas dit.
+- Des horaires réduits. | Ce n'est pas dit.
+- Un interprète en langue des signes. | Ce n'est pas dit.
+EXP: « Comme convenu » renvoie à un accord préalable.
+
+## CE 5 | B1 | article de presse | information globale
+DOC: À Roubaix, l'ancienne piscine Art déco, fermée en 1985, est devenue l'un des musées les plus visités de la région. Les collections de peinture et de céramique sont exposées autour du bassin, qui a été conservé. Le lieu attire plus de 200 000 visiteurs par an.
+Q: De quoi parle l'article ?
++ De la transformation d'une piscine en musée. | C'est le sujet principal.
+- D'une nouvelle piscine. | La piscine a fermé en 1985.
+- D'un concours de natation. | Ce n'est pas dit.
+- De la démolition d'un musée. | Ce n'est pas dit.
+EXP: « Est devenue » indique une transformation.
+
+## CE 6 | B1 | lettre administrative | information précise
+DOC: Madame, Monsieur, nous vous informons que l'agence bancaire de la place du Marché fermera définitivement le 30 juin. Vos comptes seront transférés automatiquement à l'agence de la gare. Le distributeur de billets de la place du Marché restera en service jusqu'au 31 décembre.
+Q: Que va-t-il arriver au distributeur de la place du Marché ?
++ Il fonctionnera jusqu'au 31 décembre. | « restera en service jusqu'au 31 décembre ».
+- Il fermera le 30 juin. | C'est l'agence qui ferme.
+- Il sera déplacé à la gare. | Ce n'est pas dit.
+- Il restera ouvert pour toujours. | Jusqu'au 31 décembre.
+EXP: Distinguez l'agence et le distributeur.
+
+## CE 7 | B1 | publicité | intention
+DOC: Adoptez un arbre ! Pour 25 €, nous plantons un chêne dans une forêt détruite par les incendies et vous recevez un certificat avec ses coordonnées GPS. Un cadeau original et utile pour la planète.
+Q: Que propose cette publicité ?
++ Financer la plantation d'un arbre. | « nous plantons un chêne ».
+- Acheter un arbre pour son jardin. | Il est planté en forêt.
+- Visiter une forêt. | Ce n'est pas dit.
+- Acheter du bois. | Ce n'est pas dit.
+EXP: « Adoptez » est employé au sens figuré.
+
+## CE 8 | B1 | message professionnel | information précise
+DOC: Chers collègues, dans le cadre de la Semaine européenne pour l'emploi des personnes handicapées, nous accueillerons cinq stagiaires du 18 au 22 novembre. Chaque service accueillera un stagiaire pendant une journée. Merci de vous montrer disponibles pour répondre à leurs questions.
+Q: Combien de temps chaque service accueillera-t-il un stagiaire ?
++ Une journée. | « pendant une journée ».
+- Une semaine. | C'est la durée totale de l'accueil.
+- Cinq jours. | Cinq est le nombre de stagiaires.
+- Un mois. | Ce n'est pas dit.
+EXP: Ne confondez pas la durée globale et la durée par service.
+
+## CE 9 | B1 | témoignage | opinion
+DOC: « Je chante dans une chorale d'entreprise depuis deux ans. Au début, je ne connaissais presque personne. Maintenant, je déjeune avec des collègues de tous les services. Le chant a fait plus pour l'ambiance que tous les séminaires ! » Fatou, comptable.
+Q: Quel effet la chorale a-t-elle eu pour Fatou ?
++ Elle a créé des liens avec ses collègues. | « je déjeune avec des collègues de tous les services ».
+- Elle a changé de service. | Ce n'est pas dit.
+- Elle a quitté l'entreprise. | Ce n'est pas dit.
+- Elle préfère les séminaires. | C'est l'inverse.
+EXP: La comparaison finale souligne l'effet positif.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: Les paiements en espèces ne représentent plus qu'un achat sur deux en France, contre deux sur trois il y a dix ans. Les banques ferment des distributeurs, notamment dans les zones rurales. Les associations de consommateurs s'inquiètent de voir certains habitants contraints de parcourir des dizaines de kilomètres pour retirer de l'argent.
+Q: De quoi s'inquiètent les associations de consommateurs ?
++ De la difficulté d'accès aux distributeurs en zone rurale. | « contraints de parcourir des dizaines de kilomètres ».
+- De la hausse des paiements en espèces. | Ils baissent.
+- Du prix des cartes bancaires. | Ce n'est pas dit.
+- Du nombre de banques en ville. | Ce n'est pas dit.
+EXP: « Contraint de » = obligé de.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: Chaque année, des milliers de bureaux restent vides dans nos grandes villes, pendant que des familles attendent un logement social. Transformer ces bâtiments inoccupés en appartements n'est pas seulement une nécessité sociale : c'est aussi un choix écologique, qui évite de bétonner de nouvelles terres agricoles.
+Q: Quelle est l'intention de l'auteur ?
++ Encourager la transformation des bureaux vides en logements. | Il présente ses avantages sociaux et écologiques.
+- Critiquer les logements sociaux. | Ce n'est pas dit.
+- Défendre la construction neuve. | Il veut éviter de bétonner.
+- Vendre des bureaux. | Ce n'est pas dit.
+EXP: « Pas seulement… c'est aussi » ajoute un argument.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Bonjour à tous, je vous informe que le projet de reconversion de l'ancienne gare en tiers-lieu culturel est au point mort : le financement régional n'a pas été voté. Nous continuons à chercher d'autres partenaires. Je vous tiens informés. Amitiés, Bruno.
+Q: Que signifie « au point mort » ?
++ Bloqué. | Le financement n'a pas été voté.
+- Terminé avec succès. | C'est l'inverse.
+- Abandonné définitivement. | Ils cherchent d'autres partenaires.
+- Très avancé. | C'est l'inverse.
+EXP: « Être au point mort » = ne plus avancer.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: Une étude menée dans les forêts des Vosges montre que les parcelles mélangeant plusieurs espèces d'arbres résistent mieux à la sécheresse que les plantations d'une seule espèce. Les chercheurs recommandent de diversifier systématiquement les essences lors des replantations et d'éviter les coupes rases.
+Q: Que recommandent les chercheurs ?
++ Diversifier les espèces et éviter les coupes rases. | « diversifier systématiquement les essences… éviter les coupes rases ».
+- Planter une seule espèce. | C'est moins résistant.
+- Arrêter toute plantation. | Ce n'est pas dit.
+- Couper toute la forêt. | Ils recommandent d'éviter les coupes rases.
+EXP: Une « coupe rase » = abattage de tous les arbres d'une parcelle.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Monsieur, la reconnaissance de la qualité de travailleur handicapé (RQTH) vous a été accordée pour une durée de cinq ans. Elle vous permet de bénéficier d'aménagements de poste et d'un accompagnement spécifique dans votre recherche d'emploi. Vous n'êtes pas tenu d'en informer votre employeur.
+Q: Que précise la lettre concernant l'employeur ?
++ Le salarié n'est pas obligé de l'informer. | « Vous n'êtes pas tenu d'en informer votre employeur ».
+- Le salarié doit l'informer immédiatement. | C'est l'inverse.
+- L'employeur a déjà été informé. | Ce n'est pas dit.
+- L'employeur doit payer les aménagements. | Ce n'est pas dit.
+EXP: « Ne pas être tenu de » = ne pas être obligé de.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: Les paiements numériques laissent une trace. Si bien que, dans une société sans espèces, chaque achat pourrait être enregistré, analysé et éventuellement utilisé à des fins commerciales ou de surveillance.
+Q: Quel est le rôle de « Si bien que » ?
++ Introduire une conséquence. | Les traces entraînent une possible surveillance.
+- Introduire une cause. | C'est une conséquence.
+- Introduire une opposition. | Ce n'est pas une opposition.
+- Introduire un but. | Ce n'est pas un but.
+EXP: « Si bien que » = de sorte que.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: Transformer les églises désaffectées en salles d'escalade, en bars ou en hôtels ? Pour l'historienne interrogée, toutes les reconversions ne se valent pas : « Une bibliothèque ou une salle de concert respectent l'esprit du lieu. Un bar, c'est plus discutable. » Elle plaide pour une concertation avec les habitants avant chaque projet.
+Q: Que pense l'historienne ?
++ Certaines reconversions sont plus acceptables que d'autres. | « toutes les reconversions ne se valent pas ».
+- Toutes les reconversions sont acceptables. | Elle nuance.
+- Il faut démolir les églises. | Ce n'est pas dit.
+- Les bars sont la meilleure solution. | C'est « plus discutable ».
+EXP: « Ne se valent pas » = n'ont pas la même valeur.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: Le refus d'un paiement en espèces par un commerçant est passible d'une amende, sauf dans certains cas prévus par la loi : paiement d'un montant supérieur à 1 000 euros, doute sur l'authenticité des billets, ou absence de monnaie pour rendre la somme demandée lorsque le client présente un billet disproportionné.
+Q: Dans quel cas un commerçant peut-il refuser les espèces ?
++ Pour un paiement supérieur à 1 000 euros. | C'est un des cas prévus.
+- Toujours, s'il le souhaite. | Il risque une amende.
+- Pour un paiement de 10 euros. | Ce n'est pas un cas prévu.
+- Le dimanche. | Ce n'est pas dit.
+EXP: « Passible de » = qui peut entraîner.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « Le bâtiment de ma mairie a été entièrement rénové pour être accessible. Il y a même un ascenseur. Dommage que, pour y arriver, il faille monter les douze marches de l'entrée. » Thomas, en fauteuil roulant.
+Q: Que sous-entend Thomas ?
++ L'accessibilité n'a pas été pensée jusqu'au bout. | L'entrée reste inaccessible.
+- La mairie est parfaitement accessible. | Les marches posent problème.
+- Il n'y a pas d'ascenseur. | Il y en a un.
+- Il préfère les escaliers. | Il est en fauteuil roulant.
+EXP: « Dommage que » introduit une critique ironique.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Faut-il ouvrir les forêts privées au public ? Les associations de randonneurs estiment que la nature est un bien commun et que l'accès doit être garanti à tous. Les propriétaires forestiers objectent qu'ils sont responsables en cas d'accident et que les promeneurs laissent souvent des déchets.
+Q: Quels arguments avancent les propriétaires ?
++ Leur responsabilité en cas d'accident et les déchets. | Ce sont leurs objections.
+- La nature est un bien commun. | C'est l'argument des randonneurs.
+- La chasse. | Ce n'est pas dit.
+- Le prix du bois. | Ce n'est pas dit.
+EXP: « Objecter » introduit un contre-argument.
+
+## CE 20 | B2 | article de presse | information détaillée
+DOC: Le chant choral connaît un véritable engouement : la fédération nationale compte 30 % d'adhérents de plus qu'il y a cinq ans. Les chorales de variétés et de gospel attirent particulièrement les jeunes. Des études montrent que chanter en groupe réduit le stress et renforce le sentiment d'appartenance.
+Q: Quels types de chorales attirent les jeunes ?
++ Les chorales de variétés et de gospel. | « attirent particulièrement les jeunes ».
+- Les chorales classiques. | Ce n'est pas dit.
+- Les chorales religieuses uniquement. | Ce n'est pas dit.
+- Les chorales d'opéra. | Ce n'est pas dit.
+EXP: « Particulièrement » souligne un public précis.
+
+## CE 21 | C1 | texte argumentatif | thèse
+DOC: L'inclusion des personnes handicapées ne se mesure pas au nombre de rampes d'accès ou de places de parking réservées. Elle se joue d'abord dans les regards, dans la capacité d'une société à considérer la différence non comme un problème à gérer, mais comme une composante ordinaire de la diversité humaine.
+Q: Quelle est la thèse de l'auteur ?
++ L'inclusion dépend surtout du changement des mentalités. | « Elle se joue d'abord dans les regards ».
+- Les rampes d'accès suffisent. | Il dit le contraire.
+- Le handicap est un problème à gérer. | Il refuse cette vision.
+- Il faut plus de places de parking. | Ce n'est pas l'essentiel.
+EXP: « Ne se mesure pas à… Elle se joue d'abord » oppose deux conceptions.
+
+## CE 22 | C1 | article de presse | information implicite
+DOC: Le promoteur a promis que la reconversion de l'ancienne usine « préserverait l'âme du quartier ». Les futurs lofts seront vendus 8 000 euros le mètre carré, soit trois fois le prix moyen des logements environnants. Les anciens ouvriers, eux, pourront venir admirer la cheminée de brique, conservée à l'entrée.
+Q: Que suggère l'article ?
++ Le projet ne profitera pas aux habitants modestes du quartier. | Les prix excluent les anciens habitants.
+- Le projet est accessible à tous. | Les prix sont très élevés.
+- Les anciens ouvriers y habiteront. | Ils pourront seulement « admirer » la cheminée.
+- La cheminée sera démolie. | Elle est conservée.
+EXP: Le contraste entre promesse et réalité crée l'ironie.
+
+## CE 23 | C1 | texte argumentatif | ton
+DOC: La banque nous explique que la fermeture de l'agence améliorera « l'expérience client ». Désormais, Mme Martin, 84 ans, pourra profiter pleinement de cette expérience en parcourant trente kilomètres en car pour retirer sa pension.
+Q: Quel est le ton de l'auteur ?
++ Sarcastique. | « pourra profiter pleinement de cette expérience » est ironique.
+- Enthousiaste. | Il critique la banque.
+- Neutre. | Il prend position.
+- Admiratif. | Ce n'est pas le cas.
+EXP: Reprendre les mots d'autrui pour les retourner est une marque d'ironie.
+
+## CE 24 | C1 | article de presse | relation logique
+DOC: Bien que la forêt française gagne du terrain depuis un siècle, sa capacité à stocker du carbone s'est effondrée en dix ans. Ce paradoxe s'explique par la mortalité accrue des arbres, victimes des sécheresses à répétition et des insectes ravageurs, qui prolifèrent à la faveur des hivers plus doux.
+Q: Pourquoi les insectes ravageurs prolifèrent-ils ?
++ Grâce aux hivers plus doux. | « qui prolifèrent à la faveur des hivers plus doux ».
+- Grâce à l'extension de la forêt. | Ce n'est pas dit.
+- À cause des coupes d'arbres. | Ce n'est pas dit.
+- À cause de l'humidité. | Ce n'est pas dit.
+EXP: « À la faveur de » = grâce à, profitant de.
+
+## CE 25 | C1 | document informatif | reformulation
+DOC: Tout établissement recevant du public doit être accessible aux personnes handicapées, quel que soit leur handicap. Lorsque des contraintes techniques ou patrimoniales rendent les travaux impossibles, le propriétaire peut solliciter une dérogation, à condition de proposer des mesures de substitution.
+Q: Quelle reformulation correspond au texte ?
++ Une dérogation est possible si des solutions alternatives sont proposées. | « à condition de proposer des mesures de substitution ».
+- Les bâtiments historiques n'ont aucune obligation. | Il faut une dérogation et des alternatives.
+- Seuls certains handicaps sont concernés. | « quel que soit leur handicap ».
+- Les dérogations sont automatiques. | Il faut les solliciter.
+EXP: « Solliciter » = demander officiellement.
+
+## EE 1 | A2 | écrire un message
+CONSIGNE: Vous voulez vous inscrire dans une chorale. Vous écrivez un message au responsable pour vous présenter et poser des questions (30 à 60 mots).
+MODELE: Bonjour, je m'appelle Sara, j'ai 32 ans et j'aimerais beaucoup rejoindre votre chorale. Je n'ai jamais chanté en groupe, mais j'adore la musique. Est-ce que les débutants peuvent participer ? À quelle heure sont les répétitions ? Faut-il passer une audition ? Merci d'avance pour votre réponse. Sara
+POINTS: présentation ; motivation ; questions ; remerciement
+CONSEILS: Posez des questions directes et précises.
+
+## EE 2 | B1 | décrire un lieu
+CONSIGNE: Un bâtiment ancien de votre ville a été transformé (usine, gare, église, école…). Vous le décrivez pour un guide touristique en ligne (40 à 90 mots).
+MODELE: Ne manquez pas la Halle aux grains, ancien marché couvert du XIXe siècle transformé en centre culturel en 2019. Sa grande charpente métallique et ses verrières ont été entièrement restaurées. On y trouve aujourd'hui une librairie, un café, une salle d'exposition et un marché de producteurs le samedi matin. Le lieu est très animé, surtout le week-end. L'entrée est gratuite et le bâtiment est accessible aux personnes à mobilité réduite. À visiter absolument !
+POINTS: présentation historique ; description ; activités ; informations pratiques ; recommandation
+CONSEILS: Un guide utilise des impératifs (« Ne manquez pas ») pour inciter.
+
+## EE 3 | B2 | argumenter sur un sujet de société
+CONSIGNE: « L'argent liquide va disparaître, et c'est une bonne chose. » Vous réagissez à cette affirmation sur un forum consacré à la consommation (40 à 90 mots).
+MODELE: Je ne partage pas cet enthousiasme. Certes, le paiement par carte est pratique et limite la fraude. Mais une société sans espèces exclurait les personnes âgées peu à l'aise avec le numérique et celles qui n'ont pas de compte bancaire. Par ailleurs, chaque paiement électronique laisse une trace, ce qui pose la question de notre vie privée. Enfin, une panne géante nous priverait de tout moyen de payer. Garder les deux moyens de paiement me paraît donc indispensable.
+POINTS: position ; concession ; trois arguments ; conclusion
+CONSEILS: « Certes… Mais… Par ailleurs… Enfin… » organise l'argumentation.
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous pose des questions sur vos loisirs, votre rapport à la nature et vos habitudes de paiement.
+RELANCES: Aimez-vous chanter ? / Avez-vous déjà fait partie d'un groupe musical ? / Allez-vous souvent en forêt ? / Payez-vous plutôt en espèces ou par carte ? / Y a-t-il un bâtiment ancien que vous aimez dans votre ville ? / Connaissez-vous des personnes en situation de handicap dans votre entourage ?
+PHRASES: J'aime… / Je n'aime pas tellement… / Je vais en forêt… / Je paie surtout… / Dans ma ville, il y a…
+MODELE: J'aime chanter, mais seulement sous la douche ! Je n'ai jamais fait partie d'une chorale. Je vais en forêt presque tous les dimanches pour marcher avec ma famille. Je paie surtout par carte, mais je garde toujours un peu d'espèces pour le marché. Dans ma ville, j'aime beaucoup l'ancienne gare, qui est devenue une bibliothèque. Mon cousin est malentendant, et il travaille dans une banque.
+
+## EO 2 | B2 | Défendre un projet | Élu municipal
+SCENARIO: Une ancienne école de votre quartier est vide. Vous proposez de la transformer en lieu associatif (ateliers, chorale, aide aux devoirs). L'examinateur joue le rôle d'un élu municipal qui préférerait la vendre à un promoteur. Défendez votre projet.
+RELANCES: Bonjour, je vous écoute. / La vente rapporterait deux millions d'euros à la ville. / Qui financerait les travaux ? / Les associations ont-elles les moyens de gérer un tel lieu ? / Les habitants veulent surtout des logements. / Que proposez-vous concrètement ?
+PHRASES: Ce projet permettrait de… / Je comprends l'intérêt financier, mais… / Plusieurs associations sont prêtes à… / Nous pourrions solliciter… / Pourquoi ne pas envisager un projet mixte… ?
+MODELE: Ce projet permettrait de créer un lieu de rencontre qui manque cruellement dans notre quartier. Je comprends l'intérêt financier de la vente, mais une fois vendue, l'école sera perdue pour toujours. Plusieurs associations sont prêtes à participer aux frais de fonctionnement, et nous pourrions solliciter des subventions de la région. Pourquoi ne pas envisager un projet mixte, avec quelques logements à l'étage et des espaces associatifs au rez-de-chaussée ?
+
+## EO 3 | B2 | Les entreprises font-elles assez pour l'inclusion ? | Examinateur
+SCENARIO: Donnez votre opinion : « Les entreprises font-elles assez pour intégrer les personnes en situation de handicap ? » Argumentez, donnez des exemples, nuancez et concluez.
+RELANCES: Quelle est votre opinion ? / Quels obstacles rencontrent ces personnes ? / Quels bénéfices pour l'entreprise ? / Faut-il renforcer la loi ? / Votre conclusion ?
+PHRASES: À mon avis… / Les chiffres montrent que… / Le principal obstacle est… / Les entreprises qui… constatent que… / En conclusion…
+MODELE: À mon avis, beaucoup d'entreprises ne font pas encore assez. Les chiffres montrent que le taux de chômage des personnes handicapées est deux fois plus élevé que la moyenne. Le principal obstacle n'est pas technique, mais lié aux préjugés : on imagine des coûts énormes, alors que les aménagements sont souvent simples. Les entreprises qui ont fait l'effort constatent une meilleure ambiance et une forte motivation. En conclusion, il faudrait surtout sensibiliser les recruteurs, plus que renforcer les sanctions.

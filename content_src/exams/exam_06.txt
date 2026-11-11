@@ -1,0 +1,490 @@
+@code EXAM-06
+@title Examen blanc n° 6 – Voyages, argent et bien-être
+@level B2
+@description Examen complet calibré B1–B2 : tourisme, banque, assurance, santé, famille, technologies.
+
+## CO 1 | A2 | annonce publique | information précise | F:fr-FR
+DOC: F: Votre attention, s'il vous plaît. Un enfant de six ans, prénommé Lucas, attend ses parents à l'accueil du magasin, au rez-de-chaussée. Merci.
+Q: Où se trouve l'enfant ?
++ À l'accueil, au rez-de-chaussée. | « attend ses parents à l'accueil du magasin, au rez-de-chaussée ».
+- À la caisse. | Ce n'est pas dit.
+- Au parking. | Ce n'est pas dit.
+- Au premier étage. | Il est au rez-de-chaussée.
+EXP: Repérez le lieu indiqué : l'accueil, rez-de-chaussée.
+
+## CO 2 | A2 | message téléphonique | information précise | H:fr-FR
+DOC: H: Bonjour Madame, c'est l'auto-école. Votre examen du permis de conduire est fixé au mardi 14 mai à 8 h 30. Rendez-vous devant l'agence à 8 heures. Bonne chance !
+Q: À quelle heure faut-il être devant l'agence ?
++ À 8 heures. | « Rendez-vous devant l'agence à 8 heures ».
+- À 8 h 30. | C'est l'heure de l'examen.
+- À 14 heures. | 14 est la date.
+- À 9 heures. | Ce n'est pas dit.
+EXP: Distinguez l'heure du rendez-vous (8 h) et celle de l'examen (8 h 30).
+
+## CO 3 | A2 | conversation quotidienne | information précise | F:fr-FR, H:fr-FR
+DOC: F: Bonjour, je cherche un pull pour mon mari. / H: Quelle taille ? / F: Je crois qu'il fait du L. / H: Nous avons ce modèle en bleu ou en gris. / F: Le bleu, il adore cette couleur.
+Q: Quel pull la femme choisit-elle ?
++ Un pull bleu, taille L. | Elle choisit le bleu ; la taille est L.
+- Un pull gris, taille L. | Elle choisit le bleu.
+- Un pull bleu, taille M. | Elle dit L.
+- Un pull pour elle-même. | C'est pour son mari.
+EXP: Combinez les deux informations : taille et couleur.
+
+## CO 4 | B1 | conversation quotidienne | intention | H:fr-FR, F:fr-CA
+DOC: H: Ça te dirait de venir randonner avec nous dimanche ? / F: J'adorerais, mais je me suis tordu la cheville la semaine dernière. Le médecin m'a dit de me reposer encore quinze jours. / H: Dommage ! Ce sera pour la prochaine fois. / F: Avec plaisir.
+Q: Comment la femme répond-elle à l'invitation ?
++ Elle refuse à cause d'une blessure. | Elle s'est tordu la cheville.
+- Elle accepte avec plaisir. | Elle ne peut pas venir.
+- Elle propose un autre sport. | Ce n'est pas dit.
+- Elle refuse car elle n'aime pas marcher. | Elle « adorerait ».
+EXP: « J'adorerais, mais » : refus poli au conditionnel suivi d'une justification.
+
+## CO 5 | B1 | message professionnel | information précise | F:fr-FR
+DOC: F: Bonjour Monsieur Laurent, c'est Sophie de votre agence bancaire. Votre demande de prêt pour la voiture a été acceptée. Pour finaliser le dossier, il faudrait passer signer le contrat avant la fin de la semaine. Je suis à l'agence tous les jours sauf le mercredi.
+Q: Quel jour M. Laurent ne pourra-t-il pas voir Sophie ?
++ Le mercredi. | « tous les jours sauf le mercredi ».
+- Le lundi. | Elle est présente.
+- Le vendredi. | Elle est présente.
+- Le samedi. | Ce n'est pas dit qu'elle est absente.
+EXP: « Sauf » exclut un élément.
+
+## CO 6 | B1 | information radio | information précise | H:fr-FR
+DOC: H: Bonne nouvelle pour les vacanciers : à partir de juillet, les trains de nuit reliant Paris à Nice reprennent du service, trois fois par semaine. Les billets sont en vente dès aujourd'hui, à partir de 29 euros en place assise et 49 euros en couchette.
+Q: Combien coûte au minimum une couchette ?
++ 49 euros. | « 49 euros en couchette ».
+- 29 euros. | C'est le prix d'une place assise.
+- 3 euros. | 3 correspond à la fréquence.
+- Le prix n'est pas indiqué. | Il est indiqué.
+EXP: Distinguez les deux tarifs.
+
+## CO 7 | B1 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous voyagez toujours sans réserver d'hôtel. Ce n'est pas stressant ? / H: Un peu, parfois. Mais c'est comme ça que j'ai vécu mes plus belles rencontres : des familles qui m'ont hébergé, des cafés où on m'a conseillé des endroits magnifiques. Si je réserve tout, j'ai l'impression de suivre un programme, pas de voyager.
+Q: Pourquoi l'homme ne réserve-t-il pas ?
++ Pour garder la liberté et faire des rencontres. | Ses plus belles rencontres viennent de l'improvisation.
+- Parce que c'est moins cher. | Le prix n'est pas évoqué.
+- Parce qu'il n'aime pas les hôtels. | Ce n'est pas dit.
+- Parce qu'il voyage toujours chez des amis. | Ce sont des inconnus qui l'ont hébergé.
+EXP: Opposition « suivre un programme » / « voyager ».
+
+## CO 8 | B1 | annonce publique | information précise | F:fr-BE
+DOC: F: Le centre de vaccination sera exceptionnellement ouvert ce samedi de 9 h à 12 h, sans rendez-vous. Pensez à apporter votre carte Vitale et votre carnet de vaccination.
+Q: Qu'est-ce qui est exceptionnel ce samedi ?
++ Le centre est ouvert sans rendez-vous. | « exceptionnellement ouvert ce samedi… sans rendez-vous ».
+- La vaccination est payante. | Ce n'est pas dit.
+- Le centre est fermé. | Il est ouvert.
+- Il faut un rendez-vous. | C'est « sans rendez-vous ».
+EXP: « Exceptionnellement » signale un fonctionnement inhabituel.
+
+## CO 9 | B1 | situation administrative | information précise | H:fr-FR, F:fr-FR
+DOC: H: Bonjour, je voudrais ouvrir un compte bancaire. / F: Vous avez apporté une pièce d'identité, un justificatif de domicile et un justificatif de revenus ? / H: J'ai les deux premiers, mais je commence mon travail le mois prochain. / F: Votre contrat de travail suffira.
+Q: Quel document remplace le justificatif de revenus ?
++ Le contrat de travail. | « Votre contrat de travail suffira ».
+- Le justificatif de domicile. | Il l'a déjà.
+- La pièce d'identité. | Il l'a déjà.
+- Une lettre de recommandation. | Ce n'est pas dit.
+EXP: « Suffira » = sera suffisant.
+
+## CO 10 | B1 | conversation professionnelle | information précise | F:fr-FR, H:fr-CH
+DOC: F: Le client suisse arrive demain à 10 h. Tu peux aller le chercher à l'aéroport ? / H: Demain matin, j'ai une réunion jusqu'à 11 h. / F: D'accord, je demanderai à Karim. Toi, tu pourras le recevoir pour le déjeuner ? / H: Oui, sans problème.
+Q: Que fera l'homme demain ?
++ Il déjeunera avec le client. | « tu pourras le recevoir pour le déjeuner ? — Oui ».
+- Il ira chercher le client à l'aéroport. | Il a une réunion.
+- Il annulera sa réunion. | Ce n'est pas dit.
+- Il partira en Suisse. | Ce n'est pas dit.
+EXP: Une tâche est refusée, une autre est acceptée.
+
+## CO 11 | B2 | débat | opinion | H:fr-FR, F:fr-FR
+DOC: H: Le tourisme de masse détruit les villes comme Venise ou Barcelone. Il faudrait limiter le nombre de visiteurs. / F: Limiter, oui, mais comment ? Avec des quotas, seuls les riches pourront voyager. Je préférerais qu'on mieux répartisse les touristes dans le temps et l'espace, en faisant découvrir d'autres quartiers et d'autres saisons.
+Q: Que propose la femme ?
++ Mieux répartir les touristes plutôt que d'imposer des quotas. | « Je préférerais qu'on mieux répartisse les touristes ».
+- Interdire le tourisme. | Ce n'est pas proposé.
+- Augmenter le prix des voyages. | Elle craint que seuls les riches voyagent.
+- Imposer des quotas stricts. | Elle s'y oppose.
+EXP: « Limiter, oui, mais comment ? » : accord sur l'objectif, désaccord sur le moyen.
+
+## CO 12 | B2 | information radio | information globale | F:fr-FR
+DOC: F: Les paiements en espèces continuent de reculer. Ils ne représentent plus qu'un quart des achats en magasin. Certains commerçants refusent même désormais les billets, ce qui est pourtant illégal. Les associations rappellent que les personnes âgées et les plus précaires dépendent encore largement de l'argent liquide.
+Q: Quel problème est soulevé ?
++ Le refus des espèces pénalise certaines populations. | Personnes âgées et précaires en dépendent.
+- Les billets vont être supprimés. | Ce n'est pas dit.
+- Les paiements en espèces augmentent. | Ils reculent.
+- Les cartes bancaires sont interdites. | Ce n'est pas dit.
+EXP: « Pourtant illégal » souligne une contradiction. La dernière phrase donne l'enjeu social.
+
+## CO 13 | B2 | interview | information détaillée | H:fr-FR, F:fr-FR
+DOC: H: Vous êtes conseillère en gestion de budget. Quelle est l'erreur la plus fréquente ? / F: Sans hésiter : les petits abonnements. Une plateforme de vidéos, une autre de musique, une application de sport qu'on n'utilise plus… Pris un par un, ça paraît rien. Additionnés, ça peut représenter plus de cent euros par mois.
+Q: Quelle erreur la conseillère cite-t-elle ?
++ Accumuler de petits abonnements. | « les petits abonnements ».
+- Acheter une voiture trop chère. | Ce n'est pas dit.
+- Ne pas épargner pour la retraite. | Ce n'est pas dit.
+- Payer en espèces. | Ce n'est pas dit.
+EXP: « Pris un par un… Additionnés… » oppose l'effet isolé et l'effet cumulé.
+
+## CO 14 | B2 | message téléphonique | implicite | F:fr-FR
+DOC: F: Salut Nico, c'est Léa. Merci encore de m'avoir prêté ton appareil photo pour le voyage. Il a fait des photos superbes ! Bon… il faudrait que je te parle de l'objectif. Rien de dramatique, mais je préfère te l'expliquer en face. Je t'invite au resto ce soir ?
+Q: Que comprend-on ?
++ Léa a probablement abîmé l'objectif. | Elle veut en parler en face et l'invite pour se faire pardonner.
+- L'appareil fonctionne parfaitement. | Elle mentionne un problème.
+- Léa a perdu l'appareil. | Il a fait des photos, elle parle seulement de l'objectif.
+- Léa veut acheter l'appareil. | Ce n'est pas dit.
+EXP: « Rien de dramatique, mais » et l'invitation au restaurant suggèrent un incident à se faire pardonner.
+
+## CO 15 | B2 | conversation professionnelle | relation logique | H:fr-FR, F:fr-BE
+DOC: H: Les réservations de l'hôtel ont baissé de vingt pour cent cet été. / F: Ce n'est pas le prix, nous sommes dans la moyenne. Ce sont les avis en ligne : plusieurs clients se sont plaints du bruit des travaux de la rue, et nous n'avons jamais répondu. / H: Alors il faut répondre à chaque avis et proposer une réduction pendant les travaux.
+Q: Selon la femme, pourquoi les réservations ont-elles baissé ?
++ À cause d'avis négatifs restés sans réponse. | « Ce sont les avis en ligne… nous n'avons jamais répondu ».
+- À cause des prix trop élevés. | « Ce n'est pas le prix ».
+- Parce que l'hôtel est fermé. | Ce n'est pas dit.
+- À cause de la météo. | Ce n'est pas dit.
+EXP: La femme écarte une cause puis donne la vraie.
+
+## CO 16 | B2 | interview | information détaillée | F:fr-FR, H:fr-CA
+DOC: F: Vous proposez des séjours de « détox numérique ». En quoi ça consiste ? / H: Pendant trois jours, les participants déposent leur téléphone à l'arrivée. Au programme : randonnées, ateliers de cuisine, soirées autour du feu. Le plus difficile, c'est le premier jour. Ensuite, la plupart disent qu'ils se sentent plus présents, plus attentifs aux autres.
+Q: Qu'est-ce qui est le plus difficile pour les participants ?
++ Le premier jour sans téléphone. | « Le plus difficile, c'est le premier jour ».
+- Les randonnées. | Ce n'est pas dit.
+- Les ateliers de cuisine. | Ce n'est pas dit.
+- Le retour à la maison. | Ce n'est pas mentionné.
+EXP: « Le plus difficile, c'est » met en relief la réponse.
+
+## CO 17 | B2 | annonce publique | information précise | H:fr-FR
+DOC: H: Information importante : suite à un problème technique, les distributeurs de billets de l'agence seront hors service jusqu'à jeudi. Les retraits restent possibles au guichet aux heures d'ouverture, ou gratuitement dans les distributeurs de nos agences partenaires.
+Q: Où peut-on retirer de l'argent gratuitement ?
++ Dans les distributeurs des agences partenaires. | « gratuitement dans les distributeurs de nos agences partenaires ».
+- Dans les distributeurs de l'agence. | Ils sont hors service.
+- Dans n'importe quel magasin. | Ce n'est pas dit.
+- Uniquement en ligne. | On ne retire pas d'argent en ligne.
+EXP: Deux solutions sont proposées : le guichet et les partenaires.
+
+## CO 18 | B2 | information radio | relation logique | F:fr-FR
+DOC: F: Les assurances habitation vont augmenter en moyenne de huit pour cent l'an prochain. Les assureurs justifient cette hausse par la multiplication des catastrophes naturelles, inondations et tempêtes, liées au changement climatique, qui ont fait exploser le coût des indemnisations.
+Q: Comment les assureurs justifient-ils la hausse ?
++ Par l'augmentation des catastrophes naturelles. | « la multiplication des catastrophes naturelles ».
+- Par la baisse du nombre de clients. | Ce n'est pas dit.
+- Par la hausse des cambriolages. | Ce n'est pas dit.
+- Par une nouvelle loi. | Ce n'est pas dit.
+EXP: « Justifier par » introduit la cause invoquée.
+
+## CO 19 | B2 | débat | argumentation | H:fr-FR, F:fr-FR
+DOC: F: Les montres connectées qui mesurent le sommeil et le rythme cardiaque, c'est un progrès pour la santé. / H: Pour certains, oui. Mais beaucoup d'utilisateurs deviennent anxieux à force de surveiller leurs chiffres. On voit des gens qui dorment mal parce que leur montre leur dit qu'ils ont mal dormi ! La technologie devrait nous aider, pas nous inquiéter.
+Q: Quel risque l'homme évoque-t-il ?
++ Les utilisateurs peuvent devenir anxieux. | « beaucoup d'utilisateurs deviennent anxieux ».
+- Les montres sont trop chères. | Ce n'est pas dit.
+- Les montres donnent de fausses informations médicales. | Ce n'est pas dit.
+- Les montres sont dangereuses pour le cœur. | Ce n'est pas dit.
+EXP: L'exemple paradoxal (mal dormir à cause de la montre) illustre l'argument.
+
+## CO 20 | B2 | interview | implicite | F:fr-FR, H:fr-FR
+DOC: F: Vous avez fait le tour du monde en famille pendant un an. Les enfants n'ont pas pris de retard à l'école ? / H: Ils ont suivi les cours à distance. Et puis, entre nous, je pense qu'ils ont appris plus en un an qu'en trois ans de classe. Leur maîtresse n'était pas tout à fait de cet avis…
+Q: Que laisse entendre l'homme ?
++ La maîtresse était plus réservée sur les bénéfices du voyage. | « Leur maîtresse n'était pas tout à fait de cet avis ».
+- Les enfants ont redoublé. | Ce n'est pas dit.
+- La maîtresse a accompagné la famille. | Ce n'est pas dit.
+- Les enfants n'ont rien appris. | Il pense qu'ils ont beaucoup appris.
+EXP: « Pas tout à fait de cet avis » est une litote pour un désaccord.
+
+## CO 21 | C1 | information radio | information détaillée | H:fr-CH
+DOC: H: La station de ski de Saint-Pierre a annoncé qu'elle fermerait définitivement ses remontées mécaniques à la fin de la saison. Faute de neige suffisante, elle n'a pu ouvrir que vingt jours l'an dernier. La commune entend se reconvertir dans le tourisme quatre saisons : VTT, randonnée et thermalisme.
+Q: Pourquoi la station ferme-t-elle ses remontées ?
++ À cause du manque de neige. | « Faute de neige suffisante ».
+- À cause d'un accident. | Ce n'est pas dit.
+- Parce que les touristes préfèrent le VTT. | C'est la reconversion, pas la cause.
+- Parce que la commune manque d'argent. | Ce n'est pas dit.
+EXP: « Faute de » = par manque de. « Se reconvertir » = changer d'activité.
+
+## CO 22 | B2 | conversation professionnelle | intention | F:fr-FR, H:fr-FR
+DOC: H: Je vous appelle car mon assurance refuse de rembourser les dégâts des eaux de ma cuisine. / F: D'après votre contrat, la garantie ne couvre pas les fuites dues à un défaut d'entretien. / H: Mais l'expert a dit que le tuyau était défectueux depuis l'installation ! / F: Dans ce cas, envoyez-nous son rapport, nous réexaminerons votre dossier.
+Q: Que propose la conseillère ?
++ De réexaminer le dossier avec le rapport de l'expert. | « envoyez-nous son rapport, nous réexaminerons votre dossier ».
+- De rembourser immédiatement. | Ce n'est pas encore le cas.
+- De refuser définitivement. | Elle accepte de réexaminer.
+- De changer de contrat. | Ce n'est pas dit.
+EXP: « Dans ce cas » introduit une nouvelle possibilité liée à l'argument du client.
+
+## CO 23 | C1 | débat | argumentation | H:fr-FR, F:fr-CA
+DOC: H: Le tourisme spatial, c'est l'avenir du voyage. / F: L'avenir de qui ? Un vol de quelques minutes émet autant de CO2 qu'un habitant de la planète en plusieurs années. Qu'on finance la recherche spatiale, je l'entends. Mais que des milliardaires s'offrent des excursions pendant qu'on demande aux autres de prendre moins l'avion, c'est indécent.
+Q: Quel est l'argument principal de la femme ?
++ Le tourisme spatial est injuste et très polluant. | Émissions énormes et privilège des milliardaires.
+- La recherche spatiale doit être arrêtée. | Elle accepte de la financer.
+- Le tourisme spatial est trop dangereux. | Ce n'est pas son argument.
+- Tout le monde devrait pouvoir aller dans l'espace. | Ce n'est pas dit.
+EXP: « L'avenir de qui ? » est une question rhétorique. Elle distingue recherche (acceptée) et tourisme (refusé).
+
+## CO 24 | C1 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes psychologue. Le burn-out est-il plus fréquent qu'avant ? / H: On en parle davantage, ce qui est une bonne chose. Mais je me méfie d'une lecture purement individuelle : on conseille aux salariés de faire du yoga ou de méditer, alors que le problème vient souvent de l'organisation du travail. On ne soigne pas un environnement toxique avec des exercices de respiration.
+Q: Que critique le psychologue ?
++ Une approche qui fait porter la responsabilité aux seuls individus. | « je me méfie d'une lecture purement individuelle ».
+- Le fait qu'on parle davantage du burn-out. | Il trouve ça positif.
+- La pratique du yoga en général. | Il critique son usage comme solution unique.
+- Les salariés qui se plaignent. | Ce n'est pas dit.
+EXP: La dernière phrase, imagée, résume la critique.
+
+## CO 25 | C1 | information radio | implicite | H:fr-FR
+DOC: H: La banque a lancé une campagne publicitaire sur le thème « Nous sommes proches de vous ». Dans le même temps, elle a fermé trente agences en milieu rural cette année. La proximité, sans doute, se mesure désormais en kilomètres d'autoroute.
+Q: Quel est le ton du journaliste ?
++ Ironique. | La dernière phrase se moque du slogan.
+- Admiratif. | Il critique la banque.
+- Neutre. | Il prend position.
+- Enthousiaste. | Ce n'est pas le cas.
+EXP: L'ironie oppose le slogan (« proches de vous ») aux fermetures d'agences.
+
+## CE 1 | A2 | annonce | information précise
+DOC: Location de vélos – Plage des Sables. 5 € l'heure, 15 € la journée. Casque offert. Ouvert tous les jours de juin à septembre, de 9 h à 19 h. Pièce d'identité demandée.
+Q: Que faut-il laisser pour louer un vélo ?
++ Une pièce d'identité. | « Pièce d'identité demandée ».
+- Un casque. | Il est offert.
+- 15 euros de caution. | 15 € est le prix de la journée.
+- Rien. | Une pièce d'identité est demandée.
+EXP: Repérez les conditions de location.
+
+## CE 2 | A2 | message | information précise
+DOC: Salut Tom, je suis bien arrivée à Lisbonne ! Il fait très beau, 28 degrés. L'hôtel est super, avec une piscine sur le toit. Demain, je visite le quartier de l'Alfama. Je t'envoie des photos ce soir. Bisous, Clara.
+Q: Que va faire Clara demain ?
++ Visiter un quartier de Lisbonne. | « Demain, je visite le quartier de l'Alfama ».
+- Rentrer chez elle. | Ce n'est pas dit.
+- Aller à la plage. | Ce n'est pas dit.
+- Changer d'hôtel. | Ce n'est pas dit.
+EXP: « Demain » indique le projet.
+
+## CE 3 | A2 | affiche | information précise
+DOC: CABINET MÉDICAL – Dr Martin et Dr Roche. Consultations sur rendez-vous uniquement, du lundi au vendredi. En cas d'urgence la nuit ou le week-end, appelez le 15.
+Q: Que faire en cas d'urgence le dimanche ?
++ Appeler le 15. | « En cas d'urgence la nuit ou le week-end, appelez le 15 ».
+- Venir au cabinet. | Il est fermé le week-end.
+- Prendre rendez-vous en ligne. | Ce n'est pas dit.
+- Attendre lundi. | Il faut appeler le 15.
+EXP: Le 15 est le numéro du SAMU en France.
+
+## CE 4 | B1 | courriel | intention
+DOC: Madame, Monsieur, j'ai séjourné dans votre hôtel du 3 au 7 juillet. À mon retour, j'ai constaté que j'avais oublié une veste noire dans l'armoire de la chambre 214. Pourriez-vous vérifier si elle a été retrouvée et, le cas échéant, me l'envoyer à mes frais ? Merci d'avance. Cordialement, Hélène Rivière
+Q: Que demande Hélène Rivière ?
++ Qu'on lui renvoie un vêtement oublié. | Elle a oublié une veste et demande l'envoi.
+- Un remboursement de son séjour. | Ce n'est pas demandé.
+- Une nouvelle réservation. | Ce n'est pas demandé.
+- Un changement de chambre. | Elle est déjà partie.
+EXP: « Le cas échéant » = si c'est le cas.
+
+## CE 5 | B1 | article de presse | information globale
+DOC: Les « microaventures » séduisent de plus en plus de citadins. Le principe : partir près de chez soi, pour une nuit ou un week-end, sans dépenser beaucoup. Dormir à la belle étoile à une heure de la ville, faire une randonnée au lever du soleil… Pas besoin de prendre l'avion pour se dépayser.
+Q: Qu'est-ce qu'une « microaventure » ?
++ Une courte escapade près de chez soi. | « partir près de chez soi, pour une nuit ou un week-end ».
+- Un voyage lointain en avion. | « Pas besoin de prendre l'avion ».
+- Un séjour de luxe. | « sans dépenser beaucoup ».
+- Une compétition sportive. | Ce n'est pas dit.
+EXP: « Se dépayser » = changer d'environnement.
+
+## CE 6 | B1 | lettre administrative | information précise
+DOC: Monsieur, nous vous confirmons la résiliation de votre contrat d'assurance automobile à compter du 31 mars. Le montant de la cotisation correspondant à la période non couverte, soit 87 euros, vous sera remboursé par virement sous trente jours.
+Q: Que va recevoir le client ?
++ Un remboursement de 87 euros. | « 87 euros, vous sera remboursé par virement ».
+- Un nouveau contrat. | Le contrat est résilié.
+- Une facture de 87 euros. | C'est un remboursement.
+- Une carte verte. | Ce n'est pas dit.
+EXP: « Résiliation » = fin d'un contrat.
+
+## CE 7 | B1 | publicité | information précise
+DOC: Voyagez malin avec la carte Jeune ! Pour 49 € par an, bénéficiez de 30 % de réduction sur tous vos trajets en train, en France et en Europe. Réservée aux 12-27 ans. Valable dès le jour de l'achat.
+Q: Qui peut acheter cette carte ?
++ Les personnes de 12 à 27 ans. | « Réservée aux 12-27 ans ».
+- Toutes les personnes. | Elle est réservée à une tranche d'âge.
+- Les étudiants uniquement. | Il s'agit d'un âge, pas d'un statut.
+- Les plus de 27 ans. | C'est exclu.
+EXP: « Réservée à » limite l'accès.
+
+## CE 8 | B1 | message professionnel | information précise
+DOC: Bonjour à tous, notre mutuelle d'entreprise change au 1er janvier. Vous recevrez votre nouvelle carte par courrier en décembre. Les remboursements de soins dentaires et optiques seront améliorés. Une réunion d'information aura lieu le 5 décembre à 12 h 30 en salle polyvalente. Le service RH.
+Q: Qu'est-ce qui va s'améliorer ?
++ Les remboursements dentaires et optiques. | « Les remboursements de soins dentaires et optiques seront améliorés ».
+- Les salaires. | Ce n'est pas dit.
+- Les horaires de travail. | Ce n'est pas dit.
+- La cantine. | Ce n'est pas dit.
+EXP: « Mutuelle » = assurance complémentaire santé.
+
+## CE 9 | B1 | témoignage | opinion
+DOC: « J'ai essayé le camping pour la première fois l'été dernier. J'avais peur de mal dormir et d'avoir froid. Finalement, j'ai adoré me réveiller au chant des oiseaux. Par contre, la prochaine fois, je prendrai un meilleur matelas ! » Fatima, 35 ans.
+Q: Que pense Fatima du camping ?
++ Elle a aimé, malgré un petit inconvénient. | « j'ai adoré » ; « je prendrai un meilleur matelas ».
+- Elle n'a pas aimé du tout. | Elle a adoré.
+- Elle a eu très froid. | Elle en avait peur, mais ce n'est pas dit qu'elle a eu froid.
+- Elle ne recommencera jamais. | Elle parle de « la prochaine fois ».
+EXP: « Finalement » marque le contraste entre crainte et réalité.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: Le « slow travel », ou voyage lent, consiste à privilégier le train, le vélo ou le bateau, et à rester plus longtemps au même endroit. Ses adeptes revendiquent une manière plus respectueuse de l'environnement et des populations locales. Reste que cette pratique suppose du temps, un luxe que tous les salariés ne peuvent pas s'offrir.
+Q: Quelle limite l'article souligne-t-il ?
++ Cette façon de voyager demande beaucoup de temps. | « cette pratique suppose du temps, un luxe ».
+- Elle pollue davantage. | Elle est plus respectueuse de l'environnement.
+- Elle est interdite dans certains pays. | Ce n'est pas dit.
+- Elle ne respecte pas les populations locales. | C'est l'inverse.
+EXP: « Reste que » introduit une restriction.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: On nous répète que le crédit à la consommation « facilite la vie ». Il la facilite surtout pour les organismes prêteurs, qui affichent des taux d'intérêt parfois supérieurs à 20 %. Payer en quatre fois une paire de baskets ou un téléphone n'est pas une facilité : c'est souvent la porte d'entrée vers le surendettement.
+Q: Que veut montrer l'auteur ?
++ Le crédit à la consommation présente des dangers. | Taux élevés, risque de surendettement.
+- Le crédit facilite la vie de tous. | Il conteste ce discours.
+- Il faut acheter plus de baskets. | Ce n'est pas le sujet.
+- Les taux d'intérêt sont très bas. | Ils dépassent parfois 20 %.
+EXP: L'auteur reprend une formule (« facilite la vie ») pour la retourner.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Madame, suite au sinistre survenu à votre domicile le 12 février, un expert mandaté par notre compagnie prendra contact avec vous afin d'évaluer les dommages.
+Q: Que signifie « sinistre » dans ce contexte ?
++ un accident ou dommage couvert par l'assurance. | Le contexte (expert, évaluer les dommages) le confirme.
+- un sentiment de tristesse. | Ce n'est pas le sens ici.
+- une fête. | Ce n'est pas le sens.
+- un paiement. | Ce n'est pas le sens.
+EXP: En assurance, « sinistre » = événement qui cause des dommages (incendie, dégât des eaux…). « Mandaté » = envoyé officiellement.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: Face à la surfréquentation, la région des calanques de Marseille a instauré un système de réservation gratuite pour accéder à certaines criques en été. Le nombre de visiteurs est limité à quatre cents par jour. Résultat : la végétation, piétinée depuis des années, commence à repousser, et les visiteurs apprécient le calme retrouvé.
+Q: Quel effet a eu la mesure sur la nature ?
++ La végétation commence à repousser. | « la végétation… commence à repousser ».
+- Les animaux ont disparu. | Ce n'est pas dit.
+- Les plages ont été fermées. | L'accès est limité, pas fermé.
+- La pollution a augmenté. | Ce n'est pas dit.
+EXP: « Piétinée » = écrasée par les pieds. « Surfréquentation » = trop de visiteurs.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Madame, à la suite de l'analyse de votre dossier, nous vous informons que votre demande de remboursement de frais médicaux engagés à l'étranger a été partiellement acceptée. Les soins urgents seront pris en charge sur la base des tarifs français. Les frais de rapatriement, non prévus par votre contrat, restent à votre charge.
+Q: Qu'est-ce qui ne sera pas remboursé ?
++ Les frais de rapatriement. | « Les frais de rapatriement… restent à votre charge ».
+- Les soins urgents. | Ils seront pris en charge.
+- Toutes les dépenses. | La demande est partiellement acceptée.
+- Les médicaments en France. | Ce n'est pas le sujet.
+EXP: « Partiellement » = en partie. « Rester à charge » = ne pas être remboursé.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: Les applications de méditation ont connu un succès fulgurant. Elles permettent à des millions de personnes de découvrir des techniques de relaxation. Cependant, en transformant la méditation en produit à consommer, avec ses statistiques et ses « séries » à ne pas interrompre, elles risquent de créer une nouvelle source de pression, à l'opposé de l'objectif recherché.
+Q: Quel paradoxe l'auteur souligne-t-il ?
++ Un outil de relaxation peut devenir une source de stress. | « une nouvelle source de pression, à l'opposé de l'objectif ».
+- La méditation est inutile. | Ce n'est pas dit.
+- Les applications sont gratuites. | Ce n'est pas le sujet.
+- Personne n'utilise ces applications. | Elles ont un succès fulgurant.
+EXP: « Cependant » introduit le paradoxe. « Fulgurant » = très rapide.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: Le projet de construction d'un grand complexe hôtelier sur le littoral divise la commune. Le maire y voit une chance pour l'emploi local. Les associations écologistes dénoncent la destruction d'une zone humide protégée. Quant aux pêcheurs, ils restent prudents et attendent les études d'impact avant de se prononcer.
+Q: Quelle est la position des pêcheurs ?
++ Ils attendent plus d'informations avant de donner leur avis. | « attendent les études d'impact avant de se prononcer ».
+- Ils sont totalement favorables. | Ils restent prudents.
+- Ils dénoncent la destruction de la zone humide. | Ce sont les écologistes.
+- Ils voient une chance pour l'emploi. | C'est le maire.
+EXP: « Se prononcer » = donner son avis.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: La carte européenne d'assurance maladie (CEAM) permet de bénéficier d'une prise en charge des soins médicaux nécessaires lors d'un séjour temporaire dans un pays de l'Union européenne, selon la législation du pays de séjour. Elle est gratuite, valable deux ans, et doit être demandée au moins deux semaines avant le départ.
+Q: Quand faut-il demander la CEAM ?
++ Au moins deux semaines avant le départ. | « doit être demandée au moins deux semaines avant le départ ».
+- Le jour du départ. | C'est trop tard.
+- Deux ans avant. | Deux ans est la durée de validité.
+- À l'arrivée dans le pays. | Ce n'est pas dit.
+EXP: Distinguez la durée de validité (deux ans) et le délai de demande (deux semaines).
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « L'agence m'avait promis un hôtel "à deux pas de la plage". Techniquement, c'était vrai : deux pas… et une autoroute à traverser. » Bruno, 47 ans.
+Q: Que sous-entend Bruno ?
++ La description de l'agence était trompeuse. | L'hôtel était séparé de la plage par une autoroute.
+- L'hôtel était parfaitement situé. | Le ton est ironique.
+- Il a aimé traverser l'autoroute. | Ce n'est pas dit.
+- L'agence lui a remboursé le voyage. | Ce n'est pas dit.
+EXP: « Techniquement, c'était vrai » prépare la chute ironique.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Faut-il supprimer les billets de banque ? Les partisans d'une société sans espèces avancent la lutte contre la fraude et le travail au noir, ainsi que la praticité des paiements numériques. Ses opposants s'inquiètent de la surveillance des transactions et de l'exclusion des personnes qui n'ont pas accès aux services bancaires.
+Q: Quel argument est avancé par les partisans ?
++ La lutte contre la fraude. | « la lutte contre la fraude et le travail au noir ».
+- La protection de la vie privée. | C'est plutôt l'inquiétude des opposants.
+- L'inclusion des personnes sans banque. | C'est l'inquiétude des opposants.
+- Le coût des cartes bancaires. | Ce n'est pas dit.
+EXP: Repérez qui dit quoi : partisans vs opposants.
+
+## CE 20 | B2 | article de presse | relation logique
+DOC: Les ventes de vélos cargo ont triplé en trois ans. Les familles urbaines les adoptent pour emmener les enfants à l'école ou faire leurs courses. Les aides financières des collectivités, qui peuvent couvrir jusqu'à un tiers du prix, ont largement contribué à ce succès.
+Q: Qu'est-ce qui a favorisé ce succès ?
++ Les aides financières des collectivités. | « Les aides financières… ont largement contribué ».
+- La baisse du prix de l'essence. | Ce n'est pas dit.
+- L'interdiction des voitures. | Ce n'est pas dit.
+- La publicité à la télévision. | Ce n'est pas dit.
+EXP: « Contribuer à » = être une des causes.
+
+## CE 21 | C1 | texte argumentatif | intention de l'auteur
+DOC: On célèbre l'« économie du partage » comme une révolution solidaire. Pourtant, la location d'appartements entre particuliers a surtout transformé des quartiers entiers en hôtels à ciel ouvert, chassant les habitants permanents et faisant flamber les loyers. Le partage, ici, ressemble fort à une nouvelle forme de spéculation.
+Q: Quelle est la thèse de l'auteur ?
++ L'économie du partage cache souvent une logique spéculative. | « ressemble fort à une nouvelle forme de spéculation ».
+- L'économie du partage est une révolution solidaire. | C'est l'idée qu'il conteste.
+- Les loyers ont baissé grâce aux locations. | Ils ont flambé.
+- Les habitants permanents sont plus nombreux. | Ils sont chassés.
+EXP: « Pourtant » introduit la réfutation. « Flamber » = augmenter fortement.
+
+## CE 22 | C1 | article de presse | sens d'un mot en contexte
+DOC: L'agence de voyages, en proie à de graves difficultés financières, a été placée en redressement judiciaire. Les clients ayant déjà payé leurs séjours s'inquiètent.
+Q: Que signifie « en proie à » ?
++ confrontée à, victime de. | L'agence subit des difficultés.
+- à l'origine de. | Ce n'est pas le sens.
+- protégée de. | C'est le contraire.
+- satisfaite de. | Ce n'est pas le sens.
+EXP: « Être en proie à » = être tourmenté, frappé par quelque chose.
+
+## CE 23 | C1 | texte argumentatif | arguments contradictoires
+DOC: Pour certains, les assurances qui proposent des réductions aux assurés portant une montre connectée récompensent les comportements sains. Pour d'autres, elles ouvrent la voie à une discrimination des malades et à une surveillance permanente de la vie privée. Entre incitation et contrôle, la frontière est ténue.
+Q: Quelle est la conclusion de l'auteur ?
++ Il est difficile de distinguer encouragement et surveillance. | « Entre incitation et contrôle, la frontière est ténue ».
+- Les montres connectées sont toujours bénéfiques. | Il présente des risques.
+- Les assurances doivent être interdites. | Ce n'est pas dit.
+- Les malades paient moins cher. | Le risque est inverse.
+EXP: « Ténue » = très fine, difficile à percevoir.
+
+## CE 24 | C1 | article de presse | sous-entendu
+DOC: Le parc d'attractions se vante d'être « accessible à tous ». Avec un billet d'entrée à 89 euros par personne, on suppose que « tous » désigne une catégorie assez restreinte de la population.
+Q: Que sous-entend le journaliste ?
++ Le parc est en réalité trop cher pour beaucoup de gens. | Le prix rend le slogan ironique.
+- Le parc est accessible aux personnes handicapées. | Ce n'est pas le sens ici.
+- Le billet est bon marché. | 89 € est présenté comme cher.
+- Le parc est gratuit pour les enfants. | Ce n'est pas dit.
+EXP: Le journaliste joue sur le mot « tous » pour critiquer le prix.
+
+## CE 25 | C1 | document informatif | compréhension globale
+DOC: Le droit de rétractation permet à un consommateur ayant acheté un bien ou un service à distance (Internet, téléphone) de changer d'avis sans avoir à se justifier ni à payer de pénalités, dans un délai de quatorze jours. Certaines exceptions existent : billets de transport, séjours à date fixe, produits personnalisés ou denrées périssables.
+Q: Quel achat n'est pas concerné par ce droit ?
++ Un billet de train acheté en ligne. | Les billets de transport font partie des exceptions.
+- Un téléphone commandé sur Internet. | Il est concerné.
+- Un livre acheté par téléphone. | Il est concerné.
+- Un abonnement à un magazine en ligne. | Ce n'est pas une exception citée.
+EXP: « Périssables » = qui se dégradent vite. Repérez la liste des exceptions.
+
+## EE 1 | A2 | décrire une situation
+CONSIGNE: Vous êtes en vacances. Vous envoyez une carte postale à un ami pour décrire l'endroit où vous êtes et ce que vous faites (30 à 60 mots).
+MODELE: Cher Malik, je t'écris de Biarritz, au bord de l'océan. Il fait chaud et le ciel est bleu tous les jours. Le matin, je prends des cours de surf, c'est difficile mais très drôle ! L'après-midi, je me promène dans la vieille ville. Hier, j'ai mangé un excellent poisson grillé. Je pense à toi ! Amitiés, Nadia
+POINTS: lieu ; météo ; activités ; formule amicale
+CONSEILS: Utilisez le présent pour les habitudes et le passé composé pour un fait passé.
+
+## EE 2 | B1 | raconter une expérience
+CONSIGNE: Vous avez perdu vos bagages lors d'un voyage en avion. Vous racontez cette mésaventure sur un forum de voyageurs (40 à 90 mots).
+MODELE: Le mois dernier, en arrivant à Montréal, j'ai attendu ma valise pendant une heure… sans la voir arriver ! Au guichet de la compagnie, on m'a demandé de remplir un formulaire et on m'a donné une petite trousse avec une brosse à dents. J'ai dû acheter quelques vêtements le lendemain. Finalement, ma valise est arrivée à mon hôtel trois jours plus tard. Mon conseil : gardez toujours une tenue de rechange dans votre bagage à main !
+POINTS: contexte ; problème ; démarches ; dénouement ; conseil
+CONSEILS: Racontez au passé et terminez par un conseil à l'impératif.
+
+## EE 3 | B2 | argumenter sur un sujet de société
+CONSIGNE: « Il faudrait limiter le nombre de touristes dans les sites les plus visités. » Vous donnez votre avis sur cette proposition dans le courrier des lecteurs d'un magazine (40 à 90 mots).
+MODELE: Je suis favorable à une limitation, mais elle doit être pensée intelligemment. En effet, la surfréquentation dégrade les sites naturels et rend la vie des habitants difficile, comme à Venise. Cependant, des quotas trop stricts risqueraient de réserver ces lieux aux plus riches. Il me semble donc préférable d'instaurer des réservations gratuites et de mieux faire connaître d'autres destinations. Ainsi, on protégerait les sites sans exclure personne.
+POINTS: position ; argument ; exemple ; objection ; solution
+CONSEILS: Concluez avec « ainsi » pour présenter le résultat de votre proposition.
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous pose des questions sur vos voyages, vos habitudes et vos goûts. Développez vos réponses.
+RELANCES: Aimez-vous voyager ? / Quel est le pays que vous avez préféré ? Pourquoi ? / Comment organisez-vous vos vacances ? / Préférez-vous la mer ou la montagne ? / Quel voyage rêvez-vous de faire ? / Comment faites-vous pour gérer votre budget ?
+PHRASES: Le pays qui m'a le plus marqué, c'est… / En général, je réserve… / Je préfère… parce que… / Mon rêve serait de… / Pour économiser, je…
+MODELE: J'adore voyager. Le pays qui m'a le plus marqué, c'est le Japon : la cuisine, les temples et la politesse des gens m'ont impressionné. En général, je réserve mes billets plusieurs mois à l'avance pour payer moins cher. Je préfère la montagne, car j'aime la randonnée. Mon rêve serait de traverser le Canada en train.
+
+## EO 2 | B2 | Faire une réclamation | Responsable de l'hôtel
+SCENARIO: Vous avez réservé une chambre avec vue sur la mer dans un hôtel, mais on vous donne une chambre sur le parking, bruyante. L'examinateur joue le rôle du responsable de l'hôtel. Exprimez votre mécontentement, argumentez et obtenez une solution.
+RELANCES: Bonjour, quel est le problème ? / Nous sommes complets ce soir. / La différence de prix n'est que de quinze euros. / Je peux vous offrir le petit-déjeuner. / Demain, une chambre avec vue se libère. / Cela vous convient-il ?
+PHRASES: J'ai réservé… et on m'a attribué… / Ce n'est pas du tout ce qui était prévu. / Je comprends, mais… / Je souhaiterais au minimum… / Dans ces conditions, j'accepte si…
+MODELE: Bonjour, j'ai réservé il y a deux mois une chambre avec vue sur la mer, et on m'a donné une chambre au-dessus du parking, très bruyante. Ce n'est pas du tout ce qui était prévu. Je comprends que vous soyez complets, mais c'était pour notre anniversaire de mariage. Je souhaiterais au minimum le remboursement de la différence pour cette nuit et une chambre avec vue dès demain. Si vous ajoutez le petit-déjeuner, j'accepte.
+
+## EO 3 | B2 | Les réseaux sociaux présentent-ils plus d'avantages que d'inconvénients ? | Examinateur
+SCENARIO: Donnez votre opinion : « Les réseaux sociaux présentent-ils plus d'avantages que d'inconvénients ? » Développez des arguments, donnez des exemples, nuancez et concluez.
+RELANCES: Utilisez-vous les réseaux sociaux ? / Quels avantages voyez-vous ? / Et les dangers ? / Les jeunes devraient-ils être protégés ? / Votre conclusion ?
+PHRASES: Il me semble que… / D'une part… d'autre part… / Il ne faut pas négliger le fait que… / Il serait réducteur de considérer que… / En tenant compte de ces différents éléments…
+MODELE: Il me semble que les réseaux sociaux ont autant d'avantages que d'inconvénients ; tout dépend de l'usage. D'une part, ils permettent de garder le contact avec sa famille à l'étranger, ce qui est précieux pour moi. D'autre part, il ne faut pas négliger les fausses informations et le harcèlement. Il serait réducteur de les accuser de tous les maux, mais les plus jeunes doivent être accompagnés. En tenant compte de ces éléments, je dirais qu'ils sont utiles, à condition de les utiliser avec modération.

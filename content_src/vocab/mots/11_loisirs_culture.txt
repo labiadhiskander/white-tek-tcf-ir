@@ -1,0 +1,88 @@
+# Loisirs et culture
+loisir | nom | m | A2 | Activité pratiquée pendant le temps libre. | La lecture est mon loisir préféré. | passe-temps | temps de loisir, centre de loisirs
+passe-temps | nom | m | B1 | Occupation agréable. | Le jardinage est devenu son passe-temps favori. | hobby | passe-temps favori
+temps libre | nom | m | A2 | Temps sans obligations. | Que faites-vous pendant votre temps libre ? | loisirs | avoir du temps libre
+culture | nom | f | A2 | Ensemble des arts et connaissances d'une société. | L'accès à la culture doit être encouragé. | - | culture générale, ministère de la Culture
+culturel | adjectif | - | B1 | Qui concerne la culture. | La ville propose une riche programmation culturelle. | artistique | événement culturel, sortie culturelle
+patrimoine | nom | m | B2 | Biens culturels hérités du passé. | Le château fait partie du patrimoine national. | héritage | patrimoine culturel, Journées du patrimoine
+monument | nom | m | A2 | Édifice remarquable. | La tour Eiffel est le monument le plus visité. | édifice | monument historique
+musée | nom | m | A1 | Lieu où l'on expose des œuvres. | Le musée est gratuit pour les moins de 26 ans. | - | visiter un musée
+exposition | nom | f | A2 | Présentation publique d'œuvres. | L'exposition Monet attire des foules. | expo | exposition temporaire
+œuvre | nom | f | B1 | Production artistique. | Cette œuvre a été vendue aux enchères. | création | œuvre d'art
+artiste | nom | m | A2 | Personne qui crée des œuvres. | De nombreux artistes vivent de façon précaire. | créateur | artiste peintre
+peinture | nom | f | A2 | Art de peindre ; tableau. | Elle prend des cours de peinture. | tableau | peinture à l'huile
+sculpture | nom | f | B1 | Art de créer des formes en trois dimensions. | Le jardin est décoré de sculptures. | statue | sculpture contemporaine
+art contemporain | nom | m | B2 | Art des dernières décennies. | L'art contemporain divise le public. | - | musée d'art contemporain
+chef-d'œuvre | nom | m | B2 | Œuvre parfaite. | Ce roman est un chef-d'œuvre de la littérature. | merveille | chef-d'œuvre absolu
+spectacle | nom | m | A2 | Représentation artistique. | Le spectacle commence à 20 h 30. | représentation | spectacle vivant
+représentation | nom | f | B2 | Interprétation d'une pièce devant un public. | La dernière représentation affiche complet. | séance | première représentation
+pièce de théâtre | nom | f | A2 | Œuvre écrite pour être jouée sur scène. | Nous avons vu une pièce de Molière. | - | monter une pièce de théâtre
+mise en scène | nom | f | B2 | Organisation artistique d'un spectacle. | La mise en scène est très originale. | réalisation | mise en scène audacieuse
+comédien | nom | m | B1 | Acteur de théâtre ou de cinéma. | Ce comédien joue dans trois films cette année. | acteur | jeune comédien
+scène | nom | f | B1 | Lieu où jouent les artistes. | Le chanteur est monté sur scène sous les applaudissements. | plateau | monter sur scène
+public | nom | m | A2 | Ensemble des spectateurs. | Le public a applaudi pendant dix minutes. | spectateurs | grand public
+spectateur | nom | m | B1 | Personne qui assiste à un spectacle. | Les spectateurs ont quitté la salle déçus. | - | spectateur passif
+applaudir | verbe | - | A2 | Battre des mains pour féliciter. | Le public a applaudi les musiciens. | acclamer | applaudir à tout rompre
+concert | nom | m | A1 | Spectacle musical. | J'ai des billets pour le concert de samedi. | - | aller au concert, concert en plein air
+festival | nom | m | A2 | Série de manifestations artistiques. | Le festival d'Avignon accueille des troupes du monde entier. | - | festival de musique
+cinéma | nom | m | A1 | Art des films ; salle de projection. | Le cinéma français est soutenu par l'État. | septième art | aller au cinéma
+film | nom | m | A1 | Œuvre cinématographique. | Ce film a reçu la Palme d'or. | long métrage | film d'auteur
+réalisateur | nom | m | B1 | Personne qui dirige un film. | Le réalisateur prépare son prochain film. | cinéaste | réalisateur primé
+long métrage | nom | m | B2 | Film de plus d'une heure. | C'est son premier long métrage. | film | premier long métrage
+sous-titres | nom | m | B1 | Traduction écrite en bas de l'écran. | Je regarde les films en version originale avec sous-titres. | - | version sous-titrée
+version originale | nom | f | B1 | Film dans sa langue d'origine. | Ce cinéma projette les films en version originale. | VO | en version originale
+série | nom | f | A2 | Fiction en plusieurs épisodes. | Cette série a été regardée par des millions de personnes. | feuilleton | série télévisée
+épisode | nom | m | B1 | Partie d'une série. | J'ai regardé trois épisodes d'affilée. | - | dernier épisode
+critique | nom | f | B1 | Jugement sur une œuvre. | Le film a reçu d'excellentes critiques. | avis | critique de cinéma
+critique (personne) | nom | m | B2 | Personne qui juge les œuvres. | Les critiques ont salué la performance de l'actrice. | chroniqueur | critique littéraire
+littérature | nom | f | B1 | Ensemble des œuvres écrites. | La littérature francophone est très riche. | lettres | littérature classique
+roman | nom | m | A2 | Œuvre de fiction en prose. | Ce roman se passe au XIXe siècle. | récit | roman policier
+romancier | nom | m | B2 | Auteur de romans. | Ce romancier a reçu le prix Goncourt. | écrivain | romancier célèbre
+écrivain | nom | m | A2 | Personne qui écrit des livres. | Victor Hugo est un écrivain majeur. | auteur | écrivain engagé
+poésie | nom | f | B1 | Art du langage en vers. | Elle lit de la poésie avant de dormir. | - | recueil de poésie
+bande dessinée | nom | f | A2 | Histoire racontée en images. | La bande dessinée belge est réputée. | BD | album de bande dessinée
+bibliothèque | nom | f | A1 | Lieu où l'on emprunte des livres. | J'emprunte des livres à la bibliothèque municipale. | médiathèque | bibliothèque municipale
+médiathèque | nom | f | B1 | Bibliothèque avec livres, films et musique. | La médiathèque propose des ateliers numériques. | bibliothèque | médiathèque municipale
+emprunter | verbe | - | A2 | Prendre pour un temps et rendre. | On peut emprunter cinq livres à la fois. | - | emprunter un livre
+lecture | nom | f | A2 | Action de lire. | La lecture développe l'imagination. | - | goût de la lecture
+lecteur | nom | m | B1 | Personne qui lit. | Ce magazine a perdu des lecteurs. | - | lecteur assidu
+parution | nom | f | B2 | Publication d'un livre. | La parution de son nouveau roman est prévue en mai. | sortie | date de parution
+musique | nom | f | A1 | Art des sons. | J'écoute de la musique en travaillant. | - | musique classique, faire de la musique
+instrument | nom | m | A2 | Objet qui produit de la musique. | Il joue de trois instruments. | - | jouer d'un instrument
+chorale | nom | f | B1 | Groupe de personnes qui chantent ensemble. | Ma mère chante dans une chorale. | chœur | chanter dans une chorale
+conservatoire | nom | m | B2 | École de musique, de danse ou de théâtre. | Elle étudie le piano au conservatoire. | école de musique | entrer au conservatoire
+danse | nom | f | A2 | Art de bouger en rythme. | Je prends des cours de danse le mardi. | - | cours de danse
+atelier | nom | m | B1 | Séance d'apprentissage pratique. | La médiathèque organise un atelier d'écriture. | stage | atelier créatif
+association | nom | f | B1 | Groupe de personnes réunies pour un but commun. | Il est bénévole dans une association culturelle. | club | association sportive
+bénévole | nom | m | B1 | Personne qui travaille sans être payée. | Les bénévoles ont organisé le festival. | volontaire | être bénévole
+bénévolat | nom | m | B2 | Activité non rémunérée au service des autres. | Le bénévolat donne un sens à sa retraite. | volontariat | faire du bénévolat
+jeu vidéo | nom | m | A2 | Jeu sur écran. | Les jeux vidéo sont-ils une forme d'art ? | - | jouer aux jeux vidéo
+jeu de société | nom | m | A2 | Jeu qui se pratique à plusieurs. | Nous jouons à des jeux de société le dimanche soir. | - | soirée jeux de société
+jardinage | nom | m | B1 | Entretien d'un jardin. | Le jardinage me détend après le travail. | - | faire du jardinage
+bricolage | nom | m | B1 | Petits travaux manuels à la maison. | Il adore le bricolage. | - | magasin de bricolage
+randonnée | nom | f | A2 | Longue promenade à pied. | Nous faisons une randonnée en montagne chaque été. | balade | randonnée pédestre
+photographie | nom | f | B1 | Art de prendre des photos. | Elle expose ses photographies dans une galerie. | photo | passionné de photographie
+sortie | nom | f | A2 | Fait de sortir pour se divertir. | Le cinéma reste la sortie préférée des Français. | - | sortie culturelle
+divertissement | nom | m | B2 | Activité qui distrait. | La télévision est un divertissement populaire. | distraction | industrie du divertissement
+se divertir | verbe | - | B2 | S'amuser. | Les jeunes se divertissent surtout en ligne. | se distraire | se divertir en famille
+se détendre | verbe | - | B1 | Se reposer, se relaxer. | Je me détends en écoutant de la musique. | se relaxer | se détendre après le travail
+billetterie | nom | f | B2 | Service de vente de billets. | La billetterie ouvre une heure avant le spectacle. | guichet | billetterie en ligne
+complet | adjectif | - | A2 | Où il n'y a plus de place. | Le concert est complet depuis un mois. | plein | afficher complet
+tarif réduit | nom | m | B1 | Prix diminué pour certaines personnes. | Les étudiants bénéficient d'un tarif réduit. | réduction | tarif réduit
+gratuité | nom | f | C1 | Fait d'être gratuit. | La gratuité des musées favorise l'accès à la culture. | - | gratuité des musées
+démocratisation culturelle | nom | f | C1 | Volonté de rendre la culture accessible à tous. | La démocratisation culturelle est un objectif de l'État. | - | politique de démocratisation culturelle
+subvention | nom | f | B2 | Aide financière publique. | Ce théâtre vit grâce aux subventions. | aide publique | recevoir une subvention
+mécénat | nom | m | C1 | Soutien financier privé aux arts. | Le mécénat d'entreprise finance la restauration du château. | parrainage | mécénat culturel
+créativité | nom | f | B2 | Capacité à inventer. | L'art stimule la créativité des enfants. | inventivité | développer sa créativité
+inspiration | nom | f | B2 | Idée qui pousse à créer. | La nature est sa principale source d'inspiration. | - | source d'inspiration
+droits d'auteur | nom | m | B2 | Droits liés à la création d'une œuvre. | Les artistes vivent de leurs droits d'auteur. | - | respecter les droits d'auteur
+prix littéraire | nom | m | B2 | Récompense attribuée à un livre. | Le prix Goncourt est le prix littéraire le plus célèbre. | - | recevoir un prix littéraire
+récompense | nom | f | B1 | Prix donné pour un mérite. | Le film a reçu plusieurs récompenses. | prix | obtenir une récompense
+succès | nom | m | B1 | Résultat favorable. | Le spectacle a connu un grand succès. | réussite | rencontrer un succès
+chef d'orchestre | nom | m | B2 | Personne qui dirige un orchestre. | Le chef d'orchestre a salué le public. | - | célèbre chef d'orchestre
+vernissage | nom | m | C1 | Inauguration d'une exposition. | Nous sommes invités au vernissage de l'exposition. | inauguration | soirée de vernissage
+galerie | nom | f | B2 | Lieu d'exposition et de vente d'œuvres. | Cette galerie présente de jeunes artistes. | - | galerie d'art
+industrie culturelle | nom | f | C1 | Secteur économique de la culture. | L'industrie culturelle emploie des milliers de personnes. | - | industrie culturelle
+exception culturelle | nom | f | C1 | Principe qui protège la culture du libre marché. | L'exception culturelle protège le cinéma français. | - | défendre l'exception culturelle
+francophonie | nom | f | B2 | Ensemble des pays et personnes parlant français. | La francophonie compte plus de 300 millions de locuteurs. | - | journée de la francophonie
+diversité culturelle | nom | f | B2 | Variété des cultures. | La diversité culturelle est une richesse. | pluralité | respecter la diversité culturelle

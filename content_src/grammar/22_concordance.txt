@@ -1,0 +1,91 @@
+@slug concordance-temps
+@title La concordance des temps
+@module grammaire
+@order 22
+@level B2
+## COURS
+## Principe
+Dans une phrase complexe, le temps du verbe de la subordonnée dépend du temps de la principale et du rapport chronologique entre les deux actions : **antériorité, simultanéité ou postériorité**.
+
+## Subordonnée à l'indicatif
+### Principale au présent ou au futur
+- antériorité → **passé composé** (ou imparfait) : *Je sais qu'il est venu.*
+- simultanéité → **présent** : *Je sais qu'il vient.*
+- postériorité → **futur** : *Je sais qu'il viendra.*
+### Principale au passé
+- antériorité → **plus-que-parfait** : *Je savais qu'il était venu.*
+- simultanéité → **imparfait** : *Je savais qu'il venait.*
+- postériorité → **conditionnel présent** (futur dans le passé) : *Je savais qu'il viendrait.*
+- postériorité accomplie → **conditionnel passé** : *Je savais qu'il aurait fini avant midi.*
+
+## Subordonnée au subjonctif
+En français courant, on n'utilise que deux temps :
+- simultanéité ou postériorité → **subjonctif présent** : *Je voulais qu'il vienne.*
+- antériorité → **subjonctif passé** : *J'étais content qu'il soit venu.*
+(L'imparfait et le plus-que-parfait du subjonctif appartiennent à la langue littéraire.)
+
+## Cas particuliers
+- Une **vérité générale** reste au présent : *Le professeur a rappelé que l'eau bout à 100 °C.*
+- Avec **si** hypothétique, les règles de l'hypothèse s'appliquent (voir le chapitre consacré).
+- Dans le récit au passé, gardez la cohérence : un texte commencé au passé composé et à l'imparfait ne doit pas basculer au présent sans raison.
+
+## Méthode
+1. Repérez le temps de la principale.
+2. Demandez-vous si l'action subordonnée est avant, pendant ou après.
+3. Choisissez le mode (indicatif ou subjonctif) selon le verbe ou la conjonction.
+## SIMPLES
+- Je pense qu'il viendra.
+- Je pensais qu'il viendrait.
+- Elle a dit qu'elle était fatiguée.
+- Je voulais que tu viennes.
+## B2
+- Les experts avaient prévenu que la sécheresse aurait des conséquences durables sur les récoltes.
+- Le directeur a assuré que les salariés seraient consultés avant toute décision.
+- Il était regrettable que la concertation n'ait pas eu lieu plus tôt.
+- Nous ignorions que le projet avait déjà été abandonné l'année précédente.
+## EXERCICES
+TROU | B1 | Je savais qu'il ___ (être) malade depuis une semaine.
+> était
+= Principale au passé, action simultanée : imparfait.
+TROU | B1 | Elle croyait que tu ___ (partir) déjà la veille.
+> étais parti|étais partie
+= Principale au passé, action antérieure : plus-que-parfait.
+TROU | B1 | Il a promis qu'il ___ (rembourser) sa dette le mois suivant.
+> rembourserait
+= Principale au passé, action postérieure : conditionnel présent (futur dans le passé).
+QCM | B1 | « Je pense qu'il ___ hier soir. »
+* est arrivé
+- arrivera
+- arrivait demain
+- arriverait
+= Principale au présent, action antérieure (hier soir) : passé composé.
+TROU | B2 | On nous a annoncé que les travaux ___ (finir) avant l'été.
+> seraient finis|auraient fini|seraient terminés
+= Principale au passé, action postérieure et accomplie à un moment futur : conditionnel passé (ou passif « seraient finis »).
+QCM | B2 | « Le professeur a expliqué que la Terre ___ autour du Soleil. »
+* tourne
+- tournait
+- avait tourné
+- tournerait
+= Une vérité générale reste au présent, même après un verbe introducteur au passé.
+TROU | B2 | J'étais ravi que vous ___ (accepter) notre invitation la semaine précédente.
+> ayez accepté
+= Sentiment → subjonctif ; action antérieure → subjonctif passé.
+TROU | B2 | Il faudrait que tout le monde ___ (venir) à la réunion de demain.
+> vienne
+= Subjonctif présent pour une action simultanée ou postérieure, quel que soit le temps de la principale.
+TRANS | B2 | Mettez la principale au passé : « Je crois qu'elle a raison. »
+> Je croyais qu'elle avait raison.|je croyais qu'elle avait raison
+= Principale à l'imparfait ; simultanéité : le présent devient imparfait.
+TRANS | B2 | Mettez la principale au passé composé : « Il affirme qu'il aura fini à midi. »
+> Il a affirmé qu'il aurait fini à midi.|il a affirmé qu'il aurait fini à midi
+= Le futur antérieur devient conditionnel passé quand la principale passe au passé.
+QCM | B2 | Choisissez la phrase cohérente.
+* Nous ignorions que le magasin avait fermé l'année précédente.
+- Nous ignorions que le magasin a fermé l'année précédente.
+- Nous ignorions que le magasin fermera l'année précédente.
+- Nous ignorions que le magasin ferme l'année précédente.
+= Principale au passé et action antérieure : plus-que-parfait. « L'année précédente » confirme ce décalage dans le passé.
+TROU | B2 | Je doutais qu'il ___ (pouvoir) réussir sans aide.
+> puisse
+= Doute → subjonctif ; action simultanée ou postérieure → subjonctif présent (l'imparfait du subjonctif « pût » est littéraire).

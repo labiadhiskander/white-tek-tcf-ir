@@ -1,0 +1,1974 @@
+{
+ "code": "EXAM-10",
+ "title": "Examen blanc n° 10 – Innovation, patrimoine et vie pratique",
+ "level": "B2",
+ "description": "Examen complet calibré B1–B2 : création d'entreprise, animaux, patrimoine, IA au quotidien, eau.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "F: Bonjour, c'est la clinique vétérinaire. Votre chat Moustache peut rentrer à la maison. L'opération s'est bien passée. Vous pouvez venir le chercher après 16 heures.",
+   "prompt": "Quand peut-on aller chercher le chat ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Tout de suite.",
+     "correct": false,
+     "rationale": "Il faut attendre 16 h."
+    },
+    {
+     "label": "B",
+     "text": "Demain matin.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Après 16 heures.",
+     "correct": true,
+     "rationale": "« Vous pouvez venir le chercher après 16 heures »."
+    },
+    {
+     "label": "D",
+     "text": "Avant 16 heures.",
+     "correct": false,
+     "rationale": "C'est après."
+    }
+   ],
+   "explanation": "« Après » indique le moment à partir duquel c'est possible.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Mesdames et messieurs, le château ferme dans trente minutes. La boutique de souvenirs reste ouverte jusqu'à 18 h 30. Merci de votre visite.",
+   "prompt": "Jusqu'à quelle heure la boutique est-elle ouverte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dans trente minutes.",
+     "correct": false,
+     "rationale": "C'est la fermeture du château."
+    },
+    {
+     "label": "B",
+     "text": "18 h 30.",
+     "correct": true,
+     "rationale": "« La boutique… reste ouverte jusqu'à 18 h 30 »."
+    },
+    {
+     "label": "C",
+     "text": "19 heures.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "18 heures.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Distinguez le château et la boutique.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "H: Je cherche la rue de la République, s'il vous plaît. / F: C'est tout près. Continuez tout droit, puis prenez la deuxième rue à gauche. C'est juste après la pharmacie. / H: Merci beaucoup !",
+   "prompt": "Où se trouve la rue de la République ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Première rue à droite.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Avant la pharmacie.",
+     "correct": false,
+     "rationale": "C'est après."
+    },
+    {
+     "label": "C",
+     "text": "Deuxième rue à gauche, après la pharmacie.",
+     "correct": true,
+     "rationale": "C'est l'itinéraire indiqué."
+    },
+    {
+     "label": "D",
+     "text": "Derrière la gare.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Retenez les indications de direction dans l'ordre.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "F: Votre chien aboie toute la journée quand vous êtes au travail. / H: Ah bon ? Je ne savais pas, je suis désolé. / F: Ce n'est pas un reproche, mais je travaille à la maison et c'est difficile de me concentrer. / H: Je vais demander à un promeneur de chiens de passer le midi.",
+   "prompt": "Que propose l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Faire sortir son chien par un promeneur.",
+     "correct": true,
+     "rationale": "« Je vais demander à un promeneur de chiens de passer le midi »."
+    },
+    {
+     "label": "B",
+     "text": "Déménager.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Travailler à la maison.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Se débarrasser de son chien.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Ce n'est pas un reproche, mais » : formule pour adoucir une plainte.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "H: Bonjour Madame Côté, ici la chambre de commerce. Votre dossier de création d'entreprise est complet. Vous êtes invitée à une formation gratuite de deux jours sur la gestion, les 10 et 11 mars. Elle est fortement recommandée, mais pas obligatoire. Confirmez votre participation par courriel.",
+   "prompt": "La formation est-elle obligatoire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Oui, mais seulement le 10 mars.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Non, elle est seulement recommandée.",
+     "correct": true,
+     "rationale": "« fortement recommandée, mais pas obligatoire »."
+    },
+    {
+     "label": "C",
+     "text": "Oui, absolument.",
+     "correct": false,
+     "rationale": "Ce n'est pas obligatoire."
+    },
+    {
+     "label": "D",
+     "text": "Elle est payante.",
+     "correct": false,
+     "rationale": "Elle est gratuite."
+    }
+   ],
+   "explanation": "Distinguez « recommandé » et « obligatoire ».",
+   "speakers": [
+    "H:fr-CA"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information précise",
+   "document": "F: Sécheresse : la préfecture interdit, à partir de demain, l'arrosage des jardins entre 8 h et 20 h, le lavage des voitures et le remplissage des piscines privées. Ces restrictions s'appliquent jusqu'à la fin du mois, sauf si de fortes pluies arrivent.",
+   "prompt": "Qu'est-ce qui est interdit ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Arroser son jardin la nuit.",
+     "correct": false,
+     "rationale": "L'interdiction est entre 8 h et 20 h."
+    },
+    {
+     "label": "B",
+     "text": "Boire l'eau du robinet.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Prendre une douche.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Remplir une piscine privée.",
+     "correct": true,
+     "rationale": "Cela fait partie des interdictions."
+    }
+   ],
+   "explanation": "Lisez précisément les horaires des restrictions.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Vous avez adopté un chien dans un refuge. Pourquoi pas dans un élevage ? / F: Il y a tellement d'animaux abandonnés qui attendent une famille ! Mon chien avait été laissé au bord d'une route. Au début, il avait peur de tout. Maintenant, c'est le chien le plus joyeux du quartier. Je recommande l'adoption à tout le monde.",
+   "prompt": "Pourquoi la femme a-t-elle choisi un refuge ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que c'était moins cher.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Parce que les élevages étaient fermés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Pour donner une famille à un animal abandonné.",
+     "correct": true,
+     "rationale": "« tellement d'animaux abandonnés qui attendent une famille »."
+    },
+    {
+     "label": "D",
+     "text": "Parce qu'elle voulait un chien de race.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La motivation est exprimée dès la première phrase.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-BE"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: La bibliothèque propose désormais un service de prêt de liseuses électroniques. Chaque liseuse contient cinquante romans et peut être empruntée pour trois semaines. Le service est réservé aux adhérents de plus de seize ans.",
+   "prompt": "Qui peut emprunter une liseuse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Tout le monde.",
+     "correct": false,
+     "rationale": "Il faut être adhérent et avoir plus de 16 ans."
+    },
+    {
+     "label": "B",
+     "text": "Les adhérents de plus de seize ans.",
+     "correct": true,
+     "rationale": "« réservé aux adhérents de plus de seize ans »."
+    },
+    {
+     "label": "C",
+     "text": "Les enfants.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "D",
+     "text": "Uniquement les étudiants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Réservé à » limite l'accès.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "situation administrative",
+   "skill": "information précise",
+   "document": "F: Bonjour, je voudrais créer une micro-entreprise de couture. / H: Vous pouvez faire la déclaration en ligne sur le guichet unique, c'est gratuit. Vous recevrez votre numéro SIRET sous quinze jours environ. / F: Et je peux commencer à vendre avant ? / H: Non, il faut attendre votre numéro.",
+   "prompt": "Quand la femme pourra-t-elle commencer à vendre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Après avoir reçu son numéro SIRET.",
+     "correct": true,
+     "rationale": "« il faut attendre votre numéro »."
+    },
+    {
+     "label": "B",
+     "text": "Immédiatement.",
+     "correct": false,
+     "rationale": "Elle doit attendre."
+    },
+    {
+     "label": "C",
+     "text": "Dans un an.",
+     "correct": false,
+     "rationale": "Environ quinze jours."
+    },
+    {
+     "label": "D",
+     "text": "Après une formation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La réponse « Non, il faut attendre » précise la condition.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "conversation professionnelle",
+   "skill": "information précise",
+   "document": "H: Les clients se plaignent que notre site est trop lent. / F: Oui, c'est à cause des photos, elles sont trop lourdes. On va les compresser cette semaine. / H: Et l'application mobile ? / F: Elle sortira en janvier, comme prévu.",
+   "prompt": "Pourquoi le site est-il lent ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le serveur est trop vieux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "L'application mobile est en panne.",
+     "correct": false,
+     "rationale": "Elle n'est pas encore sortie."
+    },
+    {
+     "label": "C",
+     "text": "Il y a trop de clients.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les photos sont trop lourdes.",
+     "correct": true,
+     "rationale": "« c'est à cause des photos, elles sont trop lourdes »."
+    }
+   ],
+   "explanation": "« À cause de » introduit une cause négative.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "opinion",
+   "document": "H: L'intelligence artificielle va supprimer des millions d'emplois. / F: Elle va en transformer beaucoup, c'est certain, et certains disparaîtront. Mais à chaque révolution technologique, de nouveaux métiers sont apparus. Le vrai défi, c'est de former les gens à temps, pour que personne ne reste sur le bord de la route.",
+   "prompt": "Quelle est l'opinion de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Aucun emploi ne disparaîtra.",
+     "correct": false,
+     "rationale": "« certains disparaîtront »."
+    },
+    {
+     "label": "B",
+     "text": "Il faut interdire l'IA.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "L'IA transformera les emplois ; il faut former les travailleurs.",
+     "correct": true,
+     "rationale": "« Le vrai défi, c'est de former les gens à temps »."
+    },
+    {
+     "label": "D",
+     "text": "L'IA ne changera rien.",
+     "correct": false,
+     "rationale": "Elle dit qu'elle transformera beaucoup d'emplois."
+    }
+   ],
+   "explanation": "« Rester sur le bord de la route » = être laissé de côté.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "H: Le nombre d'animaux abandonnés pendant l'été atteint un niveau record cette année. Les refuges sont saturés. La fondation qui les gère rappelle qu'un animal est un engagement de dix à quinze ans et appelle les futurs propriétaires à bien réfléchir avant toute adoption.",
+   "prompt": "Quel est le message principal ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Adopter un animal est un engagement de long terme.",
+     "correct": true,
+     "rationale": "« un animal est un engagement de dix à quinze ans »."
+    },
+    {
+     "label": "B",
+     "text": "Les refuges ont de la place.",
+     "correct": false,
+     "rationale": "Ils sont saturés."
+    },
+    {
+     "label": "C",
+     "text": "Les abandons diminuent.",
+     "correct": false,
+     "rationale": "Ils atteignent un record."
+    },
+    {
+     "label": "D",
+     "text": "Il faut adopter pendant l'été.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Saturé » = complètement plein.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "F: Vous restaurez des châteaux médiévaux. Quelle est la principale difficulté ? / H: Trouver des artisans qui maîtrisent les techniques anciennes : tailleurs de pierre, charpentiers traditionnels. Ces savoir-faire se perdent. C'est pour ça qu'on a ouvert un chantier-école : des jeunes viennent apprendre sur place, et certains en font leur métier.",
+   "prompt": "Quelle solution a été trouvée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un chantier-école pour former des jeunes.",
+     "correct": true,
+     "rationale": "« on a ouvert un chantier-école »."
+    },
+    {
+     "label": "B",
+     "text": "Utiliser des machines modernes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Abandonner la restauration.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Faire venir des artisans étrangers.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« C'est pour ça que » introduit la solution liée au problème.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "message téléphonique",
+   "skill": "implicite",
+   "document": "H: Bonjour, c'est Romain, votre voisin. Je voulais vous dire que votre perroquet est très doué. Il imite parfaitement la sonnerie de mon téléphone… Ça fait trois matins que je me lève à six heures pour répondre. Peut-être qu'on pourrait en discuter ?",
+   "prompt": "Que suggère le voisin ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il veut acheter le perroquet.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Son téléphone est en panne.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Le perroquet le dérange et il souhaite trouver une solution.",
+     "correct": true,
+     "rationale": "Il se lève à six heures à cause de lui."
+    },
+    {
+     "label": "D",
+     "text": "Il admire simplement le perroquet.",
+     "correct": false,
+     "rationale": "Le compliment est ironique."
+    }
+   ],
+   "explanation": "Le compliment « très doué » introduit une plainte avec humour.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "relation logique",
+   "document": "F: Notre boutique en ligne vend moins depuis trois mois. / H: Ce n'est pas la qualité des produits, les avis sont excellents. C'est le coût de livraison : nos concurrents la proposent gratuite à partir de cinquante euros, nous à partir de cent. / F: Alors alignons-nous sur eux.",
+   "prompt": "Pourquoi les ventes ont-elles baissé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les produits sont de mauvaise qualité.",
+     "correct": false,
+     "rationale": "Les avis sont excellents."
+    },
+    {
+     "label": "B",
+     "text": "Le site est en panne.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les prix ont augmenté.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "La livraison gratuite est moins accessible que chez les concurrents.",
+     "correct": true,
+     "rationale": "Seuil de 100 € contre 50 € chez les concurrents."
+    }
+   ],
+   "explanation": "« S'aligner sur » = adopter les mêmes conditions.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-BE"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "H: Votre entreprise récupère l'eau de pluie pour les immeubles. Ça intéresse vraiment les gens ? / F: De plus en plus, avec les sécheresses. L'eau de pluie peut servir pour les toilettes, l'arrosage, le lavage. Ça représente jusqu'à la moitié de la consommation d'un foyer. Le seul frein, c'est le coût de l'installation dans les bâtiments anciens.",
+   "prompt": "Quel est le principal frein ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'eau de pluie est dangereuse.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les gens ne s'y intéressent pas.",
+     "correct": false,
+     "rationale": "Ils s'y intéressent de plus en plus."
+    },
+    {
+     "label": "C",
+     "text": "Le manque de pluie.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le coût d'installation dans les bâtiments anciens.",
+     "correct": true,
+     "rationale": "« Le seul frein, c'est le coût de l'installation dans les bâtiments anciens »."
+    }
+   ],
+   "explanation": "« Frein » = obstacle.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-CA"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Le parc national rappelle que les chiens, même tenus en laisse, sont interdits dans le cœur du parc afin de protéger la faune sauvage. Ils restent autorisés, en laisse, dans les zones périphériques et sur les parkings. Les contrevenants s'exposent à une amende de 135 euros.",
+   "prompt": "Où les chiens sont-ils autorisés ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dans le cœur du parc, en laisse.",
+     "correct": false,
+     "rationale": "C'est interdit."
+    },
+    {
+     "label": "B",
+     "text": "En laisse dans les zones périphériques.",
+     "correct": true,
+     "rationale": "« Ils restent autorisés, en laisse, dans les zones périphériques »."
+    },
+    {
+     "label": "C",
+     "text": "Nulle part.",
+     "correct": false,
+     "rationale": "Ils sont autorisés dans certaines zones."
+    },
+    {
+     "label": "D",
+     "text": "Partout sans laisse.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    }
+   ],
+   "explanation": "« Même tenus en laisse » renforce l'interdiction.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: Les créations d'entreprises ont atteint un niveau record l'an dernier. La simplification des démarches et le développement du travail indépendant y ont largement contribué. Mais près d'une entreprise sur trois disparaît avant ses trois ans, souvent faute de trésorerie suffisante.",
+   "prompt": "Pourquoi de nombreuses jeunes entreprises disparaissent-elles ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que leurs fondateurs prennent leur retraite.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Parce qu'il y a trop de clients.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Par manque d'argent disponible.",
+     "correct": true,
+     "rationale": "« faute de trésorerie suffisante »."
+    },
+    {
+     "label": "D",
+     "text": "À cause de la complexité des démarches.",
+     "correct": false,
+     "rationale": "Elles ont été simplifiées."
+    }
+   ],
+   "explanation": "« Trésorerie » = argent disponible immédiatement.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "H: Les élèves ne devraient pas avoir le droit d'utiliser l'intelligence artificielle pour leurs devoirs. / F: Interdire, c'est illusoire, ils l'utiliseront quand même. Il vaut mieux leur apprendre à s'en servir intelligemment : vérifier les réponses, comprendre les erreurs, citer leurs sources. Et pourquoi ne pas privilégier les exercices faits en classe ?",
+   "prompt": "Que propose la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Supprimer les devoirs.",
+     "correct": false,
+     "rationale": "Ce n'est pas exactement dit."
+    },
+    {
+     "label": "B",
+     "text": "Apprendre aux élèves à bien utiliser l'IA.",
+     "correct": true,
+     "rationale": "« Il vaut mieux leur apprendre à s'en servir intelligemment »."
+    },
+    {
+     "label": "C",
+     "text": "Interdire totalement l'IA.",
+     "correct": false,
+     "rationale": "Elle juge cela illusoire."
+    },
+    {
+     "label": "D",
+     "text": "Laisser l'IA faire tous les devoirs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Illusoire » = qui ne peut pas fonctionner.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "implicite",
+   "document": "H: Votre start-up a été rachetée pour cinquante millions d'euros. Vous allez continuer à travailler ? / F: Bien sûr ! D'ailleurs, ma mère m'a déjà demandé quand j'allais enfin trouver un « vrai travail ».",
+   "prompt": "Que comprend-on ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La femme va arrêter de travailler.",
+     "correct": false,
+     "rationale": "Elle continue."
+    },
+    {
+     "label": "B",
+     "text": "La mère travaille dans la start-up.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "La start-up a fait faillite.",
+     "correct": false,
+     "rationale": "Elle a été rachetée."
+    },
+    {
+     "label": "D",
+     "text": "La mère ne considère pas le métier de sa fille comme un vrai travail.",
+     "correct": true,
+     "rationale": "Malgré le succès, elle parle de « vrai travail »."
+    }
+   ],
+   "explanation": "Le décalage entre le succès financier et la remarque de la mère est humoristique.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "F: Une étude révèle que les assistants vocaux installés dans les foyers enregistrent parfois des conversations sans avoir été activés volontairement. Une partie de ces enregistrements est écoutée par des employés chargés d'améliorer la reconnaissance vocale. Les fabricants assurent que les données sont anonymisées, ce que contestent plusieurs associations.",
+   "prompt": "Que contestent les associations ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le caractère réellement anonyme des données.",
+     "correct": true,
+     "rationale": "« Les fabricants assurent que les données sont anonymisées, ce que contestent plusieurs associations »."
+    },
+    {
+     "label": "B",
+     "text": "L'utilité de la reconnaissance vocale.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "L'existence des assistants vocaux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le travail des employés.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objet."
+    }
+   ],
+   "explanation": "« Ce que » reprend l'affirmation des fabricants.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "F: Monsieur Leroy, votre projet de restaurant m'intéresse, mais votre plan de financement me paraît fragile. / H: Pourquoi ? / F: Vous prévoyez d'être rentable dès le troisième mois. C'est très optimiste. Revoyez vos prévisions sur dix-huit mois et revenez me voir. La banque pourra alors étudier votre demande de prêt.",
+   "prompt": "Que demande la banquière ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Des prévisions financières plus réalistes.",
+     "correct": true,
+     "rationale": "« Revoyez vos prévisions sur dix-huit mois »."
+    },
+    {
+     "label": "B",
+     "text": "L'abandon du projet.",
+     "correct": false,
+     "rationale": "Le projet l'intéresse."
+    },
+    {
+     "label": "C",
+     "text": "L'ouverture immédiate du restaurant.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Un prêt plus important.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« C'est très optimiste » est une critique polie.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "F: Les zoos devraient fermer, les animaux n'ont rien à faire en cage. / H: Les mauvais zoos, oui. Mais certains parcs participent à des programmes de reproduction d'espèces menacées, qui ont permis de réintroduire des animaux dans la nature. Sans eux, certaines espèces auraient disparu. La question n'est pas zoo ou pas zoo, mais quel zoo.",
+   "prompt": "Quel argument l'homme oppose-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les animaux préfèrent les cages.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Certains zoos contribuent à sauver des espèces menacées.",
+     "correct": true,
+     "rationale": "Programmes de reproduction et réintroduction."
+    },
+    {
+     "label": "C",
+     "text": "Tous les zoos sont parfaits.",
+     "correct": false,
+     "rationale": "Il critique les « mauvais zoos »."
+    },
+    {
+     "label": "D",
+     "text": "Les espèces menacées n'existent pas.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La dernière phrase reformule le débat (« La question n'est pas… mais… »).",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-CH"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Faut-il reconstruire les monuments détruits à l'identique ? / H: Cela dépend. Pour un monument très symbolique, la reconstruction à l'identique a du sens, elle répare une blessure collective. Mais l'histoire de l'architecture est aussi faite de couches successives. Figer un bâtiment dans un état idéal, c'est parfois effacer son histoire réelle.",
+   "prompt": "Quelle est la position de l'architecte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faut toujours reconstruire à l'identique.",
+     "correct": false,
+     "rationale": "Il nuance."
+    },
+    {
+     "label": "B",
+     "text": "L'histoire n'a pas d'importance.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "C",
+     "text": "Il ne faut jamais reconstruire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Nuancée : cela dépend du monument et de son histoire.",
+     "correct": true,
+     "rationale": "« Cela dépend »."
+    }
+   ],
+   "explanation": "« Figer » = immobiliser dans un état.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "implicite",
+   "document": "H: L'entreprise a présenté son nouveau robot domestique, capable de plier le linge en seulement… quatre minutes par t-shirt. Un progrès qui devrait libérer un temps précieux, à condition de ne pas avoir trop de linge.",
+   "prompt": "Quel est le ton du journaliste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ironique.",
+     "correct": true,
+     "rationale": "Quatre minutes par t-shirt est très lent."
+    },
+    {
+     "label": "B",
+     "text": "Enthousiaste.",
+     "correct": false,
+     "rationale": "Il se moque."
+    },
+    {
+     "label": "C",
+     "text": "Neutre.",
+     "correct": false,
+     "rationale": "Il prend position."
+    },
+    {
+     "label": "D",
+     "text": "Inquiet.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    }
+   ],
+   "explanation": "Les points de suspension et la condition finale soulignent l'ironie.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "Donne chatons de deux mois, propres et vaccinés, contre bons soins. Trois mâles et une femelle. Disponibles à partir du 15 mai. Appeler Martine au 06 98 76 54 32 le soir.",
+   "prompt": "Combien coûtent les chatons ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "15 euros.",
+     "correct": false,
+     "rationale": "15 mai est la date."
+    },
+    {
+     "label": "B",
+     "text": "2 euros.",
+     "correct": false,
+     "rationale": "Ils ont deux mois."
+    },
+    {
+     "label": "C",
+     "text": "Le prix n'est pas indiqué mais ils sont payants.",
+     "correct": false,
+     "rationale": "Ils sont donnés."
+    },
+    {
+     "label": "D",
+     "text": "Ils sont donnés gratuitement.",
+     "correct": true,
+     "rationale": "« Donne chatons… contre bons soins »."
+    }
+   ],
+   "explanation": "« Contre bons soins » = gratuitement, si on s'en occupe bien."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Salut Yanis, ce soir, je rentre tard du travail. Peux-tu sortir le chien vers 19 h ? Sa laisse est accrochée derrière la porte d'entrée. Merci, je te dois un service ! Sam",
+   "prompt": "Où est la laisse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Chez le voisin.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Derrière la porte d'entrée.",
+     "correct": true,
+     "rationale": "« Sa laisse est accrochée derrière la porte d'entrée »."
+    },
+    {
+     "label": "C",
+     "text": "Dans la voiture.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Dans la cuisine.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Repérez l'indication de lieu."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "affiche",
+   "skill": "information précise",
+   "document": "VISITE GUIDÉE DE LA VIEILLE VILLE – Tous les jours à 10 h et 15 h. Départ devant l'office de tourisme. Durée : 1 h 30. Adultes : 9 €, enfants : 5 €. Réservation conseillée en été.",
+   "prompt": "Combien de temps dure la visite ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une heure.",
+     "correct": false,
+     "rationale": "C'est 1 h 30."
+    },
+    {
+     "label": "B",
+     "text": "Toute la journée.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Une heure et demie.",
+     "correct": true,
+     "rationale": "« Durée : 1 h 30 »."
+    },
+    {
+     "label": "D",
+     "text": "Trois heures.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« 1 h 30 » = une heure et demie."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "courriel",
+   "skill": "intention",
+   "document": "Bonjour, je suis propriétaire d'un petit restaurant et je souhaiterais créer un site internet avec un système de réservation en ligne. Pourriez-vous m'envoyer un devis et m'indiquer les délais de réalisation ? Je suis disponible pour un rendez-vous la semaine prochaine. Cordialement, Karima Saïdi",
+   "prompt": "Que demande Karima ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un emploi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Un prêt bancaire.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Un devis pour un site internet.",
+     "correct": true,
+     "rationale": "« Pourriez-vous m'envoyer un devis »."
+    },
+    {
+     "label": "D",
+     "text": "Une réservation au restaurant.",
+     "correct": false,
+     "rationale": "Elle est propriétaire."
+    }
+   ],
+   "explanation": "« Devis » = estimation du prix avant les travaux."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Dans plusieurs villes, des « boîtes à livres » ont été installées dans les rues. Le principe est simple : chacun peut prendre un livre gratuitement ou en déposer un qu'il a déjà lu. Ces petites bibliothèques libres favorisent la lecture et les échanges entre habitants.",
+   "prompt": "Quel est le principe des boîtes à livres ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Prendre ou déposer des livres librement.",
+     "correct": true,
+     "rationale": "« chacun peut prendre un livre gratuitement ou en déposer un »."
+    },
+    {
+     "label": "B",
+     "text": "Rendre les livres de la bibliothèque.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Acheter des livres d'occasion.",
+     "correct": false,
+     "rationale": "C'est gratuit."
+    },
+    {
+     "label": "D",
+     "text": "Lire uniquement sur place.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Libre » = sans contrôle ni paiement."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Monsieur, nous vous rappelons que tout propriétaire de chien doit faire identifier son animal par puce électronique ou tatouage. Cette identification est obligatoire pour les chiens de plus de quatre mois. Elle permet de retrouver plus facilement un animal perdu.",
+   "prompt": "À partir de quel âge l'identification est-elle obligatoire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dès la naissance.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Quatre mois.",
+     "correct": true,
+     "rationale": "« obligatoire pour les chiens de plus de quatre mois »."
+    },
+    {
+     "label": "C",
+     "text": "Deux mois.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Un an.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Repérez la condition d'âge."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "publicité",
+   "skill": "information précise",
+   "document": "Lancez votre entreprise avec CréaPro ! Accompagnement personnalisé pendant un an : rendez-vous mensuels avec un expert, aide au business plan et accès à notre réseau de partenaires. Premier rendez-vous gratuit et sans engagement.",
+   "prompt": "Qu'est-ce qui est gratuit ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le premier rendez-vous.",
+     "correct": true,
+     "rationale": "« Premier rendez-vous gratuit »."
+    },
+    {
+     "label": "B",
+     "text": "Tout l'accompagnement.",
+     "correct": false,
+     "rationale": "Seul le premier rendez-vous est gratuit."
+    },
+    {
+     "label": "C",
+     "text": "L'accès au réseau.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le business plan.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Repérez ce qui est explicitement gratuit."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "Chers collaborateurs, un outil d'intelligence artificielle est désormais disponible pour vous aider à rédiger vos courriels. Attention : il est strictement interdit d'y saisir des informations confidentielles sur nos clients. Une formation de 30 minutes est obligatoire avant toute utilisation.",
+   "prompt": "Que faut-il faire avant d'utiliser l'outil ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Suivre une formation de 30 minutes.",
+     "correct": true,
+     "rationale": "« Une formation de 30 minutes est obligatoire »."
+    },
+    {
+     "label": "B",
+     "text": "Saisir les informations des clients.",
+     "correct": false,
+     "rationale": "C'est interdit."
+    },
+    {
+     "label": "C",
+     "text": "Acheter une licence.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Demander l'accord du client.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Distinguez l'interdiction et l'obligation."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« J'ai ouvert ma boulangerie il y a deux ans. Les débuts ont été très durs : je travaillais quatorze heures par jour. Aujourd'hui, j'ai deux employés et mes clients sont fidèles. Je suis fatiguée, mais fière d'avoir réalisé mon rêve. » Inès, 36 ans.",
+   "prompt": "Que ressent Inès ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Des regrets.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "De l'ennui.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "De la colère contre ses clients.",
+     "correct": false,
+     "rationale": "Ils sont fidèles."
+    },
+    {
+     "label": "D",
+     "text": "De la fierté malgré la fatigue.",
+     "correct": true,
+     "rationale": "« Je suis fatiguée, mais fière »."
+    }
+   ],
+   "explanation": "« Mais » oppose la fatigue et la fierté."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "De plus en plus de communes rurales rachètent leurs commerces fermés pour les louer à bas prix à de jeunes entrepreneurs. Boulangerie, épicerie, café : l'objectif est de maintenir des services de proximité et d'attirer de nouveaux habitants. Une stratégie qui porte ses fruits, même si elle représente un investissement important pour de petits budgets.",
+   "prompt": "Quelle est la limite de cette stratégie ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle fait fuir les habitants.",
+     "correct": false,
+     "rationale": "Elle en attire."
+    },
+    {
+     "label": "B",
+     "text": "Elle est interdite.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Elle coûte cher aux petites communes.",
+     "correct": true,
+     "rationale": "« elle représente un investissement important pour de petits budgets »."
+    },
+    {
+     "label": "D",
+     "text": "Elle ne fonctionne pas.",
+     "correct": false,
+     "rationale": "Elle « porte ses fruits »."
+    }
+   ],
+   "explanation": "« Porter ses fruits » = donner de bons résultats."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "On présente l'intelligence artificielle comme neutre et objective. Rien n'est plus faux. Les algorithmes apprennent à partir de données produites par des humains, avec leurs préjugés et leurs angles morts. Croire qu'une machine décide sans biais, c'est oublier qui l'a programmée et nourrie.",
+   "prompt": "Quelle idée l'auteur conteste-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'utilité des données.",
+     "correct": false,
+     "rationale": "Ce n'est pas le propos."
+    },
+    {
+     "label": "B",
+     "text": "L'existence des algorithmes.",
+     "correct": false,
+     "rationale": "Ce n'est pas le propos."
+    },
+    {
+     "label": "C",
+     "text": "L'idée que l'IA serait neutre.",
+     "correct": true,
+     "rationale": "« On présente l'IA comme neutre… Rien n'est plus faux »."
+    },
+    {
+     "label": "D",
+     "text": "L'idée que les humains ont des préjugés.",
+     "correct": false,
+     "rationale": "Il l'admet."
+    }
+   ],
+   "explanation": "« Rien n'est plus faux » = réfutation forte."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Madame, votre candidature au concours de jeunes créateurs a retenu toute notre attention. Nous avons le plaisir de vous annoncer que vous êtes lauréate du prix de l'innovation, doté de 10 000 euros.",
+   "prompt": "Que signifie « lauréate » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "membre du jury.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "B",
+     "text": "spectatrice.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "C",
+     "text": "candidate refusée.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "D",
+     "text": "gagnante d'un prix.",
+     "correct": true,
+     "rationale": "Elle reçoit le prix de l'innovation."
+    }
+   ],
+   "explanation": "« Lauréat » = personne qui a remporté un prix. « Doté de » = accompagné de."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Un village de Provence a mis en place un système de compteurs d'eau intelligents qui alertent les habitants en cas de consommation anormale. En un an, des centaines de fuites invisibles ont été détectées et réparées, permettant d'économiser 20 % de l'eau distribuée. Le dispositif sera étendu aux communes voisines.",
+   "prompt": "Quel a été le principal résultat ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La suppression des compteurs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "La détection de nombreuses fuites et une économie d'eau.",
+     "correct": true,
+     "rationale": "Centaines de fuites et 20 % d'économie."
+    },
+    {
+     "label": "C",
+     "text": "Une consommation en hausse.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Une hausse du prix de l'eau.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Étendu à » = appliqué aussi à."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Monsieur, votre demande d'autorisation de travaux pour la modification de la façade de votre maison, située dans le périmètre d'un monument historique, a été transmise à l'architecte des Bâtiments de France. Son avis est obligatoire. Le délai d'instruction est porté à deux mois. Aucun travail ne doit commencer avant la décision.",
+   "prompt": "Pourquoi le délai est-il de deux mois ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que l'avis d'un architecte spécialisé est obligatoire.",
+     "correct": true,
+     "rationale": "La maison est près d'un monument historique."
+    },
+    {
+     "label": "B",
+     "text": "Parce que le dossier est incomplet.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Parce que la mairie est fermée.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce que les travaux sont interdits.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Être porté à » = être allongé jusqu'à."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "Les animaux de compagnie apportent un soutien affectif reconnu, notamment aux personnes âgées et isolées. Encore faut-il que leurs propriétaires puissent assumer les frais vétérinaires, parfois élevés. C'est pourquoi certaines associations proposent des soins à prix réduits pour les ménages modestes.",
+   "prompt": "Pourquoi certaines associations proposent-elles des soins à prix réduits ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour aider les ménages modestes à payer les frais vétérinaires.",
+     "correct": true,
+     "rationale": "« C'est pourquoi… pour les ménages modestes »."
+    },
+    {
+     "label": "B",
+     "text": "Pour vendre des animaux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Pour décourager l'adoption.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Pour remplacer les vétérinaires.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« C'est pourquoi » introduit une conséquence."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "Le projet de transformation d'une ancienne usine en centre culturel divise la ville. La mairie y voit une manière de valoriser le patrimoine industriel. Une partie des habitants aurait préféré des logements sociaux, tandis que les artistes locaux applaudissent la création d'ateliers à loyer modéré.",
+   "prompt": "Que préféreraient certains habitants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La démolition de l'usine.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Des logements sociaux.",
+     "correct": true,
+     "rationale": "« Une partie des habitants aurait préféré des logements sociaux »."
+    },
+    {
+     "label": "C",
+     "text": "Des ateliers d'artistes.",
+     "correct": false,
+     "rationale": "Ce sont les artistes qui les souhaitent."
+    },
+    {
+     "label": "D",
+     "text": "Un centre commercial.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Le conditionnel passé « aurait préféré » exprime un regret."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "Le prêt d'honneur est un prêt personnel sans intérêts et sans garantie, accordé au créateur d'entreprise par des réseaux associatifs. Il permet de renforcer les fonds propres et facilite ainsi l'obtention d'un prêt bancaire complémentaire. Son montant varie généralement entre 3 000 et 50 000 euros.",
+   "prompt": "Quel est l'avantage indirect du prêt d'honneur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il est accordé par l'État.",
+     "correct": false,
+     "rationale": "Il est accordé par des réseaux associatifs."
+    },
+    {
+     "label": "B",
+     "text": "Il n'a pas besoin d'être remboursé.",
+     "correct": false,
+     "rationale": "C'est un prêt, il se rembourse."
+    },
+    {
+     "label": "C",
+     "text": "Il facilite l'obtention d'un prêt bancaire.",
+     "correct": true,
+     "rationale": "« facilite ainsi l'obtention d'un prêt bancaire complémentaire »."
+    },
+    {
+     "label": "D",
+     "text": "Il a des intérêts élevés.",
+     "correct": false,
+     "rationale": "Il est sans intérêts."
+    }
+   ],
+   "explanation": "« Ainsi » introduit une conséquence."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« J'ai demandé à une IA de m'aider à écrire un discours pour le mariage de ma sœur. Le texte était parfait… à part qu'il félicitait chaleureusement \"Kevin\", alors que mon beau-frère s'appelle Mathieu. » Claire, 29 ans.",
+   "prompt": "Que sous-entend Claire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Son beau-frère s'appelle Kevin.",
+     "correct": false,
+     "rationale": "Il s'appelle Mathieu."
+    },
+    {
+     "label": "B",
+     "text": "Elle n'a pas assisté au mariage.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "L'IA a parfaitement fonctionné.",
+     "correct": false,
+     "rationale": "Elle a fait une erreur importante."
+    },
+    {
+     "label": "D",
+     "text": "Il faut toujours vérifier les textes produits par une IA.",
+     "correct": true,
+     "rationale": "L'IA a inventé un prénom."
+    }
+   ],
+   "explanation": "L'anecdote humoristique montre les limites de l'IA."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Faut-il interdire les animaux sauvages dans les cirques ? Les défenseurs de l'interdiction dénoncent des conditions de vie incompatibles avec les besoins de ces animaux. Les circassiens rétorquent que leurs animaux sont bien traités et que l'interdiction menace une tradition et des centaines d'emplois.",
+   "prompt": "Quel argument avancent les circassiens ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les animaux souffrent.",
+     "correct": false,
+     "rationale": "C'est l'argument des défenseurs de l'interdiction."
+    },
+    {
+     "label": "B",
+     "text": "Leurs animaux sont bien traités et des emplois sont menacés.",
+     "correct": true,
+     "rationale": "Ce sont leurs arguments."
+    },
+    {
+     "label": "C",
+     "text": "Les animaux sauvages sont dangereux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les cirques doivent fermer.",
+     "correct": false,
+     "rationale": "Ce n'est pas leur avis."
+    }
+   ],
+   "explanation": "« Circassien » = professionnel du cirque."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "Les ventes de produits reconditionnés, comme les téléphones et ordinateurs remis à neuf, progressent fortement. Les consommateurs y trouvent des prix inférieurs de 30 à 50 % à ceux du neuf, ainsi qu'une garantie. Cette tendance contribue aussi à réduire les déchets électroniques.",
+   "prompt": "Quel effet environnemental est mentionné ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La hausse de la pollution.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "La baisse de la consommation d'eau.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "La réduction des déchets électroniques.",
+     "correct": true,
+     "rationale": "« contribue aussi à réduire les déchets électroniques »."
+    },
+    {
+     "label": "D",
+     "text": "La disparition des produits neufs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Reconditionné » = réparé et remis en état pour être revendu."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "On a érigé l'entrepreneur en héros moderne, celui qui ose, innove et crée des emplois. Ce récit flatteur occulte une réalité moins glorieuse : une majorité de créateurs gagnent moins que le salaire minimum, travaillent sans filet de protection sociale et s'épuisent à la tâche. Célébrer l'audace sans en montrer le coût relève de la propagande douce.",
+   "prompt": "Que dénonce l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'existence des entrepreneurs.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objet."
+    },
+    {
+     "label": "B",
+     "text": "Les créations d'emplois.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objet."
+    },
+    {
+     "label": "C",
+     "text": "Un discours qui embellit la réalité de l'entrepreneuriat.",
+     "correct": true,
+     "rationale": "« Ce récit flatteur occulte une réalité moins glorieuse »."
+    },
+    {
+     "label": "D",
+     "text": "Le salaire minimum trop élevé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Propagande douce » = manipulation discrète par le discours."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "sens d'un mot en contexte",
+   "document": "Le projet de rénovation de la cathédrale a pris du plomb dans l'aile après la découverte d'un dépassement de budget de 40 %.",
+   "prompt": "Que signifie « a pris du plomb dans l'aile » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "a été accéléré.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "B",
+     "text": "a été sérieusement compromis.",
+     "correct": true,
+     "rationale": "Le dépassement de budget met le projet en difficulté."
+    },
+    {
+     "label": "C",
+     "text": "a reçu des financements.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "D",
+     "text": "a été terminé.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    }
+   ],
+   "explanation": "Image de l'oiseau touché : « avoir du plomb dans l'aile » = être affaibli."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments contradictoires",
+   "document": "Pour certains, l'intelligence artificielle générative démocratise la création : chacun peut produire des images ou des textes sans formation. Pour d'autres, elle menace les artistes, dont les œuvres ont servi, sans leur accord, à entraîner ces outils. La question n'est donc pas seulement technique : elle est juridique et éthique.",
+   "prompt": "Selon l'auteur, de quelle nature est la question ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Purement économique.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Juridique et éthique, pas seulement technique.",
+     "correct": true,
+     "rationale": "« elle est juridique et éthique »."
+    },
+    {
+     "label": "C",
+     "text": "Uniquement technique.",
+     "correct": false,
+     "rationale": "« pas seulement technique »."
+    },
+    {
+     "label": "D",
+     "text": "Sans importance.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La dernière phrase élargit le débat."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "sous-entendu",
+   "document": "La ville a dépensé 300 000 euros pour une campagne de communication vantant sa « gestion exemplaire de l'eau ». Au même moment, les habitants de deux quartiers étaient privés d'eau potable pendant une semaine à cause d'une canalisation vétuste.",
+   "prompt": "Que suggère le journaliste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La gestion de l'eau est exemplaire.",
+     "correct": false,
+     "rationale": "Le contraste montre le contraire."
+    },
+    {
+     "label": "B",
+     "text": "Les habitants ont refusé l'eau potable.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "La campagne était gratuite.",
+     "correct": false,
+     "rationale": "Elle a coûté 300 000 €."
+    },
+    {
+     "label": "D",
+     "text": "La ville privilégie son image plutôt que l'entretien du réseau.",
+     "correct": true,
+     "rationale": "Contraste entre la campagne et la canalisation vétuste."
+    }
+   ],
+   "explanation": "« Vétuste » = vieux, en mauvais état."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "compréhension globale",
+   "document": "Le règlement européen sur l'intelligence artificielle classe les systèmes selon leur niveau de risque. Ceux présentant un risque « inacceptable », comme la notation sociale des citoyens, sont interdits. Les systèmes à haut risque, utilisés par exemple dans le recrutement ou l'accès au crédit, sont soumis à des obligations strictes de transparence et de contrôle humain.",
+   "prompt": "Que prévoit le règlement pour les systèmes utilisés dans le recrutement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une notation sociale.",
+     "correct": false,
+     "rationale": "C'est un exemple de risque inacceptable."
+    },
+    {
+     "label": "B",
+     "text": "Une interdiction totale.",
+     "correct": false,
+     "rationale": "Seuls les risques inacceptables sont interdits."
+    },
+    {
+     "label": "C",
+     "text": "Des obligations de transparence et de contrôle humain.",
+     "correct": true,
+     "rationale": "Ils sont classés « à haut risque »."
+    },
+    {
+     "label": "D",
+     "text": "Aucune obligation.",
+     "correct": false,
+     "rationale": "Ils ont des obligations strictes."
+    }
+   ],
+   "explanation": "Repérez les catégories de risque et les règles associées."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "décrire une personne",
+   "instructions": "Vous cherchez quelqu'un pour garder votre chien pendant vos vacances. Vous écrivez une annonce pour décrire votre chien et ses habitudes (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Cherche personne pour garder mon chien du 1er au 15 août. Rocky est un labrador marron de cinq ans, très gentil et calme. Il adore les enfants et s'entend bien avec les chats. Il doit sortir trois fois par jour et mange le matin et le soir. Je fournis la nourriture. Contactez-moi au 06 11 22 33 44.",
+   "tips": "Une annonce est concise : phrases courtes, informations essentielles.",
+   "expected_points": [
+    "objet de l'annonce",
+    "description physique",
+    "caractère",
+    "habitudes",
+    "contact"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "décrire un événement",
+   "instructions": "Vous avez visité un monument ou un musée lors des Journées du patrimoine. Vous racontez votre visite sur votre blog (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Samedi, à l'occasion des Journées du patrimoine, j'ai enfin pu visiter l'hôtel de ville, habituellement fermé au public. Un guide passionné nous a fait découvrir la grande salle des fêtes, avec ses plafonds peints du XIXe siècle et ses lustres immenses. Nous avons même pu entrer dans le bureau du maire ! J'ai appris beaucoup d'anecdotes sur l'histoire de la ville. Il y avait du monde, mais l'attente valait vraiment la peine. Je vous recommande cette visite !",
+   "tips": "Utilisez « valoir la peine » et des adjectifs descriptifs.",
+   "expected_points": [
+    "contexte",
+    "description du lieu",
+    "moments marquants",
+    "impression",
+    "recommandation"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "argumenter sur un sujet de société",
+   "instructions": "« L'intelligence artificielle devrait être interdite à l'école. » Vous réagissez à cette affirmation dans un forum de parents d'élèves (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Je ne partage pas cet avis. Interdire l'intelligence artificielle me semble à la fois irréaliste et contre-productif, car les élèves l'utiliseront de toute façon chez eux. Il vaudrait mieux leur apprendre à s'en servir de manière critique : vérifier les informations, repérer les erreurs, comprendre ses limites. Par ailleurs, certains exercices devraient être réalisés en classe, sans écran. En définitive, l'école a pour mission de préparer les enfants au monde qui les attend, pas de le leur cacher.",
+   "tips": "Une conclusion percutante peut opposer deux idées (« préparer… pas cacher »).",
+   "expected_points": [
+    "position claire",
+    "arguments",
+    "proposition",
+    "conclusion forte"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous pose des questions sur vos projets, vos centres d'intérêt et votre usage des technologies.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Avez-vous un animal de compagnie ?",
+    "Quels sont vos projets professionnels ?",
+    "Aimeriez-vous créer votre propre entreprise ?",
+    "Utilisez-vous l'intelligence artificielle ? Pour quoi faire ?",
+    "Quel monument aimeriez-vous visiter ?",
+    "Que faites-vous pour protéger l'environnement ?"
+   ],
+   "useful_phrases": [
+    "J'ai un… qui s'appelle…",
+    "Mon projet, c'est de…",
+    "J'aimerais un jour…",
+    "J'utilise… pour…",
+    "Je fais attention à…"
+   ],
+   "model_answer": "Je n'ai pas d'animal pour le moment, mais j'aimerais adopter un chat. Mon projet professionnel, c'est de devenir chef de projet dans le numérique. Un jour, j'aimerais peut-être créer ma propre entreprise de formation. J'utilise parfois l'intelligence artificielle pour traduire des textes ou trouver des idées. J'aimerais beaucoup visiter le Mont-Saint-Michel."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Négocier un service",
+   "examiner_role": "Responsable d'une salle de réception",
+   "scenario": "Vous organisez une fête de famille pour 60 personnes. L'examinateur joue le rôle du responsable d'une salle de réception. Posez des questions sur la capacité, les tarifs, les horaires, la décoration, le traiteur, et négociez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Bonjour, pour quelle date ?",
+    "La salle coûte 1 200 euros pour la soirée.",
+    "Il faut libérer la salle à minuit.",
+    "Nous travaillons uniquement avec notre traiteur.",
+    "Le ménage est en supplément.",
+    "Que décidez-vous ?"
+   ],
+   "useful_phrases": [
+    "Nous serons environ…",
+    "Est-ce que le prix comprend… ?",
+    "Serait-il possible de prolonger… ?",
+    "Nous préférerions…",
+    "Si vous faites un geste sur…, nous…"
+   ],
+   "model_answer": "Bonjour, nous organisons les soixante-dix ans de mon père, le samedi 14 juin, pour environ soixante personnes. 1 200 euros, est-ce que cela comprend les tables, les chaises et la sono ? Minuit, c'est un peu tôt pour une fête de famille : serait-il possible de prolonger jusqu'à deux heures ? Nous aurions préféré choisir notre traiteur. Si vous incluez le ménage, nous signons aujourd'hui."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "L'intelligence artificielle : progrès ou menace ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion : « L'intelligence artificielle est-elle plutôt un progrès ou une menace pour notre société ? » Argumentez, donnez des exemples, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Quelle est votre opinion ?",
+    "Dans quels domaines l'IA est-elle utile ?",
+    "Quels risques voyez-vous ?",
+    "Faut-il l'encadrer ?",
+    "Votre conclusion ?"
+   ],
+   "useful_phrases": [
+    "À mon sens…",
+    "Tout d'abord…",
+    "Par ailleurs…",
+    "Il serait réducteur de…",
+    "En tenant compte de ces différents éléments…"
+   ],
+   "model_answer": "À mon sens, l'intelligence artificielle est avant tout un outil, ni bon ni mauvais en soi. Tout d'abord, elle apporte de réels progrès, par exemple en médecine pour détecter certaines maladies plus tôt. Par ailleurs, elle facilite des tâches répétitives. Cependant, il serait réducteur d'ignorer les risques : fausses informations, surveillance, suppression d'emplois. En tenant compte de ces éléments, je pense qu'elle représente un progrès, à condition d'être strictement encadrée par la loi."
+  }
+ ]
+}

@@ -1,0 +1,1973 @@
+{
+ "code": "EXAM-09",
+ "title": "Examen blanc n° 9 – Énergie, médias et loisirs",
+ "level": "B2",
+ "description": "Examen complet calibré B1–B2 : économies d'énergie, presse, sport amateur, festivals, consommation.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Bienvenue à bord du TGV à destination de Bordeaux. La voiture-bar se trouve en voiture 4. Prochain arrêt : Poitiers, dans une heure.",
+   "prompt": "Où se trouve la voiture-bar ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À Poitiers.",
+     "correct": false,
+     "rationale": "C'est le prochain arrêt."
+    },
+    {
+     "label": "B",
+     "text": "En voiture 4.",
+     "correct": true,
+     "rationale": "« La voiture-bar se trouve en voiture 4 »."
+    },
+    {
+     "label": "C",
+     "text": "À Bordeaux.",
+     "correct": false,
+     "rationale": "C'est la destination."
+    },
+    {
+     "label": "D",
+     "text": "En voiture 1.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Ne confondez pas le lieu dans le train et les gares.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "H: Salut Julie, c'est Kevin. Le match de basket de samedi est annulé, le gymnase est fermé pour travaux. On jouera dimanche à 10 heures au gymnase Jean-Jaurès. À dimanche !",
+   "prompt": "Pourquoi le match de samedi est-il annulé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le gymnase est fermé pour travaux.",
+     "correct": true,
+     "rationale": "« le gymnase est fermé pour travaux »."
+    },
+    {
+     "label": "B",
+     "text": "L'arbitre est absent.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Il pleut.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Des joueurs sont malades.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La cause suit l'annonce de l'annulation.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "F: Tu as pensé à éteindre le chauffage avant de partir ? / H: Non, j'ai oublié ! / F: Ce n'est pas grave, on peut le faire avec l'application sur le téléphone. / H: Ah oui, c'est pratique. Voilà, c'est fait.",
+   "prompt": "Comment l'homme éteint-il le chauffage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il ne l'éteint pas.",
+     "correct": false,
+     "rationale": "« c'est fait »."
+    },
+    {
+     "label": "B",
+     "text": "Avec une application sur son téléphone.",
+     "correct": true,
+     "rationale": "« on peut le faire avec l'application »."
+    },
+    {
+     "label": "C",
+     "text": "Il appelle un voisin.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Il rentre à la maison.",
+     "correct": false,
+     "rationale": "Ce n'est pas nécessaire."
+    }
+   ],
+   "explanation": "La solution est proposée par la femme puis réalisée.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "H: Vous êtes la nouvelle voisine ? Bienvenue dans l'immeuble ! Je m'appelle Gérard, j'habite au troisième. Si vous avez besoin de quoi que ce soit, n'hésitez pas. / F: C'est très gentil, merci. Je m'appelle Leïla. / H: Et le jeudi, on sort les poubelles jaunes, au cas où.",
+   "prompt": "Que fait l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il se plaint du bruit.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Il lui vend son appartement.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Il lui demande un service.",
+     "correct": false,
+     "rationale": "Il propose son aide."
+    },
+    {
+     "label": "D",
+     "text": "Il accueille sa nouvelle voisine et lui donne une information pratique.",
+     "correct": true,
+     "rationale": "Bienvenue et rappel des poubelles."
+    }
+   ],
+   "explanation": "« Au cas où » = pour le cas où ce serait utile.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "F: Bonjour Monsieur Petit, ici l'agence immobilière Ville et Maison. Le propriétaire a accepté votre offre de 240 000 euros pour la maison de la rue des Roses. Il faudrait maintenant prendre rendez-vous chez le notaire pour signer le compromis de vente. Rappelez-moi pour fixer une date.",
+   "prompt": "Quelle est la prochaine étape ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Visiter la maison.",
+     "correct": false,
+     "rationale": "L'offre est déjà acceptée."
+    },
+    {
+     "label": "B",
+     "text": "Signer le compromis chez le notaire.",
+     "correct": true,
+     "rationale": "« prendre rendez-vous chez le notaire pour signer le compromis »."
+    },
+    {
+     "label": "C",
+     "text": "Payer la totalité immédiatement.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Faire une nouvelle offre.",
+     "correct": false,
+     "rationale": "Elle est acceptée."
+    }
+   ],
+   "explanation": "« Compromis de vente » = avant-contrat d'achat immobilier.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information précise",
+   "document": "H: Le festival de jazz de la ville se déroulera du 5 au 8 juillet. Cette année, une scène gratuite sera installée sur la place du marché pour les jeunes talents. Les concerts payants auront lieu au théâtre antique. Les billets sont en vente à l'office de tourisme.",
+   "prompt": "Où peut-on voir des concerts gratuits ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Sur la place du marché.",
+     "correct": true,
+     "rationale": "« une scène gratuite… sur la place du marché »."
+    },
+    {
+     "label": "B",
+     "text": "Au théâtre antique.",
+     "correct": false,
+     "rationale": "Les concerts y sont payants."
+    },
+    {
+     "label": "C",
+     "text": "Dans les bars.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "À l'office de tourisme.",
+     "correct": false,
+     "rationale": "On y achète les billets."
+    }
+   ],
+   "explanation": "Distinguez les lieux selon le prix.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous avez commencé le marathon à quarante ans. Pourquoi ? / H: Mon médecin m'a dit de faire du sport. J'ai commencé par courir dix minutes, puis vingt… Aujourd'hui, j'ai couru cinq marathons. Ce que j'aime, ce n'est pas la compétition, c'est le dépassement de soi. Et l'ambiance des courses est extraordinaire.",
+   "prompt": "Qu'est-ce que l'homme aime dans la course ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Se dépasser et l'ambiance.",
+     "correct": true,
+     "rationale": "« le dépassement de soi » et « l'ambiance »."
+    },
+    {
+     "label": "B",
+     "text": "Obéir à son médecin.",
+     "correct": false,
+     "rationale": "C'était la raison de départ."
+    },
+    {
+     "label": "C",
+     "text": "Gagner des compétitions.",
+     "correct": false,
+     "rationale": "« ce n'est pas la compétition »."
+    },
+    {
+     "label": "D",
+     "text": "Courir seul.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Ce n'est pas X, c'est Y » distingue la vraie motivation.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-CA"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: En raison du risque d'incendie, les barbecues et les feux sont strictement interdits dans toutes les forêts du canton jusqu'à nouvel ordre. Les contrevenants s'exposent à une amende de 500 francs.",
+   "prompt": "Que risquent ceux qui ne respectent pas l'interdiction ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une amende.",
+     "correct": true,
+     "rationale": "« une amende de 500 francs »."
+    },
+    {
+     "label": "B",
+     "text": "Rien.",
+     "correct": false,
+     "rationale": "Une amende est prévue."
+    },
+    {
+     "label": "C",
+     "text": "La prison.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Une interdiction d'entrer dans la forêt.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Contrevenants » = ceux qui ne respectent pas la règle. « Jusqu'à nouvel ordre » = sans date de fin connue.",
+   "speakers": [
+    "F:fr-CH"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "situation administrative",
+   "skill": "information précise",
+   "document": "H: Bonjour, je voudrais savoir comment obtenir une aide pour isoler ma maison. / F: Vous pouvez demander MaPrimeRénov'. Il faut d'abord faire un diagnostic énergétique, puis choisir un artisan certifié. La demande se fait en ligne, avant le début des travaux. / H: Avant ? / F: Oui, sinon vous ne pourrez pas être aidé.",
+   "prompt": "Quand faut-il faire la demande d'aide ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pendant les travaux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Après les travaux.",
+     "correct": false,
+     "rationale": "C'est trop tard."
+    },
+    {
+     "label": "C",
+     "text": "N'importe quand.",
+     "correct": false,
+     "rationale": "Il y a une condition."
+    },
+    {
+     "label": "D",
+     "text": "Avant de commencer les travaux.",
+     "correct": true,
+     "rationale": "« avant le début des travaux… sinon vous ne pourrez pas être aidé »."
+    }
+   ],
+   "explanation": "L'insistance (« Avant ? — Oui, sinon… ») souligne la condition.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "conversation professionnelle",
+   "skill": "information précise",
+   "document": "F: Le journal veut un article sur le marché de Noël pour mercredi. Tu peux t'en occuper ? / H: Oui, mais j'aurai besoin d'un photographe. / F: Camille est disponible mardi après-midi. / H: Parfait, je l'accompagne mardi et j'écris l'article le soir même.",
+   "prompt": "Quand l'article sera-t-il écrit ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Lundi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Mercredi.",
+     "correct": false,
+     "rationale": "C'est la date de publication."
+    },
+    {
+     "label": "C",
+     "text": "Mardi soir.",
+     "correct": true,
+     "rationale": "« j'écris l'article le soir même » (mardi)."
+    },
+    {
+     "label": "D",
+     "text": "Jeudi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Le soir même » renvoie au mardi.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "opinion",
+   "document": "H: Il faudrait baisser le chauffage à dix-sept degrés dans tous les bâtiments publics. / F: Dix-sept degrés dans les bureaux, d'accord, on peut mettre un pull. Mais dans les écoles maternelles ou les maisons de retraite, ce serait irresponsable. Les enfants et les personnes âgées sont beaucoup plus sensibles au froid.",
+   "prompt": "Quelle est la position de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle refuse totalement la mesure.",
+     "correct": false,
+     "rationale": "Elle l'accepte pour les bureaux."
+    },
+    {
+     "label": "B",
+     "text": "Elle veut augmenter le chauffage partout.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Elle accepte la mesure, sauf pour les publics fragiles.",
+     "correct": true,
+     "rationale": "Accord pour les bureaux, refus pour les écoles et maisons de retraite."
+    },
+    {
+     "label": "D",
+     "text": "Elle pense que les enfants n'ont pas froid.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    }
+   ],
+   "explanation": "« D'accord… Mais… » : accord partiel avec exceptions.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "F: La confiance des Français dans les médias atteint son plus bas niveau depuis trente ans, selon un baromètre annuel. Moins d'un sur trois estime que les journalistes sont indépendants des pouvoirs politiques et économiques. Paradoxalement, la consommation d'informations n'a jamais été aussi élevée.",
+   "prompt": "Qu'est-ce qui est présenté comme paradoxal ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La confiance a augmenté.",
+     "correct": false,
+     "rationale": "Elle a baissé."
+    },
+    {
+     "label": "B",
+     "text": "Les journalistes sont indépendants.",
+     "correct": false,
+     "rationale": "Les Français en doutent."
+    },
+    {
+     "label": "C",
+     "text": "On consomme beaucoup d'informations malgré une faible confiance.",
+     "correct": true,
+     "rationale": "« Paradoxalement, la consommation d'informations n'a jamais été aussi élevée »."
+    },
+    {
+     "label": "D",
+     "text": "Le baromètre est publié chaque année.",
+     "correct": false,
+     "rationale": "Ce n'est pas paradoxal."
+    }
+   ],
+   "explanation": "« Paradoxalement » souligne une contradiction.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "H: Vous avez rénové votre maison pour qu'elle consomme presque zéro énergie. Combien ça vous a coûté ? / F: Environ soixante mille euros, avec les aides. C'est beaucoup, mais ma facture de chauffage est passée de deux mille euros par an à presque rien. Dans vingt-cinq ans, l'investissement sera remboursé. Et surtout, la maison est confortable en hiver comme en été.",
+   "prompt": "Qu'est-ce que la femme souligne surtout ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le confort de la maison toute l'année.",
+     "correct": true,
+     "rationale": "« Et surtout, la maison est confortable en hiver comme en été »."
+    },
+    {
+     "label": "B",
+     "text": "L'absence d'aides publiques.",
+     "correct": false,
+     "rationale": "Elle a reçu des aides."
+    },
+    {
+     "label": "C",
+     "text": "Le prix très bas des travaux.",
+     "correct": false,
+     "rationale": "Elle dit que « c'est beaucoup »."
+    },
+    {
+     "label": "D",
+     "text": "La hausse de sa facture.",
+     "correct": false,
+     "rationale": "Elle a baissé."
+    }
+   ],
+   "explanation": "« Et surtout » met en avant l'argument principal.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "message téléphonique",
+   "skill": "implicite",
+   "document": "F: Allô Sébastien, c'est Nathalie, la trésorière du club. Tu sais, la cotisation annuelle… Je crois que tu es le seul à ne pas encore l'avoir réglée. Je sais que tu as beaucoup de travail, ce n'est sûrement qu'un oubli. Je te rappelle juste que l'assemblée générale est vendredi.",
+   "prompt": "Que comprend-on ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Nathalie rappelle poliment à Sébastien qu'il doit payer avant vendredi.",
+     "correct": true,
+     "rationale": "Rappel diplomatique de la cotisation impayée."
+    },
+    {
+     "label": "B",
+     "text": "Nathalie est très en colère.",
+     "correct": false,
+     "rationale": "Elle reste aimable."
+    },
+    {
+     "label": "C",
+     "text": "Sébastien a déjà payé sa cotisation.",
+     "correct": false,
+     "rationale": "Il est le seul à ne pas l'avoir réglée."
+    },
+    {
+     "label": "D",
+     "text": "Nathalie annule l'assemblée générale.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Formules diplomatiques : « ce n'est sûrement qu'un oubli », « je te rappelle juste ».",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "relation logique",
+   "document": "H: Pourquoi le nombre d'abonnés du journal a augmenté alors que tous les autres perdent des lecteurs ? / F: Parce qu'on a misé sur l'information locale. Les gens trouvent les actualités nationales partout gratuitement, mais pour savoir ce qui se passe dans leur village ou au conseil municipal, il n'y a que nous.",
+   "prompt": "Comment la femme explique-t-elle le succès du journal ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il traite surtout l'actualité internationale.",
+     "correct": false,
+     "rationale": "C'est l'information locale."
+    },
+    {
+     "label": "B",
+     "text": "Il propose une information locale qu'on ne trouve pas ailleurs.",
+     "correct": true,
+     "rationale": "« on a misé sur l'information locale… il n'y a que nous »."
+    },
+    {
+     "label": "C",
+     "text": "Il a baissé ses prix.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Il est gratuit.",
+     "correct": false,
+     "rationale": "Il s'agit d'abonnés."
+    }
+   ],
+   "explanation": "« Miser sur » = faire le choix stratégique de.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-BE"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "F: Vous organisez un festival de musique « zéro déchet ». Comment faites-vous ? / H: Pas de bouteilles en plastique : chacun reçoit une gourde à l'entrée. Les verres sont consignés, un euro, rendu au retour. Les stands de nourriture utilisent de la vaisselle lavable. Et les toilettes sont sèches. La première année, les festivaliers râlaient un peu ; maintenant, ils en sont fiers.",
+   "prompt": "Comment les festivaliers ont-ils réagi au début ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils étaient un peu mécontents.",
+     "correct": true,
+     "rationale": "« La première année, les festivaliers râlaient un peu »."
+    },
+    {
+     "label": "B",
+     "text": "Ils ont boycotté le festival.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Ils étaient immédiatement enthousiastes.",
+     "correct": false,
+     "rationale": "Ils râlaient."
+    },
+    {
+     "label": "D",
+     "text": "Ils ont demandé des bouteilles en plastique.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Râler » = protester, se plaindre (familier).",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-CH"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Le fournisseur d'électricité informe ses clients qu'une coupure de courant aura lieu mardi de 9 h à 12 h dans les rues Victor-Hugo et Pasteur, pour des travaux sur le réseau. Les clients utilisant un appareil médical électrique sont invités à contacter le service client afin d'organiser une solution de secours.",
+   "prompt": "Qui doit contacter le service client ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les personnes qui utilisent un appareil médical électrique.",
+     "correct": true,
+     "rationale": "C'est la consigne donnée."
+    },
+    {
+     "label": "B",
+     "text": "Les commerçants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les personnes absentes mardi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Tous les habitants de la ville.",
+     "correct": false,
+     "rationale": "Seulement deux rues sont concernées."
+    }
+   ],
+   "explanation": "Repérez le public visé par la consigne.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "F: Les clubs sportifs amateurs manquent de bénévoles. Les dirigeants expliquent que les responsabilités administratives et juridiques se sont alourdies ces dernières années, découragent de nombreux parents qui se contentaient autrefois d'encadrer un entraînement. Sans renouvellement, certains clubs pourraient disparaître.",
+   "prompt": "Pourquoi les bénévoles sont-ils moins nombreux ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les enfants ne veulent plus faire de sport.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les responsabilités administratives et juridiques sont plus lourdes.",
+     "correct": true,
+     "rationale": "« se sont alourdies… découragent de nombreux parents »."
+    },
+    {
+     "label": "C",
+     "text": "Les clubs refusent les parents.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les entraînements sont trop longs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La cause est suivie de la conséquence possible (disparition de clubs).",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "F: Les compteurs électriques intelligents permettent de suivre sa consommation et de faire des économies. / H: En théorie. Mais combien de gens regardent vraiment leurs courbes de consommation ? Et ces compteurs collectent des données très précises sur nos habitudes : à quelle heure on se lève, quand on part en vacances. Je ne suis pas sûr que ce soit sans risque.",
+   "prompt": "Quelles réserves l'homme exprime-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Peu de gens les utilisent vraiment et ils posent un problème de vie privée.",
+     "correct": true,
+     "rationale": "Deux objections : usage réel et données collectées."
+    },
+    {
+     "label": "B",
+     "text": "Ils augmentent la consommation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Ils coûtent trop cher.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Ils tombent souvent en panne.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« En théorie. Mais » oppose la théorie et la pratique.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "implicite",
+   "document": "H: Votre émission de radio existe depuis trente ans. Comment avez-vous duré si longtemps ? / F: J'ai vu passer onze directeurs de la station. Chacun voulait changer mon émission à son arrivée. Je les ai tous écoutés très poliment… et j'ai continué à faire exactement la même chose.",
+   "prompt": "Que comprend-on ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle a été directrice de la station.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "L'animatrice a gardé son style malgré les pressions.",
+     "correct": true,
+     "rationale": "Elle a écouté poliment puis n'a rien changé."
+    },
+    {
+     "label": "C",
+     "text": "Elle a suivi tous les conseils des directeurs.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "D",
+     "text": "Son émission a beaucoup changé.",
+     "correct": false,
+     "rationale": "Elle a fait « exactement la même chose »."
+    }
+   ],
+   "explanation": "L'humour vient du contraste entre la politesse et la désobéissance tranquille.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "H: Une commune bretonne a créé une coopérative citoyenne d'énergie : les habitants ont financé ensemble l'installation de panneaux solaires sur les toits de l'école et du gymnase. L'électricité produite est revendue, et les bénéfices servent à financer des projets locaux. Chaque habitant peut devenir sociétaire à partir de cent euros.",
+   "prompt": "À quoi servent les bénéfices de la coopérative ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À rémunérer la mairie.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "À baisser les impôts.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "À acheter du gaz.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "À financer des projets locaux.",
+     "correct": true,
+     "rationale": "« les bénéfices servent à financer des projets locaux »."
+    }
+   ],
+   "explanation": "« Sociétaire » = membre d'une coopérative qui en détient une part.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "F: Votre article sur l'entreprise Durand contenait une erreur : vous avez écrit qu'elle allait licencier cent personnes, alors qu'il s'agit de départs volontaires. / H: Vous avez raison, j'ai mal interprété le communiqué. / F: L'entreprise demande un rectificatif. Il faut le publier dès demain, en page 3. / H: Je m'en occupe tout de suite.",
+   "prompt": "Que demande la rédactrice en chef ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De publier une correction rapidement.",
+     "correct": true,
+     "rationale": "« Il faut le publier dès demain »."
+    },
+    {
+     "label": "B",
+     "text": "De licencier le journaliste.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "De supprimer le journal.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "D'écrire un nouvel article sur un autre sujet.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Rectificatif » = texte qui corrige une erreur publiée.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "H: Le nucléaire, c'est la seule énergie capable de produire beaucoup d'électricité sans émettre de CO2. / F: Sans CO2, certes. Mais on oublie les déchets radioactifs, dont personne ne sait vraiment quoi faire pour des milliers d'années, et les coûts des nouvelles centrales, qui explosent. Je ne dis pas qu'il faut tout arrêter demain, mais miser uniquement sur le nucléaire serait une erreur.",
+   "prompt": "Quelle est la position de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle soutient sans réserve le nucléaire.",
+     "correct": false,
+     "rationale": "Elle émet des réserves."
+    },
+    {
+     "label": "B",
+     "text": "Elle veut arrêter immédiatement toutes les centrales.",
+     "correct": false,
+     "rationale": "« Je ne dis pas qu'il faut tout arrêter demain »."
+    },
+    {
+     "label": "C",
+     "text": "Elle refuse de miser uniquement sur le nucléaire.",
+     "correct": true,
+     "rationale": "« miser uniquement sur le nucléaire serait une erreur »."
+    },
+    {
+     "label": "D",
+     "text": "Elle pense que le nucléaire émet beaucoup de CO2.",
+     "correct": false,
+     "rationale": "Elle admet qu'il n'en émet pas."
+    }
+   ],
+   "explanation": "« Certes. Mais » : concession puis objections.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-CA"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Le sport professionnel est-il devenu trop commercial ? / H: Il l'est devenu, c'est indéniable : les salaires astronomiques, les matchs programmés à des heures absurdes pour les télévisions étrangères… Mais il ne faut pas oublier que cet argent finance aussi, en partie, le sport amateur et les centres de formation. Le problème, c'est la répartition, pas l'argent en soi.",
+   "prompt": "Selon l'homme, quel est le vrai problème ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La mauvaise répartition de l'argent.",
+     "correct": true,
+     "rationale": "« Le problème, c'est la répartition, pas l'argent en soi »."
+    },
+    {
+     "label": "B",
+     "text": "Le sport amateur.",
+     "correct": false,
+     "rationale": "Ce n'est pas le problème."
+    },
+    {
+     "label": "C",
+     "text": "L'existence même de l'argent dans le sport.",
+     "correct": false,
+     "rationale": "« pas l'argent en soi »."
+    },
+    {
+     "label": "D",
+     "text": "Les centres de formation.",
+     "correct": false,
+     "rationale": "Ils bénéficient de cet argent."
+    }
+   ],
+   "explanation": "La phrase finale hiérarchise le problème.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "implicite",
+   "document": "H: Le gouvernement appelle les Français à la sobriété énergétique et à baisser le chauffage d'un degré. Dans le même temps, les patinoires couvertes des stations de ski restent ouvertes en plein mois d'août. Chacun appréciera la cohérence.",
+   "prompt": "Que sous-entend le journaliste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il existe une contradiction dans les politiques énergétiques.",
+     "correct": true,
+     "rationale": "« Chacun appréciera la cohérence » est ironique."
+    },
+    {
+     "label": "B",
+     "text": "Il faut augmenter le chauffage.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Le gouvernement est très cohérent.",
+     "correct": false,
+     "rationale": "Le ton est ironique."
+    },
+    {
+     "label": "D",
+     "text": "Les patinoires sont fermées.",
+     "correct": false,
+     "rationale": "Elles restent ouvertes."
+    }
+   ],
+   "explanation": "« Chacun appréciera » est une formule ironique pour souligner une incohérence.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "Club de randonnée « Les Marcheurs » – Sorties tous les dimanches matin. Rendez-vous à 8 h devant la mairie. Prévoir des chaussures de marche et de l'eau. Adhésion annuelle : 25 €. Première sortie d'essai gratuite.",
+   "prompt": "Où est le rendez-vous ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À la gare.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Au club.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Au parc.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Devant la mairie.",
+     "correct": true,
+     "rationale": "« Rendez-vous à 8 h devant la mairie »."
+    }
+   ],
+   "explanation": "Repérez le lieu du rendez-vous."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Bonjour Monsieur, je suis votre voisine du 4e. Votre colis est arrivé pendant votre absence. Le livreur me l'a laissé. Vous pouvez venir le chercher ce soir après 19 h. Bonne journée, Mme Dubois.",
+   "prompt": "Où est le colis ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Devant la porte.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Chez la voisine du 4e.",
+     "correct": true,
+     "rationale": "« Le livreur me l'a laissé »."
+    },
+    {
+     "label": "C",
+     "text": "À la poste.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Chez le gardien.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Me » renvoie à Mme Dubois."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "affiche",
+   "skill": "information précise",
+   "document": "ÉCONOMISEZ L'ÉNERGIE ! Éteignez la lumière en quittant une pièce. Ne laissez pas vos appareils en veille. Fermez les fenêtres quand le chauffage est allumé.",
+   "prompt": "Que conseille l'affiche quand le chauffage est allumé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Allumer les appareils.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Éteindre la lumière.",
+     "correct": false,
+     "rationale": "C'est un autre conseil."
+    },
+    {
+     "label": "C",
+     "text": "Ouvrir les fenêtres.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "D",
+     "text": "Fermer les fenêtres.",
+     "correct": true,
+     "rationale": "« Fermez les fenêtres quand le chauffage est allumé »."
+    }
+   ],
+   "explanation": "Associez chaque conseil à sa situation."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "courriel",
+   "skill": "intention",
+   "document": "Madame la rédactrice, j'ai lu avec intérêt votre article sur le projet de nouvelle piscine. Cependant, vous indiquez qu'elle sera construite près de la gare, alors que le conseil municipal a choisi le terrain du stade. Pourriez-vous corriger cette information ? Cordialement, Jean Moreau, conseiller municipal",
+   "prompt": "Pourquoi Jean Moreau écrit-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour signaler une erreur dans un article.",
+     "correct": true,
+     "rationale": "Il demande de corriger l'emplacement."
+    },
+    {
+     "label": "B",
+     "text": "Pour féliciter la journaliste.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objectif principal."
+    },
+    {
+     "label": "C",
+     "text": "Pour proposer un nouveau terrain.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Pour s'opposer au projet de piscine.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Cependant » introduit la correction."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Dans un village du Jura, l'unique café a fermé l'an dernier. Les habitants ont décidé de le racheter ensemble et de le transformer en café associatif. Géré par des bénévoles, il propose aussi un dépôt de pain, un point poste et des soirées concerts. « C'est redevenu le cœur du village », se réjouit le maire.",
+   "prompt": "Qu'ont fait les habitants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils ont fermé le café.",
+     "correct": false,
+     "rationale": "Il avait déjà fermé."
+    },
+    {
+     "label": "B",
+     "text": "Ils ont racheté le café pour le faire revivre.",
+     "correct": true,
+     "rationale": "« les habitants ont décidé de le racheter ensemble »."
+    },
+    {
+     "label": "C",
+     "text": "Ils ont ouvert une boulangerie.",
+     "correct": false,
+     "rationale": "C'est un dépôt de pain dans le café."
+    },
+    {
+     "label": "D",
+     "text": "Ils ont construit une nouvelle mairie.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Associatif » = géré par une association."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, votre facture d'électricité du mois de janvier présente un montant anormalement élevé en raison d'une erreur de relevé de compteur. Une facture rectificative vous sera envoyée dans les quinze jours. Vous n'avez pas à régler la facture initiale.",
+   "prompt": "Que doit faire la cliente ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ne pas payer la première facture.",
+     "correct": true,
+     "rationale": "« Vous n'avez pas à régler la facture initiale »."
+    },
+    {
+     "label": "B",
+     "text": "Payer la facture initiale.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "Changer de fournisseur.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Relever elle-même son compteur.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Rectificative » = qui corrige."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "publicité",
+   "skill": "information précise",
+   "document": "Abonnez-vous au journal Le Quotidien du Sud ! Version numérique : 9,90 € par mois. Version papier livrée chez vous + numérique : 24,90 € par mois. Le premier mois est offert pour tout nouvel abonné.",
+   "prompt": "Que comprend la formule à 24,90 € ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un mois gratuit uniquement.",
+     "correct": false,
+     "rationale": "C'est une offre de bienvenue."
+    },
+    {
+     "label": "B",
+     "text": "Seulement la version numérique.",
+     "correct": false,
+     "rationale": "C'est la formule à 9,90 €."
+    },
+    {
+     "label": "C",
+     "text": "Un magazine en plus.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le journal papier livré et la version numérique.",
+     "correct": true,
+     "rationale": "« Version papier livrée chez vous + numérique »."
+    }
+   ],
+   "explanation": "Comparez les deux offres."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "Chers collègues, pour réduire notre consommation d'énergie, le chauffage des bureaux sera réglé à 19 °C. Le soir, les ordinateurs devront être éteints, et non mis en veille. Les lumières des couloirs s'allumeront désormais uniquement à la détection de mouvement.",
+   "prompt": "Que doivent faire les employés le soir ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Allumer les lumières des couloirs.",
+     "correct": false,
+     "rationale": "Elles s'allument seules."
+    },
+    {
+     "label": "B",
+     "text": "Régler le chauffage à 19 °C.",
+     "correct": false,
+     "rationale": "C'est automatique."
+    },
+    {
+     "label": "C",
+     "text": "Éteindre complètement leur ordinateur.",
+     "correct": true,
+     "rationale": "« les ordinateurs devront être éteints, et non mis en veille »."
+    },
+    {
+     "label": "D",
+     "text": "Mettre leur ordinateur en veille.",
+     "correct": false,
+     "rationale": "C'est ce qu'il faut éviter."
+    }
+   ],
+   "explanation": "« Et non » exclut une option."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« Je n'avais jamais fait de théâtre. À cinquante ans, je me suis inscrit à un atelier amateur. J'étais terrorisé à l'idée de monter sur scène. Le jour de la première représentation, j'ai oublié une réplique, mais le public a ri et j'ai continué. Aujourd'hui, je ne pourrais plus m'en passer. » Philippe, 54 ans.",
+   "prompt": "Que ressent Philippe aujourd'hui ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il a arrêté le théâtre.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Il ne peut plus se passer du théâtre.",
+     "correct": true,
+     "rationale": "« je ne pourrais plus m'en passer »."
+    },
+    {
+     "label": "C",
+     "text": "Il a peur de monter sur scène.",
+     "correct": false,
+     "rationale": "C'était au début."
+    },
+    {
+     "label": "D",
+     "text": "Il regrette d'avoir oublié une réplique.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    }
+   ],
+   "explanation": "« Se passer de » = vivre sans."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Les podcasts d'information connaissent un succès croissant, notamment auprès des 25-35 ans. Format long, ton personnel, possibilité d'écouter à tout moment : ils répondent à une demande d'approfondissement que les journaux télévisés, jugés trop rapides, ne satisfont plus. Les médias traditionnels s'y lancent désormais à leur tour.",
+   "prompt": "Pourquoi les podcasts ont-ils du succès ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils sont plus courts que les journaux télévisés.",
+     "correct": false,
+     "rationale": "Ils sont plus longs."
+    },
+    {
+     "label": "B",
+     "text": "Ils sont réservés aux seniors.",
+     "correct": false,
+     "rationale": "Ils plaisent aux 25-35 ans."
+    },
+    {
+     "label": "C",
+     "text": "Ils permettent d'approfondir l'information.",
+     "correct": true,
+     "rationale": "« ils répondent à une demande d'approfondissement »."
+    },
+    {
+     "label": "D",
+     "text": "Les médias traditionnels les interdisent.",
+     "correct": false,
+     "rationale": "Ils s'y lancent."
+    }
+   ],
+   "explanation": "« À leur tour » = eux aussi, après les autres."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "On nous incite à changer nos ampoules, à débrancher nos chargeurs, à prendre des douches plus courtes. Ces gestes sont utiles, mais ils ne doivent pas faire oublier que l'essentiel des émissions provient de l'industrie, des transports et du bâtiment. Faire porter tout l'effort sur les individus, c'est détourner l'attention des véritables leviers.",
+   "prompt": "Quelle idée l'auteur défend-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faut prendre des douches plus longues.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les gestes individuels ne suffisent pas ; il faut agir sur les grands secteurs.",
+     "correct": true,
+     "rationale": "« détourner l'attention des véritables leviers »."
+    },
+    {
+     "label": "C",
+     "text": "L'industrie ne pollue pas.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "D",
+     "text": "Les gestes individuels sont inutiles.",
+     "correct": false,
+     "rationale": "Il dit qu'ils sont « utiles »."
+    }
+   ],
+   "explanation": "« Ces gestes sont utiles, mais » : concession avant la thèse."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Cher adhérent, l'assemblée générale de notre association se tiendra le 15 mars. Si vous ne pouvez pas y assister, vous pouvez donner procuration à un autre membre afin qu'il vote en votre nom.",
+   "prompt": "Que signifie « donner procuration » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "proposer sa candidature.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "B",
+     "text": "payer sa cotisation.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "C",
+     "text": "autoriser quelqu'un à agir à sa place.",
+     "correct": true,
+     "rationale": "« afin qu'il vote en votre nom »."
+    },
+    {
+     "label": "D",
+     "text": "démissionner.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    }
+   ],
+   "explanation": "Une procuration est un document qui autorise quelqu'un à agir pour soi."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Pour lutter contre les fausses informations, plusieurs lycées ont mis en place des ateliers d'éducation aux médias animés par des journalistes. Les élèves apprennent à vérifier l'origine d'une photo, à identifier une source fiable et à repérer les techniques de manipulation. Selon une enquête, les participants partagent deux fois moins de rumeurs sur les réseaux sociaux.",
+   "prompt": "Quel résultat est observé chez les participants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils n'utilisent plus les réseaux sociaux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Ils partagent moins de fausses informations.",
+     "correct": true,
+     "rationale": "« partagent deux fois moins de rumeurs »."
+    },
+    {
+     "label": "C",
+     "text": "Ils veulent tous devenir journalistes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Ils lisent plus de journaux papier.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Deux fois moins » = divisé par deux."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Monsieur, nous accusons réception de votre réclamation concernant la panne de votre chaudière, survenue pendant la période de garantie. Un technicien interviendra sous 72 heures. La réparation ainsi que le déplacement seront intégralement pris en charge, conformément aux conditions de votre contrat d'entretien.",
+   "prompt": "Qui paiera la réparation ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'entreprise, dans le cadre du contrat.",
+     "correct": true,
+     "rationale": "« intégralement pris en charge »."
+    },
+    {
+     "label": "B",
+     "text": "L'assurance habitation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Le client.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "D",
+     "text": "Le client et l'entreprise à moitié.",
+     "correct": false,
+     "rationale": "C'est « intégralement »."
+    }
+   ],
+   "explanation": "« Pris en charge » = payé par quelqu'un d'autre."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "Les chaînes d'information en continu doivent remplir l'antenne vingt-quatre heures sur vingt-quatre. Faute d'informations nouvelles, elles multiplient les débats et les commentaires. Si bien que l'opinion finit par prendre plus de place que le fait lui-même.",
+   "prompt": "Quelle conséquence l'auteur décrit-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les chaînes manquent de journalistes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les informations nouvelles sont trop nombreuses.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "C",
+     "text": "Les débats disparaissent.",
+     "correct": false,
+     "rationale": "Ils se multiplient."
+    },
+    {
+     "label": "D",
+     "text": "Les opinions prennent plus de place que les faits.",
+     "correct": true,
+     "rationale": "« Si bien que l'opinion finit par prendre plus de place que le fait »."
+    }
+   ],
+   "explanation": "« Si bien que » introduit une conséquence."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "Le projet d'implantation d'un parc éolien sur les collines du village suscite des réactions variées. Le maire met en avant les recettes fiscales pour la commune. Certains habitants dénoncent la dégradation du paysage, tandis que d'autres, plus nombreux selon un sondage local, y sont favorables au nom de la transition énergétique.",
+   "prompt": "Selon le sondage, quelle est l'opinion majoritaire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une majorité d'habitants est favorable au projet.",
+     "correct": true,
+     "rationale": "« d'autres, plus nombreux selon un sondage local, y sont favorables »."
+    },
+    {
+     "label": "B",
+     "text": "Le maire est opposé au projet.",
+     "correct": false,
+     "rationale": "Il le soutient."
+    },
+    {
+     "label": "C",
+     "text": "Personne ne soutient le projet.",
+     "correct": false,
+     "rationale": "C'est faux."
+    },
+    {
+     "label": "D",
+     "text": "Une majorité dénonce la dégradation du paysage.",
+     "correct": false,
+     "rationale": "Ils sont moins nombreux."
+    }
+   ],
+   "explanation": "« Plus nombreux » indique la majorité."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "Le diagnostic de performance énergétique (DPE) classe les logements de A (très économe) à G (très énergivore). Depuis 2025, les logements classés G ne peuvent plus être proposés à la location. Cette interdiction s'étendra aux logements classés F en 2028, puis E en 2034.",
+   "prompt": "Quels logements ne peuvent plus être loués depuis 2025 ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les logements classés F.",
+     "correct": false,
+     "rationale": "Ce sera en 2028."
+    },
+    {
+     "label": "B",
+     "text": "Tous les logements anciens.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les logements classés G.",
+     "correct": true,
+     "rationale": "« les logements classés G ne peuvent plus être proposés à la location »."
+    },
+    {
+     "label": "D",
+     "text": "Les logements classés A.",
+     "correct": false,
+     "rationale": "Ils sont très économes."
+    }
+   ],
+   "explanation": "Repérez le calendrier progressif."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« J'ai acheté un thermostat connecté pour faire des économies. Résultat : j'ai passé tellement de temps à jouer avec l'application que j'ai fini par trouver le chauffage idéal… à 23 degrés. » Antoine, 31 ans.",
+   "prompt": "Que sous-entend Antoine ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il a éteint son chauffage.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "L'application ne fonctionne pas.",
+     "correct": false,
+     "rationale": "Il l'a beaucoup utilisée."
+    },
+    {
+     "label": "C",
+     "text": "Il a beaucoup économisé.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "D",
+     "text": "Le thermostat ne lui a pas fait faire d'économies.",
+     "correct": true,
+     "rationale": "Il a fini à 23 degrés, une température élevée."
+    }
+   ],
+   "explanation": "La chute ironique contredit l'objectif annoncé."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Faut-il interdire la publicité pour les SUV, ces voitures lourdes et polluantes ? Les défenseurs de la mesure comparent ces véhicules au tabac et estiment que la publicité encourage des comportements nuisibles. Ses opposants rappellent que les SUV sont des produits légaux et qu'interdire leur promotion porterait atteinte à la liberté du commerce.",
+   "prompt": "Quel argument avancent les opposants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les SUV sont peu polluants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les SUV ressemblent au tabac.",
+     "correct": false,
+     "rationale": "C'est la comparaison des défenseurs."
+    },
+    {
+     "label": "C",
+     "text": "Les SUV sont légaux et l'interdiction nuirait à la liberté du commerce.",
+     "correct": true,
+     "rationale": "Ce sont les deux arguments cités."
+    },
+    {
+     "label": "D",
+     "text": "La publicité encourage des comportements nuisibles.",
+     "correct": false,
+     "rationale": "C'est l'argument des défenseurs."
+    }
+   ],
+   "explanation": "Distinguez les positions des deux camps."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "Les inscriptions dans les conservatoires de musique ont baissé de 10 % en cinq ans. Les directeurs mettent en cause le coût des cours, mais aussi la concurrence des tutoriels gratuits en ligne, qui permettent d'apprendre seul à jouer de la guitare ou du piano.",
+   "prompt": "Quelles causes sont évoquées ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le désintérêt pour la musique.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "La fermeture des conservatoires.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Le manque de professeurs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le coût des cours et les tutoriels gratuits en ligne.",
+     "correct": true,
+     "rationale": "Ce sont les deux causes citées."
+    }
+   ],
+   "explanation": "« Mettre en cause » = désigner comme responsable."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "Chaque catastrophe climatique donne lieu au même rituel médiatique : images spectaculaires, témoignages bouleversants, puis oubli. Les causes structurelles, elles, sont rarement expliquées, comme si la tempête ou la canicule relevaient de la fatalité. En privilégiant l'émotion sur l'analyse, les médias contribuent paradoxalement à l'inaction.",
+   "prompt": "Que reproche l'auteur aux médias ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De ne pas montrer d'images des catastrophes.",
+     "correct": false,
+     "rationale": "Ils en montrent."
+    },
+    {
+     "label": "B",
+     "text": "De trop expliquer les causes.",
+     "correct": false,
+     "rationale": "Elles sont rarement expliquées."
+    },
+    {
+     "label": "C",
+     "text": "D'exagérer le changement climatique.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "De privilégier l'émotion au détriment de l'explication.",
+     "correct": true,
+     "rationale": "« En privilégiant l'émotion sur l'analyse »."
+    }
+   ],
+   "explanation": "« Rituel » souligne la répétition ; « paradoxalement » l'effet inverse."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "sens d'un mot en contexte",
+   "document": "Le nouveau directeur de la chaîne a fait table rase des anciennes émissions pour imposer une grille entièrement renouvelée.",
+   "prompt": "Que signifie « faire table rase » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "supprimer tout ce qui existait pour recommencer.",
+     "correct": true,
+     "rationale": "Il remplace toutes les émissions."
+    },
+    {
+     "label": "B",
+     "text": "organiser un repas.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "C",
+     "text": "faire des économies.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "D",
+     "text": "garder les anciennes émissions.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    }
+   ],
+   "explanation": "« Faire table rase » = effacer complètement le passé."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments contradictoires",
+   "document": "Pour les uns, la gratuité de l'information en ligne est une conquête démocratique : chacun peut s'informer sans payer. Pour les autres, elle a fragilisé les rédactions, contraintes de multiplier les contenus « à clics » pour attirer la publicité. Une information de qualité a un coût ; reste à savoir qui doit le payer.",
+   "prompt": "Quelle question l'auteur pose-t-il en conclusion ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les journalistes sont-ils trop payés ?",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Faut-il interdire Internet ?",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "La publicité est-elle gratuite ?",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Qui doit financer une information de qualité ?",
+     "correct": true,
+     "rationale": "« reste à savoir qui doit le payer »."
+    }
+   ],
+   "explanation": "« Reste à savoir » introduit une question ouverte."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "sous-entendu",
+   "document": "Le club de football, qui vient de dépenser 200 millions d'euros pour recruter un attaquant, a annoncé une hausse de 15 % du prix des places « pour faire face à la hausse des coûts ».",
+   "prompt": "Que suggère le journaliste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les places sont gratuites.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "B",
+     "text": "Le club est en grande difficulté financière.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'idée."
+    },
+    {
+     "label": "C",
+     "text": "Les supporters paient les dépenses excessives du club.",
+     "correct": true,
+     "rationale": "La justification de la hausse est mise en contraste avec l'achat."
+    },
+    {
+     "label": "D",
+     "text": "L'attaquant a été payé par les supporters directement.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La juxtaposition des deux faits crée un sous-entendu critique."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "compréhension globale",
+   "document": "Le statut d'auto-entrepreneur, créé en 2009, permet d'exercer une activité indépendante avec des formalités simplifiées et des cotisations sociales calculées sur le chiffre d'affaires réellement encaissé. En l'absence de recettes, aucune cotisation n'est due. Ce régime est toutefois soumis à des plafonds de chiffre d'affaires, au-delà desquels l'entrepreneur doit changer de statut.",
+   "prompt": "Que se passe-t-il si l'auto-entrepreneur n'a aucune recette ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il ne paie pas de cotisations.",
+     "correct": true,
+     "rationale": "« En l'absence de recettes, aucune cotisation n'est due »."
+    },
+    {
+     "label": "B",
+     "text": "Il perd son statut.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Il doit fermer son entreprise.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Il paie une cotisation minimale.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    }
+   ],
+   "explanation": "« Encaissé » = réellement reçu."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "répondre à un message",
+   "instructions": "Votre collègue Sarah vous écrit : « On fait un repas de fin d'année avec l'équipe vendredi midi. Tu préfères un restaurant italien ou japonais ? Tu viens ? » Vous lui répondez (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Bonjour Sarah ! Merci pour l'organisation, c'est une super idée. Je viendrai avec plaisir vendredi midi. Je préfère le restaurant italien, parce que je ne mange pas de poisson cru. Par contre, je dois partir à 14 heures pour une réunion. Si tu as besoin d'aide pour réserver, dis-le-moi. À vendredi !",
+   "tips": "Répondez précisément aux deux questions posées.",
+   "expected_points": [
+    "remercier",
+    "accepter",
+    "donner sa préférence et la justifier",
+    "information supplémentaire"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "présenter une activité",
+   "instructions": "Vous pratiquez une activité sportive ou artistique. Vous la présentez dans le journal de votre entreprise pour donner envie à vos collègues d'essayer (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Depuis trois ans, je pratique l'escalade dans une salle près du bureau, et je voudrais vous faire découvrir ce sport passionnant. L'escalade fait travailler tout le corps, mais aussi la concentration et la confiance en soi. On grimpe toujours à deux : l'un monte, l'autre l'assure avec une corde. Pas besoin d'être sportif pour commencer, les débutants sont très bien encadrés. La salle propose une séance découverte gratuite le jeudi soir. Venez essayer avec moi !",
+   "tips": "Donnez envie : utilisez des adjectifs positifs et terminez par une invitation.",
+   "expected_points": [
+    "présentation",
+    "bienfaits",
+    "fonctionnement",
+    "accessibilité",
+    "invitation"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "expliquer ses préférences",
+   "instructions": "Un magazine demande : « Pour vous informer, préférez-vous la presse écrite, la télévision ou les réseaux sociaux ? » Vous expliquez votre choix (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Pour m'informer, je privilégie la presse écrite, en particulier les sites de journaux reconnus. En effet, les articles sont généralement plus approfondis que les reportages télévisés, et je peux les lire à mon rythme. Les réseaux sociaux me permettent de découvrir rapidement l'actualité, mais je m'en méfie : les fausses informations y circulent facilement. Quant à la télévision, je la regarde surtout pour les grands événements. Finalement, l'important est de croiser plusieurs sources.",
+   "tips": "Utilisez « quant à » pour introduire un autre élément de comparaison.",
+   "expected_points": [
+    "choix clair",
+    "justification",
+    "comparaison avec les autres médias",
+    "conclusion"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous pose des questions sur vos loisirs, vos habitudes médiatiques et votre logement.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Que faites-vous pendant votre temps libre ?",
+    "Comment vous informez-vous ?",
+    "Écoutez-vous la radio ou des podcasts ?",
+    "Comment faites-vous des économies d'énergie chez vous ?",
+    "Pratiquez-vous un sport ?",
+    "Quel événement culturel vous a marqué récemment ?"
+   ],
+   "useful_phrases": [
+    "Pendant mon temps libre, j'aime…",
+    "Je m'informe surtout grâce à…",
+    "Chez moi, je fais attention à…",
+    "Je pratique… depuis…",
+    "Récemment, je suis allé(e)…"
+   ],
+   "model_answer": "Pendant mon temps libre, j'aime lire et aller au cinéma. Je m'informe surtout grâce à l'application d'un journal et à la radio le matin dans la voiture. Chez moi, je fais attention à éteindre les lumières et je ne chauffe pas trop les chambres. Je joue au football avec des amis le dimanche. Récemment, je suis allé à un concert de musique africaine qui m'a beaucoup plu."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Faire une réclamation",
+   "examiner_role": "Conseiller du fournisseur d'énergie",
+   "scenario": "Votre facture d'électricité a doublé alors que votre consommation n'a pas changé. L'examinateur joue le rôle d'un conseiller du fournisseur d'énergie. Expliquez le problème, posez des questions et demandez une solution.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Bonjour, je vous écoute.",
+    "Les prix de l'électricité ont augmenté cette année.",
+    "Votre compteur indique une forte consommation en janvier.",
+    "Avez-vous acheté de nouveaux appareils ?",
+    "Nous pouvons étaler le paiement sur six mois.",
+    "Souhaitez-vous qu'un technicien vienne vérifier ?"
+   ],
+   "useful_phrases": [
+    "Je ne comprends pas comment…",
+    "Ma consommation est identique à celle de l'an dernier.",
+    "Pourriez-vous vérifier… ?",
+    "Je souhaiterais qu'un technicien…",
+    "En attendant, est-ce que…"
+   ],
+   "model_answer": "Bonjour, j'ai reçu ma facture de janvier et elle a doublé par rapport à l'an dernier. Je ne comprends pas, car ma consommation est identique : je n'ai acheté aucun nouvel appareil. Même avec la hausse des prix, ce n'est pas normal. Pourriez-vous vérifier si le relevé du compteur est correct ? Je souhaiterais qu'un technicien vienne contrôler. En attendant, est-ce que je peux suspendre le paiement de cette facture ?"
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Les médias sont-ils encore fiables ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion : « Peut-on encore faire confiance aux médias pour s'informer ? » Argumentez, donnez des exemples, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Faites-vous confiance aux médias ?",
+    "Pourquoi certaines personnes s'en méfient-elles ?",
+    "Et les réseaux sociaux ?",
+    "Comment vérifier une information ?",
+    "Votre conclusion ?"
+   ],
+   "useful_phrases": [
+    "Je suis convaincu(e) que…",
+    "Cela s'explique notamment par…",
+    "Néanmoins…",
+    "Il ne faut cependant pas perdre de vue que…",
+    "En définitive…"
+   ],
+   "model_answer": "Je suis convaincu qu'on peut faire confiance à certains médias, à condition de rester vigilant. La méfiance actuelle s'explique notamment par la course au scoop et par la concentration des médias entre les mains de quelques grands groupes. Néanmoins, les journalistes sérieux vérifient leurs sources, contrairement à de nombreux comptes sur les réseaux sociaux. Il ne faut cependant pas perdre de vue que chacun doit comparer plusieurs sources. En définitive, la confiance se construit, elle ne se décrète pas."
+  }
+ ]
+}

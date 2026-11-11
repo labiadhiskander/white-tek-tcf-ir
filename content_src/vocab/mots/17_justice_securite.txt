@@ -1,0 +1,82 @@
+# Justice et sécurité
+justice | nom | f | B1 | Institution qui applique la loi. | La justice a condamné l'entreprise. | tribunaux | palais de justice, rendre justice
+tribunal | nom | m | B1 | Lieu où l'on juge. | L'affaire sera jugée devant le tribunal. | cour | tribunal correctionnel, porter devant le tribunal
+juge | nom | m | B1 | Magistrat qui rend la justice. | Le juge a prononcé une peine de prison avec sursis. | magistrat | juge d'instruction
+avocat | nom | m | A2 | Professionnel qui défend une personne en justice. | Son avocat a plaidé la légitime défense. | défenseur | avocat de la défense
+procès | nom | m | B1 | Affaire jugée devant un tribunal. | Le procès a duré trois semaines. | jugement | procès en appel, intenter un procès
+plainte | nom | f | B1 | Déclaration d'une victime à la justice. | Elle a porté plainte pour vol. | - | porter plainte, déposer une plainte
+porter plainte | expression | - | B1 | Déclarer une infraction à la police. | Il a porté plainte contre son voisin. | déposer plainte | porter plainte contre
+victime | nom | f | B1 | Personne qui subit un dommage. | Les victimes demandent réparation. | - | victime d'un vol, association de victimes
+accusé | nom | m | B2 | Personne accusée d'un crime. | L'accusé nie les faits. | prévenu | banc des accusés
+témoin | nom | m | B1 | Personne qui a vu un fait. | Un témoin a reconnu le voleur. | - | témoin oculaire, appel à témoins
+témoignage | nom | m | B2 | Déclaration d'un témoin. | Son témoignage a été décisif. | déposition | recueillir un témoignage
+preuve | nom | f | B1 | Élément qui démontre un fait. | La police manque de preuves. | indice | apporter la preuve
+indice | nom | m | B2 | Signe qui oriente une enquête. | Les enquêteurs ont relevé plusieurs indices. | piste | relever des indices
+enquête | nom | f | B1 | Recherche de la vérité sur un délit. | Une enquête a été ouverte. | investigation | ouvrir une enquête
+enquêteur | nom | m | B2 | Personne qui mène une enquête. | Les enquêteurs privilégient la piste criminelle. | policier | enquêteur privé
+suspect | nom | m | B1 | Personne soupçonnée. | Le suspect a été placé en garde à vue. | - | principal suspect
+garde à vue | nom | f | C1 | Détention provisoire au commissariat. | Il a passé 24 heures en garde à vue. | - | placer en garde à vue
+arrêter | verbe | - | A2 | Prendre un suspect. | La police a arrêté trois personnes. | interpeller | arrêter un voleur
+interpeller | verbe | - | C1 | Arrêter pour vérification. | Deux jeunes ont été interpellés après la bagarre. | appréhender | être interpellé
+condamner | verbe | - | B2 | Déclarer coupable et punir. | Il a été condamné à deux ans de prison. | sanctionner | condamner à une amende
+condamnation | nom | f | B2 | Décision qui déclare coupable. | La condamnation a été confirmée en appel. | sanction | condamnation définitive
+peine | nom | f | B2 | Sanction prononcée par un juge. | La peine maximale est de cinq ans. | sanction | peine de prison, purger sa peine
+sanction | nom | f | B2 | Punition. | Les sanctions contre les fraudeurs ont été renforcées. | punition | sanction pénale
+coupable | adjectif | - | B1 | Responsable d'une faute. | Il a été reconnu coupable de fraude. | responsable | plaider coupable
+innocent | adjectif | - | B1 | Qui n'a pas commis de faute. | Il clame son innocence. | non coupable | présumé innocent
+présomption d'innocence | nom | f | C1 | Principe selon lequel on est innocent jusqu'à preuve du contraire. | La presse doit respecter la présomption d'innocence. | - | atteinte à la présomption d'innocence
+acquitter | verbe | - | C1 | Déclarer non coupable. | Le jury a acquitté l'accusé. | innocenter | être acquitté
+verdict | nom | m | B2 | Décision d'un jury. | Le verdict sera rendu demain. | jugement | rendre un verdict
+faire appel | expression | - | B2 | Demander un nouveau jugement. | L'avocat a décidé de faire appel. | contester | faire appel d'une décision
+prison | nom | f | A2 | Lieu de détention. | Il a passé trois ans en prison. | établissement pénitentiaire | aller en prison
+détenu | nom | m | B2 | Personne en prison. | Les détenus suivent des formations. | prisonnier | réinsertion des détenus
+surpopulation carcérale | nom | f | C1 | Trop grand nombre de détenus en prison. | La surpopulation carcérale dégrade les conditions de détention. | - | lutter contre la surpopulation carcérale
+réinsertion | nom | f | C1 | Retour à une vie normale dans la société. | Le travail en prison favorise la réinsertion. | réintégration | réinsertion sociale
+récidive | nom | f | C1 | Fait de commettre à nouveau une infraction. | Le taux de récidive reste élevé. | rechute | prévenir la récidive
+peine alternative | nom | f | C1 | Sanction autre que la prison. | Les travaux d'intérêt général sont une peine alternative. | - | développer les peines alternatives
+travaux d'intérêt général | nom | m | C1 | Travail non payé imposé par un juge. | Il a été condamné à cent heures de travaux d'intérêt général. | TIG | effectuer des travaux d'intérêt général
+crime | nom | m | B1 | Infraction très grave. | Le meurtre est un crime. | - | commettre un crime
+délit | nom | m | B2 | Infraction de gravité moyenne. | Le vol est un délit. | infraction | délit de fuite
+infraction | nom | f | B2 | Violation de la loi. | Toute infraction sera sanctionnée. | violation | commettre une infraction
+délinquance | nom | f | B2 | Ensemble des délits commis. | La délinquance des mineurs inquiète les élus. | criminalité | délinquance juvénile
+délinquant | nom | m | B2 | Personne qui commet des délits. | Les jeunes délinquants sont suivis par un éducateur. | malfaiteur | jeune délinquant
+criminalité | nom | f | B2 | Ensemble des crimes. | La criminalité a baissé dans cette ville. | délinquance | lutte contre la criminalité
+vol | nom | m | A2 | Fait de prendre le bien d'autrui. | Les vols de vélos sont fréquents. | larcin | vol à l'arraché
+cambriolage | nom | m | B1 | Vol dans un logement. | Les cambriolages augmentent pendant les vacances. | effraction | victime d'un cambriolage
+cambrioler | verbe | - | B1 | Voler dans un lieu fermé. | Notre appartement a été cambriolé. | dévaliser | se faire cambrioler
+agression | nom | f | B1 | Attaque violente. | Il a été victime d'une agression dans la rue. | attaque | agression physique
+escroquerie | nom | f | B2 | Tromperie pour obtenir de l'argent. | Il est accusé d'escroquerie. | arnaque | escroquerie en ligne
+fraude | nom | f | B2 | Tromperie pour contourner la loi. | La fraude fiscale coûte des milliards à l'État. | tricherie | fraude fiscale
+trafic | nom | m | B2 | Commerce illégal. | Un réseau de trafic de drogue a été démantelé. | contrebande | trafic de drogue
+violence | nom | f | B1 | Usage de la force. | Les violences conjugales sont un fléau. | brutalité | violences conjugales
+harcèlement | nom | m | B2 | Fait de tourmenter quelqu'un de manière répétée. | Le harcèlement scolaire est puni par la loi. | persécution | harcèlement scolaire, harcèlement moral
+incivilités | nom | f | C1 | Petits comportements irrespectueux. | Les incivilités empoisonnent la vie du quartier. | impolitesses | lutter contre les incivilités
+vandalisme | nom | m | B2 | Destruction volontaire de biens. | L'abribus a été victime de vandalisme. | dégradation | acte de vandalisme
+police | nom | f | A1 | Force qui maintient l'ordre. | Appelez la police ! | forces de l'ordre | police municipale
+policier | nom | m | A2 | Membre de la police. | Les policiers patrouillent la nuit. | agent de police | policier en civil
+gendarmerie | nom | f | B2 | Force militaire chargée de la sécurité, surtout en zone rurale. | La gendarmerie enquête sur l'accident. | - | brigade de gendarmerie
+commissariat | nom | m | B1 | Bureau de police. | Il est allé au commissariat pour porter plainte. | poste de police | commissariat de police
+forces de l'ordre | nom | f | B2 | Police et gendarmerie. | Les forces de l'ordre ont dispersé la foule. | police | déploiement des forces de l'ordre
+patrouille | nom | f | B2 | Groupe qui surveille un lieu. | Une patrouille passe toutes les heures. | ronde | patrouille de police
+vidéosurveillance | nom | f | B2 | Surveillance par caméras. | La vidéosurveillance a permis d'identifier les auteurs. | caméras de surveillance | système de vidéosurveillance
+prévention | nom | f | B1 | Action pour éviter un risque. | La prévention est plus efficace que la répression. | anticipation | prévention de la délinquance
+répression | nom | f | C1 | Action de punir. | Le gouvernement mise sur la répression. | sanction | politique de répression
+sécurité | nom | f | B1 | Absence de danger. | La sécurité des usagers est notre priorité. | sûreté | sécurité routière, agent de sécurité
+sentiment d'insécurité | nom | m | C1 | Impression de ne pas être en sécurité. | Le sentiment d'insécurité ne correspond pas toujours aux chiffres. | peur | renforcer le sentiment d'insécurité
+terrorisme | nom | m | B2 | Violence pour imposer des idées par la peur. | La lutte contre le terrorisme mobilise les services de renseignement. | - | attentat terroriste
+attentat | nom | m | B2 | Attaque violente contre des personnes. | L'attentat a fait de nombreuses victimes. | attaque | attentat terroriste
+plan Vigipirate | nom | m | C1 | Dispositif français de sécurité contre le terrorisme. | Le plan Vigipirate a été renforcé. | - | niveau du plan Vigipirate
+légitime défense | nom | f | C1 | Droit de se défendre face à une agression. | Il a invoqué la légitime défense. | - | agir en légitime défense
+droit pénal | nom | m | C1 | Droit qui définit les infractions et les peines. | Elle s'est spécialisée en droit pénal. | - | avocat en droit pénal
+code pénal | nom | m | C1 | Recueil des lois pénales. | Le code pénal prévoit une peine de trois ans. | - | article du code pénal
+casier judiciaire | nom | m | C1 | Registre des condamnations d'une personne. | Il faut un casier judiciaire vierge pour ce poste. | - | casier judiciaire vierge
+amende | nom | f | B1 | Somme à payer pour une infraction. | Il a écopé d'une amende de 135 euros. | contravention | payer une amende
+dommages et intérêts | nom | m | C1 | Somme versée à la victime en réparation. | Il a été condamné à verser des dommages et intérêts. | indemnité | réclamer des dommages et intérêts
+réparation | nom | f | B2 | Compensation d'un préjudice. | Les victimes demandent réparation. | indemnisation | obtenir réparation
+préjudice | nom | m | C1 | Dommage subi. | Il a subi un préjudice moral important. | dommage | préjudice moral
+litige | nom | m | C1 | Conflit qui peut aller en justice. | Le litige a été réglé à l'amiable. | différend | régler un litige
+à l'amiable | locution | - | B2 | Sans passer par la justice. | Ils ont trouvé un accord à l'amiable. | par accord | régler à l'amiable
+juré | nom | m | C1 | Citoyen membre d'un jury. | Les jurés ont délibéré pendant six heures. | membre du jury | être tiré au sort comme juré
+mineur | nom | m | B2 | Personne de moins de 18 ans. | La justice des mineurs privilégie l'éducation. | jeune | justice des mineurs
+impunité | nom | f | C1 | Absence de punition. | Les victimes dénoncent l'impunité des agresseurs. | - | sentiment d'impunité
+État de droit | nom | m | C1 | Système où l'État est soumis à la loi. | L'indépendance des juges est la base de l'État de droit. | - | respecter l'État de droit

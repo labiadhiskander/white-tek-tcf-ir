@@ -1,0 +1,103 @@
+# Logement
+logement | nom | m | A2 | Lieu où l'on habite. | Trouver un logement à Paris est difficile. | habitation, domicile | chercher un logement, logement social
+loyer | nom | m | A2 | Somme payée chaque mois pour occuper un logement. | Le loyer augmente chaque année en janvier. | - | payer le loyer, loyer modéré
+locataire | nom | - | A2 | Personne qui loue un logement. | Le locataire doit entretenir l'appartement. | - | locataire principal, droits du locataire
+propriétaire | nom | - | A2 | Personne qui possède un bien. | Le propriétaire a refusé de baisser le loyer. | bailleur | devenir propriétaire, petit propriétaire
+bail | nom | m | B1 | Contrat de location. | Nous avons signé un bail de trois ans. | contrat de location | signer un bail, résilier un bail
+caution | nom | f | B1 | Somme versée en garantie ou personne qui garantit le paiement. | La caution vous sera rendue à votre départ. | dépôt de garantie, garant | verser une caution, se porter caution
+charges | nom | f | B1 | Frais communs d'un immeuble (eau, entretien...). | Le loyer est de 700 euros, charges comprises. | frais | charges comprises, charges locatives
+déménager | verbe | - | A2 | Quitter un logement pour aller dans un autre. | Nous allons déménager en juillet. | partir | déménager à, aider à déménager
+emménager | verbe | - | B1 | S'installer dans un nouveau logement. | Ils ont emménagé dans leur nouvelle maison hier. | s'installer | emménager dans, emménager ensemble
+colocation | nom | f | B1 | Partage d'un logement entre plusieurs locataires. | La colocation est fréquente chez les étudiants. | - | vivre en colocation, colocation intergénérationnelle
+colocataire | nom | - | B1 | Personne avec qui on partage un logement loué. | Mon colocataire travaille la nuit. | coloc (familier) | chercher un colocataire
+studio | nom | m | A2 | Petit appartement d'une seule pièce principale. | Elle loue un studio près de l'université. | - | studio meublé, petit studio
+pièce | nom | f | A2 | Partie d'un logement délimitée par des murs. | L'appartement compte trois pièces. | salle | deux-pièces, pièce principale
+quartier | nom | m | A2 | Partie d'une ville. | J'aime l'ambiance de mon quartier. | arrondissement, secteur | quartier animé, quartier résidentiel
+voisin | nom | m | A2 | Personne qui habite à côté. | Mes voisins sont très sympathiques. | - | voisin de palier, bons voisins
+voisinage | nom | m | B1 | Ensemble des voisins ; environs. | Le bruit dérange tout le voisinage. | environs | relations de voisinage, dans le voisinage
+immeuble | nom | m | A2 | Grand bâtiment de plusieurs étages. | J'habite au cinquième étage d'un immeuble. | bâtiment | immeuble ancien, gardien d'immeuble
+étage | nom | m | A1 | Niveau d'un bâtiment. | L'appartement est au troisième étage. | niveau | dernier étage, étage élevé
+ascenseur | nom | m | A2 | Appareil qui transporte entre les étages. | L'ascenseur est en panne depuis lundi. | - | prendre l'ascenseur, ascenseur en panne
+rez-de-chaussée | nom | m | A2 | Niveau d'un bâtiment au niveau de la rue. | Le local se trouve au rez-de-chaussée. | - | au rez-de-chaussée
+balcon | nom | m | A2 | Plate-forme extérieure d'un appartement. | Nous prenons le petit déjeuner sur le balcon. | terrasse | balcon fleuri
+terrasse | nom | f | A2 | Espace extérieur plat d'un logement ou d'un café. | L'appartement a une grande terrasse. | balcon | terrasse ensoleillée, en terrasse
+lumineux | adjectif | - | A2 | Qui reçoit beaucoup de lumière. | Le salon est très lumineux. | clair, ensoleillé | appartement lumineux
+spacieux | adjectif | - | B1 | Qui offre beaucoup d'espace. | La cuisine est spacieuse et bien équipée. | vaste, grand | logement spacieux
+exigu | adjectif | - | B2 | Trop petit, étroit. | Ils vivent à quatre dans un appartement exigu. | étroit, petit | pièce exiguë
+meublé | adjectif | - | A2 | Équipé de meubles. | Je cherche un studio meublé. | équipé | location meublée
+isolation | nom | f | B1 | Protection contre le froid, la chaleur ou le bruit. | L'isolation de la maison est mauvaise. | - | isolation thermique, isolation phonique
+chauffage | nom | m | A2 | Système qui chauffe un logement. | Le chauffage ne fonctionne plus. | - | chauffage central, allumer le chauffage
+humidité | nom | f | B1 | Présence d'eau dans l'air ou les murs. | Il y a de l'humidité dans la salle de bains. | - | traces d'humidité
+travaux | nom | m | A2 | Opérations de construction ou de réparation. | Nous faisons des travaux dans la cuisine. | rénovation | faire des travaux, travaux de rénovation
+rénover | verbe | - | B1 | Remettre à neuf. | Ils ont rénové une vieille ferme. | restaurer, remettre à neuf | rénover un appartement
+rénovation | nom | f | B1 | Action de remettre à neuf. | La rénovation a duré six mois. | restauration | rénovation énergétique
+agence immobilière | nom | f | B1 | Entreprise qui loue ou vend des logements. | Nous sommes passés par une agence immobilière. | - | frais d'agence
+annonce | nom | f | A2 | Texte qui propose un logement, un emploi, etc. | J'ai trouvé l'appartement grâce à une annonce. | offre | petite annonce, annonce immobilière
+visite | nom | f | A2 | Fait de voir un logement avant de le louer. | La visite de l'appartement a lieu samedi. | - | organiser une visite
+dossier | nom | m | B1 | Ensemble de documents à fournir. | Mon dossier de location est complet. | - | dossier de location, constituer un dossier
+garant | nom | m | B1 | Personne qui s'engage à payer à la place du locataire. | Le propriétaire exige un garant. | caution | avoir un garant
+état des lieux | nom | m | B2 | Document qui décrit l'état du logement. | L'état des lieux de sortie s'est bien passé. | - | faire l'état des lieux
+préavis | nom | m | B2 | Délai à respecter avant de quitter un logement. | Le préavis est d'un mois en zone tendue. | délai | donner son préavis
+expulsion | nom | f | B2 | Fait d'obliger quelqu'un à quitter un logement. | La loi protège contre l'expulsion en hiver. | - | menace d'expulsion
+sans-abri | nom | - | B1 | Personne qui n'a pas de logement. | Les associations aident les sans-abri. | SDF | aider les sans-abri
+hébergement | nom | m | B1 | Fait de loger quelqu'un. | La ville propose un hébergement d'urgence. | logement | hébergement d'urgence
+loger | verbe | - | B1 | Habiter ou faire habiter quelque part. | Je loge chez un ami pendant un mois. | héberger, habiter | loger chez quelqu'un
+héberger | verbe | - | B1 | Loger quelqu'un chez soi. | Ils hébergent leur neveu cette année. | accueillir, loger | héberger un ami
+résidence | nom | f | B1 | Lieu où l'on habite ; ensemble d'immeubles. | Il habite dans une résidence étudiante. | domicile | résidence principale, résidence secondaire
+domicile | nom | m | B1 | Lieu d'habitation officiel. | Indiquez l'adresse de votre domicile. | logement | à domicile, justificatif de domicile
+pavillon | nom | m | B1 | Maison individuelle en banlieue. | Ils ont acheté un pavillon avec jardin. | maison individuelle | pavillon de banlieue
+banlieue | nom | f | A2 | Zone autour d'une grande ville. | Il habite en banlieue et travaille à Paris. | périphérie | proche banlieue
+périphérie | nom | f | B2 | Zone autour d'un centre. | Les familles s'installent en périphérie. | banlieue | en périphérie, périphérie urbaine
+copropriété | nom | f | B2 | Immeuble possédé à plusieurs. | La copropriété a voté des travaux. | - | syndic de copropriété
+syndic | nom | m | B2 | Personne ou société qui gère un immeuble. | Le syndic n'a pas répondu à notre demande. | gestionnaire | syndic de copropriété
+gardien | nom | m | A2 | Personne qui surveille un immeuble. | Le gardien distribue le courrier. | concierge | gardien d'immeuble
+concierge | nom | - | B1 | Gardien d'immeuble. | La concierge connaît tous les habitants. | gardien | loge du concierge
+cave | nom | f | A2 | Pièce souterraine pour ranger. | Nous rangeons nos vélos à la cave. | sous-sol | descendre à la cave
+grenier | nom | m | B1 | Espace sous le toit d'une maison. | Les vieux jouets sont au grenier. | combles | ranger au grenier
+combles | nom | m | B2 | Espace sous la toiture. | Ils ont aménagé les combles en chambre. | grenier | isoler les combles
+toit | nom | m | A2 | Partie qui couvre un bâtiment. | Il faut réparer le toit avant l'hiver. | toiture | sur le toit
+fuite | nom | f | B1 | Écoulement anormal d'eau ou de gaz. | Il y a une fuite d'eau dans la cuisine. | - | fuite d'eau, réparer une fuite
+plombier | nom | m | A2 | Artisan qui répare les installations d'eau. | J'ai appelé le plombier pour la fuite. | - | appeler un plombier
+serrure | nom | f | B1 | Mécanisme qui ferme une porte à clé. | Il faut changer la serrure. | - | changer la serrure
+emprunt | nom | m | B1 | Somme prêtée par une banque. | Ils ont fait un emprunt sur vingt ans. | prêt, crédit | emprunt immobilier
+crédit immobilier | nom | m | B2 | Prêt pour acheter un logement. | Les taux du crédit immobilier ont augmenté. | prêt immobilier | obtenir un crédit immobilier
+acquérir | verbe | - | B2 | Devenir propriétaire de. | Ils ont acquis un appartement en centre-ville. | acheter | acquérir un bien
+bien immobilier | nom | m | B2 | Maison, appartement ou terrain. | Le prix des biens immobiliers a baissé. | propriété | vendre un bien immobilier
+mètre carré | nom | m | B1 | Unité de surface. | Le prix du mètre carré est très élevé ici. | - | prix au mètre carré
+surface | nom | f | B1 | Étendue d'un logement. | Quelle est la surface de l'appartement ? | superficie | surface habitable
+loyer modéré | nom | m | B1 | Loyer inférieur aux prix du marché. | Ils vivent dans un logement à loyer modéré. | - | habitation à loyer modéré
+HLM | nom | m | B1 | Habitation à loyer modéré. | Ils ont obtenu un HLM après deux ans d'attente. | logement social | demande de HLM
+pénurie | nom | f | B2 | Manque grave. | Il y a une pénurie de logements étudiants. | manque | pénurie de logements
+insalubre | adjectif | - | B2 | Dangereux pour la santé. | Ce logement insalubre doit être rénové. | malsain | logement insalubre
+vétuste | adjectif | - | C1 | Vieux et en mauvais état. | L'immeuble est vétuste et mal isolé. | délabré | bâtiment vétuste
+délabré | adjectif | - | B2 | En très mauvais état. | La maison est complètement délabrée. | vétuste, abîmé | bâtiment délabré
+bruyant | adjectif | - | A2 | Qui fait beaucoup de bruit. | La rue est bruyante la nuit. | - | quartier bruyant
+calme | adjectif | - | A1 | Sans bruit, paisible. | Je cherche un quartier calme. | tranquille, paisible | rue calme
+orienté | adjectif | - | B1 | Tourné vers une direction. | Le salon est orienté plein sud. | exposé | bien orienté
+exposition | nom | f | B2 | Orientation par rapport au soleil. | L'exposition au sud rend l'appartement chaud. | orientation | bonne exposition
+emplacement | nom | m | B1 | Lieu où se trouve quelque chose. | Le logement a un excellent emplacement. | situation | bon emplacement
+desservi | adjectif | - | B2 | Accessible par les transports. | Le quartier est bien desservi par le bus. | relié | bien desservi
+proximité | nom | f | B1 | Fait d'être proche. | La proximité des écoles est un atout. | voisinage | à proximité de
+aménager | verbe | - | B1 | Organiser un espace pour un usage. | Ils ont aménagé une chambre pour le bébé. | arranger, installer | aménager une pièce
+équipé | adjectif | - | A2 | Muni du matériel nécessaire. | La cuisine est entièrement équipée. | meublé | cuisine équipée
+électroménager | nom | m | B1 | Appareils ménagers électriques. | L'électroménager est compris dans la location. | - | appareils électroménagers
+facture | nom | f | A2 | Document indiquant une somme à payer. | La facture d'électricité est arrivée. | note | facture d'eau, payer une facture
+compteur | nom | m | B1 | Appareil qui mesure la consommation. | Le technicien relève le compteur. | - | compteur électrique, relever le compteur
+abonnement | nom | m | A2 | Contrat pour un service régulier. | J'ai souscrit un abonnement Internet. | - | abonnement d'électricité
+assurance habitation | nom | f | B1 | Assurance qui couvre le logement. | L'assurance habitation est obligatoire pour les locataires. | - | souscrire une assurance habitation
+sinistre | nom | m | B2 | Dommage couvert par une assurance. | Déclarez le sinistre dans les cinq jours. | dégât | déclarer un sinistre
+dégât des eaux | nom | m | B2 | Dommage causé par une fuite d'eau. | Un dégât des eaux a abîmé le plafond. | - | constat de dégât des eaux
+squatter | verbe | - | B2 | Occuper un logement sans autorisation. | Des personnes squattent l'immeuble abandonné. | occuper | squatter un bâtiment
+vacant | adjectif | - | B2 | Qui n'est pas occupé. | De nombreux logements restent vacants. | vide, libre | logement vacant
+spéculation | nom | f | C1 | Achat pour revendre avec profit. | La spéculation fait monter les prix. | - | spéculation immobilière
+gentrification | nom | f | C1 | Arrivée de populations aisées dans un quartier populaire. | La gentrification transforme ce quartier. | embourgeoisement | gentrification urbaine
+mixité | nom | f | B2 | Mélange de populations différentes. | La ville favorise la mixité sociale. | diversité | mixité sociale
+cohabiter | verbe | - | B2 | Vivre ensemble au même endroit. | Trois générations cohabitent dans cette maison. | vivre ensemble | cohabiter avec
+habitat | nom | m | B2 | Mode d'organisation du logement. | L'habitat partagé se développe. | logement | habitat collectif, habitat participatif
+foyer | nom | m | B1 | Logement familial ; famille. | Chaque foyer reçoit un questionnaire. | ménage, maison | foyer fiscal, foyer étudiant
+ménage | nom | m | B1 | Ensemble des personnes d'un logement ; nettoyage. | Les ménages modestes sont touchés. Je fais le ménage le samedi. | foyer | faire le ménage, ménages modestes
+salon | nom | m | A1 | Pièce où l'on reçoit et se détend. | Nous regardons la télévision au salon. | séjour | salon spacieux
+quittance | nom | f | B2 | Document prouvant le paiement du loyer. | Le propriétaire envoie une quittance chaque mois. | reçu | quittance de loyer
+parquet | nom | m | B1 | Sol en bois. | L'appartement a un beau parquet ancien. | plancher | parquet en chêne
+jardin | nom | m | A1 | Terrain cultivé autour d'une maison. | Les enfants jouent dans le jardin. | potager | jardin partagé
+déménageur | nom | m | B1 | Professionnel qui transporte les meubles. | Les déménageurs arrivent à huit heures. | - | engager des déménageurs

@@ -1,0 +1,490 @@
+@code EXAM-20
+@title Examen blanc n° 20 – Synthèse : francophonie, générations et avenir
+@level B2
+@description Examen de synthèse calibré B1–B2 : francophonie, transmission entre générations, villes intelligentes, déconnexion et lenteur, avenir du travail.
+
+## CO 1 | A2 | message téléphonique | information précise | F:fr-CA
+DOC: F: Bonjour Marc, c'est Julie. Le cours de français pour les nouveaux arrivants commence lundi prochain, à 19 heures, au centre communautaire. Apporte une pièce d'identité. À lundi !
+Q: Que doit apporter Marc ?
++ Une pièce d'identité. | « Apporte une pièce d'identité ».
+- Un dictionnaire. | Ce n'est pas dit.
+- Une photo. | Ce n'est pas dit.
+- De l'argent. | Ce n'est pas dit.
+EXP: L'impératif « apporte » signale ce qu'il faut prendre.
+
+## CO 2 | A2 | annonce publique | information précise | H:fr-FR
+DOC: H: Mesdames et messieurs, la médiathèque organise samedi un atelier « Grands-parents et petits-enfants » : les enfants apprennent aux aînés à utiliser une tablette. L'atelier a lieu de 14 heures à 16 heures, salle 2. Inscription gratuite à l'accueil.
+Q: Où a lieu l'atelier ?
++ Dans la salle 2. | « salle 2 ».
+- À l'accueil. | On s'y inscrit seulement.
+- Dans la salle 14. | 14 heures est l'horaire.
+- Au premier étage. | Ce n'est pas dit.
+EXP: Distinguez le lieu de l'activité et le lieu d'inscription.
+
+## CO 3 | A2 | conversation quotidienne | information précise | H:fr-FR, F:fr-FR
+DOC: H: Tu as l'air reposée ! / F: Oui, j'ai passé le week-end sans téléphone. Je l'ai laissé dans un tiroir de vendredi soir à lundi matin. / H: Et alors ? / F: J'ai lu deux livres et je me suis promenée en forêt. C'était génial.
+Q: Qu'a fait la femme pendant le week-end ?
++ Elle a lu et s'est promenée. | « J'ai lu deux livres et je me suis promenée ».
+- Elle a travaillé. | Ce n'est pas dit.
+- Elle a acheté un téléphone. | Elle l'a rangé dans un tiroir.
+- Elle est restée au lit. | Elle s'est promenée en forêt.
+EXP: Repérez les verbes au passé composé qui décrivent les activités.
+
+## CO 4 | B1 | conversation quotidienne | intention | F:fr-BE, H:fr-BE
+DOC: F: Tu sais que Papy a commencé à écrire ses souvenirs ? / H: Ah oui ? Sur la guerre et sur son métier de mineur ? / F: Exactement. Mais il écrit à la main et il a du mal à se relire. Tu pourrais l'aider à tout taper à l'ordinateur, toi qui tapes vite ?
+Q: Que demande la femme ?
++ D'aider le grand-père à taper ses souvenirs. | « Tu pourrais l'aider à tout taper ».
+- D'écrire un livre sur la guerre. | C'est le grand-père qui écrit.
+- D'acheter un ordinateur. | Ce n'est pas dit.
+- De devenir mineur. | C'était le métier du grand-père.
+EXP: Le conditionnel « tu pourrais » exprime une demande polie.
+
+## CO 5 | B1 | annonce publique | information détaillée | H:fr-CH
+DOC: H: À partir du 1er mars, les lampadaires de la ville s'allumeront uniquement lorsqu'un piéton ou un véhicule passera à proximité. Ce système, équipé de capteurs, doit permettre de réduire de 60 % la consommation d'électricité de l'éclairage public.
+Q: Quand les lampadaires s'allumeront-ils ?
++ Quand quelqu'un passera à proximité. | « lorsqu'un piéton ou un véhicule passera ».
+- Toute la nuit. | C'est le système actuel.
+- À partir de 60 heures. | 60 % est l'économie prévue.
+- Seulement en mars. | Mars est la date de début.
+EXP: « Lorsque » introduit la condition temporelle.
+
+## CO 6 | B1 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous travaillez quatre jours par semaine depuis un an. Quel bilan ? / H: Très positif. Je suis plus concentré, je m'occupe davantage de mes enfants. Le seul inconvénient, c'est que les journées sont plus longues : je finis à 19 heures au lieu de 17 heures.
+Q: Quel inconvénient l'homme mentionne-t-il ?
++ Des journées de travail plus longues. | « les journées sont plus longues ».
+- Un salaire plus bas. | Ce n'est pas dit.
+- Moins de temps avec ses enfants. | C'est l'inverse.
+- Des difficultés de concentration. | Il est plus concentré.
+EXP: « Le seul inconvénient, c'est » annonce la réserve.
+
+## CO 7 | B1 | information radio | information globale | F:fr-CA
+DOC: F: À Montréal, la Semaine de la francophonie a attiré plus de 40 000 visiteurs. Au programme : concerts, dictées géantes, rencontres d'auteurs venus d'Haïti, du Sénégal ou de Belgique. Les organisateurs veulent montrer que le français est une langue vivante, parlée sur cinq continents.
+Q: Quel est l'objectif des organisateurs ?
++ Montrer la vitalité et la diversité du français. | « une langue vivante, parlée sur cinq continents ».
+- Vendre des livres. | Ce n'est pas l'objectif dit.
+- Enseigner l'anglais. | Ce n'est pas dit.
+- Organiser un concours de chant. | Les concerts ne sont qu'une activité.
+EXP: « Veulent montrer que » exprime le but.
+
+## CO 8 | B1 | conversation quotidienne | sentiment | H:fr-FR, F:fr-FR
+DOC: H: Alors, ton nouveau quartier « intelligent » ? / F: Franchement, je suis partagée. C'est pratique : l'appli me dit où il y a des places de parking. Mais il y a des caméras partout, et je n'aime pas trop l'idée d'être observée en permanence.
+Q: Que ressent la femme ?
++ Des sentiments mitigés. | « je suis partagée ».
+- Un enthousiasme total. | Elle a des réserves.
+- De la colère. | Ce n'est pas si fort.
+- De l'indifférence. | Elle exprime un avis.
+EXP: « Partagé » signifie qu'on hésite entre deux opinions.
+
+## CO 9 | B1 | message téléphonique | information précise | H:fr-FR
+DOC: H: Bonjour Madame Diallo, ici le service des ressources humaines. Votre demande de télétravail a été acceptée : deux jours par semaine, le mardi et le jeudi, à partir du mois prochain. Merci de signer l'avenant à votre contrat avant vendredi.
+Q: Que doit faire Madame Diallo ?
++ Signer un avenant avant vendredi. | « Merci de signer l'avenant… avant vendredi ».
+- Venir au bureau le mardi. | Le mardi est télétravaillé.
+- Refaire une demande. | Elle est acceptée.
+- Appeler les ressources humaines. | Ce n'est pas demandé.
+EXP: « Merci de » formule une demande dans un registre professionnel.
+
+## CO 10 | B1 | interview | cause | F:fr-FR, H:fr-FR
+DOC: F: Pourquoi avez-vous quitté Paris pour une petite ville de province ? / H: J'en avais assez de courir tout le temps. Une heure de métro matin et soir, plus aucun temps pour moi. Ici, je vais au travail à pied et je prends le temps de vivre.
+Q: Pourquoi l'homme a-t-il quitté Paris ?
++ À cause du rythme de vie trop rapide. | « J'en avais assez de courir tout le temps ».
+- Pour un meilleur salaire. | Ce n'est pas dit.
+- Pour se rapprocher de sa famille. | Ce n'est pas dit.
+- Parce qu'il a perdu son emploi. | Ce n'est pas dit.
+EXP: « En avoir assez de » exprime la lassitude, donc la cause.
+
+## CO 11 | B2 | information radio | information détaillée | H:fr-FR
+DOC: H: Selon l'Organisation internationale de la Francophonie, on compte aujourd'hui plus de 320 millions de locuteurs du français dans le monde. D'ici 2050, ce nombre pourrait dépasser 700 millions, principalement grâce à la croissance démographique de l'Afrique, où vivent déjà plus de la moitié des francophones.
+Q: Pourquoi le nombre de francophones devrait-il augmenter ?
++ En raison de la croissance démographique africaine. | « principalement grâce à la croissance démographique de l'Afrique ».
+- Grâce aux cours en ligne. | Ce n'est pas dit.
+- Parce que l'Europe adopte le français. | Ce n'est pas dit.
+- À cause de l'immigration en France. | Ce n'est pas dit.
+EXP: « Grâce à » introduit une cause positive.
+
+## CO 12 | B2 | débat | opinion | F:fr-FR, H:fr-FR
+DOC: F: Le droit à la déconnexion existe dans la loi depuis 2017. Est-il respecté ? / H: Sur le papier, oui. Dans les faits, beaucoup de cadres continuent de lire leurs courriels le soir, non pas parce qu'on les y oblige, mais parce qu'ils craignent de paraître moins investis que leurs collègues.
+Q: Selon l'homme, pourquoi les cadres lisent-ils leurs courriels le soir ?
++ Par peur de paraître moins impliqués. | « ils craignent de paraître moins investis ».
+- Parce que la loi l'exige. | La loi protège la déconnexion.
+- Parce que leur patron les y oblige. | « non pas parce qu'on les y oblige ».
+- Parce qu'ils aiment travailler la nuit. | Ce n'est pas dit.
+EXP: « Non pas parce que… mais parce que » écarte une cause pour en retenir une autre.
+
+## CO 13 | B2 | chronique | sens d'une expression | F:fr-BE
+DOC: F: Ma grand-mère disait toujours : « Il faut laisser le temps au temps. » Je ne comprenais pas. Aujourd'hui, quand je vois mes enfants s'impatienter si une vidéo met trois secondes à charger, je mesure à quel point ce conseil est précieux.
+Q: Que signifie « laisser le temps au temps » ?
++ Être patient et ne pas tout vouloir immédiatement. | La suite oppose ce conseil à l'impatience.
+- Arriver toujours en avance. | Ce n'est pas le sens.
+- Ne jamais regarder l'heure. | Ce n'est pas le sens.
+- Perdre son temps. | Ce n'est pas le sens.
+EXP: Le contexte (l'impatience des enfants) éclaire l'expression.
+
+## CO 14 | B2 | interview | information détaillée | H:fr-CH, F:fr-CH
+DOC: H: Votre entreprise forme les jeunes par le compagnonnage. Comment ça marche ? / F: Chaque apprenti est associé à un ouvrier expérimenté, souvent proche de la retraite, pendant deux ans. Le senior transmet ses gestes, et le jeune lui apprend en retour à utiliser les nouveaux logiciels de conception. C'est un échange dans les deux sens.
+Q: Qu'apporte le jeune à l'ouvrier expérimenté ?
++ La maîtrise des nouveaux logiciels. | « le jeune lui apprend… les nouveaux logiciels ».
+- Des gestes techniques. | C'est ce que transmet le senior.
+- Un salaire supplémentaire. | Ce n'est pas dit.
+- Une formation de deux ans. | C'est la durée du dispositif.
+EXP: « En retour » marque la réciprocité.
+
+## CO 15 | B2 | information radio | relation logique | H:fr-FR
+DOC: H: Les villes qui ont installé des capteurs pour mesurer la qualité de l'air en temps réel ont pu réagir plus vite lors des pics de pollution. Toutefois, ces données ne servent à rien si elles ne débouchent pas sur des décisions concrètes, comme la réduction de la circulation.
+Q: Quelle réserve est exprimée ?
++ Les données sont inutiles sans décisions concrètes. | « ne servent à rien si elles ne débouchent pas sur des décisions ».
+- Les capteurs coûtent trop cher. | Ce n'est pas dit.
+- Les capteurs sont souvent en panne. | Ce n'est pas dit.
+- La pollution a disparu. | Ce n'est pas dit.
+EXP: « Toutefois » introduit une restriction.
+
+## CO 16 | B2 | témoignage | sentiment | F:fr-CA
+DOC: F: Quand je suis arrivée du Québec à Lyon, je pensais que parler la même langue suffirait. J'ai vite déchanté : les expressions, l'humour, même certains mots du quotidien étaient différents. Aujourd'hui, j'en ris, mais les premiers mois, je me suis sentie étrangère dans ma propre langue.
+Q: Qu'a ressenti la femme à son arrivée ?
++ Un sentiment d'étrangeté malgré la langue commune. | « je me suis sentie étrangère dans ma propre langue ».
+- Une joie immédiate. | Elle a « déchanté ».
+- Aucune difficulté. | Elle en a eu.
+- De la colère contre les Lyonnais. | Ce n'est pas dit.
+EXP: « Déchanter » signifie perdre ses illusions.
+
+## CO 17 | B2 | débat | arguments | H:fr-FR, F:fr-FR
+DOC: H: L'intelligence artificielle va détruire des millions d'emplois ! / F: Elle en transformera surtout beaucoup. Rappelez-vous : on craignait la même chose avec l'informatique dans les années 1980. Des métiers ont disparu, d'autres sont apparus. La vraie question, c'est la formation : saurons-nous préparer les travailleurs à ces changements ?
+Q: Quel argument la femme utilise-t-elle ?
++ Une comparaison historique avec l'informatique. | « on craignait la même chose avec l'informatique ».
+- Des statistiques précises. | Elle n'en donne pas.
+- L'avis d'un expert. | Ce n'est pas dit.
+- Son expérience personnelle. | Ce n'est pas dit.
+EXP: « Rappelez-vous » introduit un exemple historique.
+
+## CO 18 | B2 | information radio | information précise | F:fr-FR
+DOC: F: Le programme « Un toit, deux générations » met en relation des étudiants qui cherchent un logement et des personnes âgées qui vivent seules. L'étudiant est logé gratuitement ou pour un loyer modeste, en échange d'une présence le soir et de petits services. Plus de 3 000 binômes ont été formés l'an dernier.
+Q: Que donne l'étudiant en échange du logement ?
++ Une présence le soir et de petits services. | « en échange d'une présence le soir et de petits services ».
+- Un loyer élevé. | Le loyer est gratuit ou modeste.
+- Des cours particuliers. | Ce n'est pas dit.
+- Des travaux de rénovation. | Ce n'est pas dit.
+EXP: « En échange de » introduit une contrepartie.
+
+## CO 19 | B2 | chronique | intention | H:fr-BE
+DOC: H: On nous vend la « ville intelligente » comme la solution à tous nos maux. Mais une ville vraiment intelligente, c'est peut-être d'abord une ville où l'on peut s'asseoir sur un banc à l'ombre d'un arbre, où les enfants jouent dans la rue et où l'on connaît son boulanger.
+Q: Quelle est l'intention du chroniqueur ?
++ Proposer une autre définition de la ville intelligente. | « une ville vraiment intelligente, c'est peut-être d'abord… ».
+- Faire la publicité des capteurs. | Il s'en distancie.
+- Décrire un projet municipal. | Ce n'est pas un projet précis.
+- Critiquer les boulangers. | Ce n'est pas le cas.
+EXP: « Vraiment » et « d'abord » redéfinissent le concept.
+
+## CO 20 | B2 | interview | information globale | F:fr-FR, H:fr-FR
+DOC: F: Vous avez créé une école de langue en ligne pour les enfants de la diaspora. Pourquoi ? / H: Beaucoup de parents installés à l'étranger constatent que leurs enfants comprennent le français, mais ne le parlent plus. Ils craignent qu'ils perdent le lien avec leurs grands-parents et leur culture. Nos cours, ludiques, visent à maintenir ce lien.
+Q: Quel est le but de cette école ?
++ Maintenir le lien linguistique et culturel des enfants expatriés. | « visent à maintenir ce lien ».
+- Apprendre l'anglais aux enfants. | Ce n'est pas dit.
+- Former des professeurs. | Ce n'est pas dit.
+- Organiser des voyages. | Ce n'est pas dit.
+EXP: « Viser à » exprime le but.
+
+## CO 21 | C1 | débat | sous-entendu | H:fr-FR, F:fr-FR
+DOC: H: Notre entreprise accorde une grande importance à l'équilibre entre vie professionnelle et vie personnelle. / F: C'est sans doute pour cela que vous m'avez envoyé quatre courriels dimanche dernier, dont un à 23 heures ?
+Q: Que sous-entend la femme ?
++ Que le discours de l'entreprise ne correspond pas à la réalité. | Les courriels du dimanche contredisent l'affirmation.
+- Qu'elle apprécie recevoir des courriels. | Elle ironise.
+- Que l'entreprise respecte la vie privée. | C'est l'inverse.
+- Qu'elle n'a pas lu les courriels. | Ce n'est pas dit.
+EXP: La fausse question souligne l'écart entre discours et pratique.
+
+## CO 22 | B2 | information radio | information détaillée | F:fr-FR
+DOC: F: Une étude menée auprès de 2 000 salariés montre que ceux qui coupent leurs notifications professionnelles après 19 heures dorment en moyenne quarante minutes de plus que les autres. Ils se déclarent également moins stressés, sans que leur productivité soit affectée.
+Q: Quel effet sur la productivité est constaté ?
++ Aucun effet négatif. | « sans que leur productivité soit affectée ».
+- Une forte baisse. | Elle n'est pas affectée.
+- Une hausse de 40 %. | Quarante minutes concernent le sommeil.
+- Elle n'a pas été mesurée. | Elle est mentionnée.
+EXP: « Sans que » + subjonctif indique une conséquence qui ne se produit pas.
+
+## CO 23 | C1 | chronique | thèse | H:fr-FR
+DOC: H: On accuse volontiers les jeunes de ne plus rien vouloir apprendre des anciens. C'est oublier que la transmission ne se décrète pas : elle suppose que les aînés acceptent, eux aussi, de se laisser surprendre par ce que les jeunes ont à leur enseigner. Une transmission à sens unique n'est qu'un monologue.
+Q: Quelle est la thèse du chroniqueur ?
++ La transmission doit être réciproque entre générations. | « Une transmission à sens unique n'est qu'un monologue ».
+- Les jeunes refusent d'apprendre. | Il conteste ce reproche.
+- Les aînés n'ont rien à transmettre. | Ce n'est pas dit.
+- La transmission doit être imposée par la loi. | « Elle ne se décrète pas ».
+EXP: La formule finale résume la thèse.
+
+## CO 24 | C1 | débat | nuance | F:fr-CH, H:fr-CH
+DOC: F: La lenteur est-elle un luxe réservé à ceux qui en ont les moyens ? / H: En partie, oui. Ralentir suppose une sécurité matérielle que tout le monde n'a pas : la caissière qui cumule deux emplois ne peut guère s'offrir un stage de méditation. Pour autant, je refuse d'en faire un simple caprice de privilégiés : réclamer du temps pour soi, c'est aussi une revendication sociale.
+Q: Quelle est la position nuancée de l'homme ?
++ La lenteur est en partie un privilège, mais aussi une revendication légitime. | « En partie, oui… Pour autant, je refuse d'en faire un simple caprice ».
+- La lenteur est accessible à tous. | Il reconnaît des inégalités.
+- La lenteur est un pur caprice. | Il le refuse.
+- La méditation est obligatoire. | Ce n'est pas dit.
+EXP: « En partie » puis « pour autant » construisent la nuance.
+
+## CO 25 | C1 | information radio | relation logique | H:fr-FR
+DOC: H: Si le télétravail a permis à de nombreux salariés de gagner du temps de transport, il a aussi brouillé la frontière entre domicile et bureau. Faute de rituels marquant la fin de la journée, certains travaillent davantage qu'auparavant, au point que des médecins observent une hausse des cas d'épuisement professionnel.
+Q: Quelle est la conséquence de l'absence de rituels de fin de journée ?
++ Certains salariés travaillent plus, jusqu'à l'épuisement. | « au point que des médecins observent une hausse des cas d'épuisement ».
+- Les salariés gagnent du temps de transport. | C'est un avantage du télétravail.
+- Les salariés retournent au bureau. | Ce n'est pas dit.
+- Les médecins recommandent le télétravail. | Ce n'est pas dit.
+EXP: « Faute de » introduit la cause, « au point que » la conséquence.
+
+## CE 1 | A2 | annonce | information précise
+DOC: CAFÉ DES LANGUES – Tous les jeudis, de 18 h à 20 h, au café Le Globe. Venez parler français, espagnol ou arabe avec des personnes du monde entier. Entrée libre. Une boisson offerte aux nouveaux participants.
+Q: Que reçoivent les nouveaux participants ?
++ Une boisson. | « Une boisson offerte aux nouveaux participants ».
+- Un livre. | Ce n'est pas dit.
+- Un cours gratuit. | Ce n'est pas dit.
+- Une réduction. | Ce n'est pas dit.
+EXP: « Offert » signifie gratuit, donné.
+
+## CE 2 | A2 | message | information précise
+DOC: Salut Lina ! Mamie veut nous apprendre sa recette de tarte aux pommes dimanche. Rendez-vous chez elle à 10 h. Apporte un tablier ! Les pommes, c'est elle qui les a. Bisous, Sarah
+Q: Qu'est-ce que Lina doit apporter ?
++ Un tablier. | « Apporte un tablier ».
+- Des pommes. | La grand-mère les a.
+- Une tarte. | Elles vont la préparer.
+- Un livre de recettes. | Ce n'est pas dit.
+EXP: Repérez l'impératif adressé à Lina.
+
+## CE 3 | A2 | affiche | information précise
+DOC: JOURNÉE SANS ÉCRAN – Samedi 15 mai, la mairie vous invite à éteindre vos écrans ! Au programme dans le parc : jeux de société, lecture de contes, pique-nique géant. Apportez votre repas. Activités gratuites.
+Q: Que faut-il apporter ?
++ Son repas. | « Apportez votre repas ».
+- Un jeu de société. | Ce n'est pas demandé.
+- Une tablette. | C'est une journée sans écran.
+- De l'argent. | Les activités sont gratuites.
+EXP: « Apportez » indique ce que chacun doit prévoir.
+
+## CE 4 | B1 | courriel | intention
+DOC: Bonjour Monsieur Petit, je travaille dans votre entreprise depuis 38 ans et je partirai à la retraite en juin. Avant mon départ, j'aimerais former la personne qui me remplacera, afin de lui transmettre mes connaissances sur nos clients historiques. Pourriez-vous me dire qui sera recruté ? Cordialement, Jacqueline Morel
+Q: Pourquoi Madame Morel écrit-elle ?
++ Pour former son remplaçant avant son départ. | « j'aimerais former la personne qui me remplacera ».
+- Pour demander une augmentation. | Ce n'est pas dit.
+- Pour reporter sa retraite. | Elle part en juin.
+- Pour se plaindre d'un client. | Ce n'est pas dit.
+EXP: « Afin de » exprime le but de la démarche.
+
+## CE 5 | B1 | article de presse | information détaillée
+DOC: Depuis septembre, la ville d'Angers propose une application qui indique en temps réel les places libres dans les parkings et les vélos disponibles. En six mois, le temps moyen passé à chercher une place a baissé de dix minutes, selon la mairie.
+Q: Quel résultat la mairie annonce-t-elle ?
++ Dix minutes de moins pour trouver une place. | « a baissé de dix minutes ».
+- Six mois de travaux. | Six mois est la durée d'observation.
+- Plus de vélos dans la ville. | Ce n'est pas dit.
+- La fermeture de parkings. | Ce n'est pas dit.
+EXP: « Selon » introduit la source de l'information.
+
+## CE 6 | B1 | témoignage | opinion
+DOC: « J'ai passé un mois dans un monastère, sans téléphone ni Internet. Au début, j'étais angoissée. Puis, peu à peu, j'ai redécouvert le plaisir du silence et des conversations sans interruption. Je ne suis pas devenue moine, mais je garde une heure sans écran chaque soir. » – Inès, 34 ans
+Q: Qu'a gardé Inès de cette expérience ?
++ Une heure sans écran chaque soir. | « je garde une heure sans écran chaque soir ».
+- L'habitude de vivre au monastère. | Elle n'est pas devenue moine.
+- Une angoisse permanente. | Elle a disparu peu à peu.
+- L'interdiction totale du téléphone. | Ce n'est pas dit.
+EXP: « Garder » indique ce qui reste d'une expérience.
+
+## CE 7 | B1 | document informatif | information précise
+DOC: Le 20 mars, Journée internationale de la Francophonie, les médiathèques de la ville proposent une dictée ouverte à tous, à 15 heures. Trois niveaux : juniors (8-12 ans), adultes débutants, adultes confirmés. Les meilleurs participants recevront des livres d'auteurs francophones.
+Q: Combien de niveaux la dictée propose-t-elle ?
++ Trois. | « Trois niveaux ».
+- Deux. | Il y en a trois.
+- Huit. | 8 ans est un âge.
+- Douze. | 12 ans est un âge.
+EXP: Ne confondez pas les âges et le nombre de niveaux.
+
+## CE 8 | B1 | lettre | sentiment
+DOC: Chère Madame Rossi, je voulais vous remercier pour les cours de piano que vous m'avez donnés quand j'avais dix ans. Je suis aujourd'hui professeur de musique, et je transmets à mes élèves la patience et la passion que vous m'avez apprises. Avec toute ma reconnaissance, Thomas
+Q: Quel sentiment Thomas exprime-t-il ?
++ De la gratitude. | « Avec toute ma reconnaissance ».
+- De la tristesse. | Ce n'est pas le ton.
+- Du regret. | Ce n'est pas dit.
+- De la colère. | Ce n'est pas dit.
+EXP: « Reconnaissance » est synonyme de gratitude.
+
+## CE 9 | B1 | article de presse | information globale
+DOC: De plus en plus d'entreprises testent la semaine de quatre jours. En Islande, une expérience menée auprès de 2 500 fonctionnaires a montré que la productivité restait stable, tandis que le bien-être des salariés s'améliorait nettement.
+Q: Quel est le résultat principal de l'expérience islandaise ?
++ Une productivité stable et un meilleur bien-être. | « la productivité restait stable, tandis que le bien-être… s'améliorait ».
+- Une baisse de la productivité. | Elle reste stable.
+- La disparition du travail. | Ce n'est pas dit.
+- Le licenciement de 2 500 fonctionnaires. | Ils ont participé à l'expérience.
+EXP: « Tandis que » met en parallèle deux constats.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: Le français n'est plus seulement la langue de la France. C'est en Afrique que se joue désormais son avenir : à Kinshasa, Abidjan ou Dakar, les jeunes le réinventent chaque jour, empruntant aux langues locales, créant des mots nouveaux que les dictionnaires finissent par accueillir. Le centre de gravité de la francophonie s'est déplacé vers le sud.
+Q: Quelle est l'idée principale du texte ?
++ L'avenir du français se joue désormais en Afrique. | « C'est en Afrique que se joue désormais son avenir ».
+- Le français disparaît en Afrique. | Il s'y développe.
+- Les dictionnaires refusent les mots nouveaux. | Ils « finissent par accueillir ».
+- La France reste le centre de la francophonie. | Le centre s'est déplacé.
+EXP: La mise en relief « C'est… que » souligne l'idée essentielle.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: Chaque fois qu'une personne âgée disparaît, c'est un savoir qui s'éteint : une recette, un chant, un geste d'artisan, un mot de patois. Il est urgent que nos communes organisent la collecte de ces mémoires, par des enregistrements et des ateliers, avant qu'il ne soit trop tard.
+Q: Quelle est l'intention de l'auteur ?
++ Inciter les communes à collecter la mémoire des aînés. | « Il est urgent que nos communes organisent la collecte ».
+- Raconter la vie d'une personne âgée. | Ce n'est pas un récit.
+- Critiquer les artisans. | Ce n'est pas dit.
+- Présenter une recette. | La recette n'est qu'un exemple.
+EXP: « Il est urgent que » + subjonctif formule un appel à l'action.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Chers collègues, à compter du 1er janvier, les réunions ne pourront plus être programmées après 17 h 30, et aucun courriel ne devra être envoyé le week-end. Cette mesure vise à préserver l'équilibre entre vie professionnelle et vie privée. La direction
+Q: Dans ce courriel, « préserver » signifie :
++ protéger. | La mesure protège l'équilibre.
+- détruire. | C'est le contraire.
+- mesurer. | Ce n'est pas le sens.
+- retarder. | Ce n'est pas le sens.
+EXP: « Préserver » = protéger de ce qui pourrait nuire.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: À Barcelone, les « superîlots » regroupent neuf pâtés de maisons dans lesquels la circulation automobile est limitée à 10 km/h. Les rues intérieures sont rendues aux piétons, aux jeux d'enfants et aux terrasses. Selon une étude, ce modèle, s'il était généralisé, pourrait éviter près de 700 décès prématurés par an liés à la pollution.
+Q: Combien de pâtés de maisons forment un superîlot ?
++ Neuf. | « regroupent neuf pâtés de maisons ».
+- Dix. | 10 km/h est la vitesse.
+- Sept cents. | 700 est le nombre de décès évités.
+- Trois. | Ce n'est pas dit.
+EXP: Associez chaque chiffre à ce qu'il mesure.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Madame, nous vous informons que votre demande de congé sabbatique de onze mois a été acceptée. Vous pourrez réintégrer votre poste ou un poste équivalent à votre retour, avec une rémunération au moins identique. Nous vous rappelons que ce congé n'est pas rémunéré. Le service du personnel
+Q: Que se passera-t-il pendant le congé ?
++ La salariée ne sera pas payée. | « ce congé n'est pas rémunéré ».
+- Elle touchera son salaire. | Il n'est pas rémunéré.
+- Elle perdra son poste. | Elle pourra le réintégrer.
+- Elle devra travailler à temps partiel. | Ce n'est pas dit.
+EXP: Lisez la fin des lettres administratives : les rappels importants s'y trouvent.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: Les capteurs installés dans les poubelles permettent d'optimiser les tournées de collecte : les camions ne passent que lorsque les conteneurs sont pleins. Par conséquent, les villes réduisent leurs coûts et leurs émissions de CO2. Encore faut-il que les habitants trient correctement leurs déchets.
+Q: Quel lien logique introduit « Encore faut-il que » ?
++ Une condition restrictive. | Les bénéfices dépendent du tri des habitants.
+- Une conséquence. | C'est « par conséquent ».
+- Une cause. | Ce n'est pas le cas.
+- Une comparaison. | Ce n'est pas le cas.
+EXP: « Encore faut-il que » + subjonctif pose une condition nécessaire.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: Le mouvement « slow », né en Italie avec la « slow food », s'étend aujourd'hui au tourisme, à la mode et même à l'éducation. Ses partisans y voient une sagesse retrouvée. On peut pourtant se demander si cette lenteur, souvent vendue à prix d'or, n'est pas devenue un produit de consommation comme un autre.
+Q: Quelle opinion le journaliste exprime-t-il ?
++ Un doute sur la sincérité commerciale du mouvement. | « n'est pas devenue un produit de consommation comme un autre ».
+- Un enthousiasme sans réserve. | Il émet un doute.
+- Une indifférence totale. | Il prend position.
+- Un rejet de la cuisine italienne. | Ce n'est pas le sujet.
+EXP: « On peut pourtant se demander si » introduit une critique prudente.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: Le Volontariat international en entreprise (VIE) permet aux jeunes de 18 à 28 ans de partir travailler de 6 à 24 mois pour une entreprise française à l'étranger. Le volontaire perçoit une indemnité mensuelle, variable selon le pays, et bénéficie d'une protection sociale complète.
+Q: Quelle est la durée maximale d'un VIE ?
++ 24 mois. | « de 6 à 24 mois ».
+- 6 mois. | C'est la durée minimale.
+- 28 mois. | 28 ans est l'âge maximal.
+- 18 mois. | 18 ans est l'âge minimal.
+EXP: « De… à… » indique un minimum et un maximum.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « Mon fils m'a offert une montre connectée pour mes 70 ans. Elle compte mes pas, mesure mon cœur et me rappelle de boire de l'eau. Très pratique. Il m'appelle d'ailleurs beaucoup moins depuis : il voit sur son téléphone que je suis toujours vivante. » – Georges
+Q: Que laisse entendre Georges ?
++ La technologie a remplacé le contact humain avec son fils. | « Il m'appelle… beaucoup moins depuis ».
+- Il adore sa montre sans réserve. | La fin est amère.
+- Son fils l'appelle tous les jours. | C'est l'inverse.
+- Il est en mauvaise santé. | Ce n'est pas dit.
+EXP: L'ironie de la dernière phrase révèle le reproche.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Les défenseurs de la semaine de quatre jours avancent qu'elle améliore la santé des salariés et réduit l'absentéisme. Ses détracteurs objectent qu'elle est difficile à appliquer dans les hôpitaux, les commerces ou les écoles, où une présence continue est indispensable.
+Q: Quel argument avancent les détracteurs ?
++ Elle est difficile à appliquer dans certains secteurs. | « difficile à appliquer dans les hôpitaux, les commerces ».
+- Elle réduit l'absentéisme. | C'est un argument des défenseurs.
+- Elle améliore la santé. | C'est un argument des défenseurs.
+- Elle coûte trop cher à l'État. | Ce n'est pas dit.
+EXP: « Objecter » introduit un contre-argument.
+
+## CE 20 | B2 | article de presse | information détaillée
+DOC: Au Sénégal, une radio communautaire diffuse chaque semaine une émission où des anciens racontent les contes traditionnels en wolof, puis des étudiants les traduisent en français. Les enregistrements sont ensuite archivés à l'université de Dakar et mis à disposition des écoles.
+Q: Que deviennent les enregistrements ?
++ Ils sont archivés à l'université et mis à disposition des écoles. | « archivés à l'université de Dakar et mis à disposition des écoles ».
+- Ils sont vendus. | Ce n'est pas dit.
+- Ils sont effacés. | Ils sont archivés.
+- Ils sont diffusés à la télévision. | Ce n'est pas dit.
+EXP: « Ensuite » introduit l'étape suivante du processus.
+
+## CE 21 | C1 | texte argumentatif | thèse
+DOC: On présente souvent la ville intelligente comme une évidence technique. Elle est pourtant avant tout un choix politique : qui possède les données collectées, qui décide de leur usage, qui en tire profit ? Laisser ces questions aux seules entreprises technologiques, c'est renoncer à une part de la démocratie locale.
+Q: Quelle est la thèse de l'auteur ?
++ La ville intelligente pose des questions politiques et démocratiques. | « Elle est pourtant avant tout un choix politique ».
+- La ville intelligente est une simple question technique. | Il conteste cette vision.
+- Les entreprises doivent tout décider. | Ce serait « renoncer à la démocratie ».
+- Les données sont inutiles. | Ce n'est pas dit.
+EXP: « Pourtant avant tout » oppose la thèse à l'idée reçue.
+
+## CE 22 | C1 | article de presse | information implicite
+DOC: L'entreprise a annoncé fièrement la création d'une « salle de déconnexion », équipée de fauteuils et de plantes vertes, pour permettre aux salariés de se ressourcer. Elle est ouverte de 12 h 30 à 13 h 00. Le même jour, la direction a supprimé une semaine de congés.
+Q: Que suggère l'article ?
++ La mesure est surtout symbolique face à des décisions défavorables. | Une demi-heure de détente contre une semaine de congés supprimée.
+- L'entreprise se soucie sincèrement du bien-être. | Le contraste laisse penser l'inverse.
+- Les salariés auront plus de congés. | Une semaine est supprimée.
+- La salle est ouverte toute la journée. | Elle est ouverte une demi-heure.
+EXP: La juxtaposition des faits, sans commentaire, crée l'ironie.
+
+## CE 23 | C1 | texte argumentatif | ton
+DOC: Merveilleuse époque, en vérité, où l'on peut converser instantanément avec un inconnu à l'autre bout du monde, tout en ignorant le prénom de son voisin de palier. Nous n'avons jamais été aussi connectés ; reste à savoir à quoi.
+Q: Quel est le ton de l'auteur ?
++ Ironique et désabusé. | « Merveilleuse époque, en vérité » est antiphrastique.
+- Enthousiaste. | Il critique.
+- Neutre et informatif. | Il prend position.
+- Optimiste. | La chute est sceptique.
+EXP: L'antiphrase dit le contraire de ce qu'elle pense.
+
+## CE 24 | C1 | article de presse | relation logique
+DOC: Bien que les seniors soient de plus en plus nombreux à vouloir continuer à travailler, les entreprises hésitent encore à les recruter, redoutant un coût plus élevé ou une moindre adaptabilité. Ce préjugé prive pourtant les équipes d'une expérience précieuse, d'autant que les équipes mixtes en âge se révèlent souvent plus performantes.
+Q: Quel argument renforce la critique du préjugé ?
++ Les équipes mixtes en âge sont souvent plus performantes. | « d'autant que les équipes mixtes… se révèlent souvent plus performantes ».
+- Les seniors coûtent plus cher. | C'est la crainte des entreprises.
+- Les seniors veulent arrêter de travailler. | Ils veulent continuer.
+- Les entreprises recrutent beaucoup de seniors. | Elles hésitent.
+EXP: « D'autant que » ajoute une raison qui renforce l'argument.
+
+## CE 25 | C1 | document informatif | reformulation
+DOC: Le droit à la déconnexion impose aux entreprises de plus de cinquante salariés de négocier les modalités par lesquelles chaque salarié peut ne pas être joignable en dehors de son temps de travail. À défaut d'accord, l'employeur élabore une charte définissant ces modalités.
+Q: Quelle reformulation correspond au texte ?
++ Sans accord négocié, l'employeur doit rédiger une charte. | « À défaut d'accord, l'employeur élabore une charte ».
+- Toutes les entreprises doivent fermer le soir. | Ce n'est pas dit.
+- Les salariés doivent toujours être joignables. | C'est l'inverse.
+- La loi concerne seulement les entreprises de moins de cinquante salariés. | Elle concerne celles de plus de cinquante.
+EXP: « À défaut de » signifie « en l'absence de ».
+
+## EE 1 | A2 | écrire un message
+CONSIGNE: Vous invitez votre grand-mère ou votre grand-père à venir déjeuner chez vous dimanche. Vous lui écrivez un message (30 à 60 mots).
+MODELE: Chère Mamie, dimanche prochain, je t'invite à déjeuner chez moi à midi. Je vais préparer ton plat préféré, le poulet aux olives ! Ma sœur et mes cousins seront là aussi. Je peux venir te chercher en voiture à 11 h 30. Dis-moi si tu es d'accord. Je t'embrasse très fort. Yasmine
+POINTS: salutation ; invitation (jour, heure) ; menu ; invités ; transport ; demande de réponse ; formule finale
+CONSEILS: Utilisez le tutoiement et un ton affectueux avec un proche.
+
+## EE 2 | B1 | raconter une expérience
+CONSIGNE: Sur un blog, vous racontez une chose importante qu'une personne plus âgée vous a apprise (40 à 90 mots).
+MODELE: Quand j'avais douze ans, mon grand-père m'a appris à jardiner. Chaque samedi, nous allions ensemble dans son potager. Il m'a montré comment planter des tomates, quand arroser et comment reconnaître les mauvaises herbes. Mais surtout, il m'a appris la patience : il faut attendre des semaines avant de récolter. Aujourd'hui, j'ai mon propre petit jardin sur mon balcon et, chaque fois que je cueille une tomate, je pense à lui. Merci, Papy !
+POINTS: contexte ; personne ; apprentissage concret ; leçon de vie ; conséquence aujourd'hui ; émotion
+CONSEILS: Alternez passé composé (actions) et imparfait (habitudes, descriptions).
+
+## EE 3 | B2 | argumenter sur un sujet de société
+CONSIGNE: « Les entreprises devraient interdire l'envoi de courriels professionnels après 19 heures. » Vous donnez votre opinion dans un forum en ligne (40 à 90 mots).
+MODELE: Je suis plutôt favorable à cette mesure, même si elle mérite d'être adaptée. D'une part, recevoir des courriels le soir empêche de se reposer réellement et favorise l'épuisement. D'autre part, beaucoup de messages envoyés tard ne sont pas urgents. Certes, une interdiction stricte poserait problème pour les équipes qui travaillent avec d'autres fuseaux horaires. C'est pourquoi je proposerais plutôt un envoi différé automatique. En somme, protéger le temps de repos est une nécessité, à condition de rester souple.
+POINTS: position ; deux arguments ; concession ; proposition ; conclusion
+CONSEILS: « D'une part… d'autre part » structure les arguments.
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous pose des questions sur vos langues, votre famille et votre rapport aux écrans.
+RELANCES: Quelles langues parlez-vous ? / Pourquoi apprenez-vous le français ? / Qu'avez-vous appris de vos grands-parents ? / Combien de temps passez-vous sur votre téléphone ? / Avez-vous déjà essayé de vous déconnecter ? / Comment imaginez-vous votre travail dans dix ans ?
+PHRASES: Je parle… et je me débrouille en… / J'apprends le français pour… / Mes grands-parents m'ont appris… / Je passe environ… / J'aimerais…
+MODELE: Je parle arabe et anglais, et je me débrouille de mieux en mieux en français. J'apprends le français pour m'installer au Canada avec ma famille. Ma grand-mère m'a appris à cuisiner et à respecter les autres. Je passe environ trois heures par jour sur mon téléphone, c'est trop ! Une fois, j'ai essayé de me déconnecter pendant un week-end et je me suis senti plus calme. Dans dix ans, j'aimerais travailler comme ingénieur à Montréal.
+
+## EO 2 | B2 | Convaincre son responsable | Responsable des ressources humaines
+SCENARIO: Vous souhaitez travailler quatre jours par semaine au lieu de cinq. L'examinateur joue le rôle du responsable des ressources humaines, réticent. Présentez votre demande, répondez à ses objections et proposez des solutions.
+RELANCES: Bonjour, de quoi vouliez-vous me parler ? / Quatre jours ? Qui fera votre travail le vendredi ? / Vos clients ont besoin de vous joindre. / Les autres salariés vont demander la même chose. / Et votre salaire ? / Que proposez-vous concrètement ?
+PHRASES: Je souhaiterais vous proposer… / Je comprends tout à fait votre inquiétude… / Je m'engage à… / Pourquoi ne pas envisager… ? / Qu'en pensez-vous ?
+MODELE: Je souhaiterais vous proposer de passer à quatre jours, avec des journées un peu plus longues. Je comprends tout à fait votre inquiétude concernant les clients : je m'engage à rester joignable pour les urgences et à organiser un relais avec ma collègue. Pourquoi ne pas envisager une période d'essai de trois mois, avec un bilan précis à la fin ? Si l'expérience est concluante, elle pourrait même servir de modèle à l'équipe. Qu'en pensez-vous ?
+
+## EO 3 | B2 | Une ville intelligente : progrès ou menace ? | Examinateur
+SCENARIO: Donnez votre opinion : « Les villes intelligentes, équipées de capteurs et de caméras, améliorent-elles vraiment notre qualité de vie ? » Argumentez, donnez des exemples, nuancez et concluez.
+RELANCES: Quelle est votre opinion ? / Quels sont les avantages concrets ? / Que pensez-vous de la protection de la vie privée ? / Qui devrait contrôler les données ? / Votre conclusion ?
+PHRASES: À mon sens… / Prenons l'exemple de… / Il ne faut cependant pas négliger… / Il conviendrait de… / En définitive…
+MODELE: À mon sens, les villes intelligentes peuvent améliorer notre quotidien, à condition d'être bien encadrées. Prenons l'exemple de l'éclairage public qui s'allume seulement au passage des piétons : il permet d'importantes économies d'énergie. De même, les capteurs de pollution aident les villes à réagir plus vite. Il ne faut cependant pas négliger les risques pour la vie privée : des caméras partout, c'est une forme de surveillance. Il conviendrait donc que les données restent publiques et contrôlées par les citoyens. En définitive, la technologie doit rester un outil au service des habitants.

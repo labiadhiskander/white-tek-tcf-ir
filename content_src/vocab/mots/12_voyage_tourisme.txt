@@ -1,0 +1,88 @@
+# Voyage et tourisme
+voyage | nom | m | A1 | Déplacement vers un lieu éloigné. | Nous préparons un voyage au Maroc. | périple | voyage organisé, partir en voyage
+voyageur | nom | m | A2 | Personne qui voyage. | Les voyageurs sont priés de présenter leur billet. | passager | voyageur d'affaires
+tourisme | nom | m | A2 | Activité de voyager pour le plaisir. | Le tourisme représente 8 % du PIB français. | - | tourisme de masse, office de tourisme
+touriste | nom | m | A1 | Personne qui voyage pour son plaisir. | Les touristes affluent en été. | visiteur | attirer les touristes
+tourisme de masse | nom | m | B2 | Afflux massif de touristes. | Venise souffre du tourisme de masse. | surtourisme | effets du tourisme de masse
+surtourisme | nom | m | C1 | Fréquentation touristique excessive. | Certaines villes limitent l'accès pour lutter contre le surtourisme. | tourisme de masse | lutter contre le surtourisme
+écotourisme | nom | m | C1 | Tourisme respectueux de la nature. | L'écotourisme se développe au Costa Rica. | tourisme durable | pratiquer l'écotourisme
+destination | nom | f | B1 | Lieu où l'on va. | La France est la première destination touristique mondiale. | - | destination de rêve
+séjour | nom | m | A2 | Temps passé dans un lieu. | Nous avons fait un séjour d'une semaine en Bretagne. | - | séjour linguistique, bon séjour
+office de tourisme | nom | m | A2 | Bureau qui informe les touristes. | L'office de tourisme propose des visites guidées. | syndicat d'initiative | se renseigner à l'office de tourisme
+visite guidée | nom | f | A2 | Visite accompagnée d'un guide. | La visite guidée du château dure une heure. | - | faire une visite guidée
+guide | nom | m | A2 | Personne ou livre qui renseigne les touristes. | Notre guide parlait cinq langues. | accompagnateur | guide touristique
+itinéraire | nom | m | B1 | Chemin prévu pour un voyage. | Nous avons préparé un itinéraire à travers les Alpes. | parcours | itinéraire bis
+circuit | nom | m | B1 | Voyage organisé avec plusieurs étapes. | Ce circuit traverse les villes impériales. | tour | circuit organisé
+étape | nom | f | B1 | Lieu d'arrêt au cours d'un voyage. | Lyon est la première étape de notre voyage. | halte | faire étape
+réservation | nom | f | A2 | Fait de retenir une place à l'avance. | J'ai fait une réservation pour quatre personnes. | - | confirmer une réservation
+réserver | verbe | - | A2 | Retenir à l'avance. | Il faut réserver l'hôtel longtemps à l'avance. | retenir | réserver une chambre
+hébergement | nom | m | B1 | Lieu où l'on loge. | L'hébergement est compris dans le prix. | logement | hébergement touristique
+hôtel | nom | m | A1 | Établissement qui loue des chambres. | L'hôtel donne sur la mer. | - | hôtel trois étoiles
+chambre d'hôtes | nom | f | B1 | Chambre louée chez l'habitant. | Nous avons dormi dans une charmante chambre d'hôtes. | - | séjourner en chambre d'hôtes
+auberge de jeunesse | nom | f | A2 | Hébergement bon marché pour les jeunes. | Les auberges de jeunesse sont idéales pour les petits budgets. | - | dormir en auberge de jeunesse
+camping | nom | m | A2 | Hébergement sous tente ; terrain prévu pour cela. | Nous faisons du camping chaque été. | - | terrain de camping
+location saisonnière | nom | f | C1 | Logement loué pour les vacances. | Les locations saisonnières font monter les loyers. | meublé de tourisme | réglementer la location saisonnière
+pension complète | nom | f | B2 | Hébergement avec tous les repas. | La formule en pension complète est plus pratique. | - | en pension complète
+demi-pension | nom | f | B2 | Hébergement avec petit-déjeuner et un repas. | Nous avons choisi la demi-pension. | - | en demi-pension
+bagage | nom | m | A2 | Valise ou sac de voyage. | Mes bagages ont été perdus à l'aéroport. | valise | bagage à main, bagages enregistrés
+valise | nom | f | A1 | Bagage rigide. | Je n'ai pas encore fait ma valise. | bagage | faire sa valise
+passeport | nom | m | A1 | Document d'identité pour voyager. | Mon passeport expire dans six mois. | - | renouveler son passeport
+visa | nom | m | A2 | Autorisation d'entrer dans un pays. | Il faut un visa pour aller dans ce pays. | - | demande de visa
+douane | nom | f | B1 | Service qui contrôle les marchandises à la frontière. | Nous avons passé la douane sans problème. | - | passer la douane
+frontière | nom | f | B1 | Limite entre deux pays. | La frontière franco-suisse est très fréquentée. | limite | passer la frontière
+vol | nom | m | A2 | Trajet en avion. | Notre vol a été annulé. | - | vol direct, vol low-cost
+escale | nom | f | B1 | Arrêt pendant un voyage. | Le vol fait escale à Dubaï. | arrêt | vol avec escale
+embarquement | nom | m | B1 | Fait de monter dans un avion ou un bateau. | L'embarquement commence trente minutes avant le départ. | - | carte d'embarquement, porte d'embarquement
+décalage horaire | nom | m | B1 | Différence d'heure entre deux pays. | Il souffre du décalage horaire après son voyage à Tokyo. | - | souffrir du décalage horaire
+compagnie aérienne | nom | f | B1 | Entreprise de transport aérien. | Cette compagnie aérienne propose des billets bon marché. | - | compagnie à bas coût
+croisière | nom | f | B1 | Voyage en bateau. | Ils ont fait une croisière en Méditerranée. | - | partir en croisière
+dépaysement | nom | m | B2 | Changement agréable d'habitudes et de cadre. | Ce voyage en Asie m'a offert un vrai dépaysement. | changement d'air | dépaysement total
+dépaysant | adjectif | - | B2 | Qui procure un changement agréable. | La Laponie est une destination très dépaysante. | exotique | voyage dépaysant
+exotique | adjectif | - | B1 | Qui vient d'un pays lointain. | J'aime goûter des plats exotiques. | lointain | destination exotique
+pittoresque | adjectif | - | B2 | Charmant et original. | Ce village pittoresque attire les peintres. | charmant | village pittoresque
+paysage | nom | m | A2 | Étendue de territoire que l'on voit. | Les paysages de l'Islande sont spectaculaires. | panorama | paysage magnifique
+site touristique | nom | m | B1 | Lieu visité par les touristes. | Le Mont-Saint-Michel est un site touristique majeur. | lieu touristique | visiter un site touristique
+patrimoine mondial | nom | m | B2 | Sites protégés par l'UNESCO. | La vieille ville est inscrite au patrimoine mondial. | - | patrimoine mondial de l'UNESCO
+souvenir | nom | m | A2 | Objet rapporté d'un voyage ; mémoire. | J'ai rapporté des souvenirs pour toute la famille. | - | boutique de souvenirs, garder un bon souvenir
+carte postale | nom | f | A2 | Carte illustrée envoyée en voyage. | Elle m'a envoyé une carte postale de Rome. | - | envoyer une carte postale
+haute saison | nom | f | B1 | Période de forte fréquentation. | Les prix doublent en haute saison. | - | en haute saison
+basse saison | nom | f | B1 | Période de faible fréquentation. | Voyager en basse saison coûte moins cher. | hors saison | en basse saison
+vacancier | nom | m | B1 | Personne en vacances. | Les vacanciers envahissent les plages en août. | estivant | vacanciers étrangers
+estivant | nom | m | C1 | Personne qui passe l'été dans un lieu de vacances. | Les estivants repartent fin août. | vacancier | afflux d'estivants
+station balnéaire | nom | f | B2 | Ville de bord de mer pour les vacances. | Biarritz est une célèbre station balnéaire. | - | station balnéaire
+station de ski | nom | f | B1 | Ville de montagne équipée pour le ski. | Les stations de ski manquent de neige. | station de sports d'hiver | station de ski familiale
+plage | nom | f | A1 | Étendue de sable au bord de la mer. | La plage est bondée en juillet. | - | aller à la plage
+bronzer | verbe | - | A2 | Brunir au soleil. | Il a passé ses vacances à bronzer. | - | bronzer au soleil
+crème solaire | nom | f | A2 | Crème qui protège du soleil. | N'oubliez pas la crème solaire. | - | mettre de la crème solaire
+sac à dos | nom | m | A2 | Sac porté sur le dos. | Il a fait le tour de l'Europe sac au dos. | - | voyager sac au dos
+routard | nom | m | B2 | Voyageur indépendant avec peu de moyens. | Les routards fréquentent les auberges de jeunesse. | baroudeur | guide du routard
+aventure | nom | f | B1 | Expérience nouvelle et risquée. | Ce voyage en Amazonie fut une véritable aventure. | expédition | esprit d'aventure
+expatrié | nom | m | B2 | Personne qui vit à l'étranger. | Les expatriés français sont nombreux à Montréal. | émigré | communauté d'expatriés
+s'expatrier | verbe | - | C1 | Partir vivre à l'étranger. | Il s'est expatrié au Canada pour travailler. | émigrer | s'expatrier à l'étranger
+étranger | nom | m | A2 | Pays autre que le sien. | Elle part étudier à l'étranger. | - | partir à l'étranger, vivre à l'étranger
+séjour linguistique | nom | m | B1 | Voyage pour apprendre une langue. | Il a fait un séjour linguistique à Londres. | - | partir en séjour linguistique
+échange | nom | m | B1 | Séjour réciproque entre élèves de pays différents. | Le lycée organise un échange avec une école allemande. | - | programme d'échange
+interculturel | adjectif | - | C1 | Qui concerne les relations entre cultures. | Voyager développe les compétences interculturelles. | - | dialogue interculturel
+coutume | nom | f | B1 | Habitude d'un peuple. | Il faut respecter les coutumes locales. | tradition, usage | coutume locale
+habitant | nom | m | A2 | Personne qui vit dans un lieu. | Les habitants ont été très accueillants. | résident | loger chez l'habitant
+accueillant | adjectif | - | B1 | Qui reçoit avec gentillesse. | Les gens sont très accueillants dans cette région. | hospitalier | peuple accueillant
+hospitalité | nom | f | B2 | Accueil généreux. | Merci pour votre hospitalité. | accueil | sens de l'hospitalité
+annulation | nom | f | B1 | Fait d'annuler. | L'annulation est gratuite jusqu'à 48 heures avant. | - | frais d'annulation
+assurance voyage | nom | f | B2 | Assurance qui couvre les risques en voyage. | Une assurance voyage est indispensable à l'étranger. | - | souscrire une assurance voyage
+agence de voyages | nom | f | A2 | Entreprise qui vend des voyages. | Nous avons réservé auprès d'une agence de voyages. | voyagiste | passer par une agence de voyages
+voyage organisé | nom | m | B1 | Voyage dont tout est prévu par une agence. | Mes parents préfèrent les voyages organisés. | circuit | partir en voyage organisé
+tout compris | locution | - | B1 | Formule où tout est inclus. | Ce séjour tout compris inclut les boissons. | all inclusive | formule tout compris
+randonneur | nom | m | B1 | Personne qui fait de la randonnée. | Les randonneurs suivent le sentier balisé. | marcheur | randonneur expérimenté
+sentier | nom | m | B1 | Petit chemin. | Ce sentier mène au sommet. | chemin | sentier de randonnée
+location de voiture | nom | f | B1 | Fait de louer une voiture. | La location de voiture est chère dans les îles. | - | agence de location de voiture
+plan | nom | m | A2 | Carte d'une ville. | Je me suis repéré grâce au plan du métro. | carte | plan de la ville
+se repérer | verbe | - | B2 | Trouver son chemin. | Il est difficile de se repérer dans la vieille ville. | s'orienter | se repérer facilement
+se perdre | verbe | - | A2 | Ne plus trouver son chemin. | Nous nous sommes perdus dans les ruelles. | s'égarer | se perdre en route
+découvrir | verbe | - | A2 | Voir pour la première fois. | J'aime découvrir de nouvelles cultures. | explorer | découvrir un pays
+explorer | verbe | - | B1 | Parcourir pour découvrir. | Ils ont exploré la côte en kayak. | parcourir | explorer une région
+partir en vacances | expression | - | A1 | Quitter son domicile pour les vacances. | Un Français sur trois ne part pas en vacances. | - | partir en vacances
+congés payés | nom | m | B1 | Vacances rémunérées. | Les congés payés ont été créés en 1936. | vacances | prendre ses congés payés
+tourisme spatial | nom | m | C1 | Voyages dans l'espace pour des particuliers. | Le tourisme spatial reste réservé aux milliardaires. | - | essor du tourisme spatial
+bilan carbone | nom | m | C1 | Mesure des émissions de CO2 d'une activité. | Le bilan carbone d'un vol long-courrier est très lourd. | empreinte carbone | bilan carbone d'un voyage
+slow tourisme | nom | m | C1 | Tourisme lent et respectueux. | Le slow tourisme privilégie le train et le vélo. | tourisme lent | adepte du slow tourisme
+retombées économiques | nom | f | C1 | Effets positifs sur l'économie. | Le festival génère des retombées économiques importantes. | bénéfices | retombées économiques du tourisme

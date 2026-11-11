@@ -1,0 +1,490 @@
+@code EXAM-04
+@title Examen blanc n° 4 – Emploi, citoyenneté et culture
+@level B2
+@description Examen complet calibré B1–B2 : recherche d'emploi, vie citoyenne, culture, voisinage.
+
+## CO 1 | A2 | annonce publique | information précise | F:fr-FR
+DOC: F: Chers clients, nous vous informons que le rayon boulangerie est maintenant ouvert dès 7 heures du matin. Pain frais toute la journée !
+Q: Qu'est-ce qui change ?
++ Le rayon boulangerie ouvre plus tôt. | « maintenant ouvert dès 7 heures ».
+- Le magasin ferme plus tard. | Seul le rayon boulangerie est concerné.
+- Le pain est moins cher. | Le prix n'est pas évoqué.
+- La boulangerie est fermée le matin. | C'est le contraire.
+EXP: « Dès 7 heures » = à partir de 7 heures. « Maintenant » signale un changement.
+
+## CO 2 | A2 | message téléphonique | information précise | H:fr-FR
+DOC: H: Bonjour, c'est Marc, le plombier. Je ne pourrai pas venir ce matin, j'ai une urgence. Je passerai cet après-midi vers 15 heures. Si ce n'est pas possible pour vous, envoyez-moi un SMS.
+Q: Quand le plombier va-t-il venir ?
++ Cet après-midi vers 15 heures. | « Je passerai cet après-midi vers 15 heures ».
+- Ce matin. | Il ne peut pas venir ce matin.
+- Demain matin. | Ce n'est pas proposé.
+- Ce soir. | Il parle de 15 heures.
+EXP: Le message annonce un changement : matin → après-midi.
+
+## CO 3 | A2 | conversation quotidienne | information précise | F:fr-FR, H:fr-FR
+DOC: F: Qu'est-ce que tu prends ? / H: Je ne sais pas… Le poisson ou le poulet ? / F: Le poisson est très bon ici. / H: D'accord, je prends le poisson, avec des légumes. Et toi ? / F: Moi, juste une salade, je n'ai pas très faim.
+Q: Qu'est-ce que l'homme commande ?
++ Du poisson avec des légumes. | « je prends le poisson, avec des légumes ».
+- Du poulet. | Il hésite puis choisit le poisson.
+- Une salade. | C'est la commande de la femme.
+- Du poisson avec des frites. | Il prend des légumes.
+EXP: Attention à ne pas confondre les commandes des deux personnes.
+
+## CO 4 | B1 | conversation quotidienne | intention | H:fr-FR, F:fr-FR
+DOC: H: Pardon de vous déranger, je crois que votre voiture bloque la sortie de mon garage. / F: Oh, vraiment ? Je suis désolée, je n'avais pas vu. Je la déplace tout de suite. / H: Merci, je dois partir travailler.
+Q: Pourquoi l'homme parle-t-il à la femme ?
++ Sa voiture l'empêche de sortir de chez lui. | « votre voiture bloque la sortie de mon garage ».
+- Il veut acheter sa voiture. | Ce n'est pas le cas.
+- Il cherche une place de parking. | Il veut sortir.
+- Il lui demande de l'emmener au travail. | Ce n'est pas demandé.
+EXP: Formule polie de signalement : « Pardon de vous déranger, je crois que… ».
+
+## CO 5 | B1 | message professionnel | information précise | F:fr-CA
+DOC: F: Bonjour Monsieur Diaz, c'est Julie de l'agence d'intérim. J'ai une mission pour vous : trois semaines dans un entrepôt à Vitry, à partir de lundi, de 6 h à 13 h. Le salaire est de 13 euros de l'heure. Si vous êtes intéressé, rappelez-moi avant ce soir, sinon je devrai proposer la mission à quelqu'un d'autre.
+Q: Pourquoi M. Diaz doit-il rappeler rapidement ?
++ Sinon la mission sera proposée à une autre personne. | « sinon je devrai proposer la mission à quelqu'un d'autre ».
+- Parce que la mission commence ce soir. | Elle commence lundi.
+- Pour négocier son salaire. | Ce n'est pas mentionné.
+- Pour annuler un rendez-vous. | Ce n'est pas mentionné.
+EXP: « Sinon » introduit la conséquence si la condition n'est pas remplie.
+
+## CO 6 | B1 | information radio | information précise | H:fr-FR
+DOC: H: Les journées du patrimoine auront lieu ce week-end. Plus de deux cents monuments ouvriront leurs portes gratuitement, dont certains habituellement fermés au public, comme le palais de justice et la préfecture. Attention, pour ces deux bâtiments, la réservation est obligatoire.
+Q: Que faut-il faire pour visiter le palais de justice ?
++ Réserver à l'avance. | « pour ces deux bâtiments, la réservation est obligatoire ».
+- Payer un billet. | Les visites sont gratuites.
+- Venir en semaine. | L'événement a lieu le week-end.
+- Rien de particulier. | Une réservation est nécessaire.
+EXP: La restriction « pour ces deux bâtiments » s'applique au palais de justice et à la préfecture.
+
+## CO 7 | B1 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous avez changé de métier à quarante-cinq ans. Comment l'avez-vous vécu ? / H: Ça m'a fait peur, évidemment. Reprendre une formation, gagner moins pendant un an… Mais je m'ennuyais tellement dans mon ancien poste ! Aujourd'hui, je suis menuisier et je me lève le matin avec plaisir.
+Q: Que ressent l'homme aujourd'hui ?
++ Il est heureux dans son nouveau métier. | « je me lève le matin avec plaisir ».
+- Il regrette son ancien poste. | Il s'y ennuyait.
+- Il a toujours peur de l'avenir. | La peur était au début.
+- Il gagne plus qu'avant. | Il a gagné moins pendant un an.
+EXP: Le passage du passé aux sentiments présents marque l'évolution : peur → satisfaction.
+
+## CO 8 | B1 | annonce publique | information précise | F:fr-BE
+DOC: F: La mairie rappelle aux habitants que les inscriptions sur les listes électorales sont possibles jusqu'au 6e vendredi précédant le scrutin. Elles peuvent se faire en ligne, par courrier ou directement à l'accueil de la mairie, muni d'une pièce d'identité et d'un justificatif de domicile.
+Q: Que faut-il apporter pour s'inscrire à la mairie ?
++ Une pièce d'identité et un justificatif de domicile. | Ce sont les deux documents cités.
+- Une carte électorale. | On la reçoit après l'inscription.
+- Un extrait de naissance uniquement. | Ce n'est pas demandé.
+- Rien, l'inscription est automatique. | Il faut s'inscrire.
+EXP: « Muni de » = avec, en apportant. « Scrutin » = élection.
+
+## CO 9 | B1 | situation administrative | information précise | H:fr-FR, F:fr-FR
+DOC: H: Bonjour, je viens m'inscrire à Pôle emploi… enfin, France Travail. / F: Vous devez d'abord faire votre inscription sur le site. Ensuite, vous aurez un rendez-vous avec un conseiller dans les quinze jours. / H: Et pour les allocations ? / F: La demande se fait en même temps que l'inscription en ligne.
+Q: Quand l'homme pourra-t-il demander ses allocations ?
++ Au moment de son inscription en ligne. | « La demande se fait en même temps que l'inscription en ligne ».
+- Lors du rendez-vous avec le conseiller. | Ce n'est pas le cas.
+- Dans quinze jours au guichet. | Le délai concerne le rendez-vous.
+- Après avoir trouvé un emploi. | Ce n'est pas logique.
+EXP: « En même temps que » = simultanément. France Travail a remplacé Pôle emploi.
+
+## CO 10 | B1 | conversation professionnelle | information précise | F:fr-FR, H:fr-CH
+DOC: F: Pour l'entretien de demain, je vous rappelle qu'il se déroulera en deux parties : d'abord avec moi, puis un test pratique d'une heure sur ordinateur. / H: Est-ce que je dois apporter quelque chose ? / F: Juste une copie de vos diplômes. L'ordinateur sera fourni.
+Q: Que comprend l'entretien ?
++ Un entretien suivi d'un test pratique. | « d'abord avec moi, puis un test pratique ».
+- Uniquement un test écrit. | Il y a aussi un entretien.
+- Un entretien avec plusieurs candidats. | Ce n'est pas dit.
+- Une visite de l'entreprise. | Ce n'est pas dit.
+EXP: « D'abord… puis… » indique les étapes.
+
+## CO 11 | B2 | débat | opinion | H:fr-FR, F:fr-FR
+DOC: H: Le CV anonyme, c'est la seule façon de lutter contre les discriminations à l'embauche. / F: C'est une piste, mais elle ne règle pas tout. Les discriminations peuvent réapparaître au moment de l'entretien. Ce qu'il faut, c'est former les recruteurs et contrôler les entreprises, avec de vraies sanctions.
+Q: Que pense la femme du CV anonyme ?
++ C'est une solution utile mais insuffisante. | « C'est une piste, mais elle ne règle pas tout ».
+- C'est la seule solution efficace. | C'est l'avis de l'homme.
+- C'est une mauvaise idée à abandonner. | Elle la juge utile.
+- Il supprime toutes les discriminations. | Elles peuvent réapparaître à l'entretien.
+EXP: « Une piste » = une possibilité intéressante. « Mais elle ne règle pas tout » marque l'insuffisance.
+
+## CO 12 | B2 | information radio | information globale | F:fr-FR
+DOC: F: Le gouvernement envisage d'allonger la durée du congé de paternité à six semaines. Une mesure saluée par les associations familiales, mais qui inquiète certaines petites entreprises, qui craignent de ne pas pouvoir remplacer leurs salariés absents.
+Q: Quelle réaction suscite le projet ?
++ Il est bien accueilli par certains et inquiète d'autres. | Associations favorables, petites entreprises inquiètes.
+- Tout le monde y est opposé. | Les associations le saluent.
+- Il a déjà été adopté. | Le gouvernement l'« envisage ».
+- Il concerne uniquement les grandes entreprises. | Ce n'est pas dit.
+EXP: « Envisager » = projeter. « Saluée… mais qui inquiète » présente deux réactions.
+
+## CO 13 | B2 | interview | information détaillée | H:fr-FR, F:fr-FR
+DOC: F: Vous avez créé une bibliothèque d'objets. De quoi s'agit-il ? / H: C'est simple : au lieu d'acheter une perceuse que vous utiliserez dix minutes dans votre vie, vous l'empruntez chez nous pour un euro symbolique. On prête des outils, des appareils à raclette, des tentes… Les adhérents économisent et on évite que des objets dorment dans les placards.
+Q: Quel est le principe de cette bibliothèque ?
++ Prêter des objets peu utilisés pour éviter de les acheter. | « au lieu d'acheter… vous l'empruntez ».
+- Vendre des objets d'occasion. | Il s'agit de prêt.
+- Réparer gratuitement des objets. | Ce n'est pas mentionné.
+- Prêter uniquement des livres. | Elle prête des objets.
+EXP: « Au lieu de » oppose l'achat à l'emprunt. « Euro symbolique » = somme très faible.
+
+## CO 14 | B2 | message téléphonique | implicite | F:fr-FR
+DOC: F: Bonjour Monsieur Rey, ici Mme Clément, la directrice de l'école. J'aimerais vous rencontrer au sujet de votre fils Lucas. Rien de grave, rassurez-vous, mais il me semble important qu'on en parle ensemble, avec sa maîtresse. Pourriez-vous passer jeudi après la classe ?
+Q: Que comprend-on de ce message ?
++ Il y a une difficulté concernant Lucas, mais elle n'est pas grave. | « Rien de grave… mais il me semble important qu'on en parle ».
+- Lucas a eu un accident grave. | « Rien de grave ».
+- Lucas a obtenu un prix. | Le ton suggère plutôt un problème.
+- La directrice veut changer Lucas d'école. | Ce n'est pas dit.
+EXP: « Rien de grave, rassurez-vous, mais » : la directrice rassure tout en signalant un sujet à traiter.
+
+## CO 15 | B2 | conversation professionnelle | relation logique | H:fr-FR, F:fr-BE
+DOC: H: Pourquoi le nouveau magasin attire si peu de clients ? / F: L'emplacement est bon, les prix aussi. Le problème, c'est qu'il n'y a aucun parking à proximité, et les gens ne veulent pas porter leurs courses sur cinq cents mètres. / H: On pourrait proposer la livraison à domicile gratuite. / F: Ce serait une bonne compensation.
+Q: Pourquoi le magasin a-t-il peu de clients ?
++ Il n'y a pas de parking à proximité. | « il n'y a aucun parking à proximité ».
+- Les prix sont trop élevés. | « les prix aussi » sont bons.
+- L'emplacement est mauvais. | « L'emplacement est bon ».
+- Le magasin livre mal. | La livraison est une solution envisagée.
+EXP: La femme écarte deux causes (emplacement, prix) avant de donner la vraie.
+
+## CO 16 | B2 | interview | information détaillée | F:fr-FR, H:fr-CA
+DOC: H: Vous êtes médiatrice de quartier. En quoi consiste votre travail ? / F: J'interviens dans les conflits entre voisins : bruit, poubelles, stationnement… Je ne juge pas, je ne sanctionne pas. Mon rôle, c'est de faire en sorte que les gens se parlent et trouvent eux-mêmes une solution. Dans huit cas sur dix, ça suffit à apaiser la situation.
+Q: Comment la médiatrice règle-t-elle les conflits ?
++ Elle aide les voisins à dialoguer pour trouver une solution. | « faire en sorte que les gens se parlent et trouvent eux-mêmes une solution ».
+- Elle sanctionne les responsables. | « Je ne sanctionne pas ».
+- Elle porte plainte contre les fautifs. | Ce n'est pas son rôle.
+- Elle impose sa décision. | Ils trouvent « eux-mêmes » la solution.
+EXP: Les négations (« je ne juge pas, je ne sanctionne pas ») précisent ce que le rôle n'est pas.
+
+## CO 17 | B2 | annonce publique | information précise | H:fr-FR
+DOC: H: La piscine olympique rouvrira ses portes le 2 septembre après dix-huit mois de travaux. Pour l'occasion, l'entrée sera gratuite pendant tout le premier week-end. Les abonnements annuels souscrits avant la fermeture seront prolongés de la durée des travaux, sans démarche particulière.
+Q: Qu'arrive-t-il aux anciens abonnements ?
++ Ils sont automatiquement prolongés. | « prolongés… sans démarche particulière ».
+- Ils sont remboursés. | Ils sont prolongés.
+- Ils doivent être renouvelés. | Aucune démarche n'est nécessaire.
+- Ils sont annulés. | Ce n'est pas le cas.
+EXP: « Sans démarche particulière » = automatiquement.
+
+## CO 18 | B2 | information radio | relation logique | F:fr-FR
+DOC: F: De plus en plus de jeunes diplômés choisissent de travailler dans l'économie sociale et solidaire, malgré des salaires souvent inférieurs à ceux du privé. Ils mettent en avant le sens de leur travail et une meilleure ambiance, des critères qui comptent désormais autant que la rémunération pour cette génération.
+Q: Pourquoi ces jeunes choisissent-ils l'économie sociale et solidaire ?
++ Pour donner du sens à leur travail. | « Ils mettent en avant le sens de leur travail ».
+- Pour gagner plus d'argent. | Les salaires sont « souvent inférieurs ».
+- Parce qu'ils ne trouvent pas d'emploi ailleurs. | Ce n'est pas dit.
+- Pour travailler moins d'heures. | Ce n'est pas mentionné.
+EXP: « Malgré » introduit un obstacle qui n'empêche pas le choix.
+
+## CO 19 | B2 | débat | argumentation | H:fr-FR, F:fr-FR
+DOC: F: Il faudrait que le droit de vote soit accordé dès seize ans. / H: À seize ans, on n'a pas encore l'expérience nécessaire. / F: Je ne suis pas d'accord. Les jeunes sont concernés par le climat, l'éducation, le logement. On leur demande de choisir leur orientation professionnelle à quinze ans, mais pas de donner leur avis sur l'avenir du pays ? C'est incohérent.
+Q: Quel argument la femme utilise-t-elle ?
++ Il est incohérent de leur demander des choix importants sans les laisser voter. | Elle compare l'orientation professionnelle et le vote.
+- Les jeunes ont beaucoup d'expérience. | Elle ne parle pas d'expérience.
+- Le droit de vote devrait être supprimé. | Elle veut l'élargir.
+- Les jeunes ne s'intéressent pas à la politique. | Elle dit qu'ils sont concernés.
+EXP: L'argument par comparaison met en évidence une contradiction (« C'est incohérent »).
+
+## CO 20 | B2 | interview | implicite | F:fr-FR, H:fr-FR
+DOC: F: Votre film a reçu de très bonnes critiques, mais peu de spectateurs. Vous êtes déçu ? / H: Disons que j'aurais aimé qu'il sorte une autre semaine que celle du dernier film de super-héros. Mais bon, on ne choisit pas toujours ses voisins de salle.
+Q: Que sous-entend le réalisateur ?
++ La concurrence d'un grand film a nui à son succès. | Il évoque la sortie simultanée d'un film de super-héros.
+- Son film est mauvais. | Il a reçu de bonnes critiques.
+- Il n'aime pas ses voisins. | « Voisins de salle » est une image.
+- Il est très satisfait du nombre de spectateurs. | Il aurait aimé une autre date.
+EXP: « On ne choisit pas toujours ses voisins de salle » : métaphore pour dire qu'on subit la concurrence.
+
+## CO 21 | C1 | information radio | information détaillée | H:fr-FR
+DOC: H: Une proposition de loi vise à encadrer le travail des enfants influenceurs. Les revenus perçus par les mineurs devraient être placés sur un compte bloqué jusqu'à leur majorité, et les plateformes seraient tenues de retirer les contenus à la demande de l'enfant lui-même, sans l'accord des parents.
+Q: Quelle mesure concerne directement les enfants ?
++ Ils pourraient faire supprimer des vidéos sans l'accord de leurs parents. | « retirer les contenus à la demande de l'enfant lui-même ».
+- Ils pourraient utiliser librement leur argent. | L'argent est bloqué jusqu'à la majorité.
+- Ils seraient interdits sur les réseaux. | Ce n'est pas dit.
+- Leurs parents seraient sanctionnés. | Ce n'est pas mentionné.
+EXP: « Être tenu de » = être obligé de. Le conditionnel signale un projet de loi.
+
+## CO 22 | B2 | conversation professionnelle | intention | F:fr-FR, H:fr-FR
+DOC: H: J'aimerais qu'on parle de mon évolution. Ça fait trois ans que je suis au même poste et j'ai pris en charge de nouvelles missions. / F: C'est vrai, et votre travail est apprécié. Je ne peux rien vous promettre pour le salaire cette année, mais je peux proposer votre nom pour la formation de chef d'équipe. / H: Ce serait déjà un premier pas.
+Q: Que propose la responsable ?
++ Une formation qui pourrait mener à une promotion. | La formation de chef d'équipe.
+- Une augmentation immédiate. | Elle ne peut rien promettre pour le salaire.
+- Un changement d'entreprise. | Ce n'est pas proposé.
+- La suppression de ses nouvelles missions. | Ce n'est pas évoqué.
+EXP: « Un premier pas » montre que le salarié accepte une solution partielle.
+
+## CO 23 | C1 | débat | argumentation | H:fr-FR, F:fr-CA
+DOC: H: Les quotas de femmes dans les conseils d'administration, c'est humiliant pour les femmes compétentes. / F: Ce qui est humiliant, c'est qu'il ait fallu une loi pour que des femmes compétentes, il y en avait des milliers, accèdent enfin à ces postes. Les quotas ne sont pas une fin en soi, c'est un levier temporaire pour corriger un déséquilibre.
+Q: Comment la femme répond-elle à l'argument de l'homme ?
++ Elle retourne l'argument de l'humiliation. | « Ce qui est humiliant, c'est qu'il ait fallu une loi… ».
+- Elle admet que les quotas sont humiliants. | Elle conteste cette idée.
+- Elle propose de supprimer les quotas immédiatement. | Elle les juge utiles temporairement.
+- Elle dit que peu de femmes sont compétentes. | Elle dit qu'il y en avait des milliers.
+EXP: Le retournement d'argument reprend le mot de l'adversaire (« humiliant ») pour lui donner un autre sens. « Levier » = moyen d'action.
+
+## CO 24 | C1 | interview | opinion | F:fr-FR, H:fr-BE
+DOC: H: Les jeunes lisent-ils encore la presse ? / F: Ils la lisent autrement : par fragments, sur leur téléphone, via des newsletters ou des vidéos. Le danger n'est pas qu'ils lisent moins, c'est qu'ils ne sachent plus distinguer une information vérifiée d'une rumeur. Le défi pour les journalistes est d'aller les chercher là où ils sont, sans renoncer à la rigueur.
+Q: Quel danger la journaliste identifie-t-elle ?
++ La difficulté à distinguer information fiable et rumeur. | « c'est qu'ils ne sachent plus distinguer une information vérifiée d'une rumeur ».
+- La disparition totale de la lecture. | Ils lisent « autrement ».
+- La baisse de qualité des journaux. | Ce n'est pas le danger cité.
+- L'usage excessif des newsletters. | Les newsletters sont un mode de lecture, pas le danger.
+EXP: « Le danger n'est pas que…, c'est que… » oppose une crainte courante à la vraie menace.
+
+## CO 25 | C1 | information radio | implicite | H:fr-FR
+DOC: H: Le ministre a annoncé hier la création de dix mille places en crèche d'ici 2030. Une annonce qui rappellera quelque chose aux auditeurs attentifs : la même promesse avait été faite en 2015, puis en 2020. Les parents, eux, attendent toujours.
+Q: Que suggère le journaliste ?
++ La promesse risque de ne pas être tenue. | Elle a déjà été faite deux fois sans résultat.
+- Le ministre est très efficace. | Le ton est critique.
+- Les crèches ont déjà été construites. | « Les parents attendent toujours ».
+- Les parents ne veulent pas de crèches. | Ils les attendent.
+EXP: Le rappel des promesses passées et « attendent toujours » suggèrent le scepticisme.
+
+## CE 1 | A2 | annonce | information précise
+DOC: Recherche baby-sitter pour deux enfants (4 et 7 ans), le mercredi après-midi de 13 h à 18 h. Expérience souhaitée. 12 € de l'heure. Appeler Mme Laurent au 06 22 33 44 55.
+Q: Quand la baby-sitter doit-elle travailler ?
++ Le mercredi après-midi. | « le mercredi après-midi de 13 h à 18 h ».
+- Tous les soirs. | Seulement le mercredi.
+- Le week-end. | Ce n'est pas indiqué.
+- Le mercredi matin. | C'est l'après-midi.
+EXP: Repérez les indications de temps : jour et horaires.
+
+## CE 2 | A2 | message | information précise
+DOC: Papa, je suis chez Lucas pour réviser l'examen de demain. Sa mère me ramènera à la maison vers 21 h. J'ai mangé chez eux. Bisous, Emma.
+Q: Comment Emma va-t-elle rentrer ?
++ La mère de Lucas va la ramener. | « Sa mère me ramènera à la maison ».
+- Son père va venir la chercher. | Ce n'est pas demandé.
+- Elle va rentrer à pied. | Ce n'est pas dit.
+- Elle va dormir chez Lucas. | Elle rentre vers 21 h.
+EXP: « Sa mère » désigne la mère de Lucas.
+
+## CE 3 | A2 | affiche | information précise
+DOC: CONCOURS DE PHOTOS – Thème : « Ma ville en hiver ». Ouvert à tous les habitants. Envoyez une photo maximum par personne avant le 31 janvier à concours@ville.fr. Prix : un appareil photo.
+Q: Combien de photos peut-on envoyer ?
++ Une seule. | « une photo maximum par personne ».
+- Trois. | Ce n'est pas indiqué.
+- Autant qu'on veut. | Il y a un maximum.
+- Deux. | Ce n'est pas indiqué.
+EXP: « Maximum » fixe une limite.
+
+## CE 4 | B1 | courriel | intention
+DOC: Monsieur le Directeur, je travaille dans votre entreprise depuis cinq ans en tant qu'assistante commerciale. Pour des raisons familiales, je souhaiterais réduire mon temps de travail à 80 % à partir du 1er septembre, en ne travaillant pas le mercredi. Je reste à votre disposition pour en discuter. Respectueusement, Laura Bensaïd
+Q: Que demande Laura ?
++ À travailler à temps partiel. | « réduire mon temps de travail à 80 % ».
+- Une augmentation. | Ce n'est pas demandé.
+- À démissionner. | Elle veut rester.
+- Un changement de poste. | Elle reste assistante commerciale.
+EXP: Une demande formelle précise l'objet, la date et la modalité.
+
+## CE 5 | B1 | article de presse | information globale
+DOC: À Lille, des étudiants proposent gratuitement de l'aide aux personnes âgées pour leurs démarches en ligne. Une fois par semaine, ils tiennent une permanence à la médiathèque. Impôts, rendez-vous médicaux, messages à la famille : les demandes sont nombreuses. En échange, les étudiants valident des crédits pour leur diplôme.
+Q: Que reçoivent les étudiants en échange ?
++ Des crédits pour leur diplôme. | « les étudiants valident des crédits ».
+- Un salaire. | L'aide est gratuite et non payée.
+- Un logement gratuit. | Ce n'est pas mentionné.
+- Des cours d'informatique. | Ce n'est pas mentionné.
+EXP: « En échange » introduit la contrepartie.
+
+## CE 6 | B1 | lettre administrative | information précise
+DOC: Madame, vous avez été désignée par tirage au sort pour faire partie du jury d'assises lors de la session du 3 au 21 mars. Votre présence est obligatoire, sauf motif grave dûment justifié. Une indemnité journalière vous sera versée, ainsi que le remboursement de vos frais de transport.
+Q: Dans quel cas la destinataire peut-elle ne pas venir ?
++ Si elle a une raison grave prouvée. | « sauf motif grave dûment justifié ».
+- Si elle a du travail. | Ce n'est pas un motif suffisant en soi.
+- Si elle n'aime pas la justice. | Ce n'est pas valable.
+- Si elle habite loin. | Les frais de transport sont remboursés.
+EXP: « Dûment » = de manière correcte et prouvée. « Sauf » introduit une exception.
+
+## CE 7 | B1 | publicité | information précise
+DOC: Agence immobilière Domus – Vous vendez votre appartement ? Estimation gratuite en 48 h. Frais d'agence réduits de 30 % pour toute signature avant le 30 juin. Plus de 15 ans d'expérience dans votre quartier.
+Q: Quelle condition permet de payer moins de frais ?
++ Signer avant le 30 juin. | « Frais d'agence réduits de 30 % pour toute signature avant le 30 juin ».
+- Demander une estimation. | L'estimation est gratuite, mais ce n'est pas la condition.
+- Vendre en 48 heures. | 48 h concerne l'estimation.
+- Habiter dans le quartier depuis 15 ans. | Les 15 ans concernent l'agence.
+EXP: Distinguez les avantages : estimation gratuite et réduction des frais avec condition.
+
+## CE 8 | B1 | message professionnel | information précise
+DOC: Chers collaborateurs, pour améliorer la sécurité, les badges d'accès seront remplacés la semaine prochaine. Merci de passer à l'accueil entre le 10 et le 14 avec votre ancien badge pour l'échanger. Après le 14, les anciens badges ne fonctionneront plus.
+Q: Que se passera-t-il après le 14 ?
++ Les anciens badges ne permettront plus d'entrer. | « les anciens badges ne fonctionneront plus ».
+- L'accueil sera fermé. | Ce n'est pas dit.
+- Les nouveaux badges seront désactivés. | C'est l'inverse.
+- Les salariés devront payer un badge. | Ce n'est pas dit.
+EXP: La date limite fixe la fin de validité des anciens badges.
+
+## CE 9 | B1 | témoignage | opinion
+DOC: « J'ai suivi des cours de français à l'association du quartier pendant deux ans. Au début, je n'osais pas parler. Les bénévoles étaient patients et on riait beaucoup. Aujourd'hui, je fais mes courses et mes démarches seule. Je me sens enfin chez moi. » Aïcha, 44 ans.
+Q: Qu'est-ce que les cours ont apporté à Aïcha ?
++ De l'autonomie et un sentiment d'appartenance. | Elle fait ses démarches seule et se sent « chez elle ».
+- Un diplôme universitaire. | Ce n'est pas mentionné.
+- Un emploi dans l'association. | Ce n'est pas dit.
+- Des difficultés à parler. | C'était au début.
+EXP: « Je me sens enfin chez moi » exprime l'intégration.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: De plus en plus d'entreprises recrutent sans exiger de diplôme, sur la base de tests pratiques et d'entretiens de motivation. Une manière d'élargir le vivier de candidats dans les métiers en tension, mais aussi de donner sa chance à des profils autodidactes. Reste que le diplôme demeure, pour beaucoup de recruteurs, un gage de sérieux difficile à remplacer.
+Q: Quelle est l'idée principale ?
++ Le recrutement sans diplôme se développe, mais le diplôme garde de l'importance. | Tendance et limite (« Reste que »).
+- Le diplôme est devenu inutile. | Il « demeure un gage de sérieux ».
+- Les entreprises refusent les autodidactes. | Elles leur donnent leur chance.
+- Les métiers en tension ont disparu. | Ce n'est pas dit.
+EXP: « Vivier » = réservoir de candidats. « Reste que » = cependant. « Gage » = garantie.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: On reproche souvent aux jeunes leur désengagement politique, chiffres d'abstention à l'appui. C'est confondre engagement et vote. Jamais les associations, les pétitions en ligne ou les mobilisations pour le climat n'ont attiré autant de moins de trente ans. Ce n'est pas la politique qu'ils désertent, ce sont les urnes.
+Q: Que veut démontrer l'auteur ?
++ Les jeunes s'engagent autrement que par le vote. | « Ce n'est pas la politique qu'ils désertent, ce sont les urnes ».
+- Les jeunes ne s'intéressent pas à la politique. | Il conteste cette idée.
+- Les jeunes votent plus que leurs aînés. | Il parle d'abstention.
+- Les associations sont en déclin. | C'est le contraire.
+EXP: « C'est confondre X et Y » introduit une distinction. La phrase finale résume la thèse.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Madame, suite à notre entretien, j'ai le plaisir de vous confirmer votre embauche à compter du 1er juin. Votre contrat sera assorti d'une période d'essai de trois mois, renouvelable une fois.
+Q: Que signifie « assorti de » ?
++ accompagné de. | Le contrat comprend une période d'essai.
+- remplacé par. | Ce n'est pas le sens.
+- précédé d'un refus. | Ce n'est pas le sens.
+- annulé par. | Ce n'est pas le sens.
+EXP: « Assortir de » = accompagner de, ajouter.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: Pour faciliter l'insertion des personnes réfugiées, un programme propose un parrainage par des habitants volontaires. Chaque binôme se rencontre au moins deux fois par mois pendant un an : visites, aide aux démarches, conversations en français. Les organisateurs constatent que les participants trouvent un emploi deux fois plus vite que la moyenne.
+Q: Quel résultat a été observé ?
++ Les personnes parrainées trouvent plus rapidement du travail. | « trouvent un emploi deux fois plus vite ».
+- Les parrains apprennent une langue étrangère. | Ce n'est pas mentionné.
+- Le programme dure deux ans. | Il dure un an.
+- Les binômes se voient chaque jour. | Deux fois par mois.
+EXP: « Binôme » = groupe de deux personnes.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Monsieur, votre demande de logement social a été enregistrée sous le numéro 2024-58712. Elle est valable un an et devra être renouvelée chaque année, à la date anniversaire, sous peine de radiation. Toute modification de votre situation (revenus, composition familiale) doit nous être signalée.
+Q: Que se passera-t-il si la demande n'est pas renouvelée ?
++ Elle sera supprimée. | « sous peine de radiation ».
+- Elle sera automatiquement acceptée. | C'est l'inverse.
+- Elle sera prolongée d'un an. | Il faut la renouveler.
+- Le demandeur paiera une amende. | Ce n'est pas mentionné.
+EXP: « Sous peine de » = sinon on subit. « Radiation » = suppression d'une liste.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: Le bénévolat est souvent présenté comme un acte purement altruiste. Pourtant, nombre de bénévoles reconnaissent en retirer des bénéfices personnels : compétences, réseau, estime de soi. Loin de diminuer la valeur de leur engagement, cette réciprocité en garantit au contraire la durée.
+Q: Selon l'auteur, quel est l'effet des bénéfices personnels ?
++ Ils permettent aux bénévoles de s'engager durablement. | « cette réciprocité en garantit… la durée ».
+- Ils diminuent la valeur du bénévolat. | « Loin de diminuer » dit l'inverse.
+- Ils rendent le bénévolat égoïste. | Ce n'est pas la thèse.
+- Ils découragent les bénévoles. | C'est le contraire.
+EXP: « Loin de… au contraire » exprime une opposition forte.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: La réforme des rythmes scolaires prévoit de raccourcir les vacances d'été de deux semaines. Les chronobiologistes l'approuvent, estimant qu'une coupure trop longue nuit aux apprentissages. Les professionnels du tourisme, eux, s'inquiètent d'une saison raccourcie, tandis que les enseignants réclament surtout d'être consultés.
+Q: Que demandent les enseignants ?
++ Être associés à la décision. | « réclament surtout d'être consultés ».
+- Des vacances plus longues. | Ce n'est pas dit.
+- Une saison touristique plus longue. | C'est l'inquiétude du tourisme.
+- L'application immédiate de la réforme. | Ce n'est pas dit.
+EXP: « Être consulté » = qu'on demande leur avis.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: Le contrat d'engagement républicain est signé par les étrangers qui souhaitent obtenir un premier titre de séjour pluriannuel. Le signataire s'engage notamment à respecter la liberté de conscience, l'égalité entre les femmes et les hommes et à suivre une formation civique ainsi que, si nécessaire, des cours de français.
+Q: Que contient l'engagement du signataire ?
++ Suivre une formation civique et, si besoin, des cours de français. | Ce sont des obligations citées.
+- Obtenir automatiquement la nationalité. | Ce n'est pas le cas.
+- Travailler dans la fonction publique. | Ce n'est pas mentionné.
+- Passer un examen de mathématiques. | Ce n'est pas mentionné.
+EXP: « Pluriannuel » = valable plusieurs années. « Si nécessaire » = selon le niveau.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « À mon arrivée en France, j'ai envoyé cent CV sous mon vrai nom. Deux réponses. Mon ami m'a conseillé d'essayer avec un prénom plus "classique". Dix réponses en une semaine. Même diplôme, même expérience. » Mehdi, 34 ans, ingénieur.
+Q: Que sous-entend Mehdi ?
++ Il a été victime de discrimination à cause de son nom. | Seul le prénom change, et les réponses augmentent.
+- Son CV contenait des erreurs. | Le CV était identique.
+- Il a menti sur ses diplômes. | « Même diplôme ».
+- Les entreprises ne recrutaient pas. | Elles ont répondu au second CV.
+EXP: Le contraste chiffré, à compétences égales, suggère une discrimination sans la nommer.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Faut-il rendre le vote obligatoire ? Les partisans soulignent que l'abstention affaiblit la légitimité des élus et que le vote est un devoir civique. Les opposants rappellent que voter est aussi une liberté, qui inclut celle de ne pas voter, et craignent que l'obligation ne multiplie les votes blancs ou faits au hasard.
+Q: Quel argument est avancé par les opposants ?
++ La liberté de voter inclut la liberté de s'abstenir. | « voter est aussi une liberté, qui inclut celle de ne pas voter ».
+- L'abstention affaiblit les élus. | C'est l'argument des partisans.
+- Le vote est un devoir civique. | C'est l'argument des partisans.
+- Le vote obligatoire coûte cher. | Ce n'est pas mentionné.
+EXP: « Craindre que… ne + subjonctif » : « ne » explétif, sans valeur négative.
+
+## CE 20 | B2 | article de presse | relation logique
+DOC: Les cinémas indépendants résistent mieux que prévu à la concurrence des plateformes. Leur programmation exigeante et les rencontres avec les réalisateurs fidélisent un public en quête d'expérience collective. Toutefois, la hausse des coûts de l'énergie fragilise les plus petites salles, dont plusieurs ont dû réduire leurs horaires.
+Q: Qu'est-ce qui menace les petites salles ?
++ L'augmentation du prix de l'énergie. | « la hausse des coûts de l'énergie fragilise les plus petites salles ».
+- La concurrence des plateformes. | Elles y résistent mieux que prévu.
+- Le manque de films. | Ce n'est pas dit.
+- La baisse de la fréquentation. | Elles fidélisent leur public.
+EXP: « Toutefois » introduit une difficulté après un constat positif.
+
+## CE 21 | C1 | texte argumentatif | intention de l'auteur
+DOC: On vante volontiers la « méritocratie » scolaire. Encore faudrait-il que tous partent de la même ligne. Quand certains élèves bénéficient de cours particuliers, de stages obtenus par relation et de bibliothèques familiales, tandis que d'autres partagent une chambre à trois pour faire leurs devoirs, parler de mérite relève davantage de l'incantation que du constat.
+Q: Que critique l'auteur ?
++ L'idée que la réussite scolaire dépend seulement du mérite. | Il montre les inégalités de départ.
+- Les cours particuliers. | Il les cite comme exemple d'avantage, sans les critiquer en soi.
+- Les élèves qui partagent une chambre. | Il les présente comme désavantagés.
+- L'existence de l'école publique. | Ce n'est pas l'objet.
+EXP: « Incantation » = formule répétée sans effet réel. « Encore faudrait-il » introduit une condition non remplie.
+
+## CE 22 | C1 | article de presse | sens d'un mot en contexte
+DOC: Le ministre a dû faire amende honorable après ses propos jugés méprisants envers les agriculteurs.
+Q: Que signifie « faire amende honorable » ?
++ reconnaître publiquement ses torts et s'excuser. | Après des propos méprisants, il a dû s'excuser.
+- payer une amende. | Ce n'est pas le sens figuré.
+- recevoir un honneur. | Ce n'est pas le sens.
+- démissionner. | Ce n'est pas le sens.
+EXP: Expression figée : reconnaître publiquement sa faute.
+
+## CE 23 | C1 | texte argumentatif | arguments contradictoires
+DOC: Pour les uns, la généralisation du télétravail libère les salariés des contraintes de transport et favorise l'équilibre entre vie professionnelle et vie privée. Pour les autres, elle brouille précisément cette frontière, le domicile devenant un bureau permanent. Les deux constats sont fondés : tout dépend des conditions dans lesquelles il s'exerce et du droit effectif à la déconnexion.
+Q: Quelle est la position de l'auteur ?
++ Les deux points de vue sont justes ; tout dépend des conditions. | « Les deux constats sont fondés : tout dépend… ».
+- Le télétravail est toujours bénéfique. | C'est un seul point de vue.
+- Le télétravail doit être interdit. | Ce n'est pas dit.
+- Le droit à la déconnexion est inutile. | Il le juge déterminant.
+EXP: L'auteur ne tranche pas entre les deux camps mais déplace la question vers les conditions.
+
+## CE 24 | C1 | article de presse | sous-entendu
+DOC: L'entreprise, qui vient de supprimer quatre cents postes, a annoncé dans le même communiqué la hausse de 20 % de la rémunération de son PDG, « afin de récompenser une gestion rigoureuse ».
+Q: Que suggère la juxtaposition de ces deux informations ?
++ Une contradiction choquante entre les décisions. | La rigueur s'applique aux salariés licenciés, pas au PDG.
+- La gestion de l'entreprise est exemplaire. | Le journaliste suggère l'inverse.
+- Les salariés vont être augmentés. | Ils sont licenciés.
+- Le PDG a perdu son poste. | Il est augmenté.
+EXP: Le journaliste ne commente pas : il juxtapose deux faits et cite la justification entre guillemets pour en souligner le cynisme.
+
+## CE 25 | C1 | document informatif | compréhension globale
+DOC: La laïcité, principe inscrit dans la Constitution, repose sur trois piliers : la liberté de conscience, la séparation des institutions publiques et des organisations religieuses, et l'égalité de tous devant la loi quelles que soient leurs croyances. Elle impose la neutralité à l'État et à ses agents, non aux citoyens, qui restent libres de manifester leurs convictions dans les limites de l'ordre public.
+Q: À qui s'impose l'obligation de neutralité ?
++ À l'État et à ses agents. | « Elle impose la neutralité à l'État et à ses agents, non aux citoyens ».
+- À tous les citoyens. | Les citoyens restent libres.
+- Uniquement aux organisations religieuses. | Ce n'est pas dit.
+- Aux entreprises privées. | Ce n'est pas mentionné.
+EXP: La structure « à X, non à Y » distingue clairement les obligations.
+
+## EE 1 | A2 | décrire une situation
+CONSIGNE: Vous venez de commencer un nouveau travail. Vous écrivez un message à un membre de votre famille pour décrire votre première journée (lieu, collègues, impressions) (30 à 60 mots).
+MODELE: Coucou maman ! Ma première journée s'est très bien passée. Le bureau est moderne et lumineux, au dixième étage, avec une belle vue sur la ville. Mes collègues sont accueillants : une collègue m'a fait visiter les locaux. J'étais un peu stressé le matin, mais maintenant je suis content. Je t'appelle ce soir !
+POINTS: saluer ; décrire le lieu ; décrire les collègues ; impressions ; conclusion
+CONSEILS: Utilisez le passé composé pour les actions et l'imparfait pour les sentiments passés.
+
+## EE 2 | B1 | présenter une activité
+CONSIGNE: Vous faites partie d'une association et vous voulez attirer de nouveaux bénévoles. Vous écrivez un texte pour le site de la mairie pour présenter les activités de l'association (40 à 90 mots).
+MODELE: Vous avez quelques heures libres par semaine ? Rejoignez l'association « Lire ensemble » ! Depuis dix ans, nous aidons les enfants du quartier à faire leurs devoirs et à découvrir le plaisir de la lecture. Nos bénévoles interviennent le mardi et le jeudi, de 17 h à 19 h, à la médiathèque. Aucune compétence particulière n'est exigée : il suffit d'être patient et motivé. Une formation gratuite est proposée à chaque nouveau bénévole. Contactez-nous vite !
+POINTS: accroche ; présentation de l'association ; activités et horaires ; conditions ; appel à l'action
+CONSEILS: Utilisez l'impératif pour inciter (Rejoignez, Contactez-nous) et le présent pour décrire.
+
+## EE 3 | B2 | expliquer ses préférences
+CONSIGNE: Un magazine demande à ses lecteurs : « Préférez-vous travailler dans une grande entreprise ou dans une petite structure ? » Vous répondez en expliquant vos préférences et en les justifiant (40 à 90 mots).
+MODELE: Personnellement, je préfère travailler dans une petite structure. En effet, on y est plus polyvalent : on touche à tout et on apprend vite. De plus, les relations sont plus directes ; il est facile de proposer une idée au directeur. Certes, une grande entreprise offre souvent un meilleur salaire et plus de possibilités d'évolution. Toutefois, je privilégie l'ambiance et l'autonomie. C'est pourquoi, pour le moment, je reste fidèle aux petites équipes.
+POINTS: préférence claire ; deux arguments ; concession ; conclusion
+CONSEILS: Comparez avec plus/moins… que, et équilibrez par « certes… toutefois ».
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous interroge sur votre parcours professionnel, vos expériences passées et vos projets. Donnez des détails et des exemples.
+RELANCES: Parlez-moi de votre parcours professionnel. / Quel a été votre premier emploi ? / Qu'avez-vous appris dans votre dernier poste ? / Quelle est votre plus grande qualité au travail ? / Avez-vous déjà travaillé en équipe ? Racontez. / Quel métier aimeriez-vous exercer dans cinq ans ?
+PHRASES: J'ai commencé à travailler comme… / Ce poste m'a permis de… / Je dirais que ma principale qualité est… / Un jour, nous avons dû… / Dans cinq ans, je me vois…
+MODELE: J'ai commencé à travailler à dix-huit ans comme serveur dans un restaurant. Ce poste m'a appris à garder mon calme et à être organisé. Ensuite, j'ai fait une formation en logistique et je travaille depuis trois ans dans un entrepôt, où je gère les stocks. Je dirais que ma principale qualité est la fiabilité. Dans cinq ans, je me vois responsable d'équipe.
+
+## EO 2 | B2 | Demander des informations à un employeur | Responsable du recrutement
+SCENARIO: Vous avez vu une offre d'emploi qui vous intéresse. Vous appelez l'entreprise pour obtenir des précisions. L'examinateur joue le rôle du responsable du recrutement. Posez des questions sur le poste, les horaires, le salaire, le télétravail, les perspectives.
+RELANCES: Bonjour, vous appelez pour l'offre de chargé de clientèle ? / Le poste est en CDD de six mois. / Les horaires varient : certaines semaines, il faut travailler le samedi. / Le salaire dépend de l'expérience. / Le télétravail est possible après la période d'essai. / Avez-vous d'autres questions ?
+PHRASES: J'aimerais avoir quelques précisions sur… / Est-ce que le CDD pourrait déboucher sur… ? / Comment s'organise le travail le samedi ? / Pourriez-vous me donner une fourchette de salaire ? / Quelles sont les possibilités d'évolution ?
+MODELE: Bonjour, j'ai vu votre offre de chargé de clientèle et j'aimerais avoir quelques précisions. Le CDD de six mois pourrait-il déboucher sur un CDI ? Concernant le samedi, combien de samedis par mois faut-il prévoir, et sont-ils récupérés en semaine ? Pourriez-vous me donner une fourchette de salaire pour quelqu'un qui a trois ans d'expérience ? Enfin, le télétravail, c'est combien de jours par semaine ?
+
+## EO 3 | B2 | La formation continue est-elle indispensable ? | Examinateur
+SCENARIO: Donnez votre opinion : « Aujourd'hui, la formation continue est-elle indispensable tout au long de la vie professionnelle ? » Argumentez, donnez des exemples, nuancez et concluez.
+RELANCES: Quelle est votre opinion ? / Pouvez-vous illustrer avec un exemple ? / Qui devrait payer ces formations ? / N'est-ce pas difficile de se former quand on travaille ? / Quelle est votre conclusion ?
+PHRASES: Il me semble essentiel de… / Tout d'abord… / En outre… / Il ne faut cependant pas perdre de vue que… / En définitive…
+MODELE: Il me semble essentiel de se former tout au long de sa vie. Tout d'abord, les métiers évoluent très vite, surtout avec le numérique : ma sœur, comptable, a dû apprendre de nouveaux logiciels. En outre, la formation permet de changer de métier. Il ne faut cependant pas perdre de vue que se former demande du temps et de l'énergie ; les entreprises devraient donc l'intégrer au temps de travail. En définitive, c'est indispensable, à condition d'être bien accompagné.

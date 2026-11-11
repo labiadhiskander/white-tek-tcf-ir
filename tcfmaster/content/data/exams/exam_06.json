@@ -1,0 +1,1974 @@
+{
+ "code": "EXAM-06",
+ "title": "Examen blanc n° 6 – Voyages, argent et bien-être",
+ "level": "B2",
+ "description": "Examen complet calibré B1–B2 : tourisme, banque, assurance, santé, famille, technologies.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Votre attention, s'il vous plaît. Un enfant de six ans, prénommé Lucas, attend ses parents à l'accueil du magasin, au rez-de-chaussée. Merci.",
+   "prompt": "Où se trouve l'enfant ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Au premier étage.",
+     "correct": false,
+     "rationale": "Il est au rez-de-chaussée."
+    },
+    {
+     "label": "B",
+     "text": "Au parking.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "À l'accueil, au rez-de-chaussée.",
+     "correct": true,
+     "rationale": "« attend ses parents à l'accueil du magasin, au rez-de-chaussée »."
+    },
+    {
+     "label": "D",
+     "text": "À la caisse.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Repérez le lieu indiqué : l'accueil, rez-de-chaussée.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "H: Bonjour Madame, c'est l'auto-école. Votre examen du permis de conduire est fixé au mardi 14 mai à 8 h 30. Rendez-vous devant l'agence à 8 heures. Bonne chance !",
+   "prompt": "À quelle heure faut-il être devant l'agence ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À 9 heures.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "À 14 heures.",
+     "correct": false,
+     "rationale": "14 est la date."
+    },
+    {
+     "label": "C",
+     "text": "À 8 h 30.",
+     "correct": false,
+     "rationale": "C'est l'heure de l'examen."
+    },
+    {
+     "label": "D",
+     "text": "À 8 heures.",
+     "correct": true,
+     "rationale": "« Rendez-vous devant l'agence à 8 heures »."
+    }
+   ],
+   "explanation": "Distinguez l'heure du rendez-vous (8 h) et celle de l'examen (8 h 30).",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "F: Bonjour, je cherche un pull pour mon mari. / H: Quelle taille ? / F: Je crois qu'il fait du L. / H: Nous avons ce modèle en bleu ou en gris. / F: Le bleu, il adore cette couleur.",
+   "prompt": "Quel pull la femme choisit-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un pull pour elle-même.",
+     "correct": false,
+     "rationale": "C'est pour son mari."
+    },
+    {
+     "label": "B",
+     "text": "Un pull bleu, taille M.",
+     "correct": false,
+     "rationale": "Elle dit L."
+    },
+    {
+     "label": "C",
+     "text": "Un pull bleu, taille L.",
+     "correct": true,
+     "rationale": "Elle choisit le bleu ; la taille est L."
+    },
+    {
+     "label": "D",
+     "text": "Un pull gris, taille L.",
+     "correct": false,
+     "rationale": "Elle choisit le bleu."
+    }
+   ],
+   "explanation": "Combinez les deux informations : taille et couleur.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "H: Ça te dirait de venir randonner avec nous dimanche ? / F: J'adorerais, mais je me suis tordu la cheville la semaine dernière. Le médecin m'a dit de me reposer encore quinze jours. / H: Dommage ! Ce sera pour la prochaine fois. / F: Avec plaisir.",
+   "prompt": "Comment la femme répond-elle à l'invitation ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle refuse à cause d'une blessure.",
+     "correct": true,
+     "rationale": "Elle s'est tordu la cheville."
+    },
+    {
+     "label": "B",
+     "text": "Elle propose un autre sport.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Elle accepte avec plaisir.",
+     "correct": false,
+     "rationale": "Elle ne peut pas venir."
+    },
+    {
+     "label": "D",
+     "text": "Elle refuse car elle n'aime pas marcher.",
+     "correct": false,
+     "rationale": "Elle « adorerait »."
+    }
+   ],
+   "explanation": "« J'adorerais, mais » : refus poli au conditionnel suivi d'une justification.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-CA"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "F: Bonjour Monsieur Laurent, c'est Sophie de votre agence bancaire. Votre demande de prêt pour la voiture a été acceptée. Pour finaliser le dossier, il faudrait passer signer le contrat avant la fin de la semaine. Je suis à l'agence tous les jours sauf le mercredi.",
+   "prompt": "Quel jour M. Laurent ne pourra-t-il pas voir Sophie ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le mercredi.",
+     "correct": true,
+     "rationale": "« tous les jours sauf le mercredi »."
+    },
+    {
+     "label": "B",
+     "text": "Le samedi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit qu'elle est absente."
+    },
+    {
+     "label": "C",
+     "text": "Le lundi.",
+     "correct": false,
+     "rationale": "Elle est présente."
+    },
+    {
+     "label": "D",
+     "text": "Le vendredi.",
+     "correct": false,
+     "rationale": "Elle est présente."
+    }
+   ],
+   "explanation": "« Sauf » exclut un élément.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information précise",
+   "document": "H: Bonne nouvelle pour les vacanciers : à partir de juillet, les trains de nuit reliant Paris à Nice reprennent du service, trois fois par semaine. Les billets sont en vente dès aujourd'hui, à partir de 29 euros en place assise et 49 euros en couchette.",
+   "prompt": "Combien coûte au minimum une couchette ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "49 euros.",
+     "correct": true,
+     "rationale": "« 49 euros en couchette »."
+    },
+    {
+     "label": "B",
+     "text": "3 euros.",
+     "correct": false,
+     "rationale": "3 correspond à la fréquence."
+    },
+    {
+     "label": "C",
+     "text": "Le prix n'est pas indiqué.",
+     "correct": false,
+     "rationale": "Il est indiqué."
+    },
+    {
+     "label": "D",
+     "text": "29 euros.",
+     "correct": false,
+     "rationale": "C'est le prix d'une place assise."
+    }
+   ],
+   "explanation": "Distinguez les deux tarifs.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous voyagez toujours sans réserver d'hôtel. Ce n'est pas stressant ? / H: Un peu, parfois. Mais c'est comme ça que j'ai vécu mes plus belles rencontres : des familles qui m'ont hébergé, des cafés où on m'a conseillé des endroits magnifiques. Si je réserve tout, j'ai l'impression de suivre un programme, pas de voyager.",
+   "prompt": "Pourquoi l'homme ne réserve-t-il pas ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce qu'il n'aime pas les hôtels.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Pour garder la liberté et faire des rencontres.",
+     "correct": true,
+     "rationale": "Ses plus belles rencontres viennent de l'improvisation."
+    },
+    {
+     "label": "C",
+     "text": "Parce qu'il voyage toujours chez des amis.",
+     "correct": false,
+     "rationale": "Ce sont des inconnus qui l'ont hébergé."
+    },
+    {
+     "label": "D",
+     "text": "Parce que c'est moins cher.",
+     "correct": false,
+     "rationale": "Le prix n'est pas évoqué."
+    }
+   ],
+   "explanation": "Opposition « suivre un programme » / « voyager ».",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Le centre de vaccination sera exceptionnellement ouvert ce samedi de 9 h à 12 h, sans rendez-vous. Pensez à apporter votre carte Vitale et votre carnet de vaccination.",
+   "prompt": "Qu'est-ce qui est exceptionnel ce samedi ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faut un rendez-vous.",
+     "correct": false,
+     "rationale": "C'est « sans rendez-vous »."
+    },
+    {
+     "label": "B",
+     "text": "Le centre est ouvert sans rendez-vous.",
+     "correct": true,
+     "rationale": "« exceptionnellement ouvert ce samedi… sans rendez-vous »."
+    },
+    {
+     "label": "C",
+     "text": "Le centre est fermé.",
+     "correct": false,
+     "rationale": "Il est ouvert."
+    },
+    {
+     "label": "D",
+     "text": "La vaccination est payante.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Exceptionnellement » signale un fonctionnement inhabituel.",
+   "speakers": [
+    "F:fr-BE"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "situation administrative",
+   "skill": "information précise",
+   "document": "H: Bonjour, je voudrais ouvrir un compte bancaire. / F: Vous avez apporté une pièce d'identité, un justificatif de domicile et un justificatif de revenus ? / H: J'ai les deux premiers, mais je commence mon travail le mois prochain. / F: Votre contrat de travail suffira.",
+   "prompt": "Quel document remplace le justificatif de revenus ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La pièce d'identité.",
+     "correct": false,
+     "rationale": "Il l'a déjà."
+    },
+    {
+     "label": "B",
+     "text": "Une lettre de recommandation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Le justificatif de domicile.",
+     "correct": false,
+     "rationale": "Il l'a déjà."
+    },
+    {
+     "label": "D",
+     "text": "Le contrat de travail.",
+     "correct": true,
+     "rationale": "« Votre contrat de travail suffira »."
+    }
+   ],
+   "explanation": "« Suffira » = sera suffisant.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "conversation professionnelle",
+   "skill": "information précise",
+   "document": "F: Le client suisse arrive demain à 10 h. Tu peux aller le chercher à l'aéroport ? / H: Demain matin, j'ai une réunion jusqu'à 11 h. / F: D'accord, je demanderai à Karim. Toi, tu pourras le recevoir pour le déjeuner ? / H: Oui, sans problème.",
+   "prompt": "Que fera l'homme demain ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il partira en Suisse.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Il annulera sa réunion.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Il ira chercher le client à l'aéroport.",
+     "correct": false,
+     "rationale": "Il a une réunion."
+    },
+    {
+     "label": "D",
+     "text": "Il déjeunera avec le client.",
+     "correct": true,
+     "rationale": "« tu pourras le recevoir pour le déjeuner ? — Oui »."
+    }
+   ],
+   "explanation": "Une tâche est refusée, une autre est acceptée.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-CH"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "opinion",
+   "document": "H: Le tourisme de masse détruit les villes comme Venise ou Barcelone. Il faudrait limiter le nombre de visiteurs. / F: Limiter, oui, mais comment ? Avec des quotas, seuls les riches pourront voyager. Je préférerais qu'on mieux répartisse les touristes dans le temps et l'espace, en faisant découvrir d'autres quartiers et d'autres saisons.",
+   "prompt": "Que propose la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Augmenter le prix des voyages.",
+     "correct": false,
+     "rationale": "Elle craint que seuls les riches voyagent."
+    },
+    {
+     "label": "B",
+     "text": "Interdire le tourisme.",
+     "correct": false,
+     "rationale": "Ce n'est pas proposé."
+    },
+    {
+     "label": "C",
+     "text": "Mieux répartir les touristes plutôt que d'imposer des quotas.",
+     "correct": true,
+     "rationale": "« Je préférerais qu'on mieux répartisse les touristes »."
+    },
+    {
+     "label": "D",
+     "text": "Imposer des quotas stricts.",
+     "correct": false,
+     "rationale": "Elle s'y oppose."
+    }
+   ],
+   "explanation": "« Limiter, oui, mais comment ? » : accord sur l'objectif, désaccord sur le moyen.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "F: Les paiements en espèces continuent de reculer. Ils ne représentent plus qu'un quart des achats en magasin. Certains commerçants refusent même désormais les billets, ce qui est pourtant illégal. Les associations rappellent que les personnes âgées et les plus précaires dépendent encore largement de l'argent liquide.",
+   "prompt": "Quel problème est soulevé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le refus des espèces pénalise certaines populations.",
+     "correct": true,
+     "rationale": "Personnes âgées et précaires en dépendent."
+    },
+    {
+     "label": "B",
+     "text": "Les paiements en espèces augmentent.",
+     "correct": false,
+     "rationale": "Ils reculent."
+    },
+    {
+     "label": "C",
+     "text": "Les cartes bancaires sont interdites.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les billets vont être supprimés.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Pourtant illégal » souligne une contradiction. La dernière phrase donne l'enjeu social.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "H: Vous êtes conseillère en gestion de budget. Quelle est l'erreur la plus fréquente ? / F: Sans hésiter : les petits abonnements. Une plateforme de vidéos, une autre de musique, une application de sport qu'on n'utilise plus… Pris un par un, ça paraît rien. Additionnés, ça peut représenter plus de cent euros par mois.",
+   "prompt": "Quelle erreur la conseillère cite-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ne pas épargner pour la retraite.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Acheter une voiture trop chère.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Accumuler de petits abonnements.",
+     "correct": true,
+     "rationale": "« les petits abonnements »."
+    },
+    {
+     "label": "D",
+     "text": "Payer en espèces.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Pris un par un… Additionnés… » oppose l'effet isolé et l'effet cumulé.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "message téléphonique",
+   "skill": "implicite",
+   "document": "F: Salut Nico, c'est Léa. Merci encore de m'avoir prêté ton appareil photo pour le voyage. Il a fait des photos superbes ! Bon… il faudrait que je te parle de l'objectif. Rien de dramatique, mais je préfère te l'expliquer en face. Je t'invite au resto ce soir ?",
+   "prompt": "Que comprend-on ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Léa a probablement abîmé l'objectif.",
+     "correct": true,
+     "rationale": "Elle veut en parler en face et l'invite pour se faire pardonner."
+    },
+    {
+     "label": "B",
+     "text": "Léa veut acheter l'appareil.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Léa a perdu l'appareil.",
+     "correct": false,
+     "rationale": "Il a fait des photos, elle parle seulement de l'objectif."
+    },
+    {
+     "label": "D",
+     "text": "L'appareil fonctionne parfaitement.",
+     "correct": false,
+     "rationale": "Elle mentionne un problème."
+    }
+   ],
+   "explanation": "« Rien de dramatique, mais » et l'invitation au restaurant suggèrent un incident à se faire pardonner.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "relation logique",
+   "document": "H: Les réservations de l'hôtel ont baissé de vingt pour cent cet été. / F: Ce n'est pas le prix, nous sommes dans la moyenne. Ce sont les avis en ligne : plusieurs clients se sont plaints du bruit des travaux de la rue, et nous n'avons jamais répondu. / H: Alors il faut répondre à chaque avis et proposer une réduction pendant les travaux.",
+   "prompt": "Selon la femme, pourquoi les réservations ont-elles baissé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À cause des prix trop élevés.",
+     "correct": false,
+     "rationale": "« Ce n'est pas le prix »."
+    },
+    {
+     "label": "B",
+     "text": "À cause d'avis négatifs restés sans réponse.",
+     "correct": true,
+     "rationale": "« Ce sont les avis en ligne… nous n'avons jamais répondu »."
+    },
+    {
+     "label": "C",
+     "text": "À cause de la météo.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce que l'hôtel est fermé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La femme écarte une cause puis donne la vraie.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-BE"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "F: Vous proposez des séjours de « détox numérique ». En quoi ça consiste ? / H: Pendant trois jours, les participants déposent leur téléphone à l'arrivée. Au programme : randonnées, ateliers de cuisine, soirées autour du feu. Le plus difficile, c'est le premier jour. Ensuite, la plupart disent qu'ils se sentent plus présents, plus attentifs aux autres.",
+   "prompt": "Qu'est-ce qui est le plus difficile pour les participants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le premier jour sans téléphone.",
+     "correct": true,
+     "rationale": "« Le plus difficile, c'est le premier jour »."
+    },
+    {
+     "label": "B",
+     "text": "Le retour à la maison.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Les ateliers de cuisine.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les randonnées.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Le plus difficile, c'est » met en relief la réponse.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-CA"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Information importante : suite à un problème technique, les distributeurs de billets de l'agence seront hors service jusqu'à jeudi. Les retraits restent possibles au guichet aux heures d'ouverture, ou gratuitement dans les distributeurs de nos agences partenaires.",
+   "prompt": "Où peut-on retirer de l'argent gratuitement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dans les distributeurs de l'agence.",
+     "correct": false,
+     "rationale": "Ils sont hors service."
+    },
+    {
+     "label": "B",
+     "text": "Dans les distributeurs des agences partenaires.",
+     "correct": true,
+     "rationale": "« gratuitement dans les distributeurs de nos agences partenaires »."
+    },
+    {
+     "label": "C",
+     "text": "Uniquement en ligne.",
+     "correct": false,
+     "rationale": "On ne retire pas d'argent en ligne."
+    },
+    {
+     "label": "D",
+     "text": "Dans n'importe quel magasin.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Deux solutions sont proposées : le guichet et les partenaires.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "F: Les assurances habitation vont augmenter en moyenne de huit pour cent l'an prochain. Les assureurs justifient cette hausse par la multiplication des catastrophes naturelles, inondations et tempêtes, liées au changement climatique, qui ont fait exploser le coût des indemnisations.",
+   "prompt": "Comment les assureurs justifient-ils la hausse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Par l'augmentation des catastrophes naturelles.",
+     "correct": true,
+     "rationale": "« la multiplication des catastrophes naturelles »."
+    },
+    {
+     "label": "B",
+     "text": "Par la baisse du nombre de clients.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Par la hausse des cambriolages.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Par une nouvelle loi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Justifier par » introduit la cause invoquée.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "F: Les montres connectées qui mesurent le sommeil et le rythme cardiaque, c'est un progrès pour la santé. / H: Pour certains, oui. Mais beaucoup d'utilisateurs deviennent anxieux à force de surveiller leurs chiffres. On voit des gens qui dorment mal parce que leur montre leur dit qu'ils ont mal dormi ! La technologie devrait nous aider, pas nous inquiéter.",
+   "prompt": "Quel risque l'homme évoque-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les montres sont dangereuses pour le cœur.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les utilisateurs peuvent devenir anxieux.",
+     "correct": true,
+     "rationale": "« beaucoup d'utilisateurs deviennent anxieux »."
+    },
+    {
+     "label": "C",
+     "text": "Les montres donnent de fausses informations médicales.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les montres sont trop chères.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "L'exemple paradoxal (mal dormir à cause de la montre) illustre l'argument.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "implicite",
+   "document": "F: Vous avez fait le tour du monde en famille pendant un an. Les enfants n'ont pas pris de retard à l'école ? / H: Ils ont suivi les cours à distance. Et puis, entre nous, je pense qu'ils ont appris plus en un an qu'en trois ans de classe. Leur maîtresse n'était pas tout à fait de cet avis…",
+   "prompt": "Que laisse entendre l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les enfants n'ont rien appris.",
+     "correct": false,
+     "rationale": "Il pense qu'ils ont beaucoup appris."
+    },
+    {
+     "label": "B",
+     "text": "La maîtresse a accompagné la famille.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les enfants ont redoublé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "La maîtresse était plus réservée sur les bénéfices du voyage.",
+     "correct": true,
+     "rationale": "« Leur maîtresse n'était pas tout à fait de cet avis »."
+    }
+   ],
+   "explanation": "« Pas tout à fait de cet avis » est une litote pour un désaccord.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "H: La station de ski de Saint-Pierre a annoncé qu'elle fermerait définitivement ses remontées mécaniques à la fin de la saison. Faute de neige suffisante, elle n'a pu ouvrir que vingt jours l'an dernier. La commune entend se reconvertir dans le tourisme quatre saisons : VTT, randonnée et thermalisme.",
+   "prompt": "Pourquoi la station ferme-t-elle ses remontées ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que les touristes préfèrent le VTT.",
+     "correct": false,
+     "rationale": "C'est la reconversion, pas la cause."
+    },
+    {
+     "label": "B",
+     "text": "À cause d'un accident.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Parce que la commune manque d'argent.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "À cause du manque de neige.",
+     "correct": true,
+     "rationale": "« Faute de neige suffisante »."
+    }
+   ],
+   "explanation": "« Faute de » = par manque de. « Se reconvertir » = changer d'activité.",
+   "speakers": [
+    "H:fr-CH"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "H: Je vous appelle car mon assurance refuse de rembourser les dégâts des eaux de ma cuisine. / F: D'après votre contrat, la garantie ne couvre pas les fuites dues à un défaut d'entretien. / H: Mais l'expert a dit que le tuyau était défectueux depuis l'installation ! / F: Dans ce cas, envoyez-nous son rapport, nous réexaminerons votre dossier.",
+   "prompt": "Que propose la conseillère ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De refuser définitivement.",
+     "correct": false,
+     "rationale": "Elle accepte de réexaminer."
+    },
+    {
+     "label": "B",
+     "text": "De réexaminer le dossier avec le rapport de l'expert.",
+     "correct": true,
+     "rationale": "« envoyez-nous son rapport, nous réexaminerons votre dossier »."
+    },
+    {
+     "label": "C",
+     "text": "De rembourser immédiatement.",
+     "correct": false,
+     "rationale": "Ce n'est pas encore le cas."
+    },
+    {
+     "label": "D",
+     "text": "De changer de contrat.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Dans ce cas » introduit une nouvelle possibilité liée à l'argument du client.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "H: Le tourisme spatial, c'est l'avenir du voyage. / F: L'avenir de qui ? Un vol de quelques minutes émet autant de CO2 qu'un habitant de la planète en plusieurs années. Qu'on finance la recherche spatiale, je l'entends. Mais que des milliardaires s'offrent des excursions pendant qu'on demande aux autres de prendre moins l'avion, c'est indécent.",
+   "prompt": "Quel est l'argument principal de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le tourisme spatial est trop dangereux.",
+     "correct": false,
+     "rationale": "Ce n'est pas son argument."
+    },
+    {
+     "label": "B",
+     "text": "Le tourisme spatial est injuste et très polluant.",
+     "correct": true,
+     "rationale": "Émissions énormes et privilège des milliardaires."
+    },
+    {
+     "label": "C",
+     "text": "La recherche spatiale doit être arrêtée.",
+     "correct": false,
+     "rationale": "Elle accepte de la financer."
+    },
+    {
+     "label": "D",
+     "text": "Tout le monde devrait pouvoir aller dans l'espace.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« L'avenir de qui ? » est une question rhétorique. Elle distingue recherche (acceptée) et tourisme (refusé).",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-CA"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous êtes psychologue. Le burn-out est-il plus fréquent qu'avant ? / H: On en parle davantage, ce qui est une bonne chose. Mais je me méfie d'une lecture purement individuelle : on conseille aux salariés de faire du yoga ou de méditer, alors que le problème vient souvent de l'organisation du travail. On ne soigne pas un environnement toxique avec des exercices de respiration.",
+   "prompt": "Que critique le psychologue ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La pratique du yoga en général.",
+     "correct": false,
+     "rationale": "Il critique son usage comme solution unique."
+    },
+    {
+     "label": "B",
+     "text": "Les salariés qui se plaignent.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Le fait qu'on parle davantage du burn-out.",
+     "correct": false,
+     "rationale": "Il trouve ça positif."
+    },
+    {
+     "label": "D",
+     "text": "Une approche qui fait porter la responsabilité aux seuls individus.",
+     "correct": true,
+     "rationale": "« je me méfie d'une lecture purement individuelle »."
+    }
+   ],
+   "explanation": "La dernière phrase, imagée, résume la critique.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "implicite",
+   "document": "H: La banque a lancé une campagne publicitaire sur le thème « Nous sommes proches de vous ». Dans le même temps, elle a fermé trente agences en milieu rural cette année. La proximité, sans doute, se mesure désormais en kilomètres d'autoroute.",
+   "prompt": "Quel est le ton du journaliste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Admiratif.",
+     "correct": false,
+     "rationale": "Il critique la banque."
+    },
+    {
+     "label": "B",
+     "text": "Enthousiaste.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "C",
+     "text": "Neutre.",
+     "correct": false,
+     "rationale": "Il prend position."
+    },
+    {
+     "label": "D",
+     "text": "Ironique.",
+     "correct": true,
+     "rationale": "La dernière phrase se moque du slogan."
+    }
+   ],
+   "explanation": "L'ironie oppose le slogan (« proches de vous ») aux fermetures d'agences.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "Location de vélos – Plage des Sables. 5 € l'heure, 15 € la journée. Casque offert. Ouvert tous les jours de juin à septembre, de 9 h à 19 h. Pièce d'identité demandée.",
+   "prompt": "Que faut-il laisser pour louer un vélo ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Rien.",
+     "correct": false,
+     "rationale": "Une pièce d'identité est demandée."
+    },
+    {
+     "label": "B",
+     "text": "15 euros de caution.",
+     "correct": false,
+     "rationale": "15 € est le prix de la journée."
+    },
+    {
+     "label": "C",
+     "text": "Un casque.",
+     "correct": false,
+     "rationale": "Il est offert."
+    },
+    {
+     "label": "D",
+     "text": "Une pièce d'identité.",
+     "correct": true,
+     "rationale": "« Pièce d'identité demandée »."
+    }
+   ],
+   "explanation": "Repérez les conditions de location."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Salut Tom, je suis bien arrivée à Lisbonne ! Il fait très beau, 28 degrés. L'hôtel est super, avec une piscine sur le toit. Demain, je visite le quartier de l'Alfama. Je t'envoie des photos ce soir. Bisous, Clara.",
+   "prompt": "Que va faire Clara demain ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Visiter un quartier de Lisbonne.",
+     "correct": true,
+     "rationale": "« Demain, je visite le quartier de l'Alfama »."
+    },
+    {
+     "label": "B",
+     "text": "Changer d'hôtel.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Rentrer chez elle.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Aller à la plage.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Demain » indique le projet."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "affiche",
+   "skill": "information précise",
+   "document": "CABINET MÉDICAL – Dr Martin et Dr Roche. Consultations sur rendez-vous uniquement, du lundi au vendredi. En cas d'urgence la nuit ou le week-end, appelez le 15.",
+   "prompt": "Que faire en cas d'urgence le dimanche ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Attendre lundi.",
+     "correct": false,
+     "rationale": "Il faut appeler le 15."
+    },
+    {
+     "label": "B",
+     "text": "Appeler le 15.",
+     "correct": true,
+     "rationale": "« En cas d'urgence la nuit ou le week-end, appelez le 15 »."
+    },
+    {
+     "label": "C",
+     "text": "Venir au cabinet.",
+     "correct": false,
+     "rationale": "Il est fermé le week-end."
+    },
+    {
+     "label": "D",
+     "text": "Prendre rendez-vous en ligne.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Le 15 est le numéro du SAMU en France."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "courriel",
+   "skill": "intention",
+   "document": "Madame, Monsieur, j'ai séjourné dans votre hôtel du 3 au 7 juillet. À mon retour, j'ai constaté que j'avais oublié une veste noire dans l'armoire de la chambre 214. Pourriez-vous vérifier si elle a été retrouvée et, le cas échéant, me l'envoyer à mes frais ? Merci d'avance. Cordialement, Hélène Rivière",
+   "prompt": "Que demande Hélène Rivière ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une nouvelle réservation.",
+     "correct": false,
+     "rationale": "Ce n'est pas demandé."
+    },
+    {
+     "label": "B",
+     "text": "Un remboursement de son séjour.",
+     "correct": false,
+     "rationale": "Ce n'est pas demandé."
+    },
+    {
+     "label": "C",
+     "text": "Un changement de chambre.",
+     "correct": false,
+     "rationale": "Elle est déjà partie."
+    },
+    {
+     "label": "D",
+     "text": "Qu'on lui renvoie un vêtement oublié.",
+     "correct": true,
+     "rationale": "Elle a oublié une veste et demande l'envoi."
+    }
+   ],
+   "explanation": "« Le cas échéant » = si c'est le cas."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Les « microaventures » séduisent de plus en plus de citadins. Le principe : partir près de chez soi, pour une nuit ou un week-end, sans dépenser beaucoup. Dormir à la belle étoile à une heure de la ville, faire une randonnée au lever du soleil… Pas besoin de prendre l'avion pour se dépayser.",
+   "prompt": "Qu'est-ce qu'une « microaventure » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une compétition sportive.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Un séjour de luxe.",
+     "correct": false,
+     "rationale": "« sans dépenser beaucoup »."
+    },
+    {
+     "label": "C",
+     "text": "Une courte escapade près de chez soi.",
+     "correct": true,
+     "rationale": "« partir près de chez soi, pour une nuit ou un week-end »."
+    },
+    {
+     "label": "D",
+     "text": "Un voyage lointain en avion.",
+     "correct": false,
+     "rationale": "« Pas besoin de prendre l'avion »."
+    }
+   ],
+   "explanation": "« Se dépayser » = changer d'environnement."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Monsieur, nous vous confirmons la résiliation de votre contrat d'assurance automobile à compter du 31 mars. Le montant de la cotisation correspondant à la période non couverte, soit 87 euros, vous sera remboursé par virement sous trente jours.",
+   "prompt": "Que va recevoir le client ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une facture de 87 euros.",
+     "correct": false,
+     "rationale": "C'est un remboursement."
+    },
+    {
+     "label": "B",
+     "text": "Un nouveau contrat.",
+     "correct": false,
+     "rationale": "Le contrat est résilié."
+    },
+    {
+     "label": "C",
+     "text": "Une carte verte.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Un remboursement de 87 euros.",
+     "correct": true,
+     "rationale": "« 87 euros, vous sera remboursé par virement »."
+    }
+   ],
+   "explanation": "« Résiliation » = fin d'un contrat."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "publicité",
+   "skill": "information précise",
+   "document": "Voyagez malin avec la carte Jeune ! Pour 49 € par an, bénéficiez de 30 % de réduction sur tous vos trajets en train, en France et en Europe. Réservée aux 12-27 ans. Valable dès le jour de l'achat.",
+   "prompt": "Qui peut acheter cette carte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les étudiants uniquement.",
+     "correct": false,
+     "rationale": "Il s'agit d'un âge, pas d'un statut."
+    },
+    {
+     "label": "B",
+     "text": "Les plus de 27 ans.",
+     "correct": false,
+     "rationale": "C'est exclu."
+    },
+    {
+     "label": "C",
+     "text": "Toutes les personnes.",
+     "correct": false,
+     "rationale": "Elle est réservée à une tranche d'âge."
+    },
+    {
+     "label": "D",
+     "text": "Les personnes de 12 à 27 ans.",
+     "correct": true,
+     "rationale": "« Réservée aux 12-27 ans »."
+    }
+   ],
+   "explanation": "« Réservée à » limite l'accès."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "Bonjour à tous, notre mutuelle d'entreprise change au 1er janvier. Vous recevrez votre nouvelle carte par courrier en décembre. Les remboursements de soins dentaires et optiques seront améliorés. Une réunion d'information aura lieu le 5 décembre à 12 h 30 en salle polyvalente. Le service RH.",
+   "prompt": "Qu'est-ce qui va s'améliorer ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La cantine.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les salaires.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les horaires de travail.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les remboursements dentaires et optiques.",
+     "correct": true,
+     "rationale": "« Les remboursements de soins dentaires et optiques seront améliorés »."
+    }
+   ],
+   "explanation": "« Mutuelle » = assurance complémentaire santé."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« J'ai essayé le camping pour la première fois l'été dernier. J'avais peur de mal dormir et d'avoir froid. Finalement, j'ai adoré me réveiller au chant des oiseaux. Par contre, la prochaine fois, je prendrai un meilleur matelas ! » Fatima, 35 ans.",
+   "prompt": "Que pense Fatima du camping ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle n'a pas aimé du tout.",
+     "correct": false,
+     "rationale": "Elle a adoré."
+    },
+    {
+     "label": "B",
+     "text": "Elle a aimé, malgré un petit inconvénient.",
+     "correct": true,
+     "rationale": "« j'ai adoré » ; « je prendrai un meilleur matelas »."
+    },
+    {
+     "label": "C",
+     "text": "Elle ne recommencera jamais.",
+     "correct": false,
+     "rationale": "Elle parle de « la prochaine fois »."
+    },
+    {
+     "label": "D",
+     "text": "Elle a eu très froid.",
+     "correct": false,
+     "rationale": "Elle en avait peur, mais ce n'est pas dit qu'elle a eu froid."
+    }
+   ],
+   "explanation": "« Finalement » marque le contraste entre crainte et réalité."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Le « slow travel », ou voyage lent, consiste à privilégier le train, le vélo ou le bateau, et à rester plus longtemps au même endroit. Ses adeptes revendiquent une manière plus respectueuse de l'environnement et des populations locales. Reste que cette pratique suppose du temps, un luxe que tous les salariés ne peuvent pas s'offrir.",
+   "prompt": "Quelle limite l'article souligne-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle est interdite dans certains pays.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Cette façon de voyager demande beaucoup de temps.",
+     "correct": true,
+     "rationale": "« cette pratique suppose du temps, un luxe »."
+    },
+    {
+     "label": "C",
+     "text": "Elle pollue davantage.",
+     "correct": false,
+     "rationale": "Elle est plus respectueuse de l'environnement."
+    },
+    {
+     "label": "D",
+     "text": "Elle ne respecte pas les populations locales.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    }
+   ],
+   "explanation": "« Reste que » introduit une restriction."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "On nous répète que le crédit à la consommation « facilite la vie ». Il la facilite surtout pour les organismes prêteurs, qui affichent des taux d'intérêt parfois supérieurs à 20 %. Payer en quatre fois une paire de baskets ou un téléphone n'est pas une facilité : c'est souvent la porte d'entrée vers le surendettement.",
+   "prompt": "Que veut montrer l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le crédit facilite la vie de tous.",
+     "correct": false,
+     "rationale": "Il conteste ce discours."
+    },
+    {
+     "label": "B",
+     "text": "Le crédit à la consommation présente des dangers.",
+     "correct": true,
+     "rationale": "Taux élevés, risque de surendettement."
+    },
+    {
+     "label": "C",
+     "text": "Les taux d'intérêt sont très bas.",
+     "correct": false,
+     "rationale": "Ils dépassent parfois 20 %."
+    },
+    {
+     "label": "D",
+     "text": "Il faut acheter plus de baskets.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    }
+   ],
+   "explanation": "L'auteur reprend une formule (« facilite la vie ») pour la retourner."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Madame, suite au sinistre survenu à votre domicile le 12 février, un expert mandaté par notre compagnie prendra contact avec vous afin d'évaluer les dommages.",
+   "prompt": "Que signifie « sinistre » dans ce contexte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "un paiement.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "B",
+     "text": "un sentiment de tristesse.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens ici."
+    },
+    {
+     "label": "C",
+     "text": "une fête.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "D",
+     "text": "un accident ou dommage couvert par l'assurance.",
+     "correct": true,
+     "rationale": "Le contexte (expert, évaluer les dommages) le confirme."
+    }
+   ],
+   "explanation": "En assurance, « sinistre » = événement qui cause des dommages (incendie, dégât des eaux…). « Mandaté » = envoyé officiellement."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Face à la surfréquentation, la région des calanques de Marseille a instauré un système de réservation gratuite pour accéder à certaines criques en été. Le nombre de visiteurs est limité à quatre cents par jour. Résultat : la végétation, piétinée depuis des années, commence à repousser, et les visiteurs apprécient le calme retrouvé.",
+   "prompt": "Quel effet a eu la mesure sur la nature ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La pollution a augmenté.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les plages ont été fermées.",
+     "correct": false,
+     "rationale": "L'accès est limité, pas fermé."
+    },
+    {
+     "label": "C",
+     "text": "Les animaux ont disparu.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "La végétation commence à repousser.",
+     "correct": true,
+     "rationale": "« la végétation… commence à repousser »."
+    }
+   ],
+   "explanation": "« Piétinée » = écrasée par les pieds. « Surfréquentation » = trop de visiteurs."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, à la suite de l'analyse de votre dossier, nous vous informons que votre demande de remboursement de frais médicaux engagés à l'étranger a été partiellement acceptée. Les soins urgents seront pris en charge sur la base des tarifs français. Les frais de rapatriement, non prévus par votre contrat, restent à votre charge.",
+   "prompt": "Qu'est-ce qui ne sera pas remboursé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les soins urgents.",
+     "correct": false,
+     "rationale": "Ils seront pris en charge."
+    },
+    {
+     "label": "B",
+     "text": "Les médicaments en France.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    },
+    {
+     "label": "C",
+     "text": "Toutes les dépenses.",
+     "correct": false,
+     "rationale": "La demande est partiellement acceptée."
+    },
+    {
+     "label": "D",
+     "text": "Les frais de rapatriement.",
+     "correct": true,
+     "rationale": "« Les frais de rapatriement… restent à votre charge »."
+    }
+   ],
+   "explanation": "« Partiellement » = en partie. « Rester à charge » = ne pas être remboursé."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "Les applications de méditation ont connu un succès fulgurant. Elles permettent à des millions de personnes de découvrir des techniques de relaxation. Cependant, en transformant la méditation en produit à consommer, avec ses statistiques et ses « séries » à ne pas interrompre, elles risquent de créer une nouvelle source de pression, à l'opposé de l'objectif recherché.",
+   "prompt": "Quel paradoxe l'auteur souligne-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Personne n'utilise ces applications.",
+     "correct": false,
+     "rationale": "Elles ont un succès fulgurant."
+    },
+    {
+     "label": "B",
+     "text": "La méditation est inutile.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Un outil de relaxation peut devenir une source de stress.",
+     "correct": true,
+     "rationale": "« une nouvelle source de pression, à l'opposé de l'objectif »."
+    },
+    {
+     "label": "D",
+     "text": "Les applications sont gratuites.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    }
+   ],
+   "explanation": "« Cependant » introduit le paradoxe. « Fulgurant » = très rapide."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "Le projet de construction d'un grand complexe hôtelier sur le littoral divise la commune. Le maire y voit une chance pour l'emploi local. Les associations écologistes dénoncent la destruction d'une zone humide protégée. Quant aux pêcheurs, ils restent prudents et attendent les études d'impact avant de se prononcer.",
+   "prompt": "Quelle est la position des pêcheurs ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils sont totalement favorables.",
+     "correct": false,
+     "rationale": "Ils restent prudents."
+    },
+    {
+     "label": "B",
+     "text": "Ils voient une chance pour l'emploi.",
+     "correct": false,
+     "rationale": "C'est le maire."
+    },
+    {
+     "label": "C",
+     "text": "Ils dénoncent la destruction de la zone humide.",
+     "correct": false,
+     "rationale": "Ce sont les écologistes."
+    },
+    {
+     "label": "D",
+     "text": "Ils attendent plus d'informations avant de donner leur avis.",
+     "correct": true,
+     "rationale": "« attendent les études d'impact avant de se prononcer »."
+    }
+   ],
+   "explanation": "« Se prononcer » = donner son avis."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "La carte européenne d'assurance maladie (CEAM) permet de bénéficier d'une prise en charge des soins médicaux nécessaires lors d'un séjour temporaire dans un pays de l'Union européenne, selon la législation du pays de séjour. Elle est gratuite, valable deux ans, et doit être demandée au moins deux semaines avant le départ.",
+   "prompt": "Quand faut-il demander la CEAM ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À l'arrivée dans le pays.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Le jour du départ.",
+     "correct": false,
+     "rationale": "C'est trop tard."
+    },
+    {
+     "label": "C",
+     "text": "Au moins deux semaines avant le départ.",
+     "correct": true,
+     "rationale": "« doit être demandée au moins deux semaines avant le départ »."
+    },
+    {
+     "label": "D",
+     "text": "Deux ans avant.",
+     "correct": false,
+     "rationale": "Deux ans est la durée de validité."
+    }
+   ],
+   "explanation": "Distinguez la durée de validité (deux ans) et le délai de demande (deux semaines)."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« L'agence m'avait promis un hôtel \"à deux pas de la plage\". Techniquement, c'était vrai : deux pas… et une autoroute à traverser. » Bruno, 47 ans.",
+   "prompt": "Que sous-entend Bruno ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'hôtel était parfaitement situé.",
+     "correct": false,
+     "rationale": "Le ton est ironique."
+    },
+    {
+     "label": "B",
+     "text": "La description de l'agence était trompeuse.",
+     "correct": true,
+     "rationale": "L'hôtel était séparé de la plage par une autoroute."
+    },
+    {
+     "label": "C",
+     "text": "L'agence lui a remboursé le voyage.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Il a aimé traverser l'autoroute.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Techniquement, c'était vrai » prépare la chute ironique."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Faut-il supprimer les billets de banque ? Les partisans d'une société sans espèces avancent la lutte contre la fraude et le travail au noir, ainsi que la praticité des paiements numériques. Ses opposants s'inquiètent de la surveillance des transactions et de l'exclusion des personnes qui n'ont pas accès aux services bancaires.",
+   "prompt": "Quel argument est avancé par les partisans ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La lutte contre la fraude.",
+     "correct": true,
+     "rationale": "« la lutte contre la fraude et le travail au noir »."
+    },
+    {
+     "label": "B",
+     "text": "L'inclusion des personnes sans banque.",
+     "correct": false,
+     "rationale": "C'est l'inquiétude des opposants."
+    },
+    {
+     "label": "C",
+     "text": "La protection de la vie privée.",
+     "correct": false,
+     "rationale": "C'est plutôt l'inquiétude des opposants."
+    },
+    {
+     "label": "D",
+     "text": "Le coût des cartes bancaires.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Repérez qui dit quoi : partisans vs opposants."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "Les ventes de vélos cargo ont triplé en trois ans. Les familles urbaines les adoptent pour emmener les enfants à l'école ou faire leurs courses. Les aides financières des collectivités, qui peuvent couvrir jusqu'à un tiers du prix, ont largement contribué à ce succès.",
+   "prompt": "Qu'est-ce qui a favorisé ce succès ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'interdiction des voitures.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les aides financières des collectivités.",
+     "correct": true,
+     "rationale": "« Les aides financières… ont largement contribué »."
+    },
+    {
+     "label": "C",
+     "text": "La publicité à la télévision.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "La baisse du prix de l'essence.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Contribuer à » = être une des causes."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "On célèbre l'« économie du partage » comme une révolution solidaire. Pourtant, la location d'appartements entre particuliers a surtout transformé des quartiers entiers en hôtels à ciel ouvert, chassant les habitants permanents et faisant flamber les loyers. Le partage, ici, ressemble fort à une nouvelle forme de spéculation.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'économie du partage cache souvent une logique spéculative.",
+     "correct": true,
+     "rationale": "« ressemble fort à une nouvelle forme de spéculation »."
+    },
+    {
+     "label": "B",
+     "text": "L'économie du partage est une révolution solidaire.",
+     "correct": false,
+     "rationale": "C'est l'idée qu'il conteste."
+    },
+    {
+     "label": "C",
+     "text": "Les loyers ont baissé grâce aux locations.",
+     "correct": false,
+     "rationale": "Ils ont flambé."
+    },
+    {
+     "label": "D",
+     "text": "Les habitants permanents sont plus nombreux.",
+     "correct": false,
+     "rationale": "Ils sont chassés."
+    }
+   ],
+   "explanation": "« Pourtant » introduit la réfutation. « Flamber » = augmenter fortement."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "sens d'un mot en contexte",
+   "document": "L'agence de voyages, en proie à de graves difficultés financières, a été placée en redressement judiciaire. Les clients ayant déjà payé leurs séjours s'inquiètent.",
+   "prompt": "Que signifie « en proie à » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "satisfaite de.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "B",
+     "text": "à l'origine de.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens."
+    },
+    {
+     "label": "C",
+     "text": "confrontée à, victime de.",
+     "correct": true,
+     "rationale": "L'agence subit des difficultés."
+    },
+    {
+     "label": "D",
+     "text": "protégée de.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    }
+   ],
+   "explanation": "« Être en proie à » = être tourmenté, frappé par quelque chose."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments contradictoires",
+   "document": "Pour certains, les assurances qui proposent des réductions aux assurés portant une montre connectée récompensent les comportements sains. Pour d'autres, elles ouvrent la voie à une discrimination des malades et à une surveillance permanente de la vie privée. Entre incitation et contrôle, la frontière est ténue.",
+   "prompt": "Quelle est la conclusion de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les malades paient moins cher.",
+     "correct": false,
+     "rationale": "Le risque est inverse."
+    },
+    {
+     "label": "B",
+     "text": "Les montres connectées sont toujours bénéfiques.",
+     "correct": false,
+     "rationale": "Il présente des risques."
+    },
+    {
+     "label": "C",
+     "text": "Les assurances doivent être interdites.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Il est difficile de distinguer encouragement et surveillance.",
+     "correct": true,
+     "rationale": "« Entre incitation et contrôle, la frontière est ténue »."
+    }
+   ],
+   "explanation": "« Ténue » = très fine, difficile à percevoir."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "sous-entendu",
+   "document": "Le parc d'attractions se vante d'être « accessible à tous ». Avec un billet d'entrée à 89 euros par personne, on suppose que « tous » désigne une catégorie assez restreinte de la population.",
+   "prompt": "Que sous-entend le journaliste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le billet est bon marché.",
+     "correct": false,
+     "rationale": "89 € est présenté comme cher."
+    },
+    {
+     "label": "B",
+     "text": "Le parc est accessible aux personnes handicapées.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sens ici."
+    },
+    {
+     "label": "C",
+     "text": "Le parc est en réalité trop cher pour beaucoup de gens.",
+     "correct": true,
+     "rationale": "Le prix rend le slogan ironique."
+    },
+    {
+     "label": "D",
+     "text": "Le parc est gratuit pour les enfants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Le journaliste joue sur le mot « tous » pour critiquer le prix."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "compréhension globale",
+   "document": "Le droit de rétractation permet à un consommateur ayant acheté un bien ou un service à distance (Internet, téléphone) de changer d'avis sans avoir à se justifier ni à payer de pénalités, dans un délai de quatorze jours. Certaines exceptions existent : billets de transport, séjours à date fixe, produits personnalisés ou denrées périssables.",
+   "prompt": "Quel achat n'est pas concerné par ce droit ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un téléphone commandé sur Internet.",
+     "correct": false,
+     "rationale": "Il est concerné."
+    },
+    {
+     "label": "B",
+     "text": "Un billet de train acheté en ligne.",
+     "correct": true,
+     "rationale": "Les billets de transport font partie des exceptions."
+    },
+    {
+     "label": "C",
+     "text": "Un abonnement à un magazine en ligne.",
+     "correct": false,
+     "rationale": "Ce n'est pas une exception citée."
+    },
+    {
+     "label": "D",
+     "text": "Un livre acheté par téléphone.",
+     "correct": false,
+     "rationale": "Il est concerné."
+    }
+   ],
+   "explanation": "« Périssables » = qui se dégradent vite. Repérez la liste des exceptions."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "décrire une situation",
+   "instructions": "Vous êtes en vacances. Vous envoyez une carte postale à un ami pour décrire l'endroit où vous êtes et ce que vous faites (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Cher Malik, je t'écris de Biarritz, au bord de l'océan. Il fait chaud et le ciel est bleu tous les jours. Le matin, je prends des cours de surf, c'est difficile mais très drôle ! L'après-midi, je me promène dans la vieille ville. Hier, j'ai mangé un excellent poisson grillé. Je pense à toi ! Amitiés, Nadia",
+   "tips": "Utilisez le présent pour les habitudes et le passé composé pour un fait passé.",
+   "expected_points": [
+    "lieu",
+    "météo",
+    "activités",
+    "formule amicale"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "raconter une expérience",
+   "instructions": "Vous avez perdu vos bagages lors d'un voyage en avion. Vous racontez cette mésaventure sur un forum de voyageurs (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Le mois dernier, en arrivant à Montréal, j'ai attendu ma valise pendant une heure… sans la voir arriver ! Au guichet de la compagnie, on m'a demandé de remplir un formulaire et on m'a donné une petite trousse avec une brosse à dents. J'ai dû acheter quelques vêtements le lendemain. Finalement, ma valise est arrivée à mon hôtel trois jours plus tard. Mon conseil : gardez toujours une tenue de rechange dans votre bagage à main !",
+   "tips": "Racontez au passé et terminez par un conseil à l'impératif.",
+   "expected_points": [
+    "contexte",
+    "problème",
+    "démarches",
+    "dénouement",
+    "conseil"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "argumenter sur un sujet de société",
+   "instructions": "« Il faudrait limiter le nombre de touristes dans les sites les plus visités. » Vous donnez votre avis sur cette proposition dans le courrier des lecteurs d'un magazine (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Je suis favorable à une limitation, mais elle doit être pensée intelligemment. En effet, la surfréquentation dégrade les sites naturels et rend la vie des habitants difficile, comme à Venise. Cependant, des quotas trop stricts risqueraient de réserver ces lieux aux plus riches. Il me semble donc préférable d'instaurer des réservations gratuites et de mieux faire connaître d'autres destinations. Ainsi, on protégerait les sites sans exclure personne.",
+   "tips": "Concluez avec « ainsi » pour présenter le résultat de votre proposition.",
+   "expected_points": [
+    "position",
+    "argument",
+    "exemple",
+    "objection",
+    "solution"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous pose des questions sur vos voyages, vos habitudes et vos goûts. Développez vos réponses.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Aimez-vous voyager ?",
+    "Quel est le pays que vous avez préféré ? Pourquoi ?",
+    "Comment organisez-vous vos vacances ?",
+    "Préférez-vous la mer ou la montagne ?",
+    "Quel voyage rêvez-vous de faire ?",
+    "Comment faites-vous pour gérer votre budget ?"
+   ],
+   "useful_phrases": [
+    "Le pays qui m'a le plus marqué, c'est…",
+    "En général, je réserve…",
+    "Je préfère… parce que…",
+    "Mon rêve serait de…",
+    "Pour économiser, je…"
+   ],
+   "model_answer": "J'adore voyager. Le pays qui m'a le plus marqué, c'est le Japon : la cuisine, les temples et la politesse des gens m'ont impressionné. En général, je réserve mes billets plusieurs mois à l'avance pour payer moins cher. Je préfère la montagne, car j'aime la randonnée. Mon rêve serait de traverser le Canada en train."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Faire une réclamation",
+   "examiner_role": "Responsable de l'hôtel",
+   "scenario": "Vous avez réservé une chambre avec vue sur la mer dans un hôtel, mais on vous donne une chambre sur le parking, bruyante. L'examinateur joue le rôle du responsable de l'hôtel. Exprimez votre mécontentement, argumentez et obtenez une solution.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Bonjour, quel est le problème ?",
+    "Nous sommes complets ce soir.",
+    "La différence de prix n'est que de quinze euros.",
+    "Je peux vous offrir le petit-déjeuner.",
+    "Demain, une chambre avec vue se libère.",
+    "Cela vous convient-il ?"
+   ],
+   "useful_phrases": [
+    "J'ai réservé… et on m'a attribué…",
+    "Ce n'est pas du tout ce qui était prévu.",
+    "Je comprends, mais…",
+    "Je souhaiterais au minimum…",
+    "Dans ces conditions, j'accepte si…"
+   ],
+   "model_answer": "Bonjour, j'ai réservé il y a deux mois une chambre avec vue sur la mer, et on m'a donné une chambre au-dessus du parking, très bruyante. Ce n'est pas du tout ce qui était prévu. Je comprends que vous soyez complets, mais c'était pour notre anniversaire de mariage. Je souhaiterais au minimum le remboursement de la différence pour cette nuit et une chambre avec vue dès demain. Si vous ajoutez le petit-déjeuner, j'accepte."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Les réseaux sociaux présentent-ils plus d'avantages que d'inconvénients ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion : « Les réseaux sociaux présentent-ils plus d'avantages que d'inconvénients ? » Développez des arguments, donnez des exemples, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Utilisez-vous les réseaux sociaux ?",
+    "Quels avantages voyez-vous ?",
+    "Et les dangers ?",
+    "Les jeunes devraient-ils être protégés ?",
+    "Votre conclusion ?"
+   ],
+   "useful_phrases": [
+    "Il me semble que…",
+    "D'une part… d'autre part…",
+    "Il ne faut pas négliger le fait que…",
+    "Il serait réducteur de considérer que…",
+    "En tenant compte de ces différents éléments…"
+   ],
+   "model_answer": "Il me semble que les réseaux sociaux ont autant d'avantages que d'inconvénients ; tout dépend de l'usage. D'une part, ils permettent de garder le contact avec sa famille à l'étranger, ce qui est précieux pour moi. D'autre part, il ne faut pas négliger les fausses informations et le harcèlement. Il serait réducteur de les accuser de tous les maux, mais les plus jeunes doivent être accompagnés. En tenant compte de ces éléments, je dirais qu'ils sont utiles, à condition de les utiliser avec modération."
+  }
+ ]
+}

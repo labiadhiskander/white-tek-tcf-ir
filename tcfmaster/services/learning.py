@@ -28,6 +28,9 @@ def normalize(s: str, strict_accents: bool = True) -> str:
     s = re.sub(r"\s+", " ", s)
     s = re.sub(r"\s*'\s*", "'", s)
     s = s.strip(" .!?")
+    # Ponctuation interne tolérante : « ; », « : » et « . » valent une virgule.
+    s = re.sub(r"\s*[,;:.]\s*", ", ", s)
+    s = re.sub(r"\s*([!?])", r"\1", s)
     if not strict_accents:
         s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
     return s
@@ -108,11 +111,16 @@ def conjugation_quiz(s: Session, tenses: list[str] | None = None,
 
 
 def check_conjugation(given: str, expected: str) -> tuple[bool, bool]:
-    """Accepte la forme avec ou sans pronom (« je parle » ou « parle »)."""
+    """Accepte la forme avec ou sans pronom (« je parle » ou « parle ») et,
+    pour les accords notés « allé(e)s », le masculin comme le féminin."""
     alts = [expected]
-    m = re.match(r"^(j'|je |tu |il |elle |on |nous |vous |ils |elles |que |qu')+", expected)
-    if m:
-        alts.append(expected[m.end():])
+    if "(e)" in expected:
+        alts = [expected.replace("(e)", ""), expected.replace("(e)", "e")]
+    pron = r"^(j'|je |tu |il |elle |on |nous |vous |ils |elles |que |qu')+"
+    for a in list(alts):
+        m = re.match(pron, a)
+        if m:
+            alts.append(a[m.end():])
     return check_answer(given, alts)
 
 

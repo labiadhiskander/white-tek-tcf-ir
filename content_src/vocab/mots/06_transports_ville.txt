@@ -1,0 +1,95 @@
+# Transports et ville
+transport | nom | m | A1 | Moyen de se déplacer ou de déplacer des marchandises. | Les transports en commun sont gratuits dans cette ville. | déplacement | transports en commun, moyen de transport
+transports en commun | nom | m | A2 | Moyens de transport collectifs. | Je prends les transports en commun pour aller au travail. | transports publics | réseau de transports en commun
+métro | nom | m | A1 | Train souterrain urbain. | Le métro est bondé aux heures de pointe. | - | ligne de métro, station de métro
+tramway | nom | m | A2 | Train urbain circulant sur rails dans la rue. | Le nouveau tramway relie la gare à l'université. | tram | ligne de tramway
+autobus | nom | m | A1 | Véhicule de transport collectif. | L'autobus passe toutes les dix minutes. | bus | arrêt d'autobus
+arrêt | nom | m | A1 | Lieu où s'arrête un véhicule. | Descendez au prochain arrêt. | station | arrêt de bus
+gare | nom | f | A1 | Lieu de départ et d'arrivée des trains. | Le train part de la gare de Lyon. | station | gare routière, gare SNCF
+quai | nom | m | A2 | Plateforme le long des voies. | Le train à destination de Lille partira du quai 4. | - | sur le quai
+correspondance | nom | f | B1 | Changement de ligne ou de moyen de transport. | J'ai raté ma correspondance à cause du retard. | changement | assurer la correspondance
+abonnement | nom | m | B1 | Forfait pour utiliser un service régulièrement. | Mon employeur rembourse la moitié de mon abonnement. | forfait | abonnement mensuel
+titre de transport | nom | m | B1 | Billet ou carte permettant de voyager. | Les contrôleurs vérifient les titres de transport. | billet | valider son titre de transport
+composter | verbe | - | B1 | Valider un billet dans une machine. | N'oubliez pas de composter votre billet avant de monter. | valider | composter son billet
+contrôleur | nom | m | B1 | Agent qui vérifie les billets. | Le contrôleur lui a infligé une amende. | - | contrôleur de train
+amende | nom | f | B1 | Somme à payer en cas d'infraction. | Il a reçu une amende pour stationnement interdit. | contravention, PV | payer une amende
+retard | nom | m | A2 | Fait d'arriver après l'heure prévue. | Le train a vingt minutes de retard. | - | être en retard, retard important
+grève | nom | f | B1 | Arrêt collectif du travail. | La grève des transports paralyse la capitale. | arrêt de travail | être en grève, préavis de grève
+heure de pointe | nom | f | B1 | Moment où la circulation est la plus dense. | Évitez de circuler aux heures de pointe. | heure d'affluence | aux heures de pointe
+embouteillage | nom | m | B1 | Accumulation de véhicules bloqués. | Nous sommes restés une heure dans les embouteillages. | bouchon | être pris dans un embouteillage
+bouchon | nom | m | B1 | Embouteillage (langage courant). | Il y a dix kilomètres de bouchon sur l'autoroute. | embouteillage | bouchon sur l'autoroute
+circulation | nom | f | A2 | Mouvement des véhicules dans les rues. | La circulation est difficile le vendredi soir. | trafic | circulation dense
+trafic | nom | m | B1 | Volume de circulation. | Le trafic aérien a repris après la crise. | circulation | trafic routier
+périphérique | nom | m | B1 | Route qui fait le tour d'une ville. | Le périphérique est saturé ce matin. | rocade | boulevard périphérique
+autoroute | nom | f | A2 | Route rapide à plusieurs voies. | L'autoroute est payante en France. | voie rapide | péage d'autoroute
+péage | nom | m | B1 | Lieu où l'on paie pour utiliser une route. | Le péage entre Paris et Lyon coûte cher. | - | barrière de péage
+carrefour | nom | m | A2 | Croisement de routes. | Tournez à droite au prochain carrefour. | croisement, intersection | carrefour dangereux
+rond-point | nom | m | B1 | Carrefour circulaire. | Prenez la deuxième sortie au rond-point. | giratoire | au rond-point
+feu rouge | nom | m | A2 | Signal lumineux qui oblige à s'arrêter. | Il a grillé un feu rouge. | - | griller un feu rouge
+passage piéton | nom | m | A2 | Zone où les piétons traversent. | Traversez sur le passage piéton. | passage clouté | traverser sur le passage piéton
+piéton | nom | m | A2 | Personne qui se déplace à pied. | Le centre-ville est réservé aux piétons. | marcheur | rue piétonne
+piétonnier | adjectif | - | B2 | Réservé aux piétons. | La mairie a créé une nouvelle zone piétonnière. | piéton | zone piétonnière
+trottoir | nom | m | A2 | Partie de la rue réservée aux piétons. | Les trottinettes ne doivent pas rouler sur le trottoir. | - | sur le trottoir
+piste cyclable | nom | f | B1 | Voie réservée aux vélos. | La ville a construit cinquante kilomètres de pistes cyclables. | voie cyclable | aménager une piste cyclable
+cycliste | nom | m | A2 | Personne qui circule à vélo. | Les cyclistes doivent porter un casque. | - | cycliste urbain
+vélo en libre-service | nom | m | B1 | Vélo que l'on peut louer dans la rue. | Les vélos en libre-service ont du succès à Paris. | - | station de vélos en libre-service
+trottinette | nom | f | B1 | Petit véhicule à deux roues avec un guidon. | Les trottinettes électriques encombrent les trottoirs. | - | trottinette électrique
+stationnement | nom | m | B1 | Fait de garer un véhicule. | Le stationnement est payant dans le centre. | parking | stationnement interdit
+se garer | verbe | - | A2 | Mettre son véhicule à l'arrêt. | Il est impossible de se garer dans ce quartier. | stationner | se garer en double file
+parking | nom | m | A2 | Lieu de stationnement des véhicules. | Le parking souterrain est complet. | parc de stationnement | parking relais
+permis de conduire | nom | m | A2 | Document autorisant à conduire. | Elle a obtenu son permis de conduire du premier coup. | permis | passer le permis
+code de la route | nom | m | B1 | Ensemble des règles de circulation. | Respecter le code de la route sauve des vies. | - | infraction au code de la route
+limitation de vitesse | nom | f | B1 | Vitesse maximale autorisée. | La limitation de vitesse est de 30 km/h en ville. | - | respecter la limitation de vitesse
+excès de vitesse | nom | m | B1 | Fait de rouler trop vite. | Il a perdu des points pour excès de vitesse. | - | commettre un excès de vitesse
+accident de la route | nom | m | B1 | Collision ou sortie de route. | Les accidents de la route ont diminué cette année. | accident de la circulation | accident mortel
+sécurité routière | nom | f | B2 | Ensemble des mesures pour éviter les accidents. | La sécurité routière lance une nouvelle campagne. | - | campagne de sécurité routière
+automobiliste | nom | m | B1 | Personne qui conduit une voiture. | Les automobilistes protestent contre le prix de l'essence. | conducteur | automobiliste prudent
+conducteur | nom | m | A2 | Personne qui conduit un véhicule. | Le conducteur du bus était très aimable. | chauffeur | conducteur novice
+carburant | nom | m | B1 | Produit qui fait fonctionner un moteur. | Le prix du carburant a encore augmenté. | essence, gazole | prix du carburant
+banlieue | nom | f | A2 | Ensemble des communes autour d'une grande ville. | Beaucoup de Parisiens vivent en banlieue. | périphérie | banlieue parisienne
+centre-ville | nom | m | A1 | Partie centrale d'une ville. | Les commerces du centre-ville ferment le dimanche. | cœur de ville | en centre-ville
+quartier | nom | m | A1 | Partie d'une ville. | J'habite un quartier calme. | - | quartier résidentiel, quartier populaire
+agglomération | nom | f | B2 | Ensemble formé par une ville et sa banlieue. | L'agglomération lyonnaise compte plus d'un million d'habitants. | métropole | communauté d'agglomération
+métropole | nom | f | B2 | Grande ville importante. | Les métropoles attirent les jeunes diplômés. | grande ville | métropole régionale
+urbain | adjectif | - | B1 | Qui concerne la ville. | La population urbaine ne cesse de croître. | citadin | zone urbaine, espace urbain
+citadin | nom | m | B2 | Habitant d'une ville. | Les citadins cherchent des espaces verts le week-end. | - | citadin pressé
+urbanisme | nom | m | B2 | Organisation et aménagement des villes. | Le service d'urbanisme a refusé le permis de construire. | aménagement urbain | plan d'urbanisme
+aménagement | nom | m | B2 | Organisation d'un espace. | L'aménagement des berges a transformé le quartier. | - | aménagement du territoire
+étalement urbain | nom | m | C1 | Extension des villes sur les zones rurales. | L'étalement urbain grignote les terres agricoles. | périurbanisation | limiter l'étalement urbain
+mobilité | nom | f | B2 | Capacité à se déplacer. | La mobilité douce est encouragée par la mairie. | déplacement | mobilité douce
+mobilité douce | nom | f | B2 | Déplacements non motorisés (marche, vélo). | La mobilité douce réduit la pollution en ville. | - | favoriser la mobilité douce
+trajet | nom | m | A2 | Chemin parcouru d'un point à un autre. | Mon trajet quotidien dure quarante minutes. | parcours | trajet domicile-travail
+navette | nom | f | B1 | Véhicule qui fait des allers-retours réguliers. | Une navette relie l'aéroport au centre-ville. | - | navette gratuite
+faire la navette | expression | - | B2 | Faire des allers-retours réguliers. | Il fait la navette entre Lyon et Genève chaque jour. | - | faire la navette
+pendulaire | adjectif | - | C1 | Qui fait un aller-retour quotidien domicile-travail. | Les migrations pendulaires saturent les routes. | - | travailleur pendulaire
+desservir | verbe | - | B2 | Assurer un service de transport vers un lieu. | Ce village n'est desservi par aucun bus. | relier | être bien desservi
+relier | verbe | - | B1 | Mettre en communication deux lieux. | Ce pont relie les deux rives. | joindre | relier deux villes
+réseau | nom | m | B1 | Ensemble de lignes interconnectées. | Le réseau de bus a été entièrement réorganisé. | - | réseau ferroviaire, réseau routier
+ferroviaire | adjectif | - | B2 | Qui concerne les chemins de fer. | Le transport ferroviaire pollue moins que l'avion. | - | réseau ferroviaire
+TGV | nom | m | A2 | Train à grande vitesse. | Le TGV relie Paris à Marseille en trois heures. | train à grande vitesse | ligne TGV
+aéroport | nom | m | A1 | Lieu de départ et d'arrivée des avions. | Il faut arriver à l'aéroport deux heures avant le vol. | aérogare | navette de l'aéroport
+nuisance | nom | f | B2 | Ce qui gêne ou nuit. | Les riverains se plaignent des nuisances sonores. | gêne | nuisances sonores
+bruit | nom | m | A2 | Son désagréable. | Le bruit de la circulation m'empêche de dormir. | vacarme | faire du bruit
+riverain | nom | m | B2 | Habitant d'une rue ou d'un lieu. | Les riverains s'opposent à la construction de l'autoroute. | voisin | accès réservé aux riverains
+voirie | nom | f | C1 | Ensemble des voies publiques et leur entretien. | Les travaux de voirie perturbent la circulation. | - | travaux de voirie
+travaux | nom | m | A2 | Opérations de construction ou de réparation. | La rue est fermée pour travaux. | chantier | en travaux
+chantier | nom | m | B1 | Lieu où l'on construit. | Le chantier du métro durera cinq ans. | travaux | chantier de construction
+infrastructure | nom | f | B2 | Ensemble des équipements publics. | Les infrastructures routières vieillissent. | équipement | infrastructures de transport
+espace public | nom | m | B2 | Lieu ouvert à tous. | Fumer est interdit dans certains espaces publics. | lieu public | aménager l'espace public
+mairie | nom | f | A1 | Bâtiment où siège l'administration communale. | Il faut s'inscrire à la mairie. | hôtel de ville | aller à la mairie
+municipalité | nom | f | B2 | Administration d'une commune. | La municipalité a voté un nouveau budget. | mairie | conseil municipal
+commune | nom | f | B1 | Plus petite division administrative en France. | Cette commune compte 2 000 habitants. | municipalité | petite commune
+espace vert | nom | m | B1 | Jardin ou parc public en ville. | Les espaces verts améliorent la qualité de vie. | parc, jardin public | créer des espaces verts
+logement social | nom | m | B2 | Logement à loyer modéré pour les ménages modestes. | La loi impose 25 % de logements sociaux. | HLM | construire des logements sociaux
+gentrification | nom | f | C1 | Arrivée de populations aisées dans un quartier populaire. | La gentrification fait grimper les loyers. | embourgeoisement | gentrification d'un quartier
+mixité sociale | nom | f | C1 | Coexistence de différentes catégories sociales. | La mairie veut favoriser la mixité sociale. | - | favoriser la mixité sociale
+insécurité | nom | f | B2 | Manque de sécurité. | Les habitants se plaignent d'un sentiment d'insécurité. | danger | sentiment d'insécurité
+éclairage public | nom | m | B2 | Lumières qui éclairent les rues. | L'éclairage public est éteint après minuit pour économiser l'énergie. | - | réduire l'éclairage public
+zone à faibles émissions | nom | f | C1 | Zone interdite aux véhicules les plus polluants. | Les vieilles voitures sont interdites dans la zone à faibles émissions. | ZFE | instaurer une zone à faibles émissions
+saturé | adjectif | - | B2 | Rempli au maximum. | Le réseau routier est saturé. | engorgé | réseau saturé
+bondé | adjectif | - | B2 | Plein de monde. | Le métro est bondé tous les matins. | plein à craquer | train bondé
+ponctuel | adjectif | - | B2 | Qui arrive à l'heure. | Les trains suisses sont réputés ponctuels. | à l'heure | train ponctuel
+fréquence | nom | f | B2 | Nombre de passages dans un temps donné. | La fréquence des bus augmente en été. | cadence | fréquence de passage
+ville nouvelle | nom | f | C1 | Ville créée de toutes pièces. | Cergy est une ville nouvelle des années 1970. | - | ville nouvelle
+rural | adjectif | - | B1 | Qui concerne la campagne. | Les zones rurales manquent de transports. | campagnard | milieu rural, exode rural
+exode rural | nom | m | C1 | Départ massif des habitants des campagnes vers les villes. | L'exode rural a vidé de nombreux villages. | - | exode rural

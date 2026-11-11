@@ -1,0 +1,1973 @@
+{
+ "code": "EXAM-17",
+ "title": "Examen blanc n° 17 – Inclusion, forêts et transformations urbaines",
+ "level": "B2",
+ "description": "Examen complet calibré B1–B2 : handicap et emploi, forêts, reconversion de bâtiments, fin de l'argent liquide, chant choral.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "message téléphonique",
+   "skill": "information précise",
+   "document": "F: Bonjour Hélène, c'est Martine de la chorale. La répétition de jeudi est déplacée à vendredi, même heure, 19 heures. N'oublie pas ta partition !",
+   "prompt": "Quand a lieu la répétition ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Vendredi à 20 heures.",
+     "correct": false,
+     "rationale": "C'est 19 heures."
+    },
+    {
+     "label": "B",
+     "text": "Jeudi à 19 heures.",
+     "correct": false,
+     "rationale": "Elle a été déplacée."
+    },
+    {
+     "label": "C",
+     "text": "Vendredi à 19 heures.",
+     "correct": true,
+     "rationale": "« déplacée à vendredi, même heure, 19 heures »."
+    },
+    {
+     "label": "D",
+     "text": "Samedi.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Même heure » = l'heure ne change pas.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: En raison du risque d'incendie, l'accès à la forêt domaniale est interdit aujourd'hui de 11 heures à 19 heures. Barbecues et cigarettes sont strictement interdits.",
+   "prompt": "Pourquoi l'accès à la forêt est-il interdit ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À cause de travaux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "À cause d'une tempête.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "À cause de la chasse.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "À cause du risque d'incendie.",
+     "correct": true,
+     "rationale": "« En raison du risque d'incendie »."
+    }
+   ],
+   "explanation": "« En raison de » introduit la cause.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "conversation quotidienne",
+   "skill": "information précise",
+   "document": "H: Je peux payer en espèces ? / F: Désolée, monsieur, nous n'acceptons plus que la carte bancaire. / H: Il y a un distributeur près d'ici ? / F: Oui, à côté de la pharmacie, mais ça ne servira à rien ici.",
+   "prompt": "Comment peut-on payer dans ce magasin ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Par chèque.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Par carte ou en espèces.",
+     "correct": false,
+     "rationale": "Seulement par carte."
+    },
+    {
+     "label": "C",
+     "text": "Uniquement par carte bancaire.",
+     "correct": true,
+     "rationale": "« nous n'acceptons plus que la carte bancaire »."
+    },
+    {
+     "label": "D",
+     "text": "En espèces.",
+     "correct": false,
+     "rationale": "Ce n'est plus accepté."
+    }
+   ],
+   "explanation": "« Ne… plus que » = seulement, désormais.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "conversation quotidienne",
+   "skill": "intention",
+   "document": "F: L'ancienne usine textile va être démolie ? / H: Non, la mairie veut la transformer en logements et en ateliers d'artistes. / F: Bonne idée ! Je préfère ça à un parking.",
+   "prompt": "Que pense la femme du projet ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle est indifférente.",
+     "correct": false,
+     "rationale": "Elle donne un avis positif."
+    },
+    {
+     "label": "B",
+     "text": "Elle l'approuve.",
+     "correct": true,
+     "rationale": "« Bonne idée ! »."
+    },
+    {
+     "label": "C",
+     "text": "Elle préfère un parking.",
+     "correct": false,
+     "rationale": "Elle dit le contraire."
+    },
+    {
+     "label": "D",
+     "text": "Elle veut démolir l'usine.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Je préfère ça à… » exprime une préférence.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "H: Bonjour Monsieur Benali, ici Lucie de Cap Emploi. Une entreprise de logistique recherche un gestionnaire de stock et a aménagé ses locaux pour les personnes en fauteuil roulant. Votre profil correspond. L'entretien aurait lieu mardi à 14 heures. Merci de me confirmer votre disponibilité.",
+   "prompt": "Qu'a fait l'entreprise ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle a changé de secteur.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Elle a déjà embauché M. Benali.",
+     "correct": false,
+     "rationale": "L'entretien n'a pas eu lieu."
+    },
+    {
+     "label": "C",
+     "text": "Elle a aménagé ses locaux pour les fauteuils roulants.",
+     "correct": true,
+     "rationale": "« a aménagé ses locaux pour les personnes en fauteuil roulant »."
+    },
+    {
+     "label": "D",
+     "text": "Elle a fermé ses locaux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Aménager » = adapter un lieu.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "information radio",
+   "skill": "information précise",
+   "document": "F: L'Office national des forêts lance une grande opération de plantation : un million d'arbres seront plantés cet hiver dans les forêts touchées par la sécheresse. Les essences choisies, comme le chêne vert ou le cèdre, résistent mieux à la chaleur que les épicéas.",
+   "prompt": "Pourquoi a-t-on choisi ces essences d'arbres ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elles produisent plus de bois.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Elles résistent mieux à la chaleur.",
+     "correct": true,
+     "rationale": "« résistent mieux à la chaleur que les épicéas »."
+    },
+    {
+     "label": "C",
+     "text": "Elles poussent plus vite.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Elles sont moins chères.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "Une « essence » d'arbre = une espèce.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Vous chantez dans une chorale depuis dix ans. Qu'est-ce que ça vous apporte ? / F: Un équilibre ! Quand je chante, j'oublie tous mes soucis. Et puis, chanter à quarante voix, c'est une émotion incroyable. On ne peut pas tricher : il faut écouter les autres.",
+   "prompt": "Que dit la femme sur le chant en chorale ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il oblige à écouter les autres.",
+     "correct": true,
+     "rationale": "« il faut écouter les autres »."
+    },
+    {
+     "label": "B",
+     "text": "Il lui donne des soucis.",
+     "correct": false,
+     "rationale": "Elle oublie ses soucis."
+    },
+    {
+     "label": "C",
+     "text": "Il est réservé aux professionnels.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "On peut chanter seul.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    }
+   ],
+   "explanation": "« On ne peut pas tricher » souligne une exigence.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: L'ancienne église Saint-Martin, transformée en médiathèque, ouvrira ses portes au public le 2 octobre. Les vitraux du XVe siècle ont été conservés. Une visite guidée gratuite sera proposée chaque samedi à 11 heures pendant le premier mois.",
+   "prompt": "Qu'est-ce qui a été conservé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les bancs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les cloches.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "L'autel.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les vitraux du XVe siècle.",
+     "correct": true,
+     "rationale": "« Les vitraux du XVe siècle ont été conservés »."
+    }
+   ],
+   "explanation": "Repérez le verbe « conserver ».",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "situation administrative",
+   "skill": "information précise",
+   "document": "F: Bonjour, je souhaite faire reconnaître mon handicap pour obtenir des aménagements au travail. / H: Il faut déposer un dossier à la Maison départementale des personnes handicapées, avec un certificat médical de moins d'un an. Le délai de réponse est d'environ quatre mois.",
+   "prompt": "Que faut-il joindre au dossier ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un certificat médical de moins d'un an.",
+     "correct": true,
+     "rationale": "« avec un certificat médical de moins d'un an »."
+    },
+    {
+     "label": "B",
+     "text": "Un contrat de travail.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Une lettre de l'employeur.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Une photo d'identité.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« De moins d'un an » = récent.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 10,
+   "level": "B1",
+   "doc_type": "conversation professionnelle",
+   "skill": "information précise",
+   "document": "H: On accepte toujours les espèces au restaurant ? / F: Oui, la loi nous y oblige, sauf exceptions. Mais on encourage le paiement par carte, c'est plus pratique pour la caisse. / H: D'accord, je garde un fond de caisse de cent euros.",
+   "prompt": "Pourquoi le restaurant accepte-t-il les espèces ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que le terminal est en panne.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Parce que la loi l'y oblige.",
+     "correct": true,
+     "rationale": "« la loi nous y oblige »."
+    },
+    {
+     "label": "C",
+     "text": "Parce que c'est plus pratique.",
+     "correct": false,
+     "rationale": "La carte est plus pratique."
+    },
+    {
+     "label": "D",
+     "text": "Parce que les clients ne paient qu'en espèces.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Y » remplace « à accepter les espèces ».",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "F: Il faudrait supprimer l'argent liquide, ça réduirait la fraude et le travail au noir. / H: Peut-être, mais pensez aux personnes âgées, aux personnes sans compte bancaire, aux enfants qui apprennent à gérer leur argent de poche. Et en cas de panne informatique, on ne pourrait plus rien acheter.",
+   "prompt": "Quels arguments l'homme oppose-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le coût des cartes bancaires.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "L'exclusion de certaines personnes et le risque de panne.",
+     "correct": true,
+     "rationale": "Il cite ces deux types d'arguments."
+    },
+    {
+     "label": "C",
+     "text": "La sécurité des distributeurs.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "La réduction de la fraude.",
+     "correct": false,
+     "rationale": "C'est l'argument de la femme."
+    }
+   ],
+   "explanation": "« Peut-être, mais » introduit une objection.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "information globale",
+   "document": "H: Les forêts françaises ont doublé de surface depuis le XIXe siècle et couvrent aujourd'hui un tiers du territoire. Mais cette bonne nouvelle cache une réalité plus inquiétante : sécheresses et parasites affaiblissent les arbres, et la forêt absorbe deux fois moins de CO2 qu'il y a dix ans.",
+   "prompt": "Quelle est l'idée principale du reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les forêts disparaissent.",
+     "correct": false,
+     "rationale": "Elles ont doublé de surface."
+    },
+    {
+     "label": "B",
+     "text": "Les forêts absorbent de plus en plus de CO2.",
+     "correct": false,
+     "rationale": "Elles en absorbent moins."
+    },
+    {
+     "label": "C",
+     "text": "Les forêts s'étendent mais sont fragilisées.",
+     "correct": true,
+     "rationale": "Constat positif puis réalité inquiétante."
+    },
+    {
+     "label": "D",
+     "text": "Il n'y a plus de parasites.",
+     "correct": false,
+     "rationale": "Ils affaiblissent les arbres."
+    }
+   ],
+   "explanation": "« Mais cette bonne nouvelle cache » introduit la nuance.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous êtes chef d'entreprise et vous avez embauché plusieurs personnes handicapées. Pourquoi ? / H: Au départ, pour respecter la loi. Mais j'ai vite compris que c'était une richesse : ces collaborateurs sont très motivés, et leur présence a changé l'ambiance de l'équipe. Les aménagements coûtent souvent beaucoup moins cher qu'on ne le croit.",
+   "prompt": "Qu'a découvert le chef d'entreprise ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Que les aménagements étaient très coûteux.",
+     "correct": false,
+     "rationale": "Ils coûtent moins cher qu'on le croit."
+    },
+    {
+     "label": "B",
+     "text": "Que l'ambiance s'était dégradée.",
+     "correct": false,
+     "rationale": "Elle a changé positivement."
+    },
+    {
+     "label": "C",
+     "text": "Que la loi n'existait pas.",
+     "correct": false,
+     "rationale": "Il l'a respectée."
+    },
+    {
+     "label": "D",
+     "text": "Que ces embauches étaient une richesse pour l'entreprise.",
+     "correct": true,
+     "rationale": "« j'ai vite compris que c'était une richesse »."
+    }
+   ],
+   "explanation": "« Au départ… Mais » marque une évolution.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "message téléphonique",
+   "skill": "intention",
+   "document": "H: Madame Rousseau, ici votre conseiller bancaire. Nous avons remarqué un paiement inhabituel de 2 000 euros sur votre compte cette nuit, depuis l'étranger. Par précaution, nous avons bloqué votre carte. Si vous êtes à l'origine de ce paiement, rappelez-nous pour la débloquer.",
+   "prompt": "Pourquoi le conseiller appelle-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour fermer le compte.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Pour signaler un paiement suspect et le blocage de la carte.",
+     "correct": true,
+     "rationale": "« paiement inhabituel… nous avons bloqué votre carte »."
+    },
+    {
+     "label": "C",
+     "text": "Pour annoncer un virement reçu.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Pour proposer un prêt.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Par précaution » justifie une mesure préventive.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "relation logique",
+   "document": "F: Pourquoi est-il si difficile de transformer les bureaux vides en logements ? / H: Les bureaux sont souvent très profonds, avec peu de fenêtres. Pour faire des appartements, il faut de la lumière dans chaque pièce. Résultat : la transformation coûte parfois plus cher qu'une construction neuve.",
+   "prompt": "Pourquoi la transformation coûte-t-elle cher ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que les bureaux sont trop petits.",
+     "correct": false,
+     "rationale": "Ils sont profonds."
+    },
+    {
+     "label": "B",
+     "text": "Parce que les bureaux manquent de lumière naturelle.",
+     "correct": true,
+     "rationale": "« très profonds, avec peu de fenêtres »."
+    },
+    {
+     "label": "C",
+     "text": "Parce que les logements sont interdits.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce qu'il y a trop de fenêtres.",
+     "correct": false,
+     "rationale": "Il y en a peu."
+    }
+   ],
+   "explanation": "Reconstituez la chaîne cause → conséquence.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "information détaillée",
+   "document": "H: Vous êtes garde forestière. En quoi consiste votre travail ? / F: Je surveille l'état des arbres, je marque ceux qui doivent être coupés et j'accueille le public. De plus en plus, je fais aussi de la sensibilisation : beaucoup de visiteurs ignorent qu'il est interdit de cueillir certaines plantes ou de faire du feu.",
+   "prompt": "Quelle partie de son travail se développe ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La sensibilisation du public.",
+     "correct": true,
+     "rationale": "« De plus en plus, je fais aussi de la sensibilisation »."
+    },
+    {
+     "label": "B",
+     "text": "La chasse.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "La coupe des arbres.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit qu'elle augmente."
+    },
+    {
+     "label": "D",
+     "text": "La vente de bois.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« De plus en plus » indique une évolution.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-BE"
+   ]
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Le festival des chorales aura lieu du 14 au 16 juin. Les concerts de l'église sont gratuits, ceux de l'auditorium sont payants. Les personnes en situation de handicap bénéficient de places réservées dans les deux lieux, sur simple demande à l'accueil.",
+   "prompt": "Comment obtenir une place réservée pour les personnes handicapées ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Uniquement à l'auditorium.",
+     "correct": false,
+     "rationale": "C'est dans les deux lieux."
+    },
+    {
+     "label": "B",
+     "text": "En la demandant à l'accueil.",
+     "correct": true,
+     "rationale": "« sur simple demande à l'accueil »."
+    },
+    {
+     "label": "C",
+     "text": "En la réservant en ligne.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "En payant un supplément.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Sur simple demande » = il suffit de demander.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: En Suède, moins de 10 % des achats se font encore en espèces. Mais face au risque de cyberattaques et de pannes géantes, le gouvernement recommande désormais aux citoyens de garder un peu d'argent liquide chez eux. Un retour en arrière qui montre les limites d'une société entièrement numérique.",
+   "prompt": "Pourquoi le gouvernement suédois recommande-t-il de garder des espèces ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À cause des risques de cyberattaques et de pannes.",
+     "correct": true,
+     "rationale": "« face au risque de cyberattaques et de pannes géantes »."
+    },
+    {
+     "label": "B",
+     "text": "Parce que les commerces refusent les cartes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Pour lutter contre la fraude.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce que les cartes sont trop chères.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Face à » introduit la cause d'une réaction.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "argumentation",
+   "document": "H: Transformer les églises vides en salles de concert ou en bibliothèques, c'est un manque de respect. / F: Je comprends que ce soit délicat. Mais une église abandonnée se dégrade et finit par être démolie. Lui donner une nouvelle vie, c'est justement la préserver pour les générations futures.",
+   "prompt": "Quel argument la femme utilise-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La religion n'est plus importante.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les églises sont inutiles.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Il faut démolir les églises.",
+     "correct": false,
+     "rationale": "Elle veut l'éviter."
+    },
+    {
+     "label": "D",
+     "text": "La transformation permet de préserver le bâtiment.",
+     "correct": true,
+     "rationale": "« Lui donner une nouvelle vie, c'est justement la préserver »."
+    }
+   ],
+   "explanation": "« Justement » renverse l'argument adverse.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Vous êtes aveugle et vous travaillez comme développeur informatique. Quels sont les obstacles ? / H: La technologie n'est pas le problème : les lecteurs d'écran sont très performants. Le vrai obstacle, ce sont les préjugés. Lors de mes premiers entretiens, on me demandait comment je pouvais travailler, au lieu de m'interroger sur mes compétences.",
+   "prompt": "Selon l'homme, quel est le principal obstacle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les préjugés des employeurs.",
+     "correct": true,
+     "rationale": "« Le vrai obstacle, ce sont les préjugés »."
+    },
+    {
+     "label": "B",
+     "text": "Le manque de compétences.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "La technologie.",
+     "correct": false,
+     "rationale": "« La technologie n'est pas le problème »."
+    },
+    {
+     "label": "D",
+     "text": "Les lecteurs d'écran.",
+     "correct": false,
+     "rationale": "Ils sont performants."
+    }
+   ],
+   "explanation": "« Le vrai obstacle » oppose apparence et réalité.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "information détaillée",
+   "document": "F: Le taux d'emploi des personnes handicapées reste inférieur de moitié à celui de la population générale. Depuis 1987, les entreprises de plus de vingt salariés doivent employer au moins 6 % de travailleurs handicapés, sous peine de verser une contribution financière. Or, seules un tiers d'entre elles atteignent cet objectif.",
+   "prompt": "Que doivent faire les entreprises qui n'atteignent pas l'objectif ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Rien, il n'y a pas de sanction.",
+     "correct": false,
+     "rationale": "Il y a une contribution."
+    },
+    {
+     "label": "B",
+     "text": "Fermer leurs portes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Embaucher 20 salariés.",
+     "correct": false,
+     "rationale": "20 est le seuil d'application."
+    },
+    {
+     "label": "D",
+     "text": "Verser une contribution financière.",
+     "correct": true,
+     "rationale": "« sous peine de verser une contribution financière »."
+    }
+   ],
+   "explanation": "« Sous peine de » introduit la sanction.",
+   "speakers": [
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "conversation professionnelle",
+   "skill": "intention",
+   "document": "H: J'ai une demande un peu particulière. Mon fils est autiste et il a un rendez-vous médical important jeudi matin. / F: Pas de problème, prends ta matinée. / H: Merci. En fait, ça arrive assez souvent. Serait-il possible d'avoir des horaires plus souples de manière générale ?",
+   "prompt": "Que demande l'homme dans sa dernière réplique ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un congé jeudi uniquement.",
+     "correct": false,
+     "rationale": "C'est déjà accordé."
+    },
+    {
+     "label": "B",
+     "text": "Un changement de poste.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Une augmentation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Des horaires flexibles de façon durable.",
+     "correct": true,
+     "rationale": "« des horaires plus souples de manière générale »."
+    }
+   ],
+   "explanation": "« De manière générale » élargit la demande.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "débat",
+   "skill": "point de vue implicite",
+   "document": "F: Planter des millions d'arbres, c'est la solution au changement climatique. / H: Planter, c'est bien. Encore faut-il planter les bonnes espèces, au bon endroit, et s'assurer qu'elles survivent. Certaines campagnes très médiatisées ont vu mourir la moitié des jeunes arbres dans l'année. Et rien ne remplace la protection des forêts anciennes.",
+   "prompt": "Que pense l'homme des grandes campagnes de plantation ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elles résolvent le changement climatique.",
+     "correct": false,
+     "rationale": "Il nuance."
+    },
+    {
+     "label": "B",
+     "text": "Les forêts anciennes sont inutiles.",
+     "correct": false,
+     "rationale": "Il dit qu'elles sont irremplaçables."
+    },
+    {
+     "label": "C",
+     "text": "Elles sont parfois plus médiatiques qu'efficaces.",
+     "correct": true,
+     "rationale": "« très médiatisées… mourir la moitié »."
+    },
+    {
+     "label": "D",
+     "text": "Il faut arrêter de planter.",
+     "correct": false,
+     "rationale": "Il dit que planter, c'est bien."
+    }
+   ],
+   "explanation": "« Encore faut-il » pose des conditions restrictives.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ]
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "interview",
+   "skill": "nuance",
+   "document": "H: La disparition progressive de l'argent liquide est-elle inévitable ? / F: La tendance est forte, c'est indéniable. Mais tant que les espèces restent légalement obligatoires et que des personnes vulnérables en dépendent, il serait irresponsable de les laisser disparaître. Il faut accompagner la transition, pas la précipiter.",
+   "prompt": "Quelle est la position de la spécialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les espèces sont illégales.",
+     "correct": false,
+     "rationale": "Elles restent légalement obligatoires."
+    },
+    {
+     "label": "B",
+     "text": "La transition vers le numérique doit être accompagnée, pas précipitée.",
+     "correct": true,
+     "rationale": "« accompagner la transition, pas la précipiter »."
+    },
+    {
+     "label": "C",
+     "text": "L'argent liquide doit disparaître rapidement.",
+     "correct": false,
+     "rationale": "Elle refuse de précipiter."
+    },
+    {
+     "label": "D",
+     "text": "La tendance est faible.",
+     "correct": false,
+     "rationale": "Elle est forte."
+    }
+   ],
+   "explanation": "« Espèces » désigne l'argent liquide (billets et pièces).",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ]
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "information radio",
+   "skill": "relation logique",
+   "document": "H: La reconversion des bâtiments existants est souvent présentée comme plus écologique que la construction neuve. En effet, le béton et l'acier nécessaires à un nouvel immeuble représentent une part considérable de son empreinte carbone totale. Dès lors, démolir un bâtiment encore solide revient à gaspiller l'énergie déjà investie dans sa construction.",
+   "prompt": "Pourquoi démolir un bâtiment solide est-il considéré comme un gaspillage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que les anciens bâtiments consomment peu.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'argument."
+    },
+    {
+     "label": "B",
+     "text": "Parce que le béton est interdit.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Parce que les nouveaux bâtiments sont plus beaux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce que l'énergie de sa construction serait perdue.",
+     "correct": true,
+     "rationale": "« gaspiller l'énergie déjà investie »."
+    }
+   ],
+   "explanation": "« Dès lors » tire la conséquence du raisonnement.",
+   "speakers": [
+    "H:fr-FR"
+   ]
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "A2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "LA CHORALE « VOIX MÊLÉES » RECRUTE ! Hommes et femmes, débutants bienvenus. Pas besoin de savoir lire la musique. Répétitions le mardi de 20 h à 22 h. Cotisation : 60 € par an.",
+   "prompt": "Faut-il savoir lire la musique ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Seulement pour les débutants.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Non.",
+     "correct": true,
+     "rationale": "« Pas besoin de savoir lire la musique »."
+    },
+    {
+     "label": "C",
+     "text": "Oui, c'est obligatoire.",
+     "correct": false,
+     "rationale": "Ce n'est pas nécessaire."
+    },
+    {
+     "label": "D",
+     "text": "Seulement pour les hommes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Pas besoin de » = ce n'est pas nécessaire."
+  },
+  {
+   "position": 2,
+   "level": "A2",
+   "doc_type": "message",
+   "skill": "information précise",
+   "document": "Coucou Léna ! On se retrouve à l'entrée de la forêt dimanche à 9 h pour la balade. Mets de bonnes chaussures, le chemin est boueux. J'apporte le pique-nique. À dimanche ! Paul",
+   "prompt": "Pourquoi faut-il de bonnes chaussures ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce que le chemin est boueux.",
+     "correct": true,
+     "rationale": "« le chemin est boueux »."
+    },
+    {
+     "label": "B",
+     "text": "Parce que la balade est longue.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Parce qu'il va pleuvoir.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Parce qu'il fait froid.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "La justification suit la consigne."
+  },
+  {
+   "position": 3,
+   "level": "A2",
+   "doc_type": "affiche",
+   "skill": "information précise",
+   "document": "CE MAGASIN N'ACCEPTE PLUS LES CHÈQUES. Paiement par carte bancaire ou en espèces uniquement. Merci de votre compréhension.",
+   "prompt": "Quel moyen de paiement n'est plus accepté ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Aucun, tous sont acceptés.",
+     "correct": false,
+     "rationale": "Le chèque est refusé."
+    },
+    {
+     "label": "B",
+     "text": "Le chèque.",
+     "correct": true,
+     "rationale": "« N'ACCEPTE PLUS LES CHÈQUES »."
+    },
+    {
+     "label": "C",
+     "text": "La carte bancaire.",
+     "correct": false,
+     "rationale": "Elle est acceptée."
+    },
+    {
+     "label": "D",
+     "text": "Les espèces.",
+     "correct": false,
+     "rationale": "Elles sont acceptées."
+    }
+   ],
+   "explanation": "Lisez la phrase négative en premier."
+  },
+  {
+   "position": 4,
+   "level": "B1",
+   "doc_type": "courriel",
+   "skill": "information précise",
+   "document": "Bonjour Madame Girard, suite à votre entretien, nous avons le plaisir de vous proposer le poste d'assistante administrative. Comme convenu, votre bureau sera équipé d'un logiciel de grossissement d'écran et d'un éclairage adapté. Votre prise de poste est prévue le 2 mai. Bienvenue ! Le service RH.",
+   "prompt": "Quels aménagements sont prévus ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un fauteuil roulant.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Un logiciel de grossissement d'écran et un éclairage adapté.",
+     "correct": true,
+     "rationale": "Ce sont les équipements cités."
+    },
+    {
+     "label": "C",
+     "text": "Des horaires réduits.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Un interprète en langue des signes.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Comme convenu » renvoie à un accord préalable."
+  },
+  {
+   "position": 5,
+   "level": "B1",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "À Roubaix, l'ancienne piscine Art déco, fermée en 1985, est devenue l'un des musées les plus visités de la région. Les collections de peinture et de céramique sont exposées autour du bassin, qui a été conservé. Le lieu attire plus de 200 000 visiteurs par an.",
+   "prompt": "De quoi parle l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "D'un concours de natation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "De la démolition d'un musée.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "D'une nouvelle piscine.",
+     "correct": false,
+     "rationale": "La piscine a fermé en 1985."
+    },
+    {
+     "label": "D",
+     "text": "De la transformation d'une piscine en musée.",
+     "correct": true,
+     "rationale": "C'est le sujet principal."
+    }
+   ],
+   "explanation": "« Est devenue » indique une transformation."
+  },
+  {
+   "position": 6,
+   "level": "B1",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, Monsieur, nous vous informons que l'agence bancaire de la place du Marché fermera définitivement le 30 juin. Vos comptes seront transférés automatiquement à l'agence de la gare. Le distributeur de billets de la place du Marché restera en service jusqu'au 31 décembre.",
+   "prompt": "Que va-t-il arriver au distributeur de la place du Marché ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il sera déplacé à la gare.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Il fonctionnera jusqu'au 31 décembre.",
+     "correct": true,
+     "rationale": "« restera en service jusqu'au 31 décembre »."
+    },
+    {
+     "label": "C",
+     "text": "Il restera ouvert pour toujours.",
+     "correct": false,
+     "rationale": "Jusqu'au 31 décembre."
+    },
+    {
+     "label": "D",
+     "text": "Il fermera le 30 juin.",
+     "correct": false,
+     "rationale": "C'est l'agence qui ferme."
+    }
+   ],
+   "explanation": "Distinguez l'agence et le distributeur."
+  },
+  {
+   "position": 7,
+   "level": "B1",
+   "doc_type": "publicité",
+   "skill": "intention",
+   "document": "Adoptez un arbre ! Pour 25 €, nous plantons un chêne dans une forêt détruite par les incendies et vous recevez un certificat avec ses coordonnées GPS. Un cadeau original et utile pour la planète.",
+   "prompt": "Que propose cette publicité ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Visiter une forêt.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Financer la plantation d'un arbre.",
+     "correct": true,
+     "rationale": "« nous plantons un chêne »."
+    },
+    {
+     "label": "C",
+     "text": "Acheter un arbre pour son jardin.",
+     "correct": false,
+     "rationale": "Il est planté en forêt."
+    },
+    {
+     "label": "D",
+     "text": "Acheter du bois.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Adoptez » est employé au sens figuré."
+  },
+  {
+   "position": 8,
+   "level": "B1",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "Chers collègues, dans le cadre de la Semaine européenne pour l'emploi des personnes handicapées, nous accueillerons cinq stagiaires du 18 au 22 novembre. Chaque service accueillera un stagiaire pendant une journée. Merci de vous montrer disponibles pour répondre à leurs questions.",
+   "prompt": "Combien de temps chaque service accueillera-t-il un stagiaire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une semaine.",
+     "correct": false,
+     "rationale": "C'est la durée totale de l'accueil."
+    },
+    {
+     "label": "B",
+     "text": "Cinq jours.",
+     "correct": false,
+     "rationale": "Cinq est le nombre de stagiaires."
+    },
+    {
+     "label": "C",
+     "text": "Un mois.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Une journée.",
+     "correct": true,
+     "rationale": "« pendant une journée »."
+    }
+   ],
+   "explanation": "Ne confondez pas la durée globale et la durée par service."
+  },
+  {
+   "position": 9,
+   "level": "B1",
+   "doc_type": "témoignage",
+   "skill": "opinion",
+   "document": "« Je chante dans une chorale d'entreprise depuis deux ans. Au début, je ne connaissais presque personne. Maintenant, je déjeune avec des collègues de tous les services. Le chant a fait plus pour l'ambiance que tous les séminaires ! » Fatou, comptable.",
+   "prompt": "Quel effet la chorale a-t-elle eu pour Fatou ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle a quitté l'entreprise.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Elle préfère les séminaires.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "Elle a changé de service.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Elle a créé des liens avec ses collègues.",
+     "correct": true,
+     "rationale": "« je déjeune avec des collègues de tous les services »."
+    }
+   ],
+   "explanation": "La comparaison finale souligne l'effet positif."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information globale",
+   "document": "Les paiements en espèces ne représentent plus qu'un achat sur deux en France, contre deux sur trois il y a dix ans. Les banques ferment des distributeurs, notamment dans les zones rurales. Les associations de consommateurs s'inquiètent de voir certains habitants contraints de parcourir des dizaines de kilomètres pour retirer de l'argent.",
+   "prompt": "De quoi s'inquiètent les associations de consommateurs ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Du nombre de banques en ville.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "De la hausse des paiements en espèces.",
+     "correct": false,
+     "rationale": "Ils baissent."
+    },
+    {
+     "label": "C",
+     "text": "Du prix des cartes bancaires.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "De la difficulté d'accès aux distributeurs en zone rurale.",
+     "correct": true,
+     "rationale": "« contraints de parcourir des dizaines de kilomètres »."
+    }
+   ],
+   "explanation": "« Contraint de » = obligé de."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "intention de l'auteur",
+   "document": "Chaque année, des milliers de bureaux restent vides dans nos grandes villes, pendant que des familles attendent un logement social. Transformer ces bâtiments inoccupés en appartements n'est pas seulement une nécessité sociale : c'est aussi un choix écologique, qui évite de bétonner de nouvelles terres agricoles.",
+   "prompt": "Quelle est l'intention de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Vendre des bureaux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Encourager la transformation des bureaux vides en logements.",
+     "correct": true,
+     "rationale": "Il présente ses avantages sociaux et écologiques."
+    },
+    {
+     "label": "C",
+     "text": "Critiquer les logements sociaux.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Défendre la construction neuve.",
+     "correct": false,
+     "rationale": "Il veut éviter de bétonner."
+    }
+   ],
+   "explanation": "« Pas seulement… c'est aussi » ajoute un argument."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "sens d'un mot en contexte",
+   "document": "Bonjour à tous, je vous informe que le projet de reconversion de l'ancienne gare en tiers-lieu culturel est au point mort : le financement régional n'a pas été voté. Nous continuons à chercher d'autres partenaires. Je vous tiens informés. Amitiés, Bruno.",
+   "prompt": "Que signifie « au point mort » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Abandonné définitivement.",
+     "correct": false,
+     "rationale": "Ils cherchent d'autres partenaires."
+    },
+    {
+     "label": "B",
+     "text": "Terminé avec succès.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "Très avancé.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "Bloqué.",
+     "correct": true,
+     "rationale": "Le financement n'a pas été voté."
+    }
+   ],
+   "explanation": "« Être au point mort » = ne plus avancer."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Une étude menée dans les forêts des Vosges montre que les parcelles mélangeant plusieurs espèces d'arbres résistent mieux à la sécheresse que les plantations d'une seule espèce. Les chercheurs recommandent de diversifier systématiquement les essences lors des replantations et d'éviter les coupes rases.",
+   "prompt": "Que recommandent les chercheurs ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Planter une seule espèce.",
+     "correct": false,
+     "rationale": "C'est moins résistant."
+    },
+    {
+     "label": "B",
+     "text": "Diversifier les espèces et éviter les coupes rases.",
+     "correct": true,
+     "rationale": "« diversifier systématiquement les essences… éviter les coupes rases »."
+    },
+    {
+     "label": "C",
+     "text": "Arrêter toute plantation.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Couper toute la forêt.",
+     "correct": false,
+     "rationale": "Ils recommandent d'éviter les coupes rases."
+    }
+   ],
+   "explanation": "Une « coupe rase » = abattage de tous les arbres d'une parcelle."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Monsieur, la reconnaissance de la qualité de travailleur handicapé (RQTH) vous a été accordée pour une durée de cinq ans. Elle vous permet de bénéficier d'aménagements de poste et d'un accompagnement spécifique dans votre recherche d'emploi. Vous n'êtes pas tenu d'en informer votre employeur.",
+   "prompt": "Que précise la lettre concernant l'employeur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'employeur a déjà été informé.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Le salarié doit l'informer immédiatement.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "L'employeur doit payer les aménagements.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Le salarié n'est pas obligé de l'informer.",
+     "correct": true,
+     "rationale": "« Vous n'êtes pas tenu d'en informer votre employeur »."
+    }
+   ],
+   "explanation": "« Ne pas être tenu de » = ne pas être obligé de."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "relation logique",
+   "document": "Les paiements numériques laissent une trace. Si bien que, dans une société sans espèces, chaque achat pourrait être enregistré, analysé et éventuellement utilisé à des fins commerciales ou de surveillance.",
+   "prompt": "Quel est le rôle de « Si bien que » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Introduire une cause.",
+     "correct": false,
+     "rationale": "C'est une conséquence."
+    },
+    {
+     "label": "B",
+     "text": "Introduire une opposition.",
+     "correct": false,
+     "rationale": "Ce n'est pas une opposition."
+    },
+    {
+     "label": "C",
+     "text": "Introduire un but.",
+     "correct": false,
+     "rationale": "Ce n'est pas un but."
+    },
+    {
+     "label": "D",
+     "text": "Introduire une conséquence.",
+     "correct": true,
+     "rationale": "Les traces entraînent une possible surveillance."
+    }
+   ],
+   "explanation": "« Si bien que » = de sorte que."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "opinion",
+   "document": "Transformer les églises désaffectées en salles d'escalade, en bars ou en hôtels ? Pour l'historienne interrogée, toutes les reconversions ne se valent pas : « Une bibliothèque ou une salle de concert respectent l'esprit du lieu. Un bar, c'est plus discutable. » Elle plaide pour une concertation avec les habitants avant chaque projet.",
+   "prompt": "Que pense l'historienne ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faut démolir les églises.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Certaines reconversions sont plus acceptables que d'autres.",
+     "correct": true,
+     "rationale": "« toutes les reconversions ne se valent pas »."
+    },
+    {
+     "label": "C",
+     "text": "Les bars sont la meilleure solution.",
+     "correct": false,
+     "rationale": "C'est « plus discutable »."
+    },
+    {
+     "label": "D",
+     "text": "Toutes les reconversions sont acceptables.",
+     "correct": false,
+     "rationale": "Elle nuance."
+    }
+   ],
+   "explanation": "« Ne se valent pas » = n'ont pas la même valeur."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "document informatif",
+   "skill": "information précise",
+   "document": "Le refus d'un paiement en espèces par un commerçant est passible d'une amende, sauf dans certains cas prévus par la loi : paiement d'un montant supérieur à 1 000 euros, doute sur l'authenticité des billets, ou absence de monnaie pour rendre la somme demandée lorsque le client présente un billet disproportionné.",
+   "prompt": "Dans quel cas un commerçant peut-il refuser les espèces ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Toujours, s'il le souhaite.",
+     "correct": false,
+     "rationale": "Il risque une amende."
+    },
+    {
+     "label": "B",
+     "text": "Le dimanche.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Pour un paiement supérieur à 1 000 euros.",
+     "correct": true,
+     "rationale": "C'est un des cas prévus."
+    },
+    {
+     "label": "D",
+     "text": "Pour un paiement de 10 euros.",
+     "correct": false,
+     "rationale": "Ce n'est pas un cas prévu."
+    }
+   ],
+   "explanation": "« Passible de » = qui peut entraîner."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "témoignage",
+   "skill": "sous-entendu",
+   "document": "« Le bâtiment de ma mairie a été entièrement rénové pour être accessible. Il y a même un ascenseur. Dommage que, pour y arriver, il faille monter les douze marches de l'entrée. » Thomas, en fauteuil roulant.",
+   "prompt": "Que sous-entend Thomas ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il n'y a pas d'ascenseur.",
+     "correct": false,
+     "rationale": "Il y en a un."
+    },
+    {
+     "label": "B",
+     "text": "Il préfère les escaliers.",
+     "correct": false,
+     "rationale": "Il est en fauteuil roulant."
+    },
+    {
+     "label": "C",
+     "text": "L'accessibilité n'a pas été pensée jusqu'au bout.",
+     "correct": true,
+     "rationale": "L'entrée reste inaccessible."
+    },
+    {
+     "label": "D",
+     "text": "La mairie est parfaitement accessible.",
+     "correct": false,
+     "rationale": "Les marches posent problème."
+    }
+   ],
+   "explanation": "« Dommage que » introduit une critique ironique."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "texte argumentatif",
+   "skill": "arguments",
+   "document": "Faut-il ouvrir les forêts privées au public ? Les associations de randonneurs estiment que la nature est un bien commun et que l'accès doit être garanti à tous. Les propriétaires forestiers objectent qu'ils sont responsables en cas d'accident et que les promeneurs laissent souvent des déchets.",
+   "prompt": "Quels arguments avancent les propriétaires ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La nature est un bien commun.",
+     "correct": false,
+     "rationale": "C'est l'argument des randonneurs."
+    },
+    {
+     "label": "B",
+     "text": "La chasse.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Leur responsabilité en cas d'accident et les déchets.",
+     "correct": true,
+     "rationale": "Ce sont leurs objections."
+    },
+    {
+     "label": "D",
+     "text": "Le prix du bois.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« Objecter » introduit un contre-argument."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "information détaillée",
+   "document": "Le chant choral connaît un véritable engouement : la fédération nationale compte 30 % d'adhérents de plus qu'il y a cinq ans. Les chorales de variétés et de gospel attirent particulièrement les jeunes. Des études montrent que chanter en groupe réduit le stress et renforce le sentiment d'appartenance.",
+   "prompt": "Quels types de chorales attirent les jeunes ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les chorales classiques.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "B",
+     "text": "Les chorales religieuses uniquement.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "Les chorales d'opéra.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Les chorales de variétés et de gospel.",
+     "correct": true,
+     "rationale": "« attirent particulièrement les jeunes »."
+    }
+   ],
+   "explanation": "« Particulièrement » souligne un public précis."
+  },
+  {
+   "position": 21,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "thèse",
+   "document": "L'inclusion des personnes handicapées ne se mesure pas au nombre de rampes d'accès ou de places de parking réservées. Elle se joue d'abord dans les regards, dans la capacité d'une société à considérer la différence non comme un problème à gérer, mais comme une composante ordinaire de la diversité humaine.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le handicap est un problème à gérer.",
+     "correct": false,
+     "rationale": "Il refuse cette vision."
+    },
+    {
+     "label": "B",
+     "text": "L'inclusion dépend surtout du changement des mentalités.",
+     "correct": true,
+     "rationale": "« Elle se joue d'abord dans les regards »."
+    },
+    {
+     "label": "C",
+     "text": "Les rampes d'accès suffisent.",
+     "correct": false,
+     "rationale": "Il dit le contraire."
+    },
+    {
+     "label": "D",
+     "text": "Il faut plus de places de parking.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'essentiel."
+    }
+   ],
+   "explanation": "« Ne se mesure pas à… Elle se joue d'abord » oppose deux conceptions."
+  },
+  {
+   "position": 22,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "information implicite",
+   "document": "Le promoteur a promis que la reconversion de l'ancienne usine « préserverait l'âme du quartier ». Les futurs lofts seront vendus 8 000 euros le mètre carré, soit trois fois le prix moyen des logements environnants. Les anciens ouvriers, eux, pourront venir admirer la cheminée de brique, conservée à l'entrée.",
+   "prompt": "Que suggère l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le projet est accessible à tous.",
+     "correct": false,
+     "rationale": "Les prix sont très élevés."
+    },
+    {
+     "label": "B",
+     "text": "La cheminée sera démolie.",
+     "correct": false,
+     "rationale": "Elle est conservée."
+    },
+    {
+     "label": "C",
+     "text": "Les anciens ouvriers y habiteront.",
+     "correct": false,
+     "rationale": "Ils pourront seulement « admirer » la cheminée."
+    },
+    {
+     "label": "D",
+     "text": "Le projet ne profitera pas aux habitants modestes du quartier.",
+     "correct": true,
+     "rationale": "Les prix excluent les anciens habitants."
+    }
+   ],
+   "explanation": "Le contraste entre promesse et réalité crée l'ironie."
+  },
+  {
+   "position": 23,
+   "level": "C1",
+   "doc_type": "texte argumentatif",
+   "skill": "ton",
+   "document": "La banque nous explique que la fermeture de l'agence améliorera « l'expérience client ». Désormais, Mme Martin, 84 ans, pourra profiter pleinement de cette expérience en parcourant trente kilomètres en car pour retirer sa pension.",
+   "prompt": "Quel est le ton de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Enthousiaste.",
+     "correct": false,
+     "rationale": "Il critique la banque."
+    },
+    {
+     "label": "B",
+     "text": "Neutre.",
+     "correct": false,
+     "rationale": "Il prend position."
+    },
+    {
+     "label": "C",
+     "text": "Admiratif.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas."
+    },
+    {
+     "label": "D",
+     "text": "Sarcastique.",
+     "correct": true,
+     "rationale": "« pourra profiter pleinement de cette expérience » est ironique."
+    }
+   ],
+   "explanation": "Reprendre les mots d'autrui pour les retourner est une marque d'ironie."
+  },
+  {
+   "position": 24,
+   "level": "C1",
+   "doc_type": "article de presse",
+   "skill": "relation logique",
+   "document": "Bien que la forêt française gagne du terrain depuis un siècle, sa capacité à stocker du carbone s'est effondrée en dix ans. Ce paradoxe s'explique par la mortalité accrue des arbres, victimes des sécheresses à répétition et des insectes ravageurs, qui prolifèrent à la faveur des hivers plus doux.",
+   "prompt": "Pourquoi les insectes ravageurs prolifèrent-ils ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Grâce aux hivers plus doux.",
+     "correct": true,
+     "rationale": "« qui prolifèrent à la faveur des hivers plus doux »."
+    },
+    {
+     "label": "B",
+     "text": "À cause de l'humidité.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "C",
+     "text": "À cause des coupes d'arbres.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    },
+    {
+     "label": "D",
+     "text": "Grâce à l'extension de la forêt.",
+     "correct": false,
+     "rationale": "Ce n'est pas dit."
+    }
+   ],
+   "explanation": "« À la faveur de » = grâce à, profitant de."
+  },
+  {
+   "position": 25,
+   "level": "C1",
+   "doc_type": "document informatif",
+   "skill": "reformulation",
+   "document": "Tout établissement recevant du public doit être accessible aux personnes handicapées, quel que soit leur handicap. Lorsque des contraintes techniques ou patrimoniales rendent les travaux impossibles, le propriétaire peut solliciter une dérogation, à condition de proposer des mesures de substitution.",
+   "prompt": "Quelle reformulation correspond au texte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une dérogation est possible si des solutions alternatives sont proposées.",
+     "correct": true,
+     "rationale": "« à condition de proposer des mesures de substitution »."
+    },
+    {
+     "label": "B",
+     "text": "Les dérogations sont automatiques.",
+     "correct": false,
+     "rationale": "Il faut les solliciter."
+    },
+    {
+     "label": "C",
+     "text": "Seuls certains handicaps sont concernés.",
+     "correct": false,
+     "rationale": "« quel que soit leur handicap »."
+    },
+    {
+     "label": "D",
+     "text": "Les bâtiments historiques n'ont aucune obligation.",
+     "correct": false,
+     "rationale": "Il faut une dérogation et des alternatives."
+    }
+   ],
+   "explanation": "« Solliciter » = demander officiellement."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "A2",
+   "task_type": "écrire un message",
+   "instructions": "Vous voulez vous inscrire dans une chorale. Vous écrivez un message au responsable pour vous présenter et poser des questions (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Bonjour, je m'appelle Sara, j'ai 32 ans et j'aimerais beaucoup rejoindre votre chorale. Je n'ai jamais chanté en groupe, mais j'adore la musique. Est-ce que les débutants peuvent participer ? À quelle heure sont les répétitions ? Faut-il passer une audition ? Merci d'avance pour votre réponse. Sara",
+   "tips": "Posez des questions directes et précises.",
+   "expected_points": [
+    "présentation",
+    "motivation",
+    "questions",
+    "remerciement"
+   ]
+  },
+  {
+   "task_number": 2,
+   "level": "B1",
+   "task_type": "décrire un lieu",
+   "instructions": "Un bâtiment ancien de votre ville a été transformé (usine, gare, église, école…). Vous le décrivez pour un guide touristique en ligne (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Ne manquez pas la Halle aux grains, ancien marché couvert du XIXe siècle transformé en centre culturel en 2019. Sa grande charpente métallique et ses verrières ont été entièrement restaurées. On y trouve aujourd'hui une librairie, un café, une salle d'exposition et un marché de producteurs le samedi matin. Le lieu est très animé, surtout le week-end. L'entrée est gratuite et le bâtiment est accessible aux personnes à mobilité réduite. À visiter absolument !",
+   "tips": "Un guide utilise des impératifs (« Ne manquez pas ») pour inciter.",
+   "expected_points": [
+    "présentation historique",
+    "description",
+    "activités",
+    "informations pratiques",
+    "recommandation"
+   ]
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "argumenter sur un sujet de société",
+   "instructions": "« L'argent liquide va disparaître, et c'est une bonne chose. » Vous réagissez à cette affirmation sur un forum consacré à la consommation (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Je ne partage pas cet enthousiasme. Certes, le paiement par carte est pratique et limite la fraude. Mais une société sans espèces exclurait les personnes âgées peu à l'aise avec le numérique et celles qui n'ont pas de compte bancaire. Par ailleurs, chaque paiement électronique laisse une trace, ce qui pose la question de notre vie privée. Enfin, une panne géante nous priverait de tout moyen de payer. Garder les deux moyens de paiement me paraît donc indispensable.",
+   "tips": "« Certes… Mais… Par ailleurs… Enfin… » organise l'argumentation.",
+   "expected_points": [
+    "position",
+    "concession",
+    "trois arguments",
+    "conclusion"
+   ]
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B1",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous pose des questions sur vos loisirs, votre rapport à la nature et vos habitudes de paiement.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Aimez-vous chanter ?",
+    "Avez-vous déjà fait partie d'un groupe musical ?",
+    "Allez-vous souvent en forêt ?",
+    "Payez-vous plutôt en espèces ou par carte ?",
+    "Y a-t-il un bâtiment ancien que vous aimez dans votre ville ?",
+    "Connaissez-vous des personnes en situation de handicap dans votre entourage ?"
+   ],
+   "useful_phrases": [
+    "J'aime…",
+    "Je n'aime pas tellement…",
+    "Je vais en forêt…",
+    "Je paie surtout…",
+    "Dans ma ville, il y a…"
+   ],
+   "model_answer": "J'aime chanter, mais seulement sous la douche ! Je n'ai jamais fait partie d'une chorale. Je vais en forêt presque tous les dimanches pour marcher avec ma famille. Je paie surtout par carte, mais je garde toujours un peu d'espèces pour le marché. Dans ma ville, j'aime beaucoup l'ancienne gare, qui est devenue une bibliothèque. Mon cousin est malentendant, et il travaille dans une banque."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Défendre un projet",
+   "examiner_role": "Élu municipal",
+   "scenario": "Une ancienne école de votre quartier est vide. Vous proposez de la transformer en lieu associatif (ateliers, chorale, aide aux devoirs). L'examinateur joue le rôle d'un élu municipal qui préférerait la vendre à un promoteur. Défendez votre projet.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Bonjour, je vous écoute.",
+    "La vente rapporterait deux millions d'euros à la ville.",
+    "Qui financerait les travaux ?",
+    "Les associations ont-elles les moyens de gérer un tel lieu ?",
+    "Les habitants veulent surtout des logements.",
+    "Que proposez-vous concrètement ?"
+   ],
+   "useful_phrases": [
+    "Ce projet permettrait de…",
+    "Je comprends l'intérêt financier, mais…",
+    "Plusieurs associations sont prêtes à…",
+    "Nous pourrions solliciter…",
+    "Pourquoi ne pas envisager un projet mixte… ?"
+   ],
+   "model_answer": "Ce projet permettrait de créer un lieu de rencontre qui manque cruellement dans notre quartier. Je comprends l'intérêt financier de la vente, mais une fois vendue, l'école sera perdue pour toujours. Plusieurs associations sont prêtes à participer aux frais de fonctionnement, et nous pourrions solliciter des subventions de la région. Pourquoi ne pas envisager un projet mixte, avec quelques logements à l'étage et des espaces associatifs au rez-de-chaussée ?"
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Les entreprises font-elles assez pour l'inclusion ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Donnez votre opinion : « Les entreprises font-elles assez pour intégrer les personnes en situation de handicap ? » Argumentez, donnez des exemples, nuancez et concluez.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Quelle est votre opinion ?",
+    "Quels obstacles rencontrent ces personnes ?",
+    "Quels bénéfices pour l'entreprise ?",
+    "Faut-il renforcer la loi ?",
+    "Votre conclusion ?"
+   ],
+   "useful_phrases": [
+    "À mon avis…",
+    "Les chiffres montrent que…",
+    "Le principal obstacle est…",
+    "Les entreprises qui… constatent que…",
+    "En conclusion…"
+   ],
+   "model_answer": "À mon avis, beaucoup d'entreprises ne font pas encore assez. Les chiffres montrent que le taux de chômage des personnes handicapées est deux fois plus élevé que la moyenne. Le principal obstacle n'est pas technique, mais lié aux préjugés : on imagine des coûts énormes, alors que les aménagements sont souvent simples. Les entreprises qui ont fait l'effort constatent une meilleure ambiance et une forte motivation. En conclusion, il faudrait surtout sensibiliser les recruteurs, plus que renforcer les sanctions."
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+@slug adjectifs
+@title Les adjectifs (formes et place)
+@module grammaire
+@order 16
+@level A2
+## COURS
+## Formation du féminin
+- règle générale : + **e** : *grand → grande*
+- -eux → **-euse** : *heureux → heureuse* ; -if → **-ive** : *actif → active*
+- -er → **-ère** : *léger → légère* ; -el, -en, -on → doublement : *naturel → naturelle, ancien → ancienne, bon → bonne*
+- -teur → **-trice** ou **-teuse** : *créateur → créatrice, menteur → menteuse*
+- irréguliers : *beau → belle, nouveau → nouvelle, vieux → vieille, fou → folle, doux → douce, frais → fraîche, sec → sèche, long → longue, public → publique*
+
+## Formation du pluriel
+- + **s** : *grand → grands* ; -eau → **-eaux** ; -al → **-aux** (*national → nationaux*, sauf *banals, finals, fatals, navals*)
+- adjectifs en -s ou -x : invariables au masculin pluriel : *heureux, gris*
+
+## Bel, nouvel, vieil
+Devant un nom masculin commençant par une voyelle ou un h muet : *un bel appartement, un nouvel emploi, un vieil homme.*
+
+## Place de l'adjectif
+- en général **après** le nom : couleur, forme, nationalité, adjectifs longs : *une voiture rouge, un repas marocain.*
+- **avant** le nom : adjectifs courts et fréquents : *beau, joli, jeune, vieux, nouveau, grand, petit, bon, mauvais, gros.*
+- Certains adjectifs **changent de sens** selon leur place :
+  - *un grand homme* (célèbre) / *un homme grand* (de grande taille)
+  - *mon ancien appartement* (précédent) / *un appartement ancien* (vieux)
+  - *un certain charme* (indéfinissable) / *un succès certain* (sûr)
+  - *ma propre voiture* (à moi) / *une voiture propre* (nettoyée)
+  - *le seul candidat* (unique) / *un candidat seul* (sans compagnie)
+  - *un cher ami* (aimé) / *un restaurant cher* (coûteux)
+
+## Adjectifs de niveau B2 utiles
+pertinent, judicieux, préoccupant, indispensable, durable, inédit, accessible, contraignant, bénéfique, néfaste, controversé, considérable.
+## SIMPLES
+- C'est une belle maison blanche.
+- J'ai un nouvel ordinateur.
+- Ma sœur est très active.
+- Ce sont des problèmes nationaux.
+## B2
+- Cette proposition, aussi séduisante soit-elle, me paraît difficilement applicable à court terme.
+- Les conséquences néfastes de la sédentarité sont désormais bien documentées.
+- Il s'agit d'une mesure controversée mais indispensable à la transition énergétique.
+- Mon ancien employeur m'a proposé un poste dans un bâtiment ancien entièrement rénové.
+## EXERCICES
+TROU | A2 | C'est une ___ (beau) journée.
+> belle
+= « Beau » a un féminin irrégulier : belle.
+TROU | A2 | Il a acheté un ___ (nouveau) appartement.
+> nouvel
+= Devant un nom masculin commençant par une voyelle, « nouveau » devient « nouvel ».
+TROU | A2 | Ma grand-mère est une femme très ___ (actif).
+> active
+= Les adjectifs en -if font leur féminin en -ive.
+QCM | A2 | Choisissez la forme correcte : « des accords ___ »
+* internationaux
+- internationals
+- internationales
+- international
+= Les adjectifs en -al font leur pluriel masculin en -aux. « Accord » est masculin.
+TROU | B1 | Cette eau est ___ (frais).
+> fraîche
+= Féminin irrégulier : frais → fraîche (avec accent circonflexe).
+TROU | B1 | C'est une décision ___ (public).
+> publique
+= « Public » a un féminin irrégulier : publique.
+QCM | B1 | « Un ___ homme » signifie « un homme âgé ». Choisissez la forme.
+* vieil
+- vieux
+- vieille
+- vieu
+= Devant un nom masculin commençant par un h muet, « vieux » devient « vieil ».
+QCM | B1 | Où placer l'adjectif ? « une voiture / rouge »
+* une voiture rouge
+- une rouge voiture
+- une voiture de rouge
+- une rouge de voiture
+= Les adjectifs de couleur se placent après le nom.
+QCM | B2 | « Victor Hugo est un grand homme. » Que signifie « grand » ici ?
+* célèbre, important
+- de grande taille
+- âgé
+- gros
+= Placé avant « homme », « grand » prend un sens figuré : illustre, important. « Un homme grand » désigne sa taille.
+QCM | B2 | « J'ai revu mon ancien professeur. » Que signifie « ancien » ?
+* qui était mon professeur autrefois
+- très âgé
+- qui enseigne depuis longtemps
+- démodé
+= Avant le nom, « ancien » signifie « d'avant, précédent ». Après le nom, il signifie « vieux, d'une autre époque ».
+TROU | B2 | Les débats ont été ___ (vif) mais constructifs.
+> vifs
+= « Vif » s'accorde avec « les débats » (masculin pluriel) : vifs. (Féminin : vive.)
+TROU | B2 | Ces deux solutions ne sont pas ___ (banal).
+> banales
+= « Banal » au féminin pluriel : banales. Au masculin pluriel, la forme est « banals » (exception à la règle -al/-aux).
+TRANS | B2 | Remplacez « mauvais pour la santé » par un adjectif de niveau B2 : « La sédentarité a des effets mauvais pour la santé. »
+> La sédentarité a des effets néfastes pour la santé.|la sédentarité a des effets néfastes pour la santé|La sédentarité a des effets nocifs pour la santé.|la sédentarité a des effets nocifs pour la santé
+= « Néfaste » (ou « nocif ») est plus précis et plus soutenu que « mauvais » ; il convient parfaitement à l'écrit argumentatif.

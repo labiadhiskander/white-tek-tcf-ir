@@ -1,0 +1,146 @@
+{
+ "exercises": [
+  {
+   "ex_type": "transformation",
+   "level": "A2",
+   "prompt": "Mettez à la forme négative : « Elle aime le café. »",
+   "options": null,
+   "answer": "Elle n'aime pas le café.|elle n'aime pas le café",
+   "explanation": "« Ne » s'élide devant une voyelle (n'aime) ; l'article défini « le » ne change pas après un verbe de goût."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "A2",
+   "prompt": "Répondez négativement avec « rien » : « Tu as acheté quelque chose ? »",
+   "options": null,
+   "answer": "Non, je n'ai rien acheté.|non, je n'ai rien acheté|Je n'ai rien acheté.",
+   "explanation": "« Rien » se place entre l'auxiliaire et le participe passé, comme « pas »."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "A2",
+   "prompt": "Répondez négativement avec « personne » : « Tu as vu quelqu'un ? »",
+   "options": null,
+   "answer": "Non, je n'ai vu personne.|non, je n'ai vu personne|Je n'ai vu personne.",
+   "explanation": "Au passé composé, « personne » se place après le participe passé : je n'ai vu personne."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "A2",
+   "prompt": "« Il fume encore ? » — « Non, il ___. »",
+   "options": [
+    "ne fume plus",
+    "ne fume pas encore",
+    "ne fume rien",
+    "ne fume personne"
+   ],
+   "answer": "ne fume plus",
+   "explanation": "« Ne … plus » exprime l'arrêt d'une action qui avait lieu avant ; c'est la réponse négative à « encore »."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B1",
+   "prompt": "Mettez à la forme négative : « Je l'ai déjà rencontré. »",
+   "options": null,
+   "answer": "Je ne l'ai jamais rencontré.|je ne l'ai jamais rencontré",
+   "explanation": "La négation de « déjà » est « ne … jamais ». Le pronom « l' » reste collé à l'auxiliaire, à l'intérieur de la négation."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« Il m'a conseillé ___ trop tard. »",
+   "options": [
+    "de ne pas rentrer",
+    "de ne rentrer pas",
+    "de pas rentrer",
+    "ne de pas rentrer"
+   ],
+   "answer": "de ne pas rentrer",
+   "explanation": "Devant un infinitif, « ne pas » se placent ensemble avant le verbe."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "___ n'a compris la question.",
+   "options": null,
+   "answer": "Personne|personne",
+   "explanation": "« Personne » peut être sujet ; il est suivi de « ne » sans « pas »."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« Je n'ai que deux heures » signifie :",
+   "options": [
+    "J'ai seulement deux heures.",
+    "Je n'ai pas deux heures.",
+    "Je n'ai plus deux heures.",
+    "J'ai au moins deux heures."
+   ],
+   "answer": "J'ai seulement deux heures.",
+   "explanation": "« Ne … que » exprime une restriction (= seulement), pas une négation."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Mettez à la forme négative avec « ni … ni » : « Il parle espagnol et italien. »",
+   "options": null,
+   "answer": "Il ne parle ni espagnol ni italien.|il ne parle ni espagnol ni italien",
+   "explanation": "« Ni … ni » remplace « et » ; « ne » reste devant le verbe, et on supprime « pas »."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Mettez à la forme négative avec « aucun » : « Ce candidat a une expérience. »",
+   "options": null,
+   "answer": "Ce candidat n'a aucune expérience.|ce candidat n'a aucune expérience",
+   "explanation": "« Aucun » s'accorde avec le nom (expérience, féminin) : aucune. Pas de « pas »."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Je ne l'ai trouvé ___ ___. (dans aucun lieu)",
+   "options": null,
+   "answer": "nulle part",
+   "explanation": "« Nulle part » se place après le participe passé aux temps composés."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Choisissez la phrase correcte en français standard écrit.",
+   "options": [
+    "Je ne sais pas si cette réforme sera efficace.",
+    "Je sais pas si cette réforme sera efficace.",
+    "Je ne sais si pas cette réforme sera efficace.",
+    "Je pas sais si cette réforme sera efficace."
+   ],
+   "answer": "Je ne sais pas si cette réforme sera efficace.",
+   "explanation": "À l'écrit et à l'examen, le « ne » de la négation est obligatoire."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Combinez « plus » et « rien » : « Il dit encore quelque chose. »",
+   "options": null,
+   "answer": "Il ne dit plus rien.|il ne dit plus rien",
+   "explanation": "Les négations peuvent se combiner : « plus » précède « rien »."
+  }
+ ],
+ "slug": "negation",
+ "title": "La négation",
+ "module": "grammaire",
+ "order": 18,
+ "level": "A2",
+ "lesson": "## La négation simple\n**ne … pas** encadre le verbe conjugué : *Je ne travaille pas le dimanche.*\nDevant une voyelle ou un h muet, ne devient **n'** : *Il n'aime pas le bruit.*\n\n## Les autres négations\n- **ne … plus** (arrêt) : *Je ne fume plus.*\n- **ne … jamais** (à aucun moment) : *Il n'est jamais en retard.*\n- **ne … rien** (aucune chose) : *Je ne vois rien.*\n- **ne … personne** (aucune personne) : *Je ne connais personne ici.*\n- **ne … aucun(e)** + nom : *Il n'a aucune idée.*\n- **ne … nulle part** (aucun lieu) : *Je ne le trouve nulle part.*\n- **ne … ni … ni** : *Je ne bois ni thé ni café.*\n- **ne … que** (restriction = seulement, ce n'est pas une vraie négation) : *Je n'ai que dix euros.*\n- **ne … pas encore** : *Il n'est pas encore arrivé.*\n\n## Place de la négation\n- temps simples : autour du verbe conjugué : *Je ne mange pas.*\n- temps composés : autour de l'auxiliaire : *Je n'ai pas mangé.* **Mais** personne, aucun, nulle part se placent **après le participe** : *Je n'ai vu personne. Je ne l'ai trouvé nulle part.*\n- avec les pronoms : *Je ne le vois pas. Il ne m'en a jamais parlé.*\n- avec un infinitif : **ne pas** se placent ensemble **avant** l'infinitif : *Il m'a demandé de ne pas fumer. Je préfère ne rien dire.*\n\n## Négation sujet\n*Personne n'est venu. Rien ne bouge. Aucun candidat n'a réussi.* (pas de « pas »)\n\n## Combinaisons\n*Je ne dis plus rien à personne. Il n'a jamais rien compris.*\n\n## Registre\nÀ l'oral familier, le **ne** disparaît souvent (*Je sais pas*). À l'écrit et à l'examen, il est **obligatoire**.",
+ "simple_examples": [
+  "Je ne parle pas allemand.",
+  "Il ne travaille plus ici.",
+  "Nous n'avons rien mangé.",
+  "Personne n'a téléphoné."
+ ],
+ "b2_examples": [
+  "Aucune solution n'a été trouvée à ce jour pour désengorger le centre-ville.",
+  "Je ne prétends pas avoir toutes les réponses, mais il me semble que le débat mérite d'être ouvert.",
+  "Les autorités ont conseillé aux habitants de ne pas sortir pendant la tempête.",
+  "Cette mesure ne profitera qu'à une minorité de ménages."
+ ]
+}

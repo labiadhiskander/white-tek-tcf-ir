@@ -1,0 +1,133 @@
+{
+ "exercises": [
+  {
+   "ex_type": "transformation",
+   "level": "B1",
+   "prompt": "Mettez au passif : « Le jury choisit les lauréats. »",
+   "options": null,
+   "answer": "Les lauréats sont choisis par le jury.|les lauréats sont choisis par le jury",
+   "explanation": "Le COD « les lauréats » devient sujet ; « être » au présent (sont) + participe accordé au masculin pluriel (choisis) ; le sujet actif devient complément d'agent introduit par « par »."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "La nouvelle bibliothèque ___ (inaugurer, passé composé passif) hier.",
+   "options": null,
+   "answer": "a été inaugurée",
+   "explanation": "Passé composé passif : « avoir été » + participe accordé avec le sujet féminin singulier : a été inaugurée."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Les colis ___ (livrer, futur passif) demain matin.",
+   "options": null,
+   "answer": "seront livrés",
+   "explanation": "Futur passif : « être » au futur (seront) + participe accordé au masculin pluriel."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "Choisissez la bonne préposition : « Ce professeur est respecté ___ ses élèves. »",
+   "options": [
+    "de",
+    "par",
+    "à",
+    "avec"
+   ],
+   "answer": "de",
+   "explanation": "Avec les verbes de sentiment (aimer, respecter, apprécier, craindre), le complément d'agent est souvent introduit par « de ». « Par » est possible mais moins naturel ici."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B1",
+   "prompt": "Mettez à l'actif : « Le contrat a été signé par les deux parties. »",
+   "options": null,
+   "answer": "Les deux parties ont signé le contrat.|les deux parties ont signé le contrat",
+   "explanation": "Le complément d'agent redevient sujet ; le verbe se conjugue au même temps (passé composé) à la voix active."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "Quelle phrase ne peut pas être mise au passif ?",
+   "options": [
+    "Elle va au bureau.",
+    "Elle écrit un article.",
+    "Elle prépare le repas.",
+    "Elle lit le contrat."
+   ],
+   "answer": "Elle va au bureau.",
+   "explanation": "« Aller » n'a pas de complément d'objet direct : le passif est impossible. Les autres phrases ont un COD qui peut devenir sujet."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Il faut que ces dossiers ___ (traiter, subjonctif passif) avant vendredi.",
+   "options": null,
+   "answer": "soient traités",
+   "explanation": "« Il faut que » exige le subjonctif : « être » au subjonctif (soient) + participe accordé."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Remplacez le passif par « on » : « Une solution a été trouvée. »",
+   "options": null,
+   "answer": "On a trouvé une solution.|on a trouvé une solution",
+   "explanation": "Quand l'agent n'est pas précisé, « on » + voix active est l'alternative la plus naturelle à l'oral."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Ce vin ___ (boire, forme pronominale passive) frais.",
+   "options": null,
+   "answer": "se boit",
+   "explanation": "La forme pronominale de sens passif exprime une manière habituelle : « ce vin se boit frais » = on le boit frais."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Il ___ voler son vélo devant la gare. »",
+   "options": [
+    "s'est fait",
+    "a été fait",
+    "s'est été",
+    "a fait"
+   ],
+   "answer": "s'est fait",
+   "explanation": "« Se faire + infinitif » exprime un passif où le sujet subit souvent un dommage : il s'est fait voler son vélo. Le participe « fait » reste invariable dans cette construction."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Si la réforme ___ (adopter, plus-que-parfait passif), les tarifs auraient baissé.",
+   "options": null,
+   "answer": "avait été adoptée",
+   "explanation": "Plus-que-parfait passif : « avoir » à l'imparfait + « été » + participe accordé au féminin singulier (la réforme)."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Mettez au passif sans complément d'agent : « On a reporté la réunion. »",
+   "options": null,
+   "answer": "La réunion a été reportée.|la réunion a été reportée",
+   "explanation": "« On » n'est pas repris comme complément d'agent : l'auteur est indéterminé. Accord du participe avec « la réunion »."
+  }
+ ],
+ "slug": "voix-passive",
+ "title": "La voix passive",
+ "module": "grammaire",
+ "order": 9,
+ "level": "B1",
+ "lesson": "## Principe\nÀ la voix active, le sujet fait l'action : *Le maire inaugure la médiathèque.*\nÀ la voix passive, le sujet **subit** l'action : *La médiathèque est inaugurée par le maire.*\nSeuls les verbes ayant un **complément d'objet direct** peuvent se mettre au passif.\n\n## Formation\n**Être** conjugué au temps du verbe actif + **participe passé accordé avec le sujet**.\n- présent : *est inaugurée* ; passé composé : *a été inaugurée* ; imparfait : *était inaugurée*\n- futur : *sera inaugurée* ; conditionnel : *serait inaugurée* ; subjonctif : *soit inaugurée*\n\n## Le complément d'agent\n- introduit le plus souvent par **par** : *Le projet a été validé par la direction.*\n- introduit par **de** avec les verbes de sentiment ou de description : *Elle est aimée de tous. La place est entourée d'arbres.*\n- souvent **supprimé** quand l'auteur est inconnu ou sans importance : *Le musée a été rénové.*\n\n## Pourquoi utiliser le passif ?\n- mettre en valeur l'objet de l'action, notamment dans la presse et les textes administratifs ;\n- garder un ton neutre ou impersonnel : *Une erreur a été commise.*\n\n## Alternatives au passif\n- **on** + voix active : *On a rénové le musée.*\n- **se faire + infinitif** : *Il s'est fait voler son portefeuille.*\n- **forme pronominale de sens passif** : *Ce plat se mange froid. Ce livre se vend bien.*",
+ "simple_examples": [
+  "La lettre est écrite par le directeur.",
+  "Le pont a été construit en 1900.",
+  "Les résultats seront publiés demain.",
+  "Ce plat se mange chaud."
+ ],
+ "b2_examples": [
+  "Les nouvelles mesures ont été accueillies avec scepticisme par une partie des commerçants.",
+  "Il est indispensable que les données personnelles soient protégées contre toute utilisation abusive.",
+  "Si le projet avait été mieux présenté, il aurait sans doute été adopté à l'unanimité.",
+  "Plusieurs quartiers ont été privés d'électricité pendant la tempête."
+ ]
+}

@@ -1,0 +1,88 @@
+@slug pronoms-relatifs
+@title Les pronoms relatifs simples et composés
+@module grammaire
+@order 12
+@level B1
+## COURS
+## Les pronoms relatifs simples
+- **qui** : sujet du verbe de la relative. *La personne qui parle est ma voisine.*
+- **que (qu')** : COD. *Le livre que je lis est passionnant.*
+- **où** : lieu ou temps. *La ville où je vis. Le jour où je suis arrivé.*
+- **dont** : remplace un complément introduit par **de** (parler de, avoir besoin de, être fier de, complément du nom). *Le projet dont je t'ai parlé. L'ami dont le frère est médecin.*
+
+## Les pronoms relatifs composés
+Après une **préposition** (avec, pour, sans, chez, sur, dans, parmi…), on emploie **lequel, laquelle, lesquels, lesquelles** pour une chose (et souvent pour une personne) :
+*La raison pour laquelle je suis venu. L'outil avec lequel je travaille.*
+Pour une personne, **préposition + qui** est fréquent : *La collègue avec qui je travaille.*
+
+### Contractions avec à et de
+- à + lequel → **auquel**, à + lesquels → **auxquels**, à + lesquelles → **auxquelles** (à laquelle reste)
+  *Le concours auquel je participe.*
+- de + lequel → **duquel**, desquels, desquelles, après une locution comme *près de, à côté de, au cours de, au sujet de* :
+  *Le parc près duquel j'habite.*
+
+## Dont ou duquel ?
+On emploie **dont** quand « de » suit directement le verbe ou le nom ; **duquel** quand « de » fait partie d'une locution prépositionnelle (*au milieu de, à cause de, en face de*).
+*Le film dont tout le monde parle* / *La réunion à l'issue de laquelle il a démissionné.*
+
+## Ce qui, ce que, ce dont
+Pour reprendre une idée : *Ce qui m'intéresse, c'est l'histoire. Ce que je préfère, c'est lire. Ce dont j'ai besoin, c'est de calme.*
+## SIMPLES
+- J'ai un ami qui habite à Québec.
+- Le gâteau que tu as fait est délicieux.
+- C'est le restaurant où nous avons dîné.
+- Voici le livre dont je t'ai parlé.
+## B2
+- Les raisons pour lesquelles le projet a été abandonné restent floues.
+- Il s'agit d'un enjeu auquel les collectivités locales devront répondre rapidement.
+- La ville dont le maire a été réélu a lancé un vaste plan de rénovation.
+- Ce dont les jeunes ont le plus besoin, c'est d'un accompagnement personnalisé.
+## EXERCICES
+TROU | B1 | La femme ___ parle avec le directeur est avocate.
+> qui
+= Le pronom relatif est sujet du verbe « parle » : qui.
+TROU | B1 | Le film ___ nous avons vu hier était excellent.
+> que
+= « Le film » est COD de « avons vu » : que.
+TROU | B1 | C'est la maison ___ je suis né.
+> où
+= « Où » remplace un complément de lieu.
+TROU | B1 | Voici le collègue ___ je t'ai parlé.
+> dont
+= On parle « de » quelqu'un : « dont » remplace le complément introduit par « de ».
+QCM | B1 | « Je me souviens du jour ___ nous nous sommes rencontrés. »
+* où
+- que
+- dont
+- quand
+= « Où » peut aussi exprimer le temps après un nom comme jour, moment, époque, année. « Quand » n'est pas un pronom relatif en français standard.
+TROU | B2 | La raison pour ___ je refuse est simple.
+> laquelle
+= Après une préposition (pour), on utilise un pronom composé accordé avec l'antécédent « la raison » (féminin singulier) : laquelle.
+TROU | B2 | Ce sont des questions ___ nous réfléchissons depuis longtemps.
+> auxquelles
+= On réfléchit « à » quelque chose ; à + lesquelles (féminin pluriel, « des questions ») → auxquelles.
+TROU | B2 | Le bâtiment en face ___ je travaille sera démoli.
+> duquel
+= « En face de » est une locution prépositionnelle : on n'emploie pas « dont » mais « duquel » (de + lequel, masculin singulier).
+QCM | B2 | Choisissez la phrase correcte.
+* C'est un outil dont je ne pourrais pas me passer.
+- C'est un outil que je ne pourrais pas me passer.
+- C'est un outil duquel je ne pourrais pas me passer.
+- C'est un outil où je ne pourrais pas me passer.
+= On se passe « de » quelque chose : « dont » s'impose, car « de » suit directement le verbe.
+TROU | B2 | ___ m'inquiète, c'est le manque de transparence.
+> Ce qui|ce qui
+= « Ce qui » reprend une idée et il est sujet du verbe « inquiète ».
+TROU | B2 | ___ vous avez besoin, c'est de repos.
+> Ce dont|ce dont
+= On a besoin « de » quelque chose : « ce dont ».
+QCM | B2 | « Les candidats parmi ___ figurent deux anciens ministres ont été auditionnés. »
+* lesquels
+- qui
+- dont
+- quels
+= Après « parmi », on emploie obligatoirement « lesquels/lesquelles », même pour des personnes : parmi lesquels.
+TRANS | B2 | Reliez avec un pronom relatif : « J'ai assisté à une conférence. Au cours de cette conférence, plusieurs experts ont débattu. »
+> J'ai assisté à une conférence au cours de laquelle plusieurs experts ont débattu.|j'ai assisté à une conférence au cours de laquelle plusieurs experts ont débattu
+= « Au cours de » est une locution prépositionnelle ; « de + laquelle » ne se contracte pas au féminin singulier : au cours de laquelle.

@@ -112,14 +112,18 @@ def import_exam(s: Session, data: dict, generated: bool = False) -> Exam:
 
 # ------------------------------------------------------------ expressions
 def import_expressions(s: Session, items: list[dict]) -> int:
-    existing = {(e.kind, e.text): e for e in s.execute(select(Expression)).scalars()}
+    # Un même connecteur peut avoir plusieurs sens (« Ainsi » : conséquence ou
+    # illustration) : la catégorie fait partie de la clé.
+    existing = {(e.kind, e.text, e.category): e
+                for e in s.execute(select(Expression)).scalars()}
     n = 0
     for d in items:
-        e = existing.get((d["kind"], d["text"]))
+        key = (d["kind"], d["text"], d.get("category", ""))
+        e = existing.get(key)
         if e is None:
             e = Expression(kind=d["kind"], text=d["text"])
             s.add(e)
-            existing[(d["kind"], d["text"])] = e
+            existing[key] = e
         for k in ("category", "meaning", "level", "example", "simple_equivalent",
                   "exercise", "exercise_answer"):
             setattr(e, k, d.get(k, ""))

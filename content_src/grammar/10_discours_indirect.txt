@@ -1,0 +1,94 @@
+@slug discours-indirect
+@title Le discours direct et indirect
+@module grammaire
+@order 10
+@level B1
+## COURS
+## Discours direct et discours indirect
+- **Direct** : on cite les paroles exactes, entre guillemets : *Il dit : « Je suis fatigué. »*
+- **Indirect** : on rapporte les paroles dans une subordonnée : *Il dit qu'il est fatigué.*
+
+## Les transformations
+### Pronoms et possessifs
+*Elle dit : « Mon frère m'aide. »* → *Elle dit que son frère l'aide.*
+### Types de phrases
+- déclaration → **que** : *Il dit qu'il viendra.*
+- question fermée → **si** : *Elle demande si tu viens.*
+- question avec qu'est-ce que / que → **ce que** : *Il demande ce que tu veux.*
+- question avec qu'est-ce qui → **ce qui** : *Il demande ce qui se passe.*
+- question avec mot interrogatif → on le garde : *Je me demande où il habite, quand il part, pourquoi il refuse.*
+- ordre → **de + infinitif** : *Il nous dit de nous asseoir.*
+
+## La concordance des temps (verbe introducteur au passé)
+- présent → **imparfait** : « Je suis prêt. » → *Il a dit qu'il était prêt.*
+- passé composé → **plus-que-parfait** : « J'ai fini. » → *qu'il avait fini.*
+- futur → **conditionnel présent** : « Je viendrai. » → *qu'il viendrait.*
+- futur antérieur → **conditionnel passé** : « J'aurai fini. » → *qu'il aurait fini.*
+- imparfait, plus-que-parfait, conditionnel : **inchangés**.
+
+## Indicateurs de temps et de lieu
+- aujourd'hui → *ce jour-là* ; hier → *la veille* ; demain → *le lendemain*
+- la semaine prochaine → *la semaine suivante* ; il y a deux jours → *deux jours plus tôt*
+- ici → *là* ; maintenant → *à ce moment-là*
+
+## Verbes introducteurs variés (B2)
+affirmer, expliquer, préciser, annoncer, reconnaître, admettre, répondre, ajouter, se demander, assurer, prétendre, rappeler, souligner.
+## SIMPLES
+- Il dit qu'il est malade.
+- Elle demande si tu viens ce soir.
+- Le professeur nous dit de nous taire.
+- Je me demande où il habite.
+## B2
+- Le ministre a affirmé que les mesures annoncées entreraient en vigueur le mois suivant.
+- La porte-parole a reconnu que l'entreprise avait commis des erreurs de communication.
+- Les habitants se demandent pourquoi le projet a été abandonné sans concertation.
+- Le médecin m'a conseillé de réduire ma consommation de sel et de marcher davantage.
+## EXERCICES
+TRANS | B1 | Discours indirect : Paul dit : « Je suis en retard. »
+> Paul dit qu'il est en retard.|paul dit qu'il est en retard
+= Le verbe introducteur est au présent : le temps ne change pas. Le pronom « je » devient « il ».
+TRANS | B1 | Discours indirect : Elle me demande : « Tu as faim ? »
+> Elle me demande si j'ai faim.|elle me demande si j'ai faim
+= Une question fermée (réponse oui/non) est introduite par « si ». « Tu » devient « je » puisque c'est à moi qu'elle parle.
+TRANS | B1 | Discours indirect : Il me dit : « Ferme la porte. »
+> Il me dit de fermer la porte.|il me dit de fermer la porte
+= L'impératif devient « de + infinitif ».
+QCM | B1 | « Il me demande : "Qu'est-ce que tu fais ?" » → Il me demande ___ je fais.
+* ce que
+- qu'est-ce que
+- que
+- ce qui
+= « Qu'est-ce que » devient « ce que » au discours indirect.
+QCM | B1 | « Elle demande : "Qu'est-ce qui se passe ?" » → Elle demande ___ se passe.
+* ce qui
+- ce que
+- qu'est-ce qui
+- qui
+= « Qu'est-ce qui » (sujet) devient « ce qui » au discours indirect.
+TRANS | B2 | Discours indirect au passé : Il a dit : « Je partirai demain. »
+> Il a dit qu'il partirait le lendemain.|il a dit qu'il partirait le lendemain
+= Avec un verbe introducteur au passé, le futur devient conditionnel présent (partirait) et « demain » devient « le lendemain ».
+TRANS | B2 | Discours indirect au passé : Elle a expliqué : « J'ai perdu mon badge. »
+> Elle a expliqué qu'elle avait perdu son badge.|elle a expliqué qu'elle avait perdu son badge
+= Le passé composé devient plus-que-parfait ; « mon » devient « son ».
+TROU | B2 | Il m'a dit : « Je vis ici. » → Il m'a dit qu'il ___ là.
+> vivait
+= Présent → imparfait après un verbe introducteur au passé ; « ici » devient « là ».
+QCM | B2 | « Ils ont annoncé : "Nous aurons terminé lundi." » → Ils ont annoncé qu'ils ___ lundi.
+* auraient terminé
+- auront terminé
+- avaient terminé
+- terminaient
+= Le futur antérieur devient conditionnel passé dans le discours indirect au passé.
+TRANS | B2 | Discours indirect au passé : Le client a demandé : « Où se trouve la sortie ? »
+> Le client a demandé où se trouvait la sortie.|le client a demandé où se trouvait la sortie
+= Le mot interrogatif « où » est conservé ; le présent devient imparfait ; plus d'inversion ni de point d'interrogation.
+TROU | B2 | Elle a dit : « Je suis arrivée hier. » → Elle a dit qu'elle était arrivée ___.
+> la veille
+= « Hier » devient « la veille » quand le discours est rapporté depuis un autre moment.
+QCM | B2 | Quel verbe introducteur signifie « admettre une erreur » ?
+* reconnaître
+- prétendre
+- affirmer
+- ajouter
+= « Reconnaître que » signifie admettre quelque chose, souvent une erreur. « Prétendre » suggère au contraire un doute sur la vérité de ce qui est dit.

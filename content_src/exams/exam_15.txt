@@ -1,0 +1,490 @@
+@code EXAM-15
+@title Examen blanc n° 15 – Tourisme, lecture et bien-être étudiant
+@level B2
+@description Examen complet calibré B1–B2 : surtourisme, lecture chez les jeunes, livraison à vélo, santé mentale des étudiants, monnaies locales.
+
+## CO 1 | A2 | message téléphonique | information précise | F:fr-FR
+DOC: F: Bonjour, ici la librairie Les Mots Passants. Le livre que vous avez commandé est arrivé. Vous pouvez venir le chercher jusqu'à samedi. Nous sommes ouverts de 10 heures à 19 heures.
+Q: Jusqu'à quand peut-on aller chercher le livre ?
++ Jusqu'à samedi. | « Vous pouvez venir le chercher jusqu'à samedi ».
+- Jusqu'à 10 heures. | C'est l'heure d'ouverture.
+- Jusqu'à dimanche. | Ce n'est pas dit.
+- Aujourd'hui seulement. | Ce n'est pas dit.
+EXP: « Jusqu'à » indique une limite dans le temps.
+
+## CO 2 | A2 | annonce publique | information précise | H:fr-FR
+DOC: H: Mesdames et messieurs, en raison de la forte affluence, l'accès au belvédère est limité à cinquante personnes à la fois. Merci de patienter dans la file d'attente. Le temps d'attente est d'environ vingt minutes.
+Q: Combien de temps faut-il attendre ?
++ Environ vingt minutes. | « Le temps d'attente est d'environ vingt minutes ».
+- Cinquante minutes. | Cinquante est le nombre de personnes.
+- Une heure. | Ce n'est pas dit.
+- Cinq minutes. | Ce n'est pas dit.
+EXP: Ne confondez pas les chiffres.
+
+## CO 3 | A2 | conversation quotidienne | information précise | H:fr-FR, F:fr-FR
+DOC: H: Tu as commandé une pizza ? / F: Oui, elle arrive à vélo dans quinze minutes. / H: Encore ? On en a mangé hier ! / F: C'est mon anniversaire, j'ai le droit !
+Q: Comment la pizza va-t-elle être livrée ?
++ À vélo. | « elle arrive à vélo ».
+- En voiture. | Ce n'est pas dit.
+- À scooter. | Ce n'est pas dit.
+- À pied. | Ce n'est pas dit.
+EXP: Repérez le moyen de transport.
+
+## CO 4 | B1 | conversation quotidienne | intention | F:fr-FR, H:fr-FR
+DOC: F: Je suis épuisée, je dors mal depuis le début des examens. / H: Tu sais que l'université a un service d'écoute psychologique gratuit ? Tu pourrais prendre rendez-vous. Ça m'a beaucoup aidé l'an dernier.
+Q: Que propose l'homme ?
++ Consulter le service psychologique de l'université. | « Tu pourrais prendre rendez-vous ».
+- Arrêter ses études. | Ce n'est pas dit.
+- Prendre des somnifères. | Ce n'est pas dit.
+- Réviser davantage. | Ce n'est pas dit.
+EXP: Le conditionnel « pourrais » formule une suggestion.
+
+## CO 5 | B1 | message professionnel | information précise | H:fr-FR
+DOC: H: Bonjour Madame Morel, ici la mairie. Votre demande pour accepter la monnaie locale « l'Abeille » dans votre boulangerie est validée. Vous recevrez le kit de communication la semaine prochaine : un autocollant pour la vitrine et des affichettes pour le comptoir.
+Q: Que contient le kit ?
++ Un autocollant et des affichettes. | « un autocollant pour la vitrine et des affichettes ».
+- Des billets de monnaie locale. | Ce n'est pas dit.
+- Une caisse enregistreuse. | Ce n'est pas dit.
+- Un contrat. | Ce n'est pas dit.
+EXP: Les deux-points annoncent une énumération.
+
+## CO 6 | B1 | information radio | information précise | F:fr-FR
+DOC: F: Pour lutter contre la foule, le site des calanques limitera l'accès à 400 visiteurs par jour cet été. La réservation sera obligatoire et gratuite sur Internet. Les habitants des communes voisines pourront venir sans réserver.
+Q: Qui pourra venir sans réserver ?
++ Les habitants des communes voisines. | « pourront venir sans réserver ».
+- Tous les visiteurs. | La réservation est obligatoire.
+- Les 400 premiers visiteurs. | Ils doivent réserver.
+- Les touristes étrangers. | Ce n'est pas dit.
+EXP: Repérez l'exception à la règle.
+
+## CO 7 | B1 | interview | opinion | H:fr-FR, F:fr-FR
+DOC: H: Vous êtes livreuse à vélo cargo. Ce métier vous plaît ? / F: J'adore être dehors et faire du sport en travaillant. Le plus dur, c'est la pluie en hiver et les automobilistes qui ne respectent pas les pistes cyclables. Mais je ne retournerais pas dans un bureau.
+Q: Qu'est-ce qui est difficile pour la livreuse ?
++ La pluie et le comportement des automobilistes. | « la pluie en hiver et les automobilistes… ».
+- Le sport. | Elle aime faire du sport.
+- Être dehors. | Elle adore ça.
+- Le travail de bureau. | Elle n'y travaille pas.
+EXP: « Le plus dur, c'est » annonce les difficultés.
+
+## CO 8 | B1 | annonce publique | information précise | H:fr-FR
+DOC: H: Le prix littéraire des lycéens ouvre ses inscriptions. Les classes participantes liront cinq romans entre octobre et mars, puis voteront pour leur préféré. L'auteur gagnant viendra rencontrer les élèves en mai.
+Q: Que se passera-t-il en mai ?
++ L'auteur gagnant rencontrera les élèves. | « L'auteur gagnant viendra rencontrer les élèves en mai ».
+- Les élèves voteront. | Le vote a lieu en mars.
+- Les élèves commenceront à lire. | Ils commencent en octobre.
+- Les inscriptions ouvriront. | Elles ouvrent maintenant.
+EXP: Associez chaque mois à une étape.
+
+## CO 9 | B1 | situation administrative | information précise | F:fr-FR, H:fr-FR
+DOC: F: Bonjour, je suis étudiante et j'ai du mal à payer mes séances chez une psychologue. / H: Il existe un dispositif national : vous pouvez bénéficier de huit séances gratuites par an avec un psychologue partenaire. Il suffit de passer d'abord par le service de santé de votre université.
+Q: Combien de séances gratuites l'étudiante peut-elle avoir ?
++ Huit par an. | « huit séances gratuites par an ».
+- Une par mois. | Ce n'est pas dit.
+- Autant qu'elle veut. | C'est limité.
+- Deux par an. | Ce n'est pas dit.
+EXP: Repérez la quantité et la période.
+
+## CO 10 | B1 | conversation professionnelle | information précise | H:fr-FR, F:fr-FR
+DOC: H: On remplace la camionnette de livraison par des vélos cargos ? / F: Pour le centre-ville, oui. Ils passent partout et on n'a plus de problèmes de stationnement. Mais pour les gros colis, on garde la camionnette. / H: D'accord, on commence par deux vélos.
+Q: Pour quoi garde-t-on la camionnette ?
++ Pour les gros colis. | « pour les gros colis, on garde la camionnette ».
+- Pour le centre-ville. | C'est pour les vélos cargos.
+- Pour les problèmes de stationnement. | Les vélos évitent ce problème.
+- Pour les livraisons de nuit. | Ce n'est pas dit.
+EXP: « Mais » introduit une restriction.
+
+## CO 11 | B2 | débat | argumentation | F:fr-FR, H:fr-FR
+DOC: F: Il faudrait taxer davantage les touristes dans les villes saturées comme Venise ou Barcelone. / H: Une taxe ne fera pas venir moins de monde, les touristes paieront et viendront quand même. Il vaut mieux limiter le nombre de bateaux de croisière et de logements touristiques.
+Q: Que propose l'homme ?
++ Limiter les croisières et les logements touristiques. | « limiter le nombre de bateaux de croisière et de logements touristiques ».
+- Augmenter la taxe touristique. | Il pense que ce n'est pas efficace.
+- Interdire tout tourisme. | Ce n'est pas dit.
+- Construire plus d'hôtels. | C'est l'inverse.
+EXP: « Il vaut mieux » introduit une alternative préférée.
+
+## CO 12 | B2 | information radio | information globale | H:fr-FR
+DOC: H: Contrairement aux idées reçues, les adolescents n'ont pas abandonné la lecture. Les ventes de mangas et de romans pour jeunes adultes explosent, portées notamment par les recommandations sur les réseaux sociaux. En revanche, la lecture de classiques et de journaux continue de reculer.
+Q: Quelle est l'idée principale ?
++ Les adolescents lisent toujours, mais d'autres genres. | Mangas et romans progressent, classiques reculent.
+- Les adolescents ne lisent plus. | C'est une idée reçue contredite.
+- Les réseaux sociaux empêchent la lecture. | Ils la favorisent.
+- Les journaux se vendent mieux. | Ils reculent.
+EXP: « Contrairement aux idées reçues » annonce une correction.
+
+## CO 13 | B2 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes psychiatre. La santé mentale des étudiants s'est-elle dégradée ? / H: Oui, nettement. La précarité financière, l'isolement et la pression des résultats forment un cocktail explosif. Mais il y a aussi une bonne nouvelle : les jeunes osent davantage en parler et demander de l'aide.
+Q: Quelle « bonne nouvelle » le psychiatre mentionne-t-il ?
++ Les jeunes parlent plus facilement de leurs difficultés. | « les jeunes osent davantage en parler ».
+- La précarité a disparu. | C'est une cause du problème.
+- Les résultats sont meilleurs. | Ce n'est pas dit.
+- Il y a plus de psychiatres. | Ce n'est pas dit.
+EXP: « Mais il y a aussi » introduit un élément positif.
+
+## CO 14 | B2 | message téléphonique | intention | H:fr-FR
+DOC: H: Bonjour, ici l'agence Voyages Autrement. Suite à votre demande, nous vous déconseillons de visiter Dubrovnik en août : la ville est envahie de croisiéristes. Nous vous proposons plutôt les îles moins connues du sud de la Croatie, tout aussi belles et beaucoup plus calmes. Rappelez-nous pour en discuter.
+Q: Que fait l'agence ?
++ Elle propose une destination alternative. | « Nous vous proposons plutôt les îles moins connues ».
+- Elle confirme le voyage à Dubrovnik. | Elle le déconseille.
+- Elle annule le voyage. | Ce n'est pas dit.
+- Elle propose une croisière. | Ce n'est pas dit.
+EXP: « Déconseiller » = conseiller de ne pas faire.
+
+## CO 15 | B2 | conversation professionnelle | relation logique | F:fr-FR, H:fr-FR
+DOC: F: Pourquoi la monnaie locale marche-t-elle mieux chez nous que dans la ville voisine ? / H: Parce qu'ici, la mairie accepte la monnaie locale pour payer la cantine et la piscine. Du coup, les habitants ont une vraie raison de l'utiliser au quotidien.
+Q: Pourquoi la monnaie locale fonctionne-t-elle bien ?
++ Parce qu'elle sert aussi à payer des services municipaux. | « la mairie accepte la monnaie locale… ».
+- Parce qu'elle est plus forte que l'euro. | Ce n'est pas dit.
+- Parce que la ville voisine l'interdit. | Ce n'est pas dit.
+- Parce qu'elle est obligatoire. | Ce n'est pas dit.
+EXP: « Du coup » introduit une conséquence (registre courant).
+
+## CO 16 | B2 | interview | information détaillée | H:fr-FR, F:fr-FR
+DOC: H: Vous avez ouvert une librairie dans un village de 800 habitants. Comment tenez-vous ? / F: La librairie est aussi un café et un point relais pour les colis. Le soir, nous organisons des lectures et des ateliers d'écriture. Sans ces activités, nous ne pourrions pas vivre de la seule vente de livres.
+Q: Comment la librairie arrive-t-elle à vivre ?
++ Grâce à des activités complémentaires. | Café, point relais, ateliers.
+- Grâce à la seule vente de livres. | Ce ne serait pas suffisant.
+- Grâce aux subventions. | Ce n'est pas dit.
+- Grâce aux touristes. | Ce n'est pas dit.
+EXP: « Sans ces activités, nous ne pourrions pas » : hypothèse négative.
+
+## CO 17 | B2 | annonce publique | information précise | F:fr-FR
+DOC: F: Information aux visiteurs : à partir du 1er juillet, l'entrée du centre historique sera payante pour les visiteurs à la journée, le samedi et le dimanche. Le tarif est fixé à 5 euros. Les personnes qui dorment dans un hébergement de la ville, les résidents et les moins de 14 ans sont exemptés.
+Q: Qui doit payer l'entrée ?
++ Les visiteurs à la journée le week-end. | « payante pour les visiteurs à la journée, le samedi et le dimanche ».
+- Les résidents. | Ils sont exemptés.
+- Les moins de 14 ans. | Ils sont exemptés.
+- Les clients des hôtels de la ville. | Ils sont exemptés.
+EXP: « Être exempté » = ne pas être soumis à une obligation.
+
+## CO 18 | B2 | information radio | relation logique | H:fr-FR
+DOC: H: Le nombre de livreurs à vélo a été multiplié par cinq en cinq ans dans les grandes villes. Si ce mode de livraison réduit la pollution, il soulève aussi des questions sociales : la plupart des livreurs sont auto-entrepreneurs, sans congés payés ni protection en cas d'accident.
+Q: Quelles questions soulève ce mode de livraison ?
++ Des questions de protection sociale des livreurs. | « sans congés payés ni protection en cas d'accident ».
+- Des questions de pollution. | Il la réduit.
+- Des questions de vitesse. | Ce n'est pas dit.
+- Des questions de prix des vélos. | Ce n'est pas dit.
+EXP: « Si… il soulève aussi » = bien que… il soulève.
+
+## CO 19 | B2 | débat | argumentation | H:fr-FR, F:fr-FR
+DOC: H: Obliger les lycéens à lire des classiques, ça les dégoûte de la lecture. / F: Je ne crois pas. Sans l'école, la plupart ne découvriraient jamais Victor Hugo ou Maupassant. Le problème, c'est la manière : on pourrait leur laisser choisir parmi une liste plus large.
+Q: Selon la femme, où est le problème ?
++ Dans la manière d'enseigner les classiques. | « Le problème, c'est la manière ».
+- Dans les classiques eux-mêmes. | Elle les défend.
+- Dans la lecture en général. | Ce n'est pas dit.
+- Dans l'école. | Elle défend son rôle.
+EXP: « Le problème, c'est » recentre le débat.
+
+## CO 20 | B2 | interview | opinion | F:fr-FR, H:fr-CH
+DOC: F: Pourquoi avoir créé une ligne d'écoute tenue par des étudiants pour des étudiants ? / H: Parce qu'on se confie plus facilement à quelqu'un de son âge. Attention, nous ne remplaçons pas les professionnels : nous écoutons et, si nécessaire, nous orientons vers un psychologue.
+Q: Que précise l'homme sur le rôle des bénévoles ?
++ Ils écoutent et orientent, sans remplacer les professionnels. | « nous ne remplaçons pas les professionnels ».
+- Ils soignent les étudiants. | Ils ne remplacent pas les professionnels.
+- Ils sont psychologues. | Ce sont des étudiants.
+- Ils donnent des médicaments. | Ce n'est pas dit.
+EXP: « Attention » introduit une précision importante.
+
+## CO 21 | C1 | information radio | information détaillée | F:fr-FR
+DOC: F: Amsterdam a décidé de plafonner à vingt millions le nombre de nuitées touristiques par an. Au-delà, la ville cessera de délivrer de nouveaux permis pour les hôtels et limitera davantage les locations de courte durée. La municipalité dit vouloir préserver la qualité de vie des habitants plutôt que maximiser les recettes touristiques.
+Q: Que fera la ville si le plafond est dépassé ?
++ Elle cessera de délivrer de nouveaux permis d'hôtels. | « cessera de délivrer de nouveaux permis pour les hôtels ».
+- Elle fermera les musées. | Ce n'est pas dit.
+- Elle augmentera la taxe touristique. | Ce n'est pas dit.
+- Elle interdira les touristes. | Ce n'est pas dit.
+EXP: « Plafonner » = fixer une limite maximale.
+
+## CO 22 | B2 | conversation professionnelle | intention | H:fr-FR, F:fr-FR
+DOC: H: Je voulais te prévenir : plusieurs étudiants m'ont dit qu'ils trouvaient tes partiels trop longs. / F: Ah bon ? Je pensais qu'ils étaient bien calibrés. / H: Ce n'est pas une critique. Peut-être pourrais-tu en parler avec eux au prochain cours ?
+Q: Quelle est l'intention de l'homme ?
++ Transmettre un retour avec tact. | « Ce n'est pas une critique… Peut-être pourrais-tu… ».
+- Critiquer violemment sa collègue. | Il prend des précautions.
+- Annuler les partiels. | Ce n'est pas dit.
+- Se plaindre des étudiants. | Ce n'est pas dit.
+EXP: Les formules de précaution adoucissent un message délicat.
+
+## CO 23 | C1 | débat | point de vue implicite | F:fr-FR, H:fr-FR
+DOC: F: Les monnaies locales sont une belle idée pour soutenir les commerces de proximité. / H: Une belle idée, certes. Mais leur circulation reste confidentielle, souvent moins de 1 % des achats d'une ville. On peut se demander si l'énergie dépensée par les bénévoles ne serait pas plus utile ailleurs.
+Q: Que suggère l'homme ?
++ L'efficacité des monnaies locales est limitée. | « circulation reste confidentielle ».
+- Les monnaies locales sont très utilisées. | Moins de 1 %.
+- Il faut les rendre obligatoires. | Ce n'est pas dit.
+- Les bénévoles devraient être payés. | Ce n'est pas dit.
+EXP: « On peut se demander si » formule une critique prudente.
+
+## CO 24 | C1 | interview | nuance | H:fr-FR, F:fr-FR
+DOC: H: Les réseaux sociaux font-ils lire les jeunes ? / F: Ils créent indéniablement un engouement pour certains livres. Mais cet engouement se concentre sur une poignée de titres, toujours les mêmes. On lit davantage, peut-être, mais on lit moins varié. C'est une démocratisation en trompe-l'œil.
+Q: Quelle est la position de la spécialiste ?
++ Les réseaux sociaux augmentent la lecture mais réduisent sa diversité. | « on lit moins varié ».
+- Les réseaux sociaux empêchent de lire. | Ils créent un engouement.
+- Les jeunes lisent des livres très variés. | C'est l'inverse.
+- La lecture est totalement démocratisée. | « en trompe-l'œil ».
+EXP: « En trompe-l'œil » = qui donne une fausse impression.
+
+## CO 25 | C1 | information radio | relation logique | H:fr-FR
+DOC: H: Les étudiants qui travaillent plus de quinze heures par semaine ont deux fois plus de risques d'échouer à leurs examens. Or, faute de bourses suffisantes, près de la moitié d'entre eux sont contraints d'avoir un emploi. C'est donc tout le système d'aides qui mériterait d'être repensé.
+Q: Quelle conclusion est tirée ?
++ Le système d'aides aux étudiants doit être repensé. | « C'est donc tout le système d'aides… ».
+- Les étudiants ne devraient jamais travailler. | Ce n'est pas la conclusion.
+- Les examens sont trop difficiles. | Ce n'est pas dit.
+- Les bourses sont trop élevées. | Elles sont insuffisantes.
+EXP: « Or » introduit un fait décisif, « donc » la conclusion.
+
+## CE 1 | A2 | annonce | information précise
+DOC: LIVRES D'OCCASION – Grande braderie de la bibliothèque. Samedi 9 h – 17 h, hall de la mairie. Romans : 1 €. Livres pour enfants : 0,50 €. Bandes dessinées : 2 €.
+Q: Combien coûte une bande dessinée ?
++ 2 €. | « Bandes dessinées : 2 € ».
+- 1 €. | C'est le prix d'un roman.
+- 0,50 €. | C'est le prix d'un livre pour enfants.
+- 9 €. | 9 h est l'heure d'ouverture.
+EXP: Associez chaque prix à son article.
+
+## CE 2 | A2 | message | information précise
+DOC: Salut Tom ! Le livreur est passé, mais tu n'étais pas là. Ton colis est chez moi, appartement 3. Je suis là ce soir après 18 h. À plus ! Inès
+Q: Où est le colis de Tom ?
++ Chez Inès. | « Ton colis est chez moi ».
+- Au bureau de poste. | Ce n'est pas dit.
+- Devant sa porte. | Ce n'est pas dit.
+- Chez le livreur. | Ce n'est pas dit.
+EXP: « Chez moi » renvoie à l'auteure du message.
+
+## CE 3 | A2 | affiche | information précise
+DOC: CAFÉ-ÉCOUTE ÉTUDIANT – Tu te sens stressé ou seul ? Viens parler avec nous autour d'un thé. Tous les jeudis, 18 h – 20 h, Maison des étudiants. Anonyme et gratuit.
+Q: Quand a lieu le café-écoute ?
++ Le jeudi soir. | « Tous les jeudis, 18 h – 20 h ».
+- Le samedi matin. | Ce n'est pas dit.
+- Tous les jours. | Seulement le jeudi.
+- Le jeudi matin. | C'est le soir.
+EXP: Repérez le jour et l'heure.
+
+## CE 4 | B1 | courriel | information précise
+DOC: Bonjour Madame Klein, merci pour votre réservation. Pour préserver le site, l'accès au parc naturel se fait uniquement par créneau de deux heures. Votre créneau : samedi 10 h – 12 h. Le parking étant limité, nous vous recommandons de venir en navette depuis la gare. Bonne visite !
+Q: Pourquoi recommande-t-on la navette ?
++ Parce que le parking est limité. | « Le parking étant limité ».
+- Parce que la navette est gratuite. | Ce n'est pas dit.
+- Parce que la gare est fermée. | Ce n'est pas dit.
+- Parce que le créneau dure deux heures. | Ce n'est pas la raison.
+EXP: Le participe présent « étant » exprime ici la cause.
+
+## CE 5 | B1 | article de presse | information globale
+DOC: À Bayonne, l'eusko, une monnaie locale créée il y a dix ans, est aujourd'hui acceptée par plus de 1 000 commerces et associations. Un eusko vaut un euro. L'objectif : faire circuler l'argent dans l'économie locale plutôt que dans les grandes chaînes internationales.
+Q: Quel est l'objectif de l'eusko ?
++ Favoriser l'économie locale. | « faire circuler l'argent dans l'économie locale ».
+- Remplacer l'euro dans toute la France. | Ce n'est pas dit.
+- Financer les grandes chaînes. | C'est l'inverse.
+- Attirer les touristes étrangers. | Ce n'est pas dit.
+EXP: « L'objectif : » annonce le but.
+
+## CE 6 | B1 | lettre administrative | information précise
+DOC: Madame, Monsieur, vous avez demandé une aide d'urgence auprès du CROUS. Votre demande a été acceptée : une aide de 300 euros vous sera versée sous dix jours. Nous vous invitons également à prendre rendez-vous avec une assistante sociale pour faire le point sur votre situation.
+Q: Que conseille-t-on à l'étudiant ?
++ De rencontrer une assistante sociale. | « prendre rendez-vous avec une assistante sociale ».
+- De rembourser l'aide. | Ce n'est pas dit.
+- De refaire une demande. | Elle est acceptée.
+- D'attendre trois mois. | L'aide arrive sous dix jours.
+EXP: « Nous vous invitons à » = nous vous conseillons de.
+
+## CE 7 | B1 | publicité | intention
+DOC: Marre des bouchons ? Livrez vos colis avec CargoVert ! Nos vélos électriques transportent jusqu'à 150 kg et livrent en centre-ville en moins d'une heure. Zéro émission, zéro stress. Demandez un devis gratuit !
+Q: À qui s'adresse cette publicité ?
++ Aux entreprises qui ont des colis à livrer. | « Livrez vos colis avec CargoVert ».
+- Aux cyclistes amateurs. | Ce n'est pas dit.
+- Aux enfants. | Ce n'est pas dit.
+- Aux chauffeurs de taxi. | Ce n'est pas dit.
+EXP: Le service proposé indique la cible.
+
+## CE 8 | B1 | message professionnel | information précise
+DOC: Chers collègues, notre librairie participe au « Mois de la lecture jeunesse ». Du 1er au 30 novembre, chaque enfant qui achète un livre recevra un marque-page dédicacé par un illustrateur. Merci de vérifier les stocks de marque-pages chaque matin.
+Q: Que doivent faire les employés chaque matin ?
++ Vérifier les stocks de marque-pages. | « vérifier les stocks de marque-pages chaque matin ».
+- Lire un livre aux enfants. | Ce n'est pas dit.
+- Dédicacer des livres. | C'est l'illustrateur.
+- Commander des livres. | Ce n'est pas dit.
+EXP: La consigne est à la fin du message.
+
+## CE 9 | B1 | témoignage | opinion
+DOC: « Je rêvais de voir le Machu Picchu. Quand je suis arrivée, il y avait tellement de monde que je n'ai pas pu profiter du lieu. La prochaine fois, je choisirai une destination moins connue. » Laura, 27 ans.
+Q: Quelle leçon Laura tire-t-elle de son voyage ?
++ Elle préférera des destinations moins fréquentées. | « je choisirai une destination moins connue ».
+- Elle veut retourner au Machu Picchu. | Ce n'est pas dit.
+- Elle a adoré la foule. | Elle n'a pas pu profiter.
+- Elle ne voyagera plus. | Elle prévoit un autre voyage.
+EXP: La dernière phrase exprime une décision.
+
+## CE 10 | B2 | article de presse | information globale
+DOC: Un étudiant sur trois déclare avoir ressenti des symptômes dépressifs au cours de l'année, selon une enquête nationale. Isolement, difficultés financières et incertitude sur l'avenir sont les causes les plus citées. Les services de santé universitaires, débordés, réclament le recrutement de psychologues supplémentaires.
+Q: Que demandent les services de santé universitaires ?
++ Plus de psychologues. | « réclament le recrutement de psychologues supplémentaires ».
+- Moins d'étudiants. | Ce n'est pas dit.
+- Des bourses plus élevées. | Ce n'est pas dit.
+- La fermeture des universités. | Ce n'est pas dit.
+EXP: « Débordé » = qui a trop de travail.
+
+## CE 11 | B2 | texte argumentatif | intention de l'auteur
+DOC: On accuse souvent les écrans d'avoir tué la lecture. Pourtant, jamais les jeunes n'ont autant lu : messages, articles, fanfictions, mangas numériques. La vraie question n'est pas de savoir s'ils lisent, mais ce qu'ils lisent et comment ils le comprennent.
+Q: Quelle est l'intention de l'auteur ?
++ Déplacer le débat vers la qualité de la lecture. | « La vraie question n'est pas… mais… ».
+- Montrer que les jeunes ne lisent plus. | Il dit le contraire.
+- Interdire les écrans. | Ce n'est pas dit.
+- Faire la promotion des mangas. | Ce n'est pas son objectif.
+EXP: « La vraie question » recentre le débat.
+
+## CE 12 | B2 | courriel | sens d'un mot en contexte
+DOC: Bonjour Julien, je reviens de Lisbonne. La ville est magnifique, mais le quartier de l'Alfama est complètement dénaturé : presque tous les appartements sont devenus des locations touristiques et les habitants sont partis. C'est dommage. À bientôt, Claire.
+Q: Que signifie « dénaturé » ici ?
++ Qui a perdu son caractère authentique. | Les habitants sont partis.
+- Qui a été détruit. | Ce n'est pas le sens.
+- Qui est devenu plus naturel. | C'est l'inverse.
+- Qui a été rénové. | Ce n'est pas le sens.
+EXP: Le préfixe « dé- » exprime la perte.
+
+## CE 13 | B2 | article de presse | information détaillée
+DOC: À Lyon, les livraisons en vélo cargo représentent désormais 15 % des livraisons du centre-ville. La métropole a créé des « hubs » logistiques en périphérie : les camions y déposent les marchandises, qui sont ensuite acheminées à vélo jusqu'aux commerces. Les émissions liées aux livraisons ont baissé de 20 %.
+Q: À quoi servent les « hubs » ?
++ À transférer les marchandises des camions vers les vélos. | Les camions déposent, les vélos livrent.
+- À réparer les vélos. | Ce n'est pas dit.
+- À vendre des produits. | Ce n'est pas dit.
+- À garer les voitures. | Ce n'est pas dit.
+EXP: Suivez la chaîne logistique décrite.
+
+## CE 14 | B2 | lettre administrative | information précise
+DOC: Monsieur, votre demande d'aménagement d'examen pour raisons de santé a été acceptée. Vous bénéficierez d'un tiers-temps supplémentaire et d'une salle séparée. Ces aménagements sont valables pour l'année universitaire en cours. Une nouvelle demande devra être déposée l'année prochaine.
+Q: Que doit faire l'étudiant l'année prochaine ?
++ Déposer une nouvelle demande. | « Une nouvelle demande devra être déposée ».
+- Rien, l'aménagement est permanent. | Il est valable un an.
+- Passer ses examens à distance. | Ce n'est pas dit.
+- Changer d'université. | Ce n'est pas dit.
+EXP: « Valable pour l'année en cours » = pour cette année seulement.
+
+## CE 15 | B2 | texte argumentatif | relation logique
+DOC: Les monnaies locales ne peuvent être dépensées que dans une zone limitée. C'est précisément leur intérêt : l'argent ne peut pas « s'échapper » vers des multinationales et profite donc aux commerces du territoire.
+Q: Quel lien existe entre la limite géographique et le soutien aux commerces ?
++ La limite est la cause du soutien. | L'argent reste sur le territoire, donc profite aux commerces.
+- Ce sont deux idées opposées. | L'auteur les relie positivement.
+- La limite est une conséquence du soutien. | C'est l'inverse.
+- Il n'y a aucun lien. | « C'est précisément leur intérêt ».
+EXP: Ce qui semble un défaut est présenté comme un avantage.
+
+## CE 16 | B2 | article de presse | opinion
+DOC: Faut-il rendre payante l'entrée des centres historiques ? Pour notre chroniqueur, il s'agit d'une fausse bonne idée : « On transforme une ville en parc d'attractions. Les habitants deviennent des figurants. » Il plaide plutôt pour une limitation des logements touristiques.
+Q: Pourquoi le chroniqueur s'oppose-t-il à l'entrée payante ?
++ Elle transforme la ville en parc d'attractions. | « On transforme une ville en parc d'attractions ».
+- Elle coûte trop cher aux touristes. | Ce n'est pas son argument.
+- Elle rapporte trop d'argent. | Ce n'est pas dit.
+- Elle est illégale. | Ce n'est pas dit.
+EXP: « Une fausse bonne idée » = une idée séduisante mais mauvaise.
+
+## CE 17 | B2 | document informatif | information précise
+DOC: Le Pass Culture offre aux jeunes de 18 ans un crédit de 300 euros à dépenser en livres, places de concert, cours de musique ou abonnements culturels. Le crédit est valable deux ans. Il ne peut pas être utilisé pour des jeux vidéo, sauf ceux à vocation éducative.
+Q: Dans quel cas peut-on acheter un jeu vidéo avec le Pass Culture ?
++ S'il a une vocation éducative. | « sauf ceux à vocation éducative ».
+- Jamais. | Il y a une exception.
+- Toujours. | C'est limité.
+- Après deux ans. | Le crédit expire après deux ans.
+EXP: « Sauf » introduit une exception.
+
+## CE 18 | B2 | témoignage | sous-entendu
+DOC: « Mon université a organisé une semaine de sensibilisation au stress des étudiants. Elle tombait pendant les examens. » Mehdi, 21 ans.
+Q: Que sous-entend Mehdi ?
++ Le moment choisi était absurde. | Organiser cela pendant les examens est contradictoire.
+- La semaine était très utile. | Il souligne une contradiction.
+- Il n'avait pas d'examens. | Ce n'est pas dit.
+- Il n'était pas stressé. | Ce n'est pas dit.
+EXP: L'ironie repose sur la brièveté et la juxtaposition.
+
+## CE 19 | B2 | texte argumentatif | arguments
+DOC: Faut-il interdire les bateaux de croisière dans les ports historiques ? Les défenseurs de l'interdiction dénoncent la pollution et la foule déversée en quelques heures. Les commerçants répondent que les croisiéristes représentent une part importante de leur chiffre d'affaires et proposent plutôt de limiter le nombre d'escales par jour.
+Q: Que proposent les commerçants ?
++ Limiter le nombre d'escales quotidiennes. | « limiter le nombre d'escales par jour ».
+- Interdire les bateaux. | C'est l'autre camp.
+- Augmenter le nombre de croisières. | Ce n'est pas dit.
+- Fermer leurs commerces. | Ce n'est pas dit.
+EXP: Distinguez les deux camps.
+
+## CE 20 | B2 | article de presse | information détaillée
+DOC: Une expérimentation menée dans dix collèges a instauré un quart d'heure de lecture silencieuse chaque jour, pour tous, élèves comme adultes. Après un an, les résultats en compréhension écrite ont progressé de 12 %, et les incidents de discipline ont diminué. Le dispositif sera étendu à 200 établissements.
+Q: Qui participe au quart d'heure de lecture ?
++ Les élèves et les adultes. | « pour tous, élèves comme adultes ».
+- Seulement les élèves en difficulté. | C'est pour tous.
+- Seulement les professeurs de français. | C'est pour tous.
+- Les parents. | Ce n'est pas dit.
+EXP: « Élèves comme adultes » = aussi bien les élèves que les adultes.
+
+## CE 21 | C1 | texte argumentatif | thèse
+DOC: Le surtourisme n'est pas une fatalité, mais le résultat de choix politiques : publicité massive pour quelques sites emblématiques, vols à bas prix subventionnés, absence de régulation des locations de courte durée. Ce que des décisions ont créé, d'autres décisions peuvent le défaire.
+Q: Quelle est la thèse de l'auteur ?
++ Le surtourisme résulte de choix politiques et peut être corrigé. | « Ce que des décisions ont créé, d'autres décisions peuvent le défaire ».
+- Le surtourisme est inévitable. | « n'est pas une fatalité ».
+- Il faut interdire les vols. | Ce n'est pas dit.
+- La publicité est inutile. | Ce n'est pas dit.
+EXP: La formule finale reprend la thèse.
+
+## CE 22 | C1 | article de presse | information implicite
+DOC: L'université a lancé une campagne d'affichage invitant les étudiants à « prendre soin de leur santé mentale ». Le service de psychologie de l'établissement compte deux praticiens pour 30 000 étudiants, et le délai moyen pour obtenir un rendez-vous est de deux mois.
+Q: Que laisse entendre l'article ?
++ L'université communique plus qu'elle n'agit. | Les moyens réels contrastent avec la campagne.
+- Le service de psychologie est suffisant. | Deux praticiens pour 30 000 étudiants.
+- Les étudiants refusent de consulter. | Ce n'est pas dit.
+- Les rendez-vous sont immédiats. | Deux mois d'attente.
+EXP: La juxtaposition de faits suggère une critique.
+
+## CE 23 | C1 | texte argumentatif | ton
+DOC: Les plateformes de livraison se présentent comme des acteurs de la « mobilité douce ». On ne saurait trop les féliciter de faire pédaler, pour quelques euros la course, des milliers de jeunes sans contrat, sans congés et sans assurance, sous la pluie de novembre.
+Q: Quel est le ton de l'auteur ?
++ Ironique et critique. | « On ne saurait trop les féliciter » est une antiphrase.
+- Admiratif. | Le compliment est ironique.
+- Neutre. | Il dénonce.
+- Enthousiaste. | Ce n'est pas le cas.
+EXP: L'antiphrase dit le contraire de ce que l'on pense.
+
+## CE 24 | C1 | article de presse | relation logique
+DOC: Alors que les librairies indépendantes semblaient condamnées par la vente en ligne, elles ont connu un regain inattendu ces dernières années. Les lecteurs y recherchent ce qu'aucun algorithme ne leur offre : le conseil personnalisé, la découverte imprévue et le lien humain.
+Q: Comment l'article explique-t-il le regain des librairies ?
++ Par ce qu'elles offrent de plus que les algorithmes. | Conseil, découverte, lien humain.
+- Par la baisse des prix des livres. | Ce n'est pas dit.
+- Par la fermeture des sites de vente en ligne. | Ce n'est pas dit.
+- Par des subventions publiques. | Ce n'est pas dit.
+EXP: « Alors que » oppose la prévision et la réalité.
+
+## CE 25 | C1 | document informatif | reformulation
+DOC: Les sommes converties en monnaie locale sont déposées en euros sur un compte bancaire dédié, qui sert de fonds de garantie. Ce fonds assure à tout moment la reconversion possible de la monnaie locale en euros par les professionnels, moyennant une commission de 3 %.
+Q: Quelle reformulation correspond au texte ?
++ Les professionnels peuvent reconvertir la monnaie locale en euros, avec une petite commission. | « reconversion possible… moyennant une commission ».
+- La monnaie locale ne peut jamais être reconvertie. | Elle peut l'être.
+- Tous les particuliers peuvent reconvertir gratuitement. | Il s'agit des professionnels, avec commission.
+- Les euros déposés sont dépensés par l'association. | Ils servent de garantie.
+EXP: « Moyennant » = en échange de.
+
+## EE 1 | A2 | écrire un message
+CONSIGNE: Un ami vient visiter votre ville le week-end prochain. Vous lui écrivez un message pour lui proposer un programme (30 à 60 mots).
+MODELE: Salut Karim ! Super que tu viennes samedi ! Le matin, on peut visiter la vieille ville et monter à la tour pour la vue. À midi, je t'emmène dans un petit restaurant de spécialités. L'après-midi, s'il fait beau, on fera une balade au bord du lac. Dis-moi à quelle heure arrive ton train ! À samedi, Sami
+POINTS: salutation ; programme du matin ; repas ; après-midi ; question pratique
+CONSEILS: Utilisez le futur proche ou « on peut » pour proposer.
+
+## EE 2 | B1 | donner son avis sur un livre
+CONSIGNE: Vous avez lu un livre qui vous a marqué. Vous écrivez une critique pour le site de votre bibliothèque (40 à 90 mots).
+MODELE: Je viens de terminer « Le Petit Prince » de Saint-Exupéry, que je n'avais jamais lu. Sous l'apparence d'un conte pour enfants, ce livre parle d'amitié, de responsabilité et de ce qui compte vraiment dans la vie. Certaines phrases m'ont beaucoup touché, comme « On ne voit bien qu'avec le cœur ». Le style est simple mais très poétique. Je le recommande à tous, petits et grands : on y découvre quelque chose de nouveau à chaque lecture.
+POINTS: présentation du livre ; thèmes ; citation ou passage marquant ; style ; recommandation
+CONSEILS: « Sous l'apparence de » permet d'opposer forme et fond.
+
+## EE 3 | B2 | argumenter sur un sujet de société
+CONSIGNE: « Pour lutter contre le surtourisme, il faut rendre payante l'entrée des villes les plus visitées. » Vous réagissez à cette proposition sur un forum de voyageurs (40 à 90 mots).
+MODELE: Je comprends l'objectif, mais je doute de l'efficacité de cette mesure. Quelques euros ne dissuaderont pas un touriste qui a déjà payé son billet d'avion. Pire, on risque de transformer des villes vivantes en musées à ciel ouvert. À mon sens, il serait plus utile de limiter les locations touristiques, qui chassent les habitants, et de mieux répartir les visiteurs sur l'année. En définitive, le problème n'est pas l'accès à la ville, mais son organisation.
+POINTS: concession ; objection ; conséquence négative ; propositions ; conclusion
+CONSEILS: « Pire, » permet d'ajouter un argument plus fort.
+
+## EO 1 | B1 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous pose des questions sur vos voyages, vos lectures et votre vie d'étudiant ou de travailleur.
+RELANCES: Quel est le dernier voyage que vous avez fait ? / Préférez-vous les lieux connus ou peu fréquentés ? / Lisez-vous beaucoup ? / Quel livre avez-vous aimé ? / Comment gérez-vous le stress ? / Vous faites-vous livrer des repas ?
+PHRASES: Le dernier voyage que j'ai fait… / Je préfère… car… / En ce moment, je lis… / Pour me détendre, je… / Il m'arrive de…
+MODELE: Le dernier voyage que j'ai fait, c'était au Portugal l'été dernier. Je préfère les lieux peu fréquentés, car je déteste la foule. En ce moment, je lis un roman policier de Fred Vargas. Pour gérer le stress, je fais du sport et je parle avec mes amis. Il m'arrive de me faire livrer des repas quand je suis fatigué, mais j'essaie de cuisiner le plus souvent possible.
+
+## EO 2 | B2 | Obtenir une aide | Responsable du service de la vie étudiante
+SCENARIO: Vous êtes étudiant, vous avez perdu votre petit boulot et vous n'arrivez plus à payer votre loyer. L'examinateur joue le rôle du responsable du service de la vie étudiante. Expliquez votre situation et obtenez une aide.
+RELANCES: Bonjour, je vous écoute. / Avez-vous une bourse ? / Vos parents peuvent-ils vous aider ? / Il y a une aide d'urgence, mais le dossier prend du temps. / Nous avons aussi une épicerie solidaire. / Qu'attendez-vous exactement ?
+PHRASES: Je me trouve dans une situation difficile… / Depuis…, je… / Je souhaiterais savoir si… / Est-ce qu'il serait possible d'accélérer… ? / En attendant, …
+MODELE: Bonjour, je me trouve dans une situation difficile : depuis le mois dernier, j'ai perdu mon emploi de serveur et je ne peux plus payer mon loyer de 450 euros. Je n'ai pas de bourse et mes parents ne peuvent pas m'aider. Je souhaiterais savoir s'il serait possible d'accélérer le dossier d'aide d'urgence, car mon propriétaire m'a déjà envoyé un rappel. En attendant, l'épicerie solidaire m'aiderait beaucoup.
+
+## EO 3 | B2 | Le tourisme : chance ou menace ? | Examinateur
+SCENARIO: Donnez votre opinion : « Le tourisme de masse est-il une chance ou une menace pour les villes et les sites naturels ? » Argumentez, donnez des exemples, nuancez et concluez.
+RELANCES: Quelle est votre opinion ? / Quels sont les bénéfices économiques ? / Quels sont les effets négatifs ? / Quelles solutions ? / Votre conclusion ?
+PHRASES: Il est indéniable que… / En revanche… / On l'a vu à… / Une solution consisterait à… / Pour conclure…
+MODELE: Il est indéniable que le tourisme fait vivre de nombreuses régions : hôtels, restaurants, commerces, guides. En revanche, quand il devient massif, il chasse les habitants et abîme les sites naturels. On l'a vu à Venise ou dans les calanques de Marseille. Une solution consisterait à limiter les locations de courte durée et à mettre en place des réservations pour les sites fragiles. Pour conclure, le tourisme est une chance, à condition d'être maîtrisé.

@@ -1,0 +1,154 @@
+{
+ "exercises": [
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Il faut que tu ___ (faire) attention.",
+   "options": null,
+   "answer": "fasses",
+   "explanation": "« Il faut que » exige le subjonctif. « Faire » a un subjonctif irrégulier : que tu fasses."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Je veux que vous ___ (être) présents à la réunion.",
+   "options": null,
+   "answer": "soyez",
+   "explanation": "Volonté : subjonctif. « Être » → que vous soyez (sans i après le y)."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Bien qu'il ___ (avoir) peu de temps, il nous aide.",
+   "options": null,
+   "answer": "ait",
+   "explanation": "« Bien que » est toujours suivi du subjonctif. « Avoir » → qu'il ait."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« Je pense qu'elle ___ raison. »",
+   "options": [
+    "a",
+    "ait",
+    "aie",
+    "aura eu"
+   ],
+   "answer": "a",
+   "explanation": "« Penser que » à la forme affirmative exprime une opinion considérée comme certaine : indicatif."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« Je ne pense pas qu'elle ___ raison. »",
+   "options": [
+    "ait",
+    "a",
+    "aura",
+    "avait"
+   ],
+   "answer": "ait",
+   "explanation": "À la forme négative, « penser que » exprime un doute : subjonctif → qu'elle ait."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Je t'explique pour que tu ___ (comprendre).",
+   "options": null,
+   "answer": "comprennes",
+   "explanation": "« Pour que » exprime le but et exige le subjonctif. Radical de « ils comprennent » → que tu comprennes."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Il est possible que le train ___ (avoir) du retard.",
+   "options": null,
+   "answer": "ait",
+   "explanation": "« Il est possible que » exprime une possibilité : subjonctif. À l'inverse, « il est probable que » se construit avec l'indicatif."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Je suis ravi que vous ___ (réussir) votre examen la semaine dernière.",
+   "options": null,
+   "answer": "ayez réussi",
+   "explanation": "Le sentiment (ravi) appelle le subjonctif ; l'action est antérieure (la semaine dernière) : subjonctif passé → que vous ayez réussi."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Choisissez la phrase correcte.",
+   "options": [
+    "Après qu'il est parti, nous avons rangé la salle.",
+    "Après qu'il soit parti, nous avons rangé la salle.",
+    "Après qu'il parte, nous avons rangé la salle.",
+    "Après qu'il partait, nous avons rangé la salle."
+   ],
+   "answer": "Après qu'il est parti, nous avons rangé la salle.",
+   "explanation": "« Après que » exprime un fait réel et accompli : il se construit avec l'indicatif, même si l'usage oral emploie souvent à tort le subjonctif."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Nous attendrons jusqu'à ce qu'il ___ (pouvoir) nous recevoir.",
+   "options": null,
+   "answer": "puisse",
+   "explanation": "« Jusqu'à ce que » exige le subjonctif. « Pouvoir » → qu'il puisse."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Reformulez avec « il faut que » : « Nous devons prendre une décision rapidement. »",
+   "options": null,
+   "answer": "Il faut que nous prenions une décision rapidement.|il faut que nous prenions une décision rapidement",
+   "explanation": "« Il faut que » + subjonctif remplace « devoir ». Pour « nous », le subjonctif de « prendre » est « que nous prenions »."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "À moins que vous ne ___ (savoir) déjà la réponse, je vous l'explique.",
+   "options": null,
+   "answer": "sachiez",
+   "explanation": "« À moins que » + subjonctif (le « ne » explétif est facultatif). « Savoir » → que vous sachiez."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Je veux ___ ce projet avant l'été. » (même sujet)",
+   "options": [
+    "terminer",
+    "que je termine",
+    "que je terminerai",
+    "que je termine moi-même"
+   ],
+   "answer": "terminer",
+   "explanation": "Quand le sujet de la principale et de la subordonnée est le même, on remplace « que + subjonctif » par l'infinitif : je veux terminer."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Il est dommage que les jeunes ne ___ (aller) pas davantage voter.",
+   "options": null,
+   "answer": "aillent",
+   "explanation": "Jugement (il est dommage que) : subjonctif. « Aller » → qu'ils aillent."
+  }
+ ],
+ "slug": "subjonctif",
+ "title": "Le subjonctif présent et passé",
+ "module": "conjugaison",
+ "order": 8,
+ "level": "B1",
+ "lesson": "## Formation du subjonctif présent\nRadical de la **3e personne du pluriel du présent** (ils parl-ent) + **-e, -es, -e, -ions, -iez, -ent**.\n*finir : ils finissent → que je finisse ; partir : ils partent → que je parte*\nPour **nous** et **vous**, on reprend souvent la forme de l'imparfait : *que nous prenions, que vous veniez*.\n\n## Subjonctifs irréguliers\n- être : que je sois, que tu sois, qu'il soit, que nous soyons, que vous soyez, qu'ils soient\n- avoir : que j'aie, que tu aies, qu'il ait, que nous ayons, que vous ayez, qu'ils aient\n- aller : que j'aille, que nous allions ; faire : que je fasse ; pouvoir : que je puisse\n- savoir : que je sache ; vouloir : que je veuille, que nous voulions ; falloir : qu'il faille\n\n## Le subjonctif passé\nAuxiliaire **avoir ou être au subjonctif présent** + participe passé : *que j'aie fini, qu'elle soit partie*. Il marque une action **antérieure** : *Je suis content que tu aies réussi.*\n\n## Quand l'utiliser ?\n### Après des verbes ou expressions de\n- **volonté, souhait, ordre** : vouloir que, souhaiter que, exiger que, il faut que\n- **sentiment** : être content / triste / surpris que, avoir peur que, regretter que\n- **doute, possibilité** : douter que, il est possible que, il se peut que\n- **jugement** : il est important / essentiel / normal / dommage que\n### Après certaines conjonctions\n**bien que, quoique, pour que, afin que, avant que, jusqu'à ce que, à condition que, sans que, à moins que, de peur que**.\n\n## Indicatif ou subjonctif ?\n- *Je pense qu'il viendra* (certitude → indicatif) / *Je ne pense pas qu'il vienne* (doute → subjonctif).\n- *Il est probable qu'il pleuvra* (indicatif) / *Il est possible qu'il pleuve* (subjonctif).\n- *Après que* + indicatif, *avant que* + subjonctif.\n- Si le sujet est le même, on utilise l'infinitif : ~~Je veux que je parte~~ → *Je veux partir.*",
+ "simple_examples": [
+  "Il faut que tu viennes demain.",
+  "Je veux que vous soyez à l'heure.",
+  "Je suis content que tu sois là.",
+  "Bien qu'il pleuve, nous sortons."
+ ],
+ "b2_examples": [
+  "Il est indispensable que les citoyens puissent accéder facilement aux services publics, y compris en milieu rural.",
+  "Bien que cette mesure ait suscité des critiques, elle a permis de réduire sensiblement les accidents.",
+  "Je doute que cette solution suffise à résoudre durablement le problème du logement.",
+  "L'association se mobilise pour que chaque enfant ait accès à une activité culturelle."
+ ]
+}

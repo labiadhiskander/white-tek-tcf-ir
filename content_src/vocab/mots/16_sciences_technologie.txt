@@ -1,0 +1,85 @@
+# Sciences et technologie
+science | nom | f | A2 | Ensemble des connaissances fondées sur l'observation et l'expérience. | La science progresse grâce au doute. | savoir | sciences humaines, sciences naturelles
+scientifique | nom | m | B1 | Chercheur en sciences. | Les scientifiques alertent sur le climat. | chercheur | communauté scientifique
+recherche | nom | f | B1 | Travail pour découvrir de nouvelles connaissances. | La recherche médicale manque de financements. | étude | recherche scientifique, centre de recherche
+chercheur | nom | m | B1 | Personne qui fait de la recherche. | Les chercheurs ont mis au point un nouveau vaccin. | scientifique | jeune chercheur
+laboratoire | nom | m | B1 | Lieu où l'on fait des expériences. | Les échantillons sont analysés en laboratoire. | labo | laboratoire de recherche
+expérience | nom | f | B1 | Essai scientifique. | Cette expérience a été menée sur des souris. | test | mener une expérience
+expérimentation | nom | f | C1 | Fait de tester scientifiquement. | L'expérimentation animale est très encadrée. | essai | expérimentation animale
+hypothèse | nom | f | B2 | Supposition à vérifier. | Les résultats confirment l'hypothèse de départ. | supposition | émettre une hypothèse
+théorie | nom | f | B2 | Ensemble d'idées expliquant des phénomènes. | La théorie de l'évolution a révolutionné la biologie. | - | théorie scientifique
+découverte | nom | f | B1 | Fait de trouver ce qui était inconnu. | Cette découverte a valu le prix Nobel à son auteur. | trouvaille | découverte majeure
+invention | nom | f | B1 | Création d'un objet nouveau. | L'imprimerie est une invention majeure. | création | brevet d'invention
+inventer | verbe | - | A2 | Créer quelque chose de nouveau. | Qui a inventé le téléphone ? | concevoir | inventer une machine
+brevet | nom | m | C1 | Titre qui protège une invention. | L'entreprise a déposé un brevet pour son procédé. | - | déposer un brevet
+progrès | nom | m | B1 | Évolution positive. | Les progrès de la médecine sont spectaculaires. | avancée | progrès technique
+avancée | nom | f | B2 | Progrès important. | Cette thérapie représente une avancée majeure. | progrès | avancée scientifique
+technologie | nom | f | B1 | Ensemble des techniques modernes. | La technologie facilite la vie quotidienne. | technique | nouvelles technologies
+technique | adjectif | - | B1 | Qui concerne une technique. | Le problème est technique, pas humain. | - | difficulté technique
+innovation | nom | f | B2 | Introduction de quelque chose de nouveau. | L'innovation est le moteur de la croissance. | nouveauté | innovation technologique
+innovant | adjectif | - | B2 | Qui innove. | Cette start-up propose une solution innovante. | novateur | projet innovant
+pointe | nom | f | B2 | Niveau le plus avancé. | Cet hôpital dispose d'équipements de pointe. | avant-garde | technologie de pointe
+robot | nom | m | A2 | Machine automatique. | Des robots assemblent les voitures. | automate | robot industriel
+robotique | nom | f | B2 | Science des robots. | La robotique transforme l'industrie. | - | robotique industrielle
+intelligence artificielle | nom | f | B2 | Systèmes capables d'imiter certaines capacités humaines. | L'intelligence artificielle aide à diagnostiquer certaines maladies. | IA | développer l'intelligence artificielle
+apprentissage automatique | nom | m | C1 | Capacité d'un programme à apprendre à partir de données. | L'apprentissage automatique repose sur de grandes quantités de données. | machine learning | algorithme d'apprentissage automatique
+donnée | nom | f | B2 | Information traitée par un ordinateur. | Les données sont stockées sur des serveurs sécurisés. | information | analyse des données
+informatique | nom | f | A2 | Science du traitement de l'information. | Il travaille dans l'informatique. | - | ingénieur en informatique
+programmer | verbe | - | B1 | Écrire un programme informatique. | Les enfants apprennent à programmer à l'école. | coder | programmer un logiciel
+ingénieur | nom | m | B1 | Spécialiste qui conçoit des projets techniques. | Elle est ingénieure en aéronautique. | - | école d'ingénieurs
+conception | nom | f | B2 | Fait d'imaginer et de créer. | La conception de ce pont a duré trois ans. | élaboration | bureau de conception
+mettre au point | expression | - | B2 | Créer et perfectionner. | Les chercheurs ont mis au point un nouveau traitement. | développer | mettre au point un procédé
+prototype | nom | m | C1 | Premier modèle d'un produit. | Le prototype a été testé avec succès. | maquette | développer un prototype
+fiabilité | nom | f | C1 | Capacité à fonctionner sans erreur. | La fiabilité des résultats doit être vérifiée. | sûreté | fiabilité d'un système
+précision | nom | f | B2 | Exactitude. | Ce microscope offre une grande précision. | exactitude | avec précision
+espace | nom | m | B1 | Univers au-delà de l'atmosphère. | Les astronautes ont passé six mois dans l'espace. | cosmos | conquête de l'espace
+conquête spatiale | nom | f | B2 | Exploration de l'espace par l'homme. | La conquête spatiale a commencé dans les années 1950. | - | course à la conquête spatiale
+astronaute | nom | m | B1 | Personne qui voyage dans l'espace. | Thomas Pesquet est un astronaute français. | spationaute | astronaute européen
+satellite | nom | m | B1 | Objet en orbite autour d'une planète. | Les satellites permettent la géolocalisation. | - | satellite de communication
+planète | nom | f | A2 | Corps céleste qui tourne autour d'une étoile. | Mars est la planète la plus étudiée. | - | planète Terre
+univers | nom | m | B1 | Ensemble de tout ce qui existe. | L'univers est en expansion. | cosmos | origine de l'univers
+biologie | nom | f | B1 | Science du vivant. | Elle étudie la biologie marine. | sciences de la vie | biologie cellulaire
+génétique | nom | f | B2 | Science de l'hérédité. | La génétique permet de prévenir certaines maladies. | - | test génétique
+cellule | nom | f | B2 | Unité de base du vivant. | Le corps humain compte des milliards de cellules. | - | cellules souches
+clonage | nom | m | C1 | Reproduction identique d'un être vivant. | Le clonage humain est interdit. | - | clonage thérapeutique
+bioéthique | nom | f | C1 | Réflexion morale sur les progrès de la biologie. | La loi de bioéthique encadre la procréation médicalement assistée. | - | loi de bioéthique
+éthique | nom | f | B2 | Ensemble des principes moraux. | L'intelligence artificielle pose des questions d'éthique. | morale | comité d'éthique
+chimie | nom | f | B1 | Science de la matière. | La chimie verte limite la pollution. | - | chimie organique
+physique | nom | f | B1 | Science des propriétés de la matière et de l'énergie. | La physique quantique est difficile à comprendre. | - | lois de la physique
+mathématiques | nom | f | A2 | Science des nombres et des formes. | Les mathématiques sont essentielles en ingénierie. | maths | professeur de mathématiques
+calcul | nom | m | B1 | Opération sur des nombres. | Ce superordinateur fait des milliards de calculs par seconde. | opération | puissance de calcul
+mesurer | verbe | - | B1 | Évaluer une grandeur. | Ce capteur mesure la qualité de l'air. | évaluer | mesurer la température
+capteur | nom | m | C1 | Appareil qui détecte une grandeur physique. | Les capteurs de la voiture détectent les obstacles. | détecteur | capteur de mouvement
+énergie | nom | f | B1 | Capacité à produire du travail. | Les nouvelles batteries stockent plus d'énergie. | puissance | source d'énergie
+batterie | nom | f | B1 | Dispositif qui stocke l'électricité. | La batterie de mon téléphone ne tient pas la journée. | accumulateur | recharger la batterie
+électronique | nom | f | B2 | Technique des circuits électriques. | L'électronique est présente partout. | - | composant électronique
+composant | nom | m | B2 | Élément d'un appareil. | La pénurie de composants ralentit la production. | élément | composant électronique
+semi-conducteur | nom | m | C1 | Matériau des puces électroniques. | La production de semi-conducteurs est stratégique. | puce | pénurie de semi-conducteurs
+nanotechnologie | nom | f | C1 | Technologie à l'échelle de l'atome. | Les nanotechnologies ouvrent de nouvelles perspectives médicales. | - | applications des nanotechnologies
+impression 3D | nom | f | B2 | Fabrication d'objets en couches successives. | L'impression 3D permet de fabriquer des prothèses sur mesure. | fabrication additive | imprimante 3D
+réalité virtuelle | nom | f | B2 | Environnement simulé par ordinateur. | La réalité virtuelle est utilisée pour former les chirurgiens. | - | casque de réalité virtuelle
+voiture autonome | nom | f | B2 | Véhicule qui roule sans conducteur. | Les voitures autonomes posent des questions de responsabilité. | véhicule autonome | tester une voiture autonome
+drone | nom | m | B2 | Petit aéronef sans pilote. | Les drones livrent des colis dans certaines villes. | - | piloter un drone
+vulgarisation | nom | f | C1 | Fait de rendre la science accessible à tous. | Cette émission fait de la vulgarisation scientifique. | popularisation | vulgarisation scientifique
+publication scientifique | nom | f | C1 | Article de recherche publié. | Ses travaux ont fait l'objet de nombreuses publications scientifiques. | article | revue scientifique
+preuve | nom | f | B1 | Ce qui démontre la vérité. | Il n'existe aucune preuve scientifique de cet effet. | démonstration | preuve scientifique
+démontrer | verbe | - | B2 | Prouver de façon rigoureuse. | Cette étude démontre l'efficacité du traitement. | prouver | démontrer un théorème
+résultat | nom | m | B1 | Ce qu'on obtient à la fin. | Les résultats de l'étude seront publiés en mars. | conclusion | résultats encourageants
+échantillon | nom | m | C1 | Petite quantité représentative. | L'étude porte sur un échantillon de mille personnes. | - | échantillon représentatif
+étude | nom | f | B1 | Travail de recherche. | Une étude récente montre les effets des écrans sur le sommeil. | recherche | selon une étude
+statistique | nom | f | B2 | Donnée chiffrée. | Les statistiques montrent une baisse du chômage. | chiffre | selon les statistiques
+microscope | nom | m | B1 | Instrument pour voir les objets minuscules. | On observe les bactéries au microscope. | - | observer au microscope
+télescope | nom | m | B2 | Instrument pour observer les astres. | Le télescope a photographié une galaxie lointaine. | lunette astronomique | télescope spatial
+progrès technique | nom | m | B2 | Amélioration des techniques. | Le progrès technique a transformé l'agriculture. | avancée technologique | essor du progrès technique
+révolution numérique | nom | f | B2 | Transformation de la société par le numérique. | La révolution numérique a changé notre rapport au savoir. | - | révolution numérique
+dépendance technologique | nom | f | C1 | Fait de ne plus pouvoir se passer de la technologie. | Notre dépendance technologique nous rend vulnérables. | - | dépendance technologique
+risque | nom | m | B1 | Danger possible. | Toute innovation comporte des risques. | danger | prendre un risque, risques potentiels
+principe de précaution | nom | m | C1 | Prudence face à un risque mal connu. | Au nom du principe de précaution, le produit a été retiré. | prudence | appliquer le principe de précaution
+obsolète | adjectif | - | C1 | Dépassé. | Ce logiciel est devenu obsolète. | dépassé | technologie obsolète
+performant | adjectif | - | B2 | Qui donne de bons résultats. | Ce nouvel ordinateur est très performant. | efficace | outil performant
+révolutionnaire | adjectif | - | B2 | Qui change radicalement les choses. | Le smartphone a été une invention révolutionnaire. | novateur | découverte révolutionnaire
+expert | nom | m | B1 | Spécialiste d'un domaine. | Les experts sont divisés sur la question. | spécialiste | avis d'expert
+consensus scientifique | nom | m | C1 | Accord général des scientifiques. | Il existe un consensus scientifique sur l'origine humaine du réchauffement. | - | consensus scientifique
+financement | nom | m | B2 | Apport d'argent pour un projet. | Le financement de la recherche publique a diminué. | budget | financement public
+fuite des cerveaux | nom | f | C1 | Départ des chercheurs à l'étranger. | La fuite des cerveaux affaiblit la recherche nationale. | exode des talents | freiner la fuite des cerveaux
+transhumanisme | nom | m | C1 | Courant qui veut améliorer l'humain par la technologie. | Le transhumanisme suscite de vifs débats éthiques. | - | idéologie transhumaniste

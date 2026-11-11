@@ -1,0 +1,71 @@
+# Exprimer un sentiment
+Je suis ravi de | B1 | Je suis très content de. | Je suis ravi de vous rencontrer enfin. | Je suis très content de vous rencontrer.
+Cela me fait plaisir de | A2 | Je suis content de. | Cela me fait plaisir de te revoir. | Je suis content de te revoir.
+Je suis déçu que | B1 | Je regrette que, je suis triste que (+ subjonctif). | Je suis déçu que le concert soit annulé. | Je suis triste, le concert est annulé.
+Cela m'inquiète | B1 | Cela me rend anxieux. | Il ne répond pas au téléphone, cela m'inquiète. | J'ai peur, il ne répond pas.
+Je suis soulagé | B1 | Je n'ai plus d'inquiétude. | Je suis soulagé d'apprendre que tout va bien. | Je suis content, je n'ai plus peur.
+J'en ai assez de | A2 | Je ne supporte plus. | J'en ai assez de ces retards permanents. | Je ne supporte plus les retards.
+Ça me met hors de moi | B2 | Cela me met très en colère. | Ce manque de respect, ça me met hors de moi. | Ça m'énerve beaucoup.
+Je suis inquiet pour | B1 | Je me fais du souci pour. | Je suis inquiet pour mon frère, qui cherche un emploi. | J'ai peur pour mon frère.
+Je suis fier de | A2 | Je suis content de ce que j'ai fait ou de quelqu'un. | Je suis fier de mes enfants. | Je suis content de mes enfants.
+Je suis touché par | B1 | Je suis ému par. | Je suis très touché par votre message. | Votre message m'émeut.
+Ça me rend fou | B1 | Cela m'énerve énormément (familier). | Le bruit des travaux, ça me rend fou ! | Le bruit m'énerve beaucoup.
+J'ai hâte de | A2 | Je suis impatient de. | J'ai hâte de partir en vacances. | Je veux partir vite en vacances.
+Je me réjouis de | B2 | Je suis heureux à l'idée de. | Je me réjouis de travailler avec vous. | Je suis content de travailler avec vous.
+Je trouve ça scandaleux | B1 | C'est révoltant, inacceptable. | Augmenter les prix de 30 % ? Je trouve ça scandaleux. | C'est inacceptable.
+Ça me fait peur | A2 | J'ai peur de cela. | Prendre l'avion, ça me fait peur. | J'ai peur de l'avion.
+J'ai le cœur gros | B2 | Je suis triste. | J'ai le cœur gros de quitter cette ville. | Je suis triste de partir.
+Je n'en reviens pas | B1 | Je suis très surpris. | Tu as gagné ? Je n'en reviens pas ! | Je suis très surpris.
+Quelle surprise | A2 | Je ne m'y attendais pas. | Quelle surprise de te voir ici ! | Je ne pensais pas te voir.
+Je suis impressionné par | B1 | J'admire. | Je suis impressionné par ta maîtrise du français. | J'admire ton français.
+Me tenir à cœur | B2 | Être très important pour moi. | Ce projet associatif me tient à cœur depuis longtemps. | C'est important pour moi.
+Je suis navré | B1 | Je suis désolé (soutenu). | Je suis navré pour ce retard. | Je suis désolé.
+Je suis mal à l'aise | B1 | Je me sens gêné. | Je suis mal à l'aise quand je dois parler en public. | Je suis gêné.
+Avoir le moral à zéro | B2 | Être très découragé. | Après cet échec, j'avais le moral à zéro. | J'étais très triste.
+Être aux anges | B2 | Être extrêmement heureux. | Elle a eu le poste, elle est aux anges. | Elle est très heureuse.
+En avoir ras-le-bol | B2 | En avoir assez (familier). | J'en ai ras-le-bol de ces bouchons. | J'en ai assez.
+
+# Exprimer un souhait ou un regret
+J'aimerais | A2 | Je voudrais (souhait poli). | J'aimerais travailler dans le tourisme. | Je veux travailler dans le tourisme.
+Je souhaiterais | B1 | Je voudrais (soutenu). | Je souhaiterais obtenir un rendez-vous. | Je veux un rendez-vous.
+Mon rêve serait de | B1 | Ce que je désire le plus, ce serait de. | Mon rêve serait d'ouvrir un restaurant. | Je rêve d'ouvrir un restaurant.
+J'espère que | A2 | Je souhaite que (+ indicatif). | J'espère que tu vas mieux. | Je souhaite que tu ailles mieux.
+Je regrette de | B1 | Je suis désolé d'avoir fait ou pas fait. | Je regrette de ne pas avoir appris le piano. | Je suis triste de ne pas avoir appris le piano.
+Si seulement | B1 | J'aimerais tant que (+ imparfait / plus-que-parfait). | Si seulement j'avais plus de temps ! | Je voudrais plus de temps.
+J'aurais aimé | B1 | J'avais envie, mais ce n'est pas arrivé. | J'aurais aimé assister à ta soirée. | Je voulais venir à ta soirée.
+J'aurais dû | B1 | C'était mieux de le faire (reproche à soi-même). | J'aurais dû réserver plus tôt. | Je n'ai pas réservé assez tôt.
+Je tiens absolument à | B2 | Je veux vraiment. | Je tiens absolument à assister à la réunion. | Je veux vraiment venir à la réunion.
+Il serait souhaitable que | B2 | Ce serait bien que (+ subjonctif). | Il serait souhaitable que chacun respecte les horaires. | Ce serait bien que tout le monde respecte les horaires.
+Je rêve de | A2 | Je désire beaucoup. | Je rêve de voir les aurores boréales. | Je veux beaucoup voir les aurores boréales.
+Je compte | B1 | J'ai l'intention de. | Je compte m'inscrire à l'université l'an prochain. | Je veux m'inscrire à l'université.
+J'ai l'intention de | B1 | Je prévois de. | J'ai l'intention de changer de travail. | Je veux changer de travail.
+Je ne demande pas mieux | B2 | Je serais très content de le faire. | Venir avec vous ? Je ne demande pas mieux ! | Oui, avec plaisir !
+Quel dommage que | B1 | C'est triste que (+ subjonctif). | Quel dommage que tu ne puisses pas venir ! | C'est triste que tu ne viennes pas.
+C'est dommage | A2 | C'est regrettable. | Le musée est fermé, c'est dommage. | C'est triste.
+Je m'en veux de | B2 | Je me reproche de. | Je m'en veux de ne pas t'avoir appelé. | Je suis fâché contre moi, je ne t'ai pas appelé.
+Pourvu que ça dure | B2 | J'espère que cette situation continuera. | Il fait beau depuis une semaine : pourvu que ça dure ! | J'espère que ça va continuer.
+Il est regrettable que | B2 | C'est dommage que (+ subjonctif, soutenu). | Il est regrettable que la concertation n'ait pas eu lieu. | C'est dommage qu'on n'ait pas discuté.
+Avec le recul | B2 | En y repensant aujourd'hui. | Avec le recul, je pense que j'ai fait le bon choix. | Aujourd'hui, je pense que j'ai fait le bon choix.
+
+# Conseiller et recommander
+Je vous conseille de | A2 | Je vous recommande de. | Je vous conseille de réserver à l'avance. | Réservez à l'avance.
+Tu devrais | A2 | Ce serait bien pour toi de. | Tu devrais voir un médecin. | Va voir un médecin.
+À ta place | B1 | Si j'étais toi. | À ta place, je n'hésiterais pas. | Si j'étais toi, je n'hésiterais pas.
+Il vaudrait mieux | B1 | Ce serait préférable de. | Il vaudrait mieux partir avant les bouchons. | C'est mieux de partir avant les bouchons.
+Je vous recommande vivement de | B2 | Je vous conseille fortement de. | Je vous recommande vivement de visiter ce musée. | Allez absolument voir ce musée.
+N'hésitez pas à | B1 | Faites-le sans crainte. | N'hésitez pas à me contacter si besoin. | Contactez-moi si besoin.
+Pourquoi ne pas | B1 | Et si on faisait (suggestion). | Pourquoi ne pas organiser une réunion en ligne ? | On peut faire une réunion en ligne.
+Et si on | A2 | Proposition familière. | Et si on allait au cinéma ce soir ? | On va au cinéma ?
+Il serait judicieux de | B2 | Ce serait intelligent de. | Il serait judicieux de comparer plusieurs devis. | C'est une bonne idée de comparer les devis.
+Je te déconseille de | B1 | Je te conseille de ne pas. | Je te déconseille de prendre la voiture aux heures de pointe. | Ne prends pas la voiture aux heures de pointe.
+Vous feriez bien de | B2 | Il serait sage pour vous de. | Vous feriez bien de vérifier votre contrat. | Vérifiez votre contrat.
+Le mieux serait de | B1 | La meilleure solution serait de. | Le mieux serait de demander directement au propriétaire. | Demande au propriétaire.
+Il est recommandé de | B1 | On conseille de (consigne générale). | Il est recommandé de boire beaucoup d'eau en été. | Buvez beaucoup d'eau en été.
+Je ne saurais trop vous conseiller de | C1 | Je vous conseille très fortement de. | Je ne saurais trop vous conseiller de relire votre lettre. | Relisez absolument votre lettre.
+Ce serait une bonne idée de | A2 | Il serait bien de. | Ce serait une bonne idée de prendre des cours du soir. | Prends des cours du soir.
+Je propose que | B1 | Je suggère que (+ subjonctif). | Je propose que nous fassions une pause. | Faisons une pause.
+Il est préférable de | B1 | Il vaut mieux. | Il est préférable de garder une copie de vos documents. | Gardez une copie de vos documents.
+Pensez à | A2 | N'oubliez pas de. | Pensez à apporter une pièce d'identité. | N'oubliez pas votre pièce d'identité.
+Prenez le temps de | B1 | Ne vous précipitez pas pour. | Prenez le temps de lire attentivement les consignes. | Lisez bien les consignes.
+Méfiez-vous de | B1 | Faites attention à. | Méfiez-vous des offres trop alléchantes. | Attention aux offres trop belles.
+Mieux vaut prévenir que guérir | B2 | Il vaut mieux éviter un problème que le réparer. | Faites réviser votre voiture avant le départ : mieux vaut prévenir que guérir. | Il vaut mieux éviter les problèmes.

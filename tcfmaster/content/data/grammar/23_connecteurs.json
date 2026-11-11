@@ -1,0 +1,166 @@
+{
+ "exercises": [
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« Il est très compétent. ___, il manque d'expérience. »",
+   "options": [
+    "Cependant",
+    "En effet",
+    "Donc",
+    "Ainsi"
+   ],
+   "answer": "Cependant",
+   "explanation": "« Cependant » introduit une idée qui s'oppose ou nuance la précédente. « En effet » confirmerait, « donc » et « ainsi » introduiraient une conséquence."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« Je ne suis pas venu, ___ j'étais malade. »",
+   "options": [
+    "car",
+    "donc",
+    "pourtant",
+    "alors que"
+   ],
+   "answer": "car",
+   "explanation": "« Car » introduit une explication (cause) après la proposition principale."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Il a beaucoup neigé. ___ ___, les écoles sont fermées. (conséquence)",
+   "options": null,
+   "answer": "Par conséquent|par conséquent|De ce fait|de ce fait",
+   "explanation": "« Par conséquent » (ou « de ce fait ») introduit une conséquence logique, en début de phrase suivi d'une virgule."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Quel connecteur est préférable à l'écrit soutenu ?",
+   "options": [
+    "en revanche",
+    "par contre",
+    "mais bon",
+    "sauf que"
+   ],
+   "answer": "en revanche",
+   "explanation": "« Par contre » est correct mais considéré comme familier à l'écrit ; « en revanche » est le choix recommandé."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« La ville a créé des pistes cyclables. ___, le trafic automobile a baissé de 15 %. »",
+   "options": [
+    "Ainsi",
+    "Toutefois",
+    "Néanmoins",
+    "Pourtant"
+   ],
+   "answer": "Ainsi",
+   "explanation": "« Ainsi » introduit ici une conséquence ou une illustration du fait précédent. Les trois autres expriment une opposition."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "___, ce projet présente des avantages ; mais il coûte très cher.",
+   "options": null,
+   "answer": "Certes|certes",
+   "explanation": "« Certes … mais » est une structure concessive : on reconnaît un argument avant de le nuancer."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« Ce quartier est bruyant. ___, les loyers y sont élevés. » (argument supplémentaire)",
+   "options": [
+    "De plus",
+    "En revanche",
+    "Pourtant",
+    "Autrement dit"
+   ],
+   "answer": "De plus",
+   "explanation": "« De plus » ajoute un argument allant dans le même sens."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Quelle phrase utilise correctement « en effet » ?",
+   "options": [
+    "Ce restaurant est très prisé. En effet, il faut réserver plusieurs semaines à l'avance.",
+    "Ce restaurant est très prisé. En effet, il est presque toujours vide.",
+    "Ce restaurant est très prisé, en effet il est mauvais.",
+    "Ce restaurant est très prisé. En effet, personne n'y va."
+   ],
+   "answer": "Ce restaurant est très prisé. En effet, il faut réserver plusieurs semaines à l'avance.",
+   "explanation": "« En effet » apporte une justification ou une confirmation de ce qui précède, pas une opposition."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Les écrans peuvent nuire au sommeil, ___ chez les adolescents. (illustration)",
+   "options": null,
+   "answer": "notamment",
+   "explanation": "« Notamment » met en avant un cas particulier parmi d'autres."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Reformulez avec « il en résulte que » : « Les prix augmentent, donc les ménages consomment moins. »",
+   "options": null,
+   "answer": "Les prix augmentent ; il en résulte que les ménages consomment moins.|Les prix augmentent. Il en résulte que les ménages consomment moins.|les prix augmentent, il en résulte que les ménages consomment moins|Les prix augmentent, il en résulte que les ménages consomment moins.",
+   "explanation": "« Il en résulte que » + indicatif est un connecteur de conséquence soutenu, idéal à l'écrit argumentatif."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "« D'une part, le télétravail réduit les trajets ; ___, il favorise la concentration. »",
+   "options": [
+    "d'autre part",
+    "par contre",
+    "au contraire",
+    "d'ailleurs"
+   ],
+   "answer": "d'autre part",
+   "explanation": "« D'une part » appelle obligatoirement « d'autre part » pour énumérer deux arguments."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Quel connecteur introduit une reformulation ?",
+   "options": [
+    "autrement dit",
+    "en outre",
+    "néanmoins",
+    "par conséquent"
+   ],
+   "answer": "autrement dit",
+   "explanation": "« Autrement dit » (comme « c'est-à-dire » ou « en d'autres termes ») reformule une idée pour la clarifier."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "___ ___, je reste convaincu que cette réforme est nécessaire. (conclusion)",
+   "options": null,
+   "answer": "En définitive|en définitive|Pour conclure|pour conclure|En conclusion|en conclusion",
+   "explanation": "« En définitive » introduit une conclusion après la pesée des arguments ; c'est plus élégant que « au final », réservé à l'oral."
+  }
+ ],
+ "slug": "connecteurs",
+ "title": "Les connecteurs logiques",
+ "module": "grammaire",
+ "order": 23,
+ "level": "B2",
+ "lesson": "## Pourquoi les connecteurs comptent à l'examen\nÀ l'expression écrite et orale du TCF, la **cohérence** et la **cohésion** sont évaluées. Les connecteurs montrent au correcteur que vous organisez votre pensée. Un texte B2 en contient plusieurs, variés et bien employés.\n\n## Organiser le discours\n- introduire : *Tout d'abord, Pour commencer, En premier lieu*\n- ajouter : *De plus, En outre, Par ailleurs, De surcroît, Sans oublier que*\n- énumérer : *D'une part… d'autre part, Premièrement… deuxièmement, Ensuite, Enfin*\n- conclure : *En définitive, En conclusion, Pour conclure, Au final (oral), Somme toute*\n\n## Exprimer la cause et la conséquence\n- cause : *car, en effet, puisque, étant donné que, du fait de, en raison de*\n- conséquence : *donc, ainsi, par conséquent, c'est pourquoi, de ce fait, il en résulte que, si bien que*\n\n## Exprimer l'opposition et la concession\n- opposition : *mais, en revanche, au contraire, par contre (oral), alors que, tandis que*\n- concession : *cependant, toutefois, néanmoins, pourtant, certes… mais, bien que, même si, malgré*\n\n## Illustrer et reformuler\n- exemple : *par exemple, notamment, ainsi, c'est le cas de, prenons l'exemple de*\n- reformulation : *autrement dit, c'est-à-dire, en d'autres termes, bref*\n\n## Nuancer\n*dans une certaine mesure, en partie, il semblerait que, à première vue, en principe*\n\n## Pièges fréquents\n- **car** ne commence jamais une phrase et ne se combine pas avec « donc ».\n- **en effet** confirme ou justifie ce qui précède ; ce n'est pas un connecteur d'opposition.\n- **par contre** est jugé familier à l'écrit : préférez *en revanche*.\n- **cependant / toutefois / néanmoins** se placent souvent en début de phrase suivis d'une virgule, ou après le verbe : *Il est, néanmoins, très compétent.*\n- **d'ailleurs** ajoute un argument qui renforce ; **par ailleurs** introduit un autre aspect.",
+ "simple_examples": [
+  "J'aime cette ville, mais elle est chère.",
+  "Il pleut, donc je prends mon parapluie.",
+  "Je reste chez moi car je suis malade.",
+  "Tout d'abord, je vais présenter le problème."
+ ],
+ "b2_examples": [
+  "Certes, le télétravail offre plus de souplesse ; néanmoins, il peut accentuer l'isolement des salariés.",
+  "La ville a multiplié les pistes cyclables. Il en résulte une baisse notable de la circulation automobile.",
+  "Les écrans ne sont pas nocifs en soi ; en revanche, leur usage excessif nuit au sommeil des enfants.",
+  "Par ailleurs, il convient de rappeler que cette mesure ne concerne qu'une partie des ménages."
+ ]
+}

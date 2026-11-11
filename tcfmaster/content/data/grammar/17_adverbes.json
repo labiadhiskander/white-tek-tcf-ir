@@ -1,0 +1,146 @@
+{
+ "exercises": [
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Il conduit très ___ (prudent).",
+   "options": null,
+   "answer": "prudemment",
+   "explanation": "Les adjectifs en -ent forment leur adverbe en -emment : prudent → prudemment."
+  },
+  {
+   "ex_type": "trou",
+   "level": "A2",
+   "prompt": "Elle parle ___ (doux) à son bébé.",
+   "options": null,
+   "answer": "doucement",
+   "explanation": "Féminin de doux : douce → doucement."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Il parle anglais ___ (courant).",
+   "options": null,
+   "answer": "couramment",
+   "explanation": "Les adjectifs en -ant forment leur adverbe en -amment : courant → couramment."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "J'ai ___ (vrai) apprécié votre accueil.",
+   "options": null,
+   "answer": "vraiment",
+   "explanation": "« Vrai » se termine par une voyelle : on ajoute -ment au masculin. Adverbe court : placé entre l'auxiliaire et le participe."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« Ce plat sent très ___. »",
+   "options": [
+    "bon",
+    "bien",
+    "bonne",
+    "bons"
+   ],
+   "answer": "bon",
+   "explanation": "Avec « sentir », l'adjectif « bon » s'emploie comme adverbe et reste invariable : ça sent bon."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "Où placer « déjà » ? « J'ai / fini / mon travail »",
+   "options": [
+    "J'ai déjà fini mon travail.",
+    "J'ai fini déjà mon travail.",
+    "J'ai mon travail déjà fini.",
+    "Je déjà ai fini mon travail."
+   ],
+   "answer": "J'ai déjà fini mon travail.",
+   "explanation": "Aux temps composés, les adverbes courts comme « déjà » se placent entre l'auxiliaire et le participe passé."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B1",
+   "prompt": "Il nous a répondu très ___ (gentil).",
+   "options": null,
+   "answer": "gentiment",
+   "explanation": "Formation irrégulière : gentil → gentiment."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B1",
+   "prompt": "« Elle chante ___ que sa sœur. »",
+   "options": [
+    "mieux",
+    "meilleur",
+    "plus bien",
+    "plus bon"
+   ],
+   "answer": "mieux",
+   "explanation": "« Chanter » est un verbe : on utilise l'adverbe « bien », dont le comparatif est « mieux ». « Plus bien » n'existe pas."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Il a ___ (évident) raison sur ce point.",
+   "options": null,
+   "answer": "évidemment",
+   "explanation": "-ent → -emment : évident → évidemment."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Les résultats ont été ___ (précis) analysés.",
+   "options": null,
+   "answer": "précisément",
+   "explanation": "Formation particulière : précis → précisément (avec un é)."
+  },
+  {
+   "ex_type": "qcm",
+   "level": "B2",
+   "prompt": "Choisissez l'adverbe qui signifie « à partir de maintenant ».",
+   "options": [
+    "désormais",
+    "actuellement",
+    "autrefois",
+    "jadis"
+   ],
+   "answer": "désormais",
+   "explanation": "« Désormais » = à partir de maintenant. « Actuellement » signifie « en ce moment » (et non « en fait », faux ami de l'anglais « actually »)."
+  },
+  {
+   "ex_type": "transformation",
+   "level": "B2",
+   "prompt": "Remplacez « beaucoup plus » par un adverbe soutenu : « Les prix ont beaucoup plus augmenté cette année. »",
+   "options": null,
+   "answer": "Les prix ont nettement plus augmenté cette année.|les prix ont nettement plus augmenté cette année|Les prix ont sensiblement plus augmenté cette année.|Les prix ont bien plus augmenté cette année.",
+   "explanation": "« Nettement » ou « sensiblement » sont plus précis et plus soutenus que « beaucoup » devant un comparatif."
+  },
+  {
+   "ex_type": "trou",
+   "level": "B2",
+   "prompt": "Il faudrait investir ___ dans la formation. (= plus)",
+   "options": null,
+   "answer": "davantage",
+   "explanation": "« Davantage » remplace « plus » en fin de groupe verbal ; il est très apprécié à l'écrit argumentatif."
+  }
+ ],
+ "slug": "adverbes",
+ "title": "Les adverbes",
+ "module": "grammaire",
+ "order": 17,
+ "level": "B1",
+ "lesson": "## Rôle\nL'adverbe est invariable. Il modifie un verbe (*il parle lentement*), un adjectif (*très intéressant*), un autre adverbe (*trop vite*) ou une phrase entière (*Heureusement, personne n'a été blessé*).\n\n## Formation des adverbes en -ment\n- adjectif au **féminin + -ment** : *lent → lente → lentement ; heureux → heureuse → heureusement*\n- adjectif terminé par une **voyelle** au masculin : masculin + -ment : *vrai → vraiment, poli → poliment, absolu → absolument*\n- **-ant → -amment** : *courant → couramment, constant → constamment*\n- **-ent → -emment** (prononcé [amɑ̃]) : *évident → évidemment, prudent → prudemment, récent → récemment*\n- exceptions : *gentil → gentiment, bref → brièvement, précis → précisément, énorme → énormément, profond → profondément, lent → lentement*\n\n## Place de l'adverbe\n- après le verbe conjugué : *Il travaille sérieusement.*\n- aux temps composés, les adverbes courts (bien, mal, déjà, toujours, souvent, beaucoup, vraiment) se placent **entre l'auxiliaire et le participe** : *Il a bien compris. J'ai déjà lu ce livre.*\n- les adverbes longs en -ment se placent plutôt après le participe : *Il a répondu calmement.*\n- les adverbes de temps et de lieu précis se placent souvent en fin de phrase : *Je l'ai vu hier.*\n\n## Adverbe ou adjectif ?\n- *bon / bien* : *C'est un bon élève* (adjectif) / *Il travaille bien* (adverbe).\n- *mauvais / mal* ; *meilleur / mieux*.\n- Certains adjectifs s'emploient comme adverbes invariables : *parler fort, coûter cher, sentir bon, travailler dur, voir clair.*\n\n## Adverbes utiles à l'écrit B2\nnotamment, davantage, désormais, néanmoins, également, nettement, sensiblement, largement, véritablement, progressivement, fréquemment, actuellement (= en ce moment, et non « en fait »).",
+ "simple_examples": [
+  "Il parle lentement.",
+  "Elle a bien dormi.",
+  "Nous allons souvent au parc.",
+  "Heureusement, il ne pleut pas."
+ ],
+ "b2_examples": [
+  "Les inégalités d'accès aux soins se sont sensiblement accrues ces dernières années.",
+  "Le télétravail est désormais largement adopté dans le secteur des services.",
+  "Il convient d'agir rapidement, mais surtout de manière concertée.",
+  "Évidemment, cette mesure ne suffira pas, à elle seule, à résoudre le problème."
+ ]
+}
