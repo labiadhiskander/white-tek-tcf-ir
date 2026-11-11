@@ -321,6 +321,10 @@ class SettingsPage(Page):
         from tcfmaster.ui.audio_settings import AudioSettingsCard
         self.audio_card = AudioSettingsCard(ctx)
         self.body.addWidget(self.audio_card)
+        # --- tuteur IA
+        from tcfmaster.ui.ai_settings import AISettingsCard
+        self.ai_card = AISettingsCard(ctx)
+        self.body.addWidget(self.ai_card)
         # --- données
         c2 = Card("Stockage des données")
         self.data_dir = QLabel()
@@ -389,6 +393,7 @@ class SettingsPage(Page):
         size = sum(p.stat().st_size for p in recs if p.is_file()) / 1e6
         self.rec_info.setText(f"{len(recs)} enregistrement(s) · {size:.1f} Mo")
         self.audio_card.refresh()
+        self.ai_card.refresh()
 
     def _change_dir(self):
         d = QFileDialog.getExistingDirectory(self, "Choisir le répertoire de stockage",

@@ -44,6 +44,9 @@ def wire(ctx, backend: TTSBackend | None = None, recorder=None, stt=None) -> Non
              if ctx.audio.generator.backend else "indisponible")
     ctx.recorder = recorder if recorder is not None else default_recorder()
     ctx.stt = stt if stt is not None else default_engine(stt_model_candidates(ctx))
+    from tcfmaster.services.ai.tutor import TutorService
+    ctx.tutor = TutorService(ctx.db)
+    log.info("Tuteur IA : %s", ctx.tutor.status())
     log.info("Micro : %s · reconnaissance vocale : %s",
              "disponible" if ctx.recorder else "indisponible",
              getattr(ctx.stt, "name", "indisponible"))

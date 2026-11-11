@@ -23,6 +23,7 @@ class AppContext:
     audio: Any = None        # AudioService, branché par services.wiring
     recorder: Any = None     # Recorder (micro)
     stt: Any = None          # moteur de reconnaissance vocale
+    tutor: Any = None        # TutorService (tuteur IA), branché par services.wiring
 
 
 def bootstrap(paths: AppPaths | None = None, seed: bool = True) -> AppContext:
