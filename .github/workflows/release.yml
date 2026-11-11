@@ -3,10 +3,16 @@ name: Installateur Windows
 # Construit WhiteTekTCF-Setup-x.y.z.exe.
 # - Manuellement : onglet Actions > « Installateur Windows » > Run workflow
 #   (l'installateur est alors téléchargeable dans les « Artifacts » de l'exécution).
-# - Sur un tag vX.Y.Z : l'installateur est aussi publié dans une Release GitHub.
+# - Sur un tag vX.Y.Z, ou en lançant le workflow avec « publier » coché : l'installateur
+#   est publié dans une Release GitHub (le tag vX.Y.Z est créé si besoin).
 # - Quand l'empaquetage change (spec, script Inno Setup, ce workflow) : vérification.
 on:
   workflow_dispatch:
+    inputs:
+      publier:
+        description: "Publier une Release vX.Y.Z (crée le tag) avec l'installateur"
+        type: boolean
+        default: false
   push:
     branches: ["**"]
     tags: ["v*"]
@@ -68,8 +74,11 @@ jobs:
           path: dist/installer/*.exe
           if-no-files-found: error
       - name: Publication de la Release
-        if: startsWith(github.ref, 'refs/tags/v')
+        if: startsWith(github.ref, 'refs/tags/v') || inputs.publier
         uses: softprops/action-gh-release@v2
         with:
+          tag_name: ${{ startsWith(github.ref, 'refs/tags/v') && github.ref_name || format('v{0}', steps.version.outputs.version) }}
+          target_commitish: ${{ github.sha }}
+          name: WHITE-TEK TCF IRN B2 MASTER ${{ steps.version.outputs.version }}
           files: dist/installer/*.exe
           generate_release_notes: true
