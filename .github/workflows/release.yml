@@ -1,0 +1,75 @@
+name: Installateur Windows
+
+# Construit WhiteTekTCF-Setup-x.y.z.exe.
+# - Manuellement : onglet Actions > « Installateur Windows » > Run workflow
+#   (l'installateur est alors téléchargeable dans les « Artifacts » de l'exécution).
+# - Sur un tag vX.Y.Z : l'installateur est aussi publié dans une Release GitHub.
+# - Quand l'empaquetage change (spec, script Inno Setup, ce workflow) : vérification.
+on:
+  workflow_dispatch:
+  push:
+    branches: ["**"]
+    tags: ["v*"]
+    paths: ["packaging/**", ".github/workflows/release.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    env:
+      QT_QPA_PLATFORM: offscreen
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Dépendances
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements-dev.txt
+      - name: Tests
+        run: python -m pytest -q
+      - name: Version
+        id: version
+        shell: bash
+        run: echo "version=$(python -c 'import tcfmaster; print(tcfmaster.__version__)')" >> "$GITHUB_OUTPUT"
+      - name: Modèle de reconnaissance vocale (Vosk, français)
+        run: python tools/fetch_vosk_model.py
+      - name: Audio de compréhension orale (voix Windows)
+        continue-on-error: true
+        timeout-minutes: 40
+        run: python tools/pregen_audio.py
+      - name: Exécutable (PyInstaller)
+        run: |
+          python tools/write_version_info.py
+          python -m PyInstaller packaging/tcfmaster.spec --noconfirm --clean
+      - name: Vérification de démarrage
+        shell: pwsh
+        run: |
+          $p = Start-Process dist\WhiteTekTCF\WhiteTekTCF.exe -PassThru
+          Start-Sleep -Seconds 20
+          if ($p.HasExited -and $p.ExitCode -ne 0) { throw "L'exécutable s'est arrêté (code $($p.ExitCode))" }
+          if (-not $p.HasExited) { Stop-Process -Id $p.Id -Force }
+      - name: Installateur (Inno Setup)
+        shell: pwsh
+        run: |
+          if (-not (Get-Command iscc -ErrorAction SilentlyContinue)) {
+            $iscc = "${env:ProgramFiles(x86)}\Inno Setup 6\ISCC.exe"
+            if (-not (Test-Path $iscc)) { choco install innosetup -y --no-progress }
+            $env:Path += ";${env:ProgramFiles(x86)}\Inno Setup 6"
+          }
+          iscc /DAppVersion=${{ steps.version.outputs.version }} packaging\installer.iss
+      - uses: actions/upload-artifact@v4
+        with:
+          name: WhiteTekTCF-Setup-${{ steps.version.outputs.version }}
+          path: dist/installer/*.exe
+          if-no-files-found: error
+      - name: Publication de la Release
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/installer/*.exe
+          generate_release_notes: true

@@ -16,6 +16,11 @@ def main() -> int:
     app = QApplication(sys.argv)
     app.setApplicationName(APP_NAME)
     app.setStyleSheet(STYLESHEET)
+    from tcfmaster.core.paths import resource_root
+    from PySide6.QtGui import QIcon
+    icon = resource_root() / "assets" / "app.ico"
+    if icon.is_file():
+        app.setWindowIcon(QIcon(str(icon)))
     try:
         ctx = bootstrap()
     except DatabaseCorrupted as exc:
@@ -28,6 +33,8 @@ def main() -> int:
         pass
     win = MainWindow(ctx)
     win.show()
+    from PySide6.QtCore import QTimer
+    QTimer.singleShot(4000, win.check_updates_on_start)
     code = app.exec()
     if getattr(ctx, "audio", None) is not None:
         ctx.audio.shutdown()

@@ -6,3 +6,5 @@ dist/
 *.sqlite3
 tcfmaster/content/audio/*.wav
 tcfmaster/content/audio/.tmp/
+packaging/version_info.txt
+tcfmaster/models/
