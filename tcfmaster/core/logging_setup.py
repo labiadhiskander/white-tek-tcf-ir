@@ -15,14 +15,18 @@ def setup_logging(log_dir: Path, level: int = logging.INFO) -> logging.Logger:
     if _CONFIGURED:
         return logger
     log_dir.mkdir(parents=True, exist_ok=True)
+    from tcfmaster.services.privacy import SecretFilter
     fmt = logging.Formatter("%(asctime)s [%(levelname)s] %(name)s: %(message)s")
+    secret_filter = SecretFilter()          # aucune clé API dans les journaux
     fh = RotatingFileHandler(log_dir / "tcfmaster.log", maxBytes=1_000_000,
                              backupCount=5, encoding="utf-8")
     fh.setFormatter(fmt)
+    fh.addFilter(secret_filter)
     logger.addHandler(fh)
     if sys.stderr is not None:
         sh = logging.StreamHandler()
         sh.setFormatter(fmt)
+        sh.addFilter(secret_filter)
         logger.addHandler(sh)
     logger.setLevel(level)
 

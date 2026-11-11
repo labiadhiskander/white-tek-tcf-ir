@@ -134,12 +134,35 @@ class DashboardPage(Page):
         self.rec_box = QVBoxLayout()
         self.rec_card.lay.addLayout(self.rec_box)
         self.rec_card.lay.addWidget(disclaimer_label(L.DISCLAIMER))
+        self.pdf_btn = QPushButton("Exporter mon bilan en PDF")
+        self.pdf_btn.clicked.connect(self.export_pdf)
+        self.rec_card.lay.addWidget(self.pdf_btn, alignment=Qt.AlignLeft)
         self.body.addWidget(self.rec_card)
         self.rec_holder: QWidget | None = None
         self.data: dict = {}
         self.recs: list[PR.Recommendation] = []
 
     # ------------------------------------------------------------------
+    def export_pdf(self, path: str | None = None) -> str | None:
+        from datetime import datetime
+
+        from PySide6.QtWidgets import QFileDialog, QMessageBox
+
+        from tcfmaster.services.pdf_export import export_progress
+        if path is None:
+            default = self.ctx.paths.exports / f"bilan-{datetime.now():%Y%m%d}.pdf"
+            path, _ = QFileDialog.getSaveFileName(self, "Exporter le bilan", str(default),
+                                                  "PDF (*.pdf)")
+            if not path:
+                return None
+            with self.ctx.db.session() as s:
+                export_progress(s, path)
+            QMessageBox.information(self, "Export", f"Bilan exporté :\n{path}")
+            return path
+        with self.ctx.db.session() as s:
+            export_progress(s, path)
+        return path
+
     def _go(self, key: str) -> None:
         win = self.window()
         if hasattr(win, "open_page"):

@@ -167,6 +167,23 @@ exercice + correction) ; `vocab_words` ; `grammar_chapters` → `grammar_exercis
   préparation, courbes CECRL, minutes par semaine, programme, erreurs fréquentes,
   recommandations avec boutons « Y aller », mention d'estimation pédagogique.
 
+## 6 sexies. Sécurité, confidentialité et export PDF
+
+* `services/pdf_export.py` (ReportLab) : `export_attempt` (synthèse des 4 épreuves,
+  détail EE/EO avec critères, erreurs et productions) et `export_progress` (bilan :
+  avis, indicateurs, préparation par compétence, erreurs, recommandations). La
+  mention d'estimation pédagogique figure en pied de chaque page. Police Arial
+  (Windows) ou DejaVu si disponible, sinon Helvetica.
+* Secrets : `settings.set_` refuse toute clé de réglage ressemblant à un secret ;
+  les clés API passent uniquement par `keyring`. `privacy.SecretFilter` masque les
+  clés et mots de passe dans tous les journaux. Un test vérifie qu'aucune clé ne
+  figure dans le code source.
+* `privacy.purge_learning_data` : effacement de toutes les données d'apprentissage
+  (résultats, productions, enregistrements, erreurs, révisions, séances, programme),
+  précédé d'une sauvegarde ; le contenu pédagogique est conservé.
+* Restauration : une sauvegarde n'est restaurée qu'après `PRAGMA integrity_check`,
+  et l'état courant est copié avant remplacement.
+
 ## 7. Distribution
 
 PyInstaller (exécutable autonome, Python embarqué) puis Inno Setup (installateur

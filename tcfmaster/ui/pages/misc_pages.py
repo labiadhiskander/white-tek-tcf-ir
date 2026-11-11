@@ -75,14 +75,19 @@ class HistoryPage(Page):
 
     def _export(self):
         aid = self._selected()
-        exporter = getattr(self.ctx, "export_pdf", None)
-        if not aid or exporter is None:
+        if not aid:
             return
         path, _ = QFileDialog.getSaveFileName(self, "Exporter en PDF",
                                               str(self.ctx.paths.exports / f"resultat-{aid}.pdf"),
                                               "PDF (*.pdf)")
         if path:
-            exporter(aid, Path(path))
+            from tcfmaster.services.pdf_export import export_attempt
+            try:
+                with self.ctx.db.session() as s:
+                    export_attempt(s, aid, Path(path))
+            except OSError as exc:
+                QMessageBox.warning(self, "Export", f"Export impossible : {exc}")
+                return
             QMessageBox.information(self, "Export", f"Résultats exportés :\n{path}")
 
 
@@ -234,6 +239,15 @@ class SettingsPage(Page):
         d = QPushButton("Supprimer tous les enregistrements vocaux")
         d.clicked.connect(self._delete_recordings)
         c4.lay.addWidget(d, alignment=Qt.AlignLeft)
+        purge = QPushButton("Effacer toutes mes données d'apprentissage…")
+        purge.clicked.connect(self._purge)
+        c4.lay.addWidget(purge, alignment=Qt.AlignLeft)
+        note = QLabel("Les clés API sont gardées dans le coffre d'identifiants du système ; "
+                      "elles n'apparaissent ni dans la base, ni dans les sauvegardes, ni dans "
+                      "les journaux.")
+        note.setWordWrap(True)
+        note.setObjectName("Muted")
+        c4.lay.addWidget(note)
         self.body.addWidget(c4)
         self.extra_cards_anchor = self.body.count()
         self.body.addStretch(1)
@@ -310,6 +324,20 @@ class SettingsPage(Page):
                 != QMessageBox.Yes:
             return
         delete_all_recordings(self.ctx)
+        self.refresh()
+
+
+    def _purge(self):
+        if QMessageBox.question(
+                self, "Effacer mes données",
+                "Effacer définitivement vos résultats, productions, enregistrements, erreurs, "
+                "révisions et l'avancement du programme ?\n\nUne sauvegarde est faite avant "
+                "l'effacement ; le contenu pédagogique est conservé.") != QMessageBox.Yes:
+            return
+        from tcfmaster.services.privacy import purge_learning_data
+        counts = purge_learning_data(self.ctx.db, self.ctx.paths.recordings)
+        QMessageBox.information(self, "Données effacées", "\n".join(
+            f"{k} : {v}" for k, v in counts.items()))
         self.refresh()
 
 
