@@ -10,7 +10,7 @@ from PySide6.QtWidgets import (QButtonGroup, QComboBox, QHBoxLayout, QHeaderView
                                QRadioButton, QSplitter, QTableWidget, QTableWidgetItem,
                                QTabWidget, QTextBrowser, QVBoxLayout, QWidget)
 
-from tcfmaster.db.models import Expression, GrammarChapter, ReviewItem, VocabWord
+from tcfmaster.db.models import Expression, GrammarChapter, VocabWord
 from tcfmaster.services import learning as LS
 from tcfmaster.services import review as RV
 from tcfmaster.ui.widgets import Card, Page
@@ -95,7 +95,10 @@ class VocabularyPage(Page):
         self.exp_known.clicked.connect(lambda: self._exp_review(5))
         self.exp_again = QPushButton("↻ À revoir")
         self.exp_again.clicked.connect(lambda: self._exp_review(2))
-        for b in (self.exp_check, self.exp_known, self.exp_again):
+        self.exp_listen = QPushButton("🔊 Écouter")
+        self.exp_listen.setToolTip("Écouter l'expression et son exemple (synthèse vocale)")
+        self.exp_listen.clicked.connect(self._exp_listen)
+        for b in (self.exp_check, self.exp_known, self.exp_again, self.exp_listen):
             br.addWidget(b)
         rl.addLayout(br)
         self.exp_feedback = QLabel()
@@ -170,6 +173,16 @@ class VocabularyPage(Page):
                        "✘ L'expression n'apparaît pas dans votre réponse. ")
             self.exp_feedback.setText(
                 f"{msg}<br><b>Proposition de correction :</b> {html.escape(e.exercise_answer)}")
+
+    def _exp_listen(self):
+        audio = getattr(self.ctx, "audio", None)
+        if audio is None:
+            self.exp_feedback.setText("La synthèse vocale n'est pas disponible.")
+            return
+        with self.ctx.db.session() as s:
+            e = self._current_expression(s)
+            if e:
+                audio.play_text(f"F: {e.text.rstrip('…')}. {e.example}", ["F:fr-FR"])
 
     def _exp_review(self, quality: int):
         with self.ctx.db.session() as s:

@@ -317,6 +317,10 @@ class SettingsPage(Page):
         self.correction.currentIndexChanged.connect(
             lambda: self._set("correction_mode", self.correction.currentData()))
         self.body.addWidget(c1)
+        # --- voix et audio
+        from tcfmaster.ui.audio_settings import AudioSettingsCard
+        self.audio_card = AudioSettingsCard(ctx)
+        self.body.addWidget(self.audio_card)
         # --- données
         c2 = Card("Stockage des données")
         self.data_dir = QLabel()
@@ -384,6 +388,7 @@ class SettingsPage(Page):
         recs = list(self.ctx.paths.recordings.glob("*"))
         size = sum(p.stat().st_size for p in recs if p.is_file()) / 1e6
         self.rec_info.setText(f"{len(recs)} enregistrement(s) · {size:.1f} Mo")
+        self.audio_card.refresh()
 
     def _change_dir(self):
         d = QFileDialog.getExistingDirectory(self, "Choisir le répertoire de stockage",

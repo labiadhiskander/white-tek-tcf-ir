@@ -40,7 +40,8 @@
    "explanation": "« Se diriger vers les caisses » signifie aller payer. Le message annonce une fermeture imminente : les clients doivent terminer leurs achats.",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co01.wav"
   },
   {
    "position": 2,
@@ -78,7 +79,8 @@
    "explanation": "« Plutôt » introduit une alternative. « En face de la poste » est un repère de lieu, pas la destination.",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co02.wav"
   },
   {
    "position": 3,
@@ -117,7 +119,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co03.wav"
   },
   {
    "position": 4,
@@ -156,7 +159,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-CA"
-   ]
+   ],
+   "audio_file": "exam-02_co04.wav"
   },
   {
    "position": 5,
@@ -194,7 +198,8 @@
    "explanation": "Le message contient plusieurs informations (date, documents, confirmation). La question porte sur la réponse attendue : un courriel.",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co05.wav"
   },
   {
    "position": 6,
@@ -232,7 +237,8 @@
    "explanation": "La gratuité est limitée par deux conditions : l'âge (moins de 25 ans) et les jours (jeudi et vendredi).",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co06.wav"
   },
   {
    "position": 7,
@@ -271,7 +277,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co07.wav"
   },
   {
    "position": 8,
@@ -309,7 +316,8 @@
    "explanation": "« Desservir un arrêt » = s'y arrêter. L'arrêt provisoire remplace les arrêts supprimés pendant la manifestation.",
    "speakers": [
     "F:fr-CH"
-   ]
+   ],
+   "audio_file": "exam-02_co08.wav"
   },
   {
    "position": 9,
@@ -348,7 +356,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co09.wav"
   },
   {
    "position": 10,
@@ -387,7 +396,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-BE"
-   ]
+   ],
+   "audio_file": "exam-02_co10.wav"
   },
   {
    "position": 11,
@@ -426,7 +436,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co11.wav"
   },
   {
    "position": 12,
@@ -464,7 +475,8 @@
    "explanation": "« Approvisionnement » = livraison de stocks. La nuance « pas de pénurie générale, mais… » limite le problème à certains produits.",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co12.wav"
   },
   {
    "position": 13,
@@ -503,7 +515,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-CA"
-   ]
+   ],
+   "audio_file": "exam-02_co13.wav"
   },
   {
    "position": 14,
@@ -541,7 +554,8 @@
    "explanation": "« Ce n'est pas donné » est une litote pour « c'est cher ». Les hésitations (« parce que… enfin ») et le choix de parler « de vive voix » suggèrent une mauvaise nouvelle.",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co14.wav"
   },
   {
    "position": 15,
@@ -580,7 +594,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co15.wav"
   },
   {
    "position": 16,
@@ -619,7 +634,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co16.wav"
   },
   {
    "position": 17,
@@ -657,7 +673,8 @@
    "explanation": "« Y compris » = également, inclus. Ne confondez pas avec « sauf » ou « excepté ». « Créneau horaire » = plage horaire réservée.",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co17.wav"
   },
   {
    "position": 18,
@@ -695,7 +712,8 @@
    "explanation": "« Y être pour beaucoup » = être une cause importante. « Reste à savoir si » exprime un doute sur l'avenir.",
    "speakers": [
     "H:fr-BE"
-   ]
+   ],
+   "audio_file": "exam-02_co18.wav"
   },
   {
    "position": 19,
@@ -734,7 +752,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-CH"
-   ]
+   ],
+   "audio_file": "exam-02_co19.wav"
   },
   {
    "position": 20,
@@ -773,7 +792,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co20.wav"
   },
   {
    "position": 21,
@@ -811,7 +831,8 @@
    "explanation": "« Report » = déplacement. « Adjacentes » = voisines, qui touchent. « Riverains » = habitants d'une rue. La structure « premier bilan : X, mais Y » présente l'avantage puis l'inconvénient.",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co21.wav"
   },
   {
    "position": 22,
@@ -850,7 +871,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co22.wav"
   },
   {
    "position": 23,
@@ -889,7 +911,8 @@
    "speakers": [
     "F:fr-CA",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co23.wav"
   },
   {
    "position": 24,
@@ -928,7 +951,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co24.wav"
   },
   {
    "position": 25,
@@ -966,7 +990,8 @@
    "explanation": "L'ironie naît du contraste entre l'enthousiasme du ministre et l'explosion du budget. « Les contribuables apprécieront » signifie l'inverse : ils ne seront pas contents.",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-02_co25.wav"
   }
  ],
  "CE": [

@@ -40,7 +40,8 @@
    "explanation": "Le mot clé est « déplacé » : le rendez-vous change de jour (jeudi → vendredi) mais garde la même heure (10 h). Dans un message téléphonique, repérez d'abord le motif de l'appel, souvent annoncé au début.",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co01.wav"
   },
   {
    "position": 2,
@@ -78,7 +79,8 @@
    "explanation": "Dans les annonces de gare, trois informations reviennent : l'heure, la destination, le quai. Ici, seul le quai change, à cause de travaux. « Exceptionnellement » signale un changement inhabituel.",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co02.wav"
   },
   {
    "position": 3,
@@ -117,7 +119,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co03.wav"
   },
   {
    "position": 4,
@@ -156,7 +159,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-BE"
-   ]
+   ],
+   "audio_file": "exam-01_co04.wav"
   },
   {
    "position": 5,
@@ -194,7 +198,8 @@
    "explanation": "Repérez le verbe d'action adressé aux auditeurs : « Merci de préparer… ». La contrainte « cinq minutes maximum » indique une présentation brève.",
    "speakers": [
     "F:fr-CA"
-   ]
+   ],
+   "audio_file": "exam-01_co05.wav"
   },
   {
    "position": 6,
@@ -232,7 +237,8 @@
    "explanation": "Le connecteur « en revanche » introduit une information opposée : un avantage (dimanche) est compensé par une fermeture (lundi). Attention aux réponses partielles.",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co06.wav"
   },
   {
    "position": 7,
@@ -271,7 +277,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co07.wav"
   },
   {
    "position": 8,
@@ -309,7 +316,8 @@
    "explanation": "La première phrase donne souvent le but : « invités à la prudence ». Les recommandations (limiter sa vitesse, reporter les déplacements) confirment la fonction d'avertissement.",
    "speakers": [
     "H:fr-CH"
-   ]
+   ],
+   "audio_file": "exam-01_co08.wav"
   },
   {
    "position": 9,
@@ -348,7 +356,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co09.wav"
   },
   {
    "position": 10,
@@ -387,7 +396,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co10.wav"
   },
   {
    "position": 11,
@@ -426,7 +436,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co11.wav"
   },
   {
    "position": 12,
@@ -464,7 +475,8 @@
    "explanation": "« Si… » introduit ici une opposition (= « bien que »). La première partie présente les avantages, la seconde le risque. « Jeunes recrues » = nouveaux employés.",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co12.wav"
   },
   {
    "position": 13,
@@ -503,7 +515,8 @@
    "speakers": [
     "H:fr-CA",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co13.wav"
   },
   {
    "position": 14,
@@ -541,7 +554,8 @@
    "explanation": "L'implicite se lit dans la justification : « Je ne voudrais surtout pas te déranger ». Le report est motivé par la politesse, pas par un conflit.",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co14.wav"
   },
   {
    "position": 15,
@@ -580,7 +594,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co15.wav"
   },
   {
    "position": 16,
@@ -619,7 +634,8 @@
    "speakers": [
     "F:fr-BE",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co16.wav"
   },
   {
    "position": 17,
@@ -657,7 +673,8 @@
    "explanation": "Distinguez les deux offres : la réduction (30 % jusqu'à dimanche, hors soldes) et l'installation gratuite (achat > 500 €). « Hors » signifie « à l'exception de ».",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co17.wav"
   },
   {
    "position": 18,
@@ -695,7 +712,8 @@
    "explanation": "« En cause : » introduit les causes. « Mais aussi » ajoute une deuxième cause. Les marchés locaux sont la réaction des consommateurs (conséquence).",
    "speakers": [
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co18.wav"
   },
   {
    "position": 19,
@@ -734,7 +752,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-CA"
-   ]
+   ],
+   "audio_file": "exam-01_co19.wav"
   },
   {
    "position": 20,
@@ -773,7 +792,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co20.wav"
   },
   {
    "position": 21,
@@ -811,7 +831,8 @@
    "explanation": "« Faute de » = « par manque de ». Le doute porte sur la faisabilité, liée au manque d'artisans ; la revendication est un volet formation.",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co21.wav"
   },
   {
    "position": 22,
@@ -850,7 +871,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-CH"
-   ]
+   ],
+   "audio_file": "exam-01_co22.wav"
   },
   {
    "position": 23,
@@ -889,7 +911,8 @@
    "speakers": [
     "H:fr-FR",
     "F:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co23.wav"
   },
   {
    "position": 24,
@@ -928,7 +951,8 @@
    "speakers": [
     "F:fr-FR",
     "H:fr-BE"
-   ]
+   ],
+   "audio_file": "exam-01_co24.wav"
   },
   {
    "position": 25,
@@ -966,7 +990,8 @@
    "explanation": "Le journaliste relativise l'autosatisfaction de la mairie avec « peut-être aussi » : il propose une autre explication, moins flatteuse. L'ironie se perçoit dans le contraste entre « record » et la fermeture des concurrents.",
    "speakers": [
     "H:fr-FR"
-   ]
+   ],
+   "audio_file": "exam-01_co25.wav"
   }
  ],
  "CE": [

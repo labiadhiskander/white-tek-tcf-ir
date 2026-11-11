@@ -36,7 +36,6 @@ from __future__ import annotations
 
 import json
 import random
-import re
 import sys
 from pathlib import Path
 
@@ -108,6 +107,9 @@ def parse_exam(path: Path) -> dict:
                  "choices": ch, "explanation": f.get("EXP", "")}
             if kind == "CO":
                 q["speakers"] = [s.strip() for s in parts[4].split(",")] if len(parts) > 4 else []
+                # enregistrement facultatif (tcfmaster/content/audio/) ; à défaut,
+                # le document est lu par la synthèse vocale
+                q["audio_file"] = f"{code.lower()}_co{num:02d}.wav"
             exam[kind].append(q)
         elif kind == "EE":
             lo, hi = WRITING_LIMITS[num]

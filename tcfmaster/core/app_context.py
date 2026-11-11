@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import logging
 from dataclasses import dataclass
+from typing import Any
 
 from sqlalchemy import func, select
 
@@ -19,6 +20,7 @@ class AppContext:
     paths: AppPaths
     db: Database
     log: logging.Logger
+    audio: Any = None        # AudioService, branché par services.wiring
 
 
 def bootstrap(paths: AppPaths | None = None, seed: bool = True) -> AppContext:
