@@ -10,6 +10,7 @@ from tcfmaster.services import settings as S
 from tcfmaster.ui.pages import exam_pages as EP
 from tcfmaster.ui.pages import learning_pages as LP
 from tcfmaster.ui.pages import misc_pages as MP
+from tcfmaster.ui.pages import writing_page as WP
 
 # (clé, icône, libellé, fabrique)
 MENU = [
@@ -18,8 +19,7 @@ MENU = [
     ("mock", "☰", "Examens blancs", lambda c: EP.MockExamsPage(c)),
     ("co", "🎧", "Compréhension orale", lambda c: EP.ComprehensionPage(c, "CO")),
     ("ce", "📄", "Compréhension écrite", lambda c: EP.ComprehensionPage(c, "CE")),
-    ("ee", "✎", "Expression écrite", lambda c: MP.PendingPage(
-        c, "Expression écrite", 5, "Trois tâches, compteur de mots, correction détaillée.")),
+    ("ee", "✎", "Expression écrite", lambda c: WP.WritingPage(c)),
     ("eo", "🎤", "Expression orale", lambda c: MP.PendingPage(
         c, "Expression orale", 6, "Entretien simulé, enregistrement, reconnaissance vocale.")),
     ("vocab", "Aa", "Vocabulaire B2", lambda c: LP.VocabularyPage(c)),
