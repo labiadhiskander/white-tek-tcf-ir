@@ -8,6 +8,7 @@ from PySide6.QtWidgets import (QHBoxLayout, QLabel, QListWidget, QListWidgetItem
 from tcfmaster import APP_NAME, __version__
 from tcfmaster.services import settings as S
 from tcfmaster.ui.pages import custom_page as CP
+from tcfmaster.ui.pages import dashboard_page as DP
 from tcfmaster.ui.pages import exam_pages as EP
 from tcfmaster.ui.pages import learning_pages as LP
 from tcfmaster.ui.pages import misc_pages as MP
@@ -17,7 +18,7 @@ from tcfmaster.ui.pages import writing_page as WP
 
 # (clé, icône, libellé, fabrique)
 MENU = [
-    ("dashboard", "◧", "Tableau de bord", lambda c: MP.DashboardPage(c)),
+    ("dashboard", "◧", "Tableau de bord", lambda c: DP.DashboardPage(c)),
     ("start", "▶", "Commencer un examen", lambda c: EP.StartExamPage(c)),
     ("mock", "☰", "Examens blancs", lambda c: EP.MockExamsPage(c)),
     ("co", "🎧", "Compréhension orale", lambda c: EP.ComprehensionPage(c, "CO")),

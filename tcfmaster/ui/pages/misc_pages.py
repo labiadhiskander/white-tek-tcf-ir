@@ -4,148 +4,18 @@ from __future__ import annotations
 import shutil
 from pathlib import Path
 
-from PySide6.QtCharts import QCategoryAxis, QChart, QChartView, QLineSeries, QValueAxis
 from PySide6.QtCore import Qt
-from PySide6.QtGui import QPainter
-from PySide6.QtWidgets import (QCheckBox, QComboBox, QFileDialog, QGridLayout, QHBoxLayout,
+from PySide6.QtWidgets import (QCheckBox, QComboBox, QFileDialog, QHBoxLayout,
                                QHeaderView, QLabel, QListWidget, QListWidgetItem,
-                               QMessageBox, QProgressBar, QPushButton, QTableWidget,
+                               QMessageBox, QPushButton, QTableWidget,
                                QTableWidgetItem, QVBoxLayout, QWidget)
 from sqlalchemy import select
 
-from tcfmaster.core import levels as L
 from tcfmaster.core.paths import save_data_root
-from tcfmaster.db.models import (SECTION_LABELS, Attempt, PlanDay, PlanProgress)
-from tcfmaster.services import progress as PR
-from tcfmaster.services import review as RV
+from tcfmaster.db.models import (Attempt, PlanDay, PlanProgress)
 from tcfmaster.services import settings as S
 from tcfmaster.ui.results_view import ResultsView
-from tcfmaster.ui.widgets import Card, Kpi, Page, disclaimer_label
-
-
-# =========================================================================
-class DashboardPage(Page):
-    def __init__(self, ctx):
-        super().__init__(ctx, "Tableau de bord", "Votre progression vers le niveau B2.")
-        grid = QGridLayout()
-        grid.setSpacing(12)
-        self.kpis = {}
-        specs = [("initial", "Niveau initial"), ("current", "Niveau actuel estimé"),
-                 ("target", "Objectif"), ("exams", "Examens effectués"),
-                 ("co", "Réussite compréhension orale"), ("ce", "Réussite compréhension écrite"),
-                 ("time", "Temps d'entraînement"), ("errors", "Erreurs grammaticales relevées"),
-                 ("vocab", "Vocabulaire acquis")]
-        for i, (k, lab) in enumerate(specs):
-            w = Kpi(lab)
-            self.kpis[k] = w
-            grid.addWidget(w, i // 5, i % 5)
-        self.body.addLayout(grid)
-
-        row = QHBoxLayout()
-        self.skills_card = Card("Niveau par compétence")
-        self.skill_bars = {}
-        for sec in ("CO", "CE", "EE", "EO"):
-            lab = QLabel(SECTION_LABELS[sec])
-            bar = QProgressBar()
-            bar.setRange(0, 5)
-            bar.setTextVisible(True)
-            self.skills_card.lay.addWidget(lab)
-            self.skills_card.lay.addWidget(bar)
-            self.skill_bars[sec] = bar
-        row.addWidget(self.skills_card, 1)
-        self.chart = QChart()
-        self.chart.setTitle("Historique des résultats (niveau CECRL)")
-        self.chart.legend().setAlignment(Qt.AlignBottom)
-        view = QChartView(self.chart)
-        view.setRenderHint(QPainter.Antialiasing)
-        view.setMinimumHeight(300)
-        chart_card = Card()
-        chart_card.lay.addWidget(view)
-        row.addWidget(chart_card, 2)
-        self.body.addLayout(row)
-
-        self.alerts_card = Card("Alertes et recommandations")
-        self.alerts_label = QLabel()
-        self.alerts_label.setWordWrap(True)
-        self.alerts_card.lay.addWidget(self.alerts_label)
-        self.alerts_card.lay.addWidget(disclaimer_label(L.DISCLAIMER))
-        self.body.addWidget(self.alerts_card)
-
-    @staticmethod
-    def _to_level_value(sec: str, v: float) -> float:
-        """Convertit un score en position continue sur l'échelle A1(1)…C2(6)."""
-        if sec in ("CO", "CE"):
-            return max(0.0, min(6.0, v / 100))
-        bands = [(0, 0), (1, 1), (4, 2), (6, 3), (10, 4), (14, 5), (16, 6), (20, 6.99)]
-        for (a, la), (b, lb) in zip(bands, bands[1:]):
-            if v <= b:
-                return la + (lb - la) * (v - a) / (b - a) if b > a else la
-        return 6.0
-
-    def refresh(self):
-        with self.ctx.db.session() as s:
-            d = PR.dashboard(s)
-            vocab = RV.acquired_count(s, "vocab") + RV.acquired_count(s, "expression")
-            recs = getattr(self.ctx, "recommendations", None)
-            rec_list = recs(s) if callable(recs) else []
-        k = self.kpis
-        k["initial"].set(d["initial_level"] or "À évaluer")
-        k["current"].set(d["current_level"] or "–")
-        k["target"].set(d["target"])
-        k["exams"].set(d["exams_done"])
-        k["co"].set(f"{d['co_rate']} %" if d["co_rate"] is not None else None)
-        k["ce"].set(f"{d['ce_rate']} %" if d["ce_rate"] is not None else None)
-        h, m = divmod(d["training_minutes"], 60)
-        k["time"].set(f"{h} h {m:02d}")
-        k["errors"].set(d["grammar_errors"])
-        k["vocab"].set(vocab)
-        for sec, bar in self.skill_bars.items():
-            info = d["skills"][sec]
-            lvl = info["level"]
-            idx = L.level_index(lvl) if lvl in L.LEVELS else -1
-            bar.setValue(max(0, idx))
-            bar.setFormat(f"{lvl or 'non évalué'}" + ("  ✔ prêt" if info["ready"] else ""))
-        self.chart.removeAllSeries()
-        for ax in self.chart.axes():
-            self.chart.removeAxis(ax)
-        ax_y = QCategoryAxis()
-        ax_y.setRange(0, 7)
-        for i, lv in enumerate(L.LEVELS, 1):
-            ax_y.append(lv, i)
-        ax_y.setLabelsPosition(QCategoryAxis.AxisLabelsPositionOnValue)
-        ax_x = QValueAxis()
-        ax_x.setLabelFormat("%d")
-        ax_x.setTitleText("Évaluations")
-        mx = 1
-        for sec in ("CO", "CE", "EE", "EO"):
-            hist = d["skills"][sec]["history"]
-            if not hist:
-                continue
-            ser = QLineSeries()
-            ser.setName(SECTION_LABELS[sec])
-            for i, v in enumerate(hist, 1):
-                ser.append(i, self._to_level_value(sec, v))
-            mx = max(mx, len(hist))
-            self.chart.addSeries(ser)
-        target = QLineSeries()
-        target.setName("Objectif B2")
-        target.append(1, 4)
-        target.append(max(2, mx), 4)
-        self.chart.addSeries(target)
-        ax_x.setRange(1, max(2, mx))
-        ax_x.setTickCount(min(max(2, mx), 11))
-        self.chart.addAxis(ax_y, Qt.AlignLeft)
-        self.chart.addAxis(ax_x, Qt.AlignBottom)
-        for ser in self.chart.series():
-            ser.attachAxis(ax_x)
-            ser.attachAxis(ax_y)
-        lines = list(d["alerts"])
-        lines += rec_list
-        if d["ready"]:
-            lines.insert(0, "✔ Les quatre compétences sont stabilisées au niveau B2 sur "
-                            "plusieurs épreuves.")
-        self.alerts_label.setText("<br>".join(f"• {x}" for x in lines))
-        self.data = d
+from tcfmaster.ui.widgets import Card, Page
 
 
 # =========================================================================
