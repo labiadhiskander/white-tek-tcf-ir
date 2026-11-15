@@ -1,0 +1,55 @@
+@slug ce-editoriaux
+@section CE
+@title Éditoriaux
+@order 3
+@description Textes d'opinion de la presse : identifier la thèse, le ton, les arguments et les sous-entendus.
+
+## CE-EDI-01 | éditorial
+TITRE: La semaine de quatre jours, fausse bonne idée ?
+DOC: Il est des réformes qui séduisent avant même d'avoir été examinées. La semaine de quatre jours en fait partie. Qui refuserait un jour de repos supplémentaire sans perte de salaire ? Les entreprises qui l'ont adoptée vantent une productivité préservée, des salariés moins fatigués, un recrutement facilité. On aurait tort de balayer ces résultats d'un revers de main. ¶ Encore faut-il regarder de près ce que recouvre le mot « expérimentation ». Dans la plupart des cas, il s'agit de sociétés de services, souvent jeunes, dont les équipes travaillent sur ordinateur et peuvent concentrer leurs tâches. Que devient la promesse pour une aide-soignante, un chauffeur de bus ou une caissière, dont la présence ne se compresse pas ? Pour eux, travailler sur quatre jours signifie soit des journées de dix heures, soit des embauches que leurs employeurs, hôpitaux publics en tête, n'ont pas les moyens de financer. ¶ Le risque est donc de voir apparaître une fracture nouvelle : d'un côté, ceux dont le métier se prête à la réorganisation et qui gagneront en temps libre ; de l'autre, ceux qui assurent la continuité du quotidien et pour qui rien ne changera, sinon le sentiment d'être les oubliés du progrès. Plutôt que de généraliser une formule séduisante, mieux vaudrait réfléchir métier par métier à ce qui améliorerait réellement les conditions de travail.
+Q: Quelle est la thèse de l'éditorialiste ? | argumentation
++ La semaine de quatre jours ne peut pas être généralisée sans tenir compte de la diversité des métiers. | La conclusion le dit explicitement : « Plutôt que de généraliser une formule séduisante, mieux vaudrait réfléchir métier par métier. »
+- La semaine de quatre jours fait baisser la productivité des entreprises. | Il cite au contraire « une productivité préservée » sans la contester.
+- Les salariés des services travaillent trop et méritent un jour de repos. | Ce n'est pas l'objet du texte, qui s'intéresse aux métiers exclus de la réforme.
+- Les hôpitaux publics devraient être les premiers à expérimenter la réforme. | Il souligne qu'ils n'ont « pas les moyens de financer » des embauches.
+EXP: Dans un éditorial, la thèse apparaît souvent dans la conclusion, après une concession initiale (« On aurait tort de balayer ces résultats… »). Le premier paragraphe présente les arguments adverses pour mieux les nuancer ensuite.
+Q: Quel ton l'auteur adopte-t-il dans la première phrase ? | point de vue
++ Un ton légèrement ironique qui annonce une prise de distance. | « Il est des réformes qui séduisent avant même d'avoir été examinées » suggère un enthousiasme irréfléchi : l'auteur s'en démarque.
+- Un ton enthousiaste qui célèbre la réforme. | Le verbe « séduire avant d'être examiné » est une critique implicite.
+- Un ton indigné qui condamne les entreprises. | Les entreprises ne sont pas condamnées ; leurs résultats sont même pris au sérieux.
+- Un ton neutre de simple information. | Un éditorial n'est pas neutre, et la tournure est clairement évaluative.
+EXP: Le ton se repère à des formulations évaluatives. Séduire « avant même d'avoir été examinées » insinue que l'adhésion est trop rapide : l'auteur prépare le lecteur à une critique.
+Q: Que craint l'éditorialiste si la réforme était généralisée ? | implicite
++ Que les travailleurs de terrain se sentent laissés de côté. | Il évoque « une fracture nouvelle » et « le sentiment d'être les oubliés du progrès ».
+- Que les entreprises de services fassent faillite. | Il ne prévoit aucune faillite.
+- Que le chômage augmente dans les hôpitaux. | Il parle d'embauches impossibles à financer, pas de licenciements.
+- Que les salariés refusent de travailler dix heures par jour. | Les journées de dix heures sont une conséquence possible, pas un refus annoncé.
+EXP: La crainte principale est sociale et symbolique : une société à deux vitesses. Les expressions « d'un côté… de l'autre » et « fracture » structurent cette idée.
+VOCAB: balayer d'un revers de main = rejeter sans examiner = Il a balayé nos objections d'un revers de main. ; se prêter à = être adapté à = Ce métier se prête mal au télétravail. ; une fracture = une division profonde entre deux groupes = La fracture numérique sépare les générations. ; la continuité = le fait de fonctionner sans interruption = Les soignants assurent la continuité des soins. ; compresser = réduire la durée ou le volume = On ne peut pas compresser une garde de nuit.
+EXPR: il est des… = il existe des… (registre soutenu) = Il est des silences plus éloquents que les mots. ; en tête = en premier lieu, au premier rang = Les grandes villes, Paris en tête, manquent de logements. ; mieux vaudrait = il serait préférable de = Mieux vaudrait attendre les résultats avant de décider.
+PIEGES: Le premier paragraphe expose les arguments favorables : ce n'est pas l'opinion finale de l'auteur. ; « On aurait tort de balayer… » est une concession, pas une adhésion. ; La question du ton porte sur la première phrase seule, pas sur l'ensemble du texte.
+
+## CE-EDI-02 | éditorial
+TITRE: Le retour du vélo, victime de son succès
+DOC: Il y a vingt ans, circuler à vélo dans nos grandes villes relevait de l'acte militant. Aujourd'hui, les pistes cyclables sont saturées aux heures de pointe, et l'on se réjouirait volontiers de cette conversion massive si elle ne s'accompagnait pas de tensions croissantes. Piétons frôlés sur les trottoirs, automobilistes exaspérés, cyclistes qui s'estiment en danger : chacun se vit comme la victime des autres. ¶ La tentation est grande de désigner un coupable. Certains réclament des amendes plus lourdes pour les cyclistes qui grillent les feux ; d'autres accusent les conducteurs de ne pas respecter les distances de sécurité. Ces reproches ne sont pas infondés, mais ils manquent l'essentiel. Nos rues ont été dessinées pour la voiture, et l'on s'est contenté, le plus souvent, d'y ajouter une bande de peinture verte pour les vélos. Il ne faut pas s'étonner que la cohabitation soit conflictuelle quand l'espace lui-même l'organise si mal. ¶ La solution ne viendra donc ni des seules sanctions ni des campagnes de civisme, utiles mais insuffisantes. Elle passe par un partage clair de la voirie, quitte à retirer des places de stationnement, décision impopulaire que peu d'élus osent assumer. Faute de ce courage, le vélo risque de perdre ce qui faisait son attrait : la promesse d'une ville apaisée.
+Q: Selon l'auteur, quelle est la cause principale des conflits entre usagers ? | argumentation
++ Un aménagement des rues resté pensé pour l'automobile. | « Nos rues ont été dessinées pour la voiture » ; « l'espace lui-même l'organise si mal ».
+- Le comportement irresponsable des cyclistes. | Il juge ces reproches « pas infondés » mais estime qu'« ils manquent l'essentiel ».
+- L'absence d'amendes pour les automobilistes. | Les sanctions sont jugées insuffisantes, et aucune absence d'amendes n'est évoquée.
+- La diminution du nombre de pistes cyclables. | Les pistes ne diminuent pas ; elles sont « saturées ».
+EXP: La structure « Ces reproches ne sont pas infondés, mais ils manquent l'essentiel » écarte les explications individuelles au profit d'une cause structurelle. Repérez ce que l'auteur appelle « l'essentiel ».
+Q: Que reproche implicitement l'auteur aux élus ? | implicite
++ De manquer de courage politique face à des mesures impopulaires. | Retirer des places de stationnement est une « décision impopulaire que peu d'élus osent assumer » ; « Faute de ce courage… ».
+- De dépenser trop d'argent pour les pistes cyclables. | Le coût n'est jamais mentionné.
+- D'ignorer les plaintes des piétons. | Les piétons sont cités parmi les victimes, mais pas comme ignorés par les élus.
+- De multiplier les campagnes de civisme. | Ces campagnes sont jugées « utiles mais insuffisantes », pas reprochées.
+EXP: Le reproche n'est pas formulé directement ; il se lit dans « peu d'élus osent assumer » puis « faute de ce courage ». « Faute de » introduit la cause d'un échec possible.
+Q: Que signifie la dernière phrase du texte ? | synthèse
++ Sans réforme de l'espace urbain, le vélo pourrait ne plus incarner une ville plus calme. | « Le vélo risque de perdre ce qui faisait son attrait : la promesse d'une ville apaisée. »
+- Le vélo va disparaître des grandes villes. | Il s'agit de perdre un « attrait », pas de disparaître.
+- Les élus courageux ont déjà apaisé la ville. | L'auteur dit justement que ce courage manque.
+- Les cyclistes doivent devenir plus calmes. | L'apaisement concerne la ville entière et dépend de l'aménagement.
+EXP: La conclusion relie le constat (conflits) à l'enjeu (l'image du vélo). « Ce qui faisait son attrait » renvoie à une qualité passée menacée : c'est une mise en garde, pas une prédiction de disparition.
+VOCAB: saturé = complètement rempli, au maximum de sa capacité = Le réseau est saturé aux heures de pointe. ; frôler = passer très près de quelqu'un sans le toucher = Une trottinette m'a frôlé sur le trottoir. ; la voirie = l'ensemble des voies publiques (rues, routes) = La mairie a refait la voirie du centre. ; infondé = sans fondement, injustifié = Ces craintes sont infondées. ; apaisé = rendu calme, moins tendu = Les habitants souhaitent un quartier apaisé.
+EXPR: relever de = appartenir au domaine de = Ce choix relève de la responsabilité du maire. ; griller un feu = ne pas s'arrêter au feu rouge (familier) = Il a grillé un feu et a reçu une amende. ; quitte à = même si cela oblige à = Il faut agir vite, quitte à déplaire.
+PIEGES: Le texte cite les reproches faits aux cyclistes sans les reprendre à son compte. ; « Faute de ce courage » ne signifie pas que les élus ont commis une faute, mais que le courage manque. ; Le vélo n'est pas menacé de disparaître : c'est son image positive qui est en jeu.

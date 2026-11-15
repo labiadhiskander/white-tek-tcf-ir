@@ -1,0 +1,312 @@
+{
+ "slug": "ce-editoriaux",
+ "section": "CE",
+ "title": "Éditoriaux",
+ "description": "Textes d'opinion de la presse : identifier la thèse, le ton, les arguments et les sous-entendus.",
+ "order": 3,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CE-EDI-01",
+   "level": "B2",
+   "doc_type": "éditorial",
+   "questions": [
+    {
+     "prompt": "Quelle est la thèse de l'éditorialiste ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "La semaine de quatre jours fait baisser la productivité des entreprises.",
+       "correct": false,
+       "rationale": "Il cite au contraire « une productivité préservée » sans la contester.",
+       "label": "A"
+      },
+      {
+       "text": "La semaine de quatre jours ne peut pas être généralisée sans tenir compte de la diversité des métiers.",
+       "correct": true,
+       "rationale": "La conclusion le dit explicitement : « Plutôt que de généraliser une formule séduisante, mieux vaudrait réfléchir métier par métier. »",
+       "label": "B"
+      },
+      {
+       "text": "Les hôpitaux publics devraient être les premiers à expérimenter la réforme.",
+       "correct": false,
+       "rationale": "Il souligne qu'ils n'ont « pas les moyens de financer » des embauches.",
+       "label": "C"
+      },
+      {
+       "text": "Les salariés des services travaillent trop et méritent un jour de repos.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'objet du texte, qui s'intéresse aux métiers exclus de la réforme.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Dans un éditorial, la thèse apparaît souvent dans la conclusion, après une concession initiale (« On aurait tort de balayer ces résultats… »). Le premier paragraphe présente les arguments adverses pour mieux les nuancer ensuite."
+    },
+    {
+     "prompt": "Quel ton l'auteur adopte-t-il dans la première phrase ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Un ton indigné qui condamne les entreprises.",
+       "correct": false,
+       "rationale": "Les entreprises ne sont pas condamnées ; leurs résultats sont même pris au sérieux.",
+       "label": "A"
+      },
+      {
+       "text": "Un ton légèrement ironique qui annonce une prise de distance.",
+       "correct": true,
+       "rationale": "« Il est des réformes qui séduisent avant même d'avoir été examinées » suggère un enthousiasme irréfléchi : l'auteur s'en démarque.",
+       "label": "B"
+      },
+      {
+       "text": "Un ton neutre de simple information.",
+       "correct": false,
+       "rationale": "Un éditorial n'est pas neutre, et la tournure est clairement évaluative.",
+       "label": "C"
+      },
+      {
+       "text": "Un ton enthousiaste qui célèbre la réforme.",
+       "correct": false,
+       "rationale": "Le verbe « séduire avant d'être examiné » est une critique implicite.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le ton se repère à des formulations évaluatives. Séduire « avant même d'avoir été examinées » insinue que l'adhésion est trop rapide : l'auteur prépare le lecteur à une critique."
+    },
+    {
+     "prompt": "Que craint l'éditorialiste si la réforme était généralisée ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Que les salariés refusent de travailler dix heures par jour.",
+       "correct": false,
+       "rationale": "Les journées de dix heures sont une conséquence possible, pas un refus annoncé.",
+       "label": "A"
+      },
+      {
+       "text": "Que les travailleurs de terrain se sentent laissés de côté.",
+       "correct": true,
+       "rationale": "Il évoque « une fracture nouvelle » et « le sentiment d'être les oubliés du progrès ».",
+       "label": "B"
+      },
+      {
+       "text": "Que le chômage augmente dans les hôpitaux.",
+       "correct": false,
+       "rationale": "Il parle d'embauches impossibles à financer, pas de licenciements.",
+       "label": "C"
+      },
+      {
+       "text": "Que les entreprises de services fassent faillite.",
+       "correct": false,
+       "rationale": "Il ne prévoit aucune faillite.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La crainte principale est sociale et symbolique : une société à deux vitesses. Les expressions « d'un côté… de l'autre » et « fracture » structurent cette idée."
+    }
+   ],
+   "title": "La semaine de quatre jours, fausse bonne idée ?",
+   "document": "Il est des réformes qui séduisent avant même d'avoir été examinées. La semaine de quatre jours en fait partie. Qui refuserait un jour de repos supplémentaire sans perte de salaire ? Les entreprises qui l'ont adoptée vantent une productivité préservée, des salariés moins fatigués, un recrutement facilité. On aurait tort de balayer ces résultats d'un revers de main.\n\nEncore faut-il regarder de près ce que recouvre le mot « expérimentation ». Dans la plupart des cas, il s'agit de sociétés de services, souvent jeunes, dont les équipes travaillent sur ordinateur et peuvent concentrer leurs tâches. Que devient la promesse pour une aide-soignante, un chauffeur de bus ou une caissière, dont la présence ne se compresse pas ? Pour eux, travailler sur quatre jours signifie soit des journées de dix heures, soit des embauches que leurs employeurs, hôpitaux publics en tête, n'ont pas les moyens de financer.\n\nLe risque est donc de voir apparaître une fracture nouvelle : d'un côté, ceux dont le métier se prête à la réorganisation et qui gagneront en temps libre ; de l'autre, ceux qui assurent la continuité du quotidien et pour qui rien ne changera, sinon le sentiment d'être les oubliés du progrès. Plutôt que de généraliser une formule séduisante, mieux vaudrait réfléchir métier par métier à ce qui améliorerait réellement les conditions de travail.",
+   "vocabulary": [
+    {
+     "terme": "balayer d'un revers de main",
+     "definition": "rejeter sans examiner",
+     "exemple": "Il a balayé nos objections d'un revers de main."
+    },
+    {
+     "terme": "se prêter à",
+     "definition": "être adapté à",
+     "exemple": "Ce métier se prête mal au télétravail."
+    },
+    {
+     "terme": "une fracture",
+     "definition": "une division profonde entre deux groupes",
+     "exemple": "La fracture numérique sépare les générations."
+    },
+    {
+     "terme": "la continuité",
+     "definition": "le fait de fonctionner sans interruption",
+     "exemple": "Les soignants assurent la continuité des soins."
+    },
+    {
+     "terme": "compresser",
+     "definition": "réduire la durée ou le volume",
+     "exemple": "On ne peut pas compresser une garde de nuit."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "il est des…",
+     "sens": "il existe des… (registre soutenu)",
+     "exemple": "Il est des silences plus éloquents que les mots."
+    },
+    {
+     "expression": "en tête",
+     "sens": "en premier lieu, au premier rang",
+     "exemple": "Les grandes villes, Paris en tête, manquent de logements."
+    },
+    {
+     "expression": "mieux vaudrait",
+     "sens": "il serait préférable de",
+     "exemple": "Mieux vaudrait attendre les résultats avant de décider."
+    }
+   ],
+   "traps": [
+    "Le premier paragraphe expose les arguments favorables : ce n'est pas l'opinion finale de l'auteur.",
+    "« On aurait tort de balayer… » est une concession, pas une adhésion.",
+    "La question du ton porte sur la première phrase seule, pas sur l'ensemble du texte."
+   ]
+  },
+  {
+   "code": "CE-EDI-02",
+   "level": "B2",
+   "doc_type": "éditorial",
+   "questions": [
+    {
+     "prompt": "Selon l'auteur, quelle est la cause principale des conflits entre usagers ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Un aménagement des rues resté pensé pour l'automobile.",
+       "correct": true,
+       "rationale": "« Nos rues ont été dessinées pour la voiture » ; « l'espace lui-même l'organise si mal ».",
+       "label": "A"
+      },
+      {
+       "text": "Le comportement irresponsable des cyclistes.",
+       "correct": false,
+       "rationale": "Il juge ces reproches « pas infondés » mais estime qu'« ils manquent l'essentiel ».",
+       "label": "B"
+      },
+      {
+       "text": "L'absence d'amendes pour les automobilistes.",
+       "correct": false,
+       "rationale": "Les sanctions sont jugées insuffisantes, et aucune absence d'amendes n'est évoquée.",
+       "label": "C"
+      },
+      {
+       "text": "La diminution du nombre de pistes cyclables.",
+       "correct": false,
+       "rationale": "Les pistes ne diminuent pas ; elles sont « saturées ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « Ces reproches ne sont pas infondés, mais ils manquent l'essentiel » écarte les explications individuelles au profit d'une cause structurelle. Repérez ce que l'auteur appelle « l'essentiel »."
+    },
+    {
+     "prompt": "Que reproche implicitement l'auteur aux élus ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "De multiplier les campagnes de civisme.",
+       "correct": false,
+       "rationale": "Ces campagnes sont jugées « utiles mais insuffisantes », pas reprochées.",
+       "label": "A"
+      },
+      {
+       "text": "D'ignorer les plaintes des piétons.",
+       "correct": false,
+       "rationale": "Les piétons sont cités parmi les victimes, mais pas comme ignorés par les élus.",
+       "label": "B"
+      },
+      {
+       "text": "De manquer de courage politique face à des mesures impopulaires.",
+       "correct": true,
+       "rationale": "Retirer des places de stationnement est une « décision impopulaire que peu d'élus osent assumer » ; « Faute de ce courage… ».",
+       "label": "C"
+      },
+      {
+       "text": "De dépenser trop d'argent pour les pistes cyclables.",
+       "correct": false,
+       "rationale": "Le coût n'est jamais mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le reproche n'est pas formulé directement ; il se lit dans « peu d'élus osent assumer » puis « faute de ce courage ». « Faute de » introduit la cause d'un échec possible."
+    },
+    {
+     "prompt": "Que signifie la dernière phrase du texte ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Les cyclistes doivent devenir plus calmes.",
+       "correct": false,
+       "rationale": "L'apaisement concerne la ville entière et dépend de l'aménagement.",
+       "label": "A"
+      },
+      {
+       "text": "Les élus courageux ont déjà apaisé la ville.",
+       "correct": false,
+       "rationale": "L'auteur dit justement que ce courage manque.",
+       "label": "B"
+      },
+      {
+       "text": "Le vélo va disparaître des grandes villes.",
+       "correct": false,
+       "rationale": "Il s'agit de perdre un « attrait », pas de disparaître.",
+       "label": "C"
+      },
+      {
+       "text": "Sans réforme de l'espace urbain, le vélo pourrait ne plus incarner une ville plus calme.",
+       "correct": true,
+       "rationale": "« Le vélo risque de perdre ce qui faisait son attrait : la promesse d'une ville apaisée. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La conclusion relie le constat (conflits) à l'enjeu (l'image du vélo). « Ce qui faisait son attrait » renvoie à une qualité passée menacée : c'est une mise en garde, pas une prédiction de disparition."
+    }
+   ],
+   "title": "Le retour du vélo, victime de son succès",
+   "document": "Il y a vingt ans, circuler à vélo dans nos grandes villes relevait de l'acte militant. Aujourd'hui, les pistes cyclables sont saturées aux heures de pointe, et l'on se réjouirait volontiers de cette conversion massive si elle ne s'accompagnait pas de tensions croissantes. Piétons frôlés sur les trottoirs, automobilistes exaspérés, cyclistes qui s'estiment en danger : chacun se vit comme la victime des autres.\n\nLa tentation est grande de désigner un coupable. Certains réclament des amendes plus lourdes pour les cyclistes qui grillent les feux ; d'autres accusent les conducteurs de ne pas respecter les distances de sécurité. Ces reproches ne sont pas infondés, mais ils manquent l'essentiel. Nos rues ont été dessinées pour la voiture, et l'on s'est contenté, le plus souvent, d'y ajouter une bande de peinture verte pour les vélos. Il ne faut pas s'étonner que la cohabitation soit conflictuelle quand l'espace lui-même l'organise si mal.\n\nLa solution ne viendra donc ni des seules sanctions ni des campagnes de civisme, utiles mais insuffisantes. Elle passe par un partage clair de la voirie, quitte à retirer des places de stationnement, décision impopulaire que peu d'élus osent assumer. Faute de ce courage, le vélo risque de perdre ce qui faisait son attrait : la promesse d'une ville apaisée.",
+   "vocabulary": [
+    {
+     "terme": "saturé",
+     "definition": "complètement rempli, au maximum de sa capacité",
+     "exemple": "Le réseau est saturé aux heures de pointe."
+    },
+    {
+     "terme": "frôler",
+     "definition": "passer très près de quelqu'un sans le toucher",
+     "exemple": "Une trottinette m'a frôlé sur le trottoir."
+    },
+    {
+     "terme": "la voirie",
+     "definition": "l'ensemble des voies publiques (rues, routes)",
+     "exemple": "La mairie a refait la voirie du centre."
+    },
+    {
+     "terme": "infondé",
+     "definition": "sans fondement, injustifié",
+     "exemple": "Ces craintes sont infondées."
+    },
+    {
+     "terme": "apaisé",
+     "definition": "rendu calme, moins tendu",
+     "exemple": "Les habitants souhaitent un quartier apaisé."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "relever de",
+     "sens": "appartenir au domaine de",
+     "exemple": "Ce choix relève de la responsabilité du maire."
+    },
+    {
+     "expression": "griller un feu",
+     "sens": "ne pas s'arrêter au feu rouge (familier)",
+     "exemple": "Il a grillé un feu et a reçu une amende."
+    },
+    {
+     "expression": "quitte à",
+     "sens": "même si cela oblige à",
+     "exemple": "Il faut agir vite, quitte à déplaire."
+    }
+   ],
+   "traps": [
+    "Le texte cite les reproches faits aux cyclistes sans les reprendre à son compte.",
+    "« Faute de ce courage » ne signifie pas que les élus ont commis une faute, mais que le courage manque.",
+    "Le vélo n'est pas menacé de disparaître : c'est son image positive qui est en jeu."
+   ]
+  }
+ ]
+}

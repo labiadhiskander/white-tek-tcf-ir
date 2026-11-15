@@ -1,0 +1,55 @@
+@slug co-environnement-climat
+@section CO
+@title Environnement et climat
+@order 2
+@description Débats, reportages et interviews sur la transition écologique, l'énergie et l'adaptation au changement climatique.
+
+## CO-ENV-01 | débat radiophonique | F:fr-FR, H:fr-FR
+TITRE: Les zones à faibles émissions en question
+CONTEXTE: Une journaliste interroge un urbaniste sur la limitation de la circulation des véhicules anciens en ville.
+DOC: F: Depuis janvier, les voitures les plus anciennes ne peuvent plus entrer dans le centre de plusieurs grandes villes. Vous qui conseillez des municipalités, diriez-vous que la mesure est un succès ? / H: Sur le plan de la qualité de l'air, les premiers relevés sont encourageants : les concentrations de dioxyde d'azote ont nettement baissé près des grands axes. Mais réduire la question à ces chiffres serait une erreur. / F: Pourquoi ? / H: Parce que ceux qui roulent dans les véhicules les plus anciens ne le font généralement pas par choix. Ce sont souvent des ménages modestes qui vivent en périphérie, là où les transports en commun sont rares. Si on leur interdit la ville sans leur proposer d'alternative, on transforme une politique de santé publique en mesure d'exclusion. / F: Les aides à l'achat d'un véhicule propre ne suffisent pas ? / H: Elles couvrent rarement plus du tiers du prix. Pour une famille qui boucle difficilement ses fins de mois, le reste demeure inaccessible. Les villes qui s'en sortent le mieux sont celles qui ont d'abord renforcé les parkings relais et les lignes de bus, avant de fermer leur centre.
+Q: Quelle est la position de l'urbaniste sur les zones à faibles émissions ? | point de vue
++ Il en reconnaît l'efficacité environnementale mais en critique les effets sociaux. | Il qualifie les relevés d'« encourageants », puis ajoute que « réduire la question à ces chiffres serait une erreur » à cause de l'exclusion des ménages modestes.
+- Il les juge inutiles car la pollution n'a pas diminué. | Il affirme au contraire que le dioxyde d'azote a « nettement baissé ».
+- Il les soutient sans réserve et souhaite les étendre. | Le « Mais » introduit une réserve importante : la mesure peut devenir « une mesure d'exclusion ».
+- Il estime qu'elles devraient être réservées aux villes moyennes. | Il ne compare jamais les grandes et les moyennes villes.
+EXP: Le point de vue est nuancé : une concession (les résultats sur l'air sont bons) suivie d'une objection introduite par « Mais ». Au niveau B2, il faut repérer cette structure concession-opposition et ne pas s'arrêter à la première phrase.
+Q: Que laisse entendre l'urbaniste à propos des aides à l'achat ? | implicite
++ Elles profitent surtout à ceux qui pourraient déjà presque payer un véhicule neuf. | Si l'aide ne couvre qu'un tiers du prix, le reste « demeure inaccessible » aux familles modestes : seules les familles plus aisées peuvent en bénéficier.
+- Elles sont trop généreuses et coûtent cher à l'État. | Il juge au contraire qu'elles sont insuffisantes.
+- Elles devraient être supprimées au profit des transports. | Il ne propose pas de les supprimer, il dit qu'elles ne suffisent pas.
+- Elles sont réservées aux habitants du centre-ville. | Rien n'indique une condition de domicile.
+EXP: L'idée n'est pas dite explicitement : on la déduit du raisonnement « l'aide couvre un tiers » + « le reste est inaccessible aux ménages modestes ». C'est typique d'une question d'implicite : la bonne réponse est une conséquence logique du propos.
+Q: Selon l'urbaniste, qu'est-ce qui distingue les villes qui réussissent ? | argumentation
++ Elles ont développé les alternatives à la voiture avant d'interdire l'accès au centre. | « Celles qui ont d'abord renforcé les parkings relais et les lignes de bus, avant de fermer leur centre. »
+- Elles ont accordé des aides plus élevées que les autres. | Le montant des aides n'est pas le critère cité.
+- Elles ont fermé leur centre plus rapidement. | C'est l'ordre inverse qui est valorisé : d'abord les alternatives, ensuite la fermeture.
+- Elles ont exempté les familles modestes de l'interdiction. | Aucune exemption n'est évoquée.
+EXP: Les marqueurs chronologiques « d'abord… avant de… » structurent l'argument final. Attention au distracteur qui inverse l'ordre des étapes : c'est un piège fréquent.
+VOCAB: un axe = une grande voie de circulation = Les embouteillages se concentrent sur les grands axes. ; la périphérie = les quartiers éloignés du centre d'une ville = Les loyers sont moins chers en périphérie. ; un parking relais = un parking à l'entrée de la ville relié aux transports en commun = Laissez votre voiture au parking relais et prenez le tramway. ; un ménage modeste = un foyer aux revenus faibles = Les ménages modestes consacrent une part importante de leur budget au transport. ; un relevé = une mesure enregistrée = Les relevés de pollution sont publiés chaque jour.
+EXPR: boucler difficilement ses fins de mois = avoir du mal à payer ses dépenses jusqu'à la fin du mois = Avec l'inflation, beaucoup de familles bouclent difficilement leurs fins de mois. ; s'en sortir = réussir malgré les difficultés = Certaines villes s'en sortent mieux grâce à leurs transports. ; réduire la question à = ne considérer qu'un seul aspect d'un problème = On ne peut pas réduire la question du chômage aux seuls chiffres.
+
+## CO-ENV-02 | chronique radio | F:fr-CA
+TITRE: Quand les villes plantent des arbres pour se rafraîchir
+CONTEXTE: Une chroniqueuse présente les « îlots de fraîcheur » aménagés par certaines municipalités.
+DOC: F: Lors de la dernière canicule, des thermomètres installés dans une même ville ont affiché jusqu'à huit degrés d'écart entre une place entièrement bétonnée et un parc ombragé situé à quelques rues de là. C'est ce qu'on appelle l'effet d'îlot de chaleur urbain : le bitume et les façades emmagasinent la chaleur le jour et la restituent la nuit, si bien que la ville ne se refroidit plus. Pour y remédier, de nombreuses municipalités transforment des cours d'école en jardins et plantent des arbres le long des rues. Encore faut-il choisir les bonnes essences : certaines espèces très répandues supportent mal la sécheresse et dépérissent en quelques étés. Les spécialistes recommandent donc de diversifier les plantations et de les arroser pendant leurs premières années. Autre limite rarement évoquée : un arbre planté aujourd'hui ne procurera une ombre réelle que dans quinze ou vingt ans. Autrement dit, ces aménagements sont indispensables, mais ils ne dispensent pas de mesures plus rapides, comme l'ouverture de lieux climatisés pour les personnes âgées.
+Q: Quelle est l'idée principale de la chronique ? | synthèse
++ La végétalisation est une réponse utile à la chaleur urbaine, mais lente et exigeante. | La chroniqueuse présente les plantations comme « indispensables » tout en soulignant deux limites : le choix des essences et le délai de quinze à vingt ans.
+- Les arbres sont la seule solution efficace contre les canicules. | Elle dit au contraire qu'ils « ne dispensent pas de mesures plus rapides ».
+- Les villes devraient renoncer à planter des arbres trop fragiles. | Elle conseille de diversifier les essences, pas de renoncer.
+- Le béton est désormais interdit dans les nouveaux aménagements. | Aucune interdiction n'est mentionnée.
+EXP: Une question de synthèse demande de combiner l'idée générale et ses nuances. La conclusion « Autrement dit… » reformule souvent l'idée principale : ici, utile mais insuffisant à court terme.
+Q: Pourquoi la ville « ne se refroidit plus » la nuit ? | information détaillée
++ Parce que les matériaux urbains libèrent la nuit la chaleur accumulée le jour. | « Le bitume et les façades emmagasinent la chaleur le jour et la restituent la nuit. »
+- Parce que les parcs retiennent l'air chaud. | Les parcs sont au contraire plus frais (huit degrés d'écart).
+- Parce que les climatiseurs fonctionnent en permanence. | Les climatiseurs ne sont pas cités comme cause.
+- Parce que les arbres dépérissent pendant la sécheresse. | Le dépérissement concerne le choix des essences, pas la chaleur nocturne.
+EXP: Le connecteur « si bien que » introduit une conséquence : il faut remonter à la cause énoncée juste avant. « Emmagasiner » (stocker) et « restituer » (rendre) sont les mots clés.
+Q: Que suggère la chroniqueuse en évoquant les lieux climatisés ? | implicite
++ Qu'il faut aussi protéger les personnes vulnérables dès maintenant. | Les plantations agiront dans quinze ou vingt ans ; les lieux climatisés sont une « mesure plus rapide » destinée aux personnes âgées.
+- Que la climatisation devrait remplacer les plantations. | Les plantations restent « indispensables ».
+- Que les personnes âgées refusent de se rendre dans les parcs. | Rien de tel n'est dit.
+- Que les municipalités ont déjà abandonné les projets de jardins. | Elle décrit au contraire de nombreux projets en cours.
+EXP: L'implicite repose sur l'opposition entre le long terme (arbres) et l'urgence (canicules actuelles). La locution « ne pas dispenser de » signifie « ne pas éviter de devoir faire aussi ».
+VOCAB: une canicule = une période de très forte chaleur = La canicule a duré dix jours. ; emmagasiner = accumuler, stocker = Les murs emmagasinent la chaleur. ; restituer = rendre ce qui a été pris ou stocké = La pierre restitue la chaleur pendant la nuit. ; une essence = une espèce d'arbre = Le chêne est une essence qui résiste bien à la sécheresse. ; dépérir = s'affaiblir progressivement jusqu'à mourir = Faute d'eau, les jeunes arbres dépérissent.
+EXPR: encore faut-il = mais il est nécessaire (condition) = Planter des arbres est une bonne idée, encore faut-il les arroser. ; remédier à = trouver une solution à un problème = La ville veut remédier au manque d'espaces verts. ; ne pas dispenser de = ne pas éviter l'obligation de = Cette aide ne vous dispense pas de déclarer vos revenus.

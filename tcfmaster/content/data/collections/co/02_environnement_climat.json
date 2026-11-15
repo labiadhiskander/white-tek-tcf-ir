@@ -1,0 +1,311 @@
+{
+ "slug": "co-environnement-climat",
+ "section": "CO",
+ "title": "Environnement et climat",
+ "description": "Débats, reportages et interviews sur la transition écologique, l'énergie et l'adaptation au changement climatique.",
+ "order": 2,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CO-ENV-01",
+   "level": "B2",
+   "doc_type": "débat radiophonique",
+   "questions": [
+    {
+     "prompt": "Quelle est la position de l'urbaniste sur les zones à faibles émissions ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Il les juge inutiles car la pollution n'a pas diminué.",
+       "correct": false,
+       "rationale": "Il affirme au contraire que le dioxyde d'azote a « nettement baissé ».",
+       "label": "A"
+      },
+      {
+       "text": "Il les soutient sans réserve et souhaite les étendre.",
+       "correct": false,
+       "rationale": "Le « Mais » introduit une réserve importante : la mesure peut devenir « une mesure d'exclusion ».",
+       "label": "B"
+      },
+      {
+       "text": "Il en reconnaît l'efficacité environnementale mais en critique les effets sociaux.",
+       "correct": true,
+       "rationale": "Il qualifie les relevés d'« encourageants », puis ajoute que « réduire la question à ces chiffres serait une erreur » à cause de l'exclusion des ménages modestes.",
+       "label": "C"
+      },
+      {
+       "text": "Il estime qu'elles devraient être réservées aux villes moyennes.",
+       "correct": false,
+       "rationale": "Il ne compare jamais les grandes et les moyennes villes.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le point de vue est nuancé : une concession (les résultats sur l'air sont bons) suivie d'une objection introduite par « Mais ». Au niveau B2, il faut repérer cette structure concession-opposition et ne pas s'arrêter à la première phrase."
+    },
+    {
+     "prompt": "Que laisse entendre l'urbaniste à propos des aides à l'achat ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Elles sont trop généreuses et coûtent cher à l'État.",
+       "correct": false,
+       "rationale": "Il juge au contraire qu'elles sont insuffisantes.",
+       "label": "A"
+      },
+      {
+       "text": "Elles profitent surtout à ceux qui pourraient déjà presque payer un véhicule neuf.",
+       "correct": true,
+       "rationale": "Si l'aide ne couvre qu'un tiers du prix, le reste « demeure inaccessible » aux familles modestes : seules les familles plus aisées peuvent en bénéficier.",
+       "label": "B"
+      },
+      {
+       "text": "Elles sont réservées aux habitants du centre-ville.",
+       "correct": false,
+       "rationale": "Rien n'indique une condition de domicile.",
+       "label": "C"
+      },
+      {
+       "text": "Elles devraient être supprimées au profit des transports.",
+       "correct": false,
+       "rationale": "Il ne propose pas de les supprimer, il dit qu'elles ne suffisent pas.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'idée n'est pas dite explicitement : on la déduit du raisonnement « l'aide couvre un tiers » + « le reste est inaccessible aux ménages modestes ». C'est typique d'une question d'implicite : la bonne réponse est une conséquence logique du propos."
+    },
+    {
+     "prompt": "Selon l'urbaniste, qu'est-ce qui distingue les villes qui réussissent ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Elles ont développé les alternatives à la voiture avant d'interdire l'accès au centre.",
+       "correct": true,
+       "rationale": "« Celles qui ont d'abord renforcé les parkings relais et les lignes de bus, avant de fermer leur centre. »",
+       "label": "A"
+      },
+      {
+       "text": "Elles ont accordé des aides plus élevées que les autres.",
+       "correct": false,
+       "rationale": "Le montant des aides n'est pas le critère cité.",
+       "label": "B"
+      },
+      {
+       "text": "Elles ont fermé leur centre plus rapidement.",
+       "correct": false,
+       "rationale": "C'est l'ordre inverse qui est valorisé : d'abord les alternatives, ensuite la fermeture.",
+       "label": "C"
+      },
+      {
+       "text": "Elles ont exempté les familles modestes de l'interdiction.",
+       "correct": false,
+       "rationale": "Aucune exemption n'est évoquée.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les marqueurs chronologiques « d'abord… avant de… » structurent l'argument final. Attention au distracteur qui inverse l'ordre des étapes : c'est un piège fréquent."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Les zones à faibles émissions en question",
+   "context": "Une journaliste interroge un urbaniste sur la limitation de la circulation des véhicules anciens en ville.",
+   "document": "F: Depuis janvier, les voitures les plus anciennes ne peuvent plus entrer dans le centre de plusieurs grandes villes. Vous qui conseillez des municipalités, diriez-vous que la mesure est un succès ? / H: Sur le plan de la qualité de l'air, les premiers relevés sont encourageants : les concentrations de dioxyde d'azote ont nettement baissé près des grands axes. Mais réduire la question à ces chiffres serait une erreur. / F: Pourquoi ? / H: Parce que ceux qui roulent dans les véhicules les plus anciens ne le font généralement pas par choix. Ce sont souvent des ménages modestes qui vivent en périphérie, là où les transports en commun sont rares. Si on leur interdit la ville sans leur proposer d'alternative, on transforme une politique de santé publique en mesure d'exclusion. / F: Les aides à l'achat d'un véhicule propre ne suffisent pas ? / H: Elles couvrent rarement plus du tiers du prix. Pour une famille qui boucle difficilement ses fins de mois, le reste demeure inaccessible. Les villes qui s'en sortent le mieux sont celles qui ont d'abord renforcé les parkings relais et les lignes de bus, avant de fermer leur centre.",
+   "vocabulary": [
+    {
+     "terme": "un axe",
+     "definition": "une grande voie de circulation",
+     "exemple": "Les embouteillages se concentrent sur les grands axes."
+    },
+    {
+     "terme": "la périphérie",
+     "definition": "les quartiers éloignés du centre d'une ville",
+     "exemple": "Les loyers sont moins chers en périphérie."
+    },
+    {
+     "terme": "un parking relais",
+     "definition": "un parking à l'entrée de la ville relié aux transports en commun",
+     "exemple": "Laissez votre voiture au parking relais et prenez le tramway."
+    },
+    {
+     "terme": "un ménage modeste",
+     "definition": "un foyer aux revenus faibles",
+     "exemple": "Les ménages modestes consacrent une part importante de leur budget au transport."
+    },
+    {
+     "terme": "un relevé",
+     "definition": "une mesure enregistrée",
+     "exemple": "Les relevés de pollution sont publiés chaque jour."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "boucler difficilement ses fins de mois",
+     "sens": "avoir du mal à payer ses dépenses jusqu'à la fin du mois",
+     "exemple": "Avec l'inflation, beaucoup de familles bouclent difficilement leurs fins de mois."
+    },
+    {
+     "expression": "s'en sortir",
+     "sens": "réussir malgré les difficultés",
+     "exemple": "Certaines villes s'en sortent mieux grâce à leurs transports."
+    },
+    {
+     "expression": "réduire la question à",
+     "sens": "ne considérer qu'un seul aspect d'un problème",
+     "exemple": "On ne peut pas réduire la question du chômage aux seuls chiffres."
+    }
+   ]
+  },
+  {
+   "code": "CO-ENV-02",
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "questions": [
+    {
+     "prompt": "Quelle est l'idée principale de la chronique ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Les villes devraient renoncer à planter des arbres trop fragiles.",
+       "correct": false,
+       "rationale": "Elle conseille de diversifier les essences, pas de renoncer.",
+       "label": "A"
+      },
+      {
+       "text": "Le béton est désormais interdit dans les nouveaux aménagements.",
+       "correct": false,
+       "rationale": "Aucune interdiction n'est mentionnée.",
+       "label": "B"
+      },
+      {
+       "text": "Les arbres sont la seule solution efficace contre les canicules.",
+       "correct": false,
+       "rationale": "Elle dit au contraire qu'ils « ne dispensent pas de mesures plus rapides ».",
+       "label": "C"
+      },
+      {
+       "text": "La végétalisation est une réponse utile à la chaleur urbaine, mais lente et exigeante.",
+       "correct": true,
+       "rationale": "La chroniqueuse présente les plantations comme « indispensables » tout en soulignant deux limites : le choix des essences et le délai de quinze à vingt ans.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Une question de synthèse demande de combiner l'idée générale et ses nuances. La conclusion « Autrement dit… » reformule souvent l'idée principale : ici, utile mais insuffisant à court terme."
+    },
+    {
+     "prompt": "Pourquoi la ville « ne se refroidit plus » la nuit ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Parce que les arbres dépérissent pendant la sécheresse.",
+       "correct": false,
+       "rationale": "Le dépérissement concerne le choix des essences, pas la chaleur nocturne.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que les climatiseurs fonctionnent en permanence.",
+       "correct": false,
+       "rationale": "Les climatiseurs ne sont pas cités comme cause.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que les matériaux urbains libèrent la nuit la chaleur accumulée le jour.",
+       "correct": true,
+       "rationale": "« Le bitume et les façades emmagasinent la chaleur le jour et la restituent la nuit. »",
+       "label": "C"
+      },
+      {
+       "text": "Parce que les parcs retiennent l'air chaud.",
+       "correct": false,
+       "rationale": "Les parcs sont au contraire plus frais (huit degrés d'écart).",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le connecteur « si bien que » introduit une conséquence : il faut remonter à la cause énoncée juste avant. « Emmagasiner » (stocker) et « restituer » (rendre) sont les mots clés."
+    },
+    {
+     "prompt": "Que suggère la chroniqueuse en évoquant les lieux climatisés ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Qu'il faut aussi protéger les personnes vulnérables dès maintenant.",
+       "correct": true,
+       "rationale": "Les plantations agiront dans quinze ou vingt ans ; les lieux climatisés sont une « mesure plus rapide » destinée aux personnes âgées.",
+       "label": "A"
+      },
+      {
+       "text": "Que les municipalités ont déjà abandonné les projets de jardins.",
+       "correct": false,
+       "rationale": "Elle décrit au contraire de nombreux projets en cours.",
+       "label": "B"
+      },
+      {
+       "text": "Que les personnes âgées refusent de se rendre dans les parcs.",
+       "correct": false,
+       "rationale": "Rien de tel n'est dit.",
+       "label": "C"
+      },
+      {
+       "text": "Que la climatisation devrait remplacer les plantations.",
+       "correct": false,
+       "rationale": "Les plantations restent « indispensables ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'implicite repose sur l'opposition entre le long terme (arbres) et l'urgence (canicules actuelles). La locution « ne pas dispenser de » signifie « ne pas éviter de devoir faire aussi »."
+    }
+   ],
+   "speakers": [
+    "F:fr-CA"
+   ],
+   "title": "Quand les villes plantent des arbres pour se rafraîchir",
+   "context": "Une chroniqueuse présente les « îlots de fraîcheur » aménagés par certaines municipalités.",
+   "document": "F: Lors de la dernière canicule, des thermomètres installés dans une même ville ont affiché jusqu'à huit degrés d'écart entre une place entièrement bétonnée et un parc ombragé situé à quelques rues de là. C'est ce qu'on appelle l'effet d'îlot de chaleur urbain : le bitume et les façades emmagasinent la chaleur le jour et la restituent la nuit, si bien que la ville ne se refroidit plus. Pour y remédier, de nombreuses municipalités transforment des cours d'école en jardins et plantent des arbres le long des rues. Encore faut-il choisir les bonnes essences : certaines espèces très répandues supportent mal la sécheresse et dépérissent en quelques étés. Les spécialistes recommandent donc de diversifier les plantations et de les arroser pendant leurs premières années. Autre limite rarement évoquée : un arbre planté aujourd'hui ne procurera une ombre réelle que dans quinze ou vingt ans. Autrement dit, ces aménagements sont indispensables, mais ils ne dispensent pas de mesures plus rapides, comme l'ouverture de lieux climatisés pour les personnes âgées.",
+   "vocabulary": [
+    {
+     "terme": "une canicule",
+     "definition": "une période de très forte chaleur",
+     "exemple": "La canicule a duré dix jours."
+    },
+    {
+     "terme": "emmagasiner",
+     "definition": "accumuler, stocker",
+     "exemple": "Les murs emmagasinent la chaleur."
+    },
+    {
+     "terme": "restituer",
+     "definition": "rendre ce qui a été pris ou stocké",
+     "exemple": "La pierre restitue la chaleur pendant la nuit."
+    },
+    {
+     "terme": "une essence",
+     "definition": "une espèce d'arbre",
+     "exemple": "Le chêne est une essence qui résiste bien à la sécheresse."
+    },
+    {
+     "terme": "dépérir",
+     "definition": "s'affaiblir progressivement jusqu'à mourir",
+     "exemple": "Faute d'eau, les jeunes arbres dépérissent."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "encore faut-il",
+     "sens": "mais il est nécessaire (condition)",
+     "exemple": "Planter des arbres est une bonne idée, encore faut-il les arroser."
+    },
+    {
+     "expression": "remédier à",
+     "sens": "trouver une solution à un problème",
+     "exemple": "La ville veut remédier au manque d'espaces verts."
+    },
+    {
+     "expression": "ne pas dispenser de",
+     "sens": "ne pas éviter l'obligation de",
+     "exemple": "Cette aide ne vous dispense pas de déclarer vos revenus."
+    }
+   ]
+  }
+ ]
+}

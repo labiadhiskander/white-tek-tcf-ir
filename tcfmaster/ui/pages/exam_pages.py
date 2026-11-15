@@ -52,7 +52,14 @@ class _RunnerPage(Page):
         self.stack.setCurrentWidget(w)
 
     def show_results(self, attempt_id: int) -> None:
-        self.results.show_attempt(attempt_id)
+        with self.ctx.db.session() as s:
+            res = s.get(Attempt, attempt_id).results or {}
+            if res.get("kind") == "collection":      # série d'exercices B2 (v1.1)
+                from tcfmaster.services import correction as C
+                from tcfmaster.ui import correction_view as CV
+                self.results.setHtml(CV.session_html(C.session_correction(s, attempt_id)))
+            else:
+                self.results.show_attempt(attempt_id)
         self.stack.setCurrentWidget(self.results_box)
         self.last_attempt_id = attempt_id
 
@@ -180,20 +187,22 @@ class MockExamsPage(_RunnerPage):
 
 
 class ComprehensionPage(_RunnerPage):
-    """Entraînement CO ou CE : série de questions filtrées par niveau."""
+    """Entraînement CO ou CE : collections thématiques B2 (v1.1) et questions d'examen."""
 
     def __init__(self, ctx, section: str):
         self.section = section
         sub = ("Conversations, messages, annonces, interviews, radio… Réécoute autorisée en "
                "entraînement." if section == "CO" else
                "Courriels, lettres, articles, annonces, textes argumentatifs…")
-        super().__init__(ctx, SECTION_LABELS[section], sub)
-        card = Card("Nouvelle série d'entraînement")
+        super().__init__(ctx, SECTION_LABELS[section] + " B2", sub)
+        from tcfmaster.ui.pages.library_page import CollectionLauncher
+        self.collections = CollectionLauncher(ctx, section, self.start_series)
+        self.select_lay.addWidget(self.collections)
+        card = Card("Questions isolées des examens (banque v1.0)")
         row = QHBoxLayout()
         self.level = QComboBox()
-        for lab, val in (("Tous niveaux", None), ("A2 – consolidation", "A2"),
-                         ("B1 – progression", "B1"), ("B2 – objectif", "B2"),
-                         ("C1 – perfectionnement", "C1")):
+        # v1.1 : préparation exclusivement B2, aucun parcours A1, A2 ou B1.
+        for lab, val in (("B2 – objectif", "B2"), ("C1 – au-delà du B2", "C1")):
             self.level.addItem(lab, val)
         self.count = QSpinBox()
         self.count.setRange(5, 25)
@@ -215,13 +224,25 @@ class ComprehensionPage(_RunnerPage):
         self.select_lay.addStretch(1)
         self.level.currentIndexChanged.connect(self.refresh)
 
+    def start_series(self, exercise_ids: list[int], mode: str):
+        from tcfmaster.services import collections as COL
+        from tcfmaster.ui.exercise_runner import ExerciseRunner
+        with self.ctx.db.session() as s:
+            aid = COL.start_series(s, exercise_ids, mode).id
+        r = ExerciseRunner(self.ctx, aid, exercise_ids, mode,
+                           audio=getattr(self.ctx, "audio", None))
+        self.run_widget(r)
+        return r
+
     def _pool(self, s) -> list[int]:
-        q = select(Question.id).where(Question.section == self.section)
+        q = select(Question.id).where(Question.section == self.section,
+                                      Question.exam_id.is_not(None))
         if self.level.currentData():
             q = q.where(Question.level == self.level.currentData())
         return list(s.execute(q).scalars())
 
     def refresh(self):
+        self.collections.refresh()
         with self.ctx.db.session() as s:
             self.available.setText(f"{len(self._pool(s))} questions disponibles.")
 

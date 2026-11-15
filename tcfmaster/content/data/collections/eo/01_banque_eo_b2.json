@@ -1,0 +1,84 @@
+{
+ "slug": "eo-situations-b2-vie-pratique",
+ "section": "EO",
+ "title": "Entretien, interaction et opinion – vie pratique",
+ "description": "Situations originales pour les trois tâches officielles : entretien dirigé (3 min), exercice en interaction (3 min 30), point de vue (3 min 30).",
+ "order": 1,
+ "level": "B2",
+ "items": [
+  {
+   "code": "EO-B2-001",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Parcours et projets professionnels",
+   "examiner_role": "Examinateur",
+   "theme": "vie professionnelle",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous pose des questions sur vous : votre parcours, votre métier ou vos études, vos projets en France. Répondez de façon développée, en donnant des exemples précis.",
+   "examiner_prompts": [
+    "Pouvez-vous vous présenter en quelques mots ?",
+    "Qu'est-ce qui vous a conduit à choisir votre métier ?",
+    "Qu'est-ce qui a le plus changé dans votre vie depuis votre arrivée en France ?",
+    "Où vous voyez-vous dans cinq ans ?"
+   ],
+   "useful_phrases": [
+    "Ce qui m'a d'abord attiré, c'est…",
+    "Avec le recul, je me rends compte que…",
+    "Si tout se passe comme prévu, je compte…"
+   ],
+   "model_answer": "Je m'appelle Leïla, je suis infirmière depuis huit ans. Ce qui m'a d'abord attirée dans ce métier, c'est le contact humain ; j'ai grandi auprès d'une grand-mère malade et j'admirais les soignants qui venaient la voir. Depuis mon arrivée à Lille, il y a trois ans, j'ai dû faire reconnaître mon diplôme, ce qui a pris presque un an. Avec le recul, cette période m'a obligée à perfectionner mon français médical. Si tout se passe comme prévu, je compte me spécialiser en soins palliatifs d'ici cinq ans.",
+   "model_commentary": "La réponse enchaîne passé, présent et futur avec des connecteurs variés. Les mises en relief (« Ce qui m'a d'abord attirée, c'est… »), la relative et l'hypothèse (« Si tout se passe comme prévu ») montrent un niveau B2, tout en restant naturelles à l'oral.",
+   "tips": "Ne répondez jamais en une phrase : donnez la réponse, une raison et un exemple. Préparez trois ou quatre anecdotes personnelles réutilisables."
+  },
+  {
+   "code": "EO-B2-002",
+   "task_number": 2,
+   "level": "B2",
+   "title": "Négocier un délai avec son propriétaire",
+   "examiner_role": "Propriétaire",
+   "theme": "logement",
+   "duration_s": 210,
+   "scenario": "Votre chauffe-eau est en panne depuis une semaine. Vous appelez votre propriétaire (l'examinateur) pour obtenir une réparation rapide. Il propose d'attendre la fin du mois. Exposez le problème, négociez et obtenez une solution acceptable.",
+   "examiner_prompts": [
+    "Je ne peux pas faire venir le plombier avant la fin du mois.",
+    "Vous êtes sûr que ce n'est pas vous qui l'avez abîmé ?",
+    "Ça va me coûter cher, cette réparation…",
+    "Et si je vous rembourse une partie du loyer ?"
+   ],
+   "useful_phrases": [
+    "Je comprends votre contrainte, mais…",
+    "Je me permets d'insister, car…",
+    "Que diriez-vous de… ?",
+    "À condition que…"
+   ],
+   "model_answer": "Bonjour Monsieur Bernard, je vous appelle parce que le chauffe-eau ne fonctionne plus depuis lundi : nous n'avons plus d'eau chaude du tout. Je comprends que trouver un plombier ne soit pas simple, mais je me permets d'insister, car j'ai deux jeunes enfants. L'appareil a quinze ans et il a toujours été entretenu, j'ai d'ailleurs gardé les factures. Que diriez-vous de faire venir le plombier que je connais ? Il peut passer jeudi. Je peux avancer les frais, à condition que vous les déduisiez du prochain loyer.",
+   "model_commentary": "Le candidat expose le problème, reconnaît la contrainte de l'interlocuteur avant d'insister, répond à l'accusation avec une preuve et propose un compromis conditionnel. C'est la démarche attendue en interaction B2 : argumenter, réagir et négocier avec politesse.",
+   "tips": "Reformulez l'objection de votre interlocuteur avant d'y répondre. Gardez une proposition de compromis en réserve pour la fin de l'échange."
+  },
+  {
+   "code": "EO-B2-003",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il limiter le tourisme dans les villes très visitées ?",
+   "examiner_role": "Examinateur",
+   "theme": "société",
+   "duration_s": 210,
+   "scenario": "Certaines villes limitent le nombre de touristes ou créent des taxes d'entrée. Selon vous, est-ce une bonne idée ? Donnez votre opinion, justifiez-la avec des arguments et des exemples, puis répondez aux objections de l'examinateur.",
+   "examiner_prompts": [
+    "Mais le tourisme fait vivre beaucoup de familles, non ?",
+    "Une taxe, ce n'est pas injuste pour les voyageurs modestes ?",
+    "Et dans votre pays d'origine, comment ça se passe ?",
+    "Quelle serait, selon vous, la meilleure solution ?"
+   ],
+   "useful_phrases": [
+    "Il me semble que…",
+    "Certes…, mais il n'en reste pas moins que…",
+    "Prenons l'exemple de…",
+    "En définitive…"
+   ],
+   "model_answer": "Il me semble qu'une régulation est devenue nécessaire dans certaines villes. Prenons l'exemple de Venise : les habitants partent parce que les loyers explosent et que les commerces de proximité sont remplacés par des boutiques de souvenirs. Certes, le tourisme fait vivre de nombreuses familles, mais il n'en reste pas moins qu'une ville sans habitants perd son âme, et finalement son attrait. Plutôt qu'une taxe uniforme, je préférerais des quotas aux heures de pointe et une meilleure promotion des quartiers moins connus. En définitive, il s'agit de mieux répartir les visiteurs, pas de les chasser.",
+   "model_commentary": "La réponse annonce une thèse, l'illustre par un exemple concret, intègre une concession (« Certes… mais il n'en reste pas moins que ») et propose une solution nuancée. La conclusion reformule la position : c'est la structure argumentative attendue au niveau B2.",
+   "tips": "Annoncez votre position dès la première phrase, illustrez-la par un exemple précis et préparez une concession pour répondre aux objections sans perdre le fil."
+  }
+ ]
+}

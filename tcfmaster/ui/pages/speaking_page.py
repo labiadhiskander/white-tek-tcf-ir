@@ -129,7 +129,7 @@ class SpeakingPage(Page):
         with self.ctx.db.session() as s:
             for w in SS.history(s):
                 t = w.task
-                code = t.exam.code if t and t.exam else "?"
+                code = (t.exam.code if t.exam else t.code or "?") if t else "?"
                 mark = " 🎙" if w.audio_path else ""
                 it = QListWidgetItem(f"{w.created_at:%d/%m %H:%M} · {code} T"
                                      f"{t.task_number if t else '?'} · {w.note20 or 0:.1f}/20"
@@ -173,6 +173,10 @@ class SpeakingPage(Page):
         self.stack.addWidget(runner)
         self.stack.setCurrentWidget(runner)
         return runner
+
+    def open_task(self, task_id: int) -> SpeakingRunner:
+        """Ouvre directement une situation (banque B2 ou examen), depuis la bibliothèque."""
+        return self._run(SpeakingRunner(self.ctx, None, [task_id], ES.MODE_TRAINING))
 
     def start_training(self) -> SpeakingRunner | None:
         with self.ctx.db.session() as s:

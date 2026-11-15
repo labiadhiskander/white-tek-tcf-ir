@@ -17,7 +17,8 @@ from sqlalchemy.orm import Session
 
 from tcfmaster.content import validator as V
 from tcfmaster.core.paths import resource_root
-from tcfmaster.db.models import (Choice, Exam, Expression, GrammarChapter, GrammarExercise,
+from tcfmaster.db.models import (ORIGIN_BUILTIN, STATUS_VALID, Choice, Collection, Exam,
+                                 Exercise, Expression, GrammarChapter, GrammarExercise,
                                  PlanDay, Question, SpeakingTask, Verb, VocabWord,
                                  WritingTask)
 
@@ -36,6 +37,10 @@ class SeedReport:
     grammar_chapters: int = 0
     verbs: int = 0
     plan_days: int = 0
+    collections: int = 0
+    exercises: int = 0
+    writing_subjects: int = 0
+    speaking_subjects: int = 0
     errors: list[str] = field(default_factory=list)
 
 
@@ -62,6 +67,7 @@ def import_exam(s: Session, data: dict, generated: bool = False) -> Exam:
     exam.description = data.get("description", "")
     exam.generated = generated
     exam.content_hash = h
+    exam.series = data.get("series", "v1.0")
 
     existing_q = {(q.section, q.position): q for q in exam.questions}
     for section in ("CO", "CE"):
@@ -108,6 +114,141 @@ def import_exam(s: Session, data: dict, generated: bool = False) -> Exam:
             if k in td:
                 setattr(t, k, td[k])
     return exam
+
+
+# ------------------------------------------------------ collections v1.1
+def content_fingerprint(root: Path | None = None) -> str:
+    """Empreinte courte du contenu installé (réimport si un fichier change)."""
+    root = root or content_dir()
+    h = hashlib.sha256()
+    for f in sorted(root.rglob("*.json")):
+        st = f.stat()
+        h.update(f"{f.relative_to(root)}:{st.st_size}".encode())
+    return h.hexdigest()[:12]
+
+
+def _fill_choices(q: Question, choices: list[dict]) -> None:
+    by_label = {c.label: c for c in q.choices}
+    for cd in choices:
+        c = by_label.get(cd["label"])
+        if c is None:
+            c = Choice(label=cd["label"])
+            q.choices.append(c)
+        c.text = cd["text"]
+        c.is_correct = bool(cd.get("correct"))
+        c.rationale = cd.get("rationale", "")
+
+
+def import_exercise(s: Session, col: Collection | None, section: str, d: dict,
+                    position: int = 0) -> Exercise | None:
+    """Importe un exercice CO/CE ; un exercice modifié dans l'administration est conservé."""
+    h = _hash(d)
+    ex = s.execute(select(Exercise).where(Exercise.code == d["code"])).scalar_one_or_none()
+    if ex is not None and (ex.locally_modified or ex.content_hash == h):
+        return ex
+    if ex is None:
+        ex = Exercise(code=d["code"], section=section)
+        s.add(ex)
+    ex.section = section
+    ex.collection = col
+    ex.position = position
+    ex.title = d["title"]
+    ex.level = d.get("level", "B2")
+    ex.doc_type = d["doc_type"]
+    ex.context = d.get("context", "")
+    ex.document = d["document"]
+    ex.speakers = d.get("speakers")
+    ex.audio_file = d.get("audio_file")
+    ex.source_note = d.get("source_note", "Document original rédigé pour l'entraînement.")
+    ex.vocabulary = d.get("vocabulary", [])
+    ex.expressions = d.get("expressions", [])
+    ex.traps = d.get("traps", [])
+    ex.skills = sorted({q.get("skill", "") for q in d["questions"] if q.get("skill")})
+    ex.status = d.get("status", STATUS_VALID)
+    ex.origin = ORIGIN_BUILTIN
+    ex.content_hash = h
+    existing = {q.position: q for q in ex.questions}
+    for i, qd in enumerate(d["questions"], 1):
+        q = existing.pop(i, None)
+        if q is None:
+            q = Question(section=section, position=i)
+            ex.questions.append(q)
+        q.section = section
+        q.level = ex.level
+        q.doc_type = ex.doc_type
+        q.skill = qd.get("skill", "")
+        q.document = ex.document
+        q.speakers = ex.speakers
+        q.audio_file = ex.audio_file
+        q.prompt = qd["prompt"]
+        q.explanation = qd["explanation"]
+        _fill_choices(q, qd["choices"])
+    for q in existing.values():      # question retirée de l'exercice
+        ex.questions.remove(q)
+    return ex
+
+
+_SUBJECT_FIELDS = {
+    "EE": ("level", "task_type", "instructions", "min_words", "max_words", "model_answer",
+           "tips", "expected_points", "theme", "model_commentary"),
+    "EO": ("level", "title", "scenario", "examiner_role", "duration_s", "examiner_prompts",
+           "useful_phrases", "model_answer", "tips", "theme", "model_commentary"),
+}
+
+
+def import_subject(s: Session, col: Collection | None, section: str, d: dict):
+    model = WritingTask if section == "EE" else SpeakingTask
+    t = s.execute(select(model).where(model.code == d["code"], model.exam_id.is_(None))
+                  ).scalar_one_or_none()
+    if t is not None and t.locally_modified:
+        return t
+    if t is None:
+        t = model(code=d["code"], task_number=d["task_number"])
+        s.add(t)
+    t.task_number = d["task_number"]
+    t.collection = col
+    t.status = d.get("status", STATUS_VALID)
+    t.origin = ORIGIN_BUILTIN
+    t.locally_modified = False
+    for k in _SUBJECT_FIELDS[section]:
+        if k in d:
+            setattr(t, k, d[k])
+    return t
+
+
+def import_collection(s: Session, data: dict, rep: SeedReport | None = None) -> Collection:
+    col = s.execute(select(Collection).where(Collection.slug == data["slug"])
+                    ).scalar_one_or_none()
+    if col is None:
+        col = Collection(slug=data["slug"])
+        s.add(col)
+    col.section = data["section"]
+    col.title = data["title"]
+    col.description = data.get("description", "")
+    col.order = data.get("order", 0)
+    col.level = data.get("level", "B2")
+    for i, it in enumerate(data.get("items", []), 1):
+        if col.section in ("CO", "CE"):
+            import_exercise(s, col, col.section, it, i)
+            if rep:
+                rep.exercises += 1
+        else:
+            import_subject(s, col, col.section, it)
+            if rep:
+                if col.section == "EE":
+                    rep.writing_subjects += 1
+                else:
+                    rep.speaking_subjects += 1
+    return col
+
+
+def collection_documents(data: dict) -> list[tuple[str, str]]:
+    """Textes à contrôler pour les doublons (documents CO/CE, énoncés EE/EO)."""
+    out = []
+    for it in data.get("items", []):
+        text = it.get("document") or it.get("instructions") or it.get("scenario") or ""
+        out.append((it.get("code", "?"), text))
+    return out
 
 
 # ------------------------------------------------------------ expressions
@@ -224,6 +365,19 @@ def seed_all(s: Session, root: Path | None = None, strict: bool = True) -> SeedR
             rep.errors += V.validate_grammar_exercise(ex, f"{f.name}#{i}")
         import_grammar(s, ch)
         rep.grammar_chapters += 1
+
+    docs: list[tuple[str, str]] = []
+    for f in sorted((root / "collections").glob("*/*.json")):
+        data = _load_json(f)
+        errs = V.validate_collection(data)
+        if errs:
+            rep.errors += errs
+            if strict:
+                continue
+        docs += collection_documents(data)
+        import_collection(s, data, rep)
+        rep.collections += 1
+    rep.errors += V.find_duplicates(docs)
 
     if (root / "verbs.json").exists():
         rep.verbs = import_verbs(s, _load_json(root / "verbs.json"))
