@@ -28,15 +28,15 @@
        "label": "B"
       },
       {
-       "text": "La durée du film.",
-       "correct": false,
-       "rationale": "La durée n'est pas évoquée, seulement des « longueurs ».",
-       "label": "C"
-      },
-      {
        "text": "La performance de la jeune actrice.",
        "correct": true,
        "rationale": "Il la trouve « bouleversante » et elle répond « Je suis d'accord sur l'actrice ».",
+       "label": "C"
+      },
+      {
+       "text": "La durée du film.",
+       "correct": false,
+       "rationale": "La durée n'est pas évoquée, seulement des « longueurs ».",
        "label": "D"
       }
      ],
@@ -90,15 +90,15 @@
        "label": "B"
       },
       {
-       "text": "Sur l'indulgence qu'il faut accorder à un premier film.",
-       "correct": true,
-       "rationale": "Il préfère « saluer l'audace » ; elle trouve qu'« on est parfois trop indulgents avec les premiers films ».",
-       "label": "C"
-      },
-      {
        "text": "Sur le talent de l'actrice.",
        "correct": false,
        "rationale": "Ils sont d'accord.",
+       "label": "C"
+      },
+      {
+       "text": "Sur l'indulgence qu'il faut accorder à un premier film.",
+       "correct": true,
+       "rationale": "Il préfère « saluer l'audace » ; elle trouve qu'« on est parfois trop indulgents avec les premiers films ».",
        "label": "D"
       }
      ],
@@ -204,21 +204,21 @@
        "label": "A"
       },
       {
-       "text": "Sa capacité à faire découvrir des livres inattendus.",
-       "correct": true,
-       "rationale": "« Moi, je peux vous faire découvrir quelque chose auquel vous n'auriez jamais pensé. »",
-       "label": "B"
-      },
-      {
        "text": "Une livraison plus rapide.",
        "correct": false,
        "rationale": "La livraison n'est pas évoquée.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Un choix de livres plus large.",
        "correct": false,
        "rationale": "Le choix n'est pas comparé.",
+       "label": "C"
+      },
+      {
+       "text": "Sa capacité à faire découvrir des livres inattendus.",
+       "correct": true,
+       "rationale": "« Moi, je peux vous faire découvrir quelque chose auquel vous n'auriez jamais pensé. »",
        "label": "D"
       }
      ],
@@ -241,15 +241,15 @@
        "label": "B"
       },
       {
-       "text": "Pour vendre des billets d'entrée.",
-       "correct": false,
-       "rationale": "Ce n'est pas dit.",
-       "label": "C"
-      },
-      {
        "text": "Pour faire de la librairie un lieu de rencontre que les sites ne peuvent pas remplacer.",
        "correct": true,
        "rationale": "« Les gens ne viennent pas seulement acheter un livre, ils viennent partager quelque chose. C'est ce qu'aucun site ne pourra leur offrir. »",
+       "label": "C"
+      },
+      {
+       "text": "Pour vendre des billets d'entrée.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
        "label": "D"
       }
      ],
@@ -344,27 +344,27 @@
      "skill": "implicite",
      "choices": [
       {
+       "text": "Ils se disent méfiants mais diffusent des informations sans les vérifier.",
+       "correct": true,
+       "rationale": "« Beaucoup affirment se méfier des médias tout en partageant sans vérification des contenus dont ils ignorent l'origine. »",
+       "label": "A"
+      },
+      {
        "text": "Ils lisent beaucoup de journaux mais n'en achètent aucun.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Ils font confiance aux grands groupes industriels.",
        "correct": false,
        "rationale": "Ce n'est pas son propos.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Ils refusent d'utiliser les réseaux sociaux.",
        "correct": false,
        "rationale": "Ils y partagent des contenus.",
-       "label": "C"
-      },
-      {
-       "text": "Ils se disent méfiants mais diffusent des informations sans les vérifier.",
-       "correct": true,
-       "rationale": "« Beaucoup affirment se méfier des médias tout en partageant sans vérification des contenus dont ils ignorent l'origine. »",
        "label": "D"
       }
      ],
@@ -381,21 +381,21 @@
        "label": "A"
       },
       {
+       "text": "L'éducation aux médias est indispensable dès l'école.",
+       "correct": true,
+       "rationale": "« L'éducation aux médias, dès l'école, apparaît donc moins comme un luxe que comme une nécessité. »",
+       "label": "B"
+      },
+      {
        "text": "Les médias doivent devenir gratuits.",
        "correct": false,
        "rationale": "Ce n'est pas évoqué.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Les lecteurs ont raison de se méfier de tout.",
        "correct": false,
        "rationale": "Il critique une méfiance non critique.",
-       "label": "C"
-      },
-      {
-       "text": "L'éducation aux médias est indispensable dès l'école.",
-       "correct": true,
-       "rationale": "« L'éducation aux médias, dès l'école, apparaît donc moins comme un luxe que comme une nécessité. »",
        "label": "D"
       }
      ],
@@ -488,27 +488,27 @@
      "skill": "point de vue",
      "choices": [
       {
+       "text": "La découverte de la musique par les enfants du village.",
+       "correct": true,
+       "rationale": "« L'essentiel est ailleurs. Des enfants d'ici… ont découvert la musique classique. »",
+       "label": "A"
+      },
+      {
        "text": "La location de chambres.",
        "correct": false,
        "rationale": "C'est un exemple économique, pas l'essentiel.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "La venue de musiciens célèbres.",
        "correct": false,
        "rationale": "Ce n'est pas ce qu'il met en avant.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Les bénéfices des restaurants.",
        "correct": false,
        "rationale": "Il dit que « l'essentiel est ailleurs ».",
-       "label": "C"
-      },
-      {
-       "text": "La découverte de la musique par les enfants du village.",
-       "correct": true,
-       "rationale": "« L'essentiel est ailleurs. Des enfants d'ici… ont découvert la musique classique. »",
        "label": "D"
       }
      ],
@@ -603,15 +603,15 @@
      "skill": "argumentation",
      "choices": [
       {
-       "text": "Les recettes des entrées sont indispensables au fonctionnement du musée.",
-       "correct": true,
-       "rationale": "« Les entrées financent une part importante de nos expositions et de l'entretien des collections. »",
-       "label": "A"
-      },
-      {
        "text": "Les visiteurs abîmeraient les œuvres.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Les recettes des entrées sont indispensables au fonctionnement du musée.",
+       "correct": true,
+       "rationale": "« Les entrées financent une part importante de nos expositions et de l'entretien des collections. »",
        "label": "B"
       },
       {
@@ -640,21 +640,21 @@
        "label": "A"
       },
       {
-       "text": "Le prix n'est pas le seul frein à la fréquentation des musées.",
-       "correct": true,
-       "rationale": "« Là, je vous rejoins en partie. Le prix n'est pas le seul obstacle. »",
-       "label": "B"
-      },
-      {
        "text": "Les impôts sont trop élevés.",
        "correct": false,
        "rationale": "Ce n'est pas évoqué.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Les musées doivent rester payants.",
        "correct": false,
        "rationale": "Elle défend la gratuité.",
+       "label": "C"
+      },
+      {
+       "text": "Le prix n'est pas le seul frein à la fréquentation des musées.",
+       "correct": true,
+       "rationale": "« Là, je vous rejoins en partie. Le prix n'est pas le seul obstacle. »",
        "label": "D"
       }
      ],
@@ -749,27 +749,27 @@
      "skill": "information détaillée",
      "choices": [
       {
+       "text": "Que les lecteurs européens aient du mal à comprendre la langue utilisée.",
+       "correct": true,
+       "rationale": "« Il craignait que les lecteurs européens ne comprennent pas. »",
+       "label": "A"
+      },
+      {
        "text": "Que l'auteur abandonne la bande dessinée.",
        "correct": false,
        "rationale": "Ce n'est pas évoqué.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Que les albums coûtent trop cher à traduire.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Que les personnages soient trop nombreux.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
-       "label": "C"
-      },
-      {
-       "text": "Que les lecteurs européens aient du mal à comprendre la langue utilisée.",
-       "correct": true,
-       "rationale": "« Il craignait que les lecteurs européens ne comprennent pas. »",
        "label": "D"
       }
      ],
@@ -786,15 +786,15 @@
        "label": "A"
       },
       {
-       "text": "Comme un atout qui donne aux lecteurs un sentiment de dépaysement.",
-       "correct": true,
-       "rationale": "« C'est devenu une force : les lecteurs français me disent qu'ils ont l'impression de voyager. »",
-       "label": "B"
-      },
-      {
        "text": "Comme une erreur à corriger.",
        "correct": false,
        "rationale": "Il a refusé de la lisser.",
+       "label": "B"
+      },
+      {
+       "text": "Comme un atout qui donne aux lecteurs un sentiment de dépaysement.",
+       "correct": true,
+       "rationale": "« C'est devenu une force : les lecteurs français me disent qu'ils ont l'impression de voyager. »",
        "label": "C"
       },
       {
@@ -817,15 +817,15 @@
        "label": "A"
       },
       {
-       "text": "Il l'accepte avec fierté.",
-       "correct": false,
-       "rationale": "Il dit ne pas aimer ce rôle.",
-       "label": "B"
-      },
-      {
        "text": "Il le refuse en partie, tout en reconnaissant un enjeu de diversité linguistique.",
        "correct": true,
        "rationale": "« Je n'aime pas trop ce rôle de porte-drapeau… Mais c'est vrai que… toutes les langues finiront par se ressembler. »",
+       "label": "B"
+      },
+      {
+       "text": "Il l'accepte avec fierté.",
+       "correct": false,
+       "rationale": "Il dit ne pas aimer ce rôle.",
        "label": "C"
       },
       {
@@ -895,21 +895,21 @@
      "skill": "implicite",
      "choices": [
       {
+       "text": "Il a permis de transmettre des savoir-faire menacés.",
+       "correct": true,
+       "rationale": "« Une partie de ces savoir-faire avait presque disparu, et il a fallu former de jeunes apprentis. »",
+       "label": "A"
+      },
+      {
        "text": "Il a supprimé des emplois d'artisans.",
        "correct": false,
        "rationale": "Il en a mobilisé plus de deux cents.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Il a remplacé les artisans par des machines.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "B"
-      },
-      {
-       "text": "Il a permis de transmettre des savoir-faire menacés.",
-       "correct": true,
-       "rationale": "« Une partie de ces savoir-faire avait presque disparu, et il a fallu former de jeunes apprentis. »",
        "label": "C"
       },
       {
@@ -926,27 +926,27 @@
      "skill": "information détaillée",
      "choices": [
       {
-       "text": "En partie grâce à la générosité de particuliers et d'entreprises.",
-       "correct": true,
-       "rationale": "« Couvert pour moitié par des dons de particuliers et d'entreprises. »",
-       "label": "A"
-      },
-      {
        "text": "Par la vente de billets d'entrée.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Par un emprunt de la ville.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Entièrement par l'État.",
        "correct": false,
        "rationale": "La moitié vient des dons.",
+       "label": "C"
+      },
+      {
+       "text": "En partie grâce à la générosité de particuliers et d'entreprises.",
+       "correct": true,
+       "rationale": "« Couvert pour moitié par des dons de particuliers et d'entreprises. »",
        "label": "D"
       }
      ],
@@ -957,15 +957,15 @@
      "skill": "argumentation",
      "choices": [
       {
-       "text": "Celui du coût trop élevé des travaux.",
-       "correct": false,
-       "rationale": "Le coût est donné sans polémique.",
-       "label": "A"
-      },
-      {
        "text": "Celui du choix entre une reconstruction fidèle et une création moderne.",
        "correct": true,
        "rationale": "« Le choix de reconstruire la flèche à l'identique, plutôt que de proposer une architecture contemporaine, avait suscité un vif débat. »",
+       "label": "A"
+      },
+      {
+       "text": "Celui du coût trop élevé des travaux.",
+       "correct": false,
+       "rationale": "Le coût est donné sans polémique.",
        "label": "B"
       },
       {
@@ -1106,15 +1106,15 @@
      "skill": "point de vue",
      "choices": [
       {
-       "text": "Beaucoup de vinyles seraient achetés comme objets plutôt que pour être écoutés.",
-       "correct": true,
-       "rationale": "« Beaucoup de vinyles achetés ne seraient jamais écoutés, mais simplement collectionnés. »",
-       "label": "A"
-      },
-      {
        "text": "Les jeunes n'achètent pas de vinyles.",
        "correct": false,
        "rationale": "Ils sont majoritaires.",
+       "label": "A"
+      },
+      {
+       "text": "Beaucoup de vinyles seraient achetés comme objets plutôt que pour être écoutés.",
+       "correct": true,
+       "rationale": "« Beaucoup de vinyles achetés ne seraient jamais écoutés, mais simplement collectionnés. »",
        "label": "B"
       },
       {

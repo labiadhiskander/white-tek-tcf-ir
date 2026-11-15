@@ -1,0 +1,1174 @@
+{
+ "slug": "co-temoignages-interviews",
+ "section": "CO",
+ "title": "Témoignages et interviews",
+ "description": "Récits de vie et entretiens : comprendre un parcours, des sentiments, des regrets et des leçons tirées de l'expérience.",
+ "order": 11,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CO-TEM-01",
+   "level": "B2",
+   "doc_type": "témoignage radio",
+   "questions": [
+    {
+     "prompt": "Comment l'entourage de cette femme a-t-il réagi à son projet ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Il était au courant depuis vingt ans.",
+       "correct": false,
+       "rationale": "C'est elle qui y pensait depuis vingt ans, pas ses proches.",
+       "label": "A"
+      },
+      {
+       "text": "Il a pensé que sa décision était impulsive.",
+       "correct": true,
+       "rationale": "« Beaucoup ont cru que je traversais une crise. »",
+       "label": "B"
+      },
+      {
+       "text": "Il a décidé de partir avec elle.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Il l'a encouragée sans réserve.",
+       "correct": false,
+       "rationale": "Rien n'indique un soutien enthousiaste, au contraire.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Traverser une crise » suggère une décision soudaine et irréfléchie ; elle corrige aussitôt cette idée avec « En réalité »."
+    },
+    {
+     "prompt": "Quelle difficulté professionnelle a-t-elle rencontrée ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Elle a dû faire reconnaître son diplôme en repassant des examens.",
+       "correct": true,
+       "rationale": "« Mon diplôme d'infirmière n'était pas reconnu tel quel, j'ai dû repasser des examens. »",
+       "label": "A"
+      },
+      {
+       "text": "Elle n'a trouvé aucun emploi pendant un an.",
+       "correct": false,
+       "rationale": "Elle a travaillé comme aide-soignante.",
+       "label": "B"
+      },
+      {
+       "text": "Elle ne parlait pas la langue.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Elle a dû changer complètement de métier.",
+       "correct": false,
+       "rationale": "Elle exerce de nouveau son métier d'infirmière.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Tel quel » signifie « sans modification » : le diplôme devait être complété par des examens."
+    },
+    {
+     "prompt": "Quel bilan fait-elle de son expérience ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Mitigé, car elle regrette sa vie à Lyon.",
+       "correct": false,
+       "rationale": "Elle n'exprime aucun regret.",
+       "label": "A"
+      },
+      {
+       "text": "Neutre, elle ne se prononce pas.",
+       "correct": false,
+       "rationale": "Elle conclut clairement de façon positive.",
+       "label": "B"
+      },
+      {
+       "text": "Négatif, à cause des débuts difficiles.",
+       "correct": false,
+       "rationale": "Les difficultés sont du passé.",
+       "label": "C"
+      },
+      {
+       "text": "Positif, car elle a le sentiment de vivre enfin pleinement.",
+       "correct": true,
+       "rationale": "« Je n'ai plus ce sentiment d'avoir laissé passer ma vie. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le « surtout » final met en avant le bénéfice principal : un sentiment d'accomplissement personnel."
+    }
+   ],
+   "speakers": [
+    "F:fr-CA"
+   ],
+   "title": "Changer de pays à cinquante ans",
+   "context": "Une auditrice raconte son installation au Québec.",
+   "document": "F: Quand j'ai annoncé à mes proches que je quittais Lyon pour Montréal à cinquante ans, beaucoup ont cru que je traversais une crise. En réalité, j'y pensais depuis vingt ans, mais il y avait toujours une bonne raison de reporter : les enfants, la maison, mon poste. Le jour où mon dernier fils est parti étudier, je me suis dit que si je ne le faisais pas maintenant, je ne le ferais jamais. La première année a été rude, je ne vais pas le cacher. Mon diplôme d'infirmière n'était pas reconnu tel quel, j'ai dû repasser des examens et travailler six mois comme aide-soignante. J'ai parfois douté. Mais aujourd'hui, j'exerce de nouveau mon métier, j'ai un cercle d'amis, et surtout, je n'ai plus ce sentiment d'avoir laissé passer ma vie.",
+   "vocabulary": [
+    {
+     "terme": "reporter",
+     "definition": "remettre à plus tard",
+     "exemple": "Ils ont reporté la réunion."
+    },
+    {
+     "terme": "rude",
+     "definition": "dur, difficile",
+     "exemple": "L'hiver a été rude."
+    },
+    {
+     "terme": "tel quel",
+     "definition": "sans changement",
+     "exemple": "Le contrat a été signé tel quel."
+    },
+    {
+     "terme": "un cercle d'amis",
+     "definition": "un groupe d'amis proches",
+     "exemple": "Elle s'est fait un petit cercle d'amis."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "traverser une crise",
+     "sens": "vivre une période de difficulté ou de remise en question",
+     "exemple": "Il traverse une crise professionnelle."
+    },
+    {
+     "expression": "je ne vais pas le cacher",
+     "sens": "j'avoue franchement",
+     "exemple": "Je ne vais pas le cacher, j'étais déçu."
+    },
+    {
+     "expression": "laisser passer sa vie",
+     "sens": "ne pas réaliser ses désirs",
+     "exemple": "Elle refuse de laisser passer sa vie."
+    }
+   ]
+  },
+  {
+   "code": "CO-TEM-02",
+   "level": "B2",
+   "doc_type": "interview radio",
+   "questions": [
+    {
+     "prompt": "Pourquoi le chef a-t-il mal vécu la fermeture de son restaurant ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Il avait perdu tous ses clients.",
+       "correct": false,
+       "rationale": "Les clients « adoraient ».",
+       "label": "A"
+      },
+      {
+       "text": "Il avait dû licencier beaucoup d'employés.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Il se sentait coupable envers ceux qui lui avaient prêté de l'argent.",
+       "correct": true,
+       "rationale": "« J'avais l'impression d'avoir trahi la confiance de tout le monde. »",
+       "label": "C"
+      },
+      {
+       "text": "Il avait reçu de mauvaises critiques.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Il a emprunté à sa famille : l'échec financier devient un poids moral."
+    },
+    {
+     "prompt": "Selon lui, quelle était la cause principale de l'échec ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Le manque de clients.",
+       "correct": false,
+       "rationale": "Les clients étaient satisfaits.",
+       "label": "A"
+      },
+      {
+       "text": "Un mauvais emplacement.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "La qualité médiocre de sa cuisine.",
+       "correct": false,
+       "rationale": "Il se dit « bon cuisinier ».",
+       "label": "C"
+      },
+      {
+       "text": "Une mauvaise maîtrise des coûts.",
+       "correct": true,
+       "rationale": "« Je perdais de l'argent sur presque chaque assiette » ; « sans calculer le coût des produits ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'opposition « bon cuisinier » / « mauvais gestionnaire » résume son analyse."
+    },
+    {
+     "prompt": "Que veut-il dire par « je ne le souhaite à personne » ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "L'expérience a été instructive mais trop douloureuse pour être recommandée.",
+       "correct": true,
+       "rationale": "Il oppose « la meilleure école » à la souffrance de l'échec avec « même si ».",
+       "label": "A"
+      },
+      {
+       "text": "Il regrette d'avoir appris la gestion.",
+       "correct": false,
+       "rationale": "C'est ce qui l'a sauvé.",
+       "label": "B"
+      },
+      {
+       "text": "Il ne veut plus ouvrir de restaurant.",
+       "correct": false,
+       "rationale": "Il en a trois.",
+       "label": "C"
+      },
+      {
+       "text": "Il refuse de conseiller d'autres cuisiniers.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La concession « même si » nuance l'éloge de l'échec : utile, mais coûteux humainement."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "Un chef cuisinier revient sur son échec",
+   "context": "Une journaliste interroge un chef qui a fermé son premier restaurant.",
+   "document": "F: Votre premier restaurant a fermé au bout de dix-huit mois. Comment l'avez-vous vécu ? / H: Très mal, sur le moment. J'avais investi toutes mes économies et emprunté à ma famille. J'avais l'impression d'avoir trahi la confiance de tout le monde. / F: Avec le recul, qu'est-ce qui n'a pas marché ? / H: J'étais un bon cuisinier, mais un très mauvais gestionnaire. Je changeais la carte chaque semaine par passion, sans calculer le coût des produits. Les clients adoraient, mais je perdais de l'argent sur presque chaque assiette. / F: Et aujourd'hui, vous avez trois établissements. / H: Oui, parce que j'ai accepté de me former à la gestion et de m'associer avec quelqu'un dont c'est le métier. Cet échec a été la meilleure école que je pouvais imaginer, même si je ne le souhaite à personne.",
+   "vocabulary": [
+    {
+     "terme": "un gestionnaire",
+     "definition": "une personne qui gère les finances et l'organisation",
+     "exemple": "C'est une excellente gestionnaire."
+    },
+    {
+     "terme": "la carte",
+     "definition": "la liste des plats d'un restaurant",
+     "exemple": "La carte change selon les saisons."
+    },
+    {
+     "terme": "un établissement",
+     "definition": "un commerce, un restaurant, un hôtel",
+     "exemple": "Il dirige trois établissements."
+    },
+    {
+     "terme": "s'associer",
+     "definition": "s'unir avec quelqu'un dans une affaire",
+     "exemple": "Elle s'est associée avec son frère."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "sur le moment",
+     "sens": "au moment où cela se passe",
+     "exemple": "Sur le moment, je n'ai rien dit."
+    },
+    {
+     "expression": "avec le recul",
+     "sens": "en y repensant après un certain temps",
+     "exemple": "Avec le recul, c'était une bonne décision."
+    },
+    {
+     "expression": "trahir la confiance",
+     "sens": "décevoir quelqu'un qui comptait sur nous",
+     "exemple": "Il a trahi la confiance de ses électeurs."
+    }
+   ]
+  },
+  {
+   "code": "CO-TEM-03",
+   "level": "B2",
+   "doc_type": "témoignage",
+   "questions": [
+    {
+     "prompt": "Comment cet homme est-il devenu aidant ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Parce qu'il avait quitté son travail.",
+       "correct": false,
+       "rationale": "Il travaillait en même temps.",
+       "label": "A"
+      },
+      {
+       "text": "Après une décision du médecin de sa mère.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Progressivement, sans en prendre conscience immédiatement.",
+       "correct": true,
+       "rationale": "« Petit à petit… Je ne m'en suis pas rendu compte tout de suite. »",
+       "label": "C"
+      },
+      {
+       "text": "À la demande de sa famille.",
+       "correct": false,
+       "rationale": "Il a « tout porté seul ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Petit à petit » et « je me suis retrouvé à » soulignent un glissement involontaire."
+    },
+    {
+     "prompt": "Qu'est-ce qui l'a poussé à accepter de l'aide ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "La perte de son emploi.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "L'avertissement de son médecin sur sa propre santé.",
+       "correct": true,
+       "rationale": "« Si je continuais ainsi, ce serait bientôt moi qu'il faudrait soigner. »",
+       "label": "B"
+      },
+      {
+       "text": "Une proposition de sa mère.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "L'aggravation brutale de la maladie de sa mère.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "C'est un tiers, le médecin, qui le fait réagir."
+    },
+    {
+     "prompt": "Que signifie la dernière phrase ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Il a cessé de s'occuper de sa mère.",
+       "correct": false,
+       "rationale": "Elle va à l'accueil de jour deux fois par semaine seulement.",
+       "label": "A"
+      },
+      {
+       "text": "L'aide extérieure lui a permis de retrouver une vraie relation affective avec sa mère.",
+       "correct": true,
+       "rationale": "« Je suis redevenu son fils, et pas seulement son infirmier. »",
+       "label": "B"
+      },
+      {
+       "text": "Il est devenu infirmier professionnel.",
+       "correct": false,
+       "rationale": "C'est une image.",
+       "label": "C"
+      },
+      {
+       "text": "Sa mère ne le reconnaît plus.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'opposition « fils » / « infirmier » oppose la relation affective aux tâches de soin qui l'avaient remplacée."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "title": "Aidant familial",
+   "context": "Un homme témoigne de son quotidien auprès de sa mère malade.",
+   "document": "H: Ma mère a la maladie d'Alzheimer depuis cinq ans. Au début, je passais simplement la voir plus souvent. Puis, petit à petit, je me suis retrouvé à gérer ses médicaments, ses rendez-vous, ses courses, ses papiers. Je ne m'en suis pas rendu compte tout de suite, mais j'étais devenu ce qu'on appelle un aidant. Pendant deux ans, j'ai tout porté seul, en plus de mon travail. J'étais épuisé, irritable, et paradoxalement, je culpabilisais dès que je prenais une soirée pour moi. C'est mon médecin qui m'a alerté : il m'a dit que si je continuais ainsi, ce serait bientôt moi qu'il faudrait soigner. J'ai fini par accepter l'aide d'un accueil de jour, deux fois par semaine. Je pensais abandonner ma mère. En fait, je suis redevenu son fils, et pas seulement son infirmier.",
+   "vocabulary": [
+    {
+     "terme": "un aidant",
+     "definition": "une personne qui s'occupe d'un proche dépendant",
+     "exemple": "Les aidants manquent de reconnaissance."
+    },
+    {
+     "terme": "épuisé",
+     "definition": "extrêmement fatigué",
+     "exemple": "Après la semaine, elle était épuisée."
+    },
+    {
+     "terme": "irritable",
+     "definition": "qui s'énerve facilement",
+     "exemple": "Le manque de sommeil le rend irritable."
+    },
+    {
+     "terme": "un accueil de jour",
+     "definition": "une structure qui reçoit des personnes âgées pendant la journée",
+     "exemple": "Il va à l'accueil de jour le mardi."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "tout porter seul",
+     "sens": "assumer toutes les responsabilités sans aide",
+     "exemple": "Elle a tout porté seule pendant des années."
+    },
+    {
+     "expression": "se rendre compte",
+     "sens": "prendre conscience",
+     "exemple": "Je ne me suis pas rendu compte de l'heure."
+    },
+    {
+     "expression": "finir par",
+     "sens": "faire quelque chose après hésitation",
+     "exemple": "Il a fini par accepter."
+    }
+   ]
+  },
+  {
+   "code": "CO-TEM-04",
+   "level": "B2",
+   "doc_type": "interview radio",
+   "questions": [
+    {
+     "prompt": "Comment l'ancien champion a-t-il vécu la fin de sa carrière ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Comme un soulagement après des années d'efforts.",
+       "correct": false,
+       "rationale": "Il parle de « vacances forcées », non souhaitées.",
+       "label": "A"
+      },
+      {
+       "text": "Comme une période de voyages.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Comme une rupture brutale qui l'a rendu déprimé.",
+       "correct": true,
+       "rationale": "« Du jour au lendemain, plus rien… ça m'a plongé dans une forme de déprime. »",
+       "label": "C"
+      },
+      {
+       "text": "Sans difficulté particulière.",
+       "correct": false,
+       "rationale": "Il affirme le contraire.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Vacances forcées » est un oxymore : du temps libre qui n'est pas un plaisir."
+    },
+    {
+     "prompt": "Quel était son principal problème, selon lui ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Il ne se définissait que par son statut de sportif.",
+       "correct": true,
+       "rationale": "« Mon identité se résumait à \"nageur\". »",
+       "label": "A"
+      },
+      {
+       "text": "Il n'avait aucun diplôme.",
+       "correct": false,
+       "rationale": "Il avait un diplôme « sur le papier ».",
+       "label": "B"
+      },
+      {
+       "text": "Il était blessé.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Il n'aimait plus la natation.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Sur le papier » indique que le diplôme existait mais n'avait pas de valeur concrète pour lui ; le vrai problème est identitaire."
+    },
+    {
+     "prompt": "Quel conseil donne-t-il aujourd'hui aux sportifs ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Se consacrer uniquement à leur sport.",
+       "correct": false,
+       "rationale": "Il dit l'inverse : « ne pas tout miser sur une seule chose ».",
+       "label": "A"
+      },
+      {
+       "text": "Arrêter la compétition plus tôt.",
+       "correct": false,
+       "rationale": "Ce n'est pas son conseil.",
+       "label": "B"
+      },
+      {
+       "text": "Devenir entraîneur.",
+       "correct": false,
+       "rationale": "Ce n'est pas ce qu'il recommande.",
+       "label": "C"
+      },
+      {
+       "text": "Préparer leur reconversion tôt sans abandonner leurs objectifs sportifs.",
+       "correct": true,
+       "rationale": "« Penser à leur reconversion bien avant d'arrêter, pas pour renoncer à leurs ambitions. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « pas pour… mais pour… » précise l'objectif du conseil et écarte un malentendu."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-BE"
+   ],
+   "title": "Un ancien sportif de haut niveau",
+   "context": "Une journaliste interroge un ancien champion de natation sur sa reconversion.",
+   "document": "F: Vous avez arrêté la compétition à vingt-neuf ans. Comment s'est passé l'après ? / H: Personne ne vous prépare à ça. Pendant quinze ans, ma vie était organisée à la minute près : entraînement, repas, sommeil, compétitions. Du jour au lendemain, plus rien. J'avais l'impression d'être en vacances forcées, et ça m'a plongé dans une forme de déprime. / F: Vous n'aviez pas anticipé ? / H: J'avais un diplôme, sur le papier. Mais je n'avais jamais travaillé ailleurs qu'au bord d'un bassin. Et surtout, mon identité se résumait à « nageur ». Quand on me demandait ce que je faisais, je ne savais plus quoi répondre. / F: Et aujourd'hui ? / H: J'accompagne justement des sportifs en fin de carrière. Je leur dis de penser à leur reconversion bien avant d'arrêter, pas pour renoncer à leurs ambitions, mais pour ne pas tout miser sur une seule chose.",
+   "vocabulary": [
+    {
+     "terme": "la reconversion",
+     "definition": "le changement de métier",
+     "exemple": "Sa reconversion dans l'enseignement a réussi."
+    },
+    {
+     "terme": "la déprime",
+     "definition": "un état de tristesse et de découragement",
+     "exemple": "L'hiver lui donne la déprime."
+    },
+    {
+     "terme": "anticiper",
+     "definition": "prévoir à l'avance",
+     "exemple": "Il faut anticiper les dépenses."
+    },
+    {
+     "terme": "un bassin",
+     "definition": "une piscine",
+     "exemple": "Le bassin olympique mesure cinquante mètres."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "du jour au lendemain",
+     "sens": "soudainement",
+     "exemple": "Il a tout quitté du jour au lendemain."
+    },
+    {
+     "expression": "à la minute près",
+     "sens": "de façon très précise",
+     "exemple": "Le programme est réglé à la minute près."
+    },
+    {
+     "expression": "tout miser sur",
+     "sens": "tout investir dans une seule chose",
+     "exemple": "Elle a tout misé sur ce projet."
+    }
+   ]
+  },
+  {
+   "code": "CO-TEM-05",
+   "level": "B2",
+   "doc_type": "témoignage",
+   "questions": [
+    {
+     "prompt": "Quelle idée reçue cette femme évoque-t-elle au début ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Que les villages manquent de commerces.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'idée citée.",
+       "label": "A"
+      },
+      {
+       "text": "Que les transports en commun sont gratuits.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Que le vélo est dangereux.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Qu'il est impossible de vivre sans voiture à la campagne.",
+       "correct": true,
+       "rationale": "« Vivre sans voiture, c'est facile à Paris, mais impossible à la campagne. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Elle cite l'opinion courante pour la nuancer ensuite par son expérience."
+    },
+    {
+     "prompt": "Que dit-elle des inconvénients de son choix ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Elle reconnaît qu'il demande beaucoup d'organisation.",
+       "correct": true,
+       "rationale": "« Je ne prétends pas que ce soit simple. Il faut tout organiser. »",
+       "label": "A"
+      },
+      {
+       "text": "Elle envisage de racheter une voiture.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Elle dit que le car passe toutes les heures.",
+       "correct": false,
+       "rationale": "Il passe deux fois par jour.",
+       "label": "C"
+      },
+      {
+       "text": "Elle affirme qu'il n'y en a aucun.",
+       "correct": false,
+       "rationale": "Elle admet des difficultés.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Je ne prétends pas » marque une concession honnête avant les solutions trouvées."
+    },
+    {
+     "prompt": "Quel est, selon elle, le principal bénéfice ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Le temps gagné.",
+       "correct": false,
+       "rationale": "Elle doit au contraire tout organiser.",
+       "label": "A"
+      },
+      {
+       "text": "Le renforcement des relations avec ses voisins.",
+       "correct": true,
+       "rationale": "« J'ai économisé de l'argent, mais j'ai surtout gagné des liens. »",
+       "label": "B"
+      },
+      {
+       "text": "Une meilleure forme physique.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Les économies d'argent.",
+       "correct": false,
+       "rationale": "Elles sont citées, mais « surtout » met l'accent sur les liens.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le connecteur « surtout » hiérarchise les avantages."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "title": "Vivre sans voiture à la campagne",
+   "context": "Une habitante d'un village raconte son choix.",
+   "document": "F: On me dit souvent que vivre sans voiture, c'est facile à Paris, mais impossible à la campagne. J'habite un village de six cents habitants, et je n'ai plus de voiture depuis trois ans. Je ne prétends pas que ce soit simple. Il faut tout organiser : je fais mes courses une fois par semaine en vélo électrique, avec une remorque, et pour aller en ville, il y a un car le matin et un le soir. Si je le rate, je suis coincée. Ce qui a vraiment changé les choses, c'est le covoiturage entre voisins. On a créé un groupe sur nos téléphones, et chacun propose ses trajets. Au début, je me sentais gênée de demander. Maintenant, je rends service à mon tour en gardant les enfants ou en arrosant les jardins. Finalement, j'ai économisé de l'argent, mais j'ai surtout gagné des liens.",
+   "vocabulary": [
+    {
+     "terme": "une remorque",
+     "definition": "un petit véhicule tiré par un autre",
+     "exemple": "Il transporte le bois dans une remorque."
+    },
+    {
+     "terme": "coincé",
+     "definition": "bloqué, sans solution",
+     "exemple": "Sans clés, je suis coincé dehors."
+    },
+    {
+     "terme": "le covoiturage",
+     "definition": "le partage d'une voiture pour un même trajet",
+     "exemple": "Ils vont au travail en covoiturage."
+    },
+    {
+     "terme": "gêné",
+     "definition": "mal à l'aise",
+     "exemple": "Elle était gênée de demander de l'aide."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "rater le car",
+     "sens": "arriver trop tard pour le prendre",
+     "exemple": "J'ai raté le car de huit heures."
+    },
+    {
+     "expression": "rendre service",
+     "sens": "aider quelqu'un",
+     "exemple": "Il aime rendre service à ses voisins."
+    },
+    {
+     "expression": "à mon tour",
+     "sens": "moi aussi, après les autres",
+     "exemple": "Je les ai aidés à mon tour."
+    }
+   ]
+  },
+  {
+   "code": "CO-TEM-06",
+   "level": "B2",
+   "doc_type": "interview radio",
+   "questions": [
+    {
+     "prompt": "Comment la comptable a-t-elle procédé avant de révéler la fraude publiquement ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Elle a contacté directement la presse.",
+       "correct": false,
+       "rationale": "Elle est d'abord passée par sa hiérarchie.",
+       "label": "A"
+      },
+      {
+       "text": "Elle a consulté un avocat.",
+       "correct": false,
+       "rationale": "C'est ce qu'elle conseille, pas ce qu'elle a fait.",
+       "label": "B"
+      },
+      {
+       "text": "Elle a signalé le problème plusieurs fois à ses supérieurs.",
+       "correct": true,
+       "rationale": "« J'ai d'abord alerté ma hiérarchie, en interne, à trois reprises. »",
+       "label": "C"
+      },
+      {
+       "text": "Elle a démissionné immédiatement.",
+       "correct": false,
+       "rationale": "Elle a été licenciée plus tard.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« D'abord » et « à trois reprises » montrent qu'elle a épuisé les recours internes."
+    },
+    {
+     "prompt": "Que comprend-on de la réaction de sa hiérarchie ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Elle a cherché à la faire taire en la menaçant indirectement.",
+       "correct": true,
+       "rationale": "« Il valait mieux pour ma carrière que je me taise. »",
+       "label": "A"
+      },
+      {
+       "text": "Elle a ouvert une enquête.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Elle l'a remerciée.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Elle ignorait la fraude.",
+       "correct": false,
+       "rationale": "Rien ne l'indique.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La formule « il valait mieux pour ma carrière » est une menace voilée."
+    },
+    {
+     "prompt": "Quel bilan fait-elle de son action ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Elle regrette d'avoir parlé.",
+       "correct": false,
+       "rationale": "Elle le referait.",
+       "label": "A"
+      },
+      {
+       "text": "Elle estime avoir été bien protégée.",
+       "correct": false,
+       "rationale": "Elle a été licenciée.",
+       "label": "B"
+      },
+      {
+       "text": "Elle ne regrette rien mais recommande de ne pas agir seul.",
+       "correct": true,
+       "rationale": "« Oui, sans hésiter. Mais je conseillerais… de se faire accompagner… Seule, on se fait broyer. »",
+       "label": "C"
+      },
+      {
+       "text": "Elle pense que la fraude n'était pas grave.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le « mais » introduit la leçon tirée de l'expérience sans remettre en cause sa décision."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "Une lanceuse d'alerte",
+   "context": "Un journaliste interroge une ancienne comptable qui a dénoncé une fraude dans son entreprise.",
+   "document": "H: Vous avez révélé une fraude fiscale dans l'entreprise où vous travailliez. Qu'est-ce qui vous a décidée ? / F: J'ai d'abord alerté ma hiérarchie, en interne, à trois reprises. On m'a répondu que ce n'était pas mon problème, puis qu'il valait mieux pour ma carrière que je me taise. C'est là que j'ai compris que je n'avais pas le choix. / H: Vous saviez ce que vous risquiez ? / F: Pas vraiment. On imagine qu'on sera protégée, puisqu'on agit dans l'intérêt général. En réalité, j'ai été licenciée pour un motif inventé, et il m'a fallu quatre ans de procédure pour être reconnue dans mes droits. / H: Le referiez-vous ? / F: Oui, sans hésiter. Mais je conseillerais à quelqu'un dans ma situation de se faire accompagner dès le départ par un avocat et une association. Seule, on se fait broyer.",
+   "vocabulary": [
+    {
+     "terme": "une fraude fiscale",
+     "definition": "le fait de ne pas payer les impôts dus de façon illégale",
+     "exemple": "Il a été condamné pour fraude fiscale."
+    },
+    {
+     "terme": "la hiérarchie",
+     "definition": "l'ensemble des supérieurs",
+     "exemple": "Il faut informer la hiérarchie."
+    },
+    {
+     "terme": "un motif",
+     "definition": "une raison donnée officiellement",
+     "exemple": "Le motif du licenciement était faux."
+    },
+    {
+     "terme": "une procédure",
+     "definition": "une action en justice",
+     "exemple": "La procédure a duré quatre ans."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "dans l'intérêt général",
+     "sens": "pour le bien de tous",
+     "exemple": "Cette loi est votée dans l'intérêt général."
+    },
+    {
+     "expression": "se faire broyer",
+     "sens": "être écrasé, détruit par plus fort que soi",
+     "exemple": "Les petits commerces se font broyer par la concurrence."
+    },
+    {
+     "expression": "reconnu dans ses droits",
+     "sens": "obtenir officiellement justice",
+     "exemple": "Elle a enfin été reconnue dans ses droits."
+    }
+   ]
+  },
+  {
+   "code": "CO-TEM-07",
+   "level": "B2",
+   "doc_type": "témoignage",
+   "questions": [
+    {
+     "prompt": "Comment cet homme dissimulait-il ses difficultés ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "En évitant de travailler.",
+       "correct": false,
+       "rationale": "Il était chef d'équipe.",
+       "label": "A"
+      },
+      {
+       "text": "En refusant de sortir de chez lui.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "En prenant des cours en secret.",
+       "correct": false,
+       "rationale": "Il les a pris plus tard.",
+       "label": "C"
+      },
+      {
+       "text": "En utilisant différents prétextes et en comptant sur son entourage.",
+       "correct": true,
+       "rationale": "« Je disais que j'avais oublié mes lunettes, je demandais à ma femme de remplir les papiers. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Mille astuces » annonce une énumération de stratégies d'évitement."
+    },
+    {
+     "prompt": "Qu'est-ce qui l'a décidé à apprendre ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Une remarque de son employeur.",
+       "correct": false,
+       "rationale": "Personne ne se doutait de rien au travail.",
+       "label": "A"
+      },
+      {
+       "text": "Son incapacité à lire une histoire à sa fille.",
+       "correct": true,
+       "rationale": "« Elle m'a apporté un livre… et je n'ai pas pu… j'ai eu honte comme jamais. »",
+       "label": "B"
+      },
+      {
+       "text": "Une obligation administrative.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Un conseil de sa femme.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Le déclic » désigne l'événement déclencheur d'un changement."
+    },
+    {
+     "prompt": "Quelle émotion domine la fin du témoignage ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Une honte persistante.",
+       "correct": false,
+       "rationale": "La honte appartient au passé.",
+       "label": "A"
+      },
+      {
+       "text": "De l'indifférence.",
+       "correct": false,
+       "rationale": "Le ton est au contraire très affectif.",
+       "label": "B"
+      },
+      {
+       "text": "De la colère contre l'école.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Une fierté émue.",
+       "correct": true,
+       "rationale": "« Le plus fou, c'est que ma fille et moi, on lit maintenant chacun notre livre, côte à côte. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'image finale répond à la scène de honte : le père et la fille partagent désormais la lecture."
+    }
+   ],
+   "speakers": [
+    "H:fr-CA"
+   ],
+   "title": "Apprendre à lire à quarante ans",
+   "context": "Un homme raconte comment il a surmonté l'illettrisme.",
+   "document": "H: Pendant des années, j'ai caché que je ne savais pas bien lire. J'avais mille astuces : je disais que j'avais oublié mes lunettes, je demandais à ma femme de remplir les papiers, je mémorisais les trajets au lieu de lire les panneaux. Au travail, j'étais chef d'équipe sur des chantiers, et personne ne se doutait de rien. Le déclic, ça a été ma fille. Elle avait sept ans, elle m'a apporté un livre pour que je lui lise une histoire, et je n'ai pas pu. J'ai inventé l'histoire en regardant les images. Ce soir-là, j'ai eu honte comme jamais. Je me suis inscrit à des cours pour adultes. Il m'a fallu deux ans. Aujourd'hui, je lis le journal tous les matins, et le plus fou, c'est que ma fille et moi, on lit maintenant chacun notre livre, côte à côte.",
+   "vocabulary": [
+    {
+     "terme": "l'illettrisme",
+     "definition": "la difficulté à lire et écrire malgré une scolarisation",
+     "exemple": "L'illettrisme touche des millions d'adultes."
+    },
+    {
+     "terme": "une astuce",
+     "definition": "un moyen habile",
+     "exemple": "J'ai une astuce pour retenir les numéros."
+    },
+    {
+     "terme": "un chantier",
+     "definition": "un lieu de construction",
+     "exemple": "Il travaille sur un chantier."
+    },
+    {
+     "terme": "côte à côte",
+     "definition": "l'un à côté de l'autre",
+     "exemple": "Ils marchaient côte à côte."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "ne se douter de rien",
+     "sens": "ne rien soupçonner",
+     "exemple": "Sa famille ne se doutait de rien."
+    },
+    {
+     "expression": "le déclic",
+     "sens": "le moment où l'on comprend ou décide soudainement",
+     "exemple": "La lecture de ce livre a été un déclic."
+    },
+    {
+     "expression": "comme jamais",
+     "sens": "plus que jamais auparavant",
+     "exemple": "J'ai ri comme jamais."
+    }
+   ]
+  },
+  {
+   "code": "CO-TEM-08",
+   "level": "B2",
+   "doc_type": "interview radio",
+   "questions": [
+    {
+     "prompt": "Quelle évolution le bénévole a-t-il observée ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Des personnes ayant un travail ont aussi besoin d'aide.",
+       "correct": true,
+       "rationale": "« Des gens qui ont un emploi, mais à qui il ne reste rien une fois le loyer payé. »",
+       "label": "A"
+      },
+      {
+       "text": "Seuls les sans-abri viennent désormais.",
+       "correct": false,
+       "rationale": "C'est la situation d'avant.",
+       "label": "B"
+      },
+      {
+       "text": "Les étudiants sont devenus bénévoles.",
+       "correct": false,
+       "rationale": "Ils viennent recevoir de l'aide.",
+       "label": "C"
+      },
+      {
+       "text": "Il y a de moins en moins de personnes dans le besoin.",
+       "correct": false,
+       "rationale": "Rien ne l'indique.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'opposition « au début » / « aujourd'hui » structure le constat d'une précarité qui s'étend."
+    },
+    {
+     "prompt": "Pourquoi l'association accorde-t-elle tant d'importance à l'accueil ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Parce que les bénévoles s'ennuient.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que demander de l'aide est vécu comme une épreuve humiliante.",
+       "correct": true,
+       "rationale": "« La première fois est un vrai déchirement… jamais de jugement. »",
+       "label": "B"
+      },
+      {
+       "text": "Parce que les règles l'imposent.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que le café est offert par des sponsors.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« C'est pour ça » relie directement l'accueil chaleureux à la difficulté émotionnelle des bénéficiaires."
+    },
+    {
+     "prompt": "Que lui apporte personnellement son engagement ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Des repas gratuits.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Une reconnaissance médiatique.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Le sentiment d'être utile.",
+       "correct": true,
+       "rationale": "« À la retraite, je me sentais inutile. Ici… quelqu'un compte sur moi. »",
+       "label": "C"
+      },
+      {
+       "text": "Une rémunération complémentaire.",
+       "correct": false,
+       "rationale": "Il est bénévole.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le paradoxe « on croit qu'on donne, mais on reçoit » introduit le bénéfice personnel."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Bénévole dans l'aide alimentaire",
+   "context": "Une journaliste interroge un retraité bénévole dans une association d'aide alimentaire.",
+   "document": "F: Vous êtes bénévole depuis dix ans. Qu'est-ce qui a changé pendant cette période ? / H: Le profil des personnes qui viennent. Au début, on accueillait surtout des gens très isolés, souvent sans domicile. Aujourd'hui, on voit des étudiants, des retraités, des familles où les deux parents travaillent. Des gens qui ont un emploi, mais à qui il ne reste rien une fois le loyer payé. / F: Comment vivent-ils le fait de venir ? / H: Pour beaucoup, la première fois est un vrai déchirement. Certains restent dix minutes devant la porte avant d'entrer. C'est pour ça qu'on insiste sur l'accueil : un café, une discussion, jamais de jugement. / F: Et vous, qu'est-ce que ça vous apporte ? / H: On croit qu'on donne, mais on reçoit énormément. À la retraite, je me sentais inutile. Ici, je me lève le matin en sachant que quelqu'un compte sur moi.",
+   "vocabulary": [
+    {
+     "terme": "un bénévole",
+     "definition": "une personne qui travaille sans être payée",
+     "exemple": "L'association recrute des bénévoles."
+    },
+    {
+     "terme": "isolé",
+     "definition": "seul, sans relations",
+     "exemple": "Les personnes âgées sont souvent isolées."
+    },
+    {
+     "terme": "le loyer",
+     "definition": "la somme payée pour louer un logement",
+     "exemple": "Le loyer a encore augmenté."
+    },
+    {
+     "terme": "un déchirement",
+     "definition": "une grande souffrance morale",
+     "exemple": "Quitter son pays a été un déchirement."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "une fois le loyer payé",
+     "sens": "après avoir payé le loyer",
+     "exemple": "Une fois les factures payées, il ne reste rien."
+    },
+    {
+     "expression": "compter sur quelqu'un",
+     "sens": "avoir confiance en son aide",
+     "exemple": "Tu peux compter sur moi."
+    },
+    {
+     "expression": "sans jugement",
+     "sens": "sans critiquer",
+     "exemple": "Elle écoute sans jugement."
+    }
+   ]
+  }
+ ]
+}

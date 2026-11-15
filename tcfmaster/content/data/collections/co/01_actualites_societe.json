@@ -22,15 +22,15 @@
        "label": "A"
       },
       {
-       "text": "Parce qu'elles n'étaient pas assez fréquentées.",
-       "correct": true,
-       "rationale": "« Elles avaient été fermées faute de voyageurs » : « faute de » signifie « par manque de ».",
-       "label": "B"
-      },
-      {
        "text": "Parce que les voies étaient en mauvais état.",
        "correct": false,
        "rationale": "L'état des voies n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Parce qu'elles n'étaient pas assez fréquentées.",
+       "correct": true,
+       "rationale": "« Elles avaient été fermées faute de voyageurs » : « faute de » signifie « par manque de ».",
        "label": "C"
       },
       {
@@ -53,21 +53,21 @@
        "label": "A"
       },
       {
-       "text": "La participation financière de l'État n'est pas acquise.",
-       "correct": true,
-       "rationale": "« Les régions… attendent un geste de l'État, qui n'a pour l'instant rien promis. »",
-       "label": "B"
-      },
-      {
        "text": "Les trains rouleront peut-être à l'essence.",
        "correct": false,
        "rationale": "Rien n'est dit sur le mode de traction.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "La date de réouverture n'est pas fixée.",
        "correct": false,
        "rationale": "Une échéance est annoncée : « d'ici à deux ans ».",
+       "label": "C"
+      },
+      {
+       "text": "La participation financière de l'État n'est pas acquise.",
+       "correct": true,
+       "rationale": "« Les régions… attendent un geste de l'État, qui n'a pour l'instant rien promis. »",
        "label": "D"
       }
      ],
@@ -78,27 +78,27 @@
      "skill": "point de vue",
      "choices": [
       {
+       "text": "Elles approuvent la décision mais doutent de son efficacité si les trains sont rares.",
+       "correct": true,
+       "rationale": "Elles « se félicitent de la décision tout en rappelant qu'un train qui ne passe que deux fois par jour ne changera pas grand-chose ».",
+       "label": "A"
+      },
+      {
        "text": "Elles estiment que la voiture restera toujours plus pratique.",
        "correct": false,
        "rationale": "Elles posent une condition (la fréquence), pas un rejet du train.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Elles s'opposent à la réouverture qu'elles jugent trop coûteuse.",
        "correct": false,
        "rationale": "Elles se félicitent de la décision.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Elles demandent la fermeture des lignes routières.",
        "correct": false,
        "rationale": "Aucune demande de ce type n'est formulée.",
-       "label": "C"
-      },
-      {
-       "text": "Elles approuvent la décision mais doutent de son efficacité si les trains sont rares.",
-       "correct": true,
-       "rationale": "Elles « se félicitent de la décision tout en rappelant qu'un train qui ne passe que deux fois par jour ne changera pas grand-chose ».",
        "label": "D"
       }
      ],
@@ -161,15 +161,15 @@
      "skill": "information détaillée",
      "choices": [
       {
-       "text": "Les étudiants aidés ne correspondent pas tous à l'image attendue.",
-       "correct": true,
-       "rationale": "« Ce ne sont pas forcément des étudiants isolés ou étrangers, comme on pourrait l'imaginer. »",
-       "label": "A"
-      },
-      {
        "text": "Les étudiants viennent avec leurs parents.",
        "correct": false,
        "rationale": "Certains cachent leur situation à leur famille.",
+       "label": "A"
+      },
+      {
+       "text": "Les étudiants aidés ne correspondent pas tous à l'image attendue.",
+       "correct": true,
+       "rationale": "« Ce ne sont pas forcément des étudiants isolés ou étrangers, comme on pourrait l'imaginer. »",
        "label": "B"
       },
       {
@@ -198,15 +198,15 @@
        "label": "A"
       },
       {
-       "text": "Par amour-propre ou pour épargner du souci à leurs parents.",
-       "correct": true,
-       "rationale": "« Par fierté ou pour ne pas inquiéter leurs parents. »",
-       "label": "B"
-      },
-      {
        "text": "Parce qu'ils ont honte de travailler à côté.",
        "correct": false,
        "rationale": "Le petit boulot n'est pas présenté comme une honte.",
+       "label": "B"
+      },
+      {
+       "text": "Par amour-propre ou pour épargner du souci à leurs parents.",
+       "correct": true,
+       "rationale": "« Par fierté ou pour ne pas inquiéter leurs parents. »",
        "label": "C"
       },
       {
@@ -229,21 +229,21 @@
        "label": "A"
       },
       {
+       "text": "Limiter les passages lui fait beaucoup de peine, même si c'est nécessaire.",
+       "correct": true,
+       "rationale": "Il justifie aussitôt la décision (« sinon les rayons seraient vides ») tout en exprimant sa tristesse.",
+       "label": "B"
+      },
+      {
        "text": "Il est épuisé par la charge de travail.",
        "correct": false,
        "rationale": "L'expression concerne la limitation, pas la fatigue.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Il trouve cette décision injuste et va la contester.",
        "correct": false,
        "rationale": "Il présente la mesure comme inévitable.",
-       "label": "C"
-      },
-      {
-       "text": "Limiter les passages lui fait beaucoup de peine, même si c'est nécessaire.",
-       "correct": true,
-       "rationale": "Il justifie aussitôt la décision (« sinon les rayons seraient vides ») tout en exprimant sa tristesse.",
        "label": "D"
       }
      ],
@@ -319,15 +319,15 @@
        "label": "B"
       },
       {
-       "text": "La suppression des amendes n'a pas allongé les retards et a attiré davantage d'usagers.",
-       "correct": true,
-       "rationale": "« Les ouvrages ne sont pas revenus plus tard qu'avant » et « le nombre d'emprunteurs a augmenté de quinze pour cent ».",
-       "label": "C"
-      },
-      {
        "text": "Les livres sont revenus beaucoup plus tard qu'avant.",
        "correct": false,
        "rationale": "C'est précisément ce qui ne s'est pas produit.",
+       "label": "C"
+      },
+      {
+       "text": "La suppression des amendes n'a pas allongé les retards et a attiré davantage d'usagers.",
+       "correct": true,
+       "rationale": "« Les ouvrages ne sont pas revenus plus tard qu'avant » et « le nombre d'emprunteurs a augmenté de quinze pour cent ».",
        "label": "D"
       }
      ],
@@ -338,27 +338,27 @@
      "skill": "implicite",
      "choices": [
       {
+       "text": "Elles éloignaient des lecteurs aux revenus modestes.",
+       "correct": true,
+       "rationale": "Les familles à faibles revenus « préféraient ne plus fréquenter la bibliothèque plutôt que de payer ».",
+       "label": "A"
+      },
+      {
        "text": "Elles finançaient l'achat de nouveaux livres.",
        "correct": false,
        "rationale": "Les recettes sont évoquées, pas leur utilisation.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Elles encourageaient les lecteurs à rendre leurs livres à l'heure.",
        "correct": false,
        "rationale": "La période d'essai montre que leur suppression n'a pas changé les délais.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Elles incitaient les familles à acheter des livres.",
        "correct": false,
        "rationale": "Rien n'est dit sur l'achat de livres.",
-       "label": "C"
-      },
-      {
-       "text": "Elles éloignaient des lecteurs aux revenus modestes.",
-       "correct": true,
-       "rationale": "Les familles à faibles revenus « préféraient ne plus fréquenter la bibliothèque plutôt que de payer ».",
        "label": "D"
       }
      ],
@@ -375,15 +375,15 @@
        "label": "A"
       },
       {
-       "text": "Par l'économie réalisée sur la récupération des amendes impayées.",
-       "correct": true,
-       "rationale": "« Seront compensées par une réduction des frais de recouvrement, qui coûtaient presque autant qu'ils rapportaient. »",
-       "label": "B"
-      },
-      {
        "text": "Par une hausse des impôts locaux.",
        "correct": false,
        "rationale": "Aucune hausse d'impôt n'est mentionnée.",
+       "label": "B"
+      },
+      {
+       "text": "Par l'économie réalisée sur la récupération des amendes impayées.",
+       "correct": true,
+       "rationale": "« Seront compensées par une réduction des frais de recouvrement, qui coûtaient presque autant qu'ils rapportaient. »",
        "label": "C"
       },
       {
@@ -462,15 +462,15 @@
        "label": "A"
       },
       {
-       "text": "Il les juge égoïstes et contraires à l'esprit du projet.",
-       "correct": false,
-       "rationale": "Il ne porte aucun jugement négatif.",
-       "label": "B"
-      },
-      {
        "text": "Il les accepte pleinement, car le résultat pour l'environnement est identique.",
        "correct": true,
        "rationale": "« C'est très bien comme ça… le résultat est le même : un objet de moins à la poubelle. »",
+       "label": "B"
+      },
+      {
+       "text": "Il les juge égoïstes et contraires à l'esprit du projet.",
+       "correct": false,
+       "rationale": "Il ne porte aucun jugement négatif.",
        "label": "C"
       },
       {
@@ -487,27 +487,27 @@
      "skill": "implicite",
      "choices": [
       {
-       "text": "La réalité est bien pire que ce que la journaliste suggère.",
-       "correct": true,
-       "rationale": "Il enchaîne avec une liste d'obstacles qui montrent que les fabricants rendent la réparation très difficile.",
-       "label": "A"
-      },
-      {
        "text": "Il préfère ne pas parler des fabricants.",
        "correct": false,
        "rationale": "Il développe longuement le sujet.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Il n'est pas d'accord avec la journaliste.",
        "correct": false,
        "rationale": "Il est d'accord, mais trouve la formulation trop faible.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Les fabricants l'aident en réalité beaucoup.",
        "correct": false,
        "rationale": "Les exemples cités prouvent le contraire.",
+       "label": "C"
+      },
+      {
+       "text": "La réalité est bien pire que ce que la journaliste suggère.",
+       "correct": true,
+       "rationale": "Il enchaîne avec une liste d'obstacles qui montrent que les fabricants rendent la réparation très difficile.",
        "label": "D"
       }
      ],
@@ -608,21 +608,21 @@
        "label": "A"
       },
       {
-       "text": "Le mariage recule pendant que le pacte civil progresse.",
-       "correct": true,
-       "rationale": "« Le nombre de mariages poursuit sa baisse, tandis que celui des pactes… ne cesse de progresser. »",
-       "label": "B"
-      },
-      {
        "text": "Le mariage revient à la mode chez les jeunes.",
        "correct": false,
        "rationale": "L'âge moyen recule et les mariages baissent.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Les deux formes d'union diminuent.",
        "correct": false,
        "rationale": "Le pacte progresse.",
+       "label": "C"
+      },
+      {
+       "text": "Le mariage recule pendant que le pacte civil progresse.",
+       "correct": true,
+       "rationale": "« Le nombre de mariages poursuit sa baisse, tandis que celui des pactes… ne cesse de progresser. »",
        "label": "D"
       }
      ],
@@ -639,21 +639,21 @@
        "label": "A"
       },
       {
+       "text": "Comme une autre manière de s'engager, jugée plus souple.",
+       "correct": true,
+       "rationale": "« Ce n'est pas tant un rejet de l'engagement qu'une volonté de s'engager autrement. »",
+       "label": "B"
+      },
+      {
        "text": "Comme un effet de mode passager.",
        "correct": false,
        "rationale": "Ils parlent au contraire d'une « tendance de fond ».",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Comme un refus de toute forme d'engagement.",
        "correct": false,
        "rationale": "C'est l'interprétation qu'ils écartent.",
-       "label": "C"
-      },
-      {
-       "text": "Comme une autre manière de s'engager, jugée plus souple.",
-       "correct": true,
-       "rationale": "« Ce n'est pas tant un rejet de l'engagement qu'une volonté de s'engager autrement. »",
        "label": "D"
       }
      ],
@@ -664,21 +664,21 @@
      "skill": "information détaillée",
      "choices": [
       {
+       "text": "Il est devenu courant de se marier après avoir eu un enfant.",
+       "correct": true,
+       "rationale": "« Beaucoup de couples se marient après la naissance de leur premier enfant, ce qui était exceptionnel il y a quarante ans. »",
+       "label": "A"
+      },
+      {
        "text": "Les hommes se marient plus jeunes.",
        "correct": false,
        "rationale": "L'âge moyen au premier mariage a « reculé », c'est-à-dire qu'on se marie plus tard.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Les pactes civils sont devenus obligatoires.",
        "correct": false,
        "rationale": "Aucune obligation n'est mentionnée.",
-       "label": "B"
-      },
-      {
-       "text": "Il est devenu courant de se marier après avoir eu un enfant.",
-       "correct": true,
-       "rationale": "« Beaucoup de couples se marient après la naissance de leur premier enfant, ce qui était exceptionnel il y a quarante ans. »",
        "label": "C"
       },
       {
@@ -746,21 +746,21 @@
      "skill": "argumentation",
      "choices": [
       {
-       "text": "Elle rappelle les problèmes qui existaient avant la mesure.",
-       "correct": true,
-       "rationale": "« Je voudrais rappeler d'où l'on part » puis elle décrit le silence et les vidéos humiliantes.",
-       "label": "A"
-      },
-      {
        "text": "Elle affirme que les parents ont voté la mesure.",
        "correct": false,
        "rationale": "Aucun vote n'est mentionné.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Elle annonce que l'interdiction sera levée.",
        "correct": false,
        "rationale": "Rien n'indique un retour en arrière.",
+       "label": "B"
+      },
+      {
+       "text": "Elle rappelle les problèmes qui existaient avant la mesure.",
+       "correct": true,
+       "rationale": "« Je voudrais rappeler d'où l'on part » puis elle décrit le silence et les vidéos humiliantes.",
        "label": "C"
       },
       {
@@ -783,15 +783,15 @@
        "label": "A"
       },
       {
-       "text": "Obtenir une obéissance totale des élèves.",
-       "correct": false,
-       "rationale": "C'est précisément ce qu'elle écarte.",
-       "label": "B"
-      },
-      {
        "text": "Changer les habitudes collectives, même si tout le monde ne respecte pas la règle.",
        "correct": true,
        "rationale": "« L'essentiel n'est pas d'atteindre une obéissance parfaite. Ce qui compte, c'est que le téléphone ne soit plus la norme. »",
+       "label": "B"
+      },
+      {
+       "text": "Obtenir une obéissance totale des élèves.",
+       "correct": false,
+       "rationale": "C'est précisément ce qu'elle écarte.",
        "label": "C"
       },
       {
@@ -808,21 +808,21 @@
      "skill": "implicite",
      "choices": [
       {
-       "text": "L'initiative des élèves pour occuper la pause du midi.",
-       "correct": true,
-       "rationale": "« Ce sont les élèves eux-mêmes qui ont proposé de créer des clubs… Je n'aurais jamais imaginé qu'ils en redemandent. »",
-       "label": "A"
-      },
-      {
        "text": "Le refus des surveillants d'appliquer la règle.",
        "correct": false,
        "rationale": "Les surveillants ne refusent rien.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "La colère des parents.",
        "correct": false,
        "rationale": "Elle s'y attendait et dit les comprendre.",
+       "label": "B"
+      },
+      {
+       "text": "L'initiative des élèves pour occuper la pause du midi.",
+       "correct": true,
+       "rationale": "« Ce sont les élèves eux-mêmes qui ont proposé de créer des clubs… Je n'aurais jamais imaginé qu'ils en redemandent. »",
        "label": "C"
       },
       {
@@ -898,21 +898,21 @@
        "label": "A"
       },
       {
-       "text": "Des relations entre les habitants.",
-       "correct": true,
-       "rationale": "« On y récolte surtout du lien social » : les participants connaissent davantage de voisins.",
-       "label": "B"
-      },
-      {
        "text": "Des revenus complémentaires.",
        "correct": false,
        "rationale": "La vente n'est pas évoquée.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Des fleurs destinées aux immeubles.",
        "correct": false,
        "rationale": "« Fleurir » est employé au sens figuré : les jardins se multiplient.",
+       "label": "C"
+      },
+      {
+       "text": "Des relations entre les habitants.",
+       "correct": true,
+       "rationale": "« On y récolte surtout du lien social » : les participants connaissent davantage de voisins.",
        "label": "D"
       }
      ],
@@ -923,21 +923,21 @@
      "skill": "argumentation",
      "choices": [
       {
+       "text": "Les personnes les plus isolées en profitent peu.",
+       "correct": true,
+       "rationale": "« Les habitants les plus isolés, eux, n'en franchissent pas la porte. »",
+       "label": "A"
+      },
+      {
        "text": "Les jardins produisent trop peu de légumes.",
        "correct": false,
        "rationale": "La production n'est pas critiquée.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Les universités contestent leur utilité.",
        "correct": false,
        "rationale": "Les études universitaires confirment au contraire leurs effets.",
-       "label": "B"
-      },
-      {
-       "text": "Les personnes les plus isolées en profitent peu.",
-       "correct": true,
-       "rationale": "« Les habitants les plus isolés, eux, n'en franchissent pas la porte. »",
        "label": "C"
       },
       {
@@ -1067,21 +1067,21 @@
      "skill": "argumentation",
      "choices": [
       {
+       "text": "Par des horaires de collecte peu adaptés à leur emploi du temps.",
+       "correct": true,
+       "rationale": "« Moins un manque de générosité qu'un problème d'organisation : les collectes ont lieu… aux heures de bureau. »",
+       "label": "A"
+      },
+      {
        "text": "Par le manque d'information sur le don.",
        "correct": false,
        "rationale": "Le manque d'information n'est pas mentionné.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Par leur manque de générosité.",
        "correct": false,
        "rationale": "C'est l'explication qu'ils écartent (« moins… que… »).",
-       "label": "B"
-      },
-      {
-       "text": "Par des horaires de collecte peu adaptés à leur emploi du temps.",
-       "correct": true,
-       "rationale": "« Moins un manque de générosité qu'un problème d'organisation : les collectes ont lieu… aux heures de bureau. »",
        "label": "C"
       },
       {
@@ -1104,15 +1104,15 @@
        "label": "A"
       },
       {
-       "text": "Un outil numérique pour prendre rendez-vous en dehors des heures de travail.",
-       "correct": true,
-       "rationale": "« Une application permettant de réserver un rendez-vous en soirée sera lancée le mois prochain. »",
-       "label": "B"
-      },
-      {
        "text": "Une rémunération des donneurs.",
        "correct": false,
        "rationale": "Aucune rémunération n'est prévue.",
+       "label": "B"
+      },
+      {
+       "text": "Un outil numérique pour prendre rendez-vous en dehors des heures de travail.",
+       "correct": true,
+       "rationale": "« Une application permettant de réserver un rendez-vous en soirée sera lancée le mois prochain. »",
        "label": "C"
       },
       {

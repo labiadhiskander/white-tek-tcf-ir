@@ -16,21 +16,21 @@
      "skill": "information détaillée",
      "choices": [
       {
-       "text": "La guitare électrique du fils aîné tard le soir.",
-       "correct": true,
-       "rationale": "« Mon fils aîné répète avec sa guitare électrique » ; « la musique, tard dans la nuit ».",
-       "label": "A"
-      },
-      {
        "text": "Les jeux des jeunes enfants.",
        "correct": false,
        "rationale": "« Ce n'est pas vraiment les enfants. »",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Une télévision trop forte.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "La guitare électrique du fils aîné tard le soir.",
+       "correct": true,
+       "rationale": "« Mon fils aîné répète avec sa guitare électrique » ; « la musique, tard dans la nuit ».",
        "label": "C"
       },
       {
@@ -47,15 +47,15 @@
      "skill": "point de vue",
      "choices": [
       {
-       "text": "En exigeant que la guitare soit vendue.",
-       "correct": false,
-       "rationale": "Elle propose une limite horaire.",
-       "label": "A"
-      },
-      {
        "text": "Avec politesse, sans agressivité, en cherchant une solution.",
        "correct": true,
        "rationale": "« Excusez-moi de vous déranger », « je ne vous accuse de rien », « Est-ce qu'on pourrait trouver un arrangement ? »",
+       "label": "A"
+      },
+      {
+       "text": "En exigeant que la guitare soit vendue.",
+       "correct": false,
+       "rationale": "Elle propose une limite horaire.",
        "label": "B"
       },
       {
@@ -84,15 +84,15 @@
        "label": "A"
       },
       {
-       "text": "Que la voisine déménage.",
-       "correct": false,
-       "rationale": "Ce n'est pas dit.",
-       "label": "B"
-      },
-      {
        "text": "Que les problèmes soient réglés entre eux, sans intermédiaire.",
        "correct": true,
        "rationale": "« Je préfère que vous me le disiez directement plutôt que d'en arriver au syndic. »",
+       "label": "B"
+      },
+      {
+       "text": "Que la voisine déménage.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
        "label": "C"
       },
       {
@@ -168,21 +168,21 @@
        "label": "A"
       },
       {
-       "text": "Les jeunes adultes sont presque autant touchés par la solitude que les personnes âgées.",
-       "correct": true,
-       "rationale": "« Les jeunes adultes… sont aujourd'hui presque aussi concernés. »",
-       "label": "B"
-      },
-      {
        "text": "La solitude a disparu grâce aux réseaux sociaux.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Les jeunes ont moins de contacts en ligne.",
        "correct": false,
        "rationale": "Ils n'ont « jamais été aussi connectés ».",
+       "label": "C"
+      },
+      {
+       "text": "Les jeunes adultes sont presque autant touchés par la solitude que les personnes âgées.",
+       "correct": true,
+       "rationale": "« Les jeunes adultes… sont aujourd'hui presque aussi concernés. »",
        "label": "D"
       }
      ],
@@ -230,21 +230,21 @@
        "label": "A"
       },
       {
+       "text": "Comme un geste peut-être symbolique mais utile pour reconnaître le problème.",
+       "correct": true,
+       "rationale": "« Une initiative symbolique, peut-être, mais qui a le mérite de reconnaître le problème comme un enjeu collectif. »",
+       "label": "B"
+      },
+      {
        "text": "Comme la solution définitive au problème.",
        "correct": false,
        "rationale": "Elle la qualifie de « symbolique, peut-être ».",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Comme une dépense excessive.",
        "correct": false,
        "rationale": "Le coût n'est pas évoqué.",
-       "label": "C"
-      },
-      {
-       "text": "Comme un geste peut-être symbolique mais utile pour reconnaître le problème.",
-       "correct": true,
-       "rationale": "« Une initiative symbolique, peut-être, mais qui a le mérite de reconnaître le problème comme un enjeu collectif. »",
        "label": "D"
       }
      ],
@@ -337,27 +337,27 @@
      "skill": "point de vue",
      "choices": [
       {
+       "text": "On ne peut pas obliger à l'affection, mais on peut demander le respect.",
+       "correct": true,
+       "rationale": "« Il ne faut surtout pas forcer l'affection. En revanche, on peut exiger le respect. »",
+       "label": "A"
+      },
+      {
        "text": "Ils doivent s'aimer dès le premier jour.",
        "correct": false,
        "rationale": "Elle dit de ne pas forcer l'affection.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Il faut les séparer.",
        "correct": false,
        "rationale": "Ce n'est pas conseillé.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Ils deviennent toujours frères et sœurs.",
        "correct": false,
        "rationale": "« C'est très variable. »",
-       "label": "C"
-      },
-      {
-       "text": "On ne peut pas obliger à l'affection, mais on peut demander le respect.",
-       "correct": true,
-       "rationale": "« Il ne faut surtout pas forcer l'affection. En revanche, on peut exiger le respect. »",
        "label": "D"
       }
      ],
@@ -368,27 +368,27 @@
      "skill": "synthèse",
      "choices": [
       {
+       "text": "La construction d'une famille recomposée demande beaucoup de patience.",
+       "correct": true,
+       "rationale": "« Il faut accepter que cela prenne des années, pas des semaines. »",
+       "label": "A"
+      },
+      {
        "text": "Les familles recomposées échouent souvent.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Les rituels sont inutiles.",
        "correct": false,
        "rationale": "Elle dit qu'ils aident beaucoup.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Les enfants s'adaptent très vite.",
        "correct": false,
        "rationale": "C'est l'inverse.",
-       "label": "C"
-      },
-      {
-       "text": "La construction d'une famille recomposée demande beaucoup de patience.",
-       "correct": true,
-       "rationale": "« Il faut accepter que cela prenne des années, pas des semaines. »",
        "label": "D"
       }
      ],
@@ -483,21 +483,21 @@
      "skill": "point de vue",
      "choices": [
       {
-       "text": "Comme un échange enrichissant pour les deux.",
-       "correct": true,
-       "rationale": "Il trouve Monique « passionnante » et elle l'aide pour ses dissertations.",
-       "label": "A"
-      },
-      {
        "text": "Comme une contrainte pesante.",
        "correct": false,
        "rationale": "C'était sa crainte au début, démentie ensuite.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Comme un emploi rémunéré.",
        "correct": false,
        "rationale": "Ce n'est pas un emploi.",
+       "label": "B"
+      },
+      {
+       "text": "Comme un échange enrichissant pour les deux.",
+       "correct": true,
+       "rationale": "Il trouve Monique « passionnante » et elle l'aide pour ses dissertations.",
        "label": "C"
       },
       {
@@ -520,21 +520,21 @@
        "label": "A"
       },
       {
-       "text": "L'étudiant ne remplace pas un professionnel de l'aide aux personnes âgées.",
-       "correct": true,
-       "rationale": "« Ce n'est pas un service d'aide à domicile. L'étudiant n'est ni infirmier ni aide-soignant. »",
-       "label": "B"
-      },
-      {
        "text": "La colocation doit durer au moins cinq ans.",
        "correct": false,
        "rationale": "Ce n'est pas évoqué.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Les personnes âgées doivent payer l'étudiant.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "L'étudiant ne remplace pas un professionnel de l'aide aux personnes âgées.",
+       "correct": true,
+       "rationale": "« Ce n'est pas un service d'aide à domicile. L'étudiant n'est ni infirmier ni aide-soignant. »",
        "label": "D"
       }
      ],
@@ -598,27 +598,27 @@
      "skill": "argumentation",
      "choices": [
       {
+       "text": "Favoriser le mélange entre jeunes de milieux sociaux différents.",
+       "correct": true,
+       "rationale": "« Permettrait aux jeunes de tous les milieux de se rencontrer… Ce brassage social est essentiel. »",
+       "label": "A"
+      },
+      {
        "text": "Remplacer le service militaire.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Aider financièrement les associations.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Réduire le chômage des jeunes.",
        "correct": false,
        "rationale": "Ce n'est pas son argument.",
-       "label": "C"
-      },
-      {
-       "text": "Favoriser le mélange entre jeunes de milieux sociaux différents.",
-       "correct": true,
-       "rationale": "« Permettrait aux jeunes de tous les milieux de se rencontrer… Ce brassage social est essentiel. »",
        "label": "D"
       }
      ],
@@ -672,15 +672,15 @@
        "label": "B"
       },
       {
-       "text": "Rendre le service civique plus attractif.",
-       "correct": true,
-       "rationale": "« Plutôt que de contraindre, donnons envie : revalorisons l'indemnité, reconnaissons le service civique dans les études. »",
-       "label": "C"
-      },
-      {
        "text": "Réduire le nombre de missions.",
        "correct": false,
        "rationale": "La demande dépasse déjà l'offre.",
+       "label": "C"
+      },
+      {
+       "text": "Rendre le service civique plus attractif.",
+       "correct": true,
+       "rationale": "« Plutôt que de contraindre, donnons envie : revalorisons l'indemnité, reconnaissons le service civique dans les études. »",
        "label": "D"
       }
      ],
@@ -755,15 +755,15 @@
        "label": "A"
       },
       {
-       "text": "Pour s'excuser de son comportement lors d'un dîner.",
-       "correct": true,
-       "rationale": "« Je voulais m'excuser pour samedi. Je sais que j'ai été désagréable pendant le dîner. »",
-       "label": "B"
-      },
-      {
        "text": "Pour lui demander de l'aide pour trouver un emploi.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Pour s'excuser de son comportement lors d'un dîner.",
+       "correct": true,
+       "rationale": "« Je voulais m'excuser pour samedi. Je sais que j'ai été désagréable pendant le dîner. »",
        "label": "C"
       },
       {
@@ -792,15 +792,15 @@
        "label": "B"
       },
       {
-       "text": "Par la fatigue.",
-       "correct": false,
-       "rationale": "Ce n'est pas dit.",
-       "label": "C"
-      },
-      {
        "text": "Par un sentiment de jalousie lié à sa propre insatisfaction professionnelle.",
        "correct": true,
        "rationale": "« J'étais un peu jalouse : tu as trouvé un poste qui te plaît, alors que moi, je suis coincée dans un boulot qui m'ennuie. »",
+       "label": "C"
+      },
+      {
+       "text": "Par la fatigue.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
        "label": "D"
       }
      ],
@@ -811,15 +811,15 @@
      "skill": "point de vue",
      "choices": [
       {
-       "text": "Elle propose une rencontre tout en respectant le besoin éventuel de recul de son amie.",
-       "correct": true,
-       "rationale": "« J'aimerais beaucoup qu'on prenne un café… Et si tu as besoin d'un peu de temps, je comprendrai aussi. »",
-       "label": "A"
-      },
-      {
        "text": "Elle justifie entièrement sa remarque.",
        "correct": false,
        "rationale": "« Ce n'est pas une excuse. »",
+       "label": "A"
+      },
+      {
+       "text": "Elle propose une rencontre tout en respectant le besoin éventuel de recul de son amie.",
+       "correct": true,
+       "rationale": "« J'aimerais beaucoup qu'on prenne un café… Et si tu as besoin d'un peu de temps, je comprendrai aussi. »",
        "label": "B"
       },
       {
@@ -893,21 +893,21 @@
      "skill": "information détaillée",
      "choices": [
       {
+       "text": "Nouer de véritables amitiés.",
+       "correct": true,
+       "rationale": "« Le plus dur, ça a été de me faire des amis. »",
+       "label": "A"
+      },
+      {
        "text": "Trouver un emploi.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Apprendre la langue.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
-       "label": "B"
-      },
-      {
-       "text": "Nouer de véritables amitiés.",
-       "correct": true,
-       "rationale": "« Le plus dur, ça a été de me faire des amis. »",
        "label": "C"
       },
       {
@@ -955,21 +955,21 @@
      "skill": "synthèse",
      "choices": [
       {
+       "text": "Participer à une activité régulière pour créer des liens.",
+       "correct": true,
+       "rationale": "« Rejoignez une activité régulière, quelle qu'elle soit. »",
+       "label": "A"
+      },
+      {
        "text": "Compter sur ses collègues pour se faire des amis.",
        "correct": false,
        "rationale": "« Ne comptez pas sur le travail. »",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Organiser soi-même des soupers.",
        "correct": false,
        "rationale": "Ce n'est pas son conseil.",
-       "label": "B"
-      },
-      {
-       "text": "Participer à une activité régulière pour créer des liens.",
-       "correct": true,
-       "rationale": "« Rejoignez une activité régulière, quelle qu'elle soit. »",
        "label": "C"
       },
       {
@@ -1105,15 +1105,15 @@
        "label": "A"
       },
       {
-       "text": "Rémunérer leurs bénévoles.",
-       "correct": false,
-       "rationale": "Ce n'est pas proposé.",
-       "label": "B"
-      },
-      {
        "text": "Proposer des missions plus courtes et adaptables.",
        "correct": true,
        "rationale": "« En proposant des missions plus courtes et plus flexibles. »",
+       "label": "B"
+      },
+      {
+       "text": "Rémunérer leurs bénévoles.",
+       "correct": false,
+       "rationale": "Ce n'est pas proposé.",
        "label": "C"
       },
       {

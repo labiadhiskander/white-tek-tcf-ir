@@ -16,15 +16,15 @@
      "skill": "argumentation",
      "choices": [
       {
-       "text": "Les voitures modernes consomment peu.",
-       "correct": false,
-       "rationale": "Ce n'est pas son argument.",
-       "label": "A"
-      },
-      {
        "text": "Les autoroutes sont déjà les routes les moins dangereuses.",
        "correct": true,
        "rationale": "« Les autoroutes sont déjà les routes les plus sûres. Les accidents mortels ont surtout lieu sur les routes secondaires. »",
+       "label": "A"
+      },
+      {
+       "text": "Les voitures modernes consomment peu.",
+       "correct": false,
+       "rationale": "Ce n'est pas son argument.",
        "label": "B"
       },
       {
@@ -47,27 +47,27 @@
      "skill": "argumentation",
      "choices": [
       {
-       "text": "En distinguant la fréquence et la gravité des accidents.",
-       "correct": true,
-       "rationale": "« Même si les accidents sont moins nombreux sur autoroute, ils y sont plus violents. »",
-       "label": "A"
-      },
-      {
        "text": "En contestant les statistiques.",
        "correct": false,
        "rationale": "Elle ne les conteste pas.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "En proposant de baisser la vitesse sur les routes secondaires.",
        "correct": false,
        "rationale": "Ce n'est pas sa réponse.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "En reconnaissant qu'il a raison.",
        "correct": false,
        "rationale": "Elle maintient sa position.",
+       "label": "C"
+      },
+      {
+       "text": "En distinguant la fréquence et la gravité des accidents.",
+       "correct": true,
+       "rationale": "« Même si les accidents sont moins nombreux sur autoroute, ils y sont plus violents. »",
        "label": "D"
       }
      ],
@@ -84,21 +84,21 @@
        "label": "A"
       },
       {
+       "text": "Sur la manière dont une telle décision doit être prise.",
+       "correct": true,
+       "rationale": "« Ce n'est pas aux experts de faire ce calcul à la place des citoyens. Une mesure aussi impopulaire doit être débattue, pas imposée. »",
+       "label": "B"
+      },
+      {
        "text": "Sur l'existence des accidents.",
        "correct": false,
        "rationale": "Personne ne la conteste.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Sur le prix du carburant.",
        "correct": false,
        "rationale": "Ce n'est pas le point final.",
-       "label": "C"
-      },
-      {
-       "text": "Sur la manière dont une telle décision doit être prise.",
-       "correct": true,
-       "rationale": "« Ce n'est pas aux experts de faire ce calcul à la place des citoyens. Une mesure aussi impopulaire doit être débattue, pas imposée. »",
        "label": "D"
       }
      ],
@@ -162,21 +162,21 @@
      "skill": "argumentation",
      "choices": [
       {
-       "text": "Une plus grande légitimité des élus et des candidats attentifs à tous les électeurs.",
-       "correct": true,
-       "rationale": "« Renforce la légitimité des élus, et oblige les candidats à s'adresser à tous les électeurs. »",
-       "label": "A"
-      },
-      {
        "text": "Une meilleure connaissance des programmes.",
        "correct": false,
        "rationale": "Il pense le contraire.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Une baisse du coût des élections.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Une plus grande légitimité des élus et des candidats attentifs à tous les électeurs.",
+       "correct": true,
+       "rationale": "« Renforce la légitimité des élus, et oblige les candidats à s'adresser à tous les électeurs. »",
        "label": "C"
       },
       {
@@ -199,21 +199,21 @@
        "label": "A"
       },
       {
-       "text": "Parce que l'obligation ne résout pas le désintérêt profond pour la politique.",
-       "correct": true,
-       "rationale": "« Forcer quelqu'un à voter ne le force pas à s'intéresser à la politique » ; l'abstention est « un symptôme ».",
-       "label": "B"
-      },
-      {
        "text": "Parce qu'il n'a jamais fonctionné ailleurs.",
        "correct": false,
        "rationale": "Il cite des pays où il existe, sans dire qu'il échoue.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Parce que le vote obligatoire est interdit par la Constitution.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que l'obligation ne résout pas le désintérêt profond pour la politique.",
+       "correct": true,
+       "rationale": "« Forcer quelqu'un à voter ne le force pas à s'intéresser à la politique » ; l'abstention est « un symptôme ».",
        "label": "D"
       }
      ],
@@ -224,21 +224,21 @@
      "skill": "implicite",
      "choices": [
       {
+       "text": "Rendre le vote obligatoire masquerait le problème sans le guérir.",
+       "correct": true,
+       "rationale": "« Supprimer le symptôme par la loi, c'est un peu comme casser le thermomètre pour faire baisser la fièvre. »",
+       "label": "A"
+      },
+      {
        "text": "Il faut mesurer précisément l'abstention.",
        "correct": false,
        "rationale": "Ce n'est pas le sens de l'image.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "La politique est une maladie.",
        "correct": false,
        "rationale": "C'est une métaphore, pas une affirmation littérale.",
-       "label": "B"
-      },
-      {
-       "text": "Rendre le vote obligatoire masquerait le problème sans le guérir.",
-       "correct": true,
-       "rationale": "« Supprimer le symptôme par la loi, c'est un peu comme casser le thermomètre pour faire baisser la fièvre. »",
        "label": "C"
       },
       {
@@ -318,15 +318,15 @@
        "label": "B"
       },
       {
-       "text": "La publicité embellit les villes.",
-       "correct": false,
-       "rationale": "Ce n'est pas dit.",
-       "label": "C"
-      },
-      {
        "text": "La publicité finance des équipements urbains utiles.",
        "correct": true,
        "rationale": "« L'affichage publicitaire finance une grande partie du mobilier urbain. »",
+       "label": "C"
+      },
+      {
+       "text": "La publicité embellit les villes.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
        "label": "D"
       }
      ],
@@ -337,15 +337,15 @@
      "skill": "argumentation",
      "choices": [
       {
-       "text": "Elle affirme que les citoyens paient déjà la publicité à travers le prix des produits.",
-       "correct": true,
-       "rationale": "« On paie déjà, indirectement : le coût de la publicité est intégré dans le prix des produits. »",
-       "label": "A"
-      },
-      {
        "text": "Elle conteste l'existence des abribus.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Elle affirme que les citoyens paient déjà la publicité à travers le prix des produits.",
+       "correct": true,
+       "rationale": "« On paie déjà, indirectement : le coût de la publicité est intégré dans le prix des produits. »",
        "label": "B"
       },
       {
@@ -368,27 +368,27 @@
      "skill": "implicite",
      "choices": [
       {
+       "text": "Parce qu'on ne peut pas éviter de voir les affiches dans la rue.",
+       "correct": true,
+       "rationale": "« On peut éteindre sa télévision, mais on ne peut pas fermer les yeux en marchant. »",
+       "label": "A"
+      },
+      {
        "text": "Parce que les affiches sont plus belles.",
        "correct": false,
        "rationale": "Ce n'est pas son propos.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Parce que les affiches sont plus chères.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Parce que la télévision est interdite.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
-       "label": "C"
-      },
-      {
-       "text": "Parce qu'on ne peut pas éviter de voir les affiches dans la rue.",
-       "correct": true,
-       "rationale": "« On peut éteindre sa télévision, mais on ne peut pas fermer les yeux en marchant. »",
        "label": "D"
       }
      ],
@@ -452,27 +452,27 @@
      "skill": "information détaillée",
      "choices": [
       {
-       "text": "Parce que les vidéos tournées par les parents étaient considérées comme relevant de la vie familiale.",
-       "correct": true,
-       "rationale": "« Quand ses propres parents le filment chez lui, on considérait que cela relevait de la vie familiale. »",
-       "label": "A"
-      },
-      {
        "text": "Parce que les enfants ne gagnaient pas d'argent.",
        "correct": false,
        "rationale": "Ils rapportaient beaucoup d'argent.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Parce que les plateformes refusaient de payer.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Parce qu'aucune loi ne protégeait les enfants acteurs.",
        "correct": false,
        "rationale": "Ils étaient protégés pour les publicités et les films.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que les vidéos tournées par les parents étaient considérées comme relevant de la vie familiale.",
+       "correct": true,
+       "rationale": "« Quand ses propres parents le filment chez lui, on considérait que cela relevait de la vie familiale. »",
        "label": "D"
       }
      ],
@@ -489,15 +489,15 @@
        "label": "A"
       },
       {
-       "text": "Une limitation du nombre de vidéos par semaine.",
-       "correct": false,
-       "rationale": "Ce n'est pas évoqué.",
-       "label": "B"
-      },
-      {
        "text": "Une protection des revenus de l'enfant et la possibilité de faire effacer les vidéos.",
        "correct": true,
        "rationale": "« Les revenus doivent être placés sur un compte… et il dispose d'un droit à l'oubli. »",
+       "label": "B"
+      },
+      {
+       "text": "Une limitation du nombre de vidéos par semaine.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
        "label": "C"
       },
       {
@@ -514,21 +514,21 @@
      "skill": "point de vue",
      "choices": [
       {
-       "text": "Il doute qu'on puisse vérifier l'application de la loi dans les foyers.",
-       "correct": true,
-       "rationale": "« Le vrai problème est ailleurs : qui va contrôler ce qui se passe à l'intérieur des maisons ? »",
-       "label": "A"
-      },
-      {
        "text": "Il veut supprimer le droit à l'oubli.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Il estime que les enfants gagnent trop.",
        "correct": false,
        "rationale": "Ce n'est pas son propos.",
+       "label": "B"
+      },
+      {
+       "text": "Il doute qu'on puisse vérifier l'application de la loi dans les foyers.",
+       "correct": true,
+       "rationale": "« Le vrai problème est ailleurs : qui va contrôler ce qui se passe à l'intérieur des maisons ? »",
        "label": "C"
       },
       {
@@ -660,27 +660,27 @@
      "skill": "synthèse",
      "choices": [
       {
-       "text": "Construire d'abord les lignes ferroviaires avant de supprimer les vols.",
-       "correct": true,
-       "rationale": "« On ne peut pas supprimer l'avion avant d'avoir construit l'alternative. »",
-       "label": "A"
-      },
-      {
        "text": "Maintenir les vols pour toujours.",
        "correct": false,
        "rationale": "Ce n'est pas ce qu'il demande.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Interdire la voiture.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Baisser le prix des billets de train.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Construire d'abord les lignes ferroviaires avant de supprimer les vols.",
+       "correct": true,
+       "rationale": "« On ne peut pas supprimer l'avion avant d'avoir construit l'alternative. »",
        "label": "D"
       }
      ],
@@ -750,15 +750,15 @@
        "label": "A"
       },
       {
-       "text": "Il réduirait les différences sociales visibles entre élèves.",
-       "correct": true,
-       "rationale": "« Il effacerait les différences sociales visibles et mettrait fin à la concurrence des marques. »",
-       "label": "B"
-      },
-      {
        "text": "Il coûterait moins cher aux familles.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Il réduirait les différences sociales visibles entre élèves.",
+       "correct": true,
+       "rationale": "« Il effacerait les différences sociales visibles et mettrait fin à la concurrence des marques. »",
        "label": "C"
       },
       {
@@ -775,15 +775,15 @@
      "skill": "point de vue",
      "choices": [
       {
-       "text": "Les inégalités apparaissent aussi à travers d'autres signes que les vêtements.",
-       "correct": true,
-       "rationale": "« Les inégalités ne se lisent pas seulement dans les vêtements : elles se voient dans les téléphones, les chaussures, les vacances. »",
-       "label": "A"
-      },
-      {
        "text": "Les professeurs y sont opposés.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Les inégalités apparaissent aussi à travers d'autres signes que les vêtements.",
+       "correct": true,
+       "rationale": "« Les inégalités ne se lisent pas seulement dans les vêtements : elles se voient dans les téléphones, les chaussures, les vacances. »",
        "label": "B"
       },
       {
@@ -806,27 +806,27 @@
      "skill": "synthèse",
      "choices": [
       {
+       "text": "L'efficacité de l'uniforme dépend de la façon dont il est mis en place.",
+       "correct": true,
+       "rationale": "« C'est un outil, dont l'efficacité dépend entièrement de la manière dont on l'utilise. »",
+       "label": "A"
+      },
+      {
        "text": "L'uniforme doit être imposé par l'État.",
        "correct": false,
        "rationale": "Elle préfère qu'il soit choisi avec les familles.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "L'uniforme doit être interdit.",
        "correct": false,
        "rationale": "Elle dit qu'il n'est pas absurde.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "L'uniforme résout tous les problèmes.",
        "correct": false,
        "rationale": "Il n'est « ni une solution miracle ».",
-       "label": "C"
-      },
-      {
-       "text": "L'efficacité de l'uniforme dépend de la façon dont il est mis en place.",
-       "correct": true,
-       "rationale": "« C'est un outil, dont l'efficacité dépend entièrement de la manière dont on l'utilise. »",
        "label": "D"
       }
      ],
@@ -888,27 +888,27 @@
      "skill": "information détaillée",
      "choices": [
       {
-       "text": "Une forte hausse de la fréquentation et des bénéfices sociaux et commerciaux.",
-       "correct": true,
-       "rationale": "« La fréquentation a augmenté de soixante pour cent. Les habitants les plus modestes ont retrouvé une mobilité, et le centre-ville a regagné des commerces. »",
-       "label": "A"
-      },
-      {
        "text": "Une baisse des impôts locaux.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "La disparition des voitures en ville.",
        "correct": false,
        "rationale": "Ce n'est pas affirmé.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "La création de nouvelles lignes de tramway.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Une forte hausse de la fréquentation et des bénéfices sociaux et commerciaux.",
+       "correct": true,
+       "rationale": "« La fréquentation a augmenté de soixante pour cent. Les habitants les plus modestes ont retrouvé une mobilité, et le centre-ville a regagné des commerces. »",
        "label": "D"
       }
      ],
@@ -931,15 +931,15 @@
        "label": "B"
       },
       {
-       "text": "Les automobilistes ont tous abandonné leur voiture.",
-       "correct": false,
-       "rationale": "Elle dit l'inverse.",
-       "label": "C"
-      },
-      {
        "text": "Beaucoup de nouveaux usagers se déplaçaient déjà à pied ou à vélo.",
        "correct": true,
        "rationale": "« Une bonne partie d'entre eux marchaient ou prenaient le vélo auparavant. »",
+       "label": "C"
+      },
+      {
+       "text": "Les automobilistes ont tous abandonné leur voiture.",
+       "correct": false,
+       "rationale": "Elle dit l'inverse.",
        "label": "D"
       }
      ],
@@ -950,21 +950,21 @@
      "skill": "implicite",
      "choices": [
       {
+       "text": "La qualité du service : des bus fréquents et rapides.",
+       "correct": true,
+       "rationale": "« Ce qui fait vraiment changer les automobilistes, c'est la fréquence et la rapidité des bus, bien plus que leur prix. »",
+       "label": "A"
+      },
+      {
        "text": "L'interdiction des voitures.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Le prix bas des tickets.",
        "correct": false,
        "rationale": "C'est ce qu'elle relativise.",
-       "label": "B"
-      },
-      {
-       "text": "La qualité du service : des bus fréquents et rapides.",
-       "correct": true,
-       "rationale": "« Ce qui fait vraiment changer les automobilistes, c'est la fréquence et la rapidité des bus, bien plus que leur prix. »",
        "label": "C"
       },
       {
@@ -1040,15 +1040,15 @@
        "label": "A"
       },
       {
-       "text": "Trois : la santé, l'environnement et le bien-être animal.",
-       "correct": true,
-       "rationale": "« Il y en a trois. Pour la santé d'abord… Pour l'environnement ensuite… Et pour le bien-être animal. »",
-       "label": "B"
-      },
-      {
        "text": "Une seule : la santé.",
        "correct": false,
        "rationale": "Elle en cite trois.",
+       "label": "B"
+      },
+      {
+       "text": "Trois : la santé, l'environnement et le bien-être animal.",
+       "correct": true,
+       "rationale": "« Il y en a trois. Pour la santé d'abord… Pour l'environnement ensuite… Et pour le bien-être animal. »",
        "label": "C"
       },
       {
@@ -1102,15 +1102,15 @@
        "label": "A"
       },
       {
-       "text": "Parce que la viande est indispensable.",
-       "correct": false,
-       "rationale": "Ce n'est pas son propos.",
-       "label": "B"
-      },
-      {
        "text": "Parce qu'une position trop radicale décourage les gens de changer.",
        "correct": true,
        "rationale": "« Le discours du tout ou rien fait fuir les gens. Une réduction progressive, en revanche, est à la portée de tous. »",
+       "label": "B"
+      },
+      {
+       "text": "Parce que la viande est indispensable.",
+       "correct": false,
+       "rationale": "Ce n'est pas son propos.",
        "label": "C"
       },
       {
@@ -1180,15 +1180,15 @@
      "skill": "information détaillée",
      "choices": [
       {
-       "text": "D'être utilisés seulement par les jeunes.",
-       "correct": false,
-       "rationale": "Ce n'est pas évoqué.",
-       "label": "A"
-      },
-      {
        "text": "D'enfermer les utilisateurs avec des personnes qui partagent leurs idées.",
        "correct": true,
        "rationale": "« Des bulles où l'on ne rencontre que ceux qui pensent comme nous. »",
+       "label": "A"
+      },
+      {
+       "text": "D'être utilisés seulement par les jeunes.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
        "label": "B"
       },
       {
@@ -1217,21 +1217,21 @@
        "label": "A"
       },
       {
-       "text": "Parce que la violence des débats existait déjà autrefois.",
-       "correct": true,
-       "rationale": "« Les pamphlets du dix-neuvième siècle n'avaient rien à envier à nos polémiques en ligne en matière de violence verbale. »",
-       "label": "B"
-      },
-      {
        "text": "Parce que les algorithmes sont récents.",
        "correct": false,
        "rationale": "Ce n'est pas son propos.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Parce que le passé était plus démocratique.",
        "correct": false,
        "rationale": "Il dit l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que la violence des débats existait déjà autrefois.",
+       "correct": true,
+       "rationale": "« Les pamphlets du dix-neuvième siècle n'avaient rien à envier à nos polémiques en ligne en matière de violence verbale. »",
        "label": "D"
       }
      ],

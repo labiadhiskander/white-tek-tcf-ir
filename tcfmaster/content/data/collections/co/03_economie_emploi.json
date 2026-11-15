@@ -28,15 +28,15 @@
        "label": "B"
       },
       {
-       "text": "Croire qu'un ralentissement de l'inflation signifie une baisse des prix.",
-       "correct": true,
-       "rationale": "« Quand l'inflation ralentit, cela signifie que les prix augmentent moins vite, pas qu'ils diminuent. »",
-       "label": "C"
-      },
-      {
        "text": "Croire que les supermarchés augmentent leurs marges.",
        "correct": false,
        "rationale": "Les marges ne sont pas évoquées.",
+       "label": "C"
+      },
+      {
+       "text": "Croire qu'un ralentissement de l'inflation signifie une baisse des prix.",
+       "correct": true,
+       "rationale": "« Quand l'inflation ralentit, cela signifie que les prix augmentent moins vite, pas qu'ils diminuent. »",
        "label": "D"
       }
      ],
@@ -47,15 +47,15 @@
      "skill": "argumentation",
      "choices": [
       {
-       "text": "Parce qu'elle incite à repousser les achats et freine l'économie.",
-       "correct": true,
-       "rationale": "« Elle pousse les consommateurs à reporter leurs achats et paralyse l'activité. »",
-       "label": "A"
-      },
-      {
        "text": "Parce qu'elle fait monter les salaires trop vite.",
        "correct": false,
        "rationale": "Ce n'est pas l'effet décrit.",
+       "label": "A"
+      },
+      {
+       "text": "Parce qu'elle incite à repousser les achats et freine l'économie.",
+       "correct": true,
+       "rationale": "« Elle pousse les consommateurs à reporter leurs achats et paralyse l'activité. »",
        "label": "B"
       },
       {
@@ -196,15 +196,15 @@
      "skill": "argumentation",
      "choices": [
       {
-       "text": "Une augmentation du chiffre d'affaires.",
-       "correct": false,
-       "rationale": "Le chiffre d'affaires n'est pas évoqué.",
-       "label": "A"
-      },
-      {
        "text": "Une plus grande facilité à recruter.",
        "correct": true,
        "rationale": "« Nous n'avons plus aucun mal à recruter. Avant, nos offres restaient sans réponse pendant des mois. »",
+       "label": "A"
+      },
+      {
+       "text": "Une augmentation du chiffre d'affaires.",
+       "correct": false,
+       "rationale": "Le chiffre d'affaires n'est pas évoqué.",
        "label": "B"
       },
       {
@@ -233,15 +233,15 @@
        "label": "A"
       },
       {
-       "text": "Il regrette de l'avoir adopté.",
-       "correct": false,
-       "rationale": "Son bilan est « globalement positif ».",
-       "label": "B"
-      },
-      {
        "text": "Il estime que ce modèle ne convient pas à tous les secteurs.",
        "correct": true,
        "rationale": "« Un restaurant ou une maison de retraite, c'est une autre histoire. »",
+       "label": "B"
+      },
+      {
+       "text": "Il regrette de l'avoir adopté.",
+       "correct": false,
+       "rationale": "Son bilan est « globalement positif ».",
        "label": "C"
       },
       {
@@ -354,15 +354,15 @@
        "label": "B"
       },
       {
-       "text": "Parce que ces métiers sont moins fatigants.",
-       "correct": false,
-       "rationale": "Le formateur souligne au contraire la difficulté physique.",
-       "label": "C"
-      },
-      {
        "text": "Pour exercer un travail dont les résultats sont visibles.",
        "correct": true,
        "rationale": "« Un métier concret, où l'on voit le résultat de sa journée. »",
+       "label": "C"
+      },
+      {
+       "text": "Parce que ces métiers sont moins fatigants.",
+       "correct": false,
+       "rationale": "Le formateur souligne au contraire la difficulté physique.",
        "label": "D"
       }
      ],
@@ -379,21 +379,21 @@
        "label": "A"
       },
       {
-       "text": "L'effort physique exigé par le métier.",
-       "correct": true,
-       "rationale": "« Leur seule difficulté, c'est souvent physique. »",
-       "label": "B"
-      },
-      {
        "text": "Le faible salaire des artisans.",
        "correct": false,
        "rationale": "Un bon artisan gagne souvent bien sa vie.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "La difficulté des cours théoriques.",
        "correct": false,
        "rationale": "La théorie n'est pas évoquée.",
+       "label": "C"
+      },
+      {
+       "text": "L'effort physique exigé par le métier.",
+       "correct": true,
+       "rationale": "« Leur seule difficulté, c'est souvent physique. »",
        "label": "D"
       }
      ],
@@ -463,15 +463,15 @@
        "label": "A"
       },
       {
-       "text": "Il favorise la construction de logements neufs.",
-       "correct": false,
-       "rationale": "Il dit qu'on ne construit pas assez.",
-       "label": "B"
-      },
-      {
        "text": "Il réduit le nombre de logements proposés à la location.",
        "correct": true,
        "rationale": "« L'offre diminue et les locataires ont encore plus de mal à se loger. »",
+       "label": "B"
+      },
+      {
+       "text": "Il favorise la construction de logements neufs.",
+       "correct": false,
+       "rationale": "Il dit qu'on ne construit pas assez.",
        "label": "C"
       },
       {
@@ -500,15 +500,15 @@
        "label": "B"
       },
       {
-       "text": "Elle propose de taxer les propriétaires.",
-       "correct": false,
-       "rationale": "Aucune taxe n'est proposée.",
-       "label": "C"
-      },
-      {
        "text": "Elle s'appuie sur des études qui ne confirment pas la baisse de l'offre.",
        "correct": true,
        "rationale": "« Les études menées dans les villes concernées ne montrent pas d'effondrement de l'offre. »",
+       "label": "C"
+      },
+      {
+       "text": "Elle propose de taxer les propriétaires.",
+       "correct": false,
+       "rationale": "Aucune taxe n'est proposée.",
        "label": "D"
       }
      ],
@@ -519,27 +519,27 @@
      "skill": "synthèse",
      "choices": [
       {
+       "text": "La construction de logements est indispensable.",
+       "correct": true,
+       "rationale": "Il dit « aucune régulation ne remplacera la construction », elle répond « Sur ce point, je suis d'accord ».",
+       "label": "A"
+      },
+      {
        "text": "Les études sur l'encadrement sont fiables.",
        "correct": false,
        "rationale": "Seule la représentante des locataires les invoque.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "L'encadrement doit être supprimé.",
        "correct": false,
        "rationale": "Elle le défend.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Les loyers actuels sont raisonnables.",
        "correct": false,
        "rationale": "Elle parle de loyers « exorbitants ».",
-       "label": "C"
-      },
-      {
-       "text": "La construction de logements est indispensable.",
-       "correct": true,
-       "rationale": "Il dit « aucune régulation ne remplacera la construction », elle répond « Sur ce point, je suis d'accord ».",
        "label": "D"
       }
      ],
@@ -665,15 +665,15 @@
      "skill": "implicite",
      "choices": [
       {
-       "text": "Le marché de l'occasion risque de produire l'effet contraire à son objectif.",
-       "correct": true,
-       "rationale": "Il « pourrait… alimenter la surconsommation qu'il prétend combattre ».",
-       "label": "A"
-      },
-      {
        "text": "Les consommateurs ne comprennent pas le marché.",
        "correct": false,
        "rationale": "Ce n'est pas le sens du mot.",
+       "label": "A"
+      },
+      {
+       "text": "Le marché de l'occasion risque de produire l'effet contraire à son objectif.",
+       "correct": true,
+       "rationale": "Il « pourrait… alimenter la surconsommation qu'il prétend combattre ».",
        "label": "B"
       },
       {
@@ -747,21 +747,21 @@
      "skill": "information détaillée",
      "choices": [
       {
+       "text": "Parce que leur préparation demande du temps.",
+       "correct": true,
+       "rationale": "« Les gens n'en mangent presque pas, parce que c'est long à préparer. »",
+       "label": "A"
+      },
+      {
        "text": "Parce qu'elles contiennent des additifs.",
        "correct": false,
        "rationale": "Elle propose des plats « sans additifs », ce n'est pas une caractéristique des légumineuses.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Parce qu'elles sont chères.",
        "correct": false,
        "rationale": "Le prix n'est pas évoqué.",
-       "label": "B"
-      },
-      {
-       "text": "Parce que leur préparation demande du temps.",
-       "correct": true,
-       "rationale": "« Les gens n'en mangent presque pas, parce que c'est long à préparer. »",
        "label": "C"
       },
       {
@@ -809,21 +809,21 @@
      "skill": "point de vue",
      "choices": [
       {
+       "text": "Elle reste prudente car sa position dans les magasins est fragile.",
+       "correct": true,
+       "rationale": "« Je garde la tête froide : la grande distribution peut vous référencer un jour et vous retirer des rayons le lendemain. »",
+       "label": "A"
+      },
+      {
        "text": "Elle veut quitter la grande distribution.",
        "correct": false,
        "rationale": "Elle ne dit pas vouloir partir.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Elle prévoit de vendre son entreprise.",
        "correct": false,
        "rationale": "Rien ne l'indique.",
-       "label": "B"
-      },
-      {
-       "text": "Elle reste prudente car sa position dans les magasins est fragile.",
-       "correct": true,
-       "rationale": "« Je garde la tête froide : la grande distribution peut vous référencer un jour et vous retirer des rayons le lendemain. »",
        "label": "C"
       },
       {
@@ -930,15 +930,15 @@
        "label": "A"
       },
       {
-       "text": "Les trains vers les métropoles sont saturés.",
-       "correct": false,
-       "rationale": "Les trains ne sont pas évoqués.",
-       "label": "B"
-      },
-      {
        "text": "Les habitants modestes des villes moyennes ont plus de mal à se loger.",
        "correct": true,
        "rationale": "« Les jeunes et les familles modestes voient les loyers grimper et peinent à se loger. »",
+       "label": "B"
+      },
+      {
+       "text": "Les trains vers les métropoles sont saturés.",
+       "correct": false,
+       "rationale": "Les trains ne sont pas évoqués.",
        "label": "C"
       },
       {
@@ -961,21 +961,21 @@
        "label": "A"
       },
       {
+       "text": "Des moyens pour limiter certaines formes de logement non permanent.",
+       "correct": true,
+       "rationale": "Ils réclament « des outils pour réguler les résidences secondaires et les locations de courte durée ».",
+       "label": "B"
+      },
+      {
        "text": "La construction de nouvelles lignes de train.",
        "correct": false,
        "rationale": "Ce n'est pas leur demande.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "L'interdiction du télétravail.",
        "correct": false,
        "rationale": "Ils ne s'en prennent pas au télétravail.",
-       "label": "C"
-      },
-      {
-       "text": "Des moyens pour limiter certaines formes de logement non permanent.",
-       "correct": true,
-       "rationale": "Ils réclament « des outils pour réguler les résidences secondaires et les locations de courte durée ».",
        "label": "D"
       }
      ],
@@ -1049,15 +1049,15 @@
        "label": "B"
       },
       {
-       "text": "Son travail ne lui apportait aucune satisfaction personnelle.",
-       "correct": true,
-       "rationale": "Elle rentrait « avec un sentiment de vide » et n'avait « aucune envie de retourner au bureau ».",
-       "label": "C"
-      },
-      {
        "text": "Son salaire était insuffisant.",
        "correct": false,
        "rationale": "Elle avait « un bon salaire ».",
+       "label": "C"
+      },
+      {
+       "text": "Son travail ne lui apportait aucune satisfaction personnelle.",
+       "correct": true,
+       "rationale": "Elle rentrait « avec un sentiment de vide » et n'avait « aucune envie de retourner au bureau ».",
        "label": "D"
       }
      ],
@@ -1099,21 +1099,21 @@
      "skill": "synthèse",
      "choices": [
       {
-       "text": "Une reconversion est possible mais exige préparation et sécurité financière.",
-       "correct": true,
-       "rationale": "« Changer de vie, ça se prépare, et ça suppose d'avoir un minimum de filet de sécurité. »",
-       "label": "A"
-      },
-      {
        "text": "Tout le monde devrait quitter son emploi de bureau.",
        "correct": false,
        "rationale": "Elle refuse d'« idéaliser ».",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Les formations d'ébéniste sont trop difficiles.",
        "correct": false,
        "rationale": "Elle explique les abandons par l'épuisement ou le manque d'argent, sans critiquer la formation.",
+       "label": "B"
+      },
+      {
+       "text": "Une reconversion est possible mais exige préparation et sécurité financière.",
+       "correct": true,
+       "rationale": "« Changer de vie, ça se prépare, et ça suppose d'avoir un minimum de filet de sécurité. »",
        "label": "C"
       },
       {

@@ -22,15 +22,15 @@
        "label": "A"
       },
       {
-       "text": "Pour répondre à une attente des parents.",
-       "correct": true,
-       "rationale": "« D'abord parce que les parents les réclament » ; sinon l'enseignant « risque de passer pour laxiste ».",
-       "label": "B"
-      },
-      {
        "text": "Parce que les programmes l'exigent.",
        "correct": false,
        "rationale": "Les devoirs sont au contraire officiellement interdits.",
+       "label": "B"
+      },
+      {
+       "text": "Pour répondre à une attente des parents.",
+       "correct": true,
+       "rationale": "« D'abord parce que les parents les réclament » ; sinon l'enseignant « risque de passer pour laxiste ».",
        "label": "C"
       },
       {
@@ -78,27 +78,27 @@
      "skill": "synthèse",
      "choices": [
       {
+       "text": "Faire le travail personnel à l'école avec un encadrement gratuit.",
+       "correct": true,
+       "rationale": "« Le faire à l'école, encadré, pendant une étude du soir gratuite. »",
+       "label": "A"
+      },
+      {
        "text": "Supprimer tout travail personnel.",
        "correct": false,
        "rationale": "Il dit explicitement « Pas de supprimer tout travail personnel ».",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Réduire la durée des vacances.",
        "correct": false,
        "rationale": "Ce n'est pas évoqué.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Former les parents à aider leurs enfants.",
        "correct": false,
        "rationale": "Ce n'est pas sa proposition.",
-       "label": "C"
-      },
-      {
-       "text": "Faire le travail personnel à l'école avec un encadrement gratuit.",
-       "correct": true,
-       "rationale": "« Le faire à l'école, encadré, pendant une étude du soir gratuite. »",
        "label": "D"
       }
      ],
@@ -168,15 +168,15 @@
        "label": "A"
       },
       {
-       "text": "Comme une récréation sans objectif scolaire.",
-       "correct": false,
-       "rationale": "Elle cite des activités de calcul, de mesure et d'écriture.",
-       "label": "B"
-      },
-      {
        "text": "Comme une autre manière de travailler les mêmes compétences.",
        "correct": true,
        "rationale": "« Dehors, on fait les mêmes apprentissages qu'en classe, mais autrement. »",
+       "label": "B"
+      },
+      {
+       "text": "Comme une récréation sans objectif scolaire.",
+       "correct": false,
+       "rationale": "Elle cite des activités de calcul, de mesure et d'écriture.",
        "label": "C"
       },
       {
@@ -199,15 +199,15 @@
        "label": "A"
       },
       {
-       "text": "En les invitant à observer les élèves en situation.",
-       "correct": true,
-       "rationale": "« Je les ai invités à nous accompagner. Quand ils ont vu leur enfant expliquer… la plupart ont changé d'avis. »",
-       "label": "B"
-      },
-      {
        "text": "En réduisant le temps passé dehors.",
        "correct": false,
        "rationale": "Le rythme reste hebdomadaire.",
+       "label": "B"
+      },
+      {
+       "text": "En les invitant à observer les élèves en situation.",
+       "correct": true,
+       "rationale": "« Je les ai invités à nous accompagner. Quand ils ont vu leur enfant expliquer… la plupart ont changé d'avis. »",
        "label": "C"
       },
       {
@@ -224,27 +224,27 @@
      "skill": "implicite",
      "choices": [
       {
-       "text": "Les craintes des parents sur la santé des enfants sont exagérées.",
-       "correct": true,
-       "rationale": "Elle dit avoir eu moins d'élèves enrhumés que de parents inquiets : la peur dépasse la réalité.",
-       "label": "A"
-      },
-      {
        "text": "Elle va suspendre les sorties en hiver.",
        "correct": false,
        "rationale": "Rien ne l'indique.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Beaucoup d'élèves tombent malades l'hiver.",
        "correct": false,
        "rationale": "C'est l'inverse qu'elle suggère.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Les parents sont souvent malades.",
        "correct": false,
        "rationale": "Il s'agit des inquiétudes des parents, pas de leur santé.",
+       "label": "C"
+      },
+      {
+       "text": "Les craintes des parents sur la santé des enfants sont exagérées.",
+       "correct": true,
+       "rationale": "Elle dit avoir eu moins d'élèves enrhumés que de parents inquiets : la peur dépasse la réalité.",
        "label": "D"
       }
      ],
@@ -314,21 +314,21 @@
        "label": "A"
       },
       {
+       "text": "Parce que la détection est peu fiable et que les règles sont contournées.",
+       "correct": true,
+       "rationale": "« Les logiciels de détection se trompent souvent et les étudiants trouvent toujours le moyen de contourner les règles. »",
+       "label": "B"
+      },
+      {
        "text": "Parce que l'intelligence artificielle est interdite par la loi.",
        "correct": false,
        "rationale": "Rien ne l'indique.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Parce que les enseignants refusent de sanctionner.",
        "correct": false,
        "rationale": "Ce n'est pas l'argument.",
-       "label": "C"
-      },
-      {
-       "text": "Parce que la détection est peu fiable et que les règles sont contournées.",
-       "correct": true,
-       "rationale": "« Les logiciels de détection se trompent souvent et les étudiants trouvent toujours le moyen de contourner les règles. »",
        "label": "D"
       }
      ],
@@ -339,21 +339,21 @@
      "skill": "implicite",
      "choices": [
       {
+       "text": "Ils n'évaluaient peut-être pas vraiment les compétences visées.",
+       "correct": true,
+       "rationale": "« C'est peut-être que le devoir mesurait mal ce qu'on voulait évaluer. »",
+       "label": "A"
+      },
+      {
        "text": "Ils sont plus fiables que les examens oraux.",
        "correct": false,
        "rationale": "Elle suggère l'inverse.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Ils doivent être rédigés par une machine.",
        "correct": false,
        "rationale": "Ce n'est pas sa proposition.",
-       "label": "B"
-      },
-      {
-       "text": "Ils n'évaluaient peut-être pas vraiment les compétences visées.",
-       "correct": true,
-       "rationale": "« C'est peut-être que le devoir mesurait mal ce qu'on voulait évaluer. »",
        "label": "C"
       },
       {
@@ -452,27 +452,27 @@
      "skill": "information détaillée",
      "choices": [
       {
+       "text": "Une question de son fils à laquelle il n'a pas su répondre.",
+       "correct": true,
+       "rationale": "« Il m'a demandé de l'aider en histoire et je me suis rendu compte que je ne savais pas répondre. »",
+       "label": "A"
+      },
+      {
        "text": "Une promotion qui exigeait un diplôme.",
        "correct": false,
        "rationale": "Aucune promotion n'est évoquée.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Les conseils d'un professeur.",
        "correct": false,
        "rationale": "Aucun professeur n'est cité.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "La perte de son emploi dans la logistique.",
        "correct": false,
        "rationale": "Il ne dit pas avoir perdu son emploi.",
-       "label": "C"
-      },
-      {
-       "text": "Une question de son fils à laquelle il n'a pas su répondre.",
-       "correct": true,
-       "rationale": "« Il m'a demandé de l'aider en histoire et je me suis rendu compte que je ne savais pas répondre. »",
        "label": "D"
       }
      ],
@@ -483,21 +483,21 @@
      "skill": "information détaillée",
      "choices": [
       {
-       "text": "La solidarité entre les étudiants de son groupe.",
-       "correct": true,
-       "rationale": "« Ce qui m'a sauvé, c'est le groupe… on se motivait mutuellement. »",
-       "label": "A"
-      },
-      {
        "text": "Des cours particuliers.",
        "correct": false,
        "rationale": "Il n'en parle pas.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Les encouragements de son fils.",
        "correct": false,
        "rationale": "Son fils a été le déclencheur, mais c'est le groupe qui l'a soutenu.",
+       "label": "B"
+      },
+      {
+       "text": "La solidarité entre les étudiants de son groupe.",
+       "correct": true,
+       "rationale": "« Ce qui m'a sauvé, c'est le groupe… on se motivait mutuellement. »",
        "label": "C"
       },
       {
@@ -520,21 +520,21 @@
        "label": "A"
       },
       {
+       "text": "Le plaisir d'apprendre compte davantage pour lui que l'intérêt professionnel.",
+       "correct": true,
+       "rationale": "« Je ne sais pas encore ce que j'en ferai professionnellement, et franchement, ce n'est pas ce qui compte le plus. »",
+       "label": "B"
+      },
+      {
        "text": "Il veut devenir professeur d'histoire.",
        "correct": false,
        "rationale": "Il ne sait pas encore ce qu'il fera.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Il va bientôt arrêter sa licence.",
        "correct": false,
        "rationale": "Il ne parle pas d'arrêter.",
-       "label": "C"
-      },
-      {
-       "text": "Le plaisir d'apprendre compte davantage pour lui que l'intérêt professionnel.",
-       "correct": true,
-       "rationale": "« Je ne sais pas encore ce que j'en ferai professionnellement, et franchement, ce n'est pas ce qui compte le plus. »",
        "label": "D"
       }
      ],
@@ -608,15 +608,15 @@
        "label": "B"
       },
       {
-       "text": "Elles sont faciles à comprendre pour tout le monde.",
-       "correct": true,
-       "rationale": "« Une note, c'est clair, tout le monde comprend. »",
-       "label": "C"
-      },
-      {
        "text": "Elles sont imposées par la loi.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Elles sont faciles à comprendre pour tout le monde.",
+       "correct": true,
+       "rationale": "« Une note, c'est clair, tout le monde comprend. »",
        "label": "D"
       }
      ],
@@ -633,21 +633,21 @@
        "label": "A"
       },
       {
+       "text": "Elle montre précisément ce que l'élève maîtrise ou non.",
+       "correct": true,
+       "rationale": "« Une évaluation par compétences permet de savoir précisément où il en est. »",
+       "label": "B"
+      },
+      {
        "text": "Elle plaît davantage aux parents.",
        "correct": false,
        "rationale": "Elle reconnaît que la réforme a été mal expliquée aux familles.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Elle est plus rapide à corriger.",
        "correct": false,
        "rationale": "La rapidité n'est pas évoquée.",
-       "label": "C"
-      },
-      {
-       "text": "Elle montre précisément ce que l'élève maîtrise ou non.",
-       "correct": true,
-       "rationale": "« Une évaluation par compétences permet de savoir précisément où il en est. »",
        "label": "D"
       }
      ],
@@ -664,15 +664,15 @@
        "label": "A"
       },
       {
-       "text": "La réforme n'a pas été bien présentée aux familles.",
-       "correct": true,
-       "rationale": "« Je reconnais qu'on a mal expliqué la réforme aux familles. C'est un vrai problème. »",
-       "label": "B"
-      },
-      {
        "text": "Les notes sont indispensables dans la société.",
        "correct": false,
        "rationale": "Elle conteste cet argument.",
+       "label": "B"
+      },
+      {
+       "text": "La réforme n'a pas été bien présentée aux familles.",
+       "correct": true,
+       "rationale": "« Je reconnais qu'on a mal expliqué la réforme aux familles. C'est un vrai problème. »",
        "label": "C"
       },
       {
@@ -779,15 +779,15 @@
        "label": "A"
       },
       {
-       "text": "Le refus des jeunes de travailler.",
-       "correct": false,
-       "rationale": "Ce n'est pas dit.",
-       "label": "B"
-      },
-      {
        "text": "Des conditions de travail difficiles qui découragent les enseignants.",
        "correct": true,
        "rationale": "« Le problème tient avant tout aux conditions de travail : classes surchargées… salaires peu attractifs. »",
+       "label": "B"
+      },
+      {
+       "text": "Le refus des jeunes de travailler.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
        "label": "C"
       },
       {
@@ -804,27 +804,27 @@
      "skill": "point de vue",
      "choices": [
       {
+       "text": "Il admet le problème mais ne promet pas d'augmentation salariale.",
+       "correct": true,
+       "rationale": "« Le ministre reconnaît la gravité de la situation… mais refuse pour l'instant de s'engager sur une hausse des salaires. »",
+       "label": "A"
+      },
+      {
        "text": "Il accepte toutes les demandes des syndicats.",
        "correct": false,
        "rationale": "Il refuse la hausse des salaires.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Il veut supprimer la formation des enseignants.",
        "correct": false,
        "rationale": "Il promet une réforme de la formation.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Il nie l'existence d'une pénurie.",
        "correct": false,
        "rationale": "Il « reconnaît la gravité ».",
-       "label": "C"
-      },
-      {
-       "text": "Il admet le problème mais ne promet pas d'augmentation salariale.",
-       "correct": true,
-       "rationale": "« Le ministre reconnaît la gravité de la situation… mais refuse pour l'instant de s'engager sur une hausse des salaires. »",
        "label": "D"
       }
      ],
@@ -898,15 +898,15 @@
        "label": "B"
       },
       {
-       "text": "Elle la confirme entièrement.",
-       "correct": false,
-       "rationale": "Elle la qualifie de « largement fausse ».",
-       "label": "C"
-      },
-      {
        "text": "Elle la juge en grande partie erronée.",
        "correct": true,
        "rationale": "« C'est une idée reçue tenace, mais largement fausse. »",
+       "label": "C"
+      },
+      {
+       "text": "Elle la confirme entièrement.",
+       "correct": false,
+       "rationale": "Elle la qualifie de « largement fausse ».",
        "label": "D"
       }
      ],
@@ -923,21 +923,21 @@
        "label": "A"
       },
       {
-       "text": "La crainte de commettre des erreurs devant les autres.",
-       "correct": true,
-       "rationale": "« Surtout la peur de se tromper… Un adulte, lui, se tait plutôt que de faire une faute devant les autres. »",
-       "label": "B"
-      },
-      {
        "text": "Le manque de mémoire.",
        "correct": false,
        "rationale": "Ce n'est pas évoqué.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Le manque de temps.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "La crainte de commettre des erreurs devant les autres.",
+       "correct": true,
+       "rationale": "« Surtout la peur de se tromper… Un adulte, lui, se tait plutôt que de faire une faute devant les autres. »",
        "label": "D"
       }
      ],
@@ -948,15 +948,15 @@
      "skill": "implicite",
      "choices": [
       {
-       "text": "Comme un élément d'identité qu'il ne faut pas voir comme un défaut.",
-       "correct": true,
-       "rationale": "« Ce n'est pas un défaut, c'est une trace de son histoire. »",
-       "label": "A"
-      },
-      {
        "text": "Comme une preuve de manque de travail.",
        "correct": false,
        "rationale": "Elle invite à l'accepter.",
+       "label": "A"
+      },
+      {
+       "text": "Comme un élément d'identité qu'il ne faut pas voir comme un défaut.",
+       "correct": true,
+       "rationale": "« Ce n'est pas un défaut, c'est une trace de son histoire. »",
        "label": "B"
       },
       {
@@ -1032,27 +1032,27 @@
      "skill": "information détaillée",
      "choices": [
       {
+       "text": "Elle propose un parcours personnalisé combinant cours et stages.",
+       "correct": true,
+       "rationale": "« Pas de notes, pas de classes par niveau, mais un parcours individualisé alternant cours et stages en entreprise. »",
+       "label": "A"
+      },
+      {
        "text": "Elle accueille uniquement les meilleurs élèves.",
        "correct": false,
        "rationale": "Elle accueille des jeunes sans diplôme.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Elle remplace les cours par du sport.",
        "correct": false,
        "rationale": "Il y a des cours et des stages.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Elle délivre les mêmes diplômes plus rapidement.",
        "correct": false,
        "rationale": "Aucun diplôme n'est évoqué.",
-       "label": "C"
-      },
-      {
-       "text": "Elle propose un parcours personnalisé combinant cours et stages.",
-       "correct": true,
-       "rationale": "« Pas de notes, pas de classes par niveau, mais un parcours individualisé alternant cours et stages en entreprise. »",
        "label": "D"
       }
      ],
@@ -1069,15 +1069,15 @@
        "label": "A"
       },
       {
-       "text": "Il a enfin le sentiment d'être reconnu pour ses compétences.",
-       "correct": true,
-       "rationale": "« Pour la première fois, quelqu'un me dit que je suis bon dans quelque chose. »",
-       "label": "B"
-      },
-      {
        "text": "Il a décidé de reprendre ses études générales.",
        "correct": false,
        "rationale": "Il s'oriente vers l'apprentissage.",
+       "label": "B"
+      },
+      {
+       "text": "Il a enfin le sentiment d'être reconnu pour ses compétences.",
+       "correct": true,
+       "rationale": "« Pour la première fois, quelqu'un me dit que je suis bon dans quelque chose. »",
        "label": "C"
       },
       {

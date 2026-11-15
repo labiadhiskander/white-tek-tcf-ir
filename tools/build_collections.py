@@ -48,7 +48,8 @@ Situation d'expression orale :
     CONSEILS: conseils
 
 Les lignes qui commencent par un espace prolongent le champ précédent. La
-position de la bonne réponse est mélangée de façon déterministe (graine = code).
+position de la bonne réponse est mélangée de façon déterministe et équilibrée
+entre A, B, C et D au sein de chaque collection (graine = slug).
 """
 from __future__ import annotations
 
@@ -137,7 +138,22 @@ def _document(text: str) -> str:
     return text.replace(" ¶ ", "\n\n").replace("¶", "\n\n").strip()
 
 
-def build_exercise(title: str, lines: list[str], section: str) -> dict:
+class AnswerSlots:
+    """Positions de bonne réponse équilibrées (A–D) par blocs de 4 mélangés, déterministe."""
+
+    def __init__(self, seed: str):
+        self.rng = random.Random(seed)
+        self.pool: list[int] = []
+
+    def next(self) -> int:
+        if not self.pool:
+            self.pool = list(range(len(LABELS)))
+            self.rng.shuffle(self.pool)
+        return self.pool.pop()
+
+
+def build_exercise(title: str, lines: list[str], section: str,
+                   slots: AnswerSlots | None = None) -> dict:
     parts = [p.strip() for p in title.split("|")]
     code, doc_type = parts[0], parts[1]
     ex: dict = {"code": code, "level": "B2", "doc_type": doc_type, "questions": []}
@@ -172,6 +188,10 @@ def build_exercise(title: str, lines: list[str], section: str) -> dict:
     for i, qd in enumerate(ex["questions"], 1):
         rng = random.Random(f"{code}-{i}")
         rng.shuffle(qd["choices"])
+        if slots is not None and len(qd["choices"]) == len(LABELS):
+            good = next(c for c in qd["choices"] if c["correct"])
+            qd["choices"].remove(good)
+            qd["choices"].insert(slots.next(), good)
         for lab, c in zip(LABELS, qd["choices"]):
             c["label"] = lab
     return ex
@@ -225,9 +245,10 @@ def build_file(path: Path) -> dict:
     col = {"slug": header["slug"], "section": sec, "title": header["title"],
            "description": header.get("description", ""), "order": int(header.get("order", 0)),
            "level": "B2", "items": []}
+    slots = AnswerSlots(header["slug"])
     for title, lines in blocks:
         if sec in ("CO", "CE"):
-            col["items"].append(build_exercise(title, lines, sec))
+            col["items"].append(build_exercise(title, lines, sec, slots))
         elif sec == "EE":
             col["items"].append(build_writing(title, lines))
         else:

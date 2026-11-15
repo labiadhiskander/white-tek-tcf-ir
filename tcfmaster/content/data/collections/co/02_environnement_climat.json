@@ -53,21 +53,21 @@
        "label": "A"
       },
       {
-       "text": "Elles profitent surtout à ceux qui pourraient déjà presque payer un véhicule neuf.",
-       "correct": true,
-       "rationale": "Si l'aide ne couvre qu'un tiers du prix, le reste « demeure inaccessible » aux familles modestes : seules les familles plus aisées peuvent en bénéficier.",
-       "label": "B"
-      },
-      {
        "text": "Elles sont réservées aux habitants du centre-ville.",
        "correct": false,
        "rationale": "Rien n'indique une condition de domicile.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Elles devraient être supprimées au profit des transports.",
        "correct": false,
        "rationale": "Il ne propose pas de les supprimer, il dit qu'elles ne suffisent pas.",
+       "label": "C"
+      },
+      {
+       "text": "Elles profitent surtout à ceux qui pourraient déjà presque payer un véhicule neuf.",
+       "correct": true,
+       "rationale": "Si l'aide ne couvre qu'un tiers du prix, le reste « demeure inaccessible » aux familles modestes : seules les familles plus aisées peuvent en bénéficier.",
        "label": "D"
       }
      ],
@@ -78,15 +78,15 @@
      "skill": "argumentation",
      "choices": [
       {
-       "text": "Elles ont développé les alternatives à la voiture avant d'interdire l'accès au centre.",
-       "correct": true,
-       "rationale": "« Celles qui ont d'abord renforcé les parkings relais et les lignes de bus, avant de fermer leur centre. »",
-       "label": "A"
-      },
-      {
        "text": "Elles ont accordé des aides plus élevées que les autres.",
        "correct": false,
        "rationale": "Le montant des aides n'est pas le critère cité.",
+       "label": "A"
+      },
+      {
+       "text": "Elles ont développé les alternatives à la voiture avant d'interdire l'accès au centre.",
+       "correct": true,
+       "rationale": "« Celles qui ont d'abord renforcé les parkings relais et les lignes de bus, avant de fermer leur centre. »",
        "label": "B"
       },
       {
@@ -167,27 +167,27 @@
      "skill": "synthèse",
      "choices": [
       {
+       "text": "La végétalisation est une réponse utile à la chaleur urbaine, mais lente et exigeante.",
+       "correct": true,
+       "rationale": "La chroniqueuse présente les plantations comme « indispensables » tout en soulignant deux limites : le choix des essences et le délai de quinze à vingt ans.",
+       "label": "A"
+      },
+      {
        "text": "Les villes devraient renoncer à planter des arbres trop fragiles.",
        "correct": false,
        "rationale": "Elle conseille de diversifier les essences, pas de renoncer.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Le béton est désormais interdit dans les nouveaux aménagements.",
        "correct": false,
        "rationale": "Aucune interdiction n'est mentionnée.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Les arbres sont la seule solution efficace contre les canicules.",
        "correct": false,
        "rationale": "Elle dit au contraire qu'ils « ne dispensent pas de mesures plus rapides ».",
-       "label": "C"
-      },
-      {
-       "text": "La végétalisation est une réponse utile à la chaleur urbaine, mais lente et exigeante.",
-       "correct": true,
-       "rationale": "La chroniqueuse présente les plantations comme « indispensables » tout en soulignant deux limites : le choix des essences et le délai de quinze à vingt ans.",
        "label": "D"
       }
      ],
@@ -229,27 +229,27 @@
      "skill": "implicite",
      "choices": [
       {
-       "text": "Qu'il faut aussi protéger les personnes vulnérables dès maintenant.",
-       "correct": true,
-       "rationale": "Les plantations agiront dans quinze ou vingt ans ; les lieux climatisés sont une « mesure plus rapide » destinée aux personnes âgées.",
-       "label": "A"
-      },
-      {
        "text": "Que les municipalités ont déjà abandonné les projets de jardins.",
        "correct": false,
        "rationale": "Elle décrit au contraire de nombreux projets en cours.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Que les personnes âgées refusent de se rendre dans les parcs.",
        "correct": false,
        "rationale": "Rien de tel n'est dit.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Que la climatisation devrait remplacer les plantations.",
        "correct": false,
        "rationale": "Les plantations restent « indispensables ».",
+       "label": "C"
+      },
+      {
+       "text": "Qu'il faut aussi protéger les personnes vulnérables dès maintenant.",
+       "correct": true,
+       "rationale": "Les plantations agiront dans quinze ou vingt ans ; les lieux climatisés sont une « mesure plus rapide » destinée aux personnes âgées.",
        "label": "D"
       }
      ],
@@ -323,21 +323,21 @@
        "label": "A"
       },
       {
+       "text": "Parce qu'il ne pouvait plus l'arroser au moment où elle en avait besoin.",
+       "correct": true,
+       "rationale": "Les arrêtés « interdisent de pomper en juillet », période où le maïs a besoin « d'énormément d'eau ».",
+       "label": "B"
+      },
+      {
        "text": "Parce que le sol était devenu trop pauvre.",
        "correct": false,
        "rationale": "La qualité du sol n'est pas évoquée.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Parce que le maïs ne se vendait plus.",
        "correct": false,
        "rationale": "Le prix n'est pas la raison invoquée.",
-       "label": "C"
-      },
-      {
-       "text": "Parce qu'il ne pouvait plus l'arroser au moment où elle en avait besoin.",
-       "correct": true,
-       "rationale": "Les arrêtés « interdisent de pomper en juillet », période où le maïs a besoin « d'énormément d'eau ».",
        "label": "D"
       }
      ],
@@ -385,15 +385,15 @@
        "label": "A"
       },
       {
-       "text": "De favoriser les cultures de maïs.",
-       "correct": false,
-       "rationale": "Il ne dit rien de tel.",
-       "label": "B"
-      },
-      {
        "text": "De demander des changements sans aider à les financer.",
        "correct": true,
        "rationale": "« On demande aux agriculteurs de s'adapter… mais changer de culture, ça coûte… et personne ne nous aide vraiment. »",
+       "label": "B"
+      },
+      {
+       "text": "De favoriser les cultures de maïs.",
+       "correct": false,
+       "rationale": "Il ne dit rien de tel.",
        "label": "C"
       },
       {
@@ -468,27 +468,27 @@
      "skill": "synthèse",
      "choices": [
       {
-       "text": "Le recyclage est utile mais doit passer après la réduction et la réutilisation des déchets.",
-       "correct": true,
-       "rationale": "Elle présente la « hiérarchie des déchets » où le recyclage vient « en dernier recours ».",
-       "label": "A"
-      },
-      {
        "text": "Le plastique peut être recyclé à l'infini.",
        "correct": false,
        "rationale": "Il ne peut l'être « qu'une ou deux fois ».",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Les centres de tri sont la meilleure solution.",
        "correct": false,
        "rationale": "Elle critique le fait d'y avoir trop investi.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Il faut cesser de trier ses déchets.",
        "correct": false,
        "rationale": "Elle dit explicitement « Trier, c'est bien ».",
+       "label": "C"
+      },
+      {
+       "text": "Le recyclage est utile mais doit passer après la réduction et la réutilisation des déchets.",
+       "correct": true,
+       "rationale": "Elle présente la « hiérarchie des déchets » où le recyclage vient « en dernier recours ».",
        "label": "D"
       }
      ],
@@ -530,21 +530,21 @@
      "skill": "argumentation",
      "choices": [
       {
-       "text": "D'avoir privilégié le tri au détriment de solutions qui évitent les déchets.",
-       "correct": true,
-       "rationale": "« En investissant massivement dans les centres de tri plutôt que dans la consigne ou la vente en vrac. »",
-       "label": "A"
-      },
-      {
        "text": "D'avoir interdit la vente en vrac.",
        "correct": false,
        "rationale": "Rien n'indique une interdiction.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "D'avoir supprimé la consigne.",
        "correct": false,
        "rationale": "Elle regrette un manque d'investissement, pas une suppression.",
+       "label": "B"
+      },
+      {
+       "text": "D'avoir privilégié le tri au détriment de solutions qui évitent les déchets.",
+       "correct": true,
+       "rationale": "« En investissant massivement dans les centres de tri plutôt que dans la consigne ou la vente en vrac. »",
        "label": "C"
       },
       {
@@ -630,15 +630,15 @@
        "label": "B"
       },
       {
-       "text": "Relocaliser une partie du village plutôt que de construire une digue.",
-       "correct": true,
-       "rationale": "« Plutôt que de construire une nouvelle digue, elle a décidé de déplacer progressivement une partie du village. »",
-       "label": "C"
-      },
-      {
        "text": "Renforcer la falaise avec du béton.",
        "correct": false,
        "rationale": "Cette solution n'est pas évoquée.",
+       "label": "C"
+      },
+      {
+       "text": "Relocaliser une partie du village plutôt que de construire une digue.",
+       "correct": true,
+       "rationale": "« Plutôt que de construire une nouvelle digue, elle a décidé de déplacer progressivement une partie du village. »",
        "label": "D"
       }
      ],
@@ -655,21 +655,21 @@
        "label": "A"
       },
       {
+       "text": "Elle ne serait qu'une solution coûteuse et provisoire.",
+       "correct": true,
+       "rationale": "« Des millions, et pour combien de temps ? Dix ans, quinze ans ? Ensuite, il aurait fallu la rehausser. »",
+       "label": "B"
+      },
+      {
        "text": "Les habitants n'en voulaient pas.",
        "correct": false,
        "rationale": "Ce sont plutôt les habitants qui contestent le déplacement.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "L'État avait refusé de la financer.",
        "correct": false,
        "rationale": "L'État n'est pas mentionné.",
-       "label": "C"
-      },
-      {
-       "text": "Elle ne serait qu'une solution coûteuse et provisoire.",
-       "correct": true,
-       "rationale": "« Des millions, et pour combien de temps ? Dix ans, quinze ans ? Ensuite, il aurait fallu la rehausser. »",
        "label": "D"
       }
      ],
@@ -680,21 +680,21 @@
      "skill": "point de vue",
      "choices": [
       {
+       "text": "Elle reconnaît leur souffrance tout en maintenant sa décision.",
+       "correct": true,
+       "rationale": "« Quitter sa maison est un déchirement… Mais je préfère qu'on organise ce départ maintenant. »",
+       "label": "A"
+      },
+      {
        "text": "Elle refuse de leur parler.",
        "correct": false,
        "rationale": "Rien ne l'indique.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Elle les accuse d'égoïsme.",
        "correct": false,
        "rationale": "Elle exprime au contraire de l'empathie.",
-       "label": "B"
-      },
-      {
-       "text": "Elle reconnaît leur souffrance tout en maintenant sa décision.",
-       "correct": true,
-       "rationale": "« Quitter sa maison est un déchirement… Mais je préfère qu'on organise ce départ maintenant. »",
        "label": "C"
       },
       {
@@ -775,15 +775,15 @@
        "label": "A"
       },
       {
-       "text": "On l'associe à tort à une forme de privation.",
-       "correct": true,
-       "rationale": "« Comme s'il annonçait un retour à la bougie. C'est un malentendu. »",
-       "label": "B"
-      },
-      {
        "text": "Il est utilisé uniquement par les écologistes.",
        "correct": false,
        "rationale": "Il « revient dans tous les discours ».",
+       "label": "B"
+      },
+      {
+       "text": "On l'associe à tort à une forme de privation.",
+       "correct": true,
+       "rationale": "« Comme s'il annonçait un retour à la bougie. C'est un malentendu. »",
        "label": "C"
       },
       {
@@ -806,21 +806,21 @@
        "label": "A"
       },
       {
-       "text": "Le fait de faire porter l'effort surtout sur les particuliers.",
-       "correct": true,
-       "rationale": "« On a longtemps confié cet effort aux seuls particuliers… Or les plus gros gisements d'économies se trouvent dans les bâtiments publics, les entreprises. »",
-       "label": "B"
-      },
-      {
        "text": "L'éclairage des vitrines pendant la journée.",
        "correct": false,
        "rationale": "Il parle de les éteindre la nuit.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Le chauffage des bureaux à dix-neuf degrés.",
        "correct": false,
        "rationale": "C'est un geste qu'il recommande.",
+       "label": "C"
+      },
+      {
+       "text": "Le fait de faire porter l'effort surtout sur les particuliers.",
+       "correct": true,
+       "rationale": "« On a longtemps confié cet effort aux seuls particuliers… Or les plus gros gisements d'économies se trouvent dans les bâtiments publics, les entreprises. »",
        "label": "D"
       }
      ],
@@ -831,21 +831,21 @@
      "skill": "synthèse",
      "choices": [
       {
-       "text": "Qu'on ne peut pas demander des efforts aux ménages si les grands consommateurs n'en font pas.",
-       "correct": true,
-       "rationale": "« Voilà qui ne risque pas de convaincre » : l'exemple souligne l'incohérence.",
-       "label": "A"
-      },
-      {
        "text": "Que les entreprises respectent déjà les règles.",
        "correct": false,
        "rationale": "L'exemple montre le contraire.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Que les ménages chauffent trop leurs logements.",
        "correct": false,
        "rationale": "L'exemple vise les bureaux, pas les ménages.",
+       "label": "B"
+      },
+      {
+       "text": "Qu'on ne peut pas demander des efforts aux ménages si les grands consommateurs n'en font pas.",
+       "correct": true,
+       "rationale": "« Voilà qui ne risque pas de convaincre » : l'exemple souligne l'incohérence.",
        "label": "C"
       },
       {
@@ -950,15 +950,15 @@
        "label": "A"
       },
       {
-       "text": "Elles avaient lieu trop loin des ports.",
-       "correct": false,
-       "rationale": "Le lieu des réunions n'est pas évoqué.",
-       "label": "B"
-      },
-      {
        "text": "Elles servaient à annoncer des décisions déjà prises.",
        "correct": true,
        "rationale": "« Des réunions pour nous informer, pas pour nous écouter » ; consultés « une fois que l'emplacement était déjà choisi ».",
+       "label": "B"
+      },
+      {
+       "text": "Elles avaient lieu trop loin des ports.",
+       "correct": false,
+       "rationale": "Le lieu des réunions n'est pas évoqué.",
        "label": "C"
       },
       {
@@ -987,15 +987,15 @@
        "label": "B"
       },
       {
-       "text": "Il va cesser définitivement de pêcher.",
-       "correct": false,
-       "rationale": "Il parle de la période des travaux (« en attendant »).",
-       "label": "C"
-      },
-      {
        "text": "Les bénéfices éventuels à long terme ne compensent pas les pertes immédiates.",
        "correct": true,
        "rationale": "« Peut-être. Mais en attendant, ce sont nos bateaux qui restent à quai. »",
+       "label": "C"
+      },
+      {
+       "text": "Il va cesser définitivement de pêcher.",
+       "correct": false,
+       "rationale": "Il parle de la période des travaux (« en attendant »).",
        "label": "D"
       }
      ],
@@ -1090,15 +1090,15 @@
      "skill": "argumentation",
      "choices": [
       {
-       "text": "Le manque d'installateurs risque de ralentir la mise en œuvre.",
-       "correct": true,
-       "rationale": "« Les installateurs qualifiés sont trop peu nombreux, et les délais… dépassent déjà six mois. »",
-       "label": "A"
-      },
-      {
        "text": "Les pompes à chaleur ne fonctionnent pas en hiver.",
        "correct": false,
        "rationale": "La performance des pompes n'est pas abordée.",
+       "label": "A"
+      },
+      {
+       "text": "Le manque d'installateurs risque de ralentir la mise en œuvre.",
+       "correct": true,
+       "rationale": "« Les installateurs qualifiés sont trop peu nombreux, et les délais… dépassent déjà six mois. »",
        "label": "B"
       },
       {
@@ -1133,15 +1133,15 @@
        "label": "B"
       },
       {
-       "text": "Des vendeurs malhonnêtes qui profitent de la nouvelle règle.",
-       "correct": true,
-       "rationale": "« Des entreprises peu scrupuleuses profitent de chaque nouvelle réglementation pour vendre des équipements surfacturés. »",
-       "label": "C"
-      },
-      {
        "text": "La lenteur du versement des aides.",
        "correct": false,
        "rationale": "Ce point n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Des vendeurs malhonnêtes qui profitent de la nouvelle règle.",
+       "correct": true,
+       "rationale": "« Des entreprises peu scrupuleuses profitent de chaque nouvelle réglementation pour vendre des équipements surfacturés. »",
        "label": "D"
       }
      ],
@@ -1234,15 +1234,15 @@
      "skill": "implicite",
      "choices": [
       {
-       "text": "Le prix élevé du vélo électrique.",
-       "correct": false,
-       "rationale": "Le prix du vélo n'est pas évoqué.",
-       "label": "A"
-      },
-      {
        "text": "Des bénéfices sur son moral et sur ses relations avec les voisins.",
        "correct": true,
        "rationale": "Il arrive « de meilleure humeur » et parle « beaucoup plus aux gens du village ».",
+       "label": "A"
+      },
+      {
+       "text": "Le prix élevé du vélo électrique.",
+       "correct": false,
+       "rationale": "Le prix du vélo n'est pas évoqué.",
        "label": "B"
       },
       {

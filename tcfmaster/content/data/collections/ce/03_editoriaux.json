@@ -47,15 +47,15 @@
      "skill": "point de vue",
      "choices": [
       {
-       "text": "Un ton indigné qui condamne les entreprises.",
-       "correct": false,
-       "rationale": "Les entreprises ne sont pas condamnées ; leurs résultats sont même pris au sérieux.",
-       "label": "A"
-      },
-      {
        "text": "Un ton légèrement ironique qui annonce une prise de distance.",
        "correct": true,
        "rationale": "« Il est des réformes qui séduisent avant même d'avoir été examinées » suggère un enthousiasme irréfléchi : l'auteur s'en démarque.",
+       "label": "A"
+      },
+      {
+       "text": "Un ton indigné qui condamne les entreprises.",
+       "correct": false,
+       "rationale": "Les entreprises ne sont pas condamnées ; leurs résultats sont même pris au sérieux.",
        "label": "B"
       },
       {
@@ -84,21 +84,21 @@
        "label": "A"
       },
       {
-       "text": "Que les travailleurs de terrain se sentent laissés de côté.",
-       "correct": true,
-       "rationale": "Il évoque « une fracture nouvelle » et « le sentiment d'être les oubliés du progrès ».",
-       "label": "B"
-      },
-      {
        "text": "Que le chômage augmente dans les hôpitaux.",
        "correct": false,
        "rationale": "Il parle d'embauches impossibles à financer, pas de licenciements.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Que les entreprises de services fassent faillite.",
        "correct": false,
        "rationale": "Il ne prévoit aucune faillite.",
+       "label": "C"
+      },
+      {
+       "text": "Que les travailleurs de terrain se sentent laissés de côté.",
+       "correct": true,
+       "rationale": "Il évoque « une fracture nouvelle » et « le sentiment d'être les oubliés du progrès ».",
        "label": "D"
       }
      ],
@@ -167,21 +167,21 @@
      "skill": "argumentation",
      "choices": [
       {
-       "text": "Un aménagement des rues resté pensé pour l'automobile.",
-       "correct": true,
-       "rationale": "« Nos rues ont été dessinées pour la voiture » ; « l'espace lui-même l'organise si mal ».",
-       "label": "A"
-      },
-      {
        "text": "Le comportement irresponsable des cyclistes.",
        "correct": false,
        "rationale": "Il juge ces reproches « pas infondés » mais estime qu'« ils manquent l'essentiel ».",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "L'absence d'amendes pour les automobilistes.",
        "correct": false,
        "rationale": "Les sanctions sont jugées insuffisantes, et aucune absence d'amendes n'est évoquée.",
+       "label": "B"
+      },
+      {
+       "text": "Un aménagement des rues resté pensé pour l'automobile.",
+       "correct": true,
+       "rationale": "« Nos rues ont été dessinées pour la voiture » ; « l'espace lui-même l'organise si mal ».",
        "label": "C"
       },
       {
@@ -204,15 +204,15 @@
        "label": "A"
       },
       {
-       "text": "D'ignorer les plaintes des piétons.",
-       "correct": false,
-       "rationale": "Les piétons sont cités parmi les victimes, mais pas comme ignorés par les élus.",
-       "label": "B"
-      },
-      {
        "text": "De manquer de courage politique face à des mesures impopulaires.",
        "correct": true,
        "rationale": "Retirer des places de stationnement est une « décision impopulaire que peu d'élus osent assumer » ; « Faute de ce courage… ».",
+       "label": "B"
+      },
+      {
+       "text": "D'ignorer les plaintes des piétons.",
+       "correct": false,
+       "rationale": "Les piétons sont cités parmi les victimes, mais pas comme ignorés par les élus.",
        "label": "C"
       },
       {
@@ -229,27 +229,27 @@
      "skill": "synthèse",
      "choices": [
       {
+       "text": "Sans réforme de l'espace urbain, le vélo pourrait ne plus incarner une ville plus calme.",
+       "correct": true,
+       "rationale": "« Le vélo risque de perdre ce qui faisait son attrait : la promesse d'une ville apaisée. »",
+       "label": "A"
+      },
+      {
        "text": "Les cyclistes doivent devenir plus calmes.",
        "correct": false,
        "rationale": "L'apaisement concerne la ville entière et dépend de l'aménagement.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Les élus courageux ont déjà apaisé la ville.",
        "correct": false,
        "rationale": "L'auteur dit justement que ce courage manque.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Le vélo va disparaître des grandes villes.",
        "correct": false,
        "rationale": "Il s'agit de perdre un « attrait », pas de disparaître.",
-       "label": "C"
-      },
-      {
-       "text": "Sans réforme de l'espace urbain, le vélo pourrait ne plus incarner une ville plus calme.",
-       "correct": true,
-       "rationale": "« Le vélo risque de perdre ce qui faisait son attrait : la promesse d'une ville apaisée. »",
        "label": "D"
       }
      ],

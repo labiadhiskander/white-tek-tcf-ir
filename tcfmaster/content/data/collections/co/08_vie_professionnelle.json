@@ -59,15 +59,15 @@
        "label": "B"
       },
       {
-       "text": "Le coût d'un nouveau logiciel.",
-       "correct": false,
-       "rationale": "Ce n'est pas mentionné.",
-       "label": "C"
-      },
-      {
        "text": "La surcharge de travail pendant les absences, notamment en été.",
        "correct": true,
        "rationale": "« Ça risque de doubler la charge de travail pendant les vacances d'été, où on est déjà en sous-effectif. »",
+       "label": "C"
+      },
+      {
+       "text": "Le coût d'un nouveau logiciel.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
        "label": "D"
       }
      ],
@@ -78,21 +78,21 @@
      "skill": "synthèse",
      "choices": [
       {
+       "text": "Elle reconnaît le risque et propose une période d'essai réversible.",
+       "correct": true,
+       "rationale": "« C'est un vrai risque… Je propose qu'on teste… pendant trois mois… Si ça ne fonctionne pas, on reviendra en arrière. »",
+       "label": "A"
+      },
+      {
        "text": "Elle abandonne immédiatement le projet.",
        "correct": false,
        "rationale": "Elle propose de le tester.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Elle promet de recruter de nouveaux conseillers.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "B"
-      },
-      {
-       "text": "Elle reconnaît le risque et propose une période d'essai réversible.",
-       "correct": true,
-       "rationale": "« C'est un vrai risque… Je propose qu'on teste… pendant trois mois… Si ça ne fonctionne pas, on reviendra en arrière. »",
        "label": "C"
       },
       {
@@ -168,21 +168,21 @@
        "label": "A"
       },
       {
+       "text": "Le papier choisi n'est pas disponible pour le moment.",
+       "correct": true,
+       "rationale": "« Notre fournisseur est en rupture de stock jusqu'à la fin du mois. »",
+       "label": "B"
+      },
+      {
        "text": "Le prix des catalogues a augmenté.",
        "correct": false,
        "rationale": "Il n'y a pas de supplément.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "La commande a été perdue.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "C"
-      },
-      {
-       "text": "Le papier choisi n'est pas disponible pour le moment.",
-       "correct": true,
-       "rationale": "« Notre fournisseur est en rupture de stock jusqu'à la fin du mois. »",
        "label": "D"
       }
      ],
@@ -230,21 +230,21 @@
        "label": "A"
       },
       {
+       "text": "Pour que les catalogues soient prêts avant le salon de la cliente.",
+       "correct": true,
+       "rationale": "« Je sais que vous avez un salon professionnel le quinze, donc je me permets d'insister. »",
+       "label": "B"
+      },
+      {
        "text": "Parce que la cliente est souvent en retard.",
        "correct": false,
        "rationale": "Ce n'est pas évoqué.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Parce que le prix va augmenter.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
-       "label": "C"
-      },
-      {
-       "text": "Pour que les catalogues soient prêts avant le salon de la cliente.",
-       "correct": true,
-       "rationale": "« Je sais que vous avez un salon professionnel le quinze, donc je me permets d'insister. »",
        "label": "D"
       }
      ],
@@ -318,15 +318,15 @@
        "label": "B"
       },
       {
-       "text": "D'un calendrier trop ambitieux accepté dès le départ.",
-       "correct": true,
-       "rationale": "« L'erreur venait du départ : nous avions accepté un calendrier irréaliste pour remporter le marché. »",
-       "label": "C"
-      },
-      {
        "text": "D'un client trop exigeant.",
        "correct": false,
        "rationale": "Il ne rejette pas la faute sur le client.",
+       "label": "C"
+      },
+      {
+       "text": "D'un calendrier trop ambitieux accepté dès le départ.",
+       "correct": true,
+       "rationale": "« L'erreur venait du départ : nous avions accepté un calendrier irréaliste pour remporter le marché. »",
        "label": "D"
       }
      ],
@@ -337,21 +337,21 @@
      "skill": "argumentation",
      "choices": [
       {
+       "text": "Dire la vérité au client et proposer un nouveau plan réaliste.",
+       "correct": true,
+       "rationale": "« J'ai d'abord été transparent avec le client… je lui ai présenté un nouveau calendrier réaliste. »",
+       "label": "A"
+      },
+      {
        "text": "Abandonner le projet.",
        "correct": false,
        "rationale": "Le contrat a été conservé.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Remplacer l'équipe de développement.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "B"
-      },
-      {
-       "text": "Dire la vérité au client et proposer un nouveau plan réaliste.",
-       "correct": true,
-       "rationale": "« J'ai d'abord été transparent avec le client… je lui ai présenté un nouveau calendrier réaliste. »",
        "label": "C"
       },
       {
@@ -368,27 +368,27 @@
      "skill": "synthèse",
      "choices": [
       {
-       "text": "Il faut annoncer rapidement les difficultés plutôt que de les dissimuler.",
-       "correct": true,
-       "rationale": "« Il vaut mieux annoncer une mauvaise nouvelle tôt que de la cacher en espérant rattraper le retard. »",
-       "label": "A"
-      },
-      {
        "text": "Il faut toujours accepter les délais du client.",
        "correct": false,
        "rationale": "C'est l'erreur qu'il a commise.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Il faut livrer toutes les fonctionnalités en même temps.",
        "correct": false,
        "rationale": "Il a proposé une livraison par étapes.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Il faut éviter les clients du secteur bancaire.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Il faut annoncer rapidement les difficultés plutôt que de les dissimuler.",
+       "correct": true,
+       "rationale": "« Il vaut mieux annoncer une mauvaise nouvelle tôt que de la cacher en espérant rattraper le retard. »",
        "label": "D"
       }
      ],
@@ -458,15 +458,15 @@
        "label": "A"
       },
       {
-       "text": "Qu'un salarié ne subisse aucune conséquence s'il ne répond pas en dehors de ses heures.",
-       "correct": true,
-       "rationale": "« Qu'un salarié ne soit pas pénalisé s'il ne répond pas à un courriel envoyé à vingt-trois heures. »",
-       "label": "B"
-      },
-      {
        "text": "Que les clients internationaux soient abandonnés.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Qu'un salarié ne subisse aucune conséquence s'il ne répond pas en dehors de ses heures.",
+       "correct": true,
+       "rationale": "« Qu'un salarié ne soit pas pénalisé s'il ne répond pas à un courriel envoyé à vingt-trois heures. »",
        "label": "C"
       },
       {
@@ -489,15 +489,15 @@
        "label": "A"
       },
       {
-       "text": "Le désir de gagner plus d'argent.",
-       "correct": false,
-       "rationale": "Ce n'est pas dit.",
-       "label": "B"
-      },
-      {
        "text": "L'exemple donné par la direction, qui crée une pression implicite.",
        "correct": true,
        "rationale": "« Quand le directeur lui-même envoie des messages le dimanche, le message implicite est clair. »",
+       "label": "B"
+      },
+      {
+       "text": "Le désir de gagner plus d'argent.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
        "label": "C"
       },
       {
@@ -514,27 +514,27 @@
      "skill": "synthèse",
      "choices": [
       {
+       "text": "Sur l'importance de l'exemple donné par les dirigeants.",
+       "correct": true,
+       "rationale": "« Je vous l'accorde, l'exemple doit venir d'en haut. »",
+       "label": "A"
+      },
+      {
        "text": "Sur la nécessité de fermer l'entreprise le soir.",
        "correct": false,
        "rationale": "Il juge cela impossible.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Sur l'interdiction des messages le dimanche.",
        "correct": false,
        "rationale": "Ce n'est pas ce qu'il concède.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Sur l'inutilité du droit à la déconnexion.",
        "correct": false,
        "rationale": "Il ne le dit pas.",
-       "label": "C"
-      },
-      {
-       "text": "Sur l'importance de l'exemple donné par les dirigeants.",
-       "correct": true,
-       "rationale": "« Je vous l'accorde, l'exemple doit venir d'en haut. »",
        "label": "D"
       }
      ],
@@ -598,21 +598,21 @@
      "skill": "point de vue",
      "choices": [
       {
-       "text": "Les entreprises qui affichent une bienveillance superficielle.",
-       "correct": true,
-       "rationale": "« Des entreprises installent un baby-foot… et se déclarent bienveillantes, alors que les salariés croulent sous la charge de travail. Ça, c'est de la façade. »",
-       "label": "A"
-      },
-      {
        "text": "Les managers trop sévères.",
        "correct": false,
        "rationale": "Ce n'est pas sa critique principale.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Les fruits frais au bureau.",
        "correct": false,
        "rationale": "Ce n'est pas le problème en soi.",
+       "label": "B"
+      },
+      {
+       "text": "Les entreprises qui affichent une bienveillance superficielle.",
+       "correct": true,
+       "rationale": "« Des entreprises installent un baby-foot… et se déclarent bienveillantes, alors que les salariés croulent sous la charge de travail. Ça, c'est de la façade. »",
        "label": "C"
       },
       {
@@ -629,15 +629,15 @@
      "skill": "information détaillée",
      "choices": [
       {
-       "text": "À organiser des activités de détente.",
-       "correct": false,
-       "rationale": "C'est ce qu'il qualifie de façade.",
-       "label": "A"
-      },
-      {
        "text": "À fournir aux salariés les conditions pour bien travailler.",
        "correct": true,
        "rationale": "« C'est d'abord donner aux gens les moyens de bien faire leur travail : des objectifs clairs, des effectifs suffisants, de l'autonomie. »",
+       "label": "A"
+      },
+      {
+       "text": "À organiser des activités de détente.",
+       "correct": false,
+       "rationale": "C'est ce qu'il qualifie de façade.",
        "label": "B"
       },
       {
@@ -666,21 +666,21 @@
        "label": "A"
       },
       {
-       "text": "Être bienveillant, c'est exprimer les critiques avec respect plutôt que les taire.",
-       "correct": true,
-       "rationale": "« La bienveillance, c'est dire les choses avec respect, pas ne pas les dire. »",
-       "label": "B"
-      },
-      {
        "text": "Il faut laisser les salariés s'évaluer seuls.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Il faut critiquer durement les salariés.",
        "correct": false,
        "rationale": "Il insiste sur le respect.",
+       "label": "C"
+      },
+      {
+       "text": "Être bienveillant, c'est exprimer les critiques avec respect plutôt que les taire.",
+       "correct": true,
+       "rationale": "« La bienveillance, c'est dire les choses avec respect, pas ne pas les dire. »",
        "label": "D"
       }
      ],
@@ -744,15 +744,15 @@
      "skill": "information détaillée",
      "choices": [
       {
-       "text": "Si son poste le permet et si son responsable est d'accord.",
-       "correct": true,
-       "rationale": "« À condition que son poste le permette et en accord avec son responsable. »",
-       "label": "A"
-      },
-      {
        "text": "S'il travaille dans l'entreprise depuis un an.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Si son poste le permet et si son responsable est d'accord.",
+       "correct": true,
+       "rationale": "« À condition que son poste le permette et en accord avec son responsable. »",
        "label": "B"
       },
       {
@@ -775,15 +775,15 @@
      "skill": "information détaillée",
      "choices": [
       {
-       "text": "Parce que les clients viennent ce jour-là.",
-       "correct": false,
-       "rationale": "Ce n'est pas mentionné.",
-       "label": "A"
-      },
-      {
        "text": "Pour permettre l'organisation de réunions d'équipe.",
        "correct": true,
        "rationale": "« Afin de faciliter les réunions d'équipe. »",
+       "label": "A"
+      },
+      {
+       "text": "Parce que les clients viennent ce jour-là.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
        "label": "B"
       },
       {
@@ -806,15 +806,15 @@
      "skill": "implicite",
      "choices": [
       {
-       "text": "L'entreprise peut retirer temporairement le télétravail si l'activité l'exige.",
-       "correct": true,
-       "rationale": "« Le télétravail n'est pas un droit acquis : il pourra être suspendu en cas de nécessité de service. »",
-       "label": "A"
-      },
-      {
        "text": "Le télétravail sera supprimé dans une semaine.",
        "correct": false,
        "rationale": "Le délai concerne une éventuelle suspension.",
+       "label": "A"
+      },
+      {
+       "text": "L'entreprise peut retirer temporairement le télétravail si l'activité l'exige.",
+       "correct": true,
+       "rationale": "« Le télétravail n'est pas un droit acquis : il pourra être suspendu en cas de nécessité de service. »",
        "label": "B"
       },
       {
@@ -888,21 +888,21 @@
      "skill": "information détaillée",
      "choices": [
       {
-       "text": "Parce qu'il était le plus compétent techniquement.",
-       "correct": true,
-       "rationale": "« J'étais le meilleur technicien de l'équipe, alors tout le monde trouvait ça logique. »",
-       "label": "A"
-      },
-      {
        "text": "Parce qu'il avait suivi une formation en management.",
        "correct": false,
        "rationale": "Il l'a suivie après.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Parce qu'il l'avait demandé.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Parce qu'il était le plus compétent techniquement.",
+       "correct": true,
+       "rationale": "« J'étais le meilleur technicien de l'équipe, alors tout le monde trouvait ça logique. »",
        "label": "C"
       },
       {
@@ -931,15 +931,15 @@
        "label": "B"
       },
       {
-       "text": "Il a continué à faire lui-même le travail de son équipe.",
-       "correct": true,
-       "rationale": "« Je continuais à faire le travail technique moi-même, parce que j'allais plus vite. »",
-       "label": "C"
-      },
-      {
        "text": "Il a licencié plusieurs collègues.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Il a continué à faire lui-même le travail de son équipe.",
+       "correct": true,
+       "rationale": "« Je continuais à faire le travail technique moi-même, parce que j'allais plus vite. »",
        "label": "D"
       }
      ],
@@ -956,21 +956,21 @@
        "label": "A"
       },
       {
+       "text": "Le fait d'aider ses collègues à s'améliorer.",
+       "correct": true,
+       "rationale": "« Je trouve une autre satisfaction : voir mes collègues progresser. »",
+       "label": "B"
+      },
+      {
        "text": "Les horaires réduits.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Le travail technique qu'il fait seul.",
        "correct": false,
        "rationale": "Il le « regrette parfois ».",
-       "label": "C"
-      },
-      {
-       "text": "Le fait d'aider ses collègues à s'améliorer.",
-       "correct": true,
-       "rationale": "« Je trouve une autre satisfaction : voir mes collègues progresser. »",
        "label": "D"
       }
      ],
@@ -1038,21 +1038,21 @@
        "label": "A"
       },
       {
-       "text": "Le temps partiel, les métiers moins payés et, en partie, la discrimination.",
-       "correct": true,
-       "rationale": "Il cite ces trois facteurs successivement.",
-       "label": "B"
-      },
-      {
        "text": "L'absence de loi sur l'égalité.",
        "correct": false,
        "rationale": "Une loi existe depuis cinquante ans.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Le refus des femmes de négocier.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Le temps partiel, les métiers moins payés et, en partie, la discrimination.",
+       "correct": true,
+       "rationale": "Il cite ces trois facteurs successivement.",
        "label": "D"
       }
      ],
@@ -1063,27 +1063,27 @@
      "skill": "implicite",
      "choices": [
       {
+       "text": "Même dans des situations comparables, une inégalité persiste.",
+       "correct": true,
+       "rationale": "« Même à poste et temps de travail égaux, il reste un écart inexpliqué… attribué en grande partie à la discrimination. »",
+       "label": "A"
+      },
+      {
        "text": "Les femmes travaillent quatre pour cent de moins.",
        "correct": false,
        "rationale": "Le temps de travail est égal dans cette comparaison.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Les hommes sont plus diplômés.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "L'écart a disparu dans les grandes entreprises.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "C"
-      },
-      {
-       "text": "Même dans des situations comparables, une inégalité persiste.",
-       "correct": true,
-       "rationale": "« Même à poste et temps de travail égaux, il reste un écart inexpliqué… attribué en grande partie à la discrimination. »",
        "label": "D"
       }
      ],
@@ -1094,21 +1094,21 @@
      "skill": "point de vue",
      "choices": [
       {
-       "text": "Il est utile mais permet à certaines entreprises de masquer des inégalités.",
-       "correct": true,
-       "rationale": "« Utile mais trop facile à contourner : certaines entreprises obtiennent de bonnes notes tout en maintenant des écarts. »",
-       "label": "A"
-      },
-      {
        "text": "Il devrait concerner uniquement les grandes entreprises.",
        "correct": false,
        "rationale": "Ce n'est pas leur critique.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Il a fait disparaître les inégalités.",
        "correct": false,
        "rationale": "Les écarts persistent.",
+       "label": "B"
+      },
+      {
+       "text": "Il est utile mais permet à certaines entreprises de masquer des inégalités.",
+       "correct": true,
+       "rationale": "« Utile mais trop facile à contourner : certaines entreprises obtiennent de bonnes notes tout en maintenant des écarts. »",
        "label": "C"
       },
       {
@@ -1182,15 +1182,15 @@
        "label": "A"
       },
       {
-       "text": "Par habitude ou pour partager la responsabilité des décisions.",
-       "correct": true,
-       "rationale": "« Souvent par habitude, parfois par prudence : décider à plusieurs, c'est partager la responsabilité. »",
-       "label": "B"
-      },
-      {
        "text": "Parce que la loi l'impose.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Par habitude ou pour partager la responsabilité des décisions.",
+       "correct": true,
+       "rationale": "« Souvent par habitude, parfois par prudence : décider à plusieurs, c'est partager la responsabilité. »",
        "label": "C"
       },
       {
@@ -1213,21 +1213,21 @@
        "label": "A"
       },
       {
-       "text": "N'inviter que ceux qui doivent intervenir ou décider.",
-       "correct": true,
-       "rationale": "« N'inviter que les personnes qui doivent réellement intervenir ou décider ; les autres recevront un compte rendu. »",
-       "label": "B"
-      },
-      {
        "text": "Faire tourner l'animation de la réunion.",
        "correct": false,
        "rationale": "Ce n'est pas proposé.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Inviter tous les membres de l'équipe.",
        "correct": false,
        "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "N'inviter que ceux qui doivent intervenir ou décider.",
+       "correct": true,
+       "rationale": "« N'inviter que les personnes qui doivent réellement intervenir ou décider ; les autres recevront un compte rendu. »",
        "label": "D"
       }
      ],
@@ -1244,21 +1244,21 @@
        "label": "A"
       },
       {
+       "text": "Moins de temps passé en réunion, avec une efficacité au moins égale.",
+       "correct": true,
+       "rationale": "« Réduit leur temps de réunion d'un quart, sans perte d'efficacité, bien au contraire. »",
+       "label": "B"
+      },
+      {
        "text": "Une suppression totale des réunions.",
        "correct": false,
        "rationale": "Elles ont été réduites d'un quart.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Une baisse de l'efficacité.",
        "correct": false,
        "rationale": "« Sans perte d'efficacité. »",
-       "label": "C"
-      },
-      {
-       "text": "Moins de temps passé en réunion, avec une efficacité au moins égale.",
-       "correct": true,
-       "rationale": "« Réduit leur temps de réunion d'un quart, sans perte d'efficacité, bien au contraire. »",
        "label": "D"
       }
      ],

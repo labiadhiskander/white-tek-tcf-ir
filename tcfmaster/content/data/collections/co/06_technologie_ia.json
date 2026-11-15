@@ -53,15 +53,15 @@
        "label": "A"
       },
       {
-       "text": "Elle ne crée aucun nouvel emploi.",
-       "correct": false,
-       "rationale": "Il ne l'affirme pas.",
-       "label": "B"
-      },
-      {
        "text": "Elle peut aussi effectuer des tâches intellectuelles.",
        "correct": true,
        "rationale": "« Elle ne remplace pas seulement des gestes répétitifs, mais aussi des tâches intellectuelles. »",
+       "label": "B"
+      },
+      {
+       "text": "Elle ne crée aucun nouvel emploi.",
+       "correct": false,
+       "rationale": "Il ne l'affirme pas.",
        "label": "C"
       },
       {
@@ -78,27 +78,27 @@
      "skill": "synthèse",
      "choices": [
       {
+       "text": "Notre capacité à former rapidement les travailleurs dont le métier évolue.",
+       "correct": true,
+       "rationale": "« Si nous saurons former assez vite ceux dont le métier se transforme. »",
+       "label": "A"
+      },
+      {
        "text": "Le salaire des développeurs.",
        "correct": false,
        "rationale": "Ce n'est pas le sujet.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "L'interdiction de l'intelligence artificielle.",
        "correct": false,
        "rationale": "Ce n'est pas envisagé.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Le nombre exact d'emplois qui vont disparaître.",
        "correct": false,
        "rationale": "C'est la question qu'il écarte.",
-       "label": "C"
-      },
-      {
-       "text": "Notre capacité à former rapidement les travailleurs dont le métier évolue.",
-       "correct": true,
-       "rationale": "« Si nous saurons former assez vite ceux dont le métier se transforme. »",
        "label": "D"
       }
      ],
@@ -166,21 +166,21 @@
        "label": "A"
       },
       {
-       "text": "Il distingue le droit à la vie privée du fait de cacher quelque chose.",
-       "correct": true,
-       "rationale": "« C'est une confusion entre vie privée et secret » ; l'exemple de la salle de bains l'illustre.",
-       "label": "B"
-      },
-      {
        "text": "Il dit que tout le monde a des secrets.",
        "correct": false,
        "rationale": "Ce n'est pas son argument.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Il conseille de ne plus utiliser Internet.",
        "correct": false,
        "rationale": "Il propose des gestes simples.",
+       "label": "C"
+      },
+      {
+       "text": "Il distingue le droit à la vie privée du fait de cacher quelque chose.",
+       "correct": true,
+       "rationale": "« C'est une confusion entre vie privée et secret » ; l'exemple de la salle de bains l'illustre.",
        "label": "D"
       }
      ],
@@ -343,21 +343,21 @@
        "label": "A"
       },
       {
-       "text": "La peur de se tromper ou d'être victime d'une escroquerie.",
-       "correct": true,
-       "rationale": "« Le principal obstacle n'est pas technique mais psychologique : la peur de faire une erreur irréparable, de se faire arnaquer. »",
-       "label": "B"
-      },
-      {
        "text": "Le manque de connexion Internet.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Le refus d'apprendre.",
        "correct": false,
        "rationale": "Les seniors présents apprennent volontiers.",
+       "label": "C"
+      },
+      {
+       "text": "La peur de se tromper ou d'être victime d'une escroquerie.",
+       "correct": true,
+       "rationale": "« Le principal obstacle n'est pas technique mais psychologique : la peur de faire une erreur irréparable, de se faire arnaquer. »",
        "label": "D"
       }
      ],
@@ -458,15 +458,15 @@
        "label": "A"
       },
       {
-       "text": "La technologie permet de retrouver rapidement des personnes recherchées.",
-       "correct": true,
-       "rationale": "« Permettrait de repérer en quelques secondes une personne recherchée dans une foule. »",
-       "label": "B"
-      },
-      {
        "text": "La technologie est déjà utilisée partout.",
        "correct": false,
        "rationale": "Elle parle d'une expérimentation.",
+       "label": "B"
+      },
+      {
+       "text": "La technologie permet de retrouver rapidement des personnes recherchées.",
+       "correct": true,
+       "rationale": "« Permettrait de repérer en quelques secondes une personne recherchée dans une foule. »",
        "label": "C"
       },
       {
@@ -489,21 +489,21 @@
        "label": "A"
       },
       {
+       "text": "Parce que les dispositifs de surveillance ont tendance à devenir permanents.",
+       "correct": true,
+       "rationale": "« Une technologie de surveillance installée pour un événement ne disparaît jamais. Elle s'étend progressivement. »",
+       "label": "B"
+      },
+      {
        "text": "Parce que les événements durent trop longtemps.",
        "correct": false,
        "rationale": "Ce n'est pas l'argument.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Parce que l'élue a menti par le passé.",
        "correct": false,
        "rationale": "Il ne l'accuse pas personnellement.",
-       "label": "C"
-      },
-      {
-       "text": "Parce que les dispositifs de surveillance ont tendance à devenir permanents.",
-       "correct": true,
-       "rationale": "« Une technologie de surveillance installée pour un événement ne disparaît jamais. Elle s'étend progressivement. »",
        "label": "D"
       }
      ],
@@ -514,21 +514,21 @@
      "skill": "synthèse",
      "choices": [
       {
+       "text": "Même parfaite, la technologie pose une question politique sur la société souhaitée.",
+       "correct": true,
+       "rationale": "« Admettons qu'ils deviennent parfaits. La question resterait entière… c'est un choix de société, pas une question technique. »",
+       "label": "A"
+      },
+      {
        "text": "Il veut confier la décision aux ingénieurs.",
        "correct": false,
        "rationale": "Il insiste sur le caractère non technique du choix.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Il accepterait la technologie si elle était fiable.",
        "correct": false,
        "rationale": "Il dit que la question resterait entière.",
-       "label": "B"
-      },
-      {
-       "text": "Même parfaite, la technologie pose une question politique sur la société souhaitée.",
-       "correct": true,
-       "rationale": "« Admettons qu'ils deviennent parfaits. La question resterait entière… c'est un choix de société, pas une question technique. »",
        "label": "C"
       },
       {
@@ -598,21 +598,21 @@
      "skill": "compréhension globale",
      "choices": [
       {
-       "text": "La suppression des trottinettes électriques en location partagée.",
-       "correct": true,
-       "rationale": "« Les trottinettes électriques en libre-service disparaîtront des rues de la capitale. »",
-       "label": "A"
-      },
-      {
        "text": "La réduction de la vitesse des trottinettes.",
        "correct": false,
        "rationale": "C'est une mesure déjà prise par les opérateurs.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "La création de zones de stationnement.",
        "correct": false,
        "rationale": "Ce sont les opérateurs qui les avaient instaurées.",
+       "label": "B"
+      },
+      {
+       "text": "La suppression des trottinettes électriques en location partagée.",
+       "correct": true,
+       "rationale": "« Les trottinettes électriques en libre-service disparaîtront des rues de la capitale. »",
        "label": "C"
       },
       {
@@ -629,27 +629,27 @@
      "skill": "argumentation",
      "choices": [
       {
+       "text": "Parce que très peu d'électeurs ont participé.",
+       "correct": true,
+       "rationale": "« À peine huit pour cent des électeurs inscrits se sont déplacés. »",
+       "label": "A"
+      },
+      {
        "text": "Parce que les opérateurs ont contesté le vote.",
        "correct": false,
        "rationale": "Ils regrettent la décision, sans contester le vote.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Parce que le résultat était très serré.",
        "correct": false,
        "rationale": "Quatre-vingt-dix pour cent n'est pas un résultat serré.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Parce que le vote a été annulé.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "C"
-      },
-      {
-       "text": "Parce que très peu d'électeurs ont participé.",
-       "correct": true,
-       "rationale": "« À peine huit pour cent des électeurs inscrits se sont déplacés. »",
        "label": "D"
       }
      ],
@@ -660,15 +660,15 @@
      "skill": "point de vue",
      "choices": [
       {
-       "text": "Ils avaient déjà pris des mesures pour répondre aux problèmes.",
-       "correct": true,
-       "rationale": "Ils « rappellent qu'ils avaient réduit la vitesse maximale et instauré des zones de stationnement obligatoires ».",
-       "label": "A"
-      },
-      {
        "text": "Ils vont proposer des vélos à la place.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Ils avaient déjà pris des mesures pour répondre aux problèmes.",
+       "correct": true,
+       "rationale": "Ils « rappellent qu'ils avaient réduit la vitesse maximale et instauré des zones de stationnement obligatoires ».",
        "label": "B"
       },
       {
@@ -748,21 +748,21 @@
        "label": "A"
       },
       {
-       "text": "Elle a un intérêt symbolique mais une efficacité limitée.",
-       "correct": true,
-       "rationale": "« L'interdiction a une valeur symbolique… Mais dans les faits, elle est très facile à contourner. »",
-       "label": "B"
-      },
-      {
        "text": "Elle devrait concerner les moins de dix-huit ans.",
        "correct": false,
        "rationale": "Ce n'est pas proposé.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Elle est totalement inutile.",
        "correct": false,
        "rationale": "Elle lui reconnaît une valeur symbolique.",
+       "label": "C"
+      },
+      {
+       "text": "Elle a un intérêt symbolique mais une efficacité limitée.",
+       "correct": true,
+       "rationale": "« L'interdiction a une valeur symbolique… Mais dans les faits, elle est très facile à contourner. »",
        "label": "D"
       }
      ],
@@ -773,27 +773,27 @@
      "skill": "information détaillée",
      "choices": [
       {
-       "text": "La tendance à se comparer à des images idéalisées.",
-       "correct": true,
-       "rationale": "« La comparaison permanente… des vies parfaites, des corps retouchés. »",
-       "label": "A"
-      },
-      {
        "text": "La perte de données personnelles.",
        "correct": false,
        "rationale": "Ce n'est pas évoqué.",
-       "label": "B"
+       "label": "A"
       },
       {
        "text": "Le manque de sommeil.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "La dépense d'argent en ligne.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "La tendance à se comparer à des images idéalisées.",
+       "correct": true,
+       "rationale": "« La comparaison permanente… des vies parfaites, des corps retouchés. »",
        "label": "D"
       }
      ],
@@ -900,15 +900,15 @@
        "label": "B"
       },
       {
-       "text": "Que les smartphones durent très longtemps.",
-       "correct": false,
-       "rationale": "Ce n'est pas l'idée corrigée.",
-       "label": "C"
-      },
-      {
        "text": "Que le numérique n'a presque pas d'impact environnemental.",
        "correct": true,
        "rationale": "« On l'imagine souvent immatériel, propre… Pourtant, le numérique pèse lourd sur l'environnement. »",
+       "label": "C"
+      },
+      {
+       "text": "Que les smartphones durent très longtemps.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'idée corrigée.",
        "label": "D"
       }
      ],
@@ -925,21 +925,21 @@
        "label": "A"
       },
       {
+       "text": "De la fabrication des appareils.",
+       "correct": true,
+       "rationale": "« L'essentiel de l'impact vient de la fabrication des appareils. »",
+       "label": "B"
+      },
+      {
        "text": "De l'utilisation quotidienne des téléphones.",
        "correct": false,
        "rationale": "C'est la fabrication qui pèse le plus.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "De l'envoi de courriels.",
        "correct": false,
        "rationale": "Elle dit que « ce ne sont pas nos courriels qui posent le plus problème ».",
-       "label": "C"
-      },
-      {
-       "text": "De la fabrication des appareils.",
-       "correct": true,
-       "rationale": "« L'essentiel de l'impact vient de la fabrication des appareils. »",
        "label": "D"
       }
      ],
@@ -950,15 +950,15 @@
      "skill": "synthèse",
      "choices": [
       {
-       "text": "Allonger la durée d'utilisation de ses appareils.",
-       "correct": true,
-       "rationale": "« Le geste le plus efficace… de garder ses appareils plus longtemps. »",
-       "label": "A"
-      },
-      {
        "text": "Éteindre son téléphone la nuit.",
        "correct": false,
        "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Allonger la durée d'utilisation de ses appareils.",
+       "correct": true,
+       "rationale": "« Le geste le plus efficace… de garder ses appareils plus longtemps. »",
        "label": "B"
       },
       {
@@ -1038,15 +1038,15 @@
        "label": "A"
       },
       {
-       "text": "Ils ont été pénibles en raison d'habitudes automatiques.",
-       "correct": true,
-       "rationale": "« Franchement désagréables. Je mettais la main dans ma poche toutes les cinq minutes, par réflexe. »",
-       "label": "B"
-      },
-      {
        "text": "Ils ont été très agréables.",
        "correct": false,
        "rationale": "Il dit le contraire.",
+       "label": "B"
+      },
+      {
+       "text": "Ils ont été pénibles en raison d'habitudes automatiques.",
+       "correct": true,
+       "rationale": "« Franchement désagréables. Je mettais la main dans ma poche toutes les cinq minutes, par réflexe. »",
        "label": "C"
       },
       {
@@ -1069,21 +1069,21 @@
        "label": "A"
       },
       {
-       "text": "Il a retrouvé le goût de la lecture et une attention à son environnement.",
-       "correct": true,
-       "rationale": "« J'ai recommencé à lire des livres en entier… J'ai remarqué des détails dans ma rue. »",
-       "label": "B"
-      },
-      {
        "text": "Il a économisé beaucoup d'argent.",
        "correct": false,
        "rationale": "Ce n'est pas dit.",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "Il a mieux dormi.",
        "correct": false,
        "rationale": "Le sommeil n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Il a retrouvé le goût de la lecture et une attention à son environnement.",
+       "correct": true,
+       "rationale": "« J'ai recommencé à lire des livres en entier… J'ai remarqué des détails dans ma rue. »",
        "label": "D"
       }
      ],
@@ -1094,21 +1094,21 @@
      "skill": "synthèse",
      "choices": [
       {
+       "text": "Un changement modeste mais réel de ses habitudes.",
+       "correct": true,
+       "rationale": "Il a supprimé les notifications et éloigné le téléphone : « Ce n'est pas spectaculaire, mais ça change mes soirées. »",
+       "label": "A"
+      },
+      {
        "text": "Il considère que l'expérience était inutile.",
        "correct": false,
        "rationale": "Il en a tiré des changements.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Il a définitivement renoncé au smartphone.",
        "correct": false,
        "rationale": "Il l'a repris.",
-       "label": "B"
-      },
-      {
-       "text": "Un changement modeste mais réel de ses habitudes.",
-       "correct": true,
-       "rationale": "Il a supprimé les notifications et éloigné le téléphone : « Ce n'est pas spectaculaire, mais ça change mes soirées. »",
        "label": "C"
       },
       {
@@ -1188,15 +1188,15 @@
        "label": "B"
       },
       {
-       "text": "Il prédit la suite la plus probable d'un texte.",
-       "correct": true,
-       "rationale": "« Il a appris à prédire, mot après mot, la suite la plus probable d'une phrase. »",
-       "label": "C"
-      },
-      {
        "text": "Il copie des textes existants sans les modifier.",
        "correct": false,
        "rationale": "Il produit des textes nouveaux.",
+       "label": "C"
+      },
+      {
+       "text": "Il prédit la suite la plus probable d'un texte.",
+       "correct": true,
+       "rationale": "« Il a appris à prédire, mot après mot, la suite la plus probable d'une phrase. »",
        "label": "D"
       }
      ],
@@ -1207,27 +1207,27 @@
      "skill": "argumentation",
      "choices": [
       {
+       "text": "Parce qu'il ne distingue pas ce qui est vrai de ce qui est vraisemblable.",
+       "correct": true,
+       "rationale": "« Il ne sait tout simplement pas distinguer le vrai du plausible. »",
+       "label": "A"
+      },
+      {
        "text": "Parce qu'il cherche à tromper l'utilisateur.",
        "correct": false,
        "rationale": "« Il ne ment pas. »",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Parce qu'il manque de textes d'entraînement.",
        "correct": false,
        "rationale": "Il a été entraîné sur des « quantités gigantesques ».",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Parce qu'il a été mal programmé.",
        "correct": false,
        "rationale": "Ce n'est pas l'explication donnée.",
-       "label": "C"
-      },
-      {
-       "text": "Parce qu'il ne distingue pas ce qui est vrai de ce qui est vraisemblable.",
-       "correct": true,
-       "rationale": "« Il ne sait tout simplement pas distinguer le vrai du plausible. »",
        "label": "D"
       }
      ],
@@ -1244,15 +1244,15 @@
        "label": "A"
       },
       {
-       "text": "S'en servir comme point de départ et vérifier les informations importantes.",
-       "correct": true,
-       "rationale": "« Utilisez ces outils comme un brouillon intelligent, jamais comme une source. Vérifiez toujours ce qui compte. »",
-       "label": "B"
-      },
-      {
        "text": "Leur faire entièrement confiance.",
        "correct": false,
        "rationale": "Il conseille de vérifier.",
+       "label": "B"
+      },
+      {
+       "text": "S'en servir comme point de départ et vérifier les informations importantes.",
+       "correct": true,
+       "rationale": "« Utilisez ces outils comme un brouillon intelligent, jamais comme une source. Vérifiez toujours ce qui compte. »",
        "label": "C"
       },
       {

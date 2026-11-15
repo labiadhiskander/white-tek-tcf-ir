@@ -1,0 +1,1173 @@
+{
+ "slug": "co-conferences-emissions",
+ "section": "CO",
+ "title": "Conférences et émissions",
+ "description": "Extraits de conférences, de cours et d'émissions de vulgarisation : suivre un exposé structuré, repérer la thèse, les exemples et la conclusion.",
+ "order": 12,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CO-CONF-01",
+   "level": "B2",
+   "doc_type": "conférence",
+   "questions": [
+    {
+     "prompt": "Quelle est la thèse défendue par la chercheuse ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "L'oubli est un mécanisme utile au bon fonctionnement du cerveau.",
+       "correct": true,
+       "rationale": "« Je voudrais aujourd'hui vous convaincre du contraire… L'oubli joue donc un rôle de tri. »",
+       "label": "A"
+      },
+      {
+       "text": "Il faut entraîner sa mémoire pour ne rien oublier.",
+       "correct": false,
+       "rationale": "Elle montre qu'une mémoire totale serait un handicap.",
+       "label": "B"
+      },
+      {
+       "text": "Le sommeil empêche la mémorisation.",
+       "correct": false,
+       "rationale": "Elle dit l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "L'oubli est une maladie qu'il faut soigner.",
+       "correct": false,
+       "rationale": "C'est l'idée qu'elle conteste.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Vous convaincre du contraire » annonce une thèse qui s'oppose à l'idée reçue citée en ouverture."
+    },
+    {
+     "prompt": "À quoi sert l'exemple du cerveau qui retiendrait tout ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "À décrire le cerveau des personnes très intelligentes.",
+       "correct": false,
+       "rationale": "Il s'agit d'une hypothèse.",
+       "label": "A"
+      },
+      {
+       "text": "À expliquer comment fonctionne le métro.",
+       "correct": false,
+       "rationale": "Le métro n'est qu'un détail de l'exemple.",
+       "label": "B"
+      },
+      {
+       "text": "À présenter un cas réel étudié dans son laboratoire.",
+       "correct": false,
+       "rationale": "« Imaginez » introduit une situation fictive.",
+       "label": "C"
+      },
+      {
+       "text": "À montrer par l'absurde qu'une mémoire totale serait inefficace.",
+       "correct": true,
+       "rationale": "« Il serait saturé, incapable de distinguer l'essentiel de l'accessoire. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le raisonnement par l'absurde imagine la situation opposée pour en montrer les conséquences négatives."
+    },
+    {
+     "prompt": "Quelle nuance la chercheuse apporte-t-elle ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Le sommeil n'a finalement aucun rôle.",
+       "correct": false,
+       "rationale": "Elle affirme son rôle.",
+       "label": "A"
+      },
+      {
+       "text": "Certains oublis, dus à la maladie, sont réellement graves.",
+       "correct": true,
+       "rationale": "« Cela ne veut pas dire que tout oubli est bénin… Les maladies neurodégénératives détruisent justement cet équilibre. »",
+       "label": "B"
+      },
+      {
+       "text": "Les enfants oublient plus que les adultes.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "On peut tout retenir avec de l'entraînement.",
+       "correct": false,
+       "rationale": "Ce n'est pas sa position.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Cela ne veut pas dire que… bien sûr » prévient une généralisation abusive de sa thèse."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "title": "Pourquoi oublions-nous ?",
+   "context": "Extrait d'une conférence grand public d'une chercheuse en neurosciences.",
+   "document": "F: On considère souvent l'oubli comme un défaut de la mémoire, une panne qu'il faudrait réparer. Je voudrais aujourd'hui vous convaincre du contraire. Imaginez un cerveau qui retiendrait absolument tout : la couleur de chaque voiture croisée ce matin, chaque mot entendu dans le métro. Il serait saturé, incapable de distinguer l'essentiel de l'accessoire. L'oubli joue donc un rôle de tri. Pendant le sommeil, notamment, le cerveau renforce les souvenirs utiles et laisse s'effacer les autres. Cela ne veut pas dire que tout oubli est bénin, bien sûr. Les maladies neurodégénératives détruisent justement cet équilibre. Mais chez une personne en bonne santé, oublier, c'est en quelque sorte faire le ménage pour mieux penser.",
+   "vocabulary": [
+    {
+     "terme": "saturé",
+     "definition": "complètement rempli, qui ne peut plus rien recevoir",
+     "exemple": "Le réseau est saturé."
+    },
+    {
+     "terme": "l'accessoire",
+     "definition": "ce qui est secondaire",
+     "exemple": "Il faut séparer l'essentiel de l'accessoire."
+    },
+    {
+     "terme": "bénin",
+     "definition": "sans gravité",
+     "exemple": "Ce n'est qu'une blessure bénigne."
+    },
+    {
+     "terme": "neurodégénératif",
+     "definition": "qui détruit progressivement le système nerveux",
+     "exemple": "Alzheimer est une maladie neurodégénérative."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "en quelque sorte",
+     "sens": "d'une certaine manière",
+     "exemple": "C'est en quelque sorte un retour aux sources."
+    },
+    {
+     "expression": "faire le ménage",
+     "sens": "nettoyer, trier pour éliminer l'inutile",
+     "exemple": "J'ai fait le ménage dans mes courriels."
+    },
+    {
+     "expression": "convaincre du contraire",
+     "sens": "persuader qu'une idée est fausse",
+     "exemple": "Rien ne pourra le convaincre du contraire."
+    }
+   ]
+  },
+  {
+   "code": "CO-CONF-02",
+   "level": "B2",
+   "doc_type": "émission de vulgarisation",
+   "questions": [
+    {
+     "prompt": "Quel statut avait le sucre au Moyen Âge en Europe ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Celui d'une boisson populaire.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Celui d'un aliment de base des paysans.",
+       "correct": false,
+       "rationale": "C'était un produit de luxe.",
+       "label": "B"
+      },
+      {
+       "text": "Celui d'un produit rare et coûteux, utilisé comme remède.",
+       "correct": true,
+       "rationale": "« Un produit de luxe, vendu chez les apothicaires… comme médicament ou comme épice précieuse. »",
+       "label": "C"
+      },
+      {
+       "text": "Celui d'un produit interdit.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La comparaison avec les pharmaciens aide à comprendre le rôle des apothicaires."
+    },
+    {
+     "prompt": "Comment l'historienne présente-t-elle la première étape de la diffusion du sucre ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Comme un progrès technique admirable.",
+       "correct": false,
+       "rationale": "Elle souligne au contraire son caractère tragique.",
+       "label": "A"
+      },
+      {
+       "text": "Comme une période sombre, longtemps ignorée.",
+       "correct": true,
+       "rationale": "« Fondée sur l'esclavage… une histoire qu'on a longtemps passée sous silence. »",
+       "label": "B"
+      },
+      {
+       "text": "Comme une invention européenne.",
+       "correct": false,
+       "rationale": "Il s'agit des plantations aux Antilles.",
+       "label": "C"
+      },
+      {
+       "text": "Comme un événement sans importance.",
+       "correct": false,
+       "rationale": "Elle dit qu'elle a fait chuter les prix « de façon spectaculaire ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Malheureusement » et « passée sous silence » expriment un jugement critique."
+    },
+    {
+     "prompt": "Que désigne « l'ironie de l'histoire » ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Le fait que le sucre soit redevenu cher.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Le fait que la betterave ait remplacé la canne.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'ironie évoquée.",
+       "label": "B"
+      },
+      {
+       "text": "Le fait que les pharmaciens vendent encore du sucre.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Le fait qu'un produit autrefois considéré comme bon pour la santé soit devenu un problème de santé.",
+       "correct": true,
+       "rationale": "« Un produit qu'on prenait pour un remède est devenu un enjeu de santé publique. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'ironie naît d'un renversement de situation : remède hier, danger aujourd'hui."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "L'histoire du sucre",
+   "context": "Un animateur interroge une historienne de l'alimentation.",
+   "document": "H: Aujourd'hui, le sucre est partout. Mais ça n'a pas toujours été le cas ? / F: Pas du tout. Au Moyen Âge, en Europe, le sucre de canne était un produit de luxe, vendu chez les apothicaires, l'équivalent de nos pharmaciens. On l'utilisait comme médicament ou comme épice précieuse. / H: Qu'est-ce qui l'a rendu si courant ? / F: Deux étapes, malheureusement très différentes. D'abord, l'exploitation des plantations aux Antilles, fondée sur l'esclavage, qui a fait baisser les prix de façon spectaculaire. C'est une histoire qu'on a longtemps passée sous silence. Ensuite, au dix-neuvième siècle, l'industrie de la betterave sucrière en Europe, qui a rendu le sucre accessible à toutes les classes sociales. / H: Et aujourd'hui, on cherche à en consommer moins… / F: Oui, c'est l'ironie de l'histoire : un produit qu'on prenait pour un remède est devenu un enjeu de santé publique.",
+   "vocabulary": [
+    {
+     "terme": "un apothicaire",
+     "definition": "un ancien pharmacien",
+     "exemple": "L'apothicaire préparait les remèdes."
+    },
+    {
+     "terme": "une plantation",
+     "definition": "une grande exploitation agricole",
+     "exemple": "Les plantations de café s'étendaient à perte de vue."
+    },
+    {
+     "terme": "la betterave sucrière",
+     "definition": "une plante dont on extrait du sucre",
+     "exemple": "Le nord de la France cultive la betterave sucrière."
+    },
+    {
+     "terme": "un enjeu",
+     "definition": "ce qui est en jeu, un problème important",
+     "exemple": "Le climat est un enjeu majeur."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "passer sous silence",
+     "sens": "ne pas parler de quelque chose volontairement",
+     "exemple": "Le rapport passe sous silence les erreurs."
+    },
+    {
+     "expression": "l'ironie de l'histoire",
+     "sens": "un retournement inattendu",
+     "exemple": "L'ironie de l'histoire, c'est qu'il est devenu ministre."
+    },
+    {
+     "expression": "de façon spectaculaire",
+     "sens": "de manière très visible et importante",
+     "exemple": "Les ventes ont augmenté de façon spectaculaire."
+    }
+   ]
+  },
+  {
+   "code": "CO-CONF-03",
+   "level": "B2",
+   "doc_type": "cours en ligne",
+   "questions": [
+    {
+     "prompt": "Comment le professeur définit-il les biais cognitifs ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Comme des maladies du cerveau.",
+       "correct": false,
+       "rationale": "Ce n'est pas sa définition.",
+       "label": "A"
+      },
+      {
+       "text": "Comme des stratégies réservées aux experts.",
+       "correct": false,
+       "rationale": "Ils concernent tout le monde.",
+       "label": "B"
+      },
+      {
+       "text": "Comme des raccourcis mentaux rapides qui peuvent provoquer des erreurs.",
+       "correct": true,
+       "rationale": "« Des raccourcis que prend notre cerveau pour décider vite, et qui nous conduisent parfois à des erreurs. »",
+       "label": "C"
+      },
+      {
+       "text": "Comme des erreurs de calcul.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La formule « c'est-à-dire » introduit la définition."
+    },
+    {
+     "prompt": "Quelle idée reçue le professeur veut-il écarter ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Que seules les personnes peu intelligentes sont victimes de ces biais.",
+       "correct": true,
+       "rationale": "« Ces biais ne sont pas des signes de bêtise. Ils concernent tout le monde, y compris les experts. »",
+       "label": "A"
+      },
+      {
+       "text": "Que les biais sont utiles.",
+       "correct": false,
+       "rationale": "Il le reconnaît en partie.",
+       "label": "B"
+      },
+      {
+       "text": "Que le cerveau est rapide.",
+       "correct": false,
+       "rationale": "Il le dit lui-même.",
+       "label": "C"
+      },
+      {
+       "text": "Que les restaurants sont mauvais.",
+       "correct": false,
+       "rationale": "C'est un simple exemple.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Attention » signale une mise en garde contre une interprétation erronée."
+    },
+    {
+     "prompt": "Quel est l'objectif du cours ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Apprendre à décider plus vite.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'objectif annoncé.",
+       "label": "A"
+      },
+      {
+       "text": "Supprimer définitivement les biais.",
+       "correct": false,
+       "rationale": "Il dit que c'est impossible.",
+       "label": "B"
+      },
+      {
+       "text": "Apprendre à identifier ses biais, puisqu'on ne peut pas les éliminer.",
+       "correct": true,
+       "rationale": "« L'objectif… n'est donc pas de les supprimer, ce qui est impossible, mais d'apprendre à les reconnaître. »",
+       "label": "C"
+      },
+      {
+       "text": "Former des experts en restauration.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sujet.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « non pas… mais » précise l'objectif par opposition."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "title": "Les biais cognitifs",
+   "context": "Début d'un cours en ligne de psychologie.",
+   "document": "H: Bonjour à toutes et à tous. Dans ce module, nous allons parler des biais cognitifs, c'est-à-dire des raccourcis que prend notre cerveau pour décider vite, et qui nous conduisent parfois à des erreurs. Prenons le plus connu : le biais de confirmation. Il consiste à rechercher et à retenir en priorité les informations qui confirment ce que nous pensons déjà. Si je suis persuadé qu'un restaurant est mauvais, je remarquerai chaque plat raté et j'oublierai les bons. Attention : ces biais ne sont pas des signes de bêtise. Ils concernent tout le monde, y compris les experts. Ils nous ont même probablement aidés à survivre, quand il fallait réagir en une fraction de seconde. Le problème, c'est qu'ils sont mal adaptés à des questions complexes. L'objectif de ce cours n'est donc pas de les supprimer, ce qui est impossible, mais d'apprendre à les reconnaître.",
+   "vocabulary": [
+    {
+     "terme": "un biais",
+     "definition": "une déformation, une tendance qui fausse le jugement",
+     "exemple": "Cette étude présente un biais."
+    },
+    {
+     "terme": "un raccourci",
+     "definition": "un moyen plus rapide",
+     "exemple": "Il a pris un raccourci par la forêt."
+    },
+    {
+     "terme": "persuadé",
+     "definition": "convaincu",
+     "exemple": "Elle est persuadée d'avoir raison."
+    },
+    {
+     "terme": "une fraction de seconde",
+     "definition": "un temps très court",
+     "exemple": "Tout s'est joué en une fraction de seconde."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "en priorité",
+     "sens": "d'abord, avant le reste",
+     "exemple": "Il faut traiter ce dossier en priorité."
+    },
+    {
+     "expression": "y compris",
+     "sens": "même, en incluant",
+     "exemple": "Tout le monde est venu, y compris les enfants."
+    },
+    {
+     "expression": "mal adapté à",
+     "sens": "qui ne convient pas bien à",
+     "exemple": "Ces chaussures sont mal adaptées à la randonnée."
+    }
+   ]
+  },
+  {
+   "code": "CO-CONF-04",
+   "level": "B2",
+   "doc_type": "conférence",
+   "questions": [
+    {
+     "prompt": "Quelle critique l'urbaniste fait-il des villes actuelles ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Elles manquent de parkings.",
+       "correct": false,
+       "rationale": "Il critique justement leur omniprésence.",
+       "label": "A"
+      },
+      {
+       "text": "Elles ont été conçues pour la voiture, avec des effets négatifs.",
+       "correct": true,
+       "rationale": "« Nous avons construit nos villes autour de la voiture… bruyants, pollués… embouteillés. »",
+       "label": "B"
+      },
+      {
+       "text": "Elles sont trop petites.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Elles ont trop d'espaces verts.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le mot « paradoxalement » souligne qu'une ville conçue pour circuler vite finit embouteillée."
+    },
+    {
+     "prompt": "En quoi consiste la « ville du quart d'heure » ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Limiter les trajets en voiture à quinze minutes.",
+       "correct": false,
+       "rationale": "Il s'agit de marche et de vélo.",
+       "label": "A"
+      },
+      {
+       "text": "Construire une ville en quinze ans.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "B"
+      },
+      {
+       "text": "Réduire la journée de travail.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sujet.",
+       "label": "C"
+      },
+      {
+       "text": "Pouvoir accéder aux services essentiels à pied ou à vélo en quinze minutes.",
+       "correct": true,
+       "rationale": "« Accéder à pied ou à vélo, en quinze minutes, à l'essentiel. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'énumération qui suit les deux-points détaille ce que recouvre « l'essentiel »."
+    },
+    {
+     "prompt": "Comment l'urbaniste répond-il à l'objection de « l'utopie de riches » ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Il la juge fondée et propose d'y remédier par le logement social.",
+       "correct": true,
+       "rationale": "« Je comprends l'objection… C'est pourquoi ce modèle doit s'accompagner d'une politique de logement social ambitieuse. »",
+       "label": "A"
+      },
+      {
+       "text": "Il la rejette catégoriquement.",
+       "correct": false,
+       "rationale": "Il dit la comprendre.",
+       "label": "B"
+      },
+      {
+       "text": "Il abandonne son projet.",
+       "correct": false,
+       "rationale": "Il maintient le modèle.",
+       "label": "C"
+      },
+      {
+       "text": "Il propose de réserver ces quartiers aux riches.",
+       "correct": false,
+       "rationale": "C'est le risque qu'il veut éviter.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Il concède le risque de hausse des loyers, puis présente une solution : c'est une réfutation nuancée."
+    }
+   ],
+   "speakers": [
+    "H:fr-BE"
+   ],
+   "title": "La ville de demain",
+   "context": "Extrait d'une conférence d'un urbaniste belge.",
+   "document": "H: Pendant des décennies, nous avons construit nos villes autour de la voiture. Les grandes avenues, les parkings, les zones commerciales en périphérie : tout était pensé pour circuler vite. Le résultat, vous le connaissez : des centres-villes bruyants, pollués, et paradoxalement souvent embouteillés. Aujourd'hui, un concept gagne du terrain : la ville du quart d'heure. L'idée est simple : chaque habitant devrait pouvoir accéder à pied ou à vélo, en quinze minutes, à l'essentiel : son travail, des commerces, une école, un médecin, un parc. Certains me répondent que c'est une utopie de riches. Je comprends l'objection : si l'on n'y prend pas garde, rendre un quartier agréable fait monter les loyers et chasse les habitants modestes. C'est pourquoi ce modèle doit s'accompagner d'une politique de logement social ambitieuse.",
+   "vocabulary": [
+    {
+     "terme": "la périphérie",
+     "definition": "la zone autour du centre-ville",
+     "exemple": "Les supermarchés sont en périphérie."
+    },
+    {
+     "terme": "embouteillé",
+     "definition": "bloqué par la circulation",
+     "exemple": "Le périphérique est embouteillé chaque matin."
+    },
+    {
+     "terme": "une utopie",
+     "definition": "un projet idéal mais irréalisable",
+     "exemple": "La paix universelle est-elle une utopie ?"
+    },
+    {
+     "terme": "une objection",
+     "definition": "un argument opposé",
+     "exemple": "Avez-vous des objections ?"
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "gagner du terrain",
+     "sens": "progresser, se développer",
+     "exemple": "Le télétravail gagne du terrain."
+    },
+    {
+     "expression": "si l'on n'y prend pas garde",
+     "sens": "si l'on ne fait pas attention",
+     "exemple": "Si l'on n'y prend pas garde, la situation empirera."
+    },
+    {
+     "expression": "pensé pour",
+     "sens": "conçu en fonction de",
+     "exemple": "Cet appartement est pensé pour les familles."
+    }
+   ]
+  },
+  {
+   "code": "CO-CONF-05",
+   "level": "B2",
+   "doc_type": "émission scientifique",
+   "questions": [
+    {
+     "prompt": "Que pense le scientifique de l'idée de planter des milliards d'arbres ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Qu'elle est dangereuse pour la planète.",
+       "correct": false,
+       "rationale": "Il ne dit pas cela.",
+       "label": "A"
+      },
+      {
+       "text": "Qu'elle est attrayante mais ne suffit pas à résoudre le problème.",
+       "correct": true,
+       "rationale": "« C'est une idée séduisante, mais trompeuse… l'effet sera dérisoire. »",
+       "label": "B"
+      },
+      {
+       "text": "Qu'elle est la meilleure solution.",
+       "correct": false,
+       "rationale": "Il la juge trompeuse.",
+       "label": "C"
+      },
+      {
+       "text": "Qu'elle est déjà réalisée.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le couple « séduisante, mais trompeuse » exprime une évaluation nuancée."
+    },
+    {
+     "prompt": "Comment réagit-il quand la journaliste conclut que planter est inutile ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Il approuve sa conclusion.",
+       "correct": false,
+       "rationale": "Il la rejette.",
+       "label": "A"
+      },
+      {
+       "text": "Il change de sujet.",
+       "correct": false,
+       "rationale": "Il répond directement.",
+       "label": "B"
+      },
+      {
+       "text": "Il corrige cette interprétation en posant des conditions.",
+       "correct": true,
+       "rationale": "« Je n'ai pas dit ça. C'est utile, à condition de… »",
+       "label": "C"
+      },
+      {
+       "text": "Il dit qu'il faut arrêter de planter.",
+       "correct": false,
+       "rationale": "Ce n'est pas son avis.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La journaliste reformule de façon excessive ; il rectifie et nuance."
+    },
+    {
+     "prompt": "Quelle est, selon lui, la priorité ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Couper les vieilles forêts pour en planter de nouvelles.",
+       "correct": false,
+       "rationale": "Il condamne cette pratique.",
+       "label": "A"
+      },
+      {
+       "text": "Planter une seule espèce à croissance rapide.",
+       "correct": false,
+       "rationale": "Il recommande des espèces variées.",
+       "label": "B"
+      },
+      {
+       "text": "Réduire le nombre d'arbres.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Préserver les forêts anciennes existantes.",
+       "correct": true,
+       "rationale": "« La priorité absolue, c'est de protéger les forêts anciennes qui existent déjà. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Perdre au change » résume l'idée qu'une forêt ancienne vaut plus qu'une plantation récente."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Les forêts et le climat",
+   "context": "Une journaliste scientifique interroge un écologue forestier.",
+   "document": "F: On entend souvent qu'il suffirait de planter des milliards d'arbres pour régler le problème climatique. Qu'en pensez-vous ? / H: C'est une idée séduisante, mais trompeuse. Un arbre jeune absorbe peu de carbone. Il lui faut des décennies pour jouer un rôle important. Et pendant ce temps, si nos émissions continuent, l'effet sera dérisoire. / F: Planter des arbres serait donc inutile ? / H: Je n'ai pas dit ça. C'est utile, à condition de planter des espèces variées, adaptées au sol, et de les entretenir. Mais la priorité absolue, c'est de protéger les forêts anciennes qui existent déjà. Une forêt primaire stocke bien plus de carbone qu'une plantation récente, et elle abrite une biodiversité irremplaçable. Couper une vieille forêt pour planter ailleurs, c'est perdre au change.",
+   "vocabulary": [
+    {
+     "terme": "séduisant",
+     "definition": "attirant",
+     "exemple": "Son offre est séduisante."
+    },
+    {
+     "terme": "trompeur",
+     "definition": "qui donne une fausse impression",
+     "exemple": "Les apparences sont trompeuses."
+    },
+    {
+     "terme": "dérisoire",
+     "definition": "insignifiant, très faible",
+     "exemple": "Il a reçu une somme dérisoire."
+    },
+    {
+     "terme": "une forêt primaire",
+     "definition": "une forêt jamais exploitée par l'homme",
+     "exemple": "L'Amazonie abrite de vastes forêts primaires."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "perdre au change",
+     "sens": "faire un échange désavantageux",
+     "exemple": "En vendant sa maison, il a perdu au change."
+    },
+    {
+     "expression": "à condition de",
+     "sens": "seulement si",
+     "exemple": "Tu peux sortir à condition de rentrer tôt."
+    },
+    {
+     "expression": "je n'ai pas dit ça",
+     "sens": "vous déformez mes propos",
+     "exemple": "Je n'ai pas dit ça, j'ai dit qu'il fallait attendre."
+    }
+   ]
+  },
+  {
+   "code": "CO-CONF-06",
+   "level": "B2",
+   "doc_type": "conférence",
+   "questions": [
+    {
+     "prompt": "Quelle inquiétude des parents la linguiste évoque-t-elle ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Que plusieurs langues troublent l'enfant ou ralentissent son apprentissage de la parole.",
+       "correct": true,
+       "rationale": "« Ne risquent-ils pas de le perturber, de retarder sa parole ? »",
+       "label": "A"
+      },
+      {
+       "text": "Que l'école interdise les autres langues.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Que les langues étrangères coûtent cher.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Que l'enfant refuse de parler.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La question qu'elle pose reformule les craintes des parents."
+    },
+    {
+     "prompt": "Comment interprète-t-elle le fait qu'un enfant bilingue mélange les langues ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Comme la preuve qu'il faut abandonner une langue.",
+       "correct": false,
+       "rationale": "Elle ne le recommande pas.",
+       "label": "A"
+      },
+      {
+       "text": "Comme un signe de paresse.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Comme un trouble du langage.",
+       "correct": false,
+       "rationale": "Elle le nie.",
+       "label": "C"
+      },
+      {
+       "text": "Comme une stratégie efficace et non comme une confusion.",
+       "correct": true,
+       "rationale": "« Ce mélange n'est pas un signe de confusion : c'est une stratégie. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Elle requalifie un phénomène vu comme négatif en comportement adaptatif."
+    },
+    {
+     "prompt": "Quel conseil donne-t-elle aux parents ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Parler à l'enfant dans la langue qu'ils maîtrisent et ressentent le mieux.",
+       "correct": true,
+       "rationale": "« Parlez à votre enfant dans la langue où vous êtes le plus à l'aise. »",
+       "label": "A"
+      },
+      {
+       "text": "Parler uniquement la langue du pays.",
+       "correct": false,
+       "rationale": "Ce n'est pas son conseil.",
+       "label": "B"
+      },
+      {
+       "text": "Éviter les chansons.",
+       "correct": false,
+       "rationale": "Elle les cite comme un atout.",
+       "label": "C"
+      },
+      {
+       "text": "Inscrire l'enfant à des cours intensifs.",
+       "correct": false,
+       "rationale": "Elle oppose l'affection à l'obligation.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La dernière phrase résume la thèse : la qualité affective de la transmission compte plus que la contrainte."
+    }
+   ],
+   "speakers": [
+    "F:fr-CA"
+   ],
+   "title": "Le multilinguisme chez l'enfant",
+   "context": "Extrait d'une conférence d'une linguiste québécoise destinée aux parents.",
+   "document": "F: Beaucoup de parents s'inquiètent : en exposant leur enfant à deux ou trois langues, ne risquent-ils pas de le perturber, de retarder sa parole ? Les recherches des trente dernières années sont plutôt rassurantes. Il est vrai qu'un enfant bilingue peut parfois mélanger les langues, ou avoir un vocabulaire un peu plus réduit dans chacune d'elles à un moment donné. Mais si l'on additionne les mots qu'il connaît dans ses deux langues, il est généralement au même niveau qu'un enfant monolingue. Et ce mélange n'est pas un signe de confusion : c'est une stratégie, il utilise le mot qui lui vient le plus vite. Mon conseil est simple : parlez à votre enfant dans la langue où vous êtes le plus à l'aise, celle dans laquelle vous pouvez chanter, plaisanter, consoler. Une langue transmise avec affection vaut mieux qu'une langue apprise par obligation.",
+   "vocabulary": [
+    {
+     "terme": "perturber",
+     "definition": "troubler, déranger",
+     "exemple": "Le bruit perturbe son sommeil."
+    },
+    {
+     "terme": "monolingue",
+     "definition": "qui ne parle qu'une langue",
+     "exemple": "Les enfants monolingues ne sont pas plus avancés."
+    },
+    {
+     "terme": "à l'aise",
+     "definition": "détendu, sans difficulté",
+     "exemple": "Elle est à l'aise en public."
+    },
+    {
+     "terme": "consoler",
+     "definition": "réconforter quelqu'un qui a de la peine",
+     "exemple": "Il a consolé son ami."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "à un moment donné",
+     "sens": "à un certain moment",
+     "exemple": "À un moment donné, il faudra choisir."
+    },
+    {
+     "expression": "plutôt rassurant",
+     "sens": "qui calme plutôt les inquiétudes",
+     "exemple": "Les résultats sont plutôt rassurants."
+    },
+    {
+     "expression": "valoir mieux que",
+     "sens": "être préférable à",
+     "exemple": "Un bon accord vaut mieux qu'un long procès."
+    }
+   ]
+  },
+  {
+   "code": "CO-CONF-07",
+   "level": "B2",
+   "doc_type": "émission radio",
+   "questions": [
+    {
+     "prompt": "Pourquoi l'économiste conteste-t-elle les chiffres annoncés ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Parce qu'ils viennent d'entreprises de robotique.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Parce qu'ils sont trop anciens.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Parce qu'ils confondent tâches automatisables et emplois supprimés.",
+       "correct": true,
+       "rationale": "« Des études qui comptent les tâches automatisables, pas les emplois. »",
+       "label": "C"
+      },
+      {
+       "text": "Parce qu'ils sous-estiment l'automatisation.",
+       "correct": false,
+       "rationale": "Elle pense qu'ils l'exagèrent.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Son raisonnement repose sur la distinction entre une tâche et un métier."
+    },
+    {
+     "prompt": "Quel rôle joue l'exemple des guichets automatiques ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Il montre que les machines sont inefficaces.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "A"
+      },
+      {
+       "text": "Il illustre la transformation d'un métier plutôt que sa disparition.",
+       "correct": true,
+       "rationale": "« Ils ont changé leur rôle, davantage tourné vers le conseil. »",
+       "label": "B"
+      },
+      {
+       "text": "Il annonce la fin des employés de banque.",
+       "correct": false,
+       "rationale": "Elle dit le contraire.",
+       "label": "C"
+      },
+      {
+       "text": "Il prouve que les banques ferment.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'exemple concret appuie l'idée générale énoncée juste avant."
+    },
+    {
+     "prompt": "Quel est, selon elle, le principal défi ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "La formation continue des travailleurs.",
+       "correct": true,
+       "rationale": "« Le vrai défi n'est pas la fin du travail, mais la formation. »",
+       "label": "A"
+      },
+      {
+       "text": "L'interdiction des robots.",
+       "correct": false,
+       "rationale": "Ce n'est pas proposé.",
+       "label": "B"
+      },
+      {
+       "text": "La fin du travail.",
+       "correct": false,
+       "rationale": "Elle l'écarte explicitement.",
+       "label": "C"
+      },
+      {
+       "text": "La baisse des salaires.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Pas… mais » oppose la crainte courante à la véritable question selon elle."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "Faut-il avoir peur des robots au travail ?",
+   "context": "Un animateur interroge une économiste spécialiste de l'automatisation.",
+   "document": "H: On annonce régulièrement que les robots et l'intelligence artificielle vont supprimer la moitié des emplois. Vous y croyez ? / F: Ces chiffres spectaculaires viennent souvent d'études qui comptent les tâches automatisables, pas les emplois. Or un métier est un ensemble de tâches. Si une machine en prend en charge une partie, le métier se transforme plus souvent qu'il ne disparaît. Les guichets automatiques n'ont pas fait disparaître les employés de banque ; ils ont changé leur rôle, davantage tourné vers le conseil. / H: Donc, pas d'inquiétude ? / F: Je ne dirais pas cela. Les transitions sont souvent brutales pour les personnes concernées, surtout les moins qualifiées. Le vrai défi n'est pas la fin du travail, mais la formation : permettre à chacun de se requalifier tout au long de sa vie.",
+   "vocabulary": [
+    {
+     "terme": "automatisable",
+     "definition": "qui peut être réalisé par une machine",
+     "exemple": "Cette tâche est facilement automatisable."
+    },
+    {
+     "terme": "un guichet automatique",
+     "definition": "une machine qui distribue de l'argent",
+     "exemple": "Il a retiré de l'argent au guichet automatique."
+    },
+    {
+     "terme": "brutal",
+     "definition": "soudain et violent",
+     "exemple": "Le changement a été brutal."
+    },
+    {
+     "terme": "se requalifier",
+     "definition": "acquérir de nouvelles compétences professionnelles",
+     "exemple": "Il s'est requalifié dans l'informatique."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "prendre en charge",
+     "sens": "s'occuper de, assumer",
+     "exemple": "La machine prend en charge le tri."
+    },
+    {
+     "expression": "tout au long de sa vie",
+     "sens": "pendant toute la vie",
+     "exemple": "On apprend tout au long de sa vie."
+    },
+    {
+     "expression": "je ne dirais pas cela",
+     "sens": "je ne suis pas d'accord avec cette conclusion",
+     "exemple": "Facile ? Je ne dirais pas cela."
+    }
+   ]
+  },
+  {
+   "code": "CO-CONF-08",
+   "level": "B2",
+   "doc_type": "conférence",
+   "questions": [
+    {
+     "prompt": "Quelle conception de la négociation le conférencier critique-t-il ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Celle d'une discussion fondée sur l'écoute.",
+       "correct": false,
+       "rationale": "C'est ce qu'il recommande.",
+       "label": "A"
+      },
+      {
+       "text": "Celle d'un accord entre amis.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Celle d'une négociation écrite.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Celle d'un affrontement où le gain de l'un est la perte de l'autre.",
+       "correct": true,
+       "rationale": "« Un bras de fer, où l'un gagne ce que l'autre perd. C'est rarement la meilleure approche. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'image du « bras de fer » représente l'approche conflictuelle qu'il rejette."
+    },
+    {
+     "prompt": "Que montre l'exemple de l'orange ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Il faut toujours céder.",
+       "correct": false,
+       "rationale": "Ce n'est pas la leçon.",
+       "label": "A"
+      },
+      {
+       "text": "Les sœurs se disputent souvent.",
+       "correct": false,
+       "rationale": "C'est un détail sans portée.",
+       "label": "B"
+      },
+      {
+       "text": "Comprendre les besoins de chacun permet un accord plus satisfaisant.",
+       "correct": true,
+       "rationale": "« Si elles s'étaient demandé pourquoi chacune voulait l'orange, elles auraient pu avoir chacune la totalité de ce qu'elles souhaitaient. »",
+       "label": "C"
+      },
+      {
+       "text": "Le partage égal est toujours la meilleure solution.",
+       "correct": false,
+       "rationale": "L'exemple montre ses limites.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le conditionnel passé (« auraient pu ») souligne l'occasion manquée."
+    },
+    {
+     "prompt": "Quelle difficulté le conférencier souligne-t-il à la fin ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Il est impossible de poser des questions.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Nous surestimons notre capacité à écouter.",
+       "correct": true,
+       "rationale": "« Ce que nous faisons beaucoup moins bien que nous le croyons. »",
+       "label": "B"
+      },
+      {
+       "text": "Les négociations durent trop longtemps.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Les intérêts sont toujours opposés.",
+       "correct": false,
+       "rationale": "Il dit le contraire.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La comparaison « moins bien que nous le croyons » révèle un écart entre perception et réalité."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "title": "L'art de la négociation",
+   "context": "Extrait d'une conférence donnée dans une école de commerce.",
+   "document": "H: Quand on pense négociation, on imagine souvent un bras de fer, où l'un gagne ce que l'autre perd. C'est rarement la meilleure approche. Dans la plupart des cas, les deux parties ont des intérêts qui ne sont pas totalement opposés. Je vous donne un exemple classique : deux sœurs se disputent une orange. Elles finissent par la couper en deux. Or l'une voulait le jus, l'autre seulement l'écorce pour un gâteau. Si elles s'étaient demandé pourquoi chacune voulait l'orange, elles auraient pu avoir chacune la totalité de ce qu'elles souhaitaient. La leçon est simple : avant de discuter des positions, interrogez-vous sur les besoins réels. Cela demande de poser des questions et surtout d'écouter, ce que nous faisons beaucoup moins bien que nous le croyons.",
+   "vocabulary": [
+    {
+     "terme": "une partie",
+     "definition": "une personne ou un groupe engagé dans un accord",
+     "exemple": "Les deux parties ont signé."
+    },
+    {
+     "terme": "l'écorce",
+     "definition": "la peau d'un fruit comme l'orange",
+     "exemple": "On utilise l'écorce de citron en pâtisserie."
+    },
+    {
+     "terme": "la totalité",
+     "definition": "l'ensemble, le tout",
+     "exemple": "Il a payé la totalité de la somme."
+    },
+    {
+     "terme": "une position",
+     "definition": "ce qu'on demande officiellement",
+     "exemple": "Chacun reste sur ses positions."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "un bras de fer",
+     "sens": "un affrontement entre deux forces",
+     "exemple": "Le bras de fer entre syndicats et patronat continue."
+    },
+    {
+     "expression": "se disputer quelque chose",
+     "sens": "chercher à obtenir la même chose qu'un autre",
+     "exemple": "Les enfants se disputent le jouet."
+    },
+    {
+     "expression": "la leçon est simple",
+     "sens": "la conclusion à retenir est claire",
+     "exemple": "La leçon est simple : il faut écouter."
+    }
+   ]
+  }
+ ]
+}

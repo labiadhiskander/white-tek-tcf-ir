@@ -22,15 +22,15 @@
        "label": "A"
       },
       {
-       "text": "À cause d'un décalage naturel de leur horloge biologique.",
-       "correct": true,
-       "rationale": "« À l'adolescence, l'horloge biologique se décale naturellement. »",
-       "label": "B"
-      },
-      {
        "text": "Parce qu'ils boivent trop de café.",
        "correct": false,
        "rationale": "Le café n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "À cause d'un décalage naturel de leur horloge biologique.",
+       "correct": true,
+       "rationale": "« À l'adolescence, l'horloge biologique se décale naturellement. »",
        "label": "C"
       },
       {
@@ -53,21 +53,21 @@
        "label": "A"
       },
       {
+       "text": "Ils renforcent un décalage qui existe déjà.",
+       "correct": true,
+       "rationale": "« Ils n'en sont pas la cause unique, mais ils accentuent le décalage. »",
+       "label": "B"
+      },
+      {
        "text": "Ils aident les adolescents à se détendre.",
        "correct": false,
        "rationale": "Ils stimulent au lieu de calmer.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Ils n'ont aucun effet sur le sommeil.",
        "correct": false,
        "rationale": "Ils retardent la mélatonine et stimulent le cerveau.",
-       "label": "C"
-      },
-      {
-       "text": "Ils renforcent un décalage qui existe déjà.",
-       "correct": true,
-       "rationale": "« Ils n'en sont pas la cause unique, mais ils accentuent le décalage. »",
        "label": "D"
       }
      ],
@@ -162,15 +162,15 @@
      "skill": "implicite",
      "choices": [
       {
-       "text": "Elle a déménagé en ville.",
-       "correct": false,
-       "rationale": "Elle vit toujours dans la commune.",
-       "label": "A"
-      },
-      {
        "text": "Elle reporte parfois ses soins au risque de sa santé.",
        "correct": true,
        "rationale": "« Parfois, je laisse traîner, et je sais que ce n'est pas raisonnable. »",
+       "label": "A"
+      },
+      {
+       "text": "Elle a déménagé en ville.",
+       "correct": false,
+       "rationale": "Elle vit toujours dans la commune.",
        "label": "B"
       },
       {
@@ -199,21 +199,21 @@
        "label": "A"
       },
       {
-       "text": "Les jeunes médecins préfèrent d'autres conditions d'exercice.",
-       "correct": true,
-       "rationale": "« Les jeunes médecins préfèrent exercer en groupe, en ville, avec des horaires plus raisonnables. »",
-       "label": "B"
-      },
-      {
        "text": "Le cabinet proposé était trop cher.",
        "correct": false,
        "rationale": "Il était proposé « gratuitement ».",
-       "label": "C"
+       "label": "B"
       },
       {
        "text": "La mairie n'a pas publié d'annonces.",
        "correct": false,
        "rationale": "Elle a passé des annonces dans les facultés.",
+       "label": "C"
+      },
+      {
+       "text": "Les jeunes médecins préfèrent d'autres conditions d'exercice.",
+       "correct": true,
+       "rationale": "« Les jeunes médecins préfèrent exercer en groupe, en ville, avec des horaires plus raisonnables. »",
        "label": "D"
       }
      ],
@@ -230,21 +230,21 @@
        "label": "A"
       },
       {
+       "text": "Comme une solution complémentaire qui reste insuffisante.",
+       "correct": true,
+       "rationale": "« Une solution d'appoint… qui ne remplacera jamais un médecin de famille. »",
+       "label": "B"
+      },
+      {
        "text": "Comme une solution rejetée par les habitants.",
        "correct": false,
        "rationale": "L'avis des habitants n'est pas donné.",
-       "label": "B"
+       "label": "C"
       },
       {
        "text": "Comme une dépense inutile.",
        "correct": false,
        "rationale": "Il ne la rejette pas.",
-       "label": "C"
-      },
-      {
-       "text": "Comme une solution complémentaire qui reste insuffisante.",
-       "correct": true,
-       "rationale": "« Une solution d'appoint… qui ne remplacera jamais un médecin de famille. »",
        "label": "D"
       }
      ],
@@ -351,15 +351,15 @@
        "label": "B"
       },
       {
-       "text": "Ils coûtent de plus en plus cher.",
-       "correct": false,
-       "rationale": "Le prix n'est pas évoqué.",
-       "label": "C"
-      },
-      {
        "text": "Ces produits sont moins contrôlés que les médicaments et peuvent avoir des effets indésirables.",
        "correct": true,
        "rationale": "« Ils ne sont pas soumis aux mêmes contrôles, et certains peuvent interagir avec des traitements. »",
+       "label": "C"
+      },
+      {
+       "text": "Ils coûtent de plus en plus cher.",
+       "correct": false,
+       "rationale": "Le prix n'est pas évoqué.",
        "label": "D"
       }
      ],
@@ -370,21 +370,21 @@
      "skill": "synthèse",
      "choices": [
       {
+       "text": "Demander l'avis d'un médecin avant d'en prendre.",
+       "correct": true,
+       "rationale": "« D'en parler à son médecin plutôt que de se fier aux promesses inscrites sur l'emballage. »",
+       "label": "A"
+      },
+      {
        "text": "Lire attentivement l'emballage.",
        "correct": false,
        "rationale": "Elle met en garde contre les promesses de l'emballage.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Arrêter immédiatement tous les compléments.",
        "correct": false,
        "rationale": "« Le message n'est pas de tout jeter à la poubelle. »",
-       "label": "B"
-      },
-      {
-       "text": "Demander l'avis d'un médecin avant d'en prendre.",
-       "correct": true,
-       "rationale": "« D'en parler à son médecin plutôt que de se fier aux promesses inscrites sur l'emballage. »",
        "label": "C"
       },
       {
@@ -458,15 +458,15 @@
        "label": "A"
       },
       {
-       "text": "Elle réduit la consommation et incite les fabricants à mettre moins de sucre.",
-       "correct": true,
-       "rationale": "« Elle décourage la consommation et pousse les industriels à réduire le sucre dans leurs recettes. »",
-       "label": "B"
-      },
-      {
        "text": "Elle augmente les bénéfices de l'industrie.",
        "correct": false,
        "rationale": "Ce n'est pas un effet mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Elle réduit la consommation et incite les fabricants à mettre moins de sucre.",
+       "correct": true,
+       "rationale": "« Elle décourage la consommation et pousse les industriels à réduire le sucre dans leurs recettes. »",
        "label": "C"
       },
       {
@@ -489,15 +489,15 @@
        "label": "A"
       },
       {
-       "text": "Il dit que les ménages modestes boivent peu de sodas.",
-       "correct": false,
-       "rationale": "Ce n'est pas son propos.",
-       "label": "B"
-      },
-      {
        "text": "Il affirme que les ménages modestes sont justement les plus touchés par les maladies liées au sucre.",
        "correct": true,
        "rationale": "« L'argument social se retourne : ce sont justement les ménages modestes qui souffrent le plus de l'obésité et du diabète. »",
+       "label": "B"
+      },
+      {
+       "text": "Il dit que les ménages modestes boivent peu de sodas.",
+       "correct": false,
+       "rationale": "Ce n'est pas son propos.",
        "label": "C"
       },
       {
@@ -610,15 +610,15 @@
        "label": "B"
       },
       {
-       "text": "Il supprime la nécessité d'un avis médical.",
-       "correct": false,
-       "rationale": "Un comité médical se prononce.",
-       "label": "C"
-      },
-      {
        "text": "Il simplifie la procédure pour faire reconnaître l'épuisement professionnel.",
        "correct": true,
        "rationale": "« Un comité médical pourra se prononcer sur la base d'un dossier simplifié. »",
+       "label": "C"
+      },
+      {
+       "text": "Il supprime la nécessité d'un avis médical.",
+       "correct": false,
+       "rationale": "Un comité médical se prononce.",
        "label": "D"
       }
      ],
@@ -666,15 +666,15 @@
        "label": "A"
       },
       {
-       "text": "Les demandes de reconnaissance sont souvent abusives.",
-       "correct": false,
-       "rationale": "C'est la crainte des employeurs, pas l'avis des spécialistes.",
-       "label": "B"
-      },
-      {
        "text": "L'épuisement professionnel est une maladie sérieuse aux conséquences durables.",
        "correct": true,
        "rationale": "Il « ne se résume pas à une fatigue passagère » et peut entraîner « plusieurs mois, voire plusieurs années d'arrêt ».",
+       "label": "B"
+      },
+      {
+       "text": "Les demandes de reconnaissance sont souvent abusives.",
+       "correct": false,
+       "rationale": "C'est la crainte des employeurs, pas l'avis des spécialistes.",
        "label": "C"
       },
       {
@@ -804,15 +804,15 @@
      "skill": "implicite",
      "choices": [
       {
-       "text": "Des patients d'abord méfiants persévèrent souvent dans la pratique.",
-       "correct": true,
-       "rationale": "« Les plus sceptiques au départ sont parfois ceux qui continuent le plus longtemps. »",
-       "label": "A"
-      },
-      {
        "text": "Les patients enthousiastes guérissent plus vite.",
        "correct": false,
        "rationale": "La guérison n'est pas évoquée.",
+       "label": "A"
+      },
+      {
+       "text": "Des patients d'abord méfiants persévèrent souvent dans la pratique.",
+       "correct": true,
+       "rationale": "« Les plus sceptiques au départ sont parfois ceux qui continuent le plus longtemps. »",
        "label": "B"
       },
       {
@@ -936,15 +936,15 @@
        "label": "B"
       },
       {
-       "text": "Une perte de poids et une réduction de son traitement.",
-       "correct": true,
-       "rationale": "« J'ai perdu huit kilos et mon cardiologue a réduit mon traitement. »",
-       "label": "C"
-      },
-      {
        "text": "Un retour à la compétition.",
        "correct": false,
        "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Une perte de poids et une réduction de son traitement.",
+       "correct": true,
+       "rationale": "« J'ai perdu huit kilos et mon cardiologue a réduit mon traitement. »",
        "label": "D"
       }
      ],
@@ -961,15 +961,15 @@
        "label": "A"
       },
       {
-       "text": "Les exercices sont trop difficiles.",
-       "correct": false,
-       "rationale": "Ils sont adaptés à chacun.",
-       "label": "B"
-      },
-      {
        "text": "Le coût non remboursé peut décourager certains patients.",
        "correct": true,
        "rationale": "« L'activité n'est pas remboursée… de nombreux patients renoncent faute de moyens. »",
+       "label": "B"
+      },
+      {
+       "text": "Les exercices sont trop difficiles.",
+       "correct": false,
+       "rationale": "Ils sont adaptés à chacun.",
        "label": "C"
       },
       {
@@ -1051,15 +1051,15 @@
        "label": "B"
       },
       {
-       "text": "Parce que le chiffre a baissé.",
-       "correct": false,
-       "rationale": "Il parle d'une hausse.",
-       "label": "C"
-      },
-      {
        "text": "Parce que la hausse reflète en partie une plus grande liberté de parole et que les symptômes ne sont pas une maladie diagnostiquée.",
        "correct": true,
        "rationale": "Il cite « une parole qui se libère » et précise que « symptômes dépressifs ne signifie pas dépression ».",
+       "label": "C"
+      },
+      {
+       "text": "Parce que le chiffre a baissé.",
+       "correct": false,
+       "rationale": "Il parle d'une hausse.",
        "label": "D"
       }
      ],
@@ -1101,21 +1101,21 @@
      "skill": "implicite",
      "choices": [
       {
+       "text": "Un délai aussi long est dangereux pour une personne en souffrance.",
+       "correct": true,
+       "rationale": "« En cas de détresse, trois mois, c'est une éternité. »",
+       "label": "A"
+      },
+      {
        "text": "Les étudiants doivent prendre rendez-vous plus tôt.",
        "correct": false,
        "rationale": "Ce n'est pas le sens.",
-       "label": "A"
+       "label": "B"
       },
       {
        "text": "Les psychologues travaillent trop lentement.",
        "correct": false,
        "rationale": "Il critique l'offre insuffisante, pas les psychologues.",
-       "label": "B"
-      },
-      {
-       "text": "Un délai aussi long est dangereux pour une personne en souffrance.",
-       "correct": true,
-       "rationale": "« En cas de détresse, trois mois, c'est une éternité. »",
        "label": "C"
       },
       {
