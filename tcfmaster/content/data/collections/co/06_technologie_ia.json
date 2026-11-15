@@ -1,0 +1,1315 @@
+{
+ "slug": "co-technologie-ia",
+ "section": "CO",
+ "title": "Technologie et intelligence artificielle",
+ "description": "Numérique, intelligence artificielle, données personnelles et usages technologiques : débats, explications et témoignages.",
+ "order": 6,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CO-TEC-01",
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "questions": [
+    {
+     "prompt": "Quel enseignement le chroniqueur tire-t-il de l'histoire ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les technologies ne détruisent jamais d'emplois.",
+       "correct": false,
+       "rationale": "Il reconnaît qu'elles en détruisent.",
+       "label": "A"
+      },
+      {
+       "text": "Les nouveaux emplois sont toujours moins bien payés.",
+       "correct": false,
+       "rationale": "Les salaires ne sont pas évoqués.",
+       "label": "B"
+      },
+      {
+       "text": "Les technologies suppriment certains emplois mais en font naître de nouveaux.",
+       "correct": true,
+       "rationale": "« Les technologies détruisent des emplois, certes, mais en créent d'autres, souvent inimaginables auparavant. »",
+       "label": "C"
+      },
+      {
+       "text": "Les ouvriers ont réussi à arrêter le progrès.",
+       "correct": false,
+       "rationale": "Rien ne l'indique.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Certes… mais » organise la concession et l'argument principal. L'exemple du développeur d'applications illustre les emplois « inimaginables auparavant »."
+    },
+    {
+     "prompt": "En quoi l'intelligence artificielle est-elle différente des technologies précédentes ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Elle remplace uniquement les ouvriers.",
+       "correct": false,
+       "rationale": "C'est l'inverse : elle touche aussi les métiers qualifiés.",
+       "label": "A"
+      },
+      {
+       "text": "Elle ne crée aucun nouvel emploi.",
+       "correct": false,
+       "rationale": "Il ne l'affirme pas.",
+       "label": "B"
+      },
+      {
+       "text": "Elle peut aussi effectuer des tâches intellectuelles.",
+       "correct": true,
+       "rationale": "« Elle ne remplace pas seulement des gestes répétitifs, mais aussi des tâches intellectuelles. »",
+       "label": "C"
+      },
+      {
+       "text": "Elle est moins rapide que les machines anciennes.",
+       "correct": false,
+       "rationale": "La vitesse n'est pas évoquée.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Toutefois » introduit la différence. « Ne… pas seulement… mais aussi » élargit le champ concerné."
+    },
+    {
+     "prompt": "Quelle est, selon lui, la vraie question ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Le salaire des développeurs.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sujet.",
+       "label": "A"
+      },
+      {
+       "text": "L'interdiction de l'intelligence artificielle.",
+       "correct": false,
+       "rationale": "Ce n'est pas envisagé.",
+       "label": "B"
+      },
+      {
+       "text": "Le nombre exact d'emplois qui vont disparaître.",
+       "correct": false,
+       "rationale": "C'est la question qu'il écarte.",
+       "label": "C"
+      },
+      {
+       "text": "Notre capacité à former rapidement les travailleurs dont le métier évolue.",
+       "correct": true,
+       "rationale": "« Si nous saurons former assez vite ceux dont le métier se transforme. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Comme souvent dans les chroniques, la conclusion déplace le débat avec « La vraie question n'est pas… mais… »."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "title": "L'intelligence artificielle va-t-elle supprimer nos emplois ?",
+   "document": "H: À chaque révolution technologique, la même crainte ressurgit : les machines vont nous voler notre travail. Au dix-neuvième siècle, des ouvriers brisaient les métiers à tisser mécaniques. Pourtant, l'histoire montre que les technologies détruisent des emplois, certes, mais en créent d'autres, souvent inimaginables auparavant. Qui aurait parlé de développeur d'applications il y a trente ans ? L'intelligence artificielle présente toutefois une différence notable : elle ne remplace pas seulement des gestes répétitifs, mais aussi des tâches intellectuelles, comme rédiger, traduire, analyser des documents. Les métiers qualifiés, longtemps épargnés, sont donc concernés à leur tour. La vraie question n'est pas de savoir si des emplois vont disparaître, mais si nous saurons former assez vite ceux dont le métier se transforme.",
+   "vocabulary": [
+    {
+     "terme": "ressurgir",
+     "definition": "réapparaître",
+     "exemple": "De vieilles peurs ressurgissent."
+    },
+    {
+     "terme": "un métier à tisser",
+     "definition": "une machine qui fabrique du tissu",
+     "exemple": "Les métiers à tisser ont transformé l'industrie textile."
+    },
+    {
+     "terme": "épargné",
+     "definition": "qui n'a pas été touché par quelque chose de négatif",
+     "exemple": "Cette région a été épargnée par la tempête."
+    },
+    {
+     "terme": "notable",
+     "definition": "important, digne d'être remarqué",
+     "exemple": "Il y a une différence notable entre les deux."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "à leur tour",
+     "sens": "eux aussi, après d'autres",
+     "exemple": "Les cadres sont touchés à leur tour."
+    },
+    {
+     "expression": "voler le travail de quelqu'un",
+     "sens": "prendre son emploi",
+     "exemple": "Les robots vont-ils nous voler notre travail ?"
+    },
+    {
+     "expression": "qui aurait parlé de…",
+     "sens": "personne n'aurait parlé de…",
+     "exemple": "Qui aurait parlé de smartphone en 1990 ?"
+    }
+   ]
+  },
+  {
+   "code": "CO-TEC-02",
+   "level": "B2",
+   "doc_type": "interview",
+   "questions": [
+    {
+     "prompt": "Comment le juriste répond-il à l'argument « Je n'ai rien à cacher » ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Il reconnaît que cet argument est juste.",
+       "correct": false,
+       "rationale": "Il le réfute.",
+       "label": "A"
+      },
+      {
+       "text": "Il distingue le droit à la vie privée du fait de cacher quelque chose.",
+       "correct": true,
+       "rationale": "« C'est une confusion entre vie privée et secret » ; l'exemple de la salle de bains l'illustre.",
+       "label": "B"
+      },
+      {
+       "text": "Il dit que tout le monde a des secrets.",
+       "correct": false,
+       "rationale": "Ce n'est pas son argument.",
+       "label": "C"
+      },
+      {
+       "text": "Il conseille de ne plus utiliser Internet.",
+       "correct": false,
+       "rationale": "Il propose des gestes simples.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'exemple concret (la porte de la salle de bains) rend l'argument accessible : on protège son intimité sans avoir rien à cacher."
+    },
+    {
+     "prompt": "Pourquoi des données « anodines » peuvent-elles être dangereuses ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Parce qu'elles peuvent être effacées.",
+       "correct": false,
+       "rationale": "Ce n'est pas le danger décrit.",
+       "label": "A"
+      },
+      {
+       "text": "Parce qu'elles sont vendues très cher.",
+       "correct": false,
+       "rationale": "Le prix n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Parce qu'une fois combinées, elles révèlent des informations sensibles.",
+       "correct": true,
+       "rationale": "« Croisées entre elles, elles révèlent énormément : vos horaires, vos opinions, votre état de santé. »",
+       "label": "C"
+      },
+      {
+       "text": "Parce qu'elles sont toujours fausses.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'opposition « prises isolément / croisées entre elles » est la clé. « Anodin » signifie sans importance."
+    },
+    {
+     "prompt": "Quelle est la position finale du juriste ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "La protection des données doit surtout relever de la loi, pas seulement des individus.",
+       "correct": true,
+       "rationale": "« On ne peut pas tout faire reposer sur l'individu. C'est à la loi d'encadrer les pratiques des entreprises. »",
+       "label": "A"
+      },
+      {
+       "text": "Chaque individu est seul responsable de ses données.",
+       "correct": false,
+       "rationale": "Il dit l'inverse.",
+       "label": "B"
+      },
+      {
+       "text": "Il est impossible de protéger ses données.",
+       "correct": false,
+       "rationale": "Il propose des gestes et une régulation.",
+       "label": "C"
+      },
+      {
+       "text": "Les entreprises doivent être libres de collecter les données.",
+       "correct": false,
+       "rationale": "Il veut les encadrer.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Mais soyons honnêtes » introduit une limite aux gestes individuels. « C'est à… de » indique à qui revient la responsabilité."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Protéger ses données personnelles",
+   "context": "Une journaliste interroge un juriste spécialisé dans le numérique.",
+   "document": "F: Beaucoup de gens disent : « Je n'ai rien à cacher, donc peu m'importe qu'on collecte mes données. » Que leur répondez-vous ? / H: Que c'est une confusion entre vie privée et secret. Vous n'avez rien à cacher, mais vous fermez quand même la porte de votre salle de bains. La vie privée, c'est le droit de choisir ce que l'on montre et à qui. Ensuite, vos données prises isolément paraissent anodines. Mais croisées entre elles, elles révèlent énormément : vos horaires, vos opinions, votre état de santé. Une compagnie d'assurance ou un futur employeur pourraient en faire un usage qui vous porterait préjudice. / F: Que peut faire un particulier ? / H: Des gestes simples : refuser les cookies non nécessaires, vérifier les autorisations des applications. Mais soyons honnêtes : on ne peut pas tout faire reposer sur l'individu. C'est à la loi d'encadrer les pratiques des entreprises.",
+   "vocabulary": [
+    {
+     "terme": "anodin",
+     "definition": "sans importance, inoffensif",
+     "exemple": "C'était une remarque anodine."
+    },
+    {
+     "terme": "croiser des données",
+     "definition": "comparer et combiner des informations",
+     "exemple": "Les enquêteurs ont croisé les fichiers."
+    },
+    {
+     "terme": "porter préjudice",
+     "definition": "causer du tort",
+     "exemple": "Cette rumeur lui a porté préjudice."
+    },
+    {
+     "terme": "encadrer",
+     "definition": "réglementer, fixer des limites",
+     "exemple": "La loi encadre la publicité."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "peu m'importe",
+     "sens": "cela ne me dérange pas, je m'en moque",
+     "exemple": "Peu m'importe ce qu'ils pensent."
+    },
+    {
+     "expression": "faire reposer sur",
+     "sens": "rendre responsable",
+     "exemple": "On fait reposer tout le travail sur lui."
+    },
+    {
+     "expression": "soyons honnêtes",
+     "sens": "pour dire la vérité",
+     "exemple": "Soyons honnêtes, ce projet coûte cher."
+    }
+   ]
+  },
+  {
+   "code": "CO-TEC-03",
+   "level": "B2",
+   "doc_type": "reportage",
+   "questions": [
+    {
+     "prompt": "Qu'est-ce qu'Yvette trouve le plus difficile ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Le prix des tablettes.",
+       "correct": false,
+       "rationale": "Le prix n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Qu'on suppose que tout le monde sait utiliser Internet.",
+       "correct": true,
+       "rationale": "« Le pire, c'est quand on me dit… Allez sur le site. Comme si c'était évident ! »",
+       "label": "B"
+      },
+      {
+       "text": "La lecture des petits caractères.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "L'absence de ses enfants.",
+       "correct": false,
+       "rationale": "Elle le mentionne, mais « le pire » est autre chose.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Comme si c'était évident ! » exprime l'agacement face à une supposition injustifiée. « Le pire, c'est… » désigne la principale difficulté."
+    },
+    {
+     "prompt": "Selon l'animatrice, quel est le principal obstacle ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "La complexité des appareils.",
+       "correct": false,
+       "rationale": "L'obstacle n'est « pas technique ».",
+       "label": "A"
+      },
+      {
+       "text": "La peur de se tromper ou d'être victime d'une escroquerie.",
+       "correct": true,
+       "rationale": "« Le principal obstacle n'est pas technique mais psychologique : la peur de faire une erreur irréparable, de se faire arnaquer. »",
+       "label": "B"
+      },
+      {
+       "text": "Le manque de connexion Internet.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Le refus d'apprendre.",
+       "correct": false,
+       "rationale": "Les seniors présents apprennent volontiers.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Pas… mais… » oppose l'explication écartée et l'explication retenue."
+    },
+    {
+     "prompt": "Que demande l'animatrice aux services publics ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "De distribuer des tablettes gratuites.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "De former les enfants des seniors.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "De supprimer les sites Internet.",
+       "correct": false,
+       "rationale": "Ce n'est pas sa demande.",
+       "label": "C"
+      },
+      {
+       "text": "De conserver un accueil en personne.",
+       "correct": true,
+       "rationale": "« Elle plaide pour que les services publics maintiennent toujours un accueil physique. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Plaider pour » signifie défendre une cause. La justification suit avec « Car »."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "La fracture numérique chez les seniors",
+   "context": "Reportage dans un atelier d'initiation au numérique pour personnes âgées.",
+   "document": "H: Déclarer ses impôts, prendre rendez-vous chez le médecin, consulter son compte bancaire : tout ou presque se fait désormais en ligne. Pour une partie des seniors, c'est un véritable casse-tête. Dans cet atelier, Yvette, quatre-vingt-deux ans, apprend à utiliser une tablette. / F: Mes enfants m'aident, mais ils habitent loin et je n'ose pas toujours les déranger. Le pire, c'est quand on me dit au téléphone : « Allez sur le site. » Comme si c'était évident ! Ici, au moins, on prend le temps de m'expliquer, et je n'ai pas honte de poser dix fois la même question. / H: Selon l'animatrice, le principal obstacle n'est pas technique mais psychologique : la peur de faire une erreur irréparable, de se faire arnaquer. Elle plaide pour que les services publics maintiennent toujours un accueil physique. Car l'autonomie numérique ne s'acquiert pas en une séance.",
+   "vocabulary": [
+    {
+     "terme": "un casse-tête",
+     "definition": "un problème difficile à résoudre",
+     "exemple": "Organiser ce voyage est un vrai casse-tête."
+    },
+    {
+     "terme": "arnaquer",
+     "definition": "escroquer, tromper pour voler de l'argent",
+     "exemple": "Il s'est fait arnaquer sur Internet."
+    },
+    {
+     "terme": "un accueil physique",
+     "definition": "un guichet avec une personne",
+     "exemple": "La mairie maintient un accueil physique."
+    },
+    {
+     "terme": "l'autonomie",
+     "definition": "la capacité à agir seul",
+     "exemple": "Ce cours vise l'autonomie des apprenants."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "tout ou presque",
+     "sens": "presque tout",
+     "exemple": "Tout ou presque est numérique."
+    },
+    {
+     "expression": "plaider pour",
+     "sens": "défendre une idée, un projet",
+     "exemple": "Elle plaide pour plus de transports publics."
+    },
+    {
+     "expression": "ne pas oser",
+     "sens": "ne pas avoir le courage de",
+     "exemple": "Je n'ose pas lui demander."
+    }
+   ]
+  },
+  {
+   "code": "CO-TEC-04",
+   "level": "B2",
+   "doc_type": "débat radiophonique",
+   "questions": [
+    {
+     "prompt": "Quel argument l'élue avance-t-elle ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "La technologie remplace les policiers.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "La technologie permet de retrouver rapidement des personnes recherchées.",
+       "correct": true,
+       "rationale": "« Permettrait de repérer en quelques secondes une personne recherchée dans une foule. »",
+       "label": "B"
+      },
+      {
+       "text": "La technologie est déjà utilisée partout.",
+       "correct": false,
+       "rationale": "Elle parle d'une expérimentation.",
+       "label": "C"
+      },
+      {
+       "text": "La technologie coûte peu cher.",
+       "correct": false,
+       "rationale": "Le coût n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le conditionnel « permettrait » présente un bénéfice potentiel. Les adjectifs « encadré » et « limité » anticipent les critiques."
+    },
+    {
+     "prompt": "Pourquoi le représentant associatif se méfie-t-il de la promesse « limité dans le temps » ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Parce que la loi interdit les expérimentations.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que les événements durent trop longtemps.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'argument.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que l'élue a menti par le passé.",
+       "correct": false,
+       "rationale": "Il ne l'accuse pas personnellement.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que les dispositifs de surveillance ont tendance à devenir permanents.",
+       "correct": true,
+       "rationale": "« Une technologie de surveillance installée pour un événement ne disparaît jamais. Elle s'étend progressivement. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "En reprenant les mots de l'élue entre guillemets, il exprime son scepticisme. « C'est ce qu'on dit toujours » suggère une promesse souvent non tenue."
+    },
+    {
+     "prompt": "Que signifie la dernière réplique du représentant ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Il veut confier la décision aux ingénieurs.",
+       "correct": false,
+       "rationale": "Il insiste sur le caractère non technique du choix.",
+       "label": "A"
+      },
+      {
+       "text": "Il accepterait la technologie si elle était fiable.",
+       "correct": false,
+       "rationale": "Il dit que la question resterait entière.",
+       "label": "B"
+      },
+      {
+       "text": "Même parfaite, la technologie pose une question politique sur la société souhaitée.",
+       "correct": true,
+       "rationale": "« Admettons qu'ils deviennent parfaits. La question resterait entière… c'est un choix de société, pas une question technique. »",
+       "label": "C"
+      },
+      {
+       "text": "Il pense que les algorithmes ne progresseront jamais.",
+       "correct": false,
+       "rationale": "Il fait l'hypothèse inverse.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Admettons que » introduit une hypothèse concédée pour mieux montrer qu'elle ne change rien à l'argument principal."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "La reconnaissance faciale dans l'espace public",
+   "context": "Débat entre une élue favorable à l'expérimentation et un représentant d'une association de défense des libertés.",
+   "document": "F: Lors des grands événements, la reconnaissance faciale permettrait de repérer en quelques secondes une personne recherchée dans une foule. C'est un outil de sécurité efficace, encadré, et limité dans le temps. / H: « Limité dans le temps » : c'est ce qu'on dit toujours. L'expérience montre qu'une technologie de surveillance installée pour un événement ne disparaît jamais. Elle s'étend progressivement à d'autres usages. Et puis, ces systèmes se trompent, en particulier sur les personnes à la peau foncée. Un faux positif, ce n'est pas une erreur informatique anodine : c'est quelqu'un d'innocent qu'on arrête. / F: Les algorithmes progressent très vite… / H: Admettons qu'ils deviennent parfaits. La question resterait entière : voulons-nous vivre dans une société où chacun peut être identifié à tout moment, sans le savoir ? Pour moi, c'est un choix de société, pas une question technique.",
+   "vocabulary": [
+    {
+     "terme": "la reconnaissance faciale",
+     "definition": "l'identification d'une personne par son visage",
+     "exemple": "Ce téléphone se déverrouille par reconnaissance faciale."
+    },
+    {
+     "terme": "un faux positif",
+     "definition": "un résultat qui signale à tort quelque chose",
+     "exemple": "Le test a donné un faux positif."
+    },
+    {
+     "terme": "un algorithme",
+     "definition": "une suite d'instructions qu'exécute un programme",
+     "exemple": "L'algorithme sélectionne les vidéos."
+    },
+    {
+     "terme": "une foule",
+     "definition": "un grand nombre de personnes rassemblées",
+     "exemple": "Une foule immense attendait le chanteur."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "admettons que",
+     "sens": "supposons que",
+     "exemple": "Admettons que tu aies raison."
+    },
+    {
+     "expression": "la question reste entière",
+     "sens": "le problème n'est pas résolu",
+     "exemple": "Malgré la réunion, la question reste entière."
+    },
+    {
+     "expression": "un choix de société",
+     "sens": "une décision qui engage les valeurs collectives",
+     "exemple": "La gratuité des transports est un choix de société."
+    }
+   ]
+  },
+  {
+   "code": "CO-TEC-05",
+   "level": "B2",
+   "doc_type": "journal radio",
+   "questions": [
+    {
+     "prompt": "Quelle décision a été prise ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "La suppression des trottinettes électriques en location partagée.",
+       "correct": true,
+       "rationale": "« Les trottinettes électriques en libre-service disparaîtront des rues de la capitale. »",
+       "label": "A"
+      },
+      {
+       "text": "La réduction de la vitesse des trottinettes.",
+       "correct": false,
+       "rationale": "C'est une mesure déjà prise par les opérateurs.",
+       "label": "B"
+      },
+      {
+       "text": "La création de zones de stationnement.",
+       "correct": false,
+       "rationale": "Ce sont les opérateurs qui les avaient instaurées.",
+       "label": "C"
+      },
+      {
+       "text": "L'interdiction de toutes les trottinettes.",
+       "correct": false,
+       "rationale": "Les trottinettes personnelles restent autorisées.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Distinguez les trottinettes « en libre-service » et les trottinettes « personnelles ». Le « en revanche » final souligne cette différence."
+    },
+    {
+     "prompt": "Pourquoi le résultat de la consultation est-il « à relativiser » ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Parce que les opérateurs ont contesté le vote.",
+       "correct": false,
+       "rationale": "Ils regrettent la décision, sans contester le vote.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que le résultat était très serré.",
+       "correct": false,
+       "rationale": "Quatre-vingt-dix pour cent n'est pas un résultat serré.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que le vote a été annulé.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que très peu d'électeurs ont participé.",
+       "correct": true,
+       "rationale": "« À peine huit pour cent des électeurs inscrits se sont déplacés. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Relativiser » signifie réduire l'importance de quelque chose. Le faible taux de participation limite la représentativité du vote."
+    },
+    {
+     "prompt": "Quel argument les opérateurs avancent-ils ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Ils avaient déjà pris des mesures pour répondre aux problèmes.",
+       "correct": true,
+       "rationale": "Ils « rappellent qu'ils avaient réduit la vitesse maximale et instauré des zones de stationnement obligatoires ».",
+       "label": "A"
+      },
+      {
+       "text": "Ils vont proposer des vélos à la place.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Ils vont porter plainte contre la mairie.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Ils reconnaissent que les trottinettes sont dangereuses.",
+       "correct": false,
+       "rationale": "Ils regrettent la décision.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le plus-que-parfait (« avaient réduit ») indique des actions antérieures à la décision, présentées comme preuves de bonne volonté."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "title": "Les trottinettes électriques en libre-service interdites",
+   "document": "F: C'est officiel : les trottinettes électriques en libre-service disparaîtront des rues de la capitale le premier septembre. Lors d'une consultation organisée par la mairie, près de quatre-vingt-dix pour cent des votants se sont prononcés contre leur maintien. Un résultat à relativiser toutefois : à peine huit pour cent des électeurs inscrits se sont déplacés. Les opposants dénonçaient les engins abandonnés sur les trottoirs et les accidents impliquant des piétons. Les opérateurs, eux, regrettent une décision qui pénalise les usagers réguliers, souvent des jeunes actifs, et rappellent qu'ils avaient réduit la vitesse maximale et instauré des zones de stationnement obligatoires. Les trottinettes personnelles, en revanche, restent autorisées.",
+   "vocabulary": [
+    {
+     "terme": "en libre-service",
+     "definition": "disponible en location sans personnel",
+     "exemple": "Des vélos en libre-service sont disponibles partout."
+    },
+    {
+     "terme": "un engin",
+     "definition": "un appareil, un véhicule",
+     "exemple": "Ces engins encombrent les trottoirs."
+    },
+    {
+     "terme": "instaurer",
+     "definition": "établir, mettre en place",
+     "exemple": "La ville a instauré une zone piétonne."
+    },
+    {
+     "terme": "un opérateur",
+     "definition": "une entreprise qui gère un service",
+     "exemple": "Plusieurs opérateurs proposent des trottinettes."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "à relativiser",
+     "sens": "dont l'importance doit être nuancée",
+     "exemple": "Ce succès est à relativiser."
+    },
+    {
+     "expression": "se prononcer contre",
+     "sens": "voter ou donner un avis défavorable",
+     "exemple": "Les habitants se sont prononcés contre le projet."
+    },
+    {
+     "expression": "se déplacer",
+     "sens": "(ici) aller voter",
+     "exemple": "Peu d'électeurs se sont déplacés."
+    }
+   ]
+  },
+  {
+   "code": "CO-TEC-06",
+   "level": "B2",
+   "doc_type": "interview",
+   "questions": [
+    {
+     "prompt": "Que pense la psychologue de l'interdiction des réseaux sociaux aux moins de quinze ans ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Elle est la meilleure solution.",
+       "correct": false,
+       "rationale": "Elle croit « davantage à l'accompagnement ».",
+       "label": "A"
+      },
+      {
+       "text": "Elle a un intérêt symbolique mais une efficacité limitée.",
+       "correct": true,
+       "rationale": "« L'interdiction a une valeur symbolique… Mais dans les faits, elle est très facile à contourner. »",
+       "label": "B"
+      },
+      {
+       "text": "Elle devrait concerner les moins de dix-huit ans.",
+       "correct": false,
+       "rationale": "Ce n'est pas proposé.",
+       "label": "C"
+      },
+      {
+       "text": "Elle est totalement inutile.",
+       "correct": false,
+       "rationale": "Elle lui reconnaît une valeur symbolique.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La concession « a une valeur symbolique… Mais dans les faits » distingue la portée du message et son application réelle."
+    },
+    {
+     "prompt": "Quel risque « plus discret » mentionne-t-elle ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "La tendance à se comparer à des images idéalisées.",
+       "correct": true,
+       "rationale": "« La comparaison permanente… des vies parfaites, des corps retouchés. »",
+       "label": "A"
+      },
+      {
+       "text": "La perte de données personnelles.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Le manque de sommeil.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "La dépense d'argent en ligne.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Mais aussi un risque plus discret » oppose le harcèlement, visible, à un danger moins apparent."
+    },
+    {
+     "prompt": "Qu'est-ce qui inquiète le plus la psychologue ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les contenus consultés et leurs effets émotionnels.",
+       "correct": true,
+       "rationale": "« Ce qui m'inquiète, c'est moins le temps passé devant l'écran que ce qu'on y regarde et ce que cela fait ressentir. »",
+       "label": "A"
+      },
+      {
+       "text": "La durée passée devant l'écran.",
+       "correct": false,
+       "rationale": "C'est ce qu'elle relativise (« moins… que »).",
+       "label": "B"
+      },
+      {
+       "text": "Le prix des téléphones.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "L'utilisation des réseaux à l'école.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « moins… que… » hiérarchise les inquiétudes : la seconde partie est la plus importante."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-CA"
+   ],
+   "title": "Les enfants et les réseaux sociaux",
+   "context": "Un journaliste interroge une psychologue spécialiste de l'enfance.",
+   "document": "H: Faut-il interdire les réseaux sociaux aux moins de quinze ans ? / F: L'interdiction a une valeur symbolique : elle dit aux parents que ce n'est pas anodin. Mais dans les faits, elle est très facile à contourner. Il suffit de mentir sur son âge. Je crois davantage à l'accompagnement. Un enfant qui découvre les réseaux seul, sans en parler à personne, est beaucoup plus vulnérable qu'un enfant avec qui on discute régulièrement de ce qu'il voit. / H: Quels sont les risques principaux ? / F: Le harcèlement, évidemment, qui ne s'arrête plus à la porte de l'école. Mais aussi un risque plus discret : la comparaison permanente. Les adolescents voient défiler des vies parfaites, des corps retouchés, et finissent par trouver la leur décevante. Ce qui m'inquiète, c'est moins le temps passé devant l'écran que ce qu'on y regarde et ce que cela fait ressentir.",
+   "vocabulary": [
+    {
+     "terme": "vulnérable",
+     "definition": "qui peut facilement être blessé ou attaqué",
+     "exemple": "Les enfants sont plus vulnérables."
+    },
+    {
+     "terme": "retouché",
+     "definition": "modifié, corrigé (une image)",
+     "exemple": "Cette photo a été retouchée."
+    },
+    {
+     "terme": "défiler",
+     "definition": "passer successivement",
+     "exemple": "Les images défilent sur l'écran."
+    },
+    {
+     "terme": "le harcèlement",
+     "definition": "des attaques répétées contre une personne",
+     "exemple": "Il a été victime de harcèlement scolaire."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "dans les faits",
+     "sens": "en réalité, en pratique",
+     "exemple": "Dans les faits, la règle n'est pas appliquée."
+    },
+    {
+     "expression": "ne pas s'arrêter à la porte de",
+     "sens": "continuer au-delà de",
+     "exemple": "Les problèmes ne s'arrêtent pas à la porte du bureau."
+    },
+    {
+     "expression": "il suffit de",
+     "sens": "il est seulement nécessaire de",
+     "exemple": "Il suffit de cliquer ici."
+    }
+   ]
+  },
+  {
+   "code": "CO-TEC-07",
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "questions": [
+    {
+     "prompt": "Quelle idée reçue la chroniqueuse veut-elle corriger ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Que les métaux rares sont faciles à extraire.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Que les avions polluent plus que le numérique.",
+       "correct": false,
+       "rationale": "Elle dit que le numérique pollue davantage.",
+       "label": "B"
+      },
+      {
+       "text": "Que les smartphones durent très longtemps.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'idée corrigée.",
+       "label": "C"
+      },
+      {
+       "text": "Que le numérique n'a presque pas d'impact environnemental.",
+       "correct": true,
+       "rationale": "« On l'imagine souvent immatériel, propre… Pourtant, le numérique pèse lourd sur l'environnement. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Pourtant » introduit la correction de l'image initiale d'un numérique « immatériel »."
+    },
+    {
+     "prompt": "D'où vient l'essentiel de l'impact du numérique ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Du transport aérien.",
+       "correct": false,
+       "rationale": "Il sert de comparaison.",
+       "label": "A"
+      },
+      {
+       "text": "De l'utilisation quotidienne des téléphones.",
+       "correct": false,
+       "rationale": "C'est la fabrication qui pèse le plus.",
+       "label": "B"
+      },
+      {
+       "text": "De l'envoi de courriels.",
+       "correct": false,
+       "rationale": "Elle dit que « ce ne sont pas nos courriels qui posent le plus problème ».",
+       "label": "C"
+      },
+      {
+       "text": "De la fabrication des appareils.",
+       "correct": true,
+       "rationale": "« L'essentiel de l'impact vient de la fabrication des appareils. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La phrase « Un smartphone a déjà produit l'essentiel de son empreinte avant même d'être allumé » confirme l'idée."
+    },
+    {
+     "prompt": "Quel geste la chroniqueuse recommande-t-elle ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Allonger la durée d'utilisation de ses appareils.",
+       "correct": true,
+       "rationale": "« Le geste le plus efficace… de garder ses appareils plus longtemps. »",
+       "label": "A"
+      },
+      {
+       "text": "Éteindre son téléphone la nuit.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Acheter des appareils neufs plus économes.",
+       "correct": false,
+       "rationale": "Cela contredirait son raisonnement sur la fabrication.",
+       "label": "C"
+      },
+      {
+       "text": "Supprimer régulièrement ses anciens courriels.",
+       "correct": false,
+       "rationale": "Elle dit que ce n'est pas le plus efficace.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La recommandation découle logiquement de l'analyse : si la fabrication pèse le plus, il faut fabriquer moins souvent."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "title": "L'empreinte écologique du numérique",
+   "document": "F: On l'imagine souvent immatériel, propre, presque virtuel. Pourtant, le numérique pèse lourd sur l'environnement : environ quatre pour cent des émissions mondiales de gaz à effet de serre, davantage que le transport aérien. Et contrairement à une idée répandue, ce ne sont pas nos courriels qui posent le plus problème. L'essentiel de l'impact vient de la fabrication des appareils : extraire les métaux rares, assembler les composants, transporter le tout à travers le monde. Un smartphone a déjà produit l'essentiel de son empreinte avant même d'être allumé. Le geste le plus efficace n'est donc pas de supprimer ses vieux messages, mais de garder ses appareils plus longtemps. Passer de deux à quatre ans d'utilisation divise pratiquement par deux leur impact annuel.",
+   "vocabulary": [
+    {
+     "terme": "immatériel",
+     "definition": "qui n'a pas de réalité physique",
+     "exemple": "Le numérique semble immatériel."
+    },
+    {
+     "terme": "les gaz à effet de serre",
+     "definition": "les gaz qui contribuent au réchauffement climatique",
+     "exemple": "Le CO2 est un gaz à effet de serre."
+    },
+    {
+     "terme": "un composant",
+     "definition": "un élément qui entre dans la fabrication d'un appareil",
+     "exemple": "Les composants viennent d'Asie."
+    },
+    {
+     "terme": "une empreinte",
+     "definition": "(écologique) l'impact sur l'environnement",
+     "exemple": "Réduisez votre empreinte carbone."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "peser lourd",
+     "sens": "avoir une grande importance, un fort impact",
+     "exemple": "Le logement pèse lourd dans le budget."
+    },
+    {
+     "expression": "contrairement à une idée répandue",
+     "sens": "à l'inverse de ce que beaucoup croient",
+     "exemple": "Contrairement à une idée répandue, les chats aiment l'eau."
+    },
+    {
+     "expression": "diviser par deux",
+     "sens": "réduire de moitié",
+     "exemple": "Il a divisé par deux sa consommation."
+    }
+   ]
+  },
+  {
+   "code": "CO-TEC-08",
+   "level": "B2",
+   "doc_type": "témoignage",
+   "questions": [
+    {
+     "prompt": "Comment se sont passés les premiers jours ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Il a abandonné l'expérience.",
+       "correct": false,
+       "rationale": "Il l'a poursuivie toute la semaine.",
+       "label": "A"
+      },
+      {
+       "text": "Ils ont été pénibles en raison d'habitudes automatiques.",
+       "correct": true,
+       "rationale": "« Franchement désagréables. Je mettais la main dans ma poche toutes les cinq minutes, par réflexe. »",
+       "label": "B"
+      },
+      {
+       "text": "Ils ont été très agréables.",
+       "correct": false,
+       "rationale": "Il dit le contraire.",
+       "label": "C"
+      },
+      {
+       "text": "Il n'a ressenti aucune différence.",
+       "correct": false,
+       "rationale": "Il décrit un vrai malaise.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Par réflexe » indique un geste automatique, signe de dépendance. L'adverbe « franchement » renforce le jugement."
+    },
+    {
+     "prompt": "Quels effets positifs le témoin a-t-il constatés ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Il a gagné du temps au travail.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Il a retrouvé le goût de la lecture et une attention à son environnement.",
+       "correct": true,
+       "rationale": "« J'ai recommencé à lire des livres en entier… J'ai remarqué des détails dans ma rue. »",
+       "label": "B"
+      },
+      {
+       "text": "Il a économisé beaucoup d'argent.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Il a mieux dormi.",
+       "correct": false,
+       "rationale": "Le sommeil n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Et puis, petit à petit » marque l'évolution progressive vers des effets positifs."
+    },
+    {
+     "prompt": "Quel bilan tire-t-il de l'expérience ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Il considère que l'expérience était inutile.",
+       "correct": false,
+       "rationale": "Il en a tiré des changements.",
+       "label": "A"
+      },
+      {
+       "text": "Il a définitivement renoncé au smartphone.",
+       "correct": false,
+       "rationale": "Il l'a repris.",
+       "label": "B"
+      },
+      {
+       "text": "Un changement modeste mais réel de ses habitudes.",
+       "correct": true,
+       "rationale": "Il a supprimé les notifications et éloigné le téléphone : « Ce n'est pas spectaculaire, mais ça change mes soirées. »",
+       "label": "C"
+      },
+      {
+       "text": "Il a vécu une transformation spirituelle.",
+       "correct": false,
+       "rationale": "Il dit ne pas avoir vécu « une révélation mystique ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le témoin évite les deux extrêmes : ni rejet total ni transformation radicale. « Pas spectaculaire, mais… » résume ce bilan nuancé."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "title": "Une semaine sans smartphone",
+   "document": "H: Pour un reportage, j'ai accepté de laisser mon smartphone au tiroir pendant une semaine. Je pensais que ce serait une simple contrainte pratique. En réalité, les deux premiers jours ont été franchement désagréables. Je mettais la main dans ma poche toutes les cinq minutes, par réflexe. Dans le métro, je ne savais pas où poser mon regard. Et puis, petit à petit, quelque chose a changé. J'ai recommencé à lire des livres en entier, ce qui ne m'était pas arrivé depuis des mois. J'ai remarqué des détails dans ma rue que je n'avais jamais vus. Cela dit, je n'ai pas vécu une révélation mystique. Certaines choses étaient vraiment compliquées : trouver une adresse, payer un parking, prévenir que j'étais en retard. Depuis, j'ai repris mon téléphone, mais je l'ai éloigné de ma chambre et j'ai supprimé les notifications. Ce n'est pas spectaculaire, mais ça change mes soirées.",
+   "vocabulary": [
+    {
+     "terme": "un réflexe",
+     "definition": "une réaction automatique",
+     "exemple": "Par réflexe, il a fermé les yeux."
+    },
+    {
+     "terme": "une notification",
+     "definition": "un message d'alerte sur un appareil",
+     "exemple": "Il reçoit des centaines de notifications par jour."
+    },
+    {
+     "terme": "mystique",
+     "definition": "qui relève d'une expérience spirituelle intense",
+     "exemple": "Il a vécu une expérience mystique."
+    },
+    {
+     "terme": "spectaculaire",
+     "definition": "impressionnant, remarquable",
+     "exemple": "Les progrès sont spectaculaires."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "petit à petit",
+     "sens": "progressivement",
+     "exemple": "Petit à petit, il a repris confiance."
+    },
+    {
+     "expression": "ne pas savoir où poser son regard",
+     "sens": "être mal à l'aise, sans occupation",
+     "exemple": "Gêné, il ne savait pas où poser son regard."
+    },
+    {
+     "expression": "ça change",
+     "sens": "cela fait une différence",
+     "exemple": "Avoir un jardin, ça change la vie."
+    }
+   ]
+  },
+  {
+   "code": "CO-TEC-09",
+   "level": "B2",
+   "doc_type": "conférence",
+   "questions": [
+    {
+     "prompt": "Selon le chercheur, que fait réellement un assistant conversationnel ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Il comprend le sens des questions comme un humain.",
+       "correct": false,
+       "rationale": "Il dit que c'est seulement une impression.",
+       "label": "A"
+      },
+      {
+       "text": "Il recherche les réponses dans une encyclopédie.",
+       "correct": false,
+       "rationale": "Ce n'est pas le fonctionnement décrit.",
+       "label": "B"
+      },
+      {
+       "text": "Il prédit la suite la plus probable d'un texte.",
+       "correct": true,
+       "rationale": "« Il a appris à prédire, mot après mot, la suite la plus probable d'une phrase. »",
+       "label": "C"
+      },
+      {
+       "text": "Il copie des textes existants sans les modifier.",
+       "correct": false,
+       "rationale": "Il produit des textes nouveaux.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« En réalité » corrige l'impression de compréhension décrite juste avant."
+    },
+    {
+     "prompt": "Pourquoi l'assistant peut-il donner des informations fausses ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Parce qu'il cherche à tromper l'utilisateur.",
+       "correct": false,
+       "rationale": "« Il ne ment pas. »",
+       "label": "A"
+      },
+      {
+       "text": "Parce qu'il manque de textes d'entraînement.",
+       "correct": false,
+       "rationale": "Il a été entraîné sur des « quantités gigantesques ».",
+       "label": "B"
+      },
+      {
+       "text": "Parce qu'il a été mal programmé.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'explication donnée.",
+       "label": "C"
+      },
+      {
+       "text": "Parce qu'il ne distingue pas ce qui est vrai de ce qui est vraisemblable.",
+       "correct": true,
+       "rationale": "« Il ne sait tout simplement pas distinguer le vrai du plausible. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La distinction entre « mentir » (intention) et « ne pas distinguer » (limite technique) est essentielle."
+    },
+    {
+     "prompt": "Quel conseil le chercheur donne-t-il ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Ne jamais utiliser ces outils.",
+       "correct": false,
+       "rationale": "Il conseille de les utiliser autrement.",
+       "label": "A"
+      },
+      {
+       "text": "S'en servir comme point de départ et vérifier les informations importantes.",
+       "correct": true,
+       "rationale": "« Utilisez ces outils comme un brouillon intelligent, jamais comme une source. Vérifiez toujours ce qui compte. »",
+       "label": "B"
+      },
+      {
+       "text": "Leur faire entièrement confiance.",
+       "correct": false,
+       "rationale": "Il conseille de vérifier.",
+       "label": "C"
+      },
+      {
+       "text": "Les utiliser uniquement pour les dates.",
+       "correct": false,
+       "rationale": "Les dates peuvent justement être fausses.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« D'où mon conseil » introduit la conséquence pratique de l'explication. L'opposition « brouillon / source » résume le bon usage."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "title": "Comment fonctionnent les assistants conversationnels ?",
+   "context": "Extrait d'une conférence de vulgarisation d'un chercheur en informatique.",
+   "document": "H: Quand vous posez une question à un assistant conversationnel, vous avez l'impression qu'il comprend ce que vous dites. En réalité, il fait quelque chose de très différent. Il a été entraîné sur des quantités gigantesques de textes, et il a appris à prédire, mot après mot, la suite la plus probable d'une phrase. C'est ce qui explique à la fois ses forces et ses faiblesses. Il peut produire un texte fluide et convaincant sur presque n'importe quel sujet. Mais il peut aussi inventer, avec la même assurance, une référence qui n'existe pas ou une date fausse. Il ne ment pas : il ne sait tout simplement pas distinguer le vrai du plausible. D'où mon conseil : utilisez ces outils comme un brouillon intelligent, jamais comme une source. Vérifiez toujours ce qui compte.",
+   "vocabulary": [
+    {
+     "terme": "entraîner",
+     "definition": "(informatique) faire apprendre un modèle à partir de données",
+     "exemple": "Le modèle a été entraîné sur des millions d'images."
+    },
+    {
+     "terme": "plausible",
+     "definition": "qui semble vrai, vraisemblable",
+     "exemple": "Son explication est plausible."
+    },
+    {
+     "terme": "un brouillon",
+     "definition": "une première version d'un texte",
+     "exemple": "Écris d'abord un brouillon."
+    },
+    {
+     "terme": "une source",
+     "definition": "un document d'origine qui fournit une information",
+     "exemple": "Citez vos sources."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "avec la même assurance",
+     "sens": "avec la même confiance apparente",
+     "exemple": "Il affirme des choses fausses avec la même assurance."
+    },
+    {
+     "expression": "d'où",
+     "sens": "c'est pourquoi",
+     "exemple": "Il pleuvait, d'où mon retard."
+    },
+    {
+     "expression": "tout simplement",
+     "sens": "sans autre explication",
+     "exemple": "Il a tout simplement oublié."
+    }
+   ]
+  }
+ ]
+}

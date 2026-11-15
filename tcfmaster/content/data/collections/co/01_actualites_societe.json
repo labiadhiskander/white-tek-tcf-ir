@@ -1,0 +1,1174 @@
+{
+ "slug": "co-actualites-societe",
+ "section": "CO",
+ "title": "Actualités et société",
+ "description": "Journaux radio, reportages et brèves d'actualité : comprendre l'information, sa cause, ses conséquences et les réactions qu'elle suscite.",
+ "order": 1,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CO-ACT-01",
+   "level": "B2",
+   "doc_type": "journal radio",
+   "questions": [
+    {
+     "prompt": "Pourquoi ces lignes avaient-elles été fermées à l'origine ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Parce qu'elles coûtaient trop cher à l'État.",
+       "correct": false,
+       "rationale": "Le coût est évoqué pour la réouverture, pas pour la fermeture.",
+       "label": "A"
+      },
+      {
+       "text": "Parce qu'elles n'étaient pas assez fréquentées.",
+       "correct": true,
+       "rationale": "« Elles avaient été fermées faute de voyageurs » : « faute de » signifie « par manque de ».",
+       "label": "B"
+      },
+      {
+       "text": "Parce que les voies étaient en mauvais état.",
+       "correct": false,
+       "rationale": "L'état des voies n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que les régions refusaient de les financer.",
+       "correct": false,
+       "rationale": "Le financement régional concerne la réouverture actuelle.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La cause de la fermeture est donnée dès la première phrase avec « faute de ». Ne confondez pas les informations sur le passé (fermeture) et sur le présent (réouverture et financement)."
+    },
+    {
+     "prompt": "Quelle incertitude le journaliste souligne-t-il ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Les habitants ne veulent pas de ces lignes.",
+       "correct": false,
+       "rationale": "Au contraire, « de nombreux habitants réclamaient une alternative ».",
+       "label": "A"
+      },
+      {
+       "text": "La participation financière de l'État n'est pas acquise.",
+       "correct": true,
+       "rationale": "« Les régions… attendent un geste de l'État, qui n'a pour l'instant rien promis. »",
+       "label": "B"
+      },
+      {
+       "text": "Les trains rouleront peut-être à l'essence.",
+       "correct": false,
+       "rationale": "Rien n'est dit sur le mode de traction.",
+       "label": "C"
+      },
+      {
+       "text": "La date de réouverture n'est pas fixée.",
+       "correct": false,
+       "rationale": "Une échéance est annoncée : « d'ici à deux ans ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'expression « Reste la question de… » introduit le point non résolu. Le journaliste oppose ce que font les régions (« avancent l'essentiel des fonds ») et ce que l'État n'a « pour l'instant » pas fait."
+    },
+    {
+     "prompt": "Quelle est la position des associations d'usagers ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Elles estiment que la voiture restera toujours plus pratique.",
+       "correct": false,
+       "rationale": "Elles posent une condition (la fréquence), pas un rejet du train.",
+       "label": "A"
+      },
+      {
+       "text": "Elles s'opposent à la réouverture qu'elles jugent trop coûteuse.",
+       "correct": false,
+       "rationale": "Elles se félicitent de la décision.",
+       "label": "B"
+      },
+      {
+       "text": "Elles demandent la fermeture des lignes routières.",
+       "correct": false,
+       "rationale": "Aucune demande de ce type n'est formulée.",
+       "label": "C"
+      },
+      {
+       "text": "Elles approuvent la décision mais doutent de son efficacité si les trains sont rares.",
+       "correct": true,
+       "rationale": "Elles « se félicitent de la décision tout en rappelant qu'un train qui ne passe que deux fois par jour ne changera pas grand-chose ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Tout en » associe deux attitudes simultanées : approbation et réserve. Une réponse B2 doit restituer les deux éléments, pas seulement le premier."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "title": "Les petites lignes ferroviaires rouvrent",
+   "context": "Extrait d'un journal d'information du matin.",
+   "document": "H: Elles avaient été fermées faute de voyageurs dans les années quatre-vingt-dix ; certaines d'entre elles reprennent du service. Trois régions ont annoncé hier la réouverture de lignes ferroviaires secondaires d'ici à deux ans. Officiellement, il s'agit de désenclaver des territoires ruraux où la voiture reste indispensable. Mais l'argument n'est pas seulement écologique : avec la hausse du prix des carburants, de nombreux habitants réclamaient une alternative. Reste la question du financement. Les régions avancent l'essentiel des fonds, mais attendent un geste de l'État, qui n'a pour l'instant rien promis. Les associations d'usagers, elles, se félicitent de la décision tout en rappelant qu'un train qui ne passe que deux fois par jour ne changera pas grand-chose aux habitudes.",
+   "vocabulary": [
+    {
+     "terme": "désenclaver",
+     "definition": "sortir une région de son isolement en améliorant les transports",
+     "exemple": "La nouvelle route a désenclavé la vallée."
+    },
+    {
+     "terme": "une ligne secondaire",
+     "definition": "une ligne de moindre importance, qui dessert de petites localités",
+     "exemple": "Cette ligne secondaire relie trois villages."
+    },
+    {
+     "terme": "les usagers",
+     "definition": "les personnes qui utilisent un service public",
+     "exemple": "Les usagers du métro se plaignent des retards."
+    },
+    {
+     "terme": "reprendre du service",
+     "definition": "être de nouveau utilisé, fonctionner à nouveau",
+     "exemple": "Cette vieille gare a repris du service."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "faute de",
+     "sens": "par manque de",
+     "exemple": "Faute de temps, je n'ai pas pu finir."
+    },
+    {
+     "expression": "reste la question de",
+     "sens": "il demeure un problème non résolu",
+     "exemple": "Le projet est séduisant ; reste la question du coût."
+    },
+    {
+     "expression": "faire un geste",
+     "sens": "faire une concession, offrir quelque chose",
+     "exemple": "Le propriétaire a fait un geste sur le loyer."
+    }
+   ]
+  },
+  {
+   "code": "CO-ACT-02",
+   "level": "B2",
+   "doc_type": "reportage",
+   "questions": [
+    {
+     "prompt": "Qu'est-ce qui a surpris le responsable de l'épicerie ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Les étudiants aidés ne correspondent pas tous à l'image attendue.",
+       "correct": true,
+       "rationale": "« Ce ne sont pas forcément des étudiants isolés ou étrangers, comme on pourrait l'imaginer. »",
+       "label": "A"
+      },
+      {
+       "text": "Les étudiants viennent avec leurs parents.",
+       "correct": false,
+       "rationale": "Certains cachent leur situation à leur famille.",
+       "label": "B"
+      },
+      {
+       "text": "Les étudiants sont tous de nationalité étrangère.",
+       "correct": false,
+       "rationale": "Il affirme le contraire.",
+       "label": "C"
+      },
+      {
+       "text": "Les étudiants refusent l'aide proposée.",
+       "correct": false,
+       "rationale": "Ils sont au contraire de plus en plus nombreux à venir.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Ce qui nous a frappés, c'est… » est une mise en relief qui annonce l'élément surprenant. Il s'agit d'un écart entre un stéréotype et la réalité observée."
+    },
+    {
+     "prompt": "Pourquoi certains étudiants ne parlent-ils pas de leurs difficultés à leurs proches ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Parce que leurs parents vivent à l'étranger.",
+       "correct": false,
+       "rationale": "Cette idée correspond au stéréotype que le responsable écarte.",
+       "label": "A"
+      },
+      {
+       "text": "Par amour-propre ou pour épargner du souci à leurs parents.",
+       "correct": true,
+       "rationale": "« Par fierté ou pour ne pas inquiéter leurs parents. »",
+       "label": "B"
+      },
+      {
+       "text": "Parce qu'ils ont honte de travailler à côté.",
+       "correct": false,
+       "rationale": "Le petit boulot n'est pas présenté comme une honte.",
+       "label": "C"
+      },
+      {
+       "text": "Parce qu'ils ont rompu avec leur famille.",
+       "correct": false,
+       "rationale": "Rien n'indique une rupture.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Fierté » est reformulé par « amour-propre », « ne pas inquiéter » par « épargner du souci ». Les questions B2 exigent souvent de reconnaître une reformulation plutôt que les mots exacts."
+    },
+    {
+     "prompt": "Que signifie « C'est un crève-cœur » dans la bouche du responsable ?",
+     "skill": "vocabulaire",
+     "choices": [
+      {
+       "text": "Il pense que les étudiants abusent du système.",
+       "correct": false,
+       "rationale": "Il n'accuse pas les étudiants.",
+       "label": "A"
+      },
+      {
+       "text": "Il est épuisé par la charge de travail.",
+       "correct": false,
+       "rationale": "L'expression concerne la limitation, pas la fatigue.",
+       "label": "B"
+      },
+      {
+       "text": "Il trouve cette décision injuste et va la contester.",
+       "correct": false,
+       "rationale": "Il présente la mesure comme inévitable.",
+       "label": "C"
+      },
+      {
+       "text": "Limiter les passages lui fait beaucoup de peine, même si c'est nécessaire.",
+       "correct": true,
+       "rationale": "Il justifie aussitôt la décision (« sinon les rayons seraient vides ») tout en exprimant sa tristesse.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Un « crève-cœur » est une chose très pénible à faire ou à voir. Ici, il s'agit d'une décision subie : l'émotion et la justification sont présentées ensemble."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-BE"
+   ],
+   "title": "Les épiceries solidaires face à l'afflux d'étudiants",
+   "context": "Une reporter se rend dans une épicerie solidaire d'une ville universitaire.",
+   "document": "F: Dans cette épicerie solidaire, les étudiants représentent désormais près de la moitié des bénéficiaires, contre un sur dix il y a cinq ans. Thomas, le responsable, nous explique ce changement. / H: Ce qui nous a frappés, c'est le profil de ces jeunes. Ce ne sont pas forcément des étudiants isolés ou étrangers, comme on pourrait l'imaginer. Beaucoup ont un petit boulot à côté de leurs études, mais le loyer absorbe presque tout. Certains sautent des repas sans en parler à leur famille, par fierté ou pour ne pas inquiéter leurs parents. / F: Comment faites-vous face à cette demande ? / H: Honnêtement, avec difficulté. Nos dons n'ont pas augmenté au même rythme. On a dû limiter le nombre de passages à deux par mois. C'est un crève-cœur, mais sinon les rayons seraient vides dès le mercredi.",
+   "vocabulary": [
+    {
+     "terme": "un bénéficiaire",
+     "definition": "une personne qui reçoit une aide",
+     "exemple": "Les bénéficiaires du programme reçoivent un colis par semaine."
+    },
+    {
+     "terme": "un petit boulot",
+     "definition": "un emploi temporaire, souvent peu payé (familier)",
+     "exemple": "Elle finance ses études grâce à un petit boulot."
+    },
+    {
+     "terme": "absorber",
+     "definition": "consommer entièrement",
+     "exemple": "Le loyer absorbe la moitié de mon salaire."
+    },
+    {
+     "terme": "un afflux",
+     "definition": "une arrivée massive",
+     "exemple": "L'hôpital a fait face à un afflux de patients."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "sauter un repas",
+     "sens": "ne pas manger à l'heure d'un repas",
+     "exemple": "Pour économiser, il saute souvent le déjeuner."
+    },
+    {
+     "expression": "c'est un crève-cœur",
+     "sens": "c'est très douloureux moralement",
+     "exemple": "Vendre la maison familiale a été un crève-cœur."
+    },
+    {
+     "expression": "faire face à",
+     "sens": "affronter une situation difficile",
+     "exemple": "L'association fait face à une forte demande."
+    }
+   ]
+  },
+  {
+   "code": "CO-ACT-03",
+   "level": "B2",
+   "doc_type": "brève radio",
+   "questions": [
+    {
+     "prompt": "Qu'a révélé la période d'essai ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Les bibliothèques ont perdu des lecteurs.",
+       "correct": false,
+       "rationale": "Le nombre d'emprunteurs a augmenté.",
+       "label": "A"
+      },
+      {
+       "text": "Les familles aisées ont cessé d'emprunter.",
+       "correct": false,
+       "rationale": "Aucun chiffre ne concerne les familles aisées.",
+       "label": "B"
+      },
+      {
+       "text": "La suppression des amendes n'a pas allongé les retards et a attiré davantage d'usagers.",
+       "correct": true,
+       "rationale": "« Les ouvrages ne sont pas revenus plus tard qu'avant » et « le nombre d'emprunteurs a augmenté de quinze pour cent ».",
+       "label": "C"
+      },
+      {
+       "text": "Les livres sont revenus beaucoup plus tard qu'avant.",
+       "correct": false,
+       "rationale": "C'est précisément ce qui ne s'est pas produit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « Non seulement… mais… » additionne deux résultats positifs. Le qualificatif « inattendus » indique que les résultats contredisent la crainte initiale."
+    },
+    {
+     "prompt": "D'après la direction, quel était l'effet principal des amendes ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Elles finançaient l'achat de nouveaux livres.",
+       "correct": false,
+       "rationale": "Les recettes sont évoquées, pas leur utilisation.",
+       "label": "A"
+      },
+      {
+       "text": "Elles encourageaient les lecteurs à rendre leurs livres à l'heure.",
+       "correct": false,
+       "rationale": "La période d'essai montre que leur suppression n'a pas changé les délais.",
+       "label": "B"
+      },
+      {
+       "text": "Elles incitaient les familles à acheter des livres.",
+       "correct": false,
+       "rationale": "Rien n'est dit sur l'achat de livres.",
+       "label": "C"
+      },
+      {
+       "text": "Elles éloignaient des lecteurs aux revenus modestes.",
+       "correct": true,
+       "rationale": "Les familles à faibles revenus « préféraient ne plus fréquenter la bibliothèque plutôt que de payer ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le verbe « dissuader » (décourager de faire quelque chose) est central. L'effet réel des amendes était donc l'exclusion, non la ponctualité."
+    },
+    {
+     "prompt": "Comment la perte de recettes sera-t-elle compensée ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Par une augmentation du prix de l'abonnement.",
+       "correct": false,
+       "rationale": "L'abonnement n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Par l'économie réalisée sur la récupération des amendes impayées.",
+       "correct": true,
+       "rationale": "« Seront compensées par une réduction des frais de recouvrement, qui coûtaient presque autant qu'ils rapportaient. »",
+       "label": "B"
+      },
+      {
+       "text": "Par une hausse des impôts locaux.",
+       "correct": false,
+       "rationale": "Aucune hausse d'impôt n'est mentionnée.",
+       "label": "C"
+      },
+      {
+       "text": "Par la fermeture de deux bibliothèques.",
+       "correct": false,
+       "rationale": "Les dix bibliothèques sont concernées par la mesure, aucune ne ferme.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le « recouvrement » désigne les démarches pour récupérer une somme due. Si ces démarches coûtaient presque autant que les amendes, les supprimer ne fait presque rien perdre."
+    }
+   ],
+   "speakers": [
+    "F:fr-CA"
+   ],
+   "title": "Une ville supprime les amendes de retard en bibliothèque",
+   "document": "F: Fini les pénalités pour les livres rendus en retard : la ville a décidé d'abolir les amendes dans ses dix bibliothèques. La mesure, testée pendant un an dans deux quartiers, a donné des résultats inattendus. Non seulement les ouvrages ne sont pas revenus plus tard qu'avant, mais le nombre d'emprunteurs a augmenté de quinze pour cent. Selon la direction, les amendes dissuadaient surtout les familles à faibles revenus, qui préféraient ne plus fréquenter la bibliothèque plutôt que de payer une dette parfois importante. Les recettes perdues, environ quarante mille dollars par an, seront compensées par une réduction des frais de recouvrement, qui coûtaient presque autant qu'ils rapportaient.",
+   "vocabulary": [
+    {
+     "terme": "abolir",
+     "definition": "supprimer officiellement",
+     "exemple": "Le pays a aboli la peine de mort."
+    },
+    {
+     "terme": "un emprunteur",
+     "definition": "une personne qui emprunte (ici, des livres)",
+     "exemple": "Chaque emprunteur peut prendre cinq livres."
+    },
+    {
+     "terme": "dissuader",
+     "definition": "décourager quelqu'un de faire quelque chose",
+     "exemple": "Le prix élevé dissuade les jeunes de venir."
+    },
+    {
+     "terme": "le recouvrement",
+     "definition": "l'action de récupérer une somme due",
+     "exemple": "Le service de recouvrement relance les mauvais payeurs."
+    },
+    {
+     "terme": "les recettes",
+     "definition": "l'argent reçu, les revenus",
+     "exemple": "Les recettes du musée ont doublé."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "fini les…",
+     "sens": "c'est terminé, il n'y a plus de…",
+     "exemple": "Fini les files d'attente : tout se fait en ligne."
+    },
+    {
+     "expression": "non seulement… mais (encore)",
+     "sens": "pas uniquement… mais aussi",
+     "exemple": "Non seulement il est en retard, mais il a oublié le dossier."
+    },
+    {
+     "expression": "rapporter",
+     "sens": "produire un bénéfice",
+     "exemple": "Ce placement rapporte peu."
+    }
+   ]
+  },
+  {
+   "code": "CO-ACT-04",
+   "level": "B2",
+   "doc_type": "interview",
+   "questions": [
+    {
+     "prompt": "Que pense le fondateur des motivations économiques des visiteurs ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Il pense qu'elles vont disparaître avec le temps.",
+       "correct": false,
+       "rationale": "Il ne fait aucune prévision sur ce point.",
+       "label": "A"
+      },
+      {
+       "text": "Il les juge égoïstes et contraires à l'esprit du projet.",
+       "correct": false,
+       "rationale": "Il ne porte aucun jugement négatif.",
+       "label": "B"
+      },
+      {
+       "text": "Il les accepte pleinement, car le résultat pour l'environnement est identique.",
+       "correct": true,
+       "rationale": "« C'est très bien comme ça… le résultat est le même : un objet de moins à la poubelle. »",
+       "label": "C"
+      },
+      {
+       "text": "Il les regrette, car il préférerait des visiteurs militants.",
+       "correct": false,
+       "rationale": "Il dit explicitement que « c'est très bien comme ça ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure concessive « Que l'on… ou que l'on… » met deux motivations sur le même plan. Le point de vue est pragmatique : seul le résultat compte."
+    },
+    {
+     "prompt": "Que veut dire le fondateur par « C'est un euphémisme ! » ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "La réalité est bien pire que ce que la journaliste suggère.",
+       "correct": true,
+       "rationale": "Il enchaîne avec une liste d'obstacles qui montrent que les fabricants rendent la réparation très difficile.",
+       "label": "A"
+      },
+      {
+       "text": "Il préfère ne pas parler des fabricants.",
+       "correct": false,
+       "rationale": "Il développe longuement le sujet.",
+       "label": "B"
+      },
+      {
+       "text": "Il n'est pas d'accord avec la journaliste.",
+       "correct": false,
+       "rationale": "Il est d'accord, mais trouve la formulation trop faible.",
+       "label": "C"
+      },
+      {
+       "text": "Les fabricants l'aident en réalité beaucoup.",
+       "correct": false,
+       "rationale": "Les exemples cités prouvent le contraire.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Un euphémisme atténue une réalité désagréable. Dire « c'est un euphémisme », c'est signaler que la réalité est plus grave que les mots employés."
+    },
+    {
+     "prompt": "Quel est le bilan du fondateur sur l'évolution de la situation ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Des progrès réels mais encore limités.",
+       "correct": true,
+       "rationale": "« Les choses bougent… Ce n'est pas encore une révolution, mais c'est un début. »",
+       "label": "A"
+      },
+      {
+       "text": "Une transformation complète du comportement des marques.",
+       "correct": false,
+       "rationale": "Ce n'est « pas encore une révolution ».",
+       "label": "B"
+      },
+      {
+       "text": "Une aggravation due à l'indice de réparabilité.",
+       "correct": false,
+       "rationale": "L'indice est présenté comme un progrès.",
+       "label": "C"
+      },
+      {
+       "text": "Aucun changement depuis la création des ateliers.",
+       "correct": false,
+       "rationale": "Il affirme que « les choses bougent ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Cela dit » introduit une nuance après la critique. Le bilan final combine un constat positif et une limite : c'est la synthèse attendue."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Le retour des cabines de réparation",
+   "context": "Une journaliste interroge le fondateur d'un réseau d'ateliers de réparation bénévoles.",
+   "document": "F: Grille-pain, vélos, téléphones : dans vos ateliers, on répare tout gratuitement. Qui sont les gens qui viennent vous voir ? / H: Au début, on pensait attirer surtout des militants écologistes. En réalité, la majorité vient pour des raisons économiques, et c'est très bien comme ça. Que l'on répare pour sauver la planète ou pour économiser cinquante euros, le résultat est le même : un objet de moins à la poubelle. / F: Les fabricants ne vous facilitent pas la tâche… / H: C'est un euphémisme ! Des vis introuvables, des coques collées, des pièces détachées vendues plus cher que l'appareil neuf… Tout est fait pour qu'on rachète. Cela dit, les choses bougent : l'indice de réparabilité affiché en magasin oblige les marques à se justifier, et certaines commencent à vendre des pièces à prix raisonnable. Ce n'est pas encore une révolution, mais c'est un début.",
+   "vocabulary": [
+    {
+     "terme": "une pièce détachée",
+     "definition": "un élément vendu séparément pour réparer un appareil",
+     "exemple": "Je cherche une pièce détachée pour ma machine à laver."
+    },
+    {
+     "terme": "une coque",
+     "definition": "l'enveloppe extérieure d'un appareil",
+     "exemple": "La coque du téléphone est fissurée."
+    },
+    {
+     "terme": "l'indice de réparabilité",
+     "definition": "une note qui indique si un produit est facile à réparer",
+     "exemple": "Cet ordinateur a un bon indice de réparabilité."
+    },
+    {
+     "terme": "un euphémisme",
+     "definition": "une expression qui atténue une réalité",
+     "exemple": "« Disparu » est un euphémisme pour « mort »."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "faciliter la tâche à quelqu'un",
+     "sens": "rendre son travail plus simple",
+     "exemple": "Ce logiciel nous facilite la tâche."
+    },
+    {
+     "expression": "les choses bougent",
+     "sens": "la situation évolue",
+     "exemple": "Dans ce secteur, les choses bougent vite."
+    },
+    {
+     "expression": "cela dit",
+     "sens": "néanmoins, malgré cela",
+     "exemple": "C'est cher ; cela dit, la qualité est excellente."
+    }
+   ]
+  },
+  {
+   "code": "CO-ACT-05",
+   "level": "B2",
+   "doc_type": "journal radio",
+   "questions": [
+    {
+     "prompt": "Quelle tendance l'étude confirme-t-elle ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Le pacte civil a dépassé le mariage.",
+       "correct": false,
+       "rationale": "On compte « presque autant », pas davantage.",
+       "label": "A"
+      },
+      {
+       "text": "Le mariage recule pendant que le pacte civil progresse.",
+       "correct": true,
+       "rationale": "« Le nombre de mariages poursuit sa baisse, tandis que celui des pactes… ne cesse de progresser. »",
+       "label": "B"
+      },
+      {
+       "text": "Le mariage revient à la mode chez les jeunes.",
+       "correct": false,
+       "rationale": "L'âge moyen recule et les mariages baissent.",
+       "label": "C"
+      },
+      {
+       "text": "Les deux formes d'union diminuent.",
+       "correct": false,
+       "rationale": "Le pacte progresse.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Tandis que » oppose deux évolutions simultanées. Attention au chiffre précis : « presque autant » ne signifie pas « plus que »."
+    },
+    {
+     "prompt": "Comment les sociologues interprètent-ils le succès du pacte civil ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Comme une conséquence de la hausse des divorces.",
+       "correct": false,
+       "rationale": "Les divorces ne sont pas évoqués.",
+       "label": "A"
+      },
+      {
+       "text": "Comme un effet de mode passager.",
+       "correct": false,
+       "rationale": "Ils parlent au contraire d'une « tendance de fond ».",
+       "label": "B"
+      },
+      {
+       "text": "Comme un refus de toute forme d'engagement.",
+       "correct": false,
+       "rationale": "C'est l'interprétation qu'ils écartent.",
+       "label": "C"
+      },
+      {
+       "text": "Comme une autre manière de s'engager, jugée plus souple.",
+       "correct": true,
+       "rationale": "« Ce n'est pas tant un rejet de l'engagement qu'une volonté de s'engager autrement. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « ne pas tant… que… » corrige une idée reçue : elle écarte une interprétation pour en proposer une autre. C'est la seconde qui exprime l'avis des sociologues."
+    },
+    {
+     "prompt": "Qu'est-ce qui a changé par rapport à il y a quarante ans ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Les hommes se marient plus jeunes.",
+       "correct": false,
+       "rationale": "L'âge moyen au premier mariage a « reculé », c'est-à-dire qu'on se marie plus tard.",
+       "label": "A"
+      },
+      {
+       "text": "Les pactes civils sont devenus obligatoires.",
+       "correct": false,
+       "rationale": "Aucune obligation n'est mentionnée.",
+       "label": "B"
+      },
+      {
+       "text": "Il est devenu courant de se marier après avoir eu un enfant.",
+       "correct": true,
+       "rationale": "« Beaucoup de couples se marient après la naissance de leur premier enfant, ce qui était exceptionnel il y a quarante ans. »",
+       "label": "C"
+      },
+      {
+       "text": "Les couples n'ont plus d'enfants.",
+       "correct": false,
+       "rationale": "Rien ne l'indique.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le verbe « reculer » appliqué à un âge peut prêter à confusion : ici, l'âge recule dans le calendrier de la vie, donc on se marie plus tard. Le contraste avec le passé est donné par « ce qui était exceptionnel »."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "title": "Moins de mariages, plus de pactes civils",
+   "document": "F: Les chiffres publiés ce matin par l'institut de statistiques confirment une tendance de fond : le nombre de mariages poursuit sa baisse, tandis que celui des pactes civils de solidarité ne cesse de progresser. L'an dernier, on comptait presque autant de pactes que de mariages. Pour les sociologues, ce n'est pas tant un rejet de l'engagement qu'une volonté de s'engager autrement : le pacte est perçu comme plus simple, moins coûteux et plus facile à rompre. Autre enseignement de l'étude : l'âge moyen au premier mariage a encore reculé et dépasse désormais trente-trois ans pour les hommes. Beaucoup de couples se marient après la naissance de leur premier enfant, ce qui était exceptionnel il y a quarante ans.",
+   "vocabulary": [
+    {
+     "terme": "une tendance de fond",
+     "definition": "une évolution durable, profonde",
+     "exemple": "Le télétravail est une tendance de fond."
+    },
+    {
+     "terme": "un pacte civil de solidarité",
+     "definition": "un contrat d'union entre deux personnes, plus souple que le mariage",
+     "exemple": "Ils ont signé un pacte civil avant d'acheter leur appartement."
+    },
+    {
+     "terme": "reculer",
+     "definition": "être repoussé à plus tard",
+     "exemple": "L'âge de la retraite a reculé."
+    },
+    {
+     "terme": "rompre",
+     "definition": "mettre fin à un engagement",
+     "exemple": "Ils ont décidé de rompre leur contrat."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "ne pas tant… que…",
+     "sens": "moins… que…",
+     "exemple": "Ce n'est pas tant le prix qui me gêne que la qualité."
+    },
+    {
+     "expression": "ne cesser de",
+     "sens": "continuer sans interruption à",
+     "exemple": "Les prix ne cessent d'augmenter."
+    },
+    {
+     "expression": "autre enseignement",
+     "sens": "autre conclusion tirée d'une étude",
+     "exemple": "Autre enseignement du sondage : les jeunes lisent davantage."
+    }
+   ]
+  },
+  {
+   "code": "CO-ACT-06",
+   "level": "B2",
+   "doc_type": "débat radiophonique",
+   "questions": [
+    {
+     "prompt": "Comment la principale répond-elle à l'accusation d'autoritarisme ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Elle rappelle les problèmes qui existaient avant la mesure.",
+       "correct": true,
+       "rationale": "« Je voudrais rappeler d'où l'on part » puis elle décrit le silence et les vidéos humiliantes.",
+       "label": "A"
+      },
+      {
+       "text": "Elle affirme que les parents ont voté la mesure.",
+       "correct": false,
+       "rationale": "Aucun vote n'est mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Elle annonce que l'interdiction sera levée.",
+       "correct": false,
+       "rationale": "Rien n'indique un retour en arrière.",
+       "label": "C"
+      },
+      {
+       "text": "Elle reconnaît que la mesure était excessive.",
+       "correct": false,
+       "rationale": "Elle comprend les parents mais défend la mesure.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Je les comprends, mais… » est une concession suivie d'une contre-argumentation. Elle justifie la mesure par la situation antérieure plutôt que par des principes."
+    },
+    {
+     "prompt": "Quel est, selon elle, le véritable objectif de l'interdiction ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Sanctionner tous les élèves qui désobéissent.",
+       "correct": false,
+       "rationale": "Elle admet que certains contournent la règle sans en faire un problème.",
+       "label": "A"
+      },
+      {
+       "text": "Obtenir une obéissance totale des élèves.",
+       "correct": false,
+       "rationale": "C'est précisément ce qu'elle écarte.",
+       "label": "B"
+      },
+      {
+       "text": "Changer les habitudes collectives, même si tout le monde ne respecte pas la règle.",
+       "correct": true,
+       "rationale": "« L'essentiel n'est pas d'atteindre une obéissance parfaite. Ce qui compte, c'est que le téléphone ne soit plus la norme. »",
+       "label": "C"
+      },
+      {
+       "text": "Réduire le bruit dans la cantine.",
+       "correct": false,
+       "rationale": "Elle se réjouit au contraire que les élèves se reparlent.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Ce qui compte, c'est que… » est une mise en relief qui désigne l'objectif essentiel. La phrase précédente écarte un objectif secondaire."
+    },
+    {
+     "prompt": "Qu'est-ce qui a surpris la principale ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "L'initiative des élèves pour occuper la pause du midi.",
+       "correct": true,
+       "rationale": "« Ce sont les élèves eux-mêmes qui ont proposé de créer des clubs… Je n'aurais jamais imaginé qu'ils en redemandent. »",
+       "label": "A"
+      },
+      {
+       "text": "Le refus des surveillants d'appliquer la règle.",
+       "correct": false,
+       "rationale": "Les surveillants ne refusent rien.",
+       "label": "B"
+      },
+      {
+       "text": "La colère des parents.",
+       "correct": false,
+       "rationale": "Elle s'y attendait et dit les comprendre.",
+       "label": "C"
+      },
+      {
+       "text": "La baisse des incidents.",
+       "correct": false,
+       "rationale": "Elle présente ce chiffre comme un résultat, pas comme une surprise.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le conditionnel passé « Je n'aurais jamais imaginé » exprime la surprise. « En redemander », familier, signifie vouloir davantage de quelque chose."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "Faut-il interdire les écrans dans les restaurants scolaires ?",
+   "context": "Un animateur interroge une principale de collège.",
+   "document": "H: Votre collège a interdit les téléphones jusque dans la cantine. Certains parents parlent d'une mesure autoritaire. / F: Je les comprends, mais je voudrais rappeler d'où l'on part. Avant l'interdiction, le déjeuner se passait en silence, chacun penché sur son écran. Les surveillants intervenaient tous les jours pour des vidéos humiliantes filmées à la table voisine. Depuis septembre, les incidents ont diminué de moitié, et surtout les élèves se reparlent. / H: Les élèves ne contournent-ils pas la règle ? / F: Certains, évidemment. Mais l'essentiel n'est pas d'atteindre une obéissance parfaite. Ce qui compte, c'est que le téléphone ne soit plus la norme. D'ailleurs, ce sont les élèves eux-mêmes qui ont proposé de créer des clubs le midi. Je n'aurais jamais imaginé qu'ils en redemandent.",
+   "vocabulary": [
+    {
+     "terme": "autoritaire",
+     "definition": "qui impose des règles sans discussion",
+     "exemple": "Le directeur a un style très autoritaire."
+    },
+    {
+     "terme": "contourner une règle",
+     "definition": "éviter de la respecter sans la violer ouvertement",
+     "exemple": "Certains contournent la loi grâce à des failles."
+    },
+    {
+     "terme": "humiliant",
+     "definition": "qui rabaisse, qui fait honte",
+     "exemple": "Il a subi des remarques humiliantes."
+    },
+    {
+     "terme": "la norme",
+     "definition": "ce qui est habituel, normal",
+     "exemple": "Le télétravail est devenu la norme dans cette entreprise."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "d'où l'on part",
+     "sens": "la situation de départ",
+     "exemple": "Pour juger les progrès, il faut savoir d'où l'on part."
+    },
+    {
+     "expression": "en redemander",
+     "sens": "vouloir encore plus de quelque chose",
+     "exemple": "Le spectacle était si drôle que le public en redemandait."
+    },
+    {
+     "expression": "jusque dans",
+     "sens": "même dans (lieu inattendu)",
+     "exemple": "Le bruit pénètre jusque dans la chambre."
+    }
+   ]
+  },
+  {
+   "code": "CO-ACT-07",
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "questions": [
+    {
+     "prompt": "Que récolte-t-on « surtout » dans ces jardins, selon le chroniqueur ?",
+     "skill": "vocabulaire",
+     "choices": [
+      {
+       "text": "Des légumes en grande quantité.",
+       "correct": false,
+       "rationale": "Les tomates sont citées, mais l'essentiel est ailleurs (« surtout »).",
+       "label": "A"
+      },
+      {
+       "text": "Des relations entre les habitants.",
+       "correct": true,
+       "rationale": "« On y récolte surtout du lien social » : les participants connaissent davantage de voisins.",
+       "label": "B"
+      },
+      {
+       "text": "Des revenus complémentaires.",
+       "correct": false,
+       "rationale": "La vente n'est pas évoquée.",
+       "label": "C"
+      },
+      {
+       "text": "Des fleurs destinées aux immeubles.",
+       "correct": false,
+       "rationale": "« Fleurir » est employé au sens figuré : les jardins se multiplient.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le chroniqueur joue sur le sens propre et figuré de « récolter ». L'adverbe « surtout » oriente vers l'essentiel : le lien social."
+    },
+    {
+     "prompt": "Quelle limite le chroniqueur signale-t-il ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les jardins produisent trop peu de légumes.",
+       "correct": false,
+       "rationale": "La production n'est pas critiquée.",
+       "label": "A"
+      },
+      {
+       "text": "Les universités contestent leur utilité.",
+       "correct": false,
+       "rationale": "Les études universitaires confirment au contraire leurs effets.",
+       "label": "B"
+      },
+      {
+       "text": "Les personnes les plus isolées en profitent peu.",
+       "correct": true,
+       "rationale": "« Les habitants les plus isolés, eux, n'en franchissent pas la porte. »",
+       "label": "C"
+      },
+      {
+       "text": "Les retraités monopolisent les parcelles.",
+       "correct": false,
+       "rationale": "Ils sont présents, mais aucune monopolisation n'est dénoncée.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Il serait pourtant naïf d'y voir une solution miracle » annonce la limite. Le pronom d'insistance « eux » oppose les habitants isolés aux participants habituels."
+    },
+    {
+     "prompt": "Quelle est la position finale du chroniqueur ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Il faut obliger les habitants isolés à participer.",
+       "correct": false,
+       "rationale": "Il ne propose aucune obligation.",
+       "label": "A"
+      },
+      {
+       "text": "Malgré leurs limites, ces jardins méritent d'être appréciés pour ce qu'ils accomplissent.",
+       "correct": true,
+       "rationale": "La question rhétorique finale « n'est-ce pas déjà beaucoup… ? » valorise le résultat obtenu.",
+       "label": "B"
+      },
+      {
+       "text": "Les associations devraient cesser d'aller chez les gens.",
+       "correct": false,
+       "rationale": "Il décrit leur démarche sans la critiquer.",
+       "label": "C"
+      },
+      {
+       "text": "Ces jardins sont un échec qu'il faut abandonner.",
+       "correct": false,
+       "rationale": "La question finale est positive.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Une question rhétorique n'attend pas de réponse : elle exprime une opinion. « N'est-ce pas déjà beaucoup » signifie « c'est déjà beaucoup »."
+    }
+   ],
+   "speakers": [
+    "H:fr-CH"
+   ],
+   "title": "Le succès des jardins partagés en ville",
+   "document": "H: Ils fleurissent au pied des immeubles, sur des friches ou d'anciens parkings : les jardins partagés se multiplient dans nos villes. On y cultive des tomates, bien sûr, mais on y récolte surtout du lien social. Les études menées par plusieurs universités montrent que les participants déclarent connaître davantage de voisins et se sentir moins seuls. Il serait pourtant naïf d'y voir une solution miracle. Ces jardins sont souvent fréquentés par des retraités et des familles de classe moyenne déjà bien intégrées, alors que les habitants les plus isolés, eux, n'en franchissent pas la porte. Plusieurs associations tentent d'y remédier en allant frapper directement chez les gens, avec un succès encore modeste. Mais au fond, n'est-ce pas déjà beaucoup qu'un carré de terre parvienne à réunir des voisins qui s'ignoraient ?",
+   "vocabulary": [
+    {
+     "terme": "une friche",
+     "definition": "un terrain abandonné, non cultivé ou non utilisé",
+     "exemple": "Le parc a été créé sur une ancienne friche industrielle."
+    },
+    {
+     "terme": "le lien social",
+     "definition": "les relations qui unissent les membres d'une société",
+     "exemple": "Les associations renforcent le lien social."
+    },
+    {
+     "terme": "s'ignorer",
+     "definition": "ne pas se connaître, ne pas se parler",
+     "exemple": "Les voisins s'ignoraient depuis des années."
+    },
+    {
+     "terme": "naïf",
+     "definition": "qui manque d'esprit critique",
+     "exemple": "Il serait naïf de croire toutes les promesses."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "une solution miracle",
+     "sens": "une solution qui réglerait tout facilement",
+     "exemple": "Il n'existe pas de solution miracle contre le chômage."
+    },
+    {
+     "expression": "franchir la porte",
+     "sens": "entrer dans un lieu",
+     "exemple": "Il n'a jamais franchi la porte d'un théâtre."
+    },
+    {
+     "expression": "au fond",
+     "sens": "en réalité, finalement",
+     "exemple": "Au fond, il a raison."
+    }
+   ]
+  },
+  {
+   "code": "CO-ACT-08",
+   "level": "B2",
+   "doc_type": "journal radio",
+   "questions": [
+    {
+     "prompt": "Quelle est la principale cause de la baisse des réserves évoquée ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "La diminution du nombre d'hôpitaux.",
+       "correct": false,
+       "rationale": "Les hôpitaux ne sont pas mentionnés.",
+       "label": "A"
+      },
+      {
+       "text": "L'interdiction du don pour les plus de cinquante ans.",
+       "correct": false,
+       "rationale": "Les plus de cinquante ans assurent au contraire la moitié des dons.",
+       "label": "B"
+      },
+      {
+       "text": "Une épidémie récente.",
+       "correct": false,
+       "rationale": "Aucune épidémie n'est évoquée.",
+       "label": "C"
+      },
+      {
+       "text": "Le vieillissement des donneurs réguliers.",
+       "correct": true,
+       "rationale": "« En cause, notamment, le vieillissement des donneurs réguliers. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« En cause » introduit la cause d'un problème. L'adverbe « notamment » indique qu'il y en a d'autres, mais c'est la seule nommée."
+    },
+    {
+     "prompt": "Comment les responsables expliquent-ils la faible participation des jeunes ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Par le manque d'information sur le don.",
+       "correct": false,
+       "rationale": "Le manque d'information n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Par leur manque de générosité.",
+       "correct": false,
+       "rationale": "C'est l'explication qu'ils écartent (« moins… que… »).",
+       "label": "B"
+      },
+      {
+       "text": "Par des horaires de collecte peu adaptés à leur emploi du temps.",
+       "correct": true,
+       "rationale": "« Moins un manque de générosité qu'un problème d'organisation : les collectes ont lieu… aux heures de bureau. »",
+       "label": "C"
+      },
+      {
+       "text": "Par la peur des aiguilles.",
+       "correct": false,
+       "rationale": "Cette raison n'est pas citée.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Comme « ne pas tant… que », la structure « moins… que… » écarte une explication au profit d'une autre. La seconde est la bonne."
+    },
+    {
+     "prompt": "Quelle solution est annoncée ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Une campagne de publicité à la télévision.",
+       "correct": false,
+       "rationale": "Aucune campagne télévisée n'est annoncée.",
+       "label": "A"
+      },
+      {
+       "text": "Un outil numérique pour prendre rendez-vous en dehors des heures de travail.",
+       "correct": true,
+       "rationale": "« Une application permettant de réserver un rendez-vous en soirée sera lancée le mois prochain. »",
+       "label": "B"
+      },
+      {
+       "text": "Une rémunération des donneurs.",
+       "correct": false,
+       "rationale": "Aucune rémunération n'est prévue.",
+       "label": "C"
+      },
+      {
+       "text": "L'ouverture de collectes dans les universités.",
+       "correct": false,
+       "rationale": "Les universités ne sont pas mentionnées.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La solution répond directement à la cause identifiée (horaires inadaptés). Repérer ce lien cause-solution aide à éliminer les distracteurs plausibles mais non mentionnés."
+    }
+   ],
+   "speakers": [
+    "F:fr-BE"
+   ],
+   "title": "Les dons de sang en baisse chez les jeunes",
+   "document": "F: L'établissement chargé des collectes de sang tire la sonnette d'alarme : les réserves sont descendues sous le seuil de sécurité pour la troisième fois cette année. En cause, notamment, le vieillissement des donneurs réguliers. Les plus de cinquante ans assurent aujourd'hui près de la moitié des dons, alors que les moins de trente ans se mobilisent de moins en moins. Les responsables y voient moins un manque de générosité qu'un problème d'organisation : les collectes ont lieu en semaine, aux heures de bureau, des créneaux difficiles pour des étudiants ou de jeunes actifs. Une application permettant de réserver un rendez-vous en soirée sera lancée le mois prochain. L'établissement rappelle qu'un don ne prend qu'une heure et peut sauver jusqu'à trois vies.",
+   "vocabulary": [
+    {
+     "terme": "une collecte",
+     "definition": "une opération de récolte (de sang, de dons)",
+     "exemple": "La collecte de sang a lieu à la mairie."
+    },
+    {
+     "terme": "le seuil de sécurité",
+     "definition": "le niveau minimal en dessous duquel il y a un risque",
+     "exemple": "Le barrage a dépassé le seuil de sécurité."
+    },
+    {
+     "terme": "un créneau",
+     "definition": "une plage horaire disponible",
+     "exemple": "Je n'ai aucun créneau libre cette semaine."
+    },
+    {
+     "terme": "un jeune actif",
+     "definition": "un jeune qui travaille",
+     "exemple": "Les jeunes actifs ont du mal à se loger."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "tirer la sonnette d'alarme",
+     "sens": "alerter sur un danger",
+     "exemple": "Les médecins tirent la sonnette d'alarme sur la pénurie de soignants."
+    },
+    {
+     "expression": "en cause",
+     "sens": "responsable, à l'origine du problème",
+     "exemple": "En cause : un défaut de fabrication."
+    },
+    {
+     "expression": "se mobiliser",
+     "sens": "s'engager activement pour une cause",
+     "exemple": "Les habitants se sont mobilisés pour sauver l'école."
+    }
+   ]
+  }
+ ]
+}

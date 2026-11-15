@@ -1,0 +1,202 @@
+@slug co-sante-bien-etre
+@section CO
+@title Santé et bien-être
+@order 5
+@description Santé publique, médecine, sommeil, alimentation et bien-être : comprendre les explications d'experts et les débats de santé.
+
+## CO-SAN-01 | interview | F:fr-FR, H:fr-FR
+TITRE: Le manque de sommeil chez les adolescents
+CONTEXTE: Une journaliste interroge un médecin spécialiste du sommeil.
+DOC: F: Les adolescents dorment-ils vraiment moins qu'avant ? / H: Oui, en moyenne une heure de moins qu'il y a vingt ans. Et contrairement à ce que pensent beaucoup de parents, ce n'est pas seulement une question de discipline. À l'adolescence, l'horloge biologique se décale naturellement : le corps produit la mélatonine, l'hormone du sommeil, plus tard dans la soirée. Un adolescent qui ne s'endort pas avant minuit n'est donc pas forcément capricieux. / F: Les écrans aggravent-ils les choses ? / H: Ils n'en sont pas la cause unique, mais ils accentuent le décalage. La lumière bleue retarde encore la sécrétion de mélatonine, et surtout, les contenus stimulent le cerveau au moment où il devrait se calmer. Le vrai problème, c'est que les cours commencent tôt. Plusieurs pays qui ont retardé l'heure d'entrée au lycée ont observé une amélioration des résultats et une baisse des accidents de la route chez les jeunes conducteurs.
+Q: Selon le médecin, pourquoi les adolescents s'endorment-ils tard ? | information détaillée
++ À cause d'un décalage naturel de leur horloge biologique. | « À l'adolescence, l'horloge biologique se décale naturellement. »
+- Par manque de discipline imposée par les parents. | Il dit que « ce n'est pas seulement une question de discipline ».
+- Parce qu'ils boivent trop de café. | Le café n'est pas évoqué.
+- Parce qu'ils font trop de sport le soir. | Le sport n'est pas mentionné.
+EXP: « Contrairement à ce que pensent beaucoup de parents » annonce la correction d'une idée reçue, expliquée ensuite par la biologie.
+Q: Quel rôle le médecin attribue-t-il aux écrans ? | argumentation
++ Ils renforcent un décalage qui existe déjà. | « Ils n'en sont pas la cause unique, mais ils accentuent le décalage. »
+- Ils sont la seule cause du manque de sommeil. | Il dit le contraire.
+- Ils n'ont aucun effet sur le sommeil. | Ils retardent la mélatonine et stimulent le cerveau.
+- Ils aident les adolescents à se détendre. | Ils stimulent au lieu de calmer.
+EXP: La nuance « pas la cause unique, mais… » est typique d'un discours d'expert : il refuse une explication simpliste sans nier le rôle des écrans.
+Q: Quelle solution le médecin semble-t-il privilégier ? | implicite
++ Faire commencer les cours plus tard au lycée. | « Le vrai problème, c'est que les cours commencent tôt » ; les pays qui ont retardé l'heure d'entrée ont vu des améliorations.
+- Interdire les écrans aux adolescents. | Il ne propose pas d'interdiction.
+- Donner de la mélatonine aux adolescents. | Il ne parle pas de traitement.
+- Punir les adolescents qui se couchent tard. | Il dit qu'ils ne sont « pas forcément capricieux ».
+EXP: La solution n'est pas formulée comme une recommandation directe : elle se déduit de « Le vrai problème, c'est… » et de l'exemple des autres pays.
+VOCAB: l'horloge biologique = le rythme interne du corps = Le décalage horaire dérègle l'horloge biologique. ; la mélatonine = l'hormone qui favorise le sommeil = La lumière bloque la production de mélatonine. ; capricieux = qui agit selon ses envies, sans raison = Cet enfant est capricieux. ; la sécrétion = la production d'une substance par le corps = La sécrétion d'adrénaline augmente avec le stress.
+EXPR: contrairement à ce que = à l'inverse de ce que = Contrairement à ce qu'on croit, il fait froid au Maroc l'hiver. ; ne pas être forcément = ne pas être nécessairement = Cher n'est pas forcément synonyme de qualité. ; aggraver les choses = rendre la situation pire = Ses mensonges ont aggravé les choses.
+
+## CO-SAN-02 | reportage | H:fr-FR, F:fr-FR
+TITRE: Les déserts médicaux
+CONTEXTE: Reportage dans une petite ville où le dernier médecin généraliste vient de partir à la retraite.
+DOC: H: Depuis le départ à la retraite du docteur Moreau en juin, les trois mille habitants de cette commune n'ont plus de médecin. Le plus proche se trouve à quarante minutes, et il ne prend plus de nouveaux patients. Martine, soixante-dix-huit ans, en témoigne. / F: Pour renouveler mon ordonnance, je dois demander à ma fille de m'emmener en ville. Elle doit poser une demi-journée de congé à chaque fois. Alors parfois, je laisse traîner, et je sais que ce n'est pas raisonnable. / H: La mairie a pourtant tout essayé : un cabinet rénové proposé gratuitement, un logement de fonction, des annonces dans les facultés de médecine. Sans succès. Les jeunes médecins préfèrent exercer en groupe, en ville, avec des horaires plus raisonnables. La commune mise désormais sur la téléconsultation, avec une cabine installée à la pharmacie. Une solution d'appoint, reconnaît le maire, qui ne remplacera jamais un médecin de famille.
+Q: Quelle conséquence l'absence de médecin a-t-elle pour Martine ? | implicite
++ Elle reporte parfois ses soins au risque de sa santé. | « Parfois, je laisse traîner, et je sais que ce n'est pas raisonnable. »
+- Elle a déménagé en ville. | Elle vit toujours dans la commune.
+- Elle consulte uniquement en ligne. | Elle va en ville avec sa fille.
+- Elle a trouvé un médecin dans la commune voisine. | Le plus proche ne prend plus de patients.
+EXP: « Laisser traîner » signifie repousser ce qu'on devrait faire. Martine reconnaît elle-même que ce comportement est risqué.
+Q: Pourquoi les efforts de la mairie ont-ils échoué ? | argumentation
++ Les jeunes médecins préfèrent d'autres conditions d'exercice. | « Les jeunes médecins préfèrent exercer en groupe, en ville, avec des horaires plus raisonnables. »
+- Le cabinet proposé était trop cher. | Il était proposé « gratuitement ».
+- La mairie n'a pas publié d'annonces. | Elle a passé des annonces dans les facultés.
+- Les habitants refusaient un nouveau médecin. | Ce n'est pas dit.
+EXP: Le « pourtant » souligne le contraste entre les efforts et l'échec. La cause est donnée ensuite : les attentes des jeunes médecins.
+Q: Comment le maire juge-t-il la téléconsultation ? | point de vue
++ Comme une solution complémentaire qui reste insuffisante. | « Une solution d'appoint… qui ne remplacera jamais un médecin de famille. »
+- Comme la solution idéale au problème. | Il dit qu'elle ne remplacera jamais un médecin.
+- Comme une dépense inutile. | Il ne la rejette pas.
+- Comme une solution rejetée par les habitants. | L'avis des habitants n'est pas donné.
+EXP: « Une solution d'appoint » est une aide secondaire, complémentaire. Le maire reconnaît son utilité tout en en marquant les limites.
+VOCAB: un désert médical = une zone où il manque de médecins = Cette région rurale est un désert médical. ; une ordonnance = un document où le médecin prescrit des médicaments = Le pharmacien lit l'ordonnance. ; un logement de fonction = un logement fourni par l'employeur = Le gardien dispose d'un logement de fonction. ; la téléconsultation = une consultation médicale à distance = Elle a fait une téléconsultation depuis chez elle.
+EXPR: laisser traîner = repousser, négliger = Ne laisse pas traîner cette facture. ; miser sur = compter sur, parier sur = L'entreprise mise sur l'innovation. ; une solution d'appoint = une solution complémentaire, temporaire = Ce chauffage est une solution d'appoint.
+
+## CO-SAN-03 | chronique radio | F:fr-FR
+TITRE: Les compléments alimentaires, utiles ou inutiles ?
+DOC: F: Vitamines, magnésium, oméga-3 : les compléments alimentaires se vendent comme des petits pains. Près d'un adulte sur deux en consomme régulièrement. Pourtant, pour la grande majorité des personnes en bonne santé qui mangent de façon variée, ils n'apportent rien de mesurable. Certaines situations justifient une supplémentation : la vitamine D en hiver dans les régions peu ensoleillées, l'acide folique pendant la grossesse. Mais le reste relève largement du marketing. Plus inquiétant, ces produits ne sont pas des médicaments : ils ne sont pas soumis aux mêmes contrôles, et certains peuvent interagir avec des traitements. Les autorités sanitaires ont recensé plusieurs centaines d'effets indésirables l'an dernier. Le message n'est pas de tout jeter à la poubelle, mais d'en parler à son médecin plutôt que de se fier aux promesses inscrites sur l'emballage.
+Q: Que dit la chroniqueuse sur l'efficacité des compléments alimentaires ? | point de vue
++ Ils sont inutiles pour la plupart des personnes en bonne santé, sauf cas particuliers. | « Ils n'apportent rien de mesurable » sauf dans « certaines situations » comme la vitamine D en hiver.
+- Ils sont efficaces pour tout le monde. | Elle dit l'inverse.
+- Ils sont toujours dangereux. | Elle ne les condamne pas en bloc.
+- Ils remplacent une alimentation variée. | Elle parle de personnes qui mangent déjà de façon variée.
+EXP: La réponse doit intégrer la règle générale et ses exceptions, introduites par « Certaines situations justifient… ».
+Q: Pourquoi la chroniqueuse juge-t-elle la situation « inquiétante » ? | argumentation
++ Ces produits sont moins contrôlés que les médicaments et peuvent avoir des effets indésirables. | « Ils ne sont pas soumis aux mêmes contrôles, et certains peuvent interagir avec des traitements. »
+- Ils coûtent de plus en plus cher. | Le prix n'est pas évoqué.
+- Ils sont vendus uniquement sur Internet. | Le mode de vente n'est pas mentionné.
+- Les médecins refusent d'en prescrire. | Ce n'est pas dit.
+EXP: « Plus inquiétant » introduit un argument plus grave que le précédent. Les « effets indésirables » recensés confirment le risque.
+Q: Quel conseil la chroniqueuse donne-t-elle ? | synthèse
++ Demander l'avis d'un médecin avant d'en prendre. | « D'en parler à son médecin plutôt que de se fier aux promesses inscrites sur l'emballage. »
+- Arrêter immédiatement tous les compléments. | « Le message n'est pas de tout jeter à la poubelle. »
+- Choisir les compléments les plus chers. | Ce n'est pas suggéré.
+- Lire attentivement l'emballage. | Elle met en garde contre les promesses de l'emballage.
+EXP: « Le message n'est pas de… mais de… » écarte une interprétation extrême pour formuler le vrai conseil.
+VOCAB: un complément alimentaire = un produit qui complète l'alimentation (vitamines, minéraux) = Il prend un complément de magnésium. ; la supplémentation = l'apport d'une substance en complément = La supplémentation en fer est conseillée aux femmes enceintes. ; interagir = agir l'un sur l'autre = Ce médicament peut interagir avec l'alcool. ; un effet indésirable = une conséquence négative non voulue = Ce traitement a peu d'effets indésirables.
+EXPR: se vendre comme des petits pains = se vendre très facilement et en grande quantité = Ce livre se vend comme des petits pains. ; relever de = appartenir au domaine de = Ce discours relève de la publicité. ; se fier à = faire confiance à = Ne te fie pas aux apparences.
+
+## CO-SAN-04 | débat radiophonique | H:fr-FR, F:fr-FR
+TITRE: Faut-il taxer les boissons sucrées ?
+CONTEXTE: Débat entre un nutritionniste et une représentante de l'industrie agroalimentaire.
+DOC: H: Les boissons sucrées sont l'une des principales sources de sucre ajouté chez les jeunes. Une taxe a un double effet : elle décourage la consommation et pousse les industriels à réduire le sucre dans leurs recettes. C'est exactement ce qui s'est passé au Royaume-Uni. / F: Je ne conteste pas le problème de l'obésité. Mais une taxe pénalise d'abord les ménages modestes, pour qui ces boissons représentent un petit plaisir. On leur fait la morale par le porte-monnaie. Nous préférons l'éducation nutritionnelle et l'information des consommateurs. / H: L'information, cela fait trente ans qu'on la fait, avec des résultats très limités. Et l'argument social se retourne : ce sont justement les ménages modestes qui souffrent le plus de l'obésité et du diabète. Les protéger, c'est aussi agir sur leur environnement. / F: Encore faut-il que l'argent de la taxe serve vraiment à la prévention, ce qui est rarement le cas.
+Q: Selon le nutritionniste, quels sont les effets d'une taxe ? | argumentation
++ Elle réduit la consommation et incite les fabricants à mettre moins de sucre. | « Elle décourage la consommation et pousse les industriels à réduire le sucre dans leurs recettes. »
+- Elle augmente les bénéfices de l'industrie. | Ce n'est pas un effet mentionné.
+- Elle supprime totalement les boissons sucrées. | Elle décourage, elle n'interdit pas.
+- Elle finance automatiquement les hôpitaux. | Ce n'est pas dit.
+EXP: « Un double effet » annonce deux conséquences, détaillées après les deux-points.
+Q: Comment le nutritionniste répond-il à l'argument social de la représentante ? | argumentation
++ Il affirme que les ménages modestes sont justement les plus touchés par les maladies liées au sucre. | « L'argument social se retourne : ce sont justement les ménages modestes qui souffrent le plus de l'obésité et du diabète. »
+- Il reconnaît que la taxe est injuste. | Il retourne l'argument.
+- Il propose d'exonérer les ménages modestes. | Ce n'est pas sa proposition.
+- Il dit que les ménages modestes boivent peu de sodas. | Ce n'est pas son propos.
+EXP: « L'argument se retourne » signifie qu'il peut servir la position opposée. C'est une technique argumentative fréquente.
+Q: Quelle réserve finale la représentante émet-elle ? | point de vue
++ Elle doute que le produit de la taxe soit consacré à la prévention. | « Encore faut-il que l'argent de la taxe serve vraiment à la prévention, ce qui est rarement le cas. »
+- Elle refuse toute forme de prévention. | Elle défend l'éducation nutritionnelle.
+- Elle accepte finalement la taxe sans condition. | Elle pose une condition qu'elle juge rarement remplie.
+- Elle conteste l'existence de l'obésité. | Elle dit ne pas contester le problème.
+EXP: « Encore faut-il que » introduit une condition. « Ce qui est rarement le cas » montre son scepticisme.
+VOCAB: le sucre ajouté = le sucre ajouté lors de la fabrication = Ce yaourt ne contient pas de sucre ajouté. ; pénaliser = désavantager = Cette règle pénalise les petits commerçants. ; la prévention = les mesures pour éviter un problème = La prévention routière sauve des vies. ; l'obésité = un excès de poids important et dangereux pour la santé = L'obésité infantile progresse.
+EXPR: faire la morale = donner des leçons de comportement = Arrête de me faire la morale ! ; par le porte-monnaie = par l'argent, en touchant aux finances = Les automobilistes sont sanctionnés par le porte-monnaie. ; encore faut-il que = à condition que (doute) = C'est une bonne idée ; encore faut-il qu'elle soit appliquée.
+
+## CO-SAN-05 | journal radio | F:fr-CH
+TITRE: Le burn-out reconnu comme maladie professionnelle
+DOC: F: Le Parlement a adopté hier un texte qui facilite la reconnaissance de l'épuisement professionnel comme maladie liée au travail. Jusqu'ici, les salariés devaient prouver un lien direct et essentiel entre leur état de santé et leurs conditions de travail, une démarche longue et rarement couronnée de succès. Désormais, un comité médical pourra se prononcer sur la base d'un dossier simplifié. Les syndicats saluent une avancée, tout en regrettant que le texte ne prévoie rien pour la prévention. Du côté des employeurs, on craint une hausse des cotisations et des demandes abusives. Les spécialistes, eux, rappellent qu'un épuisement professionnel ne se résume pas à une fatigue passagère : il peut entraîner plusieurs mois, voire plusieurs années d'arrêt de travail.
+Q: Qu'est-ce que le nouveau texte change ? | information détaillée
++ Il simplifie la procédure pour faire reconnaître l'épuisement professionnel. | « Un comité médical pourra se prononcer sur la base d'un dossier simplifié. »
+- Il interdit les heures supplémentaires. | Ce n'est pas mentionné.
+- Il oblige les employeurs à financer la prévention. | Les syndicats regrettent justement que rien ne soit prévu pour la prévention.
+- Il supprime la nécessité d'un avis médical. | Un comité médical se prononce.
+EXP: Opposez « Jusqu'ici » (procédure difficile) et « Désormais » (dossier simplifié) pour identifier le changement.
+Q: Quelle est la réaction des syndicats ? | point de vue
++ Ils approuvent le texte mais regrettent l'absence de mesures de prévention. | « Les syndicats saluent une avancée, tout en regrettant que le texte ne prévoie rien pour la prévention. »
+- Ils rejettent le texte. | Ils saluent une avancée.
+- Ils craignent une hausse des cotisations. | C'est la crainte des employeurs.
+- Ils jugent le texte parfait. | Ils expriment un regret.
+EXP: « Tout en » associe approbation et réserve. Ne confondez pas la position des syndicats et celle des employeurs.
+Q: Que rappellent les spécialistes ? | implicite
++ L'épuisement professionnel est une maladie sérieuse aux conséquences durables. | Il « ne se résume pas à une fatigue passagère » et peut entraîner « plusieurs mois, voire plusieurs années d'arrêt ».
+- L'épuisement professionnel guérit en quelques jours. | C'est l'inverse.
+- Les demandes de reconnaissance sont souvent abusives. | C'est la crainte des employeurs, pas l'avis des spécialistes.
+- La fatigue au travail est normale. | Ils distinguent justement fatigue passagère et épuisement.
+EXP: « Ne se résume pas à » corrige une vision réductrice. Le rappel des spécialistes répond implicitement aux soupçons d'abus des employeurs.
+VOCAB: l'épuisement professionnel = un état de fatigue extrême lié au travail = Elle est en arrêt pour épuisement professionnel. ; une cotisation = une somme versée régulièrement pour financer une protection = Les cotisations sociales financent la retraite. ; passager = qui ne dure pas = Ce n'est qu'une douleur passagère. ; un arrêt de travail = une période où le salarié ne travaille pas pour raison médicale = Le médecin lui a prescrit un arrêt de travail.
+EXPR: couronné de succès = réussi = Ses efforts ont été couronnés de succès. ; se prononcer sur = donner un avis officiel sur = Le tribunal se prononcera demain. ; voire = et même = Cela prendra des semaines, voire des mois.
+
+## CO-SAN-06 | interview | H:fr-FR, F:fr-FR
+TITRE: La méditation à l'hôpital
+CONTEXTE: Un journaliste interroge une médecin qui propose des séances de méditation à ses patients.
+DOC: H: La méditation dans un service hospitalier, certains y voient une mode. Que leur répondez-vous ? / F: Que je comprends leur méfiance. On a vu fleurir beaucoup de promesses farfelues autour de la méditation. Mais je ne propose pas de guérir quoi que ce soit. Les études sérieuses montrent qu'une pratique régulière réduit l'anxiété et améliore la tolérance à la douleur chronique. C'est un complément aux traitements, pas un substitut. / H: Comment réagissent les patients ? / F: Ça dépend beaucoup. Certains sont très réceptifs dès la première séance. D'autres trouvent ça déroutant, voire inutile, et c'est leur droit. Je ne force personne. Ce qui me frappe, c'est que les plus sceptiques au départ sont parfois ceux qui continuent le plus longtemps. Peut-être parce qu'ils ne s'attendaient à rien et qu'ils ont été surpris de constater un effet.
+Q: Que dit la médecin des critiques envers la méditation ? | point de vue
++ Elle les comprend car beaucoup de promesses excessives ont circulé. | « Je comprends leur méfiance. On a vu fleurir beaucoup de promesses farfelues. »
+- Elle les juge totalement infondées. | Elle dit les comprendre.
+- Elle les partage et va arrêter les séances. | Elle continue les séances.
+- Elle accuse les critiques d'ignorance. | Elle ne les accuse pas.
+EXP: Elle concède d'abord le bien-fondé de la méfiance avant de préciser sa propre démarche, plus modeste.
+Q: Comment présente-t-elle la méditation ? | argumentation
++ Comme un complément aux traitements médicaux. | « C'est un complément aux traitements, pas un substitut. »
+- Comme un remède qui guérit les maladies. | « Je ne propose pas de guérir quoi que ce soit. »
+- Comme une obligation pour tous les patients. | « Je ne force personne. »
+- Comme une alternative aux médicaments. | Elle refuse l'idée de substitut.
+EXP: L'opposition « complément / substitut » est essentielle : un substitut remplace, un complément s'ajoute.
+Q: Qu'est-ce qui surprend la médecin ? | implicite
++ Des patients d'abord méfiants persévèrent souvent dans la pratique. | « Les plus sceptiques au départ sont parfois ceux qui continuent le plus longtemps. »
+- Tous les patients abandonnent rapidement. | Ce n'est pas dit.
+- Les patients enthousiastes guérissent plus vite. | La guérison n'est pas évoquée.
+- Les patients refusent tous la première séance. | Certains sont réceptifs dès la première séance.
+EXP: « Ce qui me frappe, c'est que… » introduit une observation surprenante. Elle propose ensuite une hypothèse avec « Peut-être parce que… ».
+VOCAB: farfelu = bizarre, peu sérieux = Il a des idées farfelues. ; chronique = qui dure longtemps = Il souffre d'une douleur chronique au dos. ; un substitut = ce qui remplace autre chose = Le miel est un substitut au sucre. ; déroutant = qui surprend, déconcerte = Sa réaction était déroutante. ; réceptif = ouvert, disposé à accepter = Les élèves sont réceptifs à cette méthode.
+EXPR: voir fleurir = voir apparaître en grand nombre = On voit fleurir les trottinettes en ville. ; c'est leur droit = ils sont libres de le faire = Ils refusent, c'est leur droit. ; ça dépend = la réponse varie selon les cas = Tu viens ce soir ? Ça dépend du travail.
+
+## CO-SAN-07 | reportage | F:fr-FR, H:fr-FR
+TITRE: Le sport sur ordonnance
+CONTEXTE: Reportage dans une maison sport-santé où des médecins prescrivent de l'activité physique.
+DOC: F: Dans cette salle municipale, une dizaine de personnes font des exercices d'équilibre sous l'œil d'un éducateur sportif. Toutes sont venues sur prescription médicale. Diabète, hypertension, suites de cancer : l'activité physique adaptée fait désormais partie de leur traitement. Bernard, soixante-cinq ans, a été orienté ici après un infarctus. / H: Au début, j'étais sceptique. Je n'avais pas fait de sport depuis le lycée et j'avais peur de faire un nouveau malaise. Mais l'éducateur adapte tout à mon état. En six mois, j'ai perdu huit kilos et mon cardiologue a réduit mon traitement. / F: Le dispositif a pourtant une limite de taille : l'activité n'est pas remboursée par l'assurance maladie. Ici, la mairie prend en charge une partie du coût, mais ailleurs, de nombreux patients renoncent faute de moyens.
+Q: Pourquoi les participants sont-ils présents dans cette salle ? | information détaillée
++ Un médecin leur a prescrit une activité physique adaptée à leur maladie. | « Toutes sont venues sur prescription médicale. »
+- Ils préparent une compétition sportive. | Ce n'est pas mentionné.
+- Ils travaillent à la mairie. | La salle est municipale, mais ils ne sont pas employés de la mairie.
+- Ils ont gagné un abonnement gratuit. | Ce n'est pas dit.
+EXP: « Sur prescription médicale » signifie qu'un médecin l'a ordonné. L'énumération des maladies le confirme.
+Q: Quels résultats Bernard a-t-il obtenus ? | information détaillée
++ Une perte de poids et une réduction de son traitement. | « J'ai perdu huit kilos et mon cardiologue a réduit mon traitement. »
+- Un retour à la compétition. | Ce n'est pas évoqué.
+- Une guérison complète de son cœur. | Son traitement est réduit, pas supprimé.
+- Un nouveau malaise cardiaque. | Il en avait peur, mais n'en a pas eu.
+EXP: Attention à ne pas exagérer : « réduit mon traitement » ne signifie pas guérison complète.
+Q: Quelle limite la journaliste souligne-t-elle ? | argumentation
++ Le coût non remboursé peut décourager certains patients. | « L'activité n'est pas remboursée… de nombreux patients renoncent faute de moyens. »
+- Les éducateurs sont mal formés. | Ce n'est pas dit.
+- Les médecins refusent de prescrire du sport. | Ils en prescrivent.
+- Les exercices sont trop difficiles. | Ils sont adaptés à chacun.
+EXP: « Une limite de taille » signifie une limite importante. Le « pourtant » introduit un contraste avec les bénéfices décrits.
+VOCAB: une prescription = une recommandation écrite d'un médecin = Ce médicament est délivré sur prescription. ; un infarctus = une crise cardiaque = Il a fait un infarctus à cinquante ans. ; un éducateur sportif = un professionnel qui encadre une activité physique = L'éducateur sportif adapte les exercices. ; rembourser = rendre l'argent dépensé = La sécurité sociale rembourse ce médicament.
+EXPR: sous l'œil de = sous la surveillance de = Les enfants jouent sous l'œil de leurs parents. ; de taille = important, considérable = C'est un problème de taille. ; faute de moyens = par manque d'argent = Faute de moyens, le projet a été abandonné.
+
+## CO-SAN-08 | chronique radio | H:fr-FR
+TITRE: La santé mentale des étudiants
+DOC: H: Un étudiant sur trois déclare des symptômes dépressifs : c'est le résultat d'une enquête nationale publiée cette semaine. Un chiffre alarmant, mais qu'il faut interpréter avec prudence. D'abord parce que les jeunes parlent aujourd'hui plus facilement de leur santé mentale, ce qui est une bonne nouvelle : une partie de la hausse traduit une parole qui se libère. Ensuite parce que « symptômes dépressifs » ne signifie pas « dépression ». Cela dit, il serait irresponsable de minimiser le phénomène. Précarité financière, isolement, pression des résultats : les facteurs de risque sont bien réels. Et l'offre de soins ne suit pas. Dans certaines universités, il faut attendre trois mois pour obtenir un rendez-vous avec un psychologue. Or, en cas de détresse, trois mois, c'est une éternité.
+Q: Pourquoi le chroniqueur appelle-t-il à interpréter le chiffre avec prudence ? | argumentation
++ Parce que la hausse reflète en partie une plus grande liberté de parole et que les symptômes ne sont pas une maladie diagnostiquée. | Il cite « une parole qui se libère » et précise que « symptômes dépressifs ne signifie pas dépression ».
+- Parce que l'enquête est fausse. | Il ne remet pas en cause l'enquête elle-même.
+- Parce que les étudiants mentent. | Ce n'est pas dit.
+- Parce que le chiffre a baissé. | Il parle d'une hausse.
+EXP: « D'abord… Ensuite… » structure deux raisons de nuancer le chiffre.
+Q: Quelle position le chroniqueur adopte-t-il finalement ? | point de vue
++ Le problème est réel et ne doit pas être minimisé. | « Il serait irresponsable de minimiser le phénomène… les facteurs de risque sont bien réels. »
+- Le problème est exagéré par les médias. | Il refuse de minimiser.
+- Les étudiants doivent se débrouiller seuls. | Il critique le manque d'offre de soins.
+- Le phénomène va disparaître naturellement. | Ce n'est pas dit.
+EXP: « Cela dit » marque un tournant : après avoir nuancé le chiffre, il affirme la réalité du problème.
+Q: Que signifie la dernière phrase ? | implicite
++ Un délai aussi long est dangereux pour une personne en souffrance. | « En cas de détresse, trois mois, c'est une éternité. »
+- Trois mois est un délai raisonnable. | Il dit l'inverse.
+- Les psychologues travaillent trop lentement. | Il critique l'offre insuffisante, pas les psychologues.
+- Les étudiants doivent prendre rendez-vous plus tôt. | Ce n'est pas le sens.
+EXP: L'hyperbole « une éternité » souligne que le temps est vécu comme interminable dans la souffrance. « Or » introduit le fait qui rend la situation inacceptable.
+VOCAB: la précarité = une situation instable, notamment financière = La précarité touche de nombreux étudiants. ; la détresse = une souffrance profonde, un sentiment d'abandon = Il a appelé à l'aide dans un moment de détresse. ; minimiser = présenter comme moins important = Ne minimise pas tes efforts. ; un symptôme = un signe d'une maladie = La fièvre est un symptôme de la grippe.
+EXPR: une parole qui se libère = des personnes qui osent enfin parler = Depuis quelques années, la parole des victimes se libère. ; ne pas suivre = ne pas être à la hauteur, ne pas augmenter au même rythme = La demande augmente mais l'offre ne suit pas. ; c'est une éternité = c'est extrêmement long = Attendre une heure, c'est une éternité.

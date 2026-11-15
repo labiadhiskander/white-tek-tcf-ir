@@ -1,0 +1,226 @@
+@slug co-technologie-ia
+@section CO
+@title Technologie et intelligence artificielle
+@order 6
+@description Numérique, intelligence artificielle, données personnelles et usages technologiques : débats, explications et témoignages.
+
+## CO-TEC-01 | chronique radio | H:fr-FR
+TITRE: L'intelligence artificielle va-t-elle supprimer nos emplois ?
+DOC: H: À chaque révolution technologique, la même crainte ressurgit : les machines vont nous voler notre travail. Au dix-neuvième siècle, des ouvriers brisaient les métiers à tisser mécaniques. Pourtant, l'histoire montre que les technologies détruisent des emplois, certes, mais en créent d'autres, souvent inimaginables auparavant. Qui aurait parlé de développeur d'applications il y a trente ans ? L'intelligence artificielle présente toutefois une différence notable : elle ne remplace pas seulement des gestes répétitifs, mais aussi des tâches intellectuelles, comme rédiger, traduire, analyser des documents. Les métiers qualifiés, longtemps épargnés, sont donc concernés à leur tour. La vraie question n'est pas de savoir si des emplois vont disparaître, mais si nous saurons former assez vite ceux dont le métier se transforme.
+Q: Quel enseignement le chroniqueur tire-t-il de l'histoire ? | argumentation
++ Les technologies suppriment certains emplois mais en font naître de nouveaux. | « Les technologies détruisent des emplois, certes, mais en créent d'autres, souvent inimaginables auparavant. »
+- Les technologies ne détruisent jamais d'emplois. | Il reconnaît qu'elles en détruisent.
+- Les ouvriers ont réussi à arrêter le progrès. | Rien ne l'indique.
+- Les nouveaux emplois sont toujours moins bien payés. | Les salaires ne sont pas évoqués.
+EXP: « Certes… mais » organise la concession et l'argument principal. L'exemple du développeur d'applications illustre les emplois « inimaginables auparavant ».
+Q: En quoi l'intelligence artificielle est-elle différente des technologies précédentes ? | information détaillée
++ Elle peut aussi effectuer des tâches intellectuelles. | « Elle ne remplace pas seulement des gestes répétitifs, mais aussi des tâches intellectuelles. »
+- Elle ne crée aucun nouvel emploi. | Il ne l'affirme pas.
+- Elle remplace uniquement les ouvriers. | C'est l'inverse : elle touche aussi les métiers qualifiés.
+- Elle est moins rapide que les machines anciennes. | La vitesse n'est pas évoquée.
+EXP: « Toutefois » introduit la différence. « Ne… pas seulement… mais aussi » élargit le champ concerné.
+Q: Quelle est, selon lui, la vraie question ? | synthèse
++ Notre capacité à former rapidement les travailleurs dont le métier évolue. | « Si nous saurons former assez vite ceux dont le métier se transforme. »
+- Le nombre exact d'emplois qui vont disparaître. | C'est la question qu'il écarte.
+- L'interdiction de l'intelligence artificielle. | Ce n'est pas envisagé.
+- Le salaire des développeurs. | Ce n'est pas le sujet.
+EXP: Comme souvent dans les chroniques, la conclusion déplace le débat avec « La vraie question n'est pas… mais… ».
+VOCAB: ressurgir = réapparaître = De vieilles peurs ressurgissent. ; un métier à tisser = une machine qui fabrique du tissu = Les métiers à tisser ont transformé l'industrie textile. ; épargné = qui n'a pas été touché par quelque chose de négatif = Cette région a été épargnée par la tempête. ; notable = important, digne d'être remarqué = Il y a une différence notable entre les deux.
+EXPR: à leur tour = eux aussi, après d'autres = Les cadres sont touchés à leur tour. ; voler le travail de quelqu'un = prendre son emploi = Les robots vont-ils nous voler notre travail ? ; qui aurait parlé de… = personne n'aurait parlé de… = Qui aurait parlé de smartphone en 1990 ?
+
+## CO-TEC-02 | interview | F:fr-FR, H:fr-FR
+TITRE: Protéger ses données personnelles
+CONTEXTE: Une journaliste interroge un juriste spécialisé dans le numérique.
+DOC: F: Beaucoup de gens disent : « Je n'ai rien à cacher, donc peu m'importe qu'on collecte mes données. » Que leur répondez-vous ? / H: Que c'est une confusion entre vie privée et secret. Vous n'avez rien à cacher, mais vous fermez quand même la porte de votre salle de bains. La vie privée, c'est le droit de choisir ce que l'on montre et à qui. Ensuite, vos données prises isolément paraissent anodines. Mais croisées entre elles, elles révèlent énormément : vos horaires, vos opinions, votre état de santé. Une compagnie d'assurance ou un futur employeur pourraient en faire un usage qui vous porterait préjudice. / F: Que peut faire un particulier ? / H: Des gestes simples : refuser les cookies non nécessaires, vérifier les autorisations des applications. Mais soyons honnêtes : on ne peut pas tout faire reposer sur l'individu. C'est à la loi d'encadrer les pratiques des entreprises.
+Q: Comment le juriste répond-il à l'argument « Je n'ai rien à cacher » ? | argumentation
++ Il distingue le droit à la vie privée du fait de cacher quelque chose. | « C'est une confusion entre vie privée et secret » ; l'exemple de la salle de bains l'illustre.
+- Il reconnaît que cet argument est juste. | Il le réfute.
+- Il dit que tout le monde a des secrets. | Ce n'est pas son argument.
+- Il conseille de ne plus utiliser Internet. | Il propose des gestes simples.
+EXP: L'exemple concret (la porte de la salle de bains) rend l'argument accessible : on protège son intimité sans avoir rien à cacher.
+Q: Pourquoi des données « anodines » peuvent-elles être dangereuses ? | implicite
++ Parce qu'une fois combinées, elles révèlent des informations sensibles. | « Croisées entre elles, elles révèlent énormément : vos horaires, vos opinions, votre état de santé. »
+- Parce qu'elles sont toujours fausses. | Ce n'est pas dit.
+- Parce qu'elles sont vendues très cher. | Le prix n'est pas évoqué.
+- Parce qu'elles peuvent être effacées. | Ce n'est pas le danger décrit.
+EXP: L'opposition « prises isolément / croisées entre elles » est la clé. « Anodin » signifie sans importance.
+Q: Quelle est la position finale du juriste ? | point de vue
++ La protection des données doit surtout relever de la loi, pas seulement des individus. | « On ne peut pas tout faire reposer sur l'individu. C'est à la loi d'encadrer les pratiques des entreprises. »
+- Chaque individu est seul responsable de ses données. | Il dit l'inverse.
+- Les entreprises doivent être libres de collecter les données. | Il veut les encadrer.
+- Il est impossible de protéger ses données. | Il propose des gestes et une régulation.
+EXP: « Mais soyons honnêtes » introduit une limite aux gestes individuels. « C'est à… de » indique à qui revient la responsabilité.
+VOCAB: anodin = sans importance, inoffensif = C'était une remarque anodine. ; croiser des données = comparer et combiner des informations = Les enquêteurs ont croisé les fichiers. ; porter préjudice = causer du tort = Cette rumeur lui a porté préjudice. ; encadrer = réglementer, fixer des limites = La loi encadre la publicité.
+EXPR: peu m'importe = cela ne me dérange pas, je m'en moque = Peu m'importe ce qu'ils pensent. ; faire reposer sur = rendre responsable = On fait reposer tout le travail sur lui. ; soyons honnêtes = pour dire la vérité = Soyons honnêtes, ce projet coûte cher.
+
+## CO-TEC-03 | reportage | H:fr-FR, F:fr-FR
+TITRE: La fracture numérique chez les seniors
+CONTEXTE: Reportage dans un atelier d'initiation au numérique pour personnes âgées.
+DOC: H: Déclarer ses impôts, prendre rendez-vous chez le médecin, consulter son compte bancaire : tout ou presque se fait désormais en ligne. Pour une partie des seniors, c'est un véritable casse-tête. Dans cet atelier, Yvette, quatre-vingt-deux ans, apprend à utiliser une tablette. / F: Mes enfants m'aident, mais ils habitent loin et je n'ose pas toujours les déranger. Le pire, c'est quand on me dit au téléphone : « Allez sur le site. » Comme si c'était évident ! Ici, au moins, on prend le temps de m'expliquer, et je n'ai pas honte de poser dix fois la même question. / H: Selon l'animatrice, le principal obstacle n'est pas technique mais psychologique : la peur de faire une erreur irréparable, de se faire arnaquer. Elle plaide pour que les services publics maintiennent toujours un accueil physique. Car l'autonomie numérique ne s'acquiert pas en une séance.
+Q: Qu'est-ce qu'Yvette trouve le plus difficile ? | implicite
++ Qu'on suppose que tout le monde sait utiliser Internet. | « Le pire, c'est quand on me dit… Allez sur le site. Comme si c'était évident ! »
+- Le prix des tablettes. | Le prix n'est pas évoqué.
+- L'absence de ses enfants. | Elle le mentionne, mais « le pire » est autre chose.
+- La lecture des petits caractères. | Ce n'est pas dit.
+EXP: « Comme si c'était évident ! » exprime l'agacement face à une supposition injustifiée. « Le pire, c'est… » désigne la principale difficulté.
+Q: Selon l'animatrice, quel est le principal obstacle ? | information détaillée
++ La peur de se tromper ou d'être victime d'une escroquerie. | « Le principal obstacle n'est pas technique mais psychologique : la peur de faire une erreur irréparable, de se faire arnaquer. »
+- Le manque de connexion Internet. | Ce n'est pas mentionné.
+- La complexité des appareils. | L'obstacle n'est « pas technique ».
+- Le refus d'apprendre. | Les seniors présents apprennent volontiers.
+EXP: « Pas… mais… » oppose l'explication écartée et l'explication retenue.
+Q: Que demande l'animatrice aux services publics ? | point de vue
++ De conserver un accueil en personne. | « Elle plaide pour que les services publics maintiennent toujours un accueil physique. »
+- De supprimer les sites Internet. | Ce n'est pas sa demande.
+- De distribuer des tablettes gratuites. | Ce n'est pas mentionné.
+- De former les enfants des seniors. | Ce n'est pas évoqué.
+EXP: « Plaider pour » signifie défendre une cause. La justification suit avec « Car ».
+VOCAB: un casse-tête = un problème difficile à résoudre = Organiser ce voyage est un vrai casse-tête. ; arnaquer = escroquer, tromper pour voler de l'argent = Il s'est fait arnaquer sur Internet. ; un accueil physique = un guichet avec une personne = La mairie maintient un accueil physique. ; l'autonomie = la capacité à agir seul = Ce cours vise l'autonomie des apprenants.
+EXPR: tout ou presque = presque tout = Tout ou presque est numérique. ; plaider pour = défendre une idée, un projet = Elle plaide pour plus de transports publics. ; ne pas oser = ne pas avoir le courage de = Je n'ose pas lui demander.
+
+## CO-TEC-04 | débat radiophonique | F:fr-FR, H:fr-FR
+TITRE: La reconnaissance faciale dans l'espace public
+CONTEXTE: Débat entre une élue favorable à l'expérimentation et un représentant d'une association de défense des libertés.
+DOC: F: Lors des grands événements, la reconnaissance faciale permettrait de repérer en quelques secondes une personne recherchée dans une foule. C'est un outil de sécurité efficace, encadré, et limité dans le temps. / H: « Limité dans le temps » : c'est ce qu'on dit toujours. L'expérience montre qu'une technologie de surveillance installée pour un événement ne disparaît jamais. Elle s'étend progressivement à d'autres usages. Et puis, ces systèmes se trompent, en particulier sur les personnes à la peau foncée. Un faux positif, ce n'est pas une erreur informatique anodine : c'est quelqu'un d'innocent qu'on arrête. / F: Les algorithmes progressent très vite… / H: Admettons qu'ils deviennent parfaits. La question resterait entière : voulons-nous vivre dans une société où chacun peut être identifié à tout moment, sans le savoir ? Pour moi, c'est un choix de société, pas une question technique.
+Q: Quel argument l'élue avance-t-elle ? | argumentation
++ La technologie permet de retrouver rapidement des personnes recherchées. | « Permettrait de repérer en quelques secondes une personne recherchée dans une foule. »
+- La technologie coûte peu cher. | Le coût n'est pas évoqué.
+- La technologie remplace les policiers. | Ce n'est pas dit.
+- La technologie est déjà utilisée partout. | Elle parle d'une expérimentation.
+EXP: Le conditionnel « permettrait » présente un bénéfice potentiel. Les adjectifs « encadré » et « limité » anticipent les critiques.
+Q: Pourquoi le représentant associatif se méfie-t-il de la promesse « limité dans le temps » ? | implicite
++ Parce que les dispositifs de surveillance ont tendance à devenir permanents. | « Une technologie de surveillance installée pour un événement ne disparaît jamais. Elle s'étend progressivement. »
+- Parce que les événements durent trop longtemps. | Ce n'est pas l'argument.
+- Parce que l'élue a menti par le passé. | Il ne l'accuse pas personnellement.
+- Parce que la loi interdit les expérimentations. | Ce n'est pas mentionné.
+EXP: En reprenant les mots de l'élue entre guillemets, il exprime son scepticisme. « C'est ce qu'on dit toujours » suggère une promesse souvent non tenue.
+Q: Que signifie la dernière réplique du représentant ? | synthèse
++ Même parfaite, la technologie pose une question politique sur la société souhaitée. | « Admettons qu'ils deviennent parfaits. La question resterait entière… c'est un choix de société, pas une question technique. »
+- Il accepterait la technologie si elle était fiable. | Il dit que la question resterait entière.
+- Il pense que les algorithmes ne progresseront jamais. | Il fait l'hypothèse inverse.
+- Il veut confier la décision aux ingénieurs. | Il insiste sur le caractère non technique du choix.
+EXP: « Admettons que » introduit une hypothèse concédée pour mieux montrer qu'elle ne change rien à l'argument principal.
+VOCAB: la reconnaissance faciale = l'identification d'une personne par son visage = Ce téléphone se déverrouille par reconnaissance faciale. ; un faux positif = un résultat qui signale à tort quelque chose = Le test a donné un faux positif. ; un algorithme = une suite d'instructions qu'exécute un programme = L'algorithme sélectionne les vidéos. ; une foule = un grand nombre de personnes rassemblées = Une foule immense attendait le chanteur.
+EXPR: admettons que = supposons que = Admettons que tu aies raison. ; la question reste entière = le problème n'est pas résolu = Malgré la réunion, la question reste entière. ; un choix de société = une décision qui engage les valeurs collectives = La gratuité des transports est un choix de société.
+
+## CO-TEC-05 | journal radio | F:fr-FR
+TITRE: Les trottinettes électriques en libre-service interdites
+DOC: F: C'est officiel : les trottinettes électriques en libre-service disparaîtront des rues de la capitale le premier septembre. Lors d'une consultation organisée par la mairie, près de quatre-vingt-dix pour cent des votants se sont prononcés contre leur maintien. Un résultat à relativiser toutefois : à peine huit pour cent des électeurs inscrits se sont déplacés. Les opposants dénonçaient les engins abandonnés sur les trottoirs et les accidents impliquant des piétons. Les opérateurs, eux, regrettent une décision qui pénalise les usagers réguliers, souvent des jeunes actifs, et rappellent qu'ils avaient réduit la vitesse maximale et instauré des zones de stationnement obligatoires. Les trottinettes personnelles, en revanche, restent autorisées.
+Q: Quelle décision a été prise ? | compréhension globale
++ La suppression des trottinettes électriques en location partagée. | « Les trottinettes électriques en libre-service disparaîtront des rues de la capitale. »
+- L'interdiction de toutes les trottinettes. | Les trottinettes personnelles restent autorisées.
+- La réduction de la vitesse des trottinettes. | C'est une mesure déjà prise par les opérateurs.
+- La création de zones de stationnement. | Ce sont les opérateurs qui les avaient instaurées.
+EXP: Distinguez les trottinettes « en libre-service » et les trottinettes « personnelles ». Le « en revanche » final souligne cette différence.
+Q: Pourquoi le résultat de la consultation est-il « à relativiser » ? | argumentation
++ Parce que très peu d'électeurs ont participé. | « À peine huit pour cent des électeurs inscrits se sont déplacés. »
+- Parce que le vote a été annulé. | Ce n'est pas dit.
+- Parce que les opérateurs ont contesté le vote. | Ils regrettent la décision, sans contester le vote.
+- Parce que le résultat était très serré. | Quatre-vingt-dix pour cent n'est pas un résultat serré.
+EXP: « Relativiser » signifie réduire l'importance de quelque chose. Le faible taux de participation limite la représentativité du vote.
+Q: Quel argument les opérateurs avancent-ils ? | point de vue
++ Ils avaient déjà pris des mesures pour répondre aux problèmes. | Ils « rappellent qu'ils avaient réduit la vitesse maximale et instauré des zones de stationnement obligatoires ».
+- Ils reconnaissent que les trottinettes sont dangereuses. | Ils regrettent la décision.
+- Ils vont proposer des vélos à la place. | Ce n'est pas mentionné.
+- Ils vont porter plainte contre la mairie. | Ce n'est pas dit.
+EXP: Le plus-que-parfait (« avaient réduit ») indique des actions antérieures à la décision, présentées comme preuves de bonne volonté.
+VOCAB: en libre-service = disponible en location sans personnel = Des vélos en libre-service sont disponibles partout. ; un engin = un appareil, un véhicule = Ces engins encombrent les trottoirs. ; instaurer = établir, mettre en place = La ville a instauré une zone piétonne. ; un opérateur = une entreprise qui gère un service = Plusieurs opérateurs proposent des trottinettes.
+EXPR: à relativiser = dont l'importance doit être nuancée = Ce succès est à relativiser. ; se prononcer contre = voter ou donner un avis défavorable = Les habitants se sont prononcés contre le projet. ; se déplacer = (ici) aller voter = Peu d'électeurs se sont déplacés.
+
+## CO-TEC-06 | interview | H:fr-FR, F:fr-CA
+TITRE: Les enfants et les réseaux sociaux
+CONTEXTE: Un journaliste interroge une psychologue spécialiste de l'enfance.
+DOC: H: Faut-il interdire les réseaux sociaux aux moins de quinze ans ? / F: L'interdiction a une valeur symbolique : elle dit aux parents que ce n'est pas anodin. Mais dans les faits, elle est très facile à contourner. Il suffit de mentir sur son âge. Je crois davantage à l'accompagnement. Un enfant qui découvre les réseaux seul, sans en parler à personne, est beaucoup plus vulnérable qu'un enfant avec qui on discute régulièrement de ce qu'il voit. / H: Quels sont les risques principaux ? / F: Le harcèlement, évidemment, qui ne s'arrête plus à la porte de l'école. Mais aussi un risque plus discret : la comparaison permanente. Les adolescents voient défiler des vies parfaites, des corps retouchés, et finissent par trouver la leur décevante. Ce qui m'inquiète, c'est moins le temps passé devant l'écran que ce qu'on y regarde et ce que cela fait ressentir.
+Q: Que pense la psychologue de l'interdiction des réseaux sociaux aux moins de quinze ans ? | point de vue
++ Elle a un intérêt symbolique mais une efficacité limitée. | « L'interdiction a une valeur symbolique… Mais dans les faits, elle est très facile à contourner. »
+- Elle est la meilleure solution. | Elle croit « davantage à l'accompagnement ».
+- Elle est totalement inutile. | Elle lui reconnaît une valeur symbolique.
+- Elle devrait concerner les moins de dix-huit ans. | Ce n'est pas proposé.
+EXP: La concession « a une valeur symbolique… Mais dans les faits » distingue la portée du message et son application réelle.
+Q: Quel risque « plus discret » mentionne-t-elle ? | information détaillée
++ La tendance à se comparer à des images idéalisées. | « La comparaison permanente… des vies parfaites, des corps retouchés. »
+- La perte de données personnelles. | Ce n'est pas évoqué.
+- Le manque de sommeil. | Ce n'est pas mentionné.
+- La dépense d'argent en ligne. | Ce n'est pas dit.
+EXP: « Mais aussi un risque plus discret » oppose le harcèlement, visible, à un danger moins apparent.
+Q: Qu'est-ce qui inquiète le plus la psychologue ? | implicite
++ Les contenus consultés et leurs effets émotionnels. | « Ce qui m'inquiète, c'est moins le temps passé devant l'écran que ce qu'on y regarde et ce que cela fait ressentir. »
+- La durée passée devant l'écran. | C'est ce qu'elle relativise (« moins… que »).
+- Le prix des téléphones. | Ce n'est pas évoqué.
+- L'utilisation des réseaux à l'école. | Ce n'est pas mentionné.
+EXP: La structure « moins… que… » hiérarchise les inquiétudes : la seconde partie est la plus importante.
+VOCAB: vulnérable = qui peut facilement être blessé ou attaqué = Les enfants sont plus vulnérables. ; retouché = modifié, corrigé (une image) = Cette photo a été retouchée. ; défiler = passer successivement = Les images défilent sur l'écran. ; le harcèlement = des attaques répétées contre une personne = Il a été victime de harcèlement scolaire.
+EXPR: dans les faits = en réalité, en pratique = Dans les faits, la règle n'est pas appliquée. ; ne pas s'arrêter à la porte de = continuer au-delà de = Les problèmes ne s'arrêtent pas à la porte du bureau. ; il suffit de = il est seulement nécessaire de = Il suffit de cliquer ici.
+
+## CO-TEC-07 | chronique radio | F:fr-FR
+TITRE: L'empreinte écologique du numérique
+DOC: F: On l'imagine souvent immatériel, propre, presque virtuel. Pourtant, le numérique pèse lourd sur l'environnement : environ quatre pour cent des émissions mondiales de gaz à effet de serre, davantage que le transport aérien. Et contrairement à une idée répandue, ce ne sont pas nos courriels qui posent le plus problème. L'essentiel de l'impact vient de la fabrication des appareils : extraire les métaux rares, assembler les composants, transporter le tout à travers le monde. Un smartphone a déjà produit l'essentiel de son empreinte avant même d'être allumé. Le geste le plus efficace n'est donc pas de supprimer ses vieux messages, mais de garder ses appareils plus longtemps. Passer de deux à quatre ans d'utilisation divise pratiquement par deux leur impact annuel.
+Q: Quelle idée reçue la chroniqueuse veut-elle corriger ? | compréhension globale
++ Que le numérique n'a presque pas d'impact environnemental. | « On l'imagine souvent immatériel, propre… Pourtant, le numérique pèse lourd sur l'environnement. »
+- Que les avions polluent plus que le numérique. | Elle dit que le numérique pollue davantage.
+- Que les smartphones durent très longtemps. | Ce n'est pas l'idée corrigée.
+- Que les métaux rares sont faciles à extraire. | Ce n'est pas dit.
+EXP: « Pourtant » introduit la correction de l'image initiale d'un numérique « immatériel ».
+Q: D'où vient l'essentiel de l'impact du numérique ? | information détaillée
++ De la fabrication des appareils. | « L'essentiel de l'impact vient de la fabrication des appareils. »
+- De l'envoi de courriels. | Elle dit que « ce ne sont pas nos courriels qui posent le plus problème ».
+- De l'utilisation quotidienne des téléphones. | C'est la fabrication qui pèse le plus.
+- Du transport aérien. | Il sert de comparaison.
+EXP: La phrase « Un smartphone a déjà produit l'essentiel de son empreinte avant même d'être allumé » confirme l'idée.
+Q: Quel geste la chroniqueuse recommande-t-elle ? | synthèse
++ Allonger la durée d'utilisation de ses appareils. | « Le geste le plus efficace… de garder ses appareils plus longtemps. »
+- Supprimer régulièrement ses anciens courriels. | Elle dit que ce n'est pas le plus efficace.
+- Éteindre son téléphone la nuit. | Ce n'est pas mentionné.
+- Acheter des appareils neufs plus économes. | Cela contredirait son raisonnement sur la fabrication.
+EXP: La recommandation découle logiquement de l'analyse : si la fabrication pèse le plus, il faut fabriquer moins souvent.
+VOCAB: immatériel = qui n'a pas de réalité physique = Le numérique semble immatériel. ; les gaz à effet de serre = les gaz qui contribuent au réchauffement climatique = Le CO2 est un gaz à effet de serre. ; un composant = un élément qui entre dans la fabrication d'un appareil = Les composants viennent d'Asie. ; une empreinte = (écologique) l'impact sur l'environnement = Réduisez votre empreinte carbone.
+EXPR: peser lourd = avoir une grande importance, un fort impact = Le logement pèse lourd dans le budget. ; contrairement à une idée répandue = à l'inverse de ce que beaucoup croient = Contrairement à une idée répandue, les chats aiment l'eau. ; diviser par deux = réduire de moitié = Il a divisé par deux sa consommation.
+
+## CO-TEC-08 | témoignage | H:fr-FR
+TITRE: Une semaine sans smartphone
+DOC: H: Pour un reportage, j'ai accepté de laisser mon smartphone au tiroir pendant une semaine. Je pensais que ce serait une simple contrainte pratique. En réalité, les deux premiers jours ont été franchement désagréables. Je mettais la main dans ma poche toutes les cinq minutes, par réflexe. Dans le métro, je ne savais pas où poser mon regard. Et puis, petit à petit, quelque chose a changé. J'ai recommencé à lire des livres en entier, ce qui ne m'était pas arrivé depuis des mois. J'ai remarqué des détails dans ma rue que je n'avais jamais vus. Cela dit, je n'ai pas vécu une révélation mystique. Certaines choses étaient vraiment compliquées : trouver une adresse, payer un parking, prévenir que j'étais en retard. Depuis, j'ai repris mon téléphone, mais je l'ai éloigné de ma chambre et j'ai supprimé les notifications. Ce n'est pas spectaculaire, mais ça change mes soirées.
+Q: Comment se sont passés les premiers jours ? | information détaillée
++ Ils ont été pénibles en raison d'habitudes automatiques. | « Franchement désagréables. Je mettais la main dans ma poche toutes les cinq minutes, par réflexe. »
+- Ils ont été très agréables. | Il dit le contraire.
+- Il n'a ressenti aucune différence. | Il décrit un vrai malaise.
+- Il a abandonné l'expérience. | Il l'a poursuivie toute la semaine.
+EXP: « Par réflexe » indique un geste automatique, signe de dépendance. L'adverbe « franchement » renforce le jugement.
+Q: Quels effets positifs le témoin a-t-il constatés ? | information détaillée
++ Il a retrouvé le goût de la lecture et une attention à son environnement. | « J'ai recommencé à lire des livres en entier… J'ai remarqué des détails dans ma rue. »
+- Il a mieux dormi. | Le sommeil n'est pas évoqué.
+- Il a économisé beaucoup d'argent. | Ce n'est pas dit.
+- Il a gagné du temps au travail. | Ce n'est pas mentionné.
+EXP: « Et puis, petit à petit » marque l'évolution progressive vers des effets positifs.
+Q: Quel bilan tire-t-il de l'expérience ? | synthèse
++ Un changement modeste mais réel de ses habitudes. | Il a supprimé les notifications et éloigné le téléphone : « Ce n'est pas spectaculaire, mais ça change mes soirées. »
+- Il a définitivement renoncé au smartphone. | Il l'a repris.
+- Il considère que l'expérience était inutile. | Il en a tiré des changements.
+- Il a vécu une transformation spirituelle. | Il dit ne pas avoir vécu « une révélation mystique ».
+EXP: Le témoin évite les deux extrêmes : ni rejet total ni transformation radicale. « Pas spectaculaire, mais… » résume ce bilan nuancé.
+VOCAB: un réflexe = une réaction automatique = Par réflexe, il a fermé les yeux. ; une notification = un message d'alerte sur un appareil = Il reçoit des centaines de notifications par jour. ; mystique = qui relève d'une expérience spirituelle intense = Il a vécu une expérience mystique. ; spectaculaire = impressionnant, remarquable = Les progrès sont spectaculaires.
+EXPR: petit à petit = progressivement = Petit à petit, il a repris confiance. ; ne pas savoir où poser son regard = être mal à l'aise, sans occupation = Gêné, il ne savait pas où poser son regard. ; ça change = cela fait une différence = Avoir un jardin, ça change la vie.
+
+## CO-TEC-09 | conférence | H:fr-FR
+TITRE: Comment fonctionnent les assistants conversationnels ?
+CONTEXTE: Extrait d'une conférence de vulgarisation d'un chercheur en informatique.
+DOC: H: Quand vous posez une question à un assistant conversationnel, vous avez l'impression qu'il comprend ce que vous dites. En réalité, il fait quelque chose de très différent. Il a été entraîné sur des quantités gigantesques de textes, et il a appris à prédire, mot après mot, la suite la plus probable d'une phrase. C'est ce qui explique à la fois ses forces et ses faiblesses. Il peut produire un texte fluide et convaincant sur presque n'importe quel sujet. Mais il peut aussi inventer, avec la même assurance, une référence qui n'existe pas ou une date fausse. Il ne ment pas : il ne sait tout simplement pas distinguer le vrai du plausible. D'où mon conseil : utilisez ces outils comme un brouillon intelligent, jamais comme une source. Vérifiez toujours ce qui compte.
+Q: Selon le chercheur, que fait réellement un assistant conversationnel ? | information détaillée
++ Il prédit la suite la plus probable d'un texte. | « Il a appris à prédire, mot après mot, la suite la plus probable d'une phrase. »
+- Il comprend le sens des questions comme un humain. | Il dit que c'est seulement une impression.
+- Il recherche les réponses dans une encyclopédie. | Ce n'est pas le fonctionnement décrit.
+- Il copie des textes existants sans les modifier. | Il produit des textes nouveaux.
+EXP: « En réalité » corrige l'impression de compréhension décrite juste avant.
+Q: Pourquoi l'assistant peut-il donner des informations fausses ? | argumentation
++ Parce qu'il ne distingue pas ce qui est vrai de ce qui est vraisemblable. | « Il ne sait tout simplement pas distinguer le vrai du plausible. »
+- Parce qu'il cherche à tromper l'utilisateur. | « Il ne ment pas. »
+- Parce qu'il a été mal programmé. | Ce n'est pas l'explication donnée.
+- Parce qu'il manque de textes d'entraînement. | Il a été entraîné sur des « quantités gigantesques ».
+EXP: La distinction entre « mentir » (intention) et « ne pas distinguer » (limite technique) est essentielle.
+Q: Quel conseil le chercheur donne-t-il ? | synthèse
++ S'en servir comme point de départ et vérifier les informations importantes. | « Utilisez ces outils comme un brouillon intelligent, jamais comme une source. Vérifiez toujours ce qui compte. »
+- Ne jamais utiliser ces outils. | Il conseille de les utiliser autrement.
+- Leur faire entièrement confiance. | Il conseille de vérifier.
+- Les utiliser uniquement pour les dates. | Les dates peuvent justement être fausses.
+EXP: « D'où mon conseil » introduit la conséquence pratique de l'explication. L'opposition « brouillon / source » résume le bon usage.
+VOCAB: entraîner = (informatique) faire apprendre un modèle à partir de données = Le modèle a été entraîné sur des millions d'images. ; plausible = qui semble vrai, vraisemblable = Son explication est plausible. ; un brouillon = une première version d'un texte = Écris d'abord un brouillon. ; une source = un document d'origine qui fournit une information = Citez vos sources.
+EXPR: avec la même assurance = avec la même confiance apparente = Il affirme des choses fausses avec la même assurance. ; d'où = c'est pourquoi = Il pleuvait, d'où mon retard. ; tout simplement = sans autre explication = Il a tout simplement oublié.

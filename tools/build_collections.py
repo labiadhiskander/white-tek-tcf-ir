@@ -74,7 +74,14 @@ def _split_list(value: str, sep: str = ";") -> list[str]:
 
 def _triples(value: str, keys: tuple[str, str, str]) -> list[dict]:
     out = []
+    parts: list[str] = []
     for part in _split_list(value):
+        # « ; » à l'intérieur d'un exemple : la suite ne contient pas de « = »
+        if parts and "=" not in part:
+            parts[-1] += " ; " + part
+        else:
+            parts.append(part)
+    for part in parts:
         bits = [b.strip() for b in part.split("=")]
         d = {keys[0]: bits[0], keys[1]: bits[1] if len(bits) > 1 else ""}
         if len(bits) > 2 and bits[2]:

@@ -306,6 +306,1037 @@
      "exemple": "Cette aide ne vous dispense pas de déclarer vos revenus."
     }
    ]
+  },
+  {
+   "code": "CO-ENV-03",
+   "level": "B2",
+   "doc_type": "interview",
+   "questions": [
+    {
+     "prompt": "Pourquoi l'agriculteur a-t-il abandonné une partie de sa culture de maïs ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Parce que ses voisins le lui ont conseillé.",
+       "correct": false,
+       "rationale": "Ses voisins l'ont au contraire « regardé de travers ».",
+       "label": "A"
+      },
+      {
+       "text": "Parce que le sol était devenu trop pauvre.",
+       "correct": false,
+       "rationale": "La qualité du sol n'est pas évoquée.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que le maïs ne se vendait plus.",
+       "correct": false,
+       "rationale": "Le prix n'est pas la raison invoquée.",
+       "label": "C"
+      },
+      {
+       "text": "Parce qu'il ne pouvait plus l'arroser au moment où elle en avait besoin.",
+       "correct": true,
+       "rationale": "Les arrêtés « interdisent de pomper en juillet », période où le maïs a besoin « d'énormément d'eau ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "La cause combine deux éléments : le besoin en eau du maïs en été et l'interdiction de pomper. Les distracteurs reprennent des éléments réels du document mais pour une autre fonction."
+    },
+    {
+     "prompt": "Que signifie « le calcul est vite fait » ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Le choix du sorgho s'impose malgré un prix plus bas.",
+       "correct": true,
+       "rationale": "Il compare « une récolte un peu moins rentable » et « pas de récolte du tout » : la décision est évidente.",
+       "label": "A"
+      },
+      {
+       "text": "Il a fait des calculs précis avec un comptable.",
+       "correct": false,
+       "rationale": "L'expression est figurée.",
+       "label": "B"
+      },
+      {
+       "text": "Il regrette d'avoir abandonné le maïs.",
+       "correct": false,
+       "rationale": "Il justifie au contraire sa décision.",
+       "label": "C"
+      },
+      {
+       "text": "Le sorgho rapporte davantage que le maïs.",
+       "correct": false,
+       "rationale": "Il dit que le sorgho « se vend moins cher ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'expression « le calcul est vite fait » signifie que la comparaison donne une réponse évidente. L'opposition « entre… et… » met en balance deux options."
+    },
+    {
+     "prompt": "Que reproche l'agriculteur aux pouvoirs publics ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "De ne pas prévoir les sécheresses.",
+       "correct": false,
+       "rationale": "Il ne critique pas les prévisions.",
+       "label": "A"
+      },
+      {
+       "text": "De favoriser les cultures de maïs.",
+       "correct": false,
+       "rationale": "Il ne dit rien de tel.",
+       "label": "B"
+      },
+      {
+       "text": "De demander des changements sans aider à les financer.",
+       "correct": true,
+       "rationale": "« On demande aux agriculteurs de s'adapter… mais changer de culture, ça coûte… et personne ne nous aide vraiment. »",
+       "label": "C"
+      },
+      {
+       "text": "D'interdire totalement l'irrigation.",
+       "correct": false,
+       "rationale": "L'interdiction ne concerne que le mois de juillet.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Ce qui me manque, c'est… » introduit la revendication. Le « très bien » ironique concède le principe de l'adaptation pour mieux critiquer l'absence de moyens."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Un agriculteur face à la sécheresse",
+   "context": "Une journaliste interroge un céréalier du sud-ouest de la France.",
+   "document": "F: Vous avez décidé cette année de ne plus cultiver de maïs sur une partie de vos terres. Pourquoi ? / H: Le maïs a besoin d'énormément d'eau en plein été, justement au moment où les rivières sont au plus bas. Pendant des années, on a irrigué sans trop se poser de questions. Mais depuis trois étés, les arrêtés préfectoraux interdisent de pomper en juillet. Je me retrouvais avec des champs qui séchaient sur pied. / F: Par quoi l'avez-vous remplacé ? / H: Par du sorgho, une céréale qui supporte bien mieux la chaleur. Je ne vais pas vous mentir : il se vend moins cher et mes voisins m'ont regardé de travers au début. Mais entre une récolte un peu moins rentable et pas de récolte du tout, le calcul est vite fait. Ce qui me manque, c'est un accompagnement : on demande aux agriculteurs de s'adapter, très bien, mais changer de culture, ça coûte en machines, en formation, et personne ne nous aide vraiment.",
+   "vocabulary": [
+    {
+     "terme": "irriguer",
+     "definition": "arroser des cultures par un système artificiel",
+     "exemple": "Les agriculteurs irriguent leurs champs l'été."
+    },
+    {
+     "terme": "un arrêté préfectoral",
+     "definition": "une décision administrative prise par le préfet",
+     "exemple": "Un arrêté préfectoral limite l'usage de l'eau."
+    },
+    {
+     "terme": "sécher sur pied",
+     "definition": "se dessécher avant d'être récolté",
+     "exemple": "Faute de pluie, le blé a séché sur pied."
+    },
+    {
+     "terme": "rentable",
+     "definition": "qui rapporte de l'argent",
+     "exemple": "Cette activité n'est plus rentable."
+    },
+    {
+     "terme": "un accompagnement",
+     "definition": "une aide, un soutien sur la durée",
+     "exemple": "Les chômeurs bénéficient d'un accompagnement personnalisé."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "regarder quelqu'un de travers",
+     "sens": "le regarder avec méfiance ou désapprobation",
+     "exemple": "Quand il est arrivé en jean, on l'a regardé de travers."
+    },
+    {
+     "expression": "le calcul est vite fait",
+     "sens": "la décision est évidente",
+     "exemple": "Le train coûte moins cher et va plus vite : le calcul est vite fait."
+    },
+    {
+     "expression": "je ne vais pas vous mentir",
+     "sens": "pour être franc",
+     "exemple": "Je ne vais pas vous mentir, le début sera difficile."
+    }
+   ]
+  },
+  {
+   "code": "CO-ENV-04",
+   "level": "B2",
+   "doc_type": "conférence",
+   "questions": [
+    {
+     "prompt": "Quelle est l'idée principale de la conférencière ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Le recyclage est utile mais doit passer après la réduction et la réutilisation des déchets.",
+       "correct": true,
+       "rationale": "Elle présente la « hiérarchie des déchets » où le recyclage vient « en dernier recours ».",
+       "label": "A"
+      },
+      {
+       "text": "Le plastique peut être recyclé à l'infini.",
+       "correct": false,
+       "rationale": "Il ne peut l'être « qu'une ou deux fois ».",
+       "label": "B"
+      },
+      {
+       "text": "Les centres de tri sont la meilleure solution.",
+       "correct": false,
+       "rationale": "Elle critique le fait d'y avoir trop investi.",
+       "label": "C"
+      },
+      {
+       "text": "Il faut cesser de trier ses déchets.",
+       "correct": false,
+       "rationale": "Elle dit explicitement « Trier, c'est bien ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "La concession « Trier, c'est bien… Mais… » structure tout l'exposé. L'idée principale est résumée par la hiérarchie et la formule finale."
+    },
+    {
+     "prompt": "Que signifie « Le recyclage retarde le problème plus qu'il ne le résout » ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les matières recyclées finissent tout de même par devenir des déchets.",
+       "correct": true,
+       "rationale": "Les produits de moindre qualité « finiront, eux, en décharge ».",
+       "label": "A"
+      },
+      {
+       "text": "Le recyclage prend trop de temps.",
+       "correct": false,
+       "rationale": "Il s'agit d'un décalage dans le temps du problème, pas de lenteur.",
+       "label": "B"
+      },
+      {
+       "text": "Le recyclage ne fonctionne pas du tout.",
+       "correct": false,
+       "rationale": "Il fonctionne, mais une ou deux fois seulement.",
+       "label": "C"
+      },
+      {
+       "text": "Le recyclage coûte plus cher que la mise en décharge.",
+       "correct": false,
+       "rationale": "Le coût n'est pas abordé.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La comparaison « plus que… ne » oppose deux effets : retarder et résoudre. La conférencière dit que le premier l'emporte sur le second."
+    },
+    {
+     "prompt": "Que reproche-t-elle aux politiques publiques ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "D'avoir privilégié le tri au détriment de solutions qui évitent les déchets.",
+       "correct": true,
+       "rationale": "« En investissant massivement dans les centres de tri plutôt que dans la consigne ou la vente en vrac. »",
+       "label": "A"
+      },
+      {
+       "text": "D'avoir interdit la vente en vrac.",
+       "correct": false,
+       "rationale": "Rien n'indique une interdiction.",
+       "label": "B"
+      },
+      {
+       "text": "D'avoir supprimé la consigne.",
+       "correct": false,
+       "rationale": "Elle regrette un manque d'investissement, pas une suppression.",
+       "label": "C"
+      },
+      {
+       "text": "De ne pas avoir construit assez de centres de tri.",
+       "correct": false,
+       "rationale": "C'est l'inverse : trop d'investissement dans le tri.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le connecteur « Or » introduit un fait qui contredit la logique exposée juste avant. « Plutôt que » marque le choix fait au détriment d'une autre option."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "title": "Pourquoi le recyclage ne suffit pas",
+   "context": "Extrait d'une conférence grand public d'une chercheuse en économie circulaire.",
+   "document": "F: On nous a longtemps présenté le recyclage comme la réponse à nos déchets. Trier, c'est bien, et je ne veux décourager personne. Mais il faut avoir conscience de ses limites. Prenons le plastique : la plupart des emballages ne peuvent être recyclés qu'une ou deux fois, et chaque cycle dégrade la matière. On fabrique alors des produits de moindre qualité, qui finiront, eux, en décharge. Le recyclage retarde le problème plus qu'il ne le résout. C'est pourquoi les spécialistes parlent de hiérarchie des déchets : d'abord réduire, ensuite réutiliser, et seulement en dernier recours recycler. Or nos politiques publiques ont longtemps fait l'inverse, en investissant massivement dans les centres de tri plutôt que dans la consigne ou la vente en vrac. Le meilleur déchet, au fond, reste celui qu'on ne produit pas.",
+   "vocabulary": [
+    {
+     "terme": "dégrader",
+     "definition": "abîmer, faire perdre de la qualité",
+     "exemple": "La chaleur dégrade les médicaments."
+    },
+    {
+     "terme": "une décharge",
+     "definition": "un lieu où l'on dépose les déchets",
+     "exemple": "Les déchets non recyclables partent en décharge."
+    },
+    {
+     "terme": "la consigne",
+     "definition": "un système où l'on rend un emballage contre un remboursement",
+     "exemple": "Les bouteilles en verre étaient autrefois consignées."
+    },
+    {
+     "terme": "la vente en vrac",
+     "definition": "la vente de produits sans emballage",
+     "exemple": "Ce magasin propose des pâtes en vrac."
+    },
+    {
+     "terme": "en dernier recours",
+     "definition": "quand il n'y a plus d'autre solution",
+     "exemple": "On n'opère qu'en dernier recours."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "avoir conscience de",
+     "sens": "savoir, être conscient de",
+     "exemple": "Il faut avoir conscience des risques."
+    },
+    {
+     "expression": "plus qu'il ne…",
+     "sens": "davantage que (avec ne explétif)",
+     "exemple": "Il parle plus qu'il n'agit."
+    },
+    {
+     "expression": "au fond",
+     "sens": "finalement, en réalité",
+     "exemple": "Au fond, la solution est simple."
+    }
+   ]
+  },
+  {
+   "code": "CO-ENV-05",
+   "level": "B2",
+   "doc_type": "reportage",
+   "questions": [
+    {
+     "prompt": "Quel choix la maire a-t-elle fait ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Construire une digue plus haute.",
+       "correct": false,
+       "rationale": "Elle a refusé la digue.",
+       "label": "A"
+      },
+      {
+       "text": "Évacuer tout le village immédiatement.",
+       "correct": false,
+       "rationale": "Le déplacement est « progressif » et partiel.",
+       "label": "B"
+      },
+      {
+       "text": "Relocaliser une partie du village plutôt que de construire une digue.",
+       "correct": true,
+       "rationale": "« Plutôt que de construire une nouvelle digue, elle a décidé de déplacer progressivement une partie du village. »",
+       "label": "C"
+      },
+      {
+       "text": "Renforcer la falaise avec du béton.",
+       "correct": false,
+       "rationale": "Cette solution n'est pas évoquée.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Plutôt que de… » oppose l'option écartée et l'option retenue. Le reporter qualifie ce choix d'« inhabituel », ce qui souligne son originalité."
+    },
+    {
+     "prompt": "Quel argument la maire avance-t-elle contre la digue ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Elle abîmerait le paysage.",
+       "correct": false,
+       "rationale": "L'esthétique n'est pas évoquée.",
+       "label": "A"
+      },
+      {
+       "text": "Les habitants n'en voulaient pas.",
+       "correct": false,
+       "rationale": "Ce sont plutôt les habitants qui contestent le déplacement.",
+       "label": "B"
+      },
+      {
+       "text": "L'État avait refusé de la financer.",
+       "correct": false,
+       "rationale": "L'État n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Elle ne serait qu'une solution coûteuse et provisoire.",
+       "correct": true,
+       "rationale": "« Des millions, et pour combien de temps ? Dix ans, quinze ans ? Ensuite, il aurait fallu la rehausser. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les questions rhétoriques (« pour combien de temps ? ») servent à argumenter. La répétition « la rehausser, puis la rehausser encore » insiste sur le caractère sans fin de cette solution."
+    },
+    {
+     "prompt": "Quelle attitude la maire adopte-t-elle face aux opposants ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Elle refuse de leur parler.",
+       "correct": false,
+       "rationale": "Rien ne l'indique.",
+       "label": "A"
+      },
+      {
+       "text": "Elle les accuse d'égoïsme.",
+       "correct": false,
+       "rationale": "Elle exprime au contraire de l'empathie.",
+       "label": "B"
+      },
+      {
+       "text": "Elle reconnaît leur souffrance tout en maintenant sa décision.",
+       "correct": true,
+       "rationale": "« Quitter sa maison est un déchirement… Mais je préfère qu'on organise ce départ maintenant. »",
+       "label": "C"
+      },
+      {
+       "text": "Elle renonce à son projet.",
+       "correct": false,
+       "rationale": "Elle maintient sa décision.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La maire fait une concession empathique (« Je ne prétends pas que ce soit facile ») puis réaffirme sa position avec « Mais je préfère… plutôt que… »."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "Une commune littorale face à la montée des eaux",
+   "context": "Reportage dans un village côtier menacé par l'érosion.",
+   "document": "H: À Saint-Aubin, la falaise recule de près d'un mètre par an. Plusieurs maisons ont déjà été évacuées. La maire, Claire Dumas, a fait un choix inhabituel : plutôt que de construire une nouvelle digue, elle a décidé de déplacer progressivement une partie du village vers l'intérieur des terres. / F: Une digue nous aurait coûté des millions, et pour combien de temps ? Dix ans, quinze ans ? Ensuite, il aurait fallu la rehausser, puis la rehausser encore. On ne peut pas lutter éternellement contre la mer. Ce que nous faisons, c'est anticiper plutôt que subir. / H: Une décision qui ne fait pas l'unanimité. / F: Évidemment. Pour les familles qui vivent ici depuis des générations, quitter sa maison est un déchirement. Je ne prétends pas que ce soit facile. Mais je préfère qu'on organise ce départ maintenant, dans de bonnes conditions, plutôt que d'attendre la tempête qui nous l'imposera.",
+   "vocabulary": [
+    {
+     "terme": "une falaise",
+     "definition": "une côte rocheuse haute et abrupte",
+     "exemple": "La maison est construite au bord de la falaise."
+    },
+    {
+     "terme": "une digue",
+     "definition": "un mur construit pour retenir l'eau",
+     "exemple": "La digue protège le port des tempêtes."
+    },
+    {
+     "terme": "rehausser",
+     "definition": "rendre plus haut",
+     "exemple": "Il faudra rehausser le mur."
+    },
+    {
+     "terme": "l'érosion",
+     "definition": "l'usure progressive du sol par l'eau ou le vent",
+     "exemple": "L'érosion menace les plages."
+    },
+    {
+     "terme": "un déchirement",
+     "definition": "une grande souffrance morale liée à une séparation",
+     "exemple": "Partir a été un déchirement."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "faire l'unanimité",
+     "sens": "être approuvé par tout le monde",
+     "exemple": "Ce candidat ne fait pas l'unanimité."
+    },
+    {
+     "expression": "anticiper plutôt que subir",
+     "sens": "agir à l'avance au lieu de supporter les conséquences",
+     "exemple": "Face à la crise, mieux vaut anticiper plutôt que subir."
+    },
+    {
+     "expression": "je ne prétends pas que",
+     "sens": "je n'affirme pas que",
+     "exemple": "Je ne prétends pas avoir raison sur tout."
+    }
+   ]
+  },
+  {
+   "code": "CO-ENV-06",
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "questions": [
+    {
+     "prompt": "Selon le chroniqueur, pourquoi le mot « sobriété » suscite-t-il la méfiance ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Il est trop technique pour le grand public.",
+       "correct": false,
+       "rationale": "Rien n'est dit sur la difficulté du mot.",
+       "label": "A"
+      },
+      {
+       "text": "On l'associe à tort à une forme de privation.",
+       "correct": true,
+       "rationale": "« Comme s'il annonçait un retour à la bougie. C'est un malentendu. »",
+       "label": "B"
+      },
+      {
+       "text": "Il est utilisé uniquement par les écologistes.",
+       "correct": false,
+       "rationale": "Il « revient dans tous les discours ».",
+       "label": "C"
+      },
+      {
+       "text": "Il désigne une hausse des prix de l'énergie.",
+       "correct": false,
+       "rationale": "Ce n'est pas la définition donnée.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Comme si » introduit une interprétation que le chroniqueur juge fausse (« un malentendu »). La définition correcte suit avec « ne consiste pas à… mais à… »."
+    },
+    {
+     "prompt": "Que critique le chroniqueur ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les organismes publics qui mesurent la consommation.",
+       "correct": false,
+       "rationale": "Il s'appuie sur leurs chiffres.",
+       "label": "A"
+      },
+      {
+       "text": "Le fait de faire porter l'effort surtout sur les particuliers.",
+       "correct": true,
+       "rationale": "« On a longtemps confié cet effort aux seuls particuliers… Or les plus gros gisements d'économies se trouvent dans les bâtiments publics, les entreprises. »",
+       "label": "B"
+      },
+      {
+       "text": "L'éclairage des vitrines pendant la journée.",
+       "correct": false,
+       "rationale": "Il parle de les éteindre la nuit.",
+       "label": "C"
+      },
+      {
+       "text": "Le chauffage des bureaux à dix-neuf degrés.",
+       "correct": false,
+       "rationale": "C'est un geste qu'il recommande.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Le problème, c'est que… » puis « Or… » marquent la critique. L'adjectif « culpabilisantes » montre aussi son désaccord avec la méthode employée."
+    },
+    {
+     "prompt": "Que veut montrer l'exemple des tours de bureaux illuminées ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Qu'on ne peut pas demander des efforts aux ménages si les grands consommateurs n'en font pas.",
+       "correct": true,
+       "rationale": "« Voilà qui ne risque pas de convaincre » : l'exemple souligne l'incohérence.",
+       "label": "A"
+      },
+      {
+       "text": "Que les entreprises respectent déjà les règles.",
+       "correct": false,
+       "rationale": "L'exemple montre le contraire.",
+       "label": "B"
+      },
+      {
+       "text": "Que les ménages chauffent trop leurs logements.",
+       "correct": false,
+       "rationale": "L'exemple vise les bureaux, pas les ménages.",
+       "label": "C"
+      },
+      {
+       "text": "Que l'éclairage nocturne est indispensable à la sécurité.",
+       "correct": false,
+       "rationale": "La sécurité n'est pas évoquée.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La phrase finale oppose deux situations simultanées (« pendant que »). La formule « voilà qui ne risque pas de convaincre » exprime ironiquement que la démarche est incohérente."
+    }
+   ],
+   "speakers": [
+    "H:fr-CA"
+   ],
+   "title": "La sobriété énergétique, un mot qui dérange",
+   "document": "H: Sobriété : le mot revient dans tous les discours depuis la crise de l'énergie. Pourtant, il suscite souvent la méfiance, comme s'il annonçait un retour à la bougie. C'est un malentendu. La sobriété ne consiste pas à se priver, mais à éviter le gaspillage : éteindre les vitrines la nuit, chauffer un bureau vide à dix-neuf degrés plutôt qu'à vingt-trois, ne pas laisser tourner la climatisation fenêtres ouvertes. Selon plusieurs organismes publics, ces gestes simples pourraient réduire la consommation d'énergie d'un dixième sans perte réelle de confort. Le problème, c'est qu'on a longtemps confié cet effort aux seuls particuliers, à coups de campagnes culpabilisantes. Or les plus gros gisements d'économies se trouvent dans les bâtiments publics, les entreprises et l'éclairage urbain. Demander aux ménages de baisser leur chauffage pendant que des tours de bureaux restent illuminées toute la nuit, voilà qui ne risque pas de convaincre.",
+   "vocabulary": [
+    {
+     "terme": "la sobriété",
+     "definition": "la modération dans la consommation",
+     "exemple": "La sobriété énergétique consiste à éviter le gaspillage."
+    },
+    {
+     "terme": "le gaspillage",
+     "definition": "l'utilisation inutile, excessive d'une ressource",
+     "exemple": "Le gaspillage alimentaire est considérable."
+    },
+    {
+     "terme": "culpabilisant",
+     "definition": "qui donne un sentiment de faute",
+     "exemple": "Ce discours culpabilisant agace les parents."
+    },
+    {
+     "terme": "un gisement",
+     "definition": "(figuré) une réserve importante de quelque chose",
+     "exemple": "Le recyclage est un gisement d'emplois."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "à coups de",
+     "sens": "au moyen de nombreux…",
+     "exemple": "Il a convaincu à coups d'arguments chiffrés."
+    },
+    {
+     "expression": "voilà qui",
+     "sens": "c'est quelque chose qui",
+     "exemple": "Il a tout rangé : voilà qui me fait plaisir."
+    },
+    {
+     "expression": "ne pas risquer de",
+     "sens": "il est peu probable que",
+     "exemple": "Ce projet ne risque pas d'aboutir sans budget."
+    }
+   ]
+  },
+  {
+   "code": "CO-ENV-07",
+   "level": "B2",
+   "doc_type": "débat radiophonique",
+   "questions": [
+    {
+     "prompt": "Que conteste le représentant des pêcheurs ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "La façon dont le projet a été décidé et mené.",
+       "correct": true,
+       "rationale": "« Personne ne conteste l'objectif. Ce que nous contestons, c'est la méthode. »",
+       "label": "A"
+      },
+      {
+       "text": "L'existence même des éoliennes.",
+       "correct": false,
+       "rationale": "Sa critique porte sur la méthode et l'emplacement.",
+       "label": "B"
+      },
+      {
+       "text": "Le nombre d'habitants alimentés par le parc.",
+       "correct": false,
+       "rationale": "Il ne remet pas ce chiffre en question.",
+       "label": "C"
+      },
+      {
+       "text": "La nécessité de développer les énergies renouvelables.",
+       "correct": false,
+       "rationale": "Il dit que « personne ne conteste l'objectif ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "La mise en relief « Ce que nous contestons, c'est… » oppose clairement l'objectif accepté et la méthode refusée."
+    },
+    {
+     "prompt": "Que reproche-t-il aux réunions organisées ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Elles étaient réservées aux scientifiques.",
+       "correct": false,
+       "rationale": "Les professionnels de la mer y participaient.",
+       "label": "A"
+      },
+      {
+       "text": "Elles avaient lieu trop loin des ports.",
+       "correct": false,
+       "rationale": "Le lieu des réunions n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Elles servaient à annoncer des décisions déjà prises.",
+       "correct": true,
+       "rationale": "« Des réunions pour nous informer, pas pour nous écouter » ; consultés « une fois que l'emplacement était déjà choisi ».",
+       "label": "C"
+      },
+      {
+       "text": "Elles étaient trop peu nombreuses.",
+       "correct": false,
+       "rationale": "Il ne conteste pas le chiffre de quarante réunions.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La distinction « informer / écouter » est au cœur de la critique : une consultation véritable suppose qu'on puisse encore influencer la décision."
+    },
+    {
+     "prompt": "Que signifie la dernière réplique du pêcheur ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Il accepte finalement le projet.",
+       "correct": false,
+       "rationale": "Il maintient son objection.",
+       "label": "A"
+      },
+      {
+       "text": "Il est convaincu que les poissons reviendront.",
+       "correct": false,
+       "rationale": "« Peut-être » exprime un doute, pas une conviction.",
+       "label": "B"
+      },
+      {
+       "text": "Il va cesser définitivement de pêcher.",
+       "correct": false,
+       "rationale": "Il parle de la période des travaux (« en attendant »).",
+       "label": "C"
+      },
+      {
+       "text": "Les bénéfices éventuels à long terme ne compensent pas les pertes immédiates.",
+       "correct": true,
+       "rationale": "« Peut-être. Mais en attendant, ce sont nos bateaux qui restent à quai. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Peut-être » concède l'argument adverse sans l'accepter vraiment ; « en attendant » oppose le futur incertain au présent concret."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-BE"
+   ],
+   "title": "Les éoliennes en mer divisent les pêcheurs",
+   "context": "Débat entre une représentante d'une société d'énergie et un représentant des pêcheurs.",
+   "document": "F: Ce parc éolien produira l'équivalent de la consommation de huit cent mille habitants. C'est une contribution majeure à la transition énergétique. / H: Personne ne conteste l'objectif. Ce que nous contestons, c'est la méthode. Le parc va être installé en plein milieu de zones où nous pêchons depuis toujours. On nous a consultés, certes, mais une fois que l'emplacement était déjà choisi. / F: Nous avons tenu plus de quarante réunions avec les professionnels de la mer… / H: Des réunions pour nous informer, pas pour nous écouter. Ce n'est pas la même chose. Et quand on demande ce que deviendront les poissons pendant les travaux, on nous répond que les études sont en cours. Autrement dit, on construit d'abord et on vérifiera ensuite. / F: Les études menées sur d'autres parcs montrent que les fondations peuvent même attirer certaines espèces. / H: Peut-être. Mais en attendant, ce sont nos bateaux qui restent à quai.",
+   "vocabulary": [
+    {
+     "terme": "un parc éolien",
+     "definition": "un ensemble d'éoliennes",
+     "exemple": "Un parc éolien sera installé au large."
+    },
+    {
+     "terme": "la transition énergétique",
+     "definition": "le passage vers des énergies moins polluantes",
+     "exemple": "La transition énergétique exige des investissements."
+    },
+    {
+     "terme": "les fondations",
+     "definition": "la base enterrée qui soutient une construction",
+     "exemple": "Les fondations des éoliennes sont fixées au fond de la mer."
+    },
+    {
+     "terme": "rester à quai",
+     "definition": "(bateau) ne pas sortir du port",
+     "exemple": "À cause de la tempête, les bateaux sont restés à quai."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "depuis toujours",
+     "sens": "depuis très longtemps",
+     "exemple": "Ma famille habite ici depuis toujours."
+    },
+    {
+     "expression": "certes… mais",
+     "sens": "il est vrai que… cependant",
+     "exemple": "Certes, il a travaillé, mais pas assez."
+    },
+    {
+     "expression": "en attendant",
+     "sens": "pendant ce temps, pour l'instant",
+     "exemple": "Les travaux reprendront en mai ; en attendant, la route est fermée."
+    }
+   ]
+  },
+  {
+   "code": "CO-ENV-08",
+   "level": "B2",
+   "doc_type": "journal radio",
+   "questions": [
+    {
+     "prompt": "Que devront faire les foyers équipés d'une chaudière au fioul ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "La remplacer par un système moins polluant lorsqu'elle tombera en panne.",
+       "correct": true,
+       "rationale": "« En cas de panne, ils devront le remplacer par un système moins polluant. »",
+       "label": "A"
+      },
+      {
+       "text": "La remplacer immédiatement.",
+       "correct": false,
+       "rationale": "Ils « pourront conserver leur appareil ».",
+       "label": "B"
+      },
+      {
+       "text": "La faire contrôler chaque année.",
+       "correct": false,
+       "rationale": "Aucun contrôle annuel n'est évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Payer une taxe supplémentaire.",
+       "correct": false,
+       "rationale": "Aucune taxe n'est mentionnée.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Distinguez l'interdiction d'installer (nouvelles chaudières) de l'obligation de remplacer (seulement en cas de panne). Le connecteur « mais » introduit cette condition."
+    },
+    {
+     "prompt": "Quelle inquiétude expriment les professionnels du chauffage ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Le manque d'installateurs risque de ralentir la mise en œuvre.",
+       "correct": true,
+       "rationale": "« Les installateurs qualifiés sont trop peu nombreux, et les délais… dépassent déjà six mois. »",
+       "label": "A"
+      },
+      {
+       "text": "Les pompes à chaleur ne fonctionnent pas en hiver.",
+       "correct": false,
+       "rationale": "La performance des pompes n'est pas abordée.",
+       "label": "B"
+      },
+      {
+       "text": "L'objectif de la mesure est mauvais.",
+       "correct": false,
+       "rationale": "Ils « saluent l'objectif ».",
+       "label": "C"
+      },
+      {
+       "text": "Les aides de l'État sont trop élevées.",
+       "correct": false,
+       "rationale": "Ils ne critiquent pas les aides.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Saluent l'objectif mais s'inquiètent du calendrier » : la réserve porte sur la faisabilité dans les délais, pas sur le principe."
+    },
+    {
+     "prompt": "Contre quoi les associations de consommateurs mettent-elles en garde ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Le manque d'information du gouvernement.",
+       "correct": false,
+       "rationale": "Elles ne critiquent pas le gouvernement.",
+       "label": "A"
+      },
+      {
+       "text": "La hausse du prix du fioul.",
+       "correct": false,
+       "rationale": "Le prix du fioul n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Des vendeurs malhonnêtes qui profitent de la nouvelle règle.",
+       "correct": true,
+       "rationale": "« Des entreprises peu scrupuleuses profitent de chaque nouvelle réglementation pour vendre des équipements surfacturés. »",
+       "label": "C"
+      },
+      {
+       "text": "La lenteur du versement des aides.",
+       "correct": false,
+       "rationale": "Ce point n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Peu scrupuleuses » signifie malhonnêtes ; « surfacturés » signifie vendus trop cher. « Mettre en garde » équivaut à « prévenir d'un danger »."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "title": "L'interdiction des chaudières au fioul",
+   "document": "F: À partir de l'année prochaine, il ne sera plus possible d'installer de nouvelles chaudières au fioul dans les logements. Les foyers déjà équipés pourront conserver leur appareil, mais en cas de panne, ils devront le remplacer par un système moins polluant, comme une pompe à chaleur ou une chaudière à bois. Le gouvernement promet des aides pouvant atteindre neuf mille euros pour les ménages les plus modestes. Les professionnels du chauffage saluent l'objectif mais s'inquiètent du calendrier : les installateurs qualifiés sont trop peu nombreux, et les délais d'intervention dépassent déjà six mois dans certaines régions. Les associations de consommateurs, elles, mettent en garde contre les démarchages abusifs : des entreprises peu scrupuleuses profitent de chaque nouvelle réglementation pour vendre des équipements surfacturés.",
+   "vocabulary": [
+    {
+     "terme": "une pompe à chaleur",
+     "definition": "un appareil qui chauffe en captant la chaleur de l'air ou du sol",
+     "exemple": "Ils ont remplacé leur chaudière par une pompe à chaleur."
+    },
+    {
+     "terme": "le démarchage",
+     "definition": "la sollicitation de clients à domicile ou par téléphone",
+     "exemple": "Méfiez-vous du démarchage téléphonique."
+    },
+    {
+     "terme": "peu scrupuleux",
+     "definition": "malhonnête, sans principes moraux",
+     "exemple": "Un vendeur peu scrupuleux l'a trompé."
+    },
+    {
+     "terme": "surfacturé",
+     "definition": "facturé à un prix excessif",
+     "exemple": "Les travaux ont été surfacturés."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "mettre en garde contre",
+     "sens": "avertir d'un danger",
+     "exemple": "Les médecins mettent en garde contre l'automédication."
+    },
+    {
+     "expression": "saluer",
+     "sens": "approuver publiquement",
+     "exemple": "L'opposition a salué la décision."
+    },
+    {
+     "expression": "en cas de",
+     "sens": "si (telle situation) se produit",
+     "exemple": "En cas de problème, appelez ce numéro."
+    }
+   ]
+  },
+  {
+   "code": "CO-ENV-09",
+   "level": "B2",
+   "doc_type": "témoignage",
+   "questions": [
+    {
+     "prompt": "Comment l'entourage a-t-il réagi à la décision du couple ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Avec indifférence.",
+       "correct": false,
+       "rationale": "Leur réaction était au contraire marquée.",
+       "label": "A"
+      },
+      {
+       "text": "Avec admiration.",
+       "correct": false,
+       "rationale": "Les amis ne l'admiraient pas : ils les trouvaient fous.",
+       "label": "B"
+      },
+      {
+       "text": "Avec incompréhension.",
+       "correct": true,
+       "rationale": "« Nos amis nous ont pris pour des fous. »",
+       "label": "C"
+      },
+      {
+       "text": "En les imitant.",
+       "correct": false,
+       "rationale": "Rien n'indique que les amis aient vendu leur voiture.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Prendre quelqu'un pour un fou » signifie juger son comportement absurde. C'est une réaction d'incompréhension, voire de moquerie."
+    },
+    {
+     "prompt": "Qu'est-ce que le témoin n'avait pas prévu ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Le prix élevé du vélo électrique.",
+       "correct": false,
+       "rationale": "Le prix du vélo n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Des bénéfices sur son moral et sur ses relations avec les voisins.",
+       "correct": true,
+       "rationale": "Il arrive « de meilleure humeur » et parle « beaucoup plus aux gens du village ».",
+       "label": "B"
+      },
+      {
+       "text": "Les difficultés pour faire les courses.",
+       "correct": false,
+       "rationale": "Il savait qu'il faudrait « tout anticiper ».",
+       "label": "C"
+      },
+      {
+       "text": "La vente de sa première voiture.",
+       "correct": false,
+       "rationale": "Ils n'ont vendu que la deuxième.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Des choses auxquelles je ne m'attendais pas » annonce les surprises positives. Notez que le couple garde une voiture : il a vendu « la deuxième »."
+    },
+    {
+     "prompt": "Quelle limite le témoin reconnaît-il à son expérience ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Elle est interdite dans certaines régions.",
+       "correct": false,
+       "rationale": "Aucune interdiction n'est évoquée.",
+       "label": "A"
+      },
+      {
+       "text": "Elle n'est possible qu'en habitant près de son lieu de travail.",
+       "correct": true,
+       "rationale": "« Ce n'est possible que parce que mon travail est à huit kilomètres. Pour ma sœur, qui en fait cinquante… la question ne se pose même pas. »",
+       "label": "B"
+      },
+      {
+       "text": "Elle l'a isolé de ses voisins.",
+       "correct": false,
+       "rationale": "Il parle au contraire davantage aux gens du village.",
+       "label": "C"
+      },
+      {
+       "text": "Elle coûte plus cher que prévu.",
+       "correct": false,
+       "rationale": "Il a économisé trois mille euros par an.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Cela dit, je reconnais que… » introduit une concession qui limite la portée de son témoignage. L'exemple de la sœur illustre cette limite."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "title": "Vivre sans voiture à la campagne",
+   "context": "Un habitant d'un village de Bretagne raconte son expérience.",
+   "document": "H: Quand on a vendu notre deuxième voiture il y a trois ans, nos amis nous ont pris pour des fous. À la campagne, sans voiture, on est censé être condamné à l'isolement. Je ne vais pas prétendre que c'est simple tous les jours. Il faut tout anticiper : les courses se font une fois par semaine, et on s'organise avec les voisins pour le covoiturage. Mais j'ai découvert des choses auxquelles je ne m'attendais pas. Je fais vingt minutes de vélo électrique pour aller travailler, et j'arrive au bureau de meilleure humeur qu'avant. On a économisé plus de trois mille euros par an. Et surtout, on parle beaucoup plus aux gens du village qu'à l'époque où on passait d'un garage à l'autre. Cela dit, je reconnais que ce n'est possible que parce que mon travail est à huit kilomètres. Pour ma sœur, qui en fait cinquante chaque jour, la question ne se pose même pas.",
+   "vocabulary": [
+    {
+     "terme": "le covoiturage",
+     "definition": "le partage d'une voiture entre plusieurs personnes pour un trajet",
+     "exemple": "Je vais au travail en covoiturage avec un collègue."
+    },
+    {
+     "terme": "être condamné à",
+     "definition": "être obligé de subir",
+     "exemple": "Sans diplôme, il se croyait condamné aux petits boulots."
+    },
+    {
+     "terme": "anticiper",
+     "definition": "prévoir et préparer à l'avance",
+     "exemple": "Il faut anticiper les dépenses de rentrée."
+    },
+    {
+     "terme": "l'isolement",
+     "definition": "le fait d'être seul, coupé des autres",
+     "exemple": "L'isolement touche beaucoup de personnes âgées."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "prendre quelqu'un pour un fou",
+     "sens": "le juger déraisonnable",
+     "exemple": "Quand j'ai quitté mon emploi, on m'a pris pour un fou."
+    },
+    {
+     "expression": "être censé",
+     "sens": "être supposé",
+     "exemple": "Il est censé arriver à midi."
+    },
+    {
+     "expression": "la question ne se pose même pas",
+     "sens": "c'est évidemment impossible ou inutile d'en discuter",
+     "exemple": "Avec ce salaire, acheter une maison ? La question ne se pose même pas."
+    }
+   ]
   }
  ]
 }

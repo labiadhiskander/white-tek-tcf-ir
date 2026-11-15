@@ -1,0 +1,201 @@
+@slug co-actualites-societe
+@section CO
+@title Actualités et société
+@order 1
+@description Journaux radio, reportages et brèves d'actualité : comprendre l'information, sa cause, ses conséquences et les réactions qu'elle suscite.
+
+## CO-ACT-01 | journal radio | H:fr-FR
+TITRE: Les petites lignes ferroviaires rouvrent
+CONTEXTE: Extrait d'un journal d'information du matin.
+DOC: H: Elles avaient été fermées faute de voyageurs dans les années quatre-vingt-dix ; certaines d'entre elles reprennent du service. Trois régions ont annoncé hier la réouverture de lignes ferroviaires secondaires d'ici à deux ans. Officiellement, il s'agit de désenclaver des territoires ruraux où la voiture reste indispensable. Mais l'argument n'est pas seulement écologique : avec la hausse du prix des carburants, de nombreux habitants réclamaient une alternative. Reste la question du financement. Les régions avancent l'essentiel des fonds, mais attendent un geste de l'État, qui n'a pour l'instant rien promis. Les associations d'usagers, elles, se félicitent de la décision tout en rappelant qu'un train qui ne passe que deux fois par jour ne changera pas grand-chose aux habitudes.
+Q: Pourquoi ces lignes avaient-elles été fermées à l'origine ? | information détaillée
++ Parce qu'elles n'étaient pas assez fréquentées. | « Elles avaient été fermées faute de voyageurs » : « faute de » signifie « par manque de ».
+- Parce qu'elles coûtaient trop cher à l'État. | Le coût est évoqué pour la réouverture, pas pour la fermeture.
+- Parce que les régions refusaient de les financer. | Le financement régional concerne la réouverture actuelle.
+- Parce que les voies étaient en mauvais état. | L'état des voies n'est pas mentionné.
+EXP: La cause de la fermeture est donnée dès la première phrase avec « faute de ». Ne confondez pas les informations sur le passé (fermeture) et sur le présent (réouverture et financement).
+Q: Quelle incertitude le journaliste souligne-t-il ? | synthèse
++ La participation financière de l'État n'est pas acquise. | « Les régions… attendent un geste de l'État, qui n'a pour l'instant rien promis. »
+- La date de réouverture n'est pas fixée. | Une échéance est annoncée : « d'ici à deux ans ».
+- Les habitants ne veulent pas de ces lignes. | Au contraire, « de nombreux habitants réclamaient une alternative ».
+- Les trains rouleront peut-être à l'essence. | Rien n'est dit sur le mode de traction.
+EXP: L'expression « Reste la question de… » introduit le point non résolu. Le journaliste oppose ce que font les régions (« avancent l'essentiel des fonds ») et ce que l'État n'a « pour l'instant » pas fait.
+Q: Quelle est la position des associations d'usagers ? | point de vue
++ Elles approuvent la décision mais doutent de son efficacité si les trains sont rares. | Elles « se félicitent de la décision tout en rappelant qu'un train qui ne passe que deux fois par jour ne changera pas grand-chose ».
+- Elles s'opposent à la réouverture qu'elles jugent trop coûteuse. | Elles se félicitent de la décision.
+- Elles demandent la fermeture des lignes routières. | Aucune demande de ce type n'est formulée.
+- Elles estiment que la voiture restera toujours plus pratique. | Elles posent une condition (la fréquence), pas un rejet du train.
+EXP: « Tout en » associe deux attitudes simultanées : approbation et réserve. Une réponse B2 doit restituer les deux éléments, pas seulement le premier.
+VOCAB: désenclaver = sortir une région de son isolement en améliorant les transports = La nouvelle route a désenclavé la vallée. ; une ligne secondaire = une ligne de moindre importance, qui dessert de petites localités = Cette ligne secondaire relie trois villages. ; les usagers = les personnes qui utilisent un service public = Les usagers du métro se plaignent des retards. ; reprendre du service = être de nouveau utilisé, fonctionner à nouveau = Cette vieille gare a repris du service.
+EXPR: faute de = par manque de = Faute de temps, je n'ai pas pu finir. ; reste la question de = il demeure un problème non résolu = Le projet est séduisant ; reste la question du coût. ; faire un geste = faire une concession, offrir quelque chose = Le propriétaire a fait un geste sur le loyer.
+
+## CO-ACT-02 | reportage | F:fr-FR, H:fr-BE
+TITRE: Les épiceries solidaires face à l'afflux d'étudiants
+CONTEXTE: Une reporter se rend dans une épicerie solidaire d'une ville universitaire.
+DOC: F: Dans cette épicerie solidaire, les étudiants représentent désormais près de la moitié des bénéficiaires, contre un sur dix il y a cinq ans. Thomas, le responsable, nous explique ce changement. / H: Ce qui nous a frappés, c'est le profil de ces jeunes. Ce ne sont pas forcément des étudiants isolés ou étrangers, comme on pourrait l'imaginer. Beaucoup ont un petit boulot à côté de leurs études, mais le loyer absorbe presque tout. Certains sautent des repas sans en parler à leur famille, par fierté ou pour ne pas inquiéter leurs parents. / F: Comment faites-vous face à cette demande ? / H: Honnêtement, avec difficulté. Nos dons n'ont pas augmenté au même rythme. On a dû limiter le nombre de passages à deux par mois. C'est un crève-cœur, mais sinon les rayons seraient vides dès le mercredi.
+Q: Qu'est-ce qui a surpris le responsable de l'épicerie ? | information détaillée
++ Les étudiants aidés ne correspondent pas tous à l'image attendue. | « Ce ne sont pas forcément des étudiants isolés ou étrangers, comme on pourrait l'imaginer. »
+- Les étudiants refusent l'aide proposée. | Ils sont au contraire de plus en plus nombreux à venir.
+- Les étudiants sont tous de nationalité étrangère. | Il affirme le contraire.
+- Les étudiants viennent avec leurs parents. | Certains cachent leur situation à leur famille.
+EXP: « Ce qui nous a frappés, c'est… » est une mise en relief qui annonce l'élément surprenant. Il s'agit d'un écart entre un stéréotype et la réalité observée.
+Q: Pourquoi certains étudiants ne parlent-ils pas de leurs difficultés à leurs proches ? | implicite
++ Par amour-propre ou pour épargner du souci à leurs parents. | « Par fierté ou pour ne pas inquiéter leurs parents. »
+- Parce qu'ils ont rompu avec leur famille. | Rien n'indique une rupture.
+- Parce que leurs parents vivent à l'étranger. | Cette idée correspond au stéréotype que le responsable écarte.
+- Parce qu'ils ont honte de travailler à côté. | Le petit boulot n'est pas présenté comme une honte.
+EXP: « Fierté » est reformulé par « amour-propre », « ne pas inquiéter » par « épargner du souci ». Les questions B2 exigent souvent de reconnaître une reformulation plutôt que les mots exacts.
+Q: Que signifie « C'est un crève-cœur » dans la bouche du responsable ? | vocabulaire
++ Limiter les passages lui fait beaucoup de peine, même si c'est nécessaire. | Il justifie aussitôt la décision (« sinon les rayons seraient vides ») tout en exprimant sa tristesse.
+- Il trouve cette décision injuste et va la contester. | Il présente la mesure comme inévitable.
+- Il est épuisé par la charge de travail. | L'expression concerne la limitation, pas la fatigue.
+- Il pense que les étudiants abusent du système. | Il n'accuse pas les étudiants.
+EXP: Un « crève-cœur » est une chose très pénible à faire ou à voir. Ici, il s'agit d'une décision subie : l'émotion et la justification sont présentées ensemble.
+VOCAB: un bénéficiaire = une personne qui reçoit une aide = Les bénéficiaires du programme reçoivent un colis par semaine. ; un petit boulot = un emploi temporaire, souvent peu payé (familier) = Elle finance ses études grâce à un petit boulot. ; absorber = consommer entièrement = Le loyer absorbe la moitié de mon salaire. ; un afflux = une arrivée massive = L'hôpital a fait face à un afflux de patients.
+EXPR: sauter un repas = ne pas manger à l'heure d'un repas = Pour économiser, il saute souvent le déjeuner. ; c'est un crève-cœur = c'est très douloureux moralement = Vendre la maison familiale a été un crève-cœur. ; faire face à = affronter une situation difficile = L'association fait face à une forte demande.
+
+## CO-ACT-03 | brève radio | F:fr-CA
+TITRE: Une ville supprime les amendes de retard en bibliothèque
+DOC: F: Fini les pénalités pour les livres rendus en retard : la ville a décidé d'abolir les amendes dans ses dix bibliothèques. La mesure, testée pendant un an dans deux quartiers, a donné des résultats inattendus. Non seulement les ouvrages ne sont pas revenus plus tard qu'avant, mais le nombre d'emprunteurs a augmenté de quinze pour cent. Selon la direction, les amendes dissuadaient surtout les familles à faibles revenus, qui préféraient ne plus fréquenter la bibliothèque plutôt que de payer une dette parfois importante. Les recettes perdues, environ quarante mille dollars par an, seront compensées par une réduction des frais de recouvrement, qui coûtaient presque autant qu'ils rapportaient.
+Q: Qu'a révélé la période d'essai ? | information détaillée
++ La suppression des amendes n'a pas allongé les retards et a attiré davantage d'usagers. | « Les ouvrages ne sont pas revenus plus tard qu'avant » et « le nombre d'emprunteurs a augmenté de quinze pour cent ».
+- Les livres sont revenus beaucoup plus tard qu'avant. | C'est précisément ce qui ne s'est pas produit.
+- Les bibliothèques ont perdu des lecteurs. | Le nombre d'emprunteurs a augmenté.
+- Les familles aisées ont cessé d'emprunter. | Aucun chiffre ne concerne les familles aisées.
+EXP: La structure « Non seulement… mais… » additionne deux résultats positifs. Le qualificatif « inattendus » indique que les résultats contredisent la crainte initiale.
+Q: D'après la direction, quel était l'effet principal des amendes ? | implicite
++ Elles éloignaient des lecteurs aux revenus modestes. | Les familles à faibles revenus « préféraient ne plus fréquenter la bibliothèque plutôt que de payer ».
+- Elles encourageaient les lecteurs à rendre leurs livres à l'heure. | La période d'essai montre que leur suppression n'a pas changé les délais.
+- Elles finançaient l'achat de nouveaux livres. | Les recettes sont évoquées, pas leur utilisation.
+- Elles incitaient les familles à acheter des livres. | Rien n'est dit sur l'achat de livres.
+EXP: Le verbe « dissuader » (décourager de faire quelque chose) est central. L'effet réel des amendes était donc l'exclusion, non la ponctualité.
+Q: Comment la perte de recettes sera-t-elle compensée ? | argumentation
++ Par l'économie réalisée sur la récupération des amendes impayées. | « Seront compensées par une réduction des frais de recouvrement, qui coûtaient presque autant qu'ils rapportaient. »
+- Par une hausse des impôts locaux. | Aucune hausse d'impôt n'est mentionnée.
+- Par une augmentation du prix de l'abonnement. | L'abonnement n'est pas évoqué.
+- Par la fermeture de deux bibliothèques. | Les dix bibliothèques sont concernées par la mesure, aucune ne ferme.
+EXP: Le « recouvrement » désigne les démarches pour récupérer une somme due. Si ces démarches coûtaient presque autant que les amendes, les supprimer ne fait presque rien perdre.
+VOCAB: abolir = supprimer officiellement = Le pays a aboli la peine de mort. ; un emprunteur = une personne qui emprunte (ici, des livres) = Chaque emprunteur peut prendre cinq livres. ; dissuader = décourager quelqu'un de faire quelque chose = Le prix élevé dissuade les jeunes de venir. ; le recouvrement = l'action de récupérer une somme due = Le service de recouvrement relance les mauvais payeurs. ; les recettes = l'argent reçu, les revenus = Les recettes du musée ont doublé.
+EXPR: fini les… = c'est terminé, il n'y a plus de… = Fini les files d'attente : tout se fait en ligne. ; non seulement… mais (encore) = pas uniquement… mais aussi = Non seulement il est en retard, mais il a oublié le dossier. ; rapporter = produire un bénéfice = Ce placement rapporte peu.
+
+## CO-ACT-04 | interview | F:fr-FR, H:fr-FR
+TITRE: Le retour des cabines de réparation
+CONTEXTE: Une journaliste interroge le fondateur d'un réseau d'ateliers de réparation bénévoles.
+DOC: F: Grille-pain, vélos, téléphones : dans vos ateliers, on répare tout gratuitement. Qui sont les gens qui viennent vous voir ? / H: Au début, on pensait attirer surtout des militants écologistes. En réalité, la majorité vient pour des raisons économiques, et c'est très bien comme ça. Que l'on répare pour sauver la planète ou pour économiser cinquante euros, le résultat est le même : un objet de moins à la poubelle. / F: Les fabricants ne vous facilitent pas la tâche… / H: C'est un euphémisme ! Des vis introuvables, des coques collées, des pièces détachées vendues plus cher que l'appareil neuf… Tout est fait pour qu'on rachète. Cela dit, les choses bougent : l'indice de réparabilité affiché en magasin oblige les marques à se justifier, et certaines commencent à vendre des pièces à prix raisonnable. Ce n'est pas encore une révolution, mais c'est un début.
+Q: Que pense le fondateur des motivations économiques des visiteurs ? | point de vue
++ Il les accepte pleinement, car le résultat pour l'environnement est identique. | « C'est très bien comme ça… le résultat est le même : un objet de moins à la poubelle. »
+- Il les regrette, car il préférerait des visiteurs militants. | Il dit explicitement que « c'est très bien comme ça ».
+- Il les juge égoïstes et contraires à l'esprit du projet. | Il ne porte aucun jugement négatif.
+- Il pense qu'elles vont disparaître avec le temps. | Il ne fait aucune prévision sur ce point.
+EXP: La structure concessive « Que l'on… ou que l'on… » met deux motivations sur le même plan. Le point de vue est pragmatique : seul le résultat compte.
+Q: Que veut dire le fondateur par « C'est un euphémisme ! » ? | implicite
++ La réalité est bien pire que ce que la journaliste suggère. | Il enchaîne avec une liste d'obstacles qui montrent que les fabricants rendent la réparation très difficile.
+- Il n'est pas d'accord avec la journaliste. | Il est d'accord, mais trouve la formulation trop faible.
+- Les fabricants l'aident en réalité beaucoup. | Les exemples cités prouvent le contraire.
+- Il préfère ne pas parler des fabricants. | Il développe longuement le sujet.
+EXP: Un euphémisme atténue une réalité désagréable. Dire « c'est un euphémisme », c'est signaler que la réalité est plus grave que les mots employés.
+Q: Quel est le bilan du fondateur sur l'évolution de la situation ? | synthèse
++ Des progrès réels mais encore limités. | « Les choses bougent… Ce n'est pas encore une révolution, mais c'est un début. »
+- Aucun changement depuis la création des ateliers. | Il affirme que « les choses bougent ».
+- Une transformation complète du comportement des marques. | Ce n'est « pas encore une révolution ».
+- Une aggravation due à l'indice de réparabilité. | L'indice est présenté comme un progrès.
+EXP: « Cela dit » introduit une nuance après la critique. Le bilan final combine un constat positif et une limite : c'est la synthèse attendue.
+VOCAB: une pièce détachée = un élément vendu séparément pour réparer un appareil = Je cherche une pièce détachée pour ma machine à laver. ; une coque = l'enveloppe extérieure d'un appareil = La coque du téléphone est fissurée. ; l'indice de réparabilité = une note qui indique si un produit est facile à réparer = Cet ordinateur a un bon indice de réparabilité. ; un euphémisme = une expression qui atténue une réalité = « Disparu » est un euphémisme pour « mort ».
+EXPR: faciliter la tâche à quelqu'un = rendre son travail plus simple = Ce logiciel nous facilite la tâche. ; les choses bougent = la situation évolue = Dans ce secteur, les choses bougent vite. ; cela dit = néanmoins, malgré cela = C'est cher ; cela dit, la qualité est excellente.
+
+## CO-ACT-05 | journal radio | F:fr-FR
+TITRE: Moins de mariages, plus de pactes civils
+DOC: F: Les chiffres publiés ce matin par l'institut de statistiques confirment une tendance de fond : le nombre de mariages poursuit sa baisse, tandis que celui des pactes civils de solidarité ne cesse de progresser. L'an dernier, on comptait presque autant de pactes que de mariages. Pour les sociologues, ce n'est pas tant un rejet de l'engagement qu'une volonté de s'engager autrement : le pacte est perçu comme plus simple, moins coûteux et plus facile à rompre. Autre enseignement de l'étude : l'âge moyen au premier mariage a encore reculé et dépasse désormais trente-trois ans pour les hommes. Beaucoup de couples se marient après la naissance de leur premier enfant, ce qui était exceptionnel il y a quarante ans.
+Q: Quelle tendance l'étude confirme-t-elle ? | compréhension globale
++ Le mariage recule pendant que le pacte civil progresse. | « Le nombre de mariages poursuit sa baisse, tandis que celui des pactes… ne cesse de progresser. »
+- Les deux formes d'union diminuent. | Le pacte progresse.
+- Le pacte civil a dépassé le mariage. | On compte « presque autant », pas davantage.
+- Le mariage revient à la mode chez les jeunes. | L'âge moyen recule et les mariages baissent.
+EXP: « Tandis que » oppose deux évolutions simultanées. Attention au chiffre précis : « presque autant » ne signifie pas « plus que ».
+Q: Comment les sociologues interprètent-ils le succès du pacte civil ? | argumentation
++ Comme une autre manière de s'engager, jugée plus souple. | « Ce n'est pas tant un rejet de l'engagement qu'une volonté de s'engager autrement. »
+- Comme un refus de toute forme d'engagement. | C'est l'interprétation qu'ils écartent.
+- Comme une conséquence de la hausse des divorces. | Les divorces ne sont pas évoqués.
+- Comme un effet de mode passager. | Ils parlent au contraire d'une « tendance de fond ».
+EXP: La structure « ne pas tant… que… » corrige une idée reçue : elle écarte une interprétation pour en proposer une autre. C'est la seconde qui exprime l'avis des sociologues.
+Q: Qu'est-ce qui a changé par rapport à il y a quarante ans ? | information détaillée
++ Il est devenu courant de se marier après avoir eu un enfant. | « Beaucoup de couples se marient après la naissance de leur premier enfant, ce qui était exceptionnel il y a quarante ans. »
+- Les couples n'ont plus d'enfants. | Rien ne l'indique.
+- Les hommes se marient plus jeunes. | L'âge moyen au premier mariage a « reculé », c'est-à-dire qu'on se marie plus tard.
+- Les pactes civils sont devenus obligatoires. | Aucune obligation n'est mentionnée.
+EXP: Le verbe « reculer » appliqué à un âge peut prêter à confusion : ici, l'âge recule dans le calendrier de la vie, donc on se marie plus tard. Le contraste avec le passé est donné par « ce qui était exceptionnel ».
+VOCAB: une tendance de fond = une évolution durable, profonde = Le télétravail est une tendance de fond. ; un pacte civil de solidarité = un contrat d'union entre deux personnes, plus souple que le mariage = Ils ont signé un pacte civil avant d'acheter leur appartement. ; reculer = être repoussé à plus tard = L'âge de la retraite a reculé. ; rompre = mettre fin à un engagement = Ils ont décidé de rompre leur contrat.
+EXPR: ne pas tant… que… = moins… que… = Ce n'est pas tant le prix qui me gêne que la qualité. ; ne cesser de = continuer sans interruption à = Les prix ne cessent d'augmenter. ; autre enseignement = autre conclusion tirée d'une étude = Autre enseignement du sondage : les jeunes lisent davantage.
+
+## CO-ACT-06 | débat radiophonique | H:fr-FR, F:fr-FR
+TITRE: Faut-il interdire les écrans dans les restaurants scolaires ?
+CONTEXTE: Un animateur interroge une principale de collège.
+DOC: H: Votre collège a interdit les téléphones jusque dans la cantine. Certains parents parlent d'une mesure autoritaire. / F: Je les comprends, mais je voudrais rappeler d'où l'on part. Avant l'interdiction, le déjeuner se passait en silence, chacun penché sur son écran. Les surveillants intervenaient tous les jours pour des vidéos humiliantes filmées à la table voisine. Depuis septembre, les incidents ont diminué de moitié, et surtout les élèves se reparlent. / H: Les élèves ne contournent-ils pas la règle ? / F: Certains, évidemment. Mais l'essentiel n'est pas d'atteindre une obéissance parfaite. Ce qui compte, c'est que le téléphone ne soit plus la norme. D'ailleurs, ce sont les élèves eux-mêmes qui ont proposé de créer des clubs le midi. Je n'aurais jamais imaginé qu'ils en redemandent.
+Q: Comment la principale répond-elle à l'accusation d'autoritarisme ? | argumentation
++ Elle rappelle les problèmes qui existaient avant la mesure. | « Je voudrais rappeler d'où l'on part » puis elle décrit le silence et les vidéos humiliantes.
+- Elle reconnaît que la mesure était excessive. | Elle comprend les parents mais défend la mesure.
+- Elle annonce que l'interdiction sera levée. | Rien n'indique un retour en arrière.
+- Elle affirme que les parents ont voté la mesure. | Aucun vote n'est mentionné.
+EXP: « Je les comprends, mais… » est une concession suivie d'une contre-argumentation. Elle justifie la mesure par la situation antérieure plutôt que par des principes.
+Q: Quel est, selon elle, le véritable objectif de l'interdiction ? | point de vue
++ Changer les habitudes collectives, même si tout le monde ne respecte pas la règle. | « L'essentiel n'est pas d'atteindre une obéissance parfaite. Ce qui compte, c'est que le téléphone ne soit plus la norme. »
+- Sanctionner tous les élèves qui désobéissent. | Elle admet que certains contournent la règle sans en faire un problème.
+- Obtenir une obéissance totale des élèves. | C'est précisément ce qu'elle écarte.
+- Réduire le bruit dans la cantine. | Elle se réjouit au contraire que les élèves se reparlent.
+EXP: « Ce qui compte, c'est que… » est une mise en relief qui désigne l'objectif essentiel. La phrase précédente écarte un objectif secondaire.
+Q: Qu'est-ce qui a surpris la principale ? | implicite
++ L'initiative des élèves pour occuper la pause du midi. | « Ce sont les élèves eux-mêmes qui ont proposé de créer des clubs… Je n'aurais jamais imaginé qu'ils en redemandent. »
+- La colère des parents. | Elle s'y attendait et dit les comprendre.
+- La baisse des incidents. | Elle présente ce chiffre comme un résultat, pas comme une surprise.
+- Le refus des surveillants d'appliquer la règle. | Les surveillants ne refusent rien.
+EXP: Le conditionnel passé « Je n'aurais jamais imaginé » exprime la surprise. « En redemander », familier, signifie vouloir davantage de quelque chose.
+VOCAB: autoritaire = qui impose des règles sans discussion = Le directeur a un style très autoritaire. ; contourner une règle = éviter de la respecter sans la violer ouvertement = Certains contournent la loi grâce à des failles. ; humiliant = qui rabaisse, qui fait honte = Il a subi des remarques humiliantes. ; la norme = ce qui est habituel, normal = Le télétravail est devenu la norme dans cette entreprise.
+EXPR: d'où l'on part = la situation de départ = Pour juger les progrès, il faut savoir d'où l'on part. ; en redemander = vouloir encore plus de quelque chose = Le spectacle était si drôle que le public en redemandait. ; jusque dans = même dans (lieu inattendu) = Le bruit pénètre jusque dans la chambre.
+
+## CO-ACT-07 | chronique radio | H:fr-CH
+TITRE: Le succès des jardins partagés en ville
+DOC: H: Ils fleurissent au pied des immeubles, sur des friches ou d'anciens parkings : les jardins partagés se multiplient dans nos villes. On y cultive des tomates, bien sûr, mais on y récolte surtout du lien social. Les études menées par plusieurs universités montrent que les participants déclarent connaître davantage de voisins et se sentir moins seuls. Il serait pourtant naïf d'y voir une solution miracle. Ces jardins sont souvent fréquentés par des retraités et des familles de classe moyenne déjà bien intégrées, alors que les habitants les plus isolés, eux, n'en franchissent pas la porte. Plusieurs associations tentent d'y remédier en allant frapper directement chez les gens, avec un succès encore modeste. Mais au fond, n'est-ce pas déjà beaucoup qu'un carré de terre parvienne à réunir des voisins qui s'ignoraient ?
+Q: Que récolte-t-on « surtout » dans ces jardins, selon le chroniqueur ? | vocabulaire
++ Des relations entre les habitants. | « On y récolte surtout du lien social » : les participants connaissent davantage de voisins.
+- Des légumes en grande quantité. | Les tomates sont citées, mais l'essentiel est ailleurs (« surtout »).
+- Des revenus complémentaires. | La vente n'est pas évoquée.
+- Des fleurs destinées aux immeubles. | « Fleurir » est employé au sens figuré : les jardins se multiplient.
+EXP: Le chroniqueur joue sur le sens propre et figuré de « récolter ». L'adverbe « surtout » oriente vers l'essentiel : le lien social.
+Q: Quelle limite le chroniqueur signale-t-il ? | argumentation
++ Les personnes les plus isolées en profitent peu. | « Les habitants les plus isolés, eux, n'en franchissent pas la porte. »
+- Les jardins produisent trop peu de légumes. | La production n'est pas critiquée.
+- Les retraités monopolisent les parcelles. | Ils sont présents, mais aucune monopolisation n'est dénoncée.
+- Les universités contestent leur utilité. | Les études universitaires confirment au contraire leurs effets.
+EXP: « Il serait pourtant naïf d'y voir une solution miracle » annonce la limite. Le pronom d'insistance « eux » oppose les habitants isolés aux participants habituels.
+Q: Quelle est la position finale du chroniqueur ? | point de vue
++ Malgré leurs limites, ces jardins méritent d'être appréciés pour ce qu'ils accomplissent. | La question rhétorique finale « n'est-ce pas déjà beaucoup… ? » valorise le résultat obtenu.
+- Ces jardins sont un échec qu'il faut abandonner. | La question finale est positive.
+- Il faut obliger les habitants isolés à participer. | Il ne propose aucune obligation.
+- Les associations devraient cesser d'aller chez les gens. | Il décrit leur démarche sans la critiquer.
+EXP: Une question rhétorique n'attend pas de réponse : elle exprime une opinion. « N'est-ce pas déjà beaucoup » signifie « c'est déjà beaucoup ».
+VOCAB: une friche = un terrain abandonné, non cultivé ou non utilisé = Le parc a été créé sur une ancienne friche industrielle. ; le lien social = les relations qui unissent les membres d'une société = Les associations renforcent le lien social. ; s'ignorer = ne pas se connaître, ne pas se parler = Les voisins s'ignoraient depuis des années. ; naïf = qui manque d'esprit critique = Il serait naïf de croire toutes les promesses.
+EXPR: une solution miracle = une solution qui réglerait tout facilement = Il n'existe pas de solution miracle contre le chômage. ; franchir la porte = entrer dans un lieu = Il n'a jamais franchi la porte d'un théâtre. ; au fond = en réalité, finalement = Au fond, il a raison.
+
+## CO-ACT-08 | journal radio | F:fr-BE
+TITRE: Les dons de sang en baisse chez les jeunes
+DOC: F: L'établissement chargé des collectes de sang tire la sonnette d'alarme : les réserves sont descendues sous le seuil de sécurité pour la troisième fois cette année. En cause, notamment, le vieillissement des donneurs réguliers. Les plus de cinquante ans assurent aujourd'hui près de la moitié des dons, alors que les moins de trente ans se mobilisent de moins en moins. Les responsables y voient moins un manque de générosité qu'un problème d'organisation : les collectes ont lieu en semaine, aux heures de bureau, des créneaux difficiles pour des étudiants ou de jeunes actifs. Une application permettant de réserver un rendez-vous en soirée sera lancée le mois prochain. L'établissement rappelle qu'un don ne prend qu'une heure et peut sauver jusqu'à trois vies.
+Q: Quelle est la principale cause de la baisse des réserves évoquée ? | information détaillée
++ Le vieillissement des donneurs réguliers. | « En cause, notamment, le vieillissement des donneurs réguliers. »
+- La diminution du nombre d'hôpitaux. | Les hôpitaux ne sont pas mentionnés.
+- L'interdiction du don pour les plus de cinquante ans. | Les plus de cinquante ans assurent au contraire la moitié des dons.
+- Une épidémie récente. | Aucune épidémie n'est évoquée.
+EXP: « En cause » introduit la cause d'un problème. L'adverbe « notamment » indique qu'il y en a d'autres, mais c'est la seule nommée.
+Q: Comment les responsables expliquent-ils la faible participation des jeunes ? | argumentation
++ Par des horaires de collecte peu adaptés à leur emploi du temps. | « Moins un manque de générosité qu'un problème d'organisation : les collectes ont lieu… aux heures de bureau. »
+- Par leur manque de générosité. | C'est l'explication qu'ils écartent (« moins… que… »).
+- Par la peur des aiguilles. | Cette raison n'est pas citée.
+- Par le manque d'information sur le don. | Le manque d'information n'est pas mentionné.
+EXP: Comme « ne pas tant… que », la structure « moins… que… » écarte une explication au profit d'une autre. La seconde est la bonne.
+Q: Quelle solution est annoncée ? | synthèse
++ Un outil numérique pour prendre rendez-vous en dehors des heures de travail. | « Une application permettant de réserver un rendez-vous en soirée sera lancée le mois prochain. »
+- L'ouverture de collectes dans les universités. | Les universités ne sont pas mentionnées.
+- Une rémunération des donneurs. | Aucune rémunération n'est prévue.
+- Une campagne de publicité à la télévision. | Aucune campagne télévisée n'est annoncée.
+EXP: La solution répond directement à la cause identifiée (horaires inadaptés). Repérer ce lien cause-solution aide à éliminer les distracteurs plausibles mais non mentionnés.
+VOCAB: une collecte = une opération de récolte (de sang, de dons) = La collecte de sang a lieu à la mairie. ; le seuil de sécurité = le niveau minimal en dessous duquel il y a un risque = Le barrage a dépassé le seuil de sécurité. ; un créneau = une plage horaire disponible = Je n'ai aucun créneau libre cette semaine. ; un jeune actif = un jeune qui travaille = Les jeunes actifs ont du mal à se loger.
+EXPR: tirer la sonnette d'alarme = alerter sur un danger = Les médecins tirent la sonnette d'alarme sur la pénurie de soignants. ; en cause = responsable, à l'origine du problème = En cause : un défaut de fabrication. ; se mobiliser = s'engager activement pour une cause = Les habitants se sont mobilisés pour sauver l'école.

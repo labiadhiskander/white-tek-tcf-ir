@@ -1,0 +1,1177 @@
+{
+ "slug": "co-sante-bien-etre",
+ "section": "CO",
+ "title": "Santé et bien-être",
+ "description": "Santé publique, médecine, sommeil, alimentation et bien-être : comprendre les explications d'experts et les débats de santé.",
+ "order": 5,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CO-SAN-01",
+   "level": "B2",
+   "doc_type": "interview",
+   "questions": [
+    {
+     "prompt": "Selon le médecin, pourquoi les adolescents s'endorment-ils tard ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Parce qu'ils font trop de sport le soir.",
+       "correct": false,
+       "rationale": "Le sport n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "À cause d'un décalage naturel de leur horloge biologique.",
+       "correct": true,
+       "rationale": "« À l'adolescence, l'horloge biologique se décale naturellement. »",
+       "label": "B"
+      },
+      {
+       "text": "Parce qu'ils boivent trop de café.",
+       "correct": false,
+       "rationale": "Le café n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Par manque de discipline imposée par les parents.",
+       "correct": false,
+       "rationale": "Il dit que « ce n'est pas seulement une question de discipline ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Contrairement à ce que pensent beaucoup de parents » annonce la correction d'une idée reçue, expliquée ensuite par la biologie."
+    },
+    {
+     "prompt": "Quel rôle le médecin attribue-t-il aux écrans ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Ils sont la seule cause du manque de sommeil.",
+       "correct": false,
+       "rationale": "Il dit le contraire.",
+       "label": "A"
+      },
+      {
+       "text": "Ils aident les adolescents à se détendre.",
+       "correct": false,
+       "rationale": "Ils stimulent au lieu de calmer.",
+       "label": "B"
+      },
+      {
+       "text": "Ils n'ont aucun effet sur le sommeil.",
+       "correct": false,
+       "rationale": "Ils retardent la mélatonine et stimulent le cerveau.",
+       "label": "C"
+      },
+      {
+       "text": "Ils renforcent un décalage qui existe déjà.",
+       "correct": true,
+       "rationale": "« Ils n'en sont pas la cause unique, mais ils accentuent le décalage. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La nuance « pas la cause unique, mais… » est typique d'un discours d'expert : il refuse une explication simpliste sans nier le rôle des écrans."
+    },
+    {
+     "prompt": "Quelle solution le médecin semble-t-il privilégier ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Punir les adolescents qui se couchent tard.",
+       "correct": false,
+       "rationale": "Il dit qu'ils ne sont « pas forcément capricieux ».",
+       "label": "A"
+      },
+      {
+       "text": "Donner de la mélatonine aux adolescents.",
+       "correct": false,
+       "rationale": "Il ne parle pas de traitement.",
+       "label": "B"
+      },
+      {
+       "text": "Interdire les écrans aux adolescents.",
+       "correct": false,
+       "rationale": "Il ne propose pas d'interdiction.",
+       "label": "C"
+      },
+      {
+       "text": "Faire commencer les cours plus tard au lycée.",
+       "correct": true,
+       "rationale": "« Le vrai problème, c'est que les cours commencent tôt » ; les pays qui ont retardé l'heure d'entrée ont vu des améliorations.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La solution n'est pas formulée comme une recommandation directe : elle se déduit de « Le vrai problème, c'est… » et de l'exemple des autres pays."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Le manque de sommeil chez les adolescents",
+   "context": "Une journaliste interroge un médecin spécialiste du sommeil.",
+   "document": "F: Les adolescents dorment-ils vraiment moins qu'avant ? / H: Oui, en moyenne une heure de moins qu'il y a vingt ans. Et contrairement à ce que pensent beaucoup de parents, ce n'est pas seulement une question de discipline. À l'adolescence, l'horloge biologique se décale naturellement : le corps produit la mélatonine, l'hormone du sommeil, plus tard dans la soirée. Un adolescent qui ne s'endort pas avant minuit n'est donc pas forcément capricieux. / F: Les écrans aggravent-ils les choses ? / H: Ils n'en sont pas la cause unique, mais ils accentuent le décalage. La lumière bleue retarde encore la sécrétion de mélatonine, et surtout, les contenus stimulent le cerveau au moment où il devrait se calmer. Le vrai problème, c'est que les cours commencent tôt. Plusieurs pays qui ont retardé l'heure d'entrée au lycée ont observé une amélioration des résultats et une baisse des accidents de la route chez les jeunes conducteurs.",
+   "vocabulary": [
+    {
+     "terme": "l'horloge biologique",
+     "definition": "le rythme interne du corps",
+     "exemple": "Le décalage horaire dérègle l'horloge biologique."
+    },
+    {
+     "terme": "la mélatonine",
+     "definition": "l'hormone qui favorise le sommeil",
+     "exemple": "La lumière bloque la production de mélatonine."
+    },
+    {
+     "terme": "capricieux",
+     "definition": "qui agit selon ses envies, sans raison",
+     "exemple": "Cet enfant est capricieux."
+    },
+    {
+     "terme": "la sécrétion",
+     "definition": "la production d'une substance par le corps",
+     "exemple": "La sécrétion d'adrénaline augmente avec le stress."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "contrairement à ce que",
+     "sens": "à l'inverse de ce que",
+     "exemple": "Contrairement à ce qu'on croit, il fait froid au Maroc l'hiver."
+    },
+    {
+     "expression": "ne pas être forcément",
+     "sens": "ne pas être nécessairement",
+     "exemple": "Cher n'est pas forcément synonyme de qualité."
+    },
+    {
+     "expression": "aggraver les choses",
+     "sens": "rendre la situation pire",
+     "exemple": "Ses mensonges ont aggravé les choses."
+    }
+   ]
+  },
+  {
+   "code": "CO-SAN-02",
+   "level": "B2",
+   "doc_type": "reportage",
+   "questions": [
+    {
+     "prompt": "Quelle conséquence l'absence de médecin a-t-elle pour Martine ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Elle a déménagé en ville.",
+       "correct": false,
+       "rationale": "Elle vit toujours dans la commune.",
+       "label": "A"
+      },
+      {
+       "text": "Elle reporte parfois ses soins au risque de sa santé.",
+       "correct": true,
+       "rationale": "« Parfois, je laisse traîner, et je sais que ce n'est pas raisonnable. »",
+       "label": "B"
+      },
+      {
+       "text": "Elle consulte uniquement en ligne.",
+       "correct": false,
+       "rationale": "Elle va en ville avec sa fille.",
+       "label": "C"
+      },
+      {
+       "text": "Elle a trouvé un médecin dans la commune voisine.",
+       "correct": false,
+       "rationale": "Le plus proche ne prend plus de patients.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Laisser traîner » signifie repousser ce qu'on devrait faire. Martine reconnaît elle-même que ce comportement est risqué."
+    },
+    {
+     "prompt": "Pourquoi les efforts de la mairie ont-ils échoué ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les habitants refusaient un nouveau médecin.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Les jeunes médecins préfèrent d'autres conditions d'exercice.",
+       "correct": true,
+       "rationale": "« Les jeunes médecins préfèrent exercer en groupe, en ville, avec des horaires plus raisonnables. »",
+       "label": "B"
+      },
+      {
+       "text": "Le cabinet proposé était trop cher.",
+       "correct": false,
+       "rationale": "Il était proposé « gratuitement ».",
+       "label": "C"
+      },
+      {
+       "text": "La mairie n'a pas publié d'annonces.",
+       "correct": false,
+       "rationale": "Elle a passé des annonces dans les facultés.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le « pourtant » souligne le contraste entre les efforts et l'échec. La cause est donnée ensuite : les attentes des jeunes médecins."
+    },
+    {
+     "prompt": "Comment le maire juge-t-il la téléconsultation ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Comme la solution idéale au problème.",
+       "correct": false,
+       "rationale": "Il dit qu'elle ne remplacera jamais un médecin.",
+       "label": "A"
+      },
+      {
+       "text": "Comme une solution rejetée par les habitants.",
+       "correct": false,
+       "rationale": "L'avis des habitants n'est pas donné.",
+       "label": "B"
+      },
+      {
+       "text": "Comme une dépense inutile.",
+       "correct": false,
+       "rationale": "Il ne la rejette pas.",
+       "label": "C"
+      },
+      {
+       "text": "Comme une solution complémentaire qui reste insuffisante.",
+       "correct": true,
+       "rationale": "« Une solution d'appoint… qui ne remplacera jamais un médecin de famille. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Une solution d'appoint » est une aide secondaire, complémentaire. Le maire reconnaît son utilité tout en en marquant les limites."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "Les déserts médicaux",
+   "context": "Reportage dans une petite ville où le dernier médecin généraliste vient de partir à la retraite.",
+   "document": "H: Depuis le départ à la retraite du docteur Moreau en juin, les trois mille habitants de cette commune n'ont plus de médecin. Le plus proche se trouve à quarante minutes, et il ne prend plus de nouveaux patients. Martine, soixante-dix-huit ans, en témoigne. / F: Pour renouveler mon ordonnance, je dois demander à ma fille de m'emmener en ville. Elle doit poser une demi-journée de congé à chaque fois. Alors parfois, je laisse traîner, et je sais que ce n'est pas raisonnable. / H: La mairie a pourtant tout essayé : un cabinet rénové proposé gratuitement, un logement de fonction, des annonces dans les facultés de médecine. Sans succès. Les jeunes médecins préfèrent exercer en groupe, en ville, avec des horaires plus raisonnables. La commune mise désormais sur la téléconsultation, avec une cabine installée à la pharmacie. Une solution d'appoint, reconnaît le maire, qui ne remplacera jamais un médecin de famille.",
+   "vocabulary": [
+    {
+     "terme": "un désert médical",
+     "definition": "une zone où il manque de médecins",
+     "exemple": "Cette région rurale est un désert médical."
+    },
+    {
+     "terme": "une ordonnance",
+     "definition": "un document où le médecin prescrit des médicaments",
+     "exemple": "Le pharmacien lit l'ordonnance."
+    },
+    {
+     "terme": "un logement de fonction",
+     "definition": "un logement fourni par l'employeur",
+     "exemple": "Le gardien dispose d'un logement de fonction."
+    },
+    {
+     "terme": "la téléconsultation",
+     "definition": "une consultation médicale à distance",
+     "exemple": "Elle a fait une téléconsultation depuis chez elle."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "laisser traîner",
+     "sens": "repousser, négliger",
+     "exemple": "Ne laisse pas traîner cette facture."
+    },
+    {
+     "expression": "miser sur",
+     "sens": "compter sur, parier sur",
+     "exemple": "L'entreprise mise sur l'innovation."
+    },
+    {
+     "expression": "une solution d'appoint",
+     "sens": "une solution complémentaire, temporaire",
+     "exemple": "Ce chauffage est une solution d'appoint."
+    }
+   ]
+  },
+  {
+   "code": "CO-SAN-03",
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "questions": [
+    {
+     "prompt": "Que dit la chroniqueuse sur l'efficacité des compléments alimentaires ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Ils sont inutiles pour la plupart des personnes en bonne santé, sauf cas particuliers.",
+       "correct": true,
+       "rationale": "« Ils n'apportent rien de mesurable » sauf dans « certaines situations » comme la vitamine D en hiver.",
+       "label": "A"
+      },
+      {
+       "text": "Ils sont efficaces pour tout le monde.",
+       "correct": false,
+       "rationale": "Elle dit l'inverse.",
+       "label": "B"
+      },
+      {
+       "text": "Ils remplacent une alimentation variée.",
+       "correct": false,
+       "rationale": "Elle parle de personnes qui mangent déjà de façon variée.",
+       "label": "C"
+      },
+      {
+       "text": "Ils sont toujours dangereux.",
+       "correct": false,
+       "rationale": "Elle ne les condamne pas en bloc.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La réponse doit intégrer la règle générale et ses exceptions, introduites par « Certaines situations justifient… »."
+    },
+    {
+     "prompt": "Pourquoi la chroniqueuse juge-t-elle la situation « inquiétante » ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les médecins refusent d'en prescrire.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Ils sont vendus uniquement sur Internet.",
+       "correct": false,
+       "rationale": "Le mode de vente n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Ils coûtent de plus en plus cher.",
+       "correct": false,
+       "rationale": "Le prix n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Ces produits sont moins contrôlés que les médicaments et peuvent avoir des effets indésirables.",
+       "correct": true,
+       "rationale": "« Ils ne sont pas soumis aux mêmes contrôles, et certains peuvent interagir avec des traitements. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Plus inquiétant » introduit un argument plus grave que le précédent. Les « effets indésirables » recensés confirment le risque."
+    },
+    {
+     "prompt": "Quel conseil la chroniqueuse donne-t-elle ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Lire attentivement l'emballage.",
+       "correct": false,
+       "rationale": "Elle met en garde contre les promesses de l'emballage.",
+       "label": "A"
+      },
+      {
+       "text": "Arrêter immédiatement tous les compléments.",
+       "correct": false,
+       "rationale": "« Le message n'est pas de tout jeter à la poubelle. »",
+       "label": "B"
+      },
+      {
+       "text": "Demander l'avis d'un médecin avant d'en prendre.",
+       "correct": true,
+       "rationale": "« D'en parler à son médecin plutôt que de se fier aux promesses inscrites sur l'emballage. »",
+       "label": "C"
+      },
+      {
+       "text": "Choisir les compléments les plus chers.",
+       "correct": false,
+       "rationale": "Ce n'est pas suggéré.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Le message n'est pas de… mais de… » écarte une interprétation extrême pour formuler le vrai conseil."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "title": "Les compléments alimentaires, utiles ou inutiles ?",
+   "document": "F: Vitamines, magnésium, oméga-3 : les compléments alimentaires se vendent comme des petits pains. Près d'un adulte sur deux en consomme régulièrement. Pourtant, pour la grande majorité des personnes en bonne santé qui mangent de façon variée, ils n'apportent rien de mesurable. Certaines situations justifient une supplémentation : la vitamine D en hiver dans les régions peu ensoleillées, l'acide folique pendant la grossesse. Mais le reste relève largement du marketing. Plus inquiétant, ces produits ne sont pas des médicaments : ils ne sont pas soumis aux mêmes contrôles, et certains peuvent interagir avec des traitements. Les autorités sanitaires ont recensé plusieurs centaines d'effets indésirables l'an dernier. Le message n'est pas de tout jeter à la poubelle, mais d'en parler à son médecin plutôt que de se fier aux promesses inscrites sur l'emballage.",
+   "vocabulary": [
+    {
+     "terme": "un complément alimentaire",
+     "definition": "un produit qui complète l'alimentation (vitamines, minéraux)",
+     "exemple": "Il prend un complément de magnésium."
+    },
+    {
+     "terme": "la supplémentation",
+     "definition": "l'apport d'une substance en complément",
+     "exemple": "La supplémentation en fer est conseillée aux femmes enceintes."
+    },
+    {
+     "terme": "interagir",
+     "definition": "agir l'un sur l'autre",
+     "exemple": "Ce médicament peut interagir avec l'alcool."
+    },
+    {
+     "terme": "un effet indésirable",
+     "definition": "une conséquence négative non voulue",
+     "exemple": "Ce traitement a peu d'effets indésirables."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "se vendre comme des petits pains",
+     "sens": "se vendre très facilement et en grande quantité",
+     "exemple": "Ce livre se vend comme des petits pains."
+    },
+    {
+     "expression": "relever de",
+     "sens": "appartenir au domaine de",
+     "exemple": "Ce discours relève de la publicité."
+    },
+    {
+     "expression": "se fier à",
+     "sens": "faire confiance à",
+     "exemple": "Ne te fie pas aux apparences."
+    }
+   ]
+  },
+  {
+   "code": "CO-SAN-04",
+   "level": "B2",
+   "doc_type": "débat radiophonique",
+   "questions": [
+    {
+     "prompt": "Selon le nutritionniste, quels sont les effets d'une taxe ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Elle finance automatiquement les hôpitaux.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Elle réduit la consommation et incite les fabricants à mettre moins de sucre.",
+       "correct": true,
+       "rationale": "« Elle décourage la consommation et pousse les industriels à réduire le sucre dans leurs recettes. »",
+       "label": "B"
+      },
+      {
+       "text": "Elle augmente les bénéfices de l'industrie.",
+       "correct": false,
+       "rationale": "Ce n'est pas un effet mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Elle supprime totalement les boissons sucrées.",
+       "correct": false,
+       "rationale": "Elle décourage, elle n'interdit pas.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Un double effet » annonce deux conséquences, détaillées après les deux-points."
+    },
+    {
+     "prompt": "Comment le nutritionniste répond-il à l'argument social de la représentante ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Il reconnaît que la taxe est injuste.",
+       "correct": false,
+       "rationale": "Il retourne l'argument.",
+       "label": "A"
+      },
+      {
+       "text": "Il dit que les ménages modestes boivent peu de sodas.",
+       "correct": false,
+       "rationale": "Ce n'est pas son propos.",
+       "label": "B"
+      },
+      {
+       "text": "Il affirme que les ménages modestes sont justement les plus touchés par les maladies liées au sucre.",
+       "correct": true,
+       "rationale": "« L'argument social se retourne : ce sont justement les ménages modestes qui souffrent le plus de l'obésité et du diabète. »",
+       "label": "C"
+      },
+      {
+       "text": "Il propose d'exonérer les ménages modestes.",
+       "correct": false,
+       "rationale": "Ce n'est pas sa proposition.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« L'argument se retourne » signifie qu'il peut servir la position opposée. C'est une technique argumentative fréquente."
+    },
+    {
+     "prompt": "Quelle réserve finale la représentante émet-elle ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Elle conteste l'existence de l'obésité.",
+       "correct": false,
+       "rationale": "Elle dit ne pas contester le problème.",
+       "label": "A"
+      },
+      {
+       "text": "Elle refuse toute forme de prévention.",
+       "correct": false,
+       "rationale": "Elle défend l'éducation nutritionnelle.",
+       "label": "B"
+      },
+      {
+       "text": "Elle accepte finalement la taxe sans condition.",
+       "correct": false,
+       "rationale": "Elle pose une condition qu'elle juge rarement remplie.",
+       "label": "C"
+      },
+      {
+       "text": "Elle doute que le produit de la taxe soit consacré à la prévention.",
+       "correct": true,
+       "rationale": "« Encore faut-il que l'argent de la taxe serve vraiment à la prévention, ce qui est rarement le cas. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Encore faut-il que » introduit une condition. « Ce qui est rarement le cas » montre son scepticisme."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "Faut-il taxer les boissons sucrées ?",
+   "context": "Débat entre un nutritionniste et une représentante de l'industrie agroalimentaire.",
+   "document": "H: Les boissons sucrées sont l'une des principales sources de sucre ajouté chez les jeunes. Une taxe a un double effet : elle décourage la consommation et pousse les industriels à réduire le sucre dans leurs recettes. C'est exactement ce qui s'est passé au Royaume-Uni. / F: Je ne conteste pas le problème de l'obésité. Mais une taxe pénalise d'abord les ménages modestes, pour qui ces boissons représentent un petit plaisir. On leur fait la morale par le porte-monnaie. Nous préférons l'éducation nutritionnelle et l'information des consommateurs. / H: L'information, cela fait trente ans qu'on la fait, avec des résultats très limités. Et l'argument social se retourne : ce sont justement les ménages modestes qui souffrent le plus de l'obésité et du diabète. Les protéger, c'est aussi agir sur leur environnement. / F: Encore faut-il que l'argent de la taxe serve vraiment à la prévention, ce qui est rarement le cas.",
+   "vocabulary": [
+    {
+     "terme": "le sucre ajouté",
+     "definition": "le sucre ajouté lors de la fabrication",
+     "exemple": "Ce yaourt ne contient pas de sucre ajouté."
+    },
+    {
+     "terme": "pénaliser",
+     "definition": "désavantager",
+     "exemple": "Cette règle pénalise les petits commerçants."
+    },
+    {
+     "terme": "la prévention",
+     "definition": "les mesures pour éviter un problème",
+     "exemple": "La prévention routière sauve des vies."
+    },
+    {
+     "terme": "l'obésité",
+     "definition": "un excès de poids important et dangereux pour la santé",
+     "exemple": "L'obésité infantile progresse."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "faire la morale",
+     "sens": "donner des leçons de comportement",
+     "exemple": "Arrête de me faire la morale !"
+    },
+    {
+     "expression": "par le porte-monnaie",
+     "sens": "par l'argent, en touchant aux finances",
+     "exemple": "Les automobilistes sont sanctionnés par le porte-monnaie."
+    },
+    {
+     "expression": "encore faut-il que",
+     "sens": "à condition que (doute)",
+     "exemple": "C'est une bonne idée ; encore faut-il qu'elle soit appliquée."
+    }
+   ]
+  },
+  {
+   "code": "CO-SAN-05",
+   "level": "B2",
+   "doc_type": "journal radio",
+   "questions": [
+    {
+     "prompt": "Qu'est-ce que le nouveau texte change ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Il oblige les employeurs à financer la prévention.",
+       "correct": false,
+       "rationale": "Les syndicats regrettent justement que rien ne soit prévu pour la prévention.",
+       "label": "A"
+      },
+      {
+       "text": "Il interdit les heures supplémentaires.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Il supprime la nécessité d'un avis médical.",
+       "correct": false,
+       "rationale": "Un comité médical se prononce.",
+       "label": "C"
+      },
+      {
+       "text": "Il simplifie la procédure pour faire reconnaître l'épuisement professionnel.",
+       "correct": true,
+       "rationale": "« Un comité médical pourra se prononcer sur la base d'un dossier simplifié. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Opposez « Jusqu'ici » (procédure difficile) et « Désormais » (dossier simplifié) pour identifier le changement."
+    },
+    {
+     "prompt": "Quelle est la réaction des syndicats ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Ils approuvent le texte mais regrettent l'absence de mesures de prévention.",
+       "correct": true,
+       "rationale": "« Les syndicats saluent une avancée, tout en regrettant que le texte ne prévoie rien pour la prévention. »",
+       "label": "A"
+      },
+      {
+       "text": "Ils jugent le texte parfait.",
+       "correct": false,
+       "rationale": "Ils expriment un regret.",
+       "label": "B"
+      },
+      {
+       "text": "Ils rejettent le texte.",
+       "correct": false,
+       "rationale": "Ils saluent une avancée.",
+       "label": "C"
+      },
+      {
+       "text": "Ils craignent une hausse des cotisations.",
+       "correct": false,
+       "rationale": "C'est la crainte des employeurs.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Tout en » associe approbation et réserve. Ne confondez pas la position des syndicats et celle des employeurs."
+    },
+    {
+     "prompt": "Que rappellent les spécialistes ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "La fatigue au travail est normale.",
+       "correct": false,
+       "rationale": "Ils distinguent justement fatigue passagère et épuisement.",
+       "label": "A"
+      },
+      {
+       "text": "Les demandes de reconnaissance sont souvent abusives.",
+       "correct": false,
+       "rationale": "C'est la crainte des employeurs, pas l'avis des spécialistes.",
+       "label": "B"
+      },
+      {
+       "text": "L'épuisement professionnel est une maladie sérieuse aux conséquences durables.",
+       "correct": true,
+       "rationale": "Il « ne se résume pas à une fatigue passagère » et peut entraîner « plusieurs mois, voire plusieurs années d'arrêt ».",
+       "label": "C"
+      },
+      {
+       "text": "L'épuisement professionnel guérit en quelques jours.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Ne se résume pas à » corrige une vision réductrice. Le rappel des spécialistes répond implicitement aux soupçons d'abus des employeurs."
+    }
+   ],
+   "speakers": [
+    "F:fr-CH"
+   ],
+   "title": "Le burn-out reconnu comme maladie professionnelle",
+   "document": "F: Le Parlement a adopté hier un texte qui facilite la reconnaissance de l'épuisement professionnel comme maladie liée au travail. Jusqu'ici, les salariés devaient prouver un lien direct et essentiel entre leur état de santé et leurs conditions de travail, une démarche longue et rarement couronnée de succès. Désormais, un comité médical pourra se prononcer sur la base d'un dossier simplifié. Les syndicats saluent une avancée, tout en regrettant que le texte ne prévoie rien pour la prévention. Du côté des employeurs, on craint une hausse des cotisations et des demandes abusives. Les spécialistes, eux, rappellent qu'un épuisement professionnel ne se résume pas à une fatigue passagère : il peut entraîner plusieurs mois, voire plusieurs années d'arrêt de travail.",
+   "vocabulary": [
+    {
+     "terme": "l'épuisement professionnel",
+     "definition": "un état de fatigue extrême lié au travail",
+     "exemple": "Elle est en arrêt pour épuisement professionnel."
+    },
+    {
+     "terme": "une cotisation",
+     "definition": "une somme versée régulièrement pour financer une protection",
+     "exemple": "Les cotisations sociales financent la retraite."
+    },
+    {
+     "terme": "passager",
+     "definition": "qui ne dure pas",
+     "exemple": "Ce n'est qu'une douleur passagère."
+    },
+    {
+     "terme": "un arrêt de travail",
+     "definition": "une période où le salarié ne travaille pas pour raison médicale",
+     "exemple": "Le médecin lui a prescrit un arrêt de travail."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "couronné de succès",
+     "sens": "réussi",
+     "exemple": "Ses efforts ont été couronnés de succès."
+    },
+    {
+     "expression": "se prononcer sur",
+     "sens": "donner un avis officiel sur",
+     "exemple": "Le tribunal se prononcera demain."
+    },
+    {
+     "expression": "voire",
+     "sens": "et même",
+     "exemple": "Cela prendra des semaines, voire des mois."
+    }
+   ]
+  },
+  {
+   "code": "CO-SAN-06",
+   "level": "B2",
+   "doc_type": "interview",
+   "questions": [
+    {
+     "prompt": "Que dit la médecin des critiques envers la méditation ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Elle les partage et va arrêter les séances.",
+       "correct": false,
+       "rationale": "Elle continue les séances.",
+       "label": "A"
+      },
+      {
+       "text": "Elle accuse les critiques d'ignorance.",
+       "correct": false,
+       "rationale": "Elle ne les accuse pas.",
+       "label": "B"
+      },
+      {
+       "text": "Elle les juge totalement infondées.",
+       "correct": false,
+       "rationale": "Elle dit les comprendre.",
+       "label": "C"
+      },
+      {
+       "text": "Elle les comprend car beaucoup de promesses excessives ont circulé.",
+       "correct": true,
+       "rationale": "« Je comprends leur méfiance. On a vu fleurir beaucoup de promesses farfelues. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Elle concède d'abord le bien-fondé de la méfiance avant de préciser sa propre démarche, plus modeste."
+    },
+    {
+     "prompt": "Comment présente-t-elle la méditation ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Comme une obligation pour tous les patients.",
+       "correct": false,
+       "rationale": "« Je ne force personne. »",
+       "label": "A"
+      },
+      {
+       "text": "Comme une alternative aux médicaments.",
+       "correct": false,
+       "rationale": "Elle refuse l'idée de substitut.",
+       "label": "B"
+      },
+      {
+       "text": "Comme un complément aux traitements médicaux.",
+       "correct": true,
+       "rationale": "« C'est un complément aux traitements, pas un substitut. »",
+       "label": "C"
+      },
+      {
+       "text": "Comme un remède qui guérit les maladies.",
+       "correct": false,
+       "rationale": "« Je ne propose pas de guérir quoi que ce soit. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'opposition « complément / substitut » est essentielle : un substitut remplace, un complément s'ajoute."
+    },
+    {
+     "prompt": "Qu'est-ce qui surprend la médecin ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Des patients d'abord méfiants persévèrent souvent dans la pratique.",
+       "correct": true,
+       "rationale": "« Les plus sceptiques au départ sont parfois ceux qui continuent le plus longtemps. »",
+       "label": "A"
+      },
+      {
+       "text": "Les patients enthousiastes guérissent plus vite.",
+       "correct": false,
+       "rationale": "La guérison n'est pas évoquée.",
+       "label": "B"
+      },
+      {
+       "text": "Tous les patients abandonnent rapidement.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Les patients refusent tous la première séance.",
+       "correct": false,
+       "rationale": "Certains sont réceptifs dès la première séance.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Ce qui me frappe, c'est que… » introduit une observation surprenante. Elle propose ensuite une hypothèse avec « Peut-être parce que… »."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "La méditation à l'hôpital",
+   "context": "Un journaliste interroge une médecin qui propose des séances de méditation à ses patients.",
+   "document": "H: La méditation dans un service hospitalier, certains y voient une mode. Que leur répondez-vous ? / F: Que je comprends leur méfiance. On a vu fleurir beaucoup de promesses farfelues autour de la méditation. Mais je ne propose pas de guérir quoi que ce soit. Les études sérieuses montrent qu'une pratique régulière réduit l'anxiété et améliore la tolérance à la douleur chronique. C'est un complément aux traitements, pas un substitut. / H: Comment réagissent les patients ? / F: Ça dépend beaucoup. Certains sont très réceptifs dès la première séance. D'autres trouvent ça déroutant, voire inutile, et c'est leur droit. Je ne force personne. Ce qui me frappe, c'est que les plus sceptiques au départ sont parfois ceux qui continuent le plus longtemps. Peut-être parce qu'ils ne s'attendaient à rien et qu'ils ont été surpris de constater un effet.",
+   "vocabulary": [
+    {
+     "terme": "farfelu",
+     "definition": "bizarre, peu sérieux",
+     "exemple": "Il a des idées farfelues."
+    },
+    {
+     "terme": "chronique",
+     "definition": "qui dure longtemps",
+     "exemple": "Il souffre d'une douleur chronique au dos."
+    },
+    {
+     "terme": "un substitut",
+     "definition": "ce qui remplace autre chose",
+     "exemple": "Le miel est un substitut au sucre."
+    },
+    {
+     "terme": "déroutant",
+     "definition": "qui surprend, déconcerte",
+     "exemple": "Sa réaction était déroutante."
+    },
+    {
+     "terme": "réceptif",
+     "definition": "ouvert, disposé à accepter",
+     "exemple": "Les élèves sont réceptifs à cette méthode."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "voir fleurir",
+     "sens": "voir apparaître en grand nombre",
+     "exemple": "On voit fleurir les trottinettes en ville."
+    },
+    {
+     "expression": "c'est leur droit",
+     "sens": "ils sont libres de le faire",
+     "exemple": "Ils refusent, c'est leur droit."
+    },
+    {
+     "expression": "ça dépend",
+     "sens": "la réponse varie selon les cas",
+     "exemple": "Tu viens ce soir ? Ça dépend du travail."
+    }
+   ]
+  },
+  {
+   "code": "CO-SAN-07",
+   "level": "B2",
+   "doc_type": "reportage",
+   "questions": [
+    {
+     "prompt": "Pourquoi les participants sont-ils présents dans cette salle ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Un médecin leur a prescrit une activité physique adaptée à leur maladie.",
+       "correct": true,
+       "rationale": "« Toutes sont venues sur prescription médicale. »",
+       "label": "A"
+      },
+      {
+       "text": "Ils préparent une compétition sportive.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Ils travaillent à la mairie.",
+       "correct": false,
+       "rationale": "La salle est municipale, mais ils ne sont pas employés de la mairie.",
+       "label": "C"
+      },
+      {
+       "text": "Ils ont gagné un abonnement gratuit.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Sur prescription médicale » signifie qu'un médecin l'a ordonné. L'énumération des maladies le confirme."
+    },
+    {
+     "prompt": "Quels résultats Bernard a-t-il obtenus ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Un nouveau malaise cardiaque.",
+       "correct": false,
+       "rationale": "Il en avait peur, mais n'en a pas eu.",
+       "label": "A"
+      },
+      {
+       "text": "Une guérison complète de son cœur.",
+       "correct": false,
+       "rationale": "Son traitement est réduit, pas supprimé.",
+       "label": "B"
+      },
+      {
+       "text": "Une perte de poids et une réduction de son traitement.",
+       "correct": true,
+       "rationale": "« J'ai perdu huit kilos et mon cardiologue a réduit mon traitement. »",
+       "label": "C"
+      },
+      {
+       "text": "Un retour à la compétition.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Attention à ne pas exagérer : « réduit mon traitement » ne signifie pas guérison complète."
+    },
+    {
+     "prompt": "Quelle limite la journaliste souligne-t-elle ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les éducateurs sont mal formés.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Les exercices sont trop difficiles.",
+       "correct": false,
+       "rationale": "Ils sont adaptés à chacun.",
+       "label": "B"
+      },
+      {
+       "text": "Le coût non remboursé peut décourager certains patients.",
+       "correct": true,
+       "rationale": "« L'activité n'est pas remboursée… de nombreux patients renoncent faute de moyens. »",
+       "label": "C"
+      },
+      {
+       "text": "Les médecins refusent de prescrire du sport.",
+       "correct": false,
+       "rationale": "Ils en prescrivent.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Une limite de taille » signifie une limite importante. Le « pourtant » introduit un contraste avec les bénéfices décrits."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Le sport sur ordonnance",
+   "context": "Reportage dans une maison sport-santé où des médecins prescrivent de l'activité physique.",
+   "document": "F: Dans cette salle municipale, une dizaine de personnes font des exercices d'équilibre sous l'œil d'un éducateur sportif. Toutes sont venues sur prescription médicale. Diabète, hypertension, suites de cancer : l'activité physique adaptée fait désormais partie de leur traitement. Bernard, soixante-cinq ans, a été orienté ici après un infarctus. / H: Au début, j'étais sceptique. Je n'avais pas fait de sport depuis le lycée et j'avais peur de faire un nouveau malaise. Mais l'éducateur adapte tout à mon état. En six mois, j'ai perdu huit kilos et mon cardiologue a réduit mon traitement. / F: Le dispositif a pourtant une limite de taille : l'activité n'est pas remboursée par l'assurance maladie. Ici, la mairie prend en charge une partie du coût, mais ailleurs, de nombreux patients renoncent faute de moyens.",
+   "vocabulary": [
+    {
+     "terme": "une prescription",
+     "definition": "une recommandation écrite d'un médecin",
+     "exemple": "Ce médicament est délivré sur prescription."
+    },
+    {
+     "terme": "un infarctus",
+     "definition": "une crise cardiaque",
+     "exemple": "Il a fait un infarctus à cinquante ans."
+    },
+    {
+     "terme": "un éducateur sportif",
+     "definition": "un professionnel qui encadre une activité physique",
+     "exemple": "L'éducateur sportif adapte les exercices."
+    },
+    {
+     "terme": "rembourser",
+     "definition": "rendre l'argent dépensé",
+     "exemple": "La sécurité sociale rembourse ce médicament."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "sous l'œil de",
+     "sens": "sous la surveillance de",
+     "exemple": "Les enfants jouent sous l'œil de leurs parents."
+    },
+    {
+     "expression": "de taille",
+     "sens": "important, considérable",
+     "exemple": "C'est un problème de taille."
+    },
+    {
+     "expression": "faute de moyens",
+     "sens": "par manque d'argent",
+     "exemple": "Faute de moyens, le projet a été abandonné."
+    }
+   ]
+  },
+  {
+   "code": "CO-SAN-08",
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "questions": [
+    {
+     "prompt": "Pourquoi le chroniqueur appelle-t-il à interpréter le chiffre avec prudence ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Parce que l'enquête est fausse.",
+       "correct": false,
+       "rationale": "Il ne remet pas en cause l'enquête elle-même.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que les étudiants mentent.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que le chiffre a baissé.",
+       "correct": false,
+       "rationale": "Il parle d'une hausse.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que la hausse reflète en partie une plus grande liberté de parole et que les symptômes ne sont pas une maladie diagnostiquée.",
+       "correct": true,
+       "rationale": "Il cite « une parole qui se libère » et précise que « symptômes dépressifs ne signifie pas dépression ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "« D'abord… Ensuite… » structure deux raisons de nuancer le chiffre."
+    },
+    {
+     "prompt": "Quelle position le chroniqueur adopte-t-il finalement ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Le problème est exagéré par les médias.",
+       "correct": false,
+       "rationale": "Il refuse de minimiser.",
+       "label": "A"
+      },
+      {
+       "text": "Les étudiants doivent se débrouiller seuls.",
+       "correct": false,
+       "rationale": "Il critique le manque d'offre de soins.",
+       "label": "B"
+      },
+      {
+       "text": "Le phénomène va disparaître naturellement.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Le problème est réel et ne doit pas être minimisé.",
+       "correct": true,
+       "rationale": "« Il serait irresponsable de minimiser le phénomène… les facteurs de risque sont bien réels. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Cela dit » marque un tournant : après avoir nuancé le chiffre, il affirme la réalité du problème."
+    },
+    {
+     "prompt": "Que signifie la dernière phrase ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les étudiants doivent prendre rendez-vous plus tôt.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "A"
+      },
+      {
+       "text": "Les psychologues travaillent trop lentement.",
+       "correct": false,
+       "rationale": "Il critique l'offre insuffisante, pas les psychologues.",
+       "label": "B"
+      },
+      {
+       "text": "Un délai aussi long est dangereux pour une personne en souffrance.",
+       "correct": true,
+       "rationale": "« En cas de détresse, trois mois, c'est une éternité. »",
+       "label": "C"
+      },
+      {
+       "text": "Trois mois est un délai raisonnable.",
+       "correct": false,
+       "rationale": "Il dit l'inverse.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'hyperbole « une éternité » souligne que le temps est vécu comme interminable dans la souffrance. « Or » introduit le fait qui rend la situation inacceptable."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "title": "La santé mentale des étudiants",
+   "document": "H: Un étudiant sur trois déclare des symptômes dépressifs : c'est le résultat d'une enquête nationale publiée cette semaine. Un chiffre alarmant, mais qu'il faut interpréter avec prudence. D'abord parce que les jeunes parlent aujourd'hui plus facilement de leur santé mentale, ce qui est une bonne nouvelle : une partie de la hausse traduit une parole qui se libère. Ensuite parce que « symptômes dépressifs » ne signifie pas « dépression ». Cela dit, il serait irresponsable de minimiser le phénomène. Précarité financière, isolement, pression des résultats : les facteurs de risque sont bien réels. Et l'offre de soins ne suit pas. Dans certaines universités, il faut attendre trois mois pour obtenir un rendez-vous avec un psychologue. Or, en cas de détresse, trois mois, c'est une éternité.",
+   "vocabulary": [
+    {
+     "terme": "la précarité",
+     "definition": "une situation instable, notamment financière",
+     "exemple": "La précarité touche de nombreux étudiants."
+    },
+    {
+     "terme": "la détresse",
+     "definition": "une souffrance profonde, un sentiment d'abandon",
+     "exemple": "Il a appelé à l'aide dans un moment de détresse."
+    },
+    {
+     "terme": "minimiser",
+     "definition": "présenter comme moins important",
+     "exemple": "Ne minimise pas tes efforts."
+    },
+    {
+     "terme": "un symptôme",
+     "definition": "un signe d'une maladie",
+     "exemple": "La fièvre est un symptôme de la grippe."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "une parole qui se libère",
+     "sens": "des personnes qui osent enfin parler",
+     "exemple": "Depuis quelques années, la parole des victimes se libère."
+    },
+    {
+     "expression": "ne pas suivre",
+     "sens": "ne pas être à la hauteur, ne pas augmenter au même rythme",
+     "exemple": "La demande augmente mais l'offre ne suit pas."
+    },
+    {
+     "expression": "c'est une éternité",
+     "sens": "c'est extrêmement long",
+     "exemple": "Attendre une heure, c'est une éternité."
+    }
+   ]
+  }
+ ]
+}
