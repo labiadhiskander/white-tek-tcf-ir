@@ -1,0 +1,500 @@
+@code B2-BLANC-01
+@series B2
+@title Examen blanc B2 n° 1 – Société et vie citoyenne
+@level B2
+@description Examen complet de niveau B2 aux durées officielles : participation citoyenne, voisinage, services publics, solidarité.
+
+## CO 1 | B2 | message vocal | intention | F:fr-FR
+DOC: F: Bonjour Monsieur Perrin, c'est Hélène Vasseur, la présidente du conseil syndical. Je vous appelle au sujet des travaux de la toiture. Plusieurs copropriétaires trouvent le devis trop élevé et souhaitent en demander un second avant le vote. Comme vous êtes du métier, accepteriez-vous de jeter un œil aux deux propositions avant l'assemblée du 12 ? Ça nous rendrait vraiment service. Rappelez-moi quand vous pouvez.
+Q: Pourquoi Hélène Vasseur appelle-t-elle M. Perrin ?
++ Pour lui demander un avis de professionnel sur des devis. | « Comme vous êtes du métier, accepteriez-vous de jeter un œil aux deux propositions ».
+- Pour lui annoncer que les travaux sont votés. | Le vote n'a pas encore eu lieu : il est prévu à l'assemblée du 12.
+- Pour lui reprocher le prix de son devis. | Le devis jugé cher vient d'une entreprise, pas de M. Perrin.
+- Pour lui proposer de devenir président du conseil syndical. | C'est elle la présidente ; elle ne lui propose aucun poste.
+EXP: L'intention apparaît dans la question polie au conditionnel « accepteriez-vous de jeter un œil ». « Être du métier » signifie avoir une compétence professionnelle dans le domaine. Les autres éléments (devis élevé, assemblée) sont le contexte de la demande.
+
+## CO 2 | B2 | reportage radio | information précise | H:fr-FR
+DOC: H: Dans cette commune de la Drôme, la mairie a lancé il y a deux ans un budget participatif : chaque habitant de plus de seize ans peut proposer un projet et voter. Cette année, sur les quarante-deux propositions déposées, trois ont été retenues : un abri pour les vélos près de la gare, des bancs ombragés sur la place du marché et un atelier de réparation ouvert un samedi sur deux.
+Q: Qui peut participer au budget participatif de cette commune ?
++ Les habitants âgés de plus de seize ans. | « chaque habitant de plus de seize ans peut proposer un projet et voter ».
+- Uniquement les électeurs inscrits sur les listes. | Le critère est l'âge (seize ans), pas l'inscription électorale.
+- Les associations locales seulement. | Le dispositif s'adresse à chaque habitant, pas aux associations.
+- Les membres du conseil municipal. | C'est la mairie qui organise ; les habitants proposent et votent.
+EXP: L'information précise est donnée au début : « chaque habitant de plus de seize ans ». Attention au piège des électeurs : à seize ans, on ne vote pas aux élections, ce qui montre que le budget participatif est ouvert plus largement.
+
+## CO 3 | B2 | conversation | opinion | F:fr-FR, H:fr-FR
+DOC: F: Tu as vu ? La mairie veut fermer la rue de l'école aux voitures le matin. / H: Oui, et franchement, je trouve ça très bien. Les parents se garaient n'importe comment, c'était dangereux. / F: Peut-être, mais moi, je dépose ma fille en allant au travail. Je vais devoir me garer à trois cents mètres. / H: Trois cents mètres à pied, ça ne va pas te tuer ! Et ta fille sera plus en sécurité.
+Q: Quelle est l'attitude de l'homme face à la mesure ?
++ Il la soutient et minimise la contrainte pour la femme. | Il trouve la mesure « très bien » et répond « trois cents mètres à pied, ça ne va pas te tuer ».
+- Il la critique parce qu'elle gêne les parents. | C'est la femme qui évoque la gêne ; lui défend la mesure.
+- Il hésite et attend d'en voir les effets. | Il est catégorique dès le début : « franchement, je trouve ça très bien ».
+- Il pense qu'elle sera inefficace. | Il pense au contraire qu'elle rendra les enfants plus en sécurité.
+EXP: L'opinion de l'homme est explicite (« je trouve ça très bien ») et renforcée par l'ironie « ça ne va pas te tuer », qui minimise l'objection de la femme. Distinguez bien les deux locuteurs : la femme exprime une réserve personnelle.
+
+## CO 4 | B2 | annonce publique | information précise | F:fr-FR
+DOC: F: Information aux usagers : en raison de la mise en place du nouveau logiciel de gestion, l'ensemble des services de la mairie seront fermés au public le lundi 3 mars toute la journée. Les demandes de cartes d'identité et de passeports déjà programmées ce jour-là seront reportées au samedi 8 mars, aux mêmes horaires. Les personnes concernées recevront un SMS de confirmation.
+Q: Que se passe-t-il pour les rendez-vous de cartes d'identité prévus le 3 mars ?
++ Ils sont déplacés au samedi suivant, à la même heure. | « reportées au samedi 8 mars, aux mêmes horaires ».
+- Ils sont annulés et doivent être repris en ligne. | Ils ne sont pas annulés mais reportés automatiquement.
+- Ils sont maintenus malgré la fermeture. | Tous les services sont fermés le 3 mars.
+- Ils auront lieu le lundi suivant. | La nouvelle date est un samedi, le 8 mars.
+EXP: Le mot clé est « reportées » : la date change, les horaires restent les mêmes. Le SMS de confirmation est une information complémentaire qui montre que les usagers n'ont aucune démarche à faire.
+
+## CO 5 | B2 | interview radio | compréhension globale | H:fr-FR, F:fr-FR
+DOC: H: Vous avez créé une épicerie solidaire dans votre quartier. Quel est le principe ? / F: Les familles orientées par les travailleurs sociaux paient leurs courses entre dix et trente pour cent du prix habituel. Mais l'épicerie est aussi ouverte à tous, au prix normal, et ce sont ces achats qui financent en partie les réductions. L'idée, c'est que tout le monde fasse ses courses au même endroit, sans qu'on sache qui bénéficie de l'aide.
+Q: Quelle est la particularité de cette épicerie ?
++ Elle mélange les clients aidés et les clients payant le prix normal. | « ouverte à tous, au prix normal… sans qu'on sache qui bénéficie de l'aide ».
+- Elle distribue des colis gratuits aux familles. | Les familles aidées paient entre dix et trente pour cent du prix.
+- Elle est réservée aux familles orientées par les services sociaux. | Elle est « aussi ouverte à tous ».
+- Elle ne vend que des produits donnés par les supermarchés. | L'origine des produits n'est pas mentionnée.
+EXP: Le cœur du projet est la mixité : les achats au prix normal financent les réductions, et personne ne sait qui est aidé. Le subjonctif « sans qu'on sache » exprime cette volonté de discrétion, qui préserve la dignité des bénéficiaires.
+
+## CO 6 | B2 | chronique radio | inférence | H:fr-FR
+DOC: H: On nous annonçait la fin des bureaux de poste, et pourtant, dans les villages, ils se transforment. À Saint-Clair, l'agence postale est désormais installée dans la boulangerie : on y achète son pain, on envoie un colis et on retire de l'argent. La boulangère a été formée en trois jours. Les habitants, d'abord méfiants, ne reviendraient en arrière pour rien au monde : les horaires sont deux fois plus larges qu'avant.
+Q: Que peut-on déduire de la réaction des habitants ?
++ Ils sont aujourd'hui satisfaits de la nouvelle organisation. | « ne reviendraient en arrière pour rien au monde ».
+- Ils regrettent l'ancien bureau de poste. | Ils étaient méfiants au début, mais ne veulent plus revenir en arrière.
+- Ils jugent la boulangère mal formée. | Rien n'indique une critique de sa formation.
+- Ils trouvent les horaires trop limités. | Les horaires sont « deux fois plus larges qu'avant ».
+EXP: L'expression « ne reviendraient en arrière pour rien au monde » marque une satisfaction forte. Le connecteur « d'abord méfiants » indique une évolution d'attitude : il faut retenir la situation actuelle, pas la réaction initiale.
+
+## CO 7 | B2 | débat radio | opinion | F:fr-FR, H:fr-FR
+DOC: F: Le vote par internet augmenterait la participation, surtout chez les jeunes. / H: Je n'en suis pas si sûr. Les pays qui l'ont testé n'ont pas vu de hausse spectaculaire. Et surtout, le bureau de vote garantit que personne ne vous influence au moment de voter. Chez soi, qui peut certifier qu'un conjoint ou un employeur ne regarde pas par-dessus votre épaule ?
+Q: Quel argument l'homme oppose-t-il au vote par internet ?
++ Le secret du vote serait moins bien protégé. | « qui peut certifier qu'un conjoint ou un employeur ne regarde pas par-dessus votre épaule ? »
+- Le coût du système serait trop élevé. | Il ne parle jamais du coût.
+- Les jeunes ne savent pas utiliser internet. | Il ne met pas en cause les compétences des jeunes.
+- Les pirates informatiques pourraient modifier les résultats. | Il évoque une influence humaine, pas le piratage.
+EXP: L'argument principal est introduit par « et surtout » : le bureau de vote protège l'électeur des pressions. La question rhétorique finale illustre le risque d'influence. L'argument sur les pays tests est secondaire.
+
+## CO 8 | B2 | message professionnel | information précise | H:fr-FR
+DOC: H: Bonjour à tous, petit rappel avant la collecte de dimanche : les bénévoles qui s'occupent de l'accueil arrivent à huit heures, les autres à neuf heures. Pensez à apporter des gants, la mairie n'en fournira pas cette année. Les sacs, en revanche, sont distribués sur place. Si vous avez un empêchement, prévenez Karima avant vendredi midi, pas après, pour qu'on puisse réorganiser les équipes.
+Q: Que doivent apporter les bénévoles ?
++ Des gants. | « Pensez à apporter des gants, la mairie n'en fournira pas cette année ».
+- Des sacs. | Les sacs « sont distribués sur place ».
+- Un badge d'accueil. | Aucun badge n'est mentionné.
+- Rien, tout est fourni par la mairie. | La mairie ne fournit pas de gants cette année.
+EXP: L'opposition « en revanche » distingue ce qu'il faut apporter (les gants) de ce qui est fourni (les sacs). Les horaires et la date limite pour prévenir sont des détails pour d'autres questions possibles.
+
+## CO 9 | B2 | interview | intention | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes médiateur de quartier. Concrètement, à quoi servez-vous ? / H: Mon rôle, ce n'est pas de donner raison à l'un ou à l'autre. Quand deux voisins se disputent pour du bruit ou une haie trop haute, je les rencontre séparément, puis ensemble, pour qu'ils trouvent eux-mêmes une solution. Si je tranchais à leur place, le conflit reprendrait dans six mois.
+Q: Selon le médiateur, pourquoi ne faut-il pas trancher à la place des voisins ?
++ Parce qu'une solution imposée ne dure pas. | « Si je tranchais à leur place, le conflit reprendrait dans six mois ».
+- Parce qu'il n'en a pas légalement le droit. | Il ne parle pas de droit, mais d'efficacité.
+- Parce que les voisins refusent de le rencontrer. | Il les rencontre séparément puis ensemble.
+- Parce qu'il ne connaît pas assez le quartier. | Rien ne l'indique.
+EXP: L'hypothèse « si je tranchais…, le conflit reprendrait » justifie sa méthode : une solution construite par les voisins eux-mêmes est plus durable. « Trancher » signifie décider à la place des personnes concernées.
+
+## CO 10 | B2 | reportage | compréhension globale | H:fr-FR
+DOC: H: Depuis septembre, une dizaine de retraités de la commune accompagnent bénévolement les collégiens à pied le matin. Les parents inscrivent leurs enfants sur une application, et les accompagnateurs suivent un trajet fixe, avec des arrêts. Le dispositif devait rester expérimental, mais face au succès, le département envisage de l'étendre à trois autres collèges dès la rentrée prochaine.
+Q: Quel est le sujet principal de ce reportage ?
++ Un système d'accompagnement des collégiens par des retraités, appelé à s'étendre. | Il décrit le dispositif puis annonce son extension possible à trois collèges.
+- Une application payante pour suivre les trajets des enfants. | L'application sert à l'inscription ; elle n'est pas le sujet et rien ne dit qu'elle est payante.
+- La fermeture d'un collège faute d'élèves. | Aucune fermeture n'est évoquée.
+- Un conflit entre parents et retraités. | Le reportage parle d'un succès, pas d'un conflit.
+EXP: Pour la compréhension globale, repérez le sujet (l'accompagnement à pied par des retraités) et l'évolution annoncée (« le département envisage de l'étendre »). Les détails pratiques (application, arrêts) ne constituent pas l'idée principale.
+
+## CO 11 | B2 | conversation administrative | information précise | F:fr-FR, H:fr-FR
+DOC: F: Bonjour, je voudrais m'inscrire sur les listes électorales. Je viens d'emménager. / H: Très bien. Vous avez un justificatif de domicile de moins de trois mois et une pièce d'identité ? / F: J'ai mon bail et ma carte d'identité. / H: Le bail ne suffit pas, il me faut une facture d'électricité, d'eau ou de téléphone fixe. Sinon, vous pouvez aussi faire la démarche en ligne en joignant les mêmes pièces.
+Q: Pourquoi la femme ne peut-elle pas s'inscrire immédiatement ?
++ Il lui manque un justificatif de domicile accepté. | « Le bail ne suffit pas, il me faut une facture… ».
+- Sa carte d'identité n'est plus valable. | Rien n'indique que sa carte soit périmée.
+- L'inscription ne se fait plus qu'en ligne. | La démarche en ligne est une possibilité, pas une obligation.
+- Elle n'habite pas encore la commune. | Elle vient d'emménager dans la commune.
+EXP: L'agent refuse le bail comme justificatif : il faut une facture récente. Le connecteur « sinon » introduit une alternative (la démarche en ligne), mais les pièces exigées restent les mêmes.
+
+## CO 12 | B2 | chronique | opinion | F:fr-FR
+DOC: F: On parle beaucoup de la solitude des personnes âgées, et c'est légitime. Mais on oublie une autre solitude, plus discrète : celle des jeunes adultes qui arrivent dans une grande ville pour leur premier emploi. Ils ne connaissent personne, travaillent beaucoup, et n'osent pas l'avouer, parce qu'à vingt-cinq ans, on est censé avoir une vie sociale débordante. Les associations, elles, l'ont bien compris.
+Q: Quel est le point de vue de la chroniqueuse ?
++ La solitude des jeunes actifs est réelle mais peu reconnue. | « une autre solitude, plus discrète… et n'osent pas l'avouer ».
+- La solitude des personnes âgées est exagérée. | Elle juge cette préoccupation « légitime ».
+- Les jeunes adultes ont une vie sociale trop intense. | C'est l'image qu'on leur prête, pas la réalité qu'elle décrit.
+- Les associations ignorent ce problème. | Au contraire, elles « l'ont bien compris ».
+EXP: La chroniqueuse concède d'abord (« c'est légitime ») puis introduit sa thèse avec « mais on oublie ». L'expression « on est censé » montre l'écart entre une attente sociale et la réalité vécue par les jeunes.
+
+## CO 13 | B2 | interview radio | inférence | H:fr-FR, F:fr-FR
+DOC: H: Votre association de défense des locataires a obtenu gain de cause contre un grand bailleur. Vous êtes satisfaite ? / F: Satisfaite, oui, mais prudente. Le tribunal a reconnu que les charges étaient surfacturées, c'est une victoire. Maintenant, il faut que le remboursement arrive réellement sur les comptes des familles. Avec ce bailleur, on a déjà vu des décisions de justice rester lettre morte pendant des années.
+Q: Pourquoi la représentante reste-t-elle prudente ?
++ Elle craint que le bailleur tarde à appliquer la décision. | « on a déjà vu des décisions de justice rester lettre morte pendant des années ».
+- Elle pense que le tribunal s'est trompé. | Elle parle d'une « victoire ».
+- Elle s'attend à ce que le bailleur fasse appel et gagne. | Elle ne parle pas d'appel, mais de non-application.
+- Elle trouve le remboursement trop faible. | Le montant n'est pas discuté.
+EXP: « Rester lettre morte » signifie ne pas être appliqué. Sa prudence vient donc de l'expérience passée avec ce bailleur. La structure « satisfaite, oui, mais prudente » annonce une nuance qu'il faut expliquer.
+
+## CO 14 | B2 | annonce radio | information précise | H:fr-FR
+DOC: H: La préfecture rappelle que le brûlage des déchets verts est interdit toute l'année sur l'ensemble du département, y compris dans les jardins privés. Les contrevenants s'exposent à une amende pouvant aller jusqu'à sept cent cinquante euros. Les tailles de haies et les feuilles mortes peuvent être déposées gratuitement en déchetterie ou transformées en compost.
+Q: Que rappelle la préfecture ?
++ Il est interdit de brûler ses déchets verts, même chez soi. | « interdit toute l'année… y compris dans les jardins privés ».
+- Le brûlage est autorisé en dehors de l'été. | L'interdiction vaut « toute l'année ».
+- Les déchetteries vont devenir payantes. | Le dépôt est au contraire « gratuit ».
+- Il faut une autorisation pour faire du compost. | Le compost est présenté comme une solution, sans autorisation.
+EXP: Les mots « toute l'année » et « y compris » renforcent l'interdiction et éliminent les distracteurs sur les saisons et les jardins privés. La fin de l'annonce propose des alternatives.
+
+## CO 15 | B2 | conversation | intention | H:fr-FR, F:fr-FR
+DOC: H: Dis, pour la fête des voisins, tu crois que je pourrais demander à Madame Roux de nous prêter sa cour ? / F: Tu peux toujours essayer… Mais tu te souviens de l'an dernier ? On avait laissé des chaises abîmées et elle avait mis trois semaines à nous redire bonjour. / H: Ah oui… Bon, et si je lui proposais de l'aider à tout ranger le lendemain ?
+Q: Que suggère la femme ?
++ Que la demande risque d'être mal accueillie. | Elle rappelle l'incident de l'an dernier et la réaction de Madame Roux.
+- Qu'il faut organiser la fête ailleurs, chez elle. | Elle ne propose aucun autre lieu.
+- Que Madame Roux sera ravie d'aider. | Le souvenir évoqué montre plutôt sa méfiance.
+- Que la fête des voisins doit être annulée. | Elle ne parle pas d'annulation.
+EXP: « Tu peux toujours essayer… » exprime un doute. L'anecdote (chaises abîmées, trois semaines sans bonjour) laisse entendre, sans le dire directement, que Madame Roux risque de refuser. L'homme comprend et propose une compensation.
+
+## CO 16 | B2 | reportage | compréhension globale | F:fr-FR
+DOC: F: Dans ce lycée de banlieue, les élèves de terminale ont organisé un faux procès devant un vrai magistrat. Pendant trois mois, ils ont préparé les plaidoiries, étudié le dossier et appris le vocabulaire juridique. Pour beaucoup, c'était la première fois qu'ils entraient dans un palais de justice. Plusieurs envisagent désormais des études de droit, une filière qu'ils croyaient réservée à d'autres.
+Q: Quel est l'effet principal du projet sur les élèves ?
++ Il leur a ouvert des perspectives d'études qu'ils n'imaginaient pas. | « Plusieurs envisagent désormais des études de droit, une filière qu'ils croyaient réservée à d'autres ».
+- Il les a dégoûtés du système judiciaire. | Au contraire, certains veulent étudier le droit.
+- Il leur a permis d'obtenir directement leur baccalauréat. | Rien n'indique de lien avec le diplôme.
+- Il les a préparés à devenir jurés. | Le rôle de juré n'est pas évoqué.
+EXP: La conclusion du reportage donne l'effet principal : un changement de regard sur les études de droit. L'expression « réservée à d'autres » révèle un sentiment d'exclusion sociale que le projet a contribué à dépasser.
+
+## CO 17 | B2 | interview | opinion | H:fr-FR, F:fr-FR
+DOC: H: Faut-il rendre obligatoire une journée de bénévolat par an pour les salariés ? / F: L'intention est bonne, mais le mot « obligatoire » me gêne. Le bénévolat repose sur la liberté de s'engager. En revanche, que les entreprises accordent un jour de congé rémunéré à ceux qui veulent s'investir dans une association, ça, j'y suis tout à fait favorable.
+Q: Quelle est la position de la femme ?
++ Elle préfère un jour de congé volontaire à une obligation. | « que les entreprises accordent un jour de congé… à ceux qui veulent s'investir ».
+- Elle soutient pleinement l'obligation. | Le mot « obligatoire » la « gêne ».
+- Elle est opposée à toute forme de bénévolat en entreprise. | Elle soutient un dispositif volontaire.
+- Elle pense que les associations n'ont pas besoin d'aide. | Elle ne dit rien de tel.
+EXP: La femme distingue l'intention (bonne) de la modalité (l'obligation, qu'elle refuse). « En revanche » introduit sa proposition alternative. La mise en relief « ça, j'y suis tout à fait favorable » souligne sa vraie position.
+
+## CO 18 | B2 | message vocal | information précise | F:fr-FR
+DOC: F: Bonjour, ici le centre communal d'action sociale. Nous avons bien reçu votre dossier de demande d'aide au chauffage. Il est complet, sauf l'avis d'imposition : vous nous avez envoyé celui de l'année dernière, or il nous faut le plus récent. Dès réception, la commission examinera votre demande ; elle se réunit le premier mardi de chaque mois.
+Q: Quel document manque au dossier ?
++ L'avis d'imposition le plus récent. | « vous nous avez envoyé celui de l'année dernière, or il nous faut le plus récent ».
+- Un justificatif de domicile. | Le dossier est complet à l'exception de l'avis d'imposition.
+- Une facture de chauffage. | Aucune facture n'est demandée.
+- Le formulaire de demande signé. | Seul l'avis d'imposition pose problème.
+EXP: Le connecteur « sauf » isole l'élément manquant, et « or » explique pourquoi le document envoyé ne convient pas. La date de la commission est un détail complémentaire.
+
+## CO 19 | B2 | débat | inférence | H:fr-FR, F:fr-FR
+DOC: H: Ces jardins partagés, c'est sympathique, mais ils occupent des terrains où l'on pourrait construire des logements. / F: Construire où ? Sur le dernier espace vert du quartier ? Les familles qui vivent ici n'ont pas de balcon. Si vous supprimez le jardin, vous aurez des logements de plus, mais aussi des enfants qui n'auront plus aucun endroit pour jouer dehors.
+Q: Que laisse entendre la femme ?
++ Que le besoin de logements ne justifie pas de sacrifier tout espace vert. | Elle rappelle qu'il s'agit du « dernier espace vert » et évoque les enfants sans lieu de jeu.
+- Qu'elle s'oppose à toute construction de logements en ville. | Elle refuse ce terrain précis, pas toute construction.
+- Que les jardins partagés sont trop chers à entretenir. | Le coût n'est pas évoqué.
+- Que les familles du quartier ont toutes un jardin privé. | Elle dit au contraire qu'elles n'ont pas de balcon.
+EXP: Par une question rhétorique (« Construire où ? »), la femme conteste l'argument de l'homme. Elle ne nie pas le besoin de logements, mais montre le coût d'une telle décision pour les familles.
+
+## CO 20 | B2 | conférence | compréhension globale | H:fr-FR
+DOC: H: Contrairement à une idée reçue, les jeunes ne se désintéressent pas de la politique ; ils se détournent surtout des formes traditionnelles de participation. Ils votent moins, adhèrent rarement à un parti, mais signent des pétitions, s'engagent dans des associations ou participent à des mobilisations ponctuelles. Leur engagement est plus intermittent, plus lié à des causes précises qu'à une idéologie globale.
+Q: Quelle idée principale le conférencier défend-il ?
++ Les jeunes s'engagent autrement, de façon plus ponctuelle et ciblée. | « Leur engagement est plus intermittent, plus lié à des causes précises ».
+- Les jeunes se désintéressent totalement de la politique. | C'est l'« idée reçue » qu'il conteste.
+- Les jeunes adhèrent massivement aux partis politiques. | Ils adhèrent « rarement à un parti ».
+- Les jeunes votent plus que leurs parents. | Ils « votent moins ».
+EXP: La formule « contrairement à une idée reçue » annonce que le conférencier va contredire une opinion répandue. Sa thèse : un changement des formes d'engagement, non un désintérêt.
+
+## CO 21 | B2 | interview radio | intention | F:fr-FR, H:fr-FR
+DOC: F: Monsieur le maire, les habitants se plaignent de la fermeture de la piscine municipale. / H: Je les comprends, croyez-moi. Mais la toiture menaçait de s'effondrer : je ne pouvais pas prendre le risque d'un accident. Les travaux commenceront en avril, et en attendant, nous avons négocié des créneaux avec la piscine de la ville voisine, avec une navette gratuite le mercredi et le samedi.
+Q: Que cherche à faire le maire dans sa réponse ?
++ Justifier la fermeture et présenter une solution temporaire. | Il explique le danger de la toiture et décrit les créneaux et la navette.
+- Annoncer la fermeture définitive de la piscine. | Les travaux sont prévus pour avril : la fermeture est provisoire.
+- Rejeter la responsabilité sur la ville voisine. | La ville voisine est un partenaire, pas une cause.
+- Reprocher aux habitants leurs plaintes. | Il dit au contraire qu'il les « comprend ».
+EXP: Le maire montre d'abord de l'empathie (« je les comprends »), justifie la décision (« je ne pouvais pas prendre le risque »), puis propose une solution provisoire (« en attendant »). C'est une stratégie classique de communication publique.
+
+## CO 22 | B2 | reportage | information précise | H:fr-FR
+DOC: H: Pour lutter contre l'isolement numérique, la médiathèque propose désormais des permanences d'aide aux démarches en ligne, le mardi et le jeudi après-midi. Un conseiller aide gratuitement les habitants à déclarer leurs revenus, à prendre un rendez-vous médical ou à remplir un dossier de retraite. Il n'est pas nécessaire d'avoir un ordinateur : des postes sont mis à disposition, mais il faut réserver par téléphone.
+Q: Quelle condition faut-il remplir pour bénéficier du service ?
++ Réserver un créneau par téléphone. | « mais il faut réserver par téléphone ».
+- Venir avec son propre ordinateur. | « Il n'est pas nécessaire d'avoir un ordinateur ».
+- Payer une adhésion à la médiathèque. | Le service est gratuit.
+- Avoir plus de soixante-cinq ans. | Aucune condition d'âge n'est mentionnée.
+EXP: La seule contrainte est introduite par « mais » à la fin : la réservation téléphonique. La phrase négative « il n'est pas nécessaire » élimine le distracteur sur l'ordinateur.
+
+## CO 23 | B2 | conversation | opinion | F:fr-FR, H:fr-FR
+DOC: F: Tu vas signer la pétition contre l'antenne-relais ? / H: Je ne sais pas trop. On se plaint tous du mauvais réseau, et quand on installe une antenne, tout le monde proteste. / F: Oui, mais là, elle sera à cinquante mètres de l'école. / H: Les études sérieuses ne montrent pas de danger à ces niveaux d'exposition. Cela dit, je comprends que les parents aient besoin d'être rassurés. Une réunion publique serait plus utile qu'une pétition.
+Q: Quelle est la position de l'homme ?
++ Il doute du danger mais souhaite qu'on informe les parents. | Il cite les études, puis propose une réunion publique pour rassurer.
+- Il est fermement opposé à l'antenne. | Il ne sait pas s'il signera et doute du danger.
+- Il pense que l'antenne est dangereuse pour les enfants. | Il dit que les études ne montrent pas de danger.
+- Il refuse toute discussion avec les parents. | Il propose au contraire une réunion publique.
+EXP: L'homme relève une contradiction (on veut du réseau mais on refuse les antennes), s'appuie sur les études, puis nuance avec « cela dit ». Sa proposition finale montre une position modérée.
+
+## CO 24 | B2 | annonce | inférence | F:fr-FR
+DOC: F: Chers usagers, nous vous informons que la ligne de bus numéro 12 sera prolongée jusqu'au nouveau quartier des Vignes à partir du 1er septembre. En contrepartie, les passages seront espacés de vingt minutes au lieu de quinze aux heures creuses. Nous vous remercions de votre compréhension et vous invitons à consulter les nouveaux horaires sur notre site.
+Q: Que comprend-on de cette annonce ?
++ Le prolongement de la ligne entraîne une baisse de fréquence à certaines heures. | « En contrepartie, les passages seront espacés de vingt minutes au lieu de quinze aux heures creuses ».
+- La ligne 12 va être supprimée. | Elle est au contraire prolongée.
+- Les bus passeront plus souvent toute la journée. | La fréquence baisse aux heures creuses.
+- Le quartier des Vignes n'aura plus de bus. | C'est justement le quartier nouvellement desservi.
+EXP: « En contrepartie » annonce un inconvénient lié à l'avantage. La formule « nous vous remercions de votre compréhension » confirme qu'il s'agit d'une contrainte pour les usagers.
+
+## CO 25 | B2 | entretien radio | compréhension globale | H:fr-FR, F:fr-FR
+DOC: H: Vous avez écrit un guide pour aider les nouveaux arrivants à comprendre l'administration française. Pourquoi ? / F: Parce que la langue n'est pas le seul obstacle. Même des gens qui parlent bien français se perdent : ils ne savent pas quel service contacter, ni dans quel ordre faire les démarches. Mon guide ne traduit pas les formulaires ; il explique la logique du système, pour qu'on puisse se débrouiller seul ensuite.
+Q: Quel est l'objectif du guide ?
++ Rendre les nouveaux arrivants autonomes en leur expliquant le fonctionnement de l'administration. | « il explique la logique du système, pour qu'on puisse se débrouiller seul ensuite ».
+- Traduire les formulaires administratifs. | « Mon guide ne traduit pas les formulaires ».
+- Apprendre le français aux nouveaux arrivants. | Elle dit que la langue n'est « pas le seul obstacle ».
+- Remplacer les services de l'administration. | Le guide aide à les contacter, pas à les remplacer.
+EXP: La phrase négative « ne traduit pas » écarte un distracteur, puis « il explique la logique du système » donne l'objectif. La subordonnée de but « pour qu'on puisse se débrouiller seul » insiste sur l'autonomie.
+
+## CE 1 | B2 | règlement intérieur | information précise
+DOC: Règlement de la salle polyvalente. Article 4 : La salle est louée exclusivement aux habitants de la commune et aux associations dont le siège se situe sur son territoire. Article 5 : Le locataire verse une caution de 500 euros, restituée dans un délai de quinze jours après l'état des lieux de sortie, sous réserve qu'aucun dégât n'ait été constaté. Article 6 : Toute musique amplifiée doit cesser à 1 h du matin. Le non-respect de cette règle entraîne la retenue de la moitié de la caution.
+Q: Que se passe-t-il si la musique continue après 1 h ?
++ Le locataire perd la moitié de sa caution. | « entraîne la retenue de la moitié de la caution ».
+- Le locataire perd la totalité de sa caution. | Seule la moitié est retenue pour ce manquement.
+- La salle ne lui sera plus jamais louée. | Le règlement ne prévoit pas d'interdiction définitive.
+- La police municipale interrompt la soirée. | Aucune intervention policière n'est mentionnée.
+EXP: Dans un règlement, chaque article associe une règle à une conséquence. L'article 6 précise la sanction : « la moitié de la caution ». Ne confondez pas avec l'article 5, qui concerne les dégâts.
+
+## CE 2 | B2 | article de presse | compréhension globale
+DOC: Dans plusieurs villes, des « frigos solidaires » ont fait leur apparition sur les trottoirs. Le principe est simple : commerçants et particuliers y déposent des aliments encore consommables, et chacun peut se servir librement, sans justificatif. Les initiateurs y voient un double avantage : réduire le gaspillage et aider discrètement ceux qui en ont besoin. Mais le dispositif pose des questions d'hygiène : qui vérifie les dates et nettoie le réfrigérateur ? Dans la plupart des cas, une association s'engage à passer chaque jour, ce qui suppose une équipe de bénévoles fidèles.
+Q: Quel est le principal défi du dispositif selon l'article ?
++ Assurer un entretien et un contrôle réguliers. | « qui vérifie les dates et nettoie le réfrigérateur ? … ce qui suppose une équipe de bénévoles fidèles ».
+- Trouver des commerçants prêts à donner. | L'article ne présente pas les dons comme un problème.
+- Empêcher les personnes aisées de se servir. | L'accès libre, sans justificatif, est voulu.
+- Obtenir une autorisation de la mairie. | Aucune autorisation n'est évoquée.
+EXP: Le connecteur « mais » introduit la difficulté : l'hygiène. La dernière phrase précise la condition de réussite : une équipe stable de bénévoles. Les avantages sont présentés avant, pour mieux faire ressortir la limite.
+
+## CE 3 | B2 | courrier des lecteurs | opinion
+DOC: Je lis souvent que les habitants des campagnes seraient hostiles aux éoliennes par égoïsme. C'est un raccourci injuste. Dans mon village, personne n'est contre les énergies renouvelables. Ce que nous refusons, c'est d'apprendre par la presse qu'un projet de douze machines est prévu à cinq cents mètres de nos maisons, sans que nous ayons été consultés. Associez-nous aux décisions, faites-nous profiter des retombées financières, et vous verrez que les résistances diminueront.
+Q: Que reproche l'auteur aux porteurs du projet ?
++ De ne pas avoir consulté les habitants. | « sans que nous ayons été consultés ».
+- De vouloir produire de l'énergie renouvelable. | « personne n'est contre les énergies renouvelables ».
+- D'installer trop peu d'éoliennes. | Il critique la méthode, pas le nombre.
+- De payer trop cher les terrains. | Il demande au contraire des retombées financières.
+EXP: L'auteur réfute un cliché (« raccourci injuste »), puis précise l'objet du refus grâce à la mise en relief « ce que nous refusons, c'est… ». Sa critique porte sur la méthode : l'absence de concertation.
+
+## CE 4 | B2 | offre de service civique | information précise
+DOC: Mission de service civique – Lutte contre l'isolement des personnes âgées. Durée : 8 mois, 24 heures par semaine. Missions : visites à domicile en binôme, animation d'ateliers à la résidence autonomie, accompagnement aux courses. Profil : de 16 à 25 ans, sans condition de diplôme ; une expérience associative est appréciée mais pas indispensable. Indemnité mensuelle selon le barème national. Un permis de conduire serait un plus pour les déplacements en zone rurale.
+Q: Quelle condition est obligatoire pour candidater ?
++ Avoir entre 16 et 25 ans. | Le profil indique « de 16 à 25 ans ».
+- Avoir le permis de conduire. | Le permis « serait un plus », il n'est pas exigé.
+- Posséder un diplôme du secteur social. | La mission est « sans condition de diplôme ».
+- Avoir déjà travaillé dans une association. | Cette expérience est « appréciée mais pas indispensable ».
+EXP: Distinguez les exigences des simples atouts : « apprécié », « serait un plus », « pas indispensable » signalent des critères facultatifs. Seul l'âge est une condition stricte.
+
+## CE 5 | B2 | éditorial | intention
+DOC: Chaque hiver, les mêmes images reviennent : des sans-abri dans le froid, des appels aux dons, des places d'urgence ouvertes en catastrophe. Puis le printemps arrive, et le sujet disparaît. Comme si la rue était moins dure en juillet. Les associations le répètent pourtant depuis des années : sans politique de logement durable, l'urgence restera permanente. Il ne s'agit pas de faire preuve de générosité une fois par an, mais de sortir enfin d'une gestion saisonnière d'un problème qui ne l'est pas.
+Q: Quelle est l'intention principale de l'éditorialiste ?
++ Dénoncer une réponse seulement saisonnière à un problème permanent. | « sortir enfin d'une gestion saisonnière d'un problème qui ne l'est pas ».
+- Encourager les dons pendant l'hiver. | Il critique justement la générosité ponctuelle.
+- Féliciter l'État pour l'ouverture de places d'urgence. | Les ouvertures « en catastrophe » sont critiquées.
+- Décrire les conditions météorologiques de l'hiver. | Le froid n'est qu'un point de départ.
+EXP: L'ironie « comme si la rue était moins dure en juillet » et la structure « il ne s'agit pas de…, mais de… » révèlent l'intention critique. Le pronom « le » final reprend l'adjectif « saisonnière ».
+
+## CE 6 | B2 | lettre administrative | information précise
+DOC: Madame, suite à votre demande du 14 février, nous vous informons que votre dossier de logement social a été enregistré sous le numéro 0754-2291. Votre demande est valable un an et devra être renouvelée avant le 14 février de l'année prochaine, faute de quoi elle sera radiée. Toute modification de votre situation familiale ou professionnelle doit nous être signalée dans un délai d'un mois. Nous vous rappelons que l'enregistrement ne vaut pas attribution d'un logement.
+Q: Que doit faire la destinataire pour conserver sa demande ?
++ La renouveler avant la date anniversaire. | « devra être renouvelée avant le 14 février… faute de quoi elle sera radiée ».
+- Se présenter chaque mois au guichet. | Aucune présence mensuelle n'est demandée.
+- Accepter le premier logement proposé. | Aucune proposition de logement n'est mentionnée.
+- Envoyer chaque mois ses fiches de paie. | Il faut seulement signaler les changements de situation.
+EXP: « Faute de quoi » introduit la conséquence d'un oubli : la radiation. Attention à la dernière phrase : l'enregistrement ne garantit pas l'obtention d'un logement.
+
+## CE 7 | B2 | article | inférence
+DOC: À Grenoble, une expérience originale a été menée dans un immeuble de quatre-vingts logements : une salle commune, gérée par les habitants eux-mêmes, a été aménagée au rez-de-chaussée. Un an plus tard, les plaintes pour nuisances adressées au bailleur ont diminué de moitié. Les responsables se gardent d'en tirer des conclusions hâtives, mais notent que de nombreux conflits se règlent désormais autour d'un café, avant même d'arriver sur le bureau du gardien.
+Q: Que suggère l'article ?
++ Les rencontres entre voisins favorisent un règlement amiable des conflits. | « de nombreux conflits se règlent désormais autour d'un café ».
+- La salle commune a provoqué de nouvelles nuisances. | Les plaintes ont diminué de moitié.
+- Le gardien a été supprimé grâce à l'expérience. | Le gardien est toujours mentionné.
+- Les résultats prouvent définitivement l'efficacité des salles communes. | Les responsables « se gardent d'en tirer des conclusions hâtives ».
+EXP: L'article laisse entendre un lien entre la salle commune et la baisse des plaintes, sans l'affirmer catégoriquement. « Se garder de » signifie éviter de : l'auteur reste prudent.
+
+## CE 8 | B2 | notice d'information | information précise
+DOC: Carte d'accès aux déchetteries. La carte est gratuite et délivrée sur présentation d'un justificatif de domicile. Elle donne droit à vingt-quatre passages par an. Au-delà, chaque passage supplémentaire est facturé huit euros. Les professionnels ne peuvent pas utiliser la carte des particuliers : ils doivent souscrire un abonnement spécifique. En cas de perte, une nouvelle carte est délivrée contre la somme de dix euros.
+Q: Combien coûte le vingt-cinquième passage d'un particulier dans l'année ?
++ Huit euros. | Après vingt-quatre passages gratuits, « chaque passage supplémentaire est facturé huit euros ».
+- Rien, l'accès est gratuit et illimité. | L'accès gratuit est limité à vingt-quatre passages.
+- Dix euros. | Dix euros correspondent au remplacement d'une carte perdue.
+- Le prix d'un abonnement professionnel. | Cet abonnement concerne les professionnels.
+EXP: Il faut croiser deux informations : le nombre de passages inclus (vingt-quatre) et le tarif au-delà. Le montant de dix euros est un piège : il concerne la perte de la carte.
+
+## CE 9 | B2 | tribune | opinion
+DOC: On présente souvent le tirage au sort de citoyens pour débattre de grandes questions comme un gadget démocratique. Les conventions citoyennes organisées ces dernières années montrent pourtant que des personnes ordinaires, bien informées et accompagnées d'experts, sont capables de formuler des propositions précises et nuancées. Le problème n'est pas leur compétence, mais le sort réservé à leurs travaux : lorsque les responsables politiques n'en retiennent qu'une infime partie, ils alimentent la défiance qu'ils prétendaient combattre.
+Q: Selon l'auteur, quel est le vrai problème des conventions citoyennes ?
++ Leurs propositions sont trop peu reprises par les décideurs. | « lorsque les responsables politiques n'en retiennent qu'une infime partie ».
+- Les citoyens tirés au sort sont incompétents. | « Le problème n'est pas leur compétence ».
+- Les experts influencent trop les débats. | L'auteur présente l'accompagnement des experts positivement.
+- Elles coûtent trop cher à organiser. | Le coût n'est pas évoqué.
+EXP: La structure « le problème n'est pas…, mais… » donne la réponse. La fin du texte souligne un paradoxe : en ignorant les propositions, les politiques renforcent la défiance qu'ils voulaient réduire.
+
+## CE 10 | B2 | article | compréhension globale
+DOC: Les épiceries de village rouvrent, mais sous une forme nouvelle. Faute de repreneur privé, plusieurs communes ont choisi de racheter les murs et de confier la gestion à une coopérative d'habitants. Chacun peut acheter une part sociale, à partir de vingt euros, et participer aux décisions. Ces commerces ne visent pas le profit, mais l'équilibre financier. Ils jouent aussi un rôle social : on y prend des nouvelles des voisins, on y dépose un colis, on y affiche les annonces du village.
+Q: Quel est le thème principal de l'article ?
++ La réouverture de commerces de village gérés collectivement par les habitants. | Le texte décrit des épiceries rachetées par les communes et gérées en coopérative.
+- La fermeture définitive des commerces ruraux. | Les épiceries « rouvrent ».
+- L'installation de grandes surfaces à la campagne. | Il n'est pas question de grandes surfaces.
+- La hausse des prix dans les villages. | Les prix ne sont pas évoqués.
+EXP: La première phrase annonce le thème (« rouvrent, mais sous une forme nouvelle »), puis le texte précise cette forme : coopérative d'habitants, objectif d'équilibre, rôle social.
+
+## CE 11 | B2 | courriel professionnel | intention
+DOC: Bonjour à toutes et à tous, comme vous le savez, le local de l'association sera repeint pendant les vacances. Nous avons besoin de bras le samedi 22 et le dimanche 23, de 9 h à 17 h. Inutile d'être un as du pinceau : il y aura aussi des meubles à déplacer, des affiches à décoller et un repas à préparer pour l'équipe. Merci de répondre à ce message avant le 15, même si vous ne pouvez venir que deux heures. Chaque coup de main compte !
+Q: Quel est le but de ce courriel ?
++ Mobiliser des volontaires pour une journée de travaux. | « Nous avons besoin de bras… Merci de répondre… ».
+- Informer que le local sera fermé définitivement. | Le local sera seulement repeint.
+- Recruter un peintre professionnel. | « Inutile d'être un as du pinceau ».
+- Annuler un repas prévu le 22. | Un repas est au contraire prévu pour l'équipe.
+EXP: L'expression familière « avoir besoin de bras » signifie chercher de l'aide. Le message rassure (« inutile d'être un as ») et facilite la participation (« même deux heures ») : c'est un appel à la mobilisation.
+
+## CE 12 | B2 | article | information précise
+DOC: Depuis janvier, les communes de plus de 3 500 habitants doivent proposer au moins un repas végétarien par semaine dans leurs cantines scolaires. Certaines villes vont plus loin et offrent une alternative végétarienne chaque jour. Les nutritionnistes rappellent que ces menus doivent être équilibrés et comporter des légumineuses, des céréales et des produits laitiers ou des œufs, afin de couvrir les besoins en protéines des enfants.
+Q: Que rappellent les nutritionnistes ?
++ Les menus végétariens doivent fournir assez de protéines. | Ils doivent comporter des aliments qui couvrent « les besoins en protéines des enfants ».
+- Les menus végétariens sont déconseillés aux enfants. | Ils demandent seulement qu'ils soient équilibrés.
+- Il faut supprimer les produits laitiers. | Les produits laitiers font partie des aliments recommandés.
+- La viande doit être servie tous les jours. | Rien de tel n'est indiqué.
+EXP: Le texte distingue l'obligation légale (un repas par semaine), les initiatives locales (chaque jour) et la recommandation des nutritionnistes, introduite par « rappellent que ».
+
+## CE 13 | B2 | essai | inférence
+DOC: La politesse est souvent tenue pour une contrainte superficielle, un ensemble de gestes appris sans conviction. C'est oublier qu'elle permet à des inconnus de cohabiter sans se connaître. Dire bonjour à la boulangère, tenir la porte, s'excuser d'avoir bousculé quelqu'un : ces gestes minuscules signalent à l'autre qu'on reconnaît son existence. Là où ils disparaissent, la méfiance s'installe, et avec elle une forme de violence froide, faite d'indifférence.
+Q: Que pense l'auteur de la politesse ?
++ Elle joue un rôle essentiel dans la vie collective. | Elle « permet à des inconnus de cohabiter » et évite la méfiance.
+- Elle n'est qu'une contrainte inutile. | C'est l'opinion qu'il conteste (« C'est oublier que… »).
+- Elle ne concerne que les relations entre amis. | Ses exemples concernent des inconnus.
+- Elle est la cause de la violence urbaine. | C'est son absence qui crée une « violence froide ».
+EXP: « C'est oublier que » introduit la réfutation d'une idée reçue. La dernière phrase montre a contrario l'importance de la politesse : sa disparition entraîne méfiance et indifférence.
+
+## CE 14 | B2 | annonce municipale | information précise
+DOC: Permis de végétaliser. La ville autorise les habitants à jardiner sur l'espace public devant chez eux : pieds d'arbres, jardinières, murs. Pour cela, il suffit de remplir une demande en ligne. Une fois le permis obtenu, un kit de plantation (terreau et graines locales) est remis gratuitement. Le jardinier s'engage à entretenir ses plantations sans pesticides et à ne pas gêner le passage des piétons, en particulier des poussettes et des fauteuils roulants.
+Q: À quoi s'engage le titulaire du permis ?
++ Entretenir ses plantations sans produits chimiques et laisser le passage libre. | « sans pesticides et à ne pas gêner le passage des piétons ».
+- Acheter ses graines dans une jardinerie agréée. | Les graines sont fournies gratuitement dans le kit.
+- Planter uniquement des arbres. | Pieds d'arbres, jardinières et murs sont possibles.
+- Payer une redevance annuelle à la ville. | Aucune redevance n'est mentionnée.
+EXP: Les engagements apparaissent dans la dernière phrase après « s'engage à ». Le kit gratuit est un avantage, pas une obligation d'achat.
+
+## CE 15 | B2 | article d'opinion | opinion
+DOC: Faut-il encore apprendre à rédiger une lettre administrative à l'heure des formulaires en ligne ? Je le crois. Non par nostalgie, mais parce que le formulaire ne prévoit jamais les situations particulières. Lorsqu'on conteste une décision, qu'on explique un retard ou qu'on demande une dérogation, il faut savoir exposer des faits, argumenter et rester courtois. Ces compétences ne sont pas désuètes : elles sont la condition pour défendre ses droits face à une administration de plus en plus automatisée.
+Q: Pourquoi l'auteur juge-t-il utile d'apprendre à rédiger une lettre administrative ?
++ Pour défendre ses droits dans les situations que les formulaires ne prévoient pas. | « le formulaire ne prévoit jamais les situations particulières ».
+- Par attachement aux traditions anciennes. | « Non par nostalgie ».
+- Parce que les formulaires en ligne vont disparaître. | Il ne prédit pas leur disparition.
+- Pour obtenir un emploi dans l'administration. | L'emploi n'est pas évoqué.
+EXP: « Non par nostalgie, mais parce que » oppose une fausse raison à la vraie. L'auteur conclut que ces compétences sont nécessaires face à une administration automatisée.
+
+## CE 16 | B2 | rapport | compréhension globale
+DOC: L'enquête menée auprès de 1 200 bénévoles montre que l'engagement associatif change de visage. Les bénévoles réguliers, présents chaque semaine, sont moins nombreux qu'il y a dix ans, tandis que les engagements ponctuels, sur un événement ou une mission courte, progressent fortement. Les associations doivent donc repenser leur organisation : proposer des missions courtes et clairement définies, mais aussi accompagner les volontaires qui souhaitent s'investir davantage.
+Q: Quelle conclusion le rapport tire-t-il ?
++ Les associations doivent s'adapter à un bénévolat plus ponctuel. | « Les associations doivent donc repenser leur organisation : proposer des missions courtes ».
+- Le bénévolat est en voie de disparition. | Les engagements ponctuels « progressent fortement ».
+- Les bénévoles réguliers sont de plus en plus nombreux. | Ils sont « moins nombreux ».
+- Les missions courtes doivent être supprimées. | Il faut au contraire en proposer.
+EXP: Le connecteur « donc » introduit la conclusion du rapport. Les données (moins de bénévoles réguliers, plus de ponctuels) justifient la recommandation d'adapter l'offre de missions.
+
+## CE 17 | B2 | lettre de réclamation | intention
+DOC: Monsieur le Directeur, je me permets de vous signaler qu'à trois reprises ce mois-ci, le bus de 7 h 42 n'est pas passé à l'arrêt Clémenceau, sans qu'aucune information ne soit affichée. Ces absences m'ont valu des retards au travail et une remarque de mon employeur. Je vous demande de bien vouloir vérifier la régularité de cette ligne et de m'indiquer les mesures que vous comptez prendre. Je joins à ce courrier les dates concernées.
+Q: Que demande l'auteur de la lettre ?
++ Une vérification de la ligne et des informations sur les mesures prévues. | « vérifier la régularité de cette ligne et de m'indiquer les mesures que vous comptez prendre ».
+- Le remboursement de son abonnement. | Il ne demande aucun remboursement.
+- Une attestation pour son employeur. | Il ne demande pas d'attestation.
+- La suppression de l'arrêt Clémenceau. | Il veut au contraire que le bus y passe.
+EXP: La demande est formulée avec « je vous demande de bien vouloir ». Les faits (trois absences, conséquences au travail) justifient la réclamation, et la pièce jointe la rend vérifiable.
+
+## CE 18 | B2 | article | information précise
+DOC: Le service des objets trouvés de la ville a enregistré plus de 9 000 objets l'an dernier. En tête : les clés, les cartes bancaires et les téléphones, suivis des parapluies. Les objets sont conservés trois mois, puis donnés à des associations ou détruits s'ils contiennent des données personnelles. Pour récupérer un objet, il faut fournir une description précise et, pour les objets de valeur, une preuve de propriété, comme une facture.
+Q: Que deviennent les téléphones non réclamés après trois mois ?
++ Ils sont détruits, car ils contiennent des données personnelles. | Les objets sont « détruits s'ils contiennent des données personnelles ».
+- Ils sont donnés à des associations. | C'est le sort des objets sans données personnelles.
+- Ils sont vendus aux enchères. | Aucune vente n'est mentionnée.
+- Ils sont conservés un an supplémentaire. | La durée de conservation est de trois mois.
+EXP: Il faut appliquer la règle générale au cas particulier des téléphones : ils contiennent des données personnelles, donc ils sont détruits plutôt que donnés.
+
+## CE 19 | B2 | chronique | inférence
+DOC: Il y a quelques années, notre rue comptait une mercerie, un cordonnier et un disquaire. Aujourd'hui, on y trouve trois agences immobilières, deux boutiques de cigarettes électroniques et un local vide depuis dix-huit mois. Je ne suis pas de ceux qui pensent que « c'était mieux avant ». Mais je me demande parfois ce que nous perdons, collectivement, quand une rue ne sert plus qu'à acheter, louer ou attendre.
+Q: Quel sentiment exprime l'auteur ?
++ Une inquiétude mesurée face à l'appauvrissement de la vie de quartier. | Il refuse la nostalgie mais « se demande ce que nous perdons ».
+- Une nostalgie totale du passé. | « Je ne suis pas de ceux qui pensent que c'était mieux avant ».
+- Une satisfaction devant la modernisation du quartier. | Le ton est interrogatif et inquiet.
+- Une colère contre les agences immobilières. | Il ne les attaque pas directement.
+EXP: L'auteur se démarque d'une position nostalgique (« je ne suis pas de ceux qui… ») tout en exprimant un doute (« je me demande parfois »). La liste contrastée des commerces suggère une perte de diversité.
+
+## CE 20 | B2 | guide pratique | information précise
+DOC: Organiser un vide-grenier dans sa rue. Les particuliers peuvent participer à deux ventes au déballage par an au maximum. Ils ne peuvent vendre que des objets personnels et usagés : la revente d'objets achetés dans le but d'être revendus est réservée aux professionnels. L'organisateur doit tenir un registre où figurent l'identité de chaque exposant et le numéro de sa pièce d'identité. Ce registre est remis à la mairie à l'issue de la manifestation.
+Q: Que n'a pas le droit de faire un particulier lors d'un vide-grenier ?
++ Vendre des objets achetés pour les revendre. | Cette activité « est réservée aux professionnels ».
+- Vendre ses vêtements usagés. | Les objets personnels et usagés sont autorisés.
+- Participer à un deuxième vide-grenier dans l'année. | Deux ventes par an sont autorisées.
+- Donner son numéro de pièce d'identité. | C'est au contraire une obligation du registre.
+EXP: Le texte oppose objets personnels usagés (autorisés) et objets achetés pour être revendus (interdits aux particuliers). La limite de deux ventes par an rend le deuxième vide-grenier possible.
+
+## CE 21 | B2 | éditorial | opinion
+DOC: Les services publics ferment au nom de l'efficacité : un bureau de poste ici, une trésorerie là, une maternité ailleurs. Chaque décision, prise isolément, peut se justifier par des chiffres. Mais leur accumulation produit un sentiment d'abandon que les chiffres ne mesurent pas. Les habitants des territoires concernés n'en concluent pas que l'État est économe ; ils en concluent qu'il les a oubliés. Et ce sentiment, une fois installé, est bien plus coûteux à réparer que les économies réalisées.
+Q: Quelle thèse défend l'éditorialiste ?
++ L'addition des fermetures crée un sentiment d'abandon plus grave que les économies obtenues. | « ce sentiment… est bien plus coûteux à réparer que les économies réalisées ».
+- Chaque fermeture de service public est injustifiable. | Il admet que chaque décision « peut se justifier par des chiffres ».
+- L'État dépense trop pour les territoires ruraux. | Il défend au contraire le maintien des services.
+- Les habitants approuvent la recherche d'économies. | Ils concluent que l'État « les a oubliés ».
+EXP: L'éditorialiste distingue l'effet de chaque décision isolée (justifiable) et l'effet de leur accumulation (le sentiment d'abandon). Le parallélisme « n'en concluent pas… ; ils en concluent… » souligne le décalage entre logique comptable et ressenti.
+
+## CE 22 | B2 | article | compréhension globale
+DOC: Les « cafés réparation » se multiplient : une fois par mois, des bénévoles bricoleurs aident les habitants à réparer eux-mêmes leurs objets en panne, du grille-pain à la lampe en passant par le vélo. Le but n'est pas seulement d'économiser : il s'agit de réapprendre des gestes oubliés et de remettre en cause l'idée qu'un objet abîmé doit être jeté. Selon les organisateurs, près de deux objets sur trois repartent en état de marche.
+Q: Quel est l'objectif principal des cafés réparation selon l'article ?
++ Transmettre des savoir-faire et lutter contre le réflexe de jeter. | « réapprendre des gestes oubliés et remettre en cause l'idée qu'un objet abîmé doit être jeté ».
+- Vendre des objets réparés à bas prix. | Les objets appartiennent aux habitants, qui les réparent eux-mêmes.
+- Former des réparateurs professionnels. | Les bénévoles aident des habitants, ils ne forment pas des professionnels.
+- Collecter des objets pour les recycler. | Les objets repartent avec leurs propriétaires.
+EXP: « Le but n'est pas seulement d'économiser : il s'agit de… » indique l'objectif principal au-delà de l'aspect financier. La statistique finale illustre l'efficacité du dispositif.
+
+## CE 23 | B2 | règlement | inférence
+DOC: Jardins familiaux – Extrait du règlement. Chaque parcelle est attribuée pour une durée d'un an, renouvelable par tacite reconduction. Le jardinier doit cultiver au moins les deux tiers de sa parcelle. Une parcelle laissée à l'abandon pendant plus de trois mois fera l'objet d'un avertissement écrit ; en l'absence d'amélioration dans le mois suivant, elle sera réattribuée à une personne inscrite sur la liste d'attente.
+Q: Que peut-on déduire de ce règlement ?
++ La demande de parcelles dépasse l'offre disponible. | L'existence d'une « liste d'attente » montre qu'il y a plus de candidats que de parcelles.
+- Les parcelles sont attribuées à vie. | Elles sont attribuées pour un an, même si le renouvellement est automatique.
+- Une parcelle abandonnée est immédiatement reprise. | Il faut trois mois, puis un avertissement et un délai d'un mois.
+- Le jardinier peut laisser la moitié de sa parcelle en friche. | Il doit cultiver au moins les deux tiers.
+EXP: L'inférence repose sur un indice : la « liste d'attente ». « Par tacite reconduction » signifie que l'attribution se renouvelle automatiquement sans démarche, sauf manquement.
+
+## CE 24 | B2 | tribune | intention
+DOC: Nous, enseignants d'un collège de quartier populaire, refusons que nos élèves soient réduits à des statistiques d'échec. Oui, les difficultés existent. Mais nous voyons aussi chaque jour des adolescents qui traduisent pour leurs parents, gardent leurs frères et sœurs, et trouvent malgré tout l'énergie d'apprendre. Plutôt que de multiplier les rapports alarmistes, donnez-nous des classes moins chargées et des équipes stables : ce sont les seules mesures dont nous avons constaté l'efficacité.
+Q: Quel est le but de cette tribune ?
++ Changer le regard porté sur les élèves et réclamer des moyens concrets. | Les auteurs refusent les « statistiques d'échec » et demandent des classes moins chargées.
+- Nier toute difficulté scolaire dans leur collège. | « Oui, les difficultés existent ».
+- Demander la fermeture du collège. | Ils demandent des moyens pour le collège.
+- Proposer de nouveaux rapports sur l'éducation. | Ils critiquent les « rapports alarmistes ».
+EXP: La tribune combine deux intentions : valoriser les élèves (« trouvent malgré tout l'énergie d'apprendre ») et revendiquer (« donnez-nous… »). La concession « Oui, les difficultés existent. Mais… » rend l'argumentation crédible.
+
+## CE 25 | B2 | essai | compréhension globale
+DOC: On mesure souvent la vitalité démocratique au seul taux de participation électorale. C'est un indicateur important, mais incomplet. Une démocratie vit aussi dans les conseils de quartier, les associations de parents d'élèves, les syndicats, les collectifs qui défendent un parc ou une ligne de train. Ces engagements locaux forment une sorte d'école de la citoyenneté : on y apprend à débattre, à écouter des opinions contraires et à construire des compromis. Négliger ces espaces, c'est fragiliser le socle même sur lequel repose le vote.
+Q: Quelle idée principale l'auteur développe-t-il ?
++ La démocratie repose aussi sur des engagements locaux qui forment les citoyens. | Ces engagements sont « une sorte d'école de la citoyenneté ».
+- Le taux de participation est le seul indicateur fiable de la démocratie. | Il le juge « important, mais incomplet ».
+- Les associations devraient remplacer les élections. | Il présente les engagements locaux comme un socle du vote, pas comme un substitut.
+- Les syndicats affaiblissent la démocratie. | Il les cite parmi les lieux de vitalité démocratique.
+EXP: L'auteur nuance un indicateur (« important, mais incomplet ») puis élargit la notion de démocratie. La métaphore de l'« école de la citoyenneté » et celle du « socle » résument sa thèse.
+
+## EE 1 | B2 | répondre à un message
+CONSIGNE: Votre voisine, Mme Laurent, vous écrit : « Bonjour ! Le conseil de quartier cherche des volontaires pour organiser un repas partagé en juin. Seriez-vous intéressé(e) ? » Répondez-lui : acceptez, proposez une aide précise et posez une question pratique (30 à 60 mots).
+MODELE: Bonjour Madame Laurent, merci pour votre message ! Je serais ravi de participer au repas partagé. Je peux m'occuper des affiches et les déposer chez les commerçants du quartier. Savez-vous déjà où aura lieu le repas et s'il faut prévoir des tables ? Je suis disponible les soirs de semaine pour une réunion. Bien cordialement, Samir
+POINTS: accepter la proposition ; proposer une aide précise ; poser une question pratique ; formule de politesse
+COMMENTAIRE: Le message est poli et complet : acceptation, aide concrète, question pratique qui fait avancer l'organisation et disponibilité. La relative « où aura lieu le repas » et l'interrogation indirecte rendent la question naturelle.
+CONSEILS: Une question pratique précise (lieu, matériel, date) montre que vous vous impliquez réellement. Restez dans un registre poli mais chaleureux avec une voisine.
+
+## EE 2 | B2 | raconter une expérience
+CONSIGNE: Vous avez participé à une action collective dans votre ville (nettoyage, collecte, fête de quartier…). Racontez cette expérience dans un article pour le site de votre association : ce que vous avez fait, comment cela s'est passé et ce que vous en retenez (40 à 90 mots).
+MODELE: Samedi dernier, une trentaine d'habitants se sont retrouvés au bord du canal pour une matinée de nettoyage. Équipés de gants et de pinces, nous avons ramassé plus de quatre-vingts kilos de déchets, surtout des bouteilles et des emballages. L'ambiance était excellente : des enfants ont même transformé la collecte en concours ! Ce que je retiens, c'est qu'une action simple peut rapprocher des voisins qui ne se parlaient pas. Nous comptons recommencer à l'automne.
+POINTS: présenter l'action ; raconter le déroulement ; donner un détail marquant ; exprimer un bilan personnel
+COMMENTAIRE: Le récit est structuré (contexte, action, anecdote, bilan) et utilise les temps du passé avec justesse. La mise en relief « ce que je retiens, c'est que » et le futur proche final donnent du relief au texte.
+CONSEILS: Ajoutez un détail concret et vivant (un chiffre, une anecdote) et terminez par ce que l'expérience vous a appris.
+
+## EE 3 | B2 | donner son opinion à partir de deux documents
+CONSIGNE: Document 1 : « Le vote devrait être obligatoire : c'est un devoir civique, et cela renforcerait la légitimité des élus. » Document 2 : « Obliger à voter ne réglera rien : il faut d'abord redonner aux citoyens l'envie de participer. » Présentez brièvement ces deux opinions, puis donnez votre point de vue argumenté (40 à 90 mots).
+MODELE: Le premier document défend le vote obligatoire au nom du devoir civique et de la légitimité des élus, tandis que le second estime que l'obligation ne traiterait pas la cause de l'abstention. Je partage plutôt ce second avis. Forcer quelqu'un à voter ne lui donne pas confiance dans la politique ; il risque même de voter au hasard. Il vaudrait mieux reconnaître le vote blanc et consulter davantage les citoyens sur des projets locaux, afin qu'ils constatent que leur voix compte.
+POINTS: résumer le document 1 ; résumer le document 2 ; prendre position ; justifier avec au moins un argument ; proposer une solution ou un exemple
+COMMENTAIRE: La synthèse des deux documents est équilibrée grâce à « tandis que ». La prise de position est claire, justifiée, et la proposition finale introduite par « il vaudrait mieux » montre une argumentation constructive.
+CONSEILS: Consacrez une phrase à chaque document, puis annoncez nettement votre position avant de l'argumenter. Une proposition concrète renforce votre conclusion.
+
+## EO 1 | B2 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous interroge sur votre vie dans votre ville : votre quartier, vos relations avec vos voisins, votre participation à la vie locale et vos projets.
+RELANCES: Pouvez-vous vous présenter rapidement ? / Comment décririez-vous votre quartier ? / Connaissez-vous bien vos voisins ? / Participez-vous à la vie locale ou à des associations ? / Qu'aimeriez-vous changer dans votre ville ?
+PHRASES: J'habite depuis … dans un quartier plutôt… / Avec mes voisins, nous… / Si je pouvais, j'aimerais…
+MODELE: Je m'appelle Ana, je suis aide-comptable et j'habite à Rennes depuis cinq ans, dans un quartier plutôt calme, près d'un grand parc. Avec mes voisins, nous avons de bonnes relations : nous échangeons des services, par exemple quand l'un de nous part en vacances. Depuis l'an dernier, je participe aussi au conseil de quartier, ce qui m'a permis de mieux comprendre comment fonctionne la mairie. Si je pouvais changer une chose, j'ajouterais des pistes cyclables sécurisées, parce que beaucoup de parents n'osent pas laisser leurs enfants aller à l'école à vélo.
+COMMENTAIRE: La réponse couvre toutes les relances, avec des exemples concrets, une relative en « ce qui » et une hypothèse au conditionnel. Les temps sont variés et le discours reste naturel.
+CONSEILS: Développez chaque réponse avec un exemple personnel et terminez par une hypothèse (« si je pouvais… ») pour montrer votre maîtrise du conditionnel.
+
+## EO 2 | B2 | Convaincre un voisin de rejoindre une association | Voisin méfiant
+SCENARIO: Vous êtes membre d'une association de locataires. Votre voisin (l'examinateur) ne voit pas l'intérêt d'y adhérer. Présentez l'association, répondez à ses objections et essayez de le convaincre.
+RELANCES: Je n'ai pas le temps pour les réunions. / Ça sert à quoi, une association de locataires ? / Je n'ai jamais eu de problème avec le bailleur. / Combien ça coûte ?
+PHRASES: Je comprends, mais… / Justement, c'est l'intérêt de… / Vous n'êtes pas obligé de…
+MODELE: Bonjour, je fais partie de l'association des locataires de la résidence et je voulais vous en parler. Ça sert à défendre nos intérêts face au bailleur : l'an dernier, nous avons obtenu la réparation de l'ascenseur et le remboursement de charges trop élevées. Vous n'avez jamais eu de problème ? Tant mieux, mais justement, plus nous sommes nombreux, plus nous sommes écoutés le jour où il y en a un. Pour les réunions, vous n'êtes pas obligé d'y venir : nous envoyons un compte rendu par courriel. Et l'adhésion coûte dix euros par an.
+COMMENTAIRE: Le candidat présente l'association avec des résultats concrets, répond à chaque objection et utilise une structure comparative persuasive (« plus nous sommes nombreux, plus… »). Le ton est cordial et convaincant.
+CONSEILS: Appuyez votre persuasion sur des résultats concrets déjà obtenus et réduisez l'effort demandé à votre interlocuteur.
+
+## EO 3 | B2 | Faut-il développer la démocratie participative ? | Examinateur
+SCENARIO: De plus en plus de villes consultent directement les habitants (budgets participatifs, référendums locaux, conseils citoyens). Pensez-vous qu'il faut développer ce type de démocratie ? Donnez votre opinion et défendez-la.
+RELANCES: Les élus sont là pour décider, non ? / Seuls les plus motivés participent. / Les habitants ne connaissent pas assez les dossiers. / Avez-vous déjà participé à une consultation ?
+PHRASES: Je suis convaincu que… / Il est vrai que…, mais… / À condition que…
+MODELE: Je suis convaincu que la démocratie participative est un complément utile à la démocratie représentative. Les habitants connaissent leur quartier mieux que personne : ils savent où une rue est dangereuse ou où il manque un banc. Il est vrai que seuls les plus motivés participent, mais on peut élargir la participation en tirant au sort des habitants ou en organisant des consultations en ligne. Les élus gardent la décision finale, à condition d'expliquer pourquoi ils retiennent ou non les propositions. Sinon, les citoyens se sentiront manipulés et ne participeront plus.
+COMMENTAIRE: La position est claire, illustrée par des exemples concrets, et l'objection de la représentativité reçoit une réponse pratique. La condition finale et ses conséquences montrent une réflexion nuancée.
+CONSEILS: Présentez votre position comme un équilibre (« complément », « à condition que ») : cela vous permet de répondre facilement aux objections de l'examinateur.

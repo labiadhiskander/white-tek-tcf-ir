@@ -1,0 +1,1996 @@
+{
+ "code": "B2-BLANC-01",
+ "title": "Examen blanc B2 n° 1 – Société et vie citoyenne",
+ "level": "B2",
+ "description": "Examen complet de niveau B2 aux durées officielles : participation citoyenne, voisinage, services publics, solidarité.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "intention",
+   "document": "F: Bonjour Monsieur Perrin, c'est Hélène Vasseur, la présidente du conseil syndical. Je vous appelle au sujet des travaux de la toiture. Plusieurs copropriétaires trouvent le devis trop élevé et souhaitent en demander un second avant le vote. Comme vous êtes du métier, accepteriez-vous de jeter un œil aux deux propositions avant l'assemblée du 12 ? Ça nous rendrait vraiment service. Rappelez-moi quand vous pouvez.",
+   "prompt": "Pourquoi Hélène Vasseur appelle-t-elle M. Perrin ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour lui annoncer que les travaux sont votés.",
+     "correct": false,
+     "rationale": "Le vote n'a pas encore eu lieu : il est prévu à l'assemblée du 12."
+    },
+    {
+     "label": "B",
+     "text": "Pour lui proposer de devenir président du conseil syndical.",
+     "correct": false,
+     "rationale": "C'est elle la présidente ; elle ne lui propose aucun poste."
+    },
+    {
+     "label": "C",
+     "text": "Pour lui demander un avis de professionnel sur des devis.",
+     "correct": true,
+     "rationale": "« Comme vous êtes du métier, accepteriez-vous de jeter un œil aux deux propositions »."
+    },
+    {
+     "label": "D",
+     "text": "Pour lui reprocher le prix de son devis.",
+     "correct": false,
+     "rationale": "Le devis jugé cher vient d'une entreprise, pas de M. Perrin."
+    }
+   ],
+   "explanation": "L'intention apparaît dans la question polie au conditionnel « accepteriez-vous de jeter un œil ». « Être du métier » signifie avoir une compétence professionnelle dans le domaine. Les autres éléments (devis élevé, assemblée) sont le contexte de la demande.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co01.wav"
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "reportage radio",
+   "skill": "information précise",
+   "document": "H: Dans cette commune de la Drôme, la mairie a lancé il y a deux ans un budget participatif : chaque habitant de plus de seize ans peut proposer un projet et voter. Cette année, sur les quarante-deux propositions déposées, trois ont été retenues : un abri pour les vélos près de la gare, des bancs ombragés sur la place du marché et un atelier de réparation ouvert un samedi sur deux.",
+   "prompt": "Qui peut participer au budget participatif de cette commune ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les membres du conseil municipal.",
+     "correct": false,
+     "rationale": "C'est la mairie qui organise ; les habitants proposent et votent."
+    },
+    {
+     "label": "B",
+     "text": "Les habitants âgés de plus de seize ans.",
+     "correct": true,
+     "rationale": "« chaque habitant de plus de seize ans peut proposer un projet et voter »."
+    },
+    {
+     "label": "C",
+     "text": "Les associations locales seulement.",
+     "correct": false,
+     "rationale": "Le dispositif s'adresse à chaque habitant, pas aux associations."
+    },
+    {
+     "label": "D",
+     "text": "Uniquement les électeurs inscrits sur les listes.",
+     "correct": false,
+     "rationale": "Le critère est l'âge (seize ans), pas l'inscription électorale."
+    }
+   ],
+   "explanation": "L'information précise est donnée au début : « chaque habitant de plus de seize ans ». Attention au piège des électeurs : à seize ans, on ne vote pas aux élections, ce qui montre que le budget participatif est ouvert plus largement.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co02.wav"
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "F: Tu as vu ? La mairie veut fermer la rue de l'école aux voitures le matin. / H: Oui, et franchement, je trouve ça très bien. Les parents se garaient n'importe comment, c'était dangereux. / F: Peut-être, mais moi, je dépose ma fille en allant au travail. Je vais devoir me garer à trois cents mètres. / H: Trois cents mètres à pied, ça ne va pas te tuer ! Et ta fille sera plus en sécurité.",
+   "prompt": "Quelle est l'attitude de l'homme face à la mesure ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il pense qu'elle sera inefficace.",
+     "correct": false,
+     "rationale": "Il pense au contraire qu'elle rendra les enfants plus en sécurité."
+    },
+    {
+     "label": "B",
+     "text": "Il hésite et attend d'en voir les effets.",
+     "correct": false,
+     "rationale": "Il est catégorique dès le début : « franchement, je trouve ça très bien »."
+    },
+    {
+     "label": "C",
+     "text": "Il la critique parce qu'elle gêne les parents.",
+     "correct": false,
+     "rationale": "C'est la femme qui évoque la gêne ; lui défend la mesure."
+    },
+    {
+     "label": "D",
+     "text": "Il la soutient et minimise la contrainte pour la femme.",
+     "correct": true,
+     "rationale": "Il trouve la mesure « très bien » et répond « trois cents mètres à pied, ça ne va pas te tuer »."
+    }
+   ],
+   "explanation": "L'opinion de l'homme est explicite (« je trouve ça très bien ») et renforcée par l'ironie « ça ne va pas te tuer », qui minimise l'objection de la femme. Distinguez bien les deux locuteurs : la femme exprime une réserve personnelle.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co03.wav"
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Information aux usagers : en raison de la mise en place du nouveau logiciel de gestion, l'ensemble des services de la mairie seront fermés au public le lundi 3 mars toute la journée. Les demandes de cartes d'identité et de passeports déjà programmées ce jour-là seront reportées au samedi 8 mars, aux mêmes horaires. Les personnes concernées recevront un SMS de confirmation.",
+   "prompt": "Que se passe-t-il pour les rendez-vous de cartes d'identité prévus le 3 mars ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils sont déplacés au samedi suivant, à la même heure.",
+     "correct": true,
+     "rationale": "« reportées au samedi 8 mars, aux mêmes horaires »."
+    },
+    {
+     "label": "B",
+     "text": "Ils sont maintenus malgré la fermeture.",
+     "correct": false,
+     "rationale": "Tous les services sont fermés le 3 mars."
+    },
+    {
+     "label": "C",
+     "text": "Ils auront lieu le lundi suivant.",
+     "correct": false,
+     "rationale": "La nouvelle date est un samedi, le 8 mars."
+    },
+    {
+     "label": "D",
+     "text": "Ils sont annulés et doivent être repris en ligne.",
+     "correct": false,
+     "rationale": "Ils ne sont pas annulés mais reportés automatiquement."
+    }
+   ],
+   "explanation": "Le mot clé est « reportées » : la date change, les horaires restent les mêmes. Le SMS de confirmation est une information complémentaire qui montre que les usagers n'ont aucune démarche à faire.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co04.wav"
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "compréhension globale",
+   "document": "H: Vous avez créé une épicerie solidaire dans votre quartier. Quel est le principe ? / F: Les familles orientées par les travailleurs sociaux paient leurs courses entre dix et trente pour cent du prix habituel. Mais l'épicerie est aussi ouverte à tous, au prix normal, et ce sont ces achats qui financent en partie les réductions. L'idée, c'est que tout le monde fasse ses courses au même endroit, sans qu'on sache qui bénéficie de l'aide.",
+   "prompt": "Quelle est la particularité de cette épicerie ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle distribue des colis gratuits aux familles.",
+     "correct": false,
+     "rationale": "Les familles aidées paient entre dix et trente pour cent du prix."
+    },
+    {
+     "label": "B",
+     "text": "Elle ne vend que des produits donnés par les supermarchés.",
+     "correct": false,
+     "rationale": "L'origine des produits n'est pas mentionnée."
+    },
+    {
+     "label": "C",
+     "text": "Elle mélange les clients aidés et les clients payant le prix normal.",
+     "correct": true,
+     "rationale": "« ouverte à tous, au prix normal… sans qu'on sache qui bénéficie de l'aide »."
+    },
+    {
+     "label": "D",
+     "text": "Elle est réservée aux familles orientées par les services sociaux.",
+     "correct": false,
+     "rationale": "Elle est « aussi ouverte à tous »."
+    }
+   ],
+   "explanation": "Le cœur du projet est la mixité : les achats au prix normal financent les réductions, et personne ne sait qui est aidé. Le subjonctif « sans qu'on sache » exprime cette volonté de discrétion, qui préserve la dignité des bénéficiaires.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co05.wav"
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "skill": "inférence",
+   "document": "H: On nous annonçait la fin des bureaux de poste, et pourtant, dans les villages, ils se transforment. À Saint-Clair, l'agence postale est désormais installée dans la boulangerie : on y achète son pain, on envoie un colis et on retire de l'argent. La boulangère a été formée en trois jours. Les habitants, d'abord méfiants, ne reviendraient en arrière pour rien au monde : les horaires sont deux fois plus larges qu'avant.",
+   "prompt": "Que peut-on déduire de la réaction des habitants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils trouvent les horaires trop limités.",
+     "correct": false,
+     "rationale": "Les horaires sont « deux fois plus larges qu'avant »."
+    },
+    {
+     "label": "B",
+     "text": "Ils sont aujourd'hui satisfaits de la nouvelle organisation.",
+     "correct": true,
+     "rationale": "« ne reviendraient en arrière pour rien au monde »."
+    },
+    {
+     "label": "C",
+     "text": "Ils jugent la boulangère mal formée.",
+     "correct": false,
+     "rationale": "Rien n'indique une critique de sa formation."
+    },
+    {
+     "label": "D",
+     "text": "Ils regrettent l'ancien bureau de poste.",
+     "correct": false,
+     "rationale": "Ils étaient méfiants au début, mais ne veulent plus revenir en arrière."
+    }
+   ],
+   "explanation": "L'expression « ne reviendraient en arrière pour rien au monde » marque une satisfaction forte. Le connecteur « d'abord méfiants » indique une évolution d'attitude : il faut retenir la situation actuelle, pas la réaction initiale.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co06.wav"
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "débat radio",
+   "skill": "opinion",
+   "document": "F: Le vote par internet augmenterait la participation, surtout chez les jeunes. / H: Je n'en suis pas si sûr. Les pays qui l'ont testé n'ont pas vu de hausse spectaculaire. Et surtout, le bureau de vote garantit que personne ne vous influence au moment de voter. Chez soi, qui peut certifier qu'un conjoint ou un employeur ne regarde pas par-dessus votre épaule ?",
+   "prompt": "Quel argument l'homme oppose-t-il au vote par internet ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le secret du vote serait moins bien protégé.",
+     "correct": true,
+     "rationale": "« qui peut certifier qu'un conjoint ou un employeur ne regarde pas par-dessus votre épaule ? »"
+    },
+    {
+     "label": "B",
+     "text": "Les pirates informatiques pourraient modifier les résultats.",
+     "correct": false,
+     "rationale": "Il évoque une influence humaine, pas le piratage."
+    },
+    {
+     "label": "C",
+     "text": "Les jeunes ne savent pas utiliser internet.",
+     "correct": false,
+     "rationale": "Il ne met pas en cause les compétences des jeunes."
+    },
+    {
+     "label": "D",
+     "text": "Le coût du système serait trop élevé.",
+     "correct": false,
+     "rationale": "Il ne parle jamais du coût."
+    }
+   ],
+   "explanation": "L'argument principal est introduit par « et surtout » : le bureau de vote protège l'électeur des pressions. La question rhétorique finale illustre le risque d'influence. L'argument sur les pays tests est secondaire.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co07.wav"
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "H: Bonjour à tous, petit rappel avant la collecte de dimanche : les bénévoles qui s'occupent de l'accueil arrivent à huit heures, les autres à neuf heures. Pensez à apporter des gants, la mairie n'en fournira pas cette année. Les sacs, en revanche, sont distribués sur place. Si vous avez un empêchement, prévenez Karima avant vendredi midi, pas après, pour qu'on puisse réorganiser les équipes.",
+   "prompt": "Que doivent apporter les bénévoles ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un badge d'accueil.",
+     "correct": false,
+     "rationale": "Aucun badge n'est mentionné."
+    },
+    {
+     "label": "B",
+     "text": "Des sacs.",
+     "correct": false,
+     "rationale": "Les sacs « sont distribués sur place »."
+    },
+    {
+     "label": "C",
+     "text": "Rien, tout est fourni par la mairie.",
+     "correct": false,
+     "rationale": "La mairie ne fournit pas de gants cette année."
+    },
+    {
+     "label": "D",
+     "text": "Des gants.",
+     "correct": true,
+     "rationale": "« Pensez à apporter des gants, la mairie n'en fournira pas cette année »."
+    }
+   ],
+   "explanation": "L'opposition « en revanche » distingue ce qu'il faut apporter (les gants) de ce qui est fourni (les sacs). Les horaires et la date limite pour prévenir sont des détails pour d'autres questions possibles.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co08.wav"
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "intention",
+   "document": "F: Vous êtes médiateur de quartier. Concrètement, à quoi servez-vous ? / H: Mon rôle, ce n'est pas de donner raison à l'un ou à l'autre. Quand deux voisins se disputent pour du bruit ou une haie trop haute, je les rencontre séparément, puis ensemble, pour qu'ils trouvent eux-mêmes une solution. Si je tranchais à leur place, le conflit reprendrait dans six mois.",
+   "prompt": "Selon le médiateur, pourquoi ne faut-il pas trancher à la place des voisins ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce qu'il n'en a pas légalement le droit.",
+     "correct": false,
+     "rationale": "Il ne parle pas de droit, mais d'efficacité."
+    },
+    {
+     "label": "B",
+     "text": "Parce que les voisins refusent de le rencontrer.",
+     "correct": false,
+     "rationale": "Il les rencontre séparément puis ensemble."
+    },
+    {
+     "label": "C",
+     "text": "Parce qu'il ne connaît pas assez le quartier.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "D",
+     "text": "Parce qu'une solution imposée ne dure pas.",
+     "correct": true,
+     "rationale": "« Si je tranchais à leur place, le conflit reprendrait dans six mois »."
+    }
+   ],
+   "explanation": "L'hypothèse « si je tranchais…, le conflit reprendrait » justifie sa méthode : une solution construite par les voisins eux-mêmes est plus durable. « Trancher » signifie décider à la place des personnes concernées.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co09.wav"
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "H: Depuis septembre, une dizaine de retraités de la commune accompagnent bénévolement les collégiens à pied le matin. Les parents inscrivent leurs enfants sur une application, et les accompagnateurs suivent un trajet fixe, avec des arrêts. Le dispositif devait rester expérimental, mais face au succès, le département envisage de l'étendre à trois autres collèges dès la rentrée prochaine.",
+   "prompt": "Quel est le sujet principal de ce reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une application payante pour suivre les trajets des enfants.",
+     "correct": false,
+     "rationale": "L'application sert à l'inscription ; elle n'est pas le sujet et rien ne dit qu'elle est payante."
+    },
+    {
+     "label": "B",
+     "text": "Un système d'accompagnement des collégiens par des retraités, appelé à s'étendre.",
+     "correct": true,
+     "rationale": "Il décrit le dispositif puis annonce son extension possible à trois collèges."
+    },
+    {
+     "label": "C",
+     "text": "La fermeture d'un collège faute d'élèves.",
+     "correct": false,
+     "rationale": "Aucune fermeture n'est évoquée."
+    },
+    {
+     "label": "D",
+     "text": "Un conflit entre parents et retraités.",
+     "correct": false,
+     "rationale": "Le reportage parle d'un succès, pas d'un conflit."
+    }
+   ],
+   "explanation": "Pour la compréhension globale, repérez le sujet (l'accompagnement à pied par des retraités) et l'évolution annoncée (« le département envisage de l'étendre »). Les détails pratiques (application, arrêts) ne constituent pas l'idée principale.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co10.wav"
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "conversation administrative",
+   "skill": "information précise",
+   "document": "F: Bonjour, je voudrais m'inscrire sur les listes électorales. Je viens d'emménager. / H: Très bien. Vous avez un justificatif de domicile de moins de trois mois et une pièce d'identité ? / F: J'ai mon bail et ma carte d'identité. / H: Le bail ne suffit pas, il me faut une facture d'électricité, d'eau ou de téléphone fixe. Sinon, vous pouvez aussi faire la démarche en ligne en joignant les mêmes pièces.",
+   "prompt": "Pourquoi la femme ne peut-elle pas s'inscrire immédiatement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Sa carte d'identité n'est plus valable.",
+     "correct": false,
+     "rationale": "Rien n'indique que sa carte soit périmée."
+    },
+    {
+     "label": "B",
+     "text": "L'inscription ne se fait plus qu'en ligne.",
+     "correct": false,
+     "rationale": "La démarche en ligne est une possibilité, pas une obligation."
+    },
+    {
+     "label": "C",
+     "text": "Il lui manque un justificatif de domicile accepté.",
+     "correct": true,
+     "rationale": "« Le bail ne suffit pas, il me faut une facture… »."
+    },
+    {
+     "label": "D",
+     "text": "Elle n'habite pas encore la commune.",
+     "correct": false,
+     "rationale": "Elle vient d'emménager dans la commune."
+    }
+   ],
+   "explanation": "L'agent refuse le bail comme justificatif : il faut une facture récente. Le connecteur « sinon » introduit une alternative (la démarche en ligne), mais les pièces exigées restent les mêmes.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co11.wav"
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "opinion",
+   "document": "F: On parle beaucoup de la solitude des personnes âgées, et c'est légitime. Mais on oublie une autre solitude, plus discrète : celle des jeunes adultes qui arrivent dans une grande ville pour leur premier emploi. Ils ne connaissent personne, travaillent beaucoup, et n'osent pas l'avouer, parce qu'à vingt-cinq ans, on est censé avoir une vie sociale débordante. Les associations, elles, l'ont bien compris.",
+   "prompt": "Quel est le point de vue de la chroniqueuse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La solitude des jeunes actifs est réelle mais peu reconnue.",
+     "correct": true,
+     "rationale": "« une autre solitude, plus discrète… et n'osent pas l'avouer »."
+    },
+    {
+     "label": "B",
+     "text": "Les associations ignorent ce problème.",
+     "correct": false,
+     "rationale": "Au contraire, elles « l'ont bien compris »."
+    },
+    {
+     "label": "C",
+     "text": "Les jeunes adultes ont une vie sociale trop intense.",
+     "correct": false,
+     "rationale": "C'est l'image qu'on leur prête, pas la réalité qu'elle décrit."
+    },
+    {
+     "label": "D",
+     "text": "La solitude des personnes âgées est exagérée.",
+     "correct": false,
+     "rationale": "Elle juge cette préoccupation « légitime »."
+    }
+   ],
+   "explanation": "La chroniqueuse concède d'abord (« c'est légitime ») puis introduit sa thèse avec « mais on oublie ». L'expression « on est censé » montre l'écart entre une attente sociale et la réalité vécue par les jeunes.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co12.wav"
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "inférence",
+   "document": "H: Votre association de défense des locataires a obtenu gain de cause contre un grand bailleur. Vous êtes satisfaite ? / F: Satisfaite, oui, mais prudente. Le tribunal a reconnu que les charges étaient surfacturées, c'est une victoire. Maintenant, il faut que le remboursement arrive réellement sur les comptes des familles. Avec ce bailleur, on a déjà vu des décisions de justice rester lettre morte pendant des années.",
+   "prompt": "Pourquoi la représentante reste-t-elle prudente ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle pense que le tribunal s'est trompé.",
+     "correct": false,
+     "rationale": "Elle parle d'une « victoire »."
+    },
+    {
+     "label": "B",
+     "text": "Elle craint que le bailleur tarde à appliquer la décision.",
+     "correct": true,
+     "rationale": "« on a déjà vu des décisions de justice rester lettre morte pendant des années »."
+    },
+    {
+     "label": "C",
+     "text": "Elle s'attend à ce que le bailleur fasse appel et gagne.",
+     "correct": false,
+     "rationale": "Elle ne parle pas d'appel, mais de non-application."
+    },
+    {
+     "label": "D",
+     "text": "Elle trouve le remboursement trop faible.",
+     "correct": false,
+     "rationale": "Le montant n'est pas discuté."
+    }
+   ],
+   "explanation": "« Rester lettre morte » signifie ne pas être appliqué. Sa prudence vient donc de l'expérience passée avec ce bailleur. La structure « satisfaite, oui, mais prudente » annonce une nuance qu'il faut expliquer.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co13.wav"
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce radio",
+   "skill": "information précise",
+   "document": "H: La préfecture rappelle que le brûlage des déchets verts est interdit toute l'année sur l'ensemble du département, y compris dans les jardins privés. Les contrevenants s'exposent à une amende pouvant aller jusqu'à sept cent cinquante euros. Les tailles de haies et les feuilles mortes peuvent être déposées gratuitement en déchetterie ou transformées en compost.",
+   "prompt": "Que rappelle la préfecture ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les déchetteries vont devenir payantes.",
+     "correct": false,
+     "rationale": "Le dépôt est au contraire « gratuit »."
+    },
+    {
+     "label": "B",
+     "text": "Le brûlage est autorisé en dehors de l'été.",
+     "correct": false,
+     "rationale": "L'interdiction vaut « toute l'année »."
+    },
+    {
+     "label": "C",
+     "text": "Il est interdit de brûler ses déchets verts, même chez soi.",
+     "correct": true,
+     "rationale": "« interdit toute l'année… y compris dans les jardins privés »."
+    },
+    {
+     "label": "D",
+     "text": "Il faut une autorisation pour faire du compost.",
+     "correct": false,
+     "rationale": "Le compost est présenté comme une solution, sans autorisation."
+    }
+   ],
+   "explanation": "Les mots « toute l'année » et « y compris » renforcent l'interdiction et éliminent les distracteurs sur les saisons et les jardins privés. La fin de l'annonce propose des alternatives.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co14.wav"
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "intention",
+   "document": "H: Dis, pour la fête des voisins, tu crois que je pourrais demander à Madame Roux de nous prêter sa cour ? / F: Tu peux toujours essayer… Mais tu te souviens de l'an dernier ? On avait laissé des chaises abîmées et elle avait mis trois semaines à nous redire bonjour. / H: Ah oui… Bon, et si je lui proposais de l'aider à tout ranger le lendemain ?",
+   "prompt": "Que suggère la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Que la demande risque d'être mal accueillie.",
+     "correct": true,
+     "rationale": "Elle rappelle l'incident de l'an dernier et la réaction de Madame Roux."
+    },
+    {
+     "label": "B",
+     "text": "Que la fête des voisins doit être annulée.",
+     "correct": false,
+     "rationale": "Elle ne parle pas d'annulation."
+    },
+    {
+     "label": "C",
+     "text": "Que Madame Roux sera ravie d'aider.",
+     "correct": false,
+     "rationale": "Le souvenir évoqué montre plutôt sa méfiance."
+    },
+    {
+     "label": "D",
+     "text": "Qu'il faut organiser la fête ailleurs, chez elle.",
+     "correct": false,
+     "rationale": "Elle ne propose aucun autre lieu."
+    }
+   ],
+   "explanation": "« Tu peux toujours essayer… » exprime un doute. L'anecdote (chaises abîmées, trois semaines sans bonjour) laisse entendre, sans le dire directement, que Madame Roux risque de refuser. L'homme comprend et propose une compensation.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co15.wav"
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "F: Dans ce lycée de banlieue, les élèves de terminale ont organisé un faux procès devant un vrai magistrat. Pendant trois mois, ils ont préparé les plaidoiries, étudié le dossier et appris le vocabulaire juridique. Pour beaucoup, c'était la première fois qu'ils entraient dans un palais de justice. Plusieurs envisagent désormais des études de droit, une filière qu'ils croyaient réservée à d'autres.",
+   "prompt": "Quel est l'effet principal du projet sur les élèves ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il les a préparés à devenir jurés.",
+     "correct": false,
+     "rationale": "Le rôle de juré n'est pas évoqué."
+    },
+    {
+     "label": "B",
+     "text": "Il les a dégoûtés du système judiciaire.",
+     "correct": false,
+     "rationale": "Au contraire, certains veulent étudier le droit."
+    },
+    {
+     "label": "C",
+     "text": "Il leur a permis d'obtenir directement leur baccalauréat.",
+     "correct": false,
+     "rationale": "Rien n'indique de lien avec le diplôme."
+    },
+    {
+     "label": "D",
+     "text": "Il leur a ouvert des perspectives d'études qu'ils n'imaginaient pas.",
+     "correct": true,
+     "rationale": "« Plusieurs envisagent désormais des études de droit, une filière qu'ils croyaient réservée à d'autres »."
+    }
+   ],
+   "explanation": "La conclusion du reportage donne l'effet principal : un changement de regard sur les études de droit. L'expression « réservée à d'autres » révèle un sentiment d'exclusion sociale que le projet a contribué à dépasser.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co16.wav"
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Faut-il rendre obligatoire une journée de bénévolat par an pour les salariés ? / F: L'intention est bonne, mais le mot « obligatoire » me gêne. Le bénévolat repose sur la liberté de s'engager. En revanche, que les entreprises accordent un jour de congé rémunéré à ceux qui veulent s'investir dans une association, ça, j'y suis tout à fait favorable.",
+   "prompt": "Quelle est la position de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle pense que les associations n'ont pas besoin d'aide.",
+     "correct": false,
+     "rationale": "Elle ne dit rien de tel."
+    },
+    {
+     "label": "B",
+     "text": "Elle est opposée à toute forme de bénévolat en entreprise.",
+     "correct": false,
+     "rationale": "Elle soutient un dispositif volontaire."
+    },
+    {
+     "label": "C",
+     "text": "Elle préfère un jour de congé volontaire à une obligation.",
+     "correct": true,
+     "rationale": "« que les entreprises accordent un jour de congé… à ceux qui veulent s'investir »."
+    },
+    {
+     "label": "D",
+     "text": "Elle soutient pleinement l'obligation.",
+     "correct": false,
+     "rationale": "Le mot « obligatoire » la « gêne »."
+    }
+   ],
+   "explanation": "La femme distingue l'intention (bonne) de la modalité (l'obligation, qu'elle refuse). « En revanche » introduit sa proposition alternative. La mise en relief « ça, j'y suis tout à fait favorable » souligne sa vraie position.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co17.wav"
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "information précise",
+   "document": "F: Bonjour, ici le centre communal d'action sociale. Nous avons bien reçu votre dossier de demande d'aide au chauffage. Il est complet, sauf l'avis d'imposition : vous nous avez envoyé celui de l'année dernière, or il nous faut le plus récent. Dès réception, la commission examinera votre demande ; elle se réunit le premier mardi de chaque mois.",
+   "prompt": "Quel document manque au dossier ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une facture de chauffage.",
+     "correct": false,
+     "rationale": "Aucune facture n'est demandée."
+    },
+    {
+     "label": "B",
+     "text": "L'avis d'imposition le plus récent.",
+     "correct": true,
+     "rationale": "« vous nous avez envoyé celui de l'année dernière, or il nous faut le plus récent »."
+    },
+    {
+     "label": "C",
+     "text": "Le formulaire de demande signé.",
+     "correct": false,
+     "rationale": "Seul l'avis d'imposition pose problème."
+    },
+    {
+     "label": "D",
+     "text": "Un justificatif de domicile.",
+     "correct": false,
+     "rationale": "Le dossier est complet à l'exception de l'avis d'imposition."
+    }
+   ],
+   "explanation": "Le connecteur « sauf » isole l'élément manquant, et « or » explique pourquoi le document envoyé ne convient pas. La date de la commission est un détail complémentaire.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co18.wav"
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "inférence",
+   "document": "H: Ces jardins partagés, c'est sympathique, mais ils occupent des terrains où l'on pourrait construire des logements. / F: Construire où ? Sur le dernier espace vert du quartier ? Les familles qui vivent ici n'ont pas de balcon. Si vous supprimez le jardin, vous aurez des logements de plus, mais aussi des enfants qui n'auront plus aucun endroit pour jouer dehors.",
+   "prompt": "Que laisse entendre la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Qu'elle s'oppose à toute construction de logements en ville.",
+     "correct": false,
+     "rationale": "Elle refuse ce terrain précis, pas toute construction."
+    },
+    {
+     "label": "B",
+     "text": "Que les familles du quartier ont toutes un jardin privé.",
+     "correct": false,
+     "rationale": "Elle dit au contraire qu'elles n'ont pas de balcon."
+    },
+    {
+     "label": "C",
+     "text": "Que les jardins partagés sont trop chers à entretenir.",
+     "correct": false,
+     "rationale": "Le coût n'est pas évoqué."
+    },
+    {
+     "label": "D",
+     "text": "Que le besoin de logements ne justifie pas de sacrifier tout espace vert.",
+     "correct": true,
+     "rationale": "Elle rappelle qu'il s'agit du « dernier espace vert » et évoque les enfants sans lieu de jeu."
+    }
+   ],
+   "explanation": "Par une question rhétorique (« Construire où ? »), la femme conteste l'argument de l'homme. Elle ne nie pas le besoin de logements, mais montre le coût d'une telle décision pour les familles.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co19.wav"
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "conférence",
+   "skill": "compréhension globale",
+   "document": "H: Contrairement à une idée reçue, les jeunes ne se désintéressent pas de la politique ; ils se détournent surtout des formes traditionnelles de participation. Ils votent moins, adhèrent rarement à un parti, mais signent des pétitions, s'engagent dans des associations ou participent à des mobilisations ponctuelles. Leur engagement est plus intermittent, plus lié à des causes précises qu'à une idéologie globale.",
+   "prompt": "Quelle idée principale le conférencier défend-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les jeunes s'engagent autrement, de façon plus ponctuelle et ciblée.",
+     "correct": true,
+     "rationale": "« Leur engagement est plus intermittent, plus lié à des causes précises »."
+    },
+    {
+     "label": "B",
+     "text": "Les jeunes adhèrent massivement aux partis politiques.",
+     "correct": false,
+     "rationale": "Ils adhèrent « rarement à un parti »."
+    },
+    {
+     "label": "C",
+     "text": "Les jeunes se désintéressent totalement de la politique.",
+     "correct": false,
+     "rationale": "C'est l'« idée reçue » qu'il conteste."
+    },
+    {
+     "label": "D",
+     "text": "Les jeunes votent plus que leurs parents.",
+     "correct": false,
+     "rationale": "Ils « votent moins »."
+    }
+   ],
+   "explanation": "La formule « contrairement à une idée reçue » annonce que le conférencier va contredire une opinion répandue. Sa thèse : un changement des formes d'engagement, non un désintérêt.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co20.wav"
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "intention",
+   "document": "F: Monsieur le maire, les habitants se plaignent de la fermeture de la piscine municipale. / H: Je les comprends, croyez-moi. Mais la toiture menaçait de s'effondrer : je ne pouvais pas prendre le risque d'un accident. Les travaux commenceront en avril, et en attendant, nous avons négocié des créneaux avec la piscine de la ville voisine, avec une navette gratuite le mercredi et le samedi.",
+   "prompt": "Que cherche à faire le maire dans sa réponse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Reprocher aux habitants leurs plaintes.",
+     "correct": false,
+     "rationale": "Il dit au contraire qu'il les « comprend »."
+    },
+    {
+     "label": "B",
+     "text": "Annoncer la fermeture définitive de la piscine.",
+     "correct": false,
+     "rationale": "Les travaux sont prévus pour avril : la fermeture est provisoire."
+    },
+    {
+     "label": "C",
+     "text": "Rejeter la responsabilité sur la ville voisine.",
+     "correct": false,
+     "rationale": "La ville voisine est un partenaire, pas une cause."
+    },
+    {
+     "label": "D",
+     "text": "Justifier la fermeture et présenter une solution temporaire.",
+     "correct": true,
+     "rationale": "Il explique le danger de la toiture et décrit les créneaux et la navette."
+    }
+   ],
+   "explanation": "Le maire montre d'abord de l'empathie (« je les comprends »), justifie la décision (« je ne pouvais pas prendre le risque »), puis propose une solution provisoire (« en attendant »). C'est une stratégie classique de communication publique.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co21.wav"
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "information précise",
+   "document": "H: Pour lutter contre l'isolement numérique, la médiathèque propose désormais des permanences d'aide aux démarches en ligne, le mardi et le jeudi après-midi. Un conseiller aide gratuitement les habitants à déclarer leurs revenus, à prendre un rendez-vous médical ou à remplir un dossier de retraite. Il n'est pas nécessaire d'avoir un ordinateur : des postes sont mis à disposition, mais il faut réserver par téléphone.",
+   "prompt": "Quelle condition faut-il remplir pour bénéficier du service ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Avoir plus de soixante-cinq ans.",
+     "correct": false,
+     "rationale": "Aucune condition d'âge n'est mentionnée."
+    },
+    {
+     "label": "B",
+     "text": "Réserver un créneau par téléphone.",
+     "correct": true,
+     "rationale": "« mais il faut réserver par téléphone »."
+    },
+    {
+     "label": "C",
+     "text": "Payer une adhésion à la médiathèque.",
+     "correct": false,
+     "rationale": "Le service est gratuit."
+    },
+    {
+     "label": "D",
+     "text": "Venir avec son propre ordinateur.",
+     "correct": false,
+     "rationale": "« Il n'est pas nécessaire d'avoir un ordinateur »."
+    }
+   ],
+   "explanation": "La seule contrainte est introduite par « mais » à la fin : la réservation téléphonique. La phrase négative « il n'est pas nécessaire » élimine le distracteur sur l'ordinateur.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co22.wav"
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "F: Tu vas signer la pétition contre l'antenne-relais ? / H: Je ne sais pas trop. On se plaint tous du mauvais réseau, et quand on installe une antenne, tout le monde proteste. / F: Oui, mais là, elle sera à cinquante mètres de l'école. / H: Les études sérieuses ne montrent pas de danger à ces niveaux d'exposition. Cela dit, je comprends que les parents aient besoin d'être rassurés. Une réunion publique serait plus utile qu'une pétition.",
+   "prompt": "Quelle est la position de l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il refuse toute discussion avec les parents.",
+     "correct": false,
+     "rationale": "Il propose au contraire une réunion publique."
+    },
+    {
+     "label": "B",
+     "text": "Il est fermement opposé à l'antenne.",
+     "correct": false,
+     "rationale": "Il ne sait pas s'il signera et doute du danger."
+    },
+    {
+     "label": "C",
+     "text": "Il doute du danger mais souhaite qu'on informe les parents.",
+     "correct": true,
+     "rationale": "Il cite les études, puis propose une réunion publique pour rassurer."
+    },
+    {
+     "label": "D",
+     "text": "Il pense que l'antenne est dangereuse pour les enfants.",
+     "correct": false,
+     "rationale": "Il dit que les études ne montrent pas de danger."
+    }
+   ],
+   "explanation": "L'homme relève une contradiction (on veut du réseau mais on refuse les antennes), s'appuie sur les études, puis nuance avec « cela dit ». Sa proposition finale montre une position modérée.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co23.wav"
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "inférence",
+   "document": "F: Chers usagers, nous vous informons que la ligne de bus numéro 12 sera prolongée jusqu'au nouveau quartier des Vignes à partir du 1er septembre. En contrepartie, les passages seront espacés de vingt minutes au lieu de quinze aux heures creuses. Nous vous remercions de votre compréhension et vous invitons à consulter les nouveaux horaires sur notre site.",
+   "prompt": "Que comprend-on de cette annonce ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le prolongement de la ligne entraîne une baisse de fréquence à certaines heures.",
+     "correct": true,
+     "rationale": "« En contrepartie, les passages seront espacés de vingt minutes au lieu de quinze aux heures creuses »."
+    },
+    {
+     "label": "B",
+     "text": "Le quartier des Vignes n'aura plus de bus.",
+     "correct": false,
+     "rationale": "C'est justement le quartier nouvellement desservi."
+    },
+    {
+     "label": "C",
+     "text": "La ligne 12 va être supprimée.",
+     "correct": false,
+     "rationale": "Elle est au contraire prolongée."
+    },
+    {
+     "label": "D",
+     "text": "Les bus passeront plus souvent toute la journée.",
+     "correct": false,
+     "rationale": "La fréquence baisse aux heures creuses."
+    }
+   ],
+   "explanation": "« En contrepartie » annonce un inconvénient lié à l'avantage. La formule « nous vous remercions de votre compréhension » confirme qu'il s'agit d'une contrainte pour les usagers.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co24.wav"
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "entretien radio",
+   "skill": "compréhension globale",
+   "document": "H: Vous avez écrit un guide pour aider les nouveaux arrivants à comprendre l'administration française. Pourquoi ? / F: Parce que la langue n'est pas le seul obstacle. Même des gens qui parlent bien français se perdent : ils ne savent pas quel service contacter, ni dans quel ordre faire les démarches. Mon guide ne traduit pas les formulaires ; il explique la logique du système, pour qu'on puisse se débrouiller seul ensuite.",
+   "prompt": "Quel est l'objectif du guide ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Apprendre le français aux nouveaux arrivants.",
+     "correct": false,
+     "rationale": "Elle dit que la langue n'est « pas le seul obstacle »."
+    },
+    {
+     "label": "B",
+     "text": "Rendre les nouveaux arrivants autonomes en leur expliquant le fonctionnement de l'administration.",
+     "correct": true,
+     "rationale": "« il explique la logique du système, pour qu'on puisse se débrouiller seul ensuite »."
+    },
+    {
+     "label": "C",
+     "text": "Remplacer les services de l'administration.",
+     "correct": false,
+     "rationale": "Le guide aide à les contacter, pas à les remplacer."
+    },
+    {
+     "label": "D",
+     "text": "Traduire les formulaires administratifs.",
+     "correct": false,
+     "rationale": "« Mon guide ne traduit pas les formulaires »."
+    }
+   ],
+   "explanation": "La phrase négative « ne traduit pas » écarte un distracteur, puis « il explique la logique du système » donne l'objectif. La subordonnée de but « pour qu'on puisse se débrouiller seul » insiste sur l'autonomie.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-01_co25.wav"
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "règlement intérieur",
+   "skill": "information précise",
+   "document": "Règlement de la salle polyvalente. Article 4 : La salle est louée exclusivement aux habitants de la commune et aux associations dont le siège se situe sur son territoire. Article 5 : Le locataire verse une caution de 500 euros, restituée dans un délai de quinze jours après l'état des lieux de sortie, sous réserve qu'aucun dégât n'ait été constaté. Article 6 : Toute musique amplifiée doit cesser à 1 h du matin. Le non-respect de cette règle entraîne la retenue de la moitié de la caution.",
+   "prompt": "Que se passe-t-il si la musique continue après 1 h ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La police municipale interrompt la soirée.",
+     "correct": false,
+     "rationale": "Aucune intervention policière n'est mentionnée."
+    },
+    {
+     "label": "B",
+     "text": "La salle ne lui sera plus jamais louée.",
+     "correct": false,
+     "rationale": "Le règlement ne prévoit pas d'interdiction définitive."
+    },
+    {
+     "label": "C",
+     "text": "Le locataire perd la totalité de sa caution.",
+     "correct": false,
+     "rationale": "Seule la moitié est retenue pour ce manquement."
+    },
+    {
+     "label": "D",
+     "text": "Le locataire perd la moitié de sa caution.",
+     "correct": true,
+     "rationale": "« entraîne la retenue de la moitié de la caution »."
+    }
+   ],
+   "explanation": "Dans un règlement, chaque article associe une règle à une conséquence. L'article 6 précise la sanction : « la moitié de la caution ». Ne confondez pas avec l'article 5, qui concerne les dégâts."
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "compréhension globale",
+   "document": "Dans plusieurs villes, des « frigos solidaires » ont fait leur apparition sur les trottoirs. Le principe est simple : commerçants et particuliers y déposent des aliments encore consommables, et chacun peut se servir librement, sans justificatif. Les initiateurs y voient un double avantage : réduire le gaspillage et aider discrètement ceux qui en ont besoin. Mais le dispositif pose des questions d'hygiène : qui vérifie les dates et nettoie le réfrigérateur ? Dans la plupart des cas, une association s'engage à passer chaque jour, ce qui suppose une équipe de bénévoles fidèles.",
+   "prompt": "Quel est le principal défi du dispositif selon l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Obtenir une autorisation de la mairie.",
+     "correct": false,
+     "rationale": "Aucune autorisation n'est évoquée."
+    },
+    {
+     "label": "B",
+     "text": "Assurer un entretien et un contrôle réguliers.",
+     "correct": true,
+     "rationale": "« qui vérifie les dates et nettoie le réfrigérateur ? … ce qui suppose une équipe de bénévoles fidèles »."
+    },
+    {
+     "label": "C",
+     "text": "Trouver des commerçants prêts à donner.",
+     "correct": false,
+     "rationale": "L'article ne présente pas les dons comme un problème."
+    },
+    {
+     "label": "D",
+     "text": "Empêcher les personnes aisées de se servir.",
+     "correct": false,
+     "rationale": "L'accès libre, sans justificatif, est voulu."
+    }
+   ],
+   "explanation": "Le connecteur « mais » introduit la difficulté : l'hygiène. La dernière phrase précise la condition de réussite : une équipe stable de bénévoles. Les avantages sont présentés avant, pour mieux faire ressortir la limite."
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "courrier des lecteurs",
+   "skill": "opinion",
+   "document": "Je lis souvent que les habitants des campagnes seraient hostiles aux éoliennes par égoïsme. C'est un raccourci injuste. Dans mon village, personne n'est contre les énergies renouvelables. Ce que nous refusons, c'est d'apprendre par la presse qu'un projet de douze machines est prévu à cinq cents mètres de nos maisons, sans que nous ayons été consultés. Associez-nous aux décisions, faites-nous profiter des retombées financières, et vous verrez que les résistances diminueront.",
+   "prompt": "Que reproche l'auteur aux porteurs du projet ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "D'installer trop peu d'éoliennes.",
+     "correct": false,
+     "rationale": "Il critique la méthode, pas le nombre."
+    },
+    {
+     "label": "B",
+     "text": "De payer trop cher les terrains.",
+     "correct": false,
+     "rationale": "Il demande au contraire des retombées financières."
+    },
+    {
+     "label": "C",
+     "text": "De ne pas avoir consulté les habitants.",
+     "correct": true,
+     "rationale": "« sans que nous ayons été consultés »."
+    },
+    {
+     "label": "D",
+     "text": "De vouloir produire de l'énergie renouvelable.",
+     "correct": false,
+     "rationale": "« personne n'est contre les énergies renouvelables »."
+    }
+   ],
+   "explanation": "L'auteur réfute un cliché (« raccourci injuste »), puis précise l'objet du refus grâce à la mise en relief « ce que nous refusons, c'est… ». Sa critique porte sur la méthode : l'absence de concertation."
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "offre de service civique",
+   "skill": "information précise",
+   "document": "Mission de service civique – Lutte contre l'isolement des personnes âgées. Durée : 8 mois, 24 heures par semaine. Missions : visites à domicile en binôme, animation d'ateliers à la résidence autonomie, accompagnement aux courses. Profil : de 16 à 25 ans, sans condition de diplôme ; une expérience associative est appréciée mais pas indispensable. Indemnité mensuelle selon le barème national. Un permis de conduire serait un plus pour les déplacements en zone rurale.",
+   "prompt": "Quelle condition est obligatoire pour candidater ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Avoir entre 16 et 25 ans.",
+     "correct": true,
+     "rationale": "Le profil indique « de 16 à 25 ans »."
+    },
+    {
+     "label": "B",
+     "text": "Avoir déjà travaillé dans une association.",
+     "correct": false,
+     "rationale": "Cette expérience est « appréciée mais pas indispensable »."
+    },
+    {
+     "label": "C",
+     "text": "Avoir le permis de conduire.",
+     "correct": false,
+     "rationale": "Le permis « serait un plus », il n'est pas exigé."
+    },
+    {
+     "label": "D",
+     "text": "Posséder un diplôme du secteur social.",
+     "correct": false,
+     "rationale": "La mission est « sans condition de diplôme »."
+    }
+   ],
+   "explanation": "Distinguez les exigences des simples atouts : « apprécié », « serait un plus », « pas indispensable » signalent des critères facultatifs. Seul l'âge est une condition stricte."
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "intention",
+   "document": "Chaque hiver, les mêmes images reviennent : des sans-abri dans le froid, des appels aux dons, des places d'urgence ouvertes en catastrophe. Puis le printemps arrive, et le sujet disparaît. Comme si la rue était moins dure en juillet. Les associations le répètent pourtant depuis des années : sans politique de logement durable, l'urgence restera permanente. Il ne s'agit pas de faire preuve de générosité une fois par an, mais de sortir enfin d'une gestion saisonnière d'un problème qui ne l'est pas.",
+   "prompt": "Quelle est l'intention principale de l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dénoncer une réponse seulement saisonnière à un problème permanent.",
+     "correct": true,
+     "rationale": "« sortir enfin d'une gestion saisonnière d'un problème qui ne l'est pas »."
+    },
+    {
+     "label": "B",
+     "text": "Féliciter l'État pour l'ouverture de places d'urgence.",
+     "correct": false,
+     "rationale": "Les ouvertures « en catastrophe » sont critiquées."
+    },
+    {
+     "label": "C",
+     "text": "Décrire les conditions météorologiques de l'hiver.",
+     "correct": false,
+     "rationale": "Le froid n'est qu'un point de départ."
+    },
+    {
+     "label": "D",
+     "text": "Encourager les dons pendant l'hiver.",
+     "correct": false,
+     "rationale": "Il critique justement la générosité ponctuelle."
+    }
+   ],
+   "explanation": "L'ironie « comme si la rue était moins dure en juillet » et la structure « il ne s'agit pas de…, mais de… » révèlent l'intention critique. Le pronom « le » final reprend l'adjectif « saisonnière »."
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "lettre administrative",
+   "skill": "information précise",
+   "document": "Madame, suite à votre demande du 14 février, nous vous informons que votre dossier de logement social a été enregistré sous le numéro 0754-2291. Votre demande est valable un an et devra être renouvelée avant le 14 février de l'année prochaine, faute de quoi elle sera radiée. Toute modification de votre situation familiale ou professionnelle doit nous être signalée dans un délai d'un mois. Nous vous rappelons que l'enregistrement ne vaut pas attribution d'un logement.",
+   "prompt": "Que doit faire la destinataire pour conserver sa demande ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Se présenter chaque mois au guichet.",
+     "correct": false,
+     "rationale": "Aucune présence mensuelle n'est demandée."
+    },
+    {
+     "label": "B",
+     "text": "Accepter le premier logement proposé.",
+     "correct": false,
+     "rationale": "Aucune proposition de logement n'est mentionnée."
+    },
+    {
+     "label": "C",
+     "text": "La renouveler avant la date anniversaire.",
+     "correct": true,
+     "rationale": "« devra être renouvelée avant le 14 février… faute de quoi elle sera radiée »."
+    },
+    {
+     "label": "D",
+     "text": "Envoyer chaque mois ses fiches de paie.",
+     "correct": false,
+     "rationale": "Il faut seulement signaler les changements de situation."
+    }
+   ],
+   "explanation": "« Faute de quoi » introduit la conséquence d'un oubli : la radiation. Attention à la dernière phrase : l'enregistrement ne garantit pas l'obtention d'un logement."
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "inférence",
+   "document": "À Grenoble, une expérience originale a été menée dans un immeuble de quatre-vingts logements : une salle commune, gérée par les habitants eux-mêmes, a été aménagée au rez-de-chaussée. Un an plus tard, les plaintes pour nuisances adressées au bailleur ont diminué de moitié. Les responsables se gardent d'en tirer des conclusions hâtives, mais notent que de nombreux conflits se règlent désormais autour d'un café, avant même d'arriver sur le bureau du gardien.",
+   "prompt": "Que suggère l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les résultats prouvent définitivement l'efficacité des salles communes.",
+     "correct": false,
+     "rationale": "Les responsables « se gardent d'en tirer des conclusions hâtives »."
+    },
+    {
+     "label": "B",
+     "text": "Les rencontres entre voisins favorisent un règlement amiable des conflits.",
+     "correct": true,
+     "rationale": "« de nombreux conflits se règlent désormais autour d'un café »."
+    },
+    {
+     "label": "C",
+     "text": "Le gardien a été supprimé grâce à l'expérience.",
+     "correct": false,
+     "rationale": "Le gardien est toujours mentionné."
+    },
+    {
+     "label": "D",
+     "text": "La salle commune a provoqué de nouvelles nuisances.",
+     "correct": false,
+     "rationale": "Les plaintes ont diminué de moitié."
+    }
+   ],
+   "explanation": "L'article laisse entendre un lien entre la salle commune et la baisse des plaintes, sans l'affirmer catégoriquement. « Se garder de » signifie éviter de : l'auteur reste prudent."
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "notice d'information",
+   "skill": "information précise",
+   "document": "Carte d'accès aux déchetteries. La carte est gratuite et délivrée sur présentation d'un justificatif de domicile. Elle donne droit à vingt-quatre passages par an. Au-delà, chaque passage supplémentaire est facturé huit euros. Les professionnels ne peuvent pas utiliser la carte des particuliers : ils doivent souscrire un abonnement spécifique. En cas de perte, une nouvelle carte est délivrée contre la somme de dix euros.",
+   "prompt": "Combien coûte le vingt-cinquième passage d'un particulier dans l'année ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Rien, l'accès est gratuit et illimité.",
+     "correct": false,
+     "rationale": "L'accès gratuit est limité à vingt-quatre passages."
+    },
+    {
+     "label": "B",
+     "text": "Dix euros.",
+     "correct": false,
+     "rationale": "Dix euros correspondent au remplacement d'une carte perdue."
+    },
+    {
+     "label": "C",
+     "text": "Le prix d'un abonnement professionnel.",
+     "correct": false,
+     "rationale": "Cet abonnement concerne les professionnels."
+    },
+    {
+     "label": "D",
+     "text": "Huit euros.",
+     "correct": true,
+     "rationale": "Après vingt-quatre passages gratuits, « chaque passage supplémentaire est facturé huit euros »."
+    }
+   ],
+   "explanation": "Il faut croiser deux informations : le nombre de passages inclus (vingt-quatre) et le tarif au-delà. Le montant de dix euros est un piège : il concerne la perte de la carte."
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "opinion",
+   "document": "On présente souvent le tirage au sort de citoyens pour débattre de grandes questions comme un gadget démocratique. Les conventions citoyennes organisées ces dernières années montrent pourtant que des personnes ordinaires, bien informées et accompagnées d'experts, sont capables de formuler des propositions précises et nuancées. Le problème n'est pas leur compétence, mais le sort réservé à leurs travaux : lorsque les responsables politiques n'en retiennent qu'une infime partie, ils alimentent la défiance qu'ils prétendaient combattre.",
+   "prompt": "Selon l'auteur, quel est le vrai problème des conventions citoyennes ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les experts influencent trop les débats.",
+     "correct": false,
+     "rationale": "L'auteur présente l'accompagnement des experts positivement."
+    },
+    {
+     "label": "B",
+     "text": "Leurs propositions sont trop peu reprises par les décideurs.",
+     "correct": true,
+     "rationale": "« lorsque les responsables politiques n'en retiennent qu'une infime partie »."
+    },
+    {
+     "label": "C",
+     "text": "Les citoyens tirés au sort sont incompétents.",
+     "correct": false,
+     "rationale": "« Le problème n'est pas leur compétence »."
+    },
+    {
+     "label": "D",
+     "text": "Elles coûtent trop cher à organiser.",
+     "correct": false,
+     "rationale": "Le coût n'est pas évoqué."
+    }
+   ],
+   "explanation": "La structure « le problème n'est pas…, mais… » donne la réponse. La fin du texte souligne un paradoxe : en ignorant les propositions, les politiques renforcent la défiance qu'ils voulaient réduire."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "Les épiceries de village rouvrent, mais sous une forme nouvelle. Faute de repreneur privé, plusieurs communes ont choisi de racheter les murs et de confier la gestion à une coopérative d'habitants. Chacun peut acheter une part sociale, à partir de vingt euros, et participer aux décisions. Ces commerces ne visent pas le profit, mais l'équilibre financier. Ils jouent aussi un rôle social : on y prend des nouvelles des voisins, on y dépose un colis, on y affiche les annonces du village.",
+   "prompt": "Quel est le thème principal de l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La réouverture de commerces de village gérés collectivement par les habitants.",
+     "correct": true,
+     "rationale": "Le texte décrit des épiceries rachetées par les communes et gérées en coopérative."
+    },
+    {
+     "label": "B",
+     "text": "La hausse des prix dans les villages.",
+     "correct": false,
+     "rationale": "Les prix ne sont pas évoqués."
+    },
+    {
+     "label": "C",
+     "text": "L'installation de grandes surfaces à la campagne.",
+     "correct": false,
+     "rationale": "Il n'est pas question de grandes surfaces."
+    },
+    {
+     "label": "D",
+     "text": "La fermeture définitive des commerces ruraux.",
+     "correct": false,
+     "rationale": "Les épiceries « rouvrent »."
+    }
+   ],
+   "explanation": "La première phrase annonce le thème (« rouvrent, mais sous une forme nouvelle »), puis le texte précise cette forme : coopérative d'habitants, objectif d'équilibre, rôle social."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "courriel professionnel",
+   "skill": "intention",
+   "document": "Bonjour à toutes et à tous, comme vous le savez, le local de l'association sera repeint pendant les vacances. Nous avons besoin de bras le samedi 22 et le dimanche 23, de 9 h à 17 h. Inutile d'être un as du pinceau : il y aura aussi des meubles à déplacer, des affiches à décoller et un repas à préparer pour l'équipe. Merci de répondre à ce message avant le 15, même si vous ne pouvez venir que deux heures. Chaque coup de main compte !",
+   "prompt": "Quel est le but de ce courriel ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Recruter un peintre professionnel.",
+     "correct": false,
+     "rationale": "« Inutile d'être un as du pinceau »."
+    },
+    {
+     "label": "B",
+     "text": "Annuler un repas prévu le 22.",
+     "correct": false,
+     "rationale": "Un repas est au contraire prévu pour l'équipe."
+    },
+    {
+     "label": "C",
+     "text": "Mobiliser des volontaires pour une journée de travaux.",
+     "correct": true,
+     "rationale": "« Nous avons besoin de bras… Merci de répondre… »."
+    },
+    {
+     "label": "D",
+     "text": "Informer que le local sera fermé définitivement.",
+     "correct": false,
+     "rationale": "Le local sera seulement repeint."
+    }
+   ],
+   "explanation": "L'expression familière « avoir besoin de bras » signifie chercher de l'aide. Le message rassure (« inutile d'être un as ») et facilite la participation (« même deux heures ») : c'est un appel à la mobilisation."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "Depuis janvier, les communes de plus de 3 500 habitants doivent proposer au moins un repas végétarien par semaine dans leurs cantines scolaires. Certaines villes vont plus loin et offrent une alternative végétarienne chaque jour. Les nutritionnistes rappellent que ces menus doivent être équilibrés et comporter des légumineuses, des céréales et des produits laitiers ou des œufs, afin de couvrir les besoins en protéines des enfants.",
+   "prompt": "Que rappellent les nutritionnistes ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La viande doit être servie tous les jours.",
+     "correct": false,
+     "rationale": "Rien de tel n'est indiqué."
+    },
+    {
+     "label": "B",
+     "text": "Les menus végétariens sont déconseillés aux enfants.",
+     "correct": false,
+     "rationale": "Ils demandent seulement qu'ils soient équilibrés."
+    },
+    {
+     "label": "C",
+     "text": "Il faut supprimer les produits laitiers.",
+     "correct": false,
+     "rationale": "Les produits laitiers font partie des aliments recommandés."
+    },
+    {
+     "label": "D",
+     "text": "Les menus végétariens doivent fournir assez de protéines.",
+     "correct": true,
+     "rationale": "Ils doivent comporter des aliments qui couvrent « les besoins en protéines des enfants »."
+    }
+   ],
+   "explanation": "Le texte distingue l'obligation légale (un repas par semaine), les initiatives locales (chaque jour) et la recommandation des nutritionnistes, introduite par « rappellent que »."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "inférence",
+   "document": "La politesse est souvent tenue pour une contrainte superficielle, un ensemble de gestes appris sans conviction. C'est oublier qu'elle permet à des inconnus de cohabiter sans se connaître. Dire bonjour à la boulangère, tenir la porte, s'excuser d'avoir bousculé quelqu'un : ces gestes minuscules signalent à l'autre qu'on reconnaît son existence. Là où ils disparaissent, la méfiance s'installe, et avec elle une forme de violence froide, faite d'indifférence.",
+   "prompt": "Que pense l'auteur de la politesse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle ne concerne que les relations entre amis.",
+     "correct": false,
+     "rationale": "Ses exemples concernent des inconnus."
+    },
+    {
+     "label": "B",
+     "text": "Elle joue un rôle essentiel dans la vie collective.",
+     "correct": true,
+     "rationale": "Elle « permet à des inconnus de cohabiter » et évite la méfiance."
+    },
+    {
+     "label": "C",
+     "text": "Elle n'est qu'une contrainte inutile.",
+     "correct": false,
+     "rationale": "C'est l'opinion qu'il conteste (« C'est oublier que… »)."
+    },
+    {
+     "label": "D",
+     "text": "Elle est la cause de la violence urbaine.",
+     "correct": false,
+     "rationale": "C'est son absence qui crée une « violence froide »."
+    }
+   ],
+   "explanation": "« C'est oublier que » introduit la réfutation d'une idée reçue. La dernière phrase montre a contrario l'importance de la politesse : sa disparition entraîne méfiance et indifférence."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce municipale",
+   "skill": "information précise",
+   "document": "Permis de végétaliser. La ville autorise les habitants à jardiner sur l'espace public devant chez eux : pieds d'arbres, jardinières, murs. Pour cela, il suffit de remplir une demande en ligne. Une fois le permis obtenu, un kit de plantation (terreau et graines locales) est remis gratuitement. Le jardinier s'engage à entretenir ses plantations sans pesticides et à ne pas gêner le passage des piétons, en particulier des poussettes et des fauteuils roulants.",
+   "prompt": "À quoi s'engage le titulaire du permis ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Acheter ses graines dans une jardinerie agréée.",
+     "correct": false,
+     "rationale": "Les graines sont fournies gratuitement dans le kit."
+    },
+    {
+     "label": "B",
+     "text": "Payer une redevance annuelle à la ville.",
+     "correct": false,
+     "rationale": "Aucune redevance n'est mentionnée."
+    },
+    {
+     "label": "C",
+     "text": "Entretenir ses plantations sans produits chimiques et laisser le passage libre.",
+     "correct": true,
+     "rationale": "« sans pesticides et à ne pas gêner le passage des piétons »."
+    },
+    {
+     "label": "D",
+     "text": "Planter uniquement des arbres.",
+     "correct": false,
+     "rationale": "Pieds d'arbres, jardinières et murs sont possibles."
+    }
+   ],
+   "explanation": "Les engagements apparaissent dans la dernière phrase après « s'engage à ». Le kit gratuit est un avantage, pas une obligation d'achat."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "article d'opinion",
+   "skill": "opinion",
+   "document": "Faut-il encore apprendre à rédiger une lettre administrative à l'heure des formulaires en ligne ? Je le crois. Non par nostalgie, mais parce que le formulaire ne prévoit jamais les situations particulières. Lorsqu'on conteste une décision, qu'on explique un retard ou qu'on demande une dérogation, il faut savoir exposer des faits, argumenter et rester courtois. Ces compétences ne sont pas désuètes : elles sont la condition pour défendre ses droits face à une administration de plus en plus automatisée.",
+   "prompt": "Pourquoi l'auteur juge-t-il utile d'apprendre à rédiger une lettre administrative ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour obtenir un emploi dans l'administration.",
+     "correct": false,
+     "rationale": "L'emploi n'est pas évoqué."
+    },
+    {
+     "label": "B",
+     "text": "Parce que les formulaires en ligne vont disparaître.",
+     "correct": false,
+     "rationale": "Il ne prédit pas leur disparition."
+    },
+    {
+     "label": "C",
+     "text": "Par attachement aux traditions anciennes.",
+     "correct": false,
+     "rationale": "« Non par nostalgie »."
+    },
+    {
+     "label": "D",
+     "text": "Pour défendre ses droits dans les situations que les formulaires ne prévoient pas.",
+     "correct": true,
+     "rationale": "« le formulaire ne prévoit jamais les situations particulières »."
+    }
+   ],
+   "explanation": "« Non par nostalgie, mais parce que » oppose une fausse raison à la vraie. L'auteur conclut que ces compétences sont nécessaires face à une administration automatisée."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "rapport",
+   "skill": "compréhension globale",
+   "document": "L'enquête menée auprès de 1 200 bénévoles montre que l'engagement associatif change de visage. Les bénévoles réguliers, présents chaque semaine, sont moins nombreux qu'il y a dix ans, tandis que les engagements ponctuels, sur un événement ou une mission courte, progressent fortement. Les associations doivent donc repenser leur organisation : proposer des missions courtes et clairement définies, mais aussi accompagner les volontaires qui souhaitent s'investir davantage.",
+   "prompt": "Quelle conclusion le rapport tire-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les associations doivent s'adapter à un bénévolat plus ponctuel.",
+     "correct": true,
+     "rationale": "« Les associations doivent donc repenser leur organisation : proposer des missions courtes »."
+    },
+    {
+     "label": "B",
+     "text": "Le bénévolat est en voie de disparition.",
+     "correct": false,
+     "rationale": "Les engagements ponctuels « progressent fortement »."
+    },
+    {
+     "label": "C",
+     "text": "Les missions courtes doivent être supprimées.",
+     "correct": false,
+     "rationale": "Il faut au contraire en proposer."
+    },
+    {
+     "label": "D",
+     "text": "Les bénévoles réguliers sont de plus en plus nombreux.",
+     "correct": false,
+     "rationale": "Ils sont « moins nombreux »."
+    }
+   ],
+   "explanation": "Le connecteur « donc » introduit la conclusion du rapport. Les données (moins de bénévoles réguliers, plus de ponctuels) justifient la recommandation d'adapter l'offre de missions."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "lettre de réclamation",
+   "skill": "intention",
+   "document": "Monsieur le Directeur, je me permets de vous signaler qu'à trois reprises ce mois-ci, le bus de 7 h 42 n'est pas passé à l'arrêt Clémenceau, sans qu'aucune information ne soit affichée. Ces absences m'ont valu des retards au travail et une remarque de mon employeur. Je vous demande de bien vouloir vérifier la régularité de cette ligne et de m'indiquer les mesures que vous comptez prendre. Je joins à ce courrier les dates concernées.",
+   "prompt": "Que demande l'auteur de la lettre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une vérification de la ligne et des informations sur les mesures prévues.",
+     "correct": true,
+     "rationale": "« vérifier la régularité de cette ligne et de m'indiquer les mesures que vous comptez prendre »."
+    },
+    {
+     "label": "B",
+     "text": "Le remboursement de son abonnement.",
+     "correct": false,
+     "rationale": "Il ne demande aucun remboursement."
+    },
+    {
+     "label": "C",
+     "text": "Une attestation pour son employeur.",
+     "correct": false,
+     "rationale": "Il ne demande pas d'attestation."
+    },
+    {
+     "label": "D",
+     "text": "La suppression de l'arrêt Clémenceau.",
+     "correct": false,
+     "rationale": "Il veut au contraire que le bus y passe."
+    }
+   ],
+   "explanation": "La demande est formulée avec « je vous demande de bien vouloir ». Les faits (trois absences, conséquences au travail) justifient la réclamation, et la pièce jointe la rend vérifiable."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "Le service des objets trouvés de la ville a enregistré plus de 9 000 objets l'an dernier. En tête : les clés, les cartes bancaires et les téléphones, suivis des parapluies. Les objets sont conservés trois mois, puis donnés à des associations ou détruits s'ils contiennent des données personnelles. Pour récupérer un objet, il faut fournir une description précise et, pour les objets de valeur, une preuve de propriété, comme une facture.",
+   "prompt": "Que deviennent les téléphones non réclamés après trois mois ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils sont conservés un an supplémentaire.",
+     "correct": false,
+     "rationale": "La durée de conservation est de trois mois."
+    },
+    {
+     "label": "B",
+     "text": "Ils sont donnés à des associations.",
+     "correct": false,
+     "rationale": "C'est le sort des objets sans données personnelles."
+    },
+    {
+     "label": "C",
+     "text": "Ils sont vendus aux enchères.",
+     "correct": false,
+     "rationale": "Aucune vente n'est mentionnée."
+    },
+    {
+     "label": "D",
+     "text": "Ils sont détruits, car ils contiennent des données personnelles.",
+     "correct": true,
+     "rationale": "Les objets sont « détruits s'ils contiennent des données personnelles »."
+    }
+   ],
+   "explanation": "Il faut appliquer la règle générale au cas particulier des téléphones : ils contiennent des données personnelles, donc ils sont détruits plutôt que donnés."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "inférence",
+   "document": "Il y a quelques années, notre rue comptait une mercerie, un cordonnier et un disquaire. Aujourd'hui, on y trouve trois agences immobilières, deux boutiques de cigarettes électroniques et un local vide depuis dix-huit mois. Je ne suis pas de ceux qui pensent que « c'était mieux avant ». Mais je me demande parfois ce que nous perdons, collectivement, quand une rue ne sert plus qu'à acheter, louer ou attendre.",
+   "prompt": "Quel sentiment exprime l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une satisfaction devant la modernisation du quartier.",
+     "correct": false,
+     "rationale": "Le ton est interrogatif et inquiet."
+    },
+    {
+     "label": "B",
+     "text": "Une inquiétude mesurée face à l'appauvrissement de la vie de quartier.",
+     "correct": true,
+     "rationale": "Il refuse la nostalgie mais « se demande ce que nous perdons »."
+    },
+    {
+     "label": "C",
+     "text": "Une colère contre les agences immobilières.",
+     "correct": false,
+     "rationale": "Il ne les attaque pas directement."
+    },
+    {
+     "label": "D",
+     "text": "Une nostalgie totale du passé.",
+     "correct": false,
+     "rationale": "« Je ne suis pas de ceux qui pensent que c'était mieux avant »."
+    }
+   ],
+   "explanation": "L'auteur se démarque d'une position nostalgique (« je ne suis pas de ceux qui… ») tout en exprimant un doute (« je me demande parfois »). La liste contrastée des commerces suggère une perte de diversité."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "guide pratique",
+   "skill": "information précise",
+   "document": "Organiser un vide-grenier dans sa rue. Les particuliers peuvent participer à deux ventes au déballage par an au maximum. Ils ne peuvent vendre que des objets personnels et usagés : la revente d'objets achetés dans le but d'être revendus est réservée aux professionnels. L'organisateur doit tenir un registre où figurent l'identité de chaque exposant et le numéro de sa pièce d'identité. Ce registre est remis à la mairie à l'issue de la manifestation.",
+   "prompt": "Que n'a pas le droit de faire un particulier lors d'un vide-grenier ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Vendre ses vêtements usagés.",
+     "correct": false,
+     "rationale": "Les objets personnels et usagés sont autorisés."
+    },
+    {
+     "label": "B",
+     "text": "Participer à un deuxième vide-grenier dans l'année.",
+     "correct": false,
+     "rationale": "Deux ventes par an sont autorisées."
+    },
+    {
+     "label": "C",
+     "text": "Vendre des objets achetés pour les revendre.",
+     "correct": true,
+     "rationale": "Cette activité « est réservée aux professionnels »."
+    },
+    {
+     "label": "D",
+     "text": "Donner son numéro de pièce d'identité.",
+     "correct": false,
+     "rationale": "C'est au contraire une obligation du registre."
+    }
+   ],
+   "explanation": "Le texte oppose objets personnels usagés (autorisés) et objets achetés pour être revendus (interdits aux particuliers). La limite de deux ventes par an rend le deuxième vide-grenier possible."
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "opinion",
+   "document": "Les services publics ferment au nom de l'efficacité : un bureau de poste ici, une trésorerie là, une maternité ailleurs. Chaque décision, prise isolément, peut se justifier par des chiffres. Mais leur accumulation produit un sentiment d'abandon que les chiffres ne mesurent pas. Les habitants des territoires concernés n'en concluent pas que l'État est économe ; ils en concluent qu'il les a oubliés. Et ce sentiment, une fois installé, est bien plus coûteux à réparer que les économies réalisées.",
+   "prompt": "Quelle thèse défend l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les habitants approuvent la recherche d'économies.",
+     "correct": false,
+     "rationale": "Ils concluent que l'État « les a oubliés »."
+    },
+    {
+     "label": "B",
+     "text": "L'addition des fermetures crée un sentiment d'abandon plus grave que les économies obtenues.",
+     "correct": true,
+     "rationale": "« ce sentiment… est bien plus coûteux à réparer que les économies réalisées »."
+    },
+    {
+     "label": "C",
+     "text": "L'État dépense trop pour les territoires ruraux.",
+     "correct": false,
+     "rationale": "Il défend au contraire le maintien des services."
+    },
+    {
+     "label": "D",
+     "text": "Chaque fermeture de service public est injustifiable.",
+     "correct": false,
+     "rationale": "Il admet que chaque décision « peut se justifier par des chiffres »."
+    }
+   ],
+   "explanation": "L'éditorialiste distingue l'effet de chaque décision isolée (justifiable) et l'effet de leur accumulation (le sentiment d'abandon). Le parallélisme « n'en concluent pas… ; ils en concluent… » souligne le décalage entre logique comptable et ressenti."
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "Les « cafés réparation » se multiplient : une fois par mois, des bénévoles bricoleurs aident les habitants à réparer eux-mêmes leurs objets en panne, du grille-pain à la lampe en passant par le vélo. Le but n'est pas seulement d'économiser : il s'agit de réapprendre des gestes oubliés et de remettre en cause l'idée qu'un objet abîmé doit être jeté. Selon les organisateurs, près de deux objets sur trois repartent en état de marche.",
+   "prompt": "Quel est l'objectif principal des cafés réparation selon l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Transmettre des savoir-faire et lutter contre le réflexe de jeter.",
+     "correct": true,
+     "rationale": "« réapprendre des gestes oubliés et remettre en cause l'idée qu'un objet abîmé doit être jeté »."
+    },
+    {
+     "label": "B",
+     "text": "Former des réparateurs professionnels.",
+     "correct": false,
+     "rationale": "Les bénévoles aident des habitants, ils ne forment pas des professionnels."
+    },
+    {
+     "label": "C",
+     "text": "Collecter des objets pour les recycler.",
+     "correct": false,
+     "rationale": "Les objets repartent avec leurs propriétaires."
+    },
+    {
+     "label": "D",
+     "text": "Vendre des objets réparés à bas prix.",
+     "correct": false,
+     "rationale": "Les objets appartiennent aux habitants, qui les réparent eux-mêmes."
+    }
+   ],
+   "explanation": "« Le but n'est pas seulement d'économiser : il s'agit de… » indique l'objectif principal au-delà de l'aspect financier. La statistique finale illustre l'efficacité du dispositif."
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "règlement",
+   "skill": "inférence",
+   "document": "Jardins familiaux – Extrait du règlement. Chaque parcelle est attribuée pour une durée d'un an, renouvelable par tacite reconduction. Le jardinier doit cultiver au moins les deux tiers de sa parcelle. Une parcelle laissée à l'abandon pendant plus de trois mois fera l'objet d'un avertissement écrit ; en l'absence d'amélioration dans le mois suivant, elle sera réattribuée à une personne inscrite sur la liste d'attente.",
+   "prompt": "Que peut-on déduire de ce règlement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le jardinier peut laisser la moitié de sa parcelle en friche.",
+     "correct": false,
+     "rationale": "Il doit cultiver au moins les deux tiers."
+    },
+    {
+     "label": "B",
+     "text": "Les parcelles sont attribuées à vie.",
+     "correct": false,
+     "rationale": "Elles sont attribuées pour un an, même si le renouvellement est automatique."
+    },
+    {
+     "label": "C",
+     "text": "Une parcelle abandonnée est immédiatement reprise.",
+     "correct": false,
+     "rationale": "Il faut trois mois, puis un avertissement et un délai d'un mois."
+    },
+    {
+     "label": "D",
+     "text": "La demande de parcelles dépasse l'offre disponible.",
+     "correct": true,
+     "rationale": "L'existence d'une « liste d'attente » montre qu'il y a plus de candidats que de parcelles."
+    }
+   ],
+   "explanation": "L'inférence repose sur un indice : la « liste d'attente ». « Par tacite reconduction » signifie que l'attribution se renouvelle automatiquement sans démarche, sauf manquement."
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "intention",
+   "document": "Nous, enseignants d'un collège de quartier populaire, refusons que nos élèves soient réduits à des statistiques d'échec. Oui, les difficultés existent. Mais nous voyons aussi chaque jour des adolescents qui traduisent pour leurs parents, gardent leurs frères et sœurs, et trouvent malgré tout l'énergie d'apprendre. Plutôt que de multiplier les rapports alarmistes, donnez-nous des classes moins chargées et des équipes stables : ce sont les seules mesures dont nous avons constaté l'efficacité.",
+   "prompt": "Quel est le but de cette tribune ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Nier toute difficulté scolaire dans leur collège.",
+     "correct": false,
+     "rationale": "« Oui, les difficultés existent »."
+    },
+    {
+     "label": "B",
+     "text": "Proposer de nouveaux rapports sur l'éducation.",
+     "correct": false,
+     "rationale": "Ils critiquent les « rapports alarmistes »."
+    },
+    {
+     "label": "C",
+     "text": "Changer le regard porté sur les élèves et réclamer des moyens concrets.",
+     "correct": true,
+     "rationale": "Les auteurs refusent les « statistiques d'échec » et demandent des classes moins chargées."
+    },
+    {
+     "label": "D",
+     "text": "Demander la fermeture du collège.",
+     "correct": false,
+     "rationale": "Ils demandent des moyens pour le collège."
+    }
+   ],
+   "explanation": "La tribune combine deux intentions : valoriser les élèves (« trouvent malgré tout l'énergie d'apprendre ») et revendiquer (« donnez-nous… »). La concession « Oui, les difficultés existent. Mais… » rend l'argumentation crédible."
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "compréhension globale",
+   "document": "On mesure souvent la vitalité démocratique au seul taux de participation électorale. C'est un indicateur important, mais incomplet. Une démocratie vit aussi dans les conseils de quartier, les associations de parents d'élèves, les syndicats, les collectifs qui défendent un parc ou une ligne de train. Ces engagements locaux forment une sorte d'école de la citoyenneté : on y apprend à débattre, à écouter des opinions contraires et à construire des compromis. Négliger ces espaces, c'est fragiliser le socle même sur lequel repose le vote.",
+   "prompt": "Quelle idée principale l'auteur développe-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les associations devraient remplacer les élections.",
+     "correct": false,
+     "rationale": "Il présente les engagements locaux comme un socle du vote, pas comme un substitut."
+    },
+    {
+     "label": "B",
+     "text": "Les syndicats affaiblissent la démocratie.",
+     "correct": false,
+     "rationale": "Il les cite parmi les lieux de vitalité démocratique."
+    },
+    {
+     "label": "C",
+     "text": "La démocratie repose aussi sur des engagements locaux qui forment les citoyens.",
+     "correct": true,
+     "rationale": "Ces engagements sont « une sorte d'école de la citoyenneté »."
+    },
+    {
+     "label": "D",
+     "text": "Le taux de participation est le seul indicateur fiable de la démocratie.",
+     "correct": false,
+     "rationale": "Il le juge « important, mais incomplet »."
+    }
+   ],
+   "explanation": "L'auteur nuance un indicateur (« important, mais incomplet ») puis élargit la notion de démocratie. La métaphore de l'« école de la citoyenneté » et celle du « socle » résument sa thèse."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "task_type": "répondre à un message",
+   "instructions": "Votre voisine, Mme Laurent, vous écrit : « Bonjour ! Le conseil de quartier cherche des volontaires pour organiser un repas partagé en juin. Seriez-vous intéressé(e) ? » Répondez-lui : acceptez, proposez une aide précise et posez une question pratique (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Bonjour Madame Laurent, merci pour votre message ! Je serais ravi de participer au repas partagé. Je peux m'occuper des affiches et les déposer chez les commerçants du quartier. Savez-vous déjà où aura lieu le repas et s'il faut prévoir des tables ? Je suis disponible les soirs de semaine pour une réunion. Bien cordialement, Samir",
+   "tips": "Une question pratique précise (lieu, matériel, date) montre que vous vous impliquez réellement. Restez dans un registre poli mais chaleureux avec une voisine.",
+   "expected_points": [
+    "accepter la proposition",
+    "proposer une aide précise",
+    "poser une question pratique",
+    "formule de politesse"
+   ],
+   "model_commentary": "Le message est poli et complet : acceptation, aide concrète, question pratique qui fait avancer l'organisation et disponibilité. La relative « où aura lieu le repas » et l'interrogation indirecte rendent la question naturelle."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "task_type": "raconter une expérience",
+   "instructions": "Vous avez participé à une action collective dans votre ville (nettoyage, collecte, fête de quartier…). Racontez cette expérience dans un article pour le site de votre association : ce que vous avez fait, comment cela s'est passé et ce que vous en retenez (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Samedi dernier, une trentaine d'habitants se sont retrouvés au bord du canal pour une matinée de nettoyage. Équipés de gants et de pinces, nous avons ramassé plus de quatre-vingts kilos de déchets, surtout des bouteilles et des emballages. L'ambiance était excellente : des enfants ont même transformé la collecte en concours ! Ce que je retiens, c'est qu'une action simple peut rapprocher des voisins qui ne se parlaient pas. Nous comptons recommencer à l'automne.",
+   "tips": "Ajoutez un détail concret et vivant (un chiffre, une anecdote) et terminez par ce que l'expérience vous a appris.",
+   "expected_points": [
+    "présenter l'action",
+    "raconter le déroulement",
+    "donner un détail marquant",
+    "exprimer un bilan personnel"
+   ],
+   "model_commentary": "Le récit est structuré (contexte, action, anecdote, bilan) et utilise les temps du passé avec justesse. La mise en relief « ce que je retiens, c'est que » et le futur proche final donnent du relief au texte."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "donner son opinion à partir de deux documents",
+   "instructions": "Document 1 : « Le vote devrait être obligatoire : c'est un devoir civique, et cela renforcerait la légitimité des élus. » Document 2 : « Obliger à voter ne réglera rien : il faut d'abord redonner aux citoyens l'envie de participer. » Présentez brièvement ces deux opinions, puis donnez votre point de vue argumenté (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Le premier document défend le vote obligatoire au nom du devoir civique et de la légitimité des élus, tandis que le second estime que l'obligation ne traiterait pas la cause de l'abstention. Je partage plutôt ce second avis. Forcer quelqu'un à voter ne lui donne pas confiance dans la politique ; il risque même de voter au hasard. Il vaudrait mieux reconnaître le vote blanc et consulter davantage les citoyens sur des projets locaux, afin qu'ils constatent que leur voix compte.",
+   "tips": "Consacrez une phrase à chaque document, puis annoncez nettement votre position avant de l'argumenter. Une proposition concrète renforce votre conclusion.",
+   "expected_points": [
+    "résumer le document 1",
+    "résumer le document 2",
+    "prendre position",
+    "justifier avec au moins un argument",
+    "proposer une solution ou un exemple"
+   ],
+   "model_commentary": "La synthèse des deux documents est équilibrée grâce à « tandis que ». La prise de position est claire, justifiée, et la proposition finale introduite par « il vaudrait mieux » montre une argumentation constructive."
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous interroge sur votre vie dans votre ville : votre quartier, vos relations avec vos voisins, votre participation à la vie locale et vos projets.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Pouvez-vous vous présenter rapidement ?",
+    "Comment décririez-vous votre quartier ?",
+    "Connaissez-vous bien vos voisins ?",
+    "Participez-vous à la vie locale ou à des associations ?",
+    "Qu'aimeriez-vous changer dans votre ville ?"
+   ],
+   "useful_phrases": [
+    "J'habite depuis … dans un quartier plutôt…",
+    "Avec mes voisins, nous…",
+    "Si je pouvais, j'aimerais…"
+   ],
+   "model_answer": "Je m'appelle Ana, je suis aide-comptable et j'habite à Rennes depuis cinq ans, dans un quartier plutôt calme, près d'un grand parc. Avec mes voisins, nous avons de bonnes relations : nous échangeons des services, par exemple quand l'un de nous part en vacances. Depuis l'an dernier, je participe aussi au conseil de quartier, ce qui m'a permis de mieux comprendre comment fonctionne la mairie. Si je pouvais changer une chose, j'ajouterais des pistes cyclables sécurisées, parce que beaucoup de parents n'osent pas laisser leurs enfants aller à l'école à vélo.",
+   "model_commentary": "La réponse couvre toutes les relances, avec des exemples concrets, une relative en « ce qui » et une hypothèse au conditionnel. Les temps sont variés et le discours reste naturel.",
+   "tips": "Développez chaque réponse avec un exemple personnel et terminez par une hypothèse (« si je pouvais… ») pour montrer votre maîtrise du conditionnel."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Convaincre un voisin de rejoindre une association",
+   "examiner_role": "Voisin méfiant",
+   "scenario": "Vous êtes membre d'une association de locataires. Votre voisin (l'examinateur) ne voit pas l'intérêt d'y adhérer. Présentez l'association, répondez à ses objections et essayez de le convaincre.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Je n'ai pas le temps pour les réunions.",
+    "Ça sert à quoi, une association de locataires ?",
+    "Je n'ai jamais eu de problème avec le bailleur.",
+    "Combien ça coûte ?"
+   ],
+   "useful_phrases": [
+    "Je comprends, mais…",
+    "Justement, c'est l'intérêt de…",
+    "Vous n'êtes pas obligé de…"
+   ],
+   "model_answer": "Bonjour, je fais partie de l'association des locataires de la résidence et je voulais vous en parler. Ça sert à défendre nos intérêts face au bailleur : l'an dernier, nous avons obtenu la réparation de l'ascenseur et le remboursement de charges trop élevées. Vous n'avez jamais eu de problème ? Tant mieux, mais justement, plus nous sommes nombreux, plus nous sommes écoutés le jour où il y en a un. Pour les réunions, vous n'êtes pas obligé d'y venir : nous envoyons un compte rendu par courriel. Et l'adhésion coûte dix euros par an.",
+   "model_commentary": "Le candidat présente l'association avec des résultats concrets, répond à chaque objection et utilise une structure comparative persuasive (« plus nous sommes nombreux, plus… »). Le ton est cordial et convaincant.",
+   "tips": "Appuyez votre persuasion sur des résultats concrets déjà obtenus et réduisez l'effort demandé à votre interlocuteur."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il développer la démocratie participative ?",
+   "examiner_role": "Examinateur",
+   "scenario": "De plus en plus de villes consultent directement les habitants (budgets participatifs, référendums locaux, conseils citoyens). Pensez-vous qu'il faut développer ce type de démocratie ? Donnez votre opinion et défendez-la.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Les élus sont là pour décider, non ?",
+    "Seuls les plus motivés participent.",
+    "Les habitants ne connaissent pas assez les dossiers.",
+    "Avez-vous déjà participé à une consultation ?"
+   ],
+   "useful_phrases": [
+    "Je suis convaincu que…",
+    "Il est vrai que…, mais…",
+    "À condition que…"
+   ],
+   "model_answer": "Je suis convaincu que la démocratie participative est un complément utile à la démocratie représentative. Les habitants connaissent leur quartier mieux que personne : ils savent où une rue est dangereuse ou où il manque un banc. Il est vrai que seuls les plus motivés participent, mais on peut élargir la participation en tirant au sort des habitants ou en organisant des consultations en ligne. Les élus gardent la décision finale, à condition d'expliquer pourquoi ils retiennent ou non les propositions. Sinon, les citoyens se sentiront manipulés et ne participeront plus.",
+   "model_commentary": "La position est claire, illustrée par des exemples concrets, et l'objection de la représentativité reçoit une réponse pratique. La condition finale et ses conséquences montrent une réflexion nuancée.",
+   "tips": "Présentez votre position comme un équilibre (« complément », « à condition que ») : cela vous permet de répondre facilement aux objections de l'examinateur."
+  }
+ ],
+ "series": "B2"
+}

@@ -100,7 +100,7 @@ def import_exam(s: Session, data: dict, generated: bool = False) -> Exam:
         if t.id is None and t not in exam.writing_tasks:
             exam.writing_tasks.append(t)
         for k in ("level", "task_type", "instructions", "min_words", "max_words",
-                  "model_answer", "tips", "expected_points"):
+                  "model_answer", "tips", "expected_points", "model_commentary"):
             if k in td:
                 setattr(t, k, td[k])
 
@@ -110,7 +110,8 @@ def import_exam(s: Session, data: dict, generated: bool = False) -> Exam:
         if t.id is None and t not in exam.speaking_tasks:
             exam.speaking_tasks.append(t)
         for k in ("level", "title", "scenario", "examiner_role", "duration_s",
-                  "examiner_prompts", "useful_phrases", "model_answer"):
+                  "examiner_prompts", "useful_phrases", "model_answer", "model_commentary",
+                  "tips"):
             if k in td:
                 setattr(t, k, td[k])
     return exam
