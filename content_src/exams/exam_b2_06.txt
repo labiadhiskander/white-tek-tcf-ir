@@ -1,0 +1,500 @@
+@code B2-BLANC-06
+@series B2
+@title Examen blanc B2 n° 6 – Culture et médias
+@level B2
+@description Examen complet de niveau B2 aux durées officielles : sorties culturelles, patrimoine, presse, information et réseaux.
+
+## CO 1 | B2 | message vocal | intention | F:fr-FR
+DOC: F: Bonsoir Julien, c'est Claire. Je sais qu'on avait prévu d'aller voir l'exposition sur l'impressionnisme samedi, mais j'ai découvert que le musée propose une visite guidée en nocturne jeudi, avec un conférencier. C'est un peu plus cher, mais on éviterait la foule du week-end et on en apprendrait beaucoup plus. Est-ce que ça te tenterait ? Dis-moi vite, il reste peu de places.
+Q: Pourquoi Claire appelle-t-elle Julien ?
++ Pour lui proposer de modifier leur projet de sortie. | Elle suggère une visite le jeudi soir au lieu du samedi.
+- Pour annuler définitivement leur sortie. | Elle propose une autre date, elle n'annule pas.
+- Pour lui reprocher d'avoir oublié leur rendez-vous. | Aucun reproche n'est exprimé.
+- Pour lui annoncer que l'exposition est complète. | Il reste des places pour la visite guidée.
+EXP: Le message rappelle le projet initial (« on avait prévu »), puis présente une alternative avec ses avantages. La question finale (« ça te tenterait ? ») confirme qu'il s'agit d'une proposition.
+
+## CO 2 | B2 | reportage radio | information précise | H:fr-FR
+DOC: H: Ce week-end, à l'occasion des Journées européennes du patrimoine, de nombreux bâtiments habituellement fermés au public ouvrent leurs portes. À la préfecture, les visites sont gratuites, mais l'inscription préalable sur le site internet est obligatoire, car les groupes sont limités à vingt personnes. Une pièce d'identité sera demandée à l'entrée.
+Q: Que faut-il faire pour visiter la préfecture ?
++ S'inscrire à l'avance sur internet. | « l'inscription préalable sur le site internet est obligatoire ».
+- Acheter un billet sur place. | Les visites sont gratuites.
+- Venir en groupe de vingt personnes. | Vingt est la limite maximale des groupes.
+- Présenter un justificatif de domicile. | On demande une pièce d'identité.
+EXP: L'information clé est introduite par « mais », qui nuance la gratuité. Attention à ne pas transformer une limite (vingt personnes au maximum) en condition.
+
+## CO 3 | B2 | conversation | opinion | H:fr-FR, F:fr-FR
+DOC: H: Tu as vu ? Le cinéma du quartier va fermer. Franchement, avec les plateformes, ce n'était qu'une question de temps. / F: Je ne suis pas d'accord. Voir un film sur grand écran, entourée d'inconnus qui rient ou pleurent avec toi, ça n'a rien à voir avec un écran de téléphone. Le problème, c'est que ce cinéma ne proposait rien d'autre que des films. Ceux qui organisent des débats ou des avant-premières se portent très bien.
+Q: Selon la femme, pourquoi le cinéma du quartier ferme-t-il ?
++ Parce qu'il n'a pas su proposer d'animations en plus des projections. | « ce cinéma ne proposait rien d'autre que des films ».
+- Parce que les plateformes ont rendu les salles inutiles. | C'est l'avis de l'homme, qu'elle conteste.
+- Parce que le public ne rit plus au cinéma. | Elle évoque au contraire l'émotion partagée.
+- Parce que les billets sont trop chers. | Le prix n'est pas évoqué.
+EXP: La femme réfute l'explication de l'homme (« je ne suis pas d'accord ») et propose une autre cause, introduite par « le problème, c'est que ». Elle s'appuie sur la comparaison avec les cinémas qui réussissent.
+
+## CO 4 | B2 | annonce publique | information précise | F:fr-FR
+DOC: F: Mesdames et Messieurs, nous vous informons que le concert de ce soir débutera avec trente minutes de retard en raison d'un problème technique. Les portes de la salle ouvriront à vingt heures trente. Les spectateurs qui le souhaitent peuvent patienter au bar du rez-de-chaussée, où une boisson leur sera offerte sur présentation de leur billet.
+Q: Que peuvent obtenir les spectateurs au bar ?
++ Une boisson gratuite en montrant leur billet. | « une boisson leur sera offerte sur présentation de leur billet ».
+- Le remboursement de leur place. | Aucun remboursement n'est annoncé.
+- Un billet pour un autre concert. | Ce n'est pas mentionné.
+- Une réduction sur le repas. | Il s'agit d'une boisson offerte.
+EXP: L'annonce donne une cause (problème technique), une nouvelle heure et une compensation. La condition « sur présentation de leur billet » est un détail essentiel.
+
+## CO 5 | B2 | interview radio | compréhension globale | H:fr-FR, F:fr-FR
+DOC: H: Votre festival de bande dessinée fête ses dix ans. Comment a-t-il évolué ? / F: Au départ, c'était une petite rencontre entre passionnés, dans une salle municipale. Aujourd'hui, nous accueillons près de trente mille visiteurs. Mais nous avons tenu à rester fidèles à notre esprit : l'entrée est toujours gratuite, et chaque année, des ateliers permettent aux enfants des écoles du département de dessiner avec des auteurs professionnels.
+Q: Quel est le thème principal de l'interview ?
++ La croissance d'un festival qui a gardé ses valeurs d'origine. | Elle oppose les débuts modestes au succès actuel, « fidèles à notre esprit ».
+- Les difficultés financières d'un festival gratuit. | Aucune difficulté n'est évoquée.
+- La disparition des petites rencontres entre passionnés. | Le festival est né d'une telle rencontre.
+- La formation des auteurs de bande dessinée. | Les ateliers s'adressent aux enfants.
+EXP: La réponse suit le schéma « au départ… aujourd'hui… mais ». Le « mais » souligne la continuité des valeurs malgré le changement d'échelle.
+
+## CO 6 | B2 | chronique radio | inférence | H:fr-FR
+DOC: H: On nous promettait que les livres numériques allaient faire disparaître le papier. Dix ans plus tard, les librairies indépendantes ouvrent de nouvelles boutiques, et les jeunes lecteurs réclament des éditions illustrées, avec de belles couvertures, qu'ils photographient pour les partager en ligne. Ironie de l'histoire : ce sont les réseaux sociaux qui font vendre des livres en papier.
+Q: Que laisse entendre le chroniqueur ?
++ Les prévisions sur la fin du livre papier se sont révélées fausses. | Il souligne que les librairies se développent « dix ans plus tard ».
+- Les jeunes ne lisent plus que sur écran. | Ils réclament des éditions papier.
+- Les réseaux sociaux menacent les librairies. | Ils font au contraire vendre des livres.
+- Les livres numériques sont plus beaux que les livres papier. | Il parle de l'esthétique des livres papier.
+EXP: « On nous promettait » introduit une prédiction que la suite contredit. Le mot « ironie » souligne un retournement inattendu : le numérique sert le papier.
+
+## CO 7 | B2 | débat radio | opinion | F:fr-FR, H:fr-FR
+DOC: F: Faut-il rendre les musées nationaux gratuits pour tous ? / H: Je n'y crois pas. Les expériences de gratuité montrent que ce sont surtout les habitués qui viennent plus souvent. Les personnes éloignées de la culture ne poussent pas davantage la porte. Il vaudrait mieux financer des médiateurs qui vont dans les quartiers et les écoles pour donner envie de venir.
+Q: Quelle est l'opinion de l'homme sur la gratuité des musées ?
++ Elle ne suffit pas à attirer de nouveaux publics. | « Les personnes éloignées de la culture ne poussent pas davantage la porte ».
+- Elle est la meilleure solution pour démocratiser la culture. | Il dit « je n'y crois pas ».
+- Elle fait fuir les visiteurs habitués. | Ils viennent au contraire plus souvent.
+- Elle devrait être réservée aux écoles. | Il propose des médiateurs, pas une gratuité ciblée.
+EXP: L'homme s'appuie sur des expériences passées pour réfuter l'idée, puis propose une alternative au conditionnel (« il vaudrait mieux »).
+
+## CO 8 | B2 | message professionnel | information précise | H:fr-FR
+DOC: H: Bonjour, ici le service de presse du théâtre municipal. Nous avons bien reçu votre demande d'accréditation pour la première de la pièce. Deux places vous sont réservées le vendredi 14. Elles seront à retirer au guichet presse au plus tard trente minutes avant le début de la représentation, faute de quoi elles seront remises en vente.
+Q: Que se passera-t-il si le journaliste arrive trop tard ?
++ Ses places seront revendues. | « faute de quoi elles seront remises en vente ».
+- Il devra payer ses places. | Ce n'est pas indiqué.
+- Il pourra assister à une autre représentation. | Aucune solution de remplacement n'est proposée.
+- Il sera placé au fond de la salle. | Ce n'est pas mentionné.
+EXP: « Faute de quoi » introduit la conséquence du non-respect de la condition. C'est une expression fréquente dans les messages administratifs.
+
+## CO 9 | B2 | interview | intention | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes journaliste depuis trente ans. Pourquoi avoir lancé une lettre d'information payante, sans publicité ? / H: Parce que j'en avais assez de courir après les clics. Avec la publicité, on est poussé à publier vite, à choisir des titres accrocheurs. Ici, mes abonnés me paient pour que je prenne le temps d'enquêter. Ils attendent de moi de la fiabilité, pas de la quantité.
+Q: Que cherche à expliquer le journaliste ?
++ Les raisons qui l'ont poussé à changer de modèle économique. | Il justifie son choix d'un abonnement sans publicité.
+- Les techniques pour attirer plus de lecteurs. | Il critique justement la course aux clics.
+- Les avantages de la publicité pour les journalistes. | Il en décrit les effets négatifs.
+- Les difficultés à trouver des abonnés. | Il n'en parle pas.
+EXP: La question commence par « pourquoi » et la réponse par « parce que ». Le journaliste oppose deux modèles et met en avant la valeur de son travail : « fiabilité, pas quantité ».
+
+## CO 10 | B2 | reportage | compréhension globale | F:fr-FR
+DOC: F: Dans ce village de huit cents habitants, l'ancienne gare a été transformée en tiers-lieu culturel. On y trouve une petite bibliothèque, une salle de concert et un atelier de réparation. Les habitants, qui géraient le projet bénévolement au départ, ont obtenu des subventions pour embaucher deux salariés. Le lieu attire désormais des visiteurs des communes voisines et a redonné vie au centre du village.
+Q: De quoi parle ce reportage ?
++ D'un projet local qui a revitalisé un petit village. | Le lieu « a redonné vie au centre du village ».
+- De la réouverture d'une ligne de train. | L'ancienne gare a changé d'usage.
+- De la fermeture d'une bibliothèque. | Une bibliothèque y a été créée.
+- D'un conflit entre villages voisins. | Les visiteurs des communes voisines sont les bienvenus.
+EXP: Le reportage décrit une transformation (« a été transformée »), son évolution (bénévolat puis salariés) et ses effets. La dernière phrase donne le bilan, qui correspond au thème global.
+
+## CO 11 | B2 | conversation administrative | information précise | H:fr-FR, F:fr-FR
+DOC: H: Bonjour, je voudrais inscrire ma fille au conservatoire, en piano. / F: Les inscriptions sont closes pour le piano cette année, car la liste d'attente est déjà longue. En revanche, il reste des places en violoncelle et en percussions. Et si elle a moins de huit ans, elle peut commencer par l'éveil musical, qui permet de découvrir plusieurs instruments avant de choisir.
+Q: Que propose l'employée ?
++ D'autres instruments ou une découverte de la musique. | Elle cite le violoncelle, les percussions et l'éveil musical.
+- D'inscrire la fille en piano l'année suivante. | Elle ne fait pas cette proposition.
+- De payer pour passer en priorité. | Ce n'est pas mentionné.
+- D'attendre qu'une place se libère en piano. | Elle oriente vers d'autres options.
+EXP: Après le refus, « en revanche » introduit les solutions. L'éveil musical dépend d'une condition d'âge (« si elle a moins de huit ans »).
+
+## CO 12 | B2 | chronique | opinion | H:fr-FR
+DOC: H: Chaque été, les grandes villes multiplient les festivals gratuits en plein air. On s'en réjouit, bien sûr. Mais je m'interroge : à force de tout offrir pendant deux mois, ne finit-on pas par donner l'impression que la culture ne vaut rien ? Les petites salles, qui programment des artistes toute l'année, voient leur public déserter dès que les beaux jours reviennent.
+Q: Quelle est la position du chroniqueur ?
++ Il s'inquiète des effets des festivals gratuits sur les salles permanentes. | Les petites salles « voient leur public déserter ».
+- Il souhaite la suppression des festivals d'été. | Il dit « on s'en réjouit, bien sûr ».
+- Il pense que les artistes devraient jouer gratuitement. | Il craint au contraire que la culture semble ne rien valoir.
+- Il trouve que les villes ne proposent pas assez de festivals. | Il évoque leur multiplication.
+EXP: Le chroniqueur concède un point positif avant d'exprimer une réserve (« mais je m'interroge »). La question rhétorique formule sa critique avec prudence.
+
+## CO 13 | B2 | interview radio | inférence | F:fr-FR, H:fr-FR
+DOC: F: Votre premier roman a été refusé par une vingtaine d'éditeurs. Comment avez-vous vécu cela ? / H: Mal, au début. Puis j'ai relu les lettres de refus et j'ai remarqué que plusieurs éditeurs disaient la même chose : le début était trop lent. J'ai réécrit les cinquante premières pages. Le livre qui est sorti l'an dernier n'a plus grand-chose à voir avec le manuscrit initial.
+Q: Que peut-on comprendre des propos de l'écrivain ?
++ Les critiques des éditeurs l'ont aidé à améliorer son roman. | Il a réécrit le début en tenant compte de leurs remarques.
+- Il a publié son roman tel qu'il l'avait écrit. | Le livre « n'a plus grand-chose à voir avec le manuscrit initial ».
+- Il a renoncé à l'écriture après ces refus. | Son livre est sorti l'an dernier.
+- Les éditeurs ont tous donné des avis différents. | Plusieurs disaient « la même chose ».
+EXP: L'écrivain ne dit pas explicitement que les refus lui ont été utiles, mais l'enchaînement (relecture, constat, réécriture, publication) le fait comprendre.
+
+## CO 14 | B2 | annonce radio | information précise | H:fr-FR
+DOC: H: La médiathèque Jean-Moulin sera fermée du 1er au 15 août pour travaux. Pendant cette période, les documents empruntés pourront être rendus dans la boîte de retour située à l'entrée du bâtiment. Les lecteurs inscrits bénéficient d'un prêt exceptionnel de quinze documents au lieu de dix, à partir du 20 juillet.
+Q: Quel avantage est proposé aux lecteurs avant la fermeture ?
++ Ils peuvent emprunter plus de documents que d'habitude. | « quinze documents au lieu de dix ».
+- Ils peuvent garder leurs documents sans limite de durée. | Ce n'est pas indiqué.
+- Ils peuvent s'inscrire gratuitement. | L'avantage concerne les lecteurs déjà inscrits.
+- Ils peuvent rendre leurs documents dans une autre médiathèque. | Une boîte de retour est prévue sur place.
+EXP: L'annonce donne trois informations : la fermeture, la solution pour les retours et l'avantage. La comparaison « au lieu de » signale le changement.
+
+## CO 15 | B2 | conversation | intention | F:fr-FR, H:fr-FR
+DOC: F: Tu as partagé cet article sur le prétendu danger des ondes ? / H: Oui, ça m'a l'air inquiétant. / F: Tu as vérifié la source ? C'est un site qui vend des boîtiers « anti-ondes ». Évidemment qu'ils ont intérêt à faire peur. Avant de partager, regarde au moins qui publie et si d'autres médias sérieux en parlent.
+Q: Que veut faire la femme ?
++ Inciter son ami à vérifier les informations avant de les diffuser. | « Avant de partager, regarde au moins qui publie ».
+- Lui conseiller d'acheter un boîtier anti-ondes. | Elle se méfie au contraire du vendeur.
+- Le rassurer sur la qualité de l'article. | Elle met en doute sa fiabilité.
+- Lui demander de lui envoyer l'article. | Elle l'a déjà vu.
+EXP: La femme pose une question qui met en doute la source, explique le conflit d'intérêts, puis donne un conseil à l'impératif.
+
+## CO 16 | B2 | reportage | compréhension globale | H:fr-FR
+DOC: H: Dans ce collège, les élèves de quatrième fabriquent chaque mois un journal télévisé de dix minutes. Ils choisissent les sujets, mènent des interviews et apprennent à distinguer un fait d'une opinion. Leur professeure documentaliste explique que l'objectif n'est pas de former des journalistes, mais des citoyens capables de comprendre comment l'information est produite.
+Q: Quel est le but de ce projet ?
++ Développer l'esprit critique des élèves face à l'information. | Former « des citoyens capables de comprendre comment l'information est produite ».
+- Former de futurs journalistes professionnels. | « l'objectif n'est pas de former des journalistes ».
+- Remplacer les cours de français. | Ce n'est pas mentionné.
+- Diffuser le journal sur une chaîne nationale. | Rien ne l'indique.
+EXP: La structure « non pas… mais » oppose un objectif écarté et le véritable objectif. C'est un indice fréquent dans les questions de compréhension globale.
+
+## CO 17 | B2 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Les séries télévisées ont-elles remplacé le roman ? / H: Je dirais plutôt qu'elles en ont pris certaines fonctions. Elles racontent des histoires longues, avec des personnages complexes qu'on suit pendant des années. Mais le roman garde une force unique : il laisse le lecteur imaginer les visages, les voix, les lieux. Les deux formes se complètent bien plus qu'elles ne se concurrencent.
+Q: Quel est l'avis de l'homme ?
++ Les séries et le roman sont complémentaires. | « Les deux formes se complètent bien plus qu'elles ne se concurrencent ».
+- Les séries ont fait disparaître le roman. | Il corrige cette idée (« je dirais plutôt »).
+- Le roman est démodé. | Il lui reconnaît « une force unique ».
+- Les séries sont moins complexes que les romans. | Il parle de « personnages complexes ».
+EXP: L'homme nuance la question, compare les deux formes et conclut sur leur complémentarité. La dernière phrase résume son opinion.
+
+## CO 18 | B2 | message vocal | information précise | F:fr-FR
+DOC: F: Bonjour Monsieur Garnier, ici l'association Lecture partagée. Nous avons bien reçu votre candidature pour devenir lecteur bénévole. Une réunion d'information aura lieu le mardi 3 à dix-huit heures, à la maison des associations. Pensez à apporter un extrait de casier judiciaire, obligatoire pour intervenir auprès des enfants.
+Q: Que doit apporter M. Garnier à la réunion ?
++ Un extrait de casier judiciaire. | Il est « obligatoire pour intervenir auprès des enfants ».
+- Un livre qu'il aime lire. | Ce n'est pas demandé.
+- Une lettre de motivation. | Sa candidature a déjà été reçue.
+- Un certificat médical. | Ce n'est pas mentionné.
+EXP: L'impératif « pensez à » signale une consigne pratique. La justification (« obligatoire pour… ») aide à retenir l'information.
+
+## CO 19 | B2 | débat | inférence | H:fr-FR, F:fr-FR
+DOC: H: Les algorithmes des réseaux sociaux nous enferment dans des bulles : on ne voit plus que des opinions qui ressemblent aux nôtres. / F: C'est en partie vrai. Mais avant les réseaux, la plupart des gens lisaient déjà un seul journal, celui qui correspondait à leurs idées. La différence, c'est qu'aujourd'hui, on n'en a souvent même pas conscience.
+Q: Que suggère la femme ?
++ Le problème n'est pas nouveau, mais il est devenu moins visible. | « on n'en a souvent même pas conscience ».
+- Les algorithmes n'ont aucune influence sur nos opinions. | Elle reconnaît que c'est « en partie vrai ».
+- Il faut interdire les réseaux sociaux. | Elle ne propose aucune interdiction.
+- Les journaux étaient plus fiables autrefois. | Elle ne compare pas leur fiabilité.
+EXP: La femme relativise la nouveauté du phénomène par une comparaison historique, puis souligne une différence : le manque de conscience. Il faut combiner ces deux idées.
+
+## CO 20 | B2 | conférence | compréhension globale | F:fr-FR
+DOC: F: Le patrimoine, ce ne sont pas seulement les châteaux et les cathédrales. Depuis une vingtaine d'années, on parle aussi de patrimoine immatériel : des savoir-faire, des chants, des fêtes, des recettes transmises de génération en génération. Les protéger est plus difficile, car on ne peut pas les enfermer dans un musée. Il faut avant tout que des personnes continuent à les pratiquer.
+Q: Quelle idée principale la conférencière développe-t-elle ?
++ Le patrimoine inclut aussi des pratiques vivantes, qu'on protège en les transmettant. | « Il faut avant tout que des personnes continuent à les pratiquer ».
+- Les châteaux sont plus importants que les traditions. | Elle élargit au contraire la notion de patrimoine.
+- Les musées doivent conserver les recettes et les chants. | « on ne peut pas les enfermer dans un musée ».
+- Le patrimoine immatériel est facile à protéger. | « Les protéger est plus difficile ».
+EXP: La conférence commence par une négation (« ce ne sont pas seulement ») qui annonce un élargissement. La dernière phrase donne la condition de protection.
+
+## CO 21 | B2 | interview radio | intention | H:fr-FR, F:fr-FR
+DOC: H: Pourquoi avez-vous décidé de publier les commentaires des lecteurs uniquement après relecture ? / F: Notre espace de commentaires était devenu un lieu d'insultes. Les lecteurs qui voulaient débattre sérieusement ne s'exprimaient plus. Nous préférons publier moins de commentaires, mais des commentaires qui enrichissent la discussion. Ce n'est pas de la censure : toutes les opinions respectueuses sont acceptées.
+Q: Que cherche à faire la responsable du journal ?
++ Justifier un changement de règle et répondre à une critique possible. | Elle explique sa décision et précise « ce n'est pas de la censure ».
+- Annoncer la fermeture des commentaires. | Les commentaires restent possibles après relecture.
+- Inviter les lecteurs à insulter moins. | Elle explique une décision déjà prise.
+- Reconnaître que le journal pratique la censure. | Elle le nie explicitement.
+EXP: La réponse donne la cause (insultes), l'objectif (qualité du débat) et anticipe une objection. Repérer cette anticipation est la clé pour identifier l'intention.
+
+## CO 22 | B2 | reportage | information précise | F:fr-FR
+DOC: F: Le musée des Beaux-Arts propose désormais des visites en langue des signes française le premier dimanche de chaque mois. Les visites durent une heure et demie et sont gratuites pour les personnes sourdes ou malentendantes et leurs accompagnants. Il est conseillé de réserver, car le nombre de participants est limité à quinze.
+Q: Pour qui ces visites sont-elles gratuites ?
++ Pour les personnes sourdes ou malentendantes et leurs accompagnants. | C'est précisé dans le reportage.
+- Pour tous les visiteurs le premier dimanche du mois. | La gratuité concerne un public précis.
+- Pour les groupes de quinze personnes. | Quinze est le nombre maximal de participants.
+- Pour les enfants de moins de douze ans. | Ce n'est pas mentionné.
+EXP: Plusieurs chiffres apparaissent (premier dimanche, une heure et demie, quinze). La question porte sur les bénéficiaires, qu'il faut identifier sans confusion.
+
+## CO 23 | B2 | conversation | opinion | H:fr-FR, F:fr-FR
+DOC: H: J'ai arrêté de regarder les informations en continu. À force d'entendre les mêmes nouvelles angoissantes toute la journée, je dormais mal. / F: Moi, j'aurais peur de ne plus être au courant. / H: Je suis toujours au courant ! Je lis un journal le matin, tranquillement. Je comprends mieux les sujets qu'avant, parce que j'ai des analyses au lieu de simples alertes.
+Q: Quelle est l'opinion de l'homme sur les chaînes d'information en continu ?
++ Elles angoissent sans aider vraiment à comprendre l'actualité. | Il dormait mal et comprend mieux avec un journal.
+- Elles sont indispensables pour rester informé. | C'est plutôt la crainte de la femme.
+- Elles proposent de meilleures analyses que la presse. | Il dit le contraire.
+- Elles devraient diffuser plus d'alertes. | Il critique les « simples alertes ».
+EXP: L'homme oppose deux façons de s'informer. Ses arguments (sommeil, compréhension) justifient son choix et révèlent son opinion négative.
+
+## CO 24 | B2 | annonce | inférence | F:fr-FR
+DOC: F: Chers spectateurs, nous vous rappelons que les photographies et les enregistrements sont strictement interdits pendant la représentation. Les artistes vous remercient de votre compréhension. Un moment est prévu à la fin du spectacle, pendant le salut, pour ceux qui souhaitent garder un souvenir.
+Q: Que peut-on comprendre de cette annonce ?
++ Il sera possible de prendre des photos au moment du salut. | Le moment est prévu « pour ceux qui souhaitent garder un souvenir ».
+- Les photos sont autorisées sans flash pendant le spectacle. | Elles sont « strictement interdites ».
+- Le spectacle sera filmé et vendu. | Rien ne l'indique.
+- Les artistes refusent toute photo. | Un moment est prévu à la fin.
+EXP: L'annonce ne dit pas « vous pourrez photographier », mais l'expression « garder un souvenir » le laisse entendre. C'est une inférence typique.
+
+## CO 25 | B2 | entretien radio | compréhension globale | H:fr-FR, F:fr-FR
+DOC: H: Vous dirigez une radio associative locale. Quel est son rôle aujourd'hui, à l'heure des podcasts ? / F: Nous donnons la parole à ceux qu'on n'entend jamais ailleurs : les associations du quartier, les jeunes musiciens, les habitants âgés qui racontent l'histoire de la ville. Les podcasts sont formidables, mais ils s'adressent à des publics dispersés. Nous, nous créons du lien entre des gens qui vivent au même endroit.
+Q: Selon la directrice, qu'est-ce qui fait la spécificité de sa radio ?
++ Son ancrage local et sa capacité à rassembler les habitants. | « nous créons du lien entre des gens qui vivent au même endroit ».
+- Sa programmation exclusivement musicale. | Elle cite aussi les associations et les habitants.
+- Son rejet des podcasts. | Elle les trouve « formidables ».
+- Son audience nationale. | Elle s'adresse aux habitants d'un même lieu.
+EXP: La directrice compare sa radio aux podcasts en soulignant une différence : public dispersé contre public local. Cette opposition révèle la spécificité de la radio.
+
+## CE 1 | B2 | règlement intérieur | information précise
+DOC: Règlement de la bibliothèque municipale – Extraits. Article 2 : L'inscription est gratuite pour les habitants de la commune ; elle est payante pour les autres usagers. Article 4 : Chaque lecteur peut emprunter jusqu'à dix documents pour trois semaines, dont trois DVD au maximum. Article 6 : Un prêt peut être prolongé une fois, en ligne ou sur place, sauf si le document est réservé par un autre lecteur.
+Q: Dans quel cas un prêt ne peut-il pas être prolongé ?
++ Lorsqu'un autre lecteur a réservé le document. | « sauf si le document est réservé par un autre lecteur ».
+- Lorsque le lecteur n'habite pas la commune. | Cela concerne seulement le prix de l'inscription.
+- Lorsque le document est un DVD. | La limite concerne le nombre de DVD, pas la prolongation.
+- Lorsque la demande est faite en ligne. | La prolongation est possible « en ligne ou sur place ».
+EXP: « Sauf si » introduit l'exception. Les autres articles contiennent des informations proches qui servent de distracteurs.
+
+## CE 2 | B2 | article de presse | compréhension globale
+DOC: Les podcasts connaissent un succès croissant, en particulier chez les moins de trente-cinq ans. Contrairement à la radio, ils s'écoutent quand on veut, souvent pendant les trajets ou le sport. Les formats longs, comme les enquêtes en plusieurs épisodes ou les entretiens de deux heures, rencontrent un public fidèle. Ce succès contredit l'idée selon laquelle les jeunes ne seraient plus capables de se concentrer longtemps.
+Q: Quelle idée l'article remet-il en question ?
++ L'idée que les jeunes auraient une capacité d'attention limitée. | Le succès des formats longs « contredit l'idée » de leur manque de concentration.
+- L'idée que les podcasts sont populaires. | L'article confirme leur succès.
+- L'idée que la radio est écoutée en direct. | Ce n'est pas l'objet de l'article.
+- L'idée que les podcasts s'écoutent pendant les trajets. | L'article l'affirme.
+EXP: La dernière phrase est la clé : « ce succès contredit l'idée selon laquelle… ». Le conditionnel « ne seraient plus » signale une idée reçue que l'auteur ne partage pas.
+
+## CE 3 | B2 | courrier des lecteurs | opinion
+DOC: Votre article sur la fermeture des librairies de centre-ville m'a attristé, mais pas surpris. On se plaint de leur disparition, puis on commande ses livres en ligne parce que c'est livré le lendemain. Chacun de nous a une part de responsabilité. Pour ma part, j'ai pris l'habitude de commander chez mon libraire : il me faut attendre deux ou trois jours, mais je reçois en plus des conseils qu'aucun algorithme ne remplace.
+Q: Quelle est l'opinion de l'auteur de la lettre ?
++ Les consommateurs contribuent eux-mêmes au déclin des librairies. | « Chacun de nous a une part de responsabilité ».
+- Les librairies devraient livrer en vingt-quatre heures. | Il accepte d'attendre deux ou trois jours.
+- Les algorithmes conseillent mieux que les libraires. | Il affirme le contraire.
+- La fermeture des librairies est inévitable. | Il montre qu'on peut agir autrement.
+EXP: L'auteur pointe une contradiction (« on se plaint…, puis on commande en ligne ») et donne son propre exemple comme modèle de comportement.
+
+## CE 4 | B2 | offre d'emploi | information précise
+DOC: Le festival des Arts de la rue recherche des bénévoles pour sa prochaine édition, du 10 au 13 juillet. Missions : accueil du public, information, aide à l'installation des spectacles. Engagement minimum : trois demi-journées. Les bénévoles sont nourris et reçoivent un pass donnant accès à tous les spectacles payants. Aucune expérience n'est exigée, mais la maîtrise d'une langue étrangère est appréciée. Candidature en ligne avant le 15 juin.
+Q: Que reçoivent les bénévoles ?
++ Les repas et un accès aux spectacles payants. | « Les bénévoles sont nourris et reçoivent un pass ».
+- Une rémunération pour chaque demi-journée. | Ce sont des bénévoles.
+- Un hébergement pendant le festival. | Ce n'est pas mentionné.
+- Une formation en langue étrangère. | Une langue étrangère est appréciée, pas enseignée.
+EXP: L'annonce distingue les exigences (engagement minimum), les avantages (repas, pass) et les qualités appréciées. La question porte sur les avantages.
+
+## CE 5 | B2 | éditorial | intention
+DOC: Chaque année, on annonce la mort de la presse écrite. Chaque année, elle résiste. Certes, les ventes en kiosque diminuent. Mais les abonnements numériques progressent, et jamais les lecteurs n'ont eu autant besoin d'une information vérifiée, hiérarchisée, expliquée. À ceux qui pensent que tout se trouve gratuitement sur internet, nous répondons : une enquête sérieuse coûte cher. Soutenir la presse, c'est soutenir la démocratie.
+Q: Quel est le but principal de cet éditorial ?
++ Convaincre les lecteurs de l'utilité et de la valeur de la presse. | « Soutenir la presse, c'est soutenir la démocratie ».
+- Annoncer la fin de la presse écrite. | L'auteur affirme qu'« elle résiste ».
+- Critiquer les abonnements numériques. | Il note leur progression comme un signe positif.
+- Expliquer comment trouver des informations gratuites. | Il conteste l'idée de la gratuité.
+EXP: L'éditorial réfute une idée reçue, concède un point (« certes ») et termine par un slogan. L'intention est de convaincre.
+
+## CE 6 | B2 | courrier administratif | information précise
+DOC: Madame, Monsieur, nous accusons réception de votre demande de subvention pour l'organisation d'un festival de musique dans votre commune. Votre dossier est incomplet : il manque le budget prévisionnel détaillé et l'attestation d'assurance de votre association. Ces pièces doivent nous parvenir avant le 30 avril. Le dossier sera ensuite examiné par la commission culturelle, qui se réunira en juin.
+Q: Que doit faire l'association pour que sa demande soit étudiée ?
++ Envoyer les documents manquants avant la fin avril. | « Ces pièces doivent nous parvenir avant le 30 avril ».
+- Se présenter devant la commission en juin. | La commission examine le dossier, sans audition mentionnée.
+- Déposer une nouvelle demande complète. | Il suffit de compléter le dossier.
+- Payer des frais de dossier. | Ce n'est pas mentionné.
+EXP: Le courrier suit un ordre logique : accusé de réception, problème, action demandée, suite de la procédure.
+
+## CE 7 | B2 | article | inférence
+DOC: Le nombre d'entrées au cinéma a retrouvé un bon niveau, mais le public a changé. Les spectateurs vont moins souvent en salle et choisissent soigneusement leurs films : grands spectacles, films d'animation ou œuvres dont tout le monde parle. Les films à petit budget, qui comptaient autrefois sur le bouche-à-oreille, peinent à rester plus d'une semaine à l'affiche.
+Q: Que peut-on déduire de cet article ?
++ Les films peu connus ont de plus en plus de mal à trouver leur public. | Ils « peinent à rester plus d'une semaine à l'affiche ».
+- Les spectateurs vont au cinéma plus souvent qu'avant. | Ils y vont « moins souvent ».
+- Les films d'animation sont en déclin. | Ils font partie des films choisis.
+- Le bouche-à-oreille est plus efficace aujourd'hui. | Les petits films ne peuvent plus compter dessus.
+EXP: L'article ne dit pas directement que les films peu connus sont menacés, mais le contraste entre « films dont tout le monde parle » et « films à petit budget » permet de le déduire.
+
+## CE 8 | B2 | notice | information précise
+DOC: Audioguide du musée – Mode d'emploi. Tapez sur le clavier le numéro inscrit sous l'œuvre, puis appuyez sur la touche verte. Pour régler le volume, utilisez les flèches latérales. Le commentaire peut être mis en pause à tout moment avec la touche orange. L'appareil doit être rendu à l'accueil avant la sortie ; une pièce d'identité est conservée en caution jusqu'à son retour.
+Q: Pourquoi le musée conserve-t-il une pièce d'identité ?
++ Pour garantir que l'audioguide sera rendu. | Elle est « conservée en caution jusqu'à son retour ».
+- Pour vérifier l'âge du visiteur. | Ce n'est pas indiqué.
+- Pour enregistrer le visiteur dans un fichier. | Ce n'est pas mentionné.
+- Pour accorder une réduction. | Rien ne l'indique.
+EXP: Le mot « caution » désigne une garantie. Comprendre ce vocabulaire courant dans les documents pratiques est indispensable.
+
+## CE 9 | B2 | tribune | opinion
+DOC: On reproche souvent aux jeunes de ne plus lire. C'est faux : ils lisent énormément, mais pas ce que les adultes considèrent comme de la « vraie » lecture. Mangas, romans publiés en ligne, fils de discussion : ces textes demandent attention et imagination. Plutôt que de les mépriser, les enseignants gagneraient à s'en servir comme passerelle vers d'autres œuvres. On ne fait pas aimer la lecture en disqualifiant ce que les élèves aiment déjà.
+Q: Quelle est la position de l'auteur ?
++ Il faut s'appuyer sur les lectures des jeunes pour les ouvrir à d'autres livres. | Les enseignants « gagneraient à s'en servir comme passerelle ».
+- Les jeunes ne lisent plus du tout. | Il affirme que « c'est faux ».
+- Les mangas devraient remplacer les classiques à l'école. | Il parle de passerelle, pas de remplacement.
+- Les romans en ligne sont de mauvaise qualité. | Il défend ces textes.
+EXP: L'auteur réfute une idée reçue, la nuance, puis formule une proposition au conditionnel. La dernière phrase résume sa thèse.
+
+## CE 10 | B2 | article | compréhension globale
+DOC: De plus en plus de musées numérisent leurs collections et les mettent en ligne gratuitement, en haute définition. Les chercheurs du monde entier peuvent ainsi étudier des œuvres sans se déplacer. Mais les musées constatent un effet inattendu : loin de remplacer la visite, les images en ligne donnent envie de voir les œuvres en vrai. Plusieurs établissements ont enregistré une hausse de leur fréquentation après la mise en ligne.
+Q: Quel est le sujet de l'article ?
++ La numérisation des collections, qui encourage aussi les visites réelles. | Les images « donnent envie de voir les œuvres en vrai ».
+- La disparition des visites dans les musées. | La fréquentation augmente.
+- Le prix élevé de l'accès aux collections en ligne. | L'accès est gratuit.
+- Les difficultés des chercheurs pour étudier les œuvres. | Ils peuvent les étudier sans se déplacer.
+EXP: L'article présente une pratique, son avantage attendu, puis un « effet inattendu » introduit par « mais ». Le thème combine ces deux aspects.
+
+## CE 11 | B2 | courriel | intention
+DOC: Bonjour à tous, comme vous le savez, notre club de lecture se réunit depuis cinq ans dans l'arrière-salle du café Le Central. Le nouveau propriétaire souhaite récupérer cet espace à partir de septembre. Avant de chercher un autre lieu, j'aimerais savoir si certains d'entre vous auraient une idée : salle municipale, médiathèque, domicile d'un membre ? Merci de me répondre d'ici la fin du mois. Hélène
+Q: Pourquoi Hélène écrit-elle ce courriel ?
++ Pour solliciter des propositions de nouveau lieu de réunion. | « j'aimerais savoir si certains d'entre vous auraient une idée ».
+- Pour annoncer la fin du club de lecture. | Le club cherche un autre lieu.
+- Pour se plaindre du nouveau propriétaire. | Elle expose les faits sans se plaindre.
+- Pour inviter les membres à un dîner au café. | Ce n'est pas mentionné.
+EXP: Le courriel présente un contexte, un problème et une demande. Les exemples entre parenthèses illustrent le type de propositions attendues.
+
+## CE 12 | B2 | article | information précise
+DOC: La Fête de la musique, créée en France en 1982, a lieu chaque année le 21 juin, jour du solstice d'été. Son principe est simple : tous les musiciens, amateurs ou professionnels, peuvent jouer gratuitement dans l'espace public. L'événement s'est depuis exporté dans de nombreux pays. Les concerts doivent cependant respecter les arrêtés municipaux, notamment sur les horaires et le volume sonore.
+Q: Quelle limite s'impose aux musiciens ?
++ Ils doivent respecter les règles fixées par la mairie. | « les concerts doivent cependant respecter les arrêtés municipaux ».
+- Ils doivent être des musiciens professionnels. | Amateurs et professionnels peuvent jouer.
+- Ils doivent faire payer leur concert. | Ils jouent « gratuitement ».
+- Ils doivent jouer uniquement en France. | L'événement existe dans de nombreux pays.
+EXP: « Cependant » introduit la restriction. Les dates et l'origine de la fête sont des informations exactes mais secondaires pour la question.
+
+## CE 13 | B2 | essai | inférence
+DOC: On croit souvent que la culture populaire et la culture savante s'opposent. Pourtant, l'histoire montre que les frontières bougent sans cesse. Le roman-feuilleton, publié dans les journaux du XIXe siècle pour un large public, était méprisé par les critiques. Certains de ces romans sont aujourd'hui étudiés à l'université. Ce qui est jugé « populaire » à une époque peut devenir « classique » à la suivante.
+Q: Que suggère l'auteur ?
++ Il faut se méfier des jugements culturels définitifs. | Les frontières « bougent sans cesse ».
+- Le roman-feuilleton n'a jamais eu de succès. | Il était publié « pour un large public ».
+- Les critiques du XIXe siècle avaient raison. | Les œuvres méprisées sont aujourd'hui étudiées.
+- La culture populaire est supérieure à la culture savante. | Il refuse l'opposition, sans hiérarchiser.
+EXP: L'auteur ne formule pas de conseil explicite, mais son exemple historique invite à relativiser les classements. La dernière phrase généralise l'exemple.
+
+## CE 14 | B2 | annonce | information précise
+DOC: Atelier d'écriture – Saison culturelle. Envie d'écrire des nouvelles ? Un auteur publié anime un atelier de huit séances, le mercredi soir de 19 h à 21 h, à la médiathèque. Ouvert aux adultes débutants comme confirmés. Tarif : 60 euros pour l'ensemble des séances, demi-tarif pour les étudiants et les demandeurs d'emploi. Les textes produits seront réunis dans un recueil distribué en fin d'atelier.
+Q: Que recevront les participants à la fin de l'atelier ?
++ Un recueil des textes écrits pendant l'atelier. | « Les textes produits seront réunis dans un recueil ».
+- Un livre de l'auteur qui anime l'atelier. | Ce n'est pas mentionné.
+- Un diplôme d'écrivain. | Ce n'est pas indiqué.
+- Le remboursement des frais. | Rien ne l'indique.
+EXP: L'annonce détaille le public, le tarif et le résultat. La dernière phrase répond directement à la question.
+
+## CE 15 | B2 | article d'opinion | opinion
+DOC: La multiplication des prix littéraires devrait réjouir les auteurs. Elle a pourtant un effet pervers : les médias ne parlent plus que d'une dizaine de livres, toujours les mêmes, ceux qui figurent sur les listes. Les centaines d'autres romans publiés à l'automne disparaissent en quelques semaines. Il serait temps que les critiques consacrent autant d'attention aux livres oubliés qu'aux livres primés.
+Q: Que pense l'auteur des prix littéraires ?
++ Ils concentrent l'attention sur quelques livres au détriment des autres. | « les médias ne parlent plus que d'une dizaine de livres ».
+- Ils sont trop peu nombreux. | Il évoque leur « multiplication ».
+- Ils récompensent toujours de mauvais livres. | Il ne juge pas la qualité des livres primés.
+- Ils permettent de découvrir des auteurs oubliés. | C'est l'inverse qu'il constate.
+EXP: L'auteur commence par une attente positive, puis la contredit (« pourtant… effet pervers »). Sa recommandation finale confirme sa critique.
+
+## CE 16 | B2 | rapport | compréhension globale
+DOC: Selon une enquête menée auprès de deux mille adultes, la confiance dans les médias varie fortement selon leur type. La presse régionale et la radio obtiennent les meilleurs résultats, devant la télévision. Les réseaux sociaux arrivent en dernière position, alors qu'ils sont la première source d'information des moins de vingt-cinq ans. Les auteurs soulignent ce paradoxe : on s'informe surtout là où l'on a le moins confiance.
+Q: Quel constat principal ce rapport fait-il ?
++ Les jeunes s'informent surtout par un média auquel ils font peu confiance. | Les auteurs soulignent « ce paradoxe ».
+- La télévision est le média le plus fiable. | La presse régionale et la radio arrivent devant.
+- Les réseaux sociaux inspirent une grande confiance. | Ils arrivent « en dernière position ».
+- Les adultes ne s'informent plus. | Ce n'est pas le sujet de l'enquête.
+EXP: Le rapport présente des résultats puis les interprète. Le mot « paradoxe » signale la conclusion principale.
+
+## CE 17 | B2 | lettre de réclamation | intention
+DOC: Madame la Directrice, j'ai assisté samedi à la représentation de 20 h 30. Le spectacle a commencé avec quarante minutes de retard, sans aucune explication. De plus, ma place, achetée en catégorie 1, se trouvait derrière un pilier qui masquait une partie de la scène. Je vous demande donc le remboursement de la différence avec une place de catégorie 2, ou un avoir pour un prochain spectacle.
+Q: Quel est l'objectif de cette lettre ?
++ Obtenir une compensation après une mauvaise expérience. | Il demande un remboursement partiel ou un avoir.
+- Féliciter le théâtre pour son spectacle. | La lettre exprime un mécontentement.
+- Réserver une place de catégorie 1. | Il en a déjà acheté une.
+- Annuler un abonnement. | Ce n'est pas mentionné.
+EXP: La lettre expose deux problèmes, puis formule une demande précise introduite par « je vous demande donc ». Les deux options proposées montrent une attitude raisonnable.
+
+## CE 18 | B2 | article | information précise
+DOC: Le Pass Culture est un dispositif public destiné aux jeunes. Il prend la forme d'une application qui leur donne accès à un crédit pour des livres, des places de cinéma, de concert ou de spectacle, des cours de pratique artistique ou des instruments de musique. Les offres sont proposées par des acteurs culturels référencés. Le dispositif prévoit aussi une part collective, utilisée par les enseignants pour financer des sorties scolaires.
+Q: À quoi sert la part collective du dispositif ?
++ À financer des activités culturelles organisées par les enseignants. | Elle est « utilisée par les enseignants pour financer des sorties scolaires ».
+- À acheter des instruments pour les écoles. | Les instruments font partie des offres individuelles.
+- À payer les acteurs culturels. | Ce n'est pas présenté ainsi.
+- À offrir un crédit aux parents. | Le dispositif s'adresse aux jeunes et aux enseignants.
+EXP: L'article distingue l'usage individuel et l'usage collectif. La question porte sur le second, présenté dans la dernière phrase.
+
+## CE 19 | B2 | chronique | inférence
+DOC: Dans le train, mon voisin regardait une série sur son téléphone en vitesse accélérée, une fois et demie plus vite que la normale. Je lui ai demandé pourquoi. « Il y a tellement de séries à voir ! » m'a-t-il répondu. Je me suis demandé s'il regardait les séries pour le plaisir ou pour pouvoir dire qu'il les avait vues.
+Q: Que laisse entendre le chroniqueur ?
++ Consommer beaucoup d'œuvres peut se faire au détriment du plaisir. | Il se demande si son voisin regarde « pour le plaisir ou pour pouvoir dire qu'il les avait vues ».
+- La vitesse accélérée améliore la compréhension. | Il ne l'affirme pas.
+- Il faudrait interdire les séries dans les trains. | Rien ne l'indique.
+- Son voisin regarde trop peu de séries. | Le voisin veut au contraire en voir beaucoup.
+EXP: Le chroniqueur ne critique pas directement, mais sa question finale suggère que la quantité a pris le pas sur la qualité de l'expérience.
+
+## CE 20 | B2 | guide pratique | information précise
+DOC: Comment vérifier une image avant de la partager ? Premièrement, faites une recherche d'image inversée : elle permet de savoir si la photo a déjà circulé dans un autre contexte. Deuxièmement, observez les détails : panneaux, langue, météo, vêtements peuvent révéler un lieu ou une saison incompatibles avec la légende. Enfin, cherchez si des médias reconnus ont publié la même image. En cas de doute, abstenez-vous de partager.
+Q: À quoi sert la recherche d'image inversée ?
++ À savoir si la photo a déjà été utilisée ailleurs. | Elle permet de savoir « si la photo a déjà circulé dans un autre contexte ».
+- À améliorer la qualité de l'image. | Ce n'est pas son rôle.
+- À identifier le photographe. | Ce n'est pas mentionné.
+- À traduire la légende. | Rien ne l'indique.
+EXP: Le guide énumère trois étapes avec des connecteurs (« premièrement », « deuxièmement », « enfin »). La question porte sur la fonction de la première.
+
+## CE 21 | B2 | éditorial | opinion
+DOC: Les festivals de musique se multiplient, mais leurs prix aussi. Un pass de trois jours dépasse souvent deux cents euros, sans compter le transport et l'hébergement. La culture vivante devient un luxe réservé à ceux qui en ont les moyens. Les organisateurs invoquent la hausse des cachets des artistes. Soit. Mais les collectivités qui les subventionnent devraient exiger, en contrepartie, une part importante de billets à prix réduit.
+Q: Que propose l'éditorialiste ?
++ Conditionner les subventions à une offre de billets moins chers. | Les collectivités « devraient exiger, en contrepartie, une part importante de billets à prix réduit ».
+- Supprimer les subventions aux festivals. | Il demande une contrepartie, pas une suppression.
+- Réduire les cachets des artistes. | Il prend acte de leur hausse (« Soit »).
+- Interdire les pass de trois jours. | Ce n'est pas proposé.
+EXP: « Soit » marque une concession brève, suivie par « mais » qui introduit la proposition. Le conditionnel « devraient » exprime la recommandation.
+
+## CE 22 | B2 | article | compréhension globale
+DOC: Les jeux vidéo entrent au musée. Plusieurs institutions organisent des expositions consacrées à leur histoire, à leur esthétique et à leurs créateurs. Longtemps considérés comme un simple divertissement pour adolescents, ils sont désormais reconnus comme une forme d'expression artistique à part entière, mêlant image, musique, récit et interaction. Certains conservateurs y voient même l'art le plus représentatif de notre époque.
+Q: Quel est le sujet principal de l'article ?
++ La reconnaissance culturelle croissante des jeux vidéo. | Ils sont « désormais reconnus comme une forme d'expression artistique ».
+- Les dangers des jeux vidéo pour les adolescents. | Ce n'est pas évoqué.
+- La fermeture des musées traditionnels. | Les musées accueillent au contraire des expositions.
+- La fabrication technique des jeux vidéo. | L'article parle de leur statut culturel.
+EXP: L'opposition « longtemps considérés… désormais reconnus » marque une évolution. C'est elle qui constitue le sujet de l'article.
+
+## CE 23 | B2 | règlement | inférence
+DOC: Concours de photographie « Ma ville en images » – Règlement. Chaque participant peut envoyer trois photos au maximum. Les photos doivent avoir été prises dans la commune au cours de l'année. Toute personne reconnaissable sur une photo doit avoir donné son accord écrit, joint à l'envoi. Les photos primées seront exposées à l'hôtel de ville et pourront être utilisées par la mairie dans ses publications, avec mention du nom de l'auteur.
+Q: Que peut-on déduire de ce règlement ?
++ Un participant qui photographie un passant doit lui faire signer une autorisation. | Toute personne reconnaissable doit avoir donné « son accord écrit ».
+- Les photos peuvent être prises dans n'importe quelle ville. | Elles doivent être prises « dans la commune ».
+- La mairie utilisera les photos sans citer l'auteur. | Le nom de l'auteur sera mentionné.
+- Chaque participant doit envoyer trois photos. | Trois est un maximum.
+EXP: Le règlement ne parle pas de « passant », mais la règle générale sur les personnes reconnaissables s'applique à ce cas. C'est une inférence par application d'une règle.
+
+## CE 24 | B2 | tribune | intention
+DOC: Je suis bibliothécaire depuis vingt ans, et je veux tordre le cou à une idée reçue : non, les bibliothèques ne sont pas des lieux silencieux remplis de vieux livres. On y vient pour faire ses devoirs, apprendre à utiliser un ordinateur, jouer à des jeux de société, assister à un concert ou simplement se mettre au chaud. Avant de réduire nos budgets, que les élus viennent voir ce qui s'y passe réellement.
+Q: Que cherche à faire l'auteure ?
++ Défendre les bibliothèques en montrant la diversité de leurs usages. | Elle énumère les activités et s'adresse aux élus avant toute réduction de budget.
+- Se plaindre du bruit dans les bibliothèques. | Elle conteste l'image d'un lieu silencieux, sans se plaindre.
+- Demander l'achat de nouveaux livres. | Ce n'est pas sa demande.
+- Annoncer la fermeture de sa bibliothèque. | Rien ne l'indique.
+EXP: « Tordre le cou à une idée reçue » annonce une réfutation. L'appel final aux élus révèle l'enjeu : préserver les moyens des bibliothèques.
+
+## CE 25 | B2 | essai | compréhension globale
+DOC: Pourquoi aimons-nous les histoires ? Les chercheurs avancent plusieurs explications. Les récits nous permettent de vivre des situations sans en courir les risques, d'éprouver des émotions et de comprendre les intentions des autres. Ils transmettent aussi des valeurs et des savoirs d'une génération à l'autre. Raconter n'est donc pas un simple loisir : c'est une façon pour l'être humain d'apprendre à vivre avec les autres.
+Q: Quelle est la thèse de l'auteur ?
++ Les histoires remplissent des fonctions essentielles pour l'être humain. | « Raconter n'est donc pas un simple loisir ».
+- Les histoires sont dangereuses pour l'esprit. | Elles permettent au contraire de vivre des situations « sans en courir les risques ».
+- Seuls les enfants ont besoin d'histoires. | L'auteur parle de « l'être humain » en général.
+- Les chercheurs ne comprennent pas pourquoi nous aimons les histoires. | Ils avancent « plusieurs explications ».
+EXP: L'essai part d'une question, présente des arguments, puis conclut avec « donc ». La conclusion réfute l'idée d'un « simple loisir » et formule la thèse.
+
+## EE 1 | B2 | répondre à un message
+CONSIGNE: Votre collègue Marc vous écrit : « Je cherche une sortie culturelle originale pour l'anniversaire de ma femme samedi. Tu as une idée ? » Répondez-lui en lui proposant une activité et en expliquant pourquoi elle lui plaira (30 à 60 mots).
+MODELE: Salut Marc, quelle bonne idée ! Je te conseille la visite nocturne du musée des Beaux-Arts, qui a lieu samedi soir. Un guide raconte des anecdotes sur les tableaux, puis on prend un verre dans le jardin. Comme ta femme adore la peinture, elle sera ravie. Pense à réserver, les places partent vite. Bonne soirée ! Sophie
+POINTS: réagir au message ; proposer une activité ; justifier le choix ; donner un conseil pratique
+COMMENTAIRE: La réponse est spontanée et précise. La proposition est décrite concrètement et justifiée par les goûts de la personne (« comme ta femme adore la peinture »).
+CONSEILS: Pour un collègue proche, le tutoiement et un ton amical conviennent. Ajoutez un conseil pratique pour rendre votre message utile.
+
+## EE 2 | B2 | raconter une expérience
+CONSIGNE: Vous avez assisté à un spectacle, un concert ou une exposition qui vous a marqué. Racontez cette expérience sur un blog culturel : ce que vous avez vu, ce que vous avez ressenti et pourquoi vous le recommandez ou non (40 à 90 mots).
+MODELE: Le mois dernier, je suis allée voir un spectacle de cirque contemporain sous un chapiteau installé dans un parc. Il n'y avait ni animaux ni clowns, mais cinq acrobates qui racontaient, sans un mot, l'histoire d'une famille séparée par l'exil. À un moment, toute la salle retenait son souffle. Je suis sortie très émue, car je ne pensais pas qu'un spectacle sans paroles pouvait toucher autant. Je le recommande à tous ceux qui croient que le cirque est réservé aux enfants.
+POINTS: situer l'événement ; décrire le spectacle ; exprimer ses émotions ; recommander en justifiant
+COMMENTAIRE: Le récit est structuré, précis et vivant. L'opposition « ni… ni…, mais » et la concession implicite (« je ne pensais pas que… ») sont des marqueurs du niveau B2.
+CONSEILS: Décrivez un moment précis du spectacle : c'est plus convaincant qu'un jugement général comme « c'était super ».
+
+## EE 3 | B2 | donner son opinion à partir de deux documents
+CONSIGNE: Document 1 : « Les réseaux sociaux ont démocratisé l'information : chacun peut témoigner, publier et alerter en temps réel. » Document 2 : « Sur les réseaux sociaux, les fausses informations circulent plus vite que les vraies, car elles suscitent davantage d'émotions. » Présentez ces deux opinions, puis donnez votre avis argumenté (40 à 90 mots).
+MODELE: Le premier document souligne que les réseaux sociaux permettent à chacun de s'exprimer et d'alerter rapidement, tandis que le second rappelle qu'ils favorisent la diffusion de fausses nouvelles. À mon avis, ces deux constats sont exacts. Les réseaux peuvent révéler des faits que les médias ignorent, mais ils exigent un esprit critique. C'est pourquoi il me semble indispensable d'enseigner à l'école comment vérifier une source. Ainsi, les citoyens profiteraient de cette liberté sans en être les victimes.
+POINTS: résumer le document 1 ; résumer le document 2 ; prendre position ; justifier ; proposer une solution
+COMMENTAIRE: La synthèse est fidèle et équilibrée. L'avis nuancé débouche sur une proposition concrète, et les connecteurs (« tandis que », « c'est pourquoi », « ainsi ») assurent la cohérence.
+CONSEILS: Reformulez les documents avec vos propres mots au lieu de les recopier : c'est ce qui montre votre niveau.
+
+## EO 1 | B2 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous interroge sur vos habitudes culturelles et votre rapport aux médias : vos loisirs, vos sorties, la manière dont vous vous informez et la culture de votre pays d'origine.
+RELANCES: Pouvez-vous vous présenter ? / Que faites-vous pendant votre temps libre ? / Comment vous informez-vous ? / Quelle sortie culturelle vous a marqué ? / Qu'aimeriez-vous faire découvrir de votre culture ?
+PHRASES: Pendant mon temps libre, j'aime… / Pour m'informer, je… / Ce qui m'a marqué, c'est…
+MODELE: Je m'appelle Karim, j'ai quarante ans et je suis originaire du Maroc. Pendant mon temps libre, j'aime aller au cinéma et écouter de la musique andalouse, que mon père jouait au luth. Pour m'informer, j'écoute la radio le matin et je lis un quotidien en ligne, parce que je préfère les analyses aux simples titres. Ce qui m'a le plus marqué en France, c'est une exposition sur les jardins du monde. J'aimerais faire découvrir la musique de mon pays à mes collègues.
+COMMENTAIRE: Le candidat répond de façon complète et personnelle, avec des justifications (« parce que »), une relative et une mise en relief (« ce qui m'a marqué, c'est »). Le discours est fluide.
+CONSEILS: Donnez des exemples personnels précis : ils rendent l'entretien vivant et montrent la richesse de votre vocabulaire.
+
+## EO 2 | B2 | Proposer un projet culturel à la mairie | Adjoint à la culture
+SCENARIO: Vous souhaitez organiser une fête des cultures du monde dans votre quartier, avec des concerts, des stands de cuisine et des ateliers. Vous rencontrez l'adjoint à la culture de la mairie (l'examinateur) pour présenter votre projet et obtenir son soutien.
+RELANCES: Nous avons un budget très limité. / Qui va organiser concrètement ? / Les voisins risquent de se plaindre du bruit. / Combien de personnes attendez-vous ?
+PHRASES: Je voudrais vous présenter… / Nous pourrions… / Je comprends votre inquiétude, mais…
+MODELE: Bonjour, je voudrais vous présenter un projet de fête des cultures du monde dans notre quartier. Nous pourrions organiser des concerts, des stands de cuisine et des ateliers pour les enfants. Notre association compte déjà une vingtaine de bénévoles motivés. Je comprends votre inquiétude concernant le budget, mais nous ne demandons qu'un prêt de matériel et l'accès à la place du marché. Pour le bruit, la fête se terminerait à vingt-deux heures. Nous attendons environ trois cents personnes. Accepteriez-vous de nous soutenir ?
+COMMENTAIRE: Le candidat présente un projet clair, répond aux objections une par une et propose des solutions réalistes. Le conditionnel rend la demande polie et convaincante.
+CONSEILS: Anticipez les objections (budget, bruit, organisation) et préparez une réponse concrète pour chacune.
+
+## EO 3 | B2 | La culture doit-elle être gratuite ? | Examinateur
+SCENARIO: Certains pensent que l'accès aux musées, aux bibliothèques et aux spectacles devrait être gratuit pour tous, financé par l'impôt. D'autres estiment que la culture a un prix. Quelle est votre opinion ? Défendez-la.
+RELANCES: Ce qui est gratuit n'a pas de valeur. / Les artistes doivent pouvoir vivre de leur travail. / La gratuité attire surtout ceux qui viennent déjà. / Que proposez-vous alors ?
+PHRASES: Je suis favorable à… / Cela dit… / Une solution serait de…
+MODELE: Je suis favorable à une culture accessible, mais pas forcément gratuite pour tous. Les bibliothèques gratuites sont essentielles, car elles permettent à chacun d'apprendre et de lire. Cela dit, les artistes doivent pouvoir vivre de leur travail, et un spectacle demande des moyens importants. Une solution serait de proposer des tarifs selon les revenus, ainsi que la gratuité pour les jeunes et les demandeurs d'emploi. Il faudrait aussi aller vers les publics éloignés, par exemple avec des spectacles dans les écoles.
+COMMENTAIRE: Le candidat adopte une position nuancée, distingue les types de lieux culturels et propose des solutions concrètes. Les connecteurs (« cela dit », « ainsi que ») structurent l'argumentation.
+CONSEILS: Une position nuancée est souvent plus convaincante qu'un avis tranché, à condition de la défendre avec des arguments précis.
