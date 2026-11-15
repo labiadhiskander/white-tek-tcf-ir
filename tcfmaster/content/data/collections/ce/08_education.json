@@ -1,0 +1,1178 @@
+{
+ "slug": "ce-education",
+ "section": "CE",
+ "title": "Éducation",
+ "description": "Articles et tribunes sur l'école, l'université et la formation : réformes, pédagogie et égalité des chances.",
+ "order": 8,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CE-EDU-01",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Quel décalage le premier paragraphe souligne-t-il ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les parents refusent les devoirs.",
+       "correct": false,
+       "rationale": "Ils les demandent souvent.",
+       "label": "A"
+      },
+      {
+       "text": "Les devoirs sont obligatoires.",
+       "correct": false,
+       "rationale": "Ils sont officiellement interdits.",
+       "label": "B"
+      },
+      {
+       "text": "Les devoirs sont interdits mais restent largement pratiqués.",
+       "correct": true,
+       "rationale": "« Officiellement, les devoirs écrits sont interdits… Dans les faits, la plupart des enseignants continuent d'en donner. »",
+       "label": "C"
+      },
+      {
+       "text": "Les enseignants ne donnent jamais de devoirs.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'opposition « Officiellement… Dans les faits » marque l'écart entre règle et pratique."
+    },
+    {
+     "prompt": "Pourquoi les devoirs aggravent-ils les inégalités ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Parce que les enseignants favorisent certains élèves.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que tous les enfants ne reçoivent pas la même aide à la maison.",
+       "correct": true,
+       "rationale": "« Un enfant dont les parents sont disponibles et diplômés sera aidé, tandis qu'un autre… accumulera les difficultés. »",
+       "label": "B"
+      },
+      {
+       "text": "Parce que les devoirs sont trop faciles.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que certains enfants n'ont pas de cahier.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'argument.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Tandis que » oppose deux situations familiales."
+    },
+    {
+     "prompt": "Quelle est la limite des études surveillées ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Les familles les rejettent.",
+       "correct": false,
+       "rationale": "Elles sont « plébiscitées ».",
+       "label": "A"
+      },
+      {
+       "text": "Elles sont interdites.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Elles n'ont pas d'adultes.",
+       "correct": false,
+       "rationale": "Des adultes aident les élèves.",
+       "label": "C"
+      },
+      {
+       "text": "Elles dépendent des ressources des communes.",
+       "correct": true,
+       "rationale": "« Qui dépend des moyens des communes et reste donc inégalement répartie. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La solution reproduit, à une autre échelle, le problème d'inégalité."
+    }
+   ],
+   "title": "Les devoirs à la maison en question",
+   "document": "Officiellement, les devoirs écrits sont interdits à l'école primaire depuis plus de soixante ans. Dans les faits, la plupart des enseignants continuent d'en donner, souvent à la demande des parents eux-mêmes, qui y voient un moyen de suivre la scolarité de leur enfant.\n\nLes chercheurs sont partagés sur leur efficacité. Pour les plus jeunes élèves, les études ne montrent guère d'effet positif sur les résultats. Surtout, les devoirs creusent les inégalités : un enfant dont les parents sont disponibles et diplômés sera aidé, tandis qu'un autre, seul ou dont les parents ne maîtrisent pas la langue, accumulera les difficultés. Ce qui devait renforcer les apprentissages finit ainsi par avantager ceux qui en avaient le moins besoin.\n\nPlusieurs écoles ont mis en place des études surveillées après la classe, où les élèves font leurs exercices avec l'aide d'adultes. Une solution plébiscitée par les familles, mais qui dépend des moyens des communes et reste donc inégalement répartie sur le territoire.",
+   "vocabulary": [
+    {
+     "terme": "la scolarité",
+     "definition": "le parcours scolaire",
+     "exemple": "Il a eu une scolarité difficile."
+    },
+    {
+     "terme": "creuser",
+     "definition": "augmenter, aggraver un écart",
+     "exemple": "La crise creuse les inégalités."
+    },
+    {
+     "terme": "plébiscité",
+     "definition": "approuvé massivement",
+     "exemple": "Un film plébiscité par le public."
+    },
+    {
+     "terme": "réparti",
+     "definition": "distribué",
+     "exemple": "Les écoles sont mal réparties."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "dans les faits",
+     "sens": "en réalité",
+     "exemple": "Dans les faits, la règle n'est pas appliquée."
+    },
+    {
+     "expression": "ne guère",
+     "sens": "presque pas",
+     "exemple": "Il ne mange guère."
+    },
+    {
+     "expression": "finir par",
+     "sens": "aboutir à",
+     "exemple": "Il a fini par accepter."
+    }
+   ],
+   "traps": [
+    "Les parents demandent souvent les devoirs.",
+    "L'absence d'effet concerne surtout les plus jeunes élèves.",
+    "Les études surveillées sont appréciées mais inégalement disponibles."
+   ]
+  },
+  {
+   "code": "CE-EDU-02",
+   "level": "B2",
+   "doc_type": "tribune",
+   "questions": [
+    {
+     "prompt": "Quel constat l'auteur fait-il sur l'école française ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Elle enseigne beaucoup l'écrit et peu l'expression orale.",
+       "correct": true,
+       "rationale": "« L'école française a longtemps privilégié l'écrit… rarement à prendre la parole. »",
+       "label": "A"
+      },
+      {
+       "text": "Elle supprime le baccalauréat.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Elle donne trop d'importance au débat.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Elle n'enseigne plus l'écrit.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'énumération des exercices écrits s'oppose à « rarement » pour l'oral."
+    },
+    {
+     "prompt": "Pourquoi cette lacune n'est-elle « pas neutre socialement » ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Elle concerne uniquement les enfants riches.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Elle est voulue par les enseignants.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Elle avantage les élèves timides.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Elle favorise les enfants dont la famille pratique déjà la discussion.",
+       "correct": true,
+       "rationale": "« Les enfants issus de familles où l'on discute… arrivent à l'école avec un avantage considérable. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'auteur montre que l'absence d'enseignement laisse jouer l'héritage familial."
+    },
+    {
+     "prompt": "Que pense l'auteur de l'épreuve orale au baccalauréat ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "C'est une erreur à supprimer.",
+       "correct": false,
+       "rationale": "Il l'approuve.",
+       "label": "A"
+      },
+      {
+       "text": "C'est un progrès, mais insuffisant sans pratique régulière.",
+       "correct": true,
+       "rationale": "« Va dans le bon sens. Mais une épreuve finale ne remplace pas un apprentissage régulier. »",
+       "label": "B"
+      },
+      {
+       "text": "C'est la solution parfaite.",
+       "correct": false,
+       "rationale": "Il la juge insuffisante.",
+       "label": "C"
+      },
+      {
+       "text": "Elle devrait remplacer l'écrit.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Va dans le bon sens. Mais… » exprime une approbation nuancée."
+    }
+   ],
+   "title": "Redonner sa place à l'oral à l'école",
+   "document": "L'école française a longtemps privilégié l'écrit. On y apprend à rédiger une dissertation, à résumer un texte, à répondre par écrit à des questions, mais rarement à prendre la parole devant les autres, à défendre une idée ou à débattre. Or l'aisance à l'oral est une compétence décisive dans la vie professionnelle comme dans la vie citoyenne.\n\nCette lacune n'est pas neutre socialement. Les enfants issus de familles où l'on discute, où l'on argumente à table, arrivent à l'école avec un avantage considérable. Les autres apprennent parfois à se taire, de peur de mal s'exprimer. Ne pas enseigner l'oral, c'est donc laisser les inégalités de départ se transformer en inégalités de destin.\n\nL'introduction d'une épreuve orale au baccalauréat va dans le bon sens. Mais une épreuve finale ne remplace pas un apprentissage régulier. L'oral doit être travaillé dès le plus jeune âge, avec des exercices progressifs : présenter un livre, argumenter en petit groupe, écouter et reformuler la position d'un camarade.",
+   "vocabulary": [
+    {
+     "terme": "une dissertation",
+     "definition": "un devoir écrit argumenté",
+     "exemple": "Il prépare une dissertation de philosophie."
+    },
+    {
+     "terme": "l'aisance",
+     "definition": "la facilité",
+     "exemple": "Elle parle avec aisance."
+    },
+    {
+     "terme": "une lacune",
+     "definition": "un manque",
+     "exemple": "Il a des lacunes en grammaire."
+    },
+    {
+     "terme": "reformuler",
+     "definition": "dire autrement",
+     "exemple": "Reformulez la question."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "prendre la parole",
+     "sens": "commencer à parler en public",
+     "exemple": "Il a pris la parole devant l'assemblée."
+    },
+    {
+     "expression": "aller dans le bon sens",
+     "sens": "être une amélioration",
+     "exemple": "Cette réforme va dans le bon sens."
+    },
+    {
+     "expression": "dès le plus jeune âge",
+     "sens": "depuis l'enfance",
+     "exemple": "Apprendre les langues dès le plus jeune âge."
+    }
+   ],
+   "traps": [
+    "L'auteur ne critique pas l'enseignement de l'écrit en soi.",
+    "« Inégalités de destin » désigne les conséquences à l'âge adulte.",
+    "L'épreuve du baccalauréat est jugée positive mais insuffisante."
+   ]
+  },
+  {
+   "code": "CE-EDU-03",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Comment l'image de l'apprentissage a-t-elle évolué ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "D'une voie dévalorisée, il est devenu une formation très recherchée.",
+       "correct": true,
+       "rationale": "« Longtemps considéré comme une voie de relégation… connaît un succès sans précédent. »",
+       "label": "A"
+      },
+      {
+       "text": "Il est devenu obligatoire.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Il est réservé aux élèves en difficulté.",
+       "correct": false,
+       "rationale": "C'était l'ancienne image.",
+       "label": "C"
+      },
+      {
+       "text": "Il a perdu tout intérêt.",
+       "correct": false,
+       "rationale": "Il connaît un grand succès.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Une « voie de relégation » est une orientation subie, choisie par défaut."
+    },
+    {
+     "prompt": "Quel paradoxe le deuxième paragraphe révèle-t-il ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les entreprises refusent les apprentis.",
+       "correct": false,
+       "rationale": "Le nombre de contrats a doublé.",
+       "label": "A"
+      },
+      {
+       "text": "Les écoles d'ingénieurs ferment.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Le succès profite surtout aux étudiants plutôt qu'aux jeunes peu qualifiés.",
+       "correct": true,
+       "rationale": "« Les jeunes peu qualifiés, à qui l'apprentissage était initialement destiné, n'en profitent que marginalement. »",
+       "label": "C"
+      },
+      {
+       "text": "Les apprentis ne sont pas payés.",
+       "correct": false,
+       "rationale": "Ils sont « rémunérés ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Pourtant » introduit l'écart entre l'objectif initial et le résultat."
+    },
+    {
+     "prompt": "Que proposent certains économistes ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Supprimer l'apprentissage.",
+       "correct": false,
+       "rationale": "Ce n'est pas proposé.",
+       "label": "A"
+      },
+      {
+       "text": "Cibler les aides sur les moins qualifiés.",
+       "correct": true,
+       "rationale": "« Concentrer les aides sur les niveaux de qualification les plus faibles. »",
+       "label": "B"
+      },
+      {
+       "text": "Augmenter toutes les aides.",
+       "correct": false,
+       "rationale": "Ils s'inquiètent de leur coût.",
+       "label": "C"
+      },
+      {
+       "text": "Réserver l'apprentissage aux masters.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Leur argument repose sur l'efficacité : aider là où l'aide change vraiment les choses."
+    }
+   ],
+   "title": "L'apprentissage séduit de plus en plus de jeunes",
+   "document": "Longtemps considéré comme une voie de relégation pour les élèves en difficulté, l'apprentissage connaît un succès sans précédent. Le nombre de contrats a plus que doublé en cinq ans, grâce notamment à des aides financières importantes versées aux employeurs. Alterner périodes en entreprise et cours en centre de formation permet aux jeunes d'acquérir une expérience concrète tout en étant rémunérés.\n\nCe succès concerne pourtant surtout l'enseignement supérieur. Une grande partie des nouveaux apprentis préparent une licence ou un master, dans les écoles de commerce ou d'ingénieurs. Les jeunes peu qualifiés, à qui l'apprentissage était initialement destiné, n'en profitent que marginalement.\n\nCertains économistes s'interrogent aussi sur le coût de ces aides pour les finances publiques, et sur leur efficacité : une partie des entreprises auraient embauché ces étudiants de toute façon. Ils proposent de concentrer les aides sur les niveaux de qualification les plus faibles, là où l'apprentissage fait réellement la différence pour l'insertion professionnelle.",
+   "vocabulary": [
+    {
+     "terme": "la relégation",
+     "definition": "le fait d'être mis à l'écart, dévalorisé",
+     "exemple": "Une orientation vécue comme une relégation."
+    },
+    {
+     "terme": "un apprenti",
+     "definition": "une personne en formation chez un employeur",
+     "exemple": "L'apprenti boulanger se lève tôt."
+    },
+    {
+     "terme": "marginalement",
+     "definition": "très peu",
+     "exemple": "Les prix ont augmenté marginalement."
+    },
+    {
+     "terme": "l'insertion professionnelle",
+     "definition": "l'entrée dans la vie active",
+     "exemple": "Ce diplôme facilite l'insertion professionnelle."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "sans précédent",
+     "sens": "jamais vu auparavant",
+     "exemple": "Une crise sans précédent."
+    },
+    {
+     "expression": "faire la différence",
+     "sens": "avoir un effet décisif",
+     "exemple": "Son expérience a fait la différence."
+    },
+    {
+     "expression": "de toute façon",
+     "sens": "quoi qu'il arrive",
+     "exemple": "Il serait venu de toute façon."
+    }
+   ],
+   "traps": [
+    "Les aides vont aux employeurs, pas directement aux apprentis.",
+    "Le succès concerne surtout l'enseignement supérieur.",
+    "Le conditionnel « auraient embauché » présente une hypothèse des économistes."
+   ]
+  },
+  {
+   "code": "CE-EDU-04",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Quels sont les premiers résultats de la mesure ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Une baisse des résultats en calcul.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "A"
+      },
+      {
+       "text": "L'écart avec les autres écoles a disparu.",
+       "correct": false,
+       "rationale": "Il « reste important ».",
+       "label": "B"
+      },
+      {
+       "text": "Des progrès en lecture et en calcul, sans rattrapage complet.",
+       "correct": true,
+       "rationale": "« Une amélioration des résultats… même si l'écart avec les autres écoles reste important. »",
+       "label": "C"
+      },
+      {
+       "text": "Aucun progrès.",
+       "correct": false,
+       "rationale": "Il y a une amélioration.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Même si » introduit une limite au constat positif."
+    },
+    {
+     "prompt": "Quel effet secondaire négatif le texte mentionne-t-il ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Des moyens ont été retirés à d'autres dispositifs d'aide.",
+       "correct": true,
+       "rationale": "« Parfois au détriment d'autres dispositifs, comme les enseignants spécialisés. »",
+       "label": "A"
+      },
+      {
+       "text": "Les enseignants ont démissionné.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Les parents ont retiré leurs enfants.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Les classes sont devenues trop grandes.",
+       "correct": false,
+       "rationale": "Elles sont plus petites.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Au détriment de » signifie « en causant un tort à »."
+    },
+    {
+     "prompt": "Pourquoi certains jugent-ils prématuré de conclure ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "La réforme n'a pas encore commencé.",
+       "correct": false,
+       "rationale": "Elle existe depuis plusieurs années.",
+       "label": "A"
+      },
+      {
+       "text": "Les enseignants refusent d'être évalués.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Les évaluations sont fausses.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Les effets pourraient apparaître plus tard dans la scolarité.",
+       "correct": true,
+       "rationale": "« Les effets… pourraient se révéler pleinement des années plus tard. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'argument repose sur la nécessité d'un suivi à long terme."
+    }
+   ],
+   "title": "Les classes à effectif réduit portent leurs fruits",
+   "document": "Depuis plusieurs années, les classes de CP et de CE1 des quartiers défavorisés sont limitées à douze élèves. Les premières évaluations nationales montrent une amélioration des résultats en lecture et en calcul, même si l'écart avec les autres écoles reste important. Les enseignants concernés soulignent qu'ils peuvent enfin suivre chaque élève individuellement et repérer plus tôt les difficultés.\n\nLa mesure a toutefois un coût. Il a fallu créer des milliers de postes et trouver des salles supplémentaires, parfois au détriment d'autres dispositifs, comme les enseignants spécialisés qui aidaient les élèves en difficulté dans plusieurs classes. Certains chercheurs estiment que les gains observés, réels, restent modestes au regard de l'investissement.\n\nPour d'autres, il serait prématuré de conclure. Les effets d'une meilleure maîtrise de la lecture à six ans pourraient se révéler pleinement des années plus tard, au collège et au-delà. Seul un suivi des élèves sur le long terme permettra de juger réellement l'efficacité de la réforme.",
+   "vocabulary": [
+    {
+     "terme": "défavorisé",
+     "definition": "qui a peu de ressources",
+     "exemple": "Un quartier défavorisé."
+    },
+    {
+     "terme": "un effectif",
+     "definition": "le nombre de personnes dans un groupe",
+     "exemple": "Les effectifs ont augmenté."
+    },
+    {
+     "terme": "prématuré",
+     "definition": "qui arrive trop tôt",
+     "exemple": "Une conclusion prématurée."
+    },
+    {
+     "terme": "un dispositif",
+     "definition": "un ensemble de mesures",
+     "exemple": "Un dispositif d'aide aux devoirs."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "porter ses fruits",
+     "sens": "donner de bons résultats",
+     "exemple": "Ses efforts ont porté leurs fruits."
+    },
+    {
+     "expression": "au détriment de",
+     "sens": "au désavantage de",
+     "exemple": "Il travaille au détriment de sa santé."
+    },
+    {
+     "expression": "au regard de",
+     "sens": "en comparaison avec",
+     "exemple": "Le résultat est faible au regard des efforts."
+    }
+   ],
+   "traps": [
+    "L'écart avec les autres écoles persiste.",
+    "Les gains sont jugés « réels » mais « modestes » par certains.",
+    "Le texte présente plusieurs avis sans trancher."
+   ]
+  },
+  {
+   "code": "CE-EDU-05",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Quelle raison du décrochage concerne le changement de cadre d'études ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "La sévérité des professeurs.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Le manque de cours à l'université.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Le coût des inscriptions.",
+       "correct": false,
+       "rationale": "Les difficultés financières sont une autre cause.",
+       "label": "C"
+      },
+      {
+       "text": "Le passage d'un lycée encadré à une université où l'on doit s'organiser seul.",
+       "correct": true,
+       "rationale": "« Moins d'encadrement, des amphithéâtres… une grande autonomie dans l'organisation du travail. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le texte énumère plusieurs facteurs ; il faut identifier celui qui concerne le cadre."
+    },
+    {
+     "prompt": "Pourquoi le travail étudiant pose-t-il problème ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Au-delà d'un certain nombre d'heures, il diminue les chances de réussite.",
+       "correct": true,
+       "rationale": "« Parfois plus de quinze heures par semaine, ce qui réduit fortement leurs chances de réussite. »",
+       "label": "A"
+      },
+      {
+       "text": "Il est trop bien payé.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Il oblige à déménager.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Il est interdit pendant les études.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le relatif « ce qui » introduit la conséquence."
+    },
+    {
+     "prompt": "Que rappellent les spécialistes à la fin ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les universités doivent fermer leurs licences.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Quitter une formation peut mener à une réorientation réussie.",
+       "correct": true,
+       "rationale": "« Un abandon n'est pas toujours un échec : certains étudiants se réorientent avec succès. »",
+       "label": "B"
+      },
+      {
+       "text": "Tous les abandons sont des échecs.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Il faut interdire les réorientations.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Cette nuance invite à ne pas interpréter tous les chiffres négativement."
+    }
+   ],
+   "title": "L'université face au décrochage en première année",
+   "document": "Près d'un étudiant sur trois quitte sa licence avant la fin de la première année. Ce taux élevé d'abandon s'explique par plusieurs facteurs. Beaucoup de bacheliers découvrent un fonctionnement très différent du lycée : moins d'encadrement, des amphithéâtres de plusieurs centaines d'étudiants, une grande autonomie dans l'organisation du travail. D'autres se sont orientés par défaut, faute d'avoir obtenu la formation de leur choix.\n\nLes difficultés financières jouent aussi un rôle important. Un nombre croissant d'étudiants travaillent pendant leurs études, parfois plus de quinze heures par semaine, ce qui réduit fortement leurs chances de réussite.\n\nPlusieurs universités ont mis en place des dispositifs d'accompagnement : tutorat par des étudiants plus avancés, cours de méthodologie, possibilité d'étaler la première année sur deux ans. Les résultats sont encourageants mais inégaux. Les spécialistes rappellent qu'un abandon n'est pas toujours un échec : certains étudiants se réorientent avec succès vers une formation plus adaptée.",
+   "vocabulary": [
+    {
+     "terme": "le décrochage",
+     "definition": "l'abandon des études",
+     "exemple": "Lutter contre le décrochage scolaire."
+    },
+    {
+     "terme": "un bachelier",
+     "definition": "une personne qui a obtenu le baccalauréat",
+     "exemple": "Les nouveaux bacheliers."
+    },
+    {
+     "terme": "un amphithéâtre",
+     "definition": "une grande salle de cours en gradins",
+     "exemple": "Le cours a lieu en amphithéâtre."
+    },
+    {
+     "terme": "étaler",
+     "definition": "répartir dans le temps",
+     "exemple": "Étaler les paiements."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "par défaut",
+     "sens": "faute de mieux",
+     "exemple": "Il a choisi cette filière par défaut."
+    },
+    {
+     "expression": "un sur trois",
+     "sens": "un tiers",
+     "exemple": "Un étudiant sur trois travaille."
+    },
+    {
+     "expression": "jouer un rôle",
+     "sens": "avoir une influence",
+     "exemple": "La météo joue un rôle important."
+    }
+   ],
+   "traps": [
+    "Plusieurs causes sont citées, pas une seule.",
+    "« Par défaut » signifie « faute d'avoir obtenu son premier choix ».",
+    "Le texte relativise la notion d'échec."
+   ]
+  },
+  {
+   "code": "CE-EDU-06",
+   "level": "B2",
+   "doc_type": "tribune",
+   "questions": [
+    {
+     "prompt": "Comment l'auteur juge-t-il le débat habituel sur les notes ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Il le trouve parfaitement mené.",
+       "correct": false,
+       "rationale": "Ce n'est pas son avis.",
+       "label": "A"
+      },
+      {
+       "text": "Il le trouve inutile.",
+       "correct": false,
+       "rationale": "Il propose de le poser autrement.",
+       "label": "B"
+      },
+      {
+       "text": "Il le trouve souvent simplifié à l'excès.",
+       "correct": true,
+       "rationale": "« La question revient régulièrement, souvent caricaturée. »",
+       "label": "C"
+      },
+      {
+       "text": "Il refuse d'y participer.",
+       "correct": false,
+       "rationale": "Il y participe.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Caricaturé » signifie déformé, exagéré."
+    },
+    {
+     "prompt": "Selon l'auteur, quel est le vrai problème ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Le nombre d'évaluations.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "L'existence même des notes.",
+       "correct": false,
+       "rationale": "Il le dit explicitement : ce n'est pas tant la note.",
+       "label": "B"
+      },
+      {
+       "text": "L'usage des notes, quand elles n'expliquent rien.",
+       "correct": true,
+       "rationale": "« Le problème n'est pas tant la note elle-même que l'usage qu'on en fait. »",
+       "label": "C"
+      },
+      {
+       "text": "La sévérité des enseignants.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « pas tant… que… » déplace le problème."
+    },
+    {
+     "prompt": "Pourquoi l'auteur cite-t-il l'exemple d'autres pays ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Pour montrer qu'on peut être exigeant sans noter les jeunes élèves.",
+       "correct": true,
+       "rationale": "« Ne notent pas les élèves avant l'adolescence, sans renoncer pour autant à l'exigence. »",
+       "label": "A"
+      },
+      {
+       "text": "Pour critiquer les évaluations internationales.",
+       "correct": false,
+       "rationale": "Ce n'est pas le propos.",
+       "label": "B"
+      },
+      {
+       "text": "Pour proposer de supprimer l'école.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Pour prouver que les notes sont indispensables.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'exemple réfute l'argument selon lequel supprimer les notes ferait baisser l'exigence."
+    }
+   ],
+   "title": "Les notes, un outil à repenser",
+   "document": "Faut-il supprimer les notes à l'école ? La question revient régulièrement, souvent caricaturée. Ses partisans dénoncent un système qui décourage les élèves en difficulté et pousse à travailler pour la note plutôt que pour apprendre. Ses opposants y voient un renoncement à l'exigence, voire une manière de cacher les difficultés.\n\nLe débat gagnerait à être posé autrement. Le problème n'est pas tant la note elle-même que l'usage qu'on en fait. Une note sans commentaire, qui ne dit ni ce qui est réussi ni ce qu'il faut améliorer, n'aide personne. Une moyenne, qui mélange des compétences différentes, masque souvent les progrès réels d'un élève.\n\nPlusieurs pays obtenant d'excellents résultats aux évaluations internationales ne notent pas les élèves avant l'adolescence, sans renoncer pour autant à l'exigence. Ils privilégient une évaluation détaillée, qui précise les compétences acquises et celles qui restent à travailler. L'enjeu n'est donc pas de choisir entre la note et l'absence de note, mais de rendre l'évaluation utile à celui qui apprend.",
+   "vocabulary": [
+    {
+     "terme": "caricaturé",
+     "definition": "présenté de façon exagérée",
+     "exemple": "Sa position a été caricaturée."
+    },
+    {
+     "terme": "l'exigence",
+     "definition": "le niveau élevé de ce qui est demandé",
+     "exemple": "Ce professeur a un haut niveau d'exigence."
+    },
+    {
+     "terme": "une moyenne",
+     "definition": "le résultat global de plusieurs notes",
+     "exemple": "Il a 12 de moyenne."
+    },
+    {
+     "terme": "acquis",
+     "definition": "obtenu, maîtrisé",
+     "exemple": "Les compétences acquises."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "gagner à",
+     "sens": "avoir intérêt à",
+     "exemple": "Ce texte gagnerait à être plus court."
+    },
+    {
+     "expression": "pas tant… que",
+     "sens": "moins… que",
+     "exemple": "Il n'est pas tant fatigué que découragé."
+    },
+    {
+     "expression": "pour autant",
+     "sens": "malgré cela",
+     "exemple": "Il a échoué, mais il n'abandonne pas pour autant."
+    }
+   ],
+   "traps": [
+    "L'auteur ne demande pas la suppression des notes.",
+    "Les deux positions du premier paragraphe ne sont pas les siennes.",
+    "Les pays cités ne notent pas « avant l'adolescence » seulement."
+   ]
+  },
+  {
+   "code": "CE-EDU-07",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Pourquoi le crédit d'impôt est-il critiqué ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Il est trop faible.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Il bénéficie surtout aux ménages qui paient des impôts, donc plus aisés.",
+       "correct": true,
+       "rationale": "« Le crédit d'impôt, qui profite surtout aux ménages imposables, renforce ce déséquilibre. »",
+       "label": "B"
+      },
+      {
+       "text": "Il finance l'école publique.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Il est réservé aux associations.",
+       "correct": false,
+       "rationale": "Ce n'est pas le cas.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La critique porte sur l'effet inégalitaire de la mesure."
+    },
+    {
+     "prompt": "Que révèle, selon les spécialistes, le succès des cours particuliers ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Une baisse de la compétition scolaire.",
+       "correct": false,
+       "rationale": "Elle augmente.",
+       "label": "A"
+      },
+      {
+       "text": "Une baisse du niveau des professeurs particuliers.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Un désintérêt des élèves.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Une inquiétude des parents et une moindre confiance dans l'école publique.",
+       "correct": true,
+       "rationale": "« Une perte de confiance envers l'école publique et une angoisse croissante des parents. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le verbe « traduire » signifie ici « révéler, exprimer »."
+    },
+    {
+     "prompt": "Que dit le texte des initiatives gratuites ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Elles sont interdites.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Elles coûtent très cher.",
+       "correct": false,
+       "rationale": "Elles sont gratuites.",
+       "label": "B"
+      },
+      {
+       "text": "Elles ont supprimé les inégalités.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Elles existent mais sont insuffisantes pour réduire les inégalités.",
+       "correct": true,
+       "rationale": "« Ces initiatives restent toutefois trop limitées pour compenser l'écart. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Toutefois » introduit la limite."
+    }
+   ],
+   "title": "Les cours particuliers, un marché florissant",
+   "document": "Le soutien scolaire privé représente un marché de plusieurs milliards d'euros par an. Mathématiques, langues, préparation aux examens : de plus en plus de familles paient des cours particuliers à leurs enfants, parfois dès l'école primaire. Une partie de ces dépenses donne droit à un crédit d'impôt, ce qui les rend plus abordables pour les ménages qui paient des impôts.\n\nCe développement inquiète les spécialistes de l'éducation. Il traduit selon eux une perte de confiance envers l'école publique et une angoisse croissante des parents face à la compétition scolaire. Surtout, il accentue les inégalités : les familles aisées peuvent offrir plusieurs heures de soutien par semaine, tandis que les autres n'en ont pas les moyens. Le crédit d'impôt, qui profite surtout aux ménages imposables, renforce ce déséquilibre.\n\nCertaines collectivités et associations proposent un accompagnement gratuit, assuré par des étudiants bénévoles ou rémunérés. Ces initiatives restent toutefois trop limitées pour compenser l'écart.",
+   "vocabulary": [
+    {
+     "terme": "florissant",
+     "definition": "qui prospère, se développe bien",
+     "exemple": "Un commerce florissant."
+    },
+    {
+     "terme": "un crédit d'impôt",
+     "definition": "une réduction d'impôt",
+     "exemple": "Les travaux donnent droit à un crédit d'impôt."
+    },
+    {
+     "terme": "imposable",
+     "definition": "qui doit payer l'impôt",
+     "exemple": "Les ménages imposables."
+    },
+    {
+     "terme": "accentuer",
+     "definition": "renforcer",
+     "exemple": "La crise accentue les difficultés."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "dès l'école primaire",
+     "sens": "depuis l'école primaire",
+     "exemple": "Il apprend l'anglais dès l'école primaire."
+    },
+    {
+     "expression": "avoir les moyens",
+     "sens": "avoir assez d'argent",
+     "exemple": "Ils n'ont pas les moyens de partir en vacances."
+    },
+    {
+     "expression": "compenser l'écart",
+     "sens": "combler la différence",
+     "exemple": "Ces aides ne compensent pas l'écart."
+    }
+   ],
+   "traps": [
+    "Le crédit d'impôt profite surtout aux ménages imposables.",
+    "Le texte ne critique pas les professeurs particuliers.",
+    "Les initiatives gratuites existent mais restent limitées."
+   ]
+  },
+  {
+   "code": "CE-EDU-08",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Quel est l'objectif des ateliers où les élèves créent une fausse information ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Tromper les enseignants.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "A"
+      },
+      {
+       "text": "Comprendre comment fonctionne la manipulation.",
+       "correct": true,
+       "rationale": "« Pour mieux comprendre les mécanismes de la manipulation. »",
+       "label": "B"
+      },
+      {
+       "text": "Diffuser des fausses nouvelles.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'objectif.",
+       "label": "C"
+      },
+      {
+       "text": "Apprendre le métier de journaliste.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Fabriquer soi-même permet de comprendre les procédés de l'intérieur."
+    },
+    {
+     "prompt": "Quelle observation les enseignants font-ils sur les adolescents ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Ils font confiance aux journaux uniquement.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "A"
+      },
+      {
+       "text": "Ils ne lisent aucune information.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Ils se méfient des médias traditionnels mais font davantage confiance à leur entourage.",
+       "correct": true,
+       "rationale": "« Méfiants envers les médias traditionnels, mais beaucoup moins envers les contenus partagés par leurs amis. »",
+       "label": "C"
+      },
+      {
+       "text": "Ils croient tout ce qu'ils lisent.",
+       "correct": false,
+       "rationale": "Ils sont méfiants envers certains médias.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Souvent jugés naïfs, sont en réalité… » corrige un préjugé."
+    },
+    {
+     "prompt": "Quel est le principal obstacle au développement de ces activités ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Leur absence de place officielle dans les programmes.",
+       "correct": true,
+       "rationale": "« Faute d'horaire spécifique dans les programmes, ces activités dépendent toutefois largement de la motivation des équipes. »",
+       "label": "A"
+      },
+      {
+       "text": "Le manque d'ordinateurs.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "L'opposition des parents.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Le refus des élèves.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Faute de » introduit la cause du problème."
+    }
+   ],
+   "title": "Apprendre à vérifier l'information dès le collège",
+   "document": "Face à la multiplication des fausses informations en ligne, l'éducation aux médias s'est imposée comme une priorité. Dans de nombreux collèges, des enseignants et des documentalistes apprennent aux élèves à identifier la source d'une information, à distinguer un fait d'une opinion, ou à repérer une image retouchée. Certains ateliers invitent même les élèves à fabriquer eux-mêmes une fausse information, pour mieux comprendre les mécanismes de la manipulation.\n\nLes enseignants constatent que les adolescents, souvent jugés naïfs, sont en réalité méfiants envers les médias traditionnels, mais beaucoup moins envers les contenus partagés par leurs amis ou par des personnalités qu'ils suivent. Le défi n'est donc pas de les rendre plus sceptiques, mais de leur apprendre à exercer leur esprit critique de manière équilibrée.\n\nFaute d'horaire spécifique dans les programmes, ces activités dépendent toutefois largement de la motivation des équipes. Les spécialistes plaident pour une formation systématique des enseignants et une place clairement définie dans l'emploi du temps.",
+   "vocabulary": [
+    {
+     "terme": "un documentaliste",
+     "definition": "la personne qui gère le centre de documentation d'un établissement",
+     "exemple": "Le documentaliste aide les élèves à chercher."
+    },
+    {
+     "terme": "retouché",
+     "definition": "modifié, souvent par ordinateur",
+     "exemple": "Une photo retouchée."
+    },
+    {
+     "terme": "sceptique",
+     "definition": "qui doute",
+     "exemple": "Il reste sceptique."
+    },
+    {
+     "terme": "systématique",
+     "definition": "qui s'applique toujours, de façon organisée",
+     "exemple": "Un contrôle systématique."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "s'imposer comme",
+     "sens": "devenir de façon évidente",
+     "exemple": "Elle s'est imposée comme la meilleure candidate."
+    },
+    {
+     "expression": "exercer son esprit critique",
+     "sens": "juger par soi-même avec réflexion",
+     "exemple": "Il faut exercer son esprit critique."
+    },
+    {
+     "expression": "de manière équilibrée",
+     "sens": "sans excès dans un sens ou dans l'autre",
+     "exemple": "Manger de manière équilibrée."
+    }
+   ],
+   "traps": [
+    "Les adolescents ne sont pas décrits comme naïfs.",
+    "L'objectif n'est pas de rendre les élèves plus méfiants envers tout.",
+    "Les activités existent mais dépendent de la motivation des équipes."
+   ]
+  }
+ ]
+}
