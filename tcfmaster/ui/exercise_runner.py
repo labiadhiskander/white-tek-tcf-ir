@@ -107,8 +107,59 @@ class ExerciseRunner(QWidget):
         lay.addWidget(disclaimer_label(
             "Quatre propositions, une seule bonne réponse. Les résultats sont des estimations "
             "pédagogiques, jamais des résultats officiels du TCF."))
+        self._audio_ex: int | None = None
+        self._connect_audio(True)
         self._show()
         self.timer.start()
+
+    # --------------------------------------------------------------- audio
+    def _connect_audio(self, on: bool) -> None:
+        if self.audio is None or not hasattr(self.audio, "preparing"):
+            return
+        pairs = ((self.audio.preparing, self._on_audio_preparing),
+                 (self.audio.started, self._on_audio_started),
+                 (self.audio.finished, self._on_audio_finished),
+                 (self.audio.failed, self._on_audio_failed))
+        for sig, slot in pairs:
+            if on:
+                sig.connect(slot)
+            else:
+                try:
+                    sig.disconnect(slot)
+                except (RuntimeError, TypeError):
+                    pass
+
+    def _audio_is_current(self) -> bool:
+        return self._audio_ex is not None and self._audio_ex == self.current_id
+
+    def _on_audio_preparing(self) -> None:
+        if self._audio_is_current():
+            self.play_btn.setEnabled(False)
+            self.play_info.setText("Préparation de l'audio… (la première fois seulement)")
+
+    def _on_audio_started(self) -> None:
+        if self._audio_is_current():
+            self.play_btn.setEnabled(False)
+            self.play_info.setText("Lecture en cours…")
+
+    def _on_audio_finished(self) -> None:
+        if self._audio_is_current():
+            self._update_play_info()
+
+    def _on_audio_failed(self, message: str) -> None:
+        ex_id = self._audio_ex
+        if ex_id is None:
+            return
+        # l'écoute n'a pas eu lieu : elle est rendue au candidat
+        self.plays[ex_id] = max(0, self.plays.get(ex_id, 1) - 1)
+        if ex_id == self.current_id:
+            self._update_play_info()
+            self.play_info.setText(f"⚠ {message}")
+            if self.mode == ES.MODE_TRAINING and ex_id not in self.locked:
+                with self.ctx.db.session() as s:
+                    doc = s.get(Exercise, ex_id).document
+                self.document.setPlainText(
+                    "Audio indisponible : lisez la transcription.\n\n" + doc)
 
     # ------------------------------------------------------------ affichage
     @property
@@ -186,11 +237,13 @@ class ExerciseRunner(QWidget):
         if self.mode == ES.MODE_EXAM and self.plays.get(self.current_id, 0) >= 1:
             return
         self.plays[self.current_id] = self.plays.get(self.current_id, 0) + 1
+        self._update_play_info()          # avant la lecture : un échec immédiat l'emporte
         if self.audio is not None:
+            self._audio_ex = self.current_id
             with self.ctx.db.session() as s:
                 ex = s.get(Exercise, self.current_id)
-                self.audio.play_text(ex.document, ex.speakers, ex.audio_file)
-        self._update_play_info()
+                doc, speakers, audio_file = ex.document, ex.speakers, ex.audio_file
+            self.audio.play_text(doc, speakers, audio_file)
 
     def _render_feedback(self, s, ex: Exercise) -> None:
         corr = C.correct_exercise(ex, {qid: self.answers.get(qid) for qid, _, _ in self.groups})
@@ -270,6 +323,7 @@ class ExerciseRunner(QWidget):
         self.timer.stop()
         if self.audio is not None:
             self.audio.stop()
+        self._connect_audio(False)
         with self.ctx.db.session() as s:
             COL.finish_series(s, s.get(Attempt, self.attempt_id))
         self.finished.emit(self.attempt_id)

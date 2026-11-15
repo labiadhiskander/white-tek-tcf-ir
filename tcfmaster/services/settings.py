@@ -24,7 +24,7 @@ DEFAULTS: dict[str, Any] = {
     "ai_model": "claude-opus-5-5",
     "ai_effort": "medium",             # low | medium | high
     "ai_consent": False,               # avertissement de confidentialité accepté
-    "tts_engine": "systeme",           # voix SAPI Windows / pyttsx3
+    "tts_engine": "auto",              # auto (Piper si installé) | piper | systeme (SAPI)
     "tts_rate": 170,
     "stt_engine": "local",             # moteur de reconnaissance vocale
     "stt_model_path": "",              # dossier d'un modèle Vosk personnalisé

@@ -2,11 +2,12 @@
 from __future__ import annotations
 
 from PySide6.QtCore import QThread, Signal
-from PySide6.QtWidgets import (QHBoxLayout, QLabel, QMessageBox, QProgressBar, QPushButton,
-                               QSpinBox)
+from PySide6.QtWidgets import (QComboBox, QHBoxLayout, QLabel, QMessageBox, QProgressBar,
+                               QPushButton, QSpinBox)
 
+from tcfmaster.services import piper_tts as PT
 from tcfmaster.services import settings as S
-from tcfmaster.services.wiring import pregenerate_all
+from tcfmaster.services.wiring import pregenerate_all, select_backend
 from tcfmaster.ui.widgets import Card
 
 SAMPLE = ("H: Bonjour, je voudrais un renseignement sur l'examen. / "
@@ -30,6 +31,30 @@ class _PregenThread(QThread):
         self.done.emit(ready, errors)
 
 
+class _PiperDownloadThread(QThread):
+    """Télécharge le programme Piper (si absent) puis la voix choisie."""
+    progressed = Signal(int, int)
+    done = Signal(str)           # message d'erreur, vide si succès
+
+    def __init__(self, paths, voice_key: str):
+        super().__init__()
+        self.paths, self.voice_key = paths, voice_key
+        self.cancelled = False
+
+    def run(self) -> None:
+        def cb(i, n):
+            self.progressed.emit(i, n)
+            return not self.cancelled
+        try:
+            if PT.find_piper([self.paths.piper_dir]) is None:
+                PT.install_piper(self.paths.piper_dir, cb)
+            PT.download_voice(self.voice_key, self.paths.voices_dir, cb)
+        except Exception as exc:   # réseau, disque, interruption…
+            self.done.emit(str(exc) or exc.__class__.__name__)
+            return
+        self.done.emit("")
+
+
 class AudioSettingsCard(Card):
     def __init__(self, ctx, parent=None):
         super().__init__("Voix et audio (compréhension orale)", parent)
@@ -38,6 +63,34 @@ class AudioSettingsCard(Card):
         self.engine_info = QLabel()
         self.engine_info.setWordWrap(True)
         self.lay.addWidget(self.engine_info)
+
+        erow = QHBoxLayout()
+        erow.addWidget(QLabel("Moteur de voix :"))
+        self.engine = QComboBox()
+        for key, label in PT.ENGINES.items():
+            self.engine.addItem(label, key)
+        self.engine.currentIndexChanged.connect(self._set_engine)
+        erow.addWidget(self.engine, 1)
+        self.lay.addLayout(erow)
+
+        self.piper_info = QLabel()
+        self.piper_info.setWordWrap(True)
+        self.piper_info.setOpenExternalLinks(True)
+        self.lay.addWidget(self.piper_info)
+        prow = QHBoxLayout()
+        self.piper_voice = QComboBox()
+        for v in PT.CATALOG:
+            self.piper_voice.addItem(f"{v.label} · {v.size_mb} Mo", v.key)
+        self.piper_voice.currentIndexChanged.connect(self._update_piper_info)
+        self.piper_btn = QPushButton("Télécharger cette voix")
+        self.piper_btn.clicked.connect(self._download_voice)
+        self.piper_remove = QPushButton("Supprimer")
+        self.piper_remove.clicked.connect(self._remove_voice)
+        prow.addWidget(self.piper_voice, 1)
+        prow.addWidget(self.piper_btn)
+        prow.addWidget(self.piper_remove)
+        self.lay.addLayout(prow)
+        self._dl: _PiperDownloadThread | None = None
 
         row = QHBoxLayout()
         row.addWidget(QLabel("Débit de la voix :"))
@@ -91,6 +144,11 @@ class AudioSettingsCard(Card):
             self.rate.blockSignals(True)
             self.rate.setValue(int(S.get(s, "tts_rate") or 170))
             self.rate.blockSignals(False)
+            engine = str(S.get(s, "tts_engine") or "auto")
+        self.engine.blockSignals(True)
+        self.engine.setCurrentIndex(max(0, self.engine.findData(engine)))
+        self.engine.blockSignals(False)
+        self._update_piper_info()
         gen = self.generator
         if gen is None or gen.backend is None:
             self.engine_info.setText(
@@ -119,6 +177,72 @@ class AudioSettingsCard(Card):
             + ("✔ hors ligne (Vosk)" if stt else
                "⚠ modèle français absent – téléchargez « vosk-model-small-fr-0.22 » sur "
                "alphacephei.com/vosk/models et indiquez son dossier ci-dessous."))
+
+    # ------------------------------------------------------------ Piper
+    def _installed_keys(self) -> set[str]:
+        return {p.stem for p in self.ctx.paths.voices_dir.glob("*.onnx")
+                if p.with_name(p.name + ".json").is_file()}
+
+    def _update_piper_info(self) -> None:
+        exe = PT.find_piper([self.ctx.paths.piper_dir])
+        keys = self._installed_keys()
+        entry = PT.CATALOG_BY_KEY.get(self.piper_voice.currentData())
+        state = ("✔ programme Piper installé" if exe else "programme Piper non installé "
+                 "(téléchargé automatiquement avec la première voix, ≈ 20 Mo)")
+        names = ", ".join(sorted(keys)) or "aucune"
+        card = (f" Avant de télécharger, consultez la <a href='{entry.card_url}'>fiche "
+                "de la voix</a> (jeu de données et licence).") if entry else ""
+        self.piper_info.setText(
+            "<b>Voix naturelles Piper</b> (gratuites, hors ligne, facultatives) : "
+            f"{state} · voix installées : {names}.{card}")
+        installed = entry is not None and entry.key in keys
+        self.piper_btn.setEnabled(self._dl is None and not installed)
+        self.piper_remove.setEnabled(installed)
+
+    def _apply_engine(self) -> None:
+        """Reconstruit le moteur de synthèse après un changement."""
+        if self.generator is not None:
+            self.generator.backend = select_backend(self.ctx)
+
+    def _set_engine(self, _i: int) -> None:
+        with self.ctx.db.session() as s:
+            S.set_(s, "tts_engine", self.engine.currentData())
+        self._apply_engine()
+        self.refresh()
+
+    def _download_voice(self) -> None:
+        if self._dl is not None:
+            self._dl.cancelled = True
+            return
+        key = self.piper_voice.currentData()
+        self._dl = _PiperDownloadThread(self.ctx.paths, key)
+        self._dl.progressed.connect(self._on_progress)
+        self._dl.done.connect(self._on_voice_done)
+        self.bar.setVisible(True)
+        self.piper_btn.setText("Interrompre le téléchargement")
+        self.piper_btn.setEnabled(True)
+        self._dl.start()
+
+    def _on_voice_done(self, error: str) -> None:
+        self._dl.wait()
+        self._dl = None
+        self.bar.setVisible(False)
+        self.piper_btn.setText("Télécharger cette voix")
+        if error:
+            QMessageBox.warning(self, "Voix Piper",
+                                f"Téléchargement impossible : {error}\n\nLes voix du "
+                                "système restent utilisées.")
+        else:
+            with self.ctx.db.session() as s:
+                if S.get(s, "tts_engine") == "systeme":
+                    S.set_(s, "tts_engine", "auto")
+            self._apply_engine()
+        self.refresh()
+
+    def _remove_voice(self) -> None:
+        PT.remove_voice(self.piper_voice.currentData(), self.ctx.paths.voices_dir)
+        self._apply_engine()
+        self.refresh()
 
     def _choose_model(self) -> None:
         from PySide6.QtWidgets import QFileDialog

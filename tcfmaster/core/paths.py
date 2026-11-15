@@ -62,6 +62,14 @@ class AppPaths:
         return self.data_root / "audio"
 
     @property
+    def piper_dir(self) -> Path:
+        return self.data_root / "piper"
+
+    @property
+    def voices_dir(self) -> Path:
+        return self.data_root / "voix"
+
+    @property
     def backups(self) -> Path:
         return self.data_root / "sauvegardes"
 
