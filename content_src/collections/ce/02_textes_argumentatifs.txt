@@ -1,0 +1,205 @@
+@slug ce-textes-argumentatifs
+@section CE
+@title Textes argumentatifs
+@order 2
+@description Essais et tribunes : repérer la thèse, les arguments, les exemples, les concessions et les connecteurs logiques.
+
+## CE-ARG-01 | essai
+TITRE: Éloge de l'ennui
+DOC: Nous vivons à l'époque où l'ennui est devenu l'ennemi public. Dans une file d'attente, dans les transports, au moindre temps mort, nous saisissons notre téléphone comme on se jette sur une bouée. Il faut, croit-on, que chaque minute soit utile ou distrayante. ¶ Pourtant, l'ennui a mauvaise réputation à tort. Les psychologues observent que les moments sans stimulation favorisent la rêverie, et que la rêverie est souvent le terreau de la créativité. C'est quand l'esprit n'est sollicité par rien qu'il commence à relier des idées éloignées. Combien de solutions sont apparues sous la douche ou pendant une promenade sans but ? ¶ On objectera que l'ennui prolongé peut devenir pénible, voire mener à la tristesse. C'est vrai, et il ne s'agit pas d'en faire un idéal. Mais entre l'ennui subi pendant des journées entières et quelques minutes de disponibilité mentale, il y a une différence de nature. Ce que nous perdons aujourd'hui, ce ne sont pas des heures d'ennui, ce sont ces petites pauses où la pensée vagabonde. Les réapprendre serait peut-être le plus simple des remèdes à notre fatigue collective.
+Q: Quelle est la thèse de l'auteur ? | argumentation
++ De courts moments d'ennui sont bénéfiques pour l'esprit. | « L'ennui a mauvaise réputation à tort » ; « ces petites pauses où la pensée vagabonde ».
+- Il faut s'ennuyer le plus souvent possible. | Il précise qu'« il ne s'agit pas d'en faire un idéal ».
+- Les téléphones rendent les gens plus créatifs. | Il suggère l'inverse.
+- L'ennui conduit toujours à la tristesse. | C'est une objection qu'il nuance.
+EXP: La thèse apparaît après « Pourtant », qui s'oppose à l'opinion commune décrite au début.
+Q: Quel rôle joue la question « Combien de solutions sont apparues sous la douche… ? » | argumentation
++ Elle sert d'exemple familier pour convaincre le lecteur. | Elle fait appel à l'expérience personnelle du lecteur pour illustrer le lien entre rêverie et créativité.
+- Elle demande une statistique précise. | C'est une question rhétorique, sans réponse attendue.
+- Elle introduit une objection. | L'objection vient au paragraphe suivant.
+- Elle critique les psychologues. | Elle prolonge au contraire leur observation.
+EXP: Une question rhétorique n'attend pas de réponse : elle implique le lecteur et rend l'argument plus vivant.
+Q: Comment l'auteur répond-il à l'objection du troisième paragraphe ? | argumentation
++ Il l'accepte en partie puis distingue deux formes d'ennui. | « C'est vrai… Mais entre l'ennui subi pendant des journées entières et quelques minutes de disponibilité mentale, il y a une différence de nature. »
+- Il la rejette totalement. | Il commence par dire « C'est vrai ».
+- Il change de sujet. | Il reste sur la question de l'ennui.
+- Il abandonne sa thèse. | Il la reformule en conclusion.
+EXP: La concession (« C'est vrai ») suivie d'une distinction (« Mais… ») est une stratégie typique de réfutation nuancée.
+VOCAB: un temps mort = un moment sans activité = Il profite des temps morts pour lire. ; le terreau = ce qui favorise le développement de quelque chose = La pauvreté est le terreau de la violence. ; vagabonder = errer sans but = Son esprit vagabondait pendant le cours. ; subi = imposé, non choisi = Le temps partiel subi touche surtout les femmes.
+EXPR: l'ennemi public = ce que tout le monde combat = Le gaspillage est devenu l'ennemi public. ; à tort = de façon injuste ou erronée = Il a été accusé à tort. ; une différence de nature = une différence fondamentale, pas seulement de degré = Entre un conseil et un ordre, il y a une différence de nature.
+PIEGES: Le premier paragraphe décrit l'opinion commune, pas celle de l'auteur. ; « On objectera que… » introduit un argument adverse. ; L'auteur ne défend pas l'ennui prolongé.
+
+## CE-ARG-02 | tribune
+TITRE: Faut-il interdire les voitures en centre-ville ?
+DOC: Chaque fois qu'une municipalité ferme une rue à la circulation, la même querelle éclate. D'un côté, les défenseurs de l'environnement saluent une victoire ; de l'autre, les commerçants prédisent leur ruine. Cette opposition caricaturale empêche de poser la vraie question : à quoi doit servir l'espace public ? ¶ Les études menées dans plusieurs villes européennes montrent que la piétonnisation, contrairement aux craintes, profite généralement au commerce. Un piéton s'arrête, regarde les vitrines, revient ; un automobiliste traverse. Encore faut-il que la mesure soit accompagnée : des transports en commun efficaces, des parkings aux entrées de la ville, des livraisons organisées. Sans cela, la fermeture d'une rue ne fait que déplacer les embouteillages vers les quartiers voisins. ¶ Il ne s'agit donc pas de choisir entre la voiture et la ville, mais de cesser de considérer la circulation automobile comme un droit absolu. Une rue n'est pas seulement un tuyau à voitures ; c'est un lieu où l'on vit, travaille et se rencontre.
+Q: Selon l'auteur, qu'est-ce qui empêche un vrai débat ? | argumentation
++ Une opposition simpliste entre deux camps. | « Cette opposition caricaturale empêche de poser la vraie question. »
+- Le manque d'études sur le sujet. | Il cite des études existantes.
+- Le refus des commerçants de s'exprimer. | Ils s'expriment en prédisant « leur ruine ».
+- L'absence de transports en commun. | C'est une condition de réussite, pas l'obstacle au débat.
+EXP: « Caricatural » signifie exagéré et simplifié ; l'auteur reproche aux deux camps de déformer la question.
+Q: Que montrent les études citées ? | compréhension détaillée
++ Les rues piétonnes sont en général favorables aux commerces. | « La piétonnisation, contrairement aux craintes, profite généralement au commerce. »
+- Les commerces ferment dans les rues piétonnes. | C'est la crainte qu'elles démentent.
+- Les automobilistes achètent davantage. | Le texte suggère l'inverse.
+- Les embouteillages disparaissent partout. | Ils peuvent se déplacer.
+EXP: « Contrairement aux craintes » oppose les résultats aux prédictions des commerçants.
+Q: Que signifie l'image du « tuyau à voitures » ? | implicite
++ Une rue ne doit pas être pensée uniquement pour faire circuler les véhicules. | « Une rue n'est pas seulement un tuyau à voitures ; c'est un lieu où l'on vit, travaille et se rencontre. »
+- Les rues doivent être plus larges. | Ce n'est pas le sens.
+- Il faut construire des tunnels. | C'est une métaphore.
+- Les voitures polluent les canalisations. | Lecture littérale erronée.
+EXP: La métaphore réduit la rue à une fonction de passage, pour mieux la critiquer.
+VOCAB: une querelle = une dispute, un désaccord vif = La querelle dure depuis des années. ; la piétonnisation = la transformation d'une rue en zone réservée aux piétons = La piétonnisation du centre a été votée. ; une vitrine = la façade vitrée d'un magasin = Elle regarde les vitrines. ; absolu = sans limite, sans exception = Ce n'est pas un droit absolu.
+EXPR: crier victoire / saluer une victoire = se réjouir d'un succès = Les écologistes saluent une victoire. ; prédire la ruine = annoncer une faillite = Les commerçants prédisent leur ruine. ; encore faut-il que = à condition que = Encore faut-il que les élèves comprennent.
+PIEGES: Le premier paragraphe présente les deux camps sans prendre parti. ; « Encore faut-il » introduit une condition, pas une opposition. ; L'auteur ne propose pas d'interdire totalement la voiture.
+
+## CE-ARG-03 | essai
+TITRE: La politesse est-elle dépassée ?
+DOC: On entend souvent dire que la politesse se perd. Les jeunes ne diraient plus bonjour, les courriels commenceraient sans formule, et chacun garderait les yeux rivés sur son écran. Ce constat, répété de génération en génération, mérite d'être examiné avec méfiance : Platon déplorait déjà l'insolence de la jeunesse. ¶ La politesse n'a pas disparu ; elle a changé de forme. Les conventions de l'écrit se sont simplifiées, mais de nouvelles règles sont apparues : on ne répond pas en majuscules, on ne transfère pas un message privé sans autorisation. Ces codes sont parfois plus exigeants que les anciens, car ils s'appliquent dans des situations où l'on est constamment visible. ¶ Reste que la politesse n'est pas qu'une affaire de formules. Elle repose sur l'attention portée à autrui : laisser parler, remercier, ne pas faire attendre. Sur ce point, ce n'est pas une génération qui est en cause, mais un mode de vie où la précipitation laisse peu de place aux égards. Si la politesse recule, c'est moins par mépris que par manque de temps.
+Q: Pourquoi l'auteur cite-t-il Platon ? | argumentation
++ Pour montrer que la plainte contre la jeunesse est très ancienne. | « Ce constat, répété de génération en génération… Platon déplorait déjà l'insolence de la jeunesse. »
+- Pour prouver que la politesse vient de Grèce. | Ce n'est pas le propos.
+- Pour soutenir que les jeunes sont insolents. | Il invite au contraire à la méfiance.
+- Pour introduire un débat philosophique. | C'est un simple exemple.
+EXP: L'exemple historique relativise une plainte présentée comme nouvelle.
+Q: Selon l'auteur, comment la politesse a-t-elle évolué ? | compréhension détaillée
++ De nouvelles règles sont apparues avec les outils numériques. | « On ne répond pas en majuscules, on ne transfère pas un message privé sans autorisation. »
+- Elle a totalement disparu. | « La politesse n'a pas disparu. »
+- Elle est devenue plus simple à respecter. | Les nouveaux codes sont « parfois plus exigeants ».
+- Elle ne concerne plus que l'écrit. | Le troisième paragraphe parle de l'attention à autrui.
+EXP: « Elle a changé de forme » résume l'idée d'une transformation plutôt que d'une disparition.
+Q: À quoi l'auteur attribue-t-il le recul de la politesse ? | synthèse
++ À un rythme de vie trop pressé. | « Un mode de vie où la précipitation laisse peu de place aux égards… par manque de temps. »
+- Au mépris des jeunes pour les adultes. | Il écarte le mépris.
+- À l'école, qui ne l'enseigne plus. | Ce n'est pas évoqué.
+- Aux réseaux sociaux uniquement. | Il parle d'un mode de vie en général.
+EXP: La structure « moins par… que par… » écarte une explication au profit d'une autre.
+VOCAB: rivé = fixé, attaché sans pouvoir s'en détacher = Il a les yeux rivés sur l'écran. ; déplorer = regretter, se plaindre de = Elle déplore le manque de moyens. ; l'insolence = le manque de respect = Son insolence a choqué le professeur. ; les égards = les marques de respect et d'attention = Il l'a traitée avec beaucoup d'égards.
+EXPR: avec méfiance = avec prudence, sans croire facilement = Il accueille ces promesses avec méfiance. ; reste que = il n'en demeure pas moins que = Reste que le problème n'est pas réglé. ; être en cause = être responsable = Ce n'est pas votre travail qui est en cause.
+PIEGES: Le conditionnel du premier paragraphe rapporte une opinion répandue, pas celle de l'auteur. ; « Reste que » introduit une nuance, pas une contradiction totale. ; L'auteur ne nie pas que la politesse recule ; il en change l'explication.
+
+## CE-ARG-04 | tribune
+TITRE: Pour un service civique obligatoire ?
+DOC: L'idée revient régulièrement dans le débat public : instaurer un service civique obligatoire de six mois pour tous les jeunes. Ses partisans y voient un moyen de renforcer la cohésion nationale, de faire se rencontrer des jeunes de milieux différents et de répondre aux besoins des associations, des hôpitaux ou des écoles. ¶ L'intention est louable, mais l'obligation pose problème. D'abord, un engagement imposé perd une partie de son sens : on ne fabrique pas de la solidarité par décret. Ensuite, accueillir chaque année près de 800 000 jeunes exigerait un encadrement considérable, que les structures concernées, déjà débordées, seraient bien incapables d'assurer. Enfin, retarder de six mois l'entrée dans les études ou dans l'emploi pénaliserait surtout ceux qui ont le moins de ressources. ¶ Le service civique volontaire existe déjà et fonctionne bien. Plutôt que de le rendre obligatoire, mieux vaudrait le rendre plus attractif : une meilleure indemnité, une reconnaissance dans les parcours d'études, des missions mieux préparées. On obtiendrait alors l'adhésion plutôt que la contrainte.
+Q: Quelle est la position de l'auteur ? | argumentation
++ Il est opposé à l'obligation mais favorable au développement du volontariat. | « L'obligation pose problème… mieux vaudrait le rendre plus attractif. »
+- Il est favorable au service civique obligatoire. | Il en critique l'obligation.
+- Il veut supprimer le service civique. | Il dit qu'il « fonctionne bien ».
+- Il n'exprime pas d'avis. | Sa position est claire.
+EXP: La concession « L'intention est louable, mais » annonce une critique.
+Q: Quel argument concerne les inégalités sociales ? | compréhension détaillée
++ Le retard d'entrée dans les études ou l'emploi nuirait surtout aux plus modestes. | « Pénaliserait surtout ceux qui ont le moins de ressources. »
+- Les associations manquent de bénévoles. | Ce n'est pas un argument sur les inégalités.
+- La solidarité ne se décrète pas. | C'est un argument de principe.
+- L'encadrement serait trop coûteux. | C'est un argument pratique.
+EXP: Les trois arguments sont annoncés par « D'abord », « Ensuite », « Enfin » : il faut identifier celui qui porte sur les inégalités.
+Q: Que signifie « on ne fabrique pas de la solidarité par décret » ? | implicite
++ Un engagement sincère ne peut pas être imposé par la loi. | La phrase suit « un engagement imposé perd une partie de son sens ».
+- Le gouvernement manque de décrets. | Lecture littérale erronée.
+- La solidarité est une industrie. | « Fabriquer » est employé au sens figuré.
+- Les jeunes refusent toute solidarité. | Ce n'est pas dit.
+EXP: Un décret est une décision officielle ; l'auteur oppose la contrainte légale à l'engagement volontaire.
+VOCAB: instaurer = établir, mettre en place = Le gouvernement a instauré une nouvelle taxe. ; la cohésion = l'union, la solidarité entre les membres d'un groupe = La cohésion de l'équipe est remarquable. ; louable = digne d'éloges = Son initiative est louable. ; une indemnité = une somme versée pour compenser = Les volontaires reçoivent une indemnité.
+EXPR: par décret = par une décision officielle du gouvernement = La mesure a été adoptée par décret. ; être débordé = avoir trop de travail = Les urgences sont débordées. ; obtenir l'adhésion = obtenir l'accord volontaire = Il a obtenu l'adhésion de toute l'équipe.
+PIEGES: Les avantages du premier paragraphe sont ceux des partisans. ; L'auteur ne critique pas le service civique, seulement son caractère obligatoire. ; « Mieux vaudrait » introduit sa proposition.
+
+## CE-ARG-05 | essai
+TITRE: Les classements, une passion trompeuse
+DOC: Meilleures universités, villes où il fait bon vivre, hôpitaux les plus performants : les classements envahissent les journaux et orientent nos choix. Ils séduisent parce qu'ils simplifient. Une liste numérotée semble offrir une réponse claire là où la réalité est confuse. ¶ Cette clarté est pourtant largement illusoire. Tout classement repose sur des critères choisis, pondérés, parfois discutables. Une université peut gagner dix places simplement parce que l'on accorde plus d'importance au nombre de publications qu'à la qualité de l'enseignement. Un hôpital spécialisé dans les cas difficiles affichera un taux de mortalité plus élevé qu'un établissement qui refuse les patients à risque. Le chiffre final masque ces choix. ¶ Il ne s'agit pas de rejeter tout classement : bien utilisés, ils peuvent révéler des écarts réels et stimuler les progrès. Mais il faudrait les lire comme on lit une carte, en sachant qu'elle n'est pas le territoire. Avant de se fier à un rang, demandons-nous toujours ce qui a été mesuré, et surtout ce qui ne l'a pas été.
+Q: Pourquoi les classements séduisent-ils, selon l'auteur ? | compréhension détaillée
++ Parce qu'ils donnent une impression de clarté. | « Ils séduisent parce qu'ils simplifient… semble offrir une réponse claire. »
+- Parce qu'ils sont toujours exacts. | L'auteur conteste leur exactitude.
+- Parce qu'ils sont réalisés par des experts. | Ce n'est pas dit.
+- Parce qu'ils sont gratuits. | Ce n'est pas évoqué.
+EXP: Le verbe « sembler » annonce déjà que cette clarté n'est qu'une apparence.
+Q: À quoi sert l'exemple de l'hôpital ? | argumentation
++ À montrer qu'un chiffre peut donner une image trompeuse. | Un hôpital qui accepte les cas difficiles « affichera un taux de mortalité plus élevé ».
+- À prouver que les hôpitaux sont dangereux. | Ce n'est pas le propos.
+- À critiquer les patients à risque. | Ce n'est pas le sens.
+- À recommander un hôpital particulier. | Aucun hôpital n'est nommé.
+EXP: Les deux exemples illustrent l'affirmation : « Le chiffre final masque ces choix. »
+Q: Que signifie la comparaison avec la carte et le territoire ? | implicite
++ Un classement est une représentation simplifiée de la réalité, pas la réalité elle-même. | « Il faudrait les lire comme on lit une carte, en sachant qu'elle n'est pas le territoire. »
+- Les classements doivent inclure des cartes géographiques. | Lecture littérale erronée.
+- Il faut voyager pour juger une ville. | Ce n'est pas le propos.
+- Les classements sont parfaitement fiables. | C'est l'inverse.
+EXP: Une carte est utile mais simplifie et choisit : de même, un classement aide sans tout dire.
+VOCAB: pondérer = donner un poids, une importance relative = Les notes sont pondérées par des coefficients. ; illusoire = qui n'est qu'une illusion = Cet espoir est illusoire. ; masquer = cacher = Ce sourire masque sa tristesse. ; un écart = une différence = L'écart entre riches et pauvres augmente.
+EXPR: il fait bon vivre = la vie y est agréable = Il fait bon vivre dans cette région. ; se fier à = faire confiance à = Ne te fie pas aux apparences. ; la carte n'est pas le territoire = une représentation n'est pas la réalité = Un modèle reste un modèle : la carte n'est pas le territoire.
+PIEGES: L'auteur ne rejette pas tous les classements. ; « Pourtant » introduit la critique après l'explication du succès. ; La dernière phrase insiste sur « ce qui ne l'a pas été » : ce qui n'est pas mesuré.
+
+## CE-ARG-06 | tribune
+TITRE: Le droit à l'erreur en entreprise
+DOC: Dans beaucoup d'entreprises, l'erreur reste une faute. Celui qui se trompe est blâmé, parfois publiquement, et apprend surtout une chose : la prochaine fois, mieux vaut cacher son erreur ou ne rien tenter. Cette culture de la peur a un coût considérable, même s'il n'apparaît dans aucun bilan comptable. ¶ Les secteurs où les erreurs peuvent être mortelles l'ont compris depuis longtemps. Dans l'aviation, les pilotes sont encouragés à signaler leurs propres incidents, sans risque de sanction lorsqu'ils agissent de bonne foi. Ces signalements alimentent une base de données qui permet de corriger les procédures avant qu'un accident ne survienne. Paradoxalement, c'est en acceptant l'erreur qu'on la rend plus rare. ¶ Instaurer un droit à l'erreur ne signifie pas tout tolérer. La négligence répétée ou la malhonnêteté doivent rester sanctionnées. Mais distinguer l'erreur commise en essayant de bien faire de la faute délibérée est la condition d'une organisation capable d'apprendre. Une entreprise où personne n'ose se tromper est une entreprise où personne n'ose innover.
+Q: Quelle conséquence de la culture de la peur l'auteur dénonce-t-il ? | compréhension détaillée
++ Les salariés dissimulent leurs erreurs ou cessent de prendre des initiatives. | « Mieux vaut cacher son erreur ou ne rien tenter. »
+- Les salariés quittent l'entreprise. | Ce n'est pas dit.
+- Les bilans comptables sont faux. | Le coût n'apparaît pas dans les bilans, ce qui est différent.
+- Les erreurs disparaissent. | Elles sont seulement cachées.
+EXP: La phrase « apprend surtout une chose » introduit l'effet pervers du blâme.
+Q: Pourquoi l'auteur cite-t-il l'exemple de l'aviation ? | argumentation
++ Pour montrer qu'accepter le signalement des erreurs améliore la sécurité. | « C'est en acceptant l'erreur qu'on la rend plus rare. »
+- Pour critiquer les pilotes. | Il valorise au contraire leur pratique.
+- Pour dire que les avions sont dangereux. | Ce n'est pas le propos.
+- Pour proposer de supprimer les sanctions dans tous les cas. | Il précise « lorsqu'ils agissent de bonne foi ».
+EXP: L'exemple d'un secteur exigeant renforce l'argument : si cela fonctionne là, cela peut fonctionner ailleurs.
+Q: Quelle limite l'auteur fixe-t-il au droit à l'erreur ? | argumentation
++ Les fautes volontaires ou la négligence répétée doivent être sanctionnées. | « La négligence répétée ou la malhonnêteté doivent rester sanctionnées. »
+- Aucune limite : tout doit être toléré. | Il dit le contraire.
+- Il ne s'applique qu'aux pilotes. | Il l'étend à toutes les entreprises.
+- Il ne concerne que les dirigeants. | Ce n'est pas dit.
+EXP: « Ne signifie pas tout tolérer » prévient une interprétation excessive de sa proposition.
+VOCAB: blâmer = reprocher, critiquer = Il a été blâmé par son supérieur. ; un incident = un événement imprévu, moins grave qu'un accident = Le vol s'est déroulé sans incident. ; délibéré = volontaire, intentionnel = C'était un mensonge délibéré. ; la négligence = le manque de soin ou d'attention = L'accident est dû à une négligence.
+EXPR: de bonne foi = sincèrement, sans intention de tromper = Il s'est trompé de bonne foi. ; avoir un coût = avoir des conséquences négatives = Ce silence a un coût. ; paradoxalement = de façon contraire à ce qu'on attendrait = Paradoxalement, il travaille mieux sous pression.
+PIEGES: Le coût de la peur « n'apparaît dans aucun bilan » : il existe mais n'est pas chiffré. ; Le droit à l'erreur n'est pas une absence totale de sanction. ; La dernière phrase lie erreur et innovation.
+
+## CE-ARG-07 | essai
+TITRE: Voyager moins, voyager mieux
+DOC: Jamais il n'a été aussi facile de voyager. Pour le prix d'un dîner, on peut traverser l'Europe en avion pour un week-end. Cette démocratisation du voyage est souvent présentée comme un progrès indiscutable : découvrir d'autres cultures, ne serait-ce que quelques jours, ouvrirait l'esprit. ¶ On peut pourtant douter que le tourisme de masse tienne cette promesse. Visiter une ville en quarante-huit heures, en suivant les mêmes itinéraires que des milliers d'autres touristes, c'est souvent consommer un décor plutôt que rencontrer un pays. Les habitants de Venise ou de Barcelone, chassés de leurs quartiers par la hausse des loyers, en savent quelque chose. ¶ Faut-il pour autant renoncer à voyager ? Certainement pas. Mais on pourrait voyager moins souvent et plus longtemps, privilégier le train, accepter la lenteur comme une partie du voyage plutôt que comme une perte de temps. Le voyage retrouverait alors ce qui faisait sa valeur : le dépaysement, la rencontre, et le temps nécessaire pour comprendre un peu l'ailleurs.
+Q: Quelle idée l'auteur remet-il en question ? | argumentation
++ Que voyager souvent et rapidement ouvre forcément l'esprit. | « On peut pourtant douter que le tourisme de masse tienne cette promesse. »
+- Que les voyages coûtent cher. | Il dit l'inverse.
+- Que le train est lent. | Il propose d'accepter cette lenteur.
+- Que les cultures étrangères sont intéressantes. | Il ne le conteste pas.
+EXP: Le conditionnel « ouvrirait l'esprit » signale déjà une opinion que l'auteur ne partage pas entièrement.
+Q: Que suggère l'évocation des habitants de Venise et de Barcelone ? | implicite
++ Le tourisme de masse a des conséquences négatives pour les populations locales. | « Chassés de leurs quartiers par la hausse des loyers. »
+- Ces villes refusent les touristes. | Ce n'est pas dit.
+- Les loyers ont baissé grâce au tourisme. | C'est l'inverse.
+- Les habitants voyagent beaucoup. | Ce n'est pas le sens.
+EXP: « En savent quelque chose » signifie qu'ils ont une expérience directe et douloureuse du problème.
+Q: Que propose l'auteur ? | synthèse
++ Des voyages moins fréquents, plus longs et plus lents. | « Voyager moins souvent et plus longtemps, privilégier le train, accepter la lenteur. »
+- L'interdiction des vols courts. | Il ne propose pas d'interdiction.
+- L'arrêt total des voyages. | « Certainement pas. »
+- Des week-ends plus nombreux. | C'est ce qu'il critique.
+EXP: La question « Faut-il pour autant renoncer à voyager ? » prévient une conclusion excessive avant la proposition.
+VOCAB: la démocratisation = le fait de rendre accessible à tous = La démocratisation de l'informatique. ; un itinéraire = un trajet suivi = Nous avons choisi un itinéraire touristique. ; le dépaysement = le changement agréable d'habitudes et de cadre = Ce voyage offre un vrai dépaysement. ; l'ailleurs = les lieux lointains, différents = Il rêve d'ailleurs.
+EXPR: ne serait-ce que = même seulement = Viens, ne serait-ce qu'une heure. ; en savoir quelque chose = avoir une expérience directe de = Les parents de jeunes enfants en savent quelque chose. ; pour autant = malgré cela = Il est riche, mais il n'est pas heureux pour autant.
+PIEGES: L'auteur ne condamne pas le voyage en soi. ; Le premier paragraphe présente une opinion répandue. ; « Consommer un décor » s'oppose à « rencontrer un pays ».
+
+## CE-ARG-08 | tribune
+TITRE: La gratuité, une fausse évidence
+DOC: Musées, transports, applications : la gratuité est souvent présentée comme la meilleure façon de rendre un service accessible à tous. Qui pourrait s'opposer à ce qui ne coûte rien ? ¶ La gratuité, pourtant, n'existe pas. Elle signifie seulement que le coût est payé par quelqu'un d'autre que l'usager. Pour un musée, c'est le contribuable ; pour une application, c'est souvent l'utilisateur lui-même, à travers ses données personnelles revendues à des annonceurs. Dans ce dernier cas, comme le résume une formule célèbre, si c'est gratuit, c'est que vous êtes le produit. ¶ Par ailleurs, la gratuité n'est pas toujours le moyen le plus juste d'élargir l'accès. Lorsque les musées nationaux sont devenus gratuits certains jours, ce sont surtout les visiteurs habitués qui en ont profité, pas ceux qui n'y allaient jamais. Ce qui retient ces derniers est moins le prix que le sentiment que ces lieux ne sont pas faits pour eux. Des tarifs adaptés aux revenus, accompagnés d'actions de médiation, seraient sans doute plus efficaces qu'une gratuité universelle.
+Q: Que veut dire l'auteur par « la gratuité n'existe pas » ? | implicite
++ Quelqu'un finit toujours par payer le coût du service. | « Elle signifie seulement que le coût est payé par quelqu'un d'autre que l'usager. »
+- Aucun musée n'est gratuit. | Ce n'est pas le sens.
+- Les applications sont toujours payantes. | Elles peuvent être gratuites pour l'usager.
+- Les contribuables ne paient rien. | Ils paient pour les musées.
+EXP: L'auteur explique immédiatement sa formule provocatrice.
+Q: Que montre l'exemple des musées gratuits ? | argumentation
++ La gratuité profite surtout à ceux qui fréquentaient déjà ces lieux. | « Ce sont surtout les visiteurs habitués qui en ont profité. »
+- Les musées perdent leurs visiteurs. | Ce n'est pas dit.
+- Tout le monde visite désormais les musées. | Les non-visiteurs ne sont pas venus.
+- Les musées ont fermé. | Ce n'est pas mentionné.
+EXP: L'exemple remet en cause l'idée que la gratuité suffit à attirer un nouveau public.
+Q: Quelle solution l'auteur préfère-t-il ? | synthèse
++ Des prix selon les revenus et un accompagnement du public. | « Des tarifs adaptés aux revenus, accompagnés d'actions de médiation. »
+- Une gratuité pour tous. | Il la juge moins efficace.
+- Une hausse générale des prix. | Ce n'est pas dit.
+- La fermeture des musées nationaux. | Ce n'est pas proposé.
+EXP: Le conditionnel « seraient » et « sans doute » montrent une proposition prudente.
+VOCAB: le contribuable = la personne qui paie des impôts = Le contribuable financera ce projet. ; un annonceur = une entreprise qui paie pour de la publicité = Les annonceurs financent la chaîne. ; universel = qui concerne tout le monde = Le suffrage universel. ; la médiation = l'action d'aider un public à accéder à quelque chose = La médiation culturelle vise les publics éloignés.
+EXPR: une fausse évidence = une idée qui semble vraie mais ne l'est pas = Que l'argent fasse le bonheur est une fausse évidence. ; vous êtes le produit = c'est vous, ou vos données, qui êtes vendus = Sur ce réseau gratuit, vous êtes le produit. ; ne pas être fait pour quelqu'un = ne pas lui convenir, ne pas lui être destiné = Il pense que l'opéra n'est pas fait pour lui.
+PIEGES: L'auteur ne dit pas que les musées doivent être chers. ; « Par ailleurs » introduit un second argument, indépendant du premier. ; Ce qui retient les non-visiteurs est surtout un sentiment d'exclusion, pas le prix.

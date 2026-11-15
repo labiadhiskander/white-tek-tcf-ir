@@ -1,0 +1,1178 @@
+{
+ "slug": "ce-debats-societe",
+ "section": "CE",
+ "title": "Débats de société",
+ "description": "Textes qui confrontent plusieurs points de vue : identifier les positions en présence, les arguments de chacun et l'avis de l'auteur.",
+ "order": 4,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CE-SOC-01",
+   "level": "B2",
+   "doc_type": "article de débat",
+   "questions": [
+    {
+     "prompt": "Quels effets les partisans de l'interdiction observent-ils ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Plus de calme et davantage d'échanges entre élèves.",
+       "correct": true,
+       "rationale": "« Des cours plus calmes et des récréations où les élèves se parlent à nouveau. »",
+       "label": "A"
+      },
+      {
+       "text": "Une meilleure maîtrise du numérique.",
+       "correct": false,
+       "rationale": "C'est l'objectif des opposants.",
+       "label": "B"
+      },
+      {
+       "text": "De meilleures notes aux examens.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Une hausse du harcèlement.",
+       "correct": false,
+       "rationale": "Ils constatent une baisse.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le premier paragraphe expose les résultats avancés par les partisans."
+    },
+    {
+     "prompt": "Que signifie la phrase « On n'apprend pas à nager en interdisant la piscine » ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les élèves doivent apprendre à nager.",
+       "correct": false,
+       "rationale": "C'est une image.",
+       "label": "A"
+      },
+      {
+       "text": "Le sport est plus important que le numérique.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "B"
+      },
+      {
+       "text": "On ne peut pas apprendre à bien utiliser un outil si on en est privé.",
+       "correct": true,
+       "rationale": "Elle illustre l'idée que l'école devrait « apprendre aux élèves à maîtriser leurs outils numériques ».",
+       "label": "C"
+      },
+      {
+       "text": "Il faut construire des piscines dans les collèges.",
+       "correct": false,
+       "rationale": "Lecture littérale erronée.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'analogie compare l'apprentissage de la natation à celui du numérique."
+    },
+    {
+     "prompt": "En quoi consiste la « troisième voie » ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Autoriser le téléphone partout.",
+       "correct": false,
+       "rationale": "Ce n'est pas le cas.",
+       "label": "A"
+      },
+      {
+       "text": "Interdire le téléphone pendant les pauses mais l'utiliser en classe dans un cadre précis.",
+       "correct": true,
+       "rationale": "« Interdire le téléphone pendant les pauses, mais l'utiliser en classe, ponctuellement, pour des activités encadrées. »",
+       "label": "B"
+      },
+      {
+       "text": "Interdire le téléphone même à la maison.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Supprimer les casiers.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Entre ces deux positions » annonce une solution de compromis."
+    }
+   ],
+   "title": "Faut-il interdire les téléphones à l'école ?",
+   "document": "Depuis la rentrée, les collégiens de plusieurs établissements doivent déposer leur téléphone dans un casier en arrivant le matin. Les partisans de la mesure se félicitent de cours plus calmes et de récréations où les élèves se parlent à nouveau. Certains enseignants constatent aussi une baisse du harcèlement en ligne pendant la journée.\n\nLes opposants ne contestent pas ces résultats, mais ils s'interrogent sur la logique de l'interdiction. Selon eux, l'école devrait apprendre aux élèves à maîtriser leurs outils numériques plutôt que de les en priver quelques heures, pour les leur rendre ensuite sans aucun accompagnement. « On n'apprend pas à nager en interdisant la piscine », résume un chercheur en sciences de l'éducation.\n\nEntre ces deux positions, une troisième voie se dessine dans certains collèges : interdire le téléphone pendant les pauses, mais l'utiliser en classe, ponctuellement, pour des activités encadrées, comme rechercher une information et en vérifier la fiabilité.",
+   "vocabulary": [
+    {
+     "terme": "un casier",
+     "definition": "un petit placard individuel qui ferme",
+     "exemple": "Il range ses affaires dans son casier."
+    },
+    {
+     "terme": "le harcèlement",
+     "definition": "des attaques répétées contre une personne",
+     "exemple": "Le harcèlement scolaire est puni."
+    },
+    {
+     "terme": "ponctuellement",
+     "definition": "de temps en temps, dans des cas précis",
+     "exemple": "Il travaille ponctuellement le samedi."
+    },
+    {
+     "terme": "la fiabilité",
+     "definition": "le fait de pouvoir avoir confiance",
+     "exemple": "Vérifiez la fiabilité de vos sources."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "se féliciter de",
+     "sens": "se réjouir de",
+     "exemple": "Le maire se félicite de ces résultats."
+    },
+    {
+     "expression": "une troisième voie",
+     "sens": "une solution intermédiaire",
+     "exemple": "Ils cherchent une troisième voie entre réforme et statu quo."
+    },
+    {
+     "expression": "se dessiner",
+     "sens": "commencer à apparaître",
+     "exemple": "Une solution se dessine."
+    }
+   ],
+   "traps": [
+    "Les opposants ne nient pas les effets positifs.",
+    "La « troisième voie » n'est pas l'avis de l'auteur mais une pratique observée.",
+    "L'interdiction concerne la journée scolaire, pas la vie à la maison."
+   ]
+  },
+  {
+   "code": "CE-SOC-02",
+   "level": "B2",
+   "doc_type": "article de débat",
+   "questions": [
+    {
+     "prompt": "Que recommandent les spécialistes des rythmes de l'enfant ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Une semaine de trois jours.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "La suppression du mercredi matin.",
+       "correct": false,
+       "rationale": "C'est le contraire : ils veulent cinq matinées.",
+       "label": "B"
+      },
+      {
+       "text": "Des journées plus longues.",
+       "correct": false,
+       "rationale": "Ils constatent que l'attention baisse en fin de journée.",
+       "label": "C"
+      },
+      {
+       "text": "Des journées plus courtes sur cinq matinées.",
+       "correct": true,
+       "rationale": "« Des journées plus courtes réparties sur cinq matinées seraient plus favorables aux apprentissages. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'argument repose sur la baisse de l'attention en fin de journée."
+    },
+    {
+     "prompt": "Pourquoi des familles et des enseignants préfèrent-ils le mercredi libre ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Pour réduire les frais de cantine.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que les écoles sont fermées le mercredi par la loi.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que les enfants dorment mal.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'argument.",
+       "label": "C"
+      },
+      {
+       "text": "Pour les activités extrascolaires et la préparation des cours.",
+       "correct": true,
+       "rationale": "« Permet les activités sportives ou artistiques… un temps de préparation précieux. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le connecteur « Mais » introduit les arguments opposés à ceux des spécialistes."
+    },
+    {
+     "prompt": "Quel problème pose la semaine de quatre jours et demi pour les communes ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Le manque d'enseignants.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "La fermeture des écoles le samedi.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Le coût des activités périscolaires, inégalement supporté.",
+       "correct": true,
+       "rationale": "« Ce que beaucoup de petites collectivités ne peuvent pas assumer… ce qui crée de nouvelles inégalités. »",
+       "label": "C"
+      },
+      {
+       "text": "Le refus des chronobiologistes.",
+       "correct": false,
+       "rationale": "Ils sont favorables à cette organisation.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Résultat » introduit la conséquence : des écarts entre territoires."
+    }
+   ],
+   "title": "La semaine scolaire de quatre jours",
+   "document": "Faut-il revenir à une semaine scolaire de quatre jours et demi à l'école primaire ? La question divise de nouveau parents, enseignants et chronobiologistes. Actuellement, une majorité de communes ont choisi la semaine de quatre jours, avec un mercredi libre.\n\nLes spécialistes des rythmes de l'enfant sont presque unanimes : des journées plus courtes réparties sur cinq matinées seraient plus favorables aux apprentissages, car l'attention des jeunes élèves baisse nettement en fin de journée. Mais de nombreuses familles tiennent au mercredi libéré, qui permet les activités sportives ou artistiques, et les enseignants y voient un temps de préparation précieux.\n\nLe débat est aussi financier. Les communes doivent organiser et payer des activités périscolaires lorsque les journées sont raccourcies, ce que beaucoup de petites collectivités ne peuvent pas assumer. Résultat : la qualité de ces activités varie fortement d'un territoire à l'autre, ce qui crée de nouvelles inégalités entre élèves.",
+   "vocabulary": [
+    {
+     "terme": "un chronobiologiste",
+     "definition": "un spécialiste des rythmes biologiques",
+     "exemple": "Les chronobiologistes étudient le sommeil."
+    },
+    {
+     "terme": "unanime",
+     "definition": "qui exprime le même avis, sans exception",
+     "exemple": "Le jury a été unanime."
+    },
+    {
+     "terme": "périscolaire",
+     "definition": "qui se passe autour du temps scolaire",
+     "exemple": "Les activités périscolaires ont lieu après la classe."
+    },
+    {
+     "terme": "assumer",
+     "definition": "prendre en charge",
+     "exemple": "La commune ne peut pas assumer ces frais."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "tenir à quelque chose",
+     "sens": "y être attaché",
+     "exemple": "Elle tient beaucoup à ce bijou."
+    },
+    {
+     "expression": "d'un territoire à l'autre",
+     "sens": "selon les régions",
+     "exemple": "Les prix varient d'un territoire à l'autre."
+    },
+    {
+     "expression": "presque unanimes",
+     "sens": "presque tous d'accord",
+     "exemple": "Les médecins sont presque unanimes."
+    }
+   ],
+   "traps": [
+    "Le débat porte sur le retour à quatre jours et demi, pas sur un passage à quatre jours.",
+    "Le conditionnel « seraient » présente l'avis des spécialistes.",
+    "Les inégalités viennent des moyens des communes, pas des familles."
+   ]
+  },
+  {
+   "code": "CE-SOC-03",
+   "level": "B2",
+   "doc_type": "article de débat",
+   "questions": [
+    {
+     "prompt": "En quoi consiste le consentement présumé ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Chacun est considéré comme donneur sauf refus exprimé.",
+       "correct": true,
+       "rationale": "« Toute personne décédée est considérée comme donneuse d'organes, sauf si elle a exprimé son refus de son vivant. »",
+       "label": "A"
+      },
+      {
+       "text": "Les médecins choisissent librement.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Les familles décident seules.",
+       "correct": false,
+       "rationale": "Ce n'est pas la règle officielle.",
+       "label": "C"
+      },
+      {
+       "text": "Seules les personnes inscrites peuvent donner.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Présumé » signifie supposé jusqu'à preuve du contraire."
+    },
+    {
+     "prompt": "Quel écart le texte souligne-t-il entre la loi et la pratique ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "La loi interdit de consulter les familles.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Les médecins tiennent compte de l'avis des familles même si la loi ne l'exige pas.",
+       "correct": true,
+       "rationale": "« Les équipes médicales consultent presque toujours les proches, et renoncent au prélèvement lorsque la famille s'y oppose. »",
+       "label": "B"
+      },
+      {
+       "text": "Le registre des refus n'existe pas.",
+       "correct": false,
+       "rationale": "Il est mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Les médecins prélèvent sans consulter personne.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Dans la pratique, pourtant » introduit la différence entre le principe et son application."
+    },
+    {
+     "prompt": "Que proposent certains pour réduire le taux d'opposition ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Supprimer le registre des refus.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Imposer le prélèvement malgré les familles.",
+       "correct": false,
+       "rationale": "Ce n'est pas leur proposition.",
+       "label": "B"
+      },
+      {
+       "text": "Rendre la loi plus stricte.",
+       "correct": false,
+       "rationale": "Ils veulent « plutôt que de modifier la loi ».",
+       "label": "C"
+      },
+      {
+       "text": "Encourager chacun à faire connaître ses choix à ses proches.",
+       "correct": true,
+       "rationale": "« Ils plaident pour encourager chacun à parler de ses choix avec ses proches. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'argument repose sur un constat : les familles informées s'opposent moins."
+    }
+   ],
+   "title": "Le don d'organes : consentement présumé ou explicite ?",
+   "document": "Dans de nombreux pays européens, toute personne décédée est considérée comme donneuse d'organes, sauf si elle a exprimé son refus de son vivant. Ce principe du consentement présumé vise à augmenter le nombre de greffes, alors que des milliers de patients attendent un organe.\n\nDans la pratique, pourtant, les équipes médicales consultent presque toujours les proches, et renoncent au prélèvement lorsque la famille s'y oppose, même si le défunt ne s'était jamais inscrit sur le registre des refus. Une partie des médecins défend cette prudence : imposer un prélèvement à une famille en deuil serait humainement insoutenable et nuirait à la confiance envers le système.\n\nD'autres soulignent que ce taux d'opposition, souvent proche d'un tiers, s'explique largement par l'ignorance des volontés du défunt. Plutôt que de modifier la loi, ils plaident pour encourager chacun à parler de ses choix avec ses proches. Une famille qui connaît la position de son parent s'y oppose beaucoup plus rarement.",
+   "vocabulary": [
+    {
+     "terme": "une greffe",
+     "definition": "l'opération qui remplace un organe malade",
+     "exemple": "Il a reçu une greffe de rein."
+    },
+    {
+     "terme": "le défunt",
+     "definition": "la personne décédée",
+     "exemple": "Les volontés du défunt ont été respectées."
+    },
+    {
+     "terme": "un prélèvement",
+     "definition": "le fait de retirer un organe ou un échantillon",
+     "exemple": "Un prélèvement sanguin."
+    },
+    {
+     "terme": "insoutenable",
+     "definition": "impossible à supporter",
+     "exemple": "Une douleur insoutenable."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "de son vivant",
+     "sens": "pendant sa vie",
+     "exemple": "Il était célèbre de son vivant."
+    },
+    {
+     "expression": "être en deuil",
+     "sens": "souffrir de la mort d'un proche",
+     "exemple": "La famille est en deuil."
+    },
+    {
+     "expression": "plaider pour",
+     "sens": "défendre une idée",
+     "exemple": "Elle plaide pour plus de transparence."
+    }
+   ],
+   "traps": [
+    "Le consentement présumé n'est pas toujours appliqué strictement.",
+    "« Un tiers » désigne le taux d'opposition des familles.",
+    "Les médecins prudents et les partisans du dialogue ne s'opposent pas totalement."
+   ]
+  },
+  {
+   "code": "CE-SOC-04",
+   "level": "B2",
+   "doc_type": "article de débat",
+   "questions": [
+    {
+     "prompt": "Quel est l'argument principal des associations de protection animale ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les cirques coûtent trop cher.",
+       "correct": false,
+       "rationale": "Ce n'est pas leur argument.",
+       "label": "A"
+      },
+      {
+       "text": "Les cirques ne paient pas d'impôts.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Les conditions de vie dans les cirques ne respectent pas les besoins des animaux.",
+       "correct": true,
+       "rationale": "« Ne peuvent pas vivre décemment dans des cages… vont à l'encontre de leurs comportements naturels. »",
+       "label": "C"
+      },
+      {
+       "text": "Les animaux sont dangereux pour le public.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'argument porte sur le bien-être animal."
+    },
+    {
+     "prompt": "Comment les professionnels répondent-ils à la question de la remise en liberté ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Les animaux, nés en captivité, ne pourraient pas survivre dans la nature.",
+       "correct": true,
+       "rationale": "« Ces animaux, nés en captivité, ne pourraient de toute façon pas être relâchés dans la nature. »",
+       "label": "A"
+      },
+      {
+       "text": "Ils proposent de relâcher tous les animaux.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "B"
+      },
+      {
+       "text": "Ils refusent de répondre.",
+       "correct": false,
+       "rationale": "Ils répondent clairement.",
+       "label": "C"
+      },
+      {
+       "text": "Ils disent que les animaux viennent de la nature.",
+       "correct": false,
+       "rationale": "Ils sont nés en captivité.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« De toute façon » signale un argument présenté comme incontestable."
+    },
+    {
+     "prompt": "Quelle solution plusieurs pays ont-ils adoptée ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Une interdiction immédiate sans aide.",
+       "correct": false,
+       "rationale": "Le texte parle de transition.",
+       "label": "A"
+      },
+      {
+       "text": "Une interdiction progressive avec un soutien à la transformation des spectacles.",
+       "correct": true,
+       "rationale": "« Une période de transition de plusieurs années, accompagnée d'aides à la reconversion des spectacles. »",
+       "label": "B"
+      },
+      {
+       "text": "L'autorisation totale des animaux.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "La fermeture de tous les cirques.",
+       "correct": false,
+       "rationale": "Les cirques peuvent continuer sans animaux.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le dernier paragraphe cherche une issue concrète au problème du devenir des animaux."
+    }
+   ],
+   "title": "Les animaux sauvages dans les cirques",
+   "document": "Plusieurs pays ont interdit la présence d'animaux sauvages dans les cirques itinérants, et la question revient régulièrement devant les parlements. Pour les associations de protection animale, la situation est claire : des lions, des éléphants ou des ours ne peuvent pas vivre décemment dans des cages transportées de ville en ville, et les dressages imposés vont à l'encontre de leurs comportements naturels.\n\nLes professionnels du cirque dénoncent une vision caricaturale. Ils affirment soigner leurs animaux avec attention, sous le contrôle de vétérinaires, et rappellent que ces animaux, nés en captivité, ne pourraient de toute façon pas être relâchés dans la nature. Une interdiction mettrait selon eux en péril des familles entières, pour qui le cirque est un métier transmis depuis plusieurs générations.\n\nReste la question du devenir des animaux en cas d'interdiction. Les refuges spécialisés sont peu nombreux et coûteux. Plusieurs pays ont donc prévu une période de transition de plusieurs années, accompagnée d'aides à la reconversion des spectacles vers des numéros sans animaux.",
+   "vocabulary": [
+    {
+     "terme": "itinérant",
+     "definition": "qui se déplace d'un lieu à l'autre",
+     "exemple": "Un spectacle itinérant."
+    },
+    {
+     "terme": "décemment",
+     "definition": "de façon convenable, digne",
+     "exemple": "Il faut pouvoir vivre décemment."
+    },
+    {
+     "terme": "la captivité",
+     "definition": "l'état d'un animal enfermé",
+     "exemple": "Ces oiseaux sont nés en captivité."
+    },
+    {
+     "terme": "un refuge",
+     "definition": "un lieu qui accueille des animaux abandonnés",
+     "exemple": "Il a adopté un chien dans un refuge."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "aller à l'encontre de",
+     "sens": "s'opposer à",
+     "exemple": "Cette décision va à l'encontre de nos valeurs."
+    },
+    {
+     "expression": "mettre en péril",
+     "sens": "mettre en danger",
+     "exemple": "La crise met en péril l'entreprise."
+    },
+    {
+     "expression": "de toute façon",
+     "sens": "quoi qu'il arrive",
+     "exemple": "De toute façon, il est trop tard."
+    }
+   ],
+   "traps": [
+    "Le texte ne prend pas parti : il expose les deux positions.",
+    "Les animaux de cirque sont nés en captivité.",
+    "La reconversion concerne les spectacles, pas les animaux."
+   ]
+  },
+  {
+   "code": "CE-SOC-05",
+   "level": "B2",
+   "doc_type": "article de débat",
+   "questions": [
+    {
+     "prompt": "Quel argument historique les défenseurs de l'écriture inclusive utilisent-ils ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Le point médian existe depuis le Moyen Âge.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Les femmes écrivaient moins autrefois.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Le français n'a jamais eu de féminin.",
+       "correct": false,
+       "rationale": "C'est faux.",
+       "label": "C"
+      },
+      {
+       "text": "La règle du masculin qui l'emporte est relativement récente.",
+       "correct": true,
+       "rationale": "« N'a été imposée qu'au XVIIe siècle. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'argument montre que la règle est une convention, et non une donnée naturelle de la langue."
+    },
+    {
+     "prompt": "Pourquoi le point médian est-il critiqué ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Il est interdit par la loi.",
+       "correct": false,
+       "rationale": "Seules « certaines administrations » l'ont interdit.",
+       "label": "A"
+      },
+      {
+       "text": "Il est trop ancien.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Il complique la lecture, notamment pour certaines personnes en situation de handicap.",
+       "correct": true,
+       "rationale": "« Rend les textes difficiles à lire, en particulier pour les personnes dyslexiques ou malvoyantes. »",
+       "label": "C"
+      },
+      {
+       "text": "Il ne concerne que les noms de métiers.",
+       "correct": false,
+       "rationale": "Ce n'est pas le cas.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'argument d'accessibilité est le principal reproche cité."
+    },
+    {
+     "prompt": "Que conclut le dernier paragraphe ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Les linguistes refusent la féminisation.",
+       "correct": false,
+       "rationale": "Elle est « largement acceptée ».",
+       "label": "A"
+      },
+      {
+       "text": "Le désaccord porte surtout sur certaines graphies, pas sur l'objectif d'égalité.",
+       "correct": true,
+       "rationale": "« Le débat se concentre donc sur quelques outils graphiques, et non sur le principe même. »",
+       "label": "B"
+      },
+      {
+       "text": "Le point médian est devenu obligatoire.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "L'écriture inclusive est rejetée par tous.",
+       "correct": false,
+       "rationale": "La féminisation des métiers est acceptée.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Donc » introduit la conclusion qui relativise l'ampleur du désaccord."
+    }
+   ],
+   "title": "L'écriture inclusive divise",
+   "document": "L'écriture inclusive, qui vise à rendre visibles les femmes dans la langue, continue de susciter des débats passionnés. Ses défenseurs rappellent que la règle selon laquelle « le masculin l'emporte sur le féminin » n'a été imposée qu'au XVIIe siècle et qu'elle contribue à invisibiliser les femmes. Ils proposent de nommer les deux genres (« les lectrices et les lecteurs ») ou d'utiliser des termes neutres (« le lectorat »).\n\nLes critiques portent surtout sur une forme particulière : le point médian, comme dans « les lecteur·rice·s ». Pour ses opposants, cette graphie rend les textes difficiles à lire, en particulier pour les personnes dyslexiques ou malvoyantes qui utilisent des logiciels de lecture vocale. Certaines administrations ont d'ailleurs choisi de l'interdire dans leurs documents officiels.\n\nBeaucoup de linguistes invitent à distinguer les procédés. La féminisation des noms de métiers (« autrice », « cheffe ») est aujourd'hui largement acceptée. Le débat se concentre donc sur quelques outils graphiques, et non sur le principe même d'une langue plus équitable.",
+   "vocabulary": [
+    {
+     "terme": "invisibiliser",
+     "definition": "rendre invisible, faire oublier",
+     "exemple": "Ce vocabulaire invisibilise certaines catégories."
+    },
+    {
+     "terme": "le point médian",
+     "definition": "le point placé à mi-hauteur entre deux lettres",
+     "exemple": "Le point médian sépare les terminaisons."
+    },
+    {
+     "terme": "dyslexique",
+     "definition": "qui a des difficultés à lire",
+     "exemple": "Les élèves dyslexiques ont besoin d'aide."
+    },
+    {
+     "terme": "équitable",
+     "definition": "juste",
+     "exemple": "Un partage équitable."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "l'emporter sur",
+     "sens": "être plus fort que, dominer",
+     "exemple": "La raison l'a emporté sur la colère."
+    },
+    {
+     "expression": "susciter des débats",
+     "sens": "provoquer des discussions",
+     "exemple": "Cette loi suscite des débats."
+    },
+    {
+     "expression": "largement accepté",
+     "sens": "accepté par la plupart",
+     "exemple": "Ce principe est largement accepté."
+    }
+   ],
+   "traps": [
+    "L'interdiction concerne seulement certaines administrations.",
+    "Les critiques visent surtout le point médian.",
+    "La féminisation des métiers n'est plus vraiment débattue selon le texte."
+   ]
+  },
+  {
+   "code": "CE-SOC-06",
+   "level": "B2",
+   "doc_type": "article de débat",
+   "questions": [
+    {
+     "prompt": "Sur quoi les promoteurs du projet s'appuient-ils ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Sur l'influence de la publicité sur les enfants et la hausse de l'obésité.",
+       "correct": true,
+       "rationale": "« Les enfants exposés à ces publicités réclament davantage ces produits… la hausse inquiétante de l'obésité infantile. »",
+       "label": "A"
+      },
+      {
+       "text": "Sur le refus des parents.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Sur le prix élevé des aliments sains.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Sur la demande des chaînes de télévision.",
+       "correct": false,
+       "rationale": "Les chaînes s'y opposent.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Deux appuis : des études sur le comportement et un constat sanitaire."
+    },
+    {
+     "prompt": "Quel argument économique les chaînes avancent-elles ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Les fabricants paient trop d'impôts.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'argument.",
+       "label": "A"
+      },
+      {
+       "text": "Les enfants n'aiment pas la publicité.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Les programmes coûtent peu cher.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "La publicité permet de financer les émissions pour enfants.",
+       "correct": true,
+       "rationale": "« La publicité finance une large part des programmes pour la jeunesse. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'argument est complété par une mise en garde : moins de recettes, moins d'émissions."
+    },
+    {
+     "prompt": "Quelle faiblesse les spécialistes trouvent-ils au projet ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Il ne concerne que la télévision alors que les enfants regardent surtout Internet.",
+       "correct": true,
+       "rationale": "« Une loi limitée à la télévision risquerait donc de manquer sa cible. »",
+       "label": "A"
+      },
+      {
+       "text": "Il oublie les parents.",
+       "correct": false,
+       "rationale": "Ce n'est pas leur critique principale.",
+       "label": "B"
+      },
+      {
+       "text": "Il est trop sévère.",
+       "correct": false,
+       "rationale": "Ils veulent au contraire l'étendre.",
+       "label": "C"
+      },
+      {
+       "text": "Il interdit les fruits.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Manquer sa cible » signifie ne pas atteindre son objectif."
+    }
+   ],
+   "title": "Faut-il limiter la publicité pour les enfants ?",
+   "document": "Un projet de loi propose d'interdire la publicité pour les produits trop sucrés ou trop gras pendant les émissions destinées aux enfants. Ses promoteurs s'appuient sur les études qui montrent que les enfants exposés à ces publicités réclament davantage ces produits, et sur la hausse inquiétante de l'obésité infantile.\n\nLes fabricants et les chaînes de télévision s'y opposent. Ils estiment que la responsabilité de l'alimentation revient d'abord aux parents, et que la publicité finance une large part des programmes pour la jeunesse. Sans ces recettes, préviennent-ils, la qualité et la quantité des émissions destinées aux enfants diminueraient.\n\nLes spécialistes de santé publique jugent ces arguments peu convaincants. Ils rappellent que la plupart des enfants regardent aujourd'hui des vidéos sur Internet, où la publicité ciblée échappe en grande partie à la réglementation. Une loi limitée à la télévision risquerait donc de manquer sa cible. Selon eux, il faudrait étendre l'interdiction à tous les écrans, et accompagner la mesure d'une éducation nutritionnelle dès l'école.",
+   "vocabulary": [
+    {
+     "terme": "réclamer",
+     "definition": "demander avec insistance",
+     "exemple": "L'enfant réclame des bonbons."
+    },
+    {
+     "terme": "l'obésité",
+     "definition": "un excès important de poids",
+     "exemple": "L'obésité augmente dans le monde."
+    },
+    {
+     "terme": "ciblé",
+     "definition": "destiné à un public précis",
+     "exemple": "Une publicité ciblée."
+    },
+    {
+     "terme": "nutritionnel",
+     "definition": "qui concerne l'alimentation",
+     "exemple": "Les conseils nutritionnels."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "revenir à quelqu'un",
+     "sens": "être de sa responsabilité",
+     "exemple": "Cette décision revient au directeur."
+    },
+    {
+     "expression": "manquer sa cible",
+     "sens": "ne pas atteindre son but",
+     "exemple": "Cette campagne a manqué sa cible."
+    },
+    {
+     "expression": "échapper à",
+     "sens": "ne pas être soumis à",
+     "exemple": "Ce secteur échappe aux contrôles."
+    }
+   ],
+   "traps": [
+    "Les spécialistes ne sont pas opposés au projet : ils le jugent insuffisant.",
+    "« Préviennent-ils » rapporte une mise en garde des chaînes.",
+    "L'éducation nutritionnelle est un complément, pas une alternative."
+   ]
+  },
+  {
+   "code": "CE-SOC-07",
+   "level": "B2",
+   "doc_type": "article de débat",
+   "questions": [
+    {
+     "prompt": "Pourquoi les forces de l'ordre sont-elles favorables à cette technologie ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Elle ne commet jamais d'erreur.",
+       "correct": false,
+       "rationale": "Les opposants affirment le contraire.",
+       "label": "A"
+      },
+      {
+       "text": "Elle aiderait à retrouver des suspects ou des personnes disparues.",
+       "correct": true,
+       "rationale": "« Un outil précieux pour retrouver des suspects ou des personnes disparues. »",
+       "label": "B"
+      },
+      {
+       "text": "Elle coûte moins cher que les policiers.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Elle est interdite dans les aéroports.",
+       "correct": false,
+       "rationale": "Elle y est déjà utilisée.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'exemple des aéroports sert à montrer que la technologie existe déjà."
+    },
+    {
+     "prompt": "Quel risque de « glissement » les opposants redoutent-ils ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Que les aéroports ferment.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Que les caméras tombent en panne.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "B"
+      },
+      {
+       "text": "Que l'outil, prévu pour des cas rares, finisse par servir à une surveillance générale.",
+       "correct": true,
+       "rationale": "« Un dispositif installé pour des cas exceptionnels pourrait progressivement servir à contrôler des manifestations ou à suivre les déplacements de chacun. »",
+       "label": "C"
+      },
+      {
+       "text": "Que les policiers refusent de l'utiliser.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Un « glissement » désigne ici une extension progressive d'un usage au-delà de son but initial."
+    },
+    {
+     "prompt": "Que prévoit le cadre européen ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Une obligation pour toutes les villes.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Une interdiction de principe avec quelques exceptions encadrées.",
+       "correct": true,
+       "rationale": "« Interdit en principe l'identification en temps réel… sauf exceptions strictement encadrées. »",
+       "label": "B"
+      },
+      {
+       "text": "Une autorisation totale.",
+       "correct": false,
+       "rationale": "C'est une interdiction de principe.",
+       "label": "C"
+      },
+      {
+       "text": "Une interdiction sans aucune exception.",
+       "correct": false,
+       "rationale": "Des exceptions sont prévues.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« En principe » et « sauf » indiquent une règle générale et ses limites."
+    }
+   ],
+   "title": "La reconnaissance faciale dans l'espace public",
+   "document": "Plusieurs villes envisagent d'équiper leurs caméras de surveillance de logiciels de reconnaissance faciale, capables d'identifier automatiquement une personne recherchée dans une foule. Les forces de l'ordre y voient un outil précieux pour retrouver des suspects ou des personnes disparues, et soulignent que la technologie est déjà utilisée dans certains aéroports.\n\nLes défenseurs des libertés publiques s'inquiètent d'une surveillance généralisée. Ils rappellent que ces systèmes commettent encore des erreurs, plus fréquentes pour certaines catégories de population, et que l'on risque d'arrêter des innocents. Surtout, ils redoutent un glissement : un dispositif installé pour des cas exceptionnels pourrait progressivement servir à contrôler des manifestations ou à suivre les déplacements de chacun.\n\nLe Parlement européen a adopté un cadre restrictif, qui interdit en principe l'identification en temps réel dans l'espace public, sauf exceptions strictement encadrées comme la recherche d'enfants disparus ou la prévention d'une menace terroriste imminente. Reste à savoir comment ces exceptions seront contrôlées.",
+   "vocabulary": [
+    {
+     "terme": "un suspect",
+     "definition": "une personne soupçonnée",
+     "exemple": "Le suspect a été arrêté."
+    },
+    {
+     "terme": "les libertés publiques",
+     "definition": "les droits fondamentaux des citoyens",
+     "exemple": "La liberté de manifester est une liberté publique."
+    },
+    {
+     "terme": "imminent",
+     "definition": "qui va arriver très bientôt",
+     "exemple": "Un danger imminent."
+    },
+    {
+     "terme": "restrictif",
+     "definition": "qui limite",
+     "exemple": "Une réglementation restrictive."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "en temps réel",
+     "sens": "au moment même",
+     "exemple": "Suivre les résultats en temps réel."
+    },
+    {
+     "expression": "reste à savoir",
+     "sens": "la question qui demeure est",
+     "exemple": "Reste à savoir qui paiera."
+    },
+    {
+     "expression": "strictement encadré",
+     "sens": "soumis à des règles précises",
+     "exemple": "L'usage des drones est strictement encadré."
+    }
+   ],
+   "traps": [
+    "Les erreurs touchent plus certaines catégories de population : c'est un argument des opposants.",
+    "Le cadre européen n'interdit pas tout.",
+    "La dernière phrase exprime un doute sur le contrôle."
+   ]
+  },
+  {
+   "code": "CE-SOC-08",
+   "level": "B2",
+   "doc_type": "article de débat",
+   "questions": [
+    {
+     "prompt": "Que révèlent les sondages cités ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Même des personnes non concernées jugent ces impôts injustes.",
+       "correct": true,
+       "rationale": "« Y compris parmi ceux qui ne les paieront jamais, puisque la plupart des héritages sont exonérés. »",
+       "label": "A"
+      },
+      {
+       "text": "Les Français souhaitent une hausse de ces impôts.",
+       "correct": false,
+       "rationale": "Une majorité les juge injustes.",
+       "label": "B"
+      },
+      {
+       "text": "Tous les héritages sont fortement taxés.",
+       "correct": false,
+       "rationale": "La plupart sont exonérés.",
+       "label": "C"
+      },
+      {
+       "text": "Les économistes sont tous opposés à la réforme.",
+       "correct": false,
+       "rationale": "Plusieurs la défendent.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Y compris » souligne le caractère surprenant de cette opposition."
+    },
+    {
+     "prompt": "Quel argument les partisans d'une hausse avancent-ils ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "La baisse des impôts sur le travail.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "La suppression de tous les héritages.",
+       "correct": false,
+       "rationale": "Ils visent les « très gros héritages ».",
+       "label": "B"
+      },
+      {
+       "text": "L'égalité des chances entre jeunes qui héritent et ceux qui n'héritent pas.",
+       "correct": true,
+       "rationale": "« Un argument d'égalité des chances… financer l'éducation ou la formation des jeunes qui n'héritent de rien. »",
+       "label": "C"
+      },
+      {
+       "text": "La protection de la maison familiale.",
+       "correct": false,
+       "rationale": "C'est le compromis proposé.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'idée est que la richesse héritée pèse plus que le travail dans le parcours de chacun."
+    },
+    {
+     "prompt": "Que propose le compromis évoqué à la fin ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Taxer également tous les héritages.",
+       "correct": false,
+       "rationale": "Ce n'est pas proposé.",
+       "label": "A"
+      },
+      {
+       "text": "Supprimer totalement les droits de succession.",
+       "correct": false,
+       "rationale": "Ce n'est pas le compromis.",
+       "label": "B"
+      },
+      {
+       "text": "Taxer uniquement la maison familiale.",
+       "correct": false,
+       "rationale": "Elle serait au contraire allégée.",
+       "label": "C"
+      },
+      {
+       "text": "Taxer moins les petits héritages et davantage les gros.",
+       "correct": true,
+       "rationale": "« Alléger la fiscalité des héritages modestes… tout en relevant fortement celle des plus importants. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Tout en » relie deux actions simultanées et complémentaires."
+    }
+   ],
+   "title": "L'héritage : taxer davantage ?",
+   "document": "Faut-il augmenter les droits de succession ? La proposition, défendue par plusieurs économistes, suscite une forte opposition dans l'opinion. Selon les sondages, une large majorité des Français juge ces impôts injustes, y compris parmi ceux qui ne les paieront jamais, puisque la plupart des héritages sont exonérés.\n\nLes partisans d'une hausse avancent un argument d'égalité des chances. Dans une société où les patrimoines se concentrent, la richesse dépend de plus en plus de ce que l'on reçoit de ses parents et de moins en moins de son travail. Taxer davantage les très gros héritages permettrait de financer l'éducation ou la formation des jeunes qui n'héritent de rien.\n\nLes opposants y voient une atteinte au droit de transmettre le fruit d'une vie de travail à ses enfants, et dénoncent une double imposition, puisque les biens transmis ont souvent déjà été taxés. Certains économistes proposent un compromis : alléger la fiscalité des héritages modestes, notamment la maison familiale, tout en relevant fortement celle des plus importants.",
+   "vocabulary": [
+    {
+     "terme": "les droits de succession",
+     "definition": "l'impôt payé sur un héritage",
+     "exemple": "Les droits de succession dépendent du lien de parenté."
+    },
+    {
+     "terme": "exonéré",
+     "definition": "dispensé de payer un impôt",
+     "exemple": "Les petits revenus sont exonérés."
+    },
+    {
+     "terme": "le patrimoine",
+     "definition": "l'ensemble des biens d'une personne",
+     "exemple": "Son patrimoine immobilier est important."
+    },
+    {
+     "terme": "alléger",
+     "definition": "rendre moins lourd",
+     "exemple": "Alléger les charges des entreprises."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "l'égalité des chances",
+     "sens": "le fait que chacun ait les mêmes possibilités au départ",
+     "exemple": "L'école doit garantir l'égalité des chances."
+    },
+    {
+     "expression": "le fruit d'une vie de travail",
+     "sens": "ce qu'on a gagné en travaillant toute sa vie",
+     "exemple": "Cette maison est le fruit d'une vie de travail."
+    },
+    {
+     "expression": "une double imposition",
+     "sens": "le fait de taxer deux fois la même chose",
+     "exemple": "Les opposants dénoncent une double imposition."
+    }
+   ],
+   "traps": [
+    "La plupart des héritages ne paient pas d'impôt.",
+    "Les partisans visent les très gros héritages seulement.",
+    "Le compromis est proposé par certains économistes, pas par le gouvernement."
+   ]
+  }
+ ]
+}
