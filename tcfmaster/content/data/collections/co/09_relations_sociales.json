@@ -1,0 +1,1175 @@
+{
+ "slug": "co-relations-sociales",
+ "section": "CO",
+ "title": "Relations sociales",
+ "description": "Famille, amitié, voisinage, solidarité et vie en société : conversations, conseils et témoignages.",
+ "order": 9,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CO-REL-01",
+   "level": "B2",
+   "doc_type": "conversation",
+   "questions": [
+    {
+     "prompt": "Quelle est la source du bruit ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "La guitare électrique du fils aîné tard le soir.",
+       "correct": true,
+       "rationale": "« Mon fils aîné répète avec sa guitare électrique » ; « la musique, tard dans la nuit ».",
+       "label": "A"
+      },
+      {
+       "text": "Les jeux des jeunes enfants.",
+       "correct": false,
+       "rationale": "« Ce n'est pas vraiment les enfants. »",
+       "label": "B"
+      },
+      {
+       "text": "Une télévision trop forte.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Des travaux dans l'appartement.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La voisine corrige l'hypothèse du voisin (« Ce n'est pas vraiment… c'est plutôt… »). La réponse est confirmée par lui ensuite."
+    },
+    {
+     "prompt": "Comment la voisine aborde-t-elle le problème ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "En exigeant que la guitare soit vendue.",
+       "correct": false,
+       "rationale": "Elle propose une limite horaire.",
+       "label": "A"
+      },
+      {
+       "text": "Avec politesse, sans agressivité, en cherchant une solution.",
+       "correct": true,
+       "rationale": "« Excusez-moi de vous déranger », « je ne vous accuse de rien », « Est-ce qu'on pourrait trouver un arrangement ? »",
+       "label": "B"
+      },
+      {
+       "text": "En se plaignant directement au syndic.",
+       "correct": false,
+       "rationale": "Elle vient parler directement au voisin.",
+       "label": "C"
+      },
+      {
+       "text": "En menaçant d'appeler la police.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les formules de politesse et la proposition d'« arrangement » montrent une démarche conciliante."
+    },
+    {
+     "prompt": "Que préfère le voisin pour l'avenir ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Que le syndic intervienne.",
+       "correct": false,
+       "rationale": "Il veut éviter le syndic.",
+       "label": "A"
+      },
+      {
+       "text": "Que la voisine déménage.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Que les problèmes soient réglés entre eux, sans intermédiaire.",
+       "correct": true,
+       "rationale": "« Je préfère que vous me le disiez directement plutôt que d'en arriver au syndic. »",
+       "label": "C"
+      },
+      {
+       "text": "Que la voisine ne revienne plus.",
+       "correct": false,
+       "rationale": "Il l'invite à frapper si ça recommence.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Plutôt que d'en arriver à » suggère qu'il veut éviter une escalade du conflit."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Un conflit de voisinage",
+   "context": "Deux voisins discutent dans l'escalier de leur immeuble.",
+   "document": "F: Bonsoir Monsieur Garnier. Excusez-moi de vous déranger, je voulais vous parler du bruit le soir. / H: Ah… Mes enfants font trop de bruit, c'est ça ? / F: Ce n'est pas vraiment les enfants, c'est plutôt la musique, tard dans la nuit, surtout le week-end. Je travaille très tôt le samedi, et je dors mal en ce moment. / H: Je ne me rendais pas compte que ça s'entendait autant. Mon fils aîné répète avec sa guitare électrique, et les murs sont vraiment fins dans cet immeuble. / F: Je m'en doute, je ne vous accuse de rien. Est-ce qu'on pourrait trouver un arrangement ? Par exemple qu'il arrête vers vingt-deux heures ? / H: C'est tout à fait raisonnable. Je vais lui en parler ce soir. Et n'hésitez pas à frapper chez nous si ça recommence, je préfère que vous me le disiez directement plutôt que d'en arriver au syndic.",
+   "vocabulary": [
+    {
+     "terme": "le syndic",
+     "definition": "la personne ou la société qui gère un immeuble en copropriété",
+     "exemple": "Le syndic a convoqué une réunion."
+    },
+    {
+     "terme": "un arrangement",
+     "definition": "un accord à l'amiable",
+     "exemple": "Nous avons trouvé un arrangement."
+    },
+    {
+     "terme": "aîné",
+     "definition": "le plus âgé des enfants",
+     "exemple": "Son fils aîné a vingt ans."
+    },
+    {
+     "terme": "répéter",
+     "definition": "s'entraîner (musique, théâtre)",
+     "exemple": "Le groupe répète tous les jeudis."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "se rendre compte",
+     "sens": "prendre conscience",
+     "exemple": "Je ne me rendais pas compte de l'heure."
+    },
+    {
+     "expression": "je m'en doute",
+     "sens": "je l'imagine bien",
+     "exemple": "Tu es fatigué ? Je m'en doute."
+    },
+    {
+     "expression": "en arriver à",
+     "sens": "finir par (une situation extrême)",
+     "exemple": "Ils en sont arrivés à ne plus se parler."
+    }
+   ]
+  },
+  {
+   "code": "CO-REL-02",
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "questions": [
+    {
+     "prompt": "Quelle découverte récente la chroniqueuse présente-t-elle ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Les personnes âgées ne souffrent plus de solitude.",
+       "correct": false,
+       "rationale": "Elle dit que c'est « vrai en partie ».",
+       "label": "A"
+      },
+      {
+       "text": "Les jeunes adultes sont presque autant touchés par la solitude que les personnes âgées.",
+       "correct": true,
+       "rationale": "« Les jeunes adultes… sont aujourd'hui presque aussi concernés. »",
+       "label": "B"
+      },
+      {
+       "text": "La solitude a disparu grâce aux réseaux sociaux.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Les jeunes ont moins de contacts en ligne.",
+       "correct": false,
+       "rationale": "Ils n'ont « jamais été aussi connectés ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "« On pourrait croire que… C'est vrai en partie, mais… » corrige une idée reçue."
+    },
+    {
+     "prompt": "Quelle distinction les spécialistes font-ils ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "La solitude est plus grave que l'isolement.",
+       "correct": false,
+       "rationale": "Il n'y a pas de hiérarchie.",
+       "label": "A"
+      },
+      {
+       "text": "L'isolement est volontaire, la solitude subie.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "La solitude concerne les jeunes et l'isolement les personnes âgées.",
+       "correct": false,
+       "rationale": "Ce n'est pas la distinction faite.",
+       "label": "C"
+      },
+      {
+       "text": "L'isolement est mesurable, la solitude est un ressenti personnel.",
+       "correct": true,
+       "rationale": "« L'isolement, qui se mesure au nombre de relations, et la solitude, qui est un sentiment. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les deux relatives définissent chaque terme. L'exemple « on peut être entouré et se sentir profondément seul » illustre la différence."
+    },
+    {
+     "prompt": "Comment la chroniqueuse juge-t-elle la nomination d'un adjoint contre la solitude ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Comme une mesure inutile.",
+       "correct": false,
+       "rationale": "Elle lui reconnaît un mérite.",
+       "label": "A"
+      },
+      {
+       "text": "Comme la solution définitive au problème.",
+       "correct": false,
+       "rationale": "Elle la qualifie de « symbolique, peut-être ».",
+       "label": "B"
+      },
+      {
+       "text": "Comme une dépense excessive.",
+       "correct": false,
+       "rationale": "Le coût n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Comme un geste peut-être symbolique mais utile pour reconnaître le problème.",
+       "correct": true,
+       "rationale": "« Une initiative symbolique, peut-être, mais qui a le mérite de reconnaître le problème comme un enjeu collectif. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Avoir le mérite de » souligne un aspect positif malgré une limite. La concession « peut-être, mais » nuance le jugement."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "title": "La solitude, un mal moderne ?",
+   "document": "F: Plus de onze millions de personnes déclarent souffrir de solitude dans notre pays. On pourrait croire que ce phénomène touche surtout les personnes âgées. C'est vrai en partie, mais les études récentes montrent que les jeunes adultes de dix-huit à vingt-cinq ans sont aujourd'hui presque aussi concernés. Paradoxalement, ils n'ont jamais été aussi connectés. Mais avoir des centaines de contacts en ligne ne remplace pas une conversation où l'on se sent écouté. Les spécialistes distinguent d'ailleurs l'isolement, qui se mesure au nombre de relations, et la solitude, qui est un sentiment : on peut être entouré et se sentir profondément seul. Face à ce constat, certaines villes ont nommé un adjoint chargé de la lutte contre la solitude. Une initiative symbolique, peut-être, mais qui a le mérite de reconnaître le problème comme un enjeu collectif.",
+   "vocabulary": [
+    {
+     "terme": "l'isolement",
+     "definition": "le fait d'être séparé des autres",
+     "exemple": "L'isolement géographique pèse sur ce village."
+    },
+    {
+     "terme": "entouré",
+     "definition": "qui a des proches autour de soi",
+     "exemple": "Elle est très entourée par sa famille."
+    },
+    {
+     "terme": "un adjoint",
+     "definition": "(municipal) un élu qui assiste le maire",
+     "exemple": "L'adjoint à la culture a inauguré l'exposition."
+    },
+    {
+     "terme": "un enjeu",
+     "definition": "ce qui est en jeu, une question importante",
+     "exemple": "L'éducation est un enjeu majeur."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "avoir le mérite de",
+     "sens": "présenter l'avantage de",
+     "exemple": "Cette proposition a le mérite d'être claire."
+    },
+    {
+     "expression": "en partie",
+     "sens": "partiellement",
+     "exemple": "C'est en partie vrai."
+    },
+    {
+     "expression": "paradoxalement",
+     "sens": "de façon apparemment contradictoire",
+     "exemple": "Paradoxalement, il était plus calme après la nouvelle."
+    }
+   ]
+  },
+  {
+   "code": "CO-REL-03",
+   "level": "B2",
+   "doc_type": "interview",
+   "questions": [
+    {
+     "prompt": "Quel conseil la thérapeute donne-t-elle au beau-parent ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Remplacer le parent absent.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Éviter tout contact avec l'enfant.",
+       "correct": false,
+       "rationale": "Elle conseille de construire une relation.",
+       "label": "B"
+      },
+      {
+       "text": "Ne pas imposer son autorité trop tôt et privilégier la confiance.",
+       "correct": true,
+       "rationale": "« Laisser le parent biologique gérer la discipline au début, et de construire d'abord une relation de confiance. »",
+       "label": "C"
+      },
+      {
+       "text": "Imposer rapidement des règles strictes.",
+       "correct": false,
+       "rationale": "Il serait alors « rejeté ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "La conséquence négative (« il sera rejeté ») justifie le conseil introduit par « Mon conseil, c'est… »."
+    },
+    {
+     "prompt": "Que dit-elle des relations entre les enfants des deux familles ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Ils doivent s'aimer dès le premier jour.",
+       "correct": false,
+       "rationale": "Elle dit de ne pas forcer l'affection.",
+       "label": "A"
+      },
+      {
+       "text": "Il faut les séparer.",
+       "correct": false,
+       "rationale": "Ce n'est pas conseillé.",
+       "label": "B"
+      },
+      {
+       "text": "Ils deviennent toujours frères et sœurs.",
+       "correct": false,
+       "rationale": "« C'est très variable. »",
+       "label": "C"
+      },
+      {
+       "text": "On ne peut pas obliger à l'affection, mais on peut demander le respect.",
+       "correct": true,
+       "rationale": "« Il ne faut surtout pas forcer l'affection. En revanche, on peut exiger le respect. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« En revanche » oppose deux attentes : l'affection, qu'on ne peut pas imposer, et le respect, qu'on peut exiger."
+    },
+    {
+     "prompt": "Quel message final la thérapeute transmet-elle ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Les familles recomposées échouent souvent.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Les rituels sont inutiles.",
+       "correct": false,
+       "rationale": "Elle dit qu'ils aident beaucoup.",
+       "label": "B"
+      },
+      {
+       "text": "Les enfants s'adaptent très vite.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "La construction d'une famille recomposée demande beaucoup de patience.",
+       "correct": true,
+       "rationale": "« Il faut accepter que cela prenne des années, pas des semaines. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'opposition « des années, pas des semaines » insiste sur la durée nécessaire."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "Les familles recomposées",
+   "context": "Un journaliste interroge une thérapeute familiale.",
+   "document": "H: Aujourd'hui, près d'un enfant sur dix vit dans une famille recomposée. Quelles sont les principales difficultés ? / F: La première, c'est souvent la place du beau-parent. Il arrive avec l'envie de bien faire, mais l'enfant ne l'a pas choisi. S'il veut imposer son autorité trop vite, il sera rejeté. Mon conseil, c'est de laisser le parent biologique gérer la discipline au début, et de construire d'abord une relation de confiance. / H: Et entre les enfants des deux familles ? / F: C'est très variable. Certains deviennent comme frères et sœurs, d'autres se tolèrent à peine. Il ne faut surtout pas forcer l'affection. En revanche, on peut exiger le respect. Ce qui aide beaucoup, ce sont les rituels communs : un repas du dimanche, une activité partagée. Avec le temps, une histoire commune se construit. Mais il faut accepter que cela prenne des années, pas des semaines.",
+   "vocabulary": [
+    {
+     "terme": "une famille recomposée",
+     "definition": "une famille composée d'un couple et d'enfants nés d'unions précédentes",
+     "exemple": "Ils forment une famille recomposée avec cinq enfants."
+    },
+    {
+     "terme": "un beau-parent",
+     "definition": "le conjoint du père ou de la mère",
+     "exemple": "Son beau-père l'a élevé."
+    },
+    {
+     "terme": "biologique",
+     "definition": "(parent) lié par la naissance",
+     "exemple": "Il a retrouvé son père biologique."
+    },
+    {
+     "terme": "un rituel",
+     "definition": "une habitude régulière à valeur symbolique",
+     "exemple": "Le repas du dimanche est un rituel familial."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "avoir l'envie de bien faire",
+     "sens": "vouloir sincèrement réussir",
+     "exemple": "Il a l'envie de bien faire, mais il manque d'expérience."
+    },
+    {
+     "expression": "se tolérer à peine",
+     "sens": "se supporter difficilement",
+     "exemple": "Ces deux collègues se tolèrent à peine."
+    },
+    {
+     "expression": "forcer l'affection",
+     "sens": "obliger quelqu'un à aimer",
+     "exemple": "On ne peut pas forcer l'affection d'un enfant."
+    }
+   ]
+  },
+  {
+   "code": "CO-REL-04",
+   "level": "B2",
+   "doc_type": "reportage",
+   "questions": [
+    {
+     "prompt": "Quels sont les engagements de l'étudiant ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Faire le ménage et les courses.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Partager des repas et assurer une présence la nuit en échange d'un faible loyer.",
+       "correct": true,
+       "rationale": "« Il s'engage à dîner avec elle trois soirs par semaine et à être présent la nuit. »",
+       "label": "B"
+      },
+      {
+       "text": "Payer un loyer élevé.",
+       "correct": false,
+       "rationale": "Le loyer est « très modeste ».",
+       "label": "C"
+      },
+      {
+       "text": "Donner des soins médicaux.",
+       "correct": false,
+       "rationale": "« L'étudiant n'est ni infirmier ni aide-soignant. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« En échange de » présente une contrepartie. Les engagements sont précisés après « il s'engage à »."
+    },
+    {
+     "prompt": "Comment Yanis perçoit-il la cohabitation ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Comme un échange enrichissant pour les deux.",
+       "correct": true,
+       "rationale": "Il trouve Monique « passionnante » et elle l'aide pour ses dissertations.",
+       "label": "A"
+      },
+      {
+       "text": "Comme une contrainte pesante.",
+       "correct": false,
+       "rationale": "C'était sa crainte au début, démentie ensuite.",
+       "label": "B"
+      },
+      {
+       "text": "Comme un emploi rémunéré.",
+       "correct": false,
+       "rationale": "Ce n'est pas un emploi.",
+       "label": "C"
+      },
+      {
+       "text": "Comme une solution temporaire en attendant mieux.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Au début, j'avais un peu peur… Mais… » oppose la crainte initiale à l'expérience réelle."
+    },
+    {
+     "prompt": "Sur quel point l'association insiste-t-elle ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les étudiants doivent avoir étudié la médecine.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "L'étudiant ne remplace pas un professionnel de l'aide aux personnes âgées.",
+       "correct": true,
+       "rationale": "« Ce n'est pas un service d'aide à domicile. L'étudiant n'est ni infirmier ni aide-soignant. »",
+       "label": "B"
+      },
+      {
+       "text": "La colocation doit durer au moins cinq ans.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Les personnes âgées doivent payer l'étudiant.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'association définit la colocation par la négative (« ce n'est pas… ni… ni… ») avant de dire ce qu'elle est : « une présence et un échange »."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "La colocation entre générations",
+   "context": "Reportage sur un programme qui met en relation des étudiants et des personnes âgées.",
+   "document": "F: Monique, quatre-vingt-quatre ans, vit seule dans un grand appartement depuis la mort de son mari. Depuis septembre, elle partage son logement avec Yanis, étudiant en droit. En échange d'un loyer très modeste, il s'engage à dîner avec elle trois soirs par semaine et à être présent la nuit. / H: Au début, j'avais un peu peur que ce soit pesant. Mais Monique est passionnante. Elle a été institutrice pendant quarante ans, elle a des histoires incroyables. Et elle m'aide pour mes dissertations, elle connaît la grammaire mieux que moi ! / F: L'association qui organise ces colocations insiste sur un point : ce n'est pas un service d'aide à domicile. L'étudiant n'est ni infirmier ni aide-soignant. Il s'agit d'une présence et d'un échange. Les deux parties signent une charte qui précise les engagements de chacun, pour éviter les malentendus.",
+   "vocabulary": [
+    {
+     "terme": "une colocation",
+     "definition": "le partage d'un logement entre plusieurs personnes",
+     "exemple": "Il vit en colocation avec deux amis."
+    },
+    {
+     "terme": "pesant",
+     "definition": "lourd, difficile à supporter",
+     "exemple": "L'ambiance était pesante."
+    },
+    {
+     "terme": "une institutrice",
+     "definition": "une enseignante d'école primaire",
+     "exemple": "L'institutrice apprend à lire aux enfants."
+    },
+    {
+     "terme": "une charte",
+     "definition": "un document qui fixe des règles et des engagements",
+     "exemple": "Chaque membre signe la charte."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "en échange de",
+     "sens": "en contrepartie de",
+     "exemple": "Il garde les enfants en échange d'un repas."
+    },
+    {
+     "expression": "les deux parties",
+     "sens": "les deux personnes ou groupes concernés par un accord",
+     "exemple": "Les deux parties ont signé le contrat."
+    },
+    {
+     "expression": "éviter les malentendus",
+     "sens": "prévenir les erreurs de compréhension",
+     "exemple": "Précisez l'heure pour éviter les malentendus."
+    }
+   ]
+  },
+  {
+   "code": "CO-REL-05",
+   "level": "B2",
+   "doc_type": "débat radiophonique",
+   "questions": [
+    {
+     "prompt": "Quel est l'argument principal du député ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Remplacer le service militaire.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Aider financièrement les associations.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Réduire le chômage des jeunes.",
+       "correct": false,
+       "rationale": "Ce n'est pas son argument.",
+       "label": "C"
+      },
+      {
+       "text": "Favoriser le mélange entre jeunes de milieux sociaux différents.",
+       "correct": true,
+       "rationale": "« Permettrait aux jeunes de tous les milieux de se rencontrer… Ce brassage social est essentiel. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le constat (« des mondes séparés ») justifie l'objectif (« brassage social »)."
+    },
+    {
+     "prompt": "Pourquoi la représentante associative s'oppose-t-elle à l'obligation ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Elle pense que les jeunes ne veulent pas s'engager.",
+       "correct": false,
+       "rationale": "Elle dit que la demande dépasse l'offre.",
+       "label": "A"
+      },
+      {
+       "text": "Elle estime que l'engagement doit être un choix et que les associations ne pourraient pas accueillir tous ces jeunes.",
+       "correct": true,
+       "rationale": "« L'engagement, par définition, doit être volontaire… les associations n'ont pas les moyens d'encadrer des centaines de milliers de jeunes. »",
+       "label": "B"
+      },
+      {
+       "text": "Elle rejette l'idée de mixité sociale.",
+       "correct": false,
+       "rationale": "Elle juge l'objectif « louable ».",
+       "label": "C"
+      },
+      {
+       "text": "Elle veut supprimer le service civique.",
+       "correct": false,
+       "rationale": "Elle veut le revaloriser.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« L'objectif est louable, mais… » : elle partage le but mais conteste le moyen, avec deux arguments (principe et faisabilité)."
+    },
+    {
+     "prompt": "Que propose-t-elle à la place ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Réserver le service civique aux étudiants.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Supprimer l'indemnité.",
+       "correct": false,
+       "rationale": "Elle veut la revaloriser.",
+       "label": "B"
+      },
+      {
+       "text": "Rendre le service civique plus attractif.",
+       "correct": true,
+       "rationale": "« Plutôt que de contraindre, donnons envie : revalorisons l'indemnité, reconnaissons le service civique dans les études. »",
+       "label": "C"
+      },
+      {
+       "text": "Réduire le nombre de missions.",
+       "correct": false,
+       "rationale": "La demande dépasse déjà l'offre.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Plutôt que de… » oppose contrainte et incitation. La dernière phrase montre que l'obligation est inutile puisque les volontaires ne manquent pas."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "Faut-il rendre le service civique obligatoire ?",
+   "context": "Débat entre un député et une représentante d'une association de jeunesse.",
+   "document": "H: Un service civique obligatoire de six mois permettrait aux jeunes de tous les milieux de se rencontrer. Aujourd'hui, les enfants de cadres et les enfants d'ouvriers vivent dans des mondes séparés. Ce brassage social est essentiel pour la cohésion du pays. / F: L'objectif est louable, mais l'obligation me pose problème. L'engagement, par définition, doit être volontaire. Un jeune qu'on force à aider dans une association risque d'y aller à reculons, et les associations n'ont pas les moyens d'encadrer des centaines de milliers de jeunes démotivés. / H: Beaucoup de jeunes découvrent l'engagement justement parce qu'on les y a poussés. / F: Je ne dis pas le contraire. Mais plutôt que de contraindre, donnons envie : revalorisons l'indemnité, reconnaissons le service civique dans les études et les recrutements. Aujourd'hui, la demande dépasse déjà l'offre de missions.",
+   "vocabulary": [
+    {
+     "terme": "le service civique",
+     "definition": "un engagement volontaire des jeunes au service de l'intérêt général",
+     "exemple": "Elle fait un service civique dans une école."
+    },
+    {
+     "terme": "le brassage",
+     "definition": "le mélange de personnes différentes",
+     "exemple": "Le brassage culturel enrichit la ville."
+    },
+    {
+     "terme": "la cohésion",
+     "definition": "l'union, la solidarité d'un groupe",
+     "exemple": "La cohésion de l'équipe est forte."
+    },
+    {
+     "terme": "louable",
+     "definition": "digne d'éloges",
+     "exemple": "C'est une intention louable."
+    },
+    {
+     "terme": "revaloriser",
+     "definition": "augmenter la valeur ou le montant de",
+     "exemple": "Les salaires ont été revalorisés."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "aller à reculons",
+     "sens": "faire quelque chose sans en avoir envie",
+     "exemple": "Il va au travail à reculons."
+    },
+    {
+     "expression": "je ne dis pas le contraire",
+     "sens": "je suis d'accord sur ce point",
+     "exemple": "Tu as raison, je ne dis pas le contraire."
+    },
+    {
+     "expression": "donner envie",
+     "sens": "inciter, motiver",
+     "exemple": "Ce film donne envie de voyager."
+    }
+   ]
+  },
+  {
+   "code": "CO-REL-06",
+   "level": "B2",
+   "doc_type": "message personnel",
+   "questions": [
+    {
+     "prompt": "Pourquoi Camille appelle-t-elle Léa ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Pour la féliciter pour son nouveau travail.",
+       "correct": false,
+       "rationale": "Elle s'excuse d'une remarque déplacée.",
+       "label": "A"
+      },
+      {
+       "text": "Pour s'excuser de son comportement lors d'un dîner.",
+       "correct": true,
+       "rationale": "« Je voulais m'excuser pour samedi. Je sais que j'ai été désagréable pendant le dîner. »",
+       "label": "B"
+      },
+      {
+       "text": "Pour lui demander de l'aide pour trouver un emploi.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Pour annuler un rendez-vous.",
+       "correct": false,
+       "rationale": "Elle propose au contraire un café.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'objet de l'appel est annoncé dès le début : « je t'appelle parce que… »."
+    },
+    {
+     "prompt": "Comment Camille explique-t-elle sa réaction ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Par un désaccord ancien.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Par un malentendu.",
+       "correct": false,
+       "rationale": "Elle reconnaît sa faute.",
+       "label": "B"
+      },
+      {
+       "text": "Par la fatigue.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Par un sentiment de jalousie lié à sa propre insatisfaction professionnelle.",
+       "correct": true,
+       "rationale": "« J'étais un peu jalouse : tu as trouvé un poste qui te plaît, alors que moi, je suis coincée dans un boulot qui m'ennuie. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Alors que » oppose la situation de Léa et celle de Camille, ce qui explique la jalousie."
+    },
+    {
+     "prompt": "Quelle attitude Camille adopte-t-elle à la fin du message ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Elle propose une rencontre tout en respectant le besoin éventuel de recul de son amie.",
+       "correct": true,
+       "rationale": "« J'aimerais beaucoup qu'on prenne un café… Et si tu as besoin d'un peu de temps, je comprendrai aussi. »",
+       "label": "A"
+      },
+      {
+       "text": "Elle justifie entièrement sa remarque.",
+       "correct": false,
+       "rationale": "« Ce n'est pas une excuse. »",
+       "label": "B"
+      },
+      {
+       "text": "Elle met fin à leur amitié.",
+       "correct": false,
+       "rationale": "Elle veut préserver leur amitié.",
+       "label": "C"
+      },
+      {
+       "text": "Elle exige une réponse immédiate.",
+       "correct": false,
+       "rationale": "Elle laisse le choix.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le message combine une demande et une marque de respect, ce qui montre une attitude conciliante."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "title": "Un message vocal d'une amie",
+   "document": "F: Coucou Léa, c'est Camille. Je t'appelle parce que je voulais m'excuser pour samedi. Je sais que j'ai été désagréable pendant le dîner, et que ma remarque sur ton nouveau travail était déplacée. Honnêtement, je crois que j'étais un peu jalouse : tu as trouvé un poste qui te plaît, alors que moi, je suis coincée dans un boulot qui m'ennuie depuis des années. Ce n'est pas une excuse, mais je voulais que tu comprennes. Tu comptes beaucoup pour moi, et je n'ai pas envie qu'une bêtise pareille gâche vingt ans d'amitié. Si tu as un moment cette semaine, j'aimerais beaucoup qu'on prenne un café pour en parler. Et si tu as besoin d'un peu de temps, je comprendrai aussi. Je t'embrasse.",
+   "vocabulary": [
+    {
+     "terme": "désagréable",
+     "definition": "qui déplaît, peu aimable",
+     "exemple": "Il a été désagréable avec le serveur."
+    },
+    {
+     "terme": "déplacé",
+     "definition": "inconvenant, inapproprié",
+     "exemple": "Sa question était déplacée."
+    },
+    {
+     "terme": "coincé",
+     "definition": "bloqué dans une situation",
+     "exemple": "Je suis coincé dans les embouteillages."
+    },
+    {
+     "terme": "gâcher",
+     "definition": "abîmer, gaspiller",
+     "exemple": "La pluie a gâché la fête."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "compter pour quelqu'un",
+     "sens": "être important pour lui",
+     "exemple": "Tu comptes beaucoup pour moi."
+    },
+    {
+     "expression": "une bêtise pareille",
+     "sens": "une chose aussi stupide",
+     "exemple": "Ne fais plus une bêtise pareille."
+    },
+    {
+     "expression": "ce n'est pas une excuse",
+     "sens": "cela n'excuse pas",
+     "exemple": "J'étais fatigué, mais ce n'est pas une excuse."
+    }
+   ]
+  },
+  {
+   "code": "CO-REL-07",
+   "level": "B2",
+   "doc_type": "témoignage",
+   "questions": [
+    {
+     "prompt": "Qu'est-ce qui a été le plus difficile pour le témoin ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Trouver un emploi.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Apprendre la langue.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Nouer de véritables amitiés.",
+       "correct": true,
+       "rationale": "« Le plus dur, ça a été de me faire des amis. »",
+       "label": "C"
+      },
+      {
+       "text": "Supporter le froid.",
+       "correct": false,
+       "rationale": "Il pensait que ce serait le plus difficile, mais ce ne l'a pas été.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Je pensais que… En fait… » oppose une attente et la réalité."
+    },
+    {
+     "prompt": "Qu'a-t-il compris sur la phrase « on se fait un souper un de ces jours » ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Que le souper était obligatoire.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Que ses collègues ne l'aimaient pas.",
+       "correct": false,
+       "rationale": "Il les trouve polis et accueillants.",
+       "label": "B"
+      },
+      {
+       "text": "Que c'était une invitation précise.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Que c'était une simple formule de politesse.",
+       "correct": true,
+       "rationale": "« J'ai compris plus tard que c'était une formule de politesse, pas une vraie invitation. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Ce malentendu culturel illustre la différence entre le sens littéral d'une phrase et sa fonction sociale."
+    },
+    {
+     "prompt": "Quel conseil donne-t-il aux nouveaux arrivants ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Compter sur ses collègues pour se faire des amis.",
+       "correct": false,
+       "rationale": "« Ne comptez pas sur le travail. »",
+       "label": "A"
+      },
+      {
+       "text": "Organiser soi-même des soupers.",
+       "correct": false,
+       "rationale": "Ce n'est pas son conseil.",
+       "label": "B"
+      },
+      {
+       "text": "Participer à une activité régulière pour créer des liens.",
+       "correct": true,
+       "rationale": "« Rejoignez une activité régulière, quelle qu'elle soit. »",
+       "label": "C"
+      },
+      {
+       "text": "Jouer obligatoirement au soccer.",
+       "correct": false,
+       "rationale": "« Quelle qu'elle soit » montre que l'activité importe peu.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le conseil généralise son expérience : ce qui compte, c'est la régularité et l'objectif commun, pas l'activité elle-même."
+    }
+   ],
+   "speakers": [
+    "H:fr-CA"
+   ],
+   "title": "S'installer dans un nouveau pays",
+   "document": "H: Quand je suis arrivé à Montréal il y a quatre ans, je pensais que le plus difficile serait le froid. En fait, le plus dur, ça a été de me faire des amis. Les gens étaient très polis, très accueillants au travail, mais je n'arrivais pas à dépasser ce stade. On se disait « on se fait un souper un de ces jours », et ça ne se faisait jamais. J'ai compris plus tard que c'était une formule de politesse, pas une vraie invitation. Ce qui a tout changé, c'est quand je me suis inscrit dans une équipe de soccer amateur. Là, on se voyait chaque semaine, on avait un objectif commun, et les liens se sont créés naturellement. Mon conseil aux nouveaux arrivants : ne comptez pas sur le travail pour vous faire des amis. Rejoignez une activité régulière, quelle qu'elle soit.",
+   "vocabulary": [
+    {
+     "terme": "accueillant",
+     "definition": "qui reçoit avec gentillesse",
+     "exemple": "Les habitants sont très accueillants."
+    },
+    {
+     "terme": "un souper",
+     "definition": "(Québec) le repas du soir",
+     "exemple": "On se retrouve pour le souper."
+    },
+    {
+     "terme": "le soccer",
+     "definition": "(Québec) le football",
+     "exemple": "Il joue au soccer le samedi."
+    },
+    {
+     "terme": "un nouvel arrivant",
+     "definition": "une personne qui vient de s'installer",
+     "exemple": "La ville organise un accueil pour les nouveaux arrivants."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "se faire des amis",
+     "sens": "créer des amitiés",
+     "exemple": "Il s'est fait beaucoup d'amis à l'université."
+    },
+    {
+     "expression": "dépasser ce stade",
+     "sens": "aller plus loin que ce niveau",
+     "exemple": "Leur relation n'a jamais dépassé ce stade."
+    },
+    {
+     "expression": "quelle qu'elle soit",
+     "sens": "peu importe laquelle",
+     "exemple": "Choisissez une activité, quelle qu'elle soit."
+    }
+   ]
+  },
+  {
+   "code": "CO-REL-08",
+   "level": "B2",
+   "doc_type": "journal radio",
+   "questions": [
+    {
+     "prompt": "Quelle est la surprise révélée par l'étude ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Le bénévolat augmente chez les jeunes.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Les associations recrutent trop de bénévoles.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "B"
+      },
+      {
+       "text": "Les retraités ont plus de temps libre qu'avant.",
+       "correct": false,
+       "rationale": "Ils en ont moins.",
+       "label": "C"
+      },
+      {
+       "text": "La baisse du bénévolat est forte chez les jeunes retraités.",
+       "correct": true,
+       "rationale": "« La baisse est particulièrement marquée chez les jeunes retraités, longtemps considérés comme le pilier du monde associatif. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Surprise : » introduit l'élément inattendu. « Pilier » souligne qu'ils étaient essentiels jusqu'alors."
+    },
+    {
+     "prompt": "Pourquoi les jeunes retraités ont-ils moins de temps disponible ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Ils sont souvent malades.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Ils voyagent beaucoup.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Ils aident à la fois leurs petits-enfants et leurs parents âgés.",
+       "correct": true,
+       "rationale": "« Coincés entre deux générations, ils ont moins de temps disponible. »",
+       "label": "C"
+      },
+      {
+       "text": "Ils continuent à travailler.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'expression « coincés entre deux générations » résume les deux responsabilités familiales citées juste avant."
+    },
+    {
+     "prompt": "Que doivent faire les associations, selon l'étude ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Recruter uniquement des retraités.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Rémunérer leurs bénévoles.",
+       "correct": false,
+       "rationale": "Ce n'est pas proposé.",
+       "label": "B"
+      },
+      {
+       "text": "Proposer des missions plus courtes et adaptables.",
+       "correct": true,
+       "rationale": "« En proposant des missions plus courtes et plus flexibles. »",
+       "label": "C"
+      },
+      {
+       "text": "Fermer les antennes locales.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La solution découle du changement d'attentes : les bénévoles veulent des engagements « ponctuels »."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "title": "Le bénévolat en baisse chez les retraités",
+   "document": "F: Le nombre de bénévoles dans les associations a reculé de quinze pour cent en cinq ans, selon une étude publiée ce matin. Surprise : la baisse est particulièrement marquée chez les jeunes retraités, longtemps considérés comme le pilier du monde associatif. Plusieurs explications sont avancées. Les jeunes retraités s'occupent de plus en plus de leurs petits-enfants, mais aussi de leurs propres parents très âgés. Coincés entre deux générations, ils ont moins de temps disponible. L'étude note aussi un changement dans les attentes : les nouveaux bénévoles préfèrent des engagements ponctuels, sur un projet précis, plutôt qu'une responsabilité régulière pendant des années. Les associations doivent donc repenser leur fonctionnement, en proposant des missions plus courtes et plus flexibles.",
+   "vocabulary": [
+    {
+     "terme": "un pilier",
+     "definition": "(figuré) un élément essentiel sur lequel quelque chose repose",
+     "exemple": "Elle est le pilier de la famille."
+    },
+    {
+     "terme": "ponctuel",
+     "definition": "qui a lieu une seule fois ou occasionnellement",
+     "exemple": "Il fait des missions ponctuelles."
+    },
+    {
+     "terme": "flexible",
+     "definition": "adaptable, souple",
+     "exemple": "Ses horaires sont flexibles."
+    },
+    {
+     "terme": "le monde associatif",
+     "definition": "l'ensemble des associations",
+     "exemple": "Le monde associatif manque de bénévoles."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "coincé entre",
+     "sens": "bloqué entre deux contraintes",
+     "exemple": "Il est coincé entre son travail et sa famille."
+    },
+    {
+     "expression": "être marqué",
+     "sens": "être net, important",
+     "exemple": "La hausse est particulièrement marquée en ville."
+    },
+    {
+     "expression": "repenser",
+     "sens": "réfléchir à nouveau et modifier",
+     "exemple": "Il faut repenser notre stratégie."
+    }
+   ]
+  }
+ ]
+}

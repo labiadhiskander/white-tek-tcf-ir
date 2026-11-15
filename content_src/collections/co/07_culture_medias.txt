@@ -1,0 +1,202 @@
+@slug co-culture-medias
+@section CO
+@title Culture et médias
+@order 7
+@description Cinéma, musique, lecture, patrimoine et médias : critiques, interviews d'artistes et débats culturels.
+
+## CO-CUL-01 | critique radio | F:fr-FR, H:fr-FR
+TITRE: Un premier film très attendu
+CONTEXTE: Deux critiques discutent d'un film qui sort cette semaine.
+DOC: F: Alors, ce premier film dont tout le monde parle depuis le festival, tu l'as aimé ? / H: J'ai envie de dire oui, mais avec des réserves. Le sujet est fort : une adolescente qui doit s'occuper seule de son petit frère après l'hospitalisation de sa mère. Et la jeune actrice est absolument bouleversante, elle porte le film sur ses épaules. / F: Je suis d'accord sur l'actrice. Mais justement, tu ne trouves pas que la réalisatrice compte trop sur elle ? Le scénario s'essouffle dans la seconde moitié, on a l'impression de revoir les mêmes scènes. / H: C'est vrai qu'il y a des longueurs. Mais pour un premier film, réalisé avec un budget minuscule, je préfère saluer l'audace plutôt que de pointer les maladresses. / F: Moi, je trouve qu'on est parfois trop indulgents avec les premiers films. Le public, lui, paie sa place au même prix.
+Q: Quel élément du film fait l'unanimité entre les deux critiques ? | synthèse
++ La performance de la jeune actrice. | Il la trouve « bouleversante » et elle répond « Je suis d'accord sur l'actrice ».
+- Le scénario de la seconde moitié. | Elle critique justement cette partie.
+- Le budget important du film. | Le budget est « minuscule ».
+- La durée du film. | La durée n'est pas évoquée, seulement des « longueurs ».
+EXP: Dans un échange critique, cherchez les marques d'accord explicite (« Je suis d'accord sur… ») avant les désaccords introduits par « Mais ».
+Q: Que reproche la critique au film ? | point de vue
++ Un scénario qui faiblit et devient répétitif. | « Le scénario s'essouffle dans la seconde moitié, on a l'impression de revoir les mêmes scènes. »
+- Une mauvaise interprétation des acteurs. | Elle loue l'actrice.
+- Un sujet sans intérêt. | Le sujet est jugé « fort ».
+- Une image de mauvaise qualité. | L'image n'est pas évoquée.
+EXP: « S'essouffler » signifie perdre de son énergie, de son intérêt. Le reproche est précisé par l'idée de répétition.
+Q: Sur quoi les deux critiques divergent-ils finalement ? | argumentation
++ Sur l'indulgence qu'il faut accorder à un premier film. | Il préfère « saluer l'audace » ; elle trouve qu'« on est parfois trop indulgents avec les premiers films ».
+- Sur la qualité du sujet. | Ils ne s'opposent pas sur ce point.
+- Sur le talent de l'actrice. | Ils sont d'accord.
+- Sur le prix des places de cinéma. | Elle évoque le prix comme argument, sans désaccord sur ce point.
+EXP: Le désaccord porte sur un critère de jugement, pas sur le film lui-même : faut-il juger un premier film avec plus de bienveillance ?
+VOCAB: bouleversant = qui émeut profondément = Son témoignage est bouleversant. ; s'essouffler = perdre son énergie, son rythme = La série s'essouffle à la troisième saison. ; une longueur = un passage trop long et ennuyeux = Ce roman a quelques longueurs. ; indulgent = qui pardonne facilement, peu sévère = Le jury a été indulgent. ; une maladresse = une erreur due au manque d'habileté = Ce texte contient quelques maladresses.
+EXPR: porter un film sur ses épaules = être l'élément principal de sa réussite = Cet acteur porte la série sur ses épaules. ; avec des réserves = avec certaines critiques = J'approuve, mais avec des réserves. ; pointer = signaler, mettre en évidence = Le rapport pointe plusieurs erreurs.
+
+## CO-CUL-02 | interview | H:fr-FR, F:fr-FR
+TITRE: Une libraire indépendante face aux géants du commerce en ligne
+CONTEXTE: Un journaliste interroge une libraire qui a ouvert sa boutique dans une petite ville.
+DOC: H: Ouvrir une librairie aujourd'hui, ce n'est pas un peu risqué ? / F: Tout le monde me l'a dit ! Et c'est vrai que la marge est faible : sur un livre de vingt euros, il me reste à peine sept euros pour payer le loyer, les salaires, le chauffage. Mais le prix unique du livre nous protège : un roman coûte le même prix chez moi que sur Internet. Ce qui fait la différence, c'est le conseil. Un algorithme vous propose ce qui ressemble à ce que vous avez déjà lu. Moi, je peux vous faire découvrir quelque chose auquel vous n'auriez jamais pensé. / H: Et ça suffit ? / F: Pas toujours. Il faut aussi que la librairie devienne un lieu de vie : on organise des rencontres avec des auteurs, des lectures pour les enfants, un club de lecture. Les gens ne viennent pas seulement acheter un livre, ils viennent partager quelque chose. C'est ce qu'aucun site ne pourra leur offrir.
+Q: Qu'est-ce qui protège les librairies face au commerce en ligne ? | information détaillée
++ La loi qui impose le même prix pour un livre partout. | « Le prix unique du livre nous protège : un roman coûte le même prix chez moi que sur Internet. »
+- Une marge très élevée sur chaque livre. | La marge est « faible ».
+- Des aides de l'État. | Ce n'est pas mentionné.
+- Des livres exclusifs. | Ce n'est pas dit.
+EXP: Le « Mais » oppose la difficulté (marge faible) et la protection (prix unique).
+Q: Quel avantage la libraire oppose-t-elle aux algorithmes ? | argumentation
++ Sa capacité à faire découvrir des livres inattendus. | « Moi, je peux vous faire découvrir quelque chose auquel vous n'auriez jamais pensé. »
+- Des prix plus bas qu'en ligne. | Les prix sont identiques.
+- Une livraison plus rapide. | La livraison n'est pas évoquée.
+- Un choix de livres plus large. | Le choix n'est pas comparé.
+EXP: L'opposition « Un algorithme… / Moi… » met en relief la différence : l'algorithme propose du semblable, la libraire de l'inattendu.
+Q: Pourquoi la libraire organise-t-elle des événements ? | implicite
++ Pour faire de la librairie un lieu de rencontre que les sites ne peuvent pas remplacer. | « Les gens ne viennent pas seulement acheter un livre, ils viennent partager quelque chose. C'est ce qu'aucun site ne pourra leur offrir. »
+- Pour vendre des billets d'entrée. | Ce n'est pas dit.
+- Pour obtenir des subventions. | Ce n'est pas mentionné.
+- Parce que les auteurs l'exigent. | Ce n'est pas évoqué.
+EXP: « Lieu de vie » et « partager » expriment la dimension sociale que la libraire met en avant comme argument face au commerce en ligne.
+VOCAB: une marge = la différence entre le prix de vente et le coût = La marge des libraires est faible. ; le prix unique du livre = une loi qui fixe le même prix de vente partout = Le prix unique du livre existe en France depuis 1981. ; un club de lecture = un groupe qui se réunit pour parler de livres = Elle anime un club de lecture. ; un lieu de vie = un endroit animé où les gens se rencontrent = Le marché est un lieu de vie du quartier.
+EXPR: tout le monde me l'a dit = c'est une remarque que j'ai souvent entendue = C'est risqué ? Tout le monde me l'a dit ! ; faire la différence = être l'élément décisif = Le service fait la différence. ; ce n'est pas un peu… ? = n'est-ce pas trop… ? (question polie) = Ce n'est pas un peu cher ?
+
+## CO-CUL-03 | chronique radio | H:fr-FR
+TITRE: La confiance dans les médias
+DOC: H: Selon un sondage annuel, moins d'un Français sur trois déclare faire confiance aux médias pour l'informer. Un chiffre préoccupant pour une démocratie. Les causes sont connues : la concentration des journaux entre les mains de quelques grands groupes industriels, la course à l'audience qui privilégie le spectaculaire, et la confusion entretenue sur les réseaux sociaux entre information et opinion. Mais il faut aussi regarder du côté des lecteurs. Beaucoup affirment se méfier des médias tout en partageant sans vérification des contenus dont ils ignorent l'origine. La défiance n'est pas toujours synonyme d'esprit critique : elle peut aussi conduire à croire n'importe quelle source, pourvu qu'elle se présente comme « alternative ». L'éducation aux médias, dès l'école, apparaît donc moins comme un luxe que comme une nécessité.
+Q: Quelles causes de la défiance envers les médias le chroniqueur cite-t-il ? | information détaillée
++ La concentration des médias, la recherche d'audience et la confusion sur les réseaux sociaux. | Il énumère ces trois causes après « Les causes sont connues ».
+- Le prix trop élevé des journaux. | Le prix n'est pas évoqué.
+- Le manque de journalistes. | Ce n'est pas mentionné.
+- La censure gouvernementale. | Ce n'est pas dit.
+EXP: Les deux-points après « Les causes sont connues » introduisent une énumération. Une question de ce type demande de retrouver l'ensemble des éléments.
+Q: Quel paradoxe le chroniqueur observe-t-il chez les lecteurs ? | implicite
++ Ils se disent méfiants mais diffusent des informations sans les vérifier. | « Beaucoup affirment se méfier des médias tout en partageant sans vérification des contenus dont ils ignorent l'origine. »
+- Ils lisent beaucoup de journaux mais n'en achètent aucun. | Ce n'est pas dit.
+- Ils font confiance aux grands groupes industriels. | Ce n'est pas son propos.
+- Ils refusent d'utiliser les réseaux sociaux. | Ils y partagent des contenus.
+EXP: « Tout en » associe deux attitudes contradictoires, ce qui constitue le paradoxe.
+Q: Quelle conclusion le chroniqueur tire-t-il ? | synthèse
++ L'éducation aux médias est indispensable dès l'école. | « L'éducation aux médias, dès l'école, apparaît donc moins comme un luxe que comme une nécessité. »
+- Il faut interdire les réseaux sociaux. | Ce n'est pas proposé.
+- Les médias doivent devenir gratuits. | Ce n'est pas évoqué.
+- Les lecteurs ont raison de se méfier de tout. | Il critique une méfiance non critique.
+EXP: « Donc » introduit la conclusion. « Moins comme un luxe que comme une nécessité » affirme son importance.
+VOCAB: la défiance = la méfiance, le manque de confiance = La défiance envers les institutions grandit. ; l'audience = le nombre de personnes qui regardent ou écoutent un média = Cette émission a une forte audience. ; la concentration = (économie) le regroupement entre quelques entreprises = La concentration des médias inquiète. ; l'esprit critique = la capacité à examiner une information avant de l'accepter = L'école doit développer l'esprit critique.
+EXPR: pourvu que = à condition que = Je viendrai, pourvu qu'il fasse beau. ; regarder du côté de = examiner aussi = Il faut aussi regarder du côté des parents. ; ne pas être synonyme de = ne pas signifier nécessairement = Richesse n'est pas synonyme de bonheur.
+
+## CO-CUL-04 | reportage | F:fr-FR, H:fr-FR
+TITRE: Un festival de musique dans un village
+CONTEXTE: Reportage dans un petit village qui accueille chaque été un festival de musique classique.
+DOC: F: Ce village de quatre cents habitants voit sa population multipliée par dix pendant une semaine chaque été. Le festival, créé il y a vingt-cinq ans par un pianiste originaire de la région, attire désormais des musiciens de renommée internationale. Pierre, le maire, mesure l'impact. / H: Économiquement, c'est vital. Les deux restaurants font un tiers de leur chiffre d'affaires cette semaine-là, les habitants louent des chambres. Mais pour moi, l'essentiel est ailleurs. Des enfants d'ici, qui n'avaient jamais mis les pieds dans une salle de concert, ont découvert la musique classique grâce aux répétitions ouvertes. Deux d'entre eux sont aujourd'hui au conservatoire. / F: Le succès a pourtant son revers : les billets, de plus en plus chers, deviennent inaccessibles pour une partie des habitants. La direction promet de réserver chaque année un quota de places gratuites aux villageois.
+Q: Quel impact économique le maire décrit-il ? | information détaillée
++ Le festival représente une part importante des revenus des commerces locaux. | « Les deux restaurants font un tiers de leur chiffre d'affaires cette semaine-là. »
+- Le festival fait perdre de l'argent à la commune. | Il est « vital ».
+- Le festival a créé de nombreuses entreprises. | Ce n'est pas dit.
+- Le festival a augmenté le nombre d'habitants permanents. | La population augmente seulement pendant une semaine.
+EXP: L'adjectif « vital » et l'exemple chiffré des restaurants illustrent l'importance économique.
+Q: Qu'est-ce qui compte le plus pour le maire ? | point de vue
++ La découverte de la musique par les enfants du village. | « L'essentiel est ailleurs. Des enfants d'ici… ont découvert la musique classique. »
+- Les bénéfices des restaurants. | Il dit que « l'essentiel est ailleurs ».
+- La venue de musiciens célèbres. | Ce n'est pas ce qu'il met en avant.
+- La location de chambres. | C'est un exemple économique, pas l'essentiel.
+EXP: « Mais pour moi, l'essentiel est ailleurs » écarte l'aspect économique au profit de la dimension éducative et culturelle.
+Q: Quel problème le succès du festival a-t-il créé ? | argumentation
++ Le prix des billets exclut une partie des habitants. | « Les billets, de plus en plus chers, deviennent inaccessibles pour une partie des habitants. »
+- Le village manque de restaurants. | Ce n'est pas le problème cité.
+- Les musiciens ne veulent plus venir. | Ils sont de renommée internationale.
+- Les enfants n'ont plus accès aux répétitions. | Ce n'est pas dit.
+EXP: « Le succès a pourtant son revers » annonce l'inconvénient. La solution promise (quota de places gratuites) confirme le problème.
+VOCAB: de renommée internationale = connu dans le monde entier = Un chef de renommée internationale dirige l'orchestre. ; le chiffre d'affaires = le total des ventes d'une entreprise = Le chiffre d'affaires a doublé. ; un conservatoire = une école de musique, de danse ou de théâtre = Elle étudie le violon au conservatoire. ; un quota = une quantité limitée fixée à l'avance = Un quota de places est réservé aux étudiants.
+EXPR: mettre les pieds dans = entrer dans, aller dans = Il n'a jamais mis les pieds dans un musée. ; avoir son revers = avoir un inconvénient = La célébrité a son revers. ; l'essentiel est ailleurs = ce qui compte vraiment est autre chose = Le prix ? L'essentiel est ailleurs.
+
+## CO-CUL-05 | débat radiophonique | H:fr-FR, F:fr-BE
+TITRE: Faut-il rendre les musées gratuits ?
+CONTEXTE: Débat entre un directeur de musée et une sociologue de la culture.
+DOC: H: La gratuité, c'est une belle idée, mais elle a un coût. Les entrées financent une part importante de nos expositions et de l'entretien des collections. Si on les supprime, qui paiera ? / F: L'État, c'est-à-dire tout le monde, et c'est justement ce qui serait juste. Les musées sont financés en grande partie par nos impôts. Il est paradoxal de faire payer une seconde fois ceux qui veulent en profiter. / H: Mais les études montrent que la gratuité attire surtout ceux qui venaient déjà. Le public populaire, on ne le fait pas venir en supprimant un billet de douze euros. / F: Là, je vous rejoins en partie. Le prix n'est pas le seul obstacle : beaucoup de gens pensent que le musée n'est pas fait pour eux. Mais la gratuité lève au moins une barrière. Il faut l'accompagner de médiation, d'actions dans les quartiers, d'horaires adaptés. Ce n'est pas une solution suffisante, mais c'est une condition nécessaire.
+Q: Quel argument le directeur avance-t-il contre la gratuité ? | argumentation
++ Les recettes des entrées sont indispensables au fonctionnement du musée. | « Les entrées financent une part importante de nos expositions et de l'entretien des collections. »
+- Les visiteurs abîmeraient les œuvres. | Ce n'est pas dit.
+- Les musées seraient trop fréquentés. | Ce n'est pas son argument.
+- L'État refuse de financer les musées. | Ce n'est pas mentionné.
+EXP: « C'est une belle idée, mais elle a un coût » : la concession précède l'argument financier.
+Q: Sur quel point la sociologue donne-t-elle partiellement raison au directeur ? | point de vue
++ Le prix n'est pas le seul frein à la fréquentation des musées. | « Là, je vous rejoins en partie. Le prix n'est pas le seul obstacle. »
+- La gratuité coûte trop cher. | Elle ne le concède pas.
+- Les musées doivent rester payants. | Elle défend la gratuité.
+- Les impôts sont trop élevés. | Ce n'est pas évoqué.
+EXP: « Je vous rejoins en partie » est une formule d'accord partiel. Elle reconnaît l'argument tout en maintenant sa position.
+Q: Que signifie la dernière phrase de la sociologue ? | synthèse
++ La gratuité ne suffit pas seule, mais sans elle les autres actions perdent en efficacité. | « Ce n'est pas une solution suffisante, mais c'est une condition nécessaire. »
+- La gratuité est la solution à tous les problèmes. | Elle dit qu'elle n'est pas suffisante.
+- La gratuité est inutile. | Elle la juge nécessaire.
+- Il faut d'abord ouvrir de nouveaux musées. | Ce n'est pas évoqué.
+EXP: La distinction « suffisante / nécessaire » est un raisonnement logique fréquent en argumentation.
+VOCAB: la gratuité = le fait d'être gratuit = La gratuité des transports est débattue. ; la médiation = (culture) les actions pour rapprocher le public des œuvres = Le musée a renforcé la médiation auprès des scolaires. ; les collections = l'ensemble des œuvres d'un musée = Le musée expose une partie de ses collections. ; lever une barrière = supprimer un obstacle = Ce dispositif lève une barrière à l'emploi.
+EXPR: je vous rejoins = je suis d'accord avec vous = Sur ce point, je vous rejoins. ; c'est-à-dire = autrement dit = L'État, c'est-à-dire les contribuables. ; être fait pour = être destiné à, convenir à = Ce métier n'est pas fait pour lui.
+
+## CO-CUL-06 | interview | F:fr-FR, H:fr-CA
+TITRE: Un auteur de bande dessinée et la langue française
+CONTEXTE: Une journaliste interroge un auteur québécois de bande dessinée.
+DOC: F: Vos albums sont traduits dans plusieurs langues, mais vous écrivez en français québécois, avec des expressions très locales. Ce n'est pas un frein ? / H: Mon éditeur m'a posé la même question au début ! Il craignait que les lecteurs européens ne comprennent pas. J'ai refusé de lisser ma langue. Les personnages parlent comme les gens que je connais, sinon ils sonnent faux. Et finalement, c'est devenu une force : les lecteurs français me disent qu'ils ont l'impression de voyager. On a ajouté un petit lexique à la fin, c'est tout. / F: Vous vous sentez porteur d'une identité ? / H: Je n'aime pas trop ce rôle de porte-drapeau. Je raconte des histoires, je ne fais pas de politique. Mais c'est vrai que si les créateurs abandonnent leur façon de parler pour plaire au plus grand nombre, toutes les langues finiront par se ressembler. C'est peut-être ça, ma petite résistance.
+Q: Quelle crainte l'éditeur avait-il ? | information détaillée
++ Que les lecteurs européens aient du mal à comprendre la langue utilisée. | « Il craignait que les lecteurs européens ne comprennent pas. »
+- Que les albums coûtent trop cher à traduire. | Ce n'est pas dit.
+- Que l'auteur abandonne la bande dessinée. | Ce n'est pas évoqué.
+- Que les personnages soient trop nombreux. | Ce n'est pas mentionné.
+EXP: Le « ne » après « craindre que » est un ne explétif : il n'a pas de valeur négative. La crainte est que les lecteurs ne comprennent pas.
+Q: Comment la langue locale de l'auteur a-t-elle été finalement perçue ? | implicite
++ Comme un atout qui donne aux lecteurs un sentiment de dépaysement. | « C'est devenu une force : les lecteurs français me disent qu'ils ont l'impression de voyager. »
+- Comme un obstacle majeur à la vente. | C'est la crainte initiale, démentie.
+- Comme une erreur à corriger. | Il a refusé de la lisser.
+- Comme une langue incompréhensible. | Un simple lexique a suffi.
+EXP: « Finalement » marque l'opposition entre la crainte initiale et le résultat réel.
+Q: Quelle est l'attitude de l'auteur face au rôle de défenseur d'une identité ? | point de vue
++ Il le refuse en partie, tout en reconnaissant un enjeu de diversité linguistique. | « Je n'aime pas trop ce rôle de porte-drapeau… Mais c'est vrai que… toutes les langues finiront par se ressembler. »
+- Il l'accepte avec fierté. | Il dit ne pas aimer ce rôle.
+- Il se considère comme un homme politique. | « Je ne fais pas de politique. »
+- Il pense que toutes les langues devraient se ressembler. | Il craint justement cette uniformisation.
+EXP: La réponse est nuancée : refus du rôle (« pas trop ») puis concession (« Mais c'est vrai que »). « Ma petite résistance » montre une forme d'engagement modeste.
+VOCAB: lisser = (figuré) rendre uniforme, supprimer les particularités = Il a refusé de lisser son style. ; sonner faux = paraître artificiel, peu crédible = Ce dialogue sonne faux. ; un lexique = une liste de mots avec leur explication = Un lexique figure à la fin du livre. ; un porte-drapeau = (figuré) une personne qui représente une cause = Elle est devenue la porte-drapeau du mouvement.
+EXPR: c'est tout = rien de plus = On a juste changé le titre, c'est tout. ; plaire au plus grand nombre = satisfaire le maximum de personnes = Ce film cherche à plaire au plus grand nombre. ; finir par = arriver finalement à = Il a fini par accepter.
+
+## CO-CUL-07 | journal radio | F:fr-FR
+TITRE: La restauration d'un monument historique
+DOC: F: Après cinq années de travaux, la cathédrale rouvre ses portes au public ce week-end. Le chantier, l'un des plus importants de la décennie, a mobilisé plus de deux cents artisans : tailleurs de pierre, charpentiers, maîtres verriers. Une partie de ces savoir-faire avait presque disparu, et il a fallu former de jeunes apprentis pour mener à bien la restauration. Le coût, près de quatre-vingts millions d'euros, a été couvert pour moitié par des dons de particuliers et d'entreprises. Le choix de reconstruire la flèche à l'identique, plutôt que de proposer une architecture contemporaine, avait suscité un vif débat. Les partisans d'un geste moderne regrettent une occasion manquée ; les défenseurs du patrimoine saluent au contraire le respect de l'histoire.
+Q: Quel effet positif le chantier a-t-il eu sur les métiers d'art ? | implicite
++ Il a permis de transmettre des savoir-faire menacés. | « Une partie de ces savoir-faire avait presque disparu, et il a fallu former de jeunes apprentis. »
+- Il a supprimé des emplois d'artisans. | Il en a mobilisé plus de deux cents.
+- Il a remplacé les artisans par des machines. | Ce n'est pas dit.
+- Il a été réalisé uniquement par des artisans étrangers. | Ce n'est pas mentionné.
+EXP: L'effet positif n'est pas formulé directement : on le déduit du fait que des apprentis ont été formés à des métiers en voie de disparition.
+Q: Comment la restauration a-t-elle été financée ? | information détaillée
++ En partie grâce à la générosité de particuliers et d'entreprises. | « Couvert pour moitié par des dons de particuliers et d'entreprises. »
+- Entièrement par l'État. | La moitié vient des dons.
+- Par la vente de billets d'entrée. | Ce n'est pas dit.
+- Par un emprunt de la ville. | Ce n'est pas mentionné.
+EXP: « Pour moitié » signifie à cinquante pour cent. L'autre moitié n'est pas précisée.
+Q: Quel débat la reconstruction a-t-elle suscité ? | argumentation
++ Celui du choix entre une reconstruction fidèle et une création moderne. | « Le choix de reconstruire la flèche à l'identique, plutôt que de proposer une architecture contemporaine, avait suscité un vif débat. »
+- Celui du coût trop élevé des travaux. | Le coût est donné sans polémique.
+- Celui de la durée des travaux. | La durée n'est pas débattue.
+- Celui de la fermeture définitive de la cathédrale. | Elle rouvre.
+EXP: Les deux camps sont présentés à la fin : « occasion manquée » pour les uns, « respect de l'histoire » pour les autres.
+VOCAB: un tailleur de pierre = un artisan qui façonne la pierre = Le tailleur de pierre restaure la façade. ; un maître verrier = un artisan spécialiste du vitrail = Le maître verrier a recréé les vitraux. ; une flèche = la partie pointue au sommet d'un clocher = La flèche domine la ville. ; à l'identique = exactement comme avant = La maison a été reconstruite à l'identique. ; le patrimoine = l'ensemble des biens hérités du passé = Ce château fait partie du patrimoine national.
+EXPR: mener à bien = réaliser avec succès = Il a mené à bien ce projet difficile. ; une occasion manquée = une chance qu'on n'a pas saisie = Ne pas postuler, c'est une occasion manquée. ; susciter un vif débat = provoquer une discussion animée = Cette réforme suscite un vif débat.
+
+## CO-CUL-08 | chronique radio | F:fr-CA
+TITRE: Le retour du disque vinyle
+DOC: F: Qui l'eût cru ? Le disque vinyle, que l'on croyait condamné par le CD puis par le numérique, connaît un retour spectaculaire. Ses ventes ont été multipliées par dix en quinze ans. Les acheteurs ne sont pas seulement des nostalgiques : plus de la moitié ont moins de trente-cinq ans. Comment expliquer ce paradoxe à l'heure où l'on peut écouter des millions de titres pour quelques dollars par mois ? Justement par cette abondance. Le vinyle oblige à choisir, à écouter un album en entier, à prendre le temps. C'est aussi un objet qu'on possède, qu'on expose, qu'on transmet. Certains spécialistes nuancent toutefois : beaucoup de vinyles achetés ne seraient jamais écoutés, mais simplement collectionnés. Le vinyle serait alors moins un support d'écoute qu'un objet de décoration ou d'affirmation de soi.
+Q: Qui sont majoritairement les acheteurs de vinyles ? | information détaillée
++ Des personnes jeunes, de moins de trente-cinq ans pour plus de la moitié. | « Plus de la moitié ont moins de trente-cinq ans. »
+- Uniquement des personnes nostalgiques. | « Pas seulement des nostalgiques. »
+- Des collectionneurs professionnels. | Ce n'est pas dit.
+- Des musiciens. | Ce n'est pas mentionné.
+EXP: « Ne… pas seulement » corrige une idée attendue. Le chiffre précise le profil réel des acheteurs.
+Q: Comment la chroniqueuse explique-t-elle ce retour ? | argumentation
++ Face à l'abondance numérique, le vinyle invite à choisir et à écouter attentivement. | « Justement par cette abondance. Le vinyle oblige à choisir, à écouter un album en entier, à prendre le temps. »
+- Le vinyle est moins cher que le numérique. | Le numérique coûte « quelques dollars par mois ».
+- Le son du vinyle est meilleur que tout autre. | La qualité sonore n'est pas évoquée.
+- Les plateformes numériques ont disparu. | Elles existent toujours.
+EXP: « Justement » signale que la cause est paradoxale : c'est l'abondance elle-même qui explique le retour du vinyle.
+Q: Quelle nuance certains spécialistes apportent-ils ? | point de vue
++ Beaucoup de vinyles seraient achetés comme objets plutôt que pour être écoutés. | « Beaucoup de vinyles achetés ne seraient jamais écoutés, mais simplement collectionnés. »
+- Les ventes de vinyles sont en baisse. | Elles ont été multipliées par dix.
+- Le vinyle abîme la musique. | Ce n'est pas dit.
+- Les jeunes n'achètent pas de vinyles. | Ils sont majoritaires.
+EXP: Le conditionnel (« ne seraient jamais écoutés ») rapporte une hypothèse de spécialistes sans l'affirmer comme certaine.
+VOCAB: un nostalgique = une personne qui regrette le passé = Les nostalgiques collectionnent les vieux objets. ; l'abondance = une grande quantité = L'abondance de choix rend la décision difficile. ; un support = un moyen matériel de conserver des données = Le CD est un support musical. ; collectionner = rassembler des objets d'une même catégorie = Il collectionne les timbres.
+EXPR: qui l'eût cru ? = qui aurait pu l'imaginer ? (registre soutenu) = Il est devenu ministre, qui l'eût cru ? ; à l'heure où = à une époque où = À l'heure où tout est numérique, le papier résiste. ; l'affirmation de soi = le fait d'exprimer sa personnalité = Le style vestimentaire est une forme d'affirmation de soi.

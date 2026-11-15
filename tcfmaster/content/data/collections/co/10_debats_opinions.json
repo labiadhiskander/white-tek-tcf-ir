@@ -1,0 +1,1318 @@
+{
+ "slug": "co-debats-opinions",
+ "section": "CO",
+ "title": "Débats et opinions",
+ "description": "Débats contradictoires et prises de position : identifier les arguments, les concessions et les points d'accord.",
+ "order": 10,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CO-DEB-01",
+   "level": "B2",
+   "doc_type": "débat radiophonique",
+   "questions": [
+    {
+     "prompt": "Quel argument le représentant des automobilistes avance-t-il d'abord ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les voitures modernes consomment peu.",
+       "correct": false,
+       "rationale": "Ce n'est pas son argument.",
+       "label": "A"
+      },
+      {
+       "text": "Les autoroutes sont déjà les routes les moins dangereuses.",
+       "correct": true,
+       "rationale": "« Les autoroutes sont déjà les routes les plus sûres. Les accidents mortels ont surtout lieu sur les routes secondaires. »",
+       "label": "B"
+      },
+      {
+       "text": "Les accidents sont plus fréquents sur autoroute.",
+       "correct": false,
+       "rationale": "Il dit l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Les limitations ne sont jamais respectées.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Sa question rhétorique (« Pourquoi pénaliser… ? ») renforce l'idée que la mesure vise la mauvaise cible."
+    },
+    {
+     "prompt": "Comment la spécialiste répond-elle à cet argument ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "En distinguant la fréquence et la gravité des accidents.",
+       "correct": true,
+       "rationale": "« Même si les accidents sont moins nombreux sur autoroute, ils y sont plus violents. »",
+       "label": "A"
+      },
+      {
+       "text": "En contestant les statistiques.",
+       "correct": false,
+       "rationale": "Elle ne les conteste pas.",
+       "label": "B"
+      },
+      {
+       "text": "En proposant de baisser la vitesse sur les routes secondaires.",
+       "correct": false,
+       "rationale": "Ce n'est pas sa réponse.",
+       "label": "C"
+      },
+      {
+       "text": "En reconnaissant qu'il a raison.",
+       "correct": false,
+       "rationale": "Elle maintient sa position.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Même si » introduit une concession (moins d'accidents) suivie de l'argument principal (plus de gravité)."
+    },
+    {
+     "prompt": "Sur quoi porte finalement le désaccord ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Sur le nombre exact de kilomètres parcourus.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'enjeu.",
+       "label": "A"
+      },
+      {
+       "text": "Sur l'existence des accidents.",
+       "correct": false,
+       "rationale": "Personne ne la conteste.",
+       "label": "B"
+      },
+      {
+       "text": "Sur le prix du carburant.",
+       "correct": false,
+       "rationale": "Ce n'est pas le point final.",
+       "label": "C"
+      },
+      {
+       "text": "Sur la manière dont une telle décision doit être prise.",
+       "correct": true,
+       "rationale": "« Ce n'est pas aux experts de faire ce calcul à la place des citoyens. Une mesure aussi impopulaire doit être débattue, pas imposée. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La dernière réplique déplace le débat : il ne porte plus sur les chiffres mais sur la légitimité de la décision."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Faut-il abaisser la vitesse sur les autoroutes ?",
+   "context": "Débat entre une spécialiste de la sécurité routière et un représentant des automobilistes.",
+   "document": "F: Passer de cent trente à cent dix kilomètres-heure sur autoroute, c'est moins d'accidents graves et vingt pour cent de carburant économisé. Les chiffres sont sans appel. / H: Les autoroutes sont déjà les routes les plus sûres. Les accidents mortels ont surtout lieu sur les routes secondaires. Pourquoi pénaliser ceux qui roulent là où il y a le moins de risques ? / F: Parce que la gravité des accidents augmente fortement avec la vitesse. Même si les accidents sont moins nombreux sur autoroute, ils y sont plus violents. / H: Admettons. Mais pour un trajet de cinq cents kilomètres, on perd près d'une demi-heure. Pour les professionnels de la route, c'est considérable. / F: Une demi-heure contre des vies sauvées et une facture de carburant réduite… Je crois que beaucoup de gens feraient ce calcul. / H: Ce n'est pas aux experts de faire ce calcul à la place des citoyens. Une mesure aussi impopulaire doit être débattue, pas imposée.",
+   "vocabulary": [
+    {
+     "terme": "sans appel",
+     "definition": "indiscutable, définitif",
+     "exemple": "Le verdict est sans appel."
+    },
+    {
+     "terme": "pénaliser",
+     "definition": "désavantager, sanctionner",
+     "exemple": "Cette taxe pénalise les familles."
+    },
+    {
+     "terme": "impopulaire",
+     "definition": "mal accepté par la population",
+     "exemple": "La réforme est très impopulaire."
+    },
+    {
+     "terme": "considérable",
+     "definition": "très important",
+     "exemple": "Les dégâts sont considérables."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "admettons",
+     "sens": "acceptons cette idée pour la discussion",
+     "exemple": "Admettons que tu aies raison."
+    },
+    {
+     "expression": "faire le calcul",
+     "sens": "comparer avantages et inconvénients",
+     "exemple": "Si tu fais le calcul, le train est plus rentable."
+    },
+    {
+     "expression": "à la place de",
+     "sens": "au lieu de",
+     "exemple": "Il a décidé à ma place."
+    }
+   ]
+  },
+  {
+   "code": "CO-DEB-02",
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "questions": [
+    {
+     "prompt": "Quels avantages du vote obligatoire le chroniqueur reconnaît-il ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Une plus grande légitimité des élus et des candidats attentifs à tous les électeurs.",
+       "correct": true,
+       "rationale": "« Renforce la légitimité des élus, et oblige les candidats à s'adresser à tous les électeurs. »",
+       "label": "A"
+      },
+      {
+       "text": "Une meilleure connaissance des programmes.",
+       "correct": false,
+       "rationale": "Il pense le contraire.",
+       "label": "B"
+      },
+      {
+       "text": "Une baisse du coût des élections.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "La suppression des bulletins blancs.",
+       "correct": false,
+       "rationale": "Il craint au contraire leur multiplication.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« L'idée a des arguments solides » annonce la concession avant le « Mais » qui exprime son opinion."
+    },
+    {
+     "prompt": "Pourquoi le chroniqueur reste-t-il sceptique ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Parce que les élus n'en veulent pas.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que l'obligation ne résout pas le désintérêt profond pour la politique.",
+       "correct": true,
+       "rationale": "« Forcer quelqu'un à voter ne le force pas à s'intéresser à la politique » ; l'abstention est « un symptôme ».",
+       "label": "B"
+      },
+      {
+       "text": "Parce qu'il n'a jamais fonctionné ailleurs.",
+       "correct": false,
+       "rationale": "Il cite des pays où il existe, sans dire qu'il échoue.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que le vote obligatoire est interdit par la Constitution.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Il donne deux raisons : des votes de mauvaise qualité, et surtout le fait que l'abstention révèle un problème plus profond."
+    },
+    {
+     "prompt": "Que signifie la comparaison avec le thermomètre ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Il faut mesurer précisément l'abstention.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens de l'image.",
+       "label": "A"
+      },
+      {
+       "text": "La politique est une maladie.",
+       "correct": false,
+       "rationale": "C'est une métaphore, pas une affirmation littérale.",
+       "label": "B"
+      },
+      {
+       "text": "Rendre le vote obligatoire masquerait le problème sans le guérir.",
+       "correct": true,
+       "rationale": "« Supprimer le symptôme par la loi, c'est un peu comme casser le thermomètre pour faire baisser la fièvre. »",
+       "label": "C"
+      },
+      {
+       "text": "Les électeurs sont malades.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Casser le thermomètre fait disparaître l'indicateur, pas la fièvre. De même, l'obligation ferait disparaître l'abstention sans résoudre la crise de représentation."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "title": "Le vote obligatoire, une bonne idée ?",
+   "document": "H: À chaque élection, le même constat : l'abstention progresse, et certains proposent de rendre le vote obligatoire, comme en Belgique ou en Australie. L'idée a des arguments solides. Un taux de participation élevé renforce la légitimité des élus, et oblige les candidats à s'adresser à tous les électeurs, pas seulement aux plus mobilisés. Mais je reste sceptique. Forcer quelqu'un à voter ne le force pas à s'intéresser à la politique. On risque d'obtenir des votes au hasard ou des bulletins blancs en masse. Et surtout, l'abstention est un symptôme : elle traduit un sentiment que voter ne change rien. Supprimer le symptôme par la loi, c'est un peu comme casser le thermomètre pour faire baisser la fièvre. Il serait plus utile de se demander pourquoi tant de citoyens ne se sentent plus représentés.",
+   "vocabulary": [
+    {
+     "terme": "l'abstention",
+     "definition": "le fait de ne pas voter",
+     "exemple": "L'abstention a atteint un record."
+    },
+    {
+     "terme": "la légitimité",
+     "definition": "le fait d'être reconnu comme juste et fondé",
+     "exemple": "Ce gouvernement manque de légitimité."
+    },
+    {
+     "terme": "un bulletin blanc",
+     "definition": "un bulletin de vote sans choix de candidat",
+     "exemple": "Il a voté blanc."
+    },
+    {
+     "terme": "un symptôme",
+     "definition": "un signe qui révèle un problème",
+     "exemple": "La fatigue est un symptôme de stress."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "en masse",
+     "sens": "en grand nombre",
+     "exemple": "Les touristes arrivent en masse."
+    },
+    {
+     "expression": "je reste sceptique",
+     "sens": "je doute toujours",
+     "exemple": "Malgré ses explications, je reste sceptique."
+    },
+    {
+     "expression": "casser le thermomètre",
+     "sens": "supprimer l'indicateur d'un problème au lieu du problème",
+     "exemple": "Supprimer les statistiques, c'est casser le thermomètre."
+    }
+   ]
+  },
+  {
+   "code": "CO-DEB-03",
+   "level": "B2",
+   "doc_type": "débat radiophonique",
+   "questions": [
+    {
+     "prompt": "Quel argument le directeur avance-t-il en faveur de l'affichage ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "La publicité informe les citoyens.",
+       "correct": false,
+       "rationale": "Ce n'est pas son argument.",
+       "label": "A"
+      },
+      {
+       "text": "La publicité crée des emplois.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "La publicité embellit les villes.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "La publicité finance des équipements urbains utiles.",
+       "correct": true,
+       "rationale": "« L'affichage publicitaire finance une grande partie du mobilier urbain. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'argument est économique : sans publicité, les contribuables paieraient."
+    },
+    {
+     "prompt": "Comment la militante répond-elle à l'argument financier ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Elle affirme que les citoyens paient déjà la publicité à travers le prix des produits.",
+       "correct": true,
+       "rationale": "« On paie déjà, indirectement : le coût de la publicité est intégré dans le prix des produits. »",
+       "label": "A"
+      },
+      {
+       "text": "Elle conteste l'existence des abribus.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Elle reconnaît que la publicité est gratuite.",
+       "correct": false,
+       "rationale": "Elle dit qu'on la paie indirectement.",
+       "label": "C"
+      },
+      {
+       "text": "Elle propose d'augmenter les impôts.",
+       "correct": false,
+       "rationale": "Ce n'est pas sa proposition.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Elle démonte l'argument (« C'est un argument que j'entends souvent. Mais… ») en montrant que la gratuité n'est qu'apparente."
+    },
+    {
+     "prompt": "Pourquoi la militante juge-t-elle l'affichage différent de la télévision ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Parce que les affiches sont plus belles.",
+       "correct": false,
+       "rationale": "Ce n'est pas son propos.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que les affiches sont plus chères.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que la télévision est interdite.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Parce qu'on ne peut pas éviter de voir les affiches dans la rue.",
+       "correct": true,
+       "rationale": "« On peut éteindre sa télévision, mais on ne peut pas fermer les yeux en marchant. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La comparaison montre que la publicité de rue est subie, contrairement à celle qu'on peut éviter chez soi."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "Les publicités dans l'espace public",
+   "context": "Débat entre le directeur d'une agence d'affichage et une militante d'une association anti-publicité.",
+   "document": "H: L'affichage publicitaire finance une grande partie du mobilier urbain : les abribus, les vélos en libre-service, les panneaux d'information. Sans lui, ce sont les contribuables qui paieraient. / F: C'est un argument que j'entends souvent. Mais on paie déjà, indirectement : le coût de la publicité est intégré dans le prix des produits que nous achetons. Et surtout, l'espace public appartient à tout le monde. Pourquoi devrait-on subir des messages commerciaux qu'on n'a pas choisis, dès qu'on sort de chez soi ? / H: Personne n'est obligé de regarder une affiche. / F: Justement, si ! On peut éteindre sa télévision, mais on ne peut pas fermer les yeux en marchant. Et les écrans lumineux qui se multiplient consomment de l'énergie toute la nuit. Plusieurs villes ont réduit l'affichage, et leurs habitants s'en disent très satisfaits.",
+   "vocabulary": [
+    {
+     "terme": "le mobilier urbain",
+     "definition": "les équipements installés dans les rues",
+     "exemple": "Les bancs font partie du mobilier urbain."
+    },
+    {
+     "terme": "un abribus",
+     "definition": "un abri à un arrêt de bus",
+     "exemple": "Il attend sous l'abribus."
+    },
+    {
+     "terme": "un contribuable",
+     "definition": "une personne qui paie des impôts",
+     "exemple": "Les contribuables financent les services publics."
+    },
+    {
+     "terme": "indirectement",
+     "definition": "de façon détournée",
+     "exemple": "Il en profite indirectement."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "c'est un argument que j'entends souvent",
+     "sens": "cet argument est répandu (pour le critiquer)",
+     "exemple": "C'est trop cher ? C'est un argument que j'entends souvent."
+    },
+    {
+     "expression": "justement",
+     "sens": "précisément (pour contredire)",
+     "exemple": "— Tu n'as pas le temps. — Justement, je vais le prendre."
+    },
+    {
+     "expression": "s'en dire satisfait",
+     "sens": "déclarer être content de quelque chose",
+     "exemple": "Les clients s'en disent satisfaits."
+    }
+   ]
+  },
+  {
+   "code": "CO-DEB-04",
+   "level": "B2",
+   "doc_type": "interview",
+   "questions": [
+    {
+     "prompt": "Pourquoi la situation juridique était-elle floue ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Parce que les vidéos tournées par les parents étaient considérées comme relevant de la vie familiale.",
+       "correct": true,
+       "rationale": "« Quand ses propres parents le filment chez lui, on considérait que cela relevait de la vie familiale. »",
+       "label": "A"
+      },
+      {
+       "text": "Parce que les enfants ne gagnaient pas d'argent.",
+       "correct": false,
+       "rationale": "Ils rapportaient beaucoup d'argent.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que les plateformes refusaient de payer.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Parce qu'aucune loi ne protégeait les enfants acteurs.",
+       "correct": false,
+       "rationale": "Ils étaient protégés pour les publicités et les films.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le juriste oppose deux situations : le tournage professionnel (protégé) et le tournage familial (non encadré)."
+    },
+    {
+     "prompt": "Que prévoit la nouvelle loi ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "L'interdiction totale de filmer les enfants.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Une limitation du nombre de vidéos par semaine.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Une protection des revenus de l'enfant et la possibilité de faire effacer les vidéos.",
+       "correct": true,
+       "rationale": "« Les revenus doivent être placés sur un compte… et il dispose d'un droit à l'oubli. »",
+       "label": "C"
+      },
+      {
+       "text": "La suppression des plateformes vidéo.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Deux mesures sont citées, liées par « et »."
+    },
+    {
+     "prompt": "Quelle réserve le juriste exprime-t-il ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Il doute qu'on puisse vérifier l'application de la loi dans les foyers.",
+       "correct": true,
+       "rationale": "« Le vrai problème est ailleurs : qui va contrôler ce qui se passe à l'intérieur des maisons ? »",
+       "label": "A"
+      },
+      {
+       "text": "Il veut supprimer le droit à l'oubli.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Il estime que les enfants gagnent trop.",
+       "correct": false,
+       "rationale": "Ce n'est pas son propos.",
+       "label": "C"
+      },
+      {
+       "text": "Il pense que la loi est trop sévère.",
+       "correct": false,
+       "rationale": "Il la juge « une avancée ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "« C'est une avancée. Mais… » : la question rhétorique finale exprime le doute sur l'efficacité réelle."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Le travail des enfants dans les vidéos en ligne",
+   "context": "Une journaliste interroge un juriste sur les enfants qui apparaissent dans des vidéos rémunérées.",
+   "document": "F: Certains enfants deviennent des vedettes sur les plateformes vidéo et rapportent beaucoup d'argent à leurs parents. Est-ce du travail ? / H: Juridiquement, la réponse a longtemps été floue. Quand un enfant tourne une publicité ou un film, il est protégé par le droit du travail : ses horaires sont limités et une partie de ses revenus est bloquée jusqu'à sa majorité. Mais quand ses propres parents le filment chez lui, on considérait que cela relevait de la vie familiale. Or certaines familles publient plusieurs vidéos par semaine et en tirent des revenus considérables. / F: La loi a changé récemment… / H: Oui, désormais les revenus doivent être placés sur un compte auquel l'enfant aura accès à ses seize ans, et il dispose d'un droit à l'oubli : il pourra demander la suppression des vidéos. C'est une avancée. Mais le vrai problème est ailleurs : qui va contrôler ce qui se passe à l'intérieur des maisons ?",
+   "vocabulary": [
+    {
+     "terme": "une vedette",
+     "definition": "une personne célèbre",
+     "exemple": "Cet enfant est devenu une vedette du web."
+    },
+    {
+     "terme": "flou",
+     "definition": "imprécis, pas clair",
+     "exemple": "Les règles restent floues."
+    },
+    {
+     "terme": "la majorité",
+     "definition": "l'âge à partir duquel on est adulte au sens de la loi",
+     "exemple": "Il a atteint sa majorité."
+    },
+    {
+     "terme": "le droit à l'oubli",
+     "definition": "le droit de faire supprimer des informations personnelles",
+     "exemple": "Il a exercé son droit à l'oubli."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "relever de",
+     "sens": "appartenir au domaine de",
+     "exemple": "Cette question relève de la justice."
+    },
+    {
+     "expression": "en tirer des revenus",
+     "sens": "gagner de l'argent grâce à quelque chose",
+     "exemple": "Il en tire des revenus confortables."
+    },
+    {
+     "expression": "le vrai problème est ailleurs",
+     "sens": "l'essentiel se situe sur un autre point",
+     "exemple": "Le prix ? Le vrai problème est ailleurs."
+    }
+   ]
+  },
+  {
+   "code": "CO-DEB-05",
+   "level": "B2",
+   "doc_type": "débat radiophonique",
+   "questions": [
+    {
+     "prompt": "Quel argument la militante avance-t-elle ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les vols courts polluent beaucoup alors qu'une alternative en train existe.",
+       "correct": true,
+       "rationale": "« Les vols courts sont les plus polluants par passager » ; le train est possible « en moins de deux heures trente ».",
+       "label": "A"
+      },
+      {
+       "text": "Les aéroports sont trop bruyants.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Les billets d'avion sont trop chers.",
+       "correct": false,
+       "rationale": "Le prix n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Les trains sont plus confortables.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'argument combine pollution et existence d'une alternative. La cause de la pollution (le décollage) est précisée."
+    },
+    {
+     "prompt": "Pourquoi l'élu s'oppose-t-il à la suppression ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Il possède une compagnie aérienne.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Sa ville n'a pas de liaison ferroviaire rapide, ce qui l'isolerait davantage.",
+       "correct": true,
+       "rationale": "« Ma ville n'a pas de gare à grande vitesse… quatre heures de train avec une correspondance. »",
+       "label": "B"
+      },
+      {
+       "text": "Il pense que l'avion ne pollue pas.",
+       "correct": false,
+       "rationale": "Il ne conteste pas la pollution.",
+       "label": "C"
+      },
+      {
+       "text": "Il refuse toute politique écologique.",
+       "correct": false,
+       "rationale": "Il est « d'accord sur le principe ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Simple, peut-être, mais pas pour tout le monde » : il reprend le mot de la militante pour le nuancer avec son cas particulier."
+    },
+    {
+     "prompt": "Quelle condition l'élu pose-t-il ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Construire d'abord les lignes ferroviaires avant de supprimer les vols.",
+       "correct": true,
+       "rationale": "« On ne peut pas supprimer l'avion avant d'avoir construit l'alternative. »",
+       "label": "A"
+      },
+      {
+       "text": "Maintenir les vols pour toujours.",
+       "correct": false,
+       "rationale": "Ce n'est pas ce qu'il demande.",
+       "label": "B"
+      },
+      {
+       "text": "Interdire la voiture.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Baisser le prix des billets de train.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Sauf que » introduit une objection pratique à un accord de principe. La conclusion souligne une injustice territoriale."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Faut-il supprimer les vols intérieurs courts ?",
+   "context": "Débat entre une militante écologiste et un élu d'une ville moyenne.",
+   "document": "F: Quand un trajet est possible en train en moins de deux heures trente, l'avion n'a aucun sens. Les vols courts sont les plus polluants par passager, à cause du décollage. Les interdire, c'est une mesure simple et efficace. / H: Simple, peut-être, mais pas pour tout le monde. Ma ville n'a pas de gare à grande vitesse. Pour nous, la suppression de la ligne aérienne vers la capitale, c'est quatre heures de train avec une correspondance. Les entreprises hésitent déjà à s'installer chez nous. / F: Je comprends, mais la réponse, c'est d'investir dans le train, pas de maintenir des vols polluants. / H: Je suis entièrement d'accord sur le principe. Sauf que les lignes ferroviaires promises depuis vingt ans n'ont jamais vu le jour. On ne peut pas supprimer l'avion avant d'avoir construit l'alternative. Sinon, ce sont toujours les mêmes territoires qui paient la transition écologique.",
+   "vocabulary": [
+    {
+     "terme": "un vol intérieur",
+     "definition": "un vol à l'intérieur d'un même pays",
+     "exemple": "Les vols intérieurs sont nombreux."
+    },
+    {
+     "terme": "le décollage",
+     "definition": "le moment où l'avion quitte le sol",
+     "exemple": "Le décollage consomme beaucoup de carburant."
+    },
+    {
+     "terme": "une correspondance",
+     "definition": "un changement de train ou d'avion",
+     "exemple": "J'ai une correspondance à Lyon."
+    },
+    {
+     "terme": "voir le jour",
+     "definition": "naître, être réalisé",
+     "exemple": "Le projet n'a jamais vu le jour."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "n'avoir aucun sens",
+     "sens": "être absurde",
+     "exemple": "Prendre la voiture pour cent mètres n'a aucun sens."
+    },
+    {
+     "expression": "d'accord sur le principe",
+     "sens": "favorable à l'idée générale",
+     "exemple": "Je suis d'accord sur le principe, mais pas sur la méthode."
+    },
+    {
+     "expression": "sauf que",
+     "sens": "mais, cependant (oral)",
+     "exemple": "C'est une bonne idée, sauf que c'est trop cher."
+    }
+   ]
+  },
+  {
+   "code": "CO-DEB-06",
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "questions": [
+    {
+     "prompt": "Quel argument les partisans de l'uniforme avancent-ils ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Il serait obligatoire en Europe.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Il réduirait les différences sociales visibles entre élèves.",
+       "correct": true,
+       "rationale": "« Il effacerait les différences sociales visibles et mettrait fin à la concurrence des marques. »",
+       "label": "B"
+      },
+      {
+       "text": "Il coûterait moins cher aux familles.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Il améliorerait toujours les résultats scolaires.",
+       "correct": false,
+       "rationale": "Les études ne le montrent pas.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le conditionnel (« effacerait ») rapporte l'argument des partisans sans le confirmer."
+    },
+    {
+     "prompt": "Pourquoi la chroniqueuse doute-t-elle de cet argument ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Les inégalités apparaissent aussi à travers d'autres signes que les vêtements.",
+       "correct": true,
+       "rationale": "« Les inégalités ne se lisent pas seulement dans les vêtements : elles se voient dans les téléphones, les chaussures, les vacances. »",
+       "label": "A"
+      },
+      {
+       "text": "Les professeurs y sont opposés.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "L'uniforme est trop cher.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'argument.",
+       "label": "C"
+      },
+      {
+       "text": "Les élèves refusent de porter l'uniforme.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Elle s'appuie sur les études et sur un raisonnement : l'uniforme ne supprime qu'un des signes des inégalités."
+    },
+    {
+     "prompt": "Quelle est la conclusion de la chroniqueuse ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "L'uniforme doit être imposé par l'État.",
+       "correct": false,
+       "rationale": "Elle préfère qu'il soit choisi avec les familles.",
+       "label": "A"
+      },
+      {
+       "text": "L'uniforme doit être interdit.",
+       "correct": false,
+       "rationale": "Elle dit qu'il n'est pas absurde.",
+       "label": "B"
+      },
+      {
+       "text": "L'uniforme résout tous les problèmes.",
+       "correct": false,
+       "rationale": "Il n'est « ni une solution miracle ».",
+       "label": "C"
+      },
+      {
+       "text": "L'efficacité de l'uniforme dépend de la façon dont il est mis en place.",
+       "correct": true,
+       "rationale": "« C'est un outil, dont l'efficacité dépend entièrement de la manière dont on l'utilise. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « ni… ni… : c'est… » écarte les deux positions extrêmes pour proposer une position nuancée."
+    }
+   ],
+   "speakers": [
+    "F:fr-BE"
+   ],
+   "title": "L'uniforme à l'école",
+   "document": "F: Le débat sur l'uniforme scolaire revient régulièrement. Ses partisans avancent qu'il effacerait les différences sociales visibles et mettrait fin à la concurrence des marques entre élèves. L'argument est séduisant. Pourtant, les rares études disponibles ne montrent pas d'effet clair sur le climat scolaire ou sur les résultats. Les inégalités ne se lisent pas seulement dans les vêtements : elles se voient dans les téléphones, les chaussures, les vacances racontées à la rentrée. Cela ne signifie pas que l'uniforme soit inutile. Dans certains établissements, il renforce le sentiment d'appartenance, à condition d'avoir été choisi avec les élèves et les familles, et non imposé d'en haut. Au fond, l'uniforme n'est ni une solution miracle ni une mesure absurde : c'est un outil, dont l'efficacité dépend entièrement de la manière dont on l'utilise.",
+   "vocabulary": [
+    {
+     "terme": "un partisan",
+     "definition": "une personne qui soutient une idée",
+     "exemple": "Les partisans de la réforme manifestent."
+    },
+    {
+     "terme": "le climat scolaire",
+     "definition": "l'ambiance générale dans un établissement",
+     "exemple": "Le climat scolaire s'est amélioré."
+    },
+    {
+     "terme": "le sentiment d'appartenance",
+     "definition": "le fait de se sentir membre d'un groupe",
+     "exemple": "Le maillot renforce le sentiment d'appartenance."
+    },
+    {
+     "terme": "séduisant",
+     "definition": "attirant",
+     "exemple": "C'est une idée séduisante."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "imposer d'en haut",
+     "sens": "décider sans consulter les personnes concernées",
+     "exemple": "Une réforme imposée d'en haut est souvent rejetée."
+    },
+    {
+     "expression": "une solution miracle",
+     "sens": "une solution qui réglerait tout",
+     "exemple": "Il n'y a pas de solution miracle."
+    },
+    {
+     "expression": "au fond",
+     "sens": "en définitive",
+     "exemple": "Au fond, tout dépend de toi."
+    }
+   ]
+  },
+  {
+   "code": "CO-DEB-07",
+   "level": "B2",
+   "doc_type": "débat radiophonique",
+   "questions": [
+    {
+     "prompt": "Quels résultats le maire met-il en avant ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Une forte hausse de la fréquentation et des bénéfices sociaux et commerciaux.",
+       "correct": true,
+       "rationale": "« La fréquentation a augmenté de soixante pour cent. Les habitants les plus modestes ont retrouvé une mobilité, et le centre-ville a regagné des commerces. »",
+       "label": "A"
+      },
+      {
+       "text": "Une baisse des impôts locaux.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "La disparition des voitures en ville.",
+       "correct": false,
+       "rationale": "Ce n'est pas affirmé.",
+       "label": "C"
+      },
+      {
+       "text": "La création de nouvelles lignes de tramway.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le maire énumère trois effets positifs : fréquentation, mobilité sociale, commerce."
+    },
+    {
+     "prompt": "Quelle nuance l'économiste apporte-t-elle sur la fréquentation ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les bus sont moins sûrs depuis la gratuité.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "La fréquentation n'a pas augmenté.",
+       "correct": false,
+       "rationale": "Elle dit que « ces résultats sont réels ».",
+       "label": "B"
+      },
+      {
+       "text": "Les automobilistes ont tous abandonné leur voiture.",
+       "correct": false,
+       "rationale": "Elle dit l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Beaucoup de nouveaux usagers se déplaçaient déjà à pied ou à vélo.",
+       "correct": true,
+       "rationale": "« Une bonne partie d'entre eux marchaient ou prenaient le vélo auparavant. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Il faut regarder d'où viennent les nouveaux voyageurs » : elle nuance un chiffre global en analysant sa composition."
+    },
+    {
+     "prompt": "Selon l'économiste, qu'est-ce qui incite vraiment les automobilistes à changer ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "L'interdiction des voitures.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Le prix bas des tickets.",
+       "correct": false,
+       "rationale": "C'est ce qu'elle relativise.",
+       "label": "B"
+      },
+      {
+       "text": "La qualité du service : des bus fréquents et rapides.",
+       "correct": true,
+       "rationale": "« Ce qui fait vraiment changer les automobilistes, c'est la fréquence et la rapidité des bus, bien plus que leur prix. »",
+       "label": "C"
+      },
+      {
+       "text": "Les campagnes de publicité.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La mise en relief « Ce qui fait vraiment…, c'est… » et la comparaison « bien plus que » hiérarchisent les facteurs."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "La gratuité des transports en commun",
+   "context": "Débat entre un maire qui a rendu les bus gratuits et une économiste des transports.",
+   "document": "H: Depuis que les bus sont gratuits dans notre ville, la fréquentation a augmenté de soixante pour cent. Les habitants les plus modestes ont retrouvé une mobilité, et le centre-ville a regagné des commerces. / F: Ces résultats sont réels, mais il faut regarder d'où viennent les nouveaux voyageurs. Les études montrent qu'une bonne partie d'entre eux marchaient ou prenaient le vélo auparavant. La gratuité attire moins les automobilistes qu'on l'espère. / H: Même si c'est le cas, je ne vois pas où est le problème : on a rendu un service public accessible à tous. / F: Le problème, c'est le financement. Les tickets représentaient une part des recettes. Sans eux, il faut soit augmenter les impôts, soit renoncer à améliorer le réseau. Or ce qui fait vraiment changer les automobilistes, c'est la fréquence et la rapidité des bus, bien plus que leur prix. / H: Chez nous, la gratuité a été financée par une taxe sur les grandes entreprises. Les habitants ne paient rien de plus.",
+   "vocabulary": [
+    {
+     "terme": "la fréquentation",
+     "definition": "le nombre de personnes qui utilisent un lieu ou un service",
+     "exemple": "La fréquentation du musée a doublé."
+    },
+    {
+     "terme": "la mobilité",
+     "definition": "la capacité à se déplacer",
+     "exemple": "La voiture assure la mobilité en zone rurale."
+    },
+    {
+     "terme": "les recettes",
+     "definition": "l'argent reçu",
+     "exemple": "Les recettes de billetterie ont baissé."
+    },
+    {
+     "terme": "la fréquence",
+     "definition": "le nombre de passages dans un temps donné",
+     "exemple": "La fréquence des bus est de dix minutes."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "je ne vois pas où est le problème",
+     "sens": "cela ne me semble pas poser de difficulté",
+     "exemple": "Il arrive en retard ? Je ne vois pas où est le problème."
+    },
+    {
+     "expression": "soit… soit…",
+     "sens": "ou bien… ou bien…",
+     "exemple": "Soit on part maintenant, soit on reste."
+    },
+    {
+     "expression": "regagner",
+     "sens": "retrouver ce qu'on avait perdu",
+     "exemple": "Le parti a regagné des électeurs."
+    }
+   ]
+  },
+  {
+   "code": "CO-DEB-08",
+   "level": "B2",
+   "doc_type": "interview",
+   "questions": [
+    {
+     "prompt": "Combien de raisons la nutritionniste donne-t-elle pour réduire la viande ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Deux : le prix et la santé.",
+       "correct": false,
+       "rationale": "Le prix n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Trois : la santé, l'environnement et le bien-être animal.",
+       "correct": true,
+       "rationale": "« Il y en a trois. Pour la santé d'abord… Pour l'environnement ensuite… Et pour le bien-être animal. »",
+       "label": "B"
+      },
+      {
+       "text": "Une seule : la santé.",
+       "correct": false,
+       "rationale": "Elle en cite trois.",
+       "label": "C"
+      },
+      {
+       "text": "Quatre : la santé, l'environnement, le goût et le prix.",
+       "correct": false,
+       "rationale": "Le goût et le prix ne sont pas cités.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les connecteurs « d'abord… ensuite… et » structurent l'énumération annoncée par « Il y en a trois »."
+    },
+    {
+     "prompt": "Que recommande-t-elle ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Manger plus de charcuterie.",
+       "correct": false,
+       "rationale": "Elle dit l'inverse.",
+       "label": "A"
+      },
+      {
+       "text": "Devenir obligatoirement végétarien.",
+       "correct": false,
+       "rationale": "« Pas nécessairement. »",
+       "label": "B"
+      },
+      {
+       "text": "Supprimer toutes les légumineuses.",
+       "correct": false,
+       "rationale": "Elle recommande d'en manger.",
+       "label": "C"
+      },
+      {
+       "text": "Consommer moins souvent de la viande, mais de meilleure qualité.",
+       "correct": true,
+       "rationale": "« Manger moins et mieux : moins souvent, mais une viande de qualité. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La formule « moins et mieux » résume sa position, explicitée après les deux-points."
+    },
+    {
+     "prompt": "Pourquoi critique-t-elle le « discours du tout ou rien » ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Parce que les gens mangent déjà peu de viande.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que la viande est indispensable.",
+       "correct": false,
+       "rationale": "Ce n'est pas son propos.",
+       "label": "B"
+      },
+      {
+       "text": "Parce qu'une position trop radicale décourage les gens de changer.",
+       "correct": true,
+       "rationale": "« Le discours du tout ou rien fait fuir les gens. Une réduction progressive, en revanche, est à la portée de tous. »",
+       "label": "C"
+      },
+      {
+       "text": "Parce qu'elle est opposée au végétarisme.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« En revanche » oppose l'approche radicale, inefficace, et l'approche progressive, accessible."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "Faut-il manger moins de viande ?",
+   "context": "Un journaliste interroge une nutritionniste.",
+   "document": "H: On entend de plus en plus qu'il faudrait réduire notre consommation de viande. Pour quelles raisons ? / F: Il y en a trois. Pour la santé d'abord : une consommation excessive de viande rouge et de charcuterie augmente le risque de certaines maladies. Pour l'environnement ensuite, car l'élevage est responsable d'une part importante des émissions de gaz à effet de serre. Et pour le bien-être animal, une préoccupation qui grandit. / H: Faut-il devenir végétarien ? / F: Pas nécessairement. Je ne fais pas la morale à ceux qui aiment la viande. L'enjeu, c'est surtout de manger moins et mieux : moins souvent, mais une viande de qualité, issue d'élevages respectueux. Remplacer quelques repas par des légumineuses, c'est déjà beaucoup. Le discours du tout ou rien fait fuir les gens. Une réduction progressive, en revanche, est à la portée de tous.",
+   "vocabulary": [
+    {
+     "terme": "la charcuterie",
+     "definition": "les produits à base de porc (jambon, saucisson…)",
+     "exemple": "Il mange trop de charcuterie."
+    },
+    {
+     "terme": "l'élevage",
+     "definition": "l'activité qui consiste à élever des animaux",
+     "exemple": "L'élevage bovin est important ici."
+    },
+    {
+     "terme": "le bien-être animal",
+     "definition": "les bonnes conditions de vie des animaux",
+     "exemple": "Le bien-être animal est une préoccupation croissante."
+    },
+    {
+     "terme": "une préoccupation",
+     "definition": "un souci, une inquiétude",
+     "exemple": "La santé est sa principale préoccupation."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "faire la morale à quelqu'un",
+     "sens": "lui donner des leçons",
+     "exemple": "Je ne te fais pas la morale."
+    },
+    {
+     "expression": "le tout ou rien",
+     "sens": "une attitude radicale, sans compromis",
+     "exemple": "Avec lui, c'est toujours tout ou rien."
+    },
+    {
+     "expression": "à la portée de tous",
+     "sens": "accessible à tout le monde",
+     "exemple": "Ce sport est à la portée de tous."
+    }
+   ]
+  },
+  {
+   "code": "CO-DEB-09",
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "questions": [
+    {
+     "prompt": "Que reproche-t-on aux réseaux sociaux, selon le chroniqueur ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "D'être utilisés seulement par les jeunes.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "D'enfermer les utilisateurs avec des personnes qui partagent leurs idées.",
+       "correct": true,
+       "rationale": "« Des bulles où l'on ne rencontre que ceux qui pensent comme nous. »",
+       "label": "B"
+      },
+      {
+       "text": "D'être trop chers.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "De supprimer les débats politiques.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La métaphore de la « bulle » désigne un environnement fermé où l'on ne rencontre pas d'opinions différentes."
+    },
+    {
+     "prompt": "Pourquoi le chroniqueur dit-il « n'idéalisons pas le passé » ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Parce que les réseaux sociaux n'existaient pas.",
+       "correct": false,
+       "rationale": "C'est évident, mais ce n'est pas l'argument.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que la violence des débats existait déjà autrefois.",
+       "correct": true,
+       "rationale": "« Les pamphlets du dix-neuvième siècle n'avaient rien à envier à nos polémiques en ligne en matière de violence verbale. »",
+       "label": "B"
+      },
+      {
+       "text": "Parce que les algorithmes sont récents.",
+       "correct": false,
+       "rationale": "Ce n'est pas son propos.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que le passé était plus démocratique.",
+       "correct": false,
+       "rationale": "Il dit l'inverse.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« N'avoir rien à envier à » signifie être aussi fort que. Il relativise l'idée d'un âge d'or du débat."
+    },
+    {
+     "prompt": "Selon lui, qu'est-ce qui a réellement changé ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "La qualité des arguments.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "La violence des propos.",
+       "correct": false,
+       "rationale": "Elle existait déjà.",
+       "label": "B"
+      },
+      {
+       "text": "La rapidité et l'étendue de la diffusion des propos.",
+       "correct": true,
+       "rationale": "« Ce qui a changé, c'est surtout la vitesse et l'ampleur. »",
+       "label": "C"
+      },
+      {
+       "text": "Le nombre de personnes qui s'intéressent à la politique.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La mise en relief « Ce qui a changé, c'est… » isole le véritable changement après avoir écarté une fausse nouveauté."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "title": "Le débat public est-il devenu impossible ?",
+   "document": "H: On se plaint souvent que le débat public est devenu impossible, que chacun reste enfermé dans ses certitudes. Les réseaux sociaux sont accusés d'avoir créé des bulles où l'on ne rencontre que ceux qui pensent comme nous. Il y a du vrai dans ce diagnostic. Les algorithmes mettent en avant les contenus qui suscitent l'indignation, parce qu'ils génèrent davantage de réactions. Mais n'idéalisons pas le passé. Les débats d'autrefois étaient-ils vraiment plus sereins ? Les pamphlets du dix-neuvième siècle n'avaient rien à envier à nos polémiques en ligne en matière de violence verbale. Ce qui a changé, c'est surtout la vitesse et l'ampleur : une phrase sortie de son contexte peut faire le tour du pays en quelques heures. Débattre exige du temps, de la nuance, l'acceptation d'avoir tort. Ce sont justement les qualités que la rapidité des échanges met à l'épreuve.",
+   "vocabulary": [
+    {
+     "terme": "une certitude",
+     "definition": "une conviction ferme",
+     "exemple": "Il reste enfermé dans ses certitudes."
+    },
+    {
+     "terme": "l'indignation",
+     "definition": "la colère face à une injustice",
+     "exemple": "Cette décision a suscité l'indignation."
+    },
+    {
+     "terme": "un pamphlet",
+     "definition": "un texte court et violent qui attaque quelqu'un ou quelque chose",
+     "exemple": "Voltaire a écrit de nombreux pamphlets."
+    },
+    {
+     "terme": "l'ampleur",
+     "definition": "l'importance, l'étendue",
+     "exemple": "On mesure mal l'ampleur du problème."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "il y a du vrai",
+     "sens": "c'est en partie exact",
+     "exemple": "Dans ce que tu dis, il y a du vrai."
+    },
+    {
+     "expression": "n'avoir rien à envier à",
+     "sens": "être aussi bon ou aussi fort que",
+     "exemple": "Ce restaurant n'a rien à envier aux grands chefs."
+    },
+    {
+     "expression": "mettre à l'épreuve",
+     "sens": "tester, éprouver",
+     "exemple": "Ce voyage a mis leur amitié à l'épreuve."
+    }
+   ]
+  }
+ ]
+}
