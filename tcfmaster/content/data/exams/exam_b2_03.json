@@ -1383,7 +1383,7 @@
    "level": "B2",
    "doc_type": "article",
    "skill": "information précise",
-   "document": "Depuis cette année, les ménages peuvent bénéficier d'un « chèque énergie » s'ils remplissent des conditions de revenus. Il est envoyé automatiquement, sans démarche, aux foyers concernés, à partir des informations de la déclaration d'impôts. Il peut servir à payer les factures d'électricité, de gaz ou de bois, ainsi que certains travaux de rénovation énergétique. Attention : il n'est valable que jusqu'au 31 mars de l'année suivante.",
+   "document": "Les ménages aux revenus modestes peuvent bénéficier d'un « chèque énergie » s'ils remplissent certaines conditions de ressources. Il est envoyé automatiquement, sans démarche, aux foyers concernés, à partir des informations de la déclaration d'impôts. Il peut servir à payer les factures d'électricité, de gaz ou de bois, ainsi que certains travaux de rénovation énergétique. Attention : il n'est valable que jusqu'au 31 mars de l'année suivante.",
    "prompt": "Comment obtient-on le chèque énergie ?",
    "choices": [
     {
