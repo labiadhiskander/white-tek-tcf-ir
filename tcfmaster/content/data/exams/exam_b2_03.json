@@ -1,0 +1,1996 @@
+{
+ "code": "B2-BLANC-03",
+ "title": "Examen blanc B2 n° 3 – Environnement et territoires",
+ "level": "B2",
+ "description": "Examen complet de niveau B2 aux durées officielles : climat, énergie, biodiversité, villes et campagnes.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "intention",
+   "document": "F: Bonjour, c'est Claire, de l'association des jardins partagés. Je t'appelle parce que la mairie nous a enfin répondu pour la parcelle de la rue des Acacias : c'est d'accord, mais à condition qu'on installe un récupérateur d'eau de pluie avant l'été. Tu t'y connais un peu en bricolage, non ? Tu pourrais regarder ce qu'il faudrait acheter ? On en parle samedi au jardin.",
+   "prompt": "Que demande Claire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un avis sur le choix de la parcelle.",
+     "correct": false,
+     "rationale": "La parcelle est déjà obtenue."
+    },
+    {
+     "label": "B",
+     "text": "Un rendez-vous à la mairie.",
+     "correct": false,
+     "rationale": "La mairie a déjà répondu."
+    },
+    {
+     "label": "C",
+     "text": "Une aide pour préparer l'installation d'un récupérateur d'eau.",
+     "correct": true,
+     "rationale": "« Tu pourrais regarder ce qu'il faudrait acheter ? »."
+    },
+    {
+     "label": "D",
+     "text": "Une participation financière à l'association.",
+     "correct": false,
+     "rationale": "Elle ne demande pas d'argent."
+    }
+   ],
+   "explanation": "La demande arrive après le contexte (accord de la mairie sous condition) et repose sur la compétence de l'interlocuteur (« tu t'y connais un peu en bricolage »). Le conditionnel « tu pourrais » adoucit la demande.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co01.wav"
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "reportage radio",
+   "skill": "information précise",
+   "document": "H: Dans cette vallée des Alpes, la station de ski a fermé ses remontées mécaniques l'hiver dernier, faute de neige suffisante depuis plusieurs années. Plutôt que de laisser les installations à l'abandon, la commune a décidé de démonter les télésièges et de reconvertir le domaine en espace de randonnée toute l'année. Un refuge et un parcours d'observation de la faune doivent ouvrir au printemps prochain.",
+   "prompt": "Pourquoi la station a-t-elle fermé ses remontées ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour construire un nouveau refuge.",
+     "correct": false,
+     "rationale": "Le refuge est une conséquence, pas la cause."
+    },
+    {
+     "label": "B",
+     "text": "Par manque d'enneigement depuis plusieurs années.",
+     "correct": true,
+     "rationale": "« faute de neige suffisante depuis plusieurs années »."
+    },
+    {
+     "label": "C",
+     "text": "À la suite d'un accident sur un télésiège.",
+     "correct": false,
+     "rationale": "Aucun accident n'est mentionné."
+    },
+    {
+     "label": "D",
+     "text": "À cause de difficultés financières de la commune.",
+     "correct": false,
+     "rationale": "Le manque d'argent n'est pas évoqué."
+    }
+   ],
+   "explanation": "« Faute de » introduit la cause : l'absence de neige. Les projets de reconversion (randonnée, refuge, observation de la faune) répondent à cette situation.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co02.wav"
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "H: Tu as vu le projet de parc solaire sur l'ancienne carrière ? / F: Oui, et pour une fois, je trouve que c'est une bonne idée. Le terrain ne sert à rien depuis vingt ans. / H: Les gens du hameau ont peur que ça abîme le paysage. / F: Une carrière abandonnée, ce n'est pas vraiment une carte postale ! Je préfère ça mille fois à des panneaux sur des terres agricoles.",
+   "prompt": "Quelle est l'opinion de la femme sur le projet ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle préfère installer les panneaux sur des terres agricoles.",
+     "correct": false,
+     "rationale": "Elle dit l'inverse."
+    },
+    {
+     "label": "B",
+     "text": "Elle s'y oppose pour protéger le paysage.",
+     "correct": false,
+     "rationale": "C'est la crainte des habitants qu'elle conteste."
+    },
+    {
+     "label": "C",
+     "text": "Elle n'a pas d'avis sur la question.",
+     "correct": false,
+     "rationale": "Son avis est clairement exprimé."
+    },
+    {
+     "label": "D",
+     "text": "Elle y est favorable, car le terrain est déjà dégradé.",
+     "correct": true,
+     "rationale": "« Le terrain ne sert à rien depuis vingt ans » et « ce n'est pas vraiment une carte postale »."
+    }
+   ],
+   "explanation": "La femme justifie son soutien par l'état du terrain et répond à l'objection paysagère avec ironie (« pas vraiment une carte postale »). La comparaison finale confirme sa position.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co03.wav"
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: En raison de l'épisode de sécheresse, la préfecture a placé le département en alerte renforcée. À compter de ce jour, l'arrosage des jardins et des espaces verts est interdit entre huit heures et vingt heures. Le lavage des voitures est interdit en dehors des stations professionnelles équipées d'un système de recyclage de l'eau. Le remplissage des piscines privées est également interdit jusqu'à nouvel ordre.",
+   "prompt": "Quand peut-on encore arroser son jardin ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Avant huit heures du matin ou après vingt heures.",
+     "correct": true,
+     "rationale": "L'arrosage est interdit « entre huit heures et vingt heures »."
+    },
+    {
+     "label": "B",
+     "text": "Uniquement le week-end.",
+     "correct": false,
+     "rationale": "Le texte ne parle pas du week-end."
+    },
+    {
+     "label": "C",
+     "text": "Jamais, l'arrosage est totalement interdit.",
+     "correct": false,
+     "rationale": "Il est interdit seulement en journée."
+    },
+    {
+     "label": "D",
+     "text": "À n'importe quelle heure.",
+     "correct": false,
+     "rationale": "Une plage horaire est interdite."
+    }
+   ],
+   "explanation": "L'interdiction porte sur une plage horaire : on en déduit que l'arrosage reste possible tôt le matin et le soir. Les autres restrictions concernent le lavage des voitures et les piscines.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co04.wav"
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "compréhension globale",
+   "document": "H: Vous êtes apicultrice. Quelle est la principale menace pour vos abeilles ? / F: On parle beaucoup des pesticides, à juste titre. Mais ce qui me frappe, c'est la disparition des fleurs. Les haies ont été arrachées, les prairies remplacées par des cultures uniques. Au mois de juillet, mes abeilles n'ont parfois plus rien à butiner. Planter des haies et laisser fleurir les bords de routes, ça ne coûte presque rien et ça change tout.",
+   "prompt": "Quel est le message principal de l'apicultrice ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faut interdire l'apiculture en été.",
+     "correct": false,
+     "rationale": "Elle ne propose rien de tel."
+    },
+    {
+     "label": "B",
+     "text": "Le manque de fleurs menace les abeilles, et des solutions simples existent.",
+     "correct": true,
+     "rationale": "Elle insiste sur « la disparition des fleurs » et sur des mesures qui « ne coûtent presque rien »."
+    },
+    {
+     "label": "C",
+     "text": "Les pesticides ne posent aucun problème.",
+     "correct": false,
+     "rationale": "Elle dit qu'on en parle « à juste titre »."
+    },
+    {
+     "label": "D",
+     "text": "Les abeilles produisent trop de miel en juillet.",
+     "correct": false,
+     "rationale": "Elles n'ont « plus rien à butiner »."
+    }
+   ],
+   "explanation": "L'apicultrice concède l'importance des pesticides, puis déplace l'attention avec « mais ce qui me frappe, c'est… ». Sa conclusion propose des solutions peu coûteuses.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co05.wav"
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "skill": "inférence",
+   "document": "F: Chaque été, les vacanciers découvrent les panneaux « baignade interdite » sur certaines plages de rivière. La faute, souvent, à des algues toxiques qui prolifèrent quand l'eau est chaude et riche en nitrates. Les autorités analysent l'eau régulièrement, mais les résultats ne sont pas toujours affichés à temps. Alors, si vous voyez une eau verdâtre et une mousse en surface, mieux vaut s'abstenir, même sans panneau.",
+   "prompt": "Que conseille implicitement la chroniqueuse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De demander les résultats d'analyse à la mairie.",
+     "correct": false,
+     "rationale": "Elle ne donne pas ce conseil."
+    },
+    {
+     "label": "B",
+     "text": "De se baigner uniquement quand il fait chaud.",
+     "correct": false,
+     "rationale": "La chaleur favorise justement les algues toxiques."
+    },
+    {
+     "label": "C",
+     "text": "De ne jamais se baigner en rivière.",
+     "correct": false,
+     "rationale": "Elle conseille la prudence dans certains cas précis."
+    },
+    {
+     "label": "D",
+     "text": "De faire preuve de prudence même sans interdiction affichée.",
+     "correct": true,
+     "rationale": "« mieux vaut s'abstenir, même sans panneau »."
+    }
+   ],
+   "explanation": "La chroniqueuse explique pourquoi les panneaux peuvent arriver trop tard, puis donne des indices visuels. « Mieux vaut s'abstenir » exprime un conseil de prudence.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co06.wav"
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "débat radio",
+   "skill": "opinion",
+   "document": "H: La voiture électrique, c'est la solution pour réduire les émissions des transports. / F: C'est une partie de la solution, pas la solution. Si on remplace chaque voiture thermique par une voiture électrique de deux tonnes, on garde les embouteillages, on consomme énormément de métaux pour les batteries, et on continue d'artificialiser les sols pour les parkings. La vraie question, c'est comment avoir besoin de moins de voitures.",
+   "prompt": "Quelle est la position de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La voiture électrique ne suffit pas : il faut réduire le nombre de voitures.",
+     "correct": true,
+     "rationale": "« La vraie question, c'est comment avoir besoin de moins de voitures »."
+    },
+    {
+     "label": "B",
+     "text": "Les voitures thermiques sont moins polluantes.",
+     "correct": false,
+     "rationale": "Elle ne défend pas les voitures thermiques."
+    },
+    {
+     "label": "C",
+     "text": "La voiture électrique est inutile et doit être interdite.",
+     "correct": false,
+     "rationale": "Elle dit que c'est « une partie de la solution »."
+    },
+    {
+     "label": "D",
+     "text": "Il faut construire davantage de parkings.",
+     "correct": false,
+     "rationale": "Elle critique l'artificialisation des sols."
+    }
+   ],
+   "explanation": "La formule « une partie de la solution, pas la solution » nuance l'affirmation de l'homme. La mise en relief finale « la vraie question, c'est… » révèle sa thèse.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co07.wav"
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "H: Bonjour à tous, pour la sortie botanique de dimanche, rendez-vous à neuf heures au parking de la forêt domaniale, et non à l'entrée principale, qui est en travaux. Prévoyez des chaussures de marche, de l'eau et un pique-nique. La sortie sera annulée en cas d'orage : je vous enverrai un message samedi soir avant vingt heures pour confirmer.",
+   "prompt": "Où les participants doivent-ils se retrouver ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À l'entrée principale de la forêt.",
+     "correct": false,
+     "rationale": "Elle « est en travaux »."
+    },
+    {
+     "label": "B",
+     "text": "Au lieu indiqué dans le message de samedi.",
+     "correct": false,
+     "rationale": "Le message de samedi confirmera seulement la sortie."
+    },
+    {
+     "label": "C",
+     "text": "Au parking de la forêt domaniale.",
+     "correct": true,
+     "rationale": "« rendez-vous à neuf heures au parking de la forêt domaniale »."
+    },
+    {
+     "label": "D",
+     "text": "Devant la mairie.",
+     "correct": false,
+     "rationale": "La mairie n'est pas mentionnée."
+    }
+   ],
+   "explanation": "La structure « et non à l'entrée principale » corrige une habitude. Le message de samedi concerne la confirmation, pas le lieu.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co08.wav"
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "intention",
+   "document": "F: Votre ville a planté trois mille arbres en deux ans. Est-ce vraiment efficace contre la chaleur ? / H: Il ne faut pas attendre de miracle immédiat : un jeune arbre met une dizaine d'années à offrir une ombre réelle. Mais les mesures sont claires : dans les rues arborées, la température au sol peut être inférieure de plusieurs degrés. Nous plantons aujourd'hui pour les étés de 2035, pas pour celui-ci.",
+   "prompt": "Que veut faire comprendre l'élu ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Que les effets des plantations seront visibles à long terme.",
+     "correct": true,
+     "rationale": "« Nous plantons aujourd'hui pour les étés de 2035, pas pour celui-ci »."
+    },
+    {
+     "label": "B",
+     "text": "Que les arbres ne servent à rien contre la chaleur.",
+     "correct": false,
+     "rationale": "Il cite des mesures qui prouvent leur efficacité."
+    },
+    {
+     "label": "C",
+     "text": "Que la ville va arrêter de planter.",
+     "correct": false,
+     "rationale": "Il défend les plantations."
+    },
+    {
+     "label": "D",
+     "text": "Que les arbres plantés sont déjà adultes.",
+     "correct": false,
+     "rationale": "Il parle de « jeunes arbres »."
+    }
+   ],
+   "explanation": "L'élu tempère les attentes (« pas de miracle immédiat »), confirme l'efficacité, puis conclut par une opposition temporelle qui résume son message : investir pour l'avenir.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co09.wav"
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "F: Sur cette île bretonne, l'eau douce est une ressource rare. Depuis cinq ans, une usine transforme l'eau de mer en eau potable, mais elle consomme beaucoup d'énergie. Alors les habitants ont pris l'habitude d'économiser : toilettes sèches dans les nouvelles maisons, récupération de l'eau de pluie, réducteurs de débit distribués gratuitement. Résultat : la consommation par habitant a baissé d'un quart.",
+   "prompt": "Quel est le sujet principal du reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La construction d'une nouvelle usine sur le continent.",
+     "correct": false,
+     "rationale": "L'usine est sur l'île et fonctionne depuis cinq ans."
+    },
+    {
+     "label": "B",
+     "text": "La manière dont les habitants d'une île gèrent une ressource en eau limitée.",
+     "correct": true,
+     "rationale": "Le reportage décrit l'usine et surtout les habitudes d'économie des habitants."
+    },
+    {
+     "label": "C",
+     "text": "La pollution de l'eau de mer.",
+     "correct": false,
+     "rationale": "La pollution n'est pas le sujet."
+    },
+    {
+     "label": "D",
+     "text": "Le tourisme sur les îles bretonnes.",
+     "correct": false,
+     "rationale": "Le tourisme n'est pas évoqué."
+    }
+   ],
+   "explanation": "Le reportage pose une contrainte (eau rare), une solution technique coûteuse en énergie, puis des comportements d'économie et un résultat chiffré. L'idée globale est la gestion collective d'une ressource rare.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co10.wav"
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "conversation administrative",
+   "skill": "information précise",
+   "document": "H: Bonjour, je voudrais savoir si je peux obtenir une aide pour remplacer ma vieille chaudière au fioul. / F: Oui, sous conditions. Le montant dépend de vos revenus et du type d'équipement installé, une pompe à chaleur par exemple. Mais attention : les travaux doivent être réalisés par une entreprise certifiée, et vous devez déposer votre demande avant de signer le devis. / H: Ah… j'ai déjà signé la semaine dernière.",
+   "prompt": "Quel problème l'homme risque-t-il de rencontrer ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ses revenus sont trop élevés.",
+     "correct": false,
+     "rationale": "Ses revenus ne sont pas évoqués."
+    },
+    {
+     "label": "B",
+     "text": "L'entreprise choisie n'est pas certifiée.",
+     "correct": false,
+     "rationale": "Rien n'indique que l'entreprise ne soit pas certifiée."
+    },
+    {
+     "label": "C",
+     "text": "Les pompes à chaleur ne sont pas concernées.",
+     "correct": false,
+     "rationale": "Elles sont citées comme exemple d'équipement aidé."
+    },
+    {
+     "label": "D",
+     "text": "Il pourrait ne pas obtenir l'aide, car il a signé le devis trop tôt.",
+     "correct": true,
+     "rationale": "La demande doit être déposée « avant de signer le devis » ; il a déjà signé."
+    }
+   ],
+   "explanation": "L'agent énonce une règle (« avant de signer le devis ») et la réplique finale de l'homme montre qu'il ne l'a pas respectée. On en déduit le risque de refus.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co11.wav"
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "opinion",
+   "document": "H: On demande aux citoyens de trier leurs déchets, de baisser le chauffage, de prendre le vélo. Fort bien. Mais quand ils voient des jets privés décoller pour des trajets de quarante minutes, ou des écrans publicitaires allumés toute la nuit, comment leur demander des efforts sans qu'ils se sentent pris pour des imbéciles ? La transition écologique ne sera acceptée que si elle est perçue comme juste.",
+   "prompt": "Quel est le point de vue du chroniqueur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les citoyens ne doivent faire aucun effort.",
+     "correct": false,
+     "rationale": "Il approuve les efforts (« Fort bien »)."
+    },
+    {
+     "label": "B",
+     "text": "Le tri des déchets est inutile.",
+     "correct": false,
+     "rationale": "Il ne critique pas le tri."
+    },
+    {
+     "label": "C",
+     "text": "Les efforts écologiques doivent être équitablement répartis pour être acceptés.",
+     "correct": true,
+     "rationale": "« La transition écologique ne sera acceptée que si elle est perçue comme juste »."
+    },
+    {
+     "label": "D",
+     "text": "Les jets privés sont indispensables à l'économie.",
+     "correct": false,
+     "rationale": "Il les cite comme exemple d'injustice."
+    }
+   ],
+   "explanation": "Le chroniqueur oppose les petits gestes demandés aux citoyens et des comportements très polluants tolérés. La restriction « ne… que si » exprime une condition nécessaire : la justice.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co12.wav"
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "inférence",
+   "document": "F: Vous êtes éleveur dans le Cantal. Comment vivez-vous le retour du loup ? / H: Je ne suis pas contre le loup en soi. Mais cet été, j'ai perdu onze brebis en une nuit. On m'a indemnisé, d'accord. Seulement, l'indemnisation ne paie pas les nuits sans sommeil, ni les chiens de protection qu'il faut nourrir toute l'année. Ceux qui en parlent depuis la ville n'ont pas idée de ce que ça représente.",
+   "prompt": "Que laisse entendre l'éleveur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les citadins sous-estiment les contraintes du retour du loup.",
+     "correct": true,
+     "rationale": "« Ceux qui en parlent depuis la ville n'ont pas idée de ce que ça représente »."
+    },
+    {
+     "label": "B",
+     "text": "Il souhaite l'extermination totale des loups.",
+     "correct": false,
+     "rationale": "« Je ne suis pas contre le loup en soi »."
+    },
+    {
+     "label": "C",
+     "text": "Les chiens de protection sont gratuits.",
+     "correct": false,
+     "rationale": "Il faut les nourrir toute l'année."
+    },
+    {
+     "label": "D",
+     "text": "Il n'a reçu aucune indemnisation.",
+     "correct": false,
+     "rationale": "« On m'a indemnisé, d'accord »."
+    }
+   ],
+   "explanation": "L'éleveur nuance sa position, puis énumère des coûts que l'indemnisation ne couvre pas. Sa dernière phrase vise implicitement ceux qui jugent sans connaître la réalité.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co13.wav"
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce radio",
+   "skill": "information précise",
+   "document": "H: Le parc naturel régional rappelle qu'à partir du 15 juin, la cueillette des plantes protégées, comme l'arnica et certaines orchidées, est strictement interdite sur l'ensemble du territoire du parc. La cueillette des autres espèces est tolérée pour un usage familial, dans la limite d'une poignée par personne. Les gardes procéderont à des contrôles réguliers, en particulier sur les sentiers les plus fréquentés.",
+   "prompt": "Que dit l'annonce sur la cueillette des espèces non protégées ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle est illimitée sur les sentiers.",
+     "correct": false,
+     "rationale": "Elle est limitée à une poignée."
+    },
+    {
+     "label": "B",
+     "text": "Elle reste possible en petite quantité pour un usage personnel.",
+     "correct": true,
+     "rationale": "« tolérée pour un usage familial, dans la limite d'une poignée par personne »."
+    },
+    {
+     "label": "C",
+     "text": "Elle nécessite une autorisation des gardes.",
+     "correct": false,
+     "rationale": "Aucune autorisation n'est demandée."
+    },
+    {
+     "label": "D",
+     "text": "Elle est interdite à partir du 15 juin.",
+     "correct": false,
+     "rationale": "Seules les plantes protégées sont interdites."
+    }
+   ],
+   "explanation": "L'annonce distingue deux cas : plantes protégées (interdiction stricte) et autres espèces (tolérance limitée). Le mot « tolérée » indique une permission sous condition.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co14.wav"
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "intention",
+   "document": "F: Tu sais que ton voisin se plaint de tes poules ? / H: Mes poules ? Elles ne font pas plus de bruit que son chien ! / F: Ce n'est pas le bruit, c'est le coq. Il chante à cinq heures du matin. / H: Bon… Je pourrais peut-être l'enfermer dans le poulailler la nuit, ça atténuerait le bruit. Tu crois que ça suffirait ?",
+   "prompt": "Que fait finalement l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il porte plainte contre le chien du voisin.",
+     "correct": false,
+     "rationale": "Il compare seulement les bruits."
+    },
+    {
+     "label": "B",
+     "text": "Il refuse de discuter du problème.",
+     "correct": false,
+     "rationale": "Il propose une solution."
+    },
+    {
+     "label": "C",
+     "text": "Il envisage une solution pour réduire la gêne.",
+     "correct": true,
+     "rationale": "« Je pourrais peut-être l'enfermer dans le poulailler la nuit »."
+    },
+    {
+     "label": "D",
+     "text": "Il décide de se séparer de ses poules.",
+     "correct": false,
+     "rationale": "Il parle seulement d'enfermer le coq la nuit."
+    }
+   ],
+   "explanation": "L'homme se défend d'abord, puis, après la précision de la femme, change d'attitude (« Bon… ») et propose un compromis au conditionnel.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co15.wav"
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "H: Dans cette école de Lyon, la cour en bitume a été remplacée par un espace végétalisé : pelouse, potager, arbres fruitiers et petit ruisseau qui récupère l'eau de pluie. Les enseignants constatent moins de bagarres et des enfants plus calmes en classe. Et lors de la dernière canicule, la température y était inférieure de six degrés à celle de la cour voisine, restée goudronnée.",
+   "prompt": "Que montre principalement ce reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les plaintes des parents contre le projet.",
+     "correct": false,
+     "rationale": "Les parents ne sont pas évoqués."
+    },
+    {
+     "label": "B",
+     "text": "Les dangers d'un ruisseau dans une école.",
+     "correct": false,
+     "rationale": "Aucun danger n'est évoqué."
+    },
+    {
+     "label": "C",
+     "text": "Le coût élevé des travaux.",
+     "correct": false,
+     "rationale": "Le coût n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Les bénéfices multiples de la végétalisation d'une cour d'école.",
+     "correct": true,
+     "rationale": "Il évoque le calme des enfants et la baisse de température."
+    }
+   ],
+   "explanation": "Le reportage décrit la transformation puis deux types de résultats : comportementaux (moins de bagarres) et climatiques (six degrés de moins). L'idée principale est donc l'ensemble de ces bénéfices.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co16.wav"
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Faut-il interdire les vols intérieurs lorsqu'il existe une alternative en train ? / H: Sur le principe, oui. Quand le trajet en train dure moins de trois heures, prendre l'avion n'a aucun sens écologique. Mais encore faut-il que le train soit abordable. Aujourd'hui, un aller-retour en train coûte parfois deux fois plus cher qu'en avion. Interdire sans corriger cette absurdité, c'est pénaliser ceux qui ont le moins de moyens.",
+   "prompt": "Quelle est la position de l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il approuve l'interdiction à condition que le train devienne moins cher.",
+     "correct": true,
+     "rationale": "« Sur le principe, oui… Mais encore faut-il que le train soit abordable »."
+    },
+    {
+     "label": "B",
+     "text": "Il refuse toute interdiction des vols.",
+     "correct": false,
+     "rationale": "Il approuve le principe."
+    },
+    {
+     "label": "C",
+     "text": "Il pense que l'avion est plus écologique.",
+     "correct": false,
+     "rationale": "Il dit que l'avion n'a « aucun sens écologique » sur ces trajets."
+    },
+    {
+     "label": "D",
+     "text": "Il veut augmenter le prix des billets de train.",
+     "correct": false,
+     "rationale": "Il critique leur prix trop élevé."
+    }
+   ],
+   "explanation": "La réponse suit une structure classique : accord de principe, condition (« encore faut-il que »), risque si la condition n'est pas remplie. Le mot « absurdité » qualifie le décalage de prix.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co17.wav"
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "information précise",
+   "document": "H: Bonjour Madame Petit, ici le service des espaces verts. Nous avons bien reçu votre signalement concernant le platane dangereux devant le numéro 14. Un technicien est passé ce matin : l'arbre est malade et devra être abattu. L'intervention aura lieu mardi prochain ; le stationnement sera interdit dans la rue de sept heures à midi. Un nouvel arbre sera planté à l'automne.",
+   "prompt": "Que va-t-il se passer mardi prochain ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un technicien viendra examiner l'arbre.",
+     "correct": false,
+     "rationale": "Le technicien est déjà passé « ce matin »."
+    },
+    {
+     "label": "B",
+     "text": "Un nouvel arbre sera planté.",
+     "correct": false,
+     "rationale": "La plantation est prévue à l'automne."
+    },
+    {
+     "label": "C",
+     "text": "La rue sera fermée toute la journée.",
+     "correct": false,
+     "rationale": "Seul le stationnement est interdit, et le matin seulement."
+    },
+    {
+     "label": "D",
+     "text": "L'arbre malade sera abattu et le stationnement interdit le matin.",
+     "correct": true,
+     "rationale": "« L'intervention aura lieu mardi prochain ; le stationnement sera interdit… de sept heures à midi »."
+    }
+   ],
+   "explanation": "Le message suit une chronologie : signalement, visite du technicien, abattage mardi, plantation à l'automne. Il faut associer chaque action au bon moment.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co18.wav"
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "inférence",
+   "document": "H: Les panneaux solaires sur les toits, c'est bien, mais ils ne produisent rien la nuit. / F: C'est vrai. C'est pour ça qu'il faut combiner les sources : le solaire le jour, l'éolien qui produit souvent davantage la nuit et l'hiver, l'hydraulique pour stocker. Personne de sérieux ne propose de tout miser sur une seule énergie. Opposer le solaire à ses limites, c'est un peu facile.",
+   "prompt": "Que laisse entendre la femme à propos de l'argument de l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'éolien ne produit jamais la nuit.",
+     "correct": false,
+     "rationale": "Elle dit qu'il produit « souvent davantage la nuit »."
+    },
+    {
+     "label": "B",
+     "text": "Il caricature le débat en ignorant la complémentarité des énergies.",
+     "correct": true,
+     "rationale": "« Opposer le solaire à ses limites, c'est un peu facile »."
+    },
+    {
+     "label": "C",
+     "text": "Il a totalement raison et le solaire doit être abandonné.",
+     "correct": false,
+     "rationale": "Elle reconnaît la limite mais défend le solaire combiné à d'autres sources."
+    },
+    {
+     "label": "D",
+     "text": "Le solaire produit autant la nuit que le jour.",
+     "correct": false,
+     "rationale": "Elle admet que l'homme a raison sur ce point."
+    }
+   ],
+   "explanation": "La femme concède le fait (« C'est vrai »), puis démontre que la limite est compensée par d'autres sources. Sa dernière phrase critique implicitement la façon dont l'homme pose le problème.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co19.wav"
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "conférence",
+   "skill": "compréhension globale",
+   "document": "F: On imagine souvent que protéger la nature consiste à la mettre sous cloche, loin des humains. Or, beaucoup de paysages riches en biodiversité, comme les prairies fleuries ou les bocages, sont le fruit de siècles d'activité agricole. Si on les abandonne, ils se referment et perdent une partie de leurs espèces. La question n'est donc pas de choisir entre l'homme et la nature, mais de trouver des pratiques qui leur profitent à tous deux.",
+   "prompt": "Quelle idée principale la conférencière défend-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les prairies abandonnées gagnent de nouvelles espèces.",
+     "correct": false,
+     "rationale": "Elles en « perdent une partie »."
+    },
+    {
+     "label": "B",
+     "text": "La nature doit être totalement séparée des humains.",
+     "correct": false,
+     "rationale": "C'est l'idée qu'elle conteste."
+    },
+    {
+     "label": "C",
+     "text": "Certaines activités humaines peuvent favoriser la biodiversité.",
+     "correct": true,
+     "rationale": "Les prairies et bocages sont « le fruit de siècles d'activité agricole »."
+    },
+    {
+     "label": "D",
+     "text": "L'agriculture détruit toujours la biodiversité.",
+     "correct": false,
+     "rationale": "Elle montre au contraire des cas positifs."
+    }
+   ],
+   "explanation": "« On imagine souvent que… Or… » introduit la réfutation d'une idée reçue. La dernière phrase, avec « non pas… mais… », formule la thèse de manière synthétique.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co20.wav"
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "intention",
+   "document": "H: Madame la présidente de région, votre projet d'autoroute est contesté par les associations écologistes. / F: J'entends leurs arguments et je ne les méprise pas. Mais cette route désenclavera des territoires où les habitants mettent une heure pour rejoindre un hôpital. Nous avons réduit le tracé de quinze kilomètres pour éviter la zone humide, et nous financerons la plantation de cent hectares de forêt en compensation.",
+   "prompt": "Que cherche à faire la présidente ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Défendre son projet en montrant qu'il tient compte de l'environnement.",
+     "correct": true,
+     "rationale": "Elle justifie l'utilité du projet puis cite le tracé modifié et la compensation."
+    },
+    {
+     "label": "B",
+     "text": "Proposer de construire un nouvel hôpital.",
+     "correct": false,
+     "rationale": "L'hôpital sert d'exemple pour l'enclavement."
+    },
+    {
+     "label": "C",
+     "text": "Critiquer violemment les associations écologistes.",
+     "correct": false,
+     "rationale": "Elle dit ne pas « mépriser » leurs arguments."
+    },
+    {
+     "label": "D",
+     "text": "Annoncer l'abandon du projet d'autoroute.",
+     "correct": false,
+     "rationale": "Elle défend le projet."
+    }
+   ],
+   "explanation": "La présidente adopte une stratégie en trois temps : reconnaissance des critiques, justification sociale, garanties environnementales. Son objectif est de rendre le projet acceptable.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co21.wav"
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "information précise",
+   "document": "F: La ville propose désormais des composteurs collectifs au pied des immeubles. Pour en bénéficier, il suffit qu'au moins dix foyers d'une même résidence se portent volontaires et désignent un référent. La ville fournit le bac, un seau par foyer et une formation de deux heures. Le compost produit est ensuite partagé entre les participants ou donné aux jardins partagés du quartier.",
+   "prompt": "Quelle condition faut-il remplir pour obtenir un composteur collectif ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Posséder un jardin privé.",
+     "correct": false,
+     "rationale": "Le composteur est installé au pied des immeubles."
+    },
+    {
+     "label": "B",
+     "text": "Réunir au moins dix foyers volontaires et un référent.",
+     "correct": true,
+     "rationale": "« il suffit qu'au moins dix foyers… se portent volontaires et désignent un référent »."
+    },
+    {
+     "label": "C",
+     "text": "Payer l'achat du bac.",
+     "correct": false,
+     "rationale": "La ville fournit le bac."
+    },
+    {
+     "label": "D",
+     "text": "Suivre une formation de deux jours.",
+     "correct": false,
+     "rationale": "La formation dure deux heures et est fournie après."
+    }
+   ],
+   "explanation": "« Il suffit que » introduit la condition minimale. Les éléments fournis par la ville et l'usage du compost sont des informations complémentaires.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co22.wav"
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "H: Je pense qu'on va arrêter de prendre l'avion pour les vacances. / F: Ah bon ? Tu étais pourtant le premier à vouloir aller au Mexique. / H: Je sais, mais j'ai calculé : un seul aller-retour représente plus que tout ce qu'on économise en un an en prenant le vélo. Ça m'a un peu refroidi. / F: Moi, je ne suis pas prête à renoncer complètement. Mais un grand voyage tous les trois ans plutôt que chaque année, pourquoi pas.",
+   "prompt": "Quelle est la position de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle veut partir au Mexique chaque année.",
+     "correct": false,
+     "rationale": "Elle accepte de réduire la fréquence."
+    },
+    {
+     "label": "B",
+     "text": "Elle refuse catégoriquement de changer ses habitudes.",
+     "correct": false,
+     "rationale": "Elle propose un compromis."
+    },
+    {
+     "label": "C",
+     "text": "Elle a décidé de ne plus jamais prendre l'avion.",
+     "correct": false,
+     "rationale": "Elle n'est « pas prête à renoncer complètement »."
+    },
+    {
+     "label": "D",
+     "text": "Elle accepte de voyager moins souvent sans renoncer à l'avion.",
+     "correct": true,
+     "rationale": "« un grand voyage tous les trois ans plutôt que chaque année, pourquoi pas »."
+    }
+   ],
+   "explanation": "La femme rejette la position radicale (« pas prête à renoncer complètement ») mais propose une réduction. « Pourquoi pas » marque son acceptation d'un compromis.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co23.wav"
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "inférence",
+   "document": "H: Mesdames et messieurs, nous vous rappelons que le sentier du littoral est fermé entre la pointe du Grouin et la plage des Rochers en raison d'un effondrement de la falaise. Nous vous demandons de respecter les barrières mises en place. Les secouristes sont intervenus à trois reprises ce mois-ci auprès de promeneurs qui les avaient franchies.",
+   "prompt": "Que comprend-on à propos des promeneurs ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils ont tous respecté la fermeture du sentier.",
+     "correct": false,
+     "rationale": "Plusieurs ont franchi les barrières."
+    },
+    {
+     "label": "B",
+     "text": "Ils peuvent emprunter le sentier avec un guide.",
+     "correct": false,
+     "rationale": "Le sentier est fermé sans exception mentionnée."
+    },
+    {
+     "label": "C",
+     "text": "Certains ignorent les consignes de sécurité malgré le danger.",
+     "correct": true,
+     "rationale": "Les secouristes sont intervenus auprès de promeneurs « qui les avaient franchies »."
+    },
+    {
+     "label": "D",
+     "text": "Ils ont provoqué l'effondrement de la falaise.",
+     "correct": false,
+     "rationale": "L'effondrement n'est pas attribué aux promeneurs."
+    }
+   ],
+   "explanation": "La dernière phrase sert de justification au rappel : elle montre implicitement que des promeneurs ont pris des risques en ignorant les barrières.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co24.wav"
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "entretien radio",
+   "skill": "compréhension globale",
+   "document": "F: Vous avez écrit un livre sur la « fatigue écologique ». De quoi s'agit-il ? / H: C'est le découragement de personnes qui ont changé leurs habitudes pendant des années et qui ont le sentiment que rien ne bouge. Elles trient, réduisent leur viande, prennent le train, et pourtant les nouvelles sont toujours alarmantes. Mon livre ne leur dit pas d'arrêter, au contraire : il les encourage à passer de l'action individuelle à l'action collective, plus visible et plus efficace.",
+   "prompt": "Quel est le message principal de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les gestes écologiques individuels sont inutiles et doivent cesser.",
+     "correct": false,
+     "rationale": "« Mon livre ne leur dit pas d'arrêter, au contraire »."
+    },
+    {
+     "label": "B",
+     "text": "La situation écologique s'améliore rapidement.",
+     "correct": false,
+     "rationale": "« les nouvelles sont toujours alarmantes »."
+    },
+    {
+     "label": "C",
+     "text": "La fatigue écologique touche surtout les enfants.",
+     "correct": false,
+     "rationale": "Il parle d'adultes ayant changé leurs habitudes."
+    },
+    {
+     "label": "D",
+     "text": "Pour surmonter le découragement, il faut s'engager collectivement.",
+     "correct": true,
+     "rationale": "Il encourage à « passer de l'action individuelle à l'action collective »."
+    }
+   ],
+   "explanation": "L'auteur définit d'abord la fatigue écologique, puis présente sa réponse avec « au contraire ». La conclusion oppose action individuelle et action collective, plus efficace selon lui.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-03_co25.wav"
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "règlement",
+   "skill": "information précise",
+   "document": "Règlement de la réserve naturelle. Article 2 : Les chiens sont interdits, même tenus en laisse, sur l'ensemble du territoire de la réserve. Article 3 : La circulation à vélo est autorisée uniquement sur la piste forestière balisée. Article 4 : Le bivouac est interdit ; seule l'aire de repos située à l'entrée nord peut accueillir des tentes, pour une nuit maximum. Article 5 : Tout prélèvement de végétaux, de minéraux ou d'animaux est interdit.",
+   "prompt": "Où peut-on planter sa tente dans la réserve ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "N'importe où, à condition de repartir le lendemain.",
+     "correct": false,
+     "rationale": "Le bivouac est interdit ailleurs."
+    },
+    {
+     "label": "B",
+     "text": "Uniquement sur l'aire de repos de l'entrée nord, pour une nuit.",
+     "correct": true,
+     "rationale": "« seule l'aire de repos située à l'entrée nord peut accueillir des tentes, pour une nuit maximum »."
+    },
+    {
+     "label": "C",
+     "text": "Le long de la piste forestière balisée.",
+     "correct": false,
+     "rationale": "La piste concerne la circulation à vélo."
+    },
+    {
+     "label": "D",
+     "text": "Nulle part, le camping est totalement interdit.",
+     "correct": false,
+     "rationale": "Une exception existe à l'entrée nord."
+    }
+   ],
+   "explanation": "L'article 4 pose une interdiction générale puis une exception introduite par « seule ». Ne confondez pas avec l'article 3, qui concerne les vélos."
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "compréhension globale",
+   "document": "Le « zéro artificialisation nette » est devenu un objectif national : d'ici 2050, toute nouvelle surface bétonnée devra être compensée par la renaturation d'une surface équivalente. Les élus ruraux s'inquiètent : comment accueillir de nouveaux habitants sans construire ? Les urbanistes répondent qu'il faut d'abord occuper les logements vacants, transformer les friches industrielles et construire en hauteur dans les centres. Une révolution culturelle pour un pays attaché à la maison individuelle avec jardin.",
+   "prompt": "Quel est le principal enjeu présenté par l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Augmenter le nombre de logements vacants.",
+     "correct": false,
+     "rationale": "Il faut au contraire les occuper."
+    },
+    {
+     "label": "B",
+     "text": "Interdire toute construction en France dès maintenant.",
+     "correct": false,
+     "rationale": "L'objectif est fixé pour 2050 et prévoit des compensations."
+    },
+    {
+     "label": "C",
+     "text": "Concilier développement des territoires et arrêt de l'étalement urbain.",
+     "correct": true,
+     "rationale": "Les élus se demandent comment accueillir des habitants sans construire, les urbanistes proposent des solutions."
+    },
+    {
+     "label": "D",
+     "text": "Développer la maison individuelle avec jardin.",
+     "correct": false,
+     "rationale": "Ce modèle est présenté comme difficile à concilier avec l'objectif."
+    }
+   ],
+   "explanation": "L'article présente un objectif, une inquiétude et des réponses. La dernière phrase souligne la difficulté culturelle d'un tel changement."
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "courrier des lecteurs",
+   "skill": "opinion",
+   "document": "Habitant d'un village sans bus ni gare, j'entends souvent qu'il faut abandonner la voiture. Je veux bien, mais comment ? Le premier supermarché est à quinze kilomètres, mon travail à trente. Je ne demande pas qu'on m'exempte des efforts. Je demande qu'on cesse de me culpabiliser tant que les alternatives n'existent pas. Un car toutes les heures vers la ville, et je serai le premier à laisser ma voiture au garage.",
+   "prompt": "Que réclame l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Des transports collectifs avant qu'on lui demande de renoncer à la voiture.",
+     "correct": true,
+     "rationale": "« Un car toutes les heures vers la ville, et je serai le premier à laisser ma voiture »."
+    },
+    {
+     "label": "B",
+     "text": "La construction d'un supermarché dans son village.",
+     "correct": false,
+     "rationale": "Le supermarché sert d'exemple de distance."
+    },
+    {
+     "label": "C",
+     "text": "Une aide pour acheter une voiture neuve.",
+     "correct": false,
+     "rationale": "Il ne parle pas d'acheter une voiture."
+    },
+    {
+     "label": "D",
+     "text": "Le droit de ne faire aucun effort écologique.",
+     "correct": false,
+     "rationale": "« Je ne demande pas qu'on m'exempte des efforts »."
+    }
+   ],
+   "explanation": "L'auteur distingue ce qu'il ne demande pas (une exemption) de ce qu'il demande (des alternatives). La dernière phrase, au futur, montre sa bonne volonté sous condition."
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "fiche pratique",
+   "skill": "information précise",
+   "document": "Bien utiliser son récupérateur d'eau de pluie. L'eau récupérée peut servir à l'arrosage du jardin, au lavage des sols et des outils. Elle ne doit en aucun cas être bue ni utilisée pour la toilette, car elle peut contenir des bactéries et des polluants venant du toit. Pensez à installer un couvercle pour éviter la prolifération des moustiques, et à vider la cuve avant l'hiver si elle risque de geler.",
+   "prompt": "Pour quel usage l'eau de pluie récupérée est-elle interdite ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le nettoyage des sols.",
+     "correct": false,
+     "rationale": "C'est un usage autorisé."
+    },
+    {
+     "label": "B",
+     "text": "Le lavage des outils.",
+     "correct": false,
+     "rationale": "C'est un usage autorisé."
+    },
+    {
+     "label": "C",
+     "text": "L'arrosage du jardin.",
+     "correct": false,
+     "rationale": "C'est un usage recommandé."
+    },
+    {
+     "label": "D",
+     "text": "La consommation et l'hygiène corporelle.",
+     "correct": true,
+     "rationale": "« Elle ne doit en aucun cas être bue ni utilisée pour la toilette »."
+    }
+   ],
+   "explanation": "La fiche distingue usages autorisés et interdits. « En aucun cas » marque une interdiction absolue, justifiée par le risque de bactéries et de polluants."
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "intention",
+   "document": "Chaque été apporte désormais son lot de records : températures, incendies, sécheresses. Et chaque été, on entend les mêmes mots : « exceptionnel », « inédit », « hors normes ». Il faudrait peut-être changer de vocabulaire. Ce qui était exceptionnel il y a trente ans devient la norme. Continuer à parler d'événements extraordinaires, c'est entretenir l'illusion qu'il suffira d'attendre que les choses reviennent à la normale. Or, la normale d'hier ne reviendra pas : il faut s'adapter à celle de demain.",
+   "prompt": "Quelle est l'intention de l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Critiquer les prévisions météorologiques.",
+     "correct": false,
+     "rationale": "Il critique le vocabulaire, pas les prévisions."
+    },
+    {
+     "label": "B",
+     "text": "Décrire un incendie précis de l'été dernier.",
+     "correct": false,
+     "rationale": "Il parle des étés en général."
+    },
+    {
+     "label": "C",
+     "text": "Rassurer les lecteurs sur un retour rapide à la normale.",
+     "correct": false,
+     "rationale": "Il affirme que « la normale d'hier ne reviendra pas »."
+    },
+    {
+     "label": "D",
+     "text": "Inciter à reconnaître que les événements extrêmes deviennent la norme.",
+     "correct": true,
+     "rationale": "« Ce qui était exceptionnel il y a trente ans devient la norme »."
+    }
+   ],
+   "explanation": "L'éditorialiste part d'une observation sur le langage pour défendre une idée : il faut accepter un changement durable et s'y adapter. L'opposition « la normale d'hier… celle de demain » conclut le texte."
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "courrier administratif",
+   "skill": "information précise",
+   "document": "Monsieur, nous accusons réception de votre demande de subvention pour l'isolation de votre maison. Après examen, votre dossier est incomplet : il manque l'attestation de l'entreprise certifiant la conformité des travaux réalisés. Vous disposez d'un délai de deux mois à compter de la date de ce courrier pour nous la transmettre. Passé ce délai, votre demande sera classée sans suite et vous devrez déposer un nouveau dossier.",
+   "prompt": "Que se passera-t-il si le document n'est pas envoyé dans les deux mois ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'entreprise devra rembourser les travaux.",
+     "correct": false,
+     "rationale": "Rien de tel n'est indiqué."
+    },
+    {
+     "label": "B",
+     "text": "La subvention sera versée automatiquement.",
+     "correct": false,
+     "rationale": "Le dossier incomplet ne peut aboutir."
+    },
+    {
+     "label": "C",
+     "text": "La demande sera abandonnée et il faudra recommencer la procédure.",
+     "correct": true,
+     "rationale": "« votre demande sera classée sans suite et vous devrez déposer un nouveau dossier »."
+    },
+    {
+     "label": "D",
+     "text": "Le délai sera prolongé d'office.",
+     "correct": false,
+     "rationale": "Aucune prolongation n'est prévue."
+    }
+   ],
+   "explanation": "« Passé ce délai » introduit la conséquence. « Classée sans suite » signifie que la demande n'est plus traitée."
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "inférence",
+   "document": "Dans cette métropole, la zone à faibles émissions interdit progressivement l'accès du centre aux véhicules les plus anciens. Les commerçants du centre redoutaient une baisse de fréquentation. Un an plus tard, leur chiffre d'affaires est stable, mais la composition de leur clientèle a changé : moins de clients venus des communes périphériques, davantage d'habitants du centre se déplaçant à pied ou à vélo. Les associations de quartiers populaires, elles, dénoncent une mesure qui pèse surtout sur les ménages qui n'ont pas les moyens de changer de voiture.",
+   "prompt": "Que peut-on déduire de cet article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les habitants des communes périphériques viennent plus souvent.",
+     "correct": false,
+     "rationale": "Il y a « moins de clients venus des communes périphériques »."
+    },
+    {
+     "label": "B",
+     "text": "La mesure a des effets inégaux selon les populations.",
+     "correct": true,
+     "rationale": "Elle pèse « surtout sur les ménages » modestes et éloigne les clients périphériques."
+    },
+    {
+     "label": "C",
+     "text": "Tous les habitants approuvent la mesure.",
+     "correct": false,
+     "rationale": "Des associations la dénoncent."
+    },
+    {
+     "label": "D",
+     "text": "La mesure a ruiné les commerçants du centre.",
+     "correct": false,
+     "rationale": "Leur chiffre d'affaires est « stable »."
+    }
+   ],
+   "explanation": "L'article présente plusieurs points de vue. En les croisant, on comprend que la mesure ne touche pas tout le monde de la même façon, ce que confirme la critique des associations."
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "notice",
+   "skill": "information précise",
+   "document": "Calendrier de collecte des déchets. Les ordures ménagères sont collectées le lundi et le jeudi. Les emballages et papiers, dans le bac jaune, le mercredi des semaines paires. Le verre doit être déposé dans les conteneurs de quartier : il n'est jamais collecté au domicile. Les encombrants sont ramassés sur rendez-vous, une fois par mois, dans la limite de deux mètres cubes par foyer. Les bacs doivent être sortis la veille au soir et rentrés le jour même.",
+   "prompt": "Comment se débarrasser de ses bouteilles en verre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "En les déposant dans un conteneur de quartier.",
+     "correct": true,
+     "rationale": "« Le verre doit être déposé dans les conteneurs de quartier »."
+    },
+    {
+     "label": "B",
+     "text": "En les sortant le lundi avec les ordures ménagères.",
+     "correct": false,
+     "rationale": "Le verre n'est « jamais collecté au domicile »."
+    },
+    {
+     "label": "C",
+     "text": "En les mettant dans le bac jaune.",
+     "correct": false,
+     "rationale": "Le bac jaune est destiné aux emballages et papiers."
+    },
+    {
+     "label": "D",
+     "text": "En prenant rendez-vous pour une collecte.",
+     "correct": false,
+     "rationale": "Les rendez-vous concernent les encombrants."
+    }
+   ],
+   "explanation": "La notice associe chaque type de déchet à un mode de collecte. La négation « jamais » élimine toutes les collectes à domicile pour le verre."
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "opinion",
+   "document": "Faut-il continuer à fabriquer de la neige artificielle pour sauver les stations de ski de moyenne montagne ? Les canons à neige consomment des millions de mètres cubes d'eau, prélevés au moment où les rivières sont les plus basses. Ils permettent de gagner quelques saisons, au prix d'investissements considérables. Je comprends l'angoisse des territoires qui vivent du ski. Mais l'argent public serait mieux employé à préparer l'après : tourisme quatre saisons, activités nouvelles, emplois durables.",
+   "prompt": "Que pense l'auteur de la neige artificielle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "C'est une solution coûteuse et provisoire qui retarde l'adaptation nécessaire.",
+     "correct": true,
+     "rationale": "Elle permet de « gagner quelques saisons, au prix d'investissements considérables »."
+    },
+    {
+     "label": "B",
+     "text": "Elle ne consomme presque pas d'eau.",
+     "correct": false,
+     "rationale": "Elle consomme « des millions de mètres cubes d'eau »."
+    },
+    {
+     "label": "C",
+     "text": "C'est la meilleure façon de sauver les stations.",
+     "correct": false,
+     "rationale": "Il recommande de « préparer l'après »."
+    },
+    {
+     "label": "D",
+     "text": "Elle crée des emplois durables.",
+     "correct": false,
+     "rationale": "Il oppose la neige artificielle aux « emplois durables »."
+    }
+   ],
+   "explanation": "L'auteur reconnaît l'inquiétude des territoires (« je comprends ») puis oppose deux usages de l'argent public avec « mais ». Le conditionnel « serait mieux employé » exprime sa recommandation."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "Les « forêts urbaines » se multiplient : sur quelques centaines de mètres carrés, des habitants plantent densément des dizaines d'espèces locales. Inspirée d'une méthode japonaise, cette technique permet une croissance rapide et attire oiseaux et insectes en quelques années. Certains écologues tempèrent l'enthousiasme : ces mini-forêts ne remplacent pas les grands espaces naturels, et leur coût par arbre est élevé. Mais elles ont un mérite incontestable : elles reconnectent les citadins à la nature et les impliquent dans un projet collectif.",
+   "prompt": "Quel est le thème principal de l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'interdiction de planter des arbres en ville.",
+     "correct": false,
+     "rationale": "Il n'est question d'aucune interdiction."
+    },
+    {
+     "label": "B",
+     "text": "Le prix du bois de construction.",
+     "correct": false,
+     "rationale": "Ce sujet n'est pas abordé."
+    },
+    {
+     "label": "C",
+     "text": "La déforestation au Japon.",
+     "correct": false,
+     "rationale": "Le Japon est seulement l'origine de la méthode."
+    },
+    {
+     "label": "D",
+     "text": "Les forêts urbaines, leurs intérêts et leurs limites.",
+     "correct": true,
+     "rationale": "L'article présente la technique, ses effets, les critiques des écologues et ses mérites."
+    }
+   ],
+   "explanation": "L'article suit une structure argumentative : présentation, nuance (« certains écologues tempèrent »), puis conclusion positive (« mais elles ont un mérite incontestable »)."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "intention",
+   "document": "Chers membres, notre association a obtenu l'autorisation de nettoyer les berges de la Vienne le dimanche 7 avril. Nous avons besoin d'au moins trente volontaires pour couvrir les cinq kilomètres prévus. Gants, sacs et gilets sont fournis par la communauté de communes. Merci de nous indiquer votre participation avant le 1er avril, afin que nous puissions organiser les équipes et le covoiturage. Un pique-nique partagé clôturera la matinée.",
+   "prompt": "Pourquoi faut-il répondre avant le 1er avril ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour réserver une place au pique-nique payant.",
+     "correct": false,
+     "rationale": "Le pique-nique est partagé, sans paiement mentionné."
+    },
+    {
+     "label": "B",
+     "text": "Pour permettre l'organisation des équipes et des trajets.",
+     "correct": true,
+     "rationale": "« afin que nous puissions organiser les équipes et le covoiturage »."
+    },
+    {
+     "label": "C",
+     "text": "Pour commander le matériel.",
+     "correct": false,
+     "rationale": "Le matériel est fourni par la communauté de communes."
+    },
+    {
+     "label": "D",
+     "text": "Pour obtenir l'autorisation de nettoyer les berges.",
+     "correct": false,
+     "rationale": "L'autorisation a déjà été obtenue."
+    }
+   ],
+   "explanation": "La subordonnée de but « afin que » donne la raison de la date limite. Les autres éléments sont des informations pratiques."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "Depuis cette année, les ménages peuvent bénéficier d'un « chèque énergie » s'ils remplissent des conditions de revenus. Il est envoyé automatiquement, sans démarche, aux foyers concernés, à partir des informations de la déclaration d'impôts. Il peut servir à payer les factures d'électricité, de gaz ou de bois, ainsi que certains travaux de rénovation énergétique. Attention : il n'est valable que jusqu'au 31 mars de l'année suivante.",
+   "prompt": "Comment obtient-on le chèque énergie ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "En présentant ses factures d'électricité.",
+     "correct": false,
+     "rationale": "Les factures sont payées avec le chèque, pas utilisées pour l'obtenir."
+    },
+    {
+     "label": "B",
+     "text": "En remplissant un formulaire en mairie.",
+     "correct": false,
+     "rationale": "Aucune démarche n'est nécessaire."
+    },
+    {
+     "label": "C",
+     "text": "Il est envoyé automatiquement aux foyers éligibles.",
+     "correct": true,
+     "rationale": "« Il est envoyé automatiquement, sans démarche »."
+    },
+    {
+     "label": "D",
+     "text": "En faisant réaliser des travaux de rénovation.",
+     "correct": false,
+     "rationale": "Les travaux sont une utilisation possible du chèque."
+    }
+   ],
+   "explanation": "La mention « sans démarche » est essentielle. La déclaration d'impôts sert de base à l'envoi automatique."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "inférence",
+   "document": "Nous avons appris à considérer le progrès comme un mouvement continu vers plus de confort, de vitesse et d'abondance. Les limites physiques de la planète nous obligent à revoir cette définition. Peut-être le progrès consistera-t-il demain à réparer plutôt qu'à remplacer, à ralentir plutôt qu'à accélérer, à partager plutôt qu'à posséder. Ce ne serait pas un renoncement, mais une autre manière d'être ambitieux.",
+   "prompt": "Que suggère l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faut redéfinir le progrès autour de la sobriété.",
+     "correct": true,
+     "rationale": "Il propose de « réparer », « ralentir », « partager »."
+    },
+    {
+     "label": "B",
+     "text": "Le confort et la vitesse doivent augmenter sans limite.",
+     "correct": false,
+     "rationale": "Les « limites physiques » imposent de revoir cette idée."
+    },
+    {
+     "label": "C",
+     "text": "Le progrès doit être abandonné.",
+     "correct": false,
+     "rationale": "« Ce ne serait pas un renoncement »."
+    },
+    {
+     "label": "D",
+     "text": "Les humains manquent d'ambition.",
+     "correct": false,
+     "rationale": "Il parle d'« une autre manière d'être ambitieux »."
+    }
+   ],
+   "explanation": "Le parallélisme « réparer plutôt que remplacer, ralentir plutôt qu'accélérer » illustre la nouvelle définition. La dernière phrase réfute par avance l'idée d'un renoncement."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "Fête de la nature – Samedi 18 mai. Le jardin botanique ouvre gratuitement ses serres tropicales, habituellement payantes. Des visites guidées ont lieu toutes les heures de 10 h à 17 h, dans la limite de vingt personnes par groupe. Un atelier « nichoirs à oiseaux » est proposé aux familles à 14 h ; il nécessite une réservation en ligne, car le matériel est limité. Les chiens ne sont pas admis, à l'exception des chiens d'assistance.",
+   "prompt": "Quelle activité exige une réservation ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'entrée des chiens d'assistance.",
+     "correct": false,
+     "rationale": "Ils sont simplement admis."
+    },
+    {
+     "label": "B",
+     "text": "L'atelier de fabrication de nichoirs.",
+     "correct": true,
+     "rationale": "« il nécessite une réservation en ligne »."
+    },
+    {
+     "label": "C",
+     "text": "Les visites guidées.",
+     "correct": false,
+     "rationale": "Elles sont limitées à vingt personnes, mais sans réservation mentionnée."
+    },
+    {
+     "label": "D",
+     "text": "La visite des serres tropicales.",
+     "correct": false,
+     "rationale": "Elle est gratuite, sans mention de réservation."
+    }
+   ],
+   "explanation": "Seul l'atelier nichoirs mentionne une réservation, justifiée par le matériel limité. La limite de vingt personnes pour les visites ne signifie pas une réservation."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "article d'opinion",
+   "skill": "opinion",
+   "document": "Il est de bon ton de critiquer le tourisme de masse qui envahit les plages et les villages pittoresques. Mais n'oublions pas que les congés payés ont été une conquête sociale : pour la première fois, les classes populaires pouvaient voir la mer. Le problème n'est pas que trop de gens voyagent, c'est que tout le monde va aux mêmes endroits, au même moment. Mieux étaler les vacances et valoriser des destinations méconnues serait plus juste que de rendre le voyage à nouveau réservé à une élite.",
+   "prompt": "Quelle est la position de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les congés payés devraient être supprimés.",
+     "correct": false,
+     "rationale": "Il les présente comme une « conquête sociale »."
+    },
+    {
+     "label": "B",
+     "text": "Le tourisme de masse ne pose aucun problème.",
+     "correct": false,
+     "rationale": "Il identifie un problème de concentration."
+    },
+    {
+     "label": "C",
+     "text": "Le tourisme doit redevenir réservé à une élite.",
+     "correct": false,
+     "rationale": "Il rejette cette idée."
+    },
+    {
+     "label": "D",
+     "text": "Il faut mieux répartir les touristes plutôt que limiter l'accès aux voyages.",
+     "correct": true,
+     "rationale": "« Mieux étaler les vacances et valoriser des destinations méconnues serait plus juste »."
+    }
+   ],
+   "explanation": "L'auteur nuance une critique répandue (« il est de bon ton de… ») et reformule le problème avec « le problème n'est pas que…, c'est que… ». Il conclut par une solution comparée à une autre jugée injuste."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "rapport",
+   "skill": "compréhension globale",
+   "document": "L'enquête menée auprès de 2 000 ménages révèle que 80 % des personnes interrogées se disent prêtes à modifier leurs habitudes pour protéger l'environnement. Pourtant, les comportements évoluent lentement. Les principaux freins cités sont le coût des alternatives, le manque de temps et l'absence d'infrastructures adaptées. Le rapport conclut que les campagnes de sensibilisation ont atteint leurs limites : c'est désormais l'offre concrète – transports, produits, logements – qui doit évoluer.",
+   "prompt": "Quelle conclusion le rapport tire-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faut multiplier les campagnes de sensibilisation.",
+     "correct": false,
+     "rationale": "Elles « ont atteint leurs limites »."
+    },
+    {
+     "label": "B",
+     "text": "Les Français refusent de changer leurs habitudes.",
+     "correct": false,
+     "rationale": "80 % se disent prêts à le faire."
+    },
+    {
+     "label": "C",
+     "text": "Il faut développer des solutions concrètes plutôt que sensibiliser davantage.",
+     "correct": true,
+     "rationale": "« c'est désormais l'offre concrète… qui doit évoluer »."
+    },
+    {
+     "label": "D",
+     "text": "Le coût des alternatives ne pose aucun problème.",
+     "correct": false,
+     "rationale": "C'est l'un des principaux freins."
+    }
+   ],
+   "explanation": "Le rapport oppose une intention forte et des comportements qui évoluent peu (« pourtant »). Il identifie des freins matériels et en tire une conclusion logique : agir sur l'offre."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "lettre de réclamation",
+   "skill": "intention",
+   "document": "Madame la Maire, je vous écris au nom des habitants de la rue des Peupliers. Depuis l'installation d'un dépôt de matériaux sur le terrain voisin, des camions circulent dès cinq heures du matin, provoquant bruit, poussière et vibrations. Nous avons constaté des fissures sur plusieurs façades. Nous vous demandons de faire vérifier la conformité de cette installation et de limiter les horaires de circulation. Nous restons disponibles pour vous rencontrer.",
+   "prompt": "Que demandent les habitants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une indemnisation pour les fissures.",
+     "correct": false,
+     "rationale": "Ils ne demandent pas d'argent."
+    },
+    {
+     "label": "B",
+     "text": "Un contrôle de l'installation et une limitation des horaires des camions.",
+     "correct": true,
+     "rationale": "« faire vérifier la conformité de cette installation et de limiter les horaires de circulation »."
+    },
+    {
+     "label": "C",
+     "text": "La fermeture immédiate du dépôt.",
+     "correct": false,
+     "rationale": "Ils demandent une vérification, pas une fermeture."
+    },
+    {
+     "label": "D",
+     "text": "La construction d'une nouvelle route.",
+     "correct": false,
+     "rationale": "Rien n'est dit à ce sujet."
+    }
+   ],
+   "explanation": "La demande est formulée par « nous vous demandons de ». Les nuisances décrites justifient la réclamation, et la proposition de rencontre montre une volonté de dialogue."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "Les pailles, couverts et gobelets en plastique jetable sont interdits à la vente depuis plusieurs années. Les restaurants rapides doivent désormais servir les repas consommés sur place dans de la vaisselle réutilisable. La mesure ne s'applique pas aux repas à emporter, pour lesquels des emballages jetables restent autorisés, à condition qu'ils ne soient pas en plastique à usage unique lorsque des alternatives existent.",
+   "prompt": "Que dit l'article des repas à emporter ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils peuvent encore être servis dans des emballages jetables, sous conditions.",
+     "correct": true,
+     "rationale": "« des emballages jetables restent autorisés, à condition qu'ils ne soient pas en plastique à usage unique »."
+    },
+    {
+     "label": "B",
+     "text": "Ils doivent être servis dans de la vaisselle réutilisable.",
+     "correct": false,
+     "rationale": "Cette obligation concerne les repas consommés sur place."
+    },
+    {
+     "label": "C",
+     "text": "Ils peuvent être servis dans n'importe quel plastique.",
+     "correct": false,
+     "rationale": "Le plastique à usage unique est limité."
+    },
+    {
+     "label": "D",
+     "text": "Ils sont interdits dans les restaurants rapides.",
+     "correct": false,
+     "rationale": "Ils restent possibles."
+    }
+   ],
+   "explanation": "L'article distingue repas sur place et repas à emporter. La règle pour ces derniers est une autorisation conditionnelle, introduite par « à condition que »."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "inférence",
+   "document": "Ma voisine a installé des panneaux solaires sur son toit l'an dernier. Depuis, elle consulte chaque soir l'application qui affiche sa production du jour, commente les nuages comme d'autres commentent les matchs de football, et lance sa machine à laver uniquement quand le soleil brille. Elle prétend que ses factures ont baissé de moitié. Je la soupçonne d'avoir surtout découvert un nouveau loisir.",
+   "prompt": "Quel est le ton de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Triste et nostalgique.",
+     "correct": false,
+     "rationale": "Rien n'exprime la tristesse."
+    },
+    {
+     "label": "B",
+     "text": "Neutre et purement informatif.",
+     "correct": false,
+     "rationale": "Les comparaisons et le « je la soupçonne » révèlent un point de vue."
+    },
+    {
+     "label": "C",
+     "text": "Indigné et agressif.",
+     "correct": false,
+     "rationale": "Le texte est bienveillant."
+    },
+    {
+     "label": "D",
+     "text": "Amusé et légèrement ironique.",
+     "correct": true,
+     "rationale": "La comparaison avec le football et le « nouveau loisir » sont humoristiques."
+    }
+   ],
+   "explanation": "L'humour repose sur la comparaison inattendue (« comme d'autres commentent les matchs ») et sur la chute finale. « Elle prétend » et « je la soupçonne » marquent une distance ironique."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "guide pratique",
+   "skill": "information précise",
+   "document": "Installer une borne de recharge en copropriété. Tout copropriétaire peut faire installer une borne pour son véhicule électrique sur sa place de parking privative, à ses frais. Il doit en informer le syndic par lettre recommandée, en joignant un descriptif des travaux. Le syndic dispose de trois mois pour s'y opposer, uniquement s'il démontre un motif sérieux et légitime, par exemple une installation électrique insuffisante. Faute de réponse dans ce délai, les travaux peuvent commencer.",
+   "prompt": "Que se passe-t-il si le syndic ne répond pas dans les trois mois ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'assemblée générale doit voter.",
+     "correct": false,
+     "rationale": "Aucun vote n'est mentionné."
+    },
+    {
+     "label": "B",
+     "text": "La demande est automatiquement refusée.",
+     "correct": false,
+     "rationale": "C'est l'inverse : le silence vaut accord."
+    },
+    {
+     "label": "C",
+     "text": "Le copropriétaire peut commencer les travaux.",
+     "correct": true,
+     "rationale": "« Faute de réponse dans ce délai, les travaux peuvent commencer »."
+    },
+    {
+     "label": "D",
+     "text": "Le copropriétaire doit renouveler sa demande.",
+     "correct": false,
+     "rationale": "Rien ne l'exige."
+    }
+   ],
+   "explanation": "« Faute de réponse » introduit la conséquence du silence du syndic. Le droit d'opposition est limité à un motif « sérieux et légitime »."
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "opinion",
+   "document": "On présente souvent l'écologie comme une affaire de citadins aisés, éloignés des réalités. C'est oublier que les premières victimes des dérèglements climatiques sont les plus modestes : ceux qui vivent dans des logements mal isolés, étouffants l'été et glacials l'hiver, ceux qui habitent près des axes routiers pollués, ceux qui n'ont pas les moyens de partir quand la chaleur devient insupportable. Une politique écologique bien pensée est d'abord une politique sociale.",
+   "prompt": "Quelle thèse défend l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'écologie concerne d'abord les populations modestes.",
+     "correct": true,
+     "rationale": "« les premières victimes des dérèglements climatiques sont les plus modestes »."
+    },
+    {
+     "label": "B",
+     "text": "Les logements mal isolés sont confortables.",
+     "correct": false,
+     "rationale": "Ils sont « étouffants l'été et glacials l'hiver »."
+    },
+    {
+     "label": "C",
+     "text": "La politique sociale doit passer avant toute écologie.",
+     "correct": false,
+     "rationale": "Il présente les deux comme liées."
+    },
+    {
+     "label": "D",
+     "text": "L'écologie est une préoccupation de citadins riches.",
+     "correct": false,
+     "rationale": "C'est le cliché qu'il réfute."
+    }
+   ],
+   "explanation": "« C'est oublier que » introduit la réfutation d'un cliché. L'énumération des situations difficiles prépare la conclusion : écologie et social sont indissociables."
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "Pour lutter contre l'érosion côtière, de nombreuses communes ont longtemps construit des digues et des enrochements. Mais ces ouvrages déplacent souvent le problème vers les plages voisines. Certaines communes font désormais un choix radical : organiser le recul. Elles rachètent les maisons les plus menacées, les démolissent et laissent la nature reprendre ses droits. Une décision douloureuse pour les habitants, mais souvent moins coûteuse, à terme, qu'une lutte sans fin contre la mer.",
+   "prompt": "Quel est le sujet principal de l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La construction de nouvelles digues sur tout le littoral.",
+     "correct": false,
+     "rationale": "Les digues sont présentées comme une solution limitée."
+    },
+    {
+     "label": "B",
+     "text": "La hausse du prix des maisons au bord de la mer.",
+     "correct": false,
+     "rationale": "Les prix ne sont pas le sujet."
+    },
+    {
+     "label": "C",
+     "text": "Le choix de certaines communes de reculer face à l'érosion côtière.",
+     "correct": true,
+     "rationale": "L'article décrit la stratégie du « recul » et ses justifications."
+    },
+    {
+     "label": "D",
+     "text": "Le développement du tourisme balnéaire.",
+     "correct": false,
+     "rationale": "Le tourisme n'est pas évoqué."
+    }
+   ],
+   "explanation": "L'article oppose une ancienne stratégie (les digues) à une nouvelle (le recul), introduite par « désormais ». La conclusion pèse les avantages et les inconvénients de ce choix."
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "règlement",
+   "skill": "inférence",
+   "document": "Règlement des jardins partagés. Chaque jardinier dispose d'une parcelle de 20 m². L'arrosage se fait exclusivement avec l'eau des récupérateurs ; le robinet municipal n'est utilisé qu'en cas de pénurie, sur décision du bureau de l'association. Les engrais chimiques et les pesticides de synthèse sont interdits. Les jardiniers participent à deux matinées d'entretien collectif par an. Toute absence non justifiée à ces matinées peut entraîner la perte de la parcelle.",
+   "prompt": "Que peut-on déduire de ce règlement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les matinées d'entretien sont facultatives.",
+     "correct": false,
+     "rationale": "Une absence non justifiée peut entraîner la perte de la parcelle."
+    },
+    {
+     "label": "B",
+     "text": "L'association accorde une grande importance à l'engagement collectif et à l'écologie.",
+     "correct": true,
+     "rationale": "Elle impose l'eau de pluie, interdit les pesticides et rend obligatoires les matinées collectives."
+    },
+    {
+     "label": "C",
+     "text": "Les jardiniers peuvent utiliser l'eau municipale librement.",
+     "correct": false,
+     "rationale": "Elle n'est utilisée qu'en cas de pénurie, sur décision du bureau."
+    },
+    {
+     "label": "D",
+     "text": "Les pesticides sont autorisés en petite quantité.",
+     "correct": false,
+     "rationale": "Ils sont interdits."
+    }
+   ],
+   "explanation": "L'inférence repose sur le croisement de plusieurs règles qui vont dans le même sens : économie d'eau, jardinage sans chimie et participation obligatoire."
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "intention",
+   "document": "Nous, maraîchers installés en périphérie de la ville, voyons chaque année nos terres grignotées par les zones commerciales et les lotissements. Une fois bétonnée, une terre agricole est perdue pour toujours. Nous demandons aux élus de protéger durablement les ceintures maraîchères dans les plans d'urbanisme. Nourrir la ville avec des légumes produits à quelques kilomètres, ce n'est pas un rêve nostalgique : c'est une nécessité face aux crises à venir.",
+   "prompt": "Quel est le but de cette tribune ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Demander la construction de zones commerciales.",
+     "correct": false,
+     "rationale": "Ils les dénoncent."
+    },
+    {
+     "label": "B",
+     "text": "Critiquer les consommateurs de légumes.",
+     "correct": false,
+     "rationale": "Ils défendent au contraire une alimentation locale."
+    },
+    {
+     "label": "C",
+     "text": "Vendre leurs terres aux promoteurs.",
+     "correct": false,
+     "rationale": "Ils veulent les préserver."
+    },
+    {
+     "label": "D",
+     "text": "Obtenir la protection des terres agricoles proches des villes.",
+     "correct": true,
+     "rationale": "« Nous demandons aux élus de protéger durablement les ceintures maraîchères »."
+    }
+   ],
+   "explanation": "La tribune décrit une menace, formule une demande précise aux élus et la justifie. La dernière phrase réfute par avance l'accusation de nostalgie."
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "compréhension globale",
+   "document": "On a longtemps opposé la ville, symbole de pollution, à la campagne, refuge naturel. La réalité est plus complexe. Un citadin qui vit dans un appartement, prend les transports en commun et fait ses courses à pied a souvent une empreinte carbone plus faible qu'un habitant de la campagne qui dépend de sa voiture pour chaque déplacement. Cela ne signifie pas que la ville est écologique par nature, mais que la densité, quand elle est bien organisée, permet de mutualiser les ressources.",
+   "prompt": "Quelle idée principale l'auteur développe-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La ville est écologique par nature.",
+     "correct": false,
+     "rationale": "« Cela ne signifie pas que la ville est écologique par nature »."
+    },
+    {
+     "label": "B",
+     "text": "Une ville dense et bien organisée peut être plus économe en ressources que la campagne.",
+     "correct": true,
+     "rationale": "« la densité, quand elle est bien organisée, permet de mutualiser les ressources »."
+    },
+    {
+     "label": "C",
+     "text": "Les citadins utilisent davantage leur voiture.",
+     "correct": false,
+     "rationale": "C'est l'inverse dans l'exemple donné."
+    },
+    {
+     "label": "D",
+     "text": "La campagne est toujours plus écologique que la ville.",
+     "correct": false,
+     "rationale": "C'est l'opposition traditionnelle qu'il remet en cause."
+    }
+   ],
+   "explanation": "L'auteur remet en cause une opposition simpliste (« la réalité est plus complexe »), donne un exemple, puis nuance sa propre conclusion avec « cela ne signifie pas que…, mais que… »."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "task_type": "répondre à un message",
+   "instructions": "Votre ami Paul vous écrit : « J'aimerais réduire mes déchets, mais je ne sais pas par où commencer. Tu as des idées ? » Répondez-lui en lui donnant deux ou trois conseils simples et en lui proposant une action commune (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Salut Paul ! Bonne résolution ! Commence par acheter en vrac : pâtes, riz et lentilles, avec tes propres bocaux. Ensuite, refuse les prospectus avec un autocollant sur ta boîte aux lettres. Enfin, un composteur réduit beaucoup la poubelle. Si tu veux, on va ensemble à l'épicerie vrac samedi matin ? À bientôt, Nadia",
+   "tips": "Donnez des conseils très concrets et faciles à appliquer, puis proposez une action commune pour rendre le message engageant.",
+   "expected_points": [
+    "réagir au message",
+    "donner deux ou trois conseils",
+    "proposer une action commune",
+    "formule finale"
+   ],
+   "model_commentary": "Le message encourage, propose trois conseils concrets organisés par des connecteurs et se termine par une invitation. Le registre amical est respecté et le texte reste dans les limites."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "task_type": "raconter une expérience",
+   "instructions": "Racontez une expérience où vous avez été confronté(e) à un phénomène climatique marquant (canicule, tempête, inondation, sécheresse…) pour un forum consacré au climat : ce qui s'est passé, ce que vous avez ressenti et ce que cela a changé pour vous (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "L'été dernier, pendant la canicule, il a fait quarante et un degrés dans ma ville pendant quatre jours. Mon appartement, sous les toits, était devenu un four : impossible de dormir, même avec les volets fermés. J'ai passé mes après-midi à la médiathèque, seul endroit climatisé du quartier. Cette expérience m'a fait prendre conscience que le changement climatique n'était plus une menace lointaine. Depuis, j'ai installé des stores extérieurs et je m'informe sur l'isolation des logements.",
+   "tips": "Utilisez des détails concrets et une image forte pour rendre votre récit vivant, puis expliquez ce que cette expérience a changé dans votre vie.",
+   "expected_points": [
+    "décrire l'événement",
+    "exprimer un ressenti",
+    "raconter une conséquence concrète",
+    "dire ce qui a changé"
+   ],
+   "model_commentary": "Le récit est précis (dates, températures), vivant (« un four ») et conclut sur un changement de comportement. La concordance des temps (« m'a fait prendre conscience que… n'était plus ») est maîtrisée."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "donner son opinion à partir de deux documents",
+   "instructions": "Document 1 : « Il faut interdire les voitures dans les centres-villes : l'air sera plus sain et les rues plus agréables. » Document 2 : « Interdire la voiture pénaliserait les personnes âgées, les artisans et les habitants des zones rurales. » Présentez ces deux opinions, puis donnez votre avis argumenté (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Le premier document souhaite interdire les voitures en centre-ville pour améliorer l'air et le cadre de vie, tandis que le second craint que cette mesure pénalise certains publics. Je suis favorable à une réduction progressive de la circulation, mais pas à une interdiction totale. Les livraisons, les artisans et les personnes à mobilité réduite doivent garder un accès. Pour les habitants des campagnes, il faudrait créer des parkings-relais reliés au centre par des navettes fréquentes et bon marché.",
+   "tips": "Une position nuancée doit rester claire : dites ce que vous acceptez et ce que vous refusez, puis proposez une solution.",
+   "expected_points": [
+    "résumer le document 1",
+    "résumer le document 2",
+    "prendre position",
+    "justifier",
+    "proposer une solution"
+   ],
+   "model_commentary": "Les deux points de vue sont résumés avec « tandis que ». La position nuancée est justifiée par des exceptions précises et complétée par une proposition concrète."
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous interroge sur votre rapport à l'environnement : vos habitudes au quotidien, vos déplacements, ce que vous avez changé et ce que vous aimeriez faire de plus.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Pouvez-vous vous présenter ?",
+    "Faites-vous attention à l'environnement au quotidien ?",
+    "Comment vous déplacez-vous ?",
+    "Avez-vous changé certaines habitudes ces dernières années ?",
+    "Que pourriez-vous faire de plus ?"
+   ],
+   "useful_phrases": [
+    "J'essaie de…",
+    "Depuis quelque temps, je…",
+    "Ce qui me freine, c'est…"
+   ],
+   "model_answer": "Je m'appelle Karim, je suis infirmier et j'habite à Nantes. J'essaie de faire attention à l'environnement, mais sans être parfait. Je vais au travail en tramway et je fais mes courses à pied, au marché du quartier. Depuis deux ans, je mange beaucoup moins de viande, surtout pour des raisons de santé, mais aussi pour la planète. Ce qui me freine encore, c'est l'avion : ma famille vit en Tunisie, et je ne me vois pas renoncer à la voir. En revanche, je pourrais mieux isoler mon appartement.",
+   "model_commentary": "La réponse est honnête et nuancée : elle présente des efforts concrets, une limite personnelle justifiée et une piste d'amélioration. Les connecteurs (« mais », « en revanche ») structurent bien le discours.",
+   "tips": "Soyez sincère : reconnaître une limite et la justifier est plus convaincant que de prétendre être parfait."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Proposer un projet écologique à son employeur",
+   "examiner_role": "Directeur de l'entreprise",
+   "scenario": "Vous proposez à votre directeur (l'examinateur) de mettre en place des mesures écologiques dans l'entreprise : tri des déchets, réduction du papier, aide au vélo. Il est sceptique. Présentez votre projet et convainquez-le.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Ça va coûter cher à l'entreprise.",
+    "Les salariés ne vont pas jouer le jeu.",
+    "Nous avons d'autres priorités en ce moment.",
+    "Qu'est-ce que l'entreprise y gagnera ?"
+   ],
+   "useful_phrases": [
+    "Je souhaiterais vous proposer…",
+    "Cela permettrait de…",
+    "Nous pourrions commencer par…"
+   ],
+   "model_answer": "Je souhaiterais vous proposer quelques mesures pour rendre l'entreprise plus écologique. Nous pourrions commencer par des choses simples et peu coûteuses : des poubelles de tri, l'impression recto verso par défaut et la suppression des gobelets jetables. Cela permettrait de réduire nos dépenses de papier et de déchets. Pour le vélo, il existe un forfait mobilités durables, en partie exonéré de charges. Un groupe de six collègues est déjà volontaire pour animer le projet. Et c'est aussi un argument pour attirer des jeunes candidats, très sensibles à ces questions.",
+   "model_commentary": "Le candidat propose des mesures progressives, répond aux objections de coût et de participation, et met en avant des bénéfices pour l'entreprise (économies, attractivité). L'argumentation est réaliste et persuasive.",
+   "tips": "Pour convaincre un décideur, commencez par des mesures peu coûteuses et montrez ce que l'entreprise y gagne."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il limiter la consommation d'énergie par la loi ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Certains proposent d'imposer par la loi des limites de consommation d'énergie : température maximale du chauffage, extinction des vitrines la nuit, limitation de la climatisation. Êtes-vous favorable à de telles mesures ? Donnez votre opinion et défendez-la.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "L'État n'a pas à décider de la température chez moi.",
+    "Ces petits gestes ne changent rien.",
+    "Les commerçants vont perdre des clients.",
+    "Comment contrôler ces règles ?"
+   ],
+   "useful_phrases": [
+    "Il faut distinguer…",
+    "Ces mesures ne suffisent pas, mais…",
+    "Je serais favorable à…"
+   ],
+   "model_answer": "Il faut distinguer l'espace public et l'espace privé. Je suis favorable à des règles pour les bâtiments publics, les bureaux et les commerces : éteindre les vitrines et les enseignes la nuit, par exemple, ne gêne personne et économise beaucoup d'électricité. En revanche, imposer une température chez les particuliers me paraît difficile à contrôler et intrusif. Ces mesures ne suffisent pas, c'est vrai, mais elles s'additionnent et montrent l'exemple. Pour les ménages, je préférerais des aides à l'isolation, qui réduisent durablement la consommation.",
+   "model_commentary": "La distinction entre espace public et privé structure une position nuancée. Les objections sont concédées puis dépassées, et une alternative est proposée pour les ménages.",
+   "tips": "Commencer par « il faut distinguer » vous permet d'accepter une partie de la mesure et d'en refuser une autre de façon logique."
+  }
+ ],
+ "series": "B2"
+}
