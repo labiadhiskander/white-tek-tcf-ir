@@ -1,0 +1,1996 @@
+{
+ "code": "B2-BLANC-04",
+ "title": "Examen blanc B2 n° 4 – Santé et sciences",
+ "level": "B2",
+ "description": "Examen complet de niveau B2 aux durées officielles : système de soins, prévention, recherche, vulgarisation scientifique.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "intention",
+   "document": "F: Bonjour Monsieur Lambert, ici le secrétariat du docteur Garnier. Les résultats de votre prise de sang sont arrivés. Rien d'inquiétant, rassurez-vous, mais le docteur souhaiterait vous voir pour en parler et ajuster votre traitement. Il a une disponibilité jeudi à dix-sept heures. Si cela ne vous convient pas, rappelez-nous et nous trouverons un autre créneau.",
+   "prompt": "Pourquoi le secrétariat appelle-t-il M. Lambert ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour annuler son rendez-vous de jeudi.",
+     "correct": false,
+     "rationale": "Le rendez-vous de jeudi est une proposition."
+    },
+    {
+     "label": "B",
+     "text": "Pour lui proposer un rendez-vous afin de discuter de ses résultats.",
+     "correct": true,
+     "rationale": "« le docteur souhaiterait vous voir pour en parler et ajuster votre traitement »."
+    },
+    {
+     "label": "C",
+     "text": "Pour lui demander de refaire une prise de sang.",
+     "correct": false,
+     "rationale": "Aucune nouvelle analyse n'est demandée."
+    },
+    {
+     "label": "D",
+     "text": "Pour lui annoncer un résultat grave.",
+     "correct": false,
+     "rationale": "« Rien d'inquiétant, rassurez-vous »."
+    }
+   ],
+   "explanation": "Le message rassure d'abord (« rien d'inquiétant »), puis formule l'objectif au conditionnel (« souhaiterait vous voir »). La proposition de créneau confirme l'intention : fixer un rendez-vous.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co01.wav"
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "reportage radio",
+   "skill": "information précise",
+   "document": "H: Face au manque de médecins, ce département a recruté directement une trentaine de généralistes salariés, installés dans des centres de santé publics. Ils travaillent trente-cinq heures par semaine, sans gérer de cabinet ni de comptabilité. Pour les jeunes médecins, c'est un argument décisif : selon le conseil départemental, quatre candidats sur cinq citent l'absence de tâches administratives comme principale motivation.",
+   "prompt": "Quelle est la principale motivation des candidats selon le reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La possibilité de travailler à l'hôpital.",
+     "correct": false,
+     "rationale": "Ils travaillent dans des centres de santé."
+    },
+    {
+     "label": "B",
+     "text": "Des horaires de nuit mieux payés.",
+     "correct": false,
+     "rationale": "Ils travaillent trente-cinq heures, sans mention de nuits."
+    },
+    {
+     "label": "C",
+     "text": "Ne pas avoir à gérer de tâches administratives.",
+     "correct": true,
+     "rationale": "« quatre candidats sur cinq citent l'absence de tâches administratives »."
+    },
+    {
+     "label": "D",
+     "text": "Un salaire plus élevé qu'en cabinet libéral.",
+     "correct": false,
+     "rationale": "Le salaire n'est pas mentionné."
+    }
+   ],
+   "explanation": "L'information précise est donnée par la statistique finale. Les autres éléments (trente-cinq heures, pas de cabinet) décrivent le poste mais ne répondent pas à la question.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co02.wav"
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "F: Tu as lu cet article qui dit que le café serait bon pour la santé ? / H: Oui, et le mois dernier, un autre disait exactement le contraire. Je ne crois plus ces études. / F: Ce n'est pas que les études se contredisent, c'est que les journaux résument trop vite. Une étude porte sur trois tasses par jour, l'autre sur huit : ce n'est pas la même chose ! / H: Peut-être, mais pour le lecteur, c'est déroutant.",
+   "prompt": "Selon la femme, d'où vient la confusion ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Des erreurs des chercheurs.",
+     "correct": false,
+     "rationale": "Elle dit justement que les études ne se contredisent pas."
+    },
+    {
+     "label": "B",
+     "text": "Du manque d'études sur le café.",
+     "correct": false,
+     "rationale": "Elle cite au moins deux études."
+    },
+    {
+     "label": "C",
+     "text": "Du comportement des lecteurs.",
+     "correct": false,
+     "rationale": "C'est l'homme qui parle du lecteur."
+    },
+    {
+     "label": "D",
+     "text": "Des résumés trop simplifiés des études dans la presse.",
+     "correct": true,
+     "rationale": "« c'est que les journaux résument trop vite »."
+    }
+   ],
+   "explanation": "La structure « ce n'est pas que…, c'est que… » oppose une fausse explication à la vraie. L'exemple des doses différentes illustre son argument.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co03.wav"
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Information de l'agence régionale de santé : la campagne de vaccination contre la grippe débute le 15 octobre. Elle est gratuite pour les personnes de plus de soixante-cinq ans, les femmes enceintes et les personnes atteintes de certaines maladies chroniques. Les personnes concernées peuvent se faire vacciner directement en pharmacie, sans ordonnance, en présentant le bon de prise en charge reçu par courrier.",
+   "prompt": "Que doivent présenter les personnes concernées en pharmacie ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le bon de prise en charge reçu par courrier.",
+     "correct": true,
+     "rationale": "« en présentant le bon de prise en charge reçu par courrier »."
+    },
+    {
+     "label": "B",
+     "text": "Leur carnet de vaccination.",
+     "correct": false,
+     "rationale": "Le carnet n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Un certificat de grossesse.",
+     "correct": false,
+     "rationale": "Aucun certificat n'est demandé."
+    },
+    {
+     "label": "D",
+     "text": "Une ordonnance de leur médecin.",
+     "correct": false,
+     "rationale": "La vaccination se fait « sans ordonnance »."
+    }
+   ],
+   "explanation": "« Sans ordonnance » élimine un distracteur fréquent. Le document à présenter est le bon reçu par courrier, qui prouve l'éligibilité à la gratuité.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co04.wav"
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "compréhension globale",
+   "document": "H: Vous êtes infirmière en pratique avancée. En quoi votre métier est-il différent ? / F: Après cinq ans d'expérience, j'ai suivi deux années de formation supplémentaires. Aujourd'hui, je peux assurer le suivi de patients atteints de maladies chroniques, renouveler certaines prescriptions et adapter des traitements, en lien avec le médecin. Cela libère du temps médical pour les cas plus complexes, et les patients sont suivis plus régulièrement.",
+   "prompt": "Quel est le sujet principal de l'interview ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les nouvelles compétences d'une infirmière et leur intérêt pour le système de soins.",
+     "correct": true,
+     "rationale": "Elle décrit ses missions élargies et leurs bénéfices."
+    },
+    {
+     "label": "B",
+     "text": "Le manque de patients atteints de maladies chroniques.",
+     "correct": false,
+     "rationale": "Elle les suit régulièrement."
+    },
+    {
+     "label": "C",
+     "text": "Le remplacement des médecins par les infirmières.",
+     "correct": false,
+     "rationale": "Elle travaille « en lien avec le médecin »."
+    },
+    {
+     "label": "D",
+     "text": "Les difficultés de la formation d'infirmière.",
+     "correct": false,
+     "rationale": "La formation est mentionnée sans être décrite comme difficile."
+    }
+   ],
+   "explanation": "L'interview présente le parcours, les missions puis les bénéfices (temps médical libéré, suivi régulier). La précision « en lien avec le médecin » écarte l'idée de remplacement.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co05.wav"
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "skill": "inférence",
+   "document": "F: On nous conseille de faire dix mille pas par jour. D'où vient ce chiffre ? D'une campagne publicitaire japonaise des années soixante pour vendre un podomètre ! Les études récentes montrent que les bénéfices pour la santé apparaissent bien avant, dès six ou sept mille pas, surtout chez les personnes âgées. L'essentiel n'est donc pas d'atteindre un chiffre magique, mais de bouger un peu plus chaque jour.",
+   "prompt": "Que laisse entendre la chroniqueuse sur l'objectif des dix mille pas ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il est fondé sur des études médicales anciennes.",
+     "correct": false,
+     "rationale": "Il vient d'une publicité."
+    },
+    {
+     "label": "B",
+     "text": "Il n'a pas d'origine scientifique.",
+     "correct": true,
+     "rationale": "Il vient « d'une campagne publicitaire japonaise »."
+    },
+    {
+     "label": "C",
+     "text": "Il est réservé aux personnes âgées.",
+     "correct": false,
+     "rationale": "Ce chiffre s'adresse à tout le monde."
+    },
+    {
+     "label": "D",
+     "text": "Il est trop faible pour être utile.",
+     "correct": false,
+     "rationale": "Les bénéfices apparaissent même avant."
+    }
+   ],
+   "explanation": "La chroniqueuse révèle l'origine commerciale du chiffre, ce qui suggère implicitement son absence de fondement scientifique. Elle relativise ensuite avec des études récentes.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co06.wav"
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "débat radio",
+   "skill": "opinion",
+   "document": "H: Il faudrait obliger les jeunes médecins à s'installer quelques années dans les déserts médicaux. / F: Je comprends l'idée, mais l'obligation risque d'être contre-productive. Les étudiants pourraient se détourner de la médecine générale au profit des spécialités. Les expériences étrangères montrent qu'il vaut mieux agir sur les conditions : maisons de santé, travail en équipe, aide au logement, emploi pour le conjoint.",
+   "prompt": "Que pense la femme de l'obligation d'installation ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle pense qu'il n'y a pas de déserts médicaux.",
+     "correct": false,
+     "rationale": "Elle propose des solutions pour ces territoires."
+    },
+    {
+     "label": "B",
+     "text": "Elle la soutient sans réserve.",
+     "correct": false,
+     "rationale": "Elle exprime une réserve claire."
+    },
+    {
+     "label": "C",
+     "text": "Elle propose d'augmenter les tarifs des consultations.",
+     "correct": false,
+     "rationale": "Elle ne parle pas des tarifs."
+    },
+    {
+     "label": "D",
+     "text": "Elle craint qu'elle décourage les étudiants et préfère des mesures incitatives.",
+     "correct": true,
+     "rationale": "« l'obligation risque d'être contre-productive… il vaut mieux agir sur les conditions »."
+    }
+   ],
+   "explanation": "« Je comprends l'idée, mais » marque une concession suivie d'une objection. « Contre-productive » signifie qu'une mesure produit l'effet inverse de celui recherché.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co07.wav"
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "F: Bonjour à toute l'équipe, je vous rappelle que la formation aux gestes de premiers secours aura lieu mardi de neuf heures à midi, en salle B. Elle est obligatoire pour les nouveaux arrivants et conseillée aux autres. Pensez à porter une tenue confortable, car il y aura des exercices pratiques au sol. Le repas du midi sera offert par l'entreprise pour les participants.",
+   "prompt": "Pour qui la formation est-elle obligatoire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour les responsables d'équipe.",
+     "correct": false,
+     "rationale": "Les responsables ne sont pas mentionnés."
+    },
+    {
+     "label": "B",
+     "text": "Pour ceux qui souhaitent déjeuner sur place.",
+     "correct": false,
+     "rationale": "Le repas est offert aux participants, ce n'est pas un critère."
+    },
+    {
+     "label": "C",
+     "text": "Pour les salariés récemment arrivés.",
+     "correct": true,
+     "rationale": "« Elle est obligatoire pour les nouveaux arrivants »."
+    },
+    {
+     "label": "D",
+     "text": "Pour tous les salariés sans exception.",
+     "correct": false,
+     "rationale": "Elle est seulement « conseillée aux autres »."
+    }
+   ],
+   "explanation": "Le message distingue « obligatoire » et « conseillée ». Les informations sur la tenue et le repas sont pratiques mais ne répondent pas à la question.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co08.wav"
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "intention",
+   "document": "H: Pourquoi avoir créé une ligne d'écoute pour les étudiants ? / F: Parce que beaucoup d'entre eux vont mal sans oser en parler. Ils ont peur d'être jugés, ou pensent que leur malaise n'est pas assez grave pour consulter. Notre rôle, c'est d'abord d'écouter, sans juger, puis de les orienter vers un psychologue si nécessaire. Le simple fait de mettre des mots sur ce qu'on ressent soulage déjà beaucoup.",
+   "prompt": "Quel est le rôle principal de la ligne d'écoute ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Organiser des cours de soutien scolaire.",
+     "correct": false,
+     "rationale": "Il s'agit de soutien psychologique."
+    },
+    {
+     "label": "B",
+     "text": "Remplacer les psychologues.",
+     "correct": false,
+     "rationale": "Elle oriente vers eux si nécessaire."
+    },
+    {
+     "label": "C",
+     "text": "Écouter les étudiants sans les juger et les orienter si besoin.",
+     "correct": true,
+     "rationale": "« Notre rôle, c'est d'abord d'écouter, sans juger, puis de les orienter »."
+    },
+    {
+     "label": "D",
+     "text": "Prescrire des médicaments.",
+     "correct": false,
+     "rationale": "Aucune prescription n'est évoquée."
+    }
+   ],
+   "explanation": "La mise en relief « notre rôle, c'est d'abord… puis… » donne la réponse en deux étapes. La dernière phrase souligne les bienfaits de la parole.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co09.wav"
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "F: Dans cet hôpital de Montpellier, des clowns professionnels interviennent deux fois par semaine dans le service de pédiatrie. Ils ne remplacent pas les soignants, mais travaillent avec eux : avant une piqûre ou un examen douloureux, ils détournent l'attention de l'enfant. Les infirmières constatent que les soins se passent plus calmement, et certains enfants réclament même les clowns avant de rentrer chez eux.",
+   "prompt": "De quoi parle principalement ce reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Des difficultés de recrutement en pédiatrie.",
+     "correct": false,
+     "rationale": "Le recrutement n'est pas évoqué."
+    },
+    {
+     "label": "B",
+     "text": "De l'intervention de clowns pour faciliter les soins des enfants.",
+     "correct": true,
+     "rationale": "Ils « détournent l'attention de l'enfant » et les soins « se passent plus calmement »."
+    },
+    {
+     "label": "C",
+     "text": "Du remplacement des infirmières par des clowns.",
+     "correct": false,
+     "rationale": "« Ils ne remplacent pas les soignants »."
+    },
+    {
+     "label": "D",
+     "text": "D'un spectacle de cirque organisé à l'hôpital.",
+     "correct": false,
+     "rationale": "Il s'agit d'interventions dans les soins."
+    }
+   ],
+   "explanation": "Le reportage décrit le dispositif, précise sa place par rapport aux soignants et donne ses effets. L'idée principale est l'aide apportée aux soins.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co10.wav"
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "conversation administrative",
+   "skill": "information précise",
+   "document": "H: Bonjour, je voudrais savoir comment déclarer mon médecin traitant. / F: C'est simple : lors de votre prochaine consultation, votre médecin remplit la déclaration en ligne avec votre carte Vitale. Vous n'avez rien à envoyer. / H: Et si je n'ai pas de médecin traitant ? / F: Vous serez moins bien remboursé, sauf exceptions, comme les urgences ou certaines spécialités en accès direct, par exemple l'ophtalmologue ou le gynécologue.",
+   "prompt": "Comment se fait la déclaration du médecin traitant ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le médecin la fait en ligne pendant une consultation.",
+     "correct": true,
+     "rationale": "« votre médecin remplit la déclaration en ligne avec votre carte Vitale »."
+    },
+    {
+     "label": "B",
+     "text": "Le patient envoie un formulaire par courrier.",
+     "correct": false,
+     "rationale": "« Vous n'avez rien à envoyer »."
+    },
+    {
+     "label": "C",
+     "text": "Elle se fait automatiquement après la première visite aux urgences.",
+     "correct": false,
+     "rationale": "Les urgences sont citées comme exception de remboursement."
+    },
+    {
+     "label": "D",
+     "text": "Le patient se rend à la caisse d'assurance maladie.",
+     "correct": false,
+     "rationale": "Aucun déplacement n'est nécessaire."
+    }
+   ],
+   "explanation": "La réponse de l'agente est claire et complétée par « vous n'avez rien à envoyer ». La suite concerne les remboursements, pas la démarche.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co11.wav"
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "opinion",
+   "document": "H: Chaque année, de nouveaux régimes miracles envahissent les magazines au début du printemps. Sans gluten, sans sucre, à jeûne intermittent… Je ne dis pas qu'ils ne fonctionnent jamais. Je dis qu'ils détournent l'attention de l'essentiel, qui est d'une banalité désespérante : manger varié, cuisiner soi-même, bouger régulièrement et dormir suffisamment. Le problème, c'est que la banalité ne fait pas vendre de magazines.",
+   "prompt": "Quel est le point de vue du chroniqueur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faut supprimer le gluten et le sucre.",
+     "correct": false,
+     "rationale": "Il critique ces régimes à la mode."
+    },
+    {
+     "label": "B",
+     "text": "Les magazines donnent toujours de bons conseils.",
+     "correct": false,
+     "rationale": "Il les accuse de privilégier ce qui fait vendre."
+    },
+    {
+     "label": "C",
+     "text": "Tous les régimes sont dangereux pour la santé.",
+     "correct": false,
+     "rationale": "« Je ne dis pas qu'ils ne fonctionnent jamais »."
+    },
+    {
+     "label": "D",
+     "text": "Les régimes à la mode font oublier des principes simples mais efficaces.",
+     "correct": true,
+     "rationale": "« ils détournent l'attention de l'essentiel »."
+    }
+   ],
+   "explanation": "Le chroniqueur nuance (« je ne dis pas… je dis que… ») puis formule sa thèse. La dernière phrase explique avec ironie pourquoi les conseils simples sont peu mis en avant.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co12.wav"
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "inférence",
+   "document": "F: Votre laboratoire travaille sur un nouveau traitement contre une maladie rare. Quand sera-t-il disponible ? / H: Je comprends l'attente des familles, et je ne voudrais pas leur donner de faux espoirs. Les premiers essais sont encourageants, mais ils portent sur douze patients. Il faudra plusieurs années d'essais plus larges avant de savoir si le traitement est efficace et sans danger. Annoncer une date aujourd'hui serait irresponsable.",
+   "prompt": "Que peut-on déduire de la réponse du chercheur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il refuse de s'engager sur une date pour ne pas tromper les familles.",
+     "correct": true,
+     "rationale": "« Annoncer une date aujourd'hui serait irresponsable »."
+    },
+    {
+     "label": "B",
+     "text": "Les premiers essais ont échoué.",
+     "correct": false,
+     "rationale": "Ils sont « encourageants »."
+    },
+    {
+     "label": "C",
+     "text": "Le traitement a déjà été testé sur des milliers de patients.",
+     "correct": false,
+     "rationale": "Les essais portent sur douze patients."
+    },
+    {
+     "label": "D",
+     "text": "Le traitement sera disponible l'année prochaine.",
+     "correct": false,
+     "rationale": "Il faudra « plusieurs années d'essais »."
+    }
+   ],
+   "explanation": "Le chercheur exprime de l'empathie, présente des résultats prudents et justifie son refus de donner une date. Le mot « irresponsable » montre son souci éthique.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co13.wav"
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce radio",
+   "skill": "information précise",
+   "document": "H: Alerte canicule dans le département : les températures dépasseront trente-huit degrés jusqu'à jeudi. Les personnes âgées isolées peuvent s'inscrire sur le registre de la mairie pour recevoir un appel quotidien d'un agent municipal. Les salles climatisées de la médiathèque et de la mairie annexe sont ouvertes au public de dix heures à dix-neuf heures. Pensez à boire régulièrement, même sans soif.",
+   "prompt": "Que propose la mairie aux personnes âgées isolées ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une livraison de repas à domicile.",
+     "correct": false,
+     "rationale": "Aucune livraison n'est mentionnée."
+    },
+    {
+     "label": "B",
+     "text": "L'installation d'un climatiseur chez elles.",
+     "correct": false,
+     "rationale": "Les salles climatisées sont publiques."
+    },
+    {
+     "label": "C",
+     "text": "Un transport gratuit vers l'hôpital.",
+     "correct": false,
+     "rationale": "Aucun transport n'est proposé."
+    },
+    {
+     "label": "D",
+     "text": "Un appel téléphonique chaque jour.",
+     "correct": true,
+     "rationale": "« recevoir un appel quotidien d'un agent municipal »."
+    }
+   ],
+   "explanation": "L'annonce distingue un service ciblé (l'appel quotidien pour les personnes inscrites) et des mesures pour tous (salles climatisées, conseils).",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co14.wav"
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "intention",
+   "document": "F: Tu tousses depuis trois semaines, tu devrais vraiment aller voir un médecin. / H: Bof, c'est juste un rhume qui traîne. / F: Trois semaines, ce n'est plus un rhume. Et puis tu fumes… Je ne veux pas te faire peur, mais ça vaut le coup de vérifier. Tu veux que je t'aide à trouver un rendez-vous ? / H: Bon, d'accord, si tu insistes.",
+   "prompt": "Que cherche à faire la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'obliger à arrêter de fumer immédiatement.",
+     "correct": false,
+     "rationale": "Elle mentionne le tabac comme facteur de risque."
+    },
+    {
+     "label": "B",
+     "text": "Convaincre l'homme de consulter un médecin.",
+     "correct": true,
+     "rationale": "« tu devrais vraiment aller voir un médecin » et « Tu veux que je t'aide à trouver un rendez-vous ? »."
+    },
+    {
+     "label": "C",
+     "text": "Lui conseiller un médicament contre le rhume.",
+     "correct": false,
+     "rationale": "Elle conteste justement qu'il s'agisse d'un rhume."
+    },
+    {
+     "label": "D",
+     "text": "Lui reprocher de tousser en public.",
+     "correct": false,
+     "rationale": "Elle s'inquiète pour sa santé."
+    }
+   ],
+   "explanation": "La femme insiste avec des arguments (durée de la toux, tabac), rassure (« je ne veux pas te faire peur ») et propose son aide. L'homme finit par accepter.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co15.wav"
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "H: Dans ce collège, les élèves de quatrième participent à un programme de prévention des écrans. Pendant une semaine, ils s'engagent à ne pas utiliser leur téléphone après vingt et une heures. Chaque matin, ils notent leur temps de sommeil et leur humeur. À la fin de la semaine, la plupart constatent qu'ils se sont endormis plus tôt et qu'ils étaient moins fatigués en classe. Certains ont décidé de continuer l'expérience.",
+   "prompt": "Quel est le résultat principal du programme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les élèves ont abandonné leur téléphone définitivement.",
+     "correct": false,
+     "rationale": "Certains ont seulement décidé de continuer."
+    },
+    {
+     "label": "B",
+     "text": "Les résultats scolaires ont doublé.",
+     "correct": false,
+     "rationale": "Les notes ne sont pas évoquées."
+    },
+    {
+     "label": "C",
+     "text": "Les élèves ont mieux dormi et se sont sentis moins fatigués.",
+     "correct": true,
+     "rationale": "« ils se sont endormis plus tôt et ils étaient moins fatigués en classe »."
+    },
+    {
+     "label": "D",
+     "text": "Les parents ont refusé le programme.",
+     "correct": false,
+     "rationale": "Les parents ne sont pas mentionnés."
+    }
+   ],
+   "explanation": "Le reportage décrit la démarche puis ses effets constatés par les élèves eux-mêmes. Le dernier élément (certains continuent) est une conséquence secondaire.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co16.wav"
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Faut-il taxer davantage les boissons sucrées ? / H: Oui, et les résultats existent : là où la taxe a été mise en place, les fabricants ont réduit la quantité de sucre de leurs recettes pour éviter de la payer. C'est d'ailleurs plus intéressant que l'effet sur les consommateurs. Mais une taxe seule ne suffit pas : il faut aussi garantir l'accès à l'eau potable gratuite dans les écoles et les lieux publics.",
+   "prompt": "Selon l'homme, quel est l'effet le plus intéressant de la taxe ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les consommateurs ont arrêté de boire des sodas.",
+     "correct": false,
+     "rationale": "Il juge l'effet sur les consommateurs moins intéressant."
+    },
+    {
+     "label": "B",
+     "text": "Les écoles ont installé des fontaines à eau.",
+     "correct": false,
+     "rationale": "C'est une mesure qu'il propose en complément."
+    },
+    {
+     "label": "C",
+     "text": "L'État a gagné beaucoup d'argent.",
+     "correct": false,
+     "rationale": "Les recettes fiscales ne sont pas évoquées."
+    },
+    {
+     "label": "D",
+     "text": "Les fabricants ont diminué le sucre dans leurs produits.",
+     "correct": true,
+     "rationale": "« les fabricants ont réduit la quantité de sucre… C'est d'ailleurs plus intéressant »."
+    }
+   ],
+   "explanation": "« C'est d'ailleurs plus intéressant » hiérarchise les effets. La fin de la réponse (« mais une taxe seule ne suffit pas ») ajoute une mesure complémentaire.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co17.wav"
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "information précise",
+   "document": "H: Bonjour, ici la pharmacie du Centre. Le médicament que vous avez commandé est en rupture de stock chez notre fournisseur. Nous avons contacté votre médecin, qui accepte de le remplacer par un équivalent. Celui-ci est disponible dès aujourd'hui. Pensez à apporter votre carte Vitale et votre ordonnance originale quand vous passerez.",
+   "prompt": "Quelle solution la pharmacie propose-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Prendre un nouveau rendez-vous chez le médecin.",
+     "correct": false,
+     "rationale": "La pharmacie a déjà contacté le médecin."
+    },
+    {
+     "label": "B",
+     "text": "Un médicament équivalent, accepté par le médecin.",
+     "correct": true,
+     "rationale": "« votre médecin… accepte de le remplacer par un équivalent »."
+    },
+    {
+     "label": "C",
+     "text": "Attendre la livraison du médicament d'origine.",
+     "correct": false,
+     "rationale": "Il est en rupture de stock."
+    },
+    {
+     "label": "D",
+     "text": "Aller dans une autre pharmacie.",
+     "correct": false,
+     "rationale": "La pharmacie a trouvé une solution elle-même."
+    }
+   ],
+   "explanation": "Le message expose un problème (rupture), puis la solution trouvée avec le médecin. Les documents à apporter sont une information pratique complémentaire.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co18.wav"
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "inférence",
+   "document": "H: La téléconsultation, c'est l'avenir : plus besoin de se déplacer, ni d'attendre en salle d'attente. / F: Pour un renouvellement d'ordonnance, je suis d'accord. Mais un médecin qui ne peut ni écouter vos poumons, ni palper votre ventre, ni voir votre démarche passe à côté de beaucoup de choses. Et ceux qui maîtrisent mal internet, souvent les plus âgés, sont aussi ceux qui ont le plus besoin d'être examinés.",
+   "prompt": "Que laisse entendre la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La téléconsultation doit être interdite.",
+     "correct": false,
+     "rationale": "Elle l'approuve pour certains cas."
+    },
+    {
+     "label": "B",
+     "text": "Les personnes âgées utilisent mieux internet que les jeunes.",
+     "correct": false,
+     "rationale": "Elle dit l'inverse."
+    },
+    {
+     "label": "C",
+     "text": "La téléconsultation ne convient pas à toutes les situations médicales.",
+     "correct": true,
+     "rationale": "Elle l'accepte pour un renouvellement, mais souligne les limites de l'examen à distance."
+    },
+    {
+     "label": "D",
+     "text": "Les médecins n'examinent jamais leurs patients en cabinet.",
+     "correct": false,
+     "rationale": "Elle souligne au contraire l'importance de l'examen."
+    }
+   ],
+   "explanation": "La femme concède un usage (« je suis d'accord ») puis présente deux limites : l'examen physique et la fracture numérique. Elle suggère que l'outil doit rester complémentaire.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co19.wav"
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "conférence",
+   "skill": "compréhension globale",
+   "document": "F: On présente souvent la science comme un ensemble de certitudes. C'est l'inverse : la science avance par le doute. Un résultat n'est accepté qu'après avoir été vérifié par d'autres équipes, critiqué, parfois corrigé. Quand des scientifiques changent d'avis face à de nouvelles données, ce n'est pas un signe de faiblesse, c'est le fonctionnement normal de la méthode scientifique. Le danger, ce sont plutôt ceux qui ne changent jamais d'avis.",
+   "prompt": "Quelle idée principale la conférencière défend-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le doute et la remise en question sont au cœur de la démarche scientifique.",
+     "correct": true,
+     "rationale": "« la science avance par le doute »."
+    },
+    {
+     "label": "B",
+     "text": "Les scientifiques qui changent d'avis sont incompétents.",
+     "correct": false,
+     "rationale": "« ce n'est pas un signe de faiblesse »."
+    },
+    {
+     "label": "C",
+     "text": "La science est un ensemble de vérités définitives.",
+     "correct": false,
+     "rationale": "C'est l'idée qu'elle réfute."
+    },
+    {
+     "label": "D",
+     "text": "Il faut faire confiance aux personnes qui ne changent jamais d'avis.",
+     "correct": false,
+     "rationale": "Elle les présente comme un danger."
+    }
+   ],
+   "explanation": "La conférencière renverse une idée reçue (« C'est l'inverse »), explique le processus de vérification et conclut par une formule frappante sur ceux qui ne changent jamais d'avis.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co20.wav"
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "intention",
+   "document": "H: Madame la ministre, les urgences de plusieurs hôpitaux ferment la nuit faute de personnel. Que comptez-vous faire ? / F: Je ne vais pas vous dire que tout va bien, ce serait mentir. Nous avons augmenté le nombre d'étudiants en médecine, mais ils ne seront formés que dans dix ans. D'ici là, nous allons mieux payer les gardes de nuit et développer la régulation par téléphone, pour que les patients soient orientés avant de se déplacer.",
+   "prompt": "Que cherche à faire la ministre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Reconnaître les difficultés et présenter des mesures à court et à long terme.",
+     "correct": true,
+     "rationale": "Elle admet le problème et cite les études, les gardes mieux payées et la régulation."
+    },
+    {
+     "label": "B",
+     "text": "Nier l'existence de fermetures.",
+     "correct": false,
+     "rationale": "« Je ne vais pas vous dire que tout va bien »."
+    },
+    {
+     "label": "C",
+     "text": "Annoncer la fermeture définitive des urgences.",
+     "correct": false,
+     "rationale": "Elle propose des solutions pour les maintenir."
+    },
+    {
+     "label": "D",
+     "text": "Accuser les médecins de manquer de motivation.",
+     "correct": false,
+     "rationale": "Elle n'accuse personne."
+    }
+   ],
+   "explanation": "La ministre commence par une reconnaissance honnête, distingue une mesure lointaine (formation) de mesures immédiates (« d'ici là »). C'est un discours de responsabilité politique.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co21.wav"
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "information précise",
+   "document": "F: Le dépistage organisé du cancer colorectal concerne les personnes de cinquante à soixante-quatorze ans. Tous les deux ans, elles reçoivent une invitation pour réaliser un test simple, à faire chez soi. Le kit peut être retiré gratuitement en pharmacie, chez le médecin ou commandé en ligne. Pourtant, moins d'une personne sur trois réalise ce test, alors qu'un cancer détecté tôt se guérit dans neuf cas sur dix.",
+   "prompt": "À quelle fréquence le test est-il proposé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Chaque année.",
+     "correct": false,
+     "rationale": "La fréquence est de deux ans."
+    },
+    {
+     "label": "B",
+     "text": "Une seule fois, à cinquante ans.",
+     "correct": false,
+     "rationale": "Le test concerne la tranche de cinquante à soixante-quatorze ans, régulièrement."
+    },
+    {
+     "label": "C",
+     "text": "Tous les cinq ans.",
+     "correct": false,
+     "rationale": "Ce chiffre n'apparaît pas."
+    },
+    {
+     "label": "D",
+     "text": "Tous les deux ans.",
+     "correct": true,
+     "rationale": "« Tous les deux ans, elles reçoivent une invitation »."
+    }
+   ],
+   "explanation": "L'information de fréquence est explicite. Les chiffres de la fin (une personne sur trois, neuf cas sur dix) concernent la participation et l'efficacité.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co22.wav"
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "H: Ma sœur refuse de faire vacciner son fils. Elle dit qu'elle a lu des choses inquiétantes sur internet. / F: Tu as essayé d'en parler avec elle ? / H: Oui, mais dès que je contredis, elle se braque. / F: Alors ne la contredis pas. Pose-lui des questions : où elle a lu ça, qui l'a écrit. Et propose-lui d'en parler avec son pédiatre. Elle l'écoutera plus volontiers que toi.",
+   "prompt": "Que conseille la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De faire vacciner l'enfant sans l'accord de sa mère.",
+     "correct": false,
+     "rationale": "Elle ne suggère rien de tel."
+    },
+    {
+     "label": "B",
+     "text": "D'éviter la confrontation et d'orienter la sœur vers son pédiatre.",
+     "correct": true,
+     "rationale": "« ne la contredis pas… propose-lui d'en parler avec son pédiatre »."
+    },
+    {
+     "label": "C",
+     "text": "De contredire sa sœur avec des arguments scientifiques.",
+     "correct": false,
+     "rationale": "Elle conseille justement de ne pas la contredire."
+    },
+    {
+     "label": "D",
+     "text": "De ne plus jamais parler de vaccination.",
+     "correct": false,
+     "rationale": "Elle propose une autre manière d'en parler."
+    }
+   ],
+   "explanation": "Les impératifs (« ne la contredis pas », « pose-lui des questions », « propose-lui ») expriment les conseils. L'idée est de remplacer la confrontation par le questionnement et l'avis d'un professionnel.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co23.wav"
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "inférence",
+   "document": "H: Chers patients, en raison du départ à la retraite du docteur Moreau, le cabinet ne pourra plus accepter de nouveaux patients à compter du 1er juillet. Les patients actuels du docteur Moreau seront suivis par les deux autres médecins du cabinet, dans la limite de leurs disponibilités. Nous vous invitons à vous rapprocher dès maintenant de la caisse d'assurance maladie si vous recherchez un médecin traitant.",
+   "prompt": "Que comprend-on de cette annonce ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le cabinet va fermer définitivement.",
+     "correct": false,
+     "rationale": "Deux médecins restent en activité."
+    },
+    {
+     "label": "B",
+     "text": "Un nouveau médecin remplacera le docteur Moreau.",
+     "correct": false,
+     "rationale": "Aucun remplaçant n'est annoncé."
+    },
+    {
+     "label": "C",
+     "text": "Les patients risquent d'avoir plus de difficultés à obtenir un rendez-vous.",
+     "correct": true,
+     "rationale": "Les deux médecins restants les suivront « dans la limite de leurs disponibilités »."
+    },
+    {
+     "label": "D",
+     "text": "Les nouveaux patients sont les bienvenus.",
+     "correct": false,
+     "rationale": "Le cabinet n'en accepte plus."
+    }
+   ],
+   "explanation": "L'expression « dans la limite de leurs disponibilités » et le conseil de contacter l'assurance maladie suggèrent implicitement une offre de soins réduite.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co24.wav"
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "entretien radio",
+   "skill": "compréhension globale",
+   "document": "F: Vous êtes chercheur en neurosciences et vous animez des ateliers dans les écoles. Pourquoi ? / H: Parce que comprendre comment fonctionne son cerveau aide à mieux apprendre. Quand un enfant sait que la mémoire se renforce en révisant à plusieurs jours d'intervalle, ou que le sommeil consolide les apprentissages, il change ses habitudes. Et surtout, il comprend que l'intelligence n'est pas figée : elle se développe avec l'entraînement.",
+   "prompt": "Quel est le message principal du chercheur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'intelligence est déterminée dès la naissance.",
+     "correct": false,
+     "rationale": "Il dit qu'elle « n'est pas figée »."
+    },
+    {
+     "label": "B",
+     "text": "Il faut réviser la veille d'un examen.",
+     "correct": false,
+     "rationale": "Il conseille de réviser à plusieurs jours d'intervalle."
+    },
+    {
+     "label": "C",
+     "text": "Connaître le fonctionnement du cerveau aide les enfants à mieux apprendre.",
+     "correct": true,
+     "rationale": "« comprendre comment fonctionne son cerveau aide à mieux apprendre »."
+    },
+    {
+     "label": "D",
+     "text": "Le sommeil empêche de mémoriser.",
+     "correct": false,
+     "rationale": "Il « consolide les apprentissages »."
+    }
+   ],
+   "explanation": "Le chercheur annonce son idée principale dès la première phrase, puis l'illustre par deux exemples. La conclusion, introduite par « surtout », ajoute une idée clé : l'intelligence évolue.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-04_co25.wav"
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "règlement",
+   "skill": "information précise",
+   "document": "Règlement des visites – Service de médecine. Les visites sont autorisées de 13 h à 20 h. Deux visiteurs maximum par patient sont admis simultanément dans la chambre. Les enfants de moins de douze ans ne peuvent entrer qu'accompagnés d'un adulte et avec l'accord de l'équipe soignante. Les fleurs coupées et les plantes en pot sont interdites pour des raisons d'hygiène. En cas d'épidémie saisonnière, le port du masque peut être rendu obligatoire.",
+   "prompt": "Que dit le règlement à propos des enfants de moins de douze ans ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils ne comptent pas dans le nombre de visiteurs.",
+     "correct": false,
+     "rationale": "Le règlement ne le précise pas."
+    },
+    {
+     "label": "B",
+     "text": "Ils peuvent venir seuls l'après-midi.",
+     "correct": false,
+     "rationale": "Ils doivent être accompagnés."
+    },
+    {
+     "label": "C",
+     "text": "Ils sont interdits dans le service.",
+     "correct": false,
+     "rationale": "Leur entrée est possible sous conditions."
+    },
+    {
+     "label": "D",
+     "text": "Ils peuvent entrer avec un adulte, si l'équipe soignante l'accepte.",
+     "correct": true,
+     "rationale": "« accompagnés d'un adulte et avec l'accord de l'équipe soignante »."
+    }
+   ],
+   "explanation": "Les deux conditions sont cumulatives : présence d'un adulte et accord de l'équipe. Les autres règles concernent les horaires, le nombre de visiteurs et l'hygiène."
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "compréhension globale",
+   "document": "La résistance aux antibiotiques progresse dans le monde. Lorsqu'on les utilise trop souvent ou à mauvais escient, par exemple contre un virus sur lequel ils n'ont aucun effet, certaines bactéries s'adaptent et deviennent insensibles aux traitements. Des infections autrefois bénignes deviennent alors difficiles à soigner. Les autorités sanitaires rappellent que les antibiotiques ne doivent être pris que sur prescription, pendant toute la durée indiquée, même si les symptômes disparaissent avant.",
+   "prompt": "Quel est le sujet principal de l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La fin des infections bénignes.",
+     "correct": false,
+     "rationale": "Elles deviennent au contraire plus difficiles à soigner."
+    },
+    {
+     "label": "B",
+     "text": "La résistance des bactéries aux antibiotiques et les moyens de la limiter.",
+     "correct": true,
+     "rationale": "L'article explique le phénomène et rappelle les bonnes pratiques."
+    },
+    {
+     "label": "C",
+     "text": "L'efficacité des antibiotiques contre les virus.",
+     "correct": false,
+     "rationale": "Ils n'ont « aucun effet » sur les virus."
+    },
+    {
+     "label": "D",
+     "text": "La découverte d'un nouvel antibiotique.",
+     "correct": false,
+     "rationale": "Aucune découverte n'est évoquée."
+    }
+   ],
+   "explanation": "L'article suit une logique explicative : problème, cause, conséquence, recommandations. Le thème regroupe ces éléments."
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "courrier des lecteurs",
+   "skill": "opinion",
+   "document": "Aide-soignante depuis vingt ans, je lis souvent que le système de santé manque de moyens. C'est vrai. Mais ce qui me pèse le plus, ce n'est pas l'argent, c'est le temps. Nous courons d'une chambre à l'autre et n'avons plus une minute pour parler avec les patients. Or, une main tenue, quelques mots rassurants avant une opération, cela fait aussi partie du soin. On l'oublie trop souvent quand on compte les actes au lieu de regarder les personnes.",
+   "prompt": "Que regrette principalement l'auteure ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le comportement des patients.",
+     "correct": false,
+     "rationale": "Elle ne critique pas les patients."
+    },
+    {
+     "label": "B",
+     "text": "L'absence de matériel médical.",
+     "correct": false,
+     "rationale": "Le matériel n'est pas évoqué."
+    },
+    {
+     "label": "C",
+     "text": "Le manque de temps pour la relation humaine avec les patients.",
+     "correct": true,
+     "rationale": "« ce qui me pèse le plus, ce n'est pas l'argent, c'est le temps »."
+    },
+    {
+     "label": "D",
+     "text": "Le niveau de son salaire.",
+     "correct": false,
+     "rationale": "Elle dit explicitement que ce n'est pas l'argent."
+    }
+   ],
+   "explanation": "La mise en relief « ce qui me pèse le plus, ce n'est pas…, c'est… » donne la réponse. Les exemples (« une main tenue ») illustrent la dimension humaine du soin."
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "notice de médicament",
+   "skill": "information précise",
+   "document": "Posologie : chez l'adulte, un comprimé toutes les six heures, sans dépasser quatre comprimés par jour. Respecter un intervalle d'au moins quatre heures entre deux prises. Chez l'enfant de moins de quinze ans, demander l'avis d'un médecin. Ne pas associer à d'autres médicaments contenant la même substance active. En cas de fièvre persistant plus de trois jours, consulter un médecin.",
+   "prompt": "Que faut-il faire si la fièvre dure plus de trois jours ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Consulter un médecin.",
+     "correct": true,
+     "rationale": "« En cas de fièvre persistant plus de trois jours, consulter un médecin »."
+    },
+    {
+     "label": "B",
+     "text": "Associer un autre médicament similaire.",
+     "correct": false,
+     "rationale": "C'est explicitement déconseillé."
+    },
+    {
+     "label": "C",
+     "text": "Réduire l'intervalle entre les prises.",
+     "correct": false,
+     "rationale": "Il faut respecter au moins quatre heures."
+    },
+    {
+     "label": "D",
+     "text": "Augmenter la dose à six comprimés par jour.",
+     "correct": false,
+     "rationale": "La dose maximale est de quatre comprimés."
+    }
+   ],
+   "explanation": "Une notice contient des consignes de dose, d'intervalle, de contre-indication et de conduite à tenir. Chaque consigne répond à une question différente."
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "intention",
+   "document": "On mesure la performance des hôpitaux au nombre d'actes réalisés, à la durée moyenne de séjour, au taux d'occupation des lits. Ces chiffres ont leur utilité. Mais ils ne disent rien de l'essentiel : un patient a-t-il été bien informé ? S'est-il senti respecté ? A-t-il pu poser ses questions ? Tant que ces dimensions ne seront pas évaluées, les établissements seront incités à soigner vite plutôt qu'à soigner bien.",
+   "prompt": "Quelle est l'intention de l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Demander la suppression de toute évaluation.",
+     "correct": false,
+     "rationale": "Il reconnaît leur utilité."
+    },
+    {
+     "label": "B",
+     "text": "Plaider pour une évaluation des hôpitaux qui prenne en compte l'expérience des patients.",
+     "correct": true,
+     "rationale": "« Tant que ces dimensions ne seront pas évaluées… »."
+    },
+    {
+     "label": "C",
+     "text": "Défendre les indicateurs actuels sans réserve.",
+     "correct": false,
+     "rationale": "Il juge qu'ils « ne disent rien de l'essentiel »."
+    },
+    {
+     "label": "D",
+     "text": "Critiquer le comportement des patients.",
+     "correct": false,
+     "rationale": "Il défend les patients."
+    }
+   ],
+   "explanation": "L'éditorialiste concède l'utilité des chiffres, puis pose une série de questions qui révèlent ce qui manque. La conclusion oppose « soigner vite » et « soigner bien »."
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "courrier administratif",
+   "skill": "information précise",
+   "document": "Madame, votre demande de reconnaissance de la qualité de travailleur handicapé a été examinée par la commission. Une décision favorable a été rendue pour une durée de cinq ans. Cette reconnaissance vous permet notamment de bénéficier d'un aménagement de votre poste de travail et d'un accompagnement spécifique dans votre recherche d'emploi. Six mois avant l'échéance, vous devrez déposer une demande de renouvellement si vous souhaitez conserver ces droits.",
+   "prompt": "Quand la destinataire devra-t-elle demander le renouvellement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Six mois avant la fin de la période de cinq ans.",
+     "correct": true,
+     "rationale": "« Six mois avant l'échéance, vous devrez déposer une demande de renouvellement »."
+    },
+    {
+     "label": "B",
+     "text": "Après la fin des cinq ans.",
+     "correct": false,
+     "rationale": "La demande doit être faite avant l'échéance."
+    },
+    {
+     "label": "C",
+     "text": "Chaque année.",
+     "correct": false,
+     "rationale": "La reconnaissance est accordée pour cinq ans."
+    },
+    {
+     "label": "D",
+     "text": "Seulement si elle change d'emploi.",
+     "correct": false,
+     "rationale": "Le renouvellement ne dépend pas d'un changement d'emploi."
+    }
+   ],
+   "explanation": "Il faut repérer deux informations : la durée (cinq ans) et le moment du renouvellement (six mois avant l'échéance)."
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "inférence",
+   "document": "Dans plusieurs pays, des médecins prescrivent désormais des activités culturelles ou des sorties en nature à certains patients souffrant d'anxiété ou d'isolement : visites de musées, ateliers de chant, randonnées accompagnées. Les premières évaluations montrent une diminution de la consommation de médicaments et des consultations répétées. Ces programmes restent pourtant marginaux, faute de financement stable : ni les ministères de la santé ni ceux de la culture ne veulent en assumer seuls le coût.",
+   "prompt": "Que peut-on déduire de l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les médicaments sont plus efficaces que la culture.",
+     "correct": false,
+     "rationale": "L'article suggère plutôt l'inverse."
+    },
+    {
+     "label": "B",
+     "text": "Ces programmes ont échoué.",
+     "correct": false,
+     "rationale": "Les premières évaluations sont positives."
+    },
+    {
+     "label": "C",
+     "text": "Ces programmes pourraient se développer s'ils étaient mieux financés.",
+     "correct": true,
+     "rationale": "Ils restent marginaux « faute de financement stable » malgré des résultats positifs."
+    },
+    {
+     "label": "D",
+     "text": "Les ministères se disputent pour les financer seuls.",
+     "correct": false,
+     "rationale": "Aucun ne veut assumer seul le coût."
+    }
+   ],
+   "explanation": "L'inférence repose sur la combinaison de deux éléments : des résultats encourageants et un frein financier. On en déduit que le financement est l'obstacle principal."
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "notice",
+   "skill": "information précise",
+   "document": "Mon espace santé : mode d'emploi. Ce service en ligne gratuit permet de conserver ses documents médicaux (ordonnances, résultats d'analyses, comptes rendus d'hospitalisation) et de les partager avec les professionnels de santé de son choix. Le patient décide qui peut consulter son dossier et peut masquer certains documents. Il peut aussi fermer son espace à tout moment ; ses données sont alors supprimées dans un délai de trois mois, sauf obligation légale de conservation.",
+   "prompt": "Qui décide de l'accès au dossier médical ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Tous les professionnels de santé automatiquement.",
+     "correct": false,
+     "rationale": "L'accès dépend du choix du patient."
+    },
+    {
+     "label": "B",
+     "text": "L'assurance maladie.",
+     "correct": false,
+     "rationale": "Elle n'est pas présentée comme décisionnaire."
+    },
+    {
+     "label": "C",
+     "text": "Le médecin traitant uniquement.",
+     "correct": false,
+     "rationale": "Le patient choisit les professionnels."
+    },
+    {
+     "label": "D",
+     "text": "Le patient lui-même.",
+     "correct": true,
+     "rationale": "« Le patient décide qui peut consulter son dossier »."
+    }
+   ],
+   "explanation": "La notice insiste sur le contrôle du patient : il choisit qui consulte, peut masquer des documents et fermer son espace."
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "opinion",
+   "document": "On parle beaucoup de la santé mentale des jeunes, et c'est une bonne chose. Mais les discours se multiplient plus vite que les moyens. Dans certaines villes, il faut attendre six mois pour obtenir un rendez-vous en centre médico-psychologique. Un adolescent en souffrance ne peut pas attendre six mois. Sensibiliser sans offrir de solutions concrètes, c'est encourager les jeunes à demander une aide qu'on n'est pas capable de leur apporter.",
+   "prompt": "Que dénonce l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'excès de rendez-vous disponibles pour les jeunes.",
+     "correct": false,
+     "rationale": "Les délais atteignent six mois."
+    },
+    {
+     "label": "B",
+     "text": "Le décalage entre les discours sur la santé mentale et les moyens disponibles.",
+     "correct": true,
+     "rationale": "« les discours se multiplient plus vite que les moyens »."
+    },
+    {
+     "label": "C",
+     "text": "Le refus des jeunes de demander de l'aide.",
+     "correct": false,
+     "rationale": "Il dit qu'on les encourage à le faire."
+    },
+    {
+     "label": "D",
+     "text": "L'intérêt porté à la santé mentale des jeunes.",
+     "correct": false,
+     "rationale": "Il juge cet intérêt positif."
+    }
+   ],
+   "explanation": "L'auteur concède (« c'est une bonne chose ») puis dénonce un paradoxe : sensibiliser sans moyens crée des attentes déçues. L'exemple des six mois concrétise la critique."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "La vulgarisation scientifique connaît un nouvel essor grâce aux vidéos en ligne. Des chercheurs expliquent leurs travaux en quelques minutes, avec humour et schémas, à des centaines de milliers de spectateurs. Cette ouverture est précieuse à l'heure où les fausses informations circulent rapidement. Elle a toutefois ses limites : la simplification nécessaire peut déformer des résultats complexes, et les vidéos les plus vues ne sont pas toujours les plus rigoureuses.",
+   "prompt": "Quel est le thème principal de l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'interdiction des vidéos scientifiques.",
+     "correct": false,
+     "rationale": "Aucune interdiction n'est mentionnée."
+    },
+    {
+     "label": "B",
+     "text": "La formation des chercheurs à l'humour.",
+     "correct": false,
+     "rationale": "L'humour n'est qu'une caractéristique des vidéos."
+    },
+    {
+     "label": "C",
+     "text": "L'essor de la vulgarisation scientifique en vidéo, ses atouts et ses limites.",
+     "correct": true,
+     "rationale": "L'article présente le phénomène, son intérêt puis ses limites."
+    },
+    {
+     "label": "D",
+     "text": "La disparition des revues scientifiques.",
+     "correct": false,
+     "rationale": "Ce sujet n'est pas abordé."
+    }
+   ],
+   "explanation": "La structure présentation / intérêt / limites (« toutefois ») est typique d'un article équilibré. Le thème englobe ces trois aspects."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "intention",
+   "document": "Chers parents, plusieurs cas de poux ont été signalés dans la classe de CE1. Nous vous demandons de vérifier soigneusement la tête de votre enfant ce week-end et de le traiter si nécessaire. Il n'est pas utile de le garder à la maison : un enfant traité peut revenir en classe dès lundi. Merci de prévenir l'enseignante si votre enfant est concerné, afin que nous puissions informer les familles sans citer de nom.",
+   "prompt": "Quel est l'objectif principal de ce courriel ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Demander aux parents de vérifier et traiter leur enfant si besoin.",
+     "correct": true,
+     "rationale": "« Nous vous demandons de vérifier… et de le traiter si nécessaire »."
+    },
+    {
+     "label": "B",
+     "text": "Désigner les enfants porteurs de poux.",
+     "correct": false,
+     "rationale": "L'école informera « sans citer de nom »."
+    },
+    {
+     "label": "C",
+     "text": "Interdire aux enfants traités de revenir.",
+     "correct": false,
+     "rationale": "Ils peuvent revenir dès lundi."
+    },
+    {
+     "label": "D",
+     "text": "Annoncer la fermeture de la classe.",
+     "correct": false,
+     "rationale": "Les enfants peuvent revenir dès lundi."
+    }
+   ],
+   "explanation": "La demande principale est introduite par « nous vous demandons de ». Les autres informations rassurent (pas d'éviction) et garantissent la discrétion."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "Depuis peu, les pharmaciens peuvent délivrer certains antibiotiques sans ordonnance pour les angines et les cystites simples, après avoir réalisé un test rapide en officine. Si le test est positif et que le patient ne présente pas de critères de gravité, le pharmacien remet le traitement. En cas de doute, ou si le patient est une femme enceinte ou un enfant de moins de dix ans pour l'angine, il l'oriente vers un médecin.",
+   "prompt": "Dans quel cas le pharmacien doit-il orienter le patient vers un médecin ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Chaque fois que le test est positif.",
+     "correct": false,
+     "rationale": "Si le test est positif sans gravité, il délivre le traitement."
+    },
+    {
+     "label": "B",
+     "text": "Uniquement si le patient le demande.",
+     "correct": false,
+     "rationale": "Le texte donne des critères médicaux."
+    },
+    {
+     "label": "C",
+     "text": "Pour toutes les angines.",
+     "correct": false,
+     "rationale": "Les angines simples peuvent être traitées en pharmacie."
+    },
+    {
+     "label": "D",
+     "text": "En cas de doute ou pour certains publics fragiles.",
+     "correct": true,
+     "rationale": "« En cas de doute, ou si le patient est une femme enceinte ou un enfant de moins de dix ans… »."
+    }
+   ],
+   "explanation": "L'article décrit la règle générale (test positif sans gravité) puis les exceptions, introduites par « en cas de doute, ou si »."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "inférence",
+   "document": "Nous vivons plus longtemps que nos grands-parents, mais pas forcément en meilleure santé. L'espérance de vie a progressé de façon spectaculaire, tandis que l'espérance de vie sans incapacité augmente beaucoup plus lentement. Autrement dit, nous gagnons des années, mais une partie de ces années est vécue avec des maladies chroniques ou une perte d'autonomie. La prévention, longtemps parent pauvre des politiques de santé, devient donc un enjeu majeur.",
+   "prompt": "Que suggère l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'espérance de vie diminue.",
+     "correct": false,
+     "rationale": "Elle a « progressé de façon spectaculaire »."
+    },
+    {
+     "label": "B",
+     "text": "La prévention a toujours été une priorité.",
+     "correct": false,
+     "rationale": "Elle a été « longtemps parent pauvre »."
+    },
+    {
+     "label": "C",
+     "text": "Il faut investir davantage dans la prévention pour vieillir en bonne santé.",
+     "correct": true,
+     "rationale": "« La prévention, longtemps parent pauvre… devient donc un enjeu majeur »."
+    },
+    {
+     "label": "D",
+     "text": "Les années gagnées sont toutes vécues en bonne santé.",
+     "correct": false,
+     "rationale": "Une partie est vécue avec des maladies."
+    }
+   ],
+   "explanation": "« Autrement dit » reformule la distinction entre espérance de vie et espérance de vie sans incapacité. « Parent pauvre » signifie négligé, et « donc » introduit la conclusion."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "Don du sang – Collecte exceptionnelle samedi 12 octobre de 9 h à 17 h, salle des fêtes. Pour donner, il faut avoir entre 18 et 70 ans, peser au moins 50 kg et être en bonne santé. Venez avec une pièce d'identité. Il est conseillé de manger normalement avant le don et de bien vous hydrater. Un premier don dure environ une heure, entretien médical et collation compris. Prise de rendez-vous recommandée en ligne, mais les donneurs sans rendez-vous seront accueillis.",
+   "prompt": "Que dit l'annonce sur la prise de rendez-vous ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle est obligatoire pour tous les donneurs.",
+     "correct": false,
+     "rationale": "Les donneurs sans rendez-vous sont acceptés."
+    },
+    {
+     "label": "B",
+     "text": "Elle est conseillée, mais pas obligatoire.",
+     "correct": true,
+     "rationale": "« Prise de rendez-vous recommandée en ligne, mais les donneurs sans rendez-vous seront accueillis »."
+    },
+    {
+     "label": "C",
+     "text": "Elle se fait uniquement par téléphone.",
+     "correct": false,
+     "rationale": "Elle se fait en ligne."
+    },
+    {
+     "label": "D",
+     "text": "Elle est réservée aux nouveaux donneurs.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    }
+   ],
+   "explanation": "« Recommandée… mais… seront accueillis » montre que le rendez-vous est un conseil, pas une obligation."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "article d'opinion",
+   "skill": "opinion",
+   "document": "Certains réclament l'interdiction totale de la cigarette électronique. Je comprends leur méfiance : on manque encore de recul sur ses effets à long terme, et les arômes sucrés attirent les adolescents. Mais pour un fumeur adulte qui n'arrive pas à arrêter, elle représente un risque bien moindre que le tabac. Plutôt que de l'interdire, encadrons-la strictement : interdiction de vente aux mineurs réellement contrôlée, limitation des arômes et information claire.",
+   "prompt": "Quelle est la position de l'auteur sur la cigarette électronique ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il préfère un encadrement strict à une interdiction totale.",
+     "correct": true,
+     "rationale": "« Plutôt que de l'interdire, encadrons-la strictement »."
+    },
+    {
+     "label": "B",
+     "text": "Il souhaite la vendre librement aux adolescents.",
+     "correct": false,
+     "rationale": "Il demande un contrôle de l'interdiction de vente aux mineurs."
+    },
+    {
+     "label": "C",
+     "text": "Il réclame son interdiction immédiate.",
+     "correct": false,
+     "rationale": "Il s'y oppose."
+    },
+    {
+     "label": "D",
+     "text": "Il pense qu'elle est sans aucun risque.",
+     "correct": false,
+     "rationale": "Il reconnaît le manque de recul."
+    }
+   ],
+   "explanation": "L'auteur concède (« je comprends leur méfiance »), puis présente un argument de réduction des risques. Sa proposition est introduite par « plutôt que de »."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "rapport",
+   "skill": "compréhension globale",
+   "document": "L'étude, menée auprès de 3 000 salariés, montre que ceux qui disposent d'une pause déjeuner d'au moins quarante-cinq minutes, prise hors de leur poste de travail, déclarent moins de fatigue et de stress en fin de journée. Or, près d'un salarié sur deux déjeune devant son ordinateur, souvent en moins de vingt minutes. Le rapport recommande aux employeurs d'aménager des espaces de repas agréables et d'encourager clairement les pauses.",
+   "prompt": "Quelle recommandation le rapport formule-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Interdire les ordinateurs dans les bureaux.",
+     "correct": false,
+     "rationale": "Il ne propose rien de tel."
+    },
+    {
+     "label": "B",
+     "text": "Supprimer les cantines d'entreprise.",
+     "correct": false,
+     "rationale": "Il recommande au contraire des espaces de repas."
+    },
+    {
+     "label": "C",
+     "text": "Réduire la pause déjeuner à vingt minutes.",
+     "correct": false,
+     "rationale": "Il valorise les pauses plus longues."
+    },
+    {
+     "label": "D",
+     "text": "Favoriser de vraies pauses déjeuner, loin du poste de travail.",
+     "correct": true,
+     "rationale": "Il recommande d'« aménager des espaces de repas » et d'« encourager clairement les pauses »."
+    }
+   ],
+   "explanation": "Le rapport présente un constat (bénéfices des pauses), un contraste (« Or ») et une recommandation finale aux employeurs."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "lettre de réclamation",
+   "skill": "intention",
+   "document": "Madame la Directrice, mon père, âgé de 87 ans, a été hospitalisé dans votre établissement du 3 au 10 mars. S'il a été très bien soigné sur le plan médical, je regrette que sa famille n'ait reçu aucune information sur sa sortie : nous l'avons appris la veille au soir, sans qu'aucune aide à domicile n'ait été organisée. Je vous demande de revoir la procédure de préparation des sorties pour les patients âgés, afin que d'autres familles ne vivent pas la même situation.",
+   "prompt": "Quel est le but de cette lettre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Remercier l'équipe pour l'organisation de la sortie.",
+     "correct": false,
+     "rationale": "La sortie a été mal préparée."
+    },
+    {
+     "label": "B",
+     "text": "Obtenir une amélioration de la préparation des sorties d'hôpital.",
+     "correct": true,
+     "rationale": "« Je vous demande de revoir la procédure de préparation des sorties »."
+    },
+    {
+     "label": "C",
+     "text": "Demander un remboursement des frais d'hospitalisation.",
+     "correct": false,
+     "rationale": "Aucun remboursement n'est demandé."
+    },
+    {
+     "label": "D",
+     "text": "Se plaindre de la qualité des soins médicaux.",
+     "correct": false,
+     "rationale": "Il a été « très bien soigné sur le plan médical »."
+    }
+   ],
+   "explanation": "La concession « s'il a été très bien soigné » précède la critique. La demande vise un changement de procédure, dans l'intérêt d'autres familles."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "Le congé de proche aidant permet à un salarié de suspendre ou de réduire son activité pour s'occuper d'un proche en perte d'autonomie ou handicapé. Sa durée est de trois mois, renouvelable, dans la limite d'un an sur l'ensemble de la carrière. Pendant ce congé, le salarié peut percevoir une allocation journalière versée par la caisse d'allocations familiales. L'employeur ne peut pas refuser ce congé si les conditions sont remplies.",
+   "prompt": "Quelle est la durée maximale du congé sur toute la carrière ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un an.",
+     "correct": true,
+     "rationale": "« dans la limite d'un an sur l'ensemble de la carrière »."
+    },
+    {
+     "label": "B",
+     "text": "Trois mois.",
+     "correct": false,
+     "rationale": "Trois mois correspondent à une période, renouvelable."
+    },
+    {
+     "label": "C",
+     "text": "Six mois.",
+     "correct": false,
+     "rationale": "Ce chiffre n'apparaît pas."
+    },
+    {
+     "label": "D",
+     "text": "Il n'y a pas de limite.",
+     "correct": false,
+     "rationale": "La limite est d'un an."
+    }
+   ],
+   "explanation": "Il faut distinguer la durée d'une période (trois mois) et la durée maximale totale (un an). « Renouvelable » indique que plusieurs périodes sont possibles."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "inférence",
+   "document": "Mon médecin m'a demandé, l'air faussement détaché, combien d'heures je passais assis par jour. J'ai fait le calcul : trajet en voiture, bureau, repas, canapé. Neuf heures et demie. Il n'a rien dit, il a simplement noté le chiffre. Depuis, j'ai installé un minuteur qui sonne toutes les heures, et je me lève pour faire quelques pas. Mes collègues me regardent bizarrement. Mon dos, lui, ne s'est jamais aussi bien porté.",
+   "prompt": "Que comprend-on à propos de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il a cessé de travailler au bureau.",
+     "correct": false,
+     "rationale": "Il continue d'aller au bureau."
+    },
+    {
+     "label": "B",
+     "text": "Ses collègues l'imitent tous.",
+     "correct": false,
+     "rationale": "Ils le « regardent bizarrement »."
+    },
+    {
+     "label": "C",
+     "text": "La question du médecin l'a poussé à changer ses habitudes.",
+     "correct": true,
+     "rationale": "Depuis, il se lève toutes les heures et son dos va mieux."
+    },
+    {
+     "label": "D",
+     "text": "Il a été choqué par les reproches de son médecin.",
+     "correct": false,
+     "rationale": "Le médecin « n'a rien dit »."
+    }
+   ],
+   "explanation": "L'effet de la question repose sur le silence du médecin, qui a suffi à provoquer une prise de conscience. L'opposition finale (collègues / dos) montre avec humour le bénéfice du changement."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "guide pratique",
+   "skill": "information précise",
+   "document": "Que faire en cas de morsure de tique ? Retirez-la le plus rapidement possible avec un tire-tique, sans utiliser d'éther ni d'alcool avant le retrait. Désinfectez ensuite la zone. Notez la date de la morsure et surveillez la peau pendant un mois. Si une plaque rouge qui s'étend apparaît autour de la morsure, ou si vous ressentez de la fièvre et des douleurs, consultez un médecin : il peut s'agir des premiers signes de la maladie de Lyme.",
+   "prompt": "Que faut-il éviter avant de retirer la tique ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Utiliser un tire-tique.",
+     "correct": false,
+     "rationale": "C'est l'outil recommandé."
+    },
+    {
+     "label": "B",
+     "text": "Noter la date de la morsure.",
+     "correct": false,
+     "rationale": "C'est recommandé."
+    },
+    {
+     "label": "C",
+     "text": "Désinfecter la zone après le retrait.",
+     "correct": false,
+     "rationale": "La désinfection se fait après, c'est conseillé."
+    },
+    {
+     "label": "D",
+     "text": "Appliquer de l'éther ou de l'alcool.",
+     "correct": true,
+     "rationale": "« sans utiliser d'éther ni d'alcool avant le retrait »."
+    }
+   ],
+   "explanation": "Le guide indique l'ordre des actions. La consigne négative « sans utiliser » est placée avant le retrait, alors que la désinfection vient « ensuite »."
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "opinion",
+   "document": "Chaque hiver, les hôpitaux pédiatriques sont débordés par les épidémies de bronchiolite. Chaque hiver, les mêmes images, les mêmes déclarations, les mêmes renforts provisoires. Ce qui est prévisible ne devrait pas être traité comme une urgence. Une épidémie qui revient chaque année aux mêmes dates n'est pas une surprise : c'est une donnée. Il serait temps d'en tirer les conséquences dans l'organisation des services, plutôt que de compter sur le dévouement épuisé des soignants.",
+   "prompt": "Quelle thèse défend l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les renforts provisoires suffisent.",
+     "correct": false,
+     "rationale": "Il critique ces solutions temporaires."
+    },
+    {
+     "label": "B",
+     "text": "Les soignants manquent de dévouement.",
+     "correct": false,
+     "rationale": "Il parle de leur « dévouement épuisé »."
+    },
+    {
+     "label": "C",
+     "text": "La bronchiolite est une maladie nouvelle et imprévisible.",
+     "correct": false,
+     "rationale": "Elle « revient chaque année aux mêmes dates »."
+    },
+    {
+     "label": "D",
+     "text": "Les épidémies prévisibles devraient être anticipées dans l'organisation des hôpitaux.",
+     "correct": true,
+     "rationale": "« Ce qui est prévisible ne devrait pas être traité comme une urgence »."
+    }
+   ],
+   "explanation": "La répétition de « chaque hiver » souligne le caractère prévisible du problème. L'opposition « n'est pas une surprise : c'est une donnée » résume la thèse."
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "Les applications de suivi de la santé se multiplient : elles comptent les pas, mesurent le sommeil, analysent le rythme cardiaque. Elles peuvent encourager à bouger davantage et aider certains patients à suivre leur maladie. Mais elles posent aussi des questions : que deviennent ces données très personnelles ? Peuvent-elles être revendues à des assureurs ou à des employeurs ? Les spécialistes conseillent de lire attentivement les conditions d'utilisation et de privilégier les applications qui stockent les données sur le téléphone.",
+   "prompt": "Quel est le sujet principal de l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'interdiction des applications de santé.",
+     "correct": false,
+     "rationale": "Aucune interdiction n'est évoquée."
+    },
+    {
+     "label": "B",
+     "text": "Les applications de santé, leurs bénéfices et les risques pour la vie privée.",
+     "correct": true,
+     "rationale": "L'article présente leur utilité puis les questions sur les données."
+    },
+    {
+     "label": "C",
+     "text": "Le prix élevé des téléphones.",
+     "correct": false,
+     "rationale": "Le prix n'est pas abordé."
+    },
+    {
+     "label": "D",
+     "text": "Les maladies cardiaques.",
+     "correct": false,
+     "rationale": "Le rythme cardiaque n'est qu'un exemple de mesure."
+    }
+   ],
+   "explanation": "Le texte suit une structure avantages / inconvénients (« Mais ») / conseils. Le thème englobe ces trois éléments."
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "règlement",
+   "skill": "inférence",
+   "document": "Charte de la salle de sport municipale. L'accès est réservé aux abonnés munis de leur carte. Un certificat médical d'aptitude datant de moins d'un an est exigé lors de l'inscription. Une serviette doit obligatoirement être posée sur les appareils. Les machines doivent être nettoyées après usage avec les produits mis à disposition. L'utilisation des appareils de musculation est interdite aux mineurs de moins de seize ans, même accompagnés.",
+   "prompt": "Que peut-on déduire de cette charte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les mineurs de quatorze ans peuvent faire de la musculation avec un parent.",
+     "correct": false,
+     "rationale": "C'est interdit « même accompagnés »."
+    },
+    {
+     "label": "B",
+     "text": "Aucun document n'est nécessaire pour s'inscrire.",
+     "correct": false,
+     "rationale": "Un certificat médical est exigé."
+    },
+    {
+     "label": "C",
+     "text": "La salle accorde une attention particulière à l'hygiène et à la sécurité.",
+     "correct": true,
+     "rationale": "Serviette obligatoire, nettoyage des machines, certificat médical et limite d'âge."
+    },
+    {
+     "label": "D",
+     "text": "Le nettoyage des machines est assuré uniquement par le personnel.",
+     "correct": false,
+     "rationale": "Les usagers doivent nettoyer après usage."
+    }
+   ],
+   "explanation": "Plusieurs règles convergent vers deux préoccupations : l'hygiène (serviette, nettoyage) et la sécurité (certificat, âge minimum)."
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "intention",
+   "document": "Nous, médecins généralistes d'un même territoire rural, refusons de choisir entre nos patients et notre santé. Nous travaillons soixante heures par semaine et refusons chaque jour des nouveaux patients. Nous ne demandons pas de primes supplémentaires. Nous demandons des secrétaires médicales financées, des assistants pour les tâches administratives et des maisons de santé où nous pourrons travailler en équipe. C'est ainsi que nous pourrons soigner plus, sans nous épuiser.",
+   "prompt": "Quel est l'objectif de cette tribune ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Réclamer des moyens d'organisation pour soigner plus de patients.",
+     "correct": true,
+     "rationale": "« Nous demandons des secrétaires médicales financées, des assistants… »."
+    },
+    {
+     "label": "B",
+     "text": "Annoncer leur départ à la retraite.",
+     "correct": false,
+     "rationale": "Ils veulent continuer à soigner."
+    },
+    {
+     "label": "C",
+     "text": "Critiquer les patients trop nombreux.",
+     "correct": false,
+     "rationale": "Ils regrettent de devoir refuser des patients."
+    },
+    {
+     "label": "D",
+     "text": "Obtenir des primes financières.",
+     "correct": false,
+     "rationale": "« Nous ne demandons pas de primes supplémentaires »."
+    }
+   ],
+   "explanation": "L'opposition « nous ne demandons pas… nous demandons… » structure la revendication. La conclusion relie ces moyens à un double objectif : soigner plus et éviter l'épuisement."
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "compréhension globale",
+   "document": "La médecine moderne a remporté des victoires considérables contre les maladies infectieuses. Mais les grandes causes de mortalité d'aujourd'hui – maladies cardiovasculaires, diabète, certains cancers – sont fortement liées à nos modes de vie : alimentation, sédentarité, tabac, pollution. Elles ne se combattent pas seulement à l'hôpital, mais aussi dans l'urbanisme, l'agriculture, l'éducation. La santé publique ne peut donc plus être l'affaire des seuls médecins.",
+   "prompt": "Quelle idée principale l'auteur développe-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La médecine moderne a échoué.",
+     "correct": false,
+     "rationale": "Elle a « remporté des victoires considérables »."
+    },
+    {
+     "label": "B",
+     "text": "Les maladies infectieuses sont aujourd'hui les plus mortelles.",
+     "correct": false,
+     "rationale": "Les grandes causes actuelles sont liées aux modes de vie."
+    },
+    {
+     "label": "C",
+     "text": "La santé dépend de nombreux secteurs au-delà de la médecine.",
+     "correct": true,
+     "rationale": "« La santé publique ne peut donc plus être l'affaire des seuls médecins »."
+    },
+    {
+     "label": "D",
+     "text": "L'hôpital suffit à combattre les maladies modernes.",
+     "correct": false,
+     "rationale": "Elles se combattent « pas seulement à l'hôpital »."
+    }
+   ],
+   "explanation": "L'auteur part d'un succès passé, introduit un changement avec « mais » et conclut avec « donc ». L'énumération des secteurs (urbanisme, agriculture, éducation) élargit la notion de santé."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "task_type": "répondre à un message",
+   "instructions": "Votre amie Léa vous écrit : « J'ai décidé de reprendre le sport, mais je n'ai jamais le temps. Comment fais-tu, toi ? » Répondez-lui en partageant votre organisation et en lui proposant une activité ensemble (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Coucou Léa ! Moi aussi, je manquais de temps, alors j'ai changé mes habitudes : je vais au travail à vélo et je nage le mardi midi, pendant ma pause. Ça me prend peu de temps et je me sens beaucoup mieux. Et si on courait ensemble le dimanche matin au parc ? À très vite, Inès",
+   "tips": "Donnez des exemples concrets de votre organisation et proposez une activité précise (jour, lieu) pour rendre votre réponse utile.",
+   "expected_points": [
+    "réagir au message",
+    "expliquer son organisation",
+    "proposer une activité commune",
+    "formule finale"
+   ],
+   "model_commentary": "Le message partage une expérience concrète, montre un résultat et propose une activité précise. L'imparfait (« je manquais ») et le passé composé (« j'ai changé ») sont bien articulés."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "task_type": "raconter une expérience",
+   "instructions": "Racontez une expérience avec le système de santé français (consultation, hospitalisation, urgences, pharmacie…) pour un blog destiné aux nouveaux arrivants : ce qui s'est passé, ce qui vous a surpris et un conseil que vous donneriez (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "L'hiver dernier, mon fils a eu une forte fièvre un dimanche soir. Ne sachant pas où aller, j'ai appelé le 15. Le médecin régulateur m'a posé des questions précises et m'a orientée vers une maison médicale de garde, où nous avons été reçus en vingt minutes. Ce qui m'a surpris, c'est qu'on évite ainsi d'encombrer les urgences. Mon conseil : avant de vous déplacer la nuit ou le week-end, appelez d'abord pour être orienté vers le bon service.",
+   "tips": "Pensez à vos lecteurs : terminez par un conseil pratique et précis tiré de votre expérience.",
+   "expected_points": [
+    "raconter la situation",
+    "décrire le déroulement",
+    "exprimer une surprise",
+    "donner un conseil"
+   ],
+   "model_commentary": "Le récit est clair, avec un participe présent (« ne sachant pas ») et une relative en « où ». La mise en relief « ce qui m'a surpris, c'est que » et le conseil final rendent le texte utile pour les lecteurs."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "donner son opinion à partir de deux documents",
+   "instructions": "Document 1 : « La téléconsultation facilite l'accès aux soins, surtout dans les zones où les médecins manquent. » Document 2 : « Un médecin a besoin d'examiner son patient : la téléconsultation ne remplacera jamais une vraie consultation. » Présentez ces deux opinions, puis donnez votre avis argumenté (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Le premier document voit dans la téléconsultation un moyen de faciliter l'accès aux soins, tandis que le second rappelle que rien ne remplace l'examen physique. Selon moi, la téléconsultation est utile pour des situations simples : renouveler une ordonnance, commenter des résultats ou suivre un traitement. En revanche, un premier diagnostic exige souvent d'ausculter le patient. Elle doit donc compléter les consultations classiques, sans servir de prétexte pour ne pas installer de médecins dans les zones rurales.",
+   "tips": "Illustrez votre position par des exemples précis et terminez par une conclusion claire qui reprend votre avis.",
+   "expected_points": [
+    "résumer le document 1",
+    "résumer le document 2",
+    "prendre position",
+    "justifier avec des exemples",
+    "conclure"
+   ],
+   "model_commentary": "Les deux documents sont résumés de manière équilibrée. La position est précisée par des exemples et une distinction (« en revanche »), puis la conclusion introduite par « donc » met en garde contre une dérive."
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous interroge sur votre santé et votre mode de vie : vos habitudes, votre sommeil, votre activité physique et votre expérience du système de soins en France.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Pouvez-vous vous présenter ?",
+    "Que faites-vous pour rester en bonne santé ?",
+    "Avez-vous un médecin traitant en France ?",
+    "Qu'est-ce qui vous a surpris dans le système de santé français ?",
+    "Quelle habitude aimeriez-vous changer ?"
+   ],
+   "useful_phrases": [
+    "J'essaie de…",
+    "Ce qui m'a surpris, c'est…",
+    "J'aimerais réussir à…"
+   ],
+   "model_answer": "Je m'appelle Mehmet, je suis chauffeur de bus à Strasbourg. Pour rester en forme, j'essaie de marcher le plus possible, car je suis assis toute la journée au travail. J'ai un médecin traitant depuis deux ans ; au début, j'ai eu du mal à en trouver un qui accepte de nouveaux patients. Ce qui m'a surpris, c'est la carte Vitale : en Turquie, les démarches étaient plus compliquées. J'aimerais réussir à mieux dormir, car mes horaires décalés perturbent mon sommeil.",
+   "model_commentary": "Le candidat relie santé et métier, raconte une difficulté, exprime une surprise avec une mise en relief et formule un objectif justifié. Le discours est cohérent et personnel.",
+   "tips": "Reliez votre santé à votre quotidien (métier, horaires) : cela donne des explications naturelles et développe vos réponses."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Obtenir un rendez-vous chez un spécialiste",
+   "examiner_role": "Secrétaire médicale",
+   "scenario": "Votre médecin vous a conseillé de consulter un dermatologue rapidement pour un grain de beauté qui a changé d'aspect. La secrétaire (l'examinateur) vous propose un rendez-vous dans cinq mois. Négociez pour obtenir un rendez-vous plus tôt.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Le docteur n'a pas de place avant mars.",
+    "Tous les patients disent que c'est urgent.",
+    "Avez-vous un courrier de votre médecin ?",
+    "Je peux vous mettre sur liste d'attente."
+   ],
+   "useful_phrases": [
+    "Mon médecin m'a recommandé de…",
+    "Je comprends, mais…",
+    "Serait-il possible de… ?"
+   ],
+   "model_answer": "Bonjour, mon médecin traitant m'a recommandé de consulter rapidement un dermatologue, car un grain de beauté a changé de forme et de couleur. Je comprends que l'agenda soit chargé, mais cinq mois, c'est long dans ce cas. J'ai un courrier de mon médecin qui précise l'urgence ; je peux vous l'envoyer par courriel dès aujourd'hui. Serait-il possible que le docteur le lise et décide s'il peut me recevoir plus tôt ? Sinon, inscrivez-moi sur la liste d'attente : je suis disponible à n'importe quelle heure.",
+   "model_commentary": "Le candidat explique la situation médicale, reconnaît la contrainte, apporte une preuve (le courrier) et propose deux solutions. La politesse et l'insistance sont bien dosées.",
+   "tips": "Appuyez votre demande sur un élément objectif (courrier, symptôme précis) et proposez toujours une solution de repli."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il rendre le sport obligatoire au travail ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Certaines entreprises proposent ou encouragent fortement une activité physique pendant le temps de travail. Faudrait-il généraliser cette pratique, voire la rendre obligatoire ? Donnez votre opinion et défendez-la.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Le sport, c'est une affaire privée.",
+    "Tout le monde n'aime pas le sport.",
+    "Les entreprises n'ont pas le temps pour ça.",
+    "Qu'est-ce que l'entreprise y gagnerait ?"
+   ],
+   "useful_phrases": [
+    "Je suis favorable à…, mais pas à…",
+    "L'idée n'est pas de… mais de…",
+    "Les entreprises y gagneraient…"
+   ],
+   "model_answer": "Je suis favorable à ce que les entreprises encouragent l'activité physique, mais pas à ce qu'elles l'imposent. L'idée n'est pas de transformer les salariés en athlètes, mais de lutter contre la sédentarité : beaucoup passent huit heures assis. Une demi-heure de marche ou d'étirements pendant la pause réduit les douleurs de dos et le stress. Les entreprises y gagneraient aussi, avec moins d'arrêts maladie. En revanche, l'obligation serait contre-productive : chacun doit pouvoir choisir son activité, ou ne rien faire du tout.",
+   "model_commentary": "La position distingue encourager et imposer, s'appuie sur des arguments de santé et d'intérêt économique, et justifie le refus de l'obligation. Les structures (« je suis favorable à ce que + subjonctif ») sont de niveau B2.",
+   "tips": "Distinguez clairement ce que vous acceptez et ce que vous refusez : c'est une bonne manière de nuancer sans être hésitant."
+  }
+ ],
+ "series": "B2"
+}

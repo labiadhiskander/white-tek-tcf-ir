@@ -1,0 +1,500 @@
+@code B2-BLANC-04
+@series B2
+@title Examen blanc B2 n° 4 – Santé et sciences
+@level B2
+@description Examen complet de niveau B2 aux durées officielles : système de soins, prévention, recherche, vulgarisation scientifique.
+
+## CO 1 | B2 | message vocal | intention | F:fr-FR
+DOC: F: Bonjour Monsieur Lambert, ici le secrétariat du docteur Garnier. Les résultats de votre prise de sang sont arrivés. Rien d'inquiétant, rassurez-vous, mais le docteur souhaiterait vous voir pour en parler et ajuster votre traitement. Il a une disponibilité jeudi à dix-sept heures. Si cela ne vous convient pas, rappelez-nous et nous trouverons un autre créneau.
+Q: Pourquoi le secrétariat appelle-t-il M. Lambert ?
++ Pour lui proposer un rendez-vous afin de discuter de ses résultats. | « le docteur souhaiterait vous voir pour en parler et ajuster votre traitement ».
+- Pour lui annoncer un résultat grave. | « Rien d'inquiétant, rassurez-vous ».
+- Pour lui demander de refaire une prise de sang. | Aucune nouvelle analyse n'est demandée.
+- Pour annuler son rendez-vous de jeudi. | Le rendez-vous de jeudi est une proposition.
+EXP: Le message rassure d'abord (« rien d'inquiétant »), puis formule l'objectif au conditionnel (« souhaiterait vous voir »). La proposition de créneau confirme l'intention : fixer un rendez-vous.
+
+## CO 2 | B2 | reportage radio | information précise | H:fr-FR
+DOC: H: Face au manque de médecins, ce département a recruté directement une trentaine de généralistes salariés, installés dans des centres de santé publics. Ils travaillent trente-cinq heures par semaine, sans gérer de cabinet ni de comptabilité. Pour les jeunes médecins, c'est un argument décisif : selon le conseil départemental, quatre candidats sur cinq citent l'absence de tâches administratives comme principale motivation.
+Q: Quelle est la principale motivation des candidats selon le reportage ?
++ Ne pas avoir à gérer de tâches administratives. | « quatre candidats sur cinq citent l'absence de tâches administratives ».
+- Un salaire plus élevé qu'en cabinet libéral. | Le salaire n'est pas mentionné.
+- La possibilité de travailler à l'hôpital. | Ils travaillent dans des centres de santé.
+- Des horaires de nuit mieux payés. | Ils travaillent trente-cinq heures, sans mention de nuits.
+EXP: L'information précise est donnée par la statistique finale. Les autres éléments (trente-cinq heures, pas de cabinet) décrivent le poste mais ne répondent pas à la question.
+
+## CO 3 | B2 | conversation | opinion | F:fr-FR, H:fr-FR
+DOC: F: Tu as lu cet article qui dit que le café serait bon pour la santé ? / H: Oui, et le mois dernier, un autre disait exactement le contraire. Je ne crois plus ces études. / F: Ce n'est pas que les études se contredisent, c'est que les journaux résument trop vite. Une étude porte sur trois tasses par jour, l'autre sur huit : ce n'est pas la même chose ! / H: Peut-être, mais pour le lecteur, c'est déroutant.
+Q: Selon la femme, d'où vient la confusion ?
++ Des résumés trop simplifiés des études dans la presse. | « c'est que les journaux résument trop vite ».
+- Des erreurs des chercheurs. | Elle dit justement que les études ne se contredisent pas.
+- Du manque d'études sur le café. | Elle cite au moins deux études.
+- Du comportement des lecteurs. | C'est l'homme qui parle du lecteur.
+EXP: La structure « ce n'est pas que…, c'est que… » oppose une fausse explication à la vraie. L'exemple des doses différentes illustre son argument.
+
+## CO 4 | B2 | annonce publique | information précise | H:fr-FR
+DOC: H: Information de l'agence régionale de santé : la campagne de vaccination contre la grippe débute le 15 octobre. Elle est gratuite pour les personnes de plus de soixante-cinq ans, les femmes enceintes et les personnes atteintes de certaines maladies chroniques. Les personnes concernées peuvent se faire vacciner directement en pharmacie, sans ordonnance, en présentant le bon de prise en charge reçu par courrier.
+Q: Que doivent présenter les personnes concernées en pharmacie ?
++ Le bon de prise en charge reçu par courrier. | « en présentant le bon de prise en charge reçu par courrier ».
+- Une ordonnance de leur médecin. | La vaccination se fait « sans ordonnance ».
+- Un certificat de grossesse. | Aucun certificat n'est demandé.
+- Leur carnet de vaccination. | Le carnet n'est pas mentionné.
+EXP: « Sans ordonnance » élimine un distracteur fréquent. Le document à présenter est le bon reçu par courrier, qui prouve l'éligibilité à la gratuité.
+
+## CO 5 | B2 | interview radio | compréhension globale | H:fr-FR, F:fr-FR
+DOC: H: Vous êtes infirmière en pratique avancée. En quoi votre métier est-il différent ? / F: Après cinq ans d'expérience, j'ai suivi deux années de formation supplémentaires. Aujourd'hui, je peux assurer le suivi de patients atteints de maladies chroniques, renouveler certaines prescriptions et adapter des traitements, en lien avec le médecin. Cela libère du temps médical pour les cas plus complexes, et les patients sont suivis plus régulièrement.
+Q: Quel est le sujet principal de l'interview ?
++ Les nouvelles compétences d'une infirmière et leur intérêt pour le système de soins. | Elle décrit ses missions élargies et leurs bénéfices.
+- Le remplacement des médecins par les infirmières. | Elle travaille « en lien avec le médecin ».
+- Les difficultés de la formation d'infirmière. | La formation est mentionnée sans être décrite comme difficile.
+- Le manque de patients atteints de maladies chroniques. | Elle les suit régulièrement.
+EXP: L'interview présente le parcours, les missions puis les bénéfices (temps médical libéré, suivi régulier). La précision « en lien avec le médecin » écarte l'idée de remplacement.
+
+## CO 6 | B2 | chronique radio | inférence | F:fr-FR
+DOC: F: On nous conseille de faire dix mille pas par jour. D'où vient ce chiffre ? D'une campagne publicitaire japonaise des années soixante pour vendre un podomètre ! Les études récentes montrent que les bénéfices pour la santé apparaissent bien avant, dès six ou sept mille pas, surtout chez les personnes âgées. L'essentiel n'est donc pas d'atteindre un chiffre magique, mais de bouger un peu plus chaque jour.
+Q: Que laisse entendre la chroniqueuse sur l'objectif des dix mille pas ?
++ Il n'a pas d'origine scientifique. | Il vient « d'une campagne publicitaire japonaise ».
+- Il est fondé sur des études médicales anciennes. | Il vient d'une publicité.
+- Il est trop faible pour être utile. | Les bénéfices apparaissent même avant.
+- Il est réservé aux personnes âgées. | Ce chiffre s'adresse à tout le monde.
+EXP: La chroniqueuse révèle l'origine commerciale du chiffre, ce qui suggère implicitement son absence de fondement scientifique. Elle relativise ensuite avec des études récentes.
+
+## CO 7 | B2 | débat radio | opinion | H:fr-FR, F:fr-FR
+DOC: H: Il faudrait obliger les jeunes médecins à s'installer quelques années dans les déserts médicaux. / F: Je comprends l'idée, mais l'obligation risque d'être contre-productive. Les étudiants pourraient se détourner de la médecine générale au profit des spécialités. Les expériences étrangères montrent qu'il vaut mieux agir sur les conditions : maisons de santé, travail en équipe, aide au logement, emploi pour le conjoint.
+Q: Que pense la femme de l'obligation d'installation ?
++ Elle craint qu'elle décourage les étudiants et préfère des mesures incitatives. | « l'obligation risque d'être contre-productive… il vaut mieux agir sur les conditions ».
+- Elle la soutient sans réserve. | Elle exprime une réserve claire.
+- Elle pense qu'il n'y a pas de déserts médicaux. | Elle propose des solutions pour ces territoires.
+- Elle propose d'augmenter les tarifs des consultations. | Elle ne parle pas des tarifs.
+EXP: « Je comprends l'idée, mais » marque une concession suivie d'une objection. « Contre-productive » signifie qu'une mesure produit l'effet inverse de celui recherché.
+
+## CO 8 | B2 | message professionnel | information précise | F:fr-FR
+DOC: F: Bonjour à toute l'équipe, je vous rappelle que la formation aux gestes de premiers secours aura lieu mardi de neuf heures à midi, en salle B. Elle est obligatoire pour les nouveaux arrivants et conseillée aux autres. Pensez à porter une tenue confortable, car il y aura des exercices pratiques au sol. Le repas du midi sera offert par l'entreprise pour les participants.
+Q: Pour qui la formation est-elle obligatoire ?
++ Pour les salariés récemment arrivés. | « Elle est obligatoire pour les nouveaux arrivants ».
+- Pour tous les salariés sans exception. | Elle est seulement « conseillée aux autres ».
+- Pour les responsables d'équipe. | Les responsables ne sont pas mentionnés.
+- Pour ceux qui souhaitent déjeuner sur place. | Le repas est offert aux participants, ce n'est pas un critère.
+EXP: Le message distingue « obligatoire » et « conseillée ». Les informations sur la tenue et le repas sont pratiques mais ne répondent pas à la question.
+
+## CO 9 | B2 | interview | intention | H:fr-FR, F:fr-FR
+DOC: H: Pourquoi avoir créé une ligne d'écoute pour les étudiants ? / F: Parce que beaucoup d'entre eux vont mal sans oser en parler. Ils ont peur d'être jugés, ou pensent que leur malaise n'est pas assez grave pour consulter. Notre rôle, c'est d'abord d'écouter, sans juger, puis de les orienter vers un psychologue si nécessaire. Le simple fait de mettre des mots sur ce qu'on ressent soulage déjà beaucoup.
+Q: Quel est le rôle principal de la ligne d'écoute ?
++ Écouter les étudiants sans les juger et les orienter si besoin. | « Notre rôle, c'est d'abord d'écouter, sans juger, puis de les orienter ».
+- Remplacer les psychologues. | Elle oriente vers eux si nécessaire.
+- Prescrire des médicaments. | Aucune prescription n'est évoquée.
+- Organiser des cours de soutien scolaire. | Il s'agit de soutien psychologique.
+EXP: La mise en relief « notre rôle, c'est d'abord… puis… » donne la réponse en deux étapes. La dernière phrase souligne les bienfaits de la parole.
+
+## CO 10 | B2 | reportage | compréhension globale | F:fr-FR
+DOC: F: Dans cet hôpital de Montpellier, des clowns professionnels interviennent deux fois par semaine dans le service de pédiatrie. Ils ne remplacent pas les soignants, mais travaillent avec eux : avant une piqûre ou un examen douloureux, ils détournent l'attention de l'enfant. Les infirmières constatent que les soins se passent plus calmement, et certains enfants réclament même les clowns avant de rentrer chez eux.
+Q: De quoi parle principalement ce reportage ?
++ De l'intervention de clowns pour faciliter les soins des enfants. | Ils « détournent l'attention de l'enfant » et les soins « se passent plus calmement ».
+- Du remplacement des infirmières par des clowns. | « Ils ne remplacent pas les soignants ».
+- D'un spectacle de cirque organisé à l'hôpital. | Il s'agit d'interventions dans les soins.
+- Des difficultés de recrutement en pédiatrie. | Le recrutement n'est pas évoqué.
+EXP: Le reportage décrit le dispositif, précise sa place par rapport aux soignants et donne ses effets. L'idée principale est l'aide apportée aux soins.
+
+## CO 11 | B2 | conversation administrative | information précise | H:fr-FR, F:fr-FR
+DOC: H: Bonjour, je voudrais savoir comment déclarer mon médecin traitant. / F: C'est simple : lors de votre prochaine consultation, votre médecin remplit la déclaration en ligne avec votre carte Vitale. Vous n'avez rien à envoyer. / H: Et si je n'ai pas de médecin traitant ? / F: Vous serez moins bien remboursé, sauf exceptions, comme les urgences ou certaines spécialités en accès direct, par exemple l'ophtalmologue ou le gynécologue.
+Q: Comment se fait la déclaration du médecin traitant ?
++ Le médecin la fait en ligne pendant une consultation. | « votre médecin remplit la déclaration en ligne avec votre carte Vitale ».
+- Le patient envoie un formulaire par courrier. | « Vous n'avez rien à envoyer ».
+- Le patient se rend à la caisse d'assurance maladie. | Aucun déplacement n'est nécessaire.
+- Elle se fait automatiquement après la première visite aux urgences. | Les urgences sont citées comme exception de remboursement.
+EXP: La réponse de l'agente est claire et complétée par « vous n'avez rien à envoyer ». La suite concerne les remboursements, pas la démarche.
+
+## CO 12 | B2 | chronique | opinion | H:fr-FR
+DOC: H: Chaque année, de nouveaux régimes miracles envahissent les magazines au début du printemps. Sans gluten, sans sucre, à jeûne intermittent… Je ne dis pas qu'ils ne fonctionnent jamais. Je dis qu'ils détournent l'attention de l'essentiel, qui est d'une banalité désespérante : manger varié, cuisiner soi-même, bouger régulièrement et dormir suffisamment. Le problème, c'est que la banalité ne fait pas vendre de magazines.
+Q: Quel est le point de vue du chroniqueur ?
++ Les régimes à la mode font oublier des principes simples mais efficaces. | « ils détournent l'attention de l'essentiel ».
+- Tous les régimes sont dangereux pour la santé. | « Je ne dis pas qu'ils ne fonctionnent jamais ».
+- Il faut supprimer le gluten et le sucre. | Il critique ces régimes à la mode.
+- Les magazines donnent toujours de bons conseils. | Il les accuse de privilégier ce qui fait vendre.
+EXP: Le chroniqueur nuance (« je ne dis pas… je dis que… ») puis formule sa thèse. La dernière phrase explique avec ironie pourquoi les conseils simples sont peu mis en avant.
+
+## CO 13 | B2 | interview radio | inférence | F:fr-FR, H:fr-FR
+DOC: F: Votre laboratoire travaille sur un nouveau traitement contre une maladie rare. Quand sera-t-il disponible ? / H: Je comprends l'attente des familles, et je ne voudrais pas leur donner de faux espoirs. Les premiers essais sont encourageants, mais ils portent sur douze patients. Il faudra plusieurs années d'essais plus larges avant de savoir si le traitement est efficace et sans danger. Annoncer une date aujourd'hui serait irresponsable.
+Q: Que peut-on déduire de la réponse du chercheur ?
++ Il refuse de s'engager sur une date pour ne pas tromper les familles. | « Annoncer une date aujourd'hui serait irresponsable ».
+- Le traitement sera disponible l'année prochaine. | Il faudra « plusieurs années d'essais ».
+- Les premiers essais ont échoué. | Ils sont « encourageants ».
+- Le traitement a déjà été testé sur des milliers de patients. | Les essais portent sur douze patients.
+EXP: Le chercheur exprime de l'empathie, présente des résultats prudents et justifie son refus de donner une date. Le mot « irresponsable » montre son souci éthique.
+
+## CO 14 | B2 | annonce radio | information précise | H:fr-FR
+DOC: H: Alerte canicule dans le département : les températures dépasseront trente-huit degrés jusqu'à jeudi. Les personnes âgées isolées peuvent s'inscrire sur le registre de la mairie pour recevoir un appel quotidien d'un agent municipal. Les salles climatisées de la médiathèque et de la mairie annexe sont ouvertes au public de dix heures à dix-neuf heures. Pensez à boire régulièrement, même sans soif.
+Q: Que propose la mairie aux personnes âgées isolées ?
++ Un appel téléphonique chaque jour. | « recevoir un appel quotidien d'un agent municipal ».
+- Une livraison de repas à domicile. | Aucune livraison n'est mentionnée.
+- Un transport gratuit vers l'hôpital. | Aucun transport n'est proposé.
+- L'installation d'un climatiseur chez elles. | Les salles climatisées sont publiques.
+EXP: L'annonce distingue un service ciblé (l'appel quotidien pour les personnes inscrites) et des mesures pour tous (salles climatisées, conseils).
+
+## CO 15 | B2 | conversation | intention | F:fr-FR, H:fr-FR
+DOC: F: Tu tousses depuis trois semaines, tu devrais vraiment aller voir un médecin. / H: Bof, c'est juste un rhume qui traîne. / F: Trois semaines, ce n'est plus un rhume. Et puis tu fumes… Je ne veux pas te faire peur, mais ça vaut le coup de vérifier. Tu veux que je t'aide à trouver un rendez-vous ? / H: Bon, d'accord, si tu insistes.
+Q: Que cherche à faire la femme ?
++ Convaincre l'homme de consulter un médecin. | « tu devrais vraiment aller voir un médecin » et « Tu veux que je t'aide à trouver un rendez-vous ? ».
+- Lui reprocher de tousser en public. | Elle s'inquiète pour sa santé.
+- Lui conseiller un médicament contre le rhume. | Elle conteste justement qu'il s'agisse d'un rhume.
+- L'obliger à arrêter de fumer immédiatement. | Elle mentionne le tabac comme facteur de risque.
+EXP: La femme insiste avec des arguments (durée de la toux, tabac), rassure (« je ne veux pas te faire peur ») et propose son aide. L'homme finit par accepter.
+
+## CO 16 | B2 | reportage | compréhension globale | H:fr-FR
+DOC: H: Dans ce collège, les élèves de quatrième participent à un programme de prévention des écrans. Pendant une semaine, ils s'engagent à ne pas utiliser leur téléphone après vingt et une heures. Chaque matin, ils notent leur temps de sommeil et leur humeur. À la fin de la semaine, la plupart constatent qu'ils se sont endormis plus tôt et qu'ils étaient moins fatigués en classe. Certains ont décidé de continuer l'expérience.
+Q: Quel est le résultat principal du programme ?
++ Les élèves ont mieux dormi et se sont sentis moins fatigués. | « ils se sont endormis plus tôt et ils étaient moins fatigués en classe ».
+- Les élèves ont abandonné leur téléphone définitivement. | Certains ont seulement décidé de continuer.
+- Les résultats scolaires ont doublé. | Les notes ne sont pas évoquées.
+- Les parents ont refusé le programme. | Les parents ne sont pas mentionnés.
+EXP: Le reportage décrit la démarche puis ses effets constatés par les élèves eux-mêmes. Le dernier élément (certains continuent) est une conséquence secondaire.
+
+## CO 17 | B2 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Faut-il taxer davantage les boissons sucrées ? / H: Oui, et les résultats existent : là où la taxe a été mise en place, les fabricants ont réduit la quantité de sucre de leurs recettes pour éviter de la payer. C'est d'ailleurs plus intéressant que l'effet sur les consommateurs. Mais une taxe seule ne suffit pas : il faut aussi garantir l'accès à l'eau potable gratuite dans les écoles et les lieux publics.
+Q: Selon l'homme, quel est l'effet le plus intéressant de la taxe ?
++ Les fabricants ont diminué le sucre dans leurs produits. | « les fabricants ont réduit la quantité de sucre… C'est d'ailleurs plus intéressant ».
+- Les consommateurs ont arrêté de boire des sodas. | Il juge l'effet sur les consommateurs moins intéressant.
+- L'État a gagné beaucoup d'argent. | Les recettes fiscales ne sont pas évoquées.
+- Les écoles ont installé des fontaines à eau. | C'est une mesure qu'il propose en complément.
+EXP: « C'est d'ailleurs plus intéressant » hiérarchise les effets. La fin de la réponse (« mais une taxe seule ne suffit pas ») ajoute une mesure complémentaire.
+
+## CO 18 | B2 | message vocal | information précise | H:fr-FR
+DOC: H: Bonjour, ici la pharmacie du Centre. Le médicament que vous avez commandé est en rupture de stock chez notre fournisseur. Nous avons contacté votre médecin, qui accepte de le remplacer par un équivalent. Celui-ci est disponible dès aujourd'hui. Pensez à apporter votre carte Vitale et votre ordonnance originale quand vous passerez.
+Q: Quelle solution la pharmacie propose-t-elle ?
++ Un médicament équivalent, accepté par le médecin. | « votre médecin… accepte de le remplacer par un équivalent ».
+- Attendre la livraison du médicament d'origine. | Il est en rupture de stock.
+- Aller dans une autre pharmacie. | La pharmacie a trouvé une solution elle-même.
+- Prendre un nouveau rendez-vous chez le médecin. | La pharmacie a déjà contacté le médecin.
+EXP: Le message expose un problème (rupture), puis la solution trouvée avec le médecin. Les documents à apporter sont une information pratique complémentaire.
+
+## CO 19 | B2 | débat | inférence | H:fr-FR, F:fr-FR
+DOC: H: La téléconsultation, c'est l'avenir : plus besoin de se déplacer, ni d'attendre en salle d'attente. / F: Pour un renouvellement d'ordonnance, je suis d'accord. Mais un médecin qui ne peut ni écouter vos poumons, ni palper votre ventre, ni voir votre démarche passe à côté de beaucoup de choses. Et ceux qui maîtrisent mal internet, souvent les plus âgés, sont aussi ceux qui ont le plus besoin d'être examinés.
+Q: Que laisse entendre la femme ?
++ La téléconsultation ne convient pas à toutes les situations médicales. | Elle l'accepte pour un renouvellement, mais souligne les limites de l'examen à distance.
+- La téléconsultation doit être interdite. | Elle l'approuve pour certains cas.
+- Les personnes âgées utilisent mieux internet que les jeunes. | Elle dit l'inverse.
+- Les médecins n'examinent jamais leurs patients en cabinet. | Elle souligne au contraire l'importance de l'examen.
+EXP: La femme concède un usage (« je suis d'accord ») puis présente deux limites : l'examen physique et la fracture numérique. Elle suggère que l'outil doit rester complémentaire.
+
+## CO 20 | B2 | conférence | compréhension globale | F:fr-FR
+DOC: F: On présente souvent la science comme un ensemble de certitudes. C'est l'inverse : la science avance par le doute. Un résultat n'est accepté qu'après avoir été vérifié par d'autres équipes, critiqué, parfois corrigé. Quand des scientifiques changent d'avis face à de nouvelles données, ce n'est pas un signe de faiblesse, c'est le fonctionnement normal de la méthode scientifique. Le danger, ce sont plutôt ceux qui ne changent jamais d'avis.
+Q: Quelle idée principale la conférencière défend-elle ?
++ Le doute et la remise en question sont au cœur de la démarche scientifique. | « la science avance par le doute ».
+- La science est un ensemble de vérités définitives. | C'est l'idée qu'elle réfute.
+- Les scientifiques qui changent d'avis sont incompétents. | « ce n'est pas un signe de faiblesse ».
+- Il faut faire confiance aux personnes qui ne changent jamais d'avis. | Elle les présente comme un danger.
+EXP: La conférencière renverse une idée reçue (« C'est l'inverse »), explique le processus de vérification et conclut par une formule frappante sur ceux qui ne changent jamais d'avis.
+
+## CO 21 | B2 | interview radio | intention | H:fr-FR, F:fr-FR
+DOC: H: Madame la ministre, les urgences de plusieurs hôpitaux ferment la nuit faute de personnel. Que comptez-vous faire ? / F: Je ne vais pas vous dire que tout va bien, ce serait mentir. Nous avons augmenté le nombre d'étudiants en médecine, mais ils ne seront formés que dans dix ans. D'ici là, nous allons mieux payer les gardes de nuit et développer la régulation par téléphone, pour que les patients soient orientés avant de se déplacer.
+Q: Que cherche à faire la ministre ?
++ Reconnaître les difficultés et présenter des mesures à court et à long terme. | Elle admet le problème et cite les études, les gardes mieux payées et la régulation.
+- Nier l'existence de fermetures. | « Je ne vais pas vous dire que tout va bien ».
+- Annoncer la fermeture définitive des urgences. | Elle propose des solutions pour les maintenir.
+- Accuser les médecins de manquer de motivation. | Elle n'accuse personne.
+EXP: La ministre commence par une reconnaissance honnête, distingue une mesure lointaine (formation) de mesures immédiates (« d'ici là »). C'est un discours de responsabilité politique.
+
+## CO 22 | B2 | reportage | information précise | F:fr-FR
+DOC: F: Le dépistage organisé du cancer colorectal concerne les personnes de cinquante à soixante-quatorze ans. Tous les deux ans, elles reçoivent une invitation pour réaliser un test simple, à faire chez soi. Le kit peut être retiré gratuitement en pharmacie, chez le médecin ou commandé en ligne. Pourtant, moins d'une personne sur trois réalise ce test, alors qu'un cancer détecté tôt se guérit dans neuf cas sur dix.
+Q: À quelle fréquence le test est-il proposé ?
++ Tous les deux ans. | « Tous les deux ans, elles reçoivent une invitation ».
+- Chaque année. | La fréquence est de deux ans.
+- Une seule fois, à cinquante ans. | Le test concerne la tranche de cinquante à soixante-quatorze ans, régulièrement.
+- Tous les cinq ans. | Ce chiffre n'apparaît pas.
+EXP: L'information de fréquence est explicite. Les chiffres de la fin (une personne sur trois, neuf cas sur dix) concernent la participation et l'efficacité.
+
+## CO 23 | B2 | conversation | opinion | H:fr-FR, F:fr-FR
+DOC: H: Ma sœur refuse de faire vacciner son fils. Elle dit qu'elle a lu des choses inquiétantes sur internet. / F: Tu as essayé d'en parler avec elle ? / H: Oui, mais dès que je contredis, elle se braque. / F: Alors ne la contredis pas. Pose-lui des questions : où elle a lu ça, qui l'a écrit. Et propose-lui d'en parler avec son pédiatre. Elle l'écoutera plus volontiers que toi.
+Q: Que conseille la femme ?
++ D'éviter la confrontation et d'orienter la sœur vers son pédiatre. | « ne la contredis pas… propose-lui d'en parler avec son pédiatre ».
+- De contredire sa sœur avec des arguments scientifiques. | Elle conseille justement de ne pas la contredire.
+- De ne plus jamais parler de vaccination. | Elle propose une autre manière d'en parler.
+- De faire vacciner l'enfant sans l'accord de sa mère. | Elle ne suggère rien de tel.
+EXP: Les impératifs (« ne la contredis pas », « pose-lui des questions », « propose-lui ») expriment les conseils. L'idée est de remplacer la confrontation par le questionnement et l'avis d'un professionnel.
+
+## CO 24 | B2 | annonce | inférence | H:fr-FR
+DOC: H: Chers patients, en raison du départ à la retraite du docteur Moreau, le cabinet ne pourra plus accepter de nouveaux patients à compter du 1er juillet. Les patients actuels du docteur Moreau seront suivis par les deux autres médecins du cabinet, dans la limite de leurs disponibilités. Nous vous invitons à vous rapprocher dès maintenant de la caisse d'assurance maladie si vous recherchez un médecin traitant.
+Q: Que comprend-on de cette annonce ?
++ Les patients risquent d'avoir plus de difficultés à obtenir un rendez-vous. | Les deux médecins restants les suivront « dans la limite de leurs disponibilités ».
+- Le cabinet va fermer définitivement. | Deux médecins restent en activité.
+- Un nouveau médecin remplacera le docteur Moreau. | Aucun remplaçant n'est annoncé.
+- Les nouveaux patients sont les bienvenus. | Le cabinet n'en accepte plus.
+EXP: L'expression « dans la limite de leurs disponibilités » et le conseil de contacter l'assurance maladie suggèrent implicitement une offre de soins réduite.
+
+## CO 25 | B2 | entretien radio | compréhension globale | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes chercheur en neurosciences et vous animez des ateliers dans les écoles. Pourquoi ? / H: Parce que comprendre comment fonctionne son cerveau aide à mieux apprendre. Quand un enfant sait que la mémoire se renforce en révisant à plusieurs jours d'intervalle, ou que le sommeil consolide les apprentissages, il change ses habitudes. Et surtout, il comprend que l'intelligence n'est pas figée : elle se développe avec l'entraînement.
+Q: Quel est le message principal du chercheur ?
++ Connaître le fonctionnement du cerveau aide les enfants à mieux apprendre. | « comprendre comment fonctionne son cerveau aide à mieux apprendre ».
+- L'intelligence est déterminée dès la naissance. | Il dit qu'elle « n'est pas figée ».
+- Il faut réviser la veille d'un examen. | Il conseille de réviser à plusieurs jours d'intervalle.
+- Le sommeil empêche de mémoriser. | Il « consolide les apprentissages ».
+EXP: Le chercheur annonce son idée principale dès la première phrase, puis l'illustre par deux exemples. La conclusion, introduite par « surtout », ajoute une idée clé : l'intelligence évolue.
+
+## CE 1 | B2 | règlement | information précise
+DOC: Règlement des visites – Service de médecine. Les visites sont autorisées de 13 h à 20 h. Deux visiteurs maximum par patient sont admis simultanément dans la chambre. Les enfants de moins de douze ans ne peuvent entrer qu'accompagnés d'un adulte et avec l'accord de l'équipe soignante. Les fleurs coupées et les plantes en pot sont interdites pour des raisons d'hygiène. En cas d'épidémie saisonnière, le port du masque peut être rendu obligatoire.
+Q: Que dit le règlement à propos des enfants de moins de douze ans ?
++ Ils peuvent entrer avec un adulte, si l'équipe soignante l'accepte. | « accompagnés d'un adulte et avec l'accord de l'équipe soignante ».
+- Ils sont interdits dans le service. | Leur entrée est possible sous conditions.
+- Ils peuvent venir seuls l'après-midi. | Ils doivent être accompagnés.
+- Ils ne comptent pas dans le nombre de visiteurs. | Le règlement ne le précise pas.
+EXP: Les deux conditions sont cumulatives : présence d'un adulte et accord de l'équipe. Les autres règles concernent les horaires, le nombre de visiteurs et l'hygiène.
+
+## CE 2 | B2 | article de presse | compréhension globale
+DOC: La résistance aux antibiotiques progresse dans le monde. Lorsqu'on les utilise trop souvent ou à mauvais escient, par exemple contre un virus sur lequel ils n'ont aucun effet, certaines bactéries s'adaptent et deviennent insensibles aux traitements. Des infections autrefois bénignes deviennent alors difficiles à soigner. Les autorités sanitaires rappellent que les antibiotiques ne doivent être pris que sur prescription, pendant toute la durée indiquée, même si les symptômes disparaissent avant.
+Q: Quel est le sujet principal de l'article ?
++ La résistance des bactéries aux antibiotiques et les moyens de la limiter. | L'article explique le phénomène et rappelle les bonnes pratiques.
+- La découverte d'un nouvel antibiotique. | Aucune découverte n'est évoquée.
+- L'efficacité des antibiotiques contre les virus. | Ils n'ont « aucun effet » sur les virus.
+- La fin des infections bénignes. | Elles deviennent au contraire plus difficiles à soigner.
+EXP: L'article suit une logique explicative : problème, cause, conséquence, recommandations. Le thème regroupe ces éléments.
+
+## CE 3 | B2 | courrier des lecteurs | opinion
+DOC: Aide-soignante depuis vingt ans, je lis souvent que le système de santé manque de moyens. C'est vrai. Mais ce qui me pèse le plus, ce n'est pas l'argent, c'est le temps. Nous courons d'une chambre à l'autre et n'avons plus une minute pour parler avec les patients. Or, une main tenue, quelques mots rassurants avant une opération, cela fait aussi partie du soin. On l'oublie trop souvent quand on compte les actes au lieu de regarder les personnes.
+Q: Que regrette principalement l'auteure ?
++ Le manque de temps pour la relation humaine avec les patients. | « ce qui me pèse le plus, ce n'est pas l'argent, c'est le temps ».
+- Le niveau de son salaire. | Elle dit explicitement que ce n'est pas l'argent.
+- L'absence de matériel médical. | Le matériel n'est pas évoqué.
+- Le comportement des patients. | Elle ne critique pas les patients.
+EXP: La mise en relief « ce qui me pèse le plus, ce n'est pas…, c'est… » donne la réponse. Les exemples (« une main tenue ») illustrent la dimension humaine du soin.
+
+## CE 4 | B2 | notice de médicament | information précise
+DOC: Posologie : chez l'adulte, un comprimé toutes les six heures, sans dépasser quatre comprimés par jour. Respecter un intervalle d'au moins quatre heures entre deux prises. Chez l'enfant de moins de quinze ans, demander l'avis d'un médecin. Ne pas associer à d'autres médicaments contenant la même substance active. En cas de fièvre persistant plus de trois jours, consulter un médecin.
+Q: Que faut-il faire si la fièvre dure plus de trois jours ?
++ Consulter un médecin. | « En cas de fièvre persistant plus de trois jours, consulter un médecin ».
+- Augmenter la dose à six comprimés par jour. | La dose maximale est de quatre comprimés.
+- Associer un autre médicament similaire. | C'est explicitement déconseillé.
+- Réduire l'intervalle entre les prises. | Il faut respecter au moins quatre heures.
+EXP: Une notice contient des consignes de dose, d'intervalle, de contre-indication et de conduite à tenir. Chaque consigne répond à une question différente.
+
+## CE 5 | B2 | éditorial | intention
+DOC: On mesure la performance des hôpitaux au nombre d'actes réalisés, à la durée moyenne de séjour, au taux d'occupation des lits. Ces chiffres ont leur utilité. Mais ils ne disent rien de l'essentiel : un patient a-t-il été bien informé ? S'est-il senti respecté ? A-t-il pu poser ses questions ? Tant que ces dimensions ne seront pas évaluées, les établissements seront incités à soigner vite plutôt qu'à soigner bien.
+Q: Quelle est l'intention de l'éditorialiste ?
++ Plaider pour une évaluation des hôpitaux qui prenne en compte l'expérience des patients. | « Tant que ces dimensions ne seront pas évaluées… ».
+- Défendre les indicateurs actuels sans réserve. | Il juge qu'ils « ne disent rien de l'essentiel ».
+- Demander la suppression de toute évaluation. | Il reconnaît leur utilité.
+- Critiquer le comportement des patients. | Il défend les patients.
+EXP: L'éditorialiste concède l'utilité des chiffres, puis pose une série de questions qui révèlent ce qui manque. La conclusion oppose « soigner vite » et « soigner bien ».
+
+## CE 6 | B2 | courrier administratif | information précise
+DOC: Madame, votre demande de reconnaissance de la qualité de travailleur handicapé a été examinée par la commission. Une décision favorable a été rendue pour une durée de cinq ans. Cette reconnaissance vous permet notamment de bénéficier d'un aménagement de votre poste de travail et d'un accompagnement spécifique dans votre recherche d'emploi. Six mois avant l'échéance, vous devrez déposer une demande de renouvellement si vous souhaitez conserver ces droits.
+Q: Quand la destinataire devra-t-elle demander le renouvellement ?
++ Six mois avant la fin de la période de cinq ans. | « Six mois avant l'échéance, vous devrez déposer une demande de renouvellement ».
+- Chaque année. | La reconnaissance est accordée pour cinq ans.
+- Après la fin des cinq ans. | La demande doit être faite avant l'échéance.
+- Seulement si elle change d'emploi. | Le renouvellement ne dépend pas d'un changement d'emploi.
+EXP: Il faut repérer deux informations : la durée (cinq ans) et le moment du renouvellement (six mois avant l'échéance).
+
+## CE 7 | B2 | article | inférence
+DOC: Dans plusieurs pays, des médecins prescrivent désormais des activités culturelles ou des sorties en nature à certains patients souffrant d'anxiété ou d'isolement : visites de musées, ateliers de chant, randonnées accompagnées. Les premières évaluations montrent une diminution de la consommation de médicaments et des consultations répétées. Ces programmes restent pourtant marginaux, faute de financement stable : ni les ministères de la santé ni ceux de la culture ne veulent en assumer seuls le coût.
+Q: Que peut-on déduire de l'article ?
++ Ces programmes pourraient se développer s'ils étaient mieux financés. | Ils restent marginaux « faute de financement stable » malgré des résultats positifs.
+- Ces programmes ont échoué. | Les premières évaluations sont positives.
+- Les ministères se disputent pour les financer seuls. | Aucun ne veut assumer seul le coût.
+- Les médicaments sont plus efficaces que la culture. | L'article suggère plutôt l'inverse.
+EXP: L'inférence repose sur la combinaison de deux éléments : des résultats encourageants et un frein financier. On en déduit que le financement est l'obstacle principal.
+
+## CE 8 | B2 | notice | information précise
+DOC: Mon espace santé : mode d'emploi. Ce service en ligne gratuit permet de conserver ses documents médicaux (ordonnances, résultats d'analyses, comptes rendus d'hospitalisation) et de les partager avec les professionnels de santé de son choix. Le patient décide qui peut consulter son dossier et peut masquer certains documents. Il peut aussi fermer son espace à tout moment ; ses données sont alors supprimées dans un délai de trois mois, sauf obligation légale de conservation.
+Q: Qui décide de l'accès au dossier médical ?
++ Le patient lui-même. | « Le patient décide qui peut consulter son dossier ».
+- Le médecin traitant uniquement. | Le patient choisit les professionnels.
+- L'assurance maladie. | Elle n'est pas présentée comme décisionnaire.
+- Tous les professionnels de santé automatiquement. | L'accès dépend du choix du patient.
+EXP: La notice insiste sur le contrôle du patient : il choisit qui consulte, peut masquer des documents et fermer son espace.
+
+## CE 9 | B2 | tribune | opinion
+DOC: On parle beaucoup de la santé mentale des jeunes, et c'est une bonne chose. Mais les discours se multiplient plus vite que les moyens. Dans certaines villes, il faut attendre six mois pour obtenir un rendez-vous en centre médico-psychologique. Un adolescent en souffrance ne peut pas attendre six mois. Sensibiliser sans offrir de solutions concrètes, c'est encourager les jeunes à demander une aide qu'on n'est pas capable de leur apporter.
+Q: Que dénonce l'auteur ?
++ Le décalage entre les discours sur la santé mentale et les moyens disponibles. | « les discours se multiplient plus vite que les moyens ».
+- L'excès de rendez-vous disponibles pour les jeunes. | Les délais atteignent six mois.
+- L'intérêt porté à la santé mentale des jeunes. | Il juge cet intérêt positif.
+- Le refus des jeunes de demander de l'aide. | Il dit qu'on les encourage à le faire.
+EXP: L'auteur concède (« c'est une bonne chose ») puis dénonce un paradoxe : sensibiliser sans moyens crée des attentes déçues. L'exemple des six mois concrétise la critique.
+
+## CE 10 | B2 | article | compréhension globale
+DOC: La vulgarisation scientifique connaît un nouvel essor grâce aux vidéos en ligne. Des chercheurs expliquent leurs travaux en quelques minutes, avec humour et schémas, à des centaines de milliers de spectateurs. Cette ouverture est précieuse à l'heure où les fausses informations circulent rapidement. Elle a toutefois ses limites : la simplification nécessaire peut déformer des résultats complexes, et les vidéos les plus vues ne sont pas toujours les plus rigoureuses.
+Q: Quel est le thème principal de l'article ?
++ L'essor de la vulgarisation scientifique en vidéo, ses atouts et ses limites. | L'article présente le phénomène, son intérêt puis ses limites.
+- L'interdiction des vidéos scientifiques. | Aucune interdiction n'est mentionnée.
+- La disparition des revues scientifiques. | Ce sujet n'est pas abordé.
+- La formation des chercheurs à l'humour. | L'humour n'est qu'une caractéristique des vidéos.
+EXP: La structure présentation / intérêt / limites (« toutefois ») est typique d'un article équilibré. Le thème englobe ces trois aspects.
+
+## CE 11 | B2 | courriel | intention
+DOC: Chers parents, plusieurs cas de poux ont été signalés dans la classe de CE1. Nous vous demandons de vérifier soigneusement la tête de votre enfant ce week-end et de le traiter si nécessaire. Il n'est pas utile de le garder à la maison : un enfant traité peut revenir en classe dès lundi. Merci de prévenir l'enseignante si votre enfant est concerné, afin que nous puissions informer les familles sans citer de nom.
+Q: Quel est l'objectif principal de ce courriel ?
++ Demander aux parents de vérifier et traiter leur enfant si besoin. | « Nous vous demandons de vérifier… et de le traiter si nécessaire ».
+- Annoncer la fermeture de la classe. | Les enfants peuvent revenir dès lundi.
+- Désigner les enfants porteurs de poux. | L'école informera « sans citer de nom ».
+- Interdire aux enfants traités de revenir. | Ils peuvent revenir dès lundi.
+EXP: La demande principale est introduite par « nous vous demandons de ». Les autres informations rassurent (pas d'éviction) et garantissent la discrétion.
+
+## CE 12 | B2 | article | information précise
+DOC: Depuis peu, les pharmaciens peuvent délivrer certains antibiotiques sans ordonnance pour les angines et les cystites simples, après avoir réalisé un test rapide en officine. Si le test est positif et que le patient ne présente pas de critères de gravité, le pharmacien remet le traitement. En cas de doute, ou si le patient est une femme enceinte ou un enfant de moins de dix ans pour l'angine, il l'oriente vers un médecin.
+Q: Dans quel cas le pharmacien doit-il orienter le patient vers un médecin ?
++ En cas de doute ou pour certains publics fragiles. | « En cas de doute, ou si le patient est une femme enceinte ou un enfant de moins de dix ans… ».
+- Chaque fois que le test est positif. | Si le test est positif sans gravité, il délivre le traitement.
+- Pour toutes les angines. | Les angines simples peuvent être traitées en pharmacie.
+- Uniquement si le patient le demande. | Le texte donne des critères médicaux.
+EXP: L'article décrit la règle générale (test positif sans gravité) puis les exceptions, introduites par « en cas de doute, ou si ».
+
+## CE 13 | B2 | essai | inférence
+DOC: Nous vivons plus longtemps que nos grands-parents, mais pas forcément en meilleure santé. L'espérance de vie a progressé de façon spectaculaire, tandis que l'espérance de vie sans incapacité augmente beaucoup plus lentement. Autrement dit, nous gagnons des années, mais une partie de ces années est vécue avec des maladies chroniques ou une perte d'autonomie. La prévention, longtemps parent pauvre des politiques de santé, devient donc un enjeu majeur.
+Q: Que suggère l'auteur ?
++ Il faut investir davantage dans la prévention pour vieillir en bonne santé. | « La prévention, longtemps parent pauvre… devient donc un enjeu majeur ».
+- L'espérance de vie diminue. | Elle a « progressé de façon spectaculaire ».
+- Les années gagnées sont toutes vécues en bonne santé. | Une partie est vécue avec des maladies.
+- La prévention a toujours été une priorité. | Elle a été « longtemps parent pauvre ».
+EXP: « Autrement dit » reformule la distinction entre espérance de vie et espérance de vie sans incapacité. « Parent pauvre » signifie négligé, et « donc » introduit la conclusion.
+
+## CE 14 | B2 | annonce | information précise
+DOC: Don du sang – Collecte exceptionnelle samedi 12 octobre de 9 h à 17 h, salle des fêtes. Pour donner, il faut avoir entre 18 et 70 ans, peser au moins 50 kg et être en bonne santé. Venez avec une pièce d'identité. Il est conseillé de manger normalement avant le don et de bien vous hydrater. Un premier don dure environ une heure, entretien médical et collation compris. Prise de rendez-vous recommandée en ligne, mais les donneurs sans rendez-vous seront accueillis.
+Q: Que dit l'annonce sur la prise de rendez-vous ?
++ Elle est conseillée, mais pas obligatoire. | « Prise de rendez-vous recommandée en ligne, mais les donneurs sans rendez-vous seront accueillis ».
+- Elle est obligatoire pour tous les donneurs. | Les donneurs sans rendez-vous sont acceptés.
+- Elle se fait uniquement par téléphone. | Elle se fait en ligne.
+- Elle est réservée aux nouveaux donneurs. | Rien ne l'indique.
+EXP: « Recommandée… mais… seront accueillis » montre que le rendez-vous est un conseil, pas une obligation.
+
+## CE 15 | B2 | article d'opinion | opinion
+DOC: Certains réclament l'interdiction totale de la cigarette électronique. Je comprends leur méfiance : on manque encore de recul sur ses effets à long terme, et les arômes sucrés attirent les adolescents. Mais pour un fumeur adulte qui n'arrive pas à arrêter, elle représente un risque bien moindre que le tabac. Plutôt que de l'interdire, encadrons-la strictement : interdiction de vente aux mineurs réellement contrôlée, limitation des arômes et information claire.
+Q: Quelle est la position de l'auteur sur la cigarette électronique ?
++ Il préfère un encadrement strict à une interdiction totale. | « Plutôt que de l'interdire, encadrons-la strictement ».
+- Il réclame son interdiction immédiate. | Il s'y oppose.
+- Il pense qu'elle est sans aucun risque. | Il reconnaît le manque de recul.
+- Il souhaite la vendre librement aux adolescents. | Il demande un contrôle de l'interdiction de vente aux mineurs.
+EXP: L'auteur concède (« je comprends leur méfiance »), puis présente un argument de réduction des risques. Sa proposition est introduite par « plutôt que de ».
+
+## CE 16 | B2 | rapport | compréhension globale
+DOC: L'étude, menée auprès de 3 000 salariés, montre que ceux qui disposent d'une pause déjeuner d'au moins quarante-cinq minutes, prise hors de leur poste de travail, déclarent moins de fatigue et de stress en fin de journée. Or, près d'un salarié sur deux déjeune devant son ordinateur, souvent en moins de vingt minutes. Le rapport recommande aux employeurs d'aménager des espaces de repas agréables et d'encourager clairement les pauses.
+Q: Quelle recommandation le rapport formule-t-il ?
++ Favoriser de vraies pauses déjeuner, loin du poste de travail. | Il recommande d'« aménager des espaces de repas » et d'« encourager clairement les pauses ».
+- Réduire la pause déjeuner à vingt minutes. | Il valorise les pauses plus longues.
+- Interdire les ordinateurs dans les bureaux. | Il ne propose rien de tel.
+- Supprimer les cantines d'entreprise. | Il recommande au contraire des espaces de repas.
+EXP: Le rapport présente un constat (bénéfices des pauses), un contraste (« Or ») et une recommandation finale aux employeurs.
+
+## CE 17 | B2 | lettre de réclamation | intention
+DOC: Madame la Directrice, mon père, âgé de 87 ans, a été hospitalisé dans votre établissement du 3 au 10 mars. S'il a été très bien soigné sur le plan médical, je regrette que sa famille n'ait reçu aucune information sur sa sortie : nous l'avons appris la veille au soir, sans qu'aucune aide à domicile n'ait été organisée. Je vous demande de revoir la procédure de préparation des sorties pour les patients âgés, afin que d'autres familles ne vivent pas la même situation.
+Q: Quel est le but de cette lettre ?
++ Obtenir une amélioration de la préparation des sorties d'hôpital. | « Je vous demande de revoir la procédure de préparation des sorties ».
+- Se plaindre de la qualité des soins médicaux. | Il a été « très bien soigné sur le plan médical ».
+- Demander un remboursement des frais d'hospitalisation. | Aucun remboursement n'est demandé.
+- Remercier l'équipe pour l'organisation de la sortie. | La sortie a été mal préparée.
+EXP: La concession « s'il a été très bien soigné » précède la critique. La demande vise un changement de procédure, dans l'intérêt d'autres familles.
+
+## CE 18 | B2 | article | information précise
+DOC: Le congé de proche aidant permet à un salarié de suspendre ou de réduire son activité pour s'occuper d'un proche en perte d'autonomie ou handicapé. Sa durée est de trois mois, renouvelable, dans la limite d'un an sur l'ensemble de la carrière. Pendant ce congé, le salarié peut percevoir une allocation journalière versée par la caisse d'allocations familiales. L'employeur ne peut pas refuser ce congé si les conditions sont remplies.
+Q: Quelle est la durée maximale du congé sur toute la carrière ?
++ Un an. | « dans la limite d'un an sur l'ensemble de la carrière ».
+- Trois mois. | Trois mois correspondent à une période, renouvelable.
+- Six mois. | Ce chiffre n'apparaît pas.
+- Il n'y a pas de limite. | La limite est d'un an.
+EXP: Il faut distinguer la durée d'une période (trois mois) et la durée maximale totale (un an). « Renouvelable » indique que plusieurs périodes sont possibles.
+
+## CE 19 | B2 | chronique | inférence
+DOC: Mon médecin m'a demandé, l'air faussement détaché, combien d'heures je passais assis par jour. J'ai fait le calcul : trajet en voiture, bureau, repas, canapé. Neuf heures et demie. Il n'a rien dit, il a simplement noté le chiffre. Depuis, j'ai installé un minuteur qui sonne toutes les heures, et je me lève pour faire quelques pas. Mes collègues me regardent bizarrement. Mon dos, lui, ne s'est jamais aussi bien porté.
+Q: Que comprend-on à propos de l'auteur ?
++ La question du médecin l'a poussé à changer ses habitudes. | Depuis, il se lève toutes les heures et son dos va mieux.
+- Il a été choqué par les reproches de son médecin. | Le médecin « n'a rien dit ».
+- Ses collègues l'imitent tous. | Ils le « regardent bizarrement ».
+- Il a cessé de travailler au bureau. | Il continue d'aller au bureau.
+EXP: L'effet de la question repose sur le silence du médecin, qui a suffi à provoquer une prise de conscience. L'opposition finale (collègues / dos) montre avec humour le bénéfice du changement.
+
+## CE 20 | B2 | guide pratique | information précise
+DOC: Que faire en cas de morsure de tique ? Retirez-la le plus rapidement possible avec un tire-tique, sans utiliser d'éther ni d'alcool avant le retrait. Désinfectez ensuite la zone. Notez la date de la morsure et surveillez la peau pendant un mois. Si une plaque rouge qui s'étend apparaît autour de la morsure, ou si vous ressentez de la fièvre et des douleurs, consultez un médecin : il peut s'agir des premiers signes de la maladie de Lyme.
+Q: Que faut-il éviter avant de retirer la tique ?
++ Appliquer de l'éther ou de l'alcool. | « sans utiliser d'éther ni d'alcool avant le retrait ».
+- Utiliser un tire-tique. | C'est l'outil recommandé.
+- Désinfecter la zone après le retrait. | La désinfection se fait après, c'est conseillé.
+- Noter la date de la morsure. | C'est recommandé.
+EXP: Le guide indique l'ordre des actions. La consigne négative « sans utiliser » est placée avant le retrait, alors que la désinfection vient « ensuite ».
+
+## CE 21 | B2 | éditorial | opinion
+DOC: Chaque hiver, les hôpitaux pédiatriques sont débordés par les épidémies de bronchiolite. Chaque hiver, les mêmes images, les mêmes déclarations, les mêmes renforts provisoires. Ce qui est prévisible ne devrait pas être traité comme une urgence. Une épidémie qui revient chaque année aux mêmes dates n'est pas une surprise : c'est une donnée. Il serait temps d'en tirer les conséquences dans l'organisation des services, plutôt que de compter sur le dévouement épuisé des soignants.
+Q: Quelle thèse défend l'éditorialiste ?
++ Les épidémies prévisibles devraient être anticipées dans l'organisation des hôpitaux. | « Ce qui est prévisible ne devrait pas être traité comme une urgence ».
+- La bronchiolite est une maladie nouvelle et imprévisible. | Elle « revient chaque année aux mêmes dates ».
+- Les soignants manquent de dévouement. | Il parle de leur « dévouement épuisé ».
+- Les renforts provisoires suffisent. | Il critique ces solutions temporaires.
+EXP: La répétition de « chaque hiver » souligne le caractère prévisible du problème. L'opposition « n'est pas une surprise : c'est une donnée » résume la thèse.
+
+## CE 22 | B2 | article | compréhension globale
+DOC: Les applications de suivi de la santé se multiplient : elles comptent les pas, mesurent le sommeil, analysent le rythme cardiaque. Elles peuvent encourager à bouger davantage et aider certains patients à suivre leur maladie. Mais elles posent aussi des questions : que deviennent ces données très personnelles ? Peuvent-elles être revendues à des assureurs ou à des employeurs ? Les spécialistes conseillent de lire attentivement les conditions d'utilisation et de privilégier les applications qui stockent les données sur le téléphone.
+Q: Quel est le sujet principal de l'article ?
++ Les applications de santé, leurs bénéfices et les risques pour la vie privée. | L'article présente leur utilité puis les questions sur les données.
+- L'interdiction des applications de santé. | Aucune interdiction n'est évoquée.
+- Le prix élevé des téléphones. | Le prix n'est pas abordé.
+- Les maladies cardiaques. | Le rythme cardiaque n'est qu'un exemple de mesure.
+EXP: Le texte suit une structure avantages / inconvénients (« Mais ») / conseils. Le thème englobe ces trois éléments.
+
+## CE 23 | B2 | règlement | inférence
+DOC: Charte de la salle de sport municipale. L'accès est réservé aux abonnés munis de leur carte. Un certificat médical d'aptitude datant de moins d'un an est exigé lors de l'inscription. Une serviette doit obligatoirement être posée sur les appareils. Les machines doivent être nettoyées après usage avec les produits mis à disposition. L'utilisation des appareils de musculation est interdite aux mineurs de moins de seize ans, même accompagnés.
+Q: Que peut-on déduire de cette charte ?
++ La salle accorde une attention particulière à l'hygiène et à la sécurité. | Serviette obligatoire, nettoyage des machines, certificat médical et limite d'âge.
+- Les mineurs de quatorze ans peuvent faire de la musculation avec un parent. | C'est interdit « même accompagnés ».
+- Aucun document n'est nécessaire pour s'inscrire. | Un certificat médical est exigé.
+- Le nettoyage des machines est assuré uniquement par le personnel. | Les usagers doivent nettoyer après usage.
+EXP: Plusieurs règles convergent vers deux préoccupations : l'hygiène (serviette, nettoyage) et la sécurité (certificat, âge minimum).
+
+## CE 24 | B2 | tribune | intention
+DOC: Nous, médecins généralistes d'un même territoire rural, refusons de choisir entre nos patients et notre santé. Nous travaillons soixante heures par semaine et refusons chaque jour des nouveaux patients. Nous ne demandons pas de primes supplémentaires. Nous demandons des secrétaires médicales financées, des assistants pour les tâches administratives et des maisons de santé où nous pourrons travailler en équipe. C'est ainsi que nous pourrons soigner plus, sans nous épuiser.
+Q: Quel est l'objectif de cette tribune ?
++ Réclamer des moyens d'organisation pour soigner plus de patients. | « Nous demandons des secrétaires médicales financées, des assistants… ».
+- Obtenir des primes financières. | « Nous ne demandons pas de primes supplémentaires ».
+- Annoncer leur départ à la retraite. | Ils veulent continuer à soigner.
+- Critiquer les patients trop nombreux. | Ils regrettent de devoir refuser des patients.
+EXP: L'opposition « nous ne demandons pas… nous demandons… » structure la revendication. La conclusion relie ces moyens à un double objectif : soigner plus et éviter l'épuisement.
+
+## CE 25 | B2 | essai | compréhension globale
+DOC: La médecine moderne a remporté des victoires considérables contre les maladies infectieuses. Mais les grandes causes de mortalité d'aujourd'hui – maladies cardiovasculaires, diabète, certains cancers – sont fortement liées à nos modes de vie : alimentation, sédentarité, tabac, pollution. Elles ne se combattent pas seulement à l'hôpital, mais aussi dans l'urbanisme, l'agriculture, l'éducation. La santé publique ne peut donc plus être l'affaire des seuls médecins.
+Q: Quelle idée principale l'auteur développe-t-il ?
++ La santé dépend de nombreux secteurs au-delà de la médecine. | « La santé publique ne peut donc plus être l'affaire des seuls médecins ».
+- Les maladies infectieuses sont aujourd'hui les plus mortelles. | Les grandes causes actuelles sont liées aux modes de vie.
+- L'hôpital suffit à combattre les maladies modernes. | Elles se combattent « pas seulement à l'hôpital ».
+- La médecine moderne a échoué. | Elle a « remporté des victoires considérables ».
+EXP: L'auteur part d'un succès passé, introduit un changement avec « mais » et conclut avec « donc ». L'énumération des secteurs (urbanisme, agriculture, éducation) élargit la notion de santé.
+
+## EE 1 | B2 | répondre à un message
+CONSIGNE: Votre amie Léa vous écrit : « J'ai décidé de reprendre le sport, mais je n'ai jamais le temps. Comment fais-tu, toi ? » Répondez-lui en partageant votre organisation et en lui proposant une activité ensemble (30 à 60 mots).
+MODELE: Coucou Léa ! Moi aussi, je manquais de temps, alors j'ai changé mes habitudes : je vais au travail à vélo et je nage le mardi midi, pendant ma pause. Ça me prend peu de temps et je me sens beaucoup mieux. Et si on courait ensemble le dimanche matin au parc ? À très vite, Inès
+POINTS: réagir au message ; expliquer son organisation ; proposer une activité commune ; formule finale
+COMMENTAIRE: Le message partage une expérience concrète, montre un résultat et propose une activité précise. L'imparfait (« je manquais ») et le passé composé (« j'ai changé ») sont bien articulés.
+CONSEILS: Donnez des exemples concrets de votre organisation et proposez une activité précise (jour, lieu) pour rendre votre réponse utile.
+
+## EE 2 | B2 | raconter une expérience
+CONSIGNE: Racontez une expérience avec le système de santé français (consultation, hospitalisation, urgences, pharmacie…) pour un blog destiné aux nouveaux arrivants : ce qui s'est passé, ce qui vous a surpris et un conseil que vous donneriez (40 à 90 mots).
+MODELE: L'hiver dernier, mon fils a eu une forte fièvre un dimanche soir. Ne sachant pas où aller, j'ai appelé le 15. Le médecin régulateur m'a posé des questions précises et m'a orientée vers une maison médicale de garde, où nous avons été reçus en vingt minutes. Ce qui m'a surpris, c'est qu'on évite ainsi d'encombrer les urgences. Mon conseil : avant de vous déplacer la nuit ou le week-end, appelez d'abord pour être orienté vers le bon service.
+POINTS: raconter la situation ; décrire le déroulement ; exprimer une surprise ; donner un conseil
+COMMENTAIRE: Le récit est clair, avec un participe présent (« ne sachant pas ») et une relative en « où ». La mise en relief « ce qui m'a surpris, c'est que » et le conseil final rendent le texte utile pour les lecteurs.
+CONSEILS: Pensez à vos lecteurs : terminez par un conseil pratique et précis tiré de votre expérience.
+
+## EE 3 | B2 | donner son opinion à partir de deux documents
+CONSIGNE: Document 1 : « La téléconsultation facilite l'accès aux soins, surtout dans les zones où les médecins manquent. » Document 2 : « Un médecin a besoin d'examiner son patient : la téléconsultation ne remplacera jamais une vraie consultation. » Présentez ces deux opinions, puis donnez votre avis argumenté (40 à 90 mots).
+MODELE: Le premier document voit dans la téléconsultation un moyen de faciliter l'accès aux soins, tandis que le second rappelle que rien ne remplace l'examen physique. Selon moi, la téléconsultation est utile pour des situations simples : renouveler une ordonnance, commenter des résultats ou suivre un traitement. En revanche, un premier diagnostic exige souvent d'ausculter le patient. Elle doit donc compléter les consultations classiques, sans servir de prétexte pour ne pas installer de médecins dans les zones rurales.
+POINTS: résumer le document 1 ; résumer le document 2 ; prendre position ; justifier avec des exemples ; conclure
+COMMENTAIRE: Les deux documents sont résumés de manière équilibrée. La position est précisée par des exemples et une distinction (« en revanche »), puis la conclusion introduite par « donc » met en garde contre une dérive.
+CONSEILS: Illustrez votre position par des exemples précis et terminez par une conclusion claire qui reprend votre avis.
+
+## EO 1 | B2 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous interroge sur votre santé et votre mode de vie : vos habitudes, votre sommeil, votre activité physique et votre expérience du système de soins en France.
+RELANCES: Pouvez-vous vous présenter ? / Que faites-vous pour rester en bonne santé ? / Avez-vous un médecin traitant en France ? / Qu'est-ce qui vous a surpris dans le système de santé français ? / Quelle habitude aimeriez-vous changer ?
+PHRASES: J'essaie de… / Ce qui m'a surpris, c'est… / J'aimerais réussir à…
+MODELE: Je m'appelle Mehmet, je suis chauffeur de bus à Strasbourg. Pour rester en forme, j'essaie de marcher le plus possible, car je suis assis toute la journée au travail. J'ai un médecin traitant depuis deux ans ; au début, j'ai eu du mal à en trouver un qui accepte de nouveaux patients. Ce qui m'a surpris, c'est la carte Vitale : en Turquie, les démarches étaient plus compliquées. J'aimerais réussir à mieux dormir, car mes horaires décalés perturbent mon sommeil.
+COMMENTAIRE: Le candidat relie santé et métier, raconte une difficulté, exprime une surprise avec une mise en relief et formule un objectif justifié. Le discours est cohérent et personnel.
+CONSEILS: Reliez votre santé à votre quotidien (métier, horaires) : cela donne des explications naturelles et développe vos réponses.
+
+## EO 2 | B2 | Obtenir un rendez-vous chez un spécialiste | Secrétaire médicale
+SCENARIO: Votre médecin vous a conseillé de consulter un dermatologue rapidement pour un grain de beauté qui a changé d'aspect. La secrétaire (l'examinateur) vous propose un rendez-vous dans cinq mois. Négociez pour obtenir un rendez-vous plus tôt.
+RELANCES: Le docteur n'a pas de place avant mars. / Tous les patients disent que c'est urgent. / Avez-vous un courrier de votre médecin ? / Je peux vous mettre sur liste d'attente.
+PHRASES: Mon médecin m'a recommandé de… / Je comprends, mais… / Serait-il possible de… ?
+MODELE: Bonjour, mon médecin traitant m'a recommandé de consulter rapidement un dermatologue, car un grain de beauté a changé de forme et de couleur. Je comprends que l'agenda soit chargé, mais cinq mois, c'est long dans ce cas. J'ai un courrier de mon médecin qui précise l'urgence ; je peux vous l'envoyer par courriel dès aujourd'hui. Serait-il possible que le docteur le lise et décide s'il peut me recevoir plus tôt ? Sinon, inscrivez-moi sur la liste d'attente : je suis disponible à n'importe quelle heure.
+COMMENTAIRE: Le candidat explique la situation médicale, reconnaît la contrainte, apporte une preuve (le courrier) et propose deux solutions. La politesse et l'insistance sont bien dosées.
+CONSEILS: Appuyez votre demande sur un élément objectif (courrier, symptôme précis) et proposez toujours une solution de repli.
+
+## EO 3 | B2 | Faut-il rendre le sport obligatoire au travail ? | Examinateur
+SCENARIO: Certaines entreprises proposent ou encouragent fortement une activité physique pendant le temps de travail. Faudrait-il généraliser cette pratique, voire la rendre obligatoire ? Donnez votre opinion et défendez-la.
+RELANCES: Le sport, c'est une affaire privée. / Tout le monde n'aime pas le sport. / Les entreprises n'ont pas le temps pour ça. / Qu'est-ce que l'entreprise y gagnerait ?
+PHRASES: Je suis favorable à…, mais pas à… / L'idée n'est pas de… mais de… / Les entreprises y gagneraient…
+MODELE: Je suis favorable à ce que les entreprises encouragent l'activité physique, mais pas à ce qu'elles l'imposent. L'idée n'est pas de transformer les salariés en athlètes, mais de lutter contre la sédentarité : beaucoup passent huit heures assis. Une demi-heure de marche ou d'étirements pendant la pause réduit les douleurs de dos et le stress. Les entreprises y gagneraient aussi, avec moins d'arrêts maladie. En revanche, l'obligation serait contre-productive : chacun doit pouvoir choisir son activité, ou ne rien faire du tout.
+COMMENTAIRE: La position distingue encourager et imposer, s'appuie sur des arguments de santé et d'intérêt économique, et justifie le refus de l'obligation. Les structures (« je suis favorable à ce que + subjonctif ») sont de niveau B2.
+CONSEILS: Distinguez clairement ce que vous acceptez et ce que vous refusez : c'est une bonne manière de nuancer sans être hésitant.
