@@ -1,0 +1,1997 @@
+{
+ "code": "B2-BLANC-02",
+ "title": "Examen blanc B2 n° 2 – Travail et économie",
+ "level": "B2",
+ "description": "Examen complet de niveau B2 aux durées officielles : emploi, entreprise, consommation, économie du quotidien.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "intention",
+   "document": "H: Bonjour Madame Diallo, Julien Morel, du cabinet de recrutement. Je vous appelle à propos de votre candidature au poste de responsable logistique. Le client a beaucoup apprécié votre entretien, mais il hésite entre vous et un autre candidat. Il aimerait vous proposer une mise en situation d'une demi-journée la semaine prochaine. Pourriez-vous me rappeler pour fixer une date ?",
+   "prompt": "Pourquoi Julien Morel appelle-t-il Mme Diallo ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour lui proposer une étape supplémentaire de recrutement.",
+     "correct": true,
+     "rationale": "Le client « aimerait vous proposer une mise en situation d'une demi-journée »."
+    },
+    {
+     "label": "B",
+     "text": "Pour lui demander de compléter son dossier.",
+     "correct": false,
+     "rationale": "Aucun document n'est demandé."
+    },
+    {
+     "label": "C",
+     "text": "Pour lui annoncer que sa candidature est refusée.",
+     "correct": false,
+     "rationale": "Le client a « beaucoup apprécié » son entretien."
+    },
+    {
+     "label": "D",
+     "text": "Pour lui annoncer qu'elle est embauchée.",
+     "correct": false,
+     "rationale": "Le client hésite encore entre deux candidats."
+    }
+   ],
+   "explanation": "L'appel combine une information positive (« a beaucoup apprécié ») et une incertitude (« il hésite »), d'où la proposition d'une mise en situation. L'intention est donc d'organiser une nouvelle étape, pas d'annoncer une décision.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co01.wav"
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "reportage radio",
+   "skill": "information précise",
+   "document": "F: Dans cette entreprise de cosmétiques de la Loire, les salariés peuvent désormais choisir leurs horaires, à condition d'être présents entre dix heures et quinze heures, ce qu'on appelle les plages fixes. Résultat après un an : l'absentéisme a reculé de vingt pour cent, et la direction a reçu deux fois plus de candidatures spontanées qu'auparavant.",
+   "prompt": "Quelle condition les salariés doivent-ils respecter ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Travailler quatre jours par semaine.",
+     "correct": false,
+     "rationale": "La semaine de quatre jours n'est pas évoquée."
+    },
+    {
+     "label": "B",
+     "text": "Arriver avant huit heures.",
+     "correct": false,
+     "rationale": "Aucune heure d'arrivée n'est imposée en dehors des plages fixes."
+    },
+    {
+     "label": "C",
+     "text": "Faire au moins deux jours de télétravail.",
+     "correct": false,
+     "rationale": "Le télétravail n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Être présents entre dix heures et quinze heures.",
+     "correct": true,
+     "rationale": "« à condition d'être présents entre dix heures et quinze heures »."
+    }
+   ],
+   "explanation": "« À condition de » introduit la seule contrainte : les plages fixes. Les résultats chiffrés (absentéisme, candidatures) servent à d'autres questions.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co02.wav"
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "F: Alors, tu as accepté la promotion ? / H: Pas encore. Le salaire est meilleur, c'est vrai, mais je devrais gérer une équipe de quinze personnes et partir en déplacement deux jours par semaine. / F: C'est une belle reconnaissance, quand même ! / H: Je sais. Mais avec les enfants encore petits, je ne suis pas sûr que le jeu en vaille la chandelle.",
+   "prompt": "Quel est l'état d'esprit de l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il refuse parce que le salaire est trop bas.",
+     "correct": false,
+     "rationale": "« Le salaire est meilleur, c'est vrai »."
+    },
+    {
+     "label": "B",
+     "text": "Il hésite, car les contraintes pourraient l'emporter sur les avantages.",
+     "correct": true,
+     "rationale": "« je ne suis pas sûr que le jeu en vaille la chandelle »."
+    },
+    {
+     "label": "C",
+     "text": "Il est enthousiaste et va accepter immédiatement.",
+     "correct": false,
+     "rationale": "Il n'a pas encore accepté et exprime des doutes."
+    },
+    {
+     "label": "D",
+     "text": "Il est vexé de ne pas avoir été promu.",
+     "correct": false,
+     "rationale": "On lui a justement proposé une promotion."
+    }
+   ],
+   "explanation": "L'expression « le jeu en vaut la chandelle » signifie que l'avantage justifie l'effort. Sa forme négative, avec « je ne suis pas sûr que », exprime le doute de l'homme.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co03.wav"
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "annonce interne",
+   "skill": "information précise",
+   "document": "H: Chers collaborateurs, en raison de la migration vers notre nouvel outil de paie, les notes de frais du mois de mars devront être déposées avant le 20, et non le 28 comme d'habitude. Les justificatifs papier ne seront plus acceptés : seuls les scans au format PDF seront traités. Merci de votre vigilance, tout dossier incomplet sera reporté au mois suivant.",
+   "prompt": "Qu'est-ce qui change pour les notes de frais de mars ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elles doivent être envoyées par courrier.",
+     "correct": false,
+     "rationale": "Les justificatifs papier ne sont plus acceptés."
+    },
+    {
+     "label": "B",
+     "text": "Elles ne seront plus remboursées.",
+     "correct": false,
+     "rationale": "Elles seront traitées, mais plus tôt."
+    },
+    {
+     "label": "C",
+     "text": "La date limite est avancée et les justificatifs doivent être numérisés.",
+     "correct": true,
+     "rationale": "« avant le 20, et non le 28 » et « seuls les scans au format PDF seront traités »."
+    },
+    {
+     "label": "D",
+     "text": "La date limite est repoussée au mois suivant.",
+     "correct": false,
+     "rationale": "Seuls les dossiers incomplets seront reportés."
+    }
+   ],
+   "explanation": "Deux changements sont annoncés : la date (« et non le 28 ») et le format (« seuls les scans »). La conséquence d'un dossier incomplet est une information secondaire.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co04.wav"
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "compréhension globale",
+   "document": "F: Vous avez quitté un poste de cadre dans la banque pour devenir ébéniste. Pourquoi ? / H: J'avais un bon salaire, mais le soir, je n'arrivais pas à dire ce que j'avais produit dans la journée. Aujourd'hui, je gagne moins, mes journées sont physiques, mais quand un client repart avec une table que j'ai fabriquée, je sais exactement à quoi j'ai servi. Ce sentiment-là n'a pas de prix.",
+   "prompt": "Quelle est la principale raison de sa reconversion ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'envie de gagner davantage d'argent.",
+     "correct": false,
+     "rationale": "Il dit qu'il « gagne moins » aujourd'hui."
+    },
+    {
+     "label": "B",
+     "text": "Le besoin de voir concrètement le résultat de son travail.",
+     "correct": true,
+     "rationale": "« je n'arrivais pas à dire ce que j'avais produit » / « je sais exactement à quoi j'ai servi »."
+    },
+    {
+     "label": "C",
+     "text": "Un licenciement économique.",
+     "correct": false,
+     "rationale": "Il a « quitté » son poste volontairement."
+    },
+    {
+     "label": "D",
+     "text": "Des problèmes de santé liés au stress.",
+     "correct": false,
+     "rationale": "La santé n'est pas évoquée."
+    }
+   ],
+   "explanation": "L'interviewé oppose un salaire élevé mais un travail abstrait à un métier moins payé mais concret. La phrase finale « ce sentiment-là n'a pas de prix » résume sa motivation.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co05.wav"
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "chronique économique",
+   "skill": "inférence",
+   "document": "H: Les prix des billets de train varient selon le jour, l'heure et le moment de la réservation : c'est ce qu'on appelle la tarification dynamique. Pour les compagnies, l'intérêt est clair : remplir les trains en attirant des voyageurs sur les horaires creux. Pour les voyageurs, c'est plus compliqué. Ceux qui peuvent réserver longtemps à l'avance s'en sortent bien ; les autres, souvent ceux qui voyagent pour une urgence familiale, paient le prix fort.",
+   "prompt": "Que suggère le chroniqueur à propos de la tarification dynamique ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle désavantage les voyageurs qui ne peuvent pas anticiper.",
+     "correct": true,
+     "rationale": "« les autres… paient le prix fort »."
+    },
+    {
+     "label": "B",
+     "text": "Elle fait baisser les prix pour tout le monde.",
+     "correct": false,
+     "rationale": "Certains voyageurs paient « le prix fort »."
+    },
+    {
+     "label": "C",
+     "text": "Elle n'apporte rien aux compagnies.",
+     "correct": false,
+     "rationale": "« Pour les compagnies, l'intérêt est clair »."
+    },
+    {
+     "label": "D",
+     "text": "Elle est interdite pour les urgences familiales.",
+     "correct": false,
+     "rationale": "Il ne parle d'aucune interdiction."
+    }
+   ],
+   "explanation": "Le chroniqueur oppose deux catégories de voyageurs. L'exemple de l'urgence familiale suggère, sans le dire explicitement, une forme d'injustice du système.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co06.wav"
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "opinion",
+   "document": "H: Augmenter le salaire minimum, c'est condamner les petites entreprises, qui ne pourront plus embaucher. / F: C'est l'argument qu'on entend à chaque fois, et à chaque fois, les catastrophes annoncées ne se produisent pas. Un salarié mieux payé consomme davantage, souvent dans les commerces de proximité. Ce sont donc aussi les petites entreprises qui en profitent.",
+   "prompt": "Comment la femme répond-elle à l'argument de l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle change de sujet pour parler des grandes entreprises.",
+     "correct": false,
+     "rationale": "Elle reste sur les petites entreprises."
+    },
+    {
+     "label": "B",
+     "text": "Elle l'accepte et propose de baisser les impôts.",
+     "correct": false,
+     "rationale": "Elle rejette l'argument et ne parle pas d'impôts."
+    },
+    {
+     "label": "C",
+     "text": "Elle reconnaît que les petites entreprises vont souffrir.",
+     "correct": false,
+     "rationale": "Elle affirme que les catastrophes annoncées ne se produisent pas."
+    },
+    {
+     "label": "D",
+     "text": "Elle le conteste en montrant un effet positif pour les petites entreprises.",
+     "correct": true,
+     "rationale": "« Ce sont donc aussi les petites entreprises qui en profitent »."
+    }
+   ],
+   "explanation": "La femme réfute d'abord l'argument par l'expérience (« les catastrophes annoncées ne se produisent pas »), puis le retourne : la consommation profite aux commerces de proximité. La mise en relief finale souligne ce retournement.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co07.wav"
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "F: Bonjour Thomas, c'est Inès. Le client de Bordeaux a avancé la réunion à mardi, dix heures, au lieu de jeudi. Du coup, j'aurais besoin des chiffres de ventes du trimestre lundi soir au plus tard. Si tu n'as pas le temps de tout finaliser, envoie-moi au moins le tableau des trois produits principaux, je compléterai le reste moi-même.",
+   "prompt": "Que doit envoyer Thomas en priorité ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les chiffres de l'année entière.",
+     "correct": false,
+     "rationale": "Il s'agit des chiffres du trimestre."
+    },
+    {
+     "label": "B",
+     "text": "Le contrat du client de Bordeaux.",
+     "correct": false,
+     "rationale": "Aucun contrat n'est demandé."
+    },
+    {
+     "label": "C",
+     "text": "Les données des trois produits principaux.",
+     "correct": true,
+     "rationale": "« envoie-moi au moins le tableau des trois produits principaux »."
+    },
+    {
+     "label": "D",
+     "text": "Le compte rendu de la réunion de jeudi.",
+     "correct": false,
+     "rationale": "La réunion n'a pas encore eu lieu."
+    }
+   ],
+   "explanation": "« Au moins » indique le minimum indispensable si Thomas manque de temps. Le changement de date de la réunion explique l'urgence de la demande.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co08.wav"
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "intention",
+   "document": "H: Votre entreprise a supprimé les entretiens annuels d'évaluation. N'est-ce pas risqué ? / F: Au contraire. Une fois par an, c'était trop tard : on reprochait à quelqu'un une erreur commise dix mois plus tôt. Désormais, chaque manager fait un point de quinze minutes tous les mois avec chaque membre de son équipe. Les problèmes sont réglés quand ils apparaissent, et les salariés savent toujours où ils en sont.",
+   "prompt": "Que cherche à montrer la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Que des échanges plus fréquents sont plus efficaces qu'un entretien annuel.",
+     "correct": true,
+     "rationale": "« Les problèmes sont réglés quand ils apparaissent »."
+    },
+    {
+     "label": "B",
+     "text": "Que les managers manquent de temps.",
+     "correct": false,
+     "rationale": "Elle ne parle pas d'un manque de temps."
+    },
+    {
+     "label": "C",
+     "text": "Que les salariés ont demandé la suppression des entretiens.",
+     "correct": false,
+     "rationale": "L'origine de la décision n'est pas précisée."
+    },
+    {
+     "label": "D",
+     "text": "Que l'évaluation des salariés est inutile.",
+     "correct": false,
+     "rationale": "L'évaluation existe toujours, sous forme de points mensuels."
+    }
+   ],
+   "explanation": "« Au contraire » réfute l'idée de risque. La femme oppose l'ancien système (trop tardif) au nouveau (régulier) pour justifier le changement.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co09.wav"
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "F: Faute de candidats, les boulangeries artisanales peinent à recruter. Pour attirer des jeunes, certaines ont revu leur organisation : fin du travail de nuit pour les apprentis, deux jours de repos consécutifs et rémunération au-dessus de la convention collective. Dans cette boulangerie de Nancy, la patronne a ainsi trouvé trois apprentis en un mois, alors qu'elle cherchait depuis deux ans.",
+   "prompt": "De quoi parle principalement ce reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De la fermeture des boulangeries artisanales.",
+     "correct": false,
+     "rationale": "Il s'agit de recrutement, pas de fermetures."
+    },
+    {
+     "label": "B",
+     "text": "De la hausse du prix du pain.",
+     "correct": false,
+     "rationale": "Les prix ne sont pas évoqués."
+    },
+    {
+     "label": "C",
+     "text": "Des efforts des boulangeries pour rendre le métier plus attractif.",
+     "correct": true,
+     "rationale": "Elles « ont revu leur organisation » pour « attirer des jeunes »."
+    },
+    {
+     "label": "D",
+     "text": "De la concurrence des supermarchés.",
+     "correct": false,
+     "rationale": "Les supermarchés ne sont pas mentionnés."
+    }
+   ],
+   "explanation": "Le reportage pose un problème (difficultés de recrutement), décrit des solutions (horaires, repos, salaire) et donne un exemple de réussite. L'idée principale est donc l'adaptation des employeurs.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co10.wav"
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "conversation administrative",
+   "skill": "information précise",
+   "document": "H: Bonjour, je viens d'être licencié et je voudrais savoir quand je toucherai mes allocations. / F: Vous devez d'abord vous inscrire comme demandeur d'emploi, en ligne, dans les douze mois qui suivent la fin de votre contrat. Ensuite, il y a un délai d'attente de sept jours, auquel s'ajoute un différé si vous avez reçu des indemnités de congés payés. / H: D'accord, et je dois envoyer mon attestation employeur ? / F: Non, votre employeur nous la transmet directement.",
+   "prompt": "Que n'a pas besoin de faire l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "S'inscrire comme demandeur d'emploi.",
+     "correct": false,
+     "rationale": "C'est la première démarche obligatoire."
+    },
+    {
+     "label": "B",
+     "text": "Envoyer lui-même son attestation employeur.",
+     "correct": true,
+     "rationale": "« Non, votre employeur nous la transmet directement »."
+    },
+    {
+     "label": "C",
+     "text": "Respecter un délai de douze mois pour s'inscrire.",
+     "correct": false,
+     "rationale": "Il doit s'inscrire dans ce délai."
+    },
+    {
+     "label": "D",
+     "text": "Attendre un délai avant le premier versement.",
+     "correct": false,
+     "rationale": "Il y a un délai d'attente de sept jours."
+    }
+   ],
+   "explanation": "La question porte sur ce qui n'est pas nécessaire : la dernière réplique répond clairement « Non ». Les autres éléments sont des obligations ou des délais à respecter.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co11.wav"
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "opinion",
+   "document": "H: On célèbre beaucoup les start-up et leurs fondateurs. Tant mieux. Mais on oublie souvent ceux qui reprennent une entreprise existante : une menuiserie de vingt salariés, une imprimerie, un garage. Chaque année, des milliers de ces entreprises ferment, non parce qu'elles ne sont pas rentables, mais parce que leur patron part à la retraite sans successeur. Les reprendre, c'est moins glamour, mais souvent plus utile.",
+   "prompt": "Quel est le point de vue du chroniqueur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les patrons partent trop tôt à la retraite.",
+     "correct": false,
+     "rationale": "Il ne critique pas l'âge de départ."
+    },
+    {
+     "label": "B",
+     "text": "Les entreprises qui ferment ne sont pas rentables.",
+     "correct": false,
+     "rationale": "Elles ferment « non parce qu'elles ne sont pas rentables »."
+    },
+    {
+     "label": "C",
+     "text": "Les start-up ne servent à rien.",
+     "correct": false,
+     "rationale": "Il dit « Tant mieux » à leur sujet."
+    },
+    {
+     "label": "D",
+     "text": "La reprise d'entreprises existantes mérite davantage d'attention.",
+     "correct": true,
+     "rationale": "« Les reprendre, c'est moins glamour, mais souvent plus utile »."
+    }
+   ],
+   "explanation": "Le chroniqueur concède (« Tant mieux ») puis oriente l'attention vers un sujet négligé. La structure « non parce que…, mais parce que… » corrige une idée fausse sur les fermetures.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co12.wav"
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "inférence",
+   "document": "F: Votre coopérative de livreurs à vélo existe depuis trois ans. Comment vous en sortez-vous face aux grandes plateformes ? / H: On ne cherche pas à être les moins chers. Nos clients, ce sont surtout des restaurants et des commerces du centre-ville qui veulent savoir que leurs livreurs sont salariés, assurés et payés correctement. Ils acceptent de payer un peu plus pour ça. Et nos livreurs restent : certains sont là depuis le premier jour.",
+   "prompt": "Que peut-on comprendre de la stratégie de la coopérative ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle livre surtout des particuliers.",
+     "correct": false,
+     "rationale": "Ses clients sont « des restaurants et des commerces »."
+    },
+    {
+     "label": "B",
+     "text": "Elle mise sur des conditions de travail éthiques plutôt que sur les prix bas.",
+     "correct": true,
+     "rationale": "Ses clients « acceptent de payer un peu plus » pour des livreurs salariés et bien payés."
+    },
+    {
+     "label": "C",
+     "text": "Elle change souvent de livreurs.",
+     "correct": false,
+     "rationale": "« nos livreurs restent »."
+    },
+    {
+     "label": "D",
+     "text": "Elle propose les tarifs les plus bas du marché.",
+     "correct": false,
+     "rationale": "« On ne cherche pas à être les moins chers »."
+    }
+   ],
+   "explanation": "La stratégie se déduit de deux éléments : le refus d'être les moins chers et le profil des clients, attachés aux conditions de travail. La fidélité des livreurs en est une conséquence positive.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co13.wav"
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "F: Le salon de l'emploi et de la formation se tiendra jeudi 14 de neuf heures à dix-sept heures au parc des expositions. Plus de quatre-vingts entreprises y proposeront des postes en CDI, en CDD et en alternance. Pensez à apporter plusieurs exemplaires de votre CV. Des ateliers gratuits de préparation aux entretiens auront lieu toutes les heures, sur inscription à l'accueil du salon.",
+   "prompt": "Comment participer aux ateliers de préparation aux entretiens ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "En envoyant son CV à l'avance.",
+     "correct": false,
+     "rationale": "Le CV est à apporter, pas à envoyer pour les ateliers."
+    },
+    {
+     "label": "B",
+     "text": "En payant un supplément à l'entrée.",
+     "correct": false,
+     "rationale": "Les ateliers sont « gratuits »."
+    },
+    {
+     "label": "C",
+     "text": "En s'inscrivant sur internet la veille.",
+     "correct": false,
+     "rationale": "L'inscription se fait sur place."
+    },
+    {
+     "label": "D",
+     "text": "En s'inscrivant à l'accueil le jour du salon.",
+     "correct": true,
+     "rationale": "Ils ont lieu « sur inscription à l'accueil du salon »."
+    }
+   ],
+   "explanation": "L'information se trouve à la fin : « sur inscription à l'accueil du salon ». Les autres détails (CV, horaires, types de contrats) concernent le salon en général.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co14.wav"
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "intention",
+   "document": "H: Tu pourrais relire ma lettre de motivation avant que je l'envoie ? / F: Bien sûr. Hum… Tu parles beaucoup de ce que l'entreprise peut t'apporter. / H: Oui, la formation, les perspectives… / F: C'est normal de le penser, mais le recruteur, lui, veut surtout savoir ce que toi, tu peux apporter à l'entreprise. Je réécrirais au moins le deuxième paragraphe.",
+   "prompt": "Que conseille la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Mettre davantage en avant ce que l'homme peut apporter à l'entreprise.",
+     "correct": true,
+     "rationale": "« le recruteur veut surtout savoir ce que toi, tu peux apporter »."
+    },
+    {
+     "label": "B",
+     "text": "Parler davantage de la formation proposée.",
+     "correct": false,
+     "rationale": "C'est justement ce qu'elle trouve trop présent."
+    },
+    {
+     "label": "C",
+     "text": "Supprimer complètement la lettre de motivation.",
+     "correct": false,
+     "rationale": "Elle propose de réécrire seulement un paragraphe."
+    },
+    {
+     "label": "D",
+     "text": "Envoyer la lettre sans changement.",
+     "correct": false,
+     "rationale": "Elle conseille de réécrire le deuxième paragraphe."
+    }
+   ],
+   "explanation": "La femme commence par une observation, puis donne un conseil au conditionnel (« je réécrirais »). La mise en relief « ce que toi, tu peux apporter » souligne le point de vue du recruteur.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co15.wav"
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "H: Dans ce village du Jura, une ancienne fromagerie fermée depuis quinze ans a été transformée en espace de travail partagé. On y trouve une graphiste, un traducteur, deux développeurs et une architecte, tous installés à la campagne grâce au télétravail. Le lieu accueille aussi un marché de producteurs le vendredi soir. Pour le maire, c'est une façon de faire revivre le village sans attendre l'arrivée d'une usine.",
+   "prompt": "Quel est le sujet principal du reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La réouverture d'une fromagerie industrielle.",
+     "correct": false,
+     "rationale": "La fromagerie a été transformée en bureaux."
+    },
+    {
+     "label": "B",
+     "text": "Les difficultés du télétravail à la campagne.",
+     "correct": false,
+     "rationale": "Le télétravail est présenté positivement."
+    },
+    {
+     "label": "C",
+     "text": "La revitalisation d'un village grâce à un lieu de travail partagé.",
+     "correct": true,
+     "rationale": "Il s'agit de « faire revivre le village » avec un espace de travail partagé."
+    },
+    {
+     "label": "D",
+     "text": "L'installation d'une usine dans le Jura.",
+     "correct": false,
+     "rationale": "Le maire ne veut justement pas « attendre l'arrivée d'une usine »."
+    }
+   ],
+   "explanation": "La conclusion du maire résume l'enjeu : faire revivre le village. Les professions citées et le marché du vendredi illustrent cette nouvelle vie.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co16.wav"
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Les entreprises devraient-elles publier les salaires dans leurs offres d'emploi ? / H: Oui, et sans hésiter. Aujourd'hui, beaucoup de candidats passent trois entretiens avant de découvrir que le salaire ne leur convient pas : c'est une perte de temps pour tout le monde. Et la transparence réduit les écarts injustifiés, notamment entre les femmes et les hommes, qui négocient différemment.",
+   "prompt": "Quels sont les deux arguments de l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La baisse des salaires et la hausse de la productivité.",
+     "correct": false,
+     "rationale": "Ces arguments ne sont pas avancés."
+    },
+    {
+     "label": "B",
+     "text": "Le gain de temps et la réduction des inégalités salariales.",
+     "correct": true,
+     "rationale": "Il évoque « une perte de temps pour tout le monde » et la réduction des « écarts injustifiés »."
+    },
+    {
+     "label": "C",
+     "text": "La simplification des contrats et la baisse des impôts.",
+     "correct": false,
+     "rationale": "Il n'en parle pas."
+    },
+    {
+     "label": "D",
+     "text": "La protection de la vie privée et la confidentialité.",
+     "correct": false,
+     "rationale": "Il défend au contraire la transparence."
+    }
+   ],
+   "explanation": "Le premier argument est pratique (éviter des entretiens inutiles), le second est social (réduire les inégalités). Le connecteur « et » relie ces deux justifications.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co17.wav"
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "information précise",
+   "document": "H: Bonjour, ici votre conseiller bancaire, Monsieur Fabre. Votre demande de prêt pour la création de votre entreprise a reçu un avis favorable du comité, sous réserve d'une condition : nous avons besoin d'une caution personnelle pour la moitié du montant. Si vous pouvez nous fournir ce document avant la fin du mois, les fonds seront débloqués sous dix jours.",
+   "prompt": "Quelle condition est posée pour l'obtention du prêt ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Fournir une caution personnelle pour la moitié de la somme.",
+     "correct": true,
+     "rationale": "« nous avons besoin d'une caution personnelle pour la moitié du montant »."
+    },
+    {
+     "label": "B",
+     "text": "Réduire le montant demandé de moitié.",
+     "correct": false,
+     "rationale": "Le montant n'est pas réduit."
+    },
+    {
+     "label": "C",
+     "text": "Attendre la fin du mois pour signer.",
+     "correct": false,
+     "rationale": "La fin du mois est la date limite pour fournir la caution."
+    },
+    {
+     "label": "D",
+     "text": "Ouvrir un compte professionnel dans la banque.",
+     "correct": false,
+     "rationale": "Aucun compte n'est demandé."
+    }
+   ],
+   "explanation": "« Sous réserve de » introduit une condition. Ne confondez pas « la moitié du montant », qui concerne la caution, avec une réduction du prêt.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co18.wav"
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "inférence",
+   "document": "F: Avec l'intelligence artificielle, mon service de traduction a réduit ses délais de moitié. / H: Et la qualité ? / F: Elle a même progressé sur les textes techniques. En revanche, pour les textes publicitaires, les traducteurs passent presque autant de temps à corriger qu'à traduire. Les jeux de mots, les références culturelles… la machine n'y comprend rien.",
+   "prompt": "Que laisse entendre la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'intelligence artificielle a remplacé tous les traducteurs.",
+     "correct": false,
+     "rationale": "Les traducteurs corrigent toujours les textes."
+    },
+    {
+     "label": "B",
+     "text": "Les textes publicitaires sont plus simples à traduire.",
+     "correct": false,
+     "rationale": "Ils demandent presque autant de corrections que de traduction."
+    },
+    {
+     "label": "C",
+     "text": "La qualité des traductions a baissé partout.",
+     "correct": false,
+     "rationale": "Elle a « même progressé » sur les textes techniques."
+    },
+    {
+     "label": "D",
+     "text": "L'intelligence artificielle est utile surtout pour les textes techniques.",
+     "correct": true,
+     "rationale": "La qualité progresse sur ces textes, mais pas sur les textes publicitaires."
+    }
+   ],
+   "explanation": "« En revanche » oppose deux types de textes. La femme suggère que l'outil est efficace pour les contenus techniques, mais limité dès qu'il faut comprendre la culture et l'humour.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co19.wav"
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "conférence",
+   "skill": "compréhension globale",
+   "document": "H: L'économie circulaire ne se résume pas au recyclage. Recycler, c'est déjà admettre qu'un objet est devenu un déchet. L'objectif est plutôt d'intervenir en amont : concevoir des produits durables, réparables, dont les pièces peuvent être remplacées, et développer la location ou le partage plutôt que la propriété. Le recyclage reste utile, mais il devrait être la dernière solution, pas la première.",
+   "prompt": "Quelle idée principale le conférencier défend-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le recyclage est inutile et doit disparaître.",
+     "correct": false,
+     "rationale": "« Le recyclage reste utile »."
+    },
+    {
+     "label": "B",
+     "text": "Il faut interdire la location des objets.",
+     "correct": false,
+     "rationale": "Il encourage au contraire la location."
+    },
+    {
+     "label": "C",
+     "text": "Il faut d'abord concevoir des produits durables avant de penser au recyclage.",
+     "correct": true,
+     "rationale": "Le recyclage « devrait être la dernière solution, pas la première »."
+    },
+    {
+     "label": "D",
+     "text": "Le recyclage est la solution principale contre les déchets.",
+     "correct": false,
+     "rationale": "Il en fait « la dernière solution »."
+    }
+   ],
+   "explanation": "La conférence commence par une réfutation (« ne se résume pas au recyclage ») et propose une hiérarchie des solutions. La dernière phrase, avec l'opposition « la dernière, pas la première », résume la thèse.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co20.wav"
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "intention",
+   "document": "H: Madame la directrice, votre usine va-t-elle délocaliser une partie de sa production ? / F: Je comprends l'inquiétude des salariés et je veux être claire : aucun poste ne sera supprimé sur ce site. Nous allons effectivement ouvrir un atelier à l'étranger, mais pour répondre à de nouveaux marchés, pas pour remplacer la production d'ici. D'ailleurs, nous recrutons encore vingt techniciens cette année.",
+   "prompt": "Quel est l'objectif de la directrice ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Annoncer des licenciements.",
+     "correct": false,
+     "rationale": "Elle dit qu'aucun poste ne sera supprimé."
+    },
+    {
+     "label": "B",
+     "text": "Rassurer les salariés sur l'avenir de leurs emplois.",
+     "correct": true,
+     "rationale": "« aucun poste ne sera supprimé sur ce site » et « nous recrutons encore »."
+    },
+    {
+     "label": "C",
+     "text": "Critiquer les salariés pour leur inquiétude.",
+     "correct": false,
+     "rationale": "Elle dit les comprendre."
+    },
+    {
+     "label": "D",
+     "text": "Nier l'ouverture d'un atelier à l'étranger.",
+     "correct": false,
+     "rationale": "Elle confirme cette ouverture."
+    }
+   ],
+   "explanation": "La directrice reconnaît l'inquiétude, affirme clairement l'absence de suppressions, explique la logique de l'ouverture et termine par un argument rassurant (« d'ailleurs, nous recrutons »).",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co21.wav"
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "information précise",
+   "document": "F: Pour les étudiants qui cherchent un petit boulot, la plateforme de la ville met en relation jeunes et employeurs locaux pour des missions courtes : garde d'enfants, aide aux devoirs, inventaires. L'inscription est gratuite et les missions sont rémunérées au moins au salaire minimum. Seule condition : avoir dix-huit ans et être inscrit dans un établissement d'enseignement supérieur.",
+   "prompt": "Qui peut s'inscrire sur la plateforme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Uniquement les étudiants boursiers.",
+     "correct": false,
+     "rationale": "Aucune condition de bourse n'est mentionnée."
+    },
+    {
+     "label": "B",
+     "text": "Les demandeurs d'emploi de la ville.",
+     "correct": false,
+     "rationale": "La plateforme s'adresse aux étudiants."
+    },
+    {
+     "label": "C",
+     "text": "Tous les jeunes de plus de seize ans.",
+     "correct": false,
+     "rationale": "L'âge minimum est dix-huit ans."
+    },
+    {
+     "label": "D",
+     "text": "Les étudiants majeurs inscrits dans le supérieur.",
+     "correct": true,
+     "rationale": "« avoir dix-huit ans et être inscrit dans un établissement d'enseignement supérieur »."
+    }
+   ],
+   "explanation": "« Seule condition » introduit les critères d'inscription. Les deux conditions sont cumulatives : âge et inscription dans le supérieur.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co22.wav"
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "H: Tu as vu, la direction propose de payer une partie des heures supplémentaires en jours de repos. / F: Moi, ça m'arrange : je préfère du temps à de l'argent. / H: Tu as de la chance de pouvoir te le permettre. Avec mon loyer, chaque euro compte. / F: Justement, il faudrait qu'on puisse choisir. Une solution unique pour tout le monde, ça ne marche jamais.",
+   "prompt": "Quelle est finalement la position de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Chaque salarié devrait pouvoir choisir entre repos et argent.",
+     "correct": true,
+     "rationale": "« il faudrait qu'on puisse choisir »."
+    },
+    {
+     "label": "B",
+     "text": "L'homme devrait demander une augmentation.",
+     "correct": false,
+     "rationale": "Elle ne lui donne pas ce conseil."
+    },
+    {
+     "label": "C",
+     "text": "Tout le monde devrait recevoir des jours de repos.",
+     "correct": false,
+     "rationale": "Elle refuse « une solution unique pour tout le monde »."
+    },
+    {
+     "label": "D",
+     "text": "Les heures supplémentaires devraient être supprimées.",
+     "correct": false,
+     "rationale": "Elle ne demande pas leur suppression."
+    }
+   ],
+   "explanation": "La femme exprime d'abord sa préférence personnelle, puis, après la remarque de l'homme, élargit sa réflexion : elle défend la liberté de choix. « Justement » montre qu'elle intègre son objection.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co23.wav"
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "inférence",
+   "document": "H: Chers clients, notre magasin vous informe qu'à partir du mois prochain, les sacs de caisse ne seront plus distribués, même payants. Nous vous invitons à venir avec vos propres sacs. Des cabas réutilisables resteront en vente à l'accueil. Par ailleurs, les fruits et légumes en vrac pourront désormais être pesés directement dans vos contenants personnels.",
+   "prompt": "Que comprend-on de cette annonce ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les sacs de caisse deviennent payants.",
+     "correct": false,
+     "rationale": "Ils ne seront « plus distribués, même payants »."
+    },
+    {
+     "label": "B",
+     "text": "Les cabas réutilisables seront offerts.",
+     "correct": false,
+     "rationale": "Ils restent « en vente »."
+    },
+    {
+     "label": "C",
+     "text": "Le magasin cherche à réduire les emballages jetables.",
+     "correct": true,
+     "rationale": "Il supprime les sacs de caisse et accepte les contenants personnels."
+    },
+    {
+     "label": "D",
+     "text": "Le magasin va fermer son rayon fruits et légumes.",
+     "correct": false,
+     "rationale": "Le rayon reste, avec une nouvelle possibilité de pesée."
+    }
+   ],
+   "explanation": "L'annonce ne dit pas explicitement son objectif, mais deux mesures convergent : suppression des sacs et usage de contenants personnels. On en déduit une démarche de réduction des déchets.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co24.wav"
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "entretien radio",
+   "skill": "compréhension globale",
+   "document": "F: Vous accompagnez des femmes qui créent leur entreprise. Quels obstacles rencontrent-elles ? / H: Le premier, c'est l'accès au financement : à projet égal, elles obtiennent en moyenne des prêts plus faibles. Le deuxième, plus discret, c'est le manque de confiance. Beaucoup attendent d'être parfaitement prêtes avant de se lancer, alors que leurs homologues masculins osent plus tôt. Notre rôle, c'est de les aider à franchir le pas.",
+   "prompt": "Quel est le thème principal de l'entretien ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les secteurs où les femmes réussissent le mieux.",
+     "correct": false,
+     "rationale": "Les secteurs ne sont pas évoqués."
+    },
+    {
+     "label": "B",
+     "text": "Les difficultés des hommes à trouver un prêt.",
+     "correct": false,
+     "rationale": "Les hommes servent seulement de point de comparaison."
+    },
+    {
+     "label": "C",
+     "text": "Les obstacles spécifiques rencontrés par les créatrices d'entreprise.",
+     "correct": true,
+     "rationale": "Il décrit l'accès au financement et le manque de confiance."
+    },
+    {
+     "label": "D",
+     "text": "Les avantages fiscaux de la création d'entreprise.",
+     "correct": false,
+     "rationale": "La fiscalité n'est pas abordée."
+    }
+   ],
+   "explanation": "L'entretien est structuré par « le premier… le deuxième… » : deux obstacles propres aux femmes. La dernière phrase précise le rôle de l'accompagnement.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-02_co25.wav"
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "offre d'emploi",
+   "skill": "information précise",
+   "document": "Nous recherchons un(e) assistant(e) commercial(e) en CDI pour notre agence de Lille. Missions : suivi des commandes, relation avec les clients, préparation des devis. Profil : bac +2 minimum, maîtrise des logiciels de bureautique, anglais professionnel exigé. Une première expérience dans le secteur industriel serait appréciée. Poste à pourvoir immédiatement, télétravail possible un jour par semaine après la période d'essai. Rémunération selon profil, tickets restaurant et mutuelle.",
+   "prompt": "Quelle compétence est obligatoire pour ce poste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une expérience dans l'industrie.",
+     "correct": false,
+     "rationale": "Elle « serait appréciée », mais n'est pas obligatoire."
+    },
+    {
+     "label": "B",
+     "text": "Un diplôme de niveau bac +5.",
+     "correct": false,
+     "rationale": "Le minimum demandé est bac +2."
+    },
+    {
+     "label": "C",
+     "text": "La pratique du télétravail.",
+     "correct": false,
+     "rationale": "Le télétravail est un avantage, pas une compétence exigée."
+    },
+    {
+     "label": "D",
+     "text": "L'anglais professionnel.",
+     "correct": true,
+     "rationale": "« anglais professionnel exigé »."
+    }
+   ],
+   "explanation": "Le mot « exigé » signale une condition obligatoire, alors que « serait appréciée » désigne un atout. Ce vocabulaire est caractéristique des offres d'emploi."
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "compréhension globale",
+   "document": "Le nombre d'auto-entrepreneurs a fortement augmenté ces dernières années. Ce statut séduit par sa simplicité : quelques clics suffisent pour se déclarer, et les cotisations sont calculées sur le chiffre d'affaires réel. Mais derrière ce succès se cachent des réalités contrastées. Si certains y trouvent une liberté choisie, d'autres l'ont adopté faute de mieux, après un licenciement ou parce qu'une plateforme l'exigeait. Pour eux, l'indépendance ressemble surtout à une précarité sans filet de sécurité.",
+   "prompt": "Quelle idée principale l'article développe-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le statut d'auto-entrepreneur recouvre des situations très différentes, parfois précaires.",
+     "correct": true,
+     "rationale": "« derrière ce succès se cachent des réalités contrastées »."
+    },
+    {
+     "label": "B",
+     "text": "Le nombre d'auto-entrepreneurs est en baisse.",
+     "correct": false,
+     "rationale": "Il a « fortement augmenté »."
+    },
+    {
+     "label": "C",
+     "text": "Les démarches pour devenir auto-entrepreneur sont trop compliquées.",
+     "correct": false,
+     "rationale": "Le statut séduit au contraire par sa simplicité."
+    },
+    {
+     "label": "D",
+     "text": "Le statut d'auto-entrepreneur est réservé aux personnes licenciées.",
+     "correct": false,
+     "rationale": "Certains l'ont choisi librement."
+    }
+   ],
+   "explanation": "L'article présente d'abord les atouts du statut, puis nuance avec « mais derrière ce succès ». L'opposition « si certains… d'autres… » structure cette idée de réalités contrastées."
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "courrier des lecteurs",
+   "skill": "opinion",
+   "document": "Directrice d'une petite entreprise de vingt personnes, je lis partout que les salariés réclament le télétravail. Je l'ai mis en place deux jours par semaine et je ne le regrette pas. Mais je voudrais rappeler une chose : dans une petite structure, l'absence d'un collègue se ressent immédiatement. Il a fallu définir des jours de présence communs, sinon on ne se croisait plus. Le télétravail n'est pas une recette universelle, c'est une organisation à construire ensemble.",
+   "prompt": "Quelle est l'opinion de l'auteure sur le télétravail ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il devrait être imposé à tous les salariés.",
+     "correct": false,
+     "rationale": "Elle refuse l'idée d'une « recette universelle »."
+    },
+    {
+     "label": "B",
+     "text": "Il est positif, à condition d'être organisé collectivement.",
+     "correct": true,
+     "rationale": "« c'est une organisation à construire ensemble »."
+    },
+    {
+     "label": "C",
+     "text": "Il a fait baisser la productivité de son entreprise.",
+     "correct": false,
+     "rationale": "Elle ne parle pas de productivité."
+    },
+    {
+     "label": "D",
+     "text": "Il est impossible dans une petite entreprise.",
+     "correct": false,
+     "rationale": "Elle l'a mis en place et « ne le regrette pas »."
+    }
+   ],
+   "explanation": "L'auteure présente une expérience positive, puis introduit une nuance avec « mais je voudrais rappeler ». Sa conclusion oppose « recette universelle » et « organisation à construire »."
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "contrat de travail",
+   "skill": "information précise",
+   "document": "Article 7 – Période d'essai. Le présent contrat ne deviendra définitif qu'à l'issue d'une période d'essai de deux mois, renouvelable une fois pour une durée équivalente avec l'accord écrit des deux parties. Pendant cette période, chacune des parties peut rompre le contrat en respectant un délai de prévenance de quarante-huit heures pendant le premier mois de présence, puis de deux semaines au-delà.",
+   "prompt": "Que faut-il pour renouveler la période d'essai ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un nouveau contrat de travail.",
+     "correct": false,
+     "rationale": "Le renouvellement se fait dans le cadre du même contrat."
+    },
+    {
+     "label": "B",
+     "text": "Un délai de prévenance de quarante-huit heures.",
+     "correct": false,
+     "rationale": "Ce délai concerne la rupture du contrat."
+    },
+    {
+     "label": "C",
+     "text": "L'accord écrit de l'employeur et du salarié.",
+     "correct": true,
+     "rationale": "« avec l'accord écrit des deux parties »."
+    },
+    {
+     "label": "D",
+     "text": "Une simple décision de l'employeur.",
+     "correct": false,
+     "rationale": "L'accord des deux parties est nécessaire."
+    }
+   ],
+   "explanation": "Il faut distinguer deux règles : le renouvellement (accord écrit des deux parties) et la rupture (délais de prévenance). Le piège consiste à confondre ces deux informations."
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "intention",
+   "document": "On nous répète que la croissance économique est la condition de tout progrès. Pourtant, une hausse du produit intérieur brut peut cacher bien des réalités : une catastrophe naturelle, en obligeant à reconstruire, fait augmenter la production ; la pollution, en multipliant les dépenses de santé, aussi. À l'inverse, le travail bénévole ou les soins apportés à un parent âgé n'y apparaissent pas. Il est temps de compléter cet indicateur par d'autres mesures : espérance de vie en bonne santé, inégalités, qualité de l'air.",
+   "prompt": "Quelle est l'intention de l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Demander la suppression du travail bénévole.",
+     "correct": false,
+     "rationale": "Il regrette que ce travail ne soit pas pris en compte."
+    },
+    {
+     "label": "B",
+     "text": "Expliquer comment reconstruire après une catastrophe.",
+     "correct": false,
+     "rationale": "La catastrophe n'est qu'un exemple."
+    },
+    {
+     "label": "C",
+     "text": "Défendre la croissance économique à tout prix.",
+     "correct": false,
+     "rationale": "Il remet en cause cette idée."
+    },
+    {
+     "label": "D",
+     "text": "Montrer les limites de la croissance comme mesure du progrès.",
+     "correct": true,
+     "rationale": "Il donne des exemples où le PIB augmente sans progrès réel et propose d'autres indicateurs."
+    }
+   ],
+   "explanation": "Le connecteur « pourtant » introduit la remise en cause d'une idée répandue. Les exemples paradoxaux (catastrophe, pollution) illustrent les limites du PIB, et la conclusion propose une solution."
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "courrier administratif",
+   "skill": "information précise",
+   "document": "Madame, Monsieur, nous accusons réception de votre demande de congé de formation. Votre dossier sera examiné par la commission paritaire du 18 avril. En cas d'accord, votre rémunération sera maintenue à 100 % si votre salaire est inférieur à deux fois le salaire minimum, et à 90 % au-delà. Nous vous rappelons que vous devez informer votre employeur de votre demande au moins cent vingt jours avant le début de la formation si celle-ci dure plus de six mois.",
+   "prompt": "Quelle rémunération percevra un salarié payé trois fois le salaire minimum ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "90 % de son salaire.",
+     "correct": true,
+     "rationale": "Au-delà de deux fois le salaire minimum, la rémunération est maintenue « à 90 % »."
+    },
+    {
+     "label": "B",
+     "text": "100 % de son salaire.",
+     "correct": false,
+     "rationale": "Ce taux concerne les salaires inférieurs à deux fois le salaire minimum."
+    },
+    {
+     "label": "C",
+     "text": "Le salaire minimum seulement.",
+     "correct": false,
+     "rationale": "Le texte ne prévoit pas cette règle."
+    },
+    {
+     "label": "D",
+     "text": "Aucune rémunération.",
+     "correct": false,
+     "rationale": "La rémunération est maintenue en cas d'accord."
+    }
+   ],
+   "explanation": "Il faut appliquer la règle au cas proposé : trois fois le salaire minimum dépasse le seuil de deux fois. Le salarié est donc dans la seconde catégorie."
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "inférence",
+   "document": "Dans cette chaîne de magasins de bricolage, les vendeurs ne sont plus évalués sur leur chiffre d'affaires individuel, mais sur la satisfaction des clients et les résultats de l'équipe. Depuis ce changement, la direction constate que les vendeurs orientent plus volontiers les clients vers un collègue spécialisé, plutôt que de tenter de conclure la vente eux-mêmes. Les retours de produits inadaptés ont diminué d'un tiers.",
+   "prompt": "Que peut-on déduire de cet article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La chaîne a supprimé les vendeurs spécialisés.",
+     "correct": false,
+     "rationale": "Les vendeurs spécialisés existent toujours."
+    },
+    {
+     "label": "B",
+     "text": "L'ancien système poussait les vendeurs à privilégier leur propre vente.",
+     "correct": true,
+     "rationale": "Depuis la réforme, ils orientent « plus volontiers » vers un collègue, ce qu'ils faisaient moins avant."
+    },
+    {
+     "label": "C",
+     "text": "Les vendeurs gagnent moins qu'avant.",
+     "correct": false,
+     "rationale": "Les salaires ne sont pas évoqués."
+    },
+    {
+     "label": "D",
+     "text": "Les clients sont moins satisfaits depuis la réforme.",
+     "correct": false,
+     "rationale": "Les retours de produits ont diminué."
+    }
+   ],
+   "explanation": "L'inférence repose sur la comparaison avant/après : si les vendeurs orientent désormais plus volontiers les clients, c'est que l'évaluation individuelle les en dissuadait auparavant."
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "notice d'information",
+   "skill": "information précise",
+   "document": "Compte personnel de formation : mode d'emploi. Chaque salarié acquiert chaque année des droits en euros, utilisables pour suivre une formation certifiante. Ces droits restent acquis en cas de changement d'employeur ou de perte d'emploi. Pour une formation suivie en dehors du temps de travail, l'accord de l'employeur n'est pas nécessaire. En revanche, si la formation a lieu pendant les heures de travail, le salarié doit présenter sa demande à son employeur au moins soixante jours avant le début.",
+   "prompt": "Dans quel cas l'accord de l'employeur est-il nécessaire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Quand la formation est suivie le soir ou le week-end.",
+     "correct": false,
+     "rationale": "« l'accord de l'employeur n'est pas nécessaire »."
+    },
+    {
+     "label": "B",
+     "text": "Quand le salarié perd son emploi.",
+     "correct": false,
+     "rationale": "Ses droits restent acquis."
+    },
+    {
+     "label": "C",
+     "text": "Quand la formation se déroule pendant le temps de travail.",
+     "correct": true,
+     "rationale": "« si la formation a lieu pendant les heures de travail, le salarié doit présenter sa demande »."
+    },
+    {
+     "label": "D",
+     "text": "Quand le salarié change d'employeur.",
+     "correct": false,
+     "rationale": "Les droits restent acquis, sans accord."
+    }
+   ],
+   "explanation": "« En revanche » oppose formation hors temps de travail (sans accord) et formation pendant le temps de travail (demande préalable). Le délai de soixante jours est un détail complémentaire."
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "opinion",
+   "document": "On reproche souvent aux jeunes de manquer de loyauté envers leur employeur, parce qu'ils changent de poste tous les deux ou trois ans. Mais de quelle loyauté parle-t-on ? Leurs parents ont vu des entreprises licencier des salariés fidèles depuis vingt ans au premier ralentissement économique. Les jeunes en ont tiré une leçon lucide : la fidélité n'est récompensée que si elle est réciproque. Les entreprises qui veulent les garder doivent offrir des perspectives, pas seulement exiger de l'attachement.",
+   "prompt": "Que pense l'auteur du comportement des jeunes salariés ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il recommande aux jeunes de rester vingt ans dans la même entreprise.",
+     "correct": false,
+     "rationale": "Il rappelle que cette fidélité n'a pas protégé leurs parents."
+    },
+    {
+     "label": "B",
+     "text": "Il le juge compréhensible au regard de l'attitude passée des entreprises.",
+     "correct": true,
+     "rationale": "« Les jeunes en ont tiré une leçon lucide »."
+    },
+    {
+     "label": "C",
+     "text": "Il pense que les jeunes sont paresseux.",
+     "correct": false,
+     "rationale": "Rien n'évoque la paresse."
+    },
+    {
+     "label": "D",
+     "text": "Il le condamne comme un manque de loyauté.",
+     "correct": false,
+     "rationale": "Il conteste justement ce reproche."
+    }
+   ],
+   "explanation": "L'auteur part d'un reproche courant, le questionne (« de quelle loyauté parle-t-on ? ») et le retourne. L'adjectif « lucide » montre qu'il approuve la réaction des jeunes."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "Les entreprises sont de plus en plus nombreuses à proposer à leurs salariés un congé de solidarité : quelques semaines rémunérées pour participer à une mission humanitaire ou associative. Pour les salariés, c'est l'occasion de donner du sens à leur carrière. Pour les entreprises, l'intérêt est double : fidéliser les équipes et développer des compétences comme l'adaptation ou la gestion de l'imprévu. Les associations, elles, apprécient ces renforts, à condition que les missions soient préparées en amont.",
+   "prompt": "Quel est le sujet principal de l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le recrutement de bénévoles par les mairies.",
+     "correct": false,
+     "rationale": "Les mairies ne sont pas mentionnées."
+    },
+    {
+     "label": "B",
+     "text": "La suppression des congés payés dans certaines entreprises.",
+     "correct": false,
+     "rationale": "Il s'agit d'un congé supplémentaire."
+    },
+    {
+     "label": "C",
+     "text": "Les difficultés financières des associations humanitaires.",
+     "correct": false,
+     "rationale": "Les finances des associations ne sont pas évoquées."
+    },
+    {
+     "label": "D",
+     "text": "Le développement des congés de solidarité et leurs bénéfices pour chacun.",
+     "correct": true,
+     "rationale": "L'article présente l'intérêt pour les salariés, les entreprises et les associations."
+    }
+   ],
+   "explanation": "L'article décrit un dispositif puis examine ses avantages selon trois points de vue (salariés, entreprises, associations). La condition finale (« à condition que ») ajoute une nuance."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "courriel professionnel",
+   "skill": "intention",
+   "document": "Bonjour à tous, suite à plusieurs remarques, je vous rappelle que les réunions d'équipe commencent à 9 h précises et durent trente minutes maximum. Afin de les rendre plus efficaces, je vous demande d'envoyer vos points à aborder la veille avant 17 h. Les sujets non transmis seront traités lors de la réunion suivante. Je compte sur chacun pour respecter ces règles, qui ont été décidées ensemble lors du séminaire de janvier.",
+   "prompt": "Quel est l'objectif principal de ce courriel ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Organiser un séminaire en janvier.",
+     "correct": false,
+     "rationale": "Le séminaire a déjà eu lieu."
+    },
+    {
+     "label": "B",
+     "text": "Annuler les réunions d'équipe.",
+     "correct": false,
+     "rationale": "Les réunions sont maintenues."
+    },
+    {
+     "label": "C",
+     "text": "Rappeler des règles pour améliorer l'efficacité des réunions.",
+     "correct": true,
+     "rationale": "« Afin de les rendre plus efficaces, je vous demande… »."
+    },
+    {
+     "label": "D",
+     "text": "Allonger la durée des réunions.",
+     "correct": false,
+     "rationale": "Elles durent « trente minutes maximum »."
+    }
+   ],
+   "explanation": "Le verbe « je vous rappelle » et la subordonnée de but « afin de les rendre plus efficaces » révèlent l'intention. La référence au séminaire légitime ces règles décidées collectivement."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "La prime de partage de la valeur permet aux employeurs de verser à leurs salariés une somme exonérée de cotisations sociales, dans certaines limites. Son versement n'est pas obligatoire et son montant peut varier selon le salaire, l'ancienneté ou le temps de travail, à condition que ces critères s'appliquent à tous. En revanche, elle ne peut pas remplacer une augmentation de salaire ou une prime déjà prévue par le contrat.",
+   "prompt": "Qu'interdit la règle concernant cette prime ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'utiliser à la place d'une augmentation ou d'une prime déjà prévue.",
+     "correct": true,
+     "rationale": "« elle ne peut pas remplacer une augmentation de salaire ou une prime déjà prévue »."
+    },
+    {
+     "label": "B",
+     "text": "La verser sans obligation.",
+     "correct": false,
+     "rationale": "Son versement n'est justement « pas obligatoire »."
+    },
+    {
+     "label": "C",
+     "text": "La moduler selon l'ancienneté.",
+     "correct": false,
+     "rationale": "La modulation selon l'ancienneté est autorisée."
+    },
+    {
+     "label": "D",
+     "text": "L'exonérer de cotisations sociales.",
+     "correct": false,
+     "rationale": "Elle est exonérée, dans certaines limites."
+    }
+   ],
+   "explanation": "« En revanche » introduit la limite principale du dispositif. Les critères de modulation sont autorisés à condition d'être appliqués à tous."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "inférence",
+   "document": "Le travail ne se réduit pas au salaire qu'il procure. Il structure le temps, offre une place dans la société, permet de rencontrer d'autres personnes. C'est pourquoi la perte d'un emploi est souvent vécue comme une blessure qui dépasse la perte de revenus. Les personnes au chômage le disent : le plus difficile n'est pas toujours de compter chaque euro, mais de répondre à la question « Et toi, tu fais quoi ? ».",
+   "prompt": "Que veut montrer l'auteur avec la question finale ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Que les chômeurs sont trop curieux.",
+     "correct": false,
+     "rationale": "Ce sont les autres qui posent la question."
+    },
+    {
+     "label": "B",
+     "text": "Que le chômage touche aussi l'identité sociale des personnes.",
+     "correct": true,
+     "rationale": "La question renvoie à la place dans la société que donne le travail."
+    },
+    {
+     "label": "C",
+     "text": "Que les chômeurs ne savent pas répondre aux questions.",
+     "correct": false,
+     "rationale": "La question illustre une gêne sociale, pas une incapacité."
+    },
+    {
+     "label": "D",
+     "text": "Que l'argent n'est jamais un problème au chômage.",
+     "correct": false,
+     "rationale": "Le texte dit que ce n'est « pas toujours » le plus difficile."
+    }
+   ],
+   "explanation": "L'auteur énumère les fonctions du travail au-delà du salaire. La question finale, banale en apparence, montre que le travail définit la place sociale : en être privé blesse l'identité."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "La chambre de métiers organise une matinée d'information sur la reprise d'entreprises artisanales le mardi 5 juin, de 9 h à 12 h. Au programme : témoignages de repreneurs, présentation des aides financières et rencontre avec des cédants. La participation est gratuite mais l'inscription est obligatoire, dans la limite de quarante places. Les participants pourront ensuite bénéficier d'un rendez-vous individuel avec un conseiller.",
+   "prompt": "Que doivent faire les personnes intéressées ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Payer une participation aux frais.",
+     "correct": false,
+     "rationale": "« La participation est gratuite »."
+    },
+    {
+     "label": "B",
+     "text": "Présenter un projet de reprise écrit.",
+     "correct": false,
+     "rationale": "Aucun projet écrit n'est demandé."
+    },
+    {
+     "label": "C",
+     "text": "S'inscrire à l'avance, car les places sont limitées.",
+     "correct": true,
+     "rationale": "« l'inscription est obligatoire, dans la limite de quarante places »."
+    },
+    {
+     "label": "D",
+     "text": "Prendre d'abord un rendez-vous individuel.",
+     "correct": false,
+     "rationale": "Le rendez-vous est proposé après la matinée."
+    }
+   ],
+   "explanation": "La phrase « gratuite mais l'inscription est obligatoire » contient l'information clé. Le rendez-vous individuel est une possibilité offerte « ensuite »."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "article d'opinion",
+   "skill": "opinion",
+   "document": "Faut-il continuer à exiger des diplômes pour tous les postes ? Certaines entreprises ont décidé de recruter sur la base de compétences évaluées par des tests pratiques, quel que soit le parcours scolaire. Je m'en réjouis. Le diplôme mesure ce qu'une personne savait à vingt ans, pas ce qu'elle sait faire à quarante. Cela ne signifie pas qu'il faille le mépriser, mais qu'il ne devrait plus être le seul critère qui ouvre ou ferme les portes.",
+   "prompt": "Quelle est la position de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Seuls les jeunes diplômés devraient être recrutés.",
+     "correct": false,
+     "rationale": "Il souligne au contraire la valeur de l'expérience."
+    },
+    {
+     "label": "B",
+     "text": "Les diplômes sont inutiles et doivent disparaître.",
+     "correct": false,
+     "rationale": "« Cela ne signifie pas qu'il faille le mépriser »."
+    },
+    {
+     "label": "C",
+     "text": "Les tests pratiques sont injustes.",
+     "correct": false,
+     "rationale": "Il « se réjouit » de leur utilisation."
+    },
+    {
+     "label": "D",
+     "text": "Le diplôme ne devrait pas être le seul critère de recrutement.",
+     "correct": true,
+     "rationale": "« il ne devrait plus être le seul critère »."
+    }
+   ],
+   "explanation": "L'auteur approuve une pratique (« je m'en réjouis »), donne un argument (le diplôme mesure un savoir passé) et nuance sa position avec « cela ne signifie pas que… mais que… »."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "rapport",
+   "skill": "compréhension globale",
+   "document": "L'étude menée dans quinze entreprises qui ont réduit le temps de travail à trente-deux heures sans baisse de salaire montre des résultats encourageants : baisse de l'absentéisme, meilleure santé déclarée et productivité stable dans la plupart des cas. Toutefois, les entreprises qui ont réussi la transition partagent une caractéristique : elles ont d'abord supprimé les tâches et réunions inutiles. Celles qui ont simplement comprimé le même travail sur quatre jours ont vu le stress augmenter.",
+   "prompt": "Quelle conclusion principale le rapport tire-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La réduction du temps de travail réussit si elle s'accompagne d'une réorganisation.",
+     "correct": true,
+     "rationale": "Les réussites ont « d'abord supprimé les tâches et réunions inutiles »."
+    },
+    {
+     "label": "B",
+     "text": "Il faut augmenter le nombre de réunions.",
+     "correct": false,
+     "rationale": "Il faut au contraire supprimer les réunions inutiles."
+    },
+    {
+     "label": "C",
+     "text": "La réduction du temps de travail fait toujours baisser la productivité.",
+     "correct": false,
+     "rationale": "La productivité est « stable dans la plupart des cas »."
+    },
+    {
+     "label": "D",
+     "text": "Toutes les entreprises ont vu le stress augmenter.",
+     "correct": false,
+     "rationale": "Seules celles qui ont comprimé le travail."
+    }
+   ],
+   "explanation": "« Toutefois » introduit la nuance essentielle : le succès dépend de la méthode. L'opposition entre les deux groupes d'entreprises justifie la conclusion."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "lettre de réclamation",
+   "skill": "intention",
+   "document": "Madame, Monsieur, client de votre banque depuis douze ans, j'ai constaté sur mon relevé des frais de tenue de compte de 8 euros par mois, alors qu'ils n'avaient jamais été facturés auparavant. Je n'ai reçu aucune information préalable concernant ce changement de tarif. Je vous demande donc de m'expliquer la nature de ces frais et de me les rembourser. À défaut de réponse satisfaisante sous quinze jours, je saisirai le médiateur bancaire.",
+   "prompt": "Que fera l'auteur s'il n'obtient pas satisfaction ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il paiera les frais sans discuter.",
+     "correct": false,
+     "rationale": "Il en demande au contraire le remboursement."
+    },
+    {
+     "label": "B",
+     "text": "Il fermera immédiatement son compte.",
+     "correct": false,
+     "rationale": "Il n'évoque pas la fermeture du compte."
+    },
+    {
+     "label": "C",
+     "text": "Il portera plainte au tribunal.",
+     "correct": false,
+     "rationale": "Il parle du médiateur, pas du tribunal."
+    },
+    {
+     "label": "D",
+     "text": "Il fera appel au médiateur bancaire.",
+     "correct": true,
+     "rationale": "« je saisirai le médiateur bancaire »."
+    }
+   ],
+   "explanation": "« À défaut de réponse satisfaisante » introduit la conséquence envisagée. Le médiateur est une étape amiable avant toute procédure judiciaire."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "Le droit à la déconnexion oblige les entreprises de plus de cinquante salariés à négocier des règles pour limiter l'usage des outils numériques en dehors des heures de travail. Concrètement, certaines bloquent l'envoi de courriels après 20 h, d'autres affichent un message d'avertissement. La loi ne fixe pas de règle unique : elle impose seulement de définir des modalités adaptées à chaque entreprise, par accord ou, à défaut, par une charte.",
+   "prompt": "Que prévoit la loi selon l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'envoi de courriels est interdit après 20 h partout.",
+     "correct": false,
+     "rationale": "C'est une pratique de certaines entreprises, pas une règle générale."
+    },
+    {
+     "label": "B",
+     "text": "Les petites entreprises doivent bloquer les messageries.",
+     "correct": false,
+     "rationale": "La loi vise les entreprises de plus de cinquante salariés."
+    },
+    {
+     "label": "C",
+     "text": "Chaque entreprise concernée doit définir ses propres règles de déconnexion.",
+     "correct": true,
+     "rationale": "« elle impose seulement de définir des modalités adaptées à chaque entreprise »."
+    },
+    {
+     "label": "D",
+     "text": "Les salariés doivent répondre aux courriels le soir.",
+     "correct": false,
+     "rationale": "C'est justement ce que la loi cherche à limiter."
+    }
+   ],
+   "explanation": "L'article distingue l'obligation légale (négocier des règles) et les exemples concrets (blocage, avertissement). La phrase « la loi ne fixe pas de règle unique » est décisive."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "inférence",
+   "document": "Dans mon immeuble de bureaux, l'entreprise a remplacé les postes individuels par des « espaces flexibles » : chacun s'installe où il trouve une place. Sur le papier, l'idée favorise les échanges. Dans les faits, les plus matinaux occupent les meilleures places près des fenêtres, et les autres errent, ordinateur sous le bras. Depuis, curieusement, beaucoup de collègues ont découvert les charmes du télétravail le lundi et le vendredi.",
+   "prompt": "Que suggère l'auteur à la fin du texte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les salariés fuient le bureau à cause de cette nouvelle organisation.",
+     "correct": true,
+     "rationale": "Le mot « curieusement » souligne avec ironie que le télétravail augmente depuis la réforme."
+    },
+    {
+     "label": "B",
+     "text": "Les salariés adorent les espaces flexibles.",
+     "correct": false,
+     "rationale": "L'auteur décrit des salariés qui « errent »."
+    },
+    {
+     "label": "C",
+     "text": "Le télétravail est interdit le lundi et le vendredi.",
+     "correct": false,
+     "rationale": "Au contraire, beaucoup télétravaillent ces jours-là."
+    },
+    {
+     "label": "D",
+     "text": "L'entreprise a ajouté des fenêtres dans les bureaux.",
+     "correct": false,
+     "rationale": "Rien de tel n'est dit."
+    }
+   ],
+   "explanation": "L'adverbe « curieusement » est ironique : l'auteur suggère un lien de cause à effet entre l'inconfort des espaces flexibles et le recours accru au télétravail."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "guide pratique",
+   "skill": "information précise",
+   "document": "Rupture conventionnelle : les étapes. L'employeur et le salarié se rencontrent lors d'un ou plusieurs entretiens pour définir les conditions de la rupture. Ils signent ensuite une convention fixant la date de départ et le montant de l'indemnité, qui ne peut être inférieur à l'indemnité légale de licenciement. Chacun dispose alors de quinze jours calendaires pour se rétracter. Enfin, la convention doit être homologuée par l'administration, qui dispose de quinze jours ouvrables pour se prononcer.",
+   "prompt": "Que peuvent faire les parties après la signature de la convention ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Modifier la date sans nouvel accord.",
+     "correct": false,
+     "rationale": "Rien ne le prévoit."
+    },
+    {
+     "label": "B",
+     "text": "Revenir sur leur décision pendant quinze jours.",
+     "correct": true,
+     "rationale": "« Chacun dispose alors de quinze jours calendaires pour se rétracter »."
+    },
+    {
+     "label": "C",
+     "text": "Se passer de l'homologation.",
+     "correct": false,
+     "rationale": "La convention « doit être homologuée »."
+    },
+    {
+     "label": "D",
+     "text": "Fixer une indemnité inférieure au minimum légal.",
+     "correct": false,
+     "rationale": "L'indemnité « ne peut être inférieure à l'indemnité légale »."
+    }
+   ],
+   "explanation": "Le texte suit un ordre chronologique (entretiens, signature, rétractation, homologation). Ne confondez pas le délai de rétractation (quinze jours calendaires) et celui de l'administration (quinze jours ouvrables)."
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "opinion",
+   "document": "Les métiers les plus utiles pendant les crises – aides-soignantes, caissières, éboueurs, livreurs – sont souvent parmi les moins bien payés. Nous les avons applaudis, puis oubliés. Il ne s'agit pas d'opposer les métiers entre eux, mais de reconnaître qu'un système qui rémunère si mal ce dont il ne peut se passer finit par manquer de bras. Les difficultés de recrutement actuelles dans ces secteurs ne sont pas un mystère : elles sont la conséquence logique de ce décalage.",
+   "prompt": "Quelle thèse défend l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les métiers essentiels sont trop bien payés.",
+     "correct": false,
+     "rationale": "Ils sont « parmi les moins bien payés »."
+    },
+    {
+     "label": "B",
+     "text": "Il faut opposer les métiers entre eux.",
+     "correct": false,
+     "rationale": "« Il ne s'agit pas d'opposer les métiers entre eux »."
+    },
+    {
+     "label": "C",
+     "text": "Les difficultés de recrutement viennent de la faible rémunération de métiers essentiels.",
+     "correct": true,
+     "rationale": "Elles sont « la conséquence logique de ce décalage »."
+    },
+    {
+     "label": "D",
+     "text": "Les difficultés de recrutement sont inexplicables.",
+     "correct": false,
+     "rationale": "« ne sont pas un mystère »."
+    }
+   ],
+   "explanation": "L'éditorialiste établit un lien de cause à effet entre salaires faibles et pénurie de main-d'œuvre. La formule « nous les avons applaudis, puis oubliés » rappelle la reconnaissance passagère pendant les crises."
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "De plus en plus de consommateurs louent plutôt qu'ils n'achètent : vêtements de cérémonie, perceuses, poussettes, voire meubles. Les entreprises de location y voient un marché prometteur. Les défenseurs de l'environnement saluent une consommation plus sobre, à condition que les objets soient réellement réutilisés et entretenus. Reste une question : la location ne risque-t-elle pas de rendre les ménages modestes dépendants de dépenses régulières, alors qu'un achat unique leur aurait coûté moins cher sur le long terme ?",
+   "prompt": "Quel est le thème principal de l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le développement de la location d'objets et ses limites possibles.",
+     "correct": true,
+     "rationale": "L'article décrit cette tendance puis soulève une question sur son coût pour les ménages modestes."
+    },
+    {
+     "label": "B",
+     "text": "Le refus des écologistes de toute location.",
+     "correct": false,
+     "rationale": "Ils la saluent sous condition."
+    },
+    {
+     "label": "C",
+     "text": "La hausse du prix des perceuses.",
+     "correct": false,
+     "rationale": "Les perceuses ne sont qu'un exemple."
+    },
+    {
+     "label": "D",
+     "text": "L'interdiction de la location de meubles.",
+     "correct": false,
+     "rationale": "Aucune interdiction n'est évoquée."
+    }
+   ],
+   "explanation": "L'article présente une tendance, l'intérêt des entreprises, l'avis des écologistes, puis une interrogation finale (« Reste une question »). Le thème englobe ces différents aspects."
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "règlement",
+   "skill": "inférence",
+   "document": "Charte d'utilisation des véhicules de service. Les véhicules sont réservés via l'intranet au moins vingt-quatre heures à l'avance. Le conducteur remplit le carnet de bord à chaque trajet en indiquant le kilométrage de départ et d'arrivée. Le plein doit être fait avant de restituer le véhicule si le réservoir est à moins d'un quart. Toute amende reçue pendant la période de réservation sera imputée au conducteur nommément désigné.",
+   "prompt": "Que peut-on déduire de cette charte ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'entreprise paie toutes les amendes.",
+     "correct": false,
+     "rationale": "Elles sont « imputées au conducteur »."
+    },
+    {
+     "label": "B",
+     "text": "Le plein doit être fait à chaque trajet.",
+     "correct": false,
+     "rationale": "Seulement si le réservoir est à moins d'un quart."
+    },
+    {
+     "label": "C",
+     "text": "Les véhicules peuvent être utilisés sans réservation.",
+     "correct": false,
+     "rationale": "Une réservation de vingt-quatre heures est exigée."
+    },
+    {
+     "label": "D",
+     "text": "L'entreprise veut pouvoir identifier le responsable de chaque utilisation.",
+     "correct": true,
+     "rationale": "Le carnet de bord et la désignation nominative du conducteur le permettent."
+    }
+   ],
+   "explanation": "Plusieurs règles convergent (réservation nominative, carnet de bord, amendes imputées) : on en déduit une volonté de traçabilité et de responsabilisation des conducteurs."
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "intention",
+   "document": "Nous, agriculteurs d'une coopérative laitière, ne demandons pas de subventions supplémentaires. Nous demandons un prix juste. Aujourd'hui, le litre de lait nous est payé moins cher qu'il ne nous coûte à produire, tandis que les marges de la grande distribution progressent. Les consommateurs sont prêts, nous le savons, à payer quelques centimes de plus si ces centimes reviennent réellement aux producteurs. Encore faut-il que la loi garantisse cette transparence.",
+   "prompt": "Quel est le but de cette tribune ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Annoncer une hausse du prix du lait pour les consommateurs.",
+     "correct": false,
+     "rationale": "Ils évoquent seulement une disposition des consommateurs à payer plus."
+    },
+    {
+     "label": "B",
+     "text": "Réclamer une rémunération équitable et transparente des producteurs.",
+     "correct": true,
+     "rationale": "« Nous demandons un prix juste » et une loi qui « garantisse cette transparence »."
+    },
+    {
+     "label": "C",
+     "text": "Défendre les marges de la grande distribution.",
+     "correct": false,
+     "rationale": "Ils dénoncent la hausse de ces marges."
+    },
+    {
+     "label": "D",
+     "text": "Demander davantage de subventions publiques.",
+     "correct": false,
+     "rationale": "« ne demandons pas de subventions supplémentaires »."
+    }
+   ],
+   "explanation": "La tribune s'ouvre sur une opposition nette (« ne demandons pas… nous demandons »). L'inversion finale « encore faut-il que » pose la condition de leur revendication."
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "compréhension globale",
+   "document": "L'économie dite collaborative promettait de remplacer la propriété par le partage : on partagerait sa voiture, son logement, ses outils. Une partie de cette promesse s'est réalisée. Mais beaucoup de plateformes sont devenues de grandes entreprises qui organisent des services marchands sans en assumer les responsabilités d'employeur. Le partage entre particuliers a souvent cédé la place à une professionnalisation déguisée : des appartements loués à l'année aux touristes, des chauffeurs travaillant soixante heures par semaine.",
+   "prompt": "Quelle idée principale l'auteur développe-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'économie collaborative a totalement échoué.",
+     "correct": false,
+     "rationale": "« Une partie de cette promesse s'est réalisée »."
+    },
+    {
+     "label": "B",
+     "text": "La propriété privée a disparu.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "C",
+     "text": "Les plateformes sont de petites associations de voisins.",
+     "correct": false,
+     "rationale": "Elles sont devenues de grandes entreprises."
+    },
+    {
+     "label": "D",
+     "text": "L'économie collaborative s'est en partie éloignée de son idéal de partage.",
+     "correct": true,
+     "rationale": "« Le partage entre particuliers a souvent cédé la place à une professionnalisation déguisée »."
+    }
+   ],
+   "explanation": "L'auteur rappelle une promesse, reconnaît un succès partiel, puis développe une critique avec « mais ». L'expression « professionnalisation déguisée » résume l'écart entre l'idéal et la réalité."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "task_type": "répondre à un message",
+   "instructions": "Votre collègue Lucas vous écrit : « Je dois présenter notre projet à la direction vendredi et je suis très stressé. Tu aurais des conseils ? » Répondez-lui en le rassurant et en lui donnant deux conseils concrets (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Salut Lucas, ne t'inquiète pas, tu connais le projet mieux que personne ! Je te conseille d'abord de répéter ta présentation à voix haute, au moins deux fois, en te chronométrant. Ensuite, prépare des réponses aux questions difficiles sur le budget. Si tu veux, on peut faire un essai jeudi midi. Bon courage, Sarah",
+   "tips": "Structurez vos conseils avec des connecteurs (d'abord, ensuite, enfin) et ajoutez une proposition d'aide pour rendre le message plus chaleureux.",
+   "expected_points": [
+    "rassurer",
+    "donner un premier conseil",
+    "donner un second conseil",
+    "proposer son aide",
+    "formule finale"
+   ],
+   "model_commentary": "Le message rassure d'emblée, organise deux conseils avec « d'abord » et « ensuite », et termine par une proposition concrète. Le registre amical entre collègues est bien respecté."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "task_type": "raconter une expérience",
+   "instructions": "Racontez votre premier jour dans un nouvel emploi ou une nouvelle formation pour le blog d'une association d'aide à l'insertion professionnelle : votre état d'esprit, ce qui s'est passé et ce que vous avez appris (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Le jour où j'ai commencé comme préparatrice de commandes, j'étais très anxieuse : je craignais de ne pas comprendre les consignes. Heureusement, mon tuteur m'a accueillie avec patience et m'a présentée à toute l'équipe. Le matin, il m'a montré le fonctionnement du scanner ; l'après-midi, je préparais déjà mes premières commandes seule. Ce jour-là, j'ai compris qu'on n'attendait pas de moi que je sache tout, mais que j'ose poser des questions.",
+   "tips": "Montrez une évolution entre le début et la fin de la journée : c'est ce qui donne du sens à votre récit.",
+   "expected_points": [
+    "exprimer son état d'esprit",
+    "raconter le déroulement",
+    "mentionner une personne ou un détail",
+    "tirer une leçon"
+   ],
+   "model_commentary": "Le récit alterne imparfait et passé composé, organise la journée chronologiquement et conclut par une leçon formulée avec la structure « non pas…, mais… ». Le texte est vivant et personnel."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "donner son opinion à partir de deux documents",
+   "instructions": "Document 1 : « Le télétravail améliore la qualité de vie : moins de transports, plus de concentration, plus de temps pour sa famille. » Document 2 : « Le télétravail isole les salariés et brouille la frontière entre vie professionnelle et vie privée. » Présentez ces deux opinions, puis donnez votre avis argumenté (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Selon le premier document, le télétravail améliore la qualité de vie, alors que le second insiste sur l'isolement et la confusion entre travail et vie privée. À mon avis, ces deux points de vue sont justes, ce qui plaide pour une solution intermédiaire. Deux jours à la maison permettent de gagner du temps sans perdre le contact avec les collègues. Il faudrait cependant que les entreprises respectent le droit à la déconnexion, pour que la maison ne devienne pas un bureau permanent.",
+   "tips": "Une position intermédiaire est acceptable si elle est clairement argumentée. Proposez une condition précise pour éviter de rester vague.",
+   "expected_points": [
+    "résumer le document 1",
+    "résumer le document 2",
+    "prendre position",
+    "justifier",
+    "proposer une condition ou une solution"
+   ],
+   "model_commentary": "Les deux documents sont résumés de façon équilibrée avec « alors que ». La position nuancée est justifiée et complétée par une condition au subjonctif (« il faudrait que… »)."
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous interroge sur votre vie professionnelle : votre métier ou vos études, votre parcours, ce qui vous motive et vos projets professionnels.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Que faites-vous dans la vie ?",
+    "Comment êtes-vous arrivé à ce métier ?",
+    "Qu'est-ce qui vous motive dans votre travail ?",
+    "Avez-vous déjà changé d'orientation ?",
+    "Où vous voyez-vous professionnellement dans quelques années ?"
+   ],
+   "useful_phrases": [
+    "Je travaille comme… depuis…",
+    "Ce qui me motive le plus, c'est…",
+    "J'envisage de…"
+   ],
+   "model_answer": "Je travaille comme électricien dans une petite entreprise du bâtiment depuis six ans. Au départ, je voulais être professeur de sport, mais une blessure m'a obligé à changer d'orientation, et j'ai découvert l'électricité grâce à un stage. Ce qui me motive le plus, c'est la diversité des chantiers : je ne fais jamais deux fois la même chose. J'envisage de passer un diplôme pour devenir chef d'équipe, et pourquoi pas, plus tard, de créer ma propre entreprise, si j'arrive à mettre assez d'argent de côté.",
+   "model_commentary": "La réponse raconte un parcours avec un changement d'orientation, met en relief la motivation et projette des objectifs avec une condition. Les temps verbaux sont variés et bien maîtrisés.",
+   "tips": "Racontez votre parcours comme une petite histoire, avec un tournant, puis terminez par vos projets au futur ou au conditionnel."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Négocier une formation avec son employeur",
+   "examiner_role": "Responsable du service",
+   "scenario": "Vous souhaitez suivre une formation de trois jours sur un nouveau logiciel de gestion. Votre responsable (l'examinateur) hésite. Présentez votre demande, répondez à ses objections et obtenez son accord.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Trois jours d'absence, c'est beaucoup en ce moment.",
+    "Le budget formation est presque épuisé.",
+    "Qui va faire votre travail pendant ce temps ?",
+    "Qu'est-ce que ça apportera à l'équipe ?"
+   ],
+   "useful_phrases": [
+    "Je souhaiterais vous parler de…",
+    "Cela permettrait à l'équipe de…",
+    "Je m'engage à…"
+   ],
+   "model_answer": "Je souhaiterais vous parler d'une formation sur le nouveau logiciel de gestion des stocks, qui dure trois jours. Je comprends que la période soit chargée ; c'est pourquoi je propose de la suivre le mois prochain, après l'inventaire. Pour le budget, elle peut être financée par mon compte personnel de formation, donc sans coût pour le service. Pendant mon absence, Sophie a accepté de traiter les urgences. Et à mon retour, je m'engage à former le reste de l'équipe, ce qui nous fera gagner du temps à tous.",
+   "model_commentary": "Le candidat anticipe chaque objection (calendrier, budget, remplacement) avec une solution concrète et termine par un bénéfice collectif. La négociation est structurée et convaincante.",
+   "tips": "Arrivez avec des solutions déjà prêtes aux objections prévisibles : c'est la meilleure façon d'obtenir un accord rapidement."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il augmenter les salaires des métiers essentiels ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Pendant les crises, on a découvert l'importance de métiers peu rémunérés (aides-soignants, caissiers, éboueurs). Faut-il augmenter fortement leurs salaires ? Donnez votre opinion et défendez-la face aux objections.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Qui va payer ces augmentations ?",
+    "Les prix vont augmenter pour tout le monde.",
+    "Ces métiers ne demandent pas beaucoup de diplômes.",
+    "Comment choisir quels métiers augmenter ?"
+   ],
+   "useful_phrases": [
+    "Je suis favorable à…, car…",
+    "L'argument du coût ne tient pas si…",
+    "Il faudrait…"
+   ],
+   "model_answer": "Je suis favorable à une revalorisation importante de ces métiers, car une société ne peut pas fonctionner sans eux. Aujourd'hui, les hôpitaux et les maisons de retraite manquent de personnel, précisément parce que les salaires ne compensent pas la pénibilité. L'argument du coût ne tient pas si l'on compte ce que coûtent les postes vacants et les arrêts maladie. Ces métiers demandent peu de diplômes, c'est vrai, mais beaucoup de responsabilités et d'endurance. Il faudrait commencer par ceux où les difficultés de recrutement sont les plus fortes.",
+   "model_commentary": "La position est justifiée par un argument de cause à effet, l'objection financière est retournée, celle des diplômes est concédée puis nuancée, et une méthode concrète est proposée.",
+   "tips": "Pour répondre à une objection sur le coût, comparez avec le coût de l'inaction : c'est un argument souvent décisif."
+  }
+ ],
+ "series": "B2"
+}
