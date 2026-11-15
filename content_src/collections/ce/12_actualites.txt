@@ -1,0 +1,180 @@
+@slug ce-actualites
+@section CE
+@title Actualités
+@order 12
+@description Brèves et articles d'actualité : identifier l'information principale, les acteurs, les chiffres et les réactions.
+
+## CE-ACT-01 | article de presse
+TITRE: Canicule : les villes adaptent leurs horaires
+DOC: Face à l'épisode de chaleur exceptionnel qui touche le sud du pays depuis une semaine, plusieurs municipalités ont décidé d'adapter le fonctionnement de leurs services. Les piscines et les parcs restent ouverts jusqu'à minuit, les musées municipaux sont gratuits l'après-midi pour offrir des lieux climatisés aux habitants, et les chantiers de voirie sont suspendus entre midi et seize heures. ¶ Les services sociaux ont également renforcé leur vigilance auprès des personnes âgées isolées, inscrites sur un registre spécial. Des agents et des bénévoles les appellent chaque jour pour s'assurer qu'elles boivent suffisamment et ne manquent de rien. ¶ Les météorologues préviennent que ces épisodes seront plus fréquents et plus intenses dans les années à venir. Certains urbanistes estiment que ces mesures d'urgence, utiles, ne suffiront pas : il faudra repenser durablement les villes en plantant des arbres, en multipliant les fontaines et en limitant les surfaces goudronnées, qui accumulent la chaleur.
+Q: Pourquoi les musées sont-ils gratuits l'après-midi ? | compréhension détaillée
++ Pour offrir aux habitants des endroits frais. | « Pour offrir des lieux climatisés aux habitants. »
+- Pour attirer des touristes étrangers. | Ce n'est pas dit.
+- Parce que les agents sont en grève. | Ce n'est pas évoqué.
+- Pour fêter l'été. | Ce n'est pas le sens.
+EXP: La finalité est indiquée par « pour ».
+Q: Comment les services sociaux aident-ils les personnes âgées isolées ? | compréhension détaillée
++ Par des appels quotidiens pour vérifier leur état. | « Des agents et des bénévoles les appellent chaque jour. »
+- En les hébergeant à l'hôpital. | Ce n'est pas dit.
+- En leur offrant un climatiseur. | Ce n'est pas évoqué.
+- En les emmenant à la piscine. | Ce n'est pas mentionné.
+EXP: Le registre spécial permet de les identifier.
+Q: Que pensent certains urbanistes ? | argumentation
++ Les mesures d'urgence doivent être complétées par une transformation durable des villes. | « Ces mesures d'urgence, utiles, ne suffiront pas : il faudra repenser durablement les villes. »
+- Les mesures sont inutiles. | Ils les jugent « utiles ».
+- Il faut fermer les piscines. | Ce n'est pas dit.
+- Les canicules vont disparaître. | Elles seront plus fréquentes.
+EXP: Les deux-points introduisent la solution qu'ils proposent.
+VOCAB: une canicule = une période de très forte chaleur = La canicule a duré dix jours. ; la voirie = l'ensemble des routes et rues = Des travaux de voirie. ; climatisé = rafraîchi par un appareil = Un bureau climatisé. ; goudronné = recouvert de goudron = Une route goudronnée.
+EXPR: renforcer sa vigilance = faire encore plus attention = La police renforce sa vigilance. ; ne manquer de rien = avoir tout ce qu'il faut = Les enfants ne manquent de rien. ; dans les années à venir = dans le futur proche = Les prix augmenteront dans les années à venir.
+PIEGES: Les chantiers sont suspendus seulement entre midi et seize heures. ; Les urbanistes jugent les mesures utiles mais insuffisantes. ; Les surfaces goudronnées accumulent la chaleur.
+
+## CE-ACT-02 | article de presse
+TITRE: Grève dans les transports : les usagers s'organisent
+DOC: Pour la troisième journée consécutive, le trafic ferroviaire est fortement perturbé dans la région. Seul un train sur trois circule aux heures de pointe, et certaines lignes régionales sont totalement interrompues. Les syndicats protestent contre un projet de réorganisation qui prévoit, selon eux, la suppression de plusieurs centaines de postes. La direction affirme qu'aucun licenciement n'est prévu et qu'il s'agit seulement de ne pas remplacer certains départs à la retraite. ¶ Sur les quais, la patience des voyageurs est mise à rude épreuve. Beaucoup se sont tournés vers le covoiturage, dont les plateformes enregistrent une forte hausse des réservations, ou vers le vélo. Les entreprises ont été nombreuses à autoriser le télétravail. ¶ Une réunion entre la direction et les syndicats est prévue demain matin. Les deux parties se disent prêtes à discuter, mais leurs positions restent éloignées. En l'absence d'accord, le mouvement pourrait se prolonger jusqu'à la fin de la semaine.
+Q: Pourquoi les syndicats font-ils grève ? | compréhension détaillée
++ Pour s'opposer à un projet qui supprimerait des postes selon eux. | « Un projet de réorganisation qui prévoit, selon eux, la suppression de plusieurs centaines de postes. »
+- Pour obtenir une hausse des salaires. | Ce n'est pas dit.
+- Pour protester contre les voyageurs. | Ce n'est pas le sens.
+- Pour demander plus de trains. | Ce n'est pas évoqué.
+EXP: « Selon eux » indique qu'il s'agit de l'interprétation des syndicats.
+Q: Sur quel point la direction et les syndicats sont-ils en désaccord ? | implicite
++ Sur la nature réelle des suppressions de postes. | La direction parle de départs non remplacés, les syndicats de suppressions de postes.
+- Sur le nombre de trains en circulation. | Ce n'est pas discuté.
+- Sur la date de la réunion. | Elle est fixée.
+- Sur le télétravail. | Ce n'est pas un sujet de désaccord.
+EXP: Les deux versions présentent différemment la même réalité.
+Q: Comment les voyageurs se sont-ils adaptés ? | compréhension détaillée
++ En choisissant le covoiturage, le vélo ou le télétravail. | « Beaucoup se sont tournés vers le covoiturage… ou vers le vélo… autoriser le télétravail. »
+- En restant tous chez eux sans travailler. | Ce n'est pas dit.
+- En prenant l'avion. | Ce n'est pas évoqué.
+- En manifestant avec les syndicats. | Ce n'est pas mentionné.
+EXP: Le deuxième paragraphe décrit les solutions de remplacement.
+VOCAB: consécutif = qui suit sans interruption = Trois jours consécutifs. ; perturbé = dérangé dans son fonctionnement = Le trafic est perturbé. ; une réorganisation = une nouvelle organisation = La réorganisation du service. ; un mouvement = ici, une grève, une action collective = Le mouvement se poursuit.
+EXPR: mettre à rude épreuve = soumettre à une forte difficulté = Cette situation met ma patience à rude épreuve. ; se tourner vers = choisir comme solution = Il s'est tourné vers l'enseignement. ; en l'absence de = sans = En l'absence d'accord, la grève continue.
+PIEGES: La direction nie les licenciements. ; Un train sur trois circule seulement aux heures de pointe. ; La prolongation dépend de l'issue de la réunion.
+
+## CE-ACT-03 | article de presse
+TITRE: Un ancien site industriel transformé en quartier
+DOC: Fermée depuis vingt ans, l'ancienne usine textile qui dominait la ville va devenir un nouveau quartier. Le projet, présenté hier par la mairie, prévoit six cents logements, dont un tiers de logements sociaux, une école, un parc de trois hectares et des locaux destinés à des artisans et à de jeunes entreprises. ¶ Les bâtiments de brique, témoins du passé ouvrier de la ville, seront en partie conservés et réhabilités. « Nous ne voulions pas effacer cette mémoire, mais lui donner un avenir », a déclaré le maire. La dépollution du sol, contaminé par des décennies d'activité industrielle, constituera la première étape des travaux et durera près de deux ans. ¶ Le projet ne fait pas l'unanimité. Une association de riverains craint une augmentation de la circulation et regrette la hauteur de certains immeubles. Elle demande l'organisation d'une consultation publique. La mairie assure que les habitants seront associés à chaque étape et que le plan de circulation sera revu.
+Q: Que prévoit le projet ? | compréhension détaillée
++ Des logements, dont une partie sociale, des équipements publics et des locaux d'activité. | « Six cents logements, dont un tiers de logements sociaux, une école, un parc… et des locaux destinés à des artisans. »
+- La reprise de l'activité textile. | Ce n'est pas dit.
+- La démolition totale des bâtiments. | Ils seront « en partie conservés ».
+- Un centre commercial. | Ce n'est pas évoqué.
+EXP: L'énumération détaille le programme.
+Q: Que signifie la déclaration du maire ? | implicite
++ Le projet veut préserver l'histoire du lieu tout en lui donnant une nouvelle fonction. | « Nous ne voulions pas effacer cette mémoire, mais lui donner un avenir. »
+- Le maire veut détruire l'usine. | C'est l'inverse.
+- Le maire refuse tout changement. | Ce n'est pas le sens.
+- Le maire veut créer un musée uniquement. | Ce n'est pas dit.
+EXP: L'opposition « effacer » / « donner un avenir » résume l'intention.
+Q: Que demande l'association de riverains ? | compréhension détaillée
++ Une consultation publique sur le projet. | « Elle demande l'organisation d'une consultation publique. »
+- L'annulation de la dépollution. | Ce n'est pas dit.
+- Plus de logements sociaux. | Ce n'est pas évoqué.
+- La construction d'immeubles plus hauts. | Elle regrette la hauteur.
+EXP: Les craintes portent sur la circulation et la hauteur des immeubles.
+VOCAB: réhabiliter = remettre en état = Réhabiliter un vieux quartier. ; la dépollution = le fait de nettoyer un site pollué = La dépollution du terrain. ; contaminé = pollué par une substance dangereuse = Une eau contaminée. ; un riverain = une personne qui habite à proximité = Les riverains se plaignent du bruit.
+EXPR: ne pas faire l'unanimité = ne pas être approuvé par tous = Cette décision ne fait pas l'unanimité. ; être associé à = participer à = Les salariés sont associés aux décisions. ; témoin du passé = qui rappelle une époque passée = Ce château est un témoin du passé.
+PIEGES: Seule une partie des bâtiments sera conservée. ; La dépollution est la première étape. ; La mairie promet de revoir le plan de circulation.
+
+## CE-ACT-04 | article de presse
+TITRE: Hausse des inscriptions dans les cours de langue pour adultes
+DOC: Les centres de langues pour adultes enregistrent cette année une hausse record des inscriptions. L'anglais reste la langue la plus demandée, mais l'espagnol, l'allemand et le japonais progressent nettement. Les cours de français langue étrangère affichent également complet, portés par l'arrivée de nouveaux résidents qui doivent justifier d'un niveau de langue pour certaines démarches administratives. ¶ Les motivations des apprenants ont évolué. Si l'objectif professionnel reste dominant, un nombre croissant d'adultes s'inscrivent par plaisir ou pour préparer un voyage. Les centres observent aussi l'arrivée de jeunes retraités, qui voient dans l'apprentissage d'une langue un moyen de garder l'esprit actif. ¶ Malgré la multiplication des applications d'apprentissage sur téléphone, la demande de cours en présentiel ne faiblit pas. Pour les responsables, les applications sont utiles pour réviser le vocabulaire, mais ne remplacent pas l'interaction avec un enseignant et d'autres apprenants, indispensable pour progresser à l'oral.
+Q: Pourquoi les cours de français langue étrangère sont-ils complets ? | compréhension détaillée
++ De nouveaux résidents doivent prouver leur niveau de français pour certaines démarches. | « Portés par l'arrivée de nouveaux résidents qui doivent justifier d'un niveau de langue. »
+- Parce que les cours sont gratuits. | Ce n'est pas dit.
+- Parce que l'anglais est moins demandé. | L'anglais reste le plus demandé.
+- Parce que les écoles ferment. | Ce n'est pas évoqué.
+EXP: « Justifier d'un niveau » signifie le prouver officiellement.
+Q: Quelle évolution des motivations le texte souligne-t-il ? | compréhension détaillée
++ Davantage d'adultes apprennent par plaisir ou pour voyager. | « Un nombre croissant d'adultes s'inscrivent par plaisir ou pour préparer un voyage. »
+- Plus personne n'apprend pour son travail. | L'objectif professionnel « reste dominant ».
+- Les retraités ne s'inscrivent plus. | Ils arrivent au contraire.
+- Les adultes préfèrent le japonais à l'anglais. | Ce n'est pas dit.
+EXP: « Si… reste dominant » introduit une concession avant la nouveauté.
+Q: Que pensent les responsables des applications ? | point de vue
++ Elles sont utiles mais ne remplacent pas les échanges en classe. | « Utiles pour réviser le vocabulaire, mais ne remplacent pas l'interaction avec un enseignant. »
+- Elles sont inutiles. | Ils les jugent utiles.
+- Elles vont remplacer les cours. | C'est l'inverse.
+- Elles sont interdites dans les centres. | Ce n'est pas dit.
+EXP: Le couple « utiles… mais » exprime un avis nuancé.
+VOCAB: un apprenant = une personne qui apprend = Les apprenants adultes. ; en présentiel = en présence physique = Un cours en présentiel. ; faiblir = diminuer = La demande ne faiblit pas. ; l'interaction = l'échange entre personnes = L'interaction est essentielle.
+EXPR: afficher complet = ne plus avoir de place = Le cours affiche complet. ; garder l'esprit actif = continuer à faire travailler son cerveau = Les jeux aident à garder l'esprit actif. ; justifier de = prouver = Il doit justifier de son identité.
+PIEGES: L'anglais reste la langue la plus demandée. ; L'objectif professionnel reste dominant. ; Les applications ne sont pas rejetées.
+
+## CE-ACT-05 | article de presse
+TITRE: Une commune interdit les voitures devant les écoles
+DOC: Depuis la rentrée, les rues situées devant les trois écoles primaires de la commune sont fermées à la circulation automobile un quart d'heure avant et après les heures d'entrée et de sortie des classes. Des barrières amovibles sont installées par des agents municipaux, aidés de parents volontaires. ¶ La mesure vise à sécuriser les abords des écoles et à réduire la pollution respirée par les enfants, particulièrement sensibles aux gaz d'échappement. Elle encourage aussi les familles à venir à pied ou à vélo. Après deux mois, la municipalité constate que la part des enfants venant en voiture est passée de 40 % à 25 %. ¶ Tous les parents ne sont pas convaincus. Certains, qui déposent leurs enfants avant de partir travailler loin de chez eux, se plaignent de devoir se garer plus loin et de perdre du temps. La mairie étudie la création de points de dépose-minute à quelques centaines de mètres des écoles, d'où les enfants pourraient être accompagnés à pied par des animateurs.
+Q: Quels sont les objectifs de la mesure ? | compréhension détaillée
++ Rendre les abords des écoles plus sûrs et réduire la pollution. | « Vise à sécuriser les abords des écoles et à réduire la pollution respirée par les enfants. »
+- Faire payer le stationnement. | Ce n'est pas dit.
+- Interdire les vélos. | Elle les encourage.
+- Allonger la journée scolaire. | Ce n'est pas évoqué.
+EXP: Le verbe « viser à » introduit les objectifs.
+Q: Quel résultat la mairie constate-t-elle ? | compréhension détaillée
++ Moins d'enfants viennent en voiture. | « La part des enfants venant en voiture est passée de 40 % à 25 %. »
+- Plus d'enfants viennent en voiture. | C'est l'inverse.
+- Tous les enfants viennent à pied. | 25 % viennent encore en voiture.
+- Les écoles ont fermé. | Ce n'est pas dit.
+EXP: Il faut lire correctement l'évolution chiffrée.
+Q: Quelle solution la mairie envisage-t-elle pour les parents mécontents ? | synthèse
++ Des zones de dépose proches, avec un accompagnement à pied. | « Points de dépose-minute à quelques centaines de mètres… accompagnés à pied par des animateurs. »
+- L'abandon de la mesure. | Ce n'est pas dit.
+- Des parkings devant les écoles. | Ce n'est pas proposé.
+- Des cours à distance. | Ce n'est pas évoqué.
+EXP: La solution cherche à concilier la mesure et les contraintes des parents.
+VOCAB: amovible = qu'on peut enlever = Une barrière amovible. ; les abords = les environs immédiats = Les abords de la gare. ; les gaz d'échappement = les gaz rejetés par les moteurs = Les gaz d'échappement polluent l'air. ; se garer = stationner un véhicule = Il est difficile de se garer ici.
+EXPR: depuis la rentrée = depuis le début de l'année scolaire = Il a changé d'école depuis la rentrée. ; être convaincu = être persuadé = Je ne suis pas convaincu. ; perdre du temps = gaspiller du temps = On perd du temps dans les bouchons.
+PIEGES: La fermeture ne dure qu'un quart d'heure avant et après les classes. ; 25 % des enfants viennent encore en voiture. ; Les dépose-minute sont à l'étude, pas encore créés.
+
+## CE-ACT-06 | article de presse
+TITRE: Le prix du café atteint un record
+DOC: Le prix du café sur les marchés internationaux a atteint cette semaine son plus haut niveau depuis près de cinquante ans. En cause, une série de sécheresses et de gelées qui ont fortement réduit les récoltes au Brésil et au Vietnam, les deux premiers producteurs mondiaux. Les stocks disponibles sont au plus bas, alors que la demande mondiale continue de croître, notamment en Asie. ¶ Les torréfacteurs ont déjà commencé à répercuter cette hausse sur leurs prix de vente. Dans les supermarchés, le paquet de café moulu a augmenté de près de 20 % en un an, et les cafés servis au comptoir devraient suivre. ¶ Pour les petits producteurs, la situation est paradoxale. Les prix élevés pourraient leur profiter, mais beaucoup ont perdu une grande partie de leur récolte et ne peuvent donc pas en tirer avantage. Les spécialistes rappellent que le changement climatique menace à long terme les zones de culture du café, dont une partie pourrait devenir impropre à cette production d'ici quelques décennies.
+Q: Pourquoi le prix du café a-t-il fortement augmenté ? | compréhension détaillée
++ Les récoltes ont baissé à cause du climat alors que la demande augmente. | « Une série de sécheresses et de gelées qui ont fortement réduit les récoltes… alors que la demande mondiale continue de croître. »
+- Les consommateurs boivent moins de café. | La demande augmente.
+- Les supermarchés ont augmenté leurs marges. | Ce n'est pas dit.
+- Le Brésil a interdit les exportations. | Ce n'est pas évoqué.
+EXP: « En cause » introduit l'explication.
+Q: Pourquoi la situation est-elle « paradoxale » pour les petits producteurs ? | implicite
++ Les prix sont élevés mais ils ont peu de café à vendre. | « Les prix élevés pourraient leur profiter, mais beaucoup ont perdu une grande partie de leur récolte. »
+- Ils vendent plus cher et gagnent beaucoup plus. | Ce n'est pas le cas pour beaucoup.
+- Ils refusent de vendre leur café. | Ce n'est pas dit.
+- Ils achètent du café en supermarché. | Ce n'est pas évoqué.
+EXP: Le paradoxe vient de l'opposition entre prix élevé et récolte perdue.
+Q: Quelle menace à long terme les spécialistes évoquent-ils ? | synthèse
++ Certaines zones pourraient ne plus permettre de cultiver le café. | « Une partie pourrait devenir impropre à cette production d'ici quelques décennies. »
+- La disparition des torréfacteurs. | Ce n'est pas dit.
+- Une baisse de la demande en Asie. | C'est l'inverse.
+- La fin des supermarchés. | Ce n'est pas évoqué.
+EXP: « Impropre » signifie « qui ne convient pas ».
+VOCAB: une gelée = une période de gel = Les gelées ont détruit les fleurs. ; un torréfacteur = une entreprise qui grille le café = Le torréfacteur prépare les grains. ; répercuter = transmettre une hausse = Répercuter les coûts sur les clients. ; impropre = qui ne convient pas = Une eau impropre à la consommation.
+EXPR: au plus bas = au niveau le plus faible = Le moral est au plus bas. ; tirer avantage de = profiter de = Il a su tirer avantage de la situation. ; au comptoir = au bar d'un café = Prendre un café au comptoir.
+PIEGES: La demande mondiale augmente. ; Les cafés au comptoir « devraient suivre » : ce n'est pas encore le cas. ; Les petits producteurs ne profitent pas tous de la hausse.
+
+## CE-ACT-07 | article de presse
+TITRE: Succès inattendu pour une application de troc entre voisins
+DOC: Lancée il y a deux ans par trois étudiants, une application permettant d'échanger gratuitement des objets et des services entre voisins compte aujourd'hui plus d'un million d'utilisateurs. Le principe est simple : on propose une perceuse, des vêtements d'enfants ou une heure de soutien scolaire, et l'on reçoit en échange des points qui permettent d'obtenir autre chose. Aucun argent ne circule. ¶ Ses fondateurs expliquent ce succès par la hausse du coût de la vie, mais aussi par un besoin de lien social. « Beaucoup d'utilisateurs nous disent qu'ils ont rencontré leurs voisins grâce à l'application, alors qu'ils habitaient le même immeuble depuis des années », raconte l'un d'eux. ¶ Reste à trouver un modèle économique. L'application, gratuite et sans publicité, fonctionne pour l'instant grâce à des subventions et à des dons. Ses fondateurs refusent de vendre les données de leurs utilisateurs et réfléchissent à une version payante destinée aux collectivités, qui souhaiteraient l'utiliser pour animer la vie de quartier.
+Q: Comment fonctionne l'application ? | compréhension détaillée
++ Les utilisateurs échangent objets et services contre des points, sans argent. | « On reçoit en échange des points… Aucun argent ne circule. »
+- Les utilisateurs vendent leurs objets. | Aucun argent ne circule.
+- L'application loue des perceuses. | Ce n'est pas le principe.
+- Les utilisateurs paient un abonnement. | Elle est gratuite.
+EXP: Le troc est un échange sans argent.
+Q: Comment les fondateurs expliquent-ils le succès ? | argumentation
++ Par la hausse du coût de la vie et le besoin de lien social. | « Par la hausse du coût de la vie, mais aussi par un besoin de lien social. »
+- Par une grande campagne de publicité. | L'application est sans publicité.
+- Par l'obligation de l'utiliser. | Ce n'est pas dit.
+- Par la gratuité des perceuses. | Ce n'est pas l'explication.
+EXP: « Mais aussi » ajoute une seconde explication.
+Q: Quel problème l'application doit-elle encore résoudre ? | implicite
++ Trouver des revenus durables sans vendre les données. | « Reste à trouver un modèle économique… refusent de vendre les données. »
+- Trouver des utilisateurs. | Elle en a plus d'un million.
+- Convaincre les voisins de se parler. | C'est déjà un effet constaté.
+- Supprimer les points. | Ce n'est pas dit.
+EXP: « Reste à » introduit ce qui n'est pas encore réglé.
+VOCAB: le troc = l'échange d'objets sans argent = Le troc se développe. ; une perceuse = un outil pour faire des trous = Prête-moi ta perceuse. ; une subvention = une aide financière publique = L'association reçoit une subvention. ; un modèle économique = la manière dont une entreprise gagne de l'argent = Trouver un modèle économique viable.
+EXPR: reste à = il faut encore = Reste à convaincre les clients. ; le lien social = les relations entre les personnes = Les associations renforcent le lien social. ; animer la vie de quartier = organiser des activités locales = Le comité anime la vie de quartier.
+PIEGES: L'application n'a pas de publicité. ; La version payante viserait les collectivités, pas les utilisateurs. ; Les fondateurs refusent de vendre les données.

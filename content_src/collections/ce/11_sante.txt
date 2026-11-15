@@ -1,0 +1,180 @@
+@slug ce-sante
+@section CE
+@title Santé
+@order 11
+@description Articles de santé publique et de vulgarisation médicale : comprendre les recommandations, les données et leurs limites.
+
+## CE-SAN-01 | article de vulgarisation
+TITRE: Le sommeil, grand oublié de la santé
+DOC: Les adultes dorment en moyenne une heure de moins qu'il y a cinquante ans. Écrans le soir, horaires de travail décalés, temps de transport : les causes sont nombreuses. Or le manque de sommeil n'est pas qu'une question de fatigue. Les études l'associent à un risque accru de surpoids, de diabète, de maladies cardiovasculaires et de troubles de l'humeur. ¶ Pendant le sommeil, le cerveau ne se met pas au repos complet. Il consolide les apprentissages de la journée, élimine certains déchets produits par l'activité des neurones et régule les hormones qui contrôlent l'appétit. Un adolescent qui dort mal aura ainsi plus de mal à retenir ses leçons et aura tendance à manger davantage. ¶ Les médecins recommandent des horaires réguliers, une chambre sombre et fraîche, et l'arrêt des écrans au moins une heure avant le coucher. Ils mettent aussi en garde contre l'usage prolongé des somnifères, qui améliorent la durée du sommeil sans en restaurer toute la qualité, et peuvent entraîner une dépendance.
+Q: Selon le texte, le manque de sommeil a-t-il seulement des effets sur la fatigue ? | compréhension détaillée
++ Non, il est associé à plusieurs maladies. | « Les études l'associent à un risque accru de surpoids, de diabète, de maladies cardiovasculaires et de troubles de l'humeur. »
+- Oui, il ne provoque que de la fatigue. | « N'est pas qu'une question de fatigue. »
+- Non, il améliore la mémoire. | C'est l'inverse.
+- Oui, mais seulement chez les enfants. | Ce n'est pas dit.
+EXP: La tournure « n'est pas qu'une question de » annonce d'autres effets.
+Q: Que fait le cerveau pendant le sommeil ? | compréhension détaillée
++ Il consolide les apprentissages et régule certaines hormones. | « Il consolide les apprentissages… élimine certains déchets… régule les hormones qui contrôlent l'appétit. »
+- Il s'arrête complètement. | « Ne se met pas au repos complet. »
+- Il produit des déchets supplémentaires. | Il en élimine.
+- Il oublie tout ce qui a été appris. | C'est l'inverse.
+EXP: L'énumération décrit les fonctions actives du cerveau endormi.
+Q: Pourquoi les médecins se méfient-ils des somnifères ? | argumentation
++ Ils n'offrent pas un sommeil de bonne qualité et peuvent rendre dépendant. | « Améliorent la durée du sommeil sans en restaurer toute la qualité, et peuvent entraîner une dépendance. »
+- Ils empêchent de dormir. | Ils augmentent la durée du sommeil.
+- Ils coûtent trop cher. | Ce n'est pas dit.
+- Ils sont interdits. | Ce n'est pas évoqué.
+EXP: La mise en garde porte sur un « usage prolongé ».
+VOCAB: accru = augmenté = Un risque accru. ; consolider = renforcer, rendre plus solide = Consolider ses connaissances. ; un somnifère = un médicament pour dormir = Il prend un somnifère. ; la dépendance = le besoin de consommer une substance = La dépendance au tabac.
+EXPR: avoir tendance à = être porté à = Il a tendance à exagérer. ; mettre en garde contre = avertir d'un danger = Les médecins mettent en garde contre le tabac. ; se mettre au repos = arrêter de fonctionner = Le corps ne se met jamais totalement au repos.
+PIEGES: Le cerveau reste actif pendant le sommeil. ; Les somnifères augmentent la durée mais pas toute la qualité du sommeil. ; La mise en garde porte sur un usage prolongé.
+
+## CE-SAN-02 | article de presse
+TITRE: Les déserts médicaux s'étendent
+DOC: Dans de nombreuses zones rurales, mais aussi dans certaines banlieues, trouver un médecin traitant devient un parcours du combattant. Près de six millions de personnes n'en ont pas. Les départs à la retraite ne sont pas remplacés, et les jeunes médecins hésitent à s'installer dans des territoires où ils craignent l'isolement et une charge de travail excessive. ¶ Les pouvoirs publics ont multiplié les incitations : aides financières à l'installation, maisons de santé regroupant plusieurs professionnels, développement de la téléconsultation. Les résultats restent limités. Certains élus proposent donc de réguler l'installation des médecins, comme c'est déjà le cas pour les pharmaciens, en limitant les nouvelles installations dans les zones déjà bien pourvues. ¶ Les syndicats de médecins s'y opposent fermement. Ils estiment qu'une contrainte découragerait les étudiants de choisir la médecine générale, déjà peu attractive, et rappellent que le vrai problème est le nombre insuffisant de médecins formés pendant des décennies. Les effets de l'augmentation récente des places en faculté ne se feront sentir que dans une dizaine d'années.
+Q: Pourquoi les jeunes médecins hésitent-ils à s'installer dans certains territoires ? | compréhension détaillée
++ Par crainte d'être isolés et de trop travailler. | « Ils craignent l'isolement et une charge de travail excessive. »
+- Parce que les salaires y sont interdits. | Ce n'est pas dit.
+- Parce qu'il n'y a pas de patients. | C'est l'inverse.
+- Parce que la loi le leur interdit. | Ce n'est pas évoqué.
+EXP: Le verbe « craindre » introduit leurs motifs.
+Q: Que proposent certains élus ? | compréhension détaillée
++ Limiter les nouvelles installations dans les zones déjà bien équipées. | « Réguler l'installation des médecins… en limitant les nouvelles installations dans les zones déjà bien pourvues. »
+- Supprimer les maisons de santé. | Ce n'est pas proposé.
+- Fermer les facultés de médecine. | Ce n'est pas dit.
+- Interdire la téléconsultation. | Ce n'est pas évoqué.
+EXP: L'exemple des pharmaciens sert de modèle.
+Q: Selon les syndicats, quelle est la cause principale du problème ? | argumentation
++ Le nombre trop faible de médecins formés pendant longtemps. | « Le vrai problème est le nombre insuffisant de médecins formés pendant des décennies. »
+- Le manque d'aides financières. | Ce n'est pas leur argument.
+- Le refus des patients de se déplacer. | Ce n'est pas dit.
+- La mauvaise qualité des maisons de santé. | Ce n'est pas évoqué.
+EXP: « Le vrai problème » signale l'explication qu'ils jugent essentielle.
+VOCAB: un médecin traitant = le médecin habituel d'un patient = Choisir son médecin traitant. ; une incitation = une mesure qui encourage = Des incitations fiscales. ; la téléconsultation = une consultation médicale à distance = La téléconsultation se développe. ; pourvu = équipé, fourni = Une région bien pourvue en hôpitaux.
+EXPR: un parcours du combattant = une série de difficultés = Trouver un logement est un parcours du combattant. ; un désert médical = une zone qui manque de médecins = Ce village est devenu un désert médical. ; se faire sentir = devenir perceptible = Les effets se feront sentir plus tard.
+PIEGES: Les déserts médicaux touchent aussi certaines banlieues. ; La régulation existe déjà pour les pharmaciens. ; L'augmentation des places en faculté aura des effets dans dix ans seulement.
+
+## CE-SAN-03 | article de vulgarisation
+TITRE: L'antibiorésistance, menace silencieuse
+DOC: Les antibiotiques ont révolutionné la médecine au XXe siècle. Des infections autrefois mortelles se soignent aujourd'hui en quelques jours. Mais leur usage excessif a favorisé l'apparition de bactéries résistantes, contre lesquelles les traitements habituels ne fonctionnent plus. Ces infections causent déjà plus d'un million de décès par an dans le monde. ¶ Le mécanisme est simple : chaque fois qu'on utilise un antibiotique, les bactéries sensibles meurent, mais les quelques bactéries naturellement résistantes survivent et se multiplient. Prendre des antibiotiques contre un rhume, maladie virale sur laquelle ils n'ont aucun effet, ou interrompre un traitement trop tôt, favorise donc ce phénomène. L'élevage intensif, qui utilise de grandes quantités d'antibiotiques, y contribue aussi largement. ¶ Les campagnes d'information ont permis de réduire la consommation, mais la vigilance reste nécessaire. La recherche de nouveaux antibiotiques, peu rentable pour l'industrie pharmaceutique, avance lentement, et certains experts craignent un retour à une époque où une simple infection pouvait être fatale.
+Q: Qu'est-ce que l'antibiorésistance ? | compréhension détaillée
++ La capacité de certaines bactéries à résister aux antibiotiques. | « Des bactéries résistantes, contre lesquelles les traitements habituels ne fonctionnent plus. »
+- Une allergie aux antibiotiques. | Ce n'est pas le sens.
+- Un nouveau type d'antibiotique. | Ce n'est pas dit.
+- Une maladie virale. | Ce n'est pas le sens.
+EXP: Le mot est formé de « antibiotique » et « résistance ».
+Q: Pourquoi prendre un antibiotique contre un rhume est-il inutile et risqué ? | argumentation
++ Le rhume est viral et l'antibiotique favorise les bactéries résistantes. | « Maladie virale sur laquelle ils n'ont aucun effet… favorise donc ce phénomène. »
+- Le rhume est une infection bactérienne grave. | Le texte dit qu'il est viral.
+- L'antibiotique aggrave toujours le rhume. | Ce n'est pas dit.
+- Les antibiotiques sont trop chers. | Ce n'est pas évoqué.
+EXP: Le mécanisme expliqué juste avant justifie le risque.
+Q: Pourquoi la recherche de nouveaux antibiotiques avance-t-elle lentement ? | compréhension détaillée
++ Parce qu'elle est peu rentable pour les laboratoires. | « Peu rentable pour l'industrie pharmaceutique. »
+- Parce qu'il n'y a plus de bactéries. | C'est faux.
+- Parce que les antibiotiques sont interdits. | Ce n'est pas dit.
+- Parce que les campagnes ont échoué. | Elles ont réduit la consommation.
+EXP: L'adjectif « rentable » renvoie à une logique économique.
+VOCAB: une bactérie = un micro-organisme vivant = Certaines bactéries sont utiles. ; résistant = qui supporte, qui ne cède pas = Une bactérie résistante. ; viral = causé par un virus = Une infection virale. ; fatal = mortel = Une erreur fatale.
+EXPR: une menace silencieuse = un danger qui progresse sans qu'on le remarque = La pollution est une menace silencieuse. ; interrompre un traitement = arrêter un traitement avant la fin = N'interrompez pas votre traitement. ; rester vigilant = continuer à faire attention = Il faut rester vigilant.
+PIEGES: Les antibiotiques n'agissent pas contre les virus. ; L'élevage intensif contribue aussi au problème. ; La consommation a baissé, mais le risque demeure.
+
+## CE-SAN-04 | article de presse
+TITRE: Le sport sur ordonnance
+DOC: Depuis quelques années, les médecins peuvent prescrire une activité physique adaptée à certains patients atteints de maladies chroniques, comme le diabète, l'obésité ou certains cancers. Les études montrent en effet que l'exercice régulier réduit la fatigue, améliore l'efficacité des traitements et diminue le risque de rechute. Pour certaines pathologies, ses effets sont comparables à ceux d'un médicament. ¶ Dans la pratique, le dispositif peine à se généraliser. Les séances, encadrées par des professionnels formés, ne sont pas remboursées par l'assurance maladie, sauf exceptions locales ou prises en charge par certaines mutuelles. Beaucoup de patients renoncent donc pour des raisons financières, alors que ce sont souvent les plus modestes qui en auraient le plus besoin. ¶ Les médecins eux-mêmes manquent parfois d'informations sur les structures existantes près de chez eux. Plusieurs régions ont créé des plateformes qui orientent les patients vers des associations sportives ou des clubs labellisés. Les associations de patients réclament un remboursement national, qui permettrait, selon elles, de réaliser des économies à long terme.
+Q: Pourquoi les médecins prescrivent-ils une activité physique ? | compréhension détaillée
++ Parce qu'elle améliore l'état de santé de patients atteints de maladies chroniques. | « Réduit la fatigue, améliore l'efficacité des traitements et diminue le risque de rechute. »
+- Pour remplacer tous les médicaments. | Ce n'est pas dit.
+- Pour faire perdre du poids à tous les patients. | Ce n'est pas l'unique objectif.
+- Parce que c'est obligatoire. | Ce n'est pas évoqué.
+EXP: Les effets cités justifient la prescription.
+Q: Pourquoi le dispositif peine-t-il à se généraliser ? | argumentation
++ Les séances ne sont généralement pas remboursées. | « Les séances… ne sont pas remboursées par l'assurance maladie, sauf exceptions. »
+- Les patients n'aiment pas le sport. | Ce n'est pas dit.
+- Les médecins refusent de le prescrire. | Ce n'est pas l'argument principal.
+- Les clubs sportifs ferment. | Ce n'est pas évoqué.
+EXP: « Dans la pratique » introduit l'écart entre le principe et son application.
+Q: Pourquoi les associations de patients réclament-elles un remboursement national ? | implicite
++ Elles pensent qu'il permettrait de réduire les dépenses de santé à long terme. | « Qui permettrait, selon elles, de réaliser des économies à long terme. »
+- Pour financer les mutuelles. | Ce n'est pas dit.
+- Pour fermer les plateformes régionales. | Ce n'est pas évoqué.
+- Pour augmenter le prix des séances. | Ce n'est pas le sens.
+EXP: « Selon elles » indique qu'il s'agit de leur argument, non d'un fait établi.
+VOCAB: prescrire = recommander par ordonnance = Le médecin a prescrit du repos. ; chronique = qui dure longtemps = Une maladie chronique. ; une rechute = le retour d'une maladie = Il a fait une rechute. ; une mutuelle = une assurance santé complémentaire = Sa mutuelle rembourse les lunettes.
+EXPR: sur ordonnance = sur prescription médicale = Ce médicament est vendu sur ordonnance. ; peiner à = avoir du mal à = Il peine à se concentrer. ; prendre en charge = payer, rembourser = Les frais sont pris en charge.
+PIEGES: Certaines mutuelles ou régions remboursent déjà les séances. ; Le sport ne remplace pas tous les médicaments. ; L'argument des économies est celui des associations.
+
+## CE-SAN-05 | article de presse
+TITRE: La santé mentale des étudiants préoccupe
+DOC: Anxiété, troubles du sommeil, sentiment d'isolement : selon une enquête récente, près d'un étudiant sur trois présente des signes de détresse psychologique. Les causes sont multiples : pression des examens, précarité financière, incertitude sur l'avenir professionnel, et pour beaucoup, l'éloignement familial lors de l'entrée dans l'enseignement supérieur. ¶ Les services de santé universitaires sont débordés. Dans certaines universités, il faut attendre plusieurs semaines pour obtenir un rendez-vous avec un psychologue, alors que la souffrance appelle souvent une réponse rapide. Un dispositif national permet désormais aux étudiants de bénéficier de quelques séances gratuites chez un psychologue de ville, mais il reste mal connu. ¶ Au-delà des soins, les spécialistes insistent sur la prévention : rompre l'isolement grâce à la vie associative, former les enseignants à repérer les signes d'alerte, et surtout lever le tabou qui entoure encore la santé mentale. Beaucoup d'étudiants hésitent à demander de l'aide, de peur d'être jugés faibles.
+Q: Quelles causes de détresse le texte cite-t-il ? | compréhension détaillée
++ La pression scolaire, les difficultés financières et l'incertitude sur l'avenir. | « Pression des examens, précarité financière, incertitude sur l'avenir professionnel. »
+- Le manque de cours. | Ce n'est pas dit.
+- La trop grande facilité des études. | C'est l'inverse.
+- La présence trop forte des familles. | C'est l'éloignement qui est cité.
+EXP: Le texte énumère plusieurs causes après les deux-points.
+Q: Quel problème pose le dispositif national de séances gratuites ? | compréhension détaillée
++ Il est peu connu des étudiants. | « Mais il reste mal connu. »
+- Il est trop cher. | Les séances sont gratuites.
+- Il est réservé aux enseignants. | Ce n'est pas dit.
+- Il a été supprimé. | Il existe « désormais ».
+EXP: « Mais » introduit la limite du dispositif.
+Q: Pourquoi beaucoup d'étudiants hésitent-ils à demander de l'aide ? | implicite
++ Ils craignent d'être perçus comme faibles. | « De peur d'être jugés faibles. »
+- Ils n'ont pas de téléphone. | Ce n'est pas dit.
+- Ils ne souffrent pas vraiment. | Ce n'est pas le sens.
+- Ils préfèrent les médicaments. | Ce n'est pas évoqué.
+EXP: Le « tabou » explique la difficulté à demander de l'aide.
+VOCAB: la détresse = une souffrance profonde = Une personne en détresse. ; la précarité = une situation instable, fragile = La précarité étudiante. ; débordé = qui a trop de travail = Le service est débordé. ; un signe d'alerte = un signal qui indique un danger = Repérer les signes d'alerte.
+EXPR: rompre l'isolement = sortir de la solitude = Les associations aident à rompre l'isolement. ; lever un tabou = permettre de parler d'un sujet évité = Il faut lever le tabou de la dépression. ; appeler une réponse = exiger une réaction = Cette situation appelle une réponse rapide.
+PIEGES: Le délai d'attente concerne certaines universités, pas toutes. ; Le dispositif existe mais est mal connu. ; La prévention est présentée comme complémentaire aux soins.
+
+## CE-SAN-06 | article de vulgarisation
+TITRE: Les aliments ultra-transformés sous surveillance
+DOC: Plats préparés, céréales sucrées, sodas, charcuteries industrielles : les aliments ultra-transformés représentent désormais plus d'un tiers des calories consommées en France, et bien davantage dans certains pays. On les reconnaît à leur longue liste d'ingrédients, qui comprend souvent des additifs, des arômes ou des substances qu'on ne trouve pas dans une cuisine ordinaire. ¶ Plusieurs grandes études ont associé leur consommation élevée à un risque accru d'obésité, de maladies cardiovasculaires et de certains cancers. Les chercheurs restent prudents sur les mécanismes : est-ce leur composition nutritionnelle, souvent riche en sucre, en sel et en graisses, ou la transformation elle-même qui pose problème ? Les deux hypothèses sont étudiées. ¶ En attendant, les recommandations sont simples : privilégier les produits bruts ou peu transformés, cuisiner davantage soi-même, et lire attentivement les étiquettes. Les nutritionnistes rappellent toutefois qu'il ne s'agit pas de culpabiliser : ces produits répondent souvent à un manque de temps ou de moyens, et c'est leur consommation quotidienne, non occasionnelle, qui est en cause.
+Q: Comment reconnaît-on un aliment ultra-transformé ? | compréhension détaillée
++ À sa longue liste d'ingrédients comprenant des additifs. | « On les reconnaît à leur longue liste d'ingrédients, qui comprend souvent des additifs, des arômes… »
+- À son prix élevé. | Ce n'est pas dit.
+- À son emballage en carton. | Ce n'est pas évoqué.
+- À sa couleur. | Ce n'est pas mentionné.
+EXP: Le texte donne un critère pratique de reconnaissance.
+Q: Sur quel point les chercheurs restent-ils prudents ? | argumentation
++ Sur la raison exacte pour laquelle ces aliments sont nocifs. | « Les chercheurs restent prudents sur les mécanismes. »
+- Sur l'existence d'un lien avec les maladies. | Les études ont établi une association.
+- Sur la quantité consommée en France. | Elle est chiffrée.
+- Sur l'intérêt de cuisiner. | Ce n'est pas discuté.
+EXP: La question entre composition et transformation reste ouverte.
+Q: Que rappellent les nutritionnistes ? | implicite
++ C'est la consommation régulière, et non ponctuelle, qui pose problème. | « C'est leur consommation quotidienne, non occasionnelle, qui est en cause. »
+- Il faut interdire ces produits. | Ce n'est pas dit.
+- Ces produits sont sans danger. | Ce n'est pas le sens.
+- Les consommateurs sont responsables de tout. | Ils refusent de culpabiliser.
+EXP: La nuance finale évite un discours moralisateur.
+VOCAB: un additif = une substance ajoutée à un aliment = Les colorants sont des additifs. ; brut = qui n'a pas été transformé = Des produits bruts. ; nocif = dangereux pour la santé = Le tabac est nocif. ; culpabiliser = faire se sentir coupable = Il ne faut pas culpabiliser les parents.
+EXPR: sous surveillance = observé de près = Ce produit est sous surveillance. ; en attendant = pendant ce temps, d'ici là = En attendant les résultats, restez prudents. ; être en cause = être responsable = Ce n'est pas le produit qui est en cause.
+PIEGES: Le lien est une « association », les mécanismes ne sont pas établis. ; Les nutritionnistes ne demandent pas l'interdiction. ; La consommation occasionnelle n'est pas visée.
+
+## CE-SAN-07 | article de presse
+TITRE: La vaccination contre la grippe chez les soignants
+DOC: Chaque hiver, la grippe saisonnière provoque plusieurs milliers de décès, principalement chez les personnes âgées et fragiles. Les autorités sanitaires recommandent la vaccination des soignants, qui peuvent transmettre le virus à des patients vulnérables. Pourtant, moins d'un tiers des personnels des hôpitaux et des maisons de retraite se font vacciner. ¶ Les raisons de ce faible taux sont diverses. Certains soignants doutent de l'efficacité du vaccin, qui varie d'une année à l'autre selon les souches en circulation. D'autres craignent des effets secondaires, pourtant généralement bénins. Beaucoup invoquent tout simplement le manque de temps. ¶ Plusieurs établissements ont obtenu de meilleurs résultats en organisant la vaccination directement sur le lieu de travail, à toute heure, et en expliquant ses bénéfices lors de réunions d'équipe. L'idée d'une obligation revient régulièrement dans le débat, mais elle se heurte à la crainte de nouvelles démissions dans un secteur déjà en manque de personnel.
+Q: Pourquoi recommande-t-on la vaccination des soignants ? | compréhension détaillée
++ Pour éviter qu'ils transmettent la grippe à des patients fragiles. | « Qui peuvent transmettre le virus à des patients vulnérables. »
+- Parce qu'ils sont plus malades que les autres. | Ce n'est pas dit.
+- Pour remplacer la vaccination des patients. | Ce n'est pas évoqué.
+- Parce que le vaccin est obligatoire. | Il est recommandé.
+EXP: Le relatif « qui » introduit la justification.
+Q: Quelle raison du faible taux de vaccination n'est PAS citée ? | compréhension détaillée
++ Le prix trop élevé du vaccin. | Le coût n'est pas mentionné.
+- Des doutes sur l'efficacité. | « Certains soignants doutent de l'efficacité du vaccin. »
+- La peur des effets secondaires. | « D'autres craignent des effets secondaires. »
+- Le manque de temps. | « Beaucoup invoquent… le manque de temps. »
+EXP: Il faut repérer la raison absente.
+Q: Pourquoi l'obligation vaccinale est-elle difficile à imposer ? | argumentation
++ Par crainte de départs dans un secteur qui manque déjà de personnel. | « Elle se heurte à la crainte de nouvelles démissions dans un secteur déjà en manque de personnel. »
+- Parce que le vaccin est inefficace. | Ce n'est pas l'argument.
+- Parce que la loi l'interdit. | Ce n'est pas dit.
+- Parce que les patients s'y opposent. | Ce n'est pas évoqué.
+EXP: « Se heurter à » signifie rencontrer un obstacle.
+VOCAB: saisonnier = qui revient à chaque saison = La grippe saisonnière. ; vulnérable = fragile, facilement atteint = Les personnes vulnérables. ; une souche = une variété d'un virus = Une nouvelle souche du virus. ; bénin = sans gravité = Des effets bénins.
+EXPR: se heurter à = rencontrer un obstacle = Le projet se heurte à des difficultés. ; à toute heure = à n'importe quel moment = Le service est ouvert à toute heure. ; revenir dans le débat = être de nouveau discuté = La question revient dans le débat.
+PIEGES: Les effets secondaires sont « généralement bénins ». ; L'efficacité varie selon les années. ; La question négative demande l'élément absent.

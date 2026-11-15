@@ -1,0 +1,1183 @@
+{
+ "slug": "ce-documents-administratifs",
+ "section": "CE",
+ "title": "Documents administratifs complexes",
+ "description": "Courriers officiels, règlements, contrats et notices : repérer les obligations, les délais, les conditions et les exceptions.",
+ "order": 13,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CE-ADM-01",
+   "level": "B2",
+   "doc_type": "courrier administratif",
+   "questions": [
+    {
+     "prompt": "Quel est l'objet principal de ce courrier ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Convoquer à un rendez-vous.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Demander des documents manquants pour continuer l'examen du dossier.",
+       "correct": true,
+       "rationale": "« Votre dossier est incomplet. Afin de poursuivre son instruction, nous vous prions de bien vouloir nous transmettre… les pièces suivantes. »",
+       "label": "B"
+      },
+      {
+       "text": "Annoncer le refus du titre de séjour.",
+       "correct": false,
+       "rationale": "Le dossier est encore en cours d'examen.",
+       "label": "C"
+      },
+      {
+       "text": "Informer de l'acceptation de la demande.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La formule « Afin de poursuivre son instruction » indique que la procédure continue."
+    },
+    {
+     "prompt": "Comment les documents doivent-ils être transmis ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Uniquement par l'espace personnel en ligne.",
+       "correct": true,
+       "rationale": "« Ces documents doivent être déposés exclusivement sur votre espace personnel en ligne. »",
+       "label": "A"
+      },
+      {
+       "text": "En main propre au guichet.",
+       "correct": false,
+       "rationale": "Ce n'est pas proposé.",
+       "label": "B"
+      },
+      {
+       "text": "Par courriel.",
+       "correct": false,
+       "rationale": "« Ne seront pas pris en compte. »",
+       "label": "C"
+      },
+      {
+       "text": "Par courrier postal.",
+       "correct": false,
+       "rationale": "« Ne seront pas pris en compte. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Exclusivement » exclut tout autre moyen."
+    },
+    {
+     "prompt": "Que se passe-t-il si les pièces ne sont pas envoyées dans les trente jours ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Le délai sera automatiquement prolongé.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Le titre de séjour sera accordé.",
+       "correct": false,
+       "rationale": "Ce n'est pas le cas.",
+       "label": "B"
+      },
+      {
+       "text": "Le récépissé sera immédiatement annulé.",
+       "correct": false,
+       "rationale": "Le texte dit qu'il reste valable jusqu'à sa date.",
+       "label": "C"
+      },
+      {
+       "text": "La demande sera abandonnée et il faudra refaire un dossier.",
+       "correct": true,
+       "rationale": "« Votre demande sera classée sans suite, et il vous appartiendra de déposer un nouveau dossier. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Classée sans suite » signifie que la demande ne sera pas traitée."
+    }
+   ],
+   "title": "Demande de pièces complémentaires",
+   "document": "Madame, Monsieur, nous accusons réception de votre demande de renouvellement de titre de séjour, déposée le 3 mars. Après examen, votre dossier est incomplet. Afin de poursuivre son instruction, nous vous prions de bien vouloir nous transmettre, dans un délai de trente jours à compter de la date du présent courrier, les pièces suivantes : un justificatif de domicile de moins de trois mois, vos trois derniers bulletins de salaire et une copie de votre contrat de travail en cours.\n\nCes documents doivent être déposés exclusivement sur votre espace personnel en ligne. Les envois par courrier postal ou par courriel ne seront pas pris en compte.\n\nÀ défaut de réception des pièces demandées dans le délai imparti, votre demande sera classée sans suite, et il vous appartiendra de déposer un nouveau dossier. Nous vous rappelons que le récépissé qui vous a été remis lors du dépôt reste valable jusqu'à la date qui y figure ; il vous autorise à séjourner et à travailler en France pendant l'instruction de votre demande.",
+   "vocabulary": [
+    {
+     "terme": "l'instruction",
+     "definition": "l'examen d'un dossier par l'administration",
+     "exemple": "Le dossier est en cours d'instruction."
+    },
+    {
+     "terme": "un justificatif",
+     "definition": "un document qui prouve quelque chose",
+     "exemple": "Un justificatif de domicile."
+    },
+    {
+     "terme": "imparti",
+     "definition": "accordé, fixé",
+     "exemple": "Dans le délai imparti."
+    },
+    {
+     "terme": "un récépissé",
+     "definition": "un document qui prouve qu'un dossier a été déposé",
+     "exemple": "Conservez votre récépissé."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "accuser réception",
+     "sens": "confirmer avoir reçu",
+     "exemple": "Nous accusons réception de votre lettre."
+    },
+    {
+     "expression": "à compter de",
+     "sens": "à partir de",
+     "exemple": "À compter du 1er janvier."
+    },
+    {
+     "expression": "classer sans suite",
+     "sens": "ne pas donner suite à une demande",
+     "exemple": "La plainte a été classée sans suite."
+    },
+    {
+     "expression": "il vous appartient de",
+     "sens": "c'est à vous de",
+     "exemple": "Il vous appartient de vérifier ces informations."
+    }
+   ],
+   "traps": [
+    "Le délai court à partir de la date du courrier, pas du dépôt.",
+    "Les envois par courriel ne sont pas acceptés.",
+    "Le récépissé reste valable pendant l'instruction."
+   ]
+  },
+  {
+   "code": "CE-ADM-02",
+   "level": "B2",
+   "doc_type": "règlement intérieur",
+   "questions": [
+    {
+     "prompt": "Dans quel cas un prêt ne peut-il pas être prolongé ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Quand l'usager est étudiant.",
+       "correct": false,
+       "rationale": "Ce n'est pas une condition.",
+       "label": "A"
+      },
+      {
+       "text": "Quand l'usager habite la commune.",
+       "correct": false,
+       "rationale": "Ce n'est pas une condition.",
+       "label": "B"
+      },
+      {
+       "text": "Quand un autre usager a réservé le document.",
+       "correct": true,
+       "rationale": "« À condition que le document ne soit pas réservé par un autre usager. »",
+       "label": "C"
+      },
+      {
+       "text": "Quand le document est un livre.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« À condition que » introduit la condition de la prolongation."
+    },
+    {
+     "prompt": "Que se passe-t-il après un retard de plus de quinze jours ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "L'usager ne peut plus emprunter tant qu'il n'a pas rendu les documents.",
+       "correct": true,
+       "rationale": "« Le droit d'emprunter est suspendu jusqu'à la restitution des documents. »",
+       "label": "A"
+      },
+      {
+       "text": "L'inscription est définitivement annulée.",
+       "correct": false,
+       "rationale": "La suspension est temporaire.",
+       "label": "B"
+      },
+      {
+       "text": "Une amende est immédiatement payée.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Les documents sont offerts à l'usager.",
+       "correct": false,
+       "rationale": "Ce n'est pas le cas.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Jusqu'à » indique que la sanction cesse avec la restitution."
+    },
+    {
+     "prompt": "Pourquoi faut-il signaler une détérioration au moment du prêt ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Pour prolonger le prêt.",
+       "correct": false,
+       "rationale": "Ce n'est pas le lien.",
+       "label": "A"
+      },
+      {
+       "text": "Pour obtenir un document gratuit.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Pour être remboursé.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "C"
+      },
+      {
+       "text": "Pour ne pas être considéré comme responsable du dommage.",
+       "correct": true,
+       "rationale": "« Faute de quoi ils pourront en être tenus responsables. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Faute de quoi » signifie « sinon »."
+    }
+   ],
+   "title": "Règlement d'une médiathèque",
+   "document": "Article 4 – Prêt des documents. L'inscription est gratuite pour les habitants de la commune et les étudiants ; elle est payante pour les autres usagers, selon les tarifs votés par le conseil municipal. Chaque usager inscrit peut emprunter simultanément dix documents, dont deux jeux vidéo au maximum, pour une durée de trois semaines. Le prêt peut être prolongé une fois, pour la même durée, à condition que le document ne soit pas réservé par un autre usager.\n\nArticle 5 – Retards. En cas de retard supérieur à quinze jours, le droit d'emprunter est suspendu jusqu'à la restitution des documents. Après trois rappels restés sans réponse, la médiathèque se réserve le droit d'engager une procédure de recouvrement.\n\nArticle 6 – Documents perdus ou détériorés. Tout document perdu ou rendu en mauvais état doit être remplacé par l'usager à l'identique ou, si cela est impossible, remboursé au prix d'achat. Les usagers sont invités à signaler toute détérioration constatée au moment du prêt, faute de quoi ils pourront en être tenus responsables.",
+   "vocabulary": [
+    {
+     "terme": "simultanément",
+     "definition": "en même temps",
+     "exemple": "Il gère plusieurs projets simultanément."
+    },
+    {
+     "terme": "la restitution",
+     "definition": "le fait de rendre",
+     "exemple": "La restitution des clés."
+    },
+    {
+     "terme": "le recouvrement",
+     "definition": "l'action de récupérer une somme due",
+     "exemple": "Une procédure de recouvrement."
+    },
+    {
+     "terme": "détérioré",
+     "definition": "abîmé",
+     "exemple": "Un livre détérioré."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "se réserver le droit de",
+     "sens": "garder la possibilité de",
+     "exemple": "L'organisateur se réserve le droit d'annuler."
+    },
+    {
+     "expression": "à l'identique",
+     "sens": "exactement pareil",
+     "exemple": "Remplacer une pièce à l'identique."
+    },
+    {
+     "expression": "faute de quoi",
+     "sens": "sinon",
+     "exemple": "Payez avant le 10, faute de quoi des frais s'appliqueront."
+    }
+   ],
+   "traps": [
+    "Seuls deux jeux vidéo peuvent être empruntés parmi les dix documents.",
+    "La prolongation n'est possible qu'une seule fois.",
+    "Le remboursement n'intervient que si le remplacement est impossible."
+   ]
+  },
+  {
+   "code": "CE-ADM-03",
+   "level": "B2",
+   "doc_type": "contrat de location",
+   "questions": [
+    {
+     "prompt": "Que se passe-t-il à la fin des trois ans si personne ne donne congé ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Un nouveau contrat doit être signé.",
+       "correct": false,
+       "rationale": "La reconduction est tacite.",
+       "label": "A"
+      },
+      {
+       "text": "Le bail est automatiquement renouvelé pour trois ans.",
+       "correct": true,
+       "rationale": "« Il sera reconduit tacitement pour la même durée. »",
+       "label": "B"
+      },
+      {
+       "text": "Le locataire doit quitter le logement.",
+       "correct": false,
+       "rationale": "Ce n'est pas le cas.",
+       "label": "C"
+      },
+      {
+       "text": "Le loyer double.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Tacitement » signifie sans qu'il soit nécessaire de le dire ou de l'écrire."
+    },
+    {
+     "prompt": "Dans quel cas le préavis du locataire est-il d'un mois ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Quand le propriétaire le demande.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Dans tous les cas.",
+       "correct": false,
+       "rationale": "Le préavis normal est de trois mois.",
+       "label": "B"
+      },
+      {
+       "text": "En cas de perte d'emploi.",
+       "correct": true,
+       "rationale": "La perte d'emploi figure dans la liste des cas de préavis réduit.",
+       "label": "C"
+      },
+      {
+       "text": "Quand le locataire part en vacances.",
+       "correct": false,
+       "rationale": "Ce n'est pas un motif prévu.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le texte énumère les situations qui réduisent le préavis."
+    },
+    {
+     "prompt": "Quand le dépôt de garantie est-il rendu en deux mois ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Quand le locataire a payé tous ses loyers.",
+       "correct": false,
+       "rationale": "Ce n'est pas la condition.",
+       "label": "A"
+      },
+      {
+       "text": "Dans tous les cas.",
+       "correct": false,
+       "rationale": "Le délai normal est d'un mois.",
+       "label": "B"
+      },
+      {
+       "text": "Quand le bail est reconduit.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Quand l'état du logement à la sortie diffère de celui à l'entrée.",
+       "correct": true,
+       "rationale": "« De deux mois dans le cas contraire », c'est-à-dire si l'état des lieux n'est pas conforme.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Dans le cas contraire » renvoie à la condition précédente."
+    }
+   ],
+   "title": "Extrait d'un bail d'habitation",
+   "document": "Durée du bail. Le présent contrat est conclu pour une durée de trois ans à compter de la date de prise d'effet. À son terme, il sera reconduit tacitement pour la même durée, sauf congé donné par l'une des parties dans les conditions prévues ci-dessous.\n\nCongé donné par le locataire. Le locataire peut mettre fin au bail à tout moment, sous réserve de respecter un préavis de trois mois. Ce préavis est réduit à un mois en cas de mutation professionnelle, de perte d'emploi, d'obtention d'un premier emploi, ou si le logement est situé dans une zone où le marché locatif est tendu. Le congé doit être adressé par lettre recommandée avec accusé de réception, remis en main propre contre signature, ou signifié par huissier.\n\nDépôt de garantie. Le locataire verse un dépôt de garantie équivalent à un mois de loyer hors charges. Il lui sera restitué dans un délai d'un mois après la remise des clés si l'état des lieux de sortie est conforme à celui d'entrée, et de deux mois dans le cas contraire, déduction faite des sommes éventuellement dues.",
+   "vocabulary": [
+    {
+     "terme": "un bail",
+     "definition": "un contrat de location",
+     "exemple": "Signer un bail."
+    },
+    {
+     "terme": "reconduire",
+     "definition": "renouveler",
+     "exemple": "Le contrat est reconduit chaque année."
+    },
+    {
+     "terme": "un préavis",
+     "definition": "un délai à respecter avant de partir",
+     "exemple": "Un préavis de trois mois."
+    },
+    {
+     "terme": "un état des lieux",
+     "definition": "la description de l'état d'un logement",
+     "exemple": "L'état des lieux d'entrée."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "sous réserve de",
+     "sens": "à condition de",
+     "exemple": "Sous réserve d'acceptation."
+    },
+    {
+     "expression": "en main propre",
+     "sens": "directement à la personne",
+     "exemple": "Remettre une lettre en main propre."
+    },
+    {
+     "expression": "déduction faite de",
+     "sens": "après avoir retiré",
+     "exemple": "Le solde vous sera versé, déduction faite des frais."
+    }
+   ],
+   "traps": [
+    "Le préavis normal du locataire est de trois mois.",
+    "Le dépôt de garantie correspond au loyer hors charges.",
+    "La reconduction est automatique sauf congé."
+   ]
+  },
+  {
+   "code": "CE-ADM-04",
+   "level": "B2",
+   "doc_type": "notice officielle",
+   "questions": [
+    {
+     "prompt": "Quelle condition concerne l'occupation du logement ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Il doit être une résidence secondaire.",
+       "correct": false,
+       "rationale": "Il doit être la résidence principale.",
+       "label": "A"
+      },
+      {
+       "text": "Il doit être habité au moins huit mois par an.",
+       "correct": true,
+       "rationale": "« Être occupé au moins huit mois par an. »",
+       "label": "B"
+      },
+      {
+       "text": "Il doit être acheté par le demandeur.",
+       "correct": false,
+       "rationale": "Les locataires peuvent en bénéficier.",
+       "label": "C"
+      },
+      {
+       "text": "Il doit être occupé toute l'année.",
+       "correct": false,
+       "rationale": "Huit mois suffisent.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« C'est-à-dire » introduit la définition de la résidence principale."
+    },
+    {
+     "prompt": "À qui l'aide est-elle généralement versée ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Au propriétaire, qui la déduit du loyer.",
+       "correct": true,
+       "rationale": "« Elle est en principe versée directement au propriétaire, qui la déduit du loyer. »",
+       "label": "A"
+      },
+      {
+       "text": "À la mairie.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Toujours au locataire.",
+       "correct": false,
+       "rationale": "Ce n'est le cas que sous conditions.",
+       "label": "C"
+      },
+      {
+       "text": "À la banque.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« En principe » indique la règle générale, suivie d'une exception."
+    },
+    {
+     "prompt": "Que doit faire le bénéficiaire en cas de naissance ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Attendre le renouvellement annuel.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Déménager.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "B"
+      },
+      {
+       "text": "La déclarer dans le mois suivant.",
+       "correct": true,
+       "rationale": "« Tout changement de situation, comme une naissance… doit être déclaré dans le mois qui suit. »",
+       "label": "C"
+      },
+      {
+       "text": "Rien, l'aide est fixe.",
+       "correct": false,
+       "rationale": "Elle dépend de la composition du foyer.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La naissance est citée comme exemple de changement de situation."
+    }
+   ],
+   "title": "Aide au logement : conditions d'attribution",
+   "document": "L'aide personnalisée au logement est destinée à réduire le montant du loyer ou des mensualités de prêt des personnes aux ressources modestes. Elle peut être accordée aux locataires, aux colocataires et, sous certaines conditions, aux propriétaires qui remboursent un prêt pour leur résidence principale.\n\nPour en bénéficier, le logement doit constituer la résidence principale du demandeur, c'est-à-dire être occupé au moins huit mois par an. Il doit également répondre à des critères de décence, notamment en matière de surface minimale et d'équipements. Le montant de l'aide dépend des ressources du foyer, de la composition de la famille, du montant du loyer et de la zone géographique.\n\nL'aide n'est pas versée si son montant mensuel est inférieur à dix euros. Elle est en principe versée directement au propriétaire, qui la déduit du loyer, sauf si le locataire en fait la demande et que le propriétaire n'est pas un organisme de logement social. Tout changement de situation, comme une naissance, un déménagement ou une variation de revenus, doit être déclaré dans le mois qui suit.",
+   "vocabulary": [
+    {
+     "terme": "une mensualité",
+     "definition": "une somme payée chaque mois",
+     "exemple": "Les mensualités du prêt."
+    },
+    {
+     "terme": "la décence",
+     "definition": "ici, le respect de normes minimales de confort",
+     "exemple": "Un logement qui respecte les critères de décence."
+    },
+    {
+     "terme": "le foyer",
+     "definition": "l'ensemble des personnes vivant sous le même toit",
+     "exemple": "Les revenus du foyer."
+    },
+    {
+     "terme": "déduire",
+     "definition": "soustraire",
+     "exemple": "Déduire une somme du total."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "sous certaines conditions",
+     "sens": "seulement dans certains cas",
+     "exemple": "L'aide est accordée sous certaines conditions."
+    },
+    {
+     "expression": "en principe",
+     "sens": "normalement, sauf exception",
+     "exemple": "En principe, le bureau est ouvert le lundi."
+    },
+    {
+     "expression": "en matière de",
+     "sens": "dans le domaine de",
+     "exemple": "En matière de sécurité, il faut être prudent."
+    }
+   ],
+   "traps": [
+    "Les propriétaires peuvent en bénéficier « sous certaines conditions ».",
+    "L'aide n'est pas versée en dessous de dix euros par mois.",
+    "Le versement au locataire est une exception."
+   ]
+  },
+  {
+   "code": "CE-ADM-05",
+   "level": "B2",
+   "doc_type": "conditions générales",
+   "questions": [
+    {
+     "prompt": "Combien paie un client qui annule vingt jours avant le départ ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Rien.",
+       "correct": false,
+       "rationale": "Des frais s'appliquent toujours.",
+       "label": "A"
+      },
+      {
+       "text": "La totalité du prix.",
+       "correct": false,
+       "rationale": "C'est pour moins de quinze jours.",
+       "label": "B"
+      },
+      {
+       "text": "La moitié du prix total.",
+       "correct": true,
+       "rationale": "« Entre trente et quinze jours, 50 %. »",
+       "label": "C"
+      },
+      {
+       "text": "10 % du prix.",
+       "correct": false,
+       "rationale": "C'est pour une annulation à plus de trente jours.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Il faut situer vingt jours dans la bonne tranche."
+    },
+    {
+     "prompt": "Dans quel cas l'organisateur ne verse-t-il pas d'indemnité en annulant ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Si le nombre minimum de participants n'est pas atteint.",
+       "correct": true,
+       "rationale": "« Sauf en cas de force majeure ou si le nombre minimum de participants n'est pas atteint. »",
+       "label": "A"
+      },
+      {
+       "text": "Si le séjour est à l'étranger.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Si le client a réservé en ligne.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "S'il annule trois jours avant.",
+       "correct": false,
+       "rationale": "Ce n'est pas une exception prévue.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Sauf » introduit les exceptions."
+    },
+    {
+     "prompt": "Quand peut-on souscrire l'assurance annulation ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Uniquement pour les séjours longs.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Seulement après une maladie.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "B"
+      },
+      {
+       "text": "À tout moment, même la veille du départ.",
+       "correct": false,
+       "rationale": "Ce n'est pas possible après le solde.",
+       "label": "C"
+      },
+      {
+       "text": "Au moment de la réservation, et pas après le paiement du solde.",
+       "correct": true,
+       "rationale": "« Au moment de la réservation… Elle ne peut pas être souscrite après le paiement du solde. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les deux phrases fixent la période possible."
+    }
+   ],
+   "title": "Conditions d'annulation d'un séjour",
+   "document": "Article 8 – Annulation par le client. Toute annulation doit être notifiée par écrit. Les frais d'annulation sont calculés en fonction de la date de réception de la demande par rapport à la date de début du séjour : plus de trente jours avant le départ, une retenue de 10 % du prix total est appliquée ; entre trente et quinze jours, 50 % ; moins de quinze jours avant le départ, la totalité du séjour est due.\n\nLes frais de dossier, d'un montant de 25 euros, ne sont en aucun cas remboursables.\n\nArticle 9 – Annulation par l'organisateur. Si l'organisateur annule le séjour, sauf en cas de force majeure ou si le nombre minimum de participants n'est pas atteint, le client est remboursé intégralement et reçoit une indemnité égale à celle qu'il aurait supportée s'il avait lui-même annulé à cette date.\n\nArticle 10 – Assurance. Le client peut souscrire une assurance annulation au moment de la réservation. Celle-ci couvre notamment la maladie, l'accident ou le décès d'un proche, sur présentation de justificatifs. Elle ne peut pas être souscrite après le paiement du solde.",
+   "vocabulary": [
+    {
+     "terme": "notifier",
+     "definition": "informer officiellement",
+     "exemple": "Notifier une décision."
+    },
+    {
+     "terme": "une retenue",
+     "definition": "une somme gardée",
+     "exemple": "Une retenue sur salaire."
+    },
+    {
+     "terme": "la force majeure",
+     "definition": "un événement imprévisible et irrésistible",
+     "exemple": "Une tempête est un cas de force majeure."
+    },
+    {
+     "terme": "le solde",
+     "definition": "la somme qui reste à payer",
+     "exemple": "Payer le solde avant le départ."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "en aucun cas",
+     "sens": "jamais",
+     "exemple": "Ce document ne doit en aucun cas être modifié."
+    },
+    {
+     "expression": "souscrire une assurance",
+     "sens": "signer un contrat d'assurance",
+     "exemple": "Il a souscrit une assurance voyage."
+    },
+    {
+     "expression": "sur présentation de",
+     "sens": "en montrant",
+     "exemple": "Gratuit sur présentation de la carte étudiant."
+    }
+   ],
+   "traps": [
+    "Les frais de dossier ne sont jamais remboursés.",
+    "La date prise en compte est celle de réception de la demande.",
+    "L'organisateur ne verse pas d'indemnité en cas de force majeure."
+   ]
+  },
+  {
+   "code": "CE-ADM-06",
+   "level": "B2",
+   "doc_type": "courrier administratif",
+   "questions": [
+    {
+     "prompt": "Quel problème l'administration a-t-elle constaté ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Le contribuable n'a pas déclaré ses revenus.",
+       "correct": false,
+       "rationale": "Il les a déclarés.",
+       "label": "A"
+      },
+      {
+       "text": "Les revenus déclarés sont inférieurs à ceux communiqués par l'employeur.",
+       "correct": true,
+       "rationale": "« Le montant déclaré est inférieur de 2 340 euros au montant communiqué. »",
+       "label": "B"
+      },
+      {
+       "text": "Le contribuable a déclaré trop de revenus.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "L'employeur n'a rien transmis.",
+       "correct": false,
+       "rationale": "Il a transmis des informations.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le chiffre précise l'écart constaté."
+    },
+    {
+     "prompt": "Comment le contribuable peut-il éviter une pénalité en cas d'erreur ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "En payant immédiatement le double.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "En contactant son employeur.",
+       "correct": false,
+       "rationale": "Ce n'est pas la démarche indiquée.",
+       "label": "B"
+      },
+      {
+       "text": "En attendant une nouvelle lettre.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "En déposant une déclaration rectificative dans les trente jours.",
+       "correct": true,
+       "rationale": "« Vous pouvez la régulariser sans pénalité en déposant une déclaration rectificative dans le même délai. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La condition « si cette différence résulte d'une erreur » précède la solution."
+    },
+    {
+     "prompt": "Que précise la dernière phrase ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Le contribuable est déjà condamné.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "A"
+      },
+      {
+       "text": "Le courrier n'est pas une punition et l'issue du dossier n'est pas encore décidée.",
+       "correct": true,
+       "rationale": "« Ce courrier ne constitue pas une sanction et ne préjuge pas de la suite qui sera donnée. »",
+       "label": "B"
+      },
+      {
+       "text": "Aucun recours n'est possible.",
+       "correct": false,
+       "rationale": "Des voies de recours sont indiquées.",
+       "label": "C"
+      },
+      {
+       "text": "Le dossier est clos.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Ne pas préjuger » signifie ne pas décider à l'avance."
+    }
+   ],
+   "title": "Avis de contrôle fiscal sur pièces",
+   "document": "Madame, Monsieur, dans le cadre de l'examen de votre déclaration de revenus de l'année précédente, nous avons constaté une différence entre le montant des revenus que vous avez déclarés et les informations qui nous ont été transmises par votre employeur. Le montant déclaré est inférieur de 2 340 euros au montant communiqué.\n\nNous vous invitons à nous faire parvenir vos observations, accompagnées de tout justificatif utile, dans un délai de trente jours. Si cette différence résulte d'une erreur de votre part, vous pouvez la régulariser sans pénalité en déposant une déclaration rectificative dans le même délai.\n\nÀ défaut de réponse, l'administration procédera à la rectification de votre imposition sur la base des éléments en sa possession. Les sommes supplémentaires dues seront alors majorées d'intérêts de retard. Vous conservez la possibilité de contester cette décision selon les voies de recours indiquées au verso du présent courrier. Ce courrier ne constitue pas une sanction et ne préjuge pas de la suite qui sera donnée à votre dossier.",
+   "vocabulary": [
+    {
+     "terme": "régulariser",
+     "definition": "mettre en règle",
+     "exemple": "Régulariser sa situation."
+    },
+    {
+     "terme": "rectificatif",
+     "definition": "qui corrige",
+     "exemple": "Une déclaration rectificative."
+    },
+    {
+     "terme": "majoré",
+     "definition": "augmenté",
+     "exemple": "Une facture majorée de 10 %."
+    },
+    {
+     "terme": "un recours",
+     "definition": "une action pour contester une décision",
+     "exemple": "Former un recours."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "dans le cadre de",
+     "sens": "à l'occasion de",
+     "exemple": "Dans le cadre de cette enquête."
+    },
+    {
+     "expression": "faire parvenir",
+     "sens": "envoyer",
+     "exemple": "Faites-nous parvenir votre dossier."
+    },
+    {
+     "expression": "ne pas préjuger de",
+     "sens": "ne pas décider à l'avance",
+     "exemple": "Cela ne préjuge pas du résultat."
+    }
+   ],
+   "traps": [
+    "Le courrier n'est pas une sanction.",
+    "Sans réponse, l'administration rectifie avec intérêts de retard.",
+    "La régularisation est sans pénalité seulement dans le délai."
+   ]
+  },
+  {
+   "code": "CE-ADM-07",
+   "level": "B2",
+   "doc_type": "règlement",
+   "questions": [
+    {
+     "prompt": "Qui ne peut pas participer au concours ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Un mineur de seize ans avec autorisation.",
+       "correct": false,
+       "rationale": "Les plus de quinze ans peuvent participer avec autorisation.",
+       "label": "A"
+      },
+      {
+       "text": "Un adulte de trente ans.",
+       "correct": false,
+       "rationale": "Toute personne majeure peut participer.",
+       "label": "B"
+      },
+      {
+       "text": "Un membre de la famille d'un juré.",
+       "correct": true,
+       "rationale": "« À l'exception des membres du jury et de leur famille. »",
+       "label": "C"
+      },
+      {
+       "text": "Un photographe amateur.",
+       "correct": false,
+       "rationale": "Rien ne l'interdit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« À l'exception de » introduit les exclusions."
+    },
+    {
+     "prompt": "Quelle modification d'image entraîne l'élimination ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "L'ajout d'un élément qui n'était pas sur la photo.",
+       "correct": true,
+       "rationale": "« Les montages et l'ajout d'éléments sont interdits et entraînent l'élimination. »",
+       "label": "A"
+      },
+      {
+       "text": "L'envoi en haute définition.",
+       "correct": false,
+       "rationale": "C'est obligatoire.",
+       "label": "B"
+      },
+      {
+       "text": "Le recadrage.",
+       "correct": false,
+       "rationale": "C'est autorisé.",
+       "label": "C"
+      },
+      {
+       "text": "L'ajustement de la luminosité.",
+       "correct": false,
+       "rationale": "C'est autorisé.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le point-virgule sépare ce qui est autorisé de ce qui est interdit."
+    },
+    {
+     "prompt": "Que peut faire l'organisateur avec les photos primées ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les vendre à des entreprises.",
+       "correct": false,
+       "rationale": "Ce n'est pas autorisé.",
+       "label": "A"
+      },
+      {
+       "text": "Les utiliser sans limite de temps.",
+       "correct": false,
+       "rationale": "La durée est de deux ans.",
+       "label": "B"
+      },
+      {
+       "text": "Devenir propriétaire des droits d'auteur.",
+       "correct": false,
+       "rationale": "Les participants les conservent.",
+       "label": "C"
+      },
+      {
+       "text": "Les diffuser gratuitement pendant deux ans pour promouvoir le concours, en citant l'auteur.",
+       "correct": true,
+       "rationale": "« Autorisent l'organisateur à diffuser gratuitement les œuvres primées… pendant une durée de deux ans, avec mention du nom. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'autorisation est limitée par son objet, sa durée et ses conditions."
+    }
+   ],
+   "title": "Règlement d'un concours de photographie",
+   "document": "Article 2 – Participation. Le concours est ouvert à toute personne majeure, à l'exception des membres du jury et de leur famille. Les mineurs de plus de quinze ans peuvent participer avec une autorisation écrite de leur représentant légal. Chaque participant peut présenter trois photographies au maximum, prises dans les douze mois précédant la date limite de dépôt.\n\nArticle 3 – Conditions techniques. Les photographies doivent être envoyées au format numérique, en haute définition. Les retouches légères, comme le recadrage ou l'ajustement de la luminosité, sont autorisées ; les montages et l'ajout d'éléments sont interdits et entraînent l'élimination.\n\nArticle 4 – Droits. Les participants garantissent être les auteurs des photographies et avoir obtenu l'accord des personnes reconnaissables. Ils conservent leurs droits d'auteur, mais autorisent l'organisateur à diffuser gratuitement les œuvres primées dans le cadre de la promotion du concours, pendant une durée de deux ans, avec mention du nom de l'auteur.",
+   "vocabulary": [
+    {
+     "terme": "majeur",
+     "definition": "qui a atteint l'âge légal de la majorité",
+     "exemple": "Être majeur."
+    },
+    {
+     "terme": "le représentant légal",
+     "definition": "la personne responsable d'un mineur",
+     "exemple": "Signature du représentant légal."
+    },
+    {
+     "terme": "le recadrage",
+     "definition": "le fait de modifier le cadre d'une image",
+     "exemple": "Un simple recadrage."
+    },
+    {
+     "terme": "primé",
+     "definition": "qui a reçu un prix",
+     "exemple": "Une œuvre primée."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "à l'exception de",
+     "sens": "sauf",
+     "exemple": "Tout le monde est venu, à l'exception de Paul."
+    },
+    {
+     "expression": "entraîner l'élimination",
+     "sens": "provoquer l'exclusion",
+     "exemple": "Toute fraude entraîne l'élimination."
+    },
+    {
+     "expression": "avec mention de",
+     "sens": "en indiquant",
+     "exemple": "Reproduction autorisée avec mention de la source."
+    }
+   ],
+   "traps": [
+    "Les mineurs de plus de quinze ans peuvent participer avec autorisation.",
+    "Les retouches légères sont autorisées.",
+    "Les auteurs conservent leurs droits."
+   ]
+  },
+  {
+   "code": "CE-ADM-08",
+   "level": "B2",
+   "doc_type": "notice officielle",
+   "questions": [
+    {
+     "prompt": "Qui est inscrit automatiquement ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Les jeunes de dix-huit ans qui ont fait leur recensement citoyen.",
+       "correct": true,
+       "rationale": "« Les jeunes qui atteignent dix-huit ans sont inscrits automatiquement s'ils ont effectué leur recensement citoyen. »",
+       "label": "A"
+      },
+      {
+       "text": "Toutes les personnes qui déménagent.",
+       "correct": false,
+       "rationale": "Elles doivent faire la démarche.",
+       "label": "B"
+      },
+      {
+       "text": "Les citoyens européens.",
+       "correct": false,
+       "rationale": "Ils s'inscrivent sur des listes complémentaires.",
+       "label": "C"
+      },
+      {
+       "text": "Les nouveaux citoyens français.",
+       "correct": false,
+       "rationale": "Ils doivent faire la démarche.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La condition « s'ils ont effectué » est essentielle."
+    },
+    {
+     "prompt": "Lequel de ces justificatifs d'attache avec la commune est accepté ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Un abonnement à la bibliothèque.",
+       "correct": false,
+       "rationale": "Ce n'est pas cité.",
+       "label": "A"
+      },
+      {
+       "text": "Le paiement des impôts locaux depuis au moins deux ans.",
+       "correct": true,
+       "rationale": "Il figure dans la liste des justificatifs d'attache.",
+       "label": "B"
+      },
+      {
+       "text": "Le paiement des impôts locaux depuis un an.",
+       "correct": false,
+       "rationale": "Il faut au moins deux ans.",
+       "label": "C"
+      },
+      {
+       "text": "Une résidence de trois mois.",
+       "correct": false,
+       "rationale": "Il faut au moins six mois.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les durées indiquées sont des minimums à respecter."
+    },
+    {
+     "prompt": "Quelle est la règle générale concernant la date limite d'inscription ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "On peut s'inscrire le jour du vote.",
+       "correct": false,
+       "rationale": "Ce n'est pas possible.",
+       "label": "A"
+      },
+      {
+       "text": "Tout le monde peut s'inscrire jusqu'au dixième jour.",
+       "correct": false,
+       "rationale": "C'est une exception limitée.",
+       "label": "B"
+      },
+      {
+       "text": "Il faut être inscrit au plus tard le sixième vendredi avant l'élection, sauf exceptions.",
+       "correct": true,
+       "rationale": "« Au plus tard le sixième vendredi précédant le scrutin. Toutefois, certaines personnes… jusqu'au dixième jour. »",
+       "label": "C"
+      },
+      {
+       "text": "Il n'y a pas de date limite.",
+       "correct": false,
+       "rationale": "Une date limite existe.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Toutefois » introduit les exceptions à la règle générale."
+    }
+   ],
+   "title": "Inscription sur les listes électorales",
+   "document": "L'inscription sur les listes électorales est obligatoire pour pouvoir voter. Les jeunes qui atteignent dix-huit ans sont inscrits automatiquement s'ils ont effectué leur recensement citoyen. Les personnes qui ont déménagé, ou qui ont acquis la nationalité française, doivent en revanche faire elles-mêmes la démarche.\n\nLa demande peut être effectuée en ligne, en mairie ou par courrier. Le demandeur doit fournir un justificatif d'identité et un justificatif d'attache avec la commune : domicile, résidence depuis au moins six mois, ou paiement des impôts locaux depuis au moins deux ans.\n\nPour pouvoir voter lors d'une élection, il faut être inscrit au plus tard le sixième vendredi précédant le scrutin. Toutefois, certaines personnes peuvent s'inscrire jusqu'au dixième jour précédant le scrutin en raison d'une situation particulière, comme un déménagement pour motif professionnel ou l'acquisition de la nationalité après la date limite. Les citoyens européens résidant en France peuvent s'inscrire sur des listes complémentaires pour voter aux élections municipales et européennes.",
+   "vocabulary": [
+    {
+     "terme": "le recensement",
+     "definition": "l'enregistrement officiel",
+     "exemple": "Le recensement citoyen à seize ans."
+    },
+    {
+     "terme": "un scrutin",
+     "definition": "une élection, un vote",
+     "exemple": "Le scrutin aura lieu dimanche."
+    },
+    {
+     "terme": "acquérir",
+     "definition": "obtenir",
+     "exemple": "Acquérir la nationalité."
+    },
+    {
+     "terme": "complémentaire",
+     "definition": "qui s'ajoute",
+     "exemple": "Une liste complémentaire."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "au plus tard",
+     "sens": "pas après",
+     "exemple": "Rendez votre dossier au plus tard lundi."
+    },
+    {
+     "expression": "en revanche",
+     "sens": "au contraire",
+     "exemple": "Lui est d'accord ; elle, en revanche, refuse."
+    },
+    {
+     "expression": "en raison de",
+     "sens": "à cause de",
+     "exemple": "Le match est reporté en raison de la pluie."
+    }
+   ],
+   "traps": [
+    "L'inscription automatique dépend du recensement.",
+    "Le délai jusqu'au dixième jour est une exception.",
+    "Les citoyens européens ne votent qu'à certaines élections."
+   ]
+  }
+ ]
+}
