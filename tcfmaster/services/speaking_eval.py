@@ -9,7 +9,10 @@ tâche. Quatre critères sur 5 points :
   * morphosyntaxe (erreurs fréquentes repérées dans la transcription).
 
 La prononciation n'est pas notée : la confiance de la reconnaissance vocale
-n'est affichée qu'à titre indicatif. Comme pour l'écrit, la note est une
+n'est affichée qu'à titre indicatif, avec la liste des mots que la
+reconnaissance a eu du mal à identifier (`pronunciation_hints`). Une « réponse
+améliorée » est proposée à partir de la transcription (`improved_answer`) :
+hésitations retirées, corrections sûres appliquées, registre familier remplacé. Comme pour l'écrit, la note est une
 ESTIMATION PÉDAGOGIQUE accompagnée de `levels.DISCLAIMER`.
 """
 from __future__ import annotations
@@ -109,6 +112,10 @@ class OralEvaluation:
     strengths: list[str]
     priorities: list[str]
     model_answer: str = ""
+    model_commentary: str = ""
+    tips: str = ""
+    pronunciation: dict = field(default_factory=dict)
+    improved_answer: str = ""
     caveat: str = STT_CAVEAT
     disclaimer: str = L.DISCLAIMER
     engine: str = ENGINE_VERSION
@@ -139,6 +146,93 @@ def oral_issues(text: str) -> list[WE.Issue]:
     return out
 
 
+# Équivalents standard des mots et tours familiers (réponse améliorée).
+FAMILIAR = {
+    "ouais": "oui", "bouquin": "livre", "bouquins": "livres", "boulot": "travail",
+    "boulots": "emplois", "bagnole": "voiture", "bagnoles": "voitures", "truc": "chose",
+    "trucs": "choses", "machin": "chose", "machins": "choses", "mec": "homme",
+    "mecs": "hommes", "fringues": "vêtements", "bosser": "travailler", "bosse": "travaille",
+    "kiffer": "apprécier", "kiffe": "apprécie", "marrant": "drôle", "fric": "argent",
+    "bouffer": "manger", "cool": "agréable", "sympa": "sympathique",
+    "sympas": "sympathiques", "du coup": "par conséquent", "ça fait que": "c'est pourquoi",
+    "par contre": "en revanche", "y avait": "il y avait",
+}
+_FAMILIAR_RX = re.compile(r"\b(" + "|".join(sorted(map(re.escape, FAMILIAR), key=len,
+                                                   reverse=True)) + r")\b", re.I)
+_FILLERS = re.compile(r"\s*\b(euh+|heu+|hum+|hmm+|bon ben|ben|bah|beh|genre|en fait|"
+                      r"tu vois|vous voyez|voilà quoi|quoi)\b,?", re.I)
+# Négations sans « ne », fréquentes à l'oral familier.
+NEGATIONS = {
+    "il y a pas": "il n'y a pas", "y a pas": "il n'y a pas", "c'est pas": "ce n'est pas",
+    "j'ai pas": "je n'ai pas", "je sais pas": "je ne sais pas", "je suis pas": "je ne suis pas",
+    "on a pas": "on n'a pas", "je pense pas": "je ne pense pas", "je crois pas": "je ne crois pas",
+    "il faut pas": "il ne faut pas", "je peux pas": "je ne peux pas",
+    "c'était pas": "ce n'était pas", "j'avais pas": "je n'avais pas",
+}
+_NEG_RX = re.compile(r"\b(" + "|".join(sorted(map(re.escape, NEGATIONS), key=len,
+                                               reverse=True)) + r")\b", re.I)
+UNCLEAR_CONF = 0.6
+
+
+def improved_answer(transcript: str) -> str:
+    """Version améliorée de la transcription, construite sans IA : hésitations et
+    tics de langage supprimés, répétitions immédiates fusionnées, mots familiers
+    remplacés par un équivalent standard, corrections sûres appliquées."""
+    text = re.sub(r"\s+", " ", transcript or "").strip()
+    if not text:
+        return ""
+    text = _FILLERS.sub("", text)
+    # « je je pense » → « je pense », mais « nous nous sommes » reste intact
+    text = REPEATS.sub(lambda m: m.group(0) if m.group(1).lower() in ("nous", "vous")
+                       else m.group(1), text)
+    text = _NEG_RX.sub(lambda m: NEGATIONS[m.group(1).lower().replace("’", "'")], text)
+    text = _FAMILIAR_RX.sub(lambda m: FAMILIAR[m.group(1).lower()], text)
+    text = re.sub(r"\s+([,.])", r"\1", re.sub(r"\s{2,}", " ", text)).strip(" ,")
+    text = WE.apply_fixes(text, [i for i in WE.find_issues(text) if i.replacement is not None])
+    text = text[0].upper() + text[1:] if text else text
+    return text if text.endswith((".", "!", "?", "…")) else text + "."
+
+
+def pronunciation_hints(words: list | None) -> dict:
+    """Indices de prononciation tirés de la confiance mot à mot de la reconnaissance
+    vocale (Vosk). Indicatif : un mot mal reconnu peut aussi venir du micro ou du
+    bruit ambiant. `words` : dicts {"word", "conf"} ou objets ayant ces attributs."""
+    items = []
+    for w in words or []:
+        word = w.get("word") if isinstance(w, dict) else getattr(w, "word", "")
+        conf = w.get("conf", 1.0) if isinstance(w, dict) else getattr(w, "conf", 1.0)
+        if word:
+            items.append((str(word), float(conf if conf is not None else 1.0)))
+    if not items:
+        return {}
+    low = [(w, c) for w, c in items if c < UNCLEAR_CONF and len(w) > 2]
+    unclear, seen = [], set()
+    for w, c in sorted(low, key=lambda x: x[1]):
+        if w.lower() not in seen:
+            seen.add(w.lower())
+            unclear.append(w)
+    share = round(len(low) / len(items), 2)
+    advice = []
+    if share >= 0.2:
+        advice.append("Beaucoup de mots ont été difficiles à reconnaître : parlez un peu plus "
+                      "lentement, articulez les fins de mots et rapprochez-vous du micro.")
+    elif unclear:
+        advice.append("Réécoutez votre enregistrement sur les mots signalés et répétez-les "
+                      "après la réponse modèle lue par la voix de synthèse.")
+    else:
+        advice.append("La reconnaissance a identifié presque tous les mots : votre "
+                      "articulation semble claire.")
+    nasal = [w for w in unclear if re.search(r"(an|en|on|in|un|ain|ein)(s|t|e)?$", w, re.I)]
+    if nasal:
+        advice.append("Plusieurs mots signalés contiennent une voyelle nasale (an, on, in) : "
+                      "travaillez la différence entre « vent », « vont » et « vin ».")
+    if any(re.search(r"(u|eu|œu)", w, re.I) for w in unclear):
+        advice.append("Vérifiez les sons « u » / « ou » et « eu » (« rue » / « roue », "
+                      "« deux ») dans les mots signalés.")
+    return {"words": len(items), "unclear": unclear[:12], "unclear_share": share,
+            "advice": advice[:3]}
+
+
 def _clamp(x: float) -> float:
     return round(max(0.0, min(5.0, x)) * 2) / 2
 
@@ -156,7 +250,8 @@ def _reused_phrases(text: str, phrases: list[str] | None) -> list[str]:
 def evaluate_oral(transcript: str, task_number: int, target_s: int,
                   profile: dict | None = None, stt_confidence: float | None = None,
                   useful_phrases: list[str] | None = None, model_answer: str = "",
-                  duration_s: float | None = None) -> OralEvaluation:
+                  duration_s: float | None = None, stt_words: list | None = None,
+                  model_commentary: str = "", tips: str = "") -> OralEvaluation:
     text = re.sub(r"\s+", " ", transcript or "").strip()
     ws = WE.words(text)
     n = len(ws)
@@ -289,4 +384,7 @@ def evaluate_oral(transcript: str, task_number: int, target_s: int,
                            "grammaire": m_gram},
         note20=note, level=level, issues=issues, points=points, connectors=conns,
         structures=structures, phrases_reused=reused, strengths=strengths,
-        priorities=prio[:3], model_answer=model_answer)
+        priorities=prio[:3], model_answer=model_answer,
+        model_commentary=model_commentary or "", tips=tips or "",
+        pronunciation=pronunciation_hints(stt_words) if n else {},
+        improved_answer=improved_answer(text) if n else "")

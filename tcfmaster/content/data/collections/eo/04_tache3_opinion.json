@@ -1,0 +1,802 @@
+{
+ "slug": "eo-tache3-opinion",
+ "section": "EO",
+ "title": "Tâche 3 – Expression d'un point de vue",
+ "description": "Trente-trois sujets de débat originaux : donnez votre opinion, justifiez-la par des arguments et des exemples, puis défendez-la face aux objections de l'examinateur.",
+ "order": 4,
+ "level": "B2",
+ "items": [
+  {
+   "code": "EO-B2-070",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il interdire les téléphones portables à l'école ?",
+   "examiner_role": "Examinateur",
+   "theme": "éducation",
+   "duration_s": 210,
+   "scenario": "Certains pays interdisent les téléphones portables dans les écoles et les collèges, même pendant les pauses. Êtes-vous favorable à cette mesure ? Donnez votre opinion, justifiez-la et répondez aux objections.",
+   "examiner_prompts": [
+    "Les parents ont besoin de joindre leurs enfants.",
+    "Le téléphone peut aussi servir à apprendre.",
+    "Interdire, ce n'est pas éduquer.",
+    "Comment faire respecter une telle règle ?"
+   ],
+   "useful_phrases": [
+    "Je suis plutôt favorable à…",
+    "D'une part…, d'autre part…",
+    "Cela ne veut pas dire que…"
+   ],
+   "model_answer": "Je suis plutôt favorable à cette interdiction, au moins jusqu'à la fin du collège. D'une part, le téléphone perturbe la concentration : même posé sur la table, il attire l'attention. D'autre part, les pauses sont un moment essentiel pour jouer et discuter ; or, on voit de plus en plus d'élèves qui restent seuls devant leur écran. Les parents peuvent toujours joindre l'école en cas d'urgence. Cela ne veut pas dire qu'il faut bannir le numérique : l'école doit enseigner son usage, mais avec des tablettes en classe, encadrées par l'enseignant. Interdire n'empêche pas d'éduquer, au contraire.",
+   "model_commentary": "La position est annoncée d'emblée, deux arguments sont organisés (« d'une part… d'autre part »), une objection est anticipée et la nuance finale distingue téléphone personnel et usage pédagogique. La conclusion retourne habilement l'objection.",
+   "tips": "Annoncez votre position dans la première phrase, puis donnez deux arguments numérotés. Gardez une nuance pour la fin : elle montre la maturité de votre réflexion."
+  },
+  {
+   "code": "EO-B2-071",
+   "task_number": 3,
+   "level": "B2",
+   "title": "La semaine de quatre jours est-elle une bonne idée ?",
+   "examiner_role": "Examinateur",
+   "theme": "travail",
+   "duration_s": 210,
+   "scenario": "Des entreprises expérimentent la semaine de travail de quatre jours, avec le même salaire. Pensez-vous que ce modèle devrait se généraliser ? Argumentez.",
+   "examiner_prompts": [
+    "Les entreprises vont perdre en productivité.",
+    "Ce n'est pas possible dans les hôpitaux ou les commerces.",
+    "Les journées seraient trop longues.",
+    "Et dans votre métier, ce serait possible ?"
+   ],
+   "useful_phrases": [
+    "Il me semble que…",
+    "Certes…, mais…",
+    "Tout dépend de…"
+   ],
+   "model_answer": "Il me semble que la semaine de quatre jours est une piste intéressante, mais qu'elle ne peut pas s'appliquer partout de la même façon. Les expériences montrent que les salariés reposés sont plus efficaces et moins souvent absents ; la productivité ne baisse donc pas forcément. Certes, dans les hôpitaux ou les commerces, il faudrait embaucher pour assurer une présence continue, ce qui coûte cher. Tout dépend aussi de l'organisation : si l'on concentre trente-cinq heures en quatre jours, la fatigue risque d'annuler les bénéfices. Dans mon métier de comptable, ce serait possible, à condition de bien s'organiser en équipe.",
+   "model_commentary": "Le candidat adopte une position nuancée, appuie son argument sur des expériences, concède les limites sectorielles et pose une condition. Il relie enfin le débat à sa propre situation, comme le demande la relance.",
+   "tips": "Une position nuancée (« oui, mais pas partout ») est souvent plus convaincante qu'un oui ou un non catégorique, à condition de la justifier."
+  },
+  {
+   "code": "EO-B2-072",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il rendre les transports en commun gratuits ?",
+   "examiner_role": "Examinateur",
+   "theme": "transports",
+   "duration_s": 210,
+   "scenario": "Quelques villes ont rendu leurs bus et tramways gratuits pour tous. Selon vous, est-ce une bonne politique ? Donnez votre avis argumenté.",
+   "examiner_prompts": [
+    "Rien n'est gratuit, ce sont les impôts qui paient.",
+    "Les gens respecteront moins un service gratuit.",
+    "Ça ne fera pas forcément abandonner la voiture.",
+    "Ne vaudrait-il pas mieux améliorer le réseau ?"
+   ],
+   "useful_phrases": [
+    "À mon sens…",
+    "Encore faut-il que…",
+    "Plutôt que de…, il vaudrait mieux…"
+   ],
+   "model_answer": "À mon sens, la gratuité est une bonne mesure pour les villes moyennes, mais pas une solution miracle. Elle permet aux personnes modestes de se déplacer librement, pour chercher un emploi ou voir un médecin, et elle réduit un peu la circulation. Évidemment, ce sont les impôts qui paient ; mais la vente des billets ne couvre souvent qu'une petite partie des coûts. Encore faut-il que le réseau soit efficace : un bus gratuit qui passe toutes les quarante minutes n'attirera personne. Plutôt que de choisir entre gratuité et qualité, il vaudrait mieux commencer par la gratuité pour les jeunes et les chômeurs.",
+   "model_commentary": "La réponse présente des arguments sociaux et écologiques, répond à l'objection financière par un fait, pose une condition avec « encore faut-il que » et propose une solution intermédiaire. Le raisonnement est solide et nuancé.",
+   "tips": "« Encore faut-il que + subjonctif » et « plutôt que de…, il vaudrait mieux… » sont deux structures B2 idéales pour nuancer et proposer."
+  },
+  {
+   "code": "EO-B2-073",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Le télétravail isole-t-il les salariés ?",
+   "examiner_role": "Examinateur",
+   "theme": "travail",
+   "duration_s": 210,
+   "scenario": "Depuis quelques années, le télétravail s'est développé. Certains y voient une liberté, d'autres un risque d'isolement. Quelle est votre position ?",
+   "examiner_prompts": [
+    "Mais on gagne beaucoup de temps de transport.",
+    "Les jeunes salariés apprennent moins bien à distance.",
+    "Le télétravail profite surtout aux cadres.",
+    "Combien de jours de télétravail seraient idéaux ?"
+   ],
+   "useful_phrases": [
+    "Je considère que…",
+    "Le risque, c'est que…",
+    "L'idéal serait…"
+   ],
+   "model_answer": "Je considère que le télétravail est un vrai progrès, à condition qu'il reste partiel. Il fait gagner du temps, réduit la fatigue et permet de mieux concilier vie professionnelle et vie familiale. Le risque, c'est que les salariés perdent le contact avec leur équipe : les échanges informels à la machine à café sont essentiels pour comprendre l'entreprise, surtout pour les débutants, qui apprennent en observant leurs collègues. Il est vrai aussi que tout le monde n'y a pas accès, notamment les ouvriers ou les soignants. L'idéal serait deux jours à la maison et trois au bureau.",
+   "model_commentary": "Le candidat affirme une position conditionnelle, développe les avantages, puis identifie précisément le risque et les inégalités. La proposition finale répond à la relance de manière concrète.",
+   "tips": "Utilisez des exemples concrets (« la machine à café », « les débutants ») pour illustrer une idée abstraite comme l'isolement."
+  },
+  {
+   "code": "EO-B2-074",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il limiter la publicité destinée aux enfants ?",
+   "examiner_role": "Examinateur",
+   "theme": "consommation",
+   "duration_s": 210,
+   "scenario": "Certains proposent d'interdire la publicité pour les produits sucrés pendant les programmes pour enfants. Êtes-vous d'accord ? Justifiez votre point de vue.",
+   "examiner_prompts": [
+    "C'est aux parents de dire non.",
+    "La publicité finance les programmes.",
+    "Les enfants voient la publicité partout, sur internet aussi.",
+    "Ce n'est pas la publicité qui rend obèse."
+   ],
+   "useful_phrases": [
+    "Je suis tout à fait d'accord avec…",
+    "On ne peut pas nier que…",
+    "C'est la raison pour laquelle…"
+   ],
+   "model_answer": "Je suis tout à fait d'accord avec cette mesure. Les enfants ne savent pas encore distinguer un message publicitaire d'une information, et les marques le savent très bien : elles utilisent des personnages de dessins animés et des cadeaux pour les attirer. On dit que c'est aux parents de dire non, mais il est difficile de résister à des demandes répétées tous les jours. On ne peut pas nier que l'obésité infantile a plusieurs causes, mais la publicité en fait partie. C'est la raison pour laquelle l'interdiction devrait aussi concerner internet et les réseaux sociaux, sinon elle ne servira pas à grand-chose.",
+   "model_commentary": "Le candidat justifie sa position par la vulnérabilité des enfants, répond à l'objection sur la responsabilité parentale, concède la multiplicité des causes et élargit la proposition à internet. Le raisonnement est cohérent et complet.",
+   "tips": "Concéder une partie de l'objection (« on ne peut pas nier que… ») avant de maintenir votre position renforce votre crédibilité."
+  },
+  {
+   "code": "EO-B2-075",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Le service civique devrait-il être obligatoire ?",
+   "examiner_role": "Examinateur",
+   "theme": "société",
+   "duration_s": 210,
+   "scenario": "Certains proposent que chaque jeune consacre obligatoirement six mois à une mission d'intérêt général (association, environnement, aide aux personnes). Qu'en pensez-vous ?",
+   "examiner_prompts": [
+    "Les jeunes ont déjà du mal à trouver du travail.",
+    "Un engagement forcé n'a pas de sens.",
+    "Qui va financer tout ça ?",
+    "Avez-vous fait quelque chose de semblable ?"
+   ],
+   "useful_phrases": [
+    "Je suis partagé : …",
+    "D'un côté…, de l'autre…",
+    "En définitive…"
+   ],
+   "model_answer": "Je suis partagé sur cette question. D'un côté, une mission d'intérêt général peut être une expérience formidable : elle permet de rencontrer des personnes de milieux différents, de se sentir utile et de découvrir des métiers. De l'autre, un engagement imposé perd une partie de son sens ; un jeune qui n'a pas choisi sa mission risque de la faire sans motivation. De plus, six mois, c'est long pour quelqu'un qui doit déjà gagner sa vie. En définitive, je préférerais un service volontaire, mais bien rémunéré et reconnu dans les études ou par les employeurs, pour qu'il attire vraiment les jeunes.",
+   "model_commentary": "La réponse présente honnêtement les deux côtés, puis tranche avec une proposition alternative et justifiée. La structure « d'un côté… de l'autre… en définitive » est claire et efficace.",
+   "tips": "Si vous êtes partagé, dites-le, exposez les deux côtés, mais terminez toujours par une prise de position, même nuancée."
+  },
+  {
+   "code": "EO-B2-076",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Les voitures doivent-elles disparaître des centres-villes ?",
+   "examiner_role": "Examinateur",
+   "theme": "ville",
+   "duration_s": 210,
+   "scenario": "De plus en plus de villes rendent leur centre piéton. Faut-il aller jusqu'à interdire totalement les voitures dans les centres-villes ? Donnez votre avis.",
+   "examiner_prompts": [
+    "Les commerçants vont perdre des clients.",
+    "Les personnes âgées ou handicapées ont besoin de leur voiture.",
+    "Les habitants de la campagne n'ont pas d'autre choix.",
+    "Votre ville est-elle concernée ?"
+   ],
+   "useful_phrases": [
+    "Je suis favorable à… à condition que…",
+    "Il ne s'agit pas de… mais de…",
+    "Prenons l'exemple de…"
+   ],
+   "model_answer": "Je suis favorable à la réduction des voitures dans les centres, à condition que des alternatives existent. Prenons l'exemple de Strasbourg ou de Pontevedra, en Espagne : depuis que le centre est piéton, les rues sont plus calmes, l'air est plus sain et les commerces ne s'en portent pas plus mal, car les piétons s'arrêtent davantage. Il ne s'agit pas d'interdire toutes les voitures, mais de garder des accès pour les livraisons, les secours et les personnes à mobilité réduite. Pour les habitants de la campagne, il faut des parkings-relais à l'entrée de la ville, reliés au centre par des navettes fréquentes.",
+   "model_commentary": "Le candidat appuie sa position sur des exemples réels, répond à l'objection des commerçants et précise les exceptions nécessaires. La solution des parkings-relais répond à l'objection rurale de façon concrète.",
+   "tips": "Un exemple de ville réelle renforce votre argument, mais évitez les chiffres inventés : une observation générale suffit."
+  },
+  {
+   "code": "EO-B2-077",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il apprendre à coder à l'école primaire ?",
+   "examiner_role": "Examinateur",
+   "theme": "éducation",
+   "duration_s": 210,
+   "scenario": "Certains pays enseignent la programmation informatique dès l'école primaire. Est-ce une bonne idée selon vous ?",
+   "examiner_prompts": [
+    "Les enfants passent déjà trop de temps sur les écrans.",
+    "Il faut d'abord savoir lire, écrire et compter.",
+    "Tout le monde ne deviendra pas informaticien.",
+    "Les enseignants ne sont pas formés."
+   ],
+   "useful_phrases": [
+    "Il est important de…",
+    "Cela n'empêche pas…",
+    "Ce qui compte, c'est…"
+   ],
+   "model_answer": "Je pense qu'il est important d'initier les enfants à la programmation, mais sous une forme adaptée à leur âge. Coder, ce n'est pas seulement taper des lignes sur un ordinateur : c'est apprendre à décomposer un problème, à être logique et à corriger ses erreurs. On peut d'ailleurs le faire sans écran, avec des jeux de cartes ou de petits robots. Bien sûr, les fondamentaux restent prioritaires, mais cela n'empêche pas d'y consacrer une heure par semaine. Ce qui compte, ce n'est pas de former des informaticiens, mais des citoyens qui comprennent les outils qu'ils utilisent tous les jours.",
+   "model_commentary": "La réponse redéfinit la notion de « coder », répond à l'objection des écrans par une alternative concrète, concède la priorité des fondamentaux et termine par une mise en relief forte (« ce qui compte, ce n'est pas… mais… »).",
+   "tips": "Redéfinir un terme du sujet (« coder, ce n'est pas seulement… ») est une technique efficace pour orienter le débat à votre avantage."
+  },
+  {
+   "code": "EO-B2-078",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Le tourisme spatial est-il acceptable ?",
+   "examiner_role": "Examinateur",
+   "theme": "environnement",
+   "duration_s": 210,
+   "scenario": "Des entreprises privées proposent désormais des voyages dans l'espace à des particuliers fortunés. Que pensez-vous de ce tourisme spatial ?",
+   "examiner_prompts": [
+    "C'est le progrès, on ne peut pas l'arrêter.",
+    "Ces vols font avancer la recherche.",
+    "Chacun fait ce qu'il veut de son argent.",
+    "Faudrait-il l'interdire ?"
+   ],
+   "useful_phrases": [
+    "Je trouve choquant que…",
+    "Il est vrai que…, néanmoins…",
+    "Il serait plus utile de…"
+   ],
+   "model_answer": "Personnellement, je trouve choquant qu'on dépense des millions pour quelques minutes d'apesanteur, alors que la planète fait face à une crise climatique. Un seul vol émet autant de carbone qu'un habitant en émet en plusieurs années. Il est vrai que ces entreprises font avancer certaines technologies ; néanmoins, la recherche spatiale publique le fait aussi, avec des objectifs scientifiques. Chacun est libre de son argent, certes, mais pas de la pollution qu'il produit. Sans aller jusqu'à l'interdire, il serait plus juste de taxer fortement ces vols et d'utiliser cet argent pour la transition écologique.",
+   "model_commentary": "Le candidat exprime une opinion forte avec le subjonctif (« je trouve choquant qu'on dépense »), apporte un argument écologique, concède le progrès technologique et retourne l'argument de la liberté. La proposition finale est mesurée.",
+   "tips": "Pour réfuter « chacun est libre », distinguez la liberté individuelle de ses conséquences collectives : c'est un argument classique et puissant."
+  },
+  {
+   "code": "EO-B2-079",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il limiter le temps d'écran des enfants ?",
+   "examiner_role": "Examinateur",
+   "theme": "famille",
+   "duration_s": 210,
+   "scenario": "Les médecins recommandent de limiter fortement le temps d'écran des jeunes enfants. Pensez-vous que les parents doivent imposer des règles strictes ?",
+   "examiner_prompts": [
+    "Les écrans peuvent être éducatifs.",
+    "Les parents eux-mêmes sont toujours sur leur téléphone.",
+    "Tous les amis de mon enfant ont une tablette.",
+    "Quelles règles proposeriez-vous ?"
+   ],
+   "useful_phrases": [
+    "Il est indispensable de…",
+    "Le problème n'est pas tant… que…",
+    "Je proposerais…"
+   ],
+   "model_answer": "Il est indispensable de fixer des règles, surtout avant six ans, car le cerveau de l'enfant a besoin d'interactions réelles, de jeu et de mouvement. Le problème n'est pas tant l'écran lui-même que ce qu'il remplace : le sommeil, la lecture, les discussions en famille. Certains programmes sont éducatifs, c'est vrai, mais à condition de les regarder avec un adulte. Et les parents doivent montrer l'exemple : on ne peut pas interdire la tablette à table si on consulte son téléphone. Je proposerais des règles simples : pas d'écran le matin, pendant les repas ni dans la chambre.",
+   "model_commentary": "La réponse justifie la position par un argument scientifique simple, utilise la structure B2 « le problème n'est pas tant… que… », concède l'intérêt éducatif sous condition et propose des règles concrètes.",
+   "tips": "Terminez par des propositions concrètes : l'examinateur demande souvent « que proposeriez-vous ? ». Préparez deux ou trois mesures simples."
+  },
+  {
+   "code": "EO-B2-080",
+   "task_number": 3,
+   "level": "B2",
+   "title": "La gastronomie doit-elle être protégée comme un patrimoine ?",
+   "examiner_role": "Examinateur",
+   "theme": "culture",
+   "duration_s": 210,
+   "scenario": "Certains pensent que les traditions culinaires disparaissent à cause de la restauration rapide et des plats industriels. Faut-il protéger la gastronomie comme un patrimoine ?",
+   "examiner_prompts": [
+    "La cuisine a toujours évolué.",
+    "Les gens n'ont plus le temps de cuisiner.",
+    "Les produits traditionnels sont trop chers.",
+    "Comment protéger concrètement la cuisine ?"
+   ],
+   "useful_phrases": [
+    "Je suis convaincu que…",
+    "Cela dit…",
+    "Le meilleur moyen de…, c'est…"
+   ],
+   "model_answer": "Je suis convaincu que la cuisine fait partie de l'identité d'un peuple, au même titre que sa langue ou ses monuments. Quand une recette disparaît, c'est un savoir-faire, mais aussi des souvenirs familiaux qui disparaissent. Cela dit, protéger ne veut pas dire figer : la cuisine a toujours évolué en intégrant de nouveaux produits. Le vrai danger, ce sont les plats industriels, trop salés et trop sucrés. Le meilleur moyen de protéger la gastronomie, c'est de l'enseigner : des cours de cuisine à l'école et des cantines qui cuisinent des produits locaux feraient plus qu'un label.",
+   "model_commentary": "Le candidat compare la cuisine à d'autres patrimoines, nuance l'idée de protection (« protéger ne veut pas dire figer ») et propose une solution éducative. La mise en relief « le vrai danger, ce sont » est efficace.",
+   "tips": "Distinguer deux sens d'un mot (« protéger » et « figer ») permet de nuancer sans contredire votre position principale."
+  },
+  {
+   "code": "EO-B2-081",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il supprimer les notes à l'école ?",
+   "examiner_role": "Examinateur",
+   "theme": "éducation",
+   "duration_s": 210,
+   "scenario": "Certaines écoles remplacent les notes chiffrées par une évaluation par compétences (acquis, en cours, non acquis). Êtes-vous favorable à la suppression des notes ?",
+   "examiner_prompts": [
+    "Les notes motivent les bons élèves.",
+    "Les parents veulent savoir où en est leur enfant.",
+    "Dans la vie, on est toujours évalué.",
+    "Comment évaluer sans notes ?"
+   ],
+   "useful_phrases": [
+    "Je ne suis pas sûr que…",
+    "Ce qui me paraît essentiel, c'est…",
+    "En revanche…"
+   ],
+   "model_answer": "Je ne suis pas sûr qu'il faille supprimer complètement les notes, mais je pense qu'on leur accorde trop d'importance. Une note de huit sur vingt dit à l'élève qu'il est mauvais, sans lui expliquer ce qu'il doit améliorer. Ce qui me paraît essentiel, c'est un commentaire précis : ce qui est réussi et ce qui reste à travailler. En revanche, au lycée, les notes restent utiles pour préparer les examens et l'orientation. On dit qu'on est toujours évalué dans la vie ; c'est vrai, mais au travail, un bon responsable explique ses critiques, il ne se contente pas d'un chiffre.",
+   "model_commentary": "La réponse évite la position extrême, explique la limite des notes par un exemple, propose une alternative, distingue selon l'âge et retourne l'objection finale avec une analogie. Le subjonctif (« qu'il faille ») est bien employé.",
+   "tips": "Distinguer selon les situations (primaire / lycée, petites / grandes villes) est une manière simple et convaincante de nuancer votre opinion."
+  },
+  {
+   "code": "EO-B2-082",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Les grandes surfaces doivent-elles donner leurs invendus ?",
+   "examiner_role": "Examinateur",
+   "theme": "consommation",
+   "duration_s": 210,
+   "scenario": "En France, les supermarchés ne peuvent plus jeter les aliments invendus encore consommables : ils doivent les donner à des associations. Faut-il aller plus loin contre le gaspillage alimentaire ?",
+   "examiner_prompts": [
+    "Les associations ne peuvent pas tout récupérer.",
+    "Le gaspillage vient surtout des ménages.",
+    "Les dates de péremption sont trop strictes.",
+    "Que faites-vous personnellement ?"
+   ],
+   "useful_phrases": [
+    "C'est une excellente mesure, mais…",
+    "Il faudrait également…",
+    "À titre personnel…"
+   ],
+   "model_answer": "C'est une excellente mesure, mais elle ne suffit pas. Il est vrai qu'une grande partie du gaspillage a lieu à la maison : on achète trop, on oublie des produits au fond du réfrigérateur. Il faudrait également mieux expliquer la différence entre la date limite de consommation, qui concerne la sécurité, et la date de durabilité minimale, après laquelle on peut encore manger le produit. Les restaurants et les cantines pourraient aussi proposer des portions adaptées. À titre personnel, je fais une liste de courses et je cuisine les restes le dimanche, ce qui me fait économiser de l'argent.",
+   "model_commentary": "Le candidat salue la mesure, l'élargit à d'autres acteurs, apporte une information précise sur les dates et termine par son expérience personnelle, comme le demande la relance. La réponse est complète et documentée.",
+   "tips": "Élargissez le sujet à plusieurs acteurs (État, entreprises, citoyens) : c'est une manière efficace de développer votre point de vue."
+  },
+  {
+   "code": "EO-B2-083",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il encourager l'apprentissage de plusieurs langues dès la maternelle ?",
+   "examiner_role": "Examinateur",
+   "theme": "langues",
+   "duration_s": 210,
+   "scenario": "Certains parents et écoles veulent introduire une langue étrangère dès trois ans. Est-ce bénéfique ou trop tôt selon vous ?",
+   "examiner_prompts": [
+    "Les enfants risquent de mélanger les langues.",
+    "Il faut d'abord bien maîtriser sa langue maternelle.",
+    "Quelle langue choisir ?",
+    "Les familles bilingues ont-elles un avantage ?"
+   ],
+   "useful_phrases": [
+    "Les études montrent que…",
+    "Il n'y a pas lieu de craindre…",
+    "À condition de…"
+   ],
+   "model_answer": "Je suis convaincu que c'est bénéfique, à condition de le faire de manière ludique. Les jeunes enfants ont une oreille extraordinaire : ils reproduisent les sons sans effort, ce qui devient beaucoup plus difficile à l'âge adulte. Il n'y a pas lieu de craindre la confusion : mélanger les langues au début est normal, et cela disparaît avec le temps. Mes propres enfants parlent arabe à la maison et français à l'école, et ils passent de l'une à l'autre sans difficulté. Quant au choix de la langue, l'anglais est utile, mais une langue parlée par les familles du quartier aurait aussi du sens.",
+   "model_commentary": "La réponse avance un argument sur la plasticité de l'oreille, répond à l'objection de la confusion, s'appuie sur une expérience personnelle et ouvre une réflexion originale sur le choix de la langue.",
+   "tips": "Une expérience personnelle courte et précise est un excellent exemple. Reliez-la toujours à votre argument."
+  },
+  {
+   "code": "EO-B2-084",
+   "task_number": 3,
+   "level": "B2",
+   "title": "La vidéosurveillance rend-elle les villes plus sûres ?",
+   "examiner_role": "Examinateur",
+   "theme": "société",
+   "duration_s": 210,
+   "scenario": "De nombreuses villes installent des caméras dans les rues. Selon vous, est-ce un moyen efficace d'assurer la sécurité, ou une atteinte à la vie privée ?",
+   "examiner_prompts": [
+    "Si on n'a rien à se reprocher, on n'a rien à craindre.",
+    "Les caméras aident à retrouver les coupables.",
+    "Les délinquants vont simplement ailleurs.",
+    "Que proposeriez-vous à la place ?"
+   ],
+   "useful_phrases": [
+    "Il faut distinguer…",
+    "Rien ne prouve que…",
+    "Je serais plutôt pour…"
+   ],
+   "model_answer": "Il faut distinguer deux choses : élucider les délits et les empêcher. Les caméras aident effectivement la police à retrouver des coupables après coup. En revanche, rien ne prouve qu'elles empêchent les agressions ; souvent, la délinquance se déplace simplement dans les rues voisines. L'argument « si on n'a rien à se reprocher » me gêne, car la vie privée est un droit, pas un privilège réservé aux innocents. Je serais plutôt pour des caméras limitées aux lieux sensibles, comme les gares, et pour davantage d'éclairage public et de présence humaine, qui rassurent bien plus les habitants.",
+   "model_commentary": "Le candidat introduit une distinction conceptuelle, concède l'utilité pour l'enquête, réfute l'efficacité préventive et l'argument de la vie privée, puis propose une solution équilibrée. Le raisonnement est fin et structuré.",
+   "tips": "Commencer par « il faut distinguer » montre une capacité d'analyse appréciée au niveau B2 et vous permet de nuancer facilement."
+  },
+  {
+   "code": "EO-B2-085",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il taxer davantage les billets d'avion ?",
+   "examiner_role": "Examinateur",
+   "theme": "environnement",
+   "duration_s": 210,
+   "scenario": "Pour lutter contre le réchauffement climatique, certains proposent de taxer fortement les billets d'avion, surtout pour les vols courts. Qu'en pensez-vous ?",
+   "examiner_prompts": [
+    "Seuls les riches pourront voyager.",
+    "Les familles immigrées ont besoin de l'avion pour voir leurs proches.",
+    "Le train est souvent plus cher.",
+    "Les compagnies aériennes vont licencier."
+   ],
+   "useful_phrases": [
+    "Je comprends l'objectif, mais…",
+    "Ce serait injuste si…",
+    "Une solution plus juste serait…"
+   ],
+   "model_answer": "Je comprends l'objectif, car l'avion est le moyen de transport le plus polluant par passager. Mais une taxe uniforme serait injuste : elle pénaliserait les familles modestes, notamment celles qui ont des proches à l'étranger et ne prennent l'avion qu'une fois par an. Une solution plus juste serait de taxer selon la fréquence : le premier vol de l'année resterait abordable, les suivants seraient de plus en plus chers. Pour les vols courts, quand un train fait le trajet en moins de trois heures, je suis favorable à leur suppression, à condition que le prix du train baisse.",
+   "model_commentary": "La réponse reconnaît l'objectif écologique, identifie l'injustice sociale, propose une taxe progressive originale et une mesure ciblée sous condition. Le candidat articule écologie et justice sociale.",
+   "tips": "Quand une mesure pose un problème de justice, proposez une version « progressive » ou « ciblée » : c'est une façon constructive de nuancer."
+  },
+  {
+   "code": "EO-B2-086",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Le bénévolat peut-il remplacer les services publics ?",
+   "examiner_role": "Examinateur",
+   "theme": "société",
+   "duration_s": 210,
+   "scenario": "Dans certaines communes, des bénévoles assurent des services autrefois publics : bibliothèques, transport de personnes âgées, aide aux devoirs. Est-ce une bonne évolution ?",
+   "examiner_prompts": [
+    "C'est la preuve de la solidarité des citoyens.",
+    "Les communes n'ont plus d'argent.",
+    "Les bénévoles ne sont pas des professionnels.",
+    "Avez-vous déjà été bénévole ?"
+   ],
+   "useful_phrases": [
+    "Le bénévolat est précieux, à condition de…",
+    "Le danger serait que…",
+    "Il ne faudrait pas que…"
+   ],
+   "model_answer": "Le bénévolat est précieux, à condition de compléter les services publics, pas de les remplacer. Il montre une belle solidarité, et beaucoup d'actions n'existeraient pas sans lui. Mais le danger serait que l'État se décharge de ses responsabilités : un service public doit être garanti à tous, partout et durablement, alors qu'une association dépend de l'énergie de quelques personnes. Si les bénévoles se fatiguent ou déménagent, le service disparaît. Il ne faudrait pas non plus que des emplois qualifiés, comme ceux de bibliothécaire, soient remplacés par du travail gratuit.",
+   "model_commentary": "Le candidat distingue complément et remplacement, salue la solidarité, puis développe le risque de fragilité et de concurrence avec l'emploi. Les subjonctifs (« il ne faudrait pas que… soient ») sont bien maîtrisés.",
+   "tips": "La distinction « compléter / remplacer » est une manière simple de prendre position dans de nombreux débats (technologie, IA, bénévolat…)."
+  },
+  {
+   "code": "EO-B2-087",
+   "task_number": 3,
+   "level": "B2",
+   "title": "L'intelligence artificielle menace-t-elle l'emploi ?",
+   "examiner_role": "Examinateur",
+   "theme": "technologie",
+   "duration_s": 210,
+   "scenario": "L'intelligence artificielle se développe rapidement et peut accomplir des tâches autrefois réservées aux humains. Pensez-vous qu'elle représente une menace pour l'emploi ?",
+   "examiner_prompts": [
+    "Les machines ont toujours créé de nouveaux emplois.",
+    "Les métiers intellectuels sont aussi concernés cette fois.",
+    "L'IA va libérer les gens des tâches pénibles.",
+    "Comment se préparer à ces changements ?"
+   ],
+   "useful_phrases": [
+    "Il serait naïf de…",
+    "Toute la question est de savoir…",
+    "Il est donc urgent de…"
+   ],
+   "model_answer": "Il serait naïf de dire que l'intelligence artificielle ne supprimera aucun emploi : des tâches comme la traduction simple ou la saisie de données sont déjà automatisées. Cependant, l'histoire montre que les innovations transforment les métiers plus qu'elles ne les font disparaître. Toute la question est de savoir si les personnes concernées pourront se former assez vite. La différence, cette fois, c'est que les emplois qualifiés sont touchés aussi. Il est donc urgent d'investir dans la formation continue, pour que chacun apprenne à utiliser ces outils au lieu d'être remplacé par eux.",
+   "model_commentary": "La réponse évite le discours alarmiste comme l'optimisme naïf, s'appuie sur des exemples et l'histoire, identifie la vraie question et propose une solution. Les structures (« plus qu'elles ne les font », « toute la question est de savoir si ») sont de niveau B2+.",
+   "tips": "« Toute la question est de savoir si… » permet de recentrer le débat sur l'enjeu principal : c'est une formule très efficace à l'oral."
+  },
+  {
+   "code": "EO-B2-088",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il interdire les jouets genrés ?",
+   "examiner_role": "Examinateur",
+   "theme": "société",
+   "duration_s": 210,
+   "scenario": "Des associations demandent que les magasins ne séparent plus les jouets en rayons « filles » et « garçons ». Qu'en pensez-vous ?",
+   "examiner_prompts": [
+    "Les enfants choisissent naturellement des jouets différents.",
+    "C'est aux parents de décider.",
+    "Il y a des problèmes plus importants.",
+    "Que faisiez-vous quand vous étiez enfant ?"
+   ],
+   "useful_phrases": [
+    "Je ne pense pas qu'il faille…, mais…",
+    "Il me paraît important que…",
+    "Laissons…"
+   ],
+   "model_answer": "Je ne pense pas qu'il faille interdire quoi que ce soit, mais il me paraît important que les magasins arrêtent de classer les jouets par sexe. Quand une petite fille voit que les jeux de construction sont dans le rayon « garçons », elle comprend que ce n'est pas pour elle. Ces messages influencent ensuite les choix d'études et de métiers. Les enfants ont des goûts différents, bien sûr, mais laissons-les choisir librement. Quand j'étais petit, j'adorais jouer à la dînette avec ma sœur, et c'est peut-être pour ça que j'aime cuisiner aujourd'hui !",
+   "model_commentary": "Le candidat nuance (pas d'interdiction, mais un changement de pratique), explique l'impact à long terme, concède la diversité des goûts et termine sur une anecdote personnelle avec humour. L'impératif « laissons-les choisir » est bien placé.",
+   "tips": "Une touche d'humour personnelle à la fin rend votre point de vue mémorable, à condition qu'elle reste liée au sujet."
+  },
+  {
+   "code": "EO-B2-089",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Les jeunes doivent-ils quitter le domicile familial tôt ?",
+   "examiner_role": "Examinateur",
+   "theme": "famille",
+   "duration_s": 210,
+   "scenario": "Dans certains pays, les jeunes quittent leurs parents vers dix-huit ans ; dans d'autres, ils restent jusqu'à leur mariage. Selon vous, à quel âge faut-il devenir indépendant ?",
+   "examiner_prompts": [
+    "Les loyers sont trop chers pour les jeunes.",
+    "Vivre en famille, c'est aussi de la solidarité.",
+    "Partir tôt rend plus responsable.",
+    "Comment cela se passe-t-il dans votre pays ?"
+   ],
+   "useful_phrases": [
+    "Il n'y a pas d'âge idéal, mais…",
+    "Dans mon pays, … alors qu'en France…",
+    "L'essentiel est de…"
+   ],
+   "model_answer": "Il n'y a pas d'âge idéal, mais je crois qu'il est important de vivre seul au moins quelque temps. Gérer un budget, faire ses courses, régler des problèmes administratifs, cela rend autonome et responsable. Dans mon pays, la Tunisie, on reste souvent chez ses parents jusqu'au mariage, alors qu'en France, on part plutôt pour les études. Les deux modèles ont leurs avantages : la famille offre un soutien affectif et financier, surtout avec des loyers très élevés. L'essentiel est que le jeune choisisse librement, et non qu'il reste par obligation ou parte par pression sociale.",
+   "model_commentary": "Le candidat nuance dès le départ, justifie l'importance de l'autonomie avec des exemples concrets, compare deux cultures sans jugement et conclut sur le libre choix. Le subjonctif final est bien construit.",
+   "tips": "Pour comparer deux cultures, utilisez « alors que » ou « tandis que » et évitez de juger : présentez les avantages de chaque modèle."
+  },
+  {
+   "code": "EO-B2-090",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il rendre le vote obligatoire ?",
+   "examiner_role": "Examinateur",
+   "theme": "politique",
+   "duration_s": 210,
+   "scenario": "Dans certains pays, comme la Belgique, voter est obligatoire. Face à l'abstention croissante, faudrait-il adopter cette règle partout ?",
+   "examiner_prompts": [
+    "Voter est un droit, pas un devoir.",
+    "Les gens voteront au hasard.",
+    "Le vote blanc n'est pas reconnu.",
+    "Pourquoi les gens ne votent-ils plus selon vous ?"
+   ],
+   "useful_phrases": [
+    "Je ne suis pas favorable à…, car…",
+    "Il vaudrait mieux s'attaquer aux causes…",
+    "Si… était reconnu, …"
+   ],
+   "model_answer": "Je ne suis pas favorable au vote obligatoire, car je pense que forcer les gens à voter ne règle pas le problème de fond. Les abstentionnistes ne sont pas forcément indifférents : beaucoup ont le sentiment que leur vote ne change rien ou qu'aucun candidat ne les représente. Il vaudrait mieux s'attaquer à ces causes, par exemple en expliquant mieux les enjeux dès l'école ou en consultant plus souvent les citoyens sur des questions locales. Si le vote blanc était reconnu dans les résultats, beaucoup de gens retourneraient sans doute aux urnes pour exprimer leur mécontentement.",
+   "model_commentary": "La réponse prend position, analyse les causes de l'abstention, propose des solutions alternatives et utilise une hypothèse (« si le vote blanc était reconnu… retourneraient »). L'argumentation va au-delà de la simple opinion.",
+   "tips": "Pour critiquer une mesure, proposez une alternative qui s'attaque aux causes du problème : cela montre une pensée constructive."
+  },
+  {
+   "code": "EO-B2-091",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Les réseaux sociaux sont-ils dangereux pour la démocratie ?",
+   "examiner_role": "Examinateur",
+   "theme": "médias",
+   "duration_s": 210,
+   "scenario": "Fausses informations, bulles d'opinion, discours de haine : certains estiment que les réseaux sociaux menacent la démocratie. Partagez-vous ce point de vue ?",
+   "examiner_prompts": [
+    "Les réseaux permettent à tous de s'exprimer.",
+    "Ils ont permis des mouvements de libération.",
+    "C'est aux utilisateurs d'être critiques.",
+    "Faut-il les réguler davantage ?"
+   ],
+   "useful_phrases": [
+    "Les réseaux sociaux sont à double tranchant : …",
+    "Le problème principal, c'est que…",
+    "Il appartient à…"
+   ],
+   "model_answer": "Les réseaux sociaux sont à double tranchant. Ils ont donné la parole à des personnes qui ne l'avaient jamais eue, et ils ont joué un rôle important dans certains mouvements de contestation. Le problème principal, c'est que leurs algorithmes mettent en avant les contenus qui provoquent des émotions fortes, comme la colère, parce qu'ils génèrent plus de clics. Résultat : les fausses informations circulent plus vite que les vraies. Bien sûr, les utilisateurs doivent rester critiques, mais il appartient aussi aux États d'imposer plus de transparence sur ces algorithmes.",
+   "model_commentary": "Le candidat présente les deux faces du sujet, identifie précisément le mécanisme problématique (les algorithmes), concède la responsabilité individuelle et formule une exigence de régulation. L'expression « à double tranchant » est idiomatique.",
+   "tips": "Expliquez le « comment » d'un problème (ici, le fonctionnement des algorithmes) : c'est ce qui distingue une argumentation B2 d'une simple opinion."
+  },
+  {
+   "code": "EO-B2-092",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il manger moins de viande ?",
+   "examiner_role": "Examinateur",
+   "theme": "alimentation",
+   "duration_s": 210,
+   "scenario": "Pour des raisons écologiques et de santé, certains recommandent de réduire fortement la consommation de viande. Faut-il encourager, voire imposer, cette évolution ?",
+   "examiner_prompts": [
+    "La viande fait partie de nos traditions.",
+    "Les éleveurs vont perdre leur emploi.",
+    "C'est un choix personnel.",
+    "Faut-il des repas végétariens obligatoires à la cantine ?"
+   ],
+   "useful_phrases": [
+    "Je pense qu'il faut encourager… sans…",
+    "Il ne s'agit pas de…",
+    "Pourquoi ne pas… ?"
+   ],
+   "model_answer": "Je pense qu'il faut encourager une baisse de la consommation de viande, sans l'imposer. L'élevage intensif pollue beaucoup et consomme d'énormes quantités d'eau, et manger de la viande tous les jours n'est pas recommandé pour la santé. Il ne s'agit pas de renoncer aux traditions, mais de manger moins de viande et de meilleure qualité, ce qui aiderait justement les petits éleveurs locaux face à l'industrie. Pour les cantines, un repas végétarien par semaine me paraît raisonnable. Pourquoi ne pas aussi apprendre aux enfants à cuisiner les légumineuses, qui sont bon marché et nourrissantes ?",
+   "model_commentary": "La réponse justifie la position par des arguments écologiques et de santé, transforme l'objection sur les éleveurs en argument favorable et propose des mesures modérées. La question rhétorique finale relance la réflexion.",
+   "tips": "Retourner une objection (« ce qui aiderait justement les petits éleveurs ») est une technique de haut niveau très appréciée par les examinateurs."
+  },
+  {
+   "code": "EO-B2-093",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Les musées devraient-ils être gratuits ?",
+   "examiner_role": "Examinateur",
+   "theme": "culture",
+   "duration_s": 210,
+   "scenario": "Dans certains pays, l'entrée des musées nationaux est gratuite pour tous. Faudrait-il généraliser cette gratuité ?",
+   "examiner_prompts": [
+    "Les musées ont besoin de recettes pour fonctionner.",
+    "Ce qui est gratuit n'a pas de valeur.",
+    "Les touristes profiteraient d'un service payé par les habitants.",
+    "Allez-vous souvent au musée ?"
+   ],
+   "useful_phrases": [
+    "L'accès à la culture devrait…",
+    "Il est faux de dire que…",
+    "Un compromis possible serait…"
+   ],
+   "model_answer": "L'accès à la culture devrait être un droit, et le prix est souvent un obstacle pour les familles modestes. Il est faux de dire que ce qui est gratuit n'a pas de valeur : l'école publique est gratuite, et personne ne pense qu'elle ne vaut rien. Cela dit, les musées ont besoin de ressources pour entretenir les collections. Un compromis possible serait la gratuité pour les habitants du pays et les moins de vingt-six ans, tandis que les touristes paieraient leur entrée. Personnellement, je vais plus souvent au musée depuis que le premier dimanche du mois est gratuit.",
+   "model_commentary": "Le candidat affirme une valeur (droit à la culture), réfute une objection par une analogie avec l'école, concède le besoin de financement et propose un compromis précis. L'exemple personnel final illustre l'effet de la gratuité.",
+   "tips": "L'analogie (« l'école est gratuite et personne ne pense qu'elle ne vaut rien ») est une arme redoutable pour réfuter une idée reçue."
+  },
+  {
+   "code": "EO-B2-094",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il encourager le retour à la campagne ?",
+   "examiner_role": "Examinateur",
+   "theme": "société",
+   "duration_s": 210,
+   "scenario": "Depuis quelques années, des citadins partent s'installer à la campagne. Faut-il encourager ce mouvement par des aides publiques ?",
+   "examiner_prompts": [
+    "Il n'y a pas de travail à la campagne.",
+    "Les services publics y ferment.",
+    "Les néo-ruraux ne s'intègrent pas toujours.",
+    "Vous, pourriez-vous vivre à la campagne ?"
+   ],
+   "useful_phrases": [
+    "Ce mouvement présente des avantages pour…",
+    "Encore faudrait-il que…",
+    "Je verrais bien…"
+   ],
+   "model_answer": "Ce mouvement présente des avantages à la fois pour les villes, qui sont saturées, et pour les villages, qui se vident. Avec le télétravail, beaucoup de métiers peuvent s'exercer n'importe où. Encore faudrait-il que les campagnes offrent une connexion internet de qualité, des écoles et des médecins, sinon les nouveaux habitants repartiront vite. Les aides publiques devraient donc servir d'abord à maintenir ces services, plutôt qu'à verser une prime à l'installation. Quant à l'intégration, elle passe par la participation à la vie locale : associations, marchés, fêtes du village. Personnellement, je verrais bien ma famille dans une petite ville avec une gare.",
+   "model_commentary": "La réponse montre un double bénéfice, pose une condition avec l'inversion « encore faudrait-il que », oriente les aides publiques de manière argumentée et répond à l'objection sur l'intégration. La réponse personnelle finale est nuancée.",
+   "tips": "Quand on vous demande s'il faut des « aides », précisez lesquelles : c'est l'occasion de montrer un raisonnement concret."
+  },
+  {
+   "code": "EO-B2-095",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Le sport professionnel paie-t-il trop ses champions ?",
+   "examiner_role": "Examinateur",
+   "theme": "sport",
+   "duration_s": 210,
+   "scenario": "Certains footballeurs gagnent en un mois ce qu'un infirmier gagne en une vie. Ces salaires sont-ils justifiés ?",
+   "examiner_prompts": [
+    "C'est la loi du marché.",
+    "Leur carrière est courte.",
+    "Ils font rêver des millions de personnes.",
+    "Faudrait-il plafonner les salaires ?"
+   ],
+   "useful_phrases": [
+    "Je trouve disproportionné que…",
+    "On peut comprendre que…, mais…",
+    "Il serait juste de…"
+   ],
+   "model_answer": "Je trouve disproportionné qu'un sportif gagne des millions alors que des métiers essentiels, comme infirmier ou enseignant, sont si mal payés. On peut comprendre que les champions soient bien rémunérés : leur carrière est courte, et ils génèrent beaucoup d'argent grâce aux droits télévisés et à la publicité. Mais la loi du marché ne dit rien de la valeur réelle d'un travail pour la société. Plafonner les salaires serait difficile, car les joueurs partiraient dans d'autres pays. Il serait plus juste de taxer davantage les très hauts revenus et de redistribuer une partie de l'argent vers le sport amateur.",
+   "model_commentary": "Le candidat exprime une indignation argumentée, concède les justifications économiques, distingue valeur marchande et valeur sociale, puis écarte une solution irréaliste au profit d'une proposition plus faisable.",
+   "tips": "Évaluez la faisabilité des solutions proposées par l'examinateur : « ce serait difficile, car… ; il serait plus réaliste de… »."
+  },
+  {
+   "code": "EO-B2-096",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il obliger les propriétaires à rénover leurs logements ?",
+   "examiner_role": "Examinateur",
+   "theme": "logement",
+   "duration_s": 210,
+   "scenario": "Pour réduire la consommation d'énergie, la loi interdit progressivement de louer les logements mal isolés. Cette obligation est-elle une bonne chose ?",
+   "examiner_prompts": [
+    "Beaucoup de petits propriétaires n'ont pas les moyens.",
+    "Il y aura moins de logements à louer.",
+    "Les loyers vont augmenter.",
+    "Les locataires y gagnent vraiment ?"
+   ],
+   "useful_phrases": [
+    "Sur le principe, je suis d'accord, car…",
+    "Le risque, c'est que…",
+    "Pour éviter cela, il faudrait…"
+   ],
+   "model_answer": "Sur le principe, je suis d'accord, car les locataires des logements mal isolés paient des factures énormes et vivent dans le froid ; ce sont souvent les familles les plus modestes. Le risque, c'est que certains petits propriétaires, qui n'ont pas les moyens de faire les travaux, retirent leur logement du marché, ce qui aggraverait la pénurie. Pour éviter cela, il faudrait des aides plus simples et plus importantes, et des prêts sans intérêts. Les loyers augmenteront peut-être un peu, mais si la facture de chauffage baisse davantage, le locataire y gagne quand même.",
+   "model_commentary": "La réponse approuve le principe avec un argument social, identifie un effet pervers, propose une solution et répond à l'objection sur les loyers par un raisonnement économique. Le propos est clair et équilibré.",
+   "tips": "Identifier un « effet pervers » (une conséquence inattendue) d'une mesure montre une réflexion approfondie, typique du niveau B2."
+  },
+  {
+   "code": "EO-B2-097",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il apprendre l'histoire de l'immigration à l'école ?",
+   "examiner_role": "Examinateur",
+   "theme": "éducation",
+   "duration_s": 210,
+   "scenario": "Certains souhaitent que l'histoire de l'immigration occupe une place plus importante dans les programmes scolaires. Qu'en pensez-vous ?",
+   "examiner_prompts": [
+    "Le programme d'histoire est déjà très chargé.",
+    "Cela risque de diviser les élèves.",
+    "Chaque famille peut transmettre son histoire.",
+    "Que savez-vous de l'histoire de l'immigration en France ?"
+   ],
+   "useful_phrases": [
+    "Il me semble essentiel de…",
+    "Loin de diviser, …",
+    "Cela permettrait de…"
+   ],
+   "model_answer": "Il me semble essentiel d'enseigner cette histoire, parce qu'elle fait partie de l'histoire de France. Des millions de Français ont un parent ou un grand-parent venu d'Italie, d'Espagne, de Pologne, du Maghreb ou d'Afrique. Loin de diviser, cela permettrait aux élèves de comprendre d'où vient la diversité de leur classe et de mieux se respecter. Par exemple, beaucoup ignorent que des travailleurs immigrés ont reconstruit le pays après la Seconde Guerre mondiale. Le programme est chargé, c'est vrai, mais on peut intégrer ce thème aux chapitres existants, sans ajouter de nouvelles heures.",
+   "model_commentary": "Le candidat justifie sa position par un fait historique, réfute l'objection de la division avec « loin de diviser », illustre par un exemple précis et répond à l'objection pratique par une solution réaliste.",
+   "tips": "« Loin de + infinitif » est une structure élégante pour inverser une objection : « loin de diviser, cela rassemble »."
+  },
+  {
+   "code": "EO-B2-098",
+   "task_number": 3,
+   "level": "B2",
+   "title": "La mode éphémère doit-elle être freinée ?",
+   "examiner_role": "Examinateur",
+   "theme": "consommation",
+   "duration_s": 210,
+   "scenario": "Des vêtements très bon marché, renouvelés chaque semaine, sont vendus en masse en ligne. Faut-il freiner cette mode éphémère, par exemple avec une taxe ?",
+   "examiner_prompts": [
+    "C'est la seule façon pour les pauvres de s'habiller.",
+    "Les consommateurs sont libres.",
+    "Une taxe ne changera rien.",
+    "Comment achetez-vous vos vêtements ?"
+   ],
+   "useful_phrases": [
+    "Il est urgent de…",
+    "Je comprends l'argument du prix, cependant…",
+    "Une meilleure solution consisterait à…"
+   ],
+   "model_answer": "Il est urgent de freiner ce modèle, qui pollue énormément et repose souvent sur des conditions de travail indignes. Je comprends l'argument du prix, cependant ces vêtements s'usent très vite : on finit par en racheter, et au total, on ne fait pas vraiment d'économies. Une taxe peut être utile si elle sert à financer la réparation et la seconde main. Une meilleure solution consisterait aussi à obliger les marques à afficher l'impact environnemental de chaque vêtement. Pour ma part, j'achète beaucoup d'occasion, et j'ai trouvé des vêtements de très bonne qualité pour quelques euros.",
+   "model_commentary": "Le candidat donne deux raisons (écologie et conditions de travail), réfute l'argument du prix par un raisonnement sur la durée, conditionne l'efficacité de la taxe et propose une mesure complémentaire. L'exemple personnel est convaincant.",
+   "tips": "Pour réfuter un argument économique, raisonnez sur le long terme : « à court terme…, mais au total… »."
+  },
+  {
+   "code": "EO-B2-099",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il imposer un âge minimum pour les réseaux sociaux ?",
+   "examiner_role": "Examinateur",
+   "theme": "technologie",
+   "duration_s": 210,
+   "scenario": "Plusieurs pays envisagent d'interdire les réseaux sociaux aux moins de quinze ans. Êtes-vous favorable à cette mesure ?",
+   "examiner_prompts": [
+    "Les adolescents trouveront toujours un moyen de contourner l'interdiction.",
+    "Les réseaux permettent de garder le lien avec ses amis.",
+    "C'est aux parents de surveiller.",
+    "Comment vérifier l'âge des utilisateurs ?"
+   ],
+   "useful_phrases": [
+    "Je suis favorable à…, même si…",
+    "Ce n'est pas parce que… que…",
+    "L'important, c'est de…"
+   ],
+   "model_answer": "Je suis favorable à cette mesure, même si elle sera difficile à appliquer. Les études montrent un lien entre l'usage intensif des réseaux sociaux et l'anxiété chez les jeunes adolescents, notamment à cause de la comparaison permanente et du harcèlement. Ce n'est pas parce que certains contourneront la règle qu'elle est inutile : l'interdiction de l'alcool aux mineurs n'est pas toujours respectée, mais elle fixe une norme et aide les parents à dire non. Les adolescents peuvent garder le lien avec leurs amis par des messageries simples. L'important, c'est de retarder l'entrée dans les réseaux, pas de les diaboliser.",
+   "model_commentary": "Le candidat prend position en reconnaissant la difficulté, justifie par des effets observés, réfute l'objection du contournement par une analogie et propose une alternative. La structure « ce n'est pas parce que… que… » est un marqueur fort du B2.",
+   "tips": "« Ce n'est pas parce que… que… » est idéal pour répondre à l'objection « ça ne marchera pas toujours »."
+  },
+  {
+   "code": "EO-B2-100",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Les jeux vidéo sont-ils une forme de culture ?",
+   "examiner_role": "Examinateur",
+   "theme": "culture",
+   "duration_s": 210,
+   "scenario": "Certains considèrent les jeux vidéo comme un art, au même titre que le cinéma ; d'autres n'y voient qu'un divertissement addictif. Quelle est votre opinion ?",
+   "examiner_prompts": [
+    "Les jeux vidéo rendent violents.",
+    "Les jeunes y passent trop de temps.",
+    "Un jeu, ce n'est pas un livre.",
+    "Faudrait-il les utiliser à l'école ?"
+   ],
+   "useful_phrases": [
+    "Je considère que… peut être…",
+    "Comme pour…, tout dépend…",
+    "Aucune étude sérieuse n'a démontré…"
+   ],
+   "model_answer": "Je considère que certains jeux vidéo sont de véritables œuvres culturelles : ils racontent des histoires complexes, avec une musique et des graphismes travaillés par des centaines d'artistes. Comme pour le cinéma, tout dépend du contenu : il existe des chefs-d'œuvre et des produits purement commerciaux. L'idée que les jeux rendent violent n'a jamais été clairement démontrée par les études sérieuses. En revanche, le temps passé devant l'écran doit être encadré, comme pour la télévision. À l'école, des jeux de simulation historique pourraient même aider certains élèves à s'intéresser à l'histoire.",
+   "model_commentary": "Le candidat défend une position argumentée, établit une comparaison avec le cinéma, réfute une idée reçue, concède la question du temps d'écran et propose un usage pédagogique. La réponse est équilibrée.",
+   "tips": "Comparer avec une forme culturelle reconnue (cinéma, littérature) aide à légitimer votre point de vue sur un sujet discuté."
+  },
+  {
+   "code": "EO-B2-101",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il augmenter l'âge de la retraite ?",
+   "examiner_role": "Examinateur",
+   "theme": "travail",
+   "duration_s": 210,
+   "scenario": "L'espérance de vie augmente et de nombreux pays repoussent l'âge de départ à la retraite. Est-ce une décision juste selon vous ?",
+   "examiner_prompts": [
+    "Il faut bien financer les retraites.",
+    "Les seniors ont du mal à trouver un emploi.",
+    "Certains métiers sont trop pénibles.",
+    "À quel âge aimeriez-vous partir ?"
+   ],
+   "useful_phrases": [
+    "Je comprends la logique financière, mais…",
+    "Il serait injuste de…",
+    "Plutôt que de…, on pourrait…"
+   ],
+   "model_answer": "Je comprends la logique financière : si l'on vit plus longtemps, la retraite coûte plus cher. Mais il serait injuste d'appliquer le même âge à tout le monde. Un ouvrier du bâtiment ou une aide-soignante qui porte des patients toute la journée n'ont pas la même espérance de vie en bonne santé qu'un cadre de bureau. Par ailleurs, beaucoup de seniors sont licenciés avant l'âge de la retraite et ne retrouvent pas d'emploi. Plutôt que de repousser l'âge pour tous, on pourrait tenir compte de la pénibilité et encourager les entreprises à garder les salariés âgés.",
+   "model_commentary": "La réponse reconnaît l'argument financier, développe l'argument de la justice selon les métiers avec des exemples, ajoute l'argument du chômage des seniors et propose une alternative. L'argumentation est riche et organisée.",
+   "tips": "Sur les sujets de société, illustrez avec des métiers ou des personnes concrètes : c'est plus parlant qu'une idée abstraite."
+  },
+  {
+   "code": "EO-B2-102",
+   "task_number": 3,
+   "level": "B2",
+   "title": "Le tourisme de masse doit-il être limité dans les sites naturels ?",
+   "examiner_role": "Examinateur",
+   "theme": "environnement",
+   "duration_s": 210,
+   "scenario": "Certains parcs naturels et plages instaurent des quotas de visiteurs et des réservations obligatoires. Êtes-vous favorable à ces limitations ?",
+   "examiner_prompts": [
+    "La nature appartient à tout le monde.",
+    "Les réservations en ligne excluent les personnes âgées.",
+    "Les commerçants locaux vont perdre de l'argent.",
+    "Avez-vous déjà visité un site trop fréquenté ?"
+   ],
+   "useful_phrases": [
+    "Je suis favorable à…, car…",
+    "On ne peut pas à la fois… et…",
+    "Il faudrait veiller à ce que…"
+   ],
+   "model_answer": "Je suis favorable à ces quotas, car certains sites sont en train d'être détruits par leur succès : sentiers érodés, déchets, animaux dérangés. On ne peut pas à la fois vouloir admirer une nature intacte et y envoyer des milliers de personnes chaque jour. La nature appartient à tout le monde, justement : il faut la préserver pour les générations futures. Il faudrait toutefois veiller à ce que la réservation reste gratuite et possible par téléphone, pour ne pas exclure les personnes peu à l'aise avec internet. L'été dernier, j'ai visité une calanque bondée : on ne voyait plus la mer, seulement des serviettes.",
+   "model_commentary": "Le candidat justifie sa position par des faits concrets, utilise une structure logique forte (« on ne peut pas à la fois… et… »), retourne l'objection de la propriété collective, ajoute une condition d'équité et termine par une anecdote vivante.",
+   "tips": "Terminer par une image concrète (« on ne voyait plus la mer, seulement des serviettes ») laisse une impression forte à l'examinateur."
+  }
+ ]
+}
