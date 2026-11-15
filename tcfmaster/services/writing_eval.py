@@ -80,6 +80,7 @@ class Evaluation:
     corrected_text: str
     model_answer: str = ""
     model_stats: dict[str, float] = field(default_factory=dict)
+    syntax: list[str] = field(default_factory=list)
     disclaimer: str = L.DISCLAIMER
     engine: str = ENGINE_VERSION
 
@@ -327,6 +328,59 @@ def _task_score(n: int, lo: int, hi: int, points: list[PointCheck]) -> tuple[flo
     return _clamp(score), " ".join(comment)
 
 
+_GREETING = re.compile(r"^(bonjour|bonsoir|salut|coucou|cher|chère|chers|madame|monsieur|"
+                       r"cordialement|bien cordialement|bien à (toi|vous)|à bientôt|amitiés|"
+                       r"amicalement|bises|respectueusement)\b", re.I)
+_SUBORD = re.compile(r"\b(que|qu'|qui|dont|où|lorsque|lorsqu'|quand|puisque|puisqu'|bien que|"
+                     r"bien qu'|si|s'il|s'ils|afin que|pour que|alors que|tandis que|même si|"
+                     r"parce que|parce qu'|en \w+ant|ayant|étant)", re.I)
+
+
+def syntax_notes(text: str) -> list[str]:
+    """Analyse de la syntaxe : construction et longueur des phrases.
+
+    Mesure la part de phrases complexes (avec subordonnée), repère les phrases
+    trop longues à découper, les débuts de phrase répétitifs et l'absence de
+    ponctuation finale (une formule de congé « …, Prénom » est admise). Les formules d'appel et de congé et une signature
+    finale sont ignorées."""
+    text = (text or "").strip()
+    if not text:
+        return []
+    lines = [ln.strip() for ln in text.splitlines() if ln.strip()]
+    if len(lines) > 1 and len(words(lines[-1])) <= 4:      # signature
+        lines = lines[:-1]
+    body = "\n".join(lines)
+    sents = []
+    for x in sentences(body):
+        if _GREETING.match(x):          # « Bonjour Madame, je… » : on garde la suite
+            x = x.split(",", 1)[1].strip() if "," in x else ""
+        if len(words(x)) >= 3:
+            sents.append(x)
+    if not sents:
+        return []
+    notes: list[str] = []
+    complex_n = sum(1 for x in sents if _SUBORD.search(x))
+    notes.append(f"{complex_n} phrase(s) complexe(s) sur {len(sents)} (avec une subordonnée : "
+                 f"que, qui, dont, où, si, parce que, bien que, gérondif…).")
+    if complex_n == 0 and len(sents) >= 4:
+        notes.append("Aucune subordonnée : au niveau B2, reliez vos idées avec des relatives "
+                     "(qui, que, dont) et des circonstancielles (bien que, si, afin que).")
+    for x in sents:
+        n = len(words(x))
+        if n > 35:
+            notes.append(f"Phrase de {n} mots (« {x[:40]}… ») : découpez-la ou "
+                         f"allégez-la avec un point-virgule.")
+    starts = Counter(words(x)[0] for x in sents if words(x))
+    for w, cnt in starts.most_common(1):
+        if cnt >= 4 and cnt * 2 >= len(sents):
+            notes.append(f"{cnt} phrases commencent par « {w} » : variez les débuts "
+                         f"(connecteur, complément circonstanciel, inversion).")
+    tail = re.split(r"[.!?…]", body)[-1]           # après la dernière ponctuation forte
+    if len(words(tail)) >= 6 and "," not in tail:    # une formule de congé a une virgule
+        notes.append("La dernière phrase ne se termine pas par une ponctuation finale.")
+    return notes[:6]
+
+
 def _coherence_score(n: int, conns: dict[str, list[str]], st: dict) -> tuple[float, str]:
     if n == 0:
         return 0, ""
@@ -430,7 +484,8 @@ def evaluate(text: str, task_number: int | None = None, min_words: int = 40,
         structures=structures, repetitions=reps, stats=st, strengths=strengths,
         priorities=priorities, corrected_text=apply_fixes(text, issues),
         model_answer=model_answer,
-        model_stats=text_stats(model_answer) if model_answer else {})
+        model_stats=text_stats(model_answer) if model_answer else {},
+        syntax=syntax_notes(text) if n else [])
 
 
 def _advice(n, lo, hi, criteria, errors, advice, conns, structures, reps, points):

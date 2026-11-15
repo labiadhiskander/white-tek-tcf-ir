@@ -130,6 +130,9 @@ def evaluation_html(ev: dict, text: str, title: str = "") -> str:
                    f"mots par phrase en moyenne, variété lexicale "
                    f"{round(100 * st.get('lexical_variety', 0))} %</li>")
     out.append("</ul>")
+    if ev.get("syntax"):
+        out.append("<h3>Syntaxe</h3><ul>" + "".join(
+            f"<li>{_esc(x)}</li>" for x in ev["syntax"]) + "</ul>")
     if ev.get("model_answer"):
         ms = ev.get("model_stats") or {}
         out.append("<h3>Réponse modèle (niveau B2)</h3>"

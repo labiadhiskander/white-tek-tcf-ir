@@ -221,7 +221,7 @@
    "min_words": 30,
    "max_words": 60,
    "instructions": "Vous venez de déménager. Écrivez un message à votre banque pour signaler votre nouvelle adresse, préciser la date du changement et demander l'envoi d'une nouvelle carte bancaire à cette adresse.",
-   "model_answer": "Madame, Monsieur, je vous informe de mon changement d'adresse à compter du 1er octobre. Ma nouvelle adresse est la suivante : 12, rue des Lilas, 69003 Lyon. Ma carte bancaire arrivant à expiration le mois prochain, je vous remercie de bien vouloir envoyer la nouvelle à cette adresse. Cordialement, Amélie Rousseau",
+   "model_answer": "Madame, Monsieur, je vous informe que je change d'adresse à compter du 1er octobre. Ma nouvelle adresse est la suivante : 12, rue des Lilas, 69003 Lyon. Ma carte bancaire arrivant à expiration le mois prochain, je vous remercie de bien vouloir envoyer la nouvelle à cette adresse. Cordialement, Amélie Rousseau",
    "model_commentary": "Le message est clair et formel. La proposition participiale « Ma carte bancaire arrivant à expiration » est une structure élégante de niveau B2, qui exprime la cause sans alourdir la phrase.",
    "expected_points": [
     "signaler le changement",
@@ -259,7 +259,7 @@
    "min_words": 30,
    "max_words": 60,
    "instructions": "Vous souhaitez prendre trois jours de congé pour un événement familial. Écrivez un message à votre responsable pour faire votre demande, expliquer la raison et proposer une organisation pendant votre absence.",
-   "model_answer": "Bonjour Madame Girard, je souhaiterais poser trois jours de congé, du 8 au 10 mai, pour assister au mariage de ma sœur en Bretagne. J'aurai terminé le rapport mensuel avant mon départ, et Julien a accepté de répondre aux clients en mon absence. Pourriez-vous me confirmer votre accord ? Merci d'avance, Antoine",
+   "model_answer": "Bonjour Madame Girard, je souhaiterais poser trois jours de congé, du 8 au 10 mai, pour assister au mariage de ma sœur en Bretagne. J'aurai terminé le rapport mensuel avant mon départ, et Julien a accepté de répondre aux clients en mon absence. Pourriez-vous me confirmer que vous êtes d'accord ? Merci d'avance, Antoine",
    "model_commentary": "La demande est précise et rassurante grâce à l'organisation proposée. Le futur antérieur (« J'aurai terminé ») est une structure de niveau B2 qui montre l'anticipation.",
    "expected_points": [
     "formuler la demande",
@@ -296,7 +296,7 @@
    "min_words": 30,
    "max_words": 60,
    "instructions": "Vous venez d'arriver dans une nouvelle ville pour vos études. Écrivez un message à vos parents pour les rassurer, décrire votre logement et raconter votre premier jour.",
-   "model_answer": "Chers parents, je suis bien arrivé à Montpellier ! Mon studio est petit mais lumineux, et il se trouve à dix minutes à pied de la faculté. Ce matin, j'ai assisté à la journée d'accueil : les étudiants de ma promotion ont l'air très sympathiques. Ne vous inquiétez pas, je m'organise bien. Je vous appelle dimanche. Je vous embrasse, Mehdi",
+   "model_answer": "Chers parents, je suis bien arrivé à Montpellier ! Mon studio, qui est petit mais lumineux, se trouve à dix minutes à pied de la faculté. Ce matin, j'ai assisté à la journée d'accueil : les étudiants de ma promotion ont l'air très sympathiques. Ne vous inquiétez pas : je m'organise bien. Je vous appelle dimanche. Je vous embrasse, Mehdi",
    "model_commentary": "Le message rassure, décrit et raconte en alternant présent et passé composé. L'opposition « petit mais lumineux » et l'expression « avoir l'air » enrichissent la description sans dépasser 60 mots.",
    "expected_points": [
     "rassurer",
@@ -407,8 +407,8 @@
    "min_words": 30,
    "max_words": 60,
    "instructions": "Votre association veut louer la salle des fêtes de la mairie pour une soirée. Écrivez un courriel pour présenter votre demande, préciser la date et le nombre de personnes, et demander les conditions de location.",
-   "model_answer": "Madame, Monsieur, l'association « Les Amis du Livre » souhaiterait louer la salle des fêtes le samedi 22 novembre, de 18 h à minuit, pour une soirée de lecture réunissant environ quatre-vingts personnes. Pourriez-vous nous préciser le tarif, les conditions de réservation et l'équipement disponible ? Avec nos remerciements, Marc Duval, président",
-   "model_commentary": "La demande est complète et formulée avec précision. Le participe présent « réunissant » évite une relative lourde, et la question finale regroupe trois demandes de façon fluide.",
+   "model_answer": "Madame, Monsieur, l'association « Les Amis du Livre » souhaiterait louer la salle des fêtes le samedi 22 novembre, de 18 h à minuit, pour une soirée de lecture qui réunira environ quatre-vingts personnes. Pourriez-vous nous préciser le tarif, les conditions de réservation et l'équipement disponible ? Avec nos remerciements, Marc Duval, président",
+   "model_commentary": "La demande est complète et formulée avec précision. La relative au futur « qui réunira » précise l'événement, et la question finale regroupe trois demandes de façon fluide.",
    "expected_points": [
     "présenter l'association",
     "préciser date et horaires",
@@ -444,7 +444,7 @@
    "min_words": 30,
    "max_words": 60,
    "instructions": "Vous faites chaque jour le même trajet en voiture pour aller travailler. Écrivez un message sur le panneau d'affichage de votre entreprise pour proposer un covoiturage, en précisant le trajet, les horaires et les conditions.",
-   "model_answer": "Covoiturage Villeneuve – zone industrielle : je fais ce trajet chaque jour en voiture, départ 7 h 30 de la place du Marché, retour vers 17 h 30. Je propose deux places pour partager les frais d'essence, soit environ trois euros par jour. Non-fumeurs de préférence. Intéressés ? Contactez-moi au poste 214. Damien, service comptabilité",
+   "model_answer": "Covoiturage Villeneuve – zone industrielle : je fais ce trajet chaque jour en voiture, départ 7 h 30 de la place du Marché, retour vers 17 h 30. Je propose deux places à ceux qui voudraient partager les frais d'essence, soit environ trois euros par jour. Non-fumeurs de préférence. Intéressés ? Contactez-moi au poste 214. Damien, service comptabilité",
    "model_commentary": "L'annonce est concise et complète : trajet, horaires, conditions et contact. Le style télégraphique est adapté au support, tout en restant grammaticalement correct.",
    "expected_points": [
     "préciser le trajet",
@@ -482,7 +482,7 @@
    "min_words": 30,
    "max_words": 60,
    "instructions": "Des amis vous invitent à passer un week-end à la montagne. Écrivez-leur pour accepter, poser une question pratique et proposer d'apporter quelque chose.",
-   "model_answer": "Super idée, merci pour l'invitation ! Je viens avec plaisir, à condition de pouvoir arriver samedi matin seulement, car je travaille vendredi soir. Faut-il prévoir des draps et des chaussures de randonnée ? De mon côté, je peux apporter le fromage et une bonne bouteille pour la raclette. Vivement ce week-end ! Bises, Lina",
+   "model_answer": "Super idée, merci pour l'invitation ! Je viens avec plaisir, à condition de pouvoir arriver samedi matin seulement, car je travaille vendredi soir. Faut-il prévoir des draps et des chaussures de randonnée ? De mon côté, je peux apporter le fromage et une bonne bouteille si vous faites une raclette. Vivement ce week-end ! Bises, Lina",
    "model_commentary": "Le message accepte avec une condition clairement exprimée (« à condition de »), pose une question pratique et propose une contribution. Le ton est enthousiaste et naturel.",
    "expected_points": [
     "accepter",
@@ -590,7 +590,7 @@
    "min_words": 30,
    "max_words": 60,
    "instructions": "Pendant votre séjour à l'hôtel, la climatisation de votre chambre ne fonctionne pas. Écrivez un message à la réception pour signaler le problème et demander une solution.",
-   "model_answer": "Bonsoir, je suis dans la chambre 304 et la climatisation ne fonctionne plus depuis cet après-midi. Avec la chaleur actuelle, il est difficile de dormir. Serait-il possible d'envoyer un technicien ce soir ou, à défaut, de me proposer une autre chambre ? Je vous remercie par avance de votre aide. Cordialement, M. Nguyen",
+   "model_answer": "Bonsoir, je suis dans la chambre 304 et la climatisation ne fonctionne plus depuis cet après-midi. Avec la chaleur actuelle, il est difficile de dormir, d'autant que la fenêtre ne s'ouvre pas. Serait-il possible d'envoyer un technicien ce soir ou, à défaut, de me proposer une autre chambre ? Je vous remercie par avance de votre aide. Cordialement, M. Nguyen",
    "model_commentary": "Le message identifie la chambre, décrit le problème et propose deux solutions. La tournure impersonnelle « il est difficile de » et la formule « à défaut » sont bien employées.",
    "expected_points": [
     "identifier la chambre",
@@ -608,7 +608,7 @@
    "min_words": 30,
    "max_words": 60,
    "instructions": "Vous êtes représentant(e) des parents d'élèves. Écrivez un message aux autres parents pour les inviter à une réunion, en expliquant son objectif et en les encourageant à venir.",
-   "model_answer": "Chers parents, nous vous invitons à une réunion jeudi 5 octobre à 18 h 30, au réfectoire. Nous discuterons de la sécurité aux abords de l'école et du projet de classe verte. Votre avis compte : plus nous serons nombreux, plus nos demandes auront de poids auprès de la mairie. Au plaisir de vous voir, les représentants des parents",
+   "model_answer": "Chers parents, nous vous invitons à une réunion qui aura lieu jeudi 5 octobre à 18 h 30, au réfectoire. Nous discuterons de la sécurité aux abords de l'école et du projet de classe verte. Votre avis compte : plus nous serons nombreux, plus nos demandes auront de poids auprès de la mairie. À jeudi, les représentants des parents",
    "model_commentary": "Le message informe et motive. La structure comparative « plus nous serons nombreux, plus nos demandes auront de poids » est un procédé argumentatif efficace et typique du niveau B2.",
    "expected_points": [
     "inviter",

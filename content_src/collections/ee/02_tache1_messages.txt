@@ -83,7 +83,7 @@ CONSEILS: Justifiez une recommandation par des qualités concrètes et vérifiab
 
 ## EE-B2-015 | 1 | informer d'un changement d'adresse | administration
 CONSIGNE: Vous venez de déménager. Écrivez un message à votre banque pour signaler votre nouvelle adresse, préciser la date du changement et demander l'envoi d'une nouvelle carte bancaire à cette adresse.
-MODELE: Madame, Monsieur, je vous informe de mon changement d'adresse à compter du 1er octobre. Ma nouvelle adresse est la suivante : 12, rue des Lilas, 69003 Lyon. Ma carte bancaire arrivant à expiration le mois prochain, je vous remercie de bien vouloir envoyer la nouvelle à cette adresse. Cordialement, Amélie Rousseau
+MODELE: Madame, Monsieur, je vous informe que je change d'adresse à compter du 1er octobre. Ma nouvelle adresse est la suivante : 12, rue des Lilas, 69003 Lyon. Ma carte bancaire arrivant à expiration le mois prochain, je vous remercie de bien vouloir envoyer la nouvelle à cette adresse. Cordialement, Amélie Rousseau
 COMMENTAIRE: Le message est clair et formel. La proposition participiale « Ma carte bancaire arrivant à expiration » est une structure élégante de niveau B2, qui exprime la cause sans alourdir la phrase.
 POINTS: signaler le changement ; donner la nouvelle adresse ; préciser la date ; demander l'envoi de la carte
 CONSEILS: Dans un courrier administratif, chaque information doit être précise : date, adresse complète, demande explicite.
@@ -97,7 +97,7 @@ CONSEILS: Commencez par remercier avant de refuser : le message sera mieux reçu
 
 ## EE-B2-017 | 1 | demander un congé | vie professionnelle
 CONSIGNE: Vous souhaitez prendre trois jours de congé pour un événement familial. Écrivez un message à votre responsable pour faire votre demande, expliquer la raison et proposer une organisation pendant votre absence.
-MODELE: Bonjour Madame Girard, je souhaiterais poser trois jours de congé, du 8 au 10 mai, pour assister au mariage de ma sœur en Bretagne. J'aurai terminé le rapport mensuel avant mon départ, et Julien a accepté de répondre aux clients en mon absence. Pourriez-vous me confirmer votre accord ? Merci d'avance, Antoine
+MODELE: Bonjour Madame Girard, je souhaiterais poser trois jours de congé, du 8 au 10 mai, pour assister au mariage de ma sœur en Bretagne. J'aurai terminé le rapport mensuel avant mon départ, et Julien a accepté de répondre aux clients en mon absence. Pourriez-vous me confirmer que vous êtes d'accord ? Merci d'avance, Antoine
 COMMENTAIRE: La demande est précise et rassurante grâce à l'organisation proposée. Le futur antérieur (« J'aurai terminé ») est une structure de niveau B2 qui montre l'anticipation.
 POINTS: formuler la demande ; préciser les dates ; expliquer la raison ; proposer une organisation
 CONSEILS: Anticipez les questions de votre responsable en expliquant comment le travail sera assuré.
@@ -111,7 +111,7 @@ CONSEILS: Des questions précises montrent votre sérieux d'acheteur.
 
 ## EE-B2-019 | 1 | rassurer un proche | relations familiales
 CONSIGNE: Vous venez d'arriver dans une nouvelle ville pour vos études. Écrivez un message à vos parents pour les rassurer, décrire votre logement et raconter votre premier jour.
-MODELE: Chers parents, je suis bien arrivé à Montpellier ! Mon studio est petit mais lumineux, et il se trouve à dix minutes à pied de la faculté. Ce matin, j'ai assisté à la journée d'accueil : les étudiants de ma promotion ont l'air très sympathiques. Ne vous inquiétez pas, je m'organise bien. Je vous appelle dimanche. Je vous embrasse, Mehdi
+MODELE: Chers parents, je suis bien arrivé à Montpellier ! Mon studio, qui est petit mais lumineux, se trouve à dix minutes à pied de la faculté. Ce matin, j'ai assisté à la journée d'accueil : les étudiants de ma promotion ont l'air très sympathiques. Ne vous inquiétez pas : je m'organise bien. Je vous appelle dimanche. Je vous embrasse, Mehdi
 COMMENTAIRE: Le message rassure, décrit et raconte en alternant présent et passé composé. L'opposition « petit mais lumineux » et l'expression « avoir l'air » enrichissent la description sans dépasser 60 mots.
 POINTS: rassurer ; décrire le logement ; raconter le premier jour ; formule affectueuse
 CONSEILS: Alternez description (présent) et récit (passé composé) pour un message vivant.
@@ -153,8 +153,8 @@ CONSEILS: Posez des questions précises pour obtenir des conseils utiles.
 
 ## EE-B2-025 | 1 | réserver une salle | vie associative
 CONSIGNE: Votre association veut louer la salle des fêtes de la mairie pour une soirée. Écrivez un courriel pour présenter votre demande, préciser la date et le nombre de personnes, et demander les conditions de location.
-MODELE: Madame, Monsieur, l'association « Les Amis du Livre » souhaiterait louer la salle des fêtes le samedi 22 novembre, de 18 h à minuit, pour une soirée de lecture réunissant environ quatre-vingts personnes. Pourriez-vous nous préciser le tarif, les conditions de réservation et l'équipement disponible ? Avec nos remerciements, Marc Duval, président
-COMMENTAIRE: La demande est complète et formulée avec précision. Le participe présent « réunissant » évite une relative lourde, et la question finale regroupe trois demandes de façon fluide.
+MODELE: Madame, Monsieur, l'association « Les Amis du Livre » souhaiterait louer la salle des fêtes le samedi 22 novembre, de 18 h à minuit, pour une soirée de lecture qui réunira environ quatre-vingts personnes. Pourriez-vous nous préciser le tarif, les conditions de réservation et l'équipement disponible ? Avec nos remerciements, Marc Duval, président
+COMMENTAIRE: La demande est complète et formulée avec précision. La relative au futur « qui réunira » précise l'événement, et la question finale regroupe trois demandes de façon fluide.
 POINTS: présenter l'association ; préciser date et horaires ; indiquer le nombre de personnes ; demander les conditions
 CONSEILS: Indiquez toutes les informations utiles pour que l'interlocuteur puisse répondre en une seule fois.
 
@@ -167,7 +167,7 @@ CONSEILS: Exprimez votre mécontentement avec des faits, sans insultes ni exagé
 
 ## EE-B2-027 | 1 | proposer un covoiturage | transports
 CONSIGNE: Vous faites chaque jour le même trajet en voiture pour aller travailler. Écrivez un message sur le panneau d'affichage de votre entreprise pour proposer un covoiturage, en précisant le trajet, les horaires et les conditions.
-MODELE: Covoiturage Villeneuve – zone industrielle : je fais ce trajet chaque jour en voiture, départ 7 h 30 de la place du Marché, retour vers 17 h 30. Je propose deux places pour partager les frais d'essence, soit environ trois euros par jour. Non-fumeurs de préférence. Intéressés ? Contactez-moi au poste 214. Damien, service comptabilité
+MODELE: Covoiturage Villeneuve – zone industrielle : je fais ce trajet chaque jour en voiture, départ 7 h 30 de la place du Marché, retour vers 17 h 30. Je propose deux places à ceux qui voudraient partager les frais d'essence, soit environ trois euros par jour. Non-fumeurs de préférence. Intéressés ? Contactez-moi au poste 214. Damien, service comptabilité
 COMMENTAIRE: L'annonce est concise et complète : trajet, horaires, conditions et contact. Le style télégraphique est adapté au support, tout en restant grammaticalement correct.
 POINTS: préciser le trajet ; indiquer les horaires ; présenter les conditions ; donner un contact
 CONSEILS: Pour une annonce, allez à l'essentiel et terminez par le moyen de vous contacter.
@@ -181,7 +181,7 @@ CONSEILS: Plus la description est précise, plus vous avez de chances de retrouv
 
 ## EE-B2-029 | 1 | accepter une invitation avec une condition | relations sociales
 CONSIGNE: Des amis vous invitent à passer un week-end à la montagne. Écrivez-leur pour accepter, poser une question pratique et proposer d'apporter quelque chose.
-MODELE: Super idée, merci pour l'invitation ! Je viens avec plaisir, à condition de pouvoir arriver samedi matin seulement, car je travaille vendredi soir. Faut-il prévoir des draps et des chaussures de randonnée ? De mon côté, je peux apporter le fromage et une bonne bouteille pour la raclette. Vivement ce week-end ! Bises, Lina
+MODELE: Super idée, merci pour l'invitation ! Je viens avec plaisir, à condition de pouvoir arriver samedi matin seulement, car je travaille vendredi soir. Faut-il prévoir des draps et des chaussures de randonnée ? De mon côté, je peux apporter le fromage et une bonne bouteille si vous faites une raclette. Vivement ce week-end ! Bises, Lina
 COMMENTAIRE: Le message accepte avec une condition clairement exprimée (« à condition de »), pose une question pratique et propose une contribution. Le ton est enthousiaste et naturel.
 POINTS: accepter ; poser une condition ou une question pratique ; proposer d'apporter quelque chose
 CONSEILS: La locution « à condition de » suivie de l'infinitif est utile pour nuancer une acceptation.
@@ -223,14 +223,14 @@ CONSEILS: Une proposition formulée comme une question donne envie de participer
 
 ## EE-B2-035 | 1 | signaler un problème dans un hôtel | voyage
 CONSIGNE: Pendant votre séjour à l'hôtel, la climatisation de votre chambre ne fonctionne pas. Écrivez un message à la réception pour signaler le problème et demander une solution.
-MODELE: Bonsoir, je suis dans la chambre 304 et la climatisation ne fonctionne plus depuis cet après-midi. Avec la chaleur actuelle, il est difficile de dormir. Serait-il possible d'envoyer un technicien ce soir ou, à défaut, de me proposer une autre chambre ? Je vous remercie par avance de votre aide. Cordialement, M. Nguyen
+MODELE: Bonsoir, je suis dans la chambre 304 et la climatisation ne fonctionne plus depuis cet après-midi. Avec la chaleur actuelle, il est difficile de dormir, d'autant que la fenêtre ne s'ouvre pas. Serait-il possible d'envoyer un technicien ce soir ou, à défaut, de me proposer une autre chambre ? Je vous remercie par avance de votre aide. Cordialement, M. Nguyen
 COMMENTAIRE: Le message identifie la chambre, décrit le problème et propose deux solutions. La tournure impersonnelle « il est difficile de » et la formule « à défaut » sont bien employées.
 POINTS: identifier la chambre ; décrire le problème ; demander une solution
 CONSEILS: Proposer deux solutions facilite la réponse de votre interlocuteur.
 
 ## EE-B2-036 | 1 | inviter à une réunion de parents | école
 CONSIGNE: Vous êtes représentant(e) des parents d'élèves. Écrivez un message aux autres parents pour les inviter à une réunion, en expliquant son objectif et en les encourageant à venir.
-MODELE: Chers parents, nous vous invitons à une réunion jeudi 5 octobre à 18 h 30, au réfectoire. Nous discuterons de la sécurité aux abords de l'école et du projet de classe verte. Votre avis compte : plus nous serons nombreux, plus nos demandes auront de poids auprès de la mairie. Au plaisir de vous voir, les représentants des parents
+MODELE: Chers parents, nous vous invitons à une réunion qui aura lieu jeudi 5 octobre à 18 h 30, au réfectoire. Nous discuterons de la sécurité aux abords de l'école et du projet de classe verte. Votre avis compte : plus nous serons nombreux, plus nos demandes auront de poids auprès de la mairie. À jeudi, les représentants des parents
 COMMENTAIRE: Le message informe et motive. La structure comparative « plus nous serons nombreux, plus nos demandes auront de poids » est un procédé argumentatif efficace et typique du niveau B2.
 POINTS: inviter ; préciser date et lieu ; expliquer l'objectif ; encourager à venir
 CONSEILS: Une phrase motivante, avec un argument concret, augmente la participation.
