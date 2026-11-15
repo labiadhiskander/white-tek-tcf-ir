@@ -1,0 +1,205 @@
+@slug ce-culture
+@section CE
+@title Culture
+@order 10
+@description Critiques, chroniques et articles culturels : cinéma, littérature, patrimoine, musique. Repérer le jugement de l'auteur et ses nuances.
+
+## CE-CUL-01 | critique de film
+TITRE: Un premier film d'une grande justesse
+DOC: Pour son premier long métrage, la réalisatrice a choisi un sujet que le cinéma aborde rarement : le quotidien d'une aide à domicile dans une petite ville du Nord. Pas de grands effets, pas de musique envahissante, mais une caméra attentive qui suit cette femme de maison en maison, entre deux patients âgés et une vie de famille compliquée. ¶ La force du film tient à son refus du misérabilisme. L'héroïne n'est jamais présentée comme une victime ; elle rit, se met en colère, se trompe, et c'est précisément ce qui la rend si attachante. L'actrice principale, peu connue du grand public, livre une interprétation d'une remarquable sobriété. ¶ On pourra reprocher au scénario quelques longueurs dans sa deuxième partie, et une fin un peu trop attendue. Mais ces défauts pèsent peu face à la justesse de l'ensemble. Le film réussit ce que peu d'œuvres parviennent à faire : rendre visible un travail essentiel que la société préfère ignorer, sans jamais tomber dans le discours.
+Q: Quelle est l'opinion générale du critique sur le film ? | point de vue
++ Très positive malgré quelques défauts. | « Ces défauts pèsent peu face à la justesse de l'ensemble. »
+- Négative à cause des longueurs. | Il les juge secondaires.
+- Neutre, sans prise de position. | Son avis est clair.
+- Enthousiaste, sans aucune réserve. | Il mentionne des défauts.
+EXP: La concession « On pourra reprocher… Mais » montre un jugement nuancé mais favorable.
+Q: Que signifie « son refus du misérabilisme » ? | implicite
++ Le film évite de présenter son héroïne comme une pauvre victime. | « L'héroïne n'est jamais présentée comme une victime. »
+- Le film refuse de montrer la pauvreté. | Ce n'est pas le sens.
+- Le film est très triste. | Ce n'est pas dit.
+- Le film critique les personnes âgées. | Ce n'est pas évoqué.
+EXP: Le misérabilisme consiste à insister sur la misère pour émouvoir.
+Q: Quel mérite principal le critique reconnaît-il au film ? | synthèse
++ Montrer un métier essentiel et peu valorisé sans être moralisateur. | « Rendre visible un travail essentiel que la société préfère ignorer, sans jamais tomber dans le discours. »
+- Ses effets spéciaux. | « Pas de grands effets. »
+- Sa musique omniprésente. | « Pas de musique envahissante. »
+- Sa fin surprenante. | Elle est « un peu trop attendue ».
+EXP: La dernière phrase résume la qualité principale de l'œuvre.
+VOCAB: un long métrage = un film de plus d'une heure = Son premier long métrage. ; envahissant = qui prend trop de place = Une publicité envahissante. ; la sobriété = la simplicité, l'absence d'excès = Un jeu d'une grande sobriété. ; une longueur = un passage trop long dans une œuvre = Le film a quelques longueurs.
+EXPR: tenir à = venir de = Sa réussite tient à son travail. ; peser peu = avoir peu d'importance = Ces critiques pèsent peu. ; tomber dans le discours = devenir moralisateur = Le film évite de tomber dans le discours.
+PIEGES: Le critique n'est pas totalement enthousiaste. ; Le misérabilisme n'est pas la pauvreté elle-même. ; La fin est jugée prévisible, pas surprenante.
+
+## CE-CUL-02 | article de presse
+TITRE: Les festivals de musique face à la hausse des coûts
+DOC: Chaque été, des centaines de festivals animent les campagnes et les villes françaises. Mais derrière l'affluence se cache une réalité financière de plus en plus difficile. Les cachets des artistes les plus demandés ont explosé, les coûts de sécurité et d'énergie ont fortement augmenté, et les assurances contre les intempéries sont devenues hors de prix. ¶ Les grands festivals, soutenus par des sponsors et capables d'augmenter le prix des billets, s'en sortent plutôt bien. Les petits événements, souvent portés par des bénévoles et des collectivités locales, sont en revanche menacés. Plusieurs d'entre eux ont annoncé cette année leur dernière édition. ¶ Pour les acteurs du secteur, cette évolution risque d'appauvrir la diversité culturelle. Ce sont souvent les petits festivals qui donnent leur chance aux artistes émergents et qui font vivre la culture dans des territoires éloignés des grandes salles. Certains appellent à mutualiser les moyens entre festivals d'une même région, d'autres réclament un soutien public ciblé sur les événements les plus fragiles.
+Q: Quelles difficultés financières les festivals rencontrent-ils ? | compréhension détaillée
++ La hausse du prix des artistes, de la sécurité, de l'énergie et des assurances. | « Les cachets des artistes… ont explosé, les coûts de sécurité et d'énergie ont fortement augmenté… les assurances… hors de prix. »
+- Une baisse du nombre de spectateurs. | Le texte parle d'affluence.
+- L'interdiction des concerts en plein air. | Ce n'est pas dit.
+- Le manque de bénévoles. | Ce n'est pas évoqué comme cause.
+EXP: « Derrière l'affluence se cache » oppose le succès apparent à la fragilité financière.
+Q: Pourquoi les grands festivals résistent-ils mieux ? | compréhension détaillée
++ Ils ont des sponsors et peuvent augmenter leurs tarifs. | « Soutenus par des sponsors et capables d'augmenter le prix des billets. »
+- Ils sont gratuits. | Ce n'est pas dit.
+- Ils n'invitent que des artistes inconnus. | Ce n'est pas évoqué.
+- Ils ne paient pas d'assurances. | Ce n'est pas mentionné.
+EXP: « En revanche » oppose leur situation à celle des petits festivals.
+Q: Pourquoi la disparition des petits festivals inquiète-t-elle ? | argumentation
++ Ils soutiennent les jeunes artistes et la culture dans les territoires isolés. | « Donnent leur chance aux artistes émergents et… font vivre la culture dans des territoires éloignés. »
+- Ils rapportent beaucoup d'argent à l'État. | Ce n'est pas dit.
+- Ils attirent des touristes étrangers. | Ce n'est pas évoqué.
+- Ils sont les seuls à vendre des billets. | Ce n'est pas le cas.
+EXP: L'argument porte sur la « diversité culturelle ».
+VOCAB: l'affluence = l'arrivée d'un grand nombre de personnes = L'affluence était record. ; un cachet = la rémunération d'un artiste pour un spectacle = Le chanteur a demandé un cachet élevé. ; les intempéries = le mauvais temps = Le concert a été annulé à cause des intempéries. ; émergent = qui commence à être connu = Un artiste émergent.
+EXPR: hors de prix = beaucoup trop cher = Les loyers sont hors de prix. ; s'en sortir = réussir à surmonter une difficulté = Il s'en sort bien. ; mutualiser les moyens = mettre en commun des ressources = Les communes mutualisent leurs moyens.
+PIEGES: Les festivals ne manquent pas de public. ; Les grands festivals s'en sortent « plutôt bien ». ; Deux solutions différentes sont proposées par des acteurs différents.
+
+## CE-CUL-03 | article de presse
+TITRE: Le patrimoine rural en danger
+DOC: Églises de village, lavoirs, moulins, fermes anciennes : la France compte des dizaines de milliers d'édifices qui ne sont pas protégés au titre des monuments historiques, mais qui font partie de l'identité des paysages. Beaucoup se dégradent faute d'entretien. Les petites communes, propriétaires de nombreuses églises, n'ont souvent pas les moyens de financer des travaux qui peuvent atteindre plusieurs centaines de milliers d'euros. ¶ Des solutions émergent. Des loteries nationales ont permis de financer la restauration de centaines de sites. Des associations de bénévoles organisent des chantiers d'été, où des jeunes apprennent les techniques traditionnelles. Certaines communes donnent une nouvelle vie à leurs bâtiments : une église accueille des concerts, un ancien presbytère devient une maison de santé. ¶ Ces initiatives restent toutefois insuffisantes face à l'ampleur des besoins. Les spécialistes appellent à faire des choix : il sera impossible de tout sauver, et il vaut mieux concentrer les efforts sur les bâtiments qui peuvent retrouver un usage.
+Q: Pourquoi de nombreux édifices ruraux se dégradent-ils ? | compréhension détaillée
++ Parce que les petites communes manquent d'argent pour les entretenir. | « N'ont souvent pas les moyens de financer des travaux. »
+- Parce qu'ils sont trop récents. | Ce sont des bâtiments anciens.
+- Parce que la loi interdit de les réparer. | Ce n'est pas dit.
+- Parce qu'ils sont tous des monuments historiques. | Ils ne sont justement pas protégés.
+EXP: « Faute d'entretien » est expliqué par le manque de moyens.
+Q: Quelle solution consiste à donner une nouvelle fonction aux bâtiments ? | compréhension détaillée
++ Transformer un presbytère en maison de santé. | « Un ancien presbytère devient une maison de santé. »
+- Organiser une loterie nationale. | C'est une solution de financement.
+- Former des jeunes aux techniques traditionnelles. | C'est une solution de restauration.
+- Détruire les bâtiments anciens. | Ce n'est pas proposé.
+EXP: L'expression « donner une nouvelle vie » désigne un nouvel usage.
+Q: Que recommandent les spécialistes ? | synthèse
++ Prioriser les bâtiments qui peuvent être réutilisés. | « Concentrer les efforts sur les bâtiments qui peuvent retrouver un usage. »
+- Restaurer absolument tous les édifices. | « Il sera impossible de tout sauver. »
+- Abandonner le patrimoine rural. | Ce n'est pas dit.
+- Interdire les concerts dans les églises. | Ce n'est pas évoqué.
+EXP: La conclusion propose un choix réaliste face à des moyens limités.
+VOCAB: un édifice = un bâtiment important = Un édifice religieux. ; un lavoir = un lieu public où l'on lavait le linge = Le vieux lavoir du village. ; un presbytère = la maison du curé = Le presbytère a été vendu. ; l'ampleur = l'importance, l'étendue = L'ampleur des dégâts.
+EXPR: au titre de = en tant que = Il est protégé au titre des monuments historiques. ; donner une nouvelle vie à = réutiliser autrement = Donner une nouvelle vie aux vieux meubles. ; faire des choix = décider de ce qui est prioritaire = Avec ce budget, il faudra faire des choix.
+PIEGES: Ces édifices ne sont pas classés monuments historiques. ; Les solutions existent mais sont insuffisantes. ; Les spécialistes acceptent qu'on ne puisse pas tout sauver.
+
+## CE-CUL-04 | critique littéraire
+TITRE: Un roman sur la mémoire familiale
+DOC: Dans son nouveau roman, l'auteur reconstitue l'histoire de sa grand-mère, arrivée en France à dix-huit ans sans parler un mot de français. À partir de quelques lettres, de photographies et des souvenirs contradictoires de ses proches, il tente de combler les silences d'une femme qui n'a jamais voulu raconter son passé. ¶ Le livre séduit par sa construction. Les chapitres alternent entre l'enquête du narrateur aujourd'hui et des scènes imaginées de la jeunesse de sa grand-mère, sans que l'auteur cache jamais la part d'invention. Cette honnêteté donne au roman une grande force : il ne prétend pas dire la vérité, mais interroge ce que l'on peut savoir de ceux qui nous ont précédés. ¶ On regrettera seulement un style parfois trop appliqué, qui freine l'émotion dans certains passages. Mais la dernière partie, bouleversante, efface ces réserves. Un livre qui parlera à tous ceux qui se sont un jour demandé ce que leurs parents ou grands-parents ne leur avaient pas dit.
+Q: Sur quoi le romancier s'appuie-t-il pour écrire ? | compréhension détaillée
++ Sur des documents familiaux et les souvenirs de ses proches. | « À partir de quelques lettres, de photographies et des souvenirs contradictoires de ses proches. »
+- Sur le journal intime détaillé de sa grand-mère. | Elle « n'a jamais voulu raconter son passé ».
+- Sur des archives officielles uniquement. | Ce n'est pas dit.
+- Sur une interview de sa grand-mère. | Ce n'est pas évoqué.
+EXP: Le mot « contradictoires » montre que les sources sont incertaines.
+Q: Pourquoi le critique apprécie-t-il l'honnêteté de l'auteur ? | argumentation
++ Parce qu'il reconnaît ouvertement la part d'imagination de son récit. | « Sans que l'auteur cache jamais la part d'invention… il ne prétend pas dire la vérité. »
+- Parce qu'il dit toute la vérité historique. | Il « ne prétend pas » le faire.
+- Parce qu'il critique sa famille. | Ce n'est pas dit.
+- Parce qu'il écrit simplement. | Le style est jugé « trop appliqué ».
+EXP: L'honnêteté porte sur le rapport entre faits et fiction.
+Q: Quelle réserve le critique exprime-t-il ? | point de vue
++ Un style parfois trop soigné qui limite l'émotion. | « Un style parfois trop appliqué, qui freine l'émotion dans certains passages. »
+- Une fin décevante. | La dernière partie est « bouleversante ».
+- Une construction confuse. | Elle est appréciée.
+- Un sujet sans intérêt. | Ce n'est pas dit.
+EXP: « On regrettera seulement » minimise la critique.
+VOCAB: reconstituer = recréer à partir d'éléments = Reconstituer les faits. ; combler = remplir un vide = Combler un manque. ; appliqué = soigné mais sans spontanéité = Un élève appliqué. ; bouleversant = qui émeut profondément = Un témoignage bouleversant.
+EXPR: ne pas parler un mot de = ne pas connaître du tout une langue = Il ne parlait pas un mot d'anglais. ; la part d'invention = ce qui est imaginé = Tout récit comporte une part d'invention. ; parler à quelqu'un = le toucher, le concerner = Ce film parlera aux jeunes.
+PIEGES: Le roman mêle faits et imagination. ; La réserve sur le style est mineure. ; La grand-mère n'a pas raconté son passé.
+
+## CE-CUL-05 | chronique
+TITRE: Faut-il avoir honte de ne pas aimer les classiques ?
+DOC: Avouer qu'on s'est ennuyé en lisant un grand classique reste presque un tabou. Comme si ne pas aimer une œuvre consacrée révélait un manque de culture ou de sensibilité. Pourtant, beaucoup de lecteurs ont gardé de leurs années de lycée un souvenir pénible de certains romans imposés, lus trop tôt et analysés ligne par ligne. ¶ Il n'y a là aucune honte à avoir. Une œuvre classique n'est pas un objet sacré qu'il faudrait admirer par principe. C'est un texte qui a traversé le temps parce que des générations de lecteurs y ont trouvé quelque chose. Rien ne garantit que chacun y trouvera la même chose, ni au même âge. ¶ Beaucoup redécouvrent d'ailleurs à quarante ans un livre détesté à seize. Le texte n'a pas changé ; c'est leur expérience de la vie qui leur permet enfin d'y entrer. Plutôt que de forcer l'admiration, l'école gagnerait à transmettre le goût de la découverte, et à accepter que l'on puisse ne pas aimer, à condition de savoir dire pourquoi.
+Q: Quel tabou l'auteur évoque-t-il ? | compréhension globale
++ Le fait d'avouer qu'on n'a pas aimé un grand classique. | « Avouer qu'on s'est ennuyé en lisant un grand classique reste presque un tabou. »
+- Le fait de ne pas savoir lire. | Ce n'est pas dit.
+- Le fait de lire des romans modernes. | Ce n'est pas évoqué.
+- Le fait d'aimer la poésie. | Ce n'est pas mentionné.
+EXP: Un tabou est un sujet dont on évite de parler.
+Q: Comment l'auteur définit-il une œuvre classique ? | argumentation
++ Un texte qui a duré parce que de nombreux lecteurs y ont trouvé un intérêt. | « Un texte qui a traversé le temps parce que des générations de lecteurs y ont trouvé quelque chose. »
+- Un objet sacré à admirer. | Il rejette cette idée.
+- Un livre obligatoire au lycée. | Ce n'est pas sa définition.
+- Un roman écrit avant le XXe siècle. | Ce n'est pas dit.
+EXP: L'auteur oppose sa définition à celle d'un « objet sacré ».
+Q: Que suggère l'exemple du livre détesté à seize ans et aimé à quarante ? | implicite
++ La compréhension d'une œuvre dépend de l'expérience du lecteur. | « C'est leur expérience de la vie qui leur permet enfin d'y entrer. »
+- Les livres changent avec le temps. | « Le texte n'a pas changé. »
+- Les adolescents ne savent pas lire. | Ce n'est pas le sens.
+- Il ne faut jamais relire un livre. | C'est l'inverse.
+EXP: L'auteur oppose le texte immobile au lecteur qui évolue.
+VOCAB: consacré = reconnu officiellement comme important = Un auteur consacré. ; pénible = désagréable = Un souvenir pénible. ; sacré = qui inspire un respect absolu = Un lieu sacré. ; la découverte = le fait de découvrir = Le goût de la découverte.
+EXPR: par principe = sans réfléchir, par règle = Il refuse par principe. ; traverser le temps = durer à travers les époques = Ces chansons ont traversé le temps. ; entrer dans un livre = réussir à s'y intéresser, à le comprendre = Je n'arrive pas à entrer dans ce roman.
+PIEGES: L'auteur ne critique pas les classiques eux-mêmes. ; Il ne refuse pas l'avis négatif, mais demande de le justifier. ; « Le texte n'a pas changé » : c'est le lecteur qui change.
+
+## CE-CUL-06 | article de presse
+TITRE: Les musées face au débat sur la restitution des œuvres
+DOC: Plusieurs pays africains demandent la restitution d'objets d'art conservés dans les musées européens, souvent acquis pendant la période coloniale dans des conditions contestables : pillages militaires, achats forcés ou dons obtenus sous la contrainte. Après des décennies de refus, la France a restitué ces dernières années plusieurs dizaines d'œuvres au Bénin et au Sénégal. ¶ Pour les partisans de ces retours, il s'agit d'une question de justice et de mémoire : ces objets ont une valeur culturelle et spirituelle pour les peuples dont ils sont issus, et leur absence prive les jeunes générations d'une partie de leur histoire. Les opposants craignent un « vidage » des musées occidentaux et invoquent le principe d'inaliénabilité des collections publiques, qui interdit en principe de céder une œuvre. ¶ Une loi-cadre est en préparation pour faciliter les restitutions au cas par cas, après examen scientifique de la provenance de chaque objet. Des coopérations entre musées, avec prêts et expositions communes, sont également envisagées.
+Q: Pourquoi certains objets d'art sont-ils réclamés ? | compréhension détaillée
++ Parce qu'ils ont souvent été obtenus de façon contestable pendant la colonisation. | « Acquis pendant la période coloniale dans des conditions contestables. »
+- Parce qu'ils sont mal conservés. | Ce n'est pas dit.
+- Parce qu'ils ont été volés récemment. | Ils ont été acquis pendant la période coloniale.
+- Parce qu'ils sont faux. | Ce n'est pas évoqué.
+EXP: L'énumération après les deux-points précise les « conditions contestables ».
+Q: Quel argument juridique les opposants avancent-ils ? | argumentation
++ Le principe selon lequel les collections publiques ne peuvent pas être cédées. | « Le principe d'inaliénabilité des collections publiques, qui interdit en principe de céder une œuvre. »
+- Le droit de propriété des pays africains. | C'est l'argument inverse.
+- Le coût du transport des œuvres. | Ce n'est pas dit.
+- Le manque de musées en Afrique. | Ce n'est pas évoqué.
+EXP: « Inaliénable » signifie qu'on ne peut ni vendre ni donner.
+Q: Quelle approche la future loi privilégie-t-elle ? | synthèse
++ Un examen de chaque objet avant de décider. | « Faciliter les restitutions au cas par cas, après examen scientifique de la provenance de chaque objet. »
+- Une restitution immédiate de toutes les œuvres. | Ce n'est pas dit.
+- Le refus de toute restitution. | La loi vise à les faciliter.
+- La vente des œuvres aux enchères. | Ce n'est pas évoqué.
+EXP: « Au cas par cas » signifie « en examinant chaque situation séparément ».
+VOCAB: la restitution = le fait de rendre ce qui a été pris = La restitution des biens volés. ; un pillage = un vol violent, souvent en temps de guerre = Le pillage d'une ville. ; la provenance = l'origine = La provenance de cet objet est inconnue. ; inaliénable = qui ne peut être vendu ni cédé = Un droit inaliénable.
+EXPR: sous la contrainte = par la force, sans liberté = Il a signé sous la contrainte. ; au cas par cas = individuellement, selon chaque situation = Les demandes sont traitées au cas par cas. ; être issu de = venir de = Il est issu d'une famille modeste.
+PIEGES: La France a déjà restitué quelques dizaines d'œuvres. ; L'inaliénabilité interdit « en principe » de céder une œuvre. ; La loi est en préparation, elle n'est pas encore adoptée.
+
+## CE-CUL-07 | article de presse
+TITRE: Le retour du vinyle
+DOC: Donné pour mort à l'arrivée du disque compact, le vinyle connaît depuis une quinzaine d'années un retour spectaculaire. Ses ventes ont été multipliées par dix, et il représente désormais une part importante des revenus de la musique enregistrée en format physique. Paradoxalement, ce succès intervient à l'époque où l'écoute en ligne domine très largement. ¶ Les explications sont multiples. Pour beaucoup d'amateurs, le vinyle offre une qualité de son plus chaleureuse, même si les études sur ce point sont discutées. Mais c'est surtout l'objet qui séduit : une grande pochette illustrée, le rituel de poser le disque sur la platine, le sentiment de posséder vraiment sa musique plutôt que d'y accéder par un abonnement. ¶ Ce retour a ses limites. Les usines de pressage, peu nombreuses, sont saturées, ce qui allonge les délais pour les artistes indépendants. Et une partie des acheteurs n'écoutent pas leurs disques : ils les collectionnent, les exposent, ou les achètent pour soutenir un artiste qu'ils écoutent par ailleurs en ligne.
+Q: Quel paradoxe le premier paragraphe souligne-t-il ? | implicite
++ Le vinyle revient au moment où l'écoute en ligne domine. | « Paradoxalement, ce succès intervient à l'époque où l'écoute en ligne domine très largement. »
+- Le disque compact est plus vendu que jamais. | Ce n'est pas dit.
+- Le vinyle est gratuit. | Ce n'est pas évoqué.
+- Les artistes refusent de produire des vinyles. | Ce n'est pas mentionné.
+EXP: « Paradoxalement » signale une situation contraire à ce qu'on attendrait.
+Q: Selon le texte, qu'est-ce qui attire surtout les acheteurs ? | argumentation
++ L'objet et le rituel d'écoute. | « Mais c'est surtout l'objet qui séduit. »
+- Le prix très bas. | Ce n'est pas dit.
+- Une qualité de son prouvée scientifiquement. | « Les études sur ce point sont discutées. »
+- La facilité de transport. | Ce n'est pas évoqué.
+EXP: « Surtout » hiérarchise les explications.
+Q: Que révèle la dernière phrase sur une partie des acheteurs ? | implicite
++ Ils achètent des vinyles sans forcément les écouter. | « Une partie des acheteurs n'écoutent pas leurs disques. »
+- Ils ont arrêté d'écouter de la musique. | Ils écoutent en ligne.
+- Ils revendent immédiatement leurs disques. | Ce n'est pas dit.
+- Ils fabriquent leurs propres vinyles. | Ce n'est pas évoqué.
+EXP: Le vinyle devient un objet de collection ou de soutien, pas seulement un support d'écoute.
+VOCAB: une pochette = l'enveloppe illustrée d'un disque = Une pochette signée par l'artiste. ; une platine = l'appareil qui lit les disques vinyles = Il a acheté une platine. ; le pressage = la fabrication des disques = L'usine de pressage. ; saturé = complètement occupé = Les usines sont saturées.
+EXPR: donné pour mort = considéré comme disparu = Ce journal était donné pour mort. ; par ailleurs = d'un autre côté, en plus = Il est par ailleurs très sympathique. ; multiplié par dix = dix fois plus important = Les ventes ont été multipliées par dix.
+PIEGES: La supériorité du son n'est pas prouvée. ; Le succès du vinyle n'a pas remplacé l'écoute en ligne. ; La saturation des usines touche surtout les artistes indépendants.
+
+## CE-CUL-08 | chronique
+TITRE: Les séries ont-elles remplacé le roman ?
+DOC: On entend souvent que les séries télévisées seraient devenues les grands romans de notre époque. Comme les feuilletons du XIXe siècle publiés dans les journaux, elles racontent des histoires longues, développent des personnages complexes et rassemblent chaque semaine des millions de spectateurs. ¶ La comparaison n'est pas absurde. Certaines séries offrent une profondeur psychologique et une ambition narrative qui n'ont rien à envier à la littérature. Mais elle a ses limites. La lecture laisse au lecteur le soin d'imaginer les visages, les lieux, les voix ; la série impose ses images. Le roman permet aussi d'accéder directement aux pensées des personnages, ce que l'écran ne peut suggérer qu'indirectement. ¶ Plutôt que d'opposer les deux, il serait plus juste de reconnaître qu'ils ne sollicitent pas les mêmes facultés. Beaucoup de spectateurs découvrent d'ailleurs un roman grâce à son adaptation en série. Loin de tuer la lecture, l'écran peut parfois lui servir de porte d'entrée.
+Q: Sur quoi repose la comparaison entre séries et romans du XIXe siècle ? | compréhension détaillée
++ Sur des récits longs, des personnages complexes et un large public régulier. | « Elles racontent des histoires longues, développent des personnages complexes et rassemblent chaque semaine des millions de spectateurs. »
+- Sur le fait qu'elles sont écrites par les mêmes auteurs. | Ce n'est pas dit.
+- Sur leur publication dans les journaux. | C'était le cas des feuilletons, pas des séries.
+- Sur leur prix. | Ce n'est pas évoqué.
+EXP: Le mot « Comme » introduit la comparaison.
+Q: Quelle différence entre lecture et série l'auteur souligne-t-il ? | argumentation
++ La lecture laisse plus de place à l'imagination. | « La lecture laisse au lecteur le soin d'imaginer les visages… la série impose ses images. »
+- Les séries sont plus longues que les romans. | Ce n'est pas l'argument.
+- Les romans n'ont pas de personnages complexes. | Ce n'est pas dit.
+- Les séries sont plus difficiles à comprendre. | Ce n'est pas évoqué.
+EXP: L'opposition « laisse… / impose… » souligne le rôle actif du lecteur.
+Q: Quelle est la conclusion de l'auteur ? | synthèse
++ Séries et romans sont complémentaires, et l'écran peut amener à lire. | « L'écran peut parfois lui servir de porte d'entrée. »
+- Les séries vont faire disparaître la lecture. | « Loin de tuer la lecture… »
+- Il faut arrêter de regarder des séries. | Ce n'est pas dit.
+- Le roman est supérieur en tout. | Il reconnaît les qualités des séries.
+EXP: « Plutôt que d'opposer les deux » annonce une conclusion conciliante.
+VOCAB: un feuilleton = une histoire publiée ou diffusée par épisodes = Un feuilleton radiophonique. ; narratif = qui concerne la manière de raconter = Une structure narrative. ; solliciter = faire appel à = Ce jeu sollicite la mémoire. ; une adaptation = la transposition d'une œuvre dans un autre genre = L'adaptation du roman au cinéma.
+EXPR: n'avoir rien à envier à = être aussi bon que = Ce vin n'a rien à envier aux grands crus. ; laisser le soin de = laisser la responsabilité de = Je vous laisse le soin de décider. ; une porte d'entrée = un moyen de découvrir quelque chose = Ce livre est une bonne porte d'entrée en philosophie.
+PIEGES: L'auteur juge la comparaison « pas absurde » mais limitée. ; Il ne dit pas que les séries tuent la lecture. ; Le conditionnel « seraient devenues » rapporte une opinion répandue.

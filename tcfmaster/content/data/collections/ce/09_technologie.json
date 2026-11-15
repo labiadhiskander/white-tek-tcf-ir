@@ -1,0 +1,1178 @@
+{
+ "slug": "ce-technologie",
+ "section": "CE",
+ "title": "Technologie",
+ "description": "Articles sur le numérique, l'intelligence artificielle et l'innovation : comprendre les enjeux, les promesses et les risques.",
+ "order": 9,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CE-TEC-01",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Quelles réactions les établissements ont-ils eues face à ces outils ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Tous les ont rendus obligatoires.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Ils ont acheté des ordinateurs.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Certains les ont interdits, d'autres ont privilégié les devoirs en classe.",
+       "correct": true,
+       "rationale": "« Certains établissements ont choisi d'interdire ces outils ; d'autres ont préféré revenir aux devoirs sur table. »",
+       "label": "C"
+      },
+      {
+       "text": "Ils ont supprimé les devoirs.",
+       "correct": false,
+       "rationale": "Ils ont changé leur forme.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le point-virgule sépare deux réactions différentes."
+    },
+    {
+     "prompt": "Comment certains enseignants utilisent-ils ces outils en classe ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Ils interdisent toute vérification.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "A"
+      },
+      {
+       "text": "Ils font vérifier et corriger les textes produits par la machine.",
+       "correct": true,
+       "rationale": "« Comparer une réponse générée avec une source fiable, repérer les erreurs… améliorer eux-mêmes un premier jet. »",
+       "label": "B"
+      },
+      {
+       "text": "Ils remplacent les cours par la machine.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Ils laissent la machine noter les élèves.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'approche vise à développer l'esprit critique face à l'outil."
+    },
+    {
+     "prompt": "Quel risque les chercheurs soulignent-ils ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Que les machines deviennent trop chères.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Que les enseignants perdent leur emploi.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Que les élèves écrivent trop.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "C"
+      },
+      {
+       "text": "Que les élèves n'apprennent pas à écrire et à raisonner par eux-mêmes.",
+       "correct": true,
+       "rationale": "« Déléguer trop tôt la rédaction à une machine pourrait empêcher les élèves d'acquérir les bases de l'écriture et du raisonnement. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La dernière phrase justifie le risque : il faut savoir écrire pour évaluer un texte."
+    }
+   ],
+   "title": "L'intelligence artificielle à l'école : interdire ou apprivoiser ?",
+   "document": "Depuis l'arrivée des outils capables de rédiger un texte en quelques secondes, les enseignants s'interrogent. Comment évaluer un devoir à la maison quand l'élève peut le faire écrire par une machine ? Certains établissements ont choisi d'interdire ces outils ; d'autres ont préféré revenir aux devoirs sur table.\n\nUne partie des enseignants défend une autre approche : apprendre aux élèves à utiliser ces outils de façon critique. Ils leur font comparer une réponse générée avec une source fiable, repérer les erreurs ou les inventions de la machine, et améliorer eux-mêmes un premier jet produit automatiquement. Selon eux, interdire un outil que les élèves utiliseront dans leur vie professionnelle reviendrait à les priver d'une compétence essentielle.\n\nLes chercheurs en sciences de l'éducation rappellent cependant un risque : déléguer trop tôt la rédaction à une machine pourrait empêcher les élèves d'acquérir les bases de l'écriture et du raisonnement. On ne peut évaluer correctement un texte généré que si l'on sait soi-même écrire.",
+   "vocabulary": [
+    {
+     "terme": "apprivoiser",
+     "definition": "rendre familier, apprendre à maîtriser",
+     "exemple": "Apprivoiser un nouvel outil."
+    },
+    {
+     "terme": "un devoir sur table",
+     "definition": "un devoir fait en classe, sous surveillance",
+     "exemple": "Le contrôle est un devoir sur table."
+    },
+    {
+     "terme": "un premier jet",
+     "definition": "une première version, non corrigée",
+     "exemple": "Il a écrit un premier jet de son roman."
+    },
+    {
+     "terme": "déléguer",
+     "definition": "confier une tâche à quelqu'un d'autre",
+     "exemple": "Il délègue la comptabilité."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "revenir à",
+     "sens": "reprendre une pratique ancienne",
+     "exemple": "Revenir aux méthodes traditionnelles."
+    },
+    {
+     "expression": "reviendrait à",
+     "sens": "serait équivalent à",
+     "exemple": "Refuser reviendrait à abandonner."
+    },
+    {
+     "expression": "trop tôt",
+     "sens": "avant le bon moment",
+     "exemple": "Il est parti trop tôt."
+    }
+   ],
+   "traps": [
+    "Le texte ne prend pas clairement parti.",
+    "Les chercheurs ne s'opposent pas aux outils, ils mettent en garde contre un usage précoce.",
+    "« Devoirs sur table » ne signifie pas des devoirs à la maison."
+   ]
+  },
+  {
+   "code": "CE-TEC-02",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Qu'est-ce que l'obsolescence programmée ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "La réduction volontaire de la durée de vie d'un produit.",
+       "correct": true,
+       "rationale": "« Réduire volontairement la durée de vie de leurs produits pour en vendre de nouveaux. »",
+       "label": "A"
+      },
+      {
+       "text": "La garantie offerte par les fabricants.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "B"
+      },
+      {
+       "text": "Une mise à jour obligatoire.",
+       "correct": false,
+       "rationale": "C'est un exemple possible, pas la définition.",
+       "label": "C"
+      },
+      {
+       "text": "La réparation gratuite des appareils.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le terme est défini juste après les exemples de la première phrase."
+    },
+    {
+     "prompt": "Pourquoi est-il difficile de condamner cette pratique ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Parce qu'il faut prouver l'intention du fabricant.",
+       "correct": true,
+       "rationale": "« Prouver l'intention du fabricant reste toutefois très difficile. »",
+       "label": "A"
+      },
+      {
+       "text": "Parce que les produits ne tombent jamais en panne.",
+       "correct": false,
+       "rationale": "C'est faux.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que les consommateurs ne portent jamais plainte.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que la loi ne l'interdit pas.",
+       "correct": false,
+       "rationale": "C'est un délit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les autres causes de panne rendent l'intention difficile à démontrer."
+    },
+    {
+     "prompt": "Que privilégient les associations ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "L'interdiction des mises à jour.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Des mesures favorisant la réparation des produits.",
+       "correct": true,
+       "rationale": "« L'indice de réparabilité… et l'obligation de fournir des pièces détachées… pourraient faire davantage. »",
+       "label": "B"
+      },
+      {
+       "text": "La suppression des garanties.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Des procès plus nombreux.",
+       "correct": false,
+       "rationale": "Elles les jugent « longs et incertains ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "« L'essentiel se joue ailleurs » annonce un changement de priorité."
+    }
+   ],
+   "title": "L'obsolescence programmée en procès",
+   "document": "Votre imprimante cesse de fonctionner peu après la fin de la garantie ? Votre téléphone ralentit après une mise à jour ? Beaucoup de consommateurs soupçonnent les fabricants de réduire volontairement la durée de vie de leurs produits pour en vendre de nouveaux. Depuis quelques années, cette pratique, appelée obsolescence programmée, constitue un délit.\n\nProuver l'intention du fabricant reste toutefois très difficile. Un produit peut tomber en panne pour de nombreuses raisons : choix de composants bon marché, conception qui rend la réparation impossible, absence de pièces détachées. Ces pratiques réduisent la durée de vie sans être forcément illégales. Les rares condamnations ont surtout visé des mises à jour logicielles ralentissant des appareils sans en informer les utilisateurs.\n\nPour les associations, l'essentiel se joue ailleurs. L'indice de réparabilité, désormais affiché sur certains produits, et l'obligation de fournir des pièces détachées pendant plusieurs années pourraient faire davantage pour la durabilité que des procès longs et incertains.",
+   "vocabulary": [
+    {
+     "terme": "un délit",
+     "definition": "une infraction punie par la loi",
+     "exemple": "Le vol est un délit."
+    },
+    {
+     "terme": "un composant",
+     "definition": "un élément d'un appareil",
+     "exemple": "Un composant électronique."
+    },
+    {
+     "terme": "les pièces détachées",
+     "definition": "les éléments de rechange",
+     "exemple": "Il manque des pièces détachées."
+    },
+    {
+     "terme": "la réparabilité",
+     "definition": "la possibilité d'être réparé",
+     "exemple": "L'indice de réparabilité."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "tomber en panne",
+     "sens": "cesser de fonctionner",
+     "exemple": "Ma voiture est tombée en panne."
+    },
+    {
+     "expression": "se jouer ailleurs",
+     "sens": "se décider à un autre endroit",
+     "exemple": "Le vrai match se joue ailleurs."
+    },
+    {
+     "expression": "sans être forcément",
+     "sens": "sans être obligatoirement",
+     "exemple": "Ce n'est pas forcément faux."
+    }
+   ],
+   "traps": [
+    "Toutes les pannes précoces ne sont pas illégales.",
+    "Les condamnations ont surtout concerné des mises à jour logicielles.",
+    "Les associations ne rejettent pas les procès, elles jugent d'autres mesures plus efficaces."
+   ]
+  },
+  {
+   "code": "CE-TEC-03",
+   "level": "B2",
+   "doc_type": "article de vulgarisation",
+   "questions": [
+    {
+     "prompt": "Quelle idée reçue le texte corrige-t-il d'abord ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Que l'aviation pollue beaucoup.",
+       "correct": false,
+       "rationale": "C'est un point de comparaison.",
+       "label": "A"
+      },
+      {
+       "text": "Que les téléphones durent longtemps.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'idée corrigée.",
+       "label": "B"
+      },
+      {
+       "text": "Que le numérique n'a pas d'impact matériel sur l'environnement.",
+       "correct": true,
+       "rationale": "« On imagine souvent le numérique comme immatériel… En réalité, le secteur représente une part croissante des émissions. »",
+       "label": "C"
+      },
+      {
+       "text": "Que les courriels sont lents.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« En réalité » introduit la correction de l'idée reçue."
+    },
+    {
+     "prompt": "D'où vient l'essentiel de l'impact du numérique selon le texte ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Des centres de données.",
+       "correct": false,
+       "rationale": "Le texte dit le contraire.",
+       "label": "A"
+      },
+      {
+       "text": "De l'envoi de courriels.",
+       "correct": false,
+       "rationale": "L'effet est jugé marginal.",
+       "label": "B"
+      },
+      {
+       "text": "Des réseaux sociaux.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "De la fabrication des appareils.",
+       "correct": true,
+       "rationale": "« L'essentiel de cet impact ne provient pas des centres de données, mais de la fabrication des appareils. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Contrairement à une idée répandue » signale une seconde correction."
+    },
+    {
+     "prompt": "Quel geste est présenté comme le plus efficace ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Conserver ses appareils plus longtemps.",
+       "correct": true,
+       "rationale": "« Garder ses appareils plus longtemps, les faire réparer… »",
+       "label": "A"
+      },
+      {
+       "text": "Utiliser davantage le nuage.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Acheter un téléphone neuf chaque année.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Supprimer ses vieux courriels.",
+       "correct": false,
+       "rationale": "Son effet est « marginal ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "La conclusion hiérarchise les gestes selon leur efficacité."
+    }
+   ],
+   "title": "Le numérique a aussi une empreinte écologique",
+   "document": "On imagine souvent le numérique comme immatériel. Un courriel, une vidéo en ligne ou une photo stockée dans le « nuage » semblent ne rien coûter à la planète. En réalité, le secteur représente une part croissante des émissions mondiales de gaz à effet de serre, comparable à celle de l'aviation civile.\n\nContrairement à une idée répandue, l'essentiel de cet impact ne provient pas des centres de données, mais de la fabrication des appareils : ordinateurs, téléphones, téléviseurs. Leur production exige des métaux rares, beaucoup d'énergie et d'eau. Un téléphone renouvelé tous les deux ans pèse donc bien plus lourd que des milliers de courriels.\n\nLes gestes les plus efficaces sont donc simples : garder ses appareils plus longtemps, les faire réparer, acheter reconditionné, et éviter de multiplier les écrans. Supprimer ses vieux messages reste utile, mais son effet est marginal comparé à celui de la durée de vie des équipements.",
+   "vocabulary": [
+    {
+     "terme": "immatériel",
+     "definition": "qui n'a pas de forme physique",
+     "exemple": "Le numérique semble immatériel."
+    },
+    {
+     "terme": "un centre de données",
+     "definition": "un bâtiment qui abrite des serveurs informatiques",
+     "exemple": "Les centres de données consomment de l'électricité."
+    },
+    {
+     "terme": "renouveler",
+     "definition": "remplacer par un neuf",
+     "exemple": "Il renouvelle son téléphone."
+    },
+    {
+     "terme": "marginal",
+     "definition": "peu important",
+     "exemple": "Un effet marginal."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "une idée répandue",
+     "sens": "une opinion partagée par beaucoup",
+     "exemple": "C'est une idée répandue mais fausse."
+    },
+    {
+     "expression": "peser lourd",
+     "sens": "avoir beaucoup d'importance",
+     "exemple": "Cet argument pèse lourd."
+    },
+    {
+     "expression": "comparé à",
+     "sens": "par rapport à",
+     "exemple": "Comparé à l'an dernier, c'est mieux."
+    }
+   ],
+   "traps": [
+    "Le texte corrige deux idées reçues successives.",
+    "Supprimer ses courriels n'est pas inutile, seulement peu efficace.",
+    "La comparaison avec l'aviation porte sur la part des émissions."
+   ]
+  },
+  {
+   "code": "CE-TEC-04",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Que s'est-il passé par rapport aux prévisions d'il y a dix ans ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Les prévisions étaient trop pessimistes.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "A"
+      },
+      {
+       "text": "Les voitures autonomes ont remplacé toutes les autres.",
+       "correct": false,
+       "rationale": "Ce n'est pas le cas.",
+       "label": "B"
+      },
+      {
+       "text": "Les industriels ont abandonné la technologie.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "La technologie a progressé beaucoup moins vite que prévu.",
+       "correct": true,
+       "rationale": "« Ces prévisions se sont révélées trop optimistes. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La concession « Si des taxis… circulent » n'annule pas le constat d'un retard."
+    },
+    {
+     "prompt": "Quel obstacle juridique le texte évoque-t-il ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Le coût des assurances.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "L'incertitude sur la responsabilité en cas d'accident.",
+       "correct": true,
+       "rationale": "« La question de la responsabilité en cas d'accident n'est pas tranchée. »",
+       "label": "B"
+      },
+      {
+       "text": "L'interdiction des voitures autonomes.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Le manque de permis de conduire.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'auteur classe les obstacles : techniques, juridiques, puis liés à la confiance."
+    },
+    {
+     "prompt": "Quel argument les promoteurs avancent-ils ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les routes enneigées sont rares.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Les voitures autonomes ne causent jamais d'accident.",
+       "correct": false,
+       "rationale": "Ce n'est pas ce qu'ils disent.",
+       "label": "B"
+      },
+      {
+       "text": "La plupart des accidents sont causés par des humains.",
+       "correct": true,
+       "rationale": "« L'erreur humaine est à l'origine de la grande majorité des accidents de la route. »",
+       "label": "C"
+      },
+      {
+       "text": "Les médias exagèrent volontairement.",
+       "correct": false,
+       "rationale": "Ce n'est pas formulé ainsi.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Même si » oppose la médiatisation des accidents à une donnée statistique."
+    }
+   ],
+   "title": "Les voitures autonomes tardent à s'imposer",
+   "document": "Il y a dix ans, de nombreux industriels promettaient des voitures entièrement autonomes sur nos routes avant la fin de la décennie. Ces prévisions se sont révélées trop optimistes. Si des taxis sans chauffeur circulent aujourd'hui dans quelques villes, dans des zones délimitées et par beau temps, la conduite autonome généralisée reste un horizon lointain.\n\nLes obstacles sont multiples. Techniquement, les systèmes peinent à gérer les situations imprévues : un ouvrier qui fait des gestes au milieu de la chaussée, une route enneigée, un cycliste au comportement inattendu. Juridiquement, la question de la responsabilité en cas d'accident n'est pas tranchée : qui est coupable, le propriétaire, le constructeur ou le concepteur du logiciel ?\n\nEnfin, la confiance du public reste fragile. Chaque accident impliquant un véhicule autonome est largement médiatisé, même si les promoteurs de la technologie rappellent que l'erreur humaine est à l'origine de la grande majorité des accidents de la route.",
+   "vocabulary": [
+    {
+     "terme": "autonome",
+     "definition": "qui fonctionne seul",
+     "exemple": "Un robot autonome."
+    },
+    {
+     "terme": "délimité",
+     "definition": "dont les limites sont fixées",
+     "exemple": "Une zone délimitée."
+    },
+    {
+     "terme": "la chaussée",
+     "definition": "la partie de la route où roulent les véhicules",
+     "exemple": "Ne restez pas sur la chaussée."
+    },
+    {
+     "terme": "médiatisé",
+     "definition": "dont les médias parlent beaucoup",
+     "exemple": "Un procès très médiatisé."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "un horizon lointain",
+     "sens": "un objectif encore très éloigné",
+     "exemple": "La paix reste un horizon lointain."
+    },
+    {
+     "expression": "se révéler",
+     "sens": "s'avérer, apparaître finalement comme",
+     "exemple": "L'idée s'est révélée excellente."
+    },
+    {
+     "expression": "ne pas être tranché",
+     "sens": "ne pas être décidé",
+     "exemple": "Le débat n'est pas tranché."
+    }
+   ],
+   "traps": [
+    "Des taxis autonomes existent, mais dans des conditions limitées.",
+    "L'argument final est celui des promoteurs.",
+    "Le texte ne dit pas que la technologie est abandonnée."
+   ]
+  },
+  {
+   "code": "CE-TEC-05",
+   "level": "B2",
+   "doc_type": "tribune",
+   "questions": [
+    {
+     "prompt": "Pourquoi les applications cherchent-elles à capter notre attention ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Parce qu'elles veulent nous informer.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'argument.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que leurs revenus dépendent du temps passé par les utilisateurs.",
+       "correct": true,
+       "rationale": "« Plus nous restons connectés, plus elles gagnent d'argent. »",
+       "label": "B"
+      },
+      {
+       "text": "Parce que la loi les y oblige.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que les utilisateurs le demandent.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « plus… plus… » établit un lien direct entre attention et profit."
+    },
+    {
+     "prompt": "Pourquoi l'auteur refuse-t-il d'accuser les utilisateurs ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Parce que la volonté n'existe pas.",
+       "correct": false,
+       "rationale": "Ce n'est pas le propos.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que les applications sont payantes.",
+       "correct": false,
+       "rationale": "Elles sont gratuites.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que les outils sont volontairement conçus pour les retenir.",
+       "correct": true,
+       "rationale": "« Des outils conçus par des équipes entières pour les retenir. »",
+       "label": "C"
+      },
+      {
+       "text": "Parce que les utilisateurs ne sont jamais en ligne.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le déséquilibre entre un individu et une équipe de concepteurs justifie ce refus."
+    },
+    {
+     "prompt": "Quelle solution l'auteur propose-t-il ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Réglementer les mécanismes de captation de l'attention.",
+       "correct": true,
+       "rationale": "« Il faudrait encadrer ces pratiques… désactiver par défaut certaines fonctions, imposer des pauses. »",
+       "label": "A"
+      },
+      {
+       "text": "Supprimer la publicité.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Interdire Internet.",
+       "correct": false,
+       "rationale": "Ce n'est pas proposé.",
+       "label": "C"
+      },
+      {
+       "text": "Compter uniquement sur la volonté de chacun.",
+       "correct": false,
+       "rationale": "Il dit que cela ne suffit pas.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La comparaison avec les jeux d'argent justifie une régulation."
+    }
+   ],
+   "title": "L'attention, ressource la plus convoitée",
+   "document": "Notre attention est devenue une marchandise. Les applications que nous utilisons gratuitement tirent leurs revenus de la publicité, et donc du temps que nous passons devant nos écrans. Plus nous restons connectés, plus elles gagnent d'argent. Rien d'étonnant, dès lors, à ce qu'elles soient conçues pour capter notre attention le plus longtemps possible.\n\nNotifications, défilement infini, lecture automatique de la vidéo suivante : ces mécanismes ne doivent rien au hasard. Ils exploitent des ressorts psychologiques bien connus, comme la curiosité ou le besoin de reconnaissance sociale. Il serait injuste d'accuser les utilisateurs de manquer de volonté face à des outils conçus par des équipes entières pour les retenir.\n\nLa solution ne peut donc pas reposer uniquement sur la discipline individuelle. Il faudrait encadrer ces pratiques, comme on encadre la publicité ou les jeux d'argent : désactiver par défaut certaines fonctions, imposer des pauses, rendre transparent le fonctionnement des algorithmes. Protéger notre attention, c'est protéger notre capacité à penser par nous-mêmes.",
+   "vocabulary": [
+    {
+     "terme": "convoité",
+     "definition": "très désiré",
+     "exemple": "Un poste très convoité."
+    },
+    {
+     "terme": "capter",
+     "definition": "attirer et retenir",
+     "exemple": "Capter l'attention du public."
+    },
+    {
+     "terme": "le défilement",
+     "definition": "le fait de faire passer un contenu à l'écran",
+     "exemple": "Le défilement infini des réseaux sociaux."
+    },
+    {
+     "terme": "un ressort",
+     "definition": "un mécanisme, une motivation profonde",
+     "exemple": "Les ressorts de la peur."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "ne rien devoir au hasard",
+     "sens": "être volontaire, calculé",
+     "exemple": "Son succès ne doit rien au hasard."
+    },
+    {
+     "expression": "dès lors",
+     "sens": "par conséquent",
+     "exemple": "Dès lors, la décision est logique."
+    },
+    {
+     "expression": "par défaut",
+     "sens": "automatiquement, sans choix de l'utilisateur",
+     "exemple": "Cette option est activée par défaut."
+    }
+   ],
+   "traps": [
+    "L'auteur ne nie pas la responsabilité individuelle, il la juge insuffisante.",
+    "Les applications sont gratuites pour l'utilisateur.",
+    "La comparaison avec les jeux d'argent concerne la régulation."
+   ]
+  },
+  {
+   "code": "CE-TEC-06",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Comment fonctionnent les attaques décrites ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Les pirates vendent des ordinateurs.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Les pirates proposent des mises à jour.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Les pirates détruisent les bâtiments.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "C"
+      },
+      {
+       "text": "Les pirates bloquent les données et demandent de l'argent pour les libérer.",
+       "correct": true,
+       "rationale": "« Les pirates chiffrent les données de leurs victimes et exigent une somme d'argent pour les débloquer. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Une « rançon » est l'argent demandé en échange de la libération de quelque chose."
+    },
+    {
+     "prompt": "Sur quoi reposent souvent les attaques ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Sur des erreurs ou des imprudences humaines.",
+       "correct": true,
+       "rationale": "« Elles exploitent souvent des négligences humaines. »",
+       "label": "A"
+      },
+      {
+       "text": "Sur des pannes d'électricité.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Sur la complicité des directeurs.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Sur des technologies extraordinaires.",
+       "correct": false,
+       "rationale": "« Ne reposent pas sur des prouesses techniques. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Contrairement à une idée reçue » corrige l'image du pirate génial."
+    },
+    {
+     "prompt": "Pourquoi les autorités déconseillent-elles de payer ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Parce que les assurances paient.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que les données n'ont pas de valeur.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que c'est trop cher.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'argument.",
+       "label": "C"
+      },
+      {
+       "text": "Rien ne garantit la restitution des données et cela encourage d'autres attaques.",
+       "correct": true,
+       "rationale": "« Rien ne garantit que les données seront restituées, et cela encourage de nouvelles attaques. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Deux raisons sont reliées par « et »."
+    }
+   ],
+   "title": "La cybersécurité, affaire de tous",
+   "document": "Hôpitaux paralysés, mairies privées de leurs fichiers, entreprises contraintes de payer une rançon : les cyberattaques se multiplient et touchent désormais des structures de toutes tailles. Les pirates chiffrent les données de leurs victimes et exigent une somme d'argent pour les débloquer.\n\nContrairement à une idée reçue, la plupart de ces attaques ne reposent pas sur des prouesses techniques. Elles exploitent souvent des négligences humaines : un mot de passe trop simple, une pièce jointe ouverte sans précaution, une mise à jour non installée. Un seul salarié qui clique sur un lien piégé peut suffire à compromettre tout un réseau.\n\nLes autorités recommandent de ne jamais payer de rançon, car rien ne garantit que les données seront restituées, et cela encourage de nouvelles attaques. Elles insistent sur la prévention : sauvegardes régulières stockées hors ligne, double authentification et formation du personnel. Pour les petites structures, souvent dépourvues de service informatique, des dispositifs publics d'assistance ont été créés.",
+   "vocabulary": [
+    {
+     "terme": "une rançon",
+     "definition": "une somme exigée pour libérer quelqu'un ou quelque chose",
+     "exemple": "Les pirates réclament une rançon."
+    },
+    {
+     "terme": "chiffrer",
+     "definition": "coder des données pour les rendre illisibles",
+     "exemple": "Les fichiers ont été chiffrés."
+    },
+    {
+     "terme": "une prouesse",
+     "definition": "un exploit",
+     "exemple": "Une prouesse technique."
+    },
+    {
+     "terme": "piégé",
+     "definition": "qui cache un danger",
+     "exemple": "Un lien piégé."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "une idée reçue",
+     "sens": "une opinion commune non vérifiée",
+     "exemple": "C'est une idée reçue."
+    },
+    {
+     "expression": "sans précaution",
+     "sens": "sans faire attention",
+     "exemple": "Il a ouvert le colis sans précaution."
+    },
+    {
+     "expression": "être dépourvu de",
+     "sens": "ne pas avoir",
+     "exemple": "Une ville dépourvue de cinéma."
+    }
+   ],
+   "traps": [
+    "Les attaques ne visent pas que les grandes structures.",
+    "La plupart ne sont pas techniquement sophistiquées.",
+    "Les sauvegardes doivent être stockées hors ligne."
+   ]
+  },
+  {
+   "code": "CE-TEC-07",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Quels avantages les promoteurs de la 5G mettent-ils en avant ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Une baisse du prix des téléphones.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Une connexion plus rapide et capable de relier de nombreux objets.",
+       "correct": true,
+       "rationale": "« Des débits bien supérieurs, une latence quasi nulle et la possibilité de connecter simultanément un très grand nombre d'objets. »",
+       "label": "B"
+      },
+      {
+       "text": "Une meilleure autonomie des batteries.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "La suppression des antennes.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'énumération présente les performances techniques."
+    },
+    {
+     "prompt": "Quelle critique le texte juge-t-il la plus fondée ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Le danger démontré pour la santé.",
+       "correct": false,
+       "rationale": "Aucun risque n'a été identifié.",
+       "label": "A"
+      },
+      {
+       "text": "Le manque de vitesse.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "B"
+      },
+      {
+       "text": "L'impact environnemental lié au renouvellement des appareils.",
+       "correct": true,
+       "rationale": "« Sur le plan environnemental, la critique est plus solide. »",
+       "label": "C"
+      },
+      {
+       "text": "Le coût des abonnements.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le comparatif « plus solide » hiérarchise les critiques."
+    },
+    {
+     "prompt": "Que suggère la question finale ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "La chirurgie à distance est inutile.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "A"
+      },
+      {
+       "text": "Tous les usages de la 5G n'ont pas la même utilité sociale.",
+       "correct": true,
+       "rationale": "Elle compare la vidéo dans le métro et la chirurgie à distance.",
+       "label": "B"
+      },
+      {
+       "text": "Il faut interdire les vidéos.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "La 5G ne fonctionne pas dans le métro.",
+       "correct": false,
+       "rationale": "Ce n'est pas le propos.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La question rhétorique invite à hiérarchiser les besoins."
+    }
+   ],
+   "title": "La 5G, entre promesses et inquiétudes",
+   "document": "Le déploiement de la cinquième génération de téléphonie mobile se poursuit. Ses promoteurs mettent en avant des débits bien supérieurs, une latence quasi nulle et la possibilité de connecter simultanément un très grand nombre d'objets. Ces performances doivent permettre le développement de l'industrie connectée, de la télémédecine ou des véhicules autonomes.\n\nCette technologie suscite pourtant des réserves. Sur le plan sanitaire, les agences d'expertise n'ont pas identifié de risque pour la santé aux niveaux d'exposition autorisés, tout en recommandant de poursuivre les études. Sur le plan environnemental, la critique est plus solide : la 5G encourage le renouvellement des téléphones et la multiplication des objets connectés, dont la fabrication pèse lourd sur le climat.\n\nPour de nombreux observateurs, la vraie question n'est pas technique mais politique : de quels usages avons-nous réellement besoin ? Regarder des vidéos en très haute définition dans le métro justifie-t-il les mêmes investissements que la chirurgie à distance ?",
+   "vocabulary": [
+    {
+     "terme": "le déploiement",
+     "definition": "la mise en place progressive",
+     "exemple": "Le déploiement de la fibre."
+    },
+    {
+     "terme": "le débit",
+     "definition": "la quantité de données transmise par seconde",
+     "exemple": "Un débit élevé."
+    },
+    {
+     "terme": "la latence",
+     "definition": "le délai de réaction d'un réseau",
+     "exemple": "Une faible latence."
+    },
+    {
+     "terme": "la télémédecine",
+     "definition": "la médecine pratiquée à distance",
+     "exemple": "La télémédecine aide les zones rurales."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "sur le plan de",
+     "sens": "du point de vue de",
+     "exemple": "Sur le plan financier, c'est intéressant."
+    },
+    {
+     "expression": "peser lourd sur",
+     "sens": "avoir un impact important sur",
+     "exemple": "Cette dépense pèse lourd sur le budget."
+    },
+    {
+     "expression": "mettre en avant",
+     "sens": "souligner, valoriser",
+     "exemple": "Il met en avant son expérience."
+    }
+   ],
+   "traps": [
+    "Les agences n'ont pas trouvé de risque sanitaire aux niveaux autorisés.",
+    "La critique environnementale est jugée plus solide que la critique sanitaire.",
+    "La question finale est rhétorique."
+   ]
+  },
+  {
+   "code": "CE-TEC-08",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Quel problème le texte décrit-il ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Les démarches en ligne sont interdites.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "A"
+      },
+      {
+       "text": "Les seniors refusent Internet.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Les bibliothèques ferment.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "La dématérialisation des démarches exclut une partie de la population.",
+       "correct": true,
+       "rationale": "« Pour d'autres, elle devient une source d'exclusion. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'opposition « progrès » / « exclusion » structure le premier paragraphe."
+    },
+    {
+     "prompt": "Quelle conséquence grave la fracture numérique peut-elle avoir ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les banques ferment les comptes.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Les personnes âgées déménagent.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Certaines personnes renoncent à des droits qui leur sont dus.",
+       "correct": true,
+       "rationale": "« Certains renoncent alors à des droits auxquels ils pourraient prétendre. »",
+       "label": "C"
+      },
+      {
+       "text": "Les impôts augmentent.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Prétendre à » signifie « avoir droit à »."
+    },
+    {
+     "prompt": "Que demandent les associations ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Le maintien d'autres moyens que le numérique pour faire ses démarches.",
+       "correct": true,
+       "rationale": "« Le droit de chacun à effectuer ses démarches autrement, par téléphone ou au guichet. »",
+       "label": "A"
+      },
+      {
+       "text": "L'obligation de tout faire en ligne.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "B"
+      },
+      {
+       "text": "Des ordinateurs gratuits pour tous.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "La suppression des conseillers numériques.",
+       "correct": false,
+       "rationale": "Elles saluent l'initiative.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Saluent… mais rappellent » exprime un avis nuancé."
+    }
+   ],
+   "title": "Les seniors et la fracture numérique",
+   "document": "Déclarer ses impôts, prendre rendez-vous chez le médecin, consulter son compte bancaire : de plus en plus de démarches se font exclusivement en ligne. Pour une partie de la population, cette évolution est un progrès. Pour d'autres, elle devient une source d'exclusion. Près d'une personne sur six se déclare en difficulté avec les outils numériques, et cette proportion est bien plus élevée chez les plus de soixante-dix ans.\n\nLe problème ne se limite pas à l'âge. Il touche aussi des personnes à faibles revenus, qui n'ont pas d'ordinateur, ou des habitants de zones rurales mal couvertes par le réseau. Certains renoncent alors à des droits auxquels ils pourraient prétendre, faute de pouvoir accomplir les démarches.\n\nDes conseillers numériques ont été déployés dans les mairies et les bibliothèques pour accompagner ces publics. Les associations saluent l'initiative, mais rappellent qu'un accompagnement ne remplace pas le droit de chacun à effectuer ses démarches autrement, par téléphone ou au guichet.",
+   "vocabulary": [
+    {
+     "terme": "une démarche",
+     "definition": "une action administrative",
+     "exemple": "Faire des démarches à la mairie."
+    },
+    {
+     "terme": "l'exclusion",
+     "definition": "le fait d'être mis à l'écart",
+     "exemple": "Lutter contre l'exclusion sociale."
+    },
+    {
+     "terme": "un guichet",
+     "definition": "un comptoir où l'on est reçu dans une administration",
+     "exemple": "Faire la queue au guichet."
+    },
+    {
+     "terme": "prétendre à",
+     "definition": "avoir droit à",
+     "exemple": "Il peut prétendre à une aide."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "la fracture numérique",
+     "sens": "l'inégalité d'accès au numérique",
+     "exemple": "Réduire la fracture numérique."
+    },
+    {
+     "expression": "se limiter à",
+     "sens": "ne concerner que",
+     "exemple": "Le problème ne se limite pas à Paris."
+    },
+    {
+     "expression": "faute de",
+     "sens": "par manque de",
+     "exemple": "Faute de moyens, il a renoncé."
+    }
+   ],
+   "traps": [
+    "La fracture numérique ne concerne pas seulement les personnes âgées.",
+    "Les associations approuvent les conseillers numériques.",
+    "Elles demandent une alternative, pas l'arrêt du numérique."
+   ]
+  }
+ ]
+}
