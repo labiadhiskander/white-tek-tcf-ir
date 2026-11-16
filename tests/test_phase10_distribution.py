@@ -72,6 +72,10 @@ def test_workflows_build_and_test():
     for step in ("fetch_vosk_model.py", "PyInstaller", "iscc", "upload-artifact",
                  "action-gh-release", "workflow_dispatch"):
         assert step in rel, step
+    # Le quota de stockage des artefacts ne doit jamais empêcher la publication.
+    assert rel.index("action-gh-release") < rel.index("upload-artifact")
+    art = rel[rel.index("Artefact téléchargeable"):]
+    assert "continue-on-error: true" in art and "retention-days" in art
 
 
 def test_version_info_writer(tmp_path, monkeypatch):
