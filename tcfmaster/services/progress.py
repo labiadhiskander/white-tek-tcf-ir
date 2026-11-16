@@ -234,6 +234,45 @@ def plan_progress(s: Session) -> dict:
             "current_week": week, "weeks": max((d.week for d in days), default=0)}
 
 
+# ------------------------------------------------------------ v1.1 : activité détaillée
+def exercises_done(s: Session) -> dict:
+    """Séries d'exercices de collection terminées et questions traitées (CO / CE)."""
+    out = {"series": 0, "questions": 0, "CO": 0, "CE": 0, "writings": 0, "speakings": 0}
+    for (r,) in s.execute(select(Attempt.results).where(Attempt.finished_at.is_not(None),
+                                                        Attempt.exam_id.is_(None))).all():
+        if r and r.get("kind") == "collection":
+            out["series"] += 1
+            out["questions"] += int(r.get("total", 0))
+            if r.get("section") in ("CO", "CE"):
+                out[r["section"]] += int(r.get("total", 0))
+    out["writings"] = s.execute(select(func.count(WritingSubmission.id))).scalar_one()
+    out["speakings"] = s.execute(select(func.count(SpeakingSubmission.id))).scalar_one()
+    return out
+
+
+def mock_history(s: Session, limit: int = 15) -> list[dict]:
+    """Examens blancs passés (complets ou par épreuve), du plus récent au plus ancien."""
+    rows = []
+    q = (select(Attempt).where(Attempt.exam_id.is_not(None), Attempt.finished_at.is_not(None))
+         .order_by(Attempt.finished_at.desc()).limit(limit))
+    for a in s.execute(q).scalars():
+        res = a.results or {}
+        cells = {}
+        for sec in SECTIONS:
+            r = res.get(sec)
+            if not isinstance(r, dict):
+                continue
+            if "total" in r:
+                cells[sec] = f"{r.get('correct', 0)}/{r['total']} ({r.get('level') or '–'})"
+            elif r.get("note20") is not None:
+                cells[sec] = f"{float(r['note20']):.1f}/20 ({r.get('level') or '–'})"
+        rows.append({"attempt_id": a.id, "date": a.finished_at,
+                     "code": a.exam.code if a.exam else "?",
+                     "title": a.exam.title if a.exam else "",
+                     "complete": all(sec in res for sec in SECTIONS), "cells": cells})
+    return rows
+
+
 # ------------------------------------------------------------ recommandations
 @dataclass
 class Recommendation:
@@ -293,6 +332,21 @@ def recommendations(s: Session, statuses: dict[str, SkillStatus] | None = None,
     elif last_full and (now - last_full).days > 14:
         recs.append(Recommendation("Votre dernier examen blanc date de plus de deux semaines : "
                                    "refaites-en un pour vérifier vos acquis.", "mock", 2))
+    # 3 bis. vocabulaire des documents manqués
+    from tcfmaster.services import review as RV
+    lex = RV.lexicon_counts(s, now.date())
+    if lex["due"]:
+        recs.append(Recommendation(f"{lex['due']} mot(s) issus de documents manqués à revoir "
+                                   "(onglet Révision de la page Vocabulaire).", "vocab", 2))
+    # 5 bis. programme intensif en retard
+    from tcfmaster.services import intensive as IS
+    ip = IS.progress(s, now.date())
+    if ip["started"] and ip["calendar_day"] and ip["current_day"] < ip["calendar_day"] \
+            and ip["done"] < ip["total"]:
+        late = ip["calendar_day"] - ip["current_day"]
+        recs.append(Recommendation(f"Programme intensif : {late} jour(s) de retard (jour "
+                                   f"{ip['current_day']} à terminer).", "intensive",
+                                   1 if late >= 3 else 2))
     # 6. programme
     pp = plan_progress(s)
     if pp["total"] and pp["done"] == 0:
@@ -340,6 +394,8 @@ def dashboard(s: Session) -> dict:
         "skills": {k: {"level": v.estimated_level, "average": v.average, "ready": v.ready,
                        "history": v.history} for k, v in st.items()},
         "alerts": alerts(st),
+        "exercises": exercises_done(s),
+        "mock_history": mock_history(s),
         "ready": ready,
         "disclaimer": L.DISCLAIMER,
     }

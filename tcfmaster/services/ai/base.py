@@ -54,3 +54,36 @@ class TutorEngine(Protocol):
     def opening(self, conv: Conversation) -> TutorReply: ...
 
     def reply(self, conv: Conversation, text: str) -> TutorReply: ...
+
+
+def build_messages(conv: Conversation, extra_user: str | None = None,
+                   max_turns: int = 40) -> list[dict]:
+    """Historique au format « chat » (rôles user / assistant alternés, premier message
+    de l'apprenant), commun aux moteurs en ligne et à l'IA locale."""
+    msgs: list[dict] = []
+    for t in conv.turns[-max_turns:]:
+        role = "user" if t.role == LEARNER else "assistant"
+        if msgs and msgs[-1]["role"] == role:        # les API attendent une alternance
+            msgs[-1]["content"] += "\n\n" + t.text
+        else:
+            msgs.append({"role": role, "content": t.text})
+    if extra_user:
+        if msgs and msgs[-1]["role"] == "user":
+            msgs[-1]["content"] += "\n\n" + extra_user
+        else:
+            msgs.append({"role": "user", "content": extra_user})
+    if msgs and msgs[0]["role"] != "user":          # le premier message vient de l'apprenant
+        msgs.insert(0, {"role": "user", "content": "Bonjour."})
+    if not msgs:
+        msgs = [{"role": "user", "content": extra_user or "Bonjour."}]
+    return msgs
+
+
+OPENING_CUES = {
+    MODE_TEACHER: "Présente-toi en deux phrases comme professeur et demande-moi ce que je "
+                  "veux travailler.",
+    MODE_CONVERSATION: "Lance une conversation sur un sujet de société en me posant une "
+                       "question ouverte.",
+    MODE_EXAMINER: "Commence l'épreuve : salue-moi et pose la première question ou "
+                   "réplique, comme à l'examen.",
+}

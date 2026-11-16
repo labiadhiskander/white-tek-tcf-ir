@@ -9,6 +9,7 @@ from PySide6.QtWidgets import (QButtonGroup, QComboBox, QHBoxLayout, QHeaderView
                                QLineEdit, QListWidget, QListWidgetItem, QPushButton,
                                QRadioButton, QSplitter, QTableWidget, QTableWidgetItem,
                                QTabWidget, QTextBrowser, QVBoxLayout, QWidget)
+from sqlalchemy import select
 
 from tcfmaster.db.models import Expression, GrammarChapter, VocabWord
 from tcfmaster.services import learning as LS
@@ -270,8 +271,10 @@ class VocabularyPage(Page):
         with self.ctx.db.session() as s:
             due = RV.due_items(s, limit=40)
             self.rev_queue = [(d.item_type, d.item_id) for d in due
-                              if d.item_type in ("expression", "vocab")]
-            acquired = RV.acquired_count(s, "expression") + RV.acquired_count(s, "vocab")
+                              if d.item_type in ("expression", "vocab")
+                              or (d.item_type == RV.LEXICON and RV.lexicon_entry(s, d))]
+            acquired = (RV.acquired_count(s, "expression") + RV.acquired_count(s, "vocab")
+                        + RV.acquired_count(s, RV.LEXICON))
         self.rev_info.setText(f"{len(self.rev_queue)} élément(s) à réviser aujourd'hui · "
                               f"{acquired} élément(s) acquis.")
         self._rev_next()
@@ -292,6 +295,11 @@ class VocabularyPage(Page):
                 e = s.get(Expression, i)
                 self.rev_card.setHtml(f"<h2>{html.escape(e.text)}</h2><p>Que signifie cette "
                                       f"expression ? Employez-la dans une phrase.</p>")
+            elif t == RV.LEXICON:
+                e = self._lexicon(s, i)
+                self.rev_card.setHtml(f"<h2>{html.escape(e['term'])}</h2><p>Définition ? "
+                                      f"<span style='color:#777'>(vocabulaire d'un document "
+                                      f"manqué : {html.escape(e['source'])})</span></p>")
             else:
                 v = s.get(VocabWord, i)
                 self.rev_card.setHtml(f"<h2>{html.escape(v.word)}</h2><p>Définition ?</p>")
@@ -305,6 +313,10 @@ class VocabularyPage(Page):
                 e = s.get(Expression, i)
                 extra = (f"<p><b>Sens :</b> {html.escape(e.meaning)}</p><p><b>Exemple :</b> "
                          f"<i>{html.escape(e.example)}</i></p>")
+            elif t == RV.LEXICON:
+                e = self._lexicon(s, i)
+                extra = (f"<p><b>Définition :</b> {html.escape(e['definition'])}</p><p><b>"
+                         f"Exemple :</b> <i>{html.escape(e['example'])}</i></p>")
             else:
                 v = s.get(VocabWord, i)
                 extra = (f"<p><b>Définition :</b> {html.escape(v.definition)}</p><p><b>Exemple :"
@@ -312,6 +324,14 @@ class VocabularyPage(Page):
         self.rev_card.append(extra)
         for b in self.rev_btns:
             b.setEnabled(True)
+
+    @staticmethod
+    def _lexicon(s, item_id: int) -> dict:
+        from tcfmaster.db.models import ReviewItem
+        it = s.execute(select(ReviewItem).where(ReviewItem.item_type == RV.LEXICON,
+                                                ReviewItem.item_id == item_id)).scalar_one()
+        return RV.lexicon_entry(s, it) or {"term": "?", "definition": "", "example": "",
+                                           "source": ""}
 
     def _rev_grade(self, q: int):
         t, i = self.rev_queue.pop(0)

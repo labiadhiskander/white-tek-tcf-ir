@@ -8,12 +8,14 @@ from __future__ import annotations
 
 from PySide6.QtCore import Qt
 from PySide6.QtWidgets import (QComboBox, QHBoxLayout, QLabel, QLineEdit, QMessageBox,
-                               QPushButton)
+                               QPushButton, QVBoxLayout, QWidget)
 
 from tcfmaster.services import settings as S
 from tcfmaster.services.ai.anthropic_engine import DEFAULT_MODEL
 from tcfmaster.services.ai.base import AIUnavailable
-from tcfmaster.services.ai.tutor import PRIVACY_NOTICE, PROVIDER_ANTHROPIC, PROVIDERS
+from tcfmaster.services.ai.local_llm import DEFAULT_URL, PRESETS, is_local
+from tcfmaster.services.ai.tutor import (PRIVACY_NOTICE, PROVIDER_ANTHROPIC, PROVIDER_LOCAL_LLM,
+                                         PROVIDERS)
 from tcfmaster.ui.widgets import Card, disclaimer_label
 
 EFFORT_LABELS = {"low": "Rapide", "medium": "Équilibré (recommandé)", "high": "Approfondi"}
@@ -36,6 +38,51 @@ class AISettingsCard(Card):
         self.provider.currentIndexChanged.connect(self._provider_changed)
         self.lay.addWidget(QLabel("Moteur du tuteur :"))
         self.lay.addWidget(self.provider)
+
+        # --- IA locale (Ollama / LM Studio)
+        self.llm_box = QWidget()
+        ll = QVBoxLayout(self.llm_box)
+        ll.setContentsMargins(0, 4, 0, 4)
+        lrow = QHBoxLayout()
+        lrow.addWidget(QLabel("Logiciel :"))
+        self.llm_preset = QComboBox()
+        for k, (label, _url) in PRESETS.items():
+            self.llm_preset.addItem(label, k)
+        self.llm_preset.addItem("Autre serveur compatible OpenAI", "autre")
+        self.llm_preset.activated.connect(self._preset_chosen)
+        lrow.addWidget(self.llm_preset, 1)
+        lrow.addWidget(QLabel("Adresse :"))
+        self.llm_url = QLineEdit()
+        self.llm_url.setPlaceholderText(DEFAULT_URL)
+        self.llm_url.editingFinished.connect(self._url_changed)
+        lrow.addWidget(self.llm_url, 2)
+        ll.addLayout(lrow)
+        mrow = QHBoxLayout()
+        mrow.addWidget(QLabel("Modèle :"))
+        self.llm_model = QComboBox()
+        self.llm_model.setEditable(True)
+        self.llm_model.lineEdit().setPlaceholderText("premier modèle installé (ex. mistral)")
+        self.llm_model.lineEdit().editingFinished.connect(self._llm_model_changed)
+        self.llm_model.activated.connect(lambda *_: self._llm_model_changed())
+        mrow.addWidget(self.llm_model, 2)
+        self.llm_list_btn = QPushButton("Lister les modèles")
+        self.llm_list_btn.clicked.connect(self._list_models)
+        self.llm_test_btn = QPushButton("Tester l'IA locale")
+        self.llm_test_btn.clicked.connect(self._test)
+        mrow.addWidget(self.llm_list_btn)
+        mrow.addWidget(self.llm_test_btn)
+        ll.addLayout(mrow)
+        self._llm_help = (
+            "Gratuit et sans clé : installez Ollama (ollama.com) puis, dans un terminal, "
+            "« ollama pull mistral » ; ou LM Studio (lmstudio.ai), téléchargez un modèle et "
+            "démarrez le serveur local. Un modèle de 7 à 8 milliards de paramètres demande "
+            "environ 8 Go de mémoire. L'IA locale approfondit les corrections d'expression "
+            "écrite et orale ; le barème et la note estimée restent ceux de l'application.")
+        self.llm_info = QLabel(self._llm_help)
+        self.llm_info.setWordWrap(True)
+        self.llm_info.setObjectName("Muted")
+        ll.addWidget(self.llm_info)
+        self.lay.addWidget(self.llm_box)
 
         row = QHBoxLayout()
         row.addWidget(QLabel("Modèle :"))
@@ -98,10 +145,73 @@ class AISettingsCard(Card):
             w.setCurrentIndex(max(0, w.findData(st.get(key))))
             w.blockSignals(False)
         self.model.setText(st.get("ai_model") or DEFAULT_MODEL)
+        url = st.get("local_ai_url") or DEFAULT_URL
+        self.llm_url.setText(url)
+        preset = next((k for k, (_l, u) in PRESETS.items() if u == url), "autre")
+        self.llm_preset.setCurrentIndex(self.llm_preset.findData(preset))
+        self.llm_model.setEditText(st.get("local_ai_model") or "")
         self._update_state()
+
+    # ------------------------------------------------------------ IA locale
+    def _preset_chosen(self, *_):
+        key = self.llm_preset.currentData()
+        if key in PRESETS:
+            self.llm_url.setText(PRESETS[key][1])
+            self._url_changed()
+
+    def _url_changed(self) -> None:
+        from tcfmaster.services.ai.base import AIUnavailable as _AU
+        from tcfmaster.services.ai.local_llm import normalize_url
+        try:
+            url = normalize_url(self.llm_url.text())
+        except _AU as exc:
+            self.llm_url.setText(DEFAULT_URL)
+            QMessageBox.warning(self, "IA locale", str(exc))
+            url = DEFAULT_URL
+        self.llm_url.setText(url)
+        self._set("local_ai_url", url)
+        self._update_state()
+
+    def _llm_model_changed(self) -> None:
+        self._set("local_ai_model", self.llm_model.currentText().strip())
+
+    def _list_models(self) -> None:
+        from tcfmaster.ui.speaking import run_background
+        self.llm_list_btn.setEnabled(False)
+        url = self.llm_url.text().strip() or DEFAULT_URL
+        run_background(self, lambda: tutor_service(self.ctx).list_local_models(url),
+                       self._models_listed)
+
+    def _models_listed(self, res) -> None:
+        self.llm_list_btn.setEnabled(True)
+        if isinstance(res, Exception):
+            QMessageBox.warning(self, "IA locale", str(res))
+            return
+        current = self.llm_model.currentText().strip()
+        self.llm_model.blockSignals(True)
+        self.llm_model.clear()
+        self.llm_model.addItems(res)
+        self.llm_model.blockSignals(False)
+        if current:
+            self.llm_model.setEditText(current)
+        elif res:
+            self.llm_model.setCurrentIndex(0)
+            self._llm_model_changed()
+        if not res:
+            QMessageBox.information(self, "IA locale", "Aucun modèle installé sur ce serveur.")
 
     def _update_state(self) -> None:
         online = self.provider.currentData() == PROVIDER_ANTHROPIC
+        llm = self.provider.currentData() == PROVIDER_LOCAL_LLM
+        self.llm_box.setVisible(llm)
+        for w in (self.llm_preset, self.llm_url, self.llm_model, self.llm_list_btn,
+                  self.llm_test_btn):
+            w.setEnabled(llm)
+        if llm and not is_local(self.llm_url.text() or DEFAULT_URL):
+            self.llm_info.setText("⚠ Cette adresse n'est pas sur votre ordinateur ni sur votre "
+                                  "réseau local : vos textes y seront envoyés.")
+        else:
+            self.llm_info.setText(self._llm_help)
         for w in (self.model, self.effort, self.key, self.save_key, self.del_key,
                   self.test_btn):
             w.setEnabled(online)
@@ -134,6 +244,7 @@ class AISettingsCard(Card):
     def _test(self) -> None:
         from tcfmaster.ui.speaking import run_background
         self.test_btn.setEnabled(False)
+        self.llm_test_btn.setEnabled(False)
         self.test_btn.setText("Test en cours…")
         run_background(self, tutor_service(self.ctx).test_connection, self._tested)
 

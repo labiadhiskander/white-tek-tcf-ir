@@ -11,6 +11,7 @@ from sqlalchemy import select
 from tcfmaster.db.models import SECTION_EE, Attempt, Exam, WritingSubmission, WritingTask
 from tcfmaster.services import exam_service as ES
 from tcfmaster.services import writing_service as WS
+from tcfmaster.ui.ai_deepen import DeepenButton
 from tcfmaster.ui.widgets import Card, Page, disclaimer_label
 from tcfmaster.ui.writing import WritingEditor, WritingReportView, WritingRunner
 from tcfmaster.ui.writing_report import evaluation_html
@@ -97,8 +98,11 @@ class WritingPage(Page):
         b1.clicked.connect(self.back)
         self.retry_btn = QPushButton("Réécrire ce texte")
         self.retry_btn.clicked.connect(self._retry)
+        self.current_sub: int | None = None
+        self.deepen_btn = DeepenButton(ctx, "EE", self.report, lambda: self.current_sub)
         rb.addWidget(b1)
         rb.addWidget(self.retry_btn)
+        rb.addWidget(self.deepen_btn)
         rb.addStretch(1)
         rl.addLayout(rb)
         self.stack.addWidget(rep)
@@ -191,8 +195,10 @@ class WritingPage(Page):
             title = (f"{t.exam.code} – tâche {t.task_number}" if t.exam
                      else f"{t.code or 'Sujet'} – tâche {t.task_number}")
             self.report.setHtml(evaluation_html(sub.evaluation, text, title))
+            self.current_sub = sub.id
         self._last_text = text
         self.retry_btn.setVisible(True)
+        self.deepen_btn.refresh_state()
         self.stack.setCurrentWidget(self.report_view)
 
     def _retry(self) -> None:
@@ -233,6 +239,8 @@ class WritingPage(Page):
                 parts.append("<hr>")
         self.report.setHtml("".join(parts))
         self.retry_btn.setVisible(False)
+        self.current_sub = None
+        self.deepen_btn.refresh_state()
         self.stack.setCurrentWidget(self.report_view)
 
     def back(self) -> None:

@@ -382,6 +382,9 @@ class IntensiveDay(Base):
     focus: Mapped[str] = mapped_column(String(200))
     activities: Mapped[list] = mapped_column(JSON)  # [{module, minutes, description, ref}]
     is_mock_exam: Mapped[bool] = mapped_column(Boolean, default=False)
+    # v1.1 : examen blanc du jour (code) et consigne de la phase
+    exam_code: Mapped[str | None] = mapped_column(String(30), nullable=True)
+    advice: Mapped[str | None] = mapped_column(Text, nullable=True, default="")
 
 
 class IntensiveProgress(Base):

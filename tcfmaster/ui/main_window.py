@@ -11,6 +11,7 @@ from tcfmaster.ui.pages import admin_page as AP
 from tcfmaster.ui.pages import custom_page as CP
 from tcfmaster.ui.pages import dashboard_page as DP
 from tcfmaster.ui.pages import exam_pages as EP
+from tcfmaster.ui.pages import intensive_page as IP
 from tcfmaster.ui.pages import learning_pages as LP
 from tcfmaster.ui.pages import library_page as BP
 from tcfmaster.ui.pages import misc_pages as MP
@@ -37,6 +38,7 @@ MENU = [
     ("custom", "★", "Exercices personnalisés", lambda c: CP.CustomExercisesPage(c)),
     ("history", "⏲", "Historique et résultats", lambda c: MP.HistoryPage(c)),
     ("plan", "📅", "Mon programme de préparation", lambda c: MP.PlanPage(c)),
+    ("intensive", "⚡", "Programme intensif 30 jours", lambda c: IP.IntensivePage(c)),
     ("admin", "🔧", "Administration", lambda c: AP.AdminPage(c)),
     ("settings", "⚙", "Paramètres", lambda c: MP.SettingsPage(c)),
 ]

@@ -6,6 +6,7 @@ Règle affichée : le candidat n'est jamais déclaré prêt sur un seul résulta
 from __future__ import annotations
 
 from datetime import date
+from html import escape
 
 from PySide6.QtCharts import (QBarCategoryAxis, QBarSeries, QBarSet, QCategoryAxis, QChart,
                               QChartView, QLineSeries, QValueAxis)
@@ -16,6 +17,7 @@ from PySide6.QtWidgets import (QGridLayout, QHBoxLayout, QHeaderView, QLabel, QP
                                QWidget)
 
 from tcfmaster.core import levels as L
+from tcfmaster.services import intensive as IS
 from tcfmaster.services import progress as PR
 from tcfmaster.services import review as RV
 from tcfmaster.ui.widgets import Card, Kpi, Page, disclaimer_label
@@ -55,11 +57,12 @@ class DashboardPage(Page):
                  ("co", "Réussite compréhension orale"), ("ce", "Réussite compréhension écrite"),
                  ("ee", "Note moyenne expression écrite"),
                  ("eo", "Note moyenne expression orale"), ("time", "Temps d'entraînement"),
-                 ("errors", "Erreurs relevées"), ("vocab", "Vocabulaire acquis")]
+                 ("errors", "Erreurs relevées"), ("vocab", "Vocabulaire acquis"),
+                 ("exercises", "Exercices réalisés"), ("lexicon", "Vocabulaire à revoir")]
         for i, (k, lab) in enumerate(specs):
             w = Kpi(lab)
             self.kpis[k] = w
-            grid.addWidget(w, i // 6, i % 6)
+            grid.addWidget(w, i // 7, i % 7)
         self.body.addLayout(grid)
 
         # --- préparation par compétence
@@ -108,7 +111,24 @@ class DashboardPage(Page):
         row.addWidget(ac, 2)
         self.body.addLayout(row)
 
-        # --- programme et erreurs
+        # --- historique des examens blancs (v1.1)
+        mc = Card("Historique des examens blancs")
+        self.mock_table = QTableWidget(0, 6)
+        self.mock_table.setHorizontalHeaderLabels(["Date", "Examen", "CO", "CE", "EE", "EO"])
+        self.mock_table.verticalHeader().setVisible(False)
+        self.mock_table.setEditTriggers(QTableWidget.NoEditTriggers)
+        self.mock_table.setSelectionMode(QTableWidget.NoSelection)
+        mh = self.mock_table.horizontalHeader()
+        mh.setSectionResizeMode(QHeaderView.ResizeToContents)
+        mh.setSectionResizeMode(1, QHeaderView.Stretch)
+        self.mock_table.setMinimumHeight(150)
+        mc.lay.addWidget(self.mock_table)
+        self.mock_empty = QLabel("Aucun examen blanc passé pour l'instant.")
+        self.mock_empty.setObjectName("Muted")
+        mc.lay.addWidget(self.mock_empty)
+        self.body.addWidget(mc)
+
+        # --- programmes et erreurs
         row2 = QHBoxLayout()
         pc = Card("Programme de 12 semaines")
         self.plan_bar = QProgressBar()
@@ -116,6 +136,16 @@ class DashboardPage(Page):
         self.plan_info.setObjectName("Muted")
         pc.lay.addWidget(self.plan_bar)
         pc.lay.addWidget(self.plan_info)
+        pc.lay.addWidget(QLabel("Programme intensif 30 jours"))
+        self.int_bar = QProgressBar()
+        self.int_info = QLabel()
+        self.int_info.setObjectName("Muted")
+        self.int_info.setWordWrap(True)
+        pc.lay.addWidget(self.int_bar)
+        pc.lay.addWidget(self.int_info)
+        go_int = QPushButton("Programme intensif ▶")
+        go_int.clicked.connect(lambda: self._go("intensive"))
+        pc.lay.addWidget(go_int, alignment=Qt.AlignLeft)
         pc.lay.addStretch(1)
         row2.addWidget(pc, 1)
         ec = Card("Erreurs les plus fréquentes")
@@ -127,6 +157,20 @@ class DashboardPage(Page):
         ec.lay.addWidget(go, alignment=Qt.AlignLeft)
         ec.lay.addStretch(1)
         row2.addWidget(ec, 1)
+        vc = Card("Vocabulaire à revoir")
+        self.lexicon = QLabel()
+        self.lexicon.setWordWrap(True)
+        vc.lay.addWidget(self.lexicon)
+        vnote = QLabel("Alimenté par les questions manquées : le vocabulaire du document est "
+                       "programmé en révision espacée.")
+        vnote.setWordWrap(True)
+        vnote.setObjectName("Muted")
+        vc.lay.addWidget(vnote)
+        go_voc = QPushButton("Réviser maintenant ▶")
+        go_voc.clicked.connect(lambda: self._go("vocab"))
+        vc.lay.addWidget(go_voc, alignment=Qt.AlignLeft)
+        vc.lay.addStretch(1)
+        row2.addWidget(vc, 1)
         self.body.addLayout(row2)
 
         # --- recommandations
@@ -175,6 +219,9 @@ class DashboardPage(Page):
             self.recs = PR.recommendations(s)
             act = PR.activity_by_day(s, 28)
             plan = PR.plan_progress(s)
+            intensive = IS.progress(s)
+            lex_counts = RV.lexicon_counts(s)
+            lex_due = RV.lexicon_due(s, limit=8)
         self.data = d
         self._kpis(d, vocab)
         self._verdict(d)
@@ -185,6 +232,25 @@ class DashboardPage(Page):
         self.plan_bar.setFormat(f"{plan['percent']} %")
         self.plan_info.setText(f"{plan['done']} activité(s) sur {plan['total']} · semaine "
                                f"{plan['current_week']} / {plan['weeks']}")
+        self.int_bar.setValue(intensive["percent"])
+        self.int_bar.setFormat(f"{intensive['percent']} %")
+        if intensive["started"]:
+            self.int_info.setText(f"{intensive['days_complete']} jour(s) terminé(s) sur "
+                                  f"{intensive['days']} · jour à faire : "
+                                  f"{intensive['current_day']}")
+        else:
+            self.int_info.setText("Non commencé : 30 jours, les quatre compétences chaque jour.")
+        self._mock_history(d["mock_history"])
+        self.kpis["exercises"].set(f"{d['exercises']['series']} série(s) · "
+                                   f"{d['exercises']['questions']} q.")
+        self.kpis["lexicon"].set(f"{lex_counts['due']} / {lex_counts['total']}")
+        if lex_due:
+            self.lexicon.setText("<br>".join(
+                f"• <b>{escape(e['term'])}</b> : {escape(e['definition'])}" for e in lex_due))
+        elif lex_counts["total"]:
+            self.lexicon.setText("Rien à revoir aujourd'hui : prochaine révision programmée.")
+        else:
+            self.lexicon.setText("Aucun mot pour l'instant.")
         cats = d["error_categories"][:5]
         self.errors.setText("<br>".join(f"• {c} : <b>{n}</b>" for c, n in cats) if cats else
                             "Aucune erreur relevée pour l'instant.")
@@ -206,6 +272,17 @@ class DashboardPage(Page):
         k["time"].set(f"{h} h {m:02d}")
         k["errors"].set(d["grammar_errors"])
         k["vocab"].set(vocab)
+
+    def _mock_history(self, rows: list[dict]) -> None:
+        self.mock_table.setRowCount(len(rows))
+        for r, m in enumerate(rows):
+            vals = [f"{m['date']:%d/%m/%Y}", f"{m['code']} – {m['title']}"
+                    + ("" if m["complete"] else " (partiel)")]
+            vals += [m["cells"].get(sec, "–") for sec in ("CO", "CE", "EE", "EO")]
+            for c, v in enumerate(vals):
+                self.mock_table.setItem(r, c, QTableWidgetItem(v))
+        self.mock_table.setVisible(bool(rows))
+        self.mock_empty.setVisible(not rows)
 
     def _verdict(self, d: dict) -> None:
         color, bg = ("#1E8449", "#E9F7EF") if d["ready"] else ("#9A5B00", "#FEF5E7")

@@ -19,8 +19,8 @@ from tcfmaster.content import validator as V
 from tcfmaster.core.paths import resource_root
 from tcfmaster.db.models import (ORIGIN_BUILTIN, STATUS_VALID, Choice, Collection, Exam,
                                  Exercise, Expression, GrammarChapter, GrammarExercise,
-                                 PlanDay, Question, SpeakingTask, Verb, Video, VocabWord,
-                                 WritingTask)
+                                 IntensiveDay, PlanDay, Question, SpeakingTask, Verb, Video,
+                                 VocabWord, WritingTask)
 
 log = logging.getLogger("tcfmaster.seed")
 
@@ -37,6 +37,7 @@ class SeedReport:
     grammar_chapters: int = 0
     verbs: int = 0
     plan_days: int = 0
+    intensive_days: int = 0
     collections: int = 0
     exercises: int = 0
     writing_subjects: int = 0
@@ -359,6 +360,22 @@ def import_plan(s: Session, days: list[dict]) -> int:
     return len(days)
 
 
+def import_intensive(s: Session, days: list[dict]) -> int:
+    """Programme intensif de 30 jours ; la progression du candidat est conservée
+    (les jours sont mis à jour sur place, jamais recréés)."""
+    existing = {d.day: d for d in s.execute(select(IntensiveDay)).scalars()}
+    for d in days:
+        row = existing.get(d["day"]) or IntensiveDay(day=d["day"])
+        row.focus = d["focus"]
+        row.activities = d["activities"]
+        row.is_mock_exam = bool(d.get("is_mock_exam"))
+        row.exam_code = d.get("exam_code")
+        row.advice = d.get("advice", "")
+        if row.id is None:
+            s.add(row)
+    return len(days)
+
+
 # ------------------------------------------------------------------- main
 def seed_all(s: Session, root: Path | None = None, strict: bool = True) -> SeedReport:
     root = root or content_dir()
@@ -420,6 +437,8 @@ def seed_all(s: Session, root: Path | None = None, strict: bool = True) -> SeedR
         rep.verbs = import_verbs(s, _load_json(root / "verbs.json"))
     if (root / "plan.json").exists():
         rep.plan_days = import_plan(s, _load_json(root / "plan.json"))
+    if (root / "intensive.json").exists():
+        rep.intensive_days = import_intensive(s, _load_json(root / "intensive.json"))
 
     for e in rep.errors:
         log.warning("Contenu invalide : %s", e)

@@ -239,8 +239,14 @@ def finish_series(s: Session, attempt: Attempt) -> C.SessionCorrection:
         })
         attempt.results = res
         attempt.finished_at = datetime.now()
-        # Les questions manquées alimentent le journal des difficultés.
+        # Les questions manquées alimentent le journal des difficultés et le
+        # vocabulaire à revoir (répétition espacée).
+        from tcfmaster.services import review as RV
         for e in corr.exercises:
+            if any(not q.is_correct for q in e.questions):
+                ex = s.get(Exercise, e.exercise_id)
+                if ex is not None:
+                    RV.enqueue_lexicon(s, ex)
             for q in e.questions:
                 if not q.is_correct:
                     right = next(c.text for c in q.choices if c.is_correct)

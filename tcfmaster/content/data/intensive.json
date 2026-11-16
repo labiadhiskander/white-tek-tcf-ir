@@ -1,0 +1,1145 @@
+[
+ {
+  "day": 1,
+  "focus": "Méthode · Diagnostic et méthode du TCF IRN",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 25,
+    "description": "Collection « Actualités et société » : un exercice complet en mode entraînement, puis réécouter le document avec la transcription",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 25,
+    "description": "Collection « Articles de presse » : un exercice complet en mode entraînement ; noter les mots inconnus",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 30,
+    "description": "Rédiger la tâche 1 : message ou courriel de 30 à 60 mots sur le thème du jour, sans limite de temps, puis comparer avec le modèle et son commentaire",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 25,
+    "description": "Préparer puis enregistrer la tâche 1 : entretien dirigé (3 min) ; écouter la réponse modèle et réenregistrer",
+    "ref": "eo"
+   },
+   {
+    "module": "Vidéothèque B2",
+    "minutes": 15,
+    "description": "Regarder une fiche « Méthodologie TCF IRN » et noter le format des quatre épreuves ; faire l'exercice corrigé de la fiche",
+    "ref": "videos"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "entraînement avec correction immédiate : lisez chaque explication, y compris pour les bonnes réponses"
+ },
+ {
+  "day": 2,
+  "focus": "Méthode · Le monde du travail",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 25,
+    "description": "Collection « Vie professionnelle » : un exercice complet en mode entraînement, puis réécouter le document avec la transcription",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 25,
+    "description": "Collection « Travail » : un exercice complet en mode entraînement ; noter les mots inconnus",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 30,
+    "description": "Rédiger la tâche 2 : récit ou compte rendu de 40 à 90 mots sur le thème du jour, sans limite de temps, puis comparer avec le modèle et son commentaire",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 25,
+    "description": "Préparer puis enregistrer la tâche 2 : exercice en interaction (3 min 30) ; écouter la réponse modèle et réenregistrer",
+    "ref": "eo"
+   },
+   {
+    "module": "Grammaire",
+    "minutes": 15,
+    "description": "Le subjonctif : relire le cours et faire les exercices corrigés (il faut que, bien que, pour que)",
+    "ref": "grammar"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "entraînement avec correction immédiate : lisez chaque explication, y compris pour les bonnes réponses"
+ },
+ {
+  "day": 3,
+  "focus": "Méthode · Environnement et climat",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 25,
+    "description": "Collection « Environnement et climat » : un exercice complet en mode entraînement, puis réécouter le document avec la transcription",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 25,
+    "description": "Collection « Environnement » : un exercice complet en mode entraînement ; noter les mots inconnus",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 30,
+    "description": "Rédiger la tâche 3 : synthèse de deux opinions et prise de position, 40 à 90 mots sur le thème du jour, sans limite de temps, puis comparer avec le modèle et son commentaire",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 25,
+    "description": "Préparer puis enregistrer la tâche 3 : expression d'un point de vue (3 min 30) ; écouter la réponse modèle et réenregistrer",
+    "ref": "eo"
+   },
+   {
+    "module": "Connecteurs logiques",
+    "minutes": 15,
+    "description": "Les connecteurs logiques : cause, conséquence, opposition ; réemployer cinq connecteurs dans la production écrite du jour",
+    "ref": "grammar"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "entraînement avec correction immédiate : lisez chaque explication, y compris pour les bonnes réponses"
+ },
+ {
+  "day": 4,
+  "focus": "Méthode · Santé et bien-être",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 25,
+    "description": "Collection « Santé et bien-être » : un exercice complet en mode entraînement, puis réécouter le document avec la transcription",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 25,
+    "description": "Collection « Santé » : un exercice complet en mode entraînement ; noter les mots inconnus",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 30,
+    "description": "Rédiger la tâche 1 : message ou courriel de 30 à 60 mots sur le thème du jour, sans limite de temps, puis comparer avec le modèle et son commentaire",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 25,
+    "description": "Préparer puis enregistrer la tâche 1 : entretien dirigé (3 min) ; écouter la réponse modèle et réenregistrer",
+    "ref": "eo"
+   },
+   {
+    "module": "Vocabulaire",
+    "minutes": 15,
+    "description": "Thème « Santé » : apprendre 15 mots en cartes de révision espacée et faire la révision du jour",
+    "ref": "vocab"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "entraînement avec correction immédiate : lisez chaque explication, y compris pour les bonnes réponses"
+ },
+ {
+  "day": 5,
+  "focus": "Méthode · Éducation et formation",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 25,
+    "description": "Collection « Éducation et formation » : un exercice complet en mode entraînement, puis réécouter le document avec la transcription",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 25,
+    "description": "Collection « Éducation » : un exercice complet en mode entraînement ; noter les mots inconnus",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 30,
+    "description": "Rédiger la tâche 2 : récit ou compte rendu de 40 à 90 mots sur le thème du jour, sans limite de temps, puis comparer avec le modèle et son commentaire",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 25,
+    "description": "Préparer puis enregistrer la tâche 2 : exercice en interaction (3 min 30) ; écouter la réponse modèle et réenregistrer",
+    "ref": "eo"
+   },
+   {
+    "module": "Grammaire",
+    "minutes": 15,
+    "description": "Le conditionnel présent et passé : cours et exercices corrigés (politesse, hypothèse, information non confirmée)",
+    "ref": "grammar"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "entraînement avec correction immédiate : lisez chaque explication, y compris pour les bonnes réponses"
+ },
+ {
+  "day": 6,
+  "focus": "Méthode · Débattre et argumenter",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 25,
+    "description": "Collection « Débats et opinions » : un exercice complet en mode entraînement, puis réécouter le document avec la transcription",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 25,
+    "description": "Collection « Textes argumentatifs » : un exercice complet en mode entraînement ; noter les mots inconnus",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 30,
+    "description": "Rédiger la tâche 3 : synthèse de deux opinions et prise de position, 40 à 90 mots sur le thème du jour, sans limite de temps, puis comparer avec le modèle et son commentaire",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 25,
+    "description": "Préparer puis enregistrer la tâche 3 : expression d'un point de vue (3 min 30) ; écouter la réponse modèle et réenregistrer",
+    "ref": "eo"
+   },
+   {
+    "module": "Expressions",
+    "minutes": 15,
+    "description": "Expressions « Donner son opinion » et « Nuancer son opinion » : en apprendre dix et les réutiliser à l'oral",
+    "ref": "vocab"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "entraînement avec correction immédiate : lisez chaque explication, y compris pour les bonnes réponses"
+ },
+ {
+  "day": 7,
+  "focus": "Méthode · Technologie et numérique",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 25,
+    "description": "Collection « Technologie et intelligence artificielle » : un exercice complet en mode entraînement, puis réécouter le document avec la transcription",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 25,
+    "description": "Collection « Technologie » : un exercice complet en mode entraînement ; noter les mots inconnus",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 30,
+    "description": "Rédiger la tâche 1 : message ou courriel de 30 à 60 mots sur le thème du jour, sans limite de temps, puis comparer avec le modèle et son commentaire",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 25,
+    "description": "Préparer puis enregistrer la tâche 2 : exercice en interaction (3 min 30) ; écouter la réponse modèle et réenregistrer",
+    "ref": "eo"
+   },
+   {
+    "module": "Grammaire",
+    "minutes": 15,
+    "description": "Les pronoms relatifs simples et composés (dont, lequel, auquel) : cours et exercices corrigés",
+    "ref": "grammar"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "entraînement avec correction immédiate : lisez chaque explication, y compris pour les bonnes réponses"
+ },
+ {
+  "day": 8,
+  "focus": "Méthode · Économie et consommation",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 25,
+    "description": "Collection « Économie et emploi » : un exercice complet en mode entraînement, puis réécouter le document avec la transcription",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 25,
+    "description": "Collection « Économie » : un exercice complet en mode entraînement ; noter les mots inconnus",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 30,
+    "description": "Rédiger la tâche 2 : récit ou compte rendu de 40 à 90 mots sur le thème du jour, sans limite de temps, puis comparer avec le modèle et son commentaire",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 25,
+    "description": "Préparer puis enregistrer la tâche 3 : expression d'un point de vue (3 min 30) ; écouter la réponse modèle et réenregistrer",
+    "ref": "eo"
+   },
+   {
+    "module": "Vocabulaire",
+    "minutes": 15,
+    "description": "Thèmes « Économie et entreprise » et « Consommation et argent » : 15 mots en révision espacée ; relire le vocabulaire noté sur les questions manquées",
+    "ref": "vocab"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "entraînement avec correction immédiate : lisez chaque explication, y compris pour les bonnes réponses"
+ },
+ {
+  "day": 9,
+  "focus": "Méthode · Culture et médias, bilan de la phase 1",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 25,
+    "description": "Collection « Culture et médias » : un exercice complet en mode entraînement, puis réécouter le document avec la transcription",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 25,
+    "description": "Collection « Culture » : un exercice complet en mode entraînement ; noter les mots inconnus",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 30,
+    "description": "Rédiger la tâche 3 : synthèse de deux opinions et prise de position, 40 à 90 mots sur le thème du jour, sans limite de temps, puis comparer avec le modèle et son commentaire",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 25,
+    "description": "Préparer puis enregistrer la tâche 1 : entretien dirigé (3 min) ; écouter la réponse modèle et réenregistrer",
+    "ref": "eo"
+   },
+   {
+    "module": "Exercices personnalisés",
+    "minutes": 15,
+    "description": "Série d'exercices personnalisés sur vos erreurs récurrentes des neuf premiers jours",
+    "ref": "custom"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "entraînement avec correction immédiate : lisez chaque explication, y compris pour les bonnes réponses"
+ },
+ {
+  "day": 10,
+  "focus": "Examen blanc B2 n° 1 · Société et vie citoyenne",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 20,
+    "ref": "mock",
+    "description": "Examen blanc B2 n° 1 (B2-BLANC-01) : compréhension orale, 25 questions en 20 minutes, en conditions réelles"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 35,
+    "ref": "mock",
+    "description": "Examen blanc B2 n° 1 : compréhension écrite, 25 questions en 35 minutes"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 30,
+    "ref": "mock",
+    "description": "Examen blanc B2 n° 1 : expression écrite, 3 tâches en 30 minutes, nombre de mots respecté"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 10,
+    "ref": "mock",
+    "description": "Examen blanc B2 n° 1 : expression orale, 3 tâches (3 min, 3 min 30, 3 min 30)"
+   },
+   {
+    "module": "Analyse de la correction",
+    "minutes": 30,
+    "ref": "history",
+    "description": "Lire la correction complète (chaque question, chaque tâche), noter les trois priorités et vérifier le tableau de bord"
+   }
+  ],
+  "is_mock_exam": true,
+  "exam_code": "B2-BLANC-01",
+  "advice": "conditions réelles : une seule séance, sans pause ni dictionnaire ; le résultat est une estimation pédagogique, pas une note officielle"
+ },
+ {
+  "day": 11,
+  "focus": "Intensification · Vie sociale et relations",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 30,
+    "description": "Collection « Relations sociales » : deux exercices enchaînés en mode examen (correction à la fin), puis analyse de chaque erreur",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 30,
+    "description": "Collection « Débats de société » : deux exercices chronométrés en mode examen ; repérer le type de question manquée",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 25,
+    "description": "Tâche 1 : message ou courriel de 30 à 60 mots en temps limité (10 minutes), en respectant strictement le nombre de mots ; lire la correction détaillée",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 20,
+    "description": "Tâche 2 : exercice en interaction (3 min 30) chronométrée, avec l'examinateur virtuel (page « Conversation avec l'IA », mode examinateur) ou en enregistrement",
+    "ref": "eo"
+   },
+   {
+    "module": "Grammaire",
+    "minutes": 15,
+    "description": "L'hypothèse et la condition (si + imparfait, au cas où, à condition que) : exercices corrigés",
+    "ref": "grammar"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "séries chronométrées : correction à la fin seulement, comme à l'examen"
+ },
+ {
+  "day": 12,
+  "focus": "Intensification · Témoignages et parcours",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 30,
+    "description": "Collection « Témoignages et interviews » : deux exercices enchaînés en mode examen (correction à la fin), puis analyse de chaque erreur",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 30,
+    "description": "Collection « Éditoriaux » : deux exercices chronométrés en mode examen ; repérer le type de question manquée",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 25,
+    "description": "Tâche 2 : récit ou compte rendu de 40 à 90 mots en temps limité (10 minutes), en respectant strictement le nombre de mots ; lire la correction détaillée",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 20,
+    "description": "Tâche 3 : expression d'un point de vue (3 min 30) chronométrée, avec l'examinateur virtuel (page « Conversation avec l'IA », mode examinateur) ou en enregistrement",
+    "ref": "eo"
+   },
+   {
+    "module": "Grammaire",
+    "minutes": 15,
+    "description": "Le discours direct et indirect, concordance des temps : exercices corrigés",
+    "ref": "grammar"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "séries chronométrées : correction à la fin seulement, comme à l'examen"
+ },
+ {
+  "day": 13,
+  "focus": "Intensification · Démarches administratives",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 30,
+    "description": "Collection « Actualités et société » : deux exercices enchaînés en mode examen (correction à la fin), puis analyse de chaque erreur",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 30,
+    "description": "Collection « Documents administratifs complexes » : deux exercices chronométrés en mode examen ; repérer le type de question manquée",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 25,
+    "description": "Tâche 1 : message ou courriel de 30 à 60 mots en temps limité (10 minutes), en respectant strictement le nombre de mots ; lire la correction détaillée",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 20,
+    "description": "Tâche 1 : entretien dirigé (3 min) chronométrée, avec l'examinateur virtuel (page « Conversation avec l'IA », mode examinateur) ou en enregistrement",
+    "ref": "eo"
+   },
+   {
+    "module": "Vocabulaire",
+    "minutes": 15,
+    "description": "Thème « Administration et citoyenneté » (titre de séjour, justificatif, démarche, délai) : 15 mots",
+    "ref": "vocab"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "séries chronométrées : correction à la fin seulement, comme à l'examen"
+ },
+ {
+  "day": 14,
+  "focus": "Intensification · Conférences et émissions",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 30,
+    "description": "Collection « Conférences et émissions » : deux exercices enchaînés en mode examen (correction à la fin), puis analyse de chaque erreur",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 30,
+    "description": "Collection « Actualités » : deux exercices chronométrés en mode examen ; repérer le type de question manquée",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 25,
+    "description": "Tâche 3 : synthèse de deux opinions et prise de position, 40 à 90 mots en temps limité (10 minutes), en respectant strictement le nombre de mots ; lire la correction détaillée",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 20,
+    "description": "Tâche 2 : exercice en interaction (3 min 30) chronométrée, avec l'examinateur virtuel (page « Conversation avec l'IA », mode examinateur) ou en enregistrement",
+    "ref": "eo"
+   },
+   {
+    "module": "Prononciation",
+    "minutes": 15,
+    "description": "Fiche « Prononciation » de la vidéothèque : écouter, répéter, s'enregistrer sur une réponse de la tâche 3",
+    "ref": "videos"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "séries chronométrées : correction à la fin seulement, comme à l'examen"
+ },
+ {
+  "day": 15,
+  "focus": "Intensification · Travail et nouveaux modes de vie",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 30,
+    "description": "Collection « Vie professionnelle » : deux exercices enchaînés en mode examen (correction à la fin), puis analyse de chaque erreur",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 30,
+    "description": "Collection « Travail » : deux exercices chronométrés en mode examen ; repérer le type de question manquée",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 25,
+    "description": "Tâche 2 : récit ou compte rendu de 40 à 90 mots en temps limité (10 minutes), en respectant strictement le nombre de mots ; lire la correction détaillée",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 20,
+    "description": "Tâche 3 : expression d'un point de vue (3 min 30) chronométrée, avec l'examinateur virtuel (page « Conversation avec l'IA », mode examinateur) ou en enregistrement",
+    "ref": "eo"
+   },
+   {
+    "module": "Grammaire",
+    "minutes": 15,
+    "description": "La voix passive : cours et exercices corrigés ; transformer trois phrases de la production écrite",
+    "ref": "grammar"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "séries chronométrées : correction à la fin seulement, comme à l'examen"
+ },
+ {
+  "day": 16,
+  "focus": "Intensification · Environnement et territoires",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 30,
+    "description": "Collection « Environnement et climat » : deux exercices enchaînés en mode examen (correction à la fin), puis analyse de chaque erreur",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 30,
+    "description": "Collection « Environnement » : deux exercices chronométrés en mode examen ; repérer le type de question manquée",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 25,
+    "description": "Tâche 3 : synthèse de deux opinions et prise de position, 40 à 90 mots en temps limité (10 minutes), en respectant strictement le nombre de mots ; lire la correction détaillée",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 20,
+    "description": "Tâche 1 : entretien dirigé (3 min) chronométrée, avec l'examinateur virtuel (page « Conversation avec l'IA », mode examinateur) ou en enregistrement",
+    "ref": "eo"
+   },
+   {
+    "module": "Grammaire",
+    "minutes": 15,
+    "description": "Les phrases complexes : but, concession, opposition (afin que, bien que, alors que, tandis que)",
+    "ref": "grammar"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "séries chronométrées : correction à la fin seulement, comme à l'examen"
+ },
+ {
+  "day": 17,
+  "focus": "Intensification · Santé publique et sciences",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 30,
+    "description": "Collection « Santé et bien-être » : deux exercices enchaînés en mode examen (correction à la fin), puis analyse de chaque erreur",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 30,
+    "description": "Collection « Santé » : deux exercices chronométrés en mode examen ; repérer le type de question manquée",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 25,
+    "description": "Tâche 1 : message ou courriel de 30 à 60 mots en temps limité (10 minutes), en respectant strictement le nombre de mots ; lire la correction détaillée",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 20,
+    "description": "Tâche 2 : exercice en interaction (3 min 30) chronométrée, avec l'examinateur virtuel (page « Conversation avec l'IA », mode examinateur) ou en enregistrement",
+    "ref": "eo"
+   },
+   {
+    "module": "Conjugaison",
+    "minutes": 15,
+    "description": "Conjugaison : subjonctif et conditionnel des verbes irréguliers fréquents (faire, pouvoir, savoir, aller, vouloir)",
+    "ref": "conj"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "séries chronométrées : correction à la fin seulement, comme à l'examen"
+ },
+ {
+  "day": 18,
+  "focus": "Intensification · Médias et information",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 30,
+    "description": "Collection « Culture et médias » : deux exercices enchaînés en mode examen (correction à la fin), puis analyse de chaque erreur",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 30,
+    "description": "Collection « Articles de presse » : deux exercices chronométrés en mode examen ; repérer le type de question manquée",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 25,
+    "description": "Tâche 2 : récit ou compte rendu de 40 à 90 mots en temps limité (10 minutes), en respectant strictement le nombre de mots ; lire la correction détaillée",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 20,
+    "description": "Tâche 3 : expression d'un point de vue (3 min 30) chronométrée, avec l'examinateur virtuel (page « Conversation avec l'IA », mode examinateur) ou en enregistrement",
+    "ref": "eo"
+   },
+   {
+    "module": "Vocabulaire",
+    "minutes": 15,
+    "description": "Thème « Numérique et médias » : 15 mots en révision espacée",
+    "ref": "vocab"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "séries chronométrées : correction à la fin seulement, comme à l'examen"
+ },
+ {
+  "day": 19,
+  "focus": "Intensification · Bilan de la phase 2",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 30,
+    "description": "Collection « Débats et opinions » : deux exercices enchaînés en mode examen (correction à la fin), puis analyse de chaque erreur",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 30,
+    "description": "Collection « Textes argumentatifs » : deux exercices chronométrés en mode examen ; repérer le type de question manquée",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 25,
+    "description": "Tâche 3 : synthèse de deux opinions et prise de position, 40 à 90 mots en temps limité (10 minutes), en respectant strictement le nombre de mots ; lire la correction détaillée",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 20,
+    "description": "Tâche 1 : entretien dirigé (3 min) chronométrée, avec l'examinateur virtuel (page « Conversation avec l'IA », mode examinateur) ou en enregistrement",
+    "ref": "eo"
+   },
+   {
+    "module": "Exercices personnalisés",
+    "minutes": 15,
+    "description": "Série personnalisée sur les erreurs relevées depuis le jour 10 (grammaire, accords, connecteurs)",
+    "ref": "custom"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "séries chronométrées : correction à la fin seulement, comme à l'examen"
+ },
+ {
+  "day": 20,
+  "focus": "Examen blanc B2 n° 5 · Éducation et jeunesse",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 20,
+    "ref": "mock",
+    "description": "Examen blanc B2 n° 5 (B2-BLANC-05) : compréhension orale, 25 questions en 20 minutes, en conditions réelles"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 35,
+    "ref": "mock",
+    "description": "Examen blanc B2 n° 5 : compréhension écrite, 25 questions en 35 minutes"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 30,
+    "ref": "mock",
+    "description": "Examen blanc B2 n° 5 : expression écrite, 3 tâches en 30 minutes, nombre de mots respecté"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 10,
+    "ref": "mock",
+    "description": "Examen blanc B2 n° 5 : expression orale, 3 tâches (3 min, 3 min 30, 3 min 30)"
+   },
+   {
+    "module": "Analyse de la correction",
+    "minutes": 30,
+    "ref": "history",
+    "description": "Lire la correction complète (chaque question, chaque tâche), noter les trois priorités et vérifier le tableau de bord"
+   }
+  ],
+  "is_mock_exam": true,
+  "exam_code": "B2-BLANC-05",
+  "advice": "conditions réelles : une seule séance, sans pause ni dictionnaire ; le résultat est une estimation pédagogique, pas une note officielle"
+ },
+ {
+  "day": 21,
+  "focus": "Conditions d'examen · Analyse de l'examen n° 2 et reprise",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 25,
+    "description": "Épreuve de compréhension orale d'un examen blanc déjà passé ou collection « Économie et emploi » : 25 questions en 20 minutes, sans réécoute",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 35,
+    "description": "Collection « Économie » : série de 25 questions en 35 minutes, comme à l'examen",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 25,
+    "description": "Tâche 1 : message ou courriel de 30 à 60 mots dans le temps de l'épreuve complète (30 minutes pour les trois tâches) ; relire accords et connecteurs",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 20,
+    "description": "Tâche 2 : exercice en interaction (3 min 30) en conditions réelles, sans notes ; vérifier la durée et la variété des connecteurs",
+    "ref": "eo"
+   },
+   {
+    "module": "Exercices personnalisés",
+    "minutes": 15,
+    "description": "Reprendre les questions manquées à l'examen blanc du jour 20 et lancer une série personnalisée",
+    "ref": "custom"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "épreuves complètes chronométrées, sans pause ni dictionnaire"
+ },
+ {
+  "day": 22,
+  "focus": "Conditions d'examen · Ville, logement et mobilité",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 25,
+    "description": "Épreuve de compréhension orale d'un examen blanc déjà passé ou collection « Actualités et société » : 25 questions en 20 minutes, sans réécoute",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 35,
+    "description": "Collection « Débats de société » : série de 25 questions en 35 minutes, comme à l'examen",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 25,
+    "description": "Tâche 2 : récit ou compte rendu de 40 à 90 mots dans le temps de l'épreuve complète (30 minutes pour les trois tâches) ; relire accords et connecteurs",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 20,
+    "description": "Tâche 3 : expression d'un point de vue (3 min 30) en conditions réelles, sans notes ; vérifier la durée et la variété des connecteurs",
+    "ref": "eo"
+   },
+   {
+    "module": "Grammaire",
+    "minutes": 15,
+    "description": "Les accords (participe passé avec avoir, adjectifs) : exercices corrigés ; relire vos trois dernières productions",
+    "ref": "grammar"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "épreuves complètes chronométrées, sans pause ni dictionnaire"
+ },
+ {
+  "day": 23,
+  "focus": "Conditions d'examen · Technologie et société",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 25,
+    "description": "Épreuve de compréhension orale d'un examen blanc déjà passé ou collection « Technologie et intelligence artificielle » : 25 questions en 20 minutes, sans réécoute",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 35,
+    "description": "Collection « Technologie » : série de 25 questions en 35 minutes, comme à l'examen",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 25,
+    "description": "Tâche 3 : synthèse de deux opinions et prise de position, 40 à 90 mots dans le temps de l'épreuve complète (30 minutes pour les trois tâches) ; relire accords et connecteurs",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 20,
+    "description": "Tâche 1 : entretien dirigé (3 min) en conditions réelles, sans notes ; vérifier la durée et la variété des connecteurs",
+    "ref": "eo"
+   },
+   {
+    "module": "Vocabulaire",
+    "minutes": 15,
+    "description": "Révision espacée de tout le vocabulaire dû ; objectif : aucun élément en retard",
+    "ref": "vocab"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "épreuves complètes chronométrées, sans pause ni dictionnaire"
+ },
+ {
+  "day": 24,
+  "focus": "Conditions d'examen · Éducation et jeunesse",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 25,
+    "description": "Épreuve de compréhension orale d'un examen blanc déjà passé ou collection « Éducation et formation » : 25 questions en 20 minutes, sans réécoute",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 35,
+    "description": "Collection « Éducation » : série de 25 questions en 35 minutes, comme à l'examen",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 25,
+    "description": "Tâche 1 : message ou courriel de 30 à 60 mots dans le temps de l'épreuve complète (30 minutes pour les trois tâches) ; relire accords et connecteurs",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 20,
+    "description": "Tâche 2 : exercice en interaction (3 min 30) en conditions réelles, sans notes ; vérifier la durée et la variété des connecteurs",
+    "ref": "eo"
+   },
+   {
+    "module": "Connecteurs logiques",
+    "minutes": 15,
+    "description": "Connecteurs : réécrire une production en variant les articulateurs (en revanche, par conséquent, certes… mais)",
+    "ref": "grammar"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "épreuves complètes chronométrées, sans pause ni dictionnaire"
+ },
+ {
+  "day": 25,
+  "focus": "Conditions d'examen · Culture, patrimoine et loisirs",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 25,
+    "description": "Épreuve de compréhension orale d'un examen blanc déjà passé ou collection « Conférences et émissions » : 25 questions en 20 minutes, sans réécoute",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 35,
+    "description": "Collection « Culture » : série de 25 questions en 35 minutes, comme à l'examen",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 25,
+    "description": "Tâche 2 : récit ou compte rendu de 40 à 90 mots dans le temps de l'épreuve complète (30 minutes pour les trois tâches) ; relire accords et connecteurs",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 20,
+    "description": "Tâche 3 : expression d'un point de vue (3 min 30) en conditions réelles, sans notes ; vérifier la durée et la variété des connecteurs",
+    "ref": "eo"
+   },
+   {
+    "module": "Expressions",
+    "minutes": 15,
+    "description": "Expressions « Argumenter » et « Conclure » : en réutiliser cinq dans la tâche 3 orale",
+    "ref": "vocab"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "épreuves complètes chronométrées, sans pause ni dictionnaire"
+ },
+ {
+  "day": 26,
+  "focus": "Conditions d'examen · Solidarités et vie citoyenne",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 25,
+    "description": "Épreuve de compréhension orale d'un examen blanc déjà passé ou collection « Relations sociales » : 25 questions en 20 minutes, sans réécoute",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 35,
+    "description": "Collection « Éditoriaux » : série de 25 questions en 35 minutes, comme à l'examen",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 25,
+    "description": "Tâche 3 : synthèse de deux opinions et prise de position, 40 à 90 mots dans le temps de l'épreuve complète (30 minutes pour les trois tâches) ; relire accords et connecteurs",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 20,
+    "description": "Tâche 1 : entretien dirigé (3 min) en conditions réelles, sans notes ; vérifier la durée et la variété des connecteurs",
+    "ref": "eo"
+   },
+   {
+    "module": "Grammaire",
+    "minutes": 15,
+    "description": "Concordance des temps et subjonctif : série d'exercices corrigés",
+    "ref": "grammar"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "épreuves complètes chronométrées, sans pause ni dictionnaire"
+ },
+ {
+  "day": 27,
+  "focus": "Conditions d'examen · Travail, santé et équilibre de vie",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 25,
+    "description": "Épreuve de compréhension orale d'un examen blanc déjà passé ou collection « Témoignages et interviews » : 25 questions en 20 minutes, sans réécoute",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 35,
+    "description": "Collection « Santé » : série de 25 questions en 35 minutes, comme à l'examen",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 25,
+    "description": "Tâche 1 : message ou courriel de 30 à 60 mots dans le temps de l'épreuve complète (30 minutes pour les trois tâches) ; relire accords et connecteurs",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 20,
+    "description": "Tâche 2 : exercice en interaction (3 min 30) en conditions réelles, sans notes ; vérifier la durée et la variété des connecteurs",
+    "ref": "eo"
+   },
+   {
+    "module": "Techniques d'examen",
+    "minutes": 15,
+    "description": "Fiche « Techniques d'examen » : gestion du temps, élimination des distracteurs, relecture",
+    "ref": "videos"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "épreuves complètes chronométrées, sans pause ni dictionnaire"
+ },
+ {
+  "day": 28,
+  "focus": "Conditions d'examen · Répétition générale",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 25,
+    "description": "Épreuve de compréhension orale d'un examen blanc déjà passé ou collection « Débats et opinions » : 25 questions en 20 minutes, sans réécoute",
+    "ref": "co"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 35,
+    "description": "Collection « Documents administratifs complexes » : série de 25 questions en 35 minutes, comme à l'examen",
+    "ref": "ce"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 25,
+    "description": "Tâche 2 : récit ou compte rendu de 40 à 90 mots dans le temps de l'épreuve complète (30 minutes pour les trois tâches) ; relire accords et connecteurs",
+    "ref": "ee"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 20,
+    "description": "Tâche 3 : expression d'un point de vue (3 min 30) en conditions réelles, sans notes ; vérifier la durée et la variété des connecteurs",
+    "ref": "eo"
+   },
+   {
+    "module": "Exercices personnalisés",
+    "minutes": 15,
+    "description": "Dernière série personnalisée sur vos deux erreurs les plus fréquentes",
+    "ref": "custom"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "épreuves complètes chronométrées, sans pause ni dictionnaire"
+ },
+ {
+  "day": 29,
+  "focus": "Examen blanc B2 n° 10 · Famille, solidarités et institutions",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 20,
+    "ref": "mock",
+    "description": "Examen blanc B2 n° 10 (B2-BLANC-10) : compréhension orale, 25 questions en 20 minutes, en conditions réelles"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 35,
+    "ref": "mock",
+    "description": "Examen blanc B2 n° 10 : compréhension écrite, 25 questions en 35 minutes"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 30,
+    "ref": "mock",
+    "description": "Examen blanc B2 n° 10 : expression écrite, 3 tâches en 30 minutes, nombre de mots respecté"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 10,
+    "ref": "mock",
+    "description": "Examen blanc B2 n° 10 : expression orale, 3 tâches (3 min, 3 min 30, 3 min 30)"
+   },
+   {
+    "module": "Analyse de la correction",
+    "minutes": 30,
+    "ref": "history",
+    "description": "Lire la correction complète (chaque question, chaque tâche), noter les trois priorités et vérifier le tableau de bord"
+   }
+  ],
+  "is_mock_exam": true,
+  "exam_code": "B2-BLANC-10",
+  "advice": "conditions réelles : une seule séance, sans pause ni dictionnaire ; le résultat est une estimation pédagogique, pas une note officielle"
+ },
+ {
+  "day": 30,
+  "focus": "Bilan final et révision légère",
+  "activities": [
+   {
+    "module": "Compréhension orale",
+    "minutes": 15,
+    "ref": "co",
+    "description": "Réécouter deux documents déjà travaillés avec leur transcription, sans chercher à faire de score"
+   },
+   {
+    "module": "Compréhension écrite",
+    "minutes": 15,
+    "ref": "ce",
+    "description": "Relire deux textes argumentatifs corrigés et leurs explications"
+   },
+   {
+    "module": "Expression écrite",
+    "minutes": 20,
+    "ref": "ee",
+    "description": "Relire vos meilleures productions et les modèles des trois tâches ; mémoriser les formules d'ouverture et de clôture"
+   },
+   {
+    "module": "Expression orale",
+    "minutes": 15,
+    "ref": "eo",
+    "description": "Se présenter à voix haute (tâche 1) et répéter deux introductions de point de vue (tâche 3)"
+   },
+   {
+    "module": "Bilan",
+    "minutes": 15,
+    "ref": "dashboard",
+    "description": "Consulter le tableau de bord, exporter le bilan PDF et préparer la logistique du jour de l'examen ; se reposer"
+   }
+  ],
+  "is_mock_exam": false,
+  "advice": "veille d'examen : révision légère et repos"
+ }
+]
