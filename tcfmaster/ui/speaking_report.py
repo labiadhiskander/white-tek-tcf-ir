@@ -83,9 +83,32 @@ def oral_html(ev: dict, transcript: str, title: str = "", dialogue: list | None 
                "<li>Phrases utiles réemployées : " + (_esc(" ; ".join(ev.get("phrases_reused")
                                                                      or [])) or "aucune")
                + "</li></ul>")
+    pr = ev.get("pronunciation") or {}
+    if pr:
+        out.append("<h3>Prononciation (indicatif, non noté)</h3><ul>")
+        if pr.get("unclear"):
+            out.append("<li>Mots difficiles à reconnaître : <b>"
+                       + _esc(", ".join(pr["unclear"])) + "</b> "
+                       f"<span style='color:{MUTED}'>({round(100 * pr.get('unclear_share', 0))}"
+                       " % des mots)</span></li>")
+        out += [f"<li>{_esc(a)}</li>" for a in pr.get("advice") or []]
+        out.append(f"<li style='color:{MUTED}'>Ces indices viennent de la confiance de la "
+                   "reconnaissance vocale : un bruit ambiant ou un micro faible peut aussi "
+                   "les expliquer.</li></ul>")
+    if ev.get("improved_answer") and ev["improved_answer"] != transcript.strip():
+        out.append("<h3>Votre réponse améliorée</h3>"
+                   f"<p style='background:#F3F8F4;padding:6px'>{_esc(ev['improved_answer'])}</p>"
+                   f"<p style='color:{MUTED}'>Version construite automatiquement à partir de "
+                   "votre transcription : hésitations retirées, négations complétées, mots "
+                   "familiers remplacés et corrections sûres appliquées. Relisez-la à voix "
+                   "haute, puis comparez-la à la réponse modèle.</p>")
     if ev.get("model_answer"):
-        out.append("<h3>Exemple de production attendue (extrait)</h3>"
+        out.append("<h3>Réponse modèle (niveau B2)</h3>"
                    f"<p style='background:#F3F5F8;padding:6px'>{_esc(ev['model_answer'])}</p>")
+        if ev.get("model_commentary"):
+            out.append(f"<p><b>Pourquoi c'est un B2 :</b> {_esc(ev['model_commentary'])}</p>")
+    if ev.get("tips"):
+        out.append(f"<h3>Conseils</h3><p>{_esc(ev['tips'])}</p>")
     out.append(f"<p style='color:{MUTED}'>Enregistrement audio : "
                + ("conservé (vous pouvez le réécouter ou le supprimer)." if has_audio else
                   "non conservé.") + "</p>")

@@ -1,9 +1,9 @@
 ; Installateur Windows (Inno Setup 6) – WHITE-TEK TCF IRN B2 MASTER
-; Compilation : ISCC.exe /DAppVersion=1.0.0 packaging\installer.iss
+; Compilation : ISCC.exe /DAppVersion=1.1.0 packaging\installer.iss
 ; Prérequis : dist\WhiteTekTCF\ produit par PyInstaller (packaging\tcfmaster.spec).
 
 #ifndef AppVersion
-  #define AppVersion "1.0.0"
+  #define AppVersion "1.1.0"
 #endif
 #define AppName "WHITE-TEK TCF IRN B2 MASTER"
 #define AppExe "WhiteTekTCF.exe"

@@ -53,4 +53,9 @@ QTabWidget::pane {{ border: 1px solid {GREY}; background: white; border-radius: 
 QTabBar::tab {{ padding: 7px 14px; }}
 QTabBar::tab:selected {{ color: {ACCENT}; font-weight: 600; }}
 QScrollArea {{ border: none; background: transparent; }}
+QListWidget#Filters {{ background: white; border: 1px solid {GREY}; border-radius: 8px; outline: 0; }}
+QListWidget#Filters::item {{ padding: 9px 12px; border-left: 3px solid transparent; }}
+QListWidget#Filters::item:selected {{ background: #E3EEFA; color: {NAVY}; border-left: 3px solid {ACCENT}; }}
+QLabel#H3 {{ font-weight: 600; color: {NAVY}; padding-top: 6px; }}
+QRadioButton {{ padding: 4px 2px; }}
 """

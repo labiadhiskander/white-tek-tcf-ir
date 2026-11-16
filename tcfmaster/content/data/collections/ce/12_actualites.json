@@ -1,0 +1,1032 @@
+{
+ "slug": "ce-actualites",
+ "section": "CE",
+ "title": "Actualités",
+ "description": "Brèves et articles d'actualité : identifier l'information principale, les acteurs, les chiffres et les réactions.",
+ "order": 12,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CE-ACT-01",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Pourquoi les musées sont-ils gratuits l'après-midi ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Parce que les agents sont en grève.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Pour offrir aux habitants des endroits frais.",
+       "correct": true,
+       "rationale": "« Pour offrir des lieux climatisés aux habitants. »",
+       "label": "B"
+      },
+      {
+       "text": "Pour attirer des touristes étrangers.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Pour fêter l'été.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La finalité est indiquée par « pour »."
+    },
+    {
+     "prompt": "Comment les services sociaux aident-ils les personnes âgées isolées ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "En leur offrant un climatiseur.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "En les hébergeant à l'hôpital.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "En les emmenant à la piscine.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Par des appels quotidiens pour vérifier leur état.",
+       "correct": true,
+       "rationale": "« Des agents et des bénévoles les appellent chaque jour. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le registre spécial permet de les identifier."
+    },
+    {
+     "prompt": "Que pensent certains urbanistes ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les mesures d'urgence doivent être complétées par une transformation durable des villes.",
+       "correct": true,
+       "rationale": "« Ces mesures d'urgence, utiles, ne suffiront pas : il faudra repenser durablement les villes. »",
+       "label": "A"
+      },
+      {
+       "text": "Les mesures sont inutiles.",
+       "correct": false,
+       "rationale": "Ils les jugent « utiles ».",
+       "label": "B"
+      },
+      {
+       "text": "Les canicules vont disparaître.",
+       "correct": false,
+       "rationale": "Elles seront plus fréquentes.",
+       "label": "C"
+      },
+      {
+       "text": "Il faut fermer les piscines.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les deux-points introduisent la solution qu'ils proposent."
+    }
+   ],
+   "title": "Canicule : les villes adaptent leurs horaires",
+   "document": "Face à l'épisode de chaleur exceptionnel qui touche le sud du pays depuis une semaine, plusieurs municipalités ont décidé d'adapter le fonctionnement de leurs services. Les piscines et les parcs restent ouverts jusqu'à minuit, les musées municipaux sont gratuits l'après-midi pour offrir des lieux climatisés aux habitants, et les chantiers de voirie sont suspendus entre midi et seize heures.\n\nLes services sociaux ont également renforcé leur vigilance auprès des personnes âgées isolées, inscrites sur un registre spécial. Des agents et des bénévoles les appellent chaque jour pour s'assurer qu'elles boivent suffisamment et ne manquent de rien.\n\nLes météorologues préviennent que ces épisodes seront plus fréquents et plus intenses dans les années à venir. Certains urbanistes estiment que ces mesures d'urgence, utiles, ne suffiront pas : il faudra repenser durablement les villes en plantant des arbres, en multipliant les fontaines et en limitant les surfaces goudronnées, qui accumulent la chaleur.",
+   "vocabulary": [
+    {
+     "terme": "une canicule",
+     "definition": "une période de très forte chaleur",
+     "exemple": "La canicule a duré dix jours."
+    },
+    {
+     "terme": "la voirie",
+     "definition": "l'ensemble des routes et rues",
+     "exemple": "Des travaux de voirie."
+    },
+    {
+     "terme": "climatisé",
+     "definition": "rafraîchi par un appareil",
+     "exemple": "Un bureau climatisé."
+    },
+    {
+     "terme": "goudronné",
+     "definition": "recouvert de goudron",
+     "exemple": "Une route goudronnée."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "renforcer sa vigilance",
+     "sens": "faire encore plus attention",
+     "exemple": "La police renforce sa vigilance."
+    },
+    {
+     "expression": "ne manquer de rien",
+     "sens": "avoir tout ce qu'il faut",
+     "exemple": "Les enfants ne manquent de rien."
+    },
+    {
+     "expression": "dans les années à venir",
+     "sens": "dans le futur proche",
+     "exemple": "Les prix augmenteront dans les années à venir."
+    }
+   ],
+   "traps": [
+    "Les chantiers sont suspendus seulement entre midi et seize heures.",
+    "Les urbanistes jugent les mesures utiles mais insuffisantes.",
+    "Les surfaces goudronnées accumulent la chaleur."
+   ]
+  },
+  {
+   "code": "CE-ACT-02",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Pourquoi les syndicats font-ils grève ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Pour obtenir une hausse des salaires.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Pour demander plus de trains.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Pour s'opposer à un projet qui supprimerait des postes selon eux.",
+       "correct": true,
+       "rationale": "« Un projet de réorganisation qui prévoit, selon eux, la suppression de plusieurs centaines de postes. »",
+       "label": "C"
+      },
+      {
+       "text": "Pour protester contre les voyageurs.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Selon eux » indique qu'il s'agit de l'interprétation des syndicats."
+    },
+    {
+     "prompt": "Sur quel point la direction et les syndicats sont-ils en désaccord ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Sur le nombre de trains en circulation.",
+       "correct": false,
+       "rationale": "Ce n'est pas discuté.",
+       "label": "A"
+      },
+      {
+       "text": "Sur la date de la réunion.",
+       "correct": false,
+       "rationale": "Elle est fixée.",
+       "label": "B"
+      },
+      {
+       "text": "Sur le télétravail.",
+       "correct": false,
+       "rationale": "Ce n'est pas un sujet de désaccord.",
+       "label": "C"
+      },
+      {
+       "text": "Sur la nature réelle des suppressions de postes.",
+       "correct": true,
+       "rationale": "La direction parle de départs non remplacés, les syndicats de suppressions de postes.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les deux versions présentent différemment la même réalité."
+    },
+    {
+     "prompt": "Comment les voyageurs se sont-ils adaptés ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "En choisissant le covoiturage, le vélo ou le télétravail.",
+       "correct": true,
+       "rationale": "« Beaucoup se sont tournés vers le covoiturage… ou vers le vélo… autoriser le télétravail. »",
+       "label": "A"
+      },
+      {
+       "text": "En restant tous chez eux sans travailler.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "En manifestant avec les syndicats.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "En prenant l'avion.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le deuxième paragraphe décrit les solutions de remplacement."
+    }
+   ],
+   "title": "Grève dans les transports : les usagers s'organisent",
+   "document": "Pour la troisième journée consécutive, le trafic ferroviaire est fortement perturbé dans la région. Seul un train sur trois circule aux heures de pointe, et certaines lignes régionales sont totalement interrompues. Les syndicats protestent contre un projet de réorganisation qui prévoit, selon eux, la suppression de plusieurs centaines de postes. La direction affirme qu'aucun licenciement n'est prévu et qu'il s'agit seulement de ne pas remplacer certains départs à la retraite.\n\nSur les quais, la patience des voyageurs est mise à rude épreuve. Beaucoup se sont tournés vers le covoiturage, dont les plateformes enregistrent une forte hausse des réservations, ou vers le vélo. Les entreprises ont été nombreuses à autoriser le télétravail.\n\nUne réunion entre la direction et les syndicats est prévue demain matin. Les deux parties se disent prêtes à discuter, mais leurs positions restent éloignées. En l'absence d'accord, le mouvement pourrait se prolonger jusqu'à la fin de la semaine.",
+   "vocabulary": [
+    {
+     "terme": "consécutif",
+     "definition": "qui suit sans interruption",
+     "exemple": "Trois jours consécutifs."
+    },
+    {
+     "terme": "perturbé",
+     "definition": "dérangé dans son fonctionnement",
+     "exemple": "Le trafic est perturbé."
+    },
+    {
+     "terme": "une réorganisation",
+     "definition": "une nouvelle organisation",
+     "exemple": "La réorganisation du service."
+    },
+    {
+     "terme": "un mouvement",
+     "definition": "ici, une grève, une action collective",
+     "exemple": "Le mouvement se poursuit."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "mettre à rude épreuve",
+     "sens": "soumettre à une forte difficulté",
+     "exemple": "Cette situation met ma patience à rude épreuve."
+    },
+    {
+     "expression": "se tourner vers",
+     "sens": "choisir comme solution",
+     "exemple": "Il s'est tourné vers l'enseignement."
+    },
+    {
+     "expression": "en l'absence de",
+     "sens": "sans",
+     "exemple": "En l'absence d'accord, la grève continue."
+    }
+   ],
+   "traps": [
+    "La direction nie les licenciements.",
+    "Un train sur trois circule seulement aux heures de pointe.",
+    "La prolongation dépend de l'issue de la réunion."
+   ]
+  },
+  {
+   "code": "CE-ACT-03",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Que prévoit le projet ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "La démolition totale des bâtiments.",
+       "correct": false,
+       "rationale": "Ils seront « en partie conservés ».",
+       "label": "A"
+      },
+      {
+       "text": "Des logements, dont une partie sociale, des équipements publics et des locaux d'activité.",
+       "correct": true,
+       "rationale": "« Six cents logements, dont un tiers de logements sociaux, une école, un parc… et des locaux destinés à des artisans. »",
+       "label": "B"
+      },
+      {
+       "text": "Un centre commercial.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "La reprise de l'activité textile.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'énumération détaille le programme."
+    },
+    {
+     "prompt": "Que signifie la déclaration du maire ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Le maire veut détruire l'usine.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "A"
+      },
+      {
+       "text": "Le maire veut créer un musée uniquement.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Le projet veut préserver l'histoire du lieu tout en lui donnant une nouvelle fonction.",
+       "correct": true,
+       "rationale": "« Nous ne voulions pas effacer cette mémoire, mais lui donner un avenir. »",
+       "label": "C"
+      },
+      {
+       "text": "Le maire refuse tout changement.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'opposition « effacer » / « donner un avenir » résume l'intention."
+    },
+    {
+     "prompt": "Que demande l'association de riverains ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Plus de logements sociaux.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "L'annulation de la dépollution.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "La construction d'immeubles plus hauts.",
+       "correct": false,
+       "rationale": "Elle regrette la hauteur.",
+       "label": "C"
+      },
+      {
+       "text": "Une consultation publique sur le projet.",
+       "correct": true,
+       "rationale": "« Elle demande l'organisation d'une consultation publique. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les craintes portent sur la circulation et la hauteur des immeubles."
+    }
+   ],
+   "title": "Un ancien site industriel transformé en quartier",
+   "document": "Fermée depuis vingt ans, l'ancienne usine textile qui dominait la ville va devenir un nouveau quartier. Le projet, présenté hier par la mairie, prévoit six cents logements, dont un tiers de logements sociaux, une école, un parc de trois hectares et des locaux destinés à des artisans et à de jeunes entreprises.\n\nLes bâtiments de brique, témoins du passé ouvrier de la ville, seront en partie conservés et réhabilités. « Nous ne voulions pas effacer cette mémoire, mais lui donner un avenir », a déclaré le maire. La dépollution du sol, contaminé par des décennies d'activité industrielle, constituera la première étape des travaux et durera près de deux ans.\n\nLe projet ne fait pas l'unanimité. Une association de riverains craint une augmentation de la circulation et regrette la hauteur de certains immeubles. Elle demande l'organisation d'une consultation publique. La mairie assure que les habitants seront associés à chaque étape et que le plan de circulation sera revu.",
+   "vocabulary": [
+    {
+     "terme": "réhabiliter",
+     "definition": "remettre en état",
+     "exemple": "Réhabiliter un vieux quartier."
+    },
+    {
+     "terme": "la dépollution",
+     "definition": "le fait de nettoyer un site pollué",
+     "exemple": "La dépollution du terrain."
+    },
+    {
+     "terme": "contaminé",
+     "definition": "pollué par une substance dangereuse",
+     "exemple": "Une eau contaminée."
+    },
+    {
+     "terme": "un riverain",
+     "definition": "une personne qui habite à proximité",
+     "exemple": "Les riverains se plaignent du bruit."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "ne pas faire l'unanimité",
+     "sens": "ne pas être approuvé par tous",
+     "exemple": "Cette décision ne fait pas l'unanimité."
+    },
+    {
+     "expression": "être associé à",
+     "sens": "participer à",
+     "exemple": "Les salariés sont associés aux décisions."
+    },
+    {
+     "expression": "témoin du passé",
+     "sens": "qui rappelle une époque passée",
+     "exemple": "Ce château est un témoin du passé."
+    }
+   ],
+   "traps": [
+    "Seule une partie des bâtiments sera conservée.",
+    "La dépollution est la première étape.",
+    "La mairie promet de revoir le plan de circulation."
+   ]
+  },
+  {
+   "code": "CE-ACT-04",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Pourquoi les cours de français langue étrangère sont-ils complets ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Parce que l'anglais est moins demandé.",
+       "correct": false,
+       "rationale": "L'anglais reste le plus demandé.",
+       "label": "A"
+      },
+      {
+       "text": "De nouveaux résidents doivent prouver leur niveau de français pour certaines démarches.",
+       "correct": true,
+       "rationale": "« Portés par l'arrivée de nouveaux résidents qui doivent justifier d'un niveau de langue. »",
+       "label": "B"
+      },
+      {
+       "text": "Parce que les cours sont gratuits.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que les écoles ferment.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Justifier d'un niveau » signifie le prouver officiellement."
+    },
+    {
+     "prompt": "Quelle évolution des motivations le texte souligne-t-il ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Davantage d'adultes apprennent par plaisir ou pour voyager.",
+       "correct": true,
+       "rationale": "« Un nombre croissant d'adultes s'inscrivent par plaisir ou pour préparer un voyage. »",
+       "label": "A"
+      },
+      {
+       "text": "Les adultes préfèrent le japonais à l'anglais.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Plus personne n'apprend pour son travail.",
+       "correct": false,
+       "rationale": "L'objectif professionnel « reste dominant ».",
+       "label": "C"
+      },
+      {
+       "text": "Les retraités ne s'inscrivent plus.",
+       "correct": false,
+       "rationale": "Ils arrivent au contraire.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Si… reste dominant » introduit une concession avant la nouveauté."
+    },
+    {
+     "prompt": "Que pensent les responsables des applications ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Elles sont interdites dans les centres.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Elles sont inutiles.",
+       "correct": false,
+       "rationale": "Ils les jugent utiles.",
+       "label": "B"
+      },
+      {
+       "text": "Elles sont utiles mais ne remplacent pas les échanges en classe.",
+       "correct": true,
+       "rationale": "« Utiles pour réviser le vocabulaire, mais ne remplacent pas l'interaction avec un enseignant. »",
+       "label": "C"
+      },
+      {
+       "text": "Elles vont remplacer les cours.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le couple « utiles… mais » exprime un avis nuancé."
+    }
+   ],
+   "title": "Hausse des inscriptions dans les cours de langue pour adultes",
+   "document": "Les centres de langues pour adultes enregistrent cette année une hausse record des inscriptions. L'anglais reste la langue la plus demandée, mais l'espagnol, l'allemand et le japonais progressent nettement. Les cours de français langue étrangère affichent également complet, portés par l'arrivée de nouveaux résidents qui doivent justifier d'un niveau de langue pour certaines démarches administratives.\n\nLes motivations des apprenants ont évolué. Si l'objectif professionnel reste dominant, un nombre croissant d'adultes s'inscrivent par plaisir ou pour préparer un voyage. Les centres observent aussi l'arrivée de jeunes retraités, qui voient dans l'apprentissage d'une langue un moyen de garder l'esprit actif.\n\nMalgré la multiplication des applications d'apprentissage sur téléphone, la demande de cours en présentiel ne faiblit pas. Pour les responsables, les applications sont utiles pour réviser le vocabulaire, mais ne remplacent pas l'interaction avec un enseignant et d'autres apprenants, indispensable pour progresser à l'oral.",
+   "vocabulary": [
+    {
+     "terme": "un apprenant",
+     "definition": "une personne qui apprend",
+     "exemple": "Les apprenants adultes."
+    },
+    {
+     "terme": "en présentiel",
+     "definition": "en présence physique",
+     "exemple": "Un cours en présentiel."
+    },
+    {
+     "terme": "faiblir",
+     "definition": "diminuer",
+     "exemple": "La demande ne faiblit pas."
+    },
+    {
+     "terme": "l'interaction",
+     "definition": "l'échange entre personnes",
+     "exemple": "L'interaction est essentielle."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "afficher complet",
+     "sens": "ne plus avoir de place",
+     "exemple": "Le cours affiche complet."
+    },
+    {
+     "expression": "garder l'esprit actif",
+     "sens": "continuer à faire travailler son cerveau",
+     "exemple": "Les jeux aident à garder l'esprit actif."
+    },
+    {
+     "expression": "justifier de",
+     "sens": "prouver",
+     "exemple": "Il doit justifier de son identité."
+    }
+   ],
+   "traps": [
+    "L'anglais reste la langue la plus demandée.",
+    "L'objectif professionnel reste dominant.",
+    "Les applications ne sont pas rejetées."
+   ]
+  },
+  {
+   "code": "CE-ACT-05",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Quels sont les objectifs de la mesure ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Allonger la journée scolaire.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Faire payer le stationnement.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Rendre les abords des écoles plus sûrs et réduire la pollution.",
+       "correct": true,
+       "rationale": "« Vise à sécuriser les abords des écoles et à réduire la pollution respirée par les enfants. »",
+       "label": "C"
+      },
+      {
+       "text": "Interdire les vélos.",
+       "correct": false,
+       "rationale": "Elle les encourage.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le verbe « viser à » introduit les objectifs."
+    },
+    {
+     "prompt": "Quel résultat la mairie constate-t-elle ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Moins d'enfants viennent en voiture.",
+       "correct": true,
+       "rationale": "« La part des enfants venant en voiture est passée de 40 % à 25 %. »",
+       "label": "A"
+      },
+      {
+       "text": "Les écoles ont fermé.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Plus d'enfants viennent en voiture.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Tous les enfants viennent à pied.",
+       "correct": false,
+       "rationale": "25 % viennent encore en voiture.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Il faut lire correctement l'évolution chiffrée."
+    },
+    {
+     "prompt": "Quelle solution la mairie envisage-t-elle pour les parents mécontents ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "L'abandon de la mesure.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Des zones de dépose proches, avec un accompagnement à pied.",
+       "correct": true,
+       "rationale": "« Points de dépose-minute à quelques centaines de mètres… accompagnés à pied par des animateurs. »",
+       "label": "B"
+      },
+      {
+       "text": "Des parkings devant les écoles.",
+       "correct": false,
+       "rationale": "Ce n'est pas proposé.",
+       "label": "C"
+      },
+      {
+       "text": "Des cours à distance.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La solution cherche à concilier la mesure et les contraintes des parents."
+    }
+   ],
+   "title": "Une commune interdit les voitures devant les écoles",
+   "document": "Depuis la rentrée, les rues situées devant les trois écoles primaires de la commune sont fermées à la circulation automobile un quart d'heure avant et après les heures d'entrée et de sortie des classes. Des barrières amovibles sont installées par des agents municipaux, aidés de parents volontaires.\n\nLa mesure vise à sécuriser les abords des écoles et à réduire la pollution respirée par les enfants, particulièrement sensibles aux gaz d'échappement. Elle encourage aussi les familles à venir à pied ou à vélo. Après deux mois, la municipalité constate que la part des enfants venant en voiture est passée de 40 % à 25 %.\n\nTous les parents ne sont pas convaincus. Certains, qui déposent leurs enfants avant de partir travailler loin de chez eux, se plaignent de devoir se garer plus loin et de perdre du temps. La mairie étudie la création de points de dépose-minute à quelques centaines de mètres des écoles, d'où les enfants pourraient être accompagnés à pied par des animateurs.",
+   "vocabulary": [
+    {
+     "terme": "amovible",
+     "definition": "qu'on peut enlever",
+     "exemple": "Une barrière amovible."
+    },
+    {
+     "terme": "les abords",
+     "definition": "les environs immédiats",
+     "exemple": "Les abords de la gare."
+    },
+    {
+     "terme": "les gaz d'échappement",
+     "definition": "les gaz rejetés par les moteurs",
+     "exemple": "Les gaz d'échappement polluent l'air."
+    },
+    {
+     "terme": "se garer",
+     "definition": "stationner un véhicule",
+     "exemple": "Il est difficile de se garer ici."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "depuis la rentrée",
+     "sens": "depuis le début de l'année scolaire",
+     "exemple": "Il a changé d'école depuis la rentrée."
+    },
+    {
+     "expression": "être convaincu",
+     "sens": "être persuadé",
+     "exemple": "Je ne suis pas convaincu."
+    },
+    {
+     "expression": "perdre du temps",
+     "sens": "gaspiller du temps",
+     "exemple": "On perd du temps dans les bouchons."
+    }
+   ],
+   "traps": [
+    "La fermeture ne dure qu'un quart d'heure avant et après les classes.",
+    "25 % des enfants viennent encore en voiture.",
+    "Les dépose-minute sont à l'étude, pas encore créés."
+   ]
+  },
+  {
+   "code": "CE-ACT-06",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Pourquoi le prix du café a-t-il fortement augmenté ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Les supermarchés ont augmenté leurs marges.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Le Brésil a interdit les exportations.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Les consommateurs boivent moins de café.",
+       "correct": false,
+       "rationale": "La demande augmente.",
+       "label": "C"
+      },
+      {
+       "text": "Les récoltes ont baissé à cause du climat alors que la demande augmente.",
+       "correct": true,
+       "rationale": "« Une série de sécheresses et de gelées qui ont fortement réduit les récoltes… alors que la demande mondiale continue de croître. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« En cause » introduit l'explication."
+    },
+    {
+     "prompt": "Pourquoi la situation est-elle « paradoxale » pour les petits producteurs ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Ils refusent de vendre leur café.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Les prix sont élevés mais ils ont peu de café à vendre.",
+       "correct": true,
+       "rationale": "« Les prix élevés pourraient leur profiter, mais beaucoup ont perdu une grande partie de leur récolte. »",
+       "label": "B"
+      },
+      {
+       "text": "Ils vendent plus cher et gagnent beaucoup plus.",
+       "correct": false,
+       "rationale": "Ce n'est pas le cas pour beaucoup.",
+       "label": "C"
+      },
+      {
+       "text": "Ils achètent du café en supermarché.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le paradoxe vient de l'opposition entre prix élevé et récolte perdue."
+    },
+    {
+     "prompt": "Quelle menace à long terme les spécialistes évoquent-ils ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "La fin des supermarchés.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "La disparition des torréfacteurs.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Une baisse de la demande en Asie.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Certaines zones pourraient ne plus permettre de cultiver le café.",
+       "correct": true,
+       "rationale": "« Une partie pourrait devenir impropre à cette production d'ici quelques décennies. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Impropre » signifie « qui ne convient pas »."
+    }
+   ],
+   "title": "Le prix du café atteint un record",
+   "document": "Le prix du café sur les marchés internationaux a atteint cette semaine son plus haut niveau depuis près de cinquante ans. En cause, une série de sécheresses et de gelées qui ont fortement réduit les récoltes au Brésil et au Vietnam, les deux premiers producteurs mondiaux. Les stocks disponibles sont au plus bas, alors que la demande mondiale continue de croître, notamment en Asie.\n\nLes torréfacteurs ont déjà commencé à répercuter cette hausse sur leurs prix de vente. Dans les supermarchés, le paquet de café moulu a augmenté de près de 20 % en un an, et les cafés servis au comptoir devraient suivre.\n\nPour les petits producteurs, la situation est paradoxale. Les prix élevés pourraient leur profiter, mais beaucoup ont perdu une grande partie de leur récolte et ne peuvent donc pas en tirer avantage. Les spécialistes rappellent que le changement climatique menace à long terme les zones de culture du café, dont une partie pourrait devenir impropre à cette production d'ici quelques décennies.",
+   "vocabulary": [
+    {
+     "terme": "une gelée",
+     "definition": "une période de gel",
+     "exemple": "Les gelées ont détruit les fleurs."
+    },
+    {
+     "terme": "un torréfacteur",
+     "definition": "une entreprise qui grille le café",
+     "exemple": "Le torréfacteur prépare les grains."
+    },
+    {
+     "terme": "répercuter",
+     "definition": "transmettre une hausse",
+     "exemple": "Répercuter les coûts sur les clients."
+    },
+    {
+     "terme": "impropre",
+     "definition": "qui ne convient pas",
+     "exemple": "Une eau impropre à la consommation."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "au plus bas",
+     "sens": "au niveau le plus faible",
+     "exemple": "Le moral est au plus bas."
+    },
+    {
+     "expression": "tirer avantage de",
+     "sens": "profiter de",
+     "exemple": "Il a su tirer avantage de la situation."
+    },
+    {
+     "expression": "au comptoir",
+     "sens": "au bar d'un café",
+     "exemple": "Prendre un café au comptoir."
+    }
+   ],
+   "traps": [
+    "La demande mondiale augmente.",
+    "Les cafés au comptoir « devraient suivre » : ce n'est pas encore le cas.",
+    "Les petits producteurs ne profitent pas tous de la hausse."
+   ]
+  },
+  {
+   "code": "CE-ACT-07",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Comment fonctionne l'application ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Les utilisateurs échangent objets et services contre des points, sans argent.",
+       "correct": true,
+       "rationale": "« On reçoit en échange des points… Aucun argent ne circule. »",
+       "label": "A"
+      },
+      {
+       "text": "Les utilisateurs paient un abonnement.",
+       "correct": false,
+       "rationale": "Elle est gratuite.",
+       "label": "B"
+      },
+      {
+       "text": "L'application loue des perceuses.",
+       "correct": false,
+       "rationale": "Ce n'est pas le principe.",
+       "label": "C"
+      },
+      {
+       "text": "Les utilisateurs vendent leurs objets.",
+       "correct": false,
+       "rationale": "Aucun argent ne circule.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le troc est un échange sans argent."
+    },
+    {
+     "prompt": "Comment les fondateurs expliquent-ils le succès ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Par la gratuité des perceuses.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'explication.",
+       "label": "A"
+      },
+      {
+       "text": "Par l'obligation de l'utiliser.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Par la hausse du coût de la vie et le besoin de lien social.",
+       "correct": true,
+       "rationale": "« Par la hausse du coût de la vie, mais aussi par un besoin de lien social. »",
+       "label": "C"
+      },
+      {
+       "text": "Par une grande campagne de publicité.",
+       "correct": false,
+       "rationale": "L'application est sans publicité.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Mais aussi » ajoute une seconde explication."
+    },
+    {
+     "prompt": "Quel problème l'application doit-elle encore résoudre ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Supprimer les points.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Trouver des revenus durables sans vendre les données.",
+       "correct": true,
+       "rationale": "« Reste à trouver un modèle économique… refusent de vendre les données. »",
+       "label": "B"
+      },
+      {
+       "text": "Convaincre les voisins de se parler.",
+       "correct": false,
+       "rationale": "C'est déjà un effet constaté.",
+       "label": "C"
+      },
+      {
+       "text": "Trouver des utilisateurs.",
+       "correct": false,
+       "rationale": "Elle en a plus d'un million.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Reste à » introduit ce qui n'est pas encore réglé."
+    }
+   ],
+   "title": "Succès inattendu pour une application de troc entre voisins",
+   "document": "Lancée il y a deux ans par trois étudiants, une application permettant d'échanger gratuitement des objets et des services entre voisins compte aujourd'hui plus d'un million d'utilisateurs. Le principe est simple : on propose une perceuse, des vêtements d'enfants ou une heure de soutien scolaire, et l'on reçoit en échange des points qui permettent d'obtenir autre chose. Aucun argent ne circule.\n\nSes fondateurs expliquent ce succès par la hausse du coût de la vie, mais aussi par un besoin de lien social. « Beaucoup d'utilisateurs nous disent qu'ils ont rencontré leurs voisins grâce à l'application, alors qu'ils habitaient le même immeuble depuis des années », raconte l'un d'eux.\n\nReste à trouver un modèle économique. L'application, gratuite et sans publicité, fonctionne pour l'instant grâce à des subventions et à des dons. Ses fondateurs refusent de vendre les données de leurs utilisateurs et réfléchissent à une version payante destinée aux collectivités, qui souhaiteraient l'utiliser pour animer la vie de quartier.",
+   "vocabulary": [
+    {
+     "terme": "le troc",
+     "definition": "l'échange d'objets sans argent",
+     "exemple": "Le troc se développe."
+    },
+    {
+     "terme": "une perceuse",
+     "definition": "un outil pour faire des trous",
+     "exemple": "Prête-moi ta perceuse."
+    },
+    {
+     "terme": "une subvention",
+     "definition": "une aide financière publique",
+     "exemple": "L'association reçoit une subvention."
+    },
+    {
+     "terme": "un modèle économique",
+     "definition": "la manière dont une entreprise gagne de l'argent",
+     "exemple": "Trouver un modèle économique viable."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "reste à",
+     "sens": "il faut encore",
+     "exemple": "Reste à convaincre les clients."
+    },
+    {
+     "expression": "le lien social",
+     "sens": "les relations entre les personnes",
+     "exemple": "Les associations renforcent le lien social."
+    },
+    {
+     "expression": "animer la vie de quartier",
+     "sens": "organiser des activités locales",
+     "exemple": "Le comité anime la vie de quartier."
+    }
+   ],
+   "traps": [
+    "L'application n'a pas de publicité.",
+    "La version payante viserait les collectivités, pas les utilisateurs.",
+    "Les fondateurs refusent de vendre les données."
+   ]
+  }
+ ]
+}

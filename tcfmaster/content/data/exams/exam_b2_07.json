@@ -1,0 +1,1996 @@
+{
+ "code": "B2-BLANC-07",
+ "title": "Examen blanc B2 n° 7 – Technologie et numérique",
+ "level": "B2",
+ "description": "Examen complet de niveau B2 aux durées officielles : outils numériques, démarches en ligne, données personnelles, intelligence artificielle.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "intention",
+   "document": "H: Bonjour Madame Leroy, ici Thomas, du service informatique. Nous avons remarqué plusieurs tentatives de connexion inhabituelles sur votre compte de messagerie cette nuit, depuis l'étranger. Par précaution, nous avons bloqué l'accès. Pourriez-vous passer à notre bureau, ou me rappeler, pour que nous changions ensemble votre mot de passe ? Surtout, ne répondez à aucun courriel qui vous demanderait vos identifiants.",
+   "prompt": "Pourquoi Thomas appelle-t-il Mme Leroy ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour la prévenir d'un risque de piratage et sécuriser son compte.",
+     "correct": true,
+     "rationale": "Il signale des connexions suspectes et propose de changer le mot de passe."
+    },
+    {
+     "label": "B",
+     "text": "Pour lui demander ses identifiants par téléphone.",
+     "correct": false,
+     "rationale": "Il recommande au contraire de ne les donner à personne."
+    },
+    {
+     "label": "C",
+     "text": "Pour lui proposer une formation en informatique.",
+     "correct": false,
+     "rationale": "Il ne parle pas de formation."
+    },
+    {
+     "label": "D",
+     "text": "Pour lui annoncer la suppression de son compte.",
+     "correct": false,
+     "rationale": "L'accès est seulement bloqué par précaution."
+    }
+   ],
+   "explanation": "Le message expose un problème, une mesure déjà prise et une action à faire ensemble. Le dernier conseil (« surtout, ne répondez à aucun courriel… ») renforce l'objectif de sécurité.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co01.wav"
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "reportage radio",
+   "skill": "information précise",
+   "document": "F: Dans cette commune, la mairie a ouvert un espace numérique où des conseillers aident gratuitement les habitants à effectuer leurs démarches en ligne : déclaration d'impôts, demande de carte grise, dossier de retraite. L'accueil se fait sans rendez-vous le matin, et uniquement sur rendez-vous l'après-midi, pour les démarches qui demandent plus de temps.",
+   "prompt": "Quand faut-il prendre rendez-vous ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour toutes les démarches.",
+     "correct": false,
+     "rationale": "Le matin, l'accueil se fait sans rendez-vous."
+    },
+    {
+     "label": "B",
+     "text": "Pour la déclaration d'impôts uniquement.",
+     "correct": false,
+     "rationale": "Le rendez-vous dépend de l'horaire, pas de la démarche."
+    },
+    {
+     "label": "C",
+     "text": "Pour venir l'après-midi.",
+     "correct": true,
+     "rationale": "L'accueil se fait « uniquement sur rendez-vous l'après-midi »."
+    },
+    {
+     "label": "D",
+     "text": "Pour obtenir de l'aide le matin.",
+     "correct": false,
+     "rationale": "Le matin est sans rendez-vous."
+    }
+   ],
+   "explanation": "L'opposition « sans rendez-vous le matin » et « uniquement sur rendez-vous l'après-midi » est l'information clé. La justification (démarches longues) explique cette organisation.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co02.wav"
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "F: Tu as vu ? L'école de Léa va interdire les téléphones même pendant les récréations. / H: Moi, je trouve ça très bien. Les enfants recommencent à jouer ensemble, à se parler. / F: Je ne suis pas contre, mais je me demande comment ils vont apprendre à utiliser le téléphone de façon raisonnable si on le leur retire complètement. Il faudrait plutôt des cours sur le sujet.",
+   "prompt": "Quelle est la position de la femme sur l'interdiction ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle veut qu'on interdise aussi les ordinateurs.",
+     "correct": false,
+     "rationale": "Elle n'en parle pas."
+    },
+    {
+     "label": "B",
+     "text": "Elle y est totalement opposée.",
+     "correct": false,
+     "rationale": "Elle dit « je ne suis pas contre »."
+    },
+    {
+     "label": "C",
+     "text": "Elle la trouve parfaite, comme l'homme.",
+     "correct": false,
+     "rationale": "Elle exprime une réserve."
+    },
+    {
+     "label": "D",
+     "text": "Elle l'accepte, mais doute qu'elle suffise à éduquer les enfants.",
+     "correct": true,
+     "rationale": "« je ne suis pas contre, mais… il faudrait plutôt des cours »."
+    }
+   ],
+   "explanation": "La femme nuance sa position avec « je ne suis pas contre, mais ». Sa proposition finale au conditionnel révèle sa préoccupation : l'apprentissage d'un usage raisonnable.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co03.wav"
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Information aux usagers : en raison d'une opération de maintenance, le site internet de la caisse d'allocations familiales sera inaccessible ce dimanche de huit heures à quatorze heures. Les déclarations trimestrielles pourront être effectuées jusqu'au mardi suivant sans aucune pénalité. Nous vous prions de nous excuser pour la gêne occasionnée.",
+   "prompt": "Quelle mesure est prise pour les usagers ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les déclarations sont supprimées ce trimestre.",
+     "correct": false,
+     "rationale": "Elles sont seulement repoussées."
+    },
+    {
+     "label": "B",
+     "text": "Le délai des déclarations est prolongé.",
+     "correct": true,
+     "rationale": "Elles « pourront être effectuées jusqu'au mardi suivant sans aucune pénalité »."
+    },
+    {
+     "label": "C",
+     "text": "Une permanence téléphonique est ouverte le dimanche.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Le site sera fermé toute la semaine.",
+     "correct": false,
+     "rationale": "Il est fermé six heures le dimanche."
+    }
+   ],
+   "explanation": "L'annonce donne la cause (maintenance), la durée de l'interruption et une compensation. La précision « sans aucune pénalité » est essentielle.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co04.wav"
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "compréhension globale",
+   "document": "H: Vous avez créé un atelier de réparation d'ordinateurs. Quel est le principe ? / F: Les gens apportent leur ordinateur en panne, et des bénévoles leur apprennent à le réparer eux-mêmes. Souvent, il suffit de changer une pièce ou de réinstaller un logiciel. Un ordinateur réparé, c'est un appareil qui ne finit pas à la poubelle, et c'est autant de métaux rares qu'on n'a pas besoin d'extraire. Et puis, les gens repartent fiers.",
+   "prompt": "De quoi parle principalement l'interview ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De la pénurie de métaux rares.",
+     "correct": false,
+     "rationale": "C'est un argument secondaire."
+    },
+    {
+     "label": "B",
+     "text": "D'un atelier qui apprend à réparer et qui limite les déchets.",
+     "correct": true,
+     "rationale": "Elle présente le principe et ses avantages écologiques et humains."
+    },
+    {
+     "label": "C",
+     "text": "D'une entreprise qui vend des ordinateurs neufs.",
+     "correct": false,
+     "rationale": "L'atelier répare des appareils existants."
+    },
+    {
+     "label": "D",
+     "text": "D'une formation professionnelle d'informaticien.",
+     "correct": false,
+     "rationale": "Les bénévoles aident des particuliers."
+    }
+   ],
+   "explanation": "L'interview décrit un fonctionnement, puis ses bénéfices (environnement, fierté). Le thème principal réunit le principe et ses effets.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co05.wav"
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "skill": "inférence",
+   "document": "F: J'ai installé une application qui mesure mon temps d'écran. Résultat : quatre heures par jour, dont une bonne partie à faire défiler des vidéos dont je ne me souviens même pas. L'application m'envoie maintenant une notification quand je dépasse mon objectif. Le plus drôle, c'est qu'il me faut une application de plus pour passer moins de temps sur mon téléphone.",
+   "prompt": "Que laisse entendre la chroniqueuse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle trouve paradoxal de lutter contre l'écran avec un outil numérique.",
+     "correct": true,
+     "rationale": "« Le plus drôle, c'est qu'il me faut une application de plus… »."
+    },
+    {
+     "label": "B",
+     "text": "Elle pense que quatre heures d'écran sont raisonnables.",
+     "correct": false,
+     "rationale": "Elle semble surprise par ce chiffre."
+    },
+    {
+     "label": "C",
+     "text": "Elle a supprimé son téléphone.",
+     "correct": false,
+     "rationale": "Elle utilise encore des applications."
+    },
+    {
+     "label": "D",
+     "text": "Elle se souvient de toutes les vidéos regardées.",
+     "correct": false,
+     "rationale": "Elle ne s'en souvient « même pas »."
+    }
+   ],
+   "explanation": "La chroniqueuse ne critique pas directement, mais l'expression « le plus drôle, c'est que » souligne une contradiction ironique.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co06.wav"
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "débat radio",
+   "skill": "opinion",
+   "document": "H: Faut-il avoir peur de l'intelligence artificielle au travail ? / F: Je crois qu'il faut surtout s'y préparer. Certaines tâches répétitives vont disparaître, c'est certain. Mais chaque grande innovation a aussi créé de nouveaux métiers. Le vrai risque, ce serait de laisser les salariés seuls face à ces changements, sans formation. Les entreprises et l'État ont une responsabilité.",
+   "prompt": "Quelle est l'opinion de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'intelligence artificielle va supprimer tous les emplois.",
+     "correct": false,
+     "rationale": "Elle évoque aussi de nouveaux métiers."
+    },
+    {
+     "label": "B",
+     "text": "L'intelligence artificielle ne changera rien au travail.",
+     "correct": false,
+     "rationale": "Certaines tâches « vont disparaître »."
+    },
+    {
+     "label": "C",
+     "text": "Il faut former les salariés pour les accompagner dans ce changement.",
+     "correct": true,
+     "rationale": "« Le vrai risque, ce serait de les laisser… sans formation »."
+    },
+    {
+     "label": "D",
+     "text": "Seuls les salariés sont responsables de leur adaptation.",
+     "correct": false,
+     "rationale": "Elle cite la responsabilité des entreprises et de l'État."
+    }
+   ],
+   "explanation": "La femme reformule la question (« s'y préparer » plutôt qu'« avoir peur »), reconnaît un risque, puis identifie « le vrai risque ». Cette expression signale son opinion principale.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co07.wav"
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "F: Bonjour Monsieur Kaci, ici le service client de votre opérateur. Votre nouvelle box internet a été expédiée et sera livrée en point relais sous trois jours ouvrés. Vous recevrez un code par SMS pour la retirer. Merci de nous renvoyer votre ancien boîtier dans un délai de trente jours, avec l'étiquette prépayée fournie, faute de quoi il vous sera facturé.",
+   "prompt": "Que doit faire M. Kaci avec son ancien boîtier ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le jeter dans une déchetterie.",
+     "correct": false,
+     "rationale": "Il doit le retourner à l'opérateur."
+    },
+    {
+     "label": "B",
+     "text": "Le garder comme appareil de secours.",
+     "correct": false,
+     "rationale": "Il doit le renvoyer."
+    },
+    {
+     "label": "C",
+     "text": "Le déposer au point relais en retirant la nouvelle box.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    },
+    {
+     "label": "D",
+     "text": "Le renvoyer dans le mois avec l'étiquette fournie.",
+     "correct": true,
+     "rationale": "« dans un délai de trente jours, avec l'étiquette prépayée »."
+    }
+   ],
+   "explanation": "Le message enchaîne deux consignes : retrait du nouveau matériel et retour de l'ancien. « Faute de quoi » introduit la conséquence en cas d'oubli.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co08.wav"
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "intention",
+   "document": "H: Vous êtes avocate spécialisée dans le numérique. Que conseillez-vous aux parents qui publient des photos de leurs enfants sur les réseaux ? / F: De réfléchir avant de cliquer. Une photo publiée peut être copiée et circuler pendant des années. L'enfant n'a pas donné son accord, et à l'adolescence, il peut être gêné, voire harcelé à cause de ces images. Partagez plutôt vos photos dans un cercle privé, avec la famille proche.",
+   "prompt": "Quelle est l'intention de l'avocate ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Interdire aux parents de photographier leurs enfants.",
+     "correct": false,
+     "rationale": "Elle recommande seulement de limiter le partage."
+    },
+    {
+     "label": "B",
+     "text": "Expliquer comment devenir avocate.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    },
+    {
+     "label": "C",
+     "text": "Encourager la publication de photos sur les réseaux.",
+     "correct": false,
+     "rationale": "Elle conseille de « réfléchir avant de cliquer »."
+    },
+    {
+     "label": "D",
+     "text": "Mettre en garde les parents et leur proposer une pratique plus prudente.",
+     "correct": true,
+     "rationale": "Elle explique les risques puis conseille un « cercle privé »."
+    }
+   ],
+   "explanation": "La réponse combine un avertissement (risques durables, harcèlement) et une recommandation à l'impératif. C'est la structure typique d'un conseil.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co09.wav"
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "H: Dans cette petite entreprise de transport, les salariés testent depuis six mois la semaine de quatre jours, rendue possible par de nouveaux logiciels qui automatisent la facturation et la planification des tournées. Les tâches administratives prennent deux fois moins de temps. Résultat : le chiffre d'affaires est stable, les arrêts maladie ont diminué, et le patron a reçu deux fois plus de candidatures pour ses offres d'emploi.",
+   "prompt": "Quel est le sujet du reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La difficulté à recruter des salariés.",
+     "correct": false,
+     "rationale": "Les candidatures ont au contraire doublé."
+    },
+    {
+     "label": "B",
+     "text": "Le remplacement des chauffeurs par des robots.",
+     "correct": false,
+     "rationale": "Les logiciels automatisent des tâches administratives."
+    },
+    {
+     "label": "C",
+     "text": "Les effets positifs d'une réorganisation du travail permise par le numérique.",
+     "correct": true,
+     "rationale": "Les logiciels permettent la semaine de quatre jours, avec de bons résultats."
+    },
+    {
+     "label": "D",
+     "text": "La faillite d'une entreprise de transport.",
+     "correct": false,
+     "rationale": "Le chiffre d'affaires est stable."
+    }
+   ],
+   "explanation": "Le reportage présente une expérimentation, son moyen (les logiciels) et un bilan introduit par « résultat ». Ce bilan positif donne le sens global.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co10.wav"
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "conversation administrative",
+   "skill": "information précise",
+   "document": "F: Bonjour, je n'arrive pas à me connecter à mon espace en ligne, j'ai oublié mon mot de passe. / H: Vous pouvez cliquer sur « mot de passe oublié » : un lien vous sera envoyé par courriel. Mais attention, il n'est valable qu'une heure. Si vous n'avez plus accès à votre adresse électronique, il faudra venir au guichet avec une pièce d'identité pour la modifier.",
+   "prompt": "Quand la femme devra-t-elle se déplacer au guichet ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Si elle ne peut plus consulter son adresse électronique.",
+     "correct": true,
+     "rationale": "« Si vous n'avez plus accès à votre adresse électronique, il faudra venir au guichet »."
+    },
+    {
+     "label": "B",
+     "text": "Si elle a oublié son mot de passe.",
+     "correct": false,
+     "rationale": "Un lien suffit dans ce cas."
+    },
+    {
+     "label": "C",
+     "text": "Si elle n'a pas de pièce d'identité.",
+     "correct": false,
+     "rationale": "La pièce d'identité est demandée au guichet."
+    },
+    {
+     "label": "D",
+     "text": "Si elle veut se connecter pour la première fois.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "L'employé présente une procédure normale, puis une exception introduite par « si ». La mise en garde sur la durée du lien est un détail supplémentaire.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co11.wav"
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "opinion",
+   "document": "H: On nous vend les objets connectés comme un progrès. Un réfrigérateur qui commande le lait, une brosse à dents qui envoie des statistiques… Mais qui lit les conditions d'utilisation ? Ces objets collectent des données sur nos habitudes les plus intimes, et on ne sait pas toujours à qui elles sont revendues. Avant d'acheter, demandons-nous si le service rendu vaut vraiment ce que nous donnons en échange.",
+   "prompt": "Quelle est l'opinion du chroniqueur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les objets connectés sont un progrès sans inconvénient.",
+     "correct": false,
+     "rationale": "Il met en doute cette présentation."
+    },
+    {
+     "label": "B",
+     "text": "Les objets connectés posent des questions sur l'utilisation de nos données.",
+     "correct": true,
+     "rationale": "« on ne sait pas toujours à qui elles sont revendues »."
+    },
+    {
+     "label": "C",
+     "text": "Les conditions d'utilisation sont faciles à comprendre.",
+     "correct": false,
+     "rationale": "Il suggère que personne ne les lit."
+    },
+    {
+     "label": "D",
+     "text": "Il faut interdire les réfrigérateurs connectés.",
+     "correct": false,
+     "rationale": "Il invite à réfléchir, pas à interdire."
+    }
+   ],
+   "explanation": "Le chroniqueur part d'un discours commercial, pose une question rhétorique et termine par une invitation à réfléchir (« demandons-nous »).",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co12.wav"
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "inférence",
+   "document": "F: Votre application de covoiturage rural fonctionne-t-elle ? / H: Techniquement, oui. Mais nous avons vite compris que beaucoup de personnes âgées n'utilisaient pas de smartphone. Aujourd'hui, on peut aussi réserver par téléphone, auprès d'une vraie personne, à la mairie. Et c'est ce canal qui représente près de la moitié des trajets.",
+   "prompt": "Que peut-on comprendre de cette interview ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La mairie a remplacé l'application.",
+     "correct": false,
+     "rationale": "Les deux canaux coexistent."
+    },
+    {
+     "label": "B",
+     "text": "L'application ne fonctionne pas techniquement.",
+     "correct": false,
+     "rationale": "Il dit « techniquement, oui »."
+    },
+    {
+     "label": "C",
+     "text": "L'application seule ne suffisait pas à répondre aux besoins des habitants.",
+     "correct": true,
+     "rationale": "Une réservation par téléphone a dû être ajoutée et représente la moitié des trajets."
+    },
+    {
+     "label": "D",
+     "text": "Les personnes âgées refusent le covoiturage.",
+     "correct": false,
+     "rationale": "Elles l'utilisent par téléphone."
+    }
+   ],
+   "explanation": "L'homme ne dit pas que l'application était insuffisante, mais le poids du canal téléphonique le montre clairement.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co13.wav"
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce radio",
+   "skill": "information précise",
+   "document": "F: La médiathèque propose un atelier gratuit pour apprendre à repérer les arnaques sur internet, le samedi 12 à dix heures. Il s'adresse en priorité aux seniors, mais reste ouvert à tous dans la limite des places disponibles. Les participants sont invités à venir avec leur propre téléphone ou tablette, afin de travailler sur leurs propres réglages.",
+   "prompt": "Que doivent apporter les participants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le paiement de l'atelier.",
+     "correct": false,
+     "rationale": "L'atelier est gratuit."
+    },
+    {
+     "label": "B",
+     "text": "Leur téléphone ou leur tablette.",
+     "correct": true,
+     "rationale": "« venir avec leur propre téléphone ou tablette »."
+    },
+    {
+     "label": "C",
+     "text": "Une pièce d'identité.",
+     "correct": false,
+     "rationale": "Ce n'est pas demandé."
+    },
+    {
+     "label": "D",
+     "text": "Un ordinateur portable.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "L'annonce précise le public prioritaire, les conditions d'accès et le matériel. La justification (« afin de travailler sur leurs propres réglages ») aide à comprendre la consigne.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co14.wav"
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "intention",
+   "document": "H: Je viens de recevoir un SMS de ma banque : je dois cliquer sur un lien pour débloquer ma carte. / F: Attends ! Ta banque ne t'envoie jamais de lien comme ça. Regarde le numéro, il est bizarre. Ne clique surtout pas. Appelle plutôt le numéro qui est au dos de ta carte, tu sauras tout de suite si c'est vrai.",
+   "prompt": "Que veut faire la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Lui conseiller de changer de banque.",
+     "correct": false,
+     "rationale": "Ce n'est pas évoqué."
+    },
+    {
+     "label": "B",
+     "text": "L'aider à débloquer sa carte en ligne.",
+     "correct": false,
+     "rationale": "Elle lui dit de ne pas cliquer."
+    },
+    {
+     "label": "C",
+     "text": "Lui reprocher d'avoir perdu sa carte.",
+     "correct": false,
+     "rationale": "La carte n'est pas perdue."
+    },
+    {
+     "label": "D",
+     "text": "Empêcher son ami de tomber dans une escroquerie.",
+     "correct": true,
+     "rationale": "Elle le met en garde et propose de vérifier par un canal sûr."
+    }
+   ],
+   "explanation": "Les impératifs (« attends », « ne clique surtout pas », « appelle plutôt ») et l'argument sur les pratiques des banques révèlent une intention de protection.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co15.wav"
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "F: Les centres de données, qui hébergent nos courriels, nos photos et nos vidéos, consomment une énergie considérable, notamment pour refroidir leurs serveurs. Dans cette ville, un centre récupère désormais la chaleur produite pour chauffer une piscine municipale et plusieurs immeubles voisins. Une manière de transformer un problème en ressource.",
+   "prompt": "Quel est le thème du reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La réutilisation de la chaleur produite par un centre de données.",
+     "correct": true,
+     "rationale": "La chaleur sert à « chauffer une piscine municipale et plusieurs immeubles »."
+    },
+    {
+     "label": "B",
+     "text": "La fermeture des centres de données.",
+     "correct": false,
+     "rationale": "Le centre fonctionne toujours."
+    },
+    {
+     "label": "C",
+     "text": "Le coût des abonnements internet.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "La construction d'une nouvelle piscine.",
+     "correct": false,
+     "rationale": "La piscine existe déjà et bénéficie du système."
+    }
+   ],
+   "explanation": "Le reportage pose un problème (consommation d'énergie), puis présente une solution. La dernière phrase résume l'idée : « transformer un problème en ressource ».",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co16.wav"
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Le télétravail est-il bon pour les salariés ? / F: Pour beaucoup, oui : moins de transports, plus de concentration. Mais il ne faut pas en faire une règle absolue. Les jeunes recrues, en particulier, apprennent énormément en observant leurs collègues. Deux ou trois jours par semaine au bureau me semblent un bon équilibre.",
+   "prompt": "Quelle est l'opinion de la femme sur le télétravail ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il est surtout adapté aux jeunes recrues.",
+     "correct": false,
+     "rationale": "Elles ont au contraire besoin du bureau."
+    },
+    {
+     "label": "B",
+     "text": "Il devrait être obligatoire pour tous.",
+     "correct": false,
+     "rationale": "Elle refuse « une règle absolue »."
+    },
+    {
+     "label": "C",
+     "text": "Il est bénéfique s'il est combiné avec une présence au bureau.",
+     "correct": true,
+     "rationale": "« Deux ou trois jours par semaine au bureau me semblent un bon équilibre »."
+    },
+    {
+     "label": "D",
+     "text": "Il est mauvais pour tous les salariés.",
+     "correct": false,
+     "rationale": "Elle cite ses avantages."
+    }
+   ],
+   "explanation": "La femme reconnaît les avantages, introduit une limite avec « mais » et conclut par une proposition d'équilibre.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co17.wav"
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "information précise",
+   "document": "H: Bonjour Madame Petit, ici le cabinet du docteur Morel. Suite à votre demande, votre téléconsultation est confirmée pour jeudi à dix heures trente. Vous recevrez un lien par courriel quinze minutes avant le rendez-vous. Pensez à vous installer dans un endroit calme et à préparer votre carte Vitale ainsi que la liste de vos médicaments.",
+   "prompt": "Quand Mme Petit recevra-t-elle le lien de connexion ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Immédiatement après ce message.",
+     "correct": false,
+     "rationale": "Le lien arrivera plus tard."
+    },
+    {
+     "label": "B",
+     "text": "Un quart d'heure avant le rendez-vous.",
+     "correct": true,
+     "rationale": "« quinze minutes avant le rendez-vous »."
+    },
+    {
+     "label": "C",
+     "text": "Jeudi à dix heures trente.",
+     "correct": false,
+     "rationale": "C'est l'heure du rendez-vous."
+    },
+    {
+     "label": "D",
+     "text": "La veille au soir.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    }
+   ],
+   "explanation": "Le message contient deux repères temporels (l'heure du rendez-vous et l'envoi du lien). « Quinze minutes » correspond à « un quart d'heure ».",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co18.wav"
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "inférence",
+   "document": "F: Les élèves utilisent l'intelligence artificielle pour faire leurs devoirs. Il faut l'interdire ! / H: Interdire quelque chose qu'on peut utiliser chez soi en deux secondes ? Bonne chance. On ferait mieux de changer les devoirs : demander aux élèves d'expliquer à l'oral leur raisonnement, ou de critiquer une réponse produite par la machine.",
+   "prompt": "Que sous-entend l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une interdiction serait impossible à faire respecter.",
+     "correct": true,
+     "rationale": "Sa réaction ironique (« Bonne chance ») le montre."
+    },
+    {
+     "label": "B",
+     "text": "Les devoirs doivent être supprimés.",
+     "correct": false,
+     "rationale": "Il propose de les transformer."
+    },
+    {
+     "label": "C",
+     "text": "Les élèves n'utilisent pas l'intelligence artificielle.",
+     "correct": false,
+     "rationale": "Il ne conteste pas ce constat."
+    },
+    {
+     "label": "D",
+     "text": "L'intelligence artificielle est dangereuse pour les élèves.",
+     "correct": false,
+     "rationale": "Il propose de l'intégrer aux exercices."
+    }
+   ],
+   "explanation": "L'homme répond par une question rhétorique et un « Bonne chance » ironique. Ces procédés expriment son scepticisme sans le dire directement.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co19.wav"
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "conférence",
+   "skill": "compréhension globale",
+   "document": "H: On parle souvent de fracture numérique comme d'un problème d'équipement. Or, aujourd'hui, la plupart des foyers possèdent un téléphone connecté. La véritable fracture se situe ailleurs : dans la capacité à utiliser ces outils pour remplir un formulaire administratif, comparer des offres ou repérer une fausse information. C'est une question de compétences, et donc de formation.",
+   "prompt": "Quelle idée principale le conférencier défend-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La fracture numérique a disparu.",
+     "correct": false,
+     "rationale": "Il la redéfinit, sans dire qu'elle a disparu."
+    },
+    {
+     "label": "B",
+     "text": "Les formulaires administratifs devraient être supprimés.",
+     "correct": false,
+     "rationale": "Ce n'est pas sa proposition."
+    },
+    {
+     "label": "C",
+     "text": "La plupart des foyers n'ont pas de téléphone.",
+     "correct": false,
+     "rationale": "Il affirme le contraire."
+    },
+    {
+     "label": "D",
+     "text": "La fracture numérique concerne surtout les compétences, plus que l'équipement.",
+     "correct": true,
+     "rationale": "« La véritable fracture se situe ailleurs… C'est une question de compétences »."
+    }
+   ],
+   "explanation": "« Or » introduit une objection à l'idée courante, puis « la véritable fracture » présente la thèse. La conclusion (« donc de formation ») en tire la conséquence.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co20.wav"
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "intention",
+   "document": "F: Pourquoi votre entreprise a-t-elle décidé de couper la messagerie professionnelle le soir et le week-end ? / H: Nos salariés recevaient des courriels à toute heure et se sentaient obligés de répondre. Plusieurs se sont retrouvés épuisés. Le droit à la déconnexion existe dans la loi, mais il faut l'organiser concrètement. Depuis, la satisfaction des équipes a nettement augmenté, et le travail est fait aussi bien.",
+   "prompt": "Que cherche à faire le dirigeant ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Reconnaître que le travail est moins bien fait.",
+     "correct": false,
+     "rationale": "Il dit qu'il est « fait aussi bien »."
+    },
+    {
+     "label": "B",
+     "text": "Annoncer de nouveaux horaires de travail.",
+     "correct": false,
+     "rationale": "Il parle de messagerie, pas d'horaires."
+    },
+    {
+     "label": "C",
+     "text": "Justifier une décision et montrer qu'elle donne de bons résultats.",
+     "correct": true,
+     "rationale": "Il explique la cause et présente le bilan positif."
+    },
+    {
+     "label": "D",
+     "text": "Critiquer la loi sur le droit à la déconnexion.",
+     "correct": false,
+     "rationale": "Il s'appuie sur cette loi."
+    }
+   ],
+   "explanation": "La réponse suit le schéma cause, principe, résultat. Le bilan final sert d'argument pour convaincre.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co21.wav"
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "information précise",
+   "document": "H: À partir du mois prochain, les habitants pourront signaler un problème dans la rue, comme un lampadaire en panne ou un dépôt sauvage, grâce à une application municipale. Il suffira de prendre une photo et de la géolocaliser. Les services de la ville s'engagent à répondre sous quarante-huit heures et à informer l'habitant lorsque le problème sera réglé.",
+   "prompt": "À quoi la ville s'engage-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À installer de nouveaux lampadaires.",
+     "correct": false,
+     "rationale": "Le lampadaire n'est qu'un exemple."
+    },
+    {
+     "label": "B",
+     "text": "À répondre en deux jours et à prévenir quand le problème est résolu.",
+     "correct": true,
+     "rationale": "« répondre sous quarante-huit heures et à informer l'habitant »."
+    },
+    {
+     "label": "C",
+     "text": "À verser une récompense aux habitants.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "À régler tous les problèmes en vingt-quatre heures.",
+     "correct": false,
+     "rationale": "Il s'agit d'une réponse sous quarante-huit heures."
+    }
+   ],
+   "explanation": "Le reportage décrit le fonctionnement, puis l'engagement de la ville. Ne confondez pas le délai de réponse et le délai de résolution.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co22.wav"
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "F: J'ai acheté un téléphone reconditionné. Il est comme neuf et m'a coûté deux fois moins cher. / H: Je n'ose pas. J'ai peur qu'il tombe en panne au bout de trois mois. / F: Il est garanti un an, comme un neuf ! Et franchement, fabriquer un téléphone neuf, c'est énormément de ressources. Je ne vois aucune raison de m'en priver.",
+   "prompt": "Quelle est l'opinion de la femme sur les téléphones reconditionnés ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils sont avantageux, économiquement et écologiquement.",
+     "correct": true,
+     "rationale": "Elle cite le prix, la garantie et les ressources économisées."
+    },
+    {
+     "label": "B",
+     "text": "Ils tombent souvent en panne.",
+     "correct": false,
+     "rationale": "C'est la crainte de l'homme."
+    },
+    {
+     "label": "C",
+     "text": "Ils sont plus chers que les neufs.",
+     "correct": false,
+     "rationale": "Il « m'a coûté deux fois moins cher »."
+    },
+    {
+     "label": "D",
+     "text": "Ils ne sont pas garantis.",
+     "correct": false,
+     "rationale": "« Il est garanti un an »."
+    }
+   ],
+   "explanation": "La femme répond à l'objection de l'homme par un fait (la garantie), puis ajoute un argument écologique. Sa conclusion confirme son opinion.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co23.wav"
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "inférence",
+   "document": "H: Chers clients, nous vous rappelons que notre magasin n'accepte plus les paiements par chèque. Les paiements en espèces restent possibles aux caisses traditionnelles. Les caisses automatiques, situées à l'entrée, acceptent uniquement les cartes bancaires et le paiement sans contact.",
+   "prompt": "Que peut-on comprendre de cette annonce ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les espèces sont refusées dans le magasin.",
+     "correct": false,
+     "rationale": "Elles « restent possibles aux caisses traditionnelles »."
+    },
+    {
+     "label": "B",
+     "text": "On peut payer par chèque aux caisses automatiques.",
+     "correct": false,
+     "rationale": "Les chèques ne sont plus acceptés."
+    },
+    {
+     "label": "C",
+     "text": "Le magasin supprime toutes ses caisses traditionnelles.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "D",
+     "text": "Un client qui veut payer en espèces doit passer par une caisse avec caissier.",
+     "correct": true,
+     "rationale": "Les caisses automatiques acceptent « uniquement les cartes bancaires »."
+    }
+   ],
+   "explanation": "L'annonce ne dit pas directement où payer en espèces, mais en combinant les deux dernières phrases, on comprend que les caisses automatiques ne conviennent pas à ce mode de paiement.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co24.wav"
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "entretien radio",
+   "skill": "compréhension globale",
+   "document": "F: Vous animez des ateliers de programmation pour les filles de dix à quinze ans. Pourquoi ? / H: Parce que les métiers du numérique restent très masculins, alors qu'ils offrent de nombreux débouchés. Beaucoup de filles pensent que ce n'est pas pour elles, simplement parce qu'elles n'ont pas de modèle. Dans nos ateliers, elles créent leur premier jeu en une journée, et elles rencontrent des ingénieures. Souvent, ça change leur regard.",
+   "prompt": "Quel est l'objectif principal de ces ateliers ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Encourager les filles à envisager les métiers du numérique.",
+     "correct": true,
+     "rationale": "Il veut lutter contre l'idée que « ce n'est pas pour elles »."
+    },
+    {
+     "label": "B",
+     "text": "Vendre des jeux vidéo créés par des enfants.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Prouver que les garçons sont meilleurs en programmation.",
+     "correct": false,
+     "rationale": "Il veut au contraire réduire l'inégalité."
+    },
+    {
+     "label": "D",
+     "text": "Former des ingénieures en une journée.",
+     "correct": false,
+     "rationale": "Les filles créent un premier jeu, pas une formation complète."
+    }
+   ],
+   "explanation": "L'homme explique un constat (métiers masculins), sa cause (absence de modèles) et la réponse apportée. L'objectif est de changer les représentations.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-07_co25.wav"
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "règlement intérieur",
+   "skill": "information précise",
+   "document": "Charte informatique de l'entreprise – Extraits. Article 1 : Les outils informatiques sont réservés à un usage professionnel ; un usage personnel ponctuel est toléré s'il ne nuit pas au travail. Article 3 : Il est interdit d'installer un logiciel sans l'accord du service informatique. Article 5 : Le mot de passe est strictement personnel et doit être modifié tous les trois mois. Article 6 : Toute perte d'ordinateur portable doit être signalée dans les vingt-quatre heures.",
+   "prompt": "Que dit la charte sur l'usage personnel des outils ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il est strictement interdit.",
+     "correct": false,
+     "rationale": "Il est « toléré »."
+    },
+    {
+     "label": "B",
+     "text": "Il est accepté occasionnellement s'il ne gêne pas le travail.",
+     "correct": true,
+     "rationale": "« un usage personnel ponctuel est toléré s'il ne nuit pas au travail »."
+    },
+    {
+     "label": "C",
+     "text": "Il nécessite l'accord du service informatique.",
+     "correct": false,
+     "rationale": "Cet accord concerne l'installation de logiciels."
+    },
+    {
+     "label": "D",
+     "text": "Il est autorisé sans aucune limite.",
+     "correct": false,
+     "rationale": "Il doit être « ponctuel »."
+    }
+   ],
+   "explanation": "Le verbe « tolérer » indique une permission limitée. La condition « s'il ne nuit pas au travail » complète la règle."
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "compréhension globale",
+   "document": "Les achats d'occasion sur internet explosent. Vêtements, meubles, téléphones : les plateformes de revente entre particuliers séduisent par leurs prix et par l'argument écologique. Mais certains observateurs s'interrogent. Pour beaucoup d'utilisateurs, revendre facilement devient une raison d'acheter davantage, sachant qu'ils pourront se débarrasser rapidement de leurs achats. L'occasion, censée réduire la consommation, pourrait parfois l'encourager.",
+   "prompt": "Quelle question l'article soulève-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La revente d'occasion pourrait paradoxalement stimuler la consommation.",
+     "correct": true,
+     "rationale": "« L'occasion… pourrait parfois l'encourager »."
+    },
+    {
+     "label": "B",
+     "text": "L'occasion est mauvaise pour l'environnement dans tous les cas.",
+     "correct": false,
+     "rationale": "L'article parle d'un effet possible, « parfois »."
+    },
+    {
+     "label": "C",
+     "text": "Les plateformes de revente sont trop chères.",
+     "correct": false,
+     "rationale": "Elles séduisent « par leurs prix »."
+    },
+    {
+     "label": "D",
+     "text": "Les particuliers ne revendent plus leurs objets.",
+     "correct": false,
+     "rationale": "Les achats d'occasion « explosent »."
+    }
+   ],
+   "explanation": "L'article présente un succès, puis introduit un doute (« mais certains observateurs s'interrogent »). Le conditionnel « pourrait » formule le paradoxe avec prudence."
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "courrier des lecteurs",
+   "skill": "opinion",
+   "document": "J'ai soixante-dix-huit ans et je voudrais réagir à votre article sur la dématérialisation des services publics. Je sais me servir d'un ordinateur, mais je ne comprends pas pourquoi il faut désormais trois identifiants et un code reçu par SMS pour consulter ma retraite. La sécurité, d'accord. Mais n'oublions pas ceux pour qui chaque étape est un obstacle. Un guichet ouvert, avec une vraie personne, devrait toujours rester possible.",
+   "prompt": "Que demande l'auteur de la lettre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'abandon des mesures de sécurité.",
+     "correct": false,
+     "rationale": "Il dit « la sécurité, d'accord »."
+    },
+    {
+     "label": "B",
+     "text": "Un cours d'informatique gratuit.",
+     "correct": false,
+     "rationale": "Il dit savoir se servir d'un ordinateur."
+    },
+    {
+     "label": "C",
+     "text": "La suppression de toutes les démarches en ligne.",
+     "correct": false,
+     "rationale": "Il demande une alternative, pas une suppression."
+    },
+    {
+     "label": "D",
+     "text": "Le maintien d'un accueil humain à côté des démarches en ligne.",
+     "correct": true,
+     "rationale": "« Un guichet ouvert, avec une vraie personne, devrait toujours rester possible »."
+    }
+   ],
+   "explanation": "L'auteur concède l'intérêt de la sécurité, puis exprime sa réserve avec « mais ». Sa demande finale est au conditionnel (« devrait »)."
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "offre d'emploi",
+   "skill": "information précise",
+   "document": "Association d'aide au numérique recrute un conseiller numérique (H/F) en contrat à durée déterminée de dix-huit mois. Missions : accompagner les habitants dans leurs démarches en ligne, animer des ateliers collectifs, intervenir dans les maisons de retraite. Profil : sens de la pédagogie, patience, permis B indispensable pour les déplacements dans les communes rurales. Une formation certifiante sera assurée à l'embauche.",
+   "prompt": "Quelle exigence est indispensable pour ce poste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Être déjà certifié en informatique.",
+     "correct": false,
+     "rationale": "La formation est assurée à l'embauche."
+    },
+    {
+     "label": "B",
+     "text": "Habiter dans une commune rurale.",
+     "correct": false,
+     "rationale": "Il faut s'y déplacer, pas y habiter."
+    },
+    {
+     "label": "C",
+     "text": "Avoir le permis de conduire.",
+     "correct": true,
+     "rationale": "« permis B indispensable pour les déplacements »."
+    },
+    {
+     "label": "D",
+     "text": "Avoir travaillé en maison de retraite.",
+     "correct": false,
+     "rationale": "Ce n'est pas exigé."
+    }
+   ],
+   "explanation": "L'adjectif « indispensable » signale l'exigence obligatoire. Les qualités humaines sont souhaitées, et la formation est fournie par l'employeur."
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "intention",
+   "document": "Les géants du numérique aiment se présenter comme des entreprises « gratuites ». Rien n'est plus trompeur. Si vous ne payez pas le service, c'est que vous êtes, d'une certaine façon, le produit : vos données, vos goûts, votre temps d'attention sont vendus aux annonceurs. Il est temps de l'enseigner dès le collège, au même titre que la lecture d'une facture ou d'un contrat.",
+   "prompt": "Quelle est l'intention de l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Faire la publicité d'un réseau social.",
+     "correct": false,
+     "rationale": "Il critique les géants du numérique."
+    },
+    {
+     "label": "B",
+     "text": "Dénoncer une fausse gratuité et appeler à éduquer les jeunes.",
+     "correct": true,
+     "rationale": "« Rien n'est plus trompeur… Il est temps de l'enseigner dès le collège »."
+    },
+    {
+     "label": "C",
+     "text": "Expliquer comment fonctionne une facture.",
+     "correct": false,
+     "rationale": "La facture est un exemple de comparaison."
+    },
+    {
+     "label": "D",
+     "text": "Demander la fermeture des entreprises du numérique.",
+     "correct": false,
+     "rationale": "Il demande une éducation, pas une fermeture."
+    }
+   ],
+   "explanation": "L'éditorial réfute une affirmation (« rien n'est plus trompeur »), l'explique, puis formule une proposition. L'intention est critique et argumentative."
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "courrier administratif",
+   "skill": "information précise",
+   "document": "Madame, Monsieur, votre demande de titre de séjour a été déposée en ligne le 3 mars. Votre dossier est en cours d'instruction. Vous pouvez suivre son avancement depuis votre espace personnel. Une attestation de dépôt, téléchargeable dans cet espace, vous permet de justifier de la régularité de votre séjour pendant l'instruction. Vous serez informé par courriel lorsque votre titre sera prêt à être retiré.",
+   "prompt": "À quoi sert l'attestation de dépôt ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À modifier le dossier.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "À prendre rendez-vous en préfecture.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "C",
+     "text": "À prouver que le séjour est régulier pendant l'examen du dossier.",
+     "correct": true,
+     "rationale": "Elle permet « de justifier de la régularité de votre séjour pendant l'instruction »."
+    },
+    {
+     "label": "D",
+     "text": "À retirer le titre de séjour.",
+     "correct": false,
+     "rationale": "Le retrait sera annoncé par courriel."
+    }
+   ],
+   "explanation": "Le courrier distingue trois éléments : le suivi en ligne, l'attestation et la notification finale. La question porte sur la fonction précise de l'attestation."
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "inférence",
+   "document": "Une étude a suivi des étudiants pendant un semestre. Ceux qui prenaient leurs notes à la main retenaient mieux le contenu des cours que ceux qui tapaient sur ordinateur, même s'ils écrivaient moins de mots. Les chercheurs expliquent qu'en écrivant à la main, on est obligé de reformuler et de sélectionner l'essentiel, alors qu'au clavier, on a tendance à tout recopier mot à mot.",
+   "prompt": "Que peut-on déduire de cette étude ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Écrire à la main est plus rapide.",
+     "correct": false,
+     "rationale": "Ils écrivaient moins de mots."
+    },
+    {
+     "label": "B",
+     "text": "Recopier mot à mot aide à retenir.",
+     "correct": false,
+     "rationale": "C'est la méthode la moins efficace."
+    },
+    {
+     "label": "C",
+     "text": "Les ordinateurs devraient être interdits à l'université.",
+     "correct": false,
+     "rationale": "L'article ne fait pas cette recommandation."
+    },
+    {
+     "label": "D",
+     "text": "Noter plus de mots ne garantit pas une meilleure compréhension.",
+     "correct": true,
+     "rationale": "Ceux qui écrivaient moins retenaient mieux."
+    }
+   ],
+   "explanation": "L'article ne formule pas la conclusion générale, mais le résultat (moins de mots, meilleure mémorisation) permet de la déduire."
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "notice",
+   "skill": "information précise",
+   "document": "Mise en route de votre montre connectée. Avant la première utilisation, chargez complètement la montre pendant deux heures. Téléchargez ensuite l'application et activez le Bluetooth de votre téléphone. La montre résiste aux éclaboussures, mais ne doit pas être utilisée pour la natation ou sous la douche. La garantie ne couvre pas les dommages causés par l'eau.",
+   "prompt": "Que précise la notice au sujet de l'eau ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les dégâts liés à l'eau ne sont pas couverts par la garantie.",
+     "correct": true,
+     "rationale": "« La garantie ne couvre pas les dommages causés par l'eau »."
+    },
+    {
+     "label": "B",
+     "text": "La garantie couvre tous les dommages.",
+     "correct": false,
+     "rationale": "Les dommages causés par l'eau sont exclus."
+    },
+    {
+     "label": "C",
+     "text": "La montre ne supporte aucune goutte d'eau.",
+     "correct": false,
+     "rationale": "Elle « résiste aux éclaboussures »."
+    },
+    {
+     "label": "D",
+     "text": "La montre peut être utilisée pour nager.",
+     "correct": false,
+     "rationale": "Elle « ne doit pas être utilisée pour la natation »."
+    }
+   ],
+   "explanation": "La notice nuance la résistance à l'eau (« résiste… mais ne doit pas »). Le distracteur « aucune goutte » est trop absolu."
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "opinion",
+   "document": "Certains réclament l'interdiction des réseaux sociaux aux moins de quinze ans. L'intention est louable, mais la mesure est-elle applicable ? Les adolescents savent contourner les contrôles d'âge en quelques clics. Plutôt que de croire à une interdiction, imposons aux plateformes des obligations réelles : supprimer les fonctions qui rendent dépendant, comme le défilement infini, et limiter la publicité ciblée pour les mineurs.",
+   "prompt": "Quelle est la position de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il soutient pleinement l'interdiction aux moins de quinze ans.",
+     "correct": false,
+     "rationale": "Il doute qu'elle soit applicable."
+    },
+    {
+     "label": "B",
+     "text": "Il veut supprimer toute publicité sur internet.",
+     "correct": false,
+     "rationale": "Il parle de publicité ciblée pour les mineurs."
+    },
+    {
+     "label": "C",
+     "text": "Il pense que les réseaux sociaux sont sans danger.",
+     "correct": false,
+     "rationale": "Il évoque des fonctions qui rendent dépendant."
+    },
+    {
+     "label": "D",
+     "text": "Il préfère contraindre les plateformes plutôt que de compter sur une interdiction.",
+     "correct": true,
+     "rationale": "« imposons aux plateformes des obligations réelles »."
+    }
+   ],
+   "explanation": "L'auteur reconnaît une bonne intention, la met en doute par une question, puis présente sa propre solution avec « plutôt que »."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "Les assistants vocaux se sont installés dans des millions de foyers. On leur demande la météo, une recette ou de la musique. Pourtant, leur usage reste limité : la plupart des utilisateurs n'exploitent qu'une poignée de fonctions. Les fabricants espéraient en faire des outils d'achat ; ils sont surtout devenus des radios améliorées. Certains constructeurs revoient d'ailleurs leurs ambitions à la baisse.",
+   "prompt": "Que dit l'article sur les assistants vocaux ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils sont répandus mais utilisés de façon beaucoup plus limitée que prévu.",
+     "correct": true,
+     "rationale": "Ils sont « surtout devenus des radios améliorées »."
+    },
+    {
+     "label": "B",
+     "text": "Ils ont disparu des foyers.",
+     "correct": false,
+     "rationale": "Ils se sont installés dans des millions de foyers."
+    },
+    {
+     "label": "C",
+     "text": "Ils sont devenus les principaux outils d'achat.",
+     "correct": false,
+     "rationale": "C'était l'espoir des fabricants, non réalisé."
+    },
+    {
+     "label": "D",
+     "text": "Les utilisateurs exploitent toutes leurs fonctions.",
+     "correct": false,
+     "rationale": "Ils n'en utilisent qu'« une poignée »."
+    }
+   ],
+   "explanation": "« Pourtant » oppose la large diffusion et l'usage limité. La comparaison avec une « radio améliorée » illustre l'écart entre ambitions et réalité."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "intention",
+   "document": "Bonjour à tous, je vous informe que la migration vers notre nouveau logiciel de gestion aura lieu ce week-end. Lundi matin, vos anciens identifiants ne fonctionneront plus : vous recevrez vos nouveaux codes par courriel vendredi soir. Une formation d'une heure est prévue lundi à neuf heures en salle de réunion. Je compte sur la présence de chacun, car aucune autre session n'est prévue. Bonne fin de semaine, Nadia, service informatique",
+   "prompt": "Pourquoi Nadia écrit-elle ce courriel ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour annoncer une panne informatique.",
+     "correct": false,
+     "rationale": "Il s'agit d'un changement planifié."
+    },
+    {
+     "label": "B",
+     "text": "Pour informer d'un changement et organiser la formation de tous.",
+     "correct": true,
+     "rationale": "Elle annonce la migration, l'envoi des codes et une formation obligatoire."
+    },
+    {
+     "label": "C",
+     "text": "Pour annuler une réunion du lundi.",
+     "correct": false,
+     "rationale": "Elle en organise une."
+    },
+    {
+     "label": "D",
+     "text": "Pour demander des idées de nouveau logiciel.",
+     "correct": false,
+     "rationale": "Le logiciel est déjà choisi."
+    }
+   ],
+   "explanation": "Le courriel donne des informations pratiques (dates, codes) et une consigne implicite (« je compte sur la présence de chacun »)."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "Le règlement général sur la protection des données, appliqué dans l'Union européenne depuis 2018, donne aux citoyens plusieurs droits. Chacun peut demander à une entreprise quelles données elle possède sur lui, les faire corriger si elles sont inexactes et, dans certains cas, les faire supprimer. En France, la Commission nationale de l'informatique et des libertés peut être saisie en cas de difficulté.",
+   "prompt": "Que peut faire un citoyen si une entreprise ne respecte pas ses droits ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Porter plainte auprès de l'Union européenne uniquement.",
+     "correct": false,
+     "rationale": "L'article cite un organisme français."
+    },
+    {
+     "label": "B",
+     "text": "Obtenir automatiquement un dédommagement.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "S'adresser à la Commission nationale de l'informatique et des libertés.",
+     "correct": true,
+     "rationale": "Elle « peut être saisie en cas de difficulté »."
+    },
+    {
+     "label": "D",
+     "text": "Supprimer lui-même les données de l'entreprise.",
+     "correct": false,
+     "rationale": "Il peut seulement le demander."
+    }
+   ],
+   "explanation": "L'article énumère des droits, puis indique un recours. La dernière phrase répond directement à la question."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "inférence",
+   "document": "À chaque nouvelle technologie, les mêmes inquiétudes reviennent. Au XIXe siècle, on craignait que le train ne rende les voyageurs malades. Plus tard, la télévision devait détruire la lecture, puis les jeux vidéo rendre les enfants violents. Certaines craintes étaient exagérées, d'autres partiellement fondées. Cela ne signifie pas qu'il faille tout accepter, mais qu'il faut examiner chaque innovation avec des faits, et non avec des peurs.",
+   "prompt": "Que suggère l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faut juger les nouvelles technologies de façon rationnelle.",
+     "correct": true,
+     "rationale": "« examiner chaque innovation avec des faits, et non avec des peurs »."
+    },
+    {
+     "label": "B",
+     "text": "Il faut accepter toutes les innovations.",
+     "correct": false,
+     "rationale": "« Cela ne signifie pas qu'il faille tout accepter »."
+    },
+    {
+     "label": "C",
+     "text": "Toutes les craintes passées étaient fondées.",
+     "correct": false,
+     "rationale": "Certaines « étaient exagérées »."
+    },
+    {
+     "label": "D",
+     "text": "Le train rendait réellement les voyageurs malades.",
+     "correct": false,
+     "rationale": "C'est une crainte citée comme exemple."
+    }
+   ],
+   "explanation": "L'auteur utilise des exemples historiques pour relativiser les peurs, puis nuance sa conclusion. La dernière phrase donne la clé."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "Vente de matériel informatique reconditionné – Lycée professionnel Jean-Jaurès. Les élèves de la filière systèmes numériques ont remis en état une cinquantaine d'ordinateurs portables. Ils seront vendus à prix réduit le samedi 18, de 9 h à 13 h, en priorité aux familles bénéficiaires de bourses, sur présentation d'un justificatif. Les appareils restants seront ensuite proposés à tous. Paiement par chèque ou en espèces uniquement.",
+   "prompt": "Qui peut acheter un ordinateur en premier ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les clients qui paient par carte.",
+     "correct": false,
+     "rationale": "La carte n'est pas acceptée."
+    },
+    {
+     "label": "B",
+     "text": "Toutes les personnes présentes dès 9 h.",
+     "correct": false,
+     "rationale": "La priorité est réservée à un public précis."
+    },
+    {
+     "label": "C",
+     "text": "Les familles qui touchent une bourse et qui le prouvent.",
+     "correct": true,
+     "rationale": "« en priorité aux familles bénéficiaires de bourses, sur présentation d'un justificatif »."
+    },
+    {
+     "label": "D",
+     "text": "Les élèves de la filière systèmes numériques.",
+     "correct": false,
+     "rationale": "Ce sont eux qui ont réparé les ordinateurs."
+    }
+   ],
+   "explanation": "L'annonce distingue un public prioritaire et le public général (« ensuite proposés à tous »). La condition du justificatif est importante."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "article d'opinion",
+   "skill": "opinion",
+   "document": "On nous répète que le numérique est immatériel. C'est une illusion. Chaque vidéo regardée, chaque fichier stocké passe par des câbles, des serveurs et des centres de données qui consomment de l'électricité et de l'eau. Le premier geste écologique n'est pas de trier ses courriels, mais de garder ses appareils plus longtemps, car leur fabrication représente l'essentiel de leur impact.",
+   "prompt": "Selon l'auteur, quel est le geste le plus efficace ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Acheter des appareils neufs moins gourmands.",
+     "correct": false,
+     "rationale": "Il souligne au contraire l'impact de la fabrication."
+    },
+    {
+     "label": "B",
+     "text": "Conserver ses appareils le plus longtemps possible.",
+     "correct": true,
+     "rationale": "« Le premier geste écologique… est de garder ses appareils plus longtemps »."
+    },
+    {
+     "label": "C",
+     "text": "Regarder moins de vidéos.",
+     "correct": false,
+     "rationale": "Ce n'est pas sa recommandation principale."
+    },
+    {
+     "label": "D",
+     "text": "Supprimer régulièrement ses courriels.",
+     "correct": false,
+     "rationale": "Il dit que ce n'est pas le premier geste."
+    }
+   ],
+   "explanation": "La structure « non pas…, mais… » oppose un geste secondaire et le geste prioritaire. La justification finale (« car leur fabrication… ») soutient l'opinion."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "rapport",
+   "skill": "compréhension globale",
+   "document": "Selon un rapport sur les usages numériques, la part des personnes de plus de soixante-quinze ans qui utilisent internet a fortement progressé en dix ans. Cependant, près d'un tiers d'entre elles déclarent renoncer à certaines démarches en ligne par crainte de se tromper. Le rapport recommande de maintenir des alternatives non numériques et de développer l'accompagnement de proximité.",
+   "prompt": "Quelle est la conclusion principale du rapport ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les personnes âgées font moins d'erreurs que les jeunes.",
+     "correct": false,
+     "rationale": "Ce n'est pas comparé."
+    },
+    {
+     "label": "B",
+     "text": "Toutes les démarches doivent passer par internet.",
+     "correct": false,
+     "rationale": "Il recommande des alternatives non numériques."
+    },
+    {
+     "label": "C",
+     "text": "Les personnes âgées n'utilisent pas internet.",
+     "correct": false,
+     "rationale": "Leur usage « a fortement progressé »."
+    },
+    {
+     "label": "D",
+     "text": "Malgré des progrès, beaucoup de personnes âgées restent en difficulté et doivent être accompagnées.",
+     "correct": true,
+     "rationale": "Le rapport note des renoncements et recommande un accompagnement."
+    }
+   ],
+   "explanation": "Le rapport présente un progrès, une limite introduite par « cependant » et des recommandations. La conclusion réunit ces éléments."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "lettre de réclamation",
+   "skill": "intention",
+   "document": "Madame, Monsieur, j'ai commandé sur votre site un ordinateur portable livré le 2 mai. Dès le premier jour, l'écran s'est mis à clignoter. J'ai contacté votre service client à trois reprises sans obtenir de réponse. L'appareil étant sous garantie légale de conformité, je vous demande de procéder à son remplacement ou à son remboursement dans un délai de quinze jours. À défaut, je saisirai le médiateur de la consommation.",
+   "prompt": "Quel est le but de cette lettre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Exiger une solution en rappelant ses droits et en annonçant un recours possible.",
+     "correct": true,
+     "rationale": "Il cite la garantie légale et menace de saisir le médiateur."
+    },
+    {
+     "label": "B",
+     "text": "Demander des conseils d'utilisation.",
+     "correct": false,
+     "rationale": "L'appareil est défectueux."
+    },
+    {
+     "label": "C",
+     "text": "Remercier le service client pour sa réactivité.",
+     "correct": false,
+     "rationale": "Il n'a obtenu aucune réponse."
+    },
+    {
+     "label": "D",
+     "text": "Commander un nouvel ordinateur.",
+     "correct": false,
+     "rationale": "Il demande un remplacement au titre de la garantie."
+    }
+   ],
+   "explanation": "La lettre expose les faits, rappelle un droit, formule une demande avec un délai et annonce une conséquence (« à défaut »). C'est la structure classique d'une réclamation formelle."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "Affiché sur certains appareils électroniques, l'indice de réparabilité permet aux consommateurs de savoir, avant l'achat, si un produit sera facile à réparer. Noté sur dix, il tient compte de la facilité de démontage, de la disponibilité des pièces détachées et de leur prix. Présent en magasin et sur les sites marchands, il vise à encourager les fabricants à concevoir des produits plus durables.",
+   "prompt": "Quel critère entre dans le calcul de l'indice ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La couleur de l'appareil.",
+     "correct": false,
+     "rationale": "Ce n'est pas un critère."
+    },
+    {
+     "label": "B",
+     "text": "La durée de livraison.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "C",
+     "text": "La disponibilité des pièces détachées.",
+     "correct": true,
+     "rationale": "C'est l'un des critères cités."
+    },
+    {
+     "label": "D",
+     "text": "Le nombre de ventes du produit.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "L'article énumère trois critères. Repérez l'énumération introduite par « il tient compte de »."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "inférence",
+   "document": "Ma grand-mère m'a appelé en visioconférence pour la première fois hier. Pendant dix minutes, je n'ai vu que son plafond, puis son oreille. Quand elle a enfin trouvé le bon angle, elle m'a montré fièrement le gâteau qu'elle venait de faire. Elle a quatre-vingt-cinq ans et a appris toute seule, avec une vidéo. Je me suis promis de ne plus jamais dire que je n'avais pas le temps d'apprendre quelque chose.",
+   "prompt": "Que comprend-on à la fin de cette chronique ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La grand-mère préfère le téléphone classique.",
+     "correct": false,
+     "rationale": "Elle a choisi la visioconférence."
+    },
+    {
+     "label": "B",
+     "text": "L'auteur trouve sa grand-mère incapable d'utiliser la technologie.",
+     "correct": false,
+     "rationale": "Elle a appris seule et réussi."
+    },
+    {
+     "label": "C",
+     "text": "L'auteur va apprendre à faire des gâteaux.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "D",
+     "text": "L'exemple de sa grand-mère a fait réfléchir l'auteur sur sa propre attitude.",
+     "correct": true,
+     "rationale": "Il se promet « de ne plus jamais dire » qu'il n'a pas le temps."
+    }
+   ],
+   "explanation": "Le récit est humoristique au début, puis la dernière phrase tire une leçon personnelle. Il faut comprendre le lien entre l'effort de la grand-mère et la résolution de l'auteur."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "guide pratique",
+   "skill": "information précise",
+   "document": "Bien choisir son mot de passe. Utilisez au moins douze caractères, en mélangeant majuscules, minuscules, chiffres et symboles. Évitez les informations personnelles, comme une date de naissance ou le nom d'un animal. N'utilisez jamais le même mot de passe pour plusieurs sites : si l'un d'eux est piraté, tous vos comptes seraient exposés. Un gestionnaire de mots de passe peut vous aider à les retenir.",
+   "prompt": "Pourquoi ne faut-il pas utiliser le même mot de passe partout ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce qu'on risque de l'oublier.",
+     "correct": false,
+     "rationale": "L'oubli concerne le gestionnaire de mots de passe."
+    },
+    {
+     "label": "B",
+     "text": "Parce qu'un seul piratage mettrait en danger tous les comptes.",
+     "correct": true,
+     "rationale": "« si l'un d'eux est piraté, tous vos comptes seraient exposés »."
+    },
+    {
+     "label": "C",
+     "text": "Parce qu'il serait trop court.",
+     "correct": false,
+     "rationale": "La longueur est une autre règle."
+    },
+    {
+     "label": "D",
+     "text": "Parce que les sites l'interdisent.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "La justification suit les deux-points. Le conditionnel « seraient exposés » présente la conséquence d'une situation hypothétique."
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "opinion",
+   "document": "L'intelligence artificielle sait désormais rédiger des lettres, résumer des rapports et produire des images en quelques secondes. Faut-il s'en réjouir ou s'en inquiéter ? Les deux. Ces outils peuvent libérer du temps pour des tâches plus intéressantes. Mais ils peuvent aussi produire des erreurs avec assurance. La règle devrait être simple : utiliser la machine comme un assistant, jamais comme une autorité, et toujours vérifier.",
+   "prompt": "Quelle est la position de l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'intelligence artificielle est utile à condition d'en vérifier les résultats.",
+     "correct": true,
+     "rationale": "« utiliser la machine comme un assistant, jamais comme une autorité, et toujours vérifier »."
+    },
+    {
+     "label": "B",
+     "text": "L'intelligence artificielle remplacera bientôt les journalistes.",
+     "correct": false,
+     "rationale": "Ce n'est pas évoqué."
+    },
+    {
+     "label": "C",
+     "text": "L'intelligence artificielle ne se trompe jamais.",
+     "correct": false,
+     "rationale": "Elle peut « produire des erreurs avec assurance »."
+    },
+    {
+     "label": "D",
+     "text": "L'intelligence artificielle doit être interdite.",
+     "correct": false,
+     "rationale": "Il lui reconnaît des avantages."
+    }
+   ],
+   "explanation": "L'éditorialiste répond « les deux » à sa propre question, puis présente avantages et risques. Sa règle finale exprime sa position nuancée."
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "Dans plusieurs villes, des « cafés sans écran » ont ouvert leurs portes. À l'entrée, les clients déposent leur téléphone dans une boîte. En échange, ils trouvent des jeux de société, des livres et surtout des conversations. Les gérants expliquent que leur clientèle est majoritairement jeune : beaucoup viennent chercher une pause dans une vie où ils se sentent connectés en permanence.",
+   "prompt": "De quoi parle l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De cafés réservés aux personnes âgées.",
+     "correct": false,
+     "rationale": "La clientèle est « majoritairement jeune »."
+    },
+    {
+     "label": "B",
+     "text": "De la vente de jeux de société en ligne.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    },
+    {
+     "label": "C",
+     "text": "De lieux où l'on renonce au téléphone pour retrouver des échanges directs.",
+     "correct": true,
+     "rationale": "Les clients déposent leur téléphone et trouvent « des conversations »."
+    },
+    {
+     "label": "D",
+     "text": "De l'interdiction des téléphones dans les lieux publics.",
+     "correct": false,
+     "rationale": "Il s'agit d'un choix volontaire."
+    }
+   ],
+   "explanation": "L'article décrit un concept, son fonctionnement et ses clients. La dernière phrase explique le besoin auquel il répond."
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "règlement",
+   "skill": "inférence",
+   "document": "Conditions d'utilisation du service de vélos en libre-service. L'abonnement donne droit à des trajets illimités de trente minutes. Au-delà, chaque demi-heure supplémentaire est facturée un euro. Le vélo doit être restitué dans une station ; un vélo laissé hors station entraîne une pénalité de vingt euros. L'utilisateur doit signaler tout problème technique dans l'application avant de reprendre un autre vélo.",
+   "prompt": "Que peut-on déduire de ce règlement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "On peut laisser le vélo devant chez soi.",
+     "correct": false,
+     "rationale": "Cela entraîne une pénalité de vingt euros."
+    },
+    {
+     "label": "B",
+     "text": "Un trajet d'une heure coûte un euro de plus à un abonné.",
+     "correct": true,
+     "rationale": "Les trente premières minutes sont incluses, la demi-heure suivante coûte un euro."
+    },
+    {
+     "label": "C",
+     "text": "Il est interdit de prendre un autre vélo en cas de panne.",
+     "correct": false,
+     "rationale": "Il faut seulement signaler le problème d'abord."
+    },
+    {
+     "label": "D",
+     "text": "Un abonné peut garder un vélo une journée sans frais.",
+     "correct": false,
+     "rationale": "Chaque demi-heure au-delà de trente minutes est facturée."
+    }
+   ],
+   "explanation": "Le règlement ne donne pas le prix d'un trajet d'une heure, mais on peut le calculer à partir des règles. C'est une inférence par calcul."
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "intention",
+   "document": "Je suis développeuse depuis quinze ans, et je lance un appel aux entreprises : rendez vos sites accessibles. Des millions de personnes malvoyantes, malentendantes ou ayant des difficultés motrices ne peuvent pas acheter un billet de train ou remplir un formulaire en ligne. Les solutions existent et coûtent peu si on les prévoit dès la conception. L'accessibilité n'est pas une option : c'est une question d'égalité.",
+   "prompt": "Que cherche à faire l'auteure ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Vendre un logiciel d'accessibilité.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "Critiquer les personnes handicapées.",
+     "correct": false,
+     "rationale": "Elle défend leurs droits."
+    },
+    {
+     "label": "C",
+     "text": "Présenter son parcours professionnel.",
+     "correct": false,
+     "rationale": "Elle le mentionne seulement pour se légitimer."
+    },
+    {
+     "label": "D",
+     "text": "Inciter les entreprises à concevoir des sites utilisables par tous.",
+     "correct": true,
+     "rationale": "« je lance un appel aux entreprises : rendez vos sites accessibles »."
+    }
+   ],
+   "explanation": "L'appel est explicite (« je lance un appel »). L'argument du coût et la formule finale sur l'égalité visent à convaincre."
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "compréhension globale",
+   "document": "Nous n'avons jamais eu autant d'informations à portée de main. Pourtant, avoir accès à un savoir ne signifie pas le posséder. Une recherche rapide donne une réponse, mais pas la capacité de la juger, de la relier à d'autres connaissances ou de s'en souvenir. L'école ne doit donc pas renoncer à transmettre des connaissances solides : ce sont elles qui permettent de trier l'information.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les connaissances restent indispensables pour juger l'information disponible.",
+     "correct": true,
+     "rationale": "« ce sont elles qui permettent de trier l'information »."
+    },
+    {
+     "label": "B",
+     "text": "Il faut limiter l'accès à l'information.",
+     "correct": false,
+     "rationale": "Il ne propose aucune limite."
+    },
+    {
+     "label": "C",
+     "text": "Les recherches en ligne donnent toujours de mauvaises réponses.",
+     "correct": false,
+     "rationale": "Il parle de la capacité à juger, pas de la qualité des réponses."
+    },
+    {
+     "label": "D",
+     "text": "Internet rend l'école inutile.",
+     "correct": false,
+     "rationale": "Il défend au contraire le rôle de l'école."
+    }
+   ],
+   "explanation": "L'essai oppose « avoir accès » et « posséder ». La conclusion introduite par « donc » formule la thèse sur le rôle de l'école."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "task_type": "répondre à un message",
+   "instructions": "Votre ami Paul vous écrit : « Je voudrais acheter un ordinateur portable pour mes études, mais je n'ai pas beaucoup d'argent. Tu as des conseils ? » Répondez-lui en donnant deux conseils (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Salut Paul, bonne idée de t'équiper ! D'abord, pense aux ordinateurs reconditionnés : ils sont garantis et coûtent beaucoup moins cher. Ensuite, demande à ton université si elle propose des prêts ou des aides pour les étudiants. Surtout, choisis un modèle léger, puisque tu le porteras tous les jours. Tiens-moi au courant ! Amitiés, Inès",
+   "tips": "Justifiez chaque conseil en une courte proposition : cela montre votre maîtrise des connecteurs.",
+   "expected_points": [
+    "réagir au message",
+    "donner un premier conseil",
+    "donner un second conseil",
+    "formule finale"
+   ],
+   "model_commentary": "Le message est amical et bien organisé (« d'abord », « ensuite », « surtout »). Les conseils sont réalistes et justifiés, avec une subordonnée de cause (« puisque »)."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "task_type": "raconter une expérience",
+   "instructions": "Racontez sur un forum une mésaventure ou une réussite que vous avez vécue avec la technologie (une arnaque évitée, une panne, une découverte utile…) et ce que vous en avez retenu (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "L'hiver dernier, j'ai reçu un SMS qui semblait venir de mon opérateur : ma facture n'avait pas été payée et je devais régler immédiatement en cliquant sur un lien. J'étais sur le point de le faire quand j'ai remarqué une faute d'orthographe dans le message. J'ai appelé mon opérateur, qui m'a confirmé qu'il s'agissait d'une arnaque. Depuis, je ne clique plus jamais sur un lien reçu par SMS, et j'ai expliqué cette méthode à mes parents.",
+   "tips": "Utilisez « être sur le point de » ou « au moment où » pour créer un moment décisif dans votre récit.",
+   "expected_points": [
+    "situer l'expérience",
+    "raconter les faits",
+    "décrire le moment décisif",
+    "tirer une leçon"
+   ],
+   "model_commentary": "Le récit est clair et chronologique, avec un moment de tension (« j'étais sur le point de ») et une leçon concrète. Les temps du passé sont bien maîtrisés."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "donner son opinion à partir de deux documents",
+   "instructions": "Document 1 : « Le télétravail améliore la qualité de vie : moins de transports, plus de temps pour sa famille. » Document 2 : « Le télétravail isole les salariés et brouille la frontière entre vie professionnelle et vie privée. » Présentez ces deux opinions, puis donnez votre avis argumenté (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Le premier document présente le télétravail comme un gain de temps et de qualité de vie, alors que le second insiste sur l'isolement et la confusion entre travail et vie privée. Selon moi, ces deux points de vue se complètent. Travailler chez soi deux jours par semaine permet d'éviter la fatigue des trajets, tout en conservant des liens avec ses collègues. Il faudrait néanmoins fixer des horaires précis, afin que chacun puisse vraiment se déconnecter le soir.",
+   "tips": "Une position de compromis doit être précise : chiffrez-la ou décrivez concrètement les conditions.",
+   "expected_points": [
+    "résumer le document 1",
+    "résumer le document 2",
+    "prendre position",
+    "justifier",
+    "proposer une condition"
+   ],
+   "model_commentary": "Le candidat reformule fidèlement les deux opinions, adopte une position équilibrée et propose une condition concrète. Les connecteurs (« alors que », « tout en », « néanmoins », « afin que ») sont variés."
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous interroge sur votre utilisation des technologies : les appareils que vous utilisez, ce qu'ils vous apportent, les difficultés que vous rencontrez et votre opinion sur leur place dans la vie quotidienne.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Pouvez-vous vous présenter ?",
+    "Quels outils numériques utilisez-vous au quotidien ?",
+    "Le numérique vous aide-t-il dans votre travail ?",
+    "Avez-vous déjà eu une mauvaise expérience en ligne ?",
+    "Pensez-vous passer trop de temps sur les écrans ?"
+   ],
+   "useful_phrases": [
+    "J'utilise surtout…",
+    "Grâce à…, je peux…",
+    "Je fais attention à…"
+   ],
+   "model_answer": "Je m'appelle Ana, j'ai trente-cinq ans et je suis comptable. J'utilise surtout mon ordinateur au travail et mon téléphone pour rester en contact avec ma famille au Brésil. Grâce aux appels vidéo, je peux voir mes neveux grandir, même à distance. En revanche, je fais attention au temps que je passe sur les réseaux sociaux : le soir, je laisse mon téléphone dans une autre pièce. Une fois, j'ai failli payer une fausse facture, et depuis, je vérifie tout.",
+   "model_commentary": "La candidate donne des exemples personnels, nuance son propos (« en revanche ») et raconte brièvement une expérience. Le discours est structuré et naturel.",
+   "tips": "Montrez à la fois les avantages et les limites des technologies dans votre vie : c'est ce qui rend votre réponse nuancée."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Résoudre un problème avec son fournisseur internet",
+   "examiner_role": "Conseiller clientèle",
+   "scenario": "Votre connexion internet est coupée depuis une semaine, alors que vous travaillez à domicile. Vous appelez le service client de votre fournisseur (l'examinateur) pour obtenir une solution rapide et un geste commercial.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Avez-vous redémarré votre box ?",
+    "Un technicien peut passer dans dix jours.",
+    "Nous ne pouvons pas vous rembourser.",
+    "Que souhaitez-vous exactement ?"
+   ],
+   "useful_phrases": [
+    "Je vous appelle parce que…",
+    "Il m'est impossible de…",
+    "Je souhaiterais que…"
+   ],
+   "model_answer": "Bonjour, je vous appelle parce que ma connexion est coupée depuis une semaine. Oui, j'ai redémarré ma box plusieurs fois, sans résultat. Le problème, c'est que je travaille à domicile : il m'est impossible d'attendre dix jours. Ne pourriez-vous pas envoyer un technicien plus tôt ? En attendant, je souhaiterais que vous me prêtiez une clé 4G. Je paie un abonnement pour un service que je n'ai pas reçu, donc je demande au moins une réduction sur ma prochaine facture.",
+   "model_commentary": "Le candidat explique clairement la situation, répond aux questions, exprime une contrainte et formule des demandes précises et argumentées. Il reste poli tout en étant ferme.",
+   "tips": "Proposez vous-même des solutions (technicien plus tôt, clé 4G, réduction) : vous gardez ainsi le contrôle de la négociation."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il limiter le temps d'écran des enfants ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Les enfants passent de plus en plus de temps devant les écrans : télévision, tablettes, jeux vidéo. Selon vous, les parents doivent-ils strictement limiter ce temps ? Donnez votre opinion et défendez-la.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Les écrans permettent aussi d'apprendre.",
+    "Tous leurs amis ont une tablette.",
+    "Les parents eux-mêmes sont souvent sur leur téléphone.",
+    "Quelles règles proposez-vous ?"
+   ],
+   "useful_phrases": [
+    "Je pense qu'il est nécessaire de…",
+    "Il ne s'agit pas de…, mais de…",
+    "L'exemple des parents…"
+   ],
+   "model_answer": "Je pense qu'il est nécessaire de limiter le temps d'écran des enfants, surtout avant six ans. Il ne s'agit pas d'interdire, mais de choisir : un documentaire regardé ensemble n'a rien à voir avec des heures de vidéos seul dans sa chambre. Je proposerais des règles simples, comme pas d'écran pendant les repas ni avant de dormir. Cela dit, l'exemple des parents compte beaucoup. Si nous sommes sans cesse sur notre téléphone, comment demander aux enfants de faire autrement ?",
+   "model_commentary": "Le candidat défend une position claire mais nuancée, distingue les usages, propose des règles concrètes et répond à l'objection sur l'exemple des parents avec une question rhétorique.",
+   "tips": "Distinguez les situations (âge, type d'usage) : cela montre que votre opinion est réfléchie et non caricaturale."
+  }
+ ],
+ "series": "B2"
+}

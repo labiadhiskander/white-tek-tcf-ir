@@ -24,7 +24,9 @@ DEFAULTS: dict[str, Any] = {
     "ai_model": "claude-opus-5-5",
     "ai_effort": "medium",             # low | medium | high
     "ai_consent": False,               # avertissement de confidentialité accepté
-    "tts_engine": "systeme",           # voix SAPI Windows / pyttsx3
+    "local_ai_url": "http://localhost:11434/v1",   # IA locale : Ollama (LM Studio : port 1234)
+    "local_ai_model": "",              # vide = premier modèle installé
+    "tts_engine": "auto",              # auto (Piper si installé) | piper | systeme (SAPI)
     "tts_rate": 170,
     "stt_engine": "local",             # moteur de reconnaissance vocale
     "stt_model_path": "",              # dossier d'un modèle Vosk personnalisé

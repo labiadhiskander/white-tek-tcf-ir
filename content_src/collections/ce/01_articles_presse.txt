@@ -1,0 +1,205 @@
+@slug ce-articles-presse
+@section CE
+@title Articles de presse
+@order 1
+@description Articles d'information et reportages écrits : distinguer les faits, les sources citées et l'angle choisi par le journaliste.
+
+## CE-ART-01 | article de presse
+TITRE: Les bibliothèques ouvrent le dimanche
+DOC: Depuis le mois de septembre, une trentaine de bibliothèques municipales de la région accueillent le public le dimanche après-midi. L'expérience, financée en partie par l'État, devait durer six mois ; elle sera finalement prolongée d'un an. Selon les chiffres communiqués par la mairie, la fréquentation dominicale dépasse de 40 % celle d'un mardi ordinaire. ¶ Le profil des visiteurs a surpris les responsables. On attendait surtout des étudiants en période d'examens ; ce sont en réalité les familles qui ont répondu présent. « Beaucoup de parents travaillent en semaine et n'avaient jamais le temps d'accompagner leurs enfants », explique la directrice d'un établissement. ¶ Tout le monde ne partage pas cet enthousiasme. Les syndicats du personnel rappellent que l'ouverture repose sur des agents volontaires, mieux payés le dimanche, mais dont le nombre reste limité. Ils craignent qu'à terme, le volontariat ne devienne une obligation déguisée. La mairie assure qu'aucun agent ne sera contraint de travailler le week-end.
+Q: Quel résultat de l'expérience l'article met-il en avant ? | compréhension globale
++ Une fréquentation du dimanche nettement supérieure à celle d'un jour de semaine. | « La fréquentation dominicale dépasse de 40 % celle d'un mardi ordinaire. »
+- Une baisse du nombre d'étudiants inscrits. | Rien n'indique une baisse des inscriptions.
+- La fermeture des bibliothèques le mardi. | Le mardi sert seulement de point de comparaison.
+- L'arrêt de l'expérience au bout de six mois. | Elle est au contraire « prolongée d'un an ».
+EXP: Le premier paragraphe d'un article d'information présente les faits essentiels : la prolongation et le chiffre de fréquentation qui la justifie.
+Q: Qu'est-ce qui a surpris les responsables ? | compréhension détaillée
++ La forte présence des familles plutôt que des étudiants. | « On attendait surtout des étudiants… ce sont en réalité les familles qui ont répondu présent. »
+- Le refus des agents de travailler le dimanche. | Ce n'est pas présenté comme une surprise.
+- Le coût élevé de l'opération. | Le coût n'est pas évoqué.
+- Le manque d'intérêt du public. | Le public est venu en nombre.
+EXP: L'opposition « on attendait… en réalité » signale l'écart entre la prévision et le constat.
+Q: Que redoutent les syndicats ? | implicite
++ Que le travail du dimanche finisse par être imposé aux agents. | « Ils craignent qu'à terme, le volontariat ne devienne une obligation déguisée. »
+- Que les salaires du dimanche soient réduits. | Ils reconnaissent que les volontaires sont « mieux payés ».
+- Que les bibliothèques ferment en semaine. | Ce n'est pas mentionné.
+- Que les familles cessent de venir. | Ce n'est pas leur inquiétude.
+EXP: Une « obligation déguisée » est une contrainte présentée comme un choix libre ; le « ne » qui suit « craindre que » est explétif et n'a pas de valeur négative.
+VOCAB: dominical = qui concerne le dimanche = Le marché dominical attire beaucoup de monde. ; la fréquentation = le nombre de visiteurs = La fréquentation des musées augmente. ; un agent = un employé d'une administration = Les agents municipaux sont en grève. ; contraindre = obliger = Personne ne peut vous contraindre à signer.
+EXPR: répondre présent = venir, participer comme on l'espérait = Les bénévoles ont répondu présent. ; à terme = à plus ou moins long terme = À terme, le projet devra s'autofinancer. ; une obligation déguisée = une contrainte cachée sous l'apparence d'un choix = Ces heures « facultatives » sont une obligation déguisée.
+PIEGES: Le mardi n'est qu'un point de comparaison : rien ne change ce jour-là. ; Dans « craignent que… ne devienne », le « ne » n'exprime pas une négation. ; La dernière phrase rapporte la position de la mairie, pas celle du journaliste.
+
+## CE-ART-02 | article de presse
+TITRE: Un village rachète son dernier café
+DOC: Dans une petite commune rurale de 800 habitants, le dernier café menaçait de fermer faute de repreneur. Plutôt que de voir disparaître ce lieu de rencontre, une soixantaine d'habitants ont décidé de le racheter ensemble, sous la forme d'une société coopérative. Chacun a apporté entre cent et deux mille euros, et la commune a cédé à un prix symbolique le local qu'elle possédait. ¶ Six mois après la réouverture, le bilan dépasse les espérances. Le café sert désormais de point relais pour les colis, propose un petit rayon d'épicerie et accueille chaque mois un concert. Deux emplois ont été créés. « On a compris qu'un café, ce n'est pas seulement des boissons, c'est ce qui fait qu'un village reste vivant », résume l'une des associées. ¶ Le modèle reste toutefois fragile. Les recettes couvrent tout juste les charges, et la coopérative dépend largement de l'engagement bénévole de ses membres pour l'entretien et les animations. D'autres communes de la région se sont néanmoins déjà renseignées pour suivre l'exemple.
+Q: Pourquoi les habitants ont-ils racheté le café ? | compréhension globale
++ Pour éviter la disparition d'un lieu de vie sociale. | « Plutôt que de voir disparaître ce lieu de rencontre… ont décidé de le racheter ensemble. »
+- Pour réaliser un placement financier rentable. | Les recettes « couvrent tout juste les charges ».
+- Parce que la commune les y obligeait. | La commune a seulement cédé le local.
+- Pour y installer une mairie annexe. | Ce n'est pas dit.
+EXP: Le motif est social : la citation de l'associée confirme qu'un café « fait qu'un village reste vivant ».
+Q: Comment la commune a-t-elle contribué au projet ? | compréhension détaillée
++ En vendant le local pour une somme très faible. | « La commune a cédé à un prix symbolique le local qu'elle possédait. »
+- En versant deux mille euros à chaque habitant. | Ce sont les habitants qui ont apporté de l'argent.
+- En prenant la direction du café. | Ce n'est pas mentionné.
+- En organisant les concerts. | Ce n'est pas dit.
+EXP: Un « prix symbolique » est un prix sans rapport avec la valeur réelle, souvent un euro.
+Q: Quelle réserve le journaliste exprime-t-il ? | point de vue
++ L'équilibre économique du café dépend beaucoup du travail non rémunéré. | « Les recettes couvrent tout juste les charges, et la coopérative dépend largement de l'engagement bénévole. »
+- Le café attire trop de clients extérieurs. | Ce n'est pas évoqué.
+- Les concerts dérangent les voisins. | Rien ne l'indique.
+- Les autres communes refusent de suivre l'exemple. | Elles se sont au contraire renseignées.
+EXP: « Toutefois » introduit la nuance après le bilan positif ; « néanmoins » termine sur une note encourageante.
+VOCAB: un repreneur = une personne qui rachète une entreprise pour la continuer = Le boulanger cherche un repreneur. ; une coopérative = une entreprise possédée et gérée par ses membres = La coopérative agricole compte cent membres. ; céder = vendre ou donner = Il a cédé son appartement à sa fille. ; les charges = les dépenses régulières = Les charges ont augmenté cette année.
+EXPR: faute de = par manque de = Faute de temps, je n'ai pas pu venir. ; dépasser les espérances = être meilleur que prévu = Les ventes ont dépassé nos espérances. ; suivre l'exemple = faire la même chose = D'autres pays devraient suivre l'exemple.
+PIEGES: Les sommes de cent à deux mille euros sont apportées par chaque habitant, pas par la commune. ; « Couvrir tout juste les charges » signifie qu'il n'y a presque pas de bénéfice. ; La phrase finale est positive : ne pas la confondre avec la réserve qui précède.
+
+## CE-ART-03 | article de presse
+TITRE: Hausse record des demandes de passeport
+DOC: Les délais d'obtention d'un passeport atteignent cette année des niveaux inédits. Dans certaines grandes villes, il faut attendre plus de trois mois pour obtenir un simple rendez-vous en mairie, première étape de la procédure. Le ministère de l'Intérieur explique cette situation par un effet de rattrapage : après deux années de voyages limités, de nombreux Français ont laissé expirer leurs documents et les renouvellent tous en même temps. ¶ Pour faire face, le gouvernement a annoncé le recrutement de quatre cents agents temporaires et l'ouverture de centres éphémères le samedi. Les associations de consommateurs jugent ces mesures tardives. Elles conseillent aux voyageurs de vérifier dès maintenant la date de validité de leurs papiers, même pour un départ prévu dans plusieurs mois. ¶ Une partie de la tension pourrait par ailleurs être évitée : selon le ministère, près d'un demandeur sur cinq sollicite un passeport alors que sa carte d'identité, valable dans la plupart des pays européens, suffirait pour sa destination.
+Q: Comment le ministère explique-t-il l'allongement des délais ? | compréhension détaillée
++ Par un grand nombre de renouvellements simultanés après une période de voyages réduits. | « Après deux années de voyages limités, de nombreux Français ont laissé expirer leurs documents et les renouvellent tous en même temps. »
+- Par une grève des agents de mairie. | Ce n'est pas mentionné.
+- Par la mise en place d'un nouveau passeport. | Ce n'est pas dit.
+- Par la fermeture des mairies le samedi. | Le samedi est au contraire une solution.
+EXP: Un « effet de rattrapage » désigne le retour soudain d'une demande longtemps reportée.
+Q: Que pensent les associations de consommateurs des mesures annoncées ? | point de vue
++ Qu'elles arrivent trop tard. | « Les associations de consommateurs jugent ces mesures tardives. »
+- Qu'elles sont inutiles. | Elles ne disent pas qu'elles sont inutiles, mais tardives.
+- Qu'elles sont trop coûteuses. | Le coût n'est pas évoqué.
+- Qu'elles règlent définitivement le problème. | Elles conseillent au contraire d'anticiper.
+EXP: « Tardif » signifie « qui vient trop tard » ; c'est une critique sur le moment, pas sur le principe.
+Q: Que suggère le dernier paragraphe ? | implicite
++ Certains demandeurs pourraient se contenter de leur carte d'identité. | « Près d'un demandeur sur cinq sollicite un passeport alors que sa carte d'identité… suffirait pour sa destination. »
+- La carte d'identité sera bientôt supprimée. | Ce n'est pas dit.
+- Les passeports ne sont plus acceptés en Europe. | Ce n'est pas le sens.
+- Un voyageur sur cinq ne part jamais. | Ce n'est pas l'information donnée.
+EXP: « Par ailleurs » introduit une information complémentaire : une partie des demandes est inutile.
+VOCAB: inédit = jamais vu auparavant = La situation est inédite. ; expirer = arriver à la fin de sa validité = Mon permis expire en juin. ; éphémère = qui dure peu de temps = Un restaurant éphémère s'est installé sur la plage. ; solliciter = demander = Il a sollicité un rendez-vous.
+EXPR: faire face = affronter une difficulté = L'hôpital doit faire face à un afflux de patients. ; un effet de rattrapage = un retour brutal d'une activité après une période de baisse = Les ventes de voitures connaissent un effet de rattrapage. ; dès maintenant = à partir de maintenant, sans attendre = Inscrivez-vous dès maintenant.
+PIEGES: Trois mois est le délai pour un rendez-vous, pas pour recevoir le passeport. ; « Tardives » ne veut pas dire « inutiles ». ; « Un sur cinq » concerne les demandeurs qui pourraient utiliser leur carte d'identité.
+
+## CE-ART-04 | reportage écrit
+TITRE: Sur les toits de Paris, des potagers
+DOC: Au sommet d'un grand magasin du centre de Paris, à trente mètres au-dessus de la circulation, poussent des tomates, des fraises et une quarantaine de variétés d'herbes aromatiques. Ce potager de mille mètres carrés fait partie des dizaines de projets d'agriculture urbaine qui ont vu le jour ces dernières années. Ses légumes sont vendus aux restaurants du quartier et dans un marché hebdomadaire. ¶ Ses promoteurs y voient un moyen de rapprocher producteurs et consommateurs, de rafraîchir les bâtiments en été et de sensibiliser les citadins à la saisonnalité des produits. Les chercheurs se montrent plus prudents. Selon une agronome interrogée, ces fermes urbaines ne pourront jamais nourrir une ville : « Même si l'on cultivait tous les toits plats de Paris, on couvrirait au mieux quelques pour cent des besoins en légumes. » ¶ Leur intérêt serait donc ailleurs. Pédagogique d'abord : de nombreuses écoles organisent des visites. Social ensuite, puisque plusieurs projets emploient des personnes en réinsertion professionnelle.
+Q: Quel est l'objectif principal de ce reportage ? | compréhension globale
++ Présenter un phénomène et en discuter la portée réelle. | Le texte décrit un potager puis rapporte les avantages, les limites et l'intérêt réel de l'agriculture urbaine.
+- Faire la publicité d'un grand magasin. | Le magasin n'est qu'un lieu.
+- Démontrer que Paris peut devenir autonome. | L'agronome affirme le contraire.
+- Critiquer les restaurants du quartier. | Ce n'est pas le sujet.
+EXP: Le plan du texte suit une logique classique : description, arguments favorables, nuance d'expert, conclusion sur l'intérêt réel.
+Q: Selon l'agronome, quelle est la limite de l'agriculture urbaine ? | argumentation
++ Elle ne peut couvrir qu'une très faible partie des besoins alimentaires. | « On couvrirait au mieux quelques pour cent des besoins en légumes. »
+- Elle produit des légumes de mauvaise qualité. | La qualité n'est pas discutée.
+- Elle coûte trop cher aux écoles. | Ce n'est pas dit.
+- Elle pollue l'air des villes. | Ce n'est pas évoqué.
+EXP: « Au mieux » signifie « dans le cas le plus favorable » : le chiffre réel serait encore plus bas.
+Q: Où se situe finalement l'intérêt de ces projets selon le texte ? | synthèse
++ Dans leur rôle éducatif et social. | « Pédagogique d'abord… Social ensuite… personnes en réinsertion professionnelle. »
+- Dans leur capacité à nourrir toute la ville. | C'est précisément ce qui est contesté.
+- Dans leur rentabilité financière. | Ce n'est pas évoqué.
+- Dans la création de nouveaux magasins. | Ce n'est pas dit.
+EXP: « Leur intérêt serait donc ailleurs » annonce un déplacement de l'argument ; le conditionnel marque une prudence.
+VOCAB: un promoteur = une personne qui lance et soutient un projet = Les promoteurs du projet sont optimistes. ; un citadin = un habitant d'une ville = Les citadins manquent d'espaces verts. ; la saisonnalité = le fait de dépendre des saisons = Respecter la saisonnalité des fruits. ; la réinsertion = le retour à une vie sociale ou professionnelle normale = Un programme de réinsertion pour les chômeurs.
+EXPR: voir le jour = naître, être créé = Ce projet a vu le jour en 2020. ; au mieux = dans le meilleur des cas = Il arrivera au mieux à midi. ; se montrer prudent = exprimer des réserves = Les médecins se montrent prudents.
+PIEGES: Les avantages du deuxième paragraphe sont ceux des promoteurs, pas du journaliste. ; « Au mieux quelques pour cent » est une estimation maximale. ; Le conditionnel « serait » nuance la conclusion.
+
+## CE-ART-05 | article de presse
+TITRE: Les trains de nuit font leur retour
+DOC: Longtemps considérés comme une relique du passé, les trains de nuit reviennent sur les rails européens. Après avoir supprimé la plupart de ses lignes au cours des années 2010, la compagnie nationale en a rouvert plusieurs, et de nouveaux opérateurs privés proposent des liaisons entre grandes capitales. Le succès est réel : certains trains affichent complet plusieurs semaines à l'avance. ¶ Cet engouement s'explique d'abord par la préoccupation écologique. Un trajet en train émet en moyenne beaucoup moins de gaz à effet de serre que le même trajet en avion. Les voyageurs apprécient aussi de gagner une nuit d'hôtel et d'arriver en centre-ville. ¶ Pourtant, l'équilibre économique de ces lignes reste précaire. Un train de nuit ne transporte qu'un nombre limité de passagers, immobilise des voitures toute la journée et paie des péages ferroviaires élevés. Sans aides publiques, la plupart des liaisons seraient déficitaires. Les défenseurs du rail estiment que ces subventions sont légitimes, tant que le transport aérien bénéficie lui-même d'avantages fiscaux, comme l'absence de taxe sur le kérosène.
+Q: Comment l'article présente-t-il le retour des trains de nuit ? | compréhension globale
++ Comme un succès auprès du public, mais fragile économiquement. | « Le succès est réel » puis « l'équilibre économique de ces lignes reste précaire ».
+- Comme un échec commercial. | Les trains affichent complet.
+- Comme une mode passagère sans intérêt. | Le texte en explique les raisons sérieuses.
+- Comme une décision imposée par l'Europe. | Ce n'est pas dit.
+EXP: Le connecteur « pourtant » oppose la popularité à la fragilité financière.
+Q: Pourquoi un train de nuit coûte-t-il cher à exploiter ? | compréhension détaillée
++ Il transporte peu de passagers et ses voitures sont inutilisées le jour. | « Ne transporte qu'un nombre limité de passagers, immobilise des voitures toute la journée. »
+- Ses billets sont gratuits. | Ce n'est pas dit.
+- Il consomme plus que l'avion. | Le texte dit qu'il émet moins.
+- Il nécessite des hôtels pour les voyageurs. | Il permet au contraire d'en économiser.
+EXP: L'énumération du troisième paragraphe détaille les causes du coût.
+Q: Quel argument les défenseurs du rail utilisent-ils pour justifier les aides ? | argumentation
++ L'avion bénéficie lui aussi d'avantages fiscaux. | « Tant que le transport aérien bénéficie lui-même d'avantages fiscaux, comme l'absence de taxe sur le kérosène. »
+- Les trains de nuit sont plus rapides que l'avion. | Ce n'est pas dit.
+- Les compagnies privées sont en faillite. | Ce n'est pas mentionné.
+- Les voyageurs exigent des prix plus bas. | Ce n'est pas l'argument.
+EXP: C'est un argument d'équité : si l'un des modes de transport est aidé, l'autre peut l'être aussi.
+VOCAB: une relique = un objet ou une pratique du passé = Ce téléphone est une relique. ; l'engouement = un enthousiasme soudain = L'engouement pour le vélo ne faiblit pas. ; précaire = instable, fragile = Il a une situation précaire. ; déficitaire = qui perd de l'argent = L'entreprise est déficitaire.
+EXPR: afficher complet = ne plus avoir de places disponibles = Le concert affiche complet. ; revenir sur les rails = reprendre, redémarrer = Le projet est revenu sur les rails. ; tant que = aussi longtemps que = Tant que tu es là, je suis rassuré.
+PIEGES: Le texte ne dit pas que les trains de nuit sont plus rapides. ; « Précaire » concerne l'économie des lignes, pas leur fréquentation. ; L'argument final est celui des défenseurs du rail, pas forcément du journaliste.
+
+## CE-ART-06 | article de presse
+TITRE: Le recul des cabines de bronzage
+DOC: Les autorités sanitaires recommandent depuis plusieurs années l'interdiction totale des cabines de bronzage artificiel. Leur dernier rapport, publié cette semaine, est sans ambiguïté : l'exposition aux ultraviolets artificiels augmente nettement le risque de cancer de la peau, en particulier lorsqu'elle commence avant trente ans. ¶ Le secteur, lui, est déjà en net recul. Le nombre d'appareils a été divisé par trois en dix ans, sous l'effet combiné de campagnes de prévention et d'une réglementation plus stricte : interdiction aux mineurs, publicité limitée, formation obligatoire des exploitants. Les professionnels contestent néanmoins une interdiction totale. Ils affirment que leurs clients, informés des risques, sont libres de leur choix, et redoutent qu'une interdiction ne pousse certains vers des appareils achetés sur Internet, sans aucun contrôle. ¶ Le gouvernement n'a pas encore tranché. Plusieurs pays, comme l'Australie ou le Brésil, ont pourtant franchi le pas, avec, selon les études disponibles, des effets mesurables sur la santé publique.
+Q: Que conclut le rapport des autorités sanitaires ? | compréhension détaillée
++ Les ultraviolets artificiels accroissent clairement le risque de cancer de la peau. | « L'exposition aux ultraviolets artificiels augmente nettement le risque de cancer de la peau. »
+- Le bronzage artificiel est sans danger après trente ans. | Le risque est plus fort avant trente ans, mais existe toujours.
+- Les cabines doivent être réservées aux adultes. | Le rapport recommande l'interdiction totale.
+- Les études sur le sujet sont contradictoires. | Le rapport est « sans ambiguïté ».
+EXP: « Sans ambiguïté » indique une conclusion nette ; « en particulier » précise un groupe plus exposé.
+Q: Quel argument les professionnels avancent-ils contre l'interdiction ? | argumentation
++ Elle pourrait encourager l'usage d'appareils non contrôlés. | Ils « redoutent qu'une interdiction ne pousse certains vers des appareils achetés sur Internet, sans aucun contrôle ».
+- Les ultraviolets protègent contre certaines maladies. | Ce n'est pas dit.
+- Les cabines sont déjà interdites aux adultes. | Elles sont interdites aux mineurs.
+- Le nombre d'appareils augmente. | Il a été divisé par trois.
+EXP: Les professionnels avancent deux arguments : la liberté de choix et le risque d'un effet pervers.
+Q: Que suggère la dernière phrase ? | implicite
++ L'exemple étranger plaide en faveur de l'interdiction. | « Plusieurs pays… ont pourtant franchi le pas, avec… des effets mesurables sur la santé publique. »
+- L'interdiction a échoué en Australie. | Les effets sont dits « mesurables » sur la santé.
+- Le gouvernement a déjà interdit les cabines. | Il « n'a pas encore tranché ».
+- Le Brésil a autorisé les cabines aux mineurs. | Ce n'est pas dit.
+EXP: « Pourtant » oppose l'hésitation du gouvernement à l'expérience positive d'autres pays.
+VOCAB: un exploitant = la personne qui gère une activité commerciale = L'exploitant du cinéma a fermé la salle. ; contester = remettre en cause = Il conteste la décision du juge. ; trancher = prendre une décision nette = Le ministre devra trancher. ; mesurable = qu'on peut évaluer avec des chiffres = Les progrès sont mesurables.
+EXPR: sans ambiguïté = de façon claire et nette = Il a répondu sans ambiguïté. ; sous l'effet de = à cause de = Sous l'effet de la chaleur, la glace a fondu. ; franchir le pas = se décider à faire quelque chose d'important = Elle a franchi le pas et créé son entreprise.
+PIEGES: La réglementation actuelle interdit déjà les cabines aux mineurs, pas aux adultes. ; « Divisé par trois » signifie une forte baisse. ; Le gouvernement n'a encore rien décidé.
+
+## CE-ART-07 | article de presse
+TITRE: Une ville teste la gratuité des transports
+DOC: Depuis janvier, les bus et tramways d'une ville moyenne de l'ouest sont gratuits pour tous. Six mois plus tard, la fréquentation a progressé de 60 %, un chiffre que le maire qualifie de « victoire ». La mesure coûte à la collectivité environ huit millions d'euros par an, auparavant couverts par la vente des billets, et désormais financés par une taxe payée par les entreprises de plus de onze salariés. ¶ Les effets sur la circulation automobile sont plus difficiles à mesurer. Une étude indépendante montre que les nouveaux usagers sont en partie d'anciens piétons et cyclistes, et non uniquement des automobilistes. Pour les spécialistes de la mobilité, la gratuité seule ne suffit pas à faire changer les habitudes : la fréquence des passages, la rapidité et la couverture des quartiers périphériques comptent davantage que le prix. ¶ L'opposition municipale, elle, s'inquiète d'un réseau saturé aux heures de pointe et réclame des investissements dans de nouveaux véhicules plutôt que dans la gratuité.
+Q: Comment la gratuité est-elle financée ? | compréhension détaillée
++ Par une taxe sur les entreprises d'une certaine taille. | « Désormais financés par une taxe payée par les entreprises de plus de onze salariés. »
+- Par la vente de billets. | C'était le financement d'avant.
+- Par une hausse des impôts des habitants. | Ce n'est pas dit.
+- Par des fonds européens. | Ce n'est pas mentionné.
+EXP: « Auparavant » et « désormais » opposent l'ancien et le nouveau mode de financement.
+Q: Qu'a révélé l'étude indépendante ? | implicite
++ La gratuité n'a pas seulement attiré des automobilistes. | « Les nouveaux usagers sont en partie d'anciens piétons et cyclistes, et non uniquement des automobilistes. »
+- La circulation automobile a disparu. | Ses effets sont « difficiles à mesurer ».
+- Les habitants n'utilisent plus le tramway. | La fréquentation a augmenté.
+- Les cyclistes sont plus nombreux qu'avant. | Certains ont au contraire pris le bus.
+EXP: L'effet écologique attendu (moins de voitures) est donc plus limité qu'espéré.
+Q: Selon les spécialistes, qu'est-ce qui compte le plus pour changer les habitudes ? | argumentation
++ La qualité du service plus que son prix. | « La fréquence des passages, la rapidité et la couverture des quartiers périphériques comptent davantage que le prix. »
+- La gratuité totale. | Ils disent qu'elle « ne suffit pas ».
+- L'interdiction des voitures. | Ce n'est pas évoqué.
+- La construction de pistes cyclables. | Ce n'est pas dit.
+EXP: La comparaison « davantage que » hiérarchise les critères.
+VOCAB: la collectivité = l'administration locale, la commune = La collectivité finance les écoles. ; un usager = une personne qui utilise un service public = Les usagers du métro se plaignent. ; périphérique = situé loin du centre = Les quartiers périphériques sont mal desservis. ; saturé = complètement plein = Le réseau est saturé.
+EXPR: les heures de pointe = les moments où il y a le plus de monde = Évitez de circuler aux heures de pointe. ; en partie = pas totalement = Il a en partie raison. ; qualifier de = désigner par un terme = Il a qualifié la réforme d'erreur.
+PIEGES: La « victoire » est le mot du maire, pas l'avis du journaliste. ; « En partie » signifie que certains nouveaux usagers étaient bien des automobilistes. ; L'opposition ne conteste pas les transports, mais la priorité donnée à la gratuité.
+
+## CE-ART-08 | article de presse
+TITRE: Les jeunes et la lecture : un recul à nuancer
+DOC: Les jeunes lisent-ils moins qu'avant ? Une enquête nationale publiée cette semaine semble le confirmer : la part des 16-25 ans déclarant lire au moins un livre par mois a reculé de dix points en dix ans. Les écrans sont naturellement montrés du doigt, le temps passé sur les réseaux sociaux ayant fortement augmenté sur la même période. ¶ Les auteurs de l'étude appellent cependant à la prudence. D'abord, l'enquête ne prend en compte que les livres, et non les articles, les bandes dessinées numériques ou les longs textes lus en ligne. Ensuite, certains genres connaissent au contraire un véritable essor chez les jeunes, comme les mangas ou les romans recommandés par des lecteurs influents sur les réseaux. ¶ Le vrai problème, selon eux, serait moins la quantité que la nature de la lecture : les jeunes liraient davantage par fragments, sautant d'un contenu à l'autre, ce qui rendrait plus difficile la lecture longue et concentrée qu'exigent les études supérieures.
+Q: Quel constat l'enquête fait-elle ? | compréhension détaillée
++ Moins de jeunes déclarent lire un livre chaque mois. | « La part des 16-25 ans déclarant lire au moins un livre par mois a reculé de dix points. »
+- Les jeunes ne lisent plus du tout. | Il s'agit d'une baisse, pas d'un arrêt.
+- Les jeunes lisent plus de livres qu'avant. | C'est l'inverse.
+- Les réseaux sociaux sont moins utilisés. | Leur usage a augmenté.
+EXP: « Dix points » désigne une différence de pourcentage, par exemple de 50 % à 40 %.
+Q: Pourquoi les auteurs appellent-ils à la prudence ? | argumentation
++ Parce que l'enquête ignore d'autres formes de lecture et que certains genres progressent. | « L'enquête ne prend en compte que les livres… certains genres connaissent au contraire un véritable essor. »
+- Parce que l'enquête a été mal réalisée. | Ils n'en contestent pas la méthode, mais la portée.
+- Parce que les jeunes ont menti. | Ce n'est pas dit.
+- Parce que les écrans favorisent la lecture. | Ce n'est pas l'argument.
+EXP: « D'abord… Ensuite… » structure deux limites de l'enquête.
+Q: Quel est, selon les auteurs, le véritable enjeu ? | synthèse
++ La difficulté croissante à lire longuement et de façon concentrée. | « Le vrai problème… serait moins la quantité que la nature de la lecture… la lecture longue et concentrée. »
+- Le prix trop élevé des livres. | Ce n'est pas évoqué.
+- La disparition des bibliothèques. | Ce n'est pas dit.
+- Le succès des mangas. | C'est présenté comme une évolution positive.
+EXP: La structure « moins… que… » déplace l'attention de la quantité vers la qualité de la lecture.
+VOCAB: un essor = un développement rapide = Le tourisme connaît un fort essor. ; un fragment = un petit morceau = Il n'a lu que des fragments du texte. ; influent = qui a de l'influence = C'est une personnalité influente. ; concentré = attentif, sans distraction = Il faut rester concentré pendant l'examen.
+EXPR: montrer du doigt = accuser = On montre souvent les jeunes du doigt. ; appeler à la prudence = conseiller de ne pas tirer de conclusions trop vite = Les médecins appellent à la prudence. ; au contraire = à l'inverse = Il n'est pas fatigué, au contraire.
+PIEGES: « Semble le confirmer » marque une prudence dès le début. ; Les écrans sont « montrés du doigt » par l'opinion, sans que l'étude les accuse directement. ; Le conditionnel du dernier paragraphe présente une hypothèse des auteurs.

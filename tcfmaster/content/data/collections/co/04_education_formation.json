@@ -1,0 +1,1172 @@
+{
+ "slug": "co-education-formation",
+ "section": "CO",
+ "title": "Éducation et formation",
+ "description": "École, université, formation continue : débats éducatifs, témoignages d'enseignants et d'apprenants.",
+ "order": 4,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CO-EDU-01",
+   "level": "B2",
+   "doc_type": "interview",
+   "questions": [
+    {
+     "prompt": "Pourquoi les enseignants donnent-ils des devoirs malgré l'interdiction ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Parce que le temps de classe a été réduit.",
+       "correct": false,
+       "rationale": "Rien n'est dit sur le temps de classe.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que les programmes l'exigent.",
+       "correct": false,
+       "rationale": "Les devoirs sont au contraire officiellement interdits.",
+       "label": "B"
+      },
+      {
+       "text": "Pour répondre à une attente des parents.",
+       "correct": true,
+       "rationale": "« D'abord parce que les parents les réclament » ; sinon l'enseignant « risque de passer pour laxiste ».",
+       "label": "C"
+      },
+      {
+       "text": "Parce que les élèves le demandent.",
+       "correct": false,
+       "rationale": "Ce sont les parents qui les réclament.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La cause est introduite par « parce que ». La pression sociale est soulignée par « passer pour laxiste »."
+    },
+    {
+     "prompt": "Quelle est la principale critique du chercheur ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les devoirs fatiguent trop les enfants.",
+       "correct": false,
+       "rationale": "La fatigue n'est pas évoquée.",
+       "label": "A"
+      },
+      {
+       "text": "Les parents corrigent mal les devoirs.",
+       "correct": false,
+       "rationale": "Le problème est l'absence d'aide pour certains, pas la qualité des corrections.",
+       "label": "B"
+      },
+      {
+       "text": "Les devoirs sont trop faciles.",
+       "correct": false,
+       "rationale": "Leur difficulté n'est pas en cause.",
+       "label": "C"
+      },
+      {
+       "text": "Les devoirs aggravent les différences entre élèves selon leur milieu familial.",
+       "correct": true,
+       "rationale": "« Les devoirs creusent les inégalités » ; « on renforce surtout les écarts ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "La formule finale « On croit renforcer les apprentissages, on renforce surtout les écarts » oppose l'objectif supposé et l'effet réel."
+    },
+    {
+     "prompt": "Que propose le chercheur ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Faire le travail personnel à l'école avec un encadrement gratuit.",
+       "correct": true,
+       "rationale": "« Le faire à l'école, encadré, pendant une étude du soir gratuite. »",
+       "label": "A"
+      },
+      {
+       "text": "Supprimer tout travail personnel.",
+       "correct": false,
+       "rationale": "Il dit explicitement « Pas de supprimer tout travail personnel ».",
+       "label": "B"
+      },
+      {
+       "text": "Réduire la durée des vacances.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Former les parents à aider leurs enfants.",
+       "correct": false,
+       "rationale": "Ce n'est pas sa proposition.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « Pas de… mais de… » écarte une solution radicale au profit d'une solution intermédiaire."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Les devoirs à la maison en question",
+   "context": "Une journaliste interroge un chercheur en sciences de l'éducation.",
+   "document": "F: Les devoirs à la maison sont officiellement interdits à l'école primaire depuis des décennies, et pourtant presque tous les enseignants en donnent. Comment l'expliquer ? / H: D'abord parce que les parents les réclament. Pour beaucoup, les devoirs sont la seule fenêtre ouverte sur ce que fait leur enfant en classe. Un enseignant qui n'en donne pas risque de passer pour laxiste. / F: Est-ce un problème ? / H: Oui, parce que les devoirs creusent les inégalités. Un enfant dont les parents ont fait des études sera aidé, corrigé, encouragé. Un autre, dont les parents travaillent tard ou maîtrisent mal le français, restera seul face à une difficulté qu'il n'a pas comprise en classe. On croit renforcer les apprentissages, on renforce surtout les écarts. / F: Que proposez-vous ? / H: Pas de supprimer tout travail personnel, mais de le faire à l'école, encadré, pendant une étude du soir gratuite. Plusieurs villes l'ont fait, avec des résultats encourageants.",
+   "vocabulary": [
+    {
+     "terme": "laxiste",
+     "definition": "trop indulgent, qui manque de fermeté",
+     "exemple": "On reproche à ce professeur d'être laxiste."
+    },
+    {
+     "terme": "creuser les inégalités",
+     "definition": "aggraver les différences entre groupes",
+     "exemple": "La crise a creusé les inégalités."
+    },
+    {
+     "terme": "une étude du soir",
+     "definition": "un temps de travail encadré après les cours",
+     "exemple": "Les élèves restent à l'étude jusqu'à dix-huit heures."
+    },
+    {
+     "terme": "encadré",
+     "definition": "surveillé et accompagné",
+     "exemple": "Les sorties sont encadrées par des animateurs."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "une fenêtre ouverte sur",
+     "sens": "un moyen de connaître, d'observer",
+     "exemple": "Les réseaux sociaux sont une fenêtre ouverte sur le monde."
+    },
+    {
+     "expression": "passer pour",
+     "sens": "être considéré comme",
+     "exemple": "Il ne veut pas passer pour un ignorant."
+    },
+    {
+     "expression": "rester seul face à",
+     "sens": "devoir affronter quelque chose sans aide",
+     "exemple": "Il est resté seul face à ses problèmes."
+    }
+   ]
+  },
+  {
+   "code": "CO-EDU-02",
+   "level": "B2",
+   "doc_type": "reportage",
+   "questions": [
+    {
+     "prompt": "Comment l'enseignante présente-t-elle la classe en forêt ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Comme une sortie exceptionnelle une fois par an.",
+       "correct": false,
+       "rationale": "C'est « chaque jeudi matin ».",
+       "label": "A"
+      },
+      {
+       "text": "Comme une autre manière de travailler les mêmes compétences.",
+       "correct": true,
+       "rationale": "« Dehors, on fait les mêmes apprentissages qu'en classe, mais autrement. »",
+       "label": "B"
+      },
+      {
+       "text": "Comme une récréation sans objectif scolaire.",
+       "correct": false,
+       "rationale": "Elle cite des activités de calcul, de mesure et d'écriture.",
+       "label": "C"
+      },
+      {
+       "text": "Comme un cours de sciences naturelles uniquement.",
+       "correct": false,
+       "rationale": "Elle évoque aussi les maths et l'écriture.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les exemples concrets (compter, mesurer, écrire) illustrent l'idée générale « les mêmes apprentissages… mais autrement »."
+    },
+    {
+     "prompt": "Comment a-t-elle convaincu les parents sceptiques ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "En leur montrant des résultats d'évaluations.",
+       "correct": false,
+       "rationale": "Aucune évaluation n'est citée.",
+       "label": "A"
+      },
+      {
+       "text": "En réduisant le temps passé dehors.",
+       "correct": false,
+       "rationale": "Le rythme reste hebdomadaire.",
+       "label": "B"
+      },
+      {
+       "text": "En les invitant à observer les élèves en situation.",
+       "correct": true,
+       "rationale": "« Je les ai invités à nous accompagner. Quand ils ont vu leur enfant expliquer… la plupart ont changé d'avis. »",
+       "label": "C"
+      },
+      {
+       "text": "En obtenant l'accord du directeur.",
+       "correct": false,
+       "rationale": "Le directeur n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'argument est l'expérience directe : voir son enfant transmettre un savoir a convaincu les parents."
+    },
+    {
+     "prompt": "Que signifie la dernière phrase de l'enseignante ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Elle va suspendre les sorties en hiver.",
+       "correct": false,
+       "rationale": "Rien ne l'indique.",
+       "label": "A"
+      },
+      {
+       "text": "Beaucoup d'élèves tombent malades l'hiver.",
+       "correct": false,
+       "rationale": "C'est l'inverse qu'elle suggère.",
+       "label": "B"
+      },
+      {
+       "text": "Les parents sont souvent malades.",
+       "correct": false,
+       "rationale": "Il s'agit des inquiétudes des parents, pas de leur santé.",
+       "label": "C"
+      },
+      {
+       "text": "Les craintes des parents sur la santé des enfants sont exagérées.",
+       "correct": true,
+       "rationale": "Elle dit avoir eu moins d'élèves enrhumés que de parents inquiets : la peur dépasse la réalité.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Cette comparaison humoristique (« jamais eu autant de… que de… ») minimise un risque. L'humour sert ici d'argument."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "Apprendre dehors : l'école en forêt",
+   "context": "Reportage dans une école qui fait classe en plein air une matinée par semaine.",
+   "document": "H: Chaque jeudi matin, qu'il pleuve ou qu'il vente, les élèves de CE1 de cette école quittent leur salle pour la forêt voisine. Leur enseignante, Sophie Marchal, défend cette pratique. / F: Dehors, on fait les mêmes apprentissages qu'en classe, mais autrement. On compte des pommes de pin, on mesure des branches, on écrit le récit de ce qu'on a observé. Les enfants qui ont du mal à rester assis sont souvent ceux qui s'épanouissent le plus ici. / H: Les parents sont convaincus ? / F: Pas tous au début. Certains craignaient qu'on perde du temps sur le programme. Je les ai invités à nous accompagner. Quand ils ont vu leur enfant expliquer à ses camarades comment reconnaître un chêne, la plupart ont changé d'avis. Il reste quelques réticences, notamment l'hiver, mais je n'ai jamais eu autant d'élèves enrhumés que de parents inquiets !",
+   "vocabulary": [
+    {
+     "terme": "s'épanouir",
+     "definition": "se développer pleinement, être heureux",
+     "exemple": "Elle s'épanouit dans son nouveau travail."
+    },
+    {
+     "terme": "une réticence",
+     "definition": "une hésitation, une réserve",
+     "exemple": "Il a accepté avec réticence."
+    },
+    {
+     "terme": "enrhumé",
+     "definition": "qui a un rhume",
+     "exemple": "Je suis enrhumé depuis trois jours."
+    },
+    {
+     "terme": "le programme",
+     "definition": "l'ensemble des contenus à enseigner",
+     "exemple": "Le programme de mathématiques est chargé."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "qu'il pleuve ou qu'il vente",
+     "sens": "quel que soit le temps",
+     "exemple": "Il fait son jogging qu'il pleuve ou qu'il vente."
+    },
+    {
+     "expression": "changer d'avis",
+     "sens": "modifier son opinion",
+     "exemple": "Après la réunion, il a changé d'avis."
+    },
+    {
+     "expression": "perdre du temps sur",
+     "sens": "prendre du retard sur",
+     "exemple": "Avec ces grèves, on a perdu du temps sur le chantier."
+    }
+   ]
+  },
+  {
+   "code": "CO-EDU-03",
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "questions": [
+    {
+     "prompt": "Pourquoi la chroniqueuse juge-t-elle l'interdiction « illusoire » ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Parce que les étudiants n'utilisent pas ces outils.",
+       "correct": false,
+       "rationale": "Le problème vient justement du fait qu'ils les utilisent.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que la détection est peu fiable et que les règles sont contournées.",
+       "correct": true,
+       "rationale": "« Les logiciels de détection se trompent souvent et les étudiants trouvent toujours le moyen de contourner les règles. »",
+       "label": "B"
+      },
+      {
+       "text": "Parce que l'intelligence artificielle est interdite par la loi.",
+       "correct": false,
+       "rationale": "Rien ne l'indique.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que les enseignants refusent de sanctionner.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'argument.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Rassurante, mais illusoire » : la concession reconnaît un avantage apparent, puis le « mais » introduit la critique justifiée par deux faits."
+    },
+    {
+     "prompt": "Quelle idée la chroniqueuse avance-t-elle sur les devoirs traditionnels ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Ils n'évaluaient peut-être pas vraiment les compétences visées.",
+       "correct": true,
+       "rationale": "« C'est peut-être que le devoir mesurait mal ce qu'on voulait évaluer. »",
+       "label": "A"
+      },
+      {
+       "text": "Ils sont plus fiables que les examens oraux.",
+       "correct": false,
+       "rationale": "Elle suggère l'inverse.",
+       "label": "B"
+      },
+      {
+       "text": "Ils doivent être rédigés par une machine.",
+       "correct": false,
+       "rationale": "Ce n'est pas sa proposition.",
+       "label": "C"
+      },
+      {
+       "text": "Ils étaient trop difficiles pour les étudiants.",
+       "correct": false,
+       "rationale": "La difficulté n'est pas en cause.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le raisonnement est hypothétique (« Si… c'est peut-être que… ») : une machine qui réussit l'exercice révèle les limites de l'exercice lui-même."
+    },
+    {
+     "prompt": "Quelle est la conclusion de la chroniqueuse ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Les enseignants doivent travailler moins.",
+       "correct": false,
+       "rationale": "Elle reconnaît que la solution demande plus de temps.",
+       "label": "A"
+      },
+      {
+       "text": "Il faut supprimer les diplômes universitaires.",
+       "correct": false,
+       "rationale": "Elle veut au contraire préserver leur valeur.",
+       "label": "B"
+      },
+      {
+       "text": "L'interdiction reste la meilleure solution.",
+       "correct": false,
+       "rationale": "Elle la juge illusoire.",
+       "label": "C"
+      },
+      {
+       "text": "Repenser l'évaluation est exigeant mais nécessaire pour préserver la valeur du diplôme.",
+       "correct": true,
+       "rationale": "« Cela demande plus de temps… Mais c'est sans doute le prix à payer pour que le diplôme garde sa valeur. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Le prix à payer » signifie l'inconvénient qu'on accepte pour obtenir un bénéfice. La conclusion combine concession et justification."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "title": "L'intelligence artificielle à l'université",
+   "document": "F: Depuis que les outils d'intelligence artificielle savent rédiger une dissertation en quelques secondes, les universités hésitent entre deux attitudes. La première consiste à interdire, à traquer, à sanctionner. Elle est rassurante, mais illusoire : les logiciels de détection se trompent souvent et les étudiants trouvent toujours le moyen de contourner les règles. La seconde consiste à repenser l'évaluation. Si une machine peut produire un devoir correct, c'est peut-être que le devoir mesurait mal ce qu'on voulait évaluer. Certaines facultés reviennent donc aux examens oraux, demandent aux étudiants d'expliquer leur démarche, ou leur font critiquer un texte généré par une machine. Cela demande plus de temps aux enseignants, c'est certain. Mais c'est sans doute le prix à payer pour que le diplôme garde sa valeur.",
+   "vocabulary": [
+    {
+     "terme": "traquer",
+     "definition": "poursuivre, rechercher activement",
+     "exemple": "La police traque les fraudeurs."
+    },
+    {
+     "terme": "illusoire",
+     "definition": "qui repose sur une illusion, inefficace",
+     "exemple": "Cet espoir est illusoire."
+    },
+    {
+     "terme": "contourner",
+     "definition": "éviter un obstacle par un moyen détourné",
+     "exemple": "Ils ont contourné l'interdiction."
+    },
+    {
+     "terme": "une démarche",
+     "definition": "une manière de raisonner, de procéder",
+     "exemple": "Expliquez votre démarche."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "le prix à payer",
+     "sens": "l'inconvénient accepté en échange d'un avantage",
+     "exemple": "La fatigue est le prix à payer pour réussir."
+    },
+    {
+     "expression": "trouver le moyen de",
+     "sens": "réussir à",
+     "exemple": "Il trouve toujours le moyen d'arriver en retard."
+    },
+    {
+     "expression": "c'est certain",
+     "sens": "sans aucun doute",
+     "exemple": "Ce sera difficile, c'est certain."
+    }
+   ]
+  },
+  {
+   "code": "CO-EDU-04",
+   "level": "B2",
+   "doc_type": "témoignage",
+   "questions": [
+    {
+     "prompt": "Qu'est-ce qui a déclenché la décision du témoin ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Une question de son fils à laquelle il n'a pas su répondre.",
+       "correct": true,
+       "rationale": "« Il m'a demandé de l'aider en histoire et je me suis rendu compte que je ne savais pas répondre. »",
+       "label": "A"
+      },
+      {
+       "text": "Une promotion qui exigeait un diplôme.",
+       "correct": false,
+       "rationale": "Aucune promotion n'est évoquée.",
+       "label": "B"
+      },
+      {
+       "text": "Les conseils d'un professeur.",
+       "correct": false,
+       "rationale": "Aucun professeur n'est cité.",
+       "label": "C"
+      },
+      {
+       "text": "La perte de son emploi dans la logistique.",
+       "correct": false,
+       "rationale": "Il ne dit pas avoir perdu son emploi.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« C'est mon fils qui m'a donné envie » est une mise en relief qui désigne le déclencheur, détaillé ensuite par l'anecdote."
+    },
+    {
+     "prompt": "Qu'est-ce qui l'a aidé à ne pas abandonner ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Des cours particuliers.",
+       "correct": false,
+       "rationale": "Il n'en parle pas.",
+       "label": "A"
+      },
+      {
+       "text": "Les encouragements de son fils.",
+       "correct": false,
+       "rationale": "Son fils a été le déclencheur, mais c'est le groupe qui l'a soutenu.",
+       "label": "B"
+      },
+      {
+       "text": "La solidarité entre les étudiants de son groupe.",
+       "correct": true,
+       "rationale": "« Ce qui m'a sauvé, c'est le groupe… on se motivait mutuellement. »",
+       "label": "C"
+      },
+      {
+       "text": "Le soutien financier de son employeur.",
+       "correct": false,
+       "rationale": "L'employeur n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Attention au distracteur qui reprend un élément vrai du document (le fils) pour une autre question. La structure « Ce qui m'a sauvé, c'est… » donne la réponse."
+    },
+    {
+     "prompt": "Que révèle la fin du témoignage ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Il regrette d'avoir repris ses études.",
+       "correct": false,
+       "rationale": "Rien ne l'indique.",
+       "label": "A"
+      },
+      {
+       "text": "Le plaisir d'apprendre compte davantage pour lui que l'intérêt professionnel.",
+       "correct": true,
+       "rationale": "« Je ne sais pas encore ce que j'en ferai professionnellement, et franchement, ce n'est pas ce qui compte le plus. »",
+       "label": "B"
+      },
+      {
+       "text": "Il veut devenir professeur d'histoire.",
+       "correct": false,
+       "rationale": "Il ne sait pas encore ce qu'il fera.",
+       "label": "C"
+      },
+      {
+       "text": "Il va bientôt arrêter sa licence.",
+       "correct": false,
+       "rationale": "Il ne parle pas d'arrêter.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'implicite se lit dans « ce n'est pas ce qui compte le plus » : la motivation est personnelle et intellectuelle, en lien avec la curiosité évoquée plus tôt (« ça m'a intrigué »)."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "title": "Reprendre ses études à quarante ans",
+   "document": "H: J'ai quitté l'école à seize ans sans diplôme. Pendant vingt ans, j'ai travaillé dans la logistique, en me disant que les études, ce n'était pas pour moi. C'est mon fils qui m'a donné envie de reprendre. Un soir, il m'a demandé de l'aider en histoire et je me suis rendu compte que je ne savais pas répondre. Ça m'a vexé, mais surtout, ça m'a intrigué. Je me suis inscrit à un diplôme d'accès aux études universitaires, en cours du soir. La première année, j'ai failli abandonner trois fois. Je n'avais plus l'habitude de rester concentré, de prendre des notes. Ce qui m'a sauvé, c'est le groupe : on était tous dans la même situation, et on se motivait mutuellement. Aujourd'hui, je suis en licence d'histoire. Je ne sais pas encore ce que j'en ferai professionnellement, et franchement, ce n'est pas ce qui compte le plus.",
+   "vocabulary": [
+    {
+     "terme": "vexé",
+     "definition": "blessé dans son amour-propre",
+     "exemple": "Il a été vexé par cette remarque."
+    },
+    {
+     "terme": "intriguer",
+     "definition": "éveiller la curiosité",
+     "exemple": "Ce mystère m'intrigue."
+    },
+    {
+     "terme": "une licence",
+     "definition": "un diplôme universitaire de trois ans",
+     "exemple": "Elle prépare une licence de droit."
+    },
+    {
+     "terme": "mutuellement",
+     "definition": "de façon réciproque",
+     "exemple": "Ils s'aident mutuellement."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "ce n'est pas pour moi",
+     "sens": "cela ne me convient pas, je n'en suis pas capable",
+     "exemple": "Le ski, ce n'est pas pour moi."
+    },
+    {
+     "expression": "faillir + infinitif",
+     "sens": "être sur le point de faire quelque chose sans le faire",
+     "exemple": "J'ai failli tomber."
+    },
+    {
+     "expression": "se rendre compte que",
+     "sens": "prendre conscience que",
+     "exemple": "Il s'est rendu compte qu'il avait oublié ses clés."
+    }
+   ]
+  },
+  {
+   "code": "CO-EDU-05",
+   "level": "B2",
+   "doc_type": "débat radiophonique",
+   "questions": [
+    {
+     "prompt": "Quel argument le parent avance-t-il en faveur des notes ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Elles sont plus justes que les compétences.",
+       "correct": false,
+       "rationale": "Il ne parle pas de justice.",
+       "label": "A"
+      },
+      {
+       "text": "Elles motivent les élèves faibles.",
+       "correct": false,
+       "rationale": "La professeure dit l'inverse ; lui ne l'affirme pas.",
+       "label": "B"
+      },
+      {
+       "text": "Elles sont imposées par la loi.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Elles sont faciles à comprendre pour tout le monde.",
+       "correct": true,
+       "rationale": "« Une note, c'est clair, tout le monde comprend. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le premier argument est la clarté. Le second, plus tard, porte sur la préparation à la vie (« on est noté, on est classé »)."
+    },
+    {
+     "prompt": "Selon la professeure, quel est l'avantage de l'évaluation par compétences ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Elle permet de classer les élèves.",
+       "correct": false,
+       "rationale": "Elle critique justement le classement.",
+       "label": "A"
+      },
+      {
+       "text": "Elle montre précisément ce que l'élève maîtrise ou non.",
+       "correct": true,
+       "rationale": "« Une évaluation par compétences permet de savoir précisément où il en est. »",
+       "label": "B"
+      },
+      {
+       "text": "Elle plaît davantage aux parents.",
+       "correct": false,
+       "rationale": "Elle reconnaît que la réforme a été mal expliquée aux familles.",
+       "label": "C"
+      },
+      {
+       "text": "Elle est plus rapide à corriger.",
+       "correct": false,
+       "rationale": "La rapidité n'est pas évoquée.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'exemple du huit sur vingt montre qu'une note globale cache des réalités différentes. L'argument porte sur la précision de l'information."
+    },
+    {
+     "prompt": "Quelle concession la professeure fait-elle à la fin ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Les grilles de couleurs sont inutiles.",
+       "correct": false,
+       "rationale": "Elle les défend.",
+       "label": "A"
+      },
+      {
+       "text": "Les notes sont indispensables dans la société.",
+       "correct": false,
+       "rationale": "Elle conteste cet argument.",
+       "label": "B"
+      },
+      {
+       "text": "La réforme n'a pas été bien présentée aux familles.",
+       "correct": true,
+       "rationale": "« Je reconnais qu'on a mal expliqué la réforme aux familles. C'est un vrai problème. »",
+       "label": "C"
+      },
+      {
+       "text": "Les élèves faibles doivent redoubler.",
+       "correct": false,
+       "rationale": "Le redoublement n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Cela dit, je reconnais que… » introduit une concession qui rejoint partiellement la critique du parent (« les parents n'y comprennent rien »)."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "Faut-il supprimer les notes au collège ?",
+   "context": "Débat entre un parent d'élève et une professeure de mathématiques.",
+   "document": "H: Je suis contre la suppression des notes. Une note, c'est clair, tout le monde comprend. Les grilles de compétences avec des couleurs, franchement, la plupart des parents n'y comprennent rien. / F: Je comprends votre attachement aux notes, mais une note de huit sur vingt ne dit rien de ce que l'élève sait faire. Est-ce qu'il a tout raté, ou est-ce qu'il a réussi les exercices difficiles mais fait des erreurs de calcul ? Une évaluation par compétences permet de savoir précisément où il en est. / H: Mais dans la vie, on est noté, on est classé. Autant s'y habituer tôt. / F: On peut aussi se dire que l'école n'a pas à reproduire tout ce qu'il y a de plus dur dans la société. Les élèves faibles qui accumulent les mauvaises notes finissent par se convaincre qu'ils sont nuls, et ils décrochent. Cela dit, je reconnais qu'on a mal expliqué la réforme aux familles. C'est un vrai problème.",
+   "vocabulary": [
+    {
+     "terme": "une grille de compétences",
+     "definition": "un tableau qui évalue des savoir-faire précis",
+     "exemple": "Le professeur remplit une grille de compétences."
+    },
+    {
+     "terme": "décrocher",
+     "definition": "abandonner progressivement les études",
+     "exemple": "Beaucoup d'élèves décrochent au lycée."
+    },
+    {
+     "terme": "être classé",
+     "definition": "être placé dans un ordre par rapport aux autres",
+     "exemple": "Il est classé premier de sa promotion."
+    },
+    {
+     "terme": "un attachement",
+     "definition": "un lien affectif, une préférence",
+     "exemple": "Je comprends ton attachement à cette maison."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "autant + infinitif",
+     "sens": "il vaut mieux, il est préférable de",
+     "exemple": "Il pleut : autant rester à la maison."
+    },
+    {
+     "expression": "savoir où il en est",
+     "sens": "connaître son niveau, sa situation",
+     "exemple": "Faites ce test pour savoir où vous en êtes."
+    },
+    {
+     "expression": "se convaincre que",
+     "sens": "finir par croire que",
+     "exemple": "Il s'est convaincu qu'il n'y arriverait jamais."
+    }
+   ]
+  },
+  {
+   "code": "CO-EDU-06",
+   "level": "B2",
+   "doc_type": "journal radio",
+   "questions": [
+    {
+     "prompt": "Comment le ministère compte-t-il pourvoir les postes vacants ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "En recrutant des personnes diplômées dans une autre discipline mais non formées à l'enseignement.",
+       "correct": true,
+       "rationale": "« Recourir à des enseignants non diplômés, recrutés parmi des titulaires d'un baccalauréat dans une autre discipline. »",
+       "label": "A"
+      },
+      {
+       "text": "En faisant revenir des enseignants retraités.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "En fermant certaines classes.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "En augmentant les salaires.",
+       "correct": false,
+       "rationale": "Le ministre refuse de s'y engager.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Non diplômés » signifie ici sans diplôme d'enseignement, puisqu'ils ont un baccalauréat (diplôme universitaire au Québec) dans une autre discipline."
+    },
+    {
+     "prompt": "Selon les syndicats, quelle est la cause profonde de la pénurie ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "La baisse du nombre d'élèves.",
+       "correct": false,
+       "rationale": "Les classes sont au contraire « surchargées ».",
+       "label": "A"
+      },
+      {
+       "text": "Des conditions de travail difficiles qui découragent les enseignants.",
+       "correct": true,
+       "rationale": "« Le problème tient avant tout aux conditions de travail : classes surchargées… salaires peu attractifs. »",
+       "label": "B"
+      },
+      {
+       "text": "Le refus des jeunes de travailler.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Le manque de places dans les universités.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Tenir à » signifie « avoir pour cause ». L'énumération après les deux-points détaille ces conditions."
+    },
+    {
+     "prompt": "Quelle est la position du ministre ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Il admet le problème mais ne promet pas d'augmentation salariale.",
+       "correct": true,
+       "rationale": "« Le ministre reconnaît la gravité de la situation… mais refuse pour l'instant de s'engager sur une hausse des salaires. »",
+       "label": "A"
+      },
+      {
+       "text": "Il accepte toutes les demandes des syndicats.",
+       "correct": false,
+       "rationale": "Il refuse la hausse des salaires.",
+       "label": "B"
+      },
+      {
+       "text": "Il veut supprimer la formation des enseignants.",
+       "correct": false,
+       "rationale": "Il promet une réforme de la formation.",
+       "label": "C"
+      },
+      {
+       "text": "Il nie l'existence d'une pénurie.",
+       "correct": false,
+       "rationale": "Il « reconnaît la gravité ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le « mais » oppose ce que le ministre accepte (réformer la formation) et ce qu'il refuse (augmenter les salaires). « Pour l'instant » laisse une porte ouverte."
+    }
+   ],
+   "speakers": [
+    "F:fr-CA"
+   ],
+   "title": "Pénurie d'enseignants à la rentrée",
+   "document": "F: À quelques jours de la rentrée, près de huit cents postes d'enseignants restent vacants dans la province. Pour y faire face, le ministère prévoit de recourir à des enseignants non diplômés, recrutés parmi des titulaires d'un baccalauréat dans une autre discipline. Les syndicats dénoncent une solution de dernière minute qui ne règle rien sur le fond. Selon eux, le problème tient avant tout aux conditions de travail : classes surchargées, élèves en difficulté sans soutien suffisant, salaires peu attractifs en début de carrière. Près d'un nouvel enseignant sur cinq quitterait la profession au cours de ses cinq premières années. Le ministre reconnaît la gravité de la situation et promet une réforme de la formation, mais refuse pour l'instant de s'engager sur une hausse des salaires.",
+   "vocabulary": [
+    {
+     "terme": "un poste vacant",
+     "definition": "un emploi non occupé",
+     "exemple": "Il reste trois postes vacants."
+    },
+    {
+     "terme": "pourvoir un poste",
+     "definition": "trouver quelqu'un pour l'occuper",
+     "exemple": "Le poste a été pourvu en interne."
+    },
+    {
+     "terme": "surchargé",
+     "definition": "qui a trop d'élèves ou de travail",
+     "exemple": "Les classes sont surchargées."
+    },
+    {
+     "terme": "attractif",
+     "definition": "qui attire",
+     "exemple": "Les salaires de ce secteur sont peu attractifs."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "de dernière minute",
+     "sens": "décidé dans l'urgence",
+     "exemple": "C'est une solution de dernière minute."
+    },
+    {
+     "expression": "sur le fond",
+     "sens": "sur l'essentiel, en profondeur",
+     "exemple": "Ce texte ne change rien sur le fond."
+    },
+    {
+     "expression": "tenir à",
+     "sens": "avoir pour cause",
+     "exemple": "Son succès tient à son travail."
+    }
+   ]
+  },
+  {
+   "code": "CO-EDU-07",
+   "level": "B2",
+   "doc_type": "interview",
+   "questions": [
+    {
+     "prompt": "Que pense la linguiste de l'idée selon laquelle il est trop tard pour apprendre une langue adulte ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Elle pense qu'elle concerne seulement la grammaire.",
+       "correct": false,
+       "rationale": "Elle dit que les adultes comprennent bien la grammaire.",
+       "label": "A"
+      },
+      {
+       "text": "Elle n'a pas d'avis sur la question.",
+       "correct": false,
+       "rationale": "Elle donne un avis clair.",
+       "label": "B"
+      },
+      {
+       "text": "Elle la juge en grande partie erronée.",
+       "correct": true,
+       "rationale": "« C'est une idée reçue tenace, mais largement fausse. »",
+       "label": "C"
+      },
+      {
+       "text": "Elle la confirme entièrement.",
+       "correct": false,
+       "rationale": "Elle la qualifie de « largement fausse ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Largement fausse » nuance : il y a une part de vérité (l'accent), concédée juste après avec « Il est vrai que »."
+    },
+    {
+     "prompt": "Quel est, selon elle, le principal obstacle pour les adultes ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "L'incapacité à comprendre la grammaire.",
+       "correct": false,
+       "rationale": "Elle dit l'inverse.",
+       "label": "A"
+      },
+      {
+       "text": "Le manque de mémoire.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Le manque de temps.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "La crainte de commettre des erreurs devant les autres.",
+       "correct": true,
+       "rationale": "« Surtout la peur de se tromper… Un adulte, lui, se tait plutôt que de faire une faute devant les autres. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'opposition enfant / adulte (« Un enfant parle sans craindre le ridicule. Un adulte, lui… ») met en évidence l'obstacle psychologique."
+    },
+    {
+     "prompt": "Comment la linguiste considère-t-elle l'accent étranger ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Comme une preuve de manque de travail.",
+       "correct": false,
+       "rationale": "Elle invite à l'accepter.",
+       "label": "A"
+      },
+      {
+       "text": "Comme un élément d'identité qu'il ne faut pas voir comme un défaut.",
+       "correct": true,
+       "rationale": "« Ce n'est pas un défaut, c'est une trace de son histoire. »",
+       "label": "B"
+      },
+      {
+       "text": "Comme un obstacle à la communication.",
+       "correct": false,
+       "rationale": "Ce n'est pas son propos.",
+       "label": "C"
+      },
+      {
+       "text": "Comme une faute qu'il faut corriger absolument.",
+       "correct": false,
+       "rationale": "Elle dit que ce n'est pas un défaut.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « Ce n'est pas… c'est… » corrige une perception négative et la remplace par une vision positive."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-BE"
+   ],
+   "title": "Apprendre une langue étrangère à l'âge adulte",
+   "context": "Un journaliste interroge une linguiste spécialiste de l'acquisition des langues.",
+   "document": "H: On entend souvent qu'après un certain âge, il est trop tard pour apprendre une langue. Est-ce vrai ? / F: C'est une idée reçue tenace, mais largement fausse. Il est vrai que les enfants acquièrent plus facilement un accent natif. En revanche, les adultes progressent souvent plus vite au début, parce qu'ils savent organiser leur apprentissage, comparer avec leur propre langue, comprendre une règle de grammaire. / H: Qu'est-ce qui freine alors les adultes ? / F: Surtout la peur de se tromper. Un enfant parle sans craindre le ridicule. Un adulte, lui, se tait plutôt que de faire une faute devant les autres. Or on n'apprend à parler qu'en parlant. Mon conseil : chercher des situations où l'erreur n'a pas de conséquence. Un club de conversation, un échange avec un locuteur natif qui apprend votre langue. Et accepter qu'on gardera peut-être un accent toute sa vie. Ce n'est pas un défaut, c'est une trace de son histoire.",
+   "vocabulary": [
+    {
+     "terme": "une idée reçue",
+     "definition": "une opinion répandue mais non vérifiée",
+     "exemple": "C'est une idée reçue que les Français sont froids."
+    },
+    {
+     "terme": "acquérir",
+     "definition": "obtenir, apprendre progressivement",
+     "exemple": "Il a acquis de l'expérience."
+    },
+    {
+     "terme": "un locuteur natif",
+     "definition": "une personne qui parle une langue depuis l'enfance",
+     "exemple": "Elle parle avec un locuteur natif chaque semaine."
+    },
+    {
+     "terme": "le ridicule",
+     "definition": "ce qui expose aux moqueries",
+     "exemple": "Il a peur du ridicule."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "plutôt que de",
+     "sens": "au lieu de",
+     "exemple": "Il préfère marcher plutôt que de prendre le bus."
+    },
+    {
+     "expression": "on n'apprend à… qu'en…",
+     "sens": "la seule façon d'apprendre est de…",
+     "exemple": "On n'apprend à nager qu'en nageant."
+    },
+    {
+     "expression": "une trace de",
+     "sens": "une marque laissée par",
+     "exemple": "Cette cicatrice est une trace de son accident."
+    }
+   ]
+  },
+  {
+   "code": "CO-EDU-08",
+   "level": "B2",
+   "doc_type": "reportage",
+   "questions": [
+    {
+     "prompt": "En quoi cette école diffère-t-elle de l'école traditionnelle ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Elle propose un parcours personnalisé combinant cours et stages.",
+       "correct": true,
+       "rationale": "« Pas de notes, pas de classes par niveau, mais un parcours individualisé alternant cours et stages en entreprise. »",
+       "label": "A"
+      },
+      {
+       "text": "Elle accueille uniquement les meilleurs élèves.",
+       "correct": false,
+       "rationale": "Elle accueille des jeunes sans diplôme.",
+       "label": "B"
+      },
+      {
+       "text": "Elle remplace les cours par du sport.",
+       "correct": false,
+       "rationale": "Il y a des cours et des stages.",
+       "label": "C"
+      },
+      {
+       "text": "Elle délivre les mêmes diplômes plus rapidement.",
+       "correct": false,
+       "rationale": "Aucun diplôme n'est évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « pas de…, pas de…, mais… » oppose ce qui est supprimé et ce qui est proposé."
+    },
+    {
+     "prompt": "Qu'est-ce qui a changé pour Karim ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Il a obtenu un diplôme.",
+       "correct": false,
+       "rationale": "Il est en voie d'apprentissage, sans diplôme mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Il a décidé de reprendre ses études générales.",
+       "correct": false,
+       "rationale": "Il s'oriente vers l'apprentissage.",
+       "label": "B"
+      },
+      {
+       "text": "Il a enfin le sentiment d'être reconnu pour ses compétences.",
+       "correct": true,
+       "rationale": "« Pour la première fois, quelqu'un me dit que je suis bon dans quelque chose. »",
+       "label": "C"
+      },
+      {
+       "text": "Il a été embauché comme formateur.",
+       "correct": false,
+       "rationale": "Il est stagiaire dans un garage.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'opposition entre « celui qu'on oubliait au fond » et « quelqu'un me dit que je suis bon » montre le changement d'image de soi."
+    },
+    {
+     "prompt": "À quoi la directrice attribue-t-elle surtout la réussite de l'école ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Au soutien financier des entreprises.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Aux méthodes pédagogiques innovantes.",
+       "correct": false,
+       "rationale": "C'est l'explication qu'elle relativise.",
+       "label": "B"
+      },
+      {
+       "text": "Au nombre important de places.",
+       "correct": false,
+       "rationale": "Les places sont au contraire limitées.",
+       "label": "C"
+      },
+      {
+       "text": "À la confiance établie entre formateurs et jeunes.",
+       "correct": true,
+       "rationale": "Elle l'attribue « moins aux méthodes pédagogiques qu'à la relation de confiance ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « moins… que… » hiérarchise deux explications : la seconde l'emporte."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Les écoles de la deuxième chance",
+   "context": "Reportage dans une école qui accueille des jeunes sortis du système scolaire sans diplôme.",
+   "document": "F: Ils ont entre dix-huit et vingt-cinq ans, ont quitté l'école sans diplôme, et beaucoup d'entre eux n'y croyaient plus. Ici, pas de notes, pas de classes par niveau, mais un parcours individualisé alternant cours et stages en entreprise. Karim, vingt et un ans, est arrivé il y a huit mois. / H: À l'école, j'étais le dernier de la classe, celui qu'on oubliait au fond. Ici, les formateurs prennent le temps. Ils m'ont aidé à trouver un stage dans un garage, et le patron veut me prendre en apprentissage. Pour la première fois, quelqu'un me dit que je suis bon dans quelque chose. / F: Selon la directrice, sept jeunes sur dix trouvent un emploi ou une formation à la sortie. Un résultat remarquable, qu'elle attribue moins aux méthodes pédagogiques qu'à la relation de confiance. Elle regrette toutefois que les places soient limitées : la liste d'attente compte plus de deux cents noms.",
+   "vocabulary": [
+    {
+     "terme": "individualisé",
+     "definition": "adapté à chaque personne",
+     "exemple": "Chaque élève suit un programme individualisé."
+    },
+    {
+     "terme": "un stage",
+     "definition": "une période de formation pratique en entreprise",
+     "exemple": "Elle fait un stage de deux mois dans une banque."
+    },
+    {
+     "terme": "une liste d'attente",
+     "definition": "la liste des personnes qui attendent une place",
+     "exemple": "Il est sur liste d'attente pour un logement."
+    },
+    {
+     "terme": "remarquable",
+     "definition": "digne d'être remarqué, excellent",
+     "exemple": "Il a fait un travail remarquable."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "ne plus y croire",
+     "sens": "avoir perdu espoir",
+     "exemple": "Après tant d'échecs, il n'y croyait plus."
+    },
+    {
+     "expression": "prendre le temps",
+     "sens": "ne pas se presser, consacrer du temps",
+     "exemple": "Prenez le temps de bien lire la consigne."
+    },
+    {
+     "expression": "être bon dans",
+     "sens": "avoir des compétences dans un domaine",
+     "exemple": "Elle est bonne en dessin."
+    }
+   ]
+  }
+ ]
+}

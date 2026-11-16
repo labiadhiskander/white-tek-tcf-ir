@@ -47,6 +47,18 @@ SPEAKING_DURATIONS_S = {1: 180, 2: 210, 3: 210}
 SPEAKING_TASK_NAMES = {1: "Entretien dirigé", 2: "Exercice en interaction",
                        3: "Exprimer ses goûts et ses opinions"}
 
+# v1.1 : statut et origine des contenus (administration)
+STATUS_VALID = "valide"
+STATUS_DRAFT = "brouillon"
+ORIGIN_BUILTIN = "preinstalle"
+ORIGIN_ADMIN = "admin"
+TARGET_LEVEL = "B2"
+
+# Bibliothèque : familles de collections
+KIND_GRAMMAR = "GRAM"
+KIND_VOCAB = "VOC"
+COLLECTION_KINDS = SECTIONS + (KIND_GRAMMAR, KIND_VOCAB)
+
 
 # --------------------------------------------------------------------------
 # Contenu : examens
@@ -61,6 +73,8 @@ class Exam(Base):
     description: Mapped[str] = mapped_column(Text, default="")
     generated: Mapped[bool] = mapped_column(Boolean, default=False)
     content_hash: Mapped[str] = mapped_column(String(64), default="")
+    # v1.1 : « B2 » pour les examens blancs B2, « v1.0 » pour les examens progressifs
+    series: Mapped[str | None] = mapped_column(String(20), nullable=True, default="v1.0")
 
     questions: Mapped[list["Question"]] = relationship(
         back_populates="exam", cascade="all, delete-orphan", order_by="Question.position")
@@ -91,8 +105,12 @@ class Question(Base):
     audio_file: Mapped[str | None] = mapped_column(String(255), nullable=True)
     prompt: Mapped[str] = mapped_column(Text)  # l'énoncé de la question
     explanation: Mapped[str] = mapped_column(Text, default="")  # correction détaillée
+    # v1.1 : question rattachée à un exercice de collection (exam_id est alors nul)
+    exercise_id: Mapped[int | None] = mapped_column(
+        ForeignKey("exercises.id", ondelete="CASCADE"), nullable=True, index=True)
 
     exam: Mapped[Exam | None] = relationship(back_populates="questions")
+    exercise: Mapped["Exercise | None"] = relationship(back_populates="questions")
     choices: Mapped[list["Choice"]] = relationship(
         back_populates="question", cascade="all, delete-orphan", order_by="Choice.label")
 
@@ -132,8 +150,20 @@ class WritingTask(Base):
     model_answer: Mapped[str] = mapped_column(Text, default="")  # réponse modèle B2
     tips: Mapped[str] = mapped_column(Text, default="")
     expected_points: Mapped[list | None] = mapped_column(JSON, nullable=True)
+    # v1.1 : sujet indépendant d'une collection (exam_id nul)
+    code: Mapped[str | None] = mapped_column(String(30), nullable=True, index=True)
+    collection_id: Mapped[int | None] = mapped_column(
+        ForeignKey("collections.id", ondelete="SET NULL"), nullable=True, index=True)
+    theme: Mapped[str | None] = mapped_column(String(80), nullable=True)
+    model_commentary: Mapped[str | None] = mapped_column(Text, nullable=True)
+    status: Mapped[str | None] = mapped_column(String(12), nullable=True, default=STATUS_VALID)
+    origin: Mapped[str | None] = mapped_column(String(12), nullable=True,
+                                               default=ORIGIN_BUILTIN)
+    locally_modified: Mapped[bool | None] = mapped_column(Boolean, nullable=True,
+                                                          default=False)
 
     exam: Mapped[Exam | None] = relationship(back_populates="writing_tasks")
+    collection: Mapped["Collection | None"] = relationship()
 
 
 class SpeakingTask(Base):
@@ -151,8 +181,21 @@ class SpeakingTask(Base):
     examiner_prompts: Mapped[list | None] = mapped_column(JSON, nullable=True)
     useful_phrases: Mapped[list | None] = mapped_column(JSON, nullable=True)
     model_answer: Mapped[str] = mapped_column(Text, default="")
+    tips: Mapped[str | None] = mapped_column(Text, nullable=True)
+    # v1.1 : sujet indépendant d'une collection (exam_id nul)
+    code: Mapped[str | None] = mapped_column(String(30), nullable=True, index=True)
+    collection_id: Mapped[int | None] = mapped_column(
+        ForeignKey("collections.id", ondelete="SET NULL"), nullable=True, index=True)
+    theme: Mapped[str | None] = mapped_column(String(80), nullable=True)
+    model_commentary: Mapped[str | None] = mapped_column(Text, nullable=True)
+    status: Mapped[str | None] = mapped_column(String(12), nullable=True, default=STATUS_VALID)
+    origin: Mapped[str | None] = mapped_column(String(12), nullable=True,
+                                               default=ORIGIN_BUILTIN)
+    locally_modified: Mapped[bool | None] = mapped_column(Boolean, nullable=True,
+                                                          default=False)
 
     exam: Mapped[Exam | None] = relationship(back_populates="speaking_tasks")
+    collection: Mapped["Collection | None"] = relationship()
 
 
 # --------------------------------------------------------------------------
@@ -255,6 +298,103 @@ class PlanDay(Base):
     activities: Mapped[list] = mapped_column(JSON)  # [{module, minutes, description, ref}]
     is_mock_exam: Mapped[str | None] = mapped_column(String(20), nullable=True)  # partiel/complet
     is_review: Mapped[bool] = mapped_column(Boolean, default=False)
+
+
+# --------------------------------------------------------------------------
+# Contenu v1.1 : collections B2, exercices corrigés, vidéothèque, programme 30 jours
+# --------------------------------------------------------------------------
+class Collection(Base):
+    """Collection thématique (« Environnement et climat », « Éditoriaux »…)."""
+    __tablename__ = "collections"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    slug: Mapped[str] = mapped_column(String(60), unique=True)
+    section: Mapped[str] = mapped_column(String(4), index=True)  # CO, CE, EE, EO, GRAM, VOC
+    title: Mapped[str] = mapped_column(String(160))
+    description: Mapped[str] = mapped_column(Text, default="")
+    order: Mapped[int] = mapped_column(Integer, default=0)
+    level: Mapped[str] = mapped_column(String(4), default=TARGET_LEVEL)
+
+    exercises: Mapped[list["Exercise"]] = relationship(
+        back_populates="collection", order_by="Exercise.position")
+
+
+class Exercise(Base):
+    """Exercice de compréhension : un document (audio ou texte) et ses questions."""
+    __tablename__ = "exercises"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    code: Mapped[str] = mapped_column(String(30), unique=True)  # ex. « CO-ENV-03 »
+    section: Mapped[str] = mapped_column(String(2), index=True)  # CO / CE
+    collection_id: Mapped[int | None] = mapped_column(
+        ForeignKey("collections.id", ondelete="SET NULL"), nullable=True, index=True)
+    position: Mapped[int] = mapped_column(Integer, default=0)
+    title: Mapped[str] = mapped_column(String(200))
+    level: Mapped[str] = mapped_column(String(4), default=TARGET_LEVEL)
+    doc_type: Mapped[str] = mapped_column(String(80))  # « interview radio », « éditorial »…
+    context: Mapped[str] = mapped_column(Text, default="")  # mise en situation
+    document: Mapped[str] = mapped_column(Text)  # texte (CE) ou transcription (CO)
+    speakers: Mapped[list | None] = mapped_column(JSON, nullable=True)
+    audio_file: Mapped[str | None] = mapped_column(String(255), nullable=True)
+    source_note: Mapped[str] = mapped_column(Text, default="")  # « document original »…
+    vocabulary: Mapped[list] = mapped_column(JSON, default=list)  # [{terme, definition, exemple}]
+    expressions: Mapped[list] = mapped_column(JSON, default=list)  # [{expression, sens, exemple}]
+    traps: Mapped[list] = mapped_column(JSON, default=list)  # pièges de compréhension
+    skills: Mapped[list] = mapped_column(JSON, default=list)  # implicite, point de vue…
+    status: Mapped[str] = mapped_column(String(12), default=STATUS_VALID, index=True)
+    origin: Mapped[str] = mapped_column(String(12), default=ORIGIN_BUILTIN)
+    locally_modified: Mapped[bool] = mapped_column(Boolean, default=False)
+    content_hash: Mapped[str] = mapped_column(String(64), default="")
+
+    collection: Mapped[Collection | None] = relationship(back_populates="exercises")
+    questions: Mapped[list[Question]] = relationship(
+        back_populates="exercise", cascade="all, delete-orphan", order_by="Question.position")
+
+
+class Video(Base):
+    """Ressource vidéo gratuite (lien externe uniquement, jamais téléchargée)."""
+    __tablename__ = "videos"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    code: Mapped[str] = mapped_column(String(30), unique=True)
+    title: Mapped[str] = mapped_column(String(200))
+    description: Mapped[str] = mapped_column(Text, default="")
+    category: Mapped[str] = mapped_column(String(60), index=True)
+    source: Mapped[str] = mapped_column(String(80), default="")  # TV5MONDE, RFI, FEI…
+    url: Mapped[str] = mapped_column(String(500))
+    duration: Mapped[str] = mapped_column(String(60), default="")  # « 12 min », « série »
+    level: Mapped[str] = mapped_column(String(10), default=TARGET_LEVEL)
+    exercise: Mapped[list] = mapped_column(JSON, default=list)  # [{prompt, choices, answer, explanation}]
+    related: Mapped[list] = mapped_column(JSON, default=list)  # codes d'exercices liés
+    status: Mapped[str] = mapped_column(String(12), default=STATUS_VALID)
+    origin: Mapped[str] = mapped_column(String(12), default=ORIGIN_BUILTIN)
+    locally_modified: Mapped[bool] = mapped_column(Boolean, default=False)
+    link_status: Mapped[str | None] = mapped_column(String(20), nullable=True)  # ok / erreur
+    link_checked_at: Mapped[datetime | None] = mapped_column(DateTime, nullable=True)
+
+
+class IntensiveDay(Base):
+    """Programme intensif de 30 jours (les quatre compétences chaque jour)."""
+    __tablename__ = "intensive_days"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    day: Mapped[int] = mapped_column(Integer, unique=True)  # 1..30
+    focus: Mapped[str] = mapped_column(String(200))
+    activities: Mapped[list] = mapped_column(JSON)  # [{module, minutes, description, ref}]
+    is_mock_exam: Mapped[bool] = mapped_column(Boolean, default=False)
+    # v1.1 : examen blanc du jour (code) et consigne de la phase
+    exam_code: Mapped[str | None] = mapped_column(String(30), nullable=True)
+    advice: Mapped[str | None] = mapped_column(Text, nullable=True, default="")
+
+
+class IntensiveProgress(Base):
+    __tablename__ = "intensive_progress"
+    __table_args__ = (UniqueConstraint("day_id", "activity_index"),)
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    day_id: Mapped[int] = mapped_column(ForeignKey("intensive_days.id", ondelete="CASCADE"))
+    activity_index: Mapped[int] = mapped_column(Integer)
+    done_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.now)
 
 
 # --------------------------------------------------------------------------

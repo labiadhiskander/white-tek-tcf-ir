@@ -1,0 +1,201 @@
+@slug co-relations-sociales
+@section CO
+@title Relations sociales
+@order 9
+@description Famille, amitié, voisinage, solidarité et vie en société : conversations, conseils et témoignages.
+
+## CO-REL-01 | conversation | F:fr-FR, H:fr-FR
+TITRE: Un conflit de voisinage
+CONTEXTE: Deux voisins discutent dans l'escalier de leur immeuble.
+DOC: F: Bonsoir Monsieur Garnier. Excusez-moi de vous déranger, je voulais vous parler du bruit le soir. / H: Ah… Mes enfants font trop de bruit, c'est ça ? / F: Ce n'est pas vraiment les enfants, c'est plutôt la musique, tard dans la nuit, surtout le week-end. Je travaille très tôt le samedi, et je dors mal en ce moment. / H: Je ne me rendais pas compte que ça s'entendait autant. Mon fils aîné répète avec sa guitare électrique, et les murs sont vraiment fins dans cet immeuble. / F: Je m'en doute, je ne vous accuse de rien. Est-ce qu'on pourrait trouver un arrangement ? Par exemple qu'il arrête vers vingt-deux heures ? / H: C'est tout à fait raisonnable. Je vais lui en parler ce soir. Et n'hésitez pas à frapper chez nous si ça recommence, je préfère que vous me le disiez directement plutôt que d'en arriver au syndic.
+Q: Quelle est la source du bruit ? | information détaillée
++ La guitare électrique du fils aîné tard le soir. | « Mon fils aîné répète avec sa guitare électrique » ; « la musique, tard dans la nuit ».
+- Les jeux des jeunes enfants. | « Ce n'est pas vraiment les enfants. »
+- Des travaux dans l'appartement. | Ce n'est pas évoqué.
+- Une télévision trop forte. | Ce n'est pas mentionné.
+EXP: La voisine corrige l'hypothèse du voisin (« Ce n'est pas vraiment… c'est plutôt… »). La réponse est confirmée par lui ensuite.
+Q: Comment la voisine aborde-t-elle le problème ? | point de vue
++ Avec politesse, sans agressivité, en cherchant une solution. | « Excusez-moi de vous déranger », « je ne vous accuse de rien », « Est-ce qu'on pourrait trouver un arrangement ? »
+- En menaçant d'appeler la police. | Ce n'est pas dit.
+- En se plaignant directement au syndic. | Elle vient parler directement au voisin.
+- En exigeant que la guitare soit vendue. | Elle propose une limite horaire.
+EXP: Les formules de politesse et la proposition d'« arrangement » montrent une démarche conciliante.
+Q: Que préfère le voisin pour l'avenir ? | implicite
++ Que les problèmes soient réglés entre eux, sans intermédiaire. | « Je préfère que vous me le disiez directement plutôt que d'en arriver au syndic. »
+- Que la voisine déménage. | Ce n'est pas dit.
+- Que le syndic intervienne. | Il veut éviter le syndic.
+- Que la voisine ne revienne plus. | Il l'invite à frapper si ça recommence.
+EXP: « Plutôt que d'en arriver à » suggère qu'il veut éviter une escalade du conflit.
+VOCAB: le syndic = la personne ou la société qui gère un immeuble en copropriété = Le syndic a convoqué une réunion. ; un arrangement = un accord à l'amiable = Nous avons trouvé un arrangement. ; aîné = le plus âgé des enfants = Son fils aîné a vingt ans. ; répéter = s'entraîner (musique, théâtre) = Le groupe répète tous les jeudis.
+EXPR: se rendre compte = prendre conscience = Je ne me rendais pas compte de l'heure. ; je m'en doute = je l'imagine bien = Tu es fatigué ? Je m'en doute. ; en arriver à = finir par (une situation extrême) = Ils en sont arrivés à ne plus se parler.
+
+## CO-REL-02 | chronique radio | F:fr-FR
+TITRE: La solitude, un mal moderne ?
+DOC: F: Plus de onze millions de personnes déclarent souffrir de solitude dans notre pays. On pourrait croire que ce phénomène touche surtout les personnes âgées. C'est vrai en partie, mais les études récentes montrent que les jeunes adultes de dix-huit à vingt-cinq ans sont aujourd'hui presque aussi concernés. Paradoxalement, ils n'ont jamais été aussi connectés. Mais avoir des centaines de contacts en ligne ne remplace pas une conversation où l'on se sent écouté. Les spécialistes distinguent d'ailleurs l'isolement, qui se mesure au nombre de relations, et la solitude, qui est un sentiment : on peut être entouré et se sentir profondément seul. Face à ce constat, certaines villes ont nommé un adjoint chargé de la lutte contre la solitude. Une initiative symbolique, peut-être, mais qui a le mérite de reconnaître le problème comme un enjeu collectif.
+Q: Quelle découverte récente la chroniqueuse présente-t-elle ? | information détaillée
++ Les jeunes adultes sont presque autant touchés par la solitude que les personnes âgées. | « Les jeunes adultes… sont aujourd'hui presque aussi concernés. »
+- Les personnes âgées ne souffrent plus de solitude. | Elle dit que c'est « vrai en partie ».
+- La solitude a disparu grâce aux réseaux sociaux. | Ce n'est pas dit.
+- Les jeunes ont moins de contacts en ligne. | Ils n'ont « jamais été aussi connectés ».
+EXP: « On pourrait croire que… C'est vrai en partie, mais… » corrige une idée reçue.
+Q: Quelle distinction les spécialistes font-ils ? | argumentation
++ L'isolement est mesurable, la solitude est un ressenti personnel. | « L'isolement, qui se mesure au nombre de relations, et la solitude, qui est un sentiment. »
+- La solitude concerne les jeunes et l'isolement les personnes âgées. | Ce n'est pas la distinction faite.
+- L'isolement est volontaire, la solitude subie. | Ce n'est pas dit.
+- La solitude est plus grave que l'isolement. | Il n'y a pas de hiérarchie.
+EXP: Les deux relatives définissent chaque terme. L'exemple « on peut être entouré et se sentir profondément seul » illustre la différence.
+Q: Comment la chroniqueuse juge-t-elle la nomination d'un adjoint contre la solitude ? | point de vue
++ Comme un geste peut-être symbolique mais utile pour reconnaître le problème. | « Une initiative symbolique, peut-être, mais qui a le mérite de reconnaître le problème comme un enjeu collectif. »
+- Comme une mesure inutile. | Elle lui reconnaît un mérite.
+- Comme la solution définitive au problème. | Elle la qualifie de « symbolique, peut-être ».
+- Comme une dépense excessive. | Le coût n'est pas évoqué.
+EXP: « Avoir le mérite de » souligne un aspect positif malgré une limite. La concession « peut-être, mais » nuance le jugement.
+VOCAB: l'isolement = le fait d'être séparé des autres = L'isolement géographique pèse sur ce village. ; entouré = qui a des proches autour de soi = Elle est très entourée par sa famille. ; un adjoint = (municipal) un élu qui assiste le maire = L'adjoint à la culture a inauguré l'exposition. ; un enjeu = ce qui est en jeu, une question importante = L'éducation est un enjeu majeur.
+EXPR: avoir le mérite de = présenter l'avantage de = Cette proposition a le mérite d'être claire. ; en partie = partiellement = C'est en partie vrai. ; paradoxalement = de façon apparemment contradictoire = Paradoxalement, il était plus calme après la nouvelle.
+
+## CO-REL-03 | interview | H:fr-FR, F:fr-FR
+TITRE: Les familles recomposées
+CONTEXTE: Un journaliste interroge une thérapeute familiale.
+DOC: H: Aujourd'hui, près d'un enfant sur dix vit dans une famille recomposée. Quelles sont les principales difficultés ? / F: La première, c'est souvent la place du beau-parent. Il arrive avec l'envie de bien faire, mais l'enfant ne l'a pas choisi. S'il veut imposer son autorité trop vite, il sera rejeté. Mon conseil, c'est de laisser le parent biologique gérer la discipline au début, et de construire d'abord une relation de confiance. / H: Et entre les enfants des deux familles ? / F: C'est très variable. Certains deviennent comme frères et sœurs, d'autres se tolèrent à peine. Il ne faut surtout pas forcer l'affection. En revanche, on peut exiger le respect. Ce qui aide beaucoup, ce sont les rituels communs : un repas du dimanche, une activité partagée. Avec le temps, une histoire commune se construit. Mais il faut accepter que cela prenne des années, pas des semaines.
+Q: Quel conseil la thérapeute donne-t-elle au beau-parent ? | argumentation
++ Ne pas imposer son autorité trop tôt et privilégier la confiance. | « Laisser le parent biologique gérer la discipline au début, et de construire d'abord une relation de confiance. »
+- Imposer rapidement des règles strictes. | Il serait alors « rejeté ».
+- Éviter tout contact avec l'enfant. | Elle conseille de construire une relation.
+- Remplacer le parent absent. | Ce n'est pas dit.
+EXP: La conséquence négative (« il sera rejeté ») justifie le conseil introduit par « Mon conseil, c'est… ».
+Q: Que dit-elle des relations entre les enfants des deux familles ? | point de vue
++ On ne peut pas obliger à l'affection, mais on peut demander le respect. | « Il ne faut surtout pas forcer l'affection. En revanche, on peut exiger le respect. »
+- Ils deviennent toujours frères et sœurs. | « C'est très variable. »
+- Il faut les séparer. | Ce n'est pas conseillé.
+- Ils doivent s'aimer dès le premier jour. | Elle dit de ne pas forcer l'affection.
+EXP: « En revanche » oppose deux attentes : l'affection, qu'on ne peut pas imposer, et le respect, qu'on peut exiger.
+Q: Quel message final la thérapeute transmet-elle ? | synthèse
++ La construction d'une famille recomposée demande beaucoup de patience. | « Il faut accepter que cela prenne des années, pas des semaines. »
+- Les familles recomposées échouent souvent. | Ce n'est pas dit.
+- Les rituels sont inutiles. | Elle dit qu'ils aident beaucoup.
+- Les enfants s'adaptent très vite. | C'est l'inverse.
+EXP: L'opposition « des années, pas des semaines » insiste sur la durée nécessaire.
+VOCAB: une famille recomposée = une famille composée d'un couple et d'enfants nés d'unions précédentes = Ils forment une famille recomposée avec cinq enfants. ; un beau-parent = le conjoint du père ou de la mère = Son beau-père l'a élevé. ; biologique = (parent) lié par la naissance = Il a retrouvé son père biologique. ; un rituel = une habitude régulière à valeur symbolique = Le repas du dimanche est un rituel familial.
+EXPR: avoir l'envie de bien faire = vouloir sincèrement réussir = Il a l'envie de bien faire, mais il manque d'expérience. ; se tolérer à peine = se supporter difficilement = Ces deux collègues se tolèrent à peine. ; forcer l'affection = obliger quelqu'un à aimer = On ne peut pas forcer l'affection d'un enfant.
+
+## CO-REL-04 | reportage | F:fr-FR, H:fr-FR
+TITRE: La colocation entre générations
+CONTEXTE: Reportage sur un programme qui met en relation des étudiants et des personnes âgées.
+DOC: F: Monique, quatre-vingt-quatre ans, vit seule dans un grand appartement depuis la mort de son mari. Depuis septembre, elle partage son logement avec Yanis, étudiant en droit. En échange d'un loyer très modeste, il s'engage à dîner avec elle trois soirs par semaine et à être présent la nuit. / H: Au début, j'avais un peu peur que ce soit pesant. Mais Monique est passionnante. Elle a été institutrice pendant quarante ans, elle a des histoires incroyables. Et elle m'aide pour mes dissertations, elle connaît la grammaire mieux que moi ! / F: L'association qui organise ces colocations insiste sur un point : ce n'est pas un service d'aide à domicile. L'étudiant n'est ni infirmier ni aide-soignant. Il s'agit d'une présence et d'un échange. Les deux parties signent une charte qui précise les engagements de chacun, pour éviter les malentendus.
+Q: Quels sont les engagements de l'étudiant ? | information détaillée
++ Partager des repas et assurer une présence la nuit en échange d'un faible loyer. | « Il s'engage à dîner avec elle trois soirs par semaine et à être présent la nuit. »
+- Faire le ménage et les courses. | Ce n'est pas mentionné.
+- Donner des soins médicaux. | « L'étudiant n'est ni infirmier ni aide-soignant. »
+- Payer un loyer élevé. | Le loyer est « très modeste ».
+EXP: « En échange de » présente une contrepartie. Les engagements sont précisés après « il s'engage à ».
+Q: Comment Yanis perçoit-il la cohabitation ? | point de vue
++ Comme un échange enrichissant pour les deux. | Il trouve Monique « passionnante » et elle l'aide pour ses dissertations.
+- Comme une contrainte pesante. | C'était sa crainte au début, démentie ensuite.
+- Comme un emploi rémunéré. | Ce n'est pas un emploi.
+- Comme une solution temporaire en attendant mieux. | Ce n'est pas dit.
+EXP: « Au début, j'avais un peu peur… Mais… » oppose la crainte initiale à l'expérience réelle.
+Q: Sur quel point l'association insiste-t-elle ? | implicite
++ L'étudiant ne remplace pas un professionnel de l'aide aux personnes âgées. | « Ce n'est pas un service d'aide à domicile. L'étudiant n'est ni infirmier ni aide-soignant. »
+- Les étudiants doivent avoir étudié la médecine. | Ce n'est pas dit.
+- Les personnes âgées doivent payer l'étudiant. | Ce n'est pas mentionné.
+- La colocation doit durer au moins cinq ans. | Ce n'est pas évoqué.
+EXP: L'association définit la colocation par la négative (« ce n'est pas… ni… ni… ») avant de dire ce qu'elle est : « une présence et un échange ».
+VOCAB: une colocation = le partage d'un logement entre plusieurs personnes = Il vit en colocation avec deux amis. ; pesant = lourd, difficile à supporter = L'ambiance était pesante. ; une institutrice = une enseignante d'école primaire = L'institutrice apprend à lire aux enfants. ; une charte = un document qui fixe des règles et des engagements = Chaque membre signe la charte.
+EXPR: en échange de = en contrepartie de = Il garde les enfants en échange d'un repas. ; les deux parties = les deux personnes ou groupes concernés par un accord = Les deux parties ont signé le contrat. ; éviter les malentendus = prévenir les erreurs de compréhension = Précisez l'heure pour éviter les malentendus.
+
+## CO-REL-05 | débat radiophonique | H:fr-FR, F:fr-FR
+TITRE: Faut-il rendre le service civique obligatoire ?
+CONTEXTE: Débat entre un député et une représentante d'une association de jeunesse.
+DOC: H: Un service civique obligatoire de six mois permettrait aux jeunes de tous les milieux de se rencontrer. Aujourd'hui, les enfants de cadres et les enfants d'ouvriers vivent dans des mondes séparés. Ce brassage social est essentiel pour la cohésion du pays. / F: L'objectif est louable, mais l'obligation me pose problème. L'engagement, par définition, doit être volontaire. Un jeune qu'on force à aider dans une association risque d'y aller à reculons, et les associations n'ont pas les moyens d'encadrer des centaines de milliers de jeunes démotivés. / H: Beaucoup de jeunes découvrent l'engagement justement parce qu'on les y a poussés. / F: Je ne dis pas le contraire. Mais plutôt que de contraindre, donnons envie : revalorisons l'indemnité, reconnaissons le service civique dans les études et les recrutements. Aujourd'hui, la demande dépasse déjà l'offre de missions.
+Q: Quel est l'argument principal du député ? | argumentation
++ Favoriser le mélange entre jeunes de milieux sociaux différents. | « Permettrait aux jeunes de tous les milieux de se rencontrer… Ce brassage social est essentiel. »
+- Réduire le chômage des jeunes. | Ce n'est pas son argument.
+- Aider financièrement les associations. | Ce n'est pas dit.
+- Remplacer le service militaire. | Ce n'est pas mentionné.
+EXP: Le constat (« des mondes séparés ») justifie l'objectif (« brassage social »).
+Q: Pourquoi la représentante associative s'oppose-t-elle à l'obligation ? | point de vue
++ Elle estime que l'engagement doit être un choix et que les associations ne pourraient pas accueillir tous ces jeunes. | « L'engagement, par définition, doit être volontaire… les associations n'ont pas les moyens d'encadrer des centaines de milliers de jeunes. »
+- Elle pense que les jeunes ne veulent pas s'engager. | Elle dit que la demande dépasse l'offre.
+- Elle rejette l'idée de mixité sociale. | Elle juge l'objectif « louable ».
+- Elle veut supprimer le service civique. | Elle veut le revaloriser.
+EXP: « L'objectif est louable, mais… » : elle partage le but mais conteste le moyen, avec deux arguments (principe et faisabilité).
+Q: Que propose-t-elle à la place ? | synthèse
++ Rendre le service civique plus attractif. | « Plutôt que de contraindre, donnons envie : revalorisons l'indemnité, reconnaissons le service civique dans les études. »
+- Supprimer l'indemnité. | Elle veut la revaloriser.
+- Réserver le service civique aux étudiants. | Ce n'est pas dit.
+- Réduire le nombre de missions. | La demande dépasse déjà l'offre.
+EXP: « Plutôt que de… » oppose contrainte et incitation. La dernière phrase montre que l'obligation est inutile puisque les volontaires ne manquent pas.
+VOCAB: le service civique = un engagement volontaire des jeunes au service de l'intérêt général = Elle fait un service civique dans une école. ; le brassage = le mélange de personnes différentes = Le brassage culturel enrichit la ville. ; la cohésion = l'union, la solidarité d'un groupe = La cohésion de l'équipe est forte. ; louable = digne d'éloges = C'est une intention louable. ; revaloriser = augmenter la valeur ou le montant de = Les salaires ont été revalorisés.
+EXPR: aller à reculons = faire quelque chose sans en avoir envie = Il va au travail à reculons. ; je ne dis pas le contraire = je suis d'accord sur ce point = Tu as raison, je ne dis pas le contraire. ; donner envie = inciter, motiver = Ce film donne envie de voyager.
+
+## CO-REL-06 | message personnel | F:fr-FR
+TITRE: Un message vocal d'une amie
+DOC: F: Coucou Léa, c'est Camille. Je t'appelle parce que je voulais m'excuser pour samedi. Je sais que j'ai été désagréable pendant le dîner, et que ma remarque sur ton nouveau travail était déplacée. Honnêtement, je crois que j'étais un peu jalouse : tu as trouvé un poste qui te plaît, alors que moi, je suis coincée dans un boulot qui m'ennuie depuis des années. Ce n'est pas une excuse, mais je voulais que tu comprennes. Tu comptes beaucoup pour moi, et je n'ai pas envie qu'une bêtise pareille gâche vingt ans d'amitié. Si tu as un moment cette semaine, j'aimerais beaucoup qu'on prenne un café pour en parler. Et si tu as besoin d'un peu de temps, je comprendrai aussi. Je t'embrasse.
+Q: Pourquoi Camille appelle-t-elle Léa ? | compréhension globale
++ Pour s'excuser de son comportement lors d'un dîner. | « Je voulais m'excuser pour samedi. Je sais que j'ai été désagréable pendant le dîner. »
+- Pour la féliciter pour son nouveau travail. | Elle s'excuse d'une remarque déplacée.
+- Pour annuler un rendez-vous. | Elle propose au contraire un café.
+- Pour lui demander de l'aide pour trouver un emploi. | Ce n'est pas dit.
+EXP: L'objet de l'appel est annoncé dès le début : « je t'appelle parce que… ».
+Q: Comment Camille explique-t-elle sa réaction ? | implicite
++ Par un sentiment de jalousie lié à sa propre insatisfaction professionnelle. | « J'étais un peu jalouse : tu as trouvé un poste qui te plaît, alors que moi, je suis coincée dans un boulot qui m'ennuie. »
+- Par la fatigue. | Ce n'est pas dit.
+- Par un malentendu. | Elle reconnaît sa faute.
+- Par un désaccord ancien. | Ce n'est pas mentionné.
+EXP: « Alors que » oppose la situation de Léa et celle de Camille, ce qui explique la jalousie.
+Q: Quelle attitude Camille adopte-t-elle à la fin du message ? | point de vue
++ Elle propose une rencontre tout en respectant le besoin éventuel de recul de son amie. | « J'aimerais beaucoup qu'on prenne un café… Et si tu as besoin d'un peu de temps, je comprendrai aussi. »
+- Elle exige une réponse immédiate. | Elle laisse le choix.
+- Elle met fin à leur amitié. | Elle veut préserver leur amitié.
+- Elle justifie entièrement sa remarque. | « Ce n'est pas une excuse. »
+EXP: Le message combine une demande et une marque de respect, ce qui montre une attitude conciliante.
+VOCAB: désagréable = qui déplaît, peu aimable = Il a été désagréable avec le serveur. ; déplacé = inconvenant, inapproprié = Sa question était déplacée. ; coincé = bloqué dans une situation = Je suis coincé dans les embouteillages. ; gâcher = abîmer, gaspiller = La pluie a gâché la fête.
+EXPR: compter pour quelqu'un = être important pour lui = Tu comptes beaucoup pour moi. ; une bêtise pareille = une chose aussi stupide = Ne fais plus une bêtise pareille. ; ce n'est pas une excuse = cela n'excuse pas = J'étais fatigué, mais ce n'est pas une excuse.
+
+## CO-REL-07 | témoignage | H:fr-CA
+TITRE: S'installer dans un nouveau pays
+DOC: H: Quand je suis arrivé à Montréal il y a quatre ans, je pensais que le plus difficile serait le froid. En fait, le plus dur, ça a été de me faire des amis. Les gens étaient très polis, très accueillants au travail, mais je n'arrivais pas à dépasser ce stade. On se disait « on se fait un souper un de ces jours », et ça ne se faisait jamais. J'ai compris plus tard que c'était une formule de politesse, pas une vraie invitation. Ce qui a tout changé, c'est quand je me suis inscrit dans une équipe de soccer amateur. Là, on se voyait chaque semaine, on avait un objectif commun, et les liens se sont créés naturellement. Mon conseil aux nouveaux arrivants : ne comptez pas sur le travail pour vous faire des amis. Rejoignez une activité régulière, quelle qu'elle soit.
+Q: Qu'est-ce qui a été le plus difficile pour le témoin ? | information détaillée
++ Nouer de véritables amitiés. | « Le plus dur, ça a été de me faire des amis. »
+- Supporter le froid. | Il pensait que ce serait le plus difficile, mais ce ne l'a pas été.
+- Trouver un emploi. | Ce n'est pas dit.
+- Apprendre la langue. | Ce n'est pas mentionné.
+EXP: « Je pensais que… En fait… » oppose une attente et la réalité.
+Q: Qu'a-t-il compris sur la phrase « on se fait un souper un de ces jours » ? | implicite
++ Que c'était une simple formule de politesse. | « J'ai compris plus tard que c'était une formule de politesse, pas une vraie invitation. »
+- Que c'était une invitation précise. | C'est l'inverse.
+- Que ses collègues ne l'aimaient pas. | Il les trouve polis et accueillants.
+- Que le souper était obligatoire. | Ce n'est pas dit.
+EXP: Ce malentendu culturel illustre la différence entre le sens littéral d'une phrase et sa fonction sociale.
+Q: Quel conseil donne-t-il aux nouveaux arrivants ? | synthèse
++ Participer à une activité régulière pour créer des liens. | « Rejoignez une activité régulière, quelle qu'elle soit. »
+- Compter sur ses collègues pour se faire des amis. | « Ne comptez pas sur le travail. »
+- Organiser soi-même des soupers. | Ce n'est pas son conseil.
+- Jouer obligatoirement au soccer. | « Quelle qu'elle soit » montre que l'activité importe peu.
+EXP: Le conseil généralise son expérience : ce qui compte, c'est la régularité et l'objectif commun, pas l'activité elle-même.
+VOCAB: accueillant = qui reçoit avec gentillesse = Les habitants sont très accueillants. ; un souper = (Québec) le repas du soir = On se retrouve pour le souper. ; le soccer = (Québec) le football = Il joue au soccer le samedi. ; un nouvel arrivant = une personne qui vient de s'installer = La ville organise un accueil pour les nouveaux arrivants.
+EXPR: se faire des amis = créer des amitiés = Il s'est fait beaucoup d'amis à l'université. ; dépasser ce stade = aller plus loin que ce niveau = Leur relation n'a jamais dépassé ce stade. ; quelle qu'elle soit = peu importe laquelle = Choisissez une activité, quelle qu'elle soit.
+
+## CO-REL-08 | journal radio | F:fr-FR
+TITRE: Le bénévolat en baisse chez les retraités
+DOC: F: Le nombre de bénévoles dans les associations a reculé de quinze pour cent en cinq ans, selon une étude publiée ce matin. Surprise : la baisse est particulièrement marquée chez les jeunes retraités, longtemps considérés comme le pilier du monde associatif. Plusieurs explications sont avancées. Les jeunes retraités s'occupent de plus en plus de leurs petits-enfants, mais aussi de leurs propres parents très âgés. Coincés entre deux générations, ils ont moins de temps disponible. L'étude note aussi un changement dans les attentes : les nouveaux bénévoles préfèrent des engagements ponctuels, sur un projet précis, plutôt qu'une responsabilité régulière pendant des années. Les associations doivent donc repenser leur fonctionnement, en proposant des missions plus courtes et plus flexibles.
+Q: Quelle est la surprise révélée par l'étude ? | information détaillée
++ La baisse du bénévolat est forte chez les jeunes retraités. | « La baisse est particulièrement marquée chez les jeunes retraités, longtemps considérés comme le pilier du monde associatif. »
+- Le bénévolat augmente chez les jeunes. | Ce n'est pas dit.
+- Les associations recrutent trop de bénévoles. | C'est l'inverse.
+- Les retraités ont plus de temps libre qu'avant. | Ils en ont moins.
+EXP: « Surprise : » introduit l'élément inattendu. « Pilier » souligne qu'ils étaient essentiels jusqu'alors.
+Q: Pourquoi les jeunes retraités ont-ils moins de temps disponible ? | argumentation
++ Ils aident à la fois leurs petits-enfants et leurs parents âgés. | « Coincés entre deux générations, ils ont moins de temps disponible. »
+- Ils continuent à travailler. | Ce n'est pas dit.
+- Ils voyagent beaucoup. | Ce n'est pas mentionné.
+- Ils sont souvent malades. | Ce n'est pas évoqué.
+EXP: L'expression « coincés entre deux générations » résume les deux responsabilités familiales citées juste avant.
+Q: Que doivent faire les associations, selon l'étude ? | synthèse
++ Proposer des missions plus courtes et adaptables. | « En proposant des missions plus courtes et plus flexibles. »
+- Rémunérer leurs bénévoles. | Ce n'est pas proposé.
+- Recruter uniquement des retraités. | Ce n'est pas dit.
+- Fermer les antennes locales. | Ce n'est pas mentionné.
+EXP: La solution découle du changement d'attentes : les bénévoles veulent des engagements « ponctuels ».
+VOCAB: un pilier = (figuré) un élément essentiel sur lequel quelque chose repose = Elle est le pilier de la famille. ; ponctuel = qui a lieu une seule fois ou occasionnellement = Il fait des missions ponctuelles. ; flexible = adaptable, souple = Ses horaires sont flexibles. ; le monde associatif = l'ensemble des associations = Le monde associatif manque de bénévoles.
+EXPR: coincé entre = bloqué entre deux contraintes = Il est coincé entre son travail et sa famille. ; être marqué = être net, important = La hausse est particulièrement marquée en ville. ; repenser = réfléchir à nouveau et modifier = Il faut repenser notre stratégie.

@@ -29,11 +29,11 @@ def ctx(db, tmp_paths, content_root, qapp):
     return AppContext(paths=tmp_paths, db=db, log=setup_logging(tmp_paths.logs))
 
 
-def test_main_window_has_15_entries_and_all_pages_render(ctx):
-    from tcfmaster.ui.main_window import MainWindow
+def test_main_window_has_all_entries_and_all_pages_render(ctx):
+    from tcfmaster.ui.main_window import MAIN_MENU_SIZE, MainWindow
     w = MainWindow(ctx)
-    assert w.nav.count() == 15
-    for i in range(15):
+    assert w.nav.count() == MAIN_MENU_SIZE >= 16   # 15 entrées v1.0 + bibliothèque B2
+    for i in range(MAIN_MENU_SIZE):
         w.nav.setCurrentRow(i)
         assert w.stack.currentIndex() == i
     w.close()

@@ -1,0 +1,1182 @@
+{
+ "slug": "co-culture-medias",
+ "section": "CO",
+ "title": "Culture et médias",
+ "description": "Cinéma, musique, lecture, patrimoine et médias : critiques, interviews d'artistes et débats culturels.",
+ "order": 7,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CO-CUL-01",
+   "level": "B2",
+   "doc_type": "critique radio",
+   "questions": [
+    {
+     "prompt": "Quel élément du film fait l'unanimité entre les deux critiques ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Le budget important du film.",
+       "correct": false,
+       "rationale": "Le budget est « minuscule ».",
+       "label": "A"
+      },
+      {
+       "text": "Le scénario de la seconde moitié.",
+       "correct": false,
+       "rationale": "Elle critique justement cette partie.",
+       "label": "B"
+      },
+      {
+       "text": "La performance de la jeune actrice.",
+       "correct": true,
+       "rationale": "Il la trouve « bouleversante » et elle répond « Je suis d'accord sur l'actrice ».",
+       "label": "C"
+      },
+      {
+       "text": "La durée du film.",
+       "correct": false,
+       "rationale": "La durée n'est pas évoquée, seulement des « longueurs ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "Dans un échange critique, cherchez les marques d'accord explicite (« Je suis d'accord sur… ») avant les désaccords introduits par « Mais »."
+    },
+    {
+     "prompt": "Que reproche la critique au film ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Une mauvaise interprétation des acteurs.",
+       "correct": false,
+       "rationale": "Elle loue l'actrice.",
+       "label": "A"
+      },
+      {
+       "text": "Un scénario qui faiblit et devient répétitif.",
+       "correct": true,
+       "rationale": "« Le scénario s'essouffle dans la seconde moitié, on a l'impression de revoir les mêmes scènes. »",
+       "label": "B"
+      },
+      {
+       "text": "Un sujet sans intérêt.",
+       "correct": false,
+       "rationale": "Le sujet est jugé « fort ».",
+       "label": "C"
+      },
+      {
+       "text": "Une image de mauvaise qualité.",
+       "correct": false,
+       "rationale": "L'image n'est pas évoquée.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« S'essouffler » signifie perdre de son énergie, de son intérêt. Le reproche est précisé par l'idée de répétition."
+    },
+    {
+     "prompt": "Sur quoi les deux critiques divergent-ils finalement ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Sur la qualité du sujet.",
+       "correct": false,
+       "rationale": "Ils ne s'opposent pas sur ce point.",
+       "label": "A"
+      },
+      {
+       "text": "Sur le prix des places de cinéma.",
+       "correct": false,
+       "rationale": "Elle évoque le prix comme argument, sans désaccord sur ce point.",
+       "label": "B"
+      },
+      {
+       "text": "Sur le talent de l'actrice.",
+       "correct": false,
+       "rationale": "Ils sont d'accord.",
+       "label": "C"
+      },
+      {
+       "text": "Sur l'indulgence qu'il faut accorder à un premier film.",
+       "correct": true,
+       "rationale": "Il préfère « saluer l'audace » ; elle trouve qu'« on est parfois trop indulgents avec les premiers films ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le désaccord porte sur un critère de jugement, pas sur le film lui-même : faut-il juger un premier film avec plus de bienveillance ?"
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Un premier film très attendu",
+   "context": "Deux critiques discutent d'un film qui sort cette semaine.",
+   "document": "F: Alors, ce premier film dont tout le monde parle depuis le festival, tu l'as aimé ? / H: J'ai envie de dire oui, mais avec des réserves. Le sujet est fort : une adolescente qui doit s'occuper seule de son petit frère après l'hospitalisation de sa mère. Et la jeune actrice est absolument bouleversante, elle porte le film sur ses épaules. / F: Je suis d'accord sur l'actrice. Mais justement, tu ne trouves pas que la réalisatrice compte trop sur elle ? Le scénario s'essouffle dans la seconde moitié, on a l'impression de revoir les mêmes scènes. / H: C'est vrai qu'il y a des longueurs. Mais pour un premier film, réalisé avec un budget minuscule, je préfère saluer l'audace plutôt que de pointer les maladresses. / F: Moi, je trouve qu'on est parfois trop indulgents avec les premiers films. Le public, lui, paie sa place au même prix.",
+   "vocabulary": [
+    {
+     "terme": "bouleversant",
+     "definition": "qui émeut profondément",
+     "exemple": "Son témoignage est bouleversant."
+    },
+    {
+     "terme": "s'essouffler",
+     "definition": "perdre son énergie, son rythme",
+     "exemple": "La série s'essouffle à la troisième saison."
+    },
+    {
+     "terme": "une longueur",
+     "definition": "un passage trop long et ennuyeux",
+     "exemple": "Ce roman a quelques longueurs."
+    },
+    {
+     "terme": "indulgent",
+     "definition": "qui pardonne facilement, peu sévère",
+     "exemple": "Le jury a été indulgent."
+    },
+    {
+     "terme": "une maladresse",
+     "definition": "une erreur due au manque d'habileté",
+     "exemple": "Ce texte contient quelques maladresses."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "porter un film sur ses épaules",
+     "sens": "être l'élément principal de sa réussite",
+     "exemple": "Cet acteur porte la série sur ses épaules."
+    },
+    {
+     "expression": "avec des réserves",
+     "sens": "avec certaines critiques",
+     "exemple": "J'approuve, mais avec des réserves."
+    },
+    {
+     "expression": "pointer",
+     "sens": "signaler, mettre en évidence",
+     "exemple": "Le rapport pointe plusieurs erreurs."
+    }
+   ]
+  },
+  {
+   "code": "CO-CUL-02",
+   "level": "B2",
+   "doc_type": "interview",
+   "questions": [
+    {
+     "prompt": "Qu'est-ce qui protège les librairies face au commerce en ligne ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "La loi qui impose le même prix pour un livre partout.",
+       "correct": true,
+       "rationale": "« Le prix unique du livre nous protège : un roman coûte le même prix chez moi que sur Internet. »",
+       "label": "A"
+      },
+      {
+       "text": "Une marge très élevée sur chaque livre.",
+       "correct": false,
+       "rationale": "La marge est « faible ».",
+       "label": "B"
+      },
+      {
+       "text": "Des aides de l'État.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Des livres exclusifs.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le « Mais » oppose la difficulté (marge faible) et la protection (prix unique)."
+    },
+    {
+     "prompt": "Quel avantage la libraire oppose-t-elle aux algorithmes ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Des prix plus bas qu'en ligne.",
+       "correct": false,
+       "rationale": "Les prix sont identiques.",
+       "label": "A"
+      },
+      {
+       "text": "Une livraison plus rapide.",
+       "correct": false,
+       "rationale": "La livraison n'est pas évoquée.",
+       "label": "B"
+      },
+      {
+       "text": "Un choix de livres plus large.",
+       "correct": false,
+       "rationale": "Le choix n'est pas comparé.",
+       "label": "C"
+      },
+      {
+       "text": "Sa capacité à faire découvrir des livres inattendus.",
+       "correct": true,
+       "rationale": "« Moi, je peux vous faire découvrir quelque chose auquel vous n'auriez jamais pensé. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'opposition « Un algorithme… / Moi… » met en relief la différence : l'algorithme propose du semblable, la libraire de l'inattendu."
+    },
+    {
+     "prompt": "Pourquoi la libraire organise-t-elle des événements ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Pour obtenir des subventions.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que les auteurs l'exigent.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Pour faire de la librairie un lieu de rencontre que les sites ne peuvent pas remplacer.",
+       "correct": true,
+       "rationale": "« Les gens ne viennent pas seulement acheter un livre, ils viennent partager quelque chose. C'est ce qu'aucun site ne pourra leur offrir. »",
+       "label": "C"
+      },
+      {
+       "text": "Pour vendre des billets d'entrée.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Lieu de vie » et « partager » expriment la dimension sociale que la libraire met en avant comme argument face au commerce en ligne."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "Une libraire indépendante face aux géants du commerce en ligne",
+   "context": "Un journaliste interroge une libraire qui a ouvert sa boutique dans une petite ville.",
+   "document": "H: Ouvrir une librairie aujourd'hui, ce n'est pas un peu risqué ? / F: Tout le monde me l'a dit ! Et c'est vrai que la marge est faible : sur un livre de vingt euros, il me reste à peine sept euros pour payer le loyer, les salaires, le chauffage. Mais le prix unique du livre nous protège : un roman coûte le même prix chez moi que sur Internet. Ce qui fait la différence, c'est le conseil. Un algorithme vous propose ce qui ressemble à ce que vous avez déjà lu. Moi, je peux vous faire découvrir quelque chose auquel vous n'auriez jamais pensé. / H: Et ça suffit ? / F: Pas toujours. Il faut aussi que la librairie devienne un lieu de vie : on organise des rencontres avec des auteurs, des lectures pour les enfants, un club de lecture. Les gens ne viennent pas seulement acheter un livre, ils viennent partager quelque chose. C'est ce qu'aucun site ne pourra leur offrir.",
+   "vocabulary": [
+    {
+     "terme": "une marge",
+     "definition": "la différence entre le prix de vente et le coût",
+     "exemple": "La marge des libraires est faible."
+    },
+    {
+     "terme": "le prix unique du livre",
+     "definition": "une loi qui fixe le même prix de vente partout",
+     "exemple": "Le prix unique du livre existe en France depuis 1981."
+    },
+    {
+     "terme": "un club de lecture",
+     "definition": "un groupe qui se réunit pour parler de livres",
+     "exemple": "Elle anime un club de lecture."
+    },
+    {
+     "terme": "un lieu de vie",
+     "definition": "un endroit animé où les gens se rencontrent",
+     "exemple": "Le marché est un lieu de vie du quartier."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "tout le monde me l'a dit",
+     "sens": "c'est une remarque que j'ai souvent entendue",
+     "exemple": "C'est risqué ? Tout le monde me l'a dit !"
+    },
+    {
+     "expression": "faire la différence",
+     "sens": "être l'élément décisif",
+     "exemple": "Le service fait la différence."
+    },
+    {
+     "expression": "ce n'est pas un peu… ?",
+     "sens": "n'est-ce pas trop… ? (question polie)",
+     "exemple": "Ce n'est pas un peu cher ?"
+    }
+   ]
+  },
+  {
+   "code": "CO-CUL-03",
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "questions": [
+    {
+     "prompt": "Quelles causes de la défiance envers les médias le chroniqueur cite-t-il ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "La censure gouvernementale.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "La concentration des médias, la recherche d'audience et la confusion sur les réseaux sociaux.",
+       "correct": true,
+       "rationale": "Il énumère ces trois causes après « Les causes sont connues ».",
+       "label": "B"
+      },
+      {
+       "text": "Le prix trop élevé des journaux.",
+       "correct": false,
+       "rationale": "Le prix n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Le manque de journalistes.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les deux-points après « Les causes sont connues » introduisent une énumération. Une question de ce type demande de retrouver l'ensemble des éléments."
+    },
+    {
+     "prompt": "Quel paradoxe le chroniqueur observe-t-il chez les lecteurs ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Ils se disent méfiants mais diffusent des informations sans les vérifier.",
+       "correct": true,
+       "rationale": "« Beaucoup affirment se méfier des médias tout en partageant sans vérification des contenus dont ils ignorent l'origine. »",
+       "label": "A"
+      },
+      {
+       "text": "Ils lisent beaucoup de journaux mais n'en achètent aucun.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Ils font confiance aux grands groupes industriels.",
+       "correct": false,
+       "rationale": "Ce n'est pas son propos.",
+       "label": "C"
+      },
+      {
+       "text": "Ils refusent d'utiliser les réseaux sociaux.",
+       "correct": false,
+       "rationale": "Ils y partagent des contenus.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Tout en » associe deux attitudes contradictoires, ce qui constitue le paradoxe."
+    },
+    {
+     "prompt": "Quelle conclusion le chroniqueur tire-t-il ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Il faut interdire les réseaux sociaux.",
+       "correct": false,
+       "rationale": "Ce n'est pas proposé.",
+       "label": "A"
+      },
+      {
+       "text": "L'éducation aux médias est indispensable dès l'école.",
+       "correct": true,
+       "rationale": "« L'éducation aux médias, dès l'école, apparaît donc moins comme un luxe que comme une nécessité. »",
+       "label": "B"
+      },
+      {
+       "text": "Les médias doivent devenir gratuits.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Les lecteurs ont raison de se méfier de tout.",
+       "correct": false,
+       "rationale": "Il critique une méfiance non critique.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Donc » introduit la conclusion. « Moins comme un luxe que comme une nécessité » affirme son importance."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "title": "La confiance dans les médias",
+   "document": "H: Selon un sondage annuel, moins d'un Français sur trois déclare faire confiance aux médias pour l'informer. Un chiffre préoccupant pour une démocratie. Les causes sont connues : la concentration des journaux entre les mains de quelques grands groupes industriels, la course à l'audience qui privilégie le spectaculaire, et la confusion entretenue sur les réseaux sociaux entre information et opinion. Mais il faut aussi regarder du côté des lecteurs. Beaucoup affirment se méfier des médias tout en partageant sans vérification des contenus dont ils ignorent l'origine. La défiance n'est pas toujours synonyme d'esprit critique : elle peut aussi conduire à croire n'importe quelle source, pourvu qu'elle se présente comme « alternative ». L'éducation aux médias, dès l'école, apparaît donc moins comme un luxe que comme une nécessité.",
+   "vocabulary": [
+    {
+     "terme": "la défiance",
+     "definition": "la méfiance, le manque de confiance",
+     "exemple": "La défiance envers les institutions grandit."
+    },
+    {
+     "terme": "l'audience",
+     "definition": "le nombre de personnes qui regardent ou écoutent un média",
+     "exemple": "Cette émission a une forte audience."
+    },
+    {
+     "terme": "la concentration",
+     "definition": "(économie) le regroupement entre quelques entreprises",
+     "exemple": "La concentration des médias inquiète."
+    },
+    {
+     "terme": "l'esprit critique",
+     "definition": "la capacité à examiner une information avant de l'accepter",
+     "exemple": "L'école doit développer l'esprit critique."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "pourvu que",
+     "sens": "à condition que",
+     "exemple": "Je viendrai, pourvu qu'il fasse beau."
+    },
+    {
+     "expression": "regarder du côté de",
+     "sens": "examiner aussi",
+     "exemple": "Il faut aussi regarder du côté des parents."
+    },
+    {
+     "expression": "ne pas être synonyme de",
+     "sens": "ne pas signifier nécessairement",
+     "exemple": "Richesse n'est pas synonyme de bonheur."
+    }
+   ]
+  },
+  {
+   "code": "CO-CUL-04",
+   "level": "B2",
+   "doc_type": "reportage",
+   "questions": [
+    {
+     "prompt": "Quel impact économique le maire décrit-il ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Le festival fait perdre de l'argent à la commune.",
+       "correct": false,
+       "rationale": "Il est « vital ».",
+       "label": "A"
+      },
+      {
+       "text": "Le festival a augmenté le nombre d'habitants permanents.",
+       "correct": false,
+       "rationale": "La population augmente seulement pendant une semaine.",
+       "label": "B"
+      },
+      {
+       "text": "Le festival représente une part importante des revenus des commerces locaux.",
+       "correct": true,
+       "rationale": "« Les deux restaurants font un tiers de leur chiffre d'affaires cette semaine-là. »",
+       "label": "C"
+      },
+      {
+       "text": "Le festival a créé de nombreuses entreprises.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'adjectif « vital » et l'exemple chiffré des restaurants illustrent l'importance économique."
+    },
+    {
+     "prompt": "Qu'est-ce qui compte le plus pour le maire ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "La découverte de la musique par les enfants du village.",
+       "correct": true,
+       "rationale": "« L'essentiel est ailleurs. Des enfants d'ici… ont découvert la musique classique. »",
+       "label": "A"
+      },
+      {
+       "text": "La location de chambres.",
+       "correct": false,
+       "rationale": "C'est un exemple économique, pas l'essentiel.",
+       "label": "B"
+      },
+      {
+       "text": "La venue de musiciens célèbres.",
+       "correct": false,
+       "rationale": "Ce n'est pas ce qu'il met en avant.",
+       "label": "C"
+      },
+      {
+       "text": "Les bénéfices des restaurants.",
+       "correct": false,
+       "rationale": "Il dit que « l'essentiel est ailleurs ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Mais pour moi, l'essentiel est ailleurs » écarte l'aspect économique au profit de la dimension éducative et culturelle."
+    },
+    {
+     "prompt": "Quel problème le succès du festival a-t-il créé ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les musiciens ne veulent plus venir.",
+       "correct": false,
+       "rationale": "Ils sont de renommée internationale.",
+       "label": "A"
+      },
+      {
+       "text": "Le village manque de restaurants.",
+       "correct": false,
+       "rationale": "Ce n'est pas le problème cité.",
+       "label": "B"
+      },
+      {
+       "text": "Les enfants n'ont plus accès aux répétitions.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Le prix des billets exclut une partie des habitants.",
+       "correct": true,
+       "rationale": "« Les billets, de plus en plus chers, deviennent inaccessibles pour une partie des habitants. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Le succès a pourtant son revers » annonce l'inconvénient. La solution promise (quota de places gratuites) confirme le problème."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Un festival de musique dans un village",
+   "context": "Reportage dans un petit village qui accueille chaque été un festival de musique classique.",
+   "document": "F: Ce village de quatre cents habitants voit sa population multipliée par dix pendant une semaine chaque été. Le festival, créé il y a vingt-cinq ans par un pianiste originaire de la région, attire désormais des musiciens de renommée internationale. Pierre, le maire, mesure l'impact. / H: Économiquement, c'est vital. Les deux restaurants font un tiers de leur chiffre d'affaires cette semaine-là, les habitants louent des chambres. Mais pour moi, l'essentiel est ailleurs. Des enfants d'ici, qui n'avaient jamais mis les pieds dans une salle de concert, ont découvert la musique classique grâce aux répétitions ouvertes. Deux d'entre eux sont aujourd'hui au conservatoire. / F: Le succès a pourtant son revers : les billets, de plus en plus chers, deviennent inaccessibles pour une partie des habitants. La direction promet de réserver chaque année un quota de places gratuites aux villageois.",
+   "vocabulary": [
+    {
+     "terme": "de renommée internationale",
+     "definition": "connu dans le monde entier",
+     "exemple": "Un chef de renommée internationale dirige l'orchestre."
+    },
+    {
+     "terme": "le chiffre d'affaires",
+     "definition": "le total des ventes d'une entreprise",
+     "exemple": "Le chiffre d'affaires a doublé."
+    },
+    {
+     "terme": "un conservatoire",
+     "definition": "une école de musique, de danse ou de théâtre",
+     "exemple": "Elle étudie le violon au conservatoire."
+    },
+    {
+     "terme": "un quota",
+     "definition": "une quantité limitée fixée à l'avance",
+     "exemple": "Un quota de places est réservé aux étudiants."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "mettre les pieds dans",
+     "sens": "entrer dans, aller dans",
+     "exemple": "Il n'a jamais mis les pieds dans un musée."
+    },
+    {
+     "expression": "avoir son revers",
+     "sens": "avoir un inconvénient",
+     "exemple": "La célébrité a son revers."
+    },
+    {
+     "expression": "l'essentiel est ailleurs",
+     "sens": "ce qui compte vraiment est autre chose",
+     "exemple": "Le prix ? L'essentiel est ailleurs."
+    }
+   ]
+  },
+  {
+   "code": "CO-CUL-05",
+   "level": "B2",
+   "doc_type": "débat radiophonique",
+   "questions": [
+    {
+     "prompt": "Quel argument le directeur avance-t-il contre la gratuité ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les visiteurs abîmeraient les œuvres.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Les recettes des entrées sont indispensables au fonctionnement du musée.",
+       "correct": true,
+       "rationale": "« Les entrées financent une part importante de nos expositions et de l'entretien des collections. »",
+       "label": "B"
+      },
+      {
+       "text": "L'État refuse de financer les musées.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Les musées seraient trop fréquentés.",
+       "correct": false,
+       "rationale": "Ce n'est pas son argument.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« C'est une belle idée, mais elle a un coût » : la concession précède l'argument financier."
+    },
+    {
+     "prompt": "Sur quel point la sociologue donne-t-elle partiellement raison au directeur ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "La gratuité coûte trop cher.",
+       "correct": false,
+       "rationale": "Elle ne le concède pas.",
+       "label": "A"
+      },
+      {
+       "text": "Les impôts sont trop élevés.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Les musées doivent rester payants.",
+       "correct": false,
+       "rationale": "Elle défend la gratuité.",
+       "label": "C"
+      },
+      {
+       "text": "Le prix n'est pas le seul frein à la fréquentation des musées.",
+       "correct": true,
+       "rationale": "« Là, je vous rejoins en partie. Le prix n'est pas le seul obstacle. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Je vous rejoins en partie » est une formule d'accord partiel. Elle reconnaît l'argument tout en maintenant sa position."
+    },
+    {
+     "prompt": "Que signifie la dernière phrase de la sociologue ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "La gratuité est la solution à tous les problèmes.",
+       "correct": false,
+       "rationale": "Elle dit qu'elle n'est pas suffisante.",
+       "label": "A"
+      },
+      {
+       "text": "Il faut d'abord ouvrir de nouveaux musées.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "La gratuité ne suffit pas seule, mais sans elle les autres actions perdent en efficacité.",
+       "correct": true,
+       "rationale": "« Ce n'est pas une solution suffisante, mais c'est une condition nécessaire. »",
+       "label": "C"
+      },
+      {
+       "text": "La gratuité est inutile.",
+       "correct": false,
+       "rationale": "Elle la juge nécessaire.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La distinction « suffisante / nécessaire » est un raisonnement logique fréquent en argumentation."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-BE"
+   ],
+   "title": "Faut-il rendre les musées gratuits ?",
+   "context": "Débat entre un directeur de musée et une sociologue de la culture.",
+   "document": "H: La gratuité, c'est une belle idée, mais elle a un coût. Les entrées financent une part importante de nos expositions et de l'entretien des collections. Si on les supprime, qui paiera ? / F: L'État, c'est-à-dire tout le monde, et c'est justement ce qui serait juste. Les musées sont financés en grande partie par nos impôts. Il est paradoxal de faire payer une seconde fois ceux qui veulent en profiter. / H: Mais les études montrent que la gratuité attire surtout ceux qui venaient déjà. Le public populaire, on ne le fait pas venir en supprimant un billet de douze euros. / F: Là, je vous rejoins en partie. Le prix n'est pas le seul obstacle : beaucoup de gens pensent que le musée n'est pas fait pour eux. Mais la gratuité lève au moins une barrière. Il faut l'accompagner de médiation, d'actions dans les quartiers, d'horaires adaptés. Ce n'est pas une solution suffisante, mais c'est une condition nécessaire.",
+   "vocabulary": [
+    {
+     "terme": "la gratuité",
+     "definition": "le fait d'être gratuit",
+     "exemple": "La gratuité des transports est débattue."
+    },
+    {
+     "terme": "la médiation",
+     "definition": "(culture) les actions pour rapprocher le public des œuvres",
+     "exemple": "Le musée a renforcé la médiation auprès des scolaires."
+    },
+    {
+     "terme": "les collections",
+     "definition": "l'ensemble des œuvres d'un musée",
+     "exemple": "Le musée expose une partie de ses collections."
+    },
+    {
+     "terme": "lever une barrière",
+     "definition": "supprimer un obstacle",
+     "exemple": "Ce dispositif lève une barrière à l'emploi."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "je vous rejoins",
+     "sens": "je suis d'accord avec vous",
+     "exemple": "Sur ce point, je vous rejoins."
+    },
+    {
+     "expression": "c'est-à-dire",
+     "sens": "autrement dit",
+     "exemple": "L'État, c'est-à-dire les contribuables."
+    },
+    {
+     "expression": "être fait pour",
+     "sens": "être destiné à, convenir à",
+     "exemple": "Ce métier n'est pas fait pour lui."
+    }
+   ]
+  },
+  {
+   "code": "CO-CUL-06",
+   "level": "B2",
+   "doc_type": "interview",
+   "questions": [
+    {
+     "prompt": "Quelle crainte l'éditeur avait-il ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Que les lecteurs européens aient du mal à comprendre la langue utilisée.",
+       "correct": true,
+       "rationale": "« Il craignait que les lecteurs européens ne comprennent pas. »",
+       "label": "A"
+      },
+      {
+       "text": "Que l'auteur abandonne la bande dessinée.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Que les albums coûtent trop cher à traduire.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Que les personnages soient trop nombreux.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le « ne » après « craindre que » est un ne explétif : il n'a pas de valeur négative. La crainte est que les lecteurs ne comprennent pas."
+    },
+    {
+     "prompt": "Comment la langue locale de l'auteur a-t-elle été finalement perçue ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Comme une langue incompréhensible.",
+       "correct": false,
+       "rationale": "Un simple lexique a suffi.",
+       "label": "A"
+      },
+      {
+       "text": "Comme une erreur à corriger.",
+       "correct": false,
+       "rationale": "Il a refusé de la lisser.",
+       "label": "B"
+      },
+      {
+       "text": "Comme un atout qui donne aux lecteurs un sentiment de dépaysement.",
+       "correct": true,
+       "rationale": "« C'est devenu une force : les lecteurs français me disent qu'ils ont l'impression de voyager. »",
+       "label": "C"
+      },
+      {
+       "text": "Comme un obstacle majeur à la vente.",
+       "correct": false,
+       "rationale": "C'est la crainte initiale, démentie.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Finalement » marque l'opposition entre la crainte initiale et le résultat réel."
+    },
+    {
+     "prompt": "Quelle est l'attitude de l'auteur face au rôle de défenseur d'une identité ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Il pense que toutes les langues devraient se ressembler.",
+       "correct": false,
+       "rationale": "Il craint justement cette uniformisation.",
+       "label": "A"
+      },
+      {
+       "text": "Il le refuse en partie, tout en reconnaissant un enjeu de diversité linguistique.",
+       "correct": true,
+       "rationale": "« Je n'aime pas trop ce rôle de porte-drapeau… Mais c'est vrai que… toutes les langues finiront par se ressembler. »",
+       "label": "B"
+      },
+      {
+       "text": "Il l'accepte avec fierté.",
+       "correct": false,
+       "rationale": "Il dit ne pas aimer ce rôle.",
+       "label": "C"
+      },
+      {
+       "text": "Il se considère comme un homme politique.",
+       "correct": false,
+       "rationale": "« Je ne fais pas de politique. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La réponse est nuancée : refus du rôle (« pas trop ») puis concession (« Mais c'est vrai que »). « Ma petite résistance » montre une forme d'engagement modeste."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-CA"
+   ],
+   "title": "Un auteur de bande dessinée et la langue française",
+   "context": "Une journaliste interroge un auteur québécois de bande dessinée.",
+   "document": "F: Vos albums sont traduits dans plusieurs langues, mais vous écrivez en français québécois, avec des expressions très locales. Ce n'est pas un frein ? / H: Mon éditeur m'a posé la même question au début ! Il craignait que les lecteurs européens ne comprennent pas. J'ai refusé de lisser ma langue. Les personnages parlent comme les gens que je connais, sinon ils sonnent faux. Et finalement, c'est devenu une force : les lecteurs français me disent qu'ils ont l'impression de voyager. On a ajouté un petit lexique à la fin, c'est tout. / F: Vous vous sentez porteur d'une identité ? / H: Je n'aime pas trop ce rôle de porte-drapeau. Je raconte des histoires, je ne fais pas de politique. Mais c'est vrai que si les créateurs abandonnent leur façon de parler pour plaire au plus grand nombre, toutes les langues finiront par se ressembler. C'est peut-être ça, ma petite résistance.",
+   "vocabulary": [
+    {
+     "terme": "lisser",
+     "definition": "(figuré) rendre uniforme, supprimer les particularités",
+     "exemple": "Il a refusé de lisser son style."
+    },
+    {
+     "terme": "sonner faux",
+     "definition": "paraître artificiel, peu crédible",
+     "exemple": "Ce dialogue sonne faux."
+    },
+    {
+     "terme": "un lexique",
+     "definition": "une liste de mots avec leur explication",
+     "exemple": "Un lexique figure à la fin du livre."
+    },
+    {
+     "terme": "un porte-drapeau",
+     "definition": "(figuré) une personne qui représente une cause",
+     "exemple": "Elle est devenue la porte-drapeau du mouvement."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "c'est tout",
+     "sens": "rien de plus",
+     "exemple": "On a juste changé le titre, c'est tout."
+    },
+    {
+     "expression": "plaire au plus grand nombre",
+     "sens": "satisfaire le maximum de personnes",
+     "exemple": "Ce film cherche à plaire au plus grand nombre."
+    },
+    {
+     "expression": "finir par",
+     "sens": "arriver finalement à",
+     "exemple": "Il a fini par accepter."
+    }
+   ]
+  },
+  {
+   "code": "CO-CUL-07",
+   "level": "B2",
+   "doc_type": "journal radio",
+   "questions": [
+    {
+     "prompt": "Quel effet positif le chantier a-t-il eu sur les métiers d'art ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Il a permis de transmettre des savoir-faire menacés.",
+       "correct": true,
+       "rationale": "« Une partie de ces savoir-faire avait presque disparu, et il a fallu former de jeunes apprentis. »",
+       "label": "A"
+      },
+      {
+       "text": "Il a supprimé des emplois d'artisans.",
+       "correct": false,
+       "rationale": "Il en a mobilisé plus de deux cents.",
+       "label": "B"
+      },
+      {
+       "text": "Il a remplacé les artisans par des machines.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Il a été réalisé uniquement par des artisans étrangers.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'effet positif n'est pas formulé directement : on le déduit du fait que des apprentis ont été formés à des métiers en voie de disparition."
+    },
+    {
+     "prompt": "Comment la restauration a-t-elle été financée ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Par la vente de billets d'entrée.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Par un emprunt de la ville.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Entièrement par l'État.",
+       "correct": false,
+       "rationale": "La moitié vient des dons.",
+       "label": "C"
+      },
+      {
+       "text": "En partie grâce à la générosité de particuliers et d'entreprises.",
+       "correct": true,
+       "rationale": "« Couvert pour moitié par des dons de particuliers et d'entreprises. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Pour moitié » signifie à cinquante pour cent. L'autre moitié n'est pas précisée."
+    },
+    {
+     "prompt": "Quel débat la reconstruction a-t-elle suscité ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Celui du choix entre une reconstruction fidèle et une création moderne.",
+       "correct": true,
+       "rationale": "« Le choix de reconstruire la flèche à l'identique, plutôt que de proposer une architecture contemporaine, avait suscité un vif débat. »",
+       "label": "A"
+      },
+      {
+       "text": "Celui du coût trop élevé des travaux.",
+       "correct": false,
+       "rationale": "Le coût est donné sans polémique.",
+       "label": "B"
+      },
+      {
+       "text": "Celui de la fermeture définitive de la cathédrale.",
+       "correct": false,
+       "rationale": "Elle rouvre.",
+       "label": "C"
+      },
+      {
+       "text": "Celui de la durée des travaux.",
+       "correct": false,
+       "rationale": "La durée n'est pas débattue.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les deux camps sont présentés à la fin : « occasion manquée » pour les uns, « respect de l'histoire » pour les autres."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "title": "La restauration d'un monument historique",
+   "document": "F: Après cinq années de travaux, la cathédrale rouvre ses portes au public ce week-end. Le chantier, l'un des plus importants de la décennie, a mobilisé plus de deux cents artisans : tailleurs de pierre, charpentiers, maîtres verriers. Une partie de ces savoir-faire avait presque disparu, et il a fallu former de jeunes apprentis pour mener à bien la restauration. Le coût, près de quatre-vingts millions d'euros, a été couvert pour moitié par des dons de particuliers et d'entreprises. Le choix de reconstruire la flèche à l'identique, plutôt que de proposer une architecture contemporaine, avait suscité un vif débat. Les partisans d'un geste moderne regrettent une occasion manquée ; les défenseurs du patrimoine saluent au contraire le respect de l'histoire.",
+   "vocabulary": [
+    {
+     "terme": "un tailleur de pierre",
+     "definition": "un artisan qui façonne la pierre",
+     "exemple": "Le tailleur de pierre restaure la façade."
+    },
+    {
+     "terme": "un maître verrier",
+     "definition": "un artisan spécialiste du vitrail",
+     "exemple": "Le maître verrier a recréé les vitraux."
+    },
+    {
+     "terme": "une flèche",
+     "definition": "la partie pointue au sommet d'un clocher",
+     "exemple": "La flèche domine la ville."
+    },
+    {
+     "terme": "à l'identique",
+     "definition": "exactement comme avant",
+     "exemple": "La maison a été reconstruite à l'identique."
+    },
+    {
+     "terme": "le patrimoine",
+     "definition": "l'ensemble des biens hérités du passé",
+     "exemple": "Ce château fait partie du patrimoine national."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "mener à bien",
+     "sens": "réaliser avec succès",
+     "exemple": "Il a mené à bien ce projet difficile."
+    },
+    {
+     "expression": "une occasion manquée",
+     "sens": "une chance qu'on n'a pas saisie",
+     "exemple": "Ne pas postuler, c'est une occasion manquée."
+    },
+    {
+     "expression": "susciter un vif débat",
+     "sens": "provoquer une discussion animée",
+     "exemple": "Cette réforme suscite un vif débat."
+    }
+   ]
+  },
+  {
+   "code": "CO-CUL-08",
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "questions": [
+    {
+     "prompt": "Qui sont majoritairement les acheteurs de vinyles ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Des collectionneurs professionnels.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Des musiciens.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Des personnes jeunes, de moins de trente-cinq ans pour plus de la moitié.",
+       "correct": true,
+       "rationale": "« Plus de la moitié ont moins de trente-cinq ans. »",
+       "label": "C"
+      },
+      {
+       "text": "Uniquement des personnes nostalgiques.",
+       "correct": false,
+       "rationale": "« Pas seulement des nostalgiques. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Ne… pas seulement » corrige une idée attendue. Le chiffre précise le profil réel des acheteurs."
+    },
+    {
+     "prompt": "Comment la chroniqueuse explique-t-elle ce retour ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Le vinyle est moins cher que le numérique.",
+       "correct": false,
+       "rationale": "Le numérique coûte « quelques dollars par mois ».",
+       "label": "A"
+      },
+      {
+       "text": "Les plateformes numériques ont disparu.",
+       "correct": false,
+       "rationale": "Elles existent toujours.",
+       "label": "B"
+      },
+      {
+       "text": "Le son du vinyle est meilleur que tout autre.",
+       "correct": false,
+       "rationale": "La qualité sonore n'est pas évoquée.",
+       "label": "C"
+      },
+      {
+       "text": "Face à l'abondance numérique, le vinyle invite à choisir et à écouter attentivement.",
+       "correct": true,
+       "rationale": "« Justement par cette abondance. Le vinyle oblige à choisir, à écouter un album en entier, à prendre le temps. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Justement » signale que la cause est paradoxale : c'est l'abondance elle-même qui explique le retour du vinyle."
+    },
+    {
+     "prompt": "Quelle nuance certains spécialistes apportent-ils ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Les jeunes n'achètent pas de vinyles.",
+       "correct": false,
+       "rationale": "Ils sont majoritaires.",
+       "label": "A"
+      },
+      {
+       "text": "Beaucoup de vinyles seraient achetés comme objets plutôt que pour être écoutés.",
+       "correct": true,
+       "rationale": "« Beaucoup de vinyles achetés ne seraient jamais écoutés, mais simplement collectionnés. »",
+       "label": "B"
+      },
+      {
+       "text": "Le vinyle abîme la musique.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Les ventes de vinyles sont en baisse.",
+       "correct": false,
+       "rationale": "Elles ont été multipliées par dix.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le conditionnel (« ne seraient jamais écoutés ») rapporte une hypothèse de spécialistes sans l'affirmer comme certaine."
+    }
+   ],
+   "speakers": [
+    "F:fr-CA"
+   ],
+   "title": "Le retour du disque vinyle",
+   "document": "F: Qui l'eût cru ? Le disque vinyle, que l'on croyait condamné par le CD puis par le numérique, connaît un retour spectaculaire. Ses ventes ont été multipliées par dix en quinze ans. Les acheteurs ne sont pas seulement des nostalgiques : plus de la moitié ont moins de trente-cinq ans. Comment expliquer ce paradoxe à l'heure où l'on peut écouter des millions de titres pour quelques dollars par mois ? Justement par cette abondance. Le vinyle oblige à choisir, à écouter un album en entier, à prendre le temps. C'est aussi un objet qu'on possède, qu'on expose, qu'on transmet. Certains spécialistes nuancent toutefois : beaucoup de vinyles achetés ne seraient jamais écoutés, mais simplement collectionnés. Le vinyle serait alors moins un support d'écoute qu'un objet de décoration ou d'affirmation de soi.",
+   "vocabulary": [
+    {
+     "terme": "un nostalgique",
+     "definition": "une personne qui regrette le passé",
+     "exemple": "Les nostalgiques collectionnent les vieux objets."
+    },
+    {
+     "terme": "l'abondance",
+     "definition": "une grande quantité",
+     "exemple": "L'abondance de choix rend la décision difficile."
+    },
+    {
+     "terme": "un support",
+     "definition": "un moyen matériel de conserver des données",
+     "exemple": "Le CD est un support musical."
+    },
+    {
+     "terme": "collectionner",
+     "definition": "rassembler des objets d'une même catégorie",
+     "exemple": "Il collectionne les timbres."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "qui l'eût cru ?",
+     "sens": "qui aurait pu l'imaginer ? (registre soutenu)",
+     "exemple": "Il est devenu ministre, qui l'eût cru ?"
+    },
+    {
+     "expression": "à l'heure où",
+     "sens": "à une époque où",
+     "exemple": "À l'heure où tout est numérique, le papier résiste."
+    },
+    {
+     "expression": "l'affirmation de soi",
+     "sens": "le fait d'exprimer sa personnalité",
+     "exemple": "Le style vestimentaire est une forme d'affirmation de soi."
+    }
+   ]
+  }
+ ]
+}

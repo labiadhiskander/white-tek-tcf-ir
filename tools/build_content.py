@@ -31,6 +31,12 @@ Format d'un examen (content_src/exams/exam_XX.txt) :
 
 Les lignes qui commencent par un espace prolongent le champ précédent.
 La position de la bonne réponse est mélangée de façon déterministe.
+
+v1.1 – examens blancs B2 (content_src/exams/exam_b2_XX.txt) : l'en-tête
+`@series B2` les distingue des examens v1.0. Pour cette série, la bonne
+réponse est répartie de façon équilibrée sur A–D, toutes les questions doivent
+être de niveau B2, un champ COMMENTAIRE est accepté pour EE et EO, et aucun
+document ni sujet ne peut reprendre un autre examen ou une collection.
 """
 from __future__ import annotations
 
@@ -87,6 +93,14 @@ def parse_exam(path: Path) -> dict:
     code = header["code"]
     exam = {"code": code, "title": header["title"], "level": header.get("level", "B2"),
             "description": header.get("description", ""), "CO": [], "CE": [], "EE": [], "EO": []}
+    series = header.get("series")
+    if series:
+        exam["series"] = series
+    slots = None
+    if series == "B2":                  # v1.0 inchangé : positions d'origine conservées
+        sys.path.insert(0, str(ROOT / "tools"))
+        from build_collections import AnswerSlots
+        slots = {k: AnswerSlots(f"{code}-{k}") for k in ("CO", "CE")}
     for b in blocks:
         parts = [p.strip() for p in b["head"].split("|")]
         kind, num = parts[0].split()
@@ -97,6 +111,10 @@ def parse_exam(path: Path) -> dict:
             order = list(range(4))
             rng.shuffle(order)
             labels = "ABCD"
+            if slots is not None:       # bonne réponse placée selon un tirage équilibré
+                good = next(i for i in order if i < len(choices) and choices[i][0])
+                order.remove(good)
+                order.insert(slots[kind].next(), good)
             ch = []
             for i, idx in enumerate(order):
                 ok, text, why = choices[idx] if idx < len(choices) else (False, "", "")
@@ -119,6 +137,8 @@ def parse_exam(path: Path) -> dict:
                 "model_answer": f.get("MODELE", ""), "tips": f.get("CONSEILS", ""),
                 "expected_points": [x.strip() for x in f.get("POINTS", "").split(";")
                                     if x.strip()]})
+            if f.get("COMMENTAIRE"):
+                exam["EE"][-1]["model_commentary"] = f["COMMENTAIRE"]
         elif kind == "EO":
             exam["EO"].append({
                 "task_number": num, "level": parts[1], "title": parts[2],
@@ -129,17 +149,65 @@ def parse_exam(path: Path) -> dict:
                 "useful_phrases": [x.strip() for x in f.get("PHRASES", "").split(" / ")
                                    if x.strip()],
                 "model_answer": f.get("MODELE", "")})
+            if f.get("COMMENTAIRE"):
+                exam["EO"][-1]["model_commentary"] = f["COMMENTAIRE"]
+            if f.get("CONSEILS"):
+                exam["EO"][-1]["tips"] = f["CONSEILS"]
     for k in ("CO", "CE"):
         exam[k].sort(key=lambda q: q["position"])
     return exam
 
 
+def _collection_texts() -> list[tuple[str, str]]:
+    """Documents et sujets des collections v1.1, pour interdire les reprises."""
+    out = []
+    for f in sorted((OUT / "collections").glob("*/*.json")):
+        for it in json.loads(f.read_text(encoding="utf-8"))["items"]:
+            for key in ("document", "instructions", "scenario"):
+                if it.get(key):
+                    out.append((f"collection {it['code']}", it[key]))
+    return out
+
+
+def _exam_texts(exam: dict) -> list[tuple[str, str]]:
+    code = exam["code"]
+    out = [(f"{code} {k} Q{q['position']}", q["document"]) for k in ("CO", "CE")
+           for q in exam[k]]
+    out += [(f"{code} EE T{t['task_number']}", t["instructions"]) for t in exam["EE"]]
+    out += [(f"{code} EO T{t['task_number']}", t["scenario"]) for t in exam["EO"]]
+    return out
+
+
+def validate_b2_series(exam: dict) -> list[str]:
+    """Règles propres aux examens blancs B2 de la v1.1."""
+    code, errs = exam["code"], []
+    for k in ("CO", "CE"):
+        for q in exam[k]:
+            if q["level"] != "B2":
+                errs.append(f"{code} {k} Q{q['position']}: niveau {q['level']} (100 % B2)")
+            if not q["explanation"] or not all(c["rationale"] for c in q["choices"]):
+                errs.append(f"{code} {k} Q{q['position']}: correction incomplète")
+    for t in exam["EE"] + exam["EO"]:
+        if t["level"] != "B2":
+            errs.append(f"{code} tâche {t['task_number']}: niveau {t['level']} (100 % B2)")
+        if not t.get("model_answer"):
+            errs.append(f"{code} tâche {t['task_number']}: réponse modèle manquante")
+    return errs
+
+
 def build_exams() -> list[str]:
     errors = []
     (OUT / "exams").mkdir(parents=True, exist_ok=True)
+    seen = _collection_texts()
     for src in sorted((SRC / "exams").glob("exam_*.txt")):
         exam = parse_exam(src)
         errs = V.validate_exam(exam)
+        if exam.get("series") == "B2":
+            errs += validate_b2_series(exam)
+            mine = _exam_texts(exam)
+            errs += [e for e in V.find_duplicates(seen + mine) if e.split(" reprend ")[0]
+                     .removeprefix("doublon : ") in {w for w, _ in mine}]
+            seen += mine
         errors += errs
         (OUT / "exams" / (src.stem + ".json")).write_text(
             json.dumps(exam, ensure_ascii=False, indent=1), encoding="utf-8")

@@ -1,0 +1,1178 @@
+{
+ "slug": "ce-travail",
+ "section": "CE",
+ "title": "Travail",
+ "description": "Articles sur le monde du travail : organisation, management, droits des salariés et nouvelles formes d'emploi.",
+ "order": 7,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CE-TRA-01",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Que prévoit la loi sur la déconnexion ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Toutes les entreprises doivent bloquer leurs serveurs.",
+       "correct": false,
+       "rationale": "C'est une mesure choisie par certaines.",
+       "label": "A"
+      },
+      {
+       "text": "Les salariés n'ont pas à répondre aux sollicitations professionnelles hors de leur temps de travail.",
+       "correct": true,
+       "rationale": "« En dehors de leurs heures de travail, ils ne sont pas tenus de répondre aux courriels ou aux appels professionnels. »",
+       "label": "B"
+      },
+      {
+       "text": "Les cadres doivent travailler le week-end.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Les téléphones professionnels sont interdits.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Ne pas être tenu de » signifie « ne pas être obligé de »."
+    },
+    {
+     "prompt": "D'où vient souvent la pression à rester connecté ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Uniquement des ordres des supérieurs.",
+       "correct": false,
+       "rationale": "« La pression ne vient pas toujours de la hiérarchie. »",
+       "label": "A"
+      },
+      {
+       "text": "D'une obligation légale.",
+       "correct": false,
+       "rationale": "La loi dit le contraire.",
+       "label": "B"
+      },
+      {
+       "text": "Des clients étrangers.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "De la crainte de paraître moins impliqué que les autres.",
+       "correct": true,
+       "rationale": "« Beaucoup craignent simplement de paraître moins investis que leurs collègues. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La pression est en partie intériorisée : elle vient du regard des collègues."
+    },
+    {
+     "prompt": "Selon les spécialistes, de quoi dépend une vraie déconnexion ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "D'une charte signée par tous.",
+       "correct": false,
+       "rationale": "Les chartes sont « rarement lues ».",
+       "label": "A"
+      },
+      {
+       "text": "D'une nouvelle loi plus sévère.",
+       "correct": false,
+       "rationale": "Ce n'est pas leur proposition.",
+       "label": "B"
+      },
+      {
+       "text": "D'un changement de culture, porté notamment par les dirigeants.",
+       "correct": true,
+       "rationale": "« Elle suppose un changement de culture, à commencer par l'exemple donné par les dirigeants. »",
+       "label": "C"
+      },
+      {
+       "text": "De la suppression des courriels.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Ne se décrète pas » signifie qu'on ne peut pas l'imposer seulement par une règle."
+    }
+   ],
+   "title": "Le droit à la déconnexion, encore théorique",
+   "document": "Depuis plusieurs années, la loi reconnaît aux salariés un droit à la déconnexion : en dehors de leurs heures de travail, ils ne sont pas tenus de répondre aux courriels ou aux appels professionnels. Les entreprises de plus de cinquante salariés doivent négocier les modalités de ce droit avec les représentants du personnel.\n\nDans les faits, son application reste très inégale. Selon une enquête récente, plus de la moitié des cadres consultent leur messagerie professionnelle le soir ou le week-end, et un tiers déclarent se sentir obligés de répondre rapidement. La pression ne vient pas toujours de la hiérarchie : beaucoup craignent simplement de paraître moins investis que leurs collègues.\n\nCertaines entreprises ont choisi des mesures concrètes, comme le blocage des serveurs de messagerie après 20 heures ou l'envoi différé des courriels écrits tard le soir. D'autres se contentent d'une charte, rarement lue. Pour les spécialistes de la santé au travail, la déconnexion ne se décrète pas : elle suppose un changement de culture, à commencer par l'exemple donné par les dirigeants eux-mêmes.",
+   "vocabulary": [
+    {
+     "terme": "les modalités",
+     "definition": "les conditions concrètes d'application",
+     "exemple": "Les modalités de paiement."
+    },
+    {
+     "terme": "la messagerie",
+     "definition": "le service de courrier électronique",
+     "exemple": "Il consulte sa messagerie."
+    },
+    {
+     "terme": "investi",
+     "definition": "impliqué, engagé",
+     "exemple": "Un salarié très investi."
+    },
+    {
+     "terme": "différé",
+     "definition": "reporté à plus tard",
+     "exemple": "Un envoi différé."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "dans les faits",
+     "sens": "en réalité",
+     "exemple": "En théorie c'est simple ; dans les faits, c'est compliqué."
+    },
+    {
+     "expression": "ne pas se décréter",
+     "sens": "ne pas pouvoir être imposé par une décision",
+     "exemple": "La confiance ne se décrète pas."
+    },
+    {
+     "expression": "à commencer par",
+     "sens": "en premier lieu",
+     "exemple": "Tout le monde doit faire un effort, à commencer par moi."
+    }
+   ],
+   "traps": [
+    "La négociation est obligatoire pour les entreprises de plus de cinquante salariés.",
+    "La pression n'est pas seulement hiérarchique.",
+    "Les chartes sont citées comme une mesure peu efficace."
+   ]
+  },
+  {
+   "code": "CE-TRA-02",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Qu'ont en commun les métiers en tension ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Des conditions difficiles et une rémunération faible.",
+       "correct": true,
+       "rationale": "« Horaires décalés, pénibilité physique, salaires modestes et manque de reconnaissance. »",
+       "label": "A"
+      },
+      {
+       "text": "Ils sont réservés aux jeunes.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Ils sont tous très bien payés.",
+       "correct": false,
+       "rationale": "Les salaires sont « modestes ».",
+       "label": "C"
+      },
+      {
+       "text": "Ils exigent tous un diplôme universitaire.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'énumération après les deux-points précise les « mêmes caractéristiques »."
+    },
+    {
+     "prompt": "Que montrent les études citées ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les syndicats ont tort.",
+       "correct": false,
+       "rationale": "Elles leur donnent « en partie raison ».",
+       "label": "A"
+      },
+      {
+       "text": "Le chômage a disparu.",
+       "correct": false,
+       "rationale": "Il est « encore élevé ».",
+       "label": "B"
+      },
+      {
+       "text": "Augmenter les salaires facilite le recrutement.",
+       "correct": true,
+       "rationale": "« Les secteurs qui ont augmenté les salaires ont vu leurs difficultés de recrutement diminuer. »",
+       "label": "C"
+      },
+      {
+       "text": "Les candidats refusent toute formation.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« En partie » nuance l'accord entre études et syndicats."
+    },
+    {
+     "prompt": "Quelle condition les experts posent-ils à la réussite des dispositifs publics ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "La baisse des salaires.",
+       "correct": false,
+       "rationale": "C'est contraire au texte.",
+       "label": "A"
+      },
+      {
+       "text": "L'arrêt des formations accélérées.",
+       "correct": false,
+       "rationale": "Ce n'est pas proposé.",
+       "label": "B"
+      },
+      {
+       "text": "La suppression des aides à l'embauche.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Une amélioration réelle de l'organisation du travail par les entreprises.",
+       "correct": true,
+       "rationale": "« Tant que les entreprises n'amélioreront pas concrètement l'organisation du travail. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Tant que… ne… pas » exprime une condition non remplie."
+    }
+   ],
+   "title": "Les métiers en tension peinent à recruter",
+   "document": "Aide-soignants, cuisiniers, chauffeurs routiers, couvreurs : malgré un chômage encore élevé dans certaines régions, de nombreux secteurs ne parviennent pas à pourvoir leurs postes. Ces métiers dits « en tension » partagent souvent les mêmes caractéristiques : horaires décalés, pénibilité physique, salaires modestes et manque de reconnaissance.\n\nLes employeurs mettent en avant le manque de candidats formés. Les syndicats, eux, estiment que le problème tient d'abord aux conditions de travail : selon eux, si ces emplois étaient mieux payés et moins usants, les candidats ne manqueraient pas. Plusieurs études leur donnent en partie raison, montrant que les secteurs qui ont augmenté les salaires ont vu leurs difficultés de recrutement diminuer.\n\nLes pouvoirs publics multiplient les dispositifs : formations accélérées, aides à l'embauche, campagnes de valorisation des métiers. Mais pour beaucoup d'experts, ces mesures resteront insuffisantes tant que les entreprises n'amélioreront pas concrètement l'organisation du travail, par exemple en proposant des plannings plus stables ou des perspectives d'évolution.",
+   "vocabulary": [
+    {
+     "terme": "pourvoir un poste",
+     "definition": "trouver quelqu'un pour l'occuper",
+     "exemple": "Le poste n'a pas été pourvu."
+    },
+    {
+     "terme": "la pénibilité",
+     "definition": "le caractère dur et fatigant d'un travail",
+     "exemple": "La pénibilité des métiers du bâtiment."
+    },
+    {
+     "terme": "usant",
+     "definition": "qui fatigue beaucoup",
+     "exemple": "Un travail usant."
+    },
+    {
+     "terme": "un planning",
+     "definition": "un emploi du temps",
+     "exemple": "Mon planning change chaque semaine."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "en tension",
+     "sens": "où l'offre et la demande sont déséquilibrées",
+     "exemple": "Le marché du logement est en tension."
+    },
+    {
+     "expression": "tenir à",
+     "sens": "venir de, avoir pour cause",
+     "exemple": "Son succès tient à son travail."
+    },
+    {
+     "expression": "donner raison à quelqu'un",
+     "sens": "confirmer qu'il a raison",
+     "exemple": "Les faits lui ont donné raison."
+    }
+   ],
+   "traps": [
+    "Le chômage existe pourtant dans certaines régions.",
+    "Les employeurs et les syndicats n'ont pas la même explication.",
+    "Les dispositifs publics sont jugés insuffisants, pas inutiles."
+   ]
+  },
+  {
+   "code": "CE-TRA-03",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Quel est le résultat principal de l'expérience ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "La grande majorité des entreprises ont choisi de continuer.",
+       "correct": true,
+       "rationale": "« Plus de neuf sur dix ont décidé de poursuivre. »",
+       "label": "A"
+      },
+      {
+       "text": "La productivité s'est effondrée.",
+       "correct": false,
+       "rationale": "Elle a été « globalement maintenue ».",
+       "label": "B"
+      },
+      {
+       "text": "Les salariés ont démissionné en masse.",
+       "correct": false,
+       "rationale": "Les démissions ont baissé.",
+       "label": "C"
+      },
+      {
+       "text": "Les salaires ont baissé.",
+       "correct": false,
+       "rationale": "L'essai se faisait « sans baisse de salaire ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le premier paragraphe donne les chiffres clés de l'expérience."
+    },
+    {
+     "prompt": "Comment les entreprises ont-elles réussi à maintenir leur activité ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "En réduisant le nombre de clients.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "En réorganisant le travail et en supprimant des tâches inutiles.",
+       "correct": true,
+       "rationale": "« Les réunions ont été raccourcies, les tâches inutiles supprimées. »",
+       "label": "B"
+      },
+      {
+       "text": "En allongeant les journées à douze heures.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "En embauchant massivement.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit pour ces entreprises.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Le secret… réside dans la réorganisation » annonce l'explication."
+    },
+    {
+     "prompt": "Pourquoi les auteurs appellent-ils à la prudence ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les résultats étaient négatifs.",
+       "correct": false,
+       "rationale": "Ils étaient positifs.",
+       "label": "A"
+      },
+      {
+       "text": "Les salariés ont menti.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Les entreprises testées n'étaient pas représentatives de toute l'économie.",
+       "correct": true,
+       "rationale": "« Les entreprises participantes étaient volontaires… et appartenaient surtout aux secteurs des services. »",
+       "label": "C"
+      },
+      {
+       "text": "L'expérience a été trop longue.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Un échantillon de volontaires motivés peut fausser les conclusions : c'est un biais de sélection."
+    }
+   ],
+   "title": "La semaine de quatre jours testée dans le privé",
+   "document": "Une centaine d'entreprises britanniques ont expérimenté pendant six mois la semaine de quatre jours, sans baisse de salaire. À l'issue de l'essai, plus de neuf sur dix ont décidé de poursuivre. Les chercheurs qui ont suivi l'expérience rapportent une baisse de l'absentéisme et des démissions, et une productivité globalement maintenue.\n\nLe secret, selon les participants, réside dans la réorganisation. Les réunions ont été raccourcies, les tâches inutiles supprimées, et les salariés ont appris à mieux protéger leur temps de concentration. Beaucoup affirment être moins épuisés et plus efficaces sur quatre jours que sur cinq.\n\nLes auteurs de l'étude invitent cependant à ne pas généraliser trop vite. Les entreprises participantes étaient volontaires, donc probablement plus motivées que la moyenne, et appartenaient surtout aux secteurs des services. Dans l'industrie, la santé ou le commerce, où la présence physique est indispensable, la mise en place supposerait des embauches supplémentaires, avec un coût que toutes les entreprises ne pourraient pas assumer.",
+   "vocabulary": [
+    {
+     "terme": "l'absentéisme",
+     "definition": "le fait d'être souvent absent au travail",
+     "exemple": "L'absentéisme a diminué."
+    },
+    {
+     "terme": "une démission",
+     "definition": "le fait de quitter volontairement son emploi",
+     "exemple": "Il a donné sa démission."
+    },
+    {
+     "terme": "la productivité",
+     "definition": "la quantité produite par unité de travail",
+     "exemple": "La productivité a augmenté."
+    },
+    {
+     "terme": "représentatif",
+     "definition": "qui reflète bien l'ensemble",
+     "exemple": "Un échantillon représentatif."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "à l'issue de",
+     "sens": "à la fin de",
+     "exemple": "À l'issue de la réunion, une décision a été prise."
+    },
+    {
+     "expression": "résider dans",
+     "sens": "se trouver dans",
+     "exemple": "La difficulté réside dans le choix."
+    },
+    {
+     "expression": "généraliser trop vite",
+     "sens": "tirer une conclusion générale sans assez de preuves",
+     "exemple": "Ne généralisons pas trop vite."
+    }
+   ],
+   "traps": [
+    "L'expérience s'est faite sans baisse de salaire.",
+    "Les embauches supplémentaires concernent d'autres secteurs, pas les entreprises testées.",
+    "La prudence porte sur la généralisation, pas sur les résultats eux-mêmes."
+   ]
+  },
+  {
+   "code": "CE-TRA-04",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Quels inconvénients le statut d'indépendant présente-t-il pour ces travailleurs ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "L'interdiction de refuser une course.",
+       "correct": false,
+       "rationale": "En théorie, ils peuvent refuser.",
+       "label": "A"
+      },
+      {
+       "text": "Un salaire fixe trop bas.",
+       "correct": false,
+       "rationale": "Ils n'ont pas de salaire fixe.",
+       "label": "B"
+      },
+      {
+       "text": "L'obligation de travailler la nuit.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "L'absence de protections sociales liées au salariat.",
+       "correct": true,
+       "rationale": "« Il les prive aussi des protections du salariat : congés payés, assurance chômage, protection en cas d'accident. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Mais » introduit les inconvénients après les avantages théoriques."
+    },
+    {
+     "prompt": "Que signifie « une indépendance de façade » ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Une indépendance totale.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "A"
+      },
+      {
+       "text": "Une liberté apparente, alors que la plateforme contrôle en réalité le travail.",
+       "correct": true,
+       "rationale": "« L'algorithme fixe les tarifs, attribue les courses et peut désactiver un compte. »",
+       "label": "B"
+      },
+      {
+       "text": "Un statut réservé aux architectes.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "C"
+      },
+      {
+       "text": "Une façade de bâtiment.",
+       "correct": false,
+       "rationale": "Lecture littérale erronée.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Une « façade » est ce qu'on montre à l'extérieur : l'indépendance n'est qu'une apparence."
+    },
+    {
+     "prompt": "Que prévoit la directive européenne ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Une présomption de salariat en cas de contrôle étroit par la plateforme.",
+       "correct": true,
+       "rationale": "« Une présomption de salariat lorsque la plateforme contrôle étroitement le travail. »",
+       "label": "A"
+      },
+      {
+       "text": "Le statut d'indépendant obligatoire.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "B"
+      },
+      {
+       "text": "L'interdiction des plateformes.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Un salaire minimum européen.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Une présomption est une supposition qui s'applique sauf preuve contraire."
+    }
+   ],
+   "title": "Les travailleurs des plateformes demandent des droits",
+   "document": "Livreurs à vélo, chauffeurs de véhicules avec chauffeur : des centaines de milliers de personnes travaillent aujourd'hui pour des plateformes numériques sous le statut d'indépendant. Ce statut leur offre en théorie une grande liberté : choisir leurs horaires, accepter ou refuser une course. Mais il les prive aussi des protections du salariat : congés payés, assurance chômage, protection en cas d'accident.\n\nLes travailleurs dénoncent une indépendance de façade. L'algorithme fixe les tarifs, attribue les courses et peut désactiver un compte sans véritable explication, ce qui ressemble fort à un lien de subordination. Plusieurs tribunaux ont d'ailleurs requalifié des contrats en contrats de travail.\n\nLes plateformes répondent que leur modèle repose sur la flexibilité, appréciée par de nombreux travailleurs, et qu'un salariat généralisé ferait disparaître une grande partie de ces emplois. Une directive européenne prévoit désormais une présomption de salariat lorsque la plateforme contrôle étroitement le travail, tout en laissant aux États une marge d'application.",
+   "vocabulary": [
+    {
+     "terme": "une course",
+     "definition": "un trajet effectué pour un client",
+     "exemple": "Le chauffeur a fait vingt courses."
+    },
+    {
+     "terme": "la subordination",
+     "definition": "le fait d'être soumis à l'autorité de quelqu'un",
+     "exemple": "Le lien de subordination caractérise le salariat."
+    },
+    {
+     "terme": "requalifier",
+     "definition": "donner une autre qualification juridique",
+     "exemple": "Le contrat a été requalifié."
+    },
+    {
+     "terme": "la flexibilité",
+     "definition": "la capacité à s'adapter, la souplesse",
+     "exemple": "La flexibilité des horaires."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "de façade",
+     "sens": "apparent, pas réel",
+     "exemple": "Une amabilité de façade."
+    },
+    {
+     "expression": "ressembler fort à",
+     "sens": "ressembler beaucoup à",
+     "exemple": "Cela ressemble fort à une excuse."
+    },
+    {
+     "expression": "laisser une marge",
+     "sens": "laisser une certaine liberté",
+     "exemple": "La loi laisse une marge aux entreprises."
+    }
+   ],
+   "traps": [
+    "La liberté des travailleurs existe « en théorie ».",
+    "Ce sont des tribunaux, pas la loi, qui ont requalifié certains contrats.",
+    "La directive laisse une marge aux États."
+   ]
+  },
+  {
+   "code": "CE-TRA-05",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Que reprochent les sociologues à certaines démarches de bien-être ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Elles améliorent trop la productivité.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Elles sont obligatoires.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Elles peuvent dissimuler des problèmes de fond comme la surcharge de travail.",
+       "correct": true,
+       "rationale": "« Ces démarches peuvent masquer les vrais problèmes : une charge de travail excessive… »",
+       "label": "C"
+      },
+      {
+       "text": "Elles coûtent trop cher.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'argument.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'exemple du yoga illustre l'écart entre mesure symbolique et problème réel."
+    },
+    {
+     "prompt": "En quoi la bienveillance peut-elle devenir une « injonction » ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les salariés sont punis s'ils refusent le yoga.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Le salarié peut se sentir coupable de ne pas être heureux.",
+       "correct": true,
+       "rationale": "« Le salarié épuisé se sent coupable de ne pas être heureux alors que tout est fait pour son bien-être. »",
+       "label": "B"
+      },
+      {
+       "text": "Les managers sont obligés d'être gentils.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'idée développée.",
+       "label": "C"
+      },
+      {
+       "text": "La loi impose d'être heureux.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Une injonction est un ordre ; ici, une pression implicite à se sentir bien."
+    },
+    {
+     "prompt": "Selon les chercheurs, comment mesure-t-on la vraie bienveillance ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Aux slogans affichés.",
+       "correct": false,
+       "rationale": "Ils les opposent à la vraie bienveillance.",
+       "label": "A"
+      },
+      {
+       "text": "Au nombre de séminaires organisés.",
+       "correct": false,
+       "rationale": "C'est ce qu'ils critiquent.",
+       "label": "B"
+      },
+      {
+       "text": "Au salaire des dirigeants.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "À la qualité de l'organisation du travail.",
+       "correct": true,
+       "rationale": "« La bienveillance… se mesure d'abord à l'organisation du travail, et non aux slogans. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « d'abord… et non… » oppose le fond à l'apparence."
+    }
+   ],
+   "title": "Le management bienveillant, effet de mode ?",
+   "document": "Le mot « bienveillance » s'est imposé dans le vocabulaire des entreprises. Formations au management positif, responsables du bonheur au travail, séminaires de cohésion : les initiatives se multiplient pour améliorer le bien-être des salariés.\n\nLes sociologues du travail portent un regard plus critique. Selon eux, ces démarches peuvent masquer les vrais problèmes : une charge de travail excessive, des objectifs irréalistes ou un manque de moyens. Organiser une séance de yoga ne compense pas un service en sous-effectif. Pire, la bienveillance peut devenir une injonction supplémentaire : le salarié épuisé se sent coupable de ne pas être heureux alors que tout est fait pour son bien-être.\n\nCela ne signifie pas que l'attention portée aux personnes soit inutile. La reconnaissance, l'écoute et l'autonomie ont des effets démontrés sur la motivation et la santé. Mais elles ne produisent leurs effets que si elles s'accompagnent de conditions de travail réalistes. La bienveillance, concluent les chercheurs, se mesure d'abord à l'organisation du travail, et non aux slogans affichés dans les couloirs.",
+   "vocabulary": [
+    {
+     "terme": "la bienveillance",
+     "definition": "l'attitude de vouloir du bien aux autres",
+     "exemple": "Il parle avec bienveillance."
+    },
+    {
+     "terme": "en sous-effectif",
+     "definition": "qui manque de personnel",
+     "exemple": "L'équipe est en sous-effectif."
+    },
+    {
+     "terme": "une injonction",
+     "definition": "un ordre pressant",
+     "exemple": "Des injonctions contradictoires."
+    },
+    {
+     "terme": "l'autonomie",
+     "definition": "la capacité d'agir par soi-même",
+     "exemple": "Les salariés veulent plus d'autonomie."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "un effet de mode",
+     "sens": "une tendance passagère",
+     "exemple": "Ce régime est un effet de mode."
+    },
+    {
+     "expression": "porter un regard critique",
+     "sens": "juger avec esprit critique",
+     "exemple": "Elle porte un regard critique sur la réforme."
+    },
+    {
+     "expression": "pire",
+     "sens": "ce qui est encore plus grave",
+     "exemple": "Il est en retard, et pire, il n'a pas prévenu."
+    }
+   ],
+   "traps": [
+    "Les chercheurs ne rejettent pas toute attention au bien-être.",
+    "« Pire » introduit un argument plus fort que le précédent.",
+    "Les effets de la reconnaissance sont « démontrés »."
+   ]
+  },
+  {
+   "code": "CE-TRA-06",
+   "level": "B2",
+   "doc_type": "courrier des lecteurs",
+   "questions": [
+    {
+     "prompt": "Pourquoi la lectrice écrit-elle au journal ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Pour nuancer la présentation trop positive des reconversions.",
+       "correct": true,
+       "rationale": "« Je voudrais apporter un témoignage plus nuancé. »",
+       "label": "A"
+      },
+      {
+       "text": "Pour annoncer qu'elle abandonne l'ébénisterie.",
+       "correct": false,
+       "rationale": "Elle ne regrette pas son choix.",
+       "label": "B"
+      },
+      {
+       "text": "Pour se plaindre de son ancien employeur.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sujet.",
+       "label": "C"
+      },
+      {
+       "text": "Pour demander un emploi.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le premier paragraphe expose la raison de la lettre."
+    },
+    {
+     "prompt": "Quelle difficulté la lectrice n'évoque-t-elle PAS ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Des horaires plus lourds.",
+       "correct": false,
+       "rationale": "« Je travaille aujourd'hui bien plus d'heures qu'avant. »",
+       "label": "A"
+      },
+      {
+       "text": "La dépendance au soutien de son conjoint.",
+       "correct": false,
+       "rationale": "« Sans le soutien financier de mon conjoint… »",
+       "label": "B"
+      },
+      {
+       "text": "Le manque de clients pour ses meubles.",
+       "correct": true,
+       "rationale": "Elle ne parle pas de difficultés commerciales.",
+       "label": "C"
+      },
+      {
+       "text": "La baisse de ses revenus pendant la formation.",
+       "correct": false,
+       "rationale": "« Mes revenus ont été divisés par deux. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Il faut repérer l'élément absent du texte."
+    },
+    {
+     "prompt": "Quelle est la conclusion de la lectrice ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Une reconversion demande préparation, sécurité financière et persévérance.",
+       "correct": true,
+       "rationale": "« Une reconversion réussie se prépare longtemps, demande une sécurité financière et beaucoup de persévérance. »",
+       "label": "A"
+      },
+      {
+       "text": "Les journalistes mentent volontairement.",
+       "correct": false,
+       "rationale": "Elle dit qu'ils passent sous silence certaines difficultés.",
+       "label": "B"
+      },
+      {
+       "text": "Il ne faut jamais changer de métier.",
+       "correct": false,
+       "rationale": "Elle ne veut pas décourager.",
+       "label": "C"
+      },
+      {
+       "text": "La passion suffit à réussir.",
+       "correct": false,
+       "rationale": "« La passion ne suffit pas. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La phrase courte finale résume son message."
+    }
+   ],
+   "title": "Reconversion à quarante-cinq ans : le témoignage d'une lectrice",
+   "document": "Madame, Monsieur, je lis souvent dans vos pages des articles enthousiastes sur la reconversion professionnelle. J'ai moi-même quitté un poste de comptable à quarante-cinq ans pour devenir ébéniste, et je voudrais apporter un témoignage plus nuancé.\n\nJe ne regrette pas mon choix. Travailler le bois me procure une satisfaction que je n'avais jamais connue derrière un écran. Mais vos articles passent sous silence les difficultés concrètes. Ma formation a duré un an, pendant lequel mes revenus ont été divisés par deux. Il m'a fallu trois années supplémentaires pour gagner à nouveau ma vie correctement, et je travaille aujourd'hui bien plus d'heures qu'avant. Sans le soutien financier de mon conjoint, je n'aurais pas pu tenir.\n\nJe ne cherche pas à décourager ceux qui rêvent de changer de vie. Je voudrais seulement qu'on leur dise la vérité : une reconversion réussie se prépare longtemps, demande une sécurité financière et beaucoup de persévérance. La passion ne suffit pas.",
+   "vocabulary": [
+    {
+     "terme": "un ébéniste",
+     "definition": "un artisan qui fabrique des meubles",
+     "exemple": "L'ébéniste restaure une commode ancienne."
+    },
+    {
+     "terme": "le conjoint",
+     "definition": "le mari, la femme ou le partenaire",
+     "exemple": "Son conjoint l'a soutenue."
+    },
+    {
+     "terme": "la persévérance",
+     "definition": "la qualité de continuer malgré les difficultés",
+     "exemple": "Sa persévérance a payé."
+    },
+    {
+     "terme": "nuancé",
+     "definition": "qui tient compte de la complexité",
+     "exemple": "Un avis nuancé."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "passer sous silence",
+     "sens": "ne pas mentionner",
+     "exemple": "Le rapport passe sous silence les échecs."
+    },
+    {
+     "expression": "gagner sa vie",
+     "sens": "gagner assez d'argent pour vivre",
+     "exemple": "Il gagne bien sa vie."
+    },
+    {
+     "expression": "tenir",
+     "sens": "résister, continuer malgré la difficulté",
+     "exemple": "Je n'aurais pas tenu sans eux."
+    }
+   ],
+   "traps": [
+    "La lectrice est satisfaite de son nouveau métier.",
+    "Elle ne reproche pas aux journaux de mentir mais d'omettre.",
+    "La question négative demande l'élément absent."
+   ]
+  },
+  {
+   "code": "CE-TRA-07",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Quel paradoxe le premier paragraphe souligne-t-il ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les seniors travaillent plus que les jeunes.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Les seniors refusent de travailler.",
+       "correct": false,
+       "rationale": "Ils sont « poussés vers la sortie ».",
+       "label": "B"
+      },
+      {
+       "text": "Les pays voisins n'ont pas de retraite.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "On recule l'âge de la retraite alors que les seniors sont souvent écartés de l'emploi.",
+       "correct": true,
+       "rationale": "« Alors que l'âge de départ à la retraite recule… Beaucoup de salariés âgés sont poussés vers la sortie. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Alors que » introduit une opposition entre deux faits."
+    },
+    {
+     "prompt": "Que montrent les études sur les salariés âgés ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Ils sont souvent absents.",
+       "correct": false,
+       "rationale": "Leur absentéisme est « comparable ».",
+       "label": "A"
+      },
+      {
+       "text": "Les préjugés à leur égard sont largement infondés.",
+       "correct": true,
+       "rationale": "« Les études contredisent largement ces idées. »",
+       "label": "B"
+      },
+      {
+       "text": "Ils sont moins compétents.",
+       "correct": false,
+       "rationale": "C'est un préjugé contredit.",
+       "label": "C"
+      },
+      {
+       "text": "Ils refusent le numérique.",
+       "correct": false,
+       "rationale": "Ce n'est pas confirmé.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le conditionnel du préjugé (« seraient ») montre que l'auteur ne le partage pas."
+    },
+    {
+     "prompt": "Quel risque les experts redoutent-ils ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Une période plus longue sans emploi ni retraite pour certains seniors.",
+       "correct": true,
+       "rationale": "« Allonger la période pendant laquelle des personnes âgées, sans emploi ni pension, vivent de minima sociaux. »",
+       "label": "A"
+      },
+      {
+       "text": "Une hausse des salaires des seniors.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "La disparition du tutorat.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Un départ anticipé de tous les seniors.",
+       "correct": false,
+       "rationale": "Ce n'est pas le risque décrit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La conclusion relie la réforme des retraites à la situation de l'emploi."
+    }
+   ],
+   "title": "Les seniors, oubliés du marché de l'emploi",
+   "document": "Alors que l'âge de départ à la retraite recule, le taux d'emploi des 60-64 ans reste nettement inférieur à celui de la plupart des pays voisins. Beaucoup de salariés âgés sont poussés vers la sortie bien avant la retraite, par des plans de départ ou des licenciements, et peinent ensuite à retrouver un emploi.\n\nLes préjugés restent tenaces : les seniors seraient moins adaptables, moins à l'aise avec le numérique, et coûteraient plus cher. Les études contredisent largement ces idées. Les salariés expérimentés sont souvent plus fidèles, transmettent leurs savoir-faire et connaissent un absentéisme comparable à celui des autres.\n\nCertaines entreprises ont développé des politiques actives : tutorat entre générations, aménagement des postes pénibles, temps partiel en fin de carrière. Mais elles restent minoritaires. Pour les experts, reculer l'âge de la retraite sans améliorer l'emploi des seniors risque surtout d'allonger la période pendant laquelle des personnes âgées, sans emploi ni pension, vivent de minima sociaux.",
+   "vocabulary": [
+    {
+     "terme": "un senior",
+     "definition": "une personne âgée, ici un salarié de plus de 55 ans",
+     "exemple": "L'emploi des seniors."
+    },
+    {
+     "terme": "tenace",
+     "definition": "qui dure, difficile à faire disparaître",
+     "exemple": "Un préjugé tenace."
+    },
+    {
+     "terme": "le tutorat",
+     "definition": "l'accompagnement d'un débutant par un expérimenté",
+     "exemple": "Le tutorat facilite l'intégration."
+    },
+    {
+     "terme": "les minima sociaux",
+     "definition": "les aides minimales versées aux personnes sans ressources",
+     "exemple": "Il vit des minima sociaux."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "pousser vers la sortie",
+     "sens": "inciter quelqu'un à partir",
+     "exemple": "On l'a poussé vers la sortie."
+    },
+    {
+     "expression": "rester minoritaire",
+     "sens": "concerner une petite partie",
+     "exemple": "Ces pratiques restent minoritaires."
+    },
+    {
+     "expression": "peiner à",
+     "sens": "avoir du mal à",
+     "exemple": "Il peine à trouver un logement."
+    }
+   ],
+   "traps": [
+    "Le conditionnel du deuxième paragraphe exprime des préjugés.",
+    "Les politiques actives existent mais restent rares.",
+    "Le risque concerne des personnes sans emploi ni pension."
+   ]
+  },
+  {
+   "code": "CE-TRA-08",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Pourquoi les recruteurs utilisent-ils ces outils ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Pour supprimer tout entretien.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Pour recruter uniquement des femmes.",
+       "correct": false,
+       "rationale": "Ce n'est pas le cas.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que la loi les y oblige.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Pour gagner du temps face à un grand nombre de candidatures.",
+       "correct": true,
+       "rationale": "« Un gain de temps considérable face à des centaines de candidatures. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'avantage cité est l'efficacité."
+    },
+    {
+     "prompt": "Que montre l'exemple du logiciel d'un grand groupe ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "L'IA ne fait jamais d'erreur.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "A"
+      },
+      {
+       "text": "Une IA peut reproduire les inégalités présentes dans les données passées.",
+       "correct": true,
+       "rationale": "« Avait ainsi appris à écarter les candidatures féminines… parce que l'entreprise avait historiquement recruté surtout des hommes. »",
+       "label": "B"
+      },
+      {
+       "text": "Les postes techniques sont réservés aux hommes.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Les femmes sont moins qualifiées.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'exemple illustre le risque annoncé : « reproduire les discriminations existantes »."
+    },
+    {
+     "prompt": "Quel autre problème le texte soulève-t-il ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Les recruteurs refusent ces outils.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Les logiciels sont trop lents.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "B"
+      },
+      {
+       "text": "Les candidats ne savent pas toujours qu'une machine les a évalués.",
+       "correct": true,
+       "rationale": "« Les candidats ignorent souvent qu'une machine a évalué leur dossier. »",
+       "label": "C"
+      },
+      {
+       "text": "Les vidéos sont publiées en ligne.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Par ailleurs » introduit un second problème, la transparence."
+    }
+   ],
+   "title": "Les entretiens d'embauche à l'heure de l'intelligence artificielle",
+   "document": "De plus en plus de grandes entreprises utilisent des logiciels d'intelligence artificielle pour trier les candidatures. Certains outils analysent les CV et classent les candidats selon leur correspondance avec l'offre ; d'autres vont jusqu'à évaluer des entretiens vidéo enregistrés, en analysant le vocabulaire ou l'expression du visage. Les recruteurs y voient un gain de temps considérable face à des centaines de candidatures.\n\nMais ces outils suscitent des inquiétudes. Entraînés sur les recrutements passés, ils peuvent reproduire les discriminations existantes : un logiciel d'un grand groupe avait ainsi appris à écarter les candidatures féminines pour des postes techniques, parce que l'entreprise avait historiquement recruté surtout des hommes. Par ailleurs, les candidats ignorent souvent qu'une machine a évalué leur dossier, et ne peuvent pas contester une décision qu'ils ne comprennent pas.\n\nLa réglementation européenne classe désormais ces systèmes parmi les usages « à haut risque », imposant des contrôles, de la transparence et une supervision humaine.",
+   "vocabulary": [
+    {
+     "terme": "trier",
+     "definition": "séparer selon des critères",
+     "exemple": "Trier les candidatures."
+    },
+    {
+     "terme": "une discrimination",
+     "definition": "un traitement inégal et injuste",
+     "exemple": "La discrimination à l'embauche est interdite."
+    },
+    {
+     "terme": "contester",
+     "definition": "remettre en cause",
+     "exemple": "Il conteste la décision."
+    },
+    {
+     "terme": "la supervision",
+     "definition": "le contrôle, la surveillance",
+     "exemple": "Sous la supervision d'un expert."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "aller jusqu'à",
+     "sens": "aller même jusqu'à faire",
+     "exemple": "Il est allé jusqu'à démissionner."
+    },
+    {
+     "expression": "à l'heure de",
+     "sens": "à l'époque de",
+     "exemple": "L'école à l'heure du numérique."
+    },
+    {
+     "expression": "à haut risque",
+     "sens": "qui présente un danger important",
+     "exemple": "Une opération à haut risque."
+    }
+   ],
+   "traps": [
+    "L'exemple du logiciel montre un biais dû aux données, pas une intention.",
+    "La réglementation impose une supervision humaine, pas une interdiction.",
+    "Les candidats ne sont pas toujours informés."
+   ]
+  }
+ ]
+}

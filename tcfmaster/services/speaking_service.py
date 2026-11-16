@@ -18,16 +18,19 @@ log = logging.getLogger("tcfmaster.speaking")
 
 def evaluate_task(task: SpeakingTask, transcript: str, profile: dict | None = None,
                   stt_confidence: float | None = None,
-                  duration_s: float | None = None) -> SE.OralEvaluation:
+                  duration_s: float | None = None,
+                  stt_words: list | None = None) -> SE.OralEvaluation:
     return SE.evaluate_oral(transcript, task.task_number, task.duration_s, profile,
-                            stt_confidence, task.useful_phrases, task.model_answer, duration_s)
+                            stt_confidence, task.useful_phrases, task.model_answer, duration_s,
+                            stt_words=stt_words, model_commentary=task.model_commentary or "",
+                            tips=task.tips or "")
 
 
 def submit(s: Session, task_id: int, transcript: str, *, profile: dict | None = None,
            audio_path: str | Path | None = None, stt_confidence: float | None = None,
            duration_s: float | None = None, dialogue: list | None = None,
-           attempt_id: int | None = None, submission_id: int | None = None
-           ) -> SpeakingSubmission:
+           attempt_id: int | None = None, submission_id: int | None = None,
+           stt_words: list | None = None) -> SpeakingSubmission:
     """Évalue et enregistre (ou réévalue, si `submission_id`) une production orale.
 
     Si l'utilisateur a choisi de ne pas conserver ses enregistrements, le
@@ -51,8 +54,12 @@ def submit(s: Session, task_id: int, transcript: str, *, profile: dict | None = 
         profile = (sub.evaluation.get("extra") or {}).get("profile")
     if duration_s is None:
         duration_s = sub.duration_s or None
-    ev = evaluate_task(task, transcript, profile, stt_confidence, duration_s)
+    if stt_words is None and sub.evaluation and transcript == sub.transcript:
+        stt_words = (sub.evaluation.get("extra") or {}).get("stt_words")
+    ev = evaluate_task(task, transcript, profile, stt_confidence, duration_s, stt_words)
     ev.extra["profile"] = profile or {}
+    if stt_words:       # confiance mot à mot conservée pour une réévaluation
+        ev.extra["stt_words"] = [{"word": w["word"], "conf": w["conf"]} for w in stt_words]
     sub.transcript = transcript
     sub.duration_s = float(duration_s or (profile or {}).get("duration_s", 0) or 0)
     if dialogue is not None:

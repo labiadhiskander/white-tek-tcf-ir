@@ -95,7 +95,7 @@ def test_model_answers_have_no_detected_error_and_score_b2_or_more():
         assert ev.errors == [], (stem, t["task_number"], [(i.rule, i.excerpt) for i in ev.errors])
         assert L.meets_target(ev.level), (stem, t["task_number"], ev.note20)
         notes.append(ev.note20)
-    assert len(notes) == 60
+    assert len(notes) >= 60 and len(notes) % 3 == 0  # 20 examens v1.0 + examens blancs B2
     assert 12 <= statistics.mean(notes) <= WE.AUTO_CAP
 
 
@@ -189,7 +189,7 @@ def test_writing_page_training_and_report(ctx):
     from tcfmaster.ui.pages.writing_page import WritingPage
     p = WritingPage(ctx)
     p.refresh()
-    assert p.exam.count() == 20
+    assert p.exam.count() == len(list((content_dir() / "exams").glob("*.json")))  # v1.0 + B2
     p.task.setCurrentIndex(2)
     p.start_training()
     p.editor.edit.setPlainText("Je pense que si il faut changer, les gens est prêts. "

@@ -1,0 +1,1178 @@
+{
+ "slug": "ce-culture",
+ "section": "CE",
+ "title": "Culture",
+ "description": "Critiques, chroniques et articles culturels : cinéma, littérature, patrimoine, musique. Repérer le jugement de l'auteur et ses nuances.",
+ "order": 10,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CE-CUL-01",
+   "level": "B2",
+   "doc_type": "critique de film",
+   "questions": [
+    {
+     "prompt": "Quelle est l'opinion générale du critique sur le film ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Enthousiaste, sans aucune réserve.",
+       "correct": false,
+       "rationale": "Il mentionne des défauts.",
+       "label": "A"
+      },
+      {
+       "text": "Très positive malgré quelques défauts.",
+       "correct": true,
+       "rationale": "« Ces défauts pèsent peu face à la justesse de l'ensemble. »",
+       "label": "B"
+      },
+      {
+       "text": "Neutre, sans prise de position.",
+       "correct": false,
+       "rationale": "Son avis est clair.",
+       "label": "C"
+      },
+      {
+       "text": "Négative à cause des longueurs.",
+       "correct": false,
+       "rationale": "Il les juge secondaires.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La concession « On pourra reprocher… Mais » montre un jugement nuancé mais favorable."
+    },
+    {
+     "prompt": "Que signifie « son refus du misérabilisme » ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Le film évite de présenter son héroïne comme une pauvre victime.",
+       "correct": true,
+       "rationale": "« L'héroïne n'est jamais présentée comme une victime. »",
+       "label": "A"
+      },
+      {
+       "text": "Le film refuse de montrer la pauvreté.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "B"
+      },
+      {
+       "text": "Le film est très triste.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Le film critique les personnes âgées.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le misérabilisme consiste à insister sur la misère pour émouvoir."
+    },
+    {
+     "prompt": "Quel mérite principal le critique reconnaît-il au film ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Ses effets spéciaux.",
+       "correct": false,
+       "rationale": "« Pas de grands effets. »",
+       "label": "A"
+      },
+      {
+       "text": "Sa musique omniprésente.",
+       "correct": false,
+       "rationale": "« Pas de musique envahissante. »",
+       "label": "B"
+      },
+      {
+       "text": "Sa fin surprenante.",
+       "correct": false,
+       "rationale": "Elle est « un peu trop attendue ».",
+       "label": "C"
+      },
+      {
+       "text": "Montrer un métier essentiel et peu valorisé sans être moralisateur.",
+       "correct": true,
+       "rationale": "« Rendre visible un travail essentiel que la société préfère ignorer, sans jamais tomber dans le discours. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La dernière phrase résume la qualité principale de l'œuvre."
+    }
+   ],
+   "title": "Un premier film d'une grande justesse",
+   "document": "Pour son premier long métrage, la réalisatrice a choisi un sujet que le cinéma aborde rarement : le quotidien d'une aide à domicile dans une petite ville du Nord. Pas de grands effets, pas de musique envahissante, mais une caméra attentive qui suit cette femme de maison en maison, entre deux patients âgés et une vie de famille compliquée.\n\nLa force du film tient à son refus du misérabilisme. L'héroïne n'est jamais présentée comme une victime ; elle rit, se met en colère, se trompe, et c'est précisément ce qui la rend si attachante. L'actrice principale, peu connue du grand public, livre une interprétation d'une remarquable sobriété.\n\nOn pourra reprocher au scénario quelques longueurs dans sa deuxième partie, et une fin un peu trop attendue. Mais ces défauts pèsent peu face à la justesse de l'ensemble. Le film réussit ce que peu d'œuvres parviennent à faire : rendre visible un travail essentiel que la société préfère ignorer, sans jamais tomber dans le discours.",
+   "vocabulary": [
+    {
+     "terme": "un long métrage",
+     "definition": "un film de plus d'une heure",
+     "exemple": "Son premier long métrage."
+    },
+    {
+     "terme": "envahissant",
+     "definition": "qui prend trop de place",
+     "exemple": "Une publicité envahissante."
+    },
+    {
+     "terme": "la sobriété",
+     "definition": "la simplicité, l'absence d'excès",
+     "exemple": "Un jeu d'une grande sobriété."
+    },
+    {
+     "terme": "une longueur",
+     "definition": "un passage trop long dans une œuvre",
+     "exemple": "Le film a quelques longueurs."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "tenir à",
+     "sens": "venir de",
+     "exemple": "Sa réussite tient à son travail."
+    },
+    {
+     "expression": "peser peu",
+     "sens": "avoir peu d'importance",
+     "exemple": "Ces critiques pèsent peu."
+    },
+    {
+     "expression": "tomber dans le discours",
+     "sens": "devenir moralisateur",
+     "exemple": "Le film évite de tomber dans le discours."
+    }
+   ],
+   "traps": [
+    "Le critique n'est pas totalement enthousiaste.",
+    "Le misérabilisme n'est pas la pauvreté elle-même.",
+    "La fin est jugée prévisible, pas surprenante."
+   ]
+  },
+  {
+   "code": "CE-CUL-02",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Quelles difficultés financières les festivals rencontrent-ils ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Une baisse du nombre de spectateurs.",
+       "correct": false,
+       "rationale": "Le texte parle d'affluence.",
+       "label": "A"
+      },
+      {
+       "text": "Le manque de bénévoles.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué comme cause.",
+       "label": "B"
+      },
+      {
+       "text": "La hausse du prix des artistes, de la sécurité, de l'énergie et des assurances.",
+       "correct": true,
+       "rationale": "« Les cachets des artistes… ont explosé, les coûts de sécurité et d'énergie ont fortement augmenté… les assurances… hors de prix. »",
+       "label": "C"
+      },
+      {
+       "text": "L'interdiction des concerts en plein air.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Derrière l'affluence se cache » oppose le succès apparent à la fragilité financière."
+    },
+    {
+     "prompt": "Pourquoi les grands festivals résistent-ils mieux ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Ils sont gratuits.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Ils n'invitent que des artistes inconnus.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Ils ont des sponsors et peuvent augmenter leurs tarifs.",
+       "correct": true,
+       "rationale": "« Soutenus par des sponsors et capables d'augmenter le prix des billets. »",
+       "label": "C"
+      },
+      {
+       "text": "Ils ne paient pas d'assurances.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« En revanche » oppose leur situation à celle des petits festivals."
+    },
+    {
+     "prompt": "Pourquoi la disparition des petits festivals inquiète-t-elle ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Ils attirent des touristes étrangers.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Ils soutiennent les jeunes artistes et la culture dans les territoires isolés.",
+       "correct": true,
+       "rationale": "« Donnent leur chance aux artistes émergents et… font vivre la culture dans des territoires éloignés. »",
+       "label": "B"
+      },
+      {
+       "text": "Ils rapportent beaucoup d'argent à l'État.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Ils sont les seuls à vendre des billets.",
+       "correct": false,
+       "rationale": "Ce n'est pas le cas.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'argument porte sur la « diversité culturelle »."
+    }
+   ],
+   "title": "Les festivals de musique face à la hausse des coûts",
+   "document": "Chaque été, des centaines de festivals animent les campagnes et les villes françaises. Mais derrière l'affluence se cache une réalité financière de plus en plus difficile. Les cachets des artistes les plus demandés ont explosé, les coûts de sécurité et d'énergie ont fortement augmenté, et les assurances contre les intempéries sont devenues hors de prix.\n\nLes grands festivals, soutenus par des sponsors et capables d'augmenter le prix des billets, s'en sortent plutôt bien. Les petits événements, souvent portés par des bénévoles et des collectivités locales, sont en revanche menacés. Plusieurs d'entre eux ont annoncé cette année leur dernière édition.\n\nPour les acteurs du secteur, cette évolution risque d'appauvrir la diversité culturelle. Ce sont souvent les petits festivals qui donnent leur chance aux artistes émergents et qui font vivre la culture dans des territoires éloignés des grandes salles. Certains appellent à mutualiser les moyens entre festivals d'une même région, d'autres réclament un soutien public ciblé sur les événements les plus fragiles.",
+   "vocabulary": [
+    {
+     "terme": "l'affluence",
+     "definition": "l'arrivée d'un grand nombre de personnes",
+     "exemple": "L'affluence était record."
+    },
+    {
+     "terme": "un cachet",
+     "definition": "la rémunération d'un artiste pour un spectacle",
+     "exemple": "Le chanteur a demandé un cachet élevé."
+    },
+    {
+     "terme": "les intempéries",
+     "definition": "le mauvais temps",
+     "exemple": "Le concert a été annulé à cause des intempéries."
+    },
+    {
+     "terme": "émergent",
+     "definition": "qui commence à être connu",
+     "exemple": "Un artiste émergent."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "hors de prix",
+     "sens": "beaucoup trop cher",
+     "exemple": "Les loyers sont hors de prix."
+    },
+    {
+     "expression": "s'en sortir",
+     "sens": "réussir à surmonter une difficulté",
+     "exemple": "Il s'en sort bien."
+    },
+    {
+     "expression": "mutualiser les moyens",
+     "sens": "mettre en commun des ressources",
+     "exemple": "Les communes mutualisent leurs moyens."
+    }
+   ],
+   "traps": [
+    "Les festivals ne manquent pas de public.",
+    "Les grands festivals s'en sortent « plutôt bien ».",
+    "Deux solutions différentes sont proposées par des acteurs différents."
+   ]
+  },
+  {
+   "code": "CE-CUL-03",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Pourquoi de nombreux édifices ruraux se dégradent-ils ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Parce que les petites communes manquent d'argent pour les entretenir.",
+       "correct": true,
+       "rationale": "« N'ont souvent pas les moyens de financer des travaux. »",
+       "label": "A"
+      },
+      {
+       "text": "Parce qu'ils sont trop récents.",
+       "correct": false,
+       "rationale": "Ce sont des bâtiments anciens.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que la loi interdit de les réparer.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Parce qu'ils sont tous des monuments historiques.",
+       "correct": false,
+       "rationale": "Ils ne sont justement pas protégés.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Faute d'entretien » est expliqué par le manque de moyens."
+    },
+    {
+     "prompt": "Quelle solution consiste à donner une nouvelle fonction aux bâtiments ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Former des jeunes aux techniques traditionnelles.",
+       "correct": false,
+       "rationale": "C'est une solution de restauration.",
+       "label": "A"
+      },
+      {
+       "text": "Détruire les bâtiments anciens.",
+       "correct": false,
+       "rationale": "Ce n'est pas proposé.",
+       "label": "B"
+      },
+      {
+       "text": "Organiser une loterie nationale.",
+       "correct": false,
+       "rationale": "C'est une solution de financement.",
+       "label": "C"
+      },
+      {
+       "text": "Transformer un presbytère en maison de santé.",
+       "correct": true,
+       "rationale": "« Un ancien presbytère devient une maison de santé. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'expression « donner une nouvelle vie » désigne un nouvel usage."
+    },
+    {
+     "prompt": "Que recommandent les spécialistes ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Restaurer absolument tous les édifices.",
+       "correct": false,
+       "rationale": "« Il sera impossible de tout sauver. »",
+       "label": "A"
+      },
+      {
+       "text": "Prioriser les bâtiments qui peuvent être réutilisés.",
+       "correct": true,
+       "rationale": "« Concentrer les efforts sur les bâtiments qui peuvent retrouver un usage. »",
+       "label": "B"
+      },
+      {
+       "text": "Abandonner le patrimoine rural.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Interdire les concerts dans les églises.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La conclusion propose un choix réaliste face à des moyens limités."
+    }
+   ],
+   "title": "Le patrimoine rural en danger",
+   "document": "Églises de village, lavoirs, moulins, fermes anciennes : la France compte des dizaines de milliers d'édifices qui ne sont pas protégés au titre des monuments historiques, mais qui font partie de l'identité des paysages. Beaucoup se dégradent faute d'entretien. Les petites communes, propriétaires de nombreuses églises, n'ont souvent pas les moyens de financer des travaux qui peuvent atteindre plusieurs centaines de milliers d'euros.\n\nDes solutions émergent. Des loteries nationales ont permis de financer la restauration de centaines de sites. Des associations de bénévoles organisent des chantiers d'été, où des jeunes apprennent les techniques traditionnelles. Certaines communes donnent une nouvelle vie à leurs bâtiments : une église accueille des concerts, un ancien presbytère devient une maison de santé.\n\nCes initiatives restent toutefois insuffisantes face à l'ampleur des besoins. Les spécialistes appellent à faire des choix : il sera impossible de tout sauver, et il vaut mieux concentrer les efforts sur les bâtiments qui peuvent retrouver un usage.",
+   "vocabulary": [
+    {
+     "terme": "un édifice",
+     "definition": "un bâtiment important",
+     "exemple": "Un édifice religieux."
+    },
+    {
+     "terme": "un lavoir",
+     "definition": "un lieu public où l'on lavait le linge",
+     "exemple": "Le vieux lavoir du village."
+    },
+    {
+     "terme": "un presbytère",
+     "definition": "la maison du curé",
+     "exemple": "Le presbytère a été vendu."
+    },
+    {
+     "terme": "l'ampleur",
+     "definition": "l'importance, l'étendue",
+     "exemple": "L'ampleur des dégâts."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "au titre de",
+     "sens": "en tant que",
+     "exemple": "Il est protégé au titre des monuments historiques."
+    },
+    {
+     "expression": "donner une nouvelle vie à",
+     "sens": "réutiliser autrement",
+     "exemple": "Donner une nouvelle vie aux vieux meubles."
+    },
+    {
+     "expression": "faire des choix",
+     "sens": "décider de ce qui est prioritaire",
+     "exemple": "Avec ce budget, il faudra faire des choix."
+    }
+   ],
+   "traps": [
+    "Ces édifices ne sont pas classés monuments historiques.",
+    "Les solutions existent mais sont insuffisantes.",
+    "Les spécialistes acceptent qu'on ne puisse pas tout sauver."
+   ]
+  },
+  {
+   "code": "CE-CUL-04",
+   "level": "B2",
+   "doc_type": "critique littéraire",
+   "questions": [
+    {
+     "prompt": "Sur quoi le romancier s'appuie-t-il pour écrire ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Sur des documents familiaux et les souvenirs de ses proches.",
+       "correct": true,
+       "rationale": "« À partir de quelques lettres, de photographies et des souvenirs contradictoires de ses proches. »",
+       "label": "A"
+      },
+      {
+       "text": "Sur une interview de sa grand-mère.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Sur des archives officielles uniquement.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Sur le journal intime détaillé de sa grand-mère.",
+       "correct": false,
+       "rationale": "Elle « n'a jamais voulu raconter son passé ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le mot « contradictoires » montre que les sources sont incertaines."
+    },
+    {
+     "prompt": "Pourquoi le critique apprécie-t-il l'honnêteté de l'auteur ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Parce qu'il critique sa famille.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Parce qu'il écrit simplement.",
+       "correct": false,
+       "rationale": "Le style est jugé « trop appliqué ».",
+       "label": "B"
+      },
+      {
+       "text": "Parce qu'il dit toute la vérité historique.",
+       "correct": false,
+       "rationale": "Il « ne prétend pas » le faire.",
+       "label": "C"
+      },
+      {
+       "text": "Parce qu'il reconnaît ouvertement la part d'imagination de son récit.",
+       "correct": true,
+       "rationale": "« Sans que l'auteur cache jamais la part d'invention… il ne prétend pas dire la vérité. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'honnêteté porte sur le rapport entre faits et fiction."
+    },
+    {
+     "prompt": "Quelle réserve le critique exprime-t-il ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Un sujet sans intérêt.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Une construction confuse.",
+       "correct": false,
+       "rationale": "Elle est appréciée.",
+       "label": "B"
+      },
+      {
+       "text": "Un style parfois trop soigné qui limite l'émotion.",
+       "correct": true,
+       "rationale": "« Un style parfois trop appliqué, qui freine l'émotion dans certains passages. »",
+       "label": "C"
+      },
+      {
+       "text": "Une fin décevante.",
+       "correct": false,
+       "rationale": "La dernière partie est « bouleversante ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "« On regrettera seulement » minimise la critique."
+    }
+   ],
+   "title": "Un roman sur la mémoire familiale",
+   "document": "Dans son nouveau roman, l'auteur reconstitue l'histoire de sa grand-mère, arrivée en France à dix-huit ans sans parler un mot de français. À partir de quelques lettres, de photographies et des souvenirs contradictoires de ses proches, il tente de combler les silences d'une femme qui n'a jamais voulu raconter son passé.\n\nLe livre séduit par sa construction. Les chapitres alternent entre l'enquête du narrateur aujourd'hui et des scènes imaginées de la jeunesse de sa grand-mère, sans que l'auteur cache jamais la part d'invention. Cette honnêteté donne au roman une grande force : il ne prétend pas dire la vérité, mais interroge ce que l'on peut savoir de ceux qui nous ont précédés.\n\nOn regrettera seulement un style parfois trop appliqué, qui freine l'émotion dans certains passages. Mais la dernière partie, bouleversante, efface ces réserves. Un livre qui parlera à tous ceux qui se sont un jour demandé ce que leurs parents ou grands-parents ne leur avaient pas dit.",
+   "vocabulary": [
+    {
+     "terme": "reconstituer",
+     "definition": "recréer à partir d'éléments",
+     "exemple": "Reconstituer les faits."
+    },
+    {
+     "terme": "combler",
+     "definition": "remplir un vide",
+     "exemple": "Combler un manque."
+    },
+    {
+     "terme": "appliqué",
+     "definition": "soigné mais sans spontanéité",
+     "exemple": "Un élève appliqué."
+    },
+    {
+     "terme": "bouleversant",
+     "definition": "qui émeut profondément",
+     "exemple": "Un témoignage bouleversant."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "ne pas parler un mot de",
+     "sens": "ne pas connaître du tout une langue",
+     "exemple": "Il ne parlait pas un mot d'anglais."
+    },
+    {
+     "expression": "la part d'invention",
+     "sens": "ce qui est imaginé",
+     "exemple": "Tout récit comporte une part d'invention."
+    },
+    {
+     "expression": "parler à quelqu'un",
+     "sens": "le toucher, le concerner",
+     "exemple": "Ce film parlera aux jeunes."
+    }
+   ],
+   "traps": [
+    "Le roman mêle faits et imagination.",
+    "La réserve sur le style est mineure.",
+    "La grand-mère n'a pas raconté son passé."
+   ]
+  },
+  {
+   "code": "CE-CUL-05",
+   "level": "B2",
+   "doc_type": "chronique",
+   "questions": [
+    {
+     "prompt": "Quel tabou l'auteur évoque-t-il ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Le fait de lire des romans modernes.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Le fait d'aimer la poésie.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Le fait de ne pas savoir lire.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Le fait d'avouer qu'on n'a pas aimé un grand classique.",
+       "correct": true,
+       "rationale": "« Avouer qu'on s'est ennuyé en lisant un grand classique reste presque un tabou. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Un tabou est un sujet dont on évite de parler."
+    },
+    {
+     "prompt": "Comment l'auteur définit-il une œuvre classique ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Un livre obligatoire au lycée.",
+       "correct": false,
+       "rationale": "Ce n'est pas sa définition.",
+       "label": "A"
+      },
+      {
+       "text": "Un roman écrit avant le XXe siècle.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Un texte qui a duré parce que de nombreux lecteurs y ont trouvé un intérêt.",
+       "correct": true,
+       "rationale": "« Un texte qui a traversé le temps parce que des générations de lecteurs y ont trouvé quelque chose. »",
+       "label": "C"
+      },
+      {
+       "text": "Un objet sacré à admirer.",
+       "correct": false,
+       "rationale": "Il rejette cette idée.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'auteur oppose sa définition à celle d'un « objet sacré »."
+    },
+    {
+     "prompt": "Que suggère l'exemple du livre détesté à seize ans et aimé à quarante ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "La compréhension d'une œuvre dépend de l'expérience du lecteur.",
+       "correct": true,
+       "rationale": "« C'est leur expérience de la vie qui leur permet enfin d'y entrer. »",
+       "label": "A"
+      },
+      {
+       "text": "Il ne faut jamais relire un livre.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "B"
+      },
+      {
+       "text": "Les livres changent avec le temps.",
+       "correct": false,
+       "rationale": "« Le texte n'a pas changé. »",
+       "label": "C"
+      },
+      {
+       "text": "Les adolescents ne savent pas lire.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'auteur oppose le texte immobile au lecteur qui évolue."
+    }
+   ],
+   "title": "Faut-il avoir honte de ne pas aimer les classiques ?",
+   "document": "Avouer qu'on s'est ennuyé en lisant un grand classique reste presque un tabou. Comme si ne pas aimer une œuvre consacrée révélait un manque de culture ou de sensibilité. Pourtant, beaucoup de lecteurs ont gardé de leurs années de lycée un souvenir pénible de certains romans imposés, lus trop tôt et analysés ligne par ligne.\n\nIl n'y a là aucune honte à avoir. Une œuvre classique n'est pas un objet sacré qu'il faudrait admirer par principe. C'est un texte qui a traversé le temps parce que des générations de lecteurs y ont trouvé quelque chose. Rien ne garantit que chacun y trouvera la même chose, ni au même âge.\n\nBeaucoup redécouvrent d'ailleurs à quarante ans un livre détesté à seize. Le texte n'a pas changé ; c'est leur expérience de la vie qui leur permet enfin d'y entrer. Plutôt que de forcer l'admiration, l'école gagnerait à transmettre le goût de la découverte, et à accepter que l'on puisse ne pas aimer, à condition de savoir dire pourquoi.",
+   "vocabulary": [
+    {
+     "terme": "consacré",
+     "definition": "reconnu officiellement comme important",
+     "exemple": "Un auteur consacré."
+    },
+    {
+     "terme": "pénible",
+     "definition": "désagréable",
+     "exemple": "Un souvenir pénible."
+    },
+    {
+     "terme": "sacré",
+     "definition": "qui inspire un respect absolu",
+     "exemple": "Un lieu sacré."
+    },
+    {
+     "terme": "la découverte",
+     "definition": "le fait de découvrir",
+     "exemple": "Le goût de la découverte."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "par principe",
+     "sens": "sans réfléchir, par règle",
+     "exemple": "Il refuse par principe."
+    },
+    {
+     "expression": "traverser le temps",
+     "sens": "durer à travers les époques",
+     "exemple": "Ces chansons ont traversé le temps."
+    },
+    {
+     "expression": "entrer dans un livre",
+     "sens": "réussir à s'y intéresser, à le comprendre",
+     "exemple": "Je n'arrive pas à entrer dans ce roman."
+    }
+   ],
+   "traps": [
+    "L'auteur ne critique pas les classiques eux-mêmes.",
+    "Il ne refuse pas l'avis négatif, mais demande de le justifier.",
+    "« Le texte n'a pas changé » : c'est le lecteur qui change."
+   ]
+  },
+  {
+   "code": "CE-CUL-06",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Pourquoi certains objets d'art sont-ils réclamés ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Parce qu'ils sont faux.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Parce qu'ils ont souvent été obtenus de façon contestable pendant la colonisation.",
+       "correct": true,
+       "rationale": "« Acquis pendant la période coloniale dans des conditions contestables. »",
+       "label": "B"
+      },
+      {
+       "text": "Parce qu'ils sont mal conservés.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Parce qu'ils ont été volés récemment.",
+       "correct": false,
+       "rationale": "Ils ont été acquis pendant la période coloniale.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'énumération après les deux-points précise les « conditions contestables »."
+    },
+    {
+     "prompt": "Quel argument juridique les opposants avancent-ils ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Le manque de musées en Afrique.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Le droit de propriété des pays africains.",
+       "correct": false,
+       "rationale": "C'est l'argument inverse.",
+       "label": "B"
+      },
+      {
+       "text": "Le coût du transport des œuvres.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Le principe selon lequel les collections publiques ne peuvent pas être cédées.",
+       "correct": true,
+       "rationale": "« Le principe d'inaliénabilité des collections publiques, qui interdit en principe de céder une œuvre. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Inaliénable » signifie qu'on ne peut ni vendre ni donner."
+    },
+    {
+     "prompt": "Quelle approche la future loi privilégie-t-elle ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Une restitution immédiate de toutes les œuvres.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Un examen de chaque objet avant de décider.",
+       "correct": true,
+       "rationale": "« Faciliter les restitutions au cas par cas, après examen scientifique de la provenance de chaque objet. »",
+       "label": "B"
+      },
+      {
+       "text": "Le refus de toute restitution.",
+       "correct": false,
+       "rationale": "La loi vise à les faciliter.",
+       "label": "C"
+      },
+      {
+       "text": "La vente des œuvres aux enchères.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Au cas par cas » signifie « en examinant chaque situation séparément »."
+    }
+   ],
+   "title": "Les musées face au débat sur la restitution des œuvres",
+   "document": "Plusieurs pays africains demandent la restitution d'objets d'art conservés dans les musées européens, souvent acquis pendant la période coloniale dans des conditions contestables : pillages militaires, achats forcés ou dons obtenus sous la contrainte. Après des décennies de refus, la France a restitué ces dernières années plusieurs dizaines d'œuvres au Bénin et au Sénégal.\n\nPour les partisans de ces retours, il s'agit d'une question de justice et de mémoire : ces objets ont une valeur culturelle et spirituelle pour les peuples dont ils sont issus, et leur absence prive les jeunes générations d'une partie de leur histoire. Les opposants craignent un « vidage » des musées occidentaux et invoquent le principe d'inaliénabilité des collections publiques, qui interdit en principe de céder une œuvre.\n\nUne loi-cadre est en préparation pour faciliter les restitutions au cas par cas, après examen scientifique de la provenance de chaque objet. Des coopérations entre musées, avec prêts et expositions communes, sont également envisagées.",
+   "vocabulary": [
+    {
+     "terme": "la restitution",
+     "definition": "le fait de rendre ce qui a été pris",
+     "exemple": "La restitution des biens volés."
+    },
+    {
+     "terme": "un pillage",
+     "definition": "un vol violent, souvent en temps de guerre",
+     "exemple": "Le pillage d'une ville."
+    },
+    {
+     "terme": "la provenance",
+     "definition": "l'origine",
+     "exemple": "La provenance de cet objet est inconnue."
+    },
+    {
+     "terme": "inaliénable",
+     "definition": "qui ne peut être vendu ni cédé",
+     "exemple": "Un droit inaliénable."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "sous la contrainte",
+     "sens": "par la force, sans liberté",
+     "exemple": "Il a signé sous la contrainte."
+    },
+    {
+     "expression": "au cas par cas",
+     "sens": "individuellement, selon chaque situation",
+     "exemple": "Les demandes sont traitées au cas par cas."
+    },
+    {
+     "expression": "être issu de",
+     "sens": "venir de",
+     "exemple": "Il est issu d'une famille modeste."
+    }
+   ],
+   "traps": [
+    "La France a déjà restitué quelques dizaines d'œuvres.",
+    "L'inaliénabilité interdit « en principe » de céder une œuvre.",
+    "La loi est en préparation, elle n'est pas encore adoptée."
+   ]
+  },
+  {
+   "code": "CE-CUL-07",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Quel paradoxe le premier paragraphe souligne-t-il ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Le vinyle revient au moment où l'écoute en ligne domine.",
+       "correct": true,
+       "rationale": "« Paradoxalement, ce succès intervient à l'époque où l'écoute en ligne domine très largement. »",
+       "label": "A"
+      },
+      {
+       "text": "Le disque compact est plus vendu que jamais.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Le vinyle est gratuit.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Les artistes refusent de produire des vinyles.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Paradoxalement » signale une situation contraire à ce qu'on attendrait."
+    },
+    {
+     "prompt": "Selon le texte, qu'est-ce qui attire surtout les acheteurs ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Le prix très bas.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Une qualité de son prouvée scientifiquement.",
+       "correct": false,
+       "rationale": "« Les études sur ce point sont discutées. »",
+       "label": "B"
+      },
+      {
+       "text": "L'objet et le rituel d'écoute.",
+       "correct": true,
+       "rationale": "« Mais c'est surtout l'objet qui séduit. »",
+       "label": "C"
+      },
+      {
+       "text": "La facilité de transport.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Surtout » hiérarchise les explications."
+    },
+    {
+     "prompt": "Que révèle la dernière phrase sur une partie des acheteurs ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Ils ont arrêté d'écouter de la musique.",
+       "correct": false,
+       "rationale": "Ils écoutent en ligne.",
+       "label": "A"
+      },
+      {
+       "text": "Ils fabriquent leurs propres vinyles.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Ils achètent des vinyles sans forcément les écouter.",
+       "correct": true,
+       "rationale": "« Une partie des acheteurs n'écoutent pas leurs disques. »",
+       "label": "C"
+      },
+      {
+       "text": "Ils revendent immédiatement leurs disques.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le vinyle devient un objet de collection ou de soutien, pas seulement un support d'écoute."
+    }
+   ],
+   "title": "Le retour du vinyle",
+   "document": "Donné pour mort à l'arrivée du disque compact, le vinyle connaît depuis une quinzaine d'années un retour spectaculaire. Ses ventes ont été multipliées par dix, et il représente désormais une part importante des revenus de la musique enregistrée en format physique. Paradoxalement, ce succès intervient à l'époque où l'écoute en ligne domine très largement.\n\nLes explications sont multiples. Pour beaucoup d'amateurs, le vinyle offre une qualité de son plus chaleureuse, même si les études sur ce point sont discutées. Mais c'est surtout l'objet qui séduit : une grande pochette illustrée, le rituel de poser le disque sur la platine, le sentiment de posséder vraiment sa musique plutôt que d'y accéder par un abonnement.\n\nCe retour a ses limites. Les usines de pressage, peu nombreuses, sont saturées, ce qui allonge les délais pour les artistes indépendants. Et une partie des acheteurs n'écoutent pas leurs disques : ils les collectionnent, les exposent, ou les achètent pour soutenir un artiste qu'ils écoutent par ailleurs en ligne.",
+   "vocabulary": [
+    {
+     "terme": "une pochette",
+     "definition": "l'enveloppe illustrée d'un disque",
+     "exemple": "Une pochette signée par l'artiste."
+    },
+    {
+     "terme": "une platine",
+     "definition": "l'appareil qui lit les disques vinyles",
+     "exemple": "Il a acheté une platine."
+    },
+    {
+     "terme": "le pressage",
+     "definition": "la fabrication des disques",
+     "exemple": "L'usine de pressage."
+    },
+    {
+     "terme": "saturé",
+     "definition": "complètement occupé",
+     "exemple": "Les usines sont saturées."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "donné pour mort",
+     "sens": "considéré comme disparu",
+     "exemple": "Ce journal était donné pour mort."
+    },
+    {
+     "expression": "par ailleurs",
+     "sens": "d'un autre côté, en plus",
+     "exemple": "Il est par ailleurs très sympathique."
+    },
+    {
+     "expression": "multiplié par dix",
+     "sens": "dix fois plus important",
+     "exemple": "Les ventes ont été multipliées par dix."
+    }
+   ],
+   "traps": [
+    "La supériorité du son n'est pas prouvée.",
+    "Le succès du vinyle n'a pas remplacé l'écoute en ligne.",
+    "La saturation des usines touche surtout les artistes indépendants."
+   ]
+  },
+  {
+   "code": "CE-CUL-08",
+   "level": "B2",
+   "doc_type": "chronique",
+   "questions": [
+    {
+     "prompt": "Sur quoi repose la comparaison entre séries et romans du XIXe siècle ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Sur des récits longs, des personnages complexes et un large public régulier.",
+       "correct": true,
+       "rationale": "« Elles racontent des histoires longues, développent des personnages complexes et rassemblent chaque semaine des millions de spectateurs. »",
+       "label": "A"
+      },
+      {
+       "text": "Sur leur publication dans les journaux.",
+       "correct": false,
+       "rationale": "C'était le cas des feuilletons, pas des séries.",
+       "label": "B"
+      },
+      {
+       "text": "Sur leur prix.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Sur le fait qu'elles sont écrites par les mêmes auteurs.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le mot « Comme » introduit la comparaison."
+    },
+    {
+     "prompt": "Quelle différence entre lecture et série l'auteur souligne-t-il ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les romans n'ont pas de personnages complexes.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Les séries sont plus difficiles à comprendre.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Les séries sont plus longues que les romans.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'argument.",
+       "label": "C"
+      },
+      {
+       "text": "La lecture laisse plus de place à l'imagination.",
+       "correct": true,
+       "rationale": "« La lecture laisse au lecteur le soin d'imaginer les visages… la série impose ses images. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'opposition « laisse… / impose… » souligne le rôle actif du lecteur."
+    },
+    {
+     "prompt": "Quelle est la conclusion de l'auteur ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Il faut arrêter de regarder des séries.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Séries et romans sont complémentaires, et l'écran peut amener à lire.",
+       "correct": true,
+       "rationale": "« L'écran peut parfois lui servir de porte d'entrée. »",
+       "label": "B"
+      },
+      {
+       "text": "Les séries vont faire disparaître la lecture.",
+       "correct": false,
+       "rationale": "« Loin de tuer la lecture… »",
+       "label": "C"
+      },
+      {
+       "text": "Le roman est supérieur en tout.",
+       "correct": false,
+       "rationale": "Il reconnaît les qualités des séries.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Plutôt que d'opposer les deux » annonce une conclusion conciliante."
+    }
+   ],
+   "title": "Les séries ont-elles remplacé le roman ?",
+   "document": "On entend souvent que les séries télévisées seraient devenues les grands romans de notre époque. Comme les feuilletons du XIXe siècle publiés dans les journaux, elles racontent des histoires longues, développent des personnages complexes et rassemblent chaque semaine des millions de spectateurs.\n\nLa comparaison n'est pas absurde. Certaines séries offrent une profondeur psychologique et une ambition narrative qui n'ont rien à envier à la littérature. Mais elle a ses limites. La lecture laisse au lecteur le soin d'imaginer les visages, les lieux, les voix ; la série impose ses images. Le roman permet aussi d'accéder directement aux pensées des personnages, ce que l'écran ne peut suggérer qu'indirectement.\n\nPlutôt que d'opposer les deux, il serait plus juste de reconnaître qu'ils ne sollicitent pas les mêmes facultés. Beaucoup de spectateurs découvrent d'ailleurs un roman grâce à son adaptation en série. Loin de tuer la lecture, l'écran peut parfois lui servir de porte d'entrée.",
+   "vocabulary": [
+    {
+     "terme": "un feuilleton",
+     "definition": "une histoire publiée ou diffusée par épisodes",
+     "exemple": "Un feuilleton radiophonique."
+    },
+    {
+     "terme": "narratif",
+     "definition": "qui concerne la manière de raconter",
+     "exemple": "Une structure narrative."
+    },
+    {
+     "terme": "solliciter",
+     "definition": "faire appel à",
+     "exemple": "Ce jeu sollicite la mémoire."
+    },
+    {
+     "terme": "une adaptation",
+     "definition": "la transposition d'une œuvre dans un autre genre",
+     "exemple": "L'adaptation du roman au cinéma."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "n'avoir rien à envier à",
+     "sens": "être aussi bon que",
+     "exemple": "Ce vin n'a rien à envier aux grands crus."
+    },
+    {
+     "expression": "laisser le soin de",
+     "sens": "laisser la responsabilité de",
+     "exemple": "Je vous laisse le soin de décider."
+    },
+    {
+     "expression": "une porte d'entrée",
+     "sens": "un moyen de découvrir quelque chose",
+     "exemple": "Ce livre est une bonne porte d'entrée en philosophie."
+    }
+   ],
+   "traps": [
+    "L'auteur juge la comparaison « pas absurde » mais limitée.",
+    "Il ne dit pas que les séries tuent la lecture.",
+    "Le conditionnel « seraient devenues » rapporte une opinion répandue."
+   ]
+  }
+ ]
+}

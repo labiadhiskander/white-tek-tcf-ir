@@ -1,0 +1,500 @@
+@code B2-BLANC-05
+@series B2
+@title Examen blanc B2 n° 5 – Éducation et jeunesse
+@level B2
+@description Examen complet de niveau B2 aux durées officielles : école, orientation, études supérieures, vie des jeunes.
+
+## CO 1 | B2 | message vocal | intention | H:fr-FR
+DOC: H: Bonjour Madame Benali, je suis Monsieur Roche, le professeur principal de Yanis. Je voulais vous signaler que Yanis a beaucoup progressé en mathématiques ce trimestre, ce dont nous pouvons tous être fiers. En revanche, il semble fatigué en classe depuis quelques semaines et s'isole un peu pendant les pauses. Je souhaiterais en discuter avec vous, sans inquiétude excessive. Pourriez-vous me rappeler ?
+Q: Pourquoi le professeur appelle-t-il Mme Benali ?
++ Pour lui proposer d'échanger sur un changement de comportement de son fils. | Il évoque la fatigue et l'isolement et « souhaiterait en discuter ».
+- Pour lui annoncer que Yanis va redoubler. | Il souligne au contraire ses progrès.
+- Pour se plaindre de mauvais résultats en mathématiques. | Yanis « a beaucoup progressé en mathématiques ».
+- Pour l'inviter à une réunion de parents. | Il propose un échange individuel.
+EXP: Le message commence par une information positive, puis introduit une préoccupation avec « en revanche ». La précision « sans inquiétude excessive » montre que l'objectif est un dialogue, pas une alerte grave.
+
+## CO 2 | B2 | reportage radio | information précise | F:fr-FR
+DOC: F: Dans cette académie, les lycéens de seconde bénéficient désormais de deux semaines de stage d'observation en entreprise, en juin. Le but est de les aider à préciser leur orientation avant de choisir leurs spécialités. Les établissements fournissent une liste d'entreprises partenaires, mais les élèves peuvent aussi trouver un stage par eux-mêmes, à condition que la convention soit signée avant le 15 mai.
+Q: Quelle condition les élèves doivent-ils respecter ?
++ Faire signer la convention de stage avant le 15 mai. | « à condition que la convention soit signée avant le 15 mai ».
+- Choisir une entreprise de la liste fournie. | Ils peuvent aussi trouver un stage par eux-mêmes.
+- Faire un stage d'un mois. | Le stage dure deux semaines.
+- Avoir déjà choisi leurs spécialités. | Le stage sert justement à préparer ce choix.
+EXP: « À condition que » introduit la contrainte. La possibilité de trouver un stage seul élimine le distracteur sur la liste obligatoire.
+
+## CO 3 | B2 | conversation | opinion | H:fr-FR, F:fr-FR
+DOC: H: Ma fille veut faire une année de césure entre le lycée et l'université. Moi, ça m'inquiète : elle risque de perdre le rythme. / F: Ça dépend de ce qu'elle en fait. Si elle travaille, voyage ou s'engage dans une association, elle reviendra plus motivée et plus mûre. Mon neveu l'a fait, et il a enfin compris ce qu'il voulait étudier. / H: Encore faut-il qu'elle ait un vrai projet.
+Q: Quelle est la position de la femme sur l'année de césure ?
++ Elle y est favorable si l'année est utilisée de façon constructive. | « Si elle travaille, voyage ou s'engage… elle reviendra plus motivée ».
+- Elle pense qu'elle fait toujours perdre le rythme. | C'est l'inquiétude de l'homme.
+- Elle la déconseille à tous les jeunes. | Elle cite l'exemple positif de son neveu.
+- Elle n'a aucune opinion. | Elle donne un avis argumenté.
+EXP: La femme nuance (« ça dépend ») puis présente des conditions de réussite et un exemple. L'homme conclut avec une réserve (« encore faut-il que »), mais la question porte sur la femme.
+
+## CO 4 | B2 | annonce publique | information précise | H:fr-FR
+DOC: H: Avis aux étudiants : les demandes de bourse sur critères sociaux et de logement en résidence universitaire pour la prochaine rentrée sont ouvertes jusqu'au 15 mai. Une seule demande en ligne permet de solliciter les deux aides. Les étudiants qui formulent leur demande après cette date pourront encore obtenir une bourse, mais ne seront pas prioritaires pour le logement.
+Q: Que risque un étudiant qui fait sa demande après le 15 mai ?
++ De ne pas être prioritaire pour obtenir un logement. | « ne seront pas prioritaires pour le logement ».
+- De perdre tout droit à la bourse. | Ils « pourront encore obtenir une bourse ».
+- De devoir faire deux demandes séparées. | Une seule demande suffit.
+- De payer des frais de retard. | Aucun frais n'est mentionné.
+EXP: L'annonce distingue les conséquences pour la bourse (toujours possible) et pour le logement (perte de priorité). « Mais » introduit la conséquence négative.
+
+## CO 5 | B2 | interview radio | compréhension globale | F:fr-FR, H:fr-FR
+DOC: F: Vous dirigez une école de la deuxième chance. Qui accueillez-vous ? / H: Des jeunes de dix-huit à vingt-cinq ans qui ont quitté l'école sans diplôme. Nous ne leur proposons pas de refaire le collège. Nous partons de leur projet professionnel, avec des stages en entreprise dès les premières semaines, et nous travaillons les savoirs de base à partir de situations concrètes. Pour beaucoup, c'est la première fois qu'ils se sentent capables.
+Q: Quelle est la particularité de cette école ?
++ Elle part du projet professionnel des jeunes et alterne avec des stages. | « Nous partons de leur projet professionnel, avec des stages en entreprise ».
+- Elle fait refaire tout le programme du collège. | « Nous ne leur proposons pas de refaire le collège ».
+- Elle accueille des enfants de dix ans. | Elle accueille des jeunes de dix-huit à vingt-cinq ans.
+- Elle prépare uniquement aux études supérieures. | L'accent est mis sur l'insertion professionnelle.
+EXP: La négation « nous ne leur proposons pas » écarte le modèle scolaire classique. La méthode décrite ensuite (projet, stages, situations concrètes) constitue la particularité.
+
+## CO 6 | B2 | chronique radio | inférence | H:fr-FR
+DOC: H: Chaque année, en juin, les mêmes articles annoncent que les candidats au baccalauréat sont de plus en plus nombreux à réussir. Certains y voient une baisse du niveau, d'autres une démocratisation. Ce qu'on dit moins, c'est que le taux d'échec en première année d'université reste très élevé. Un diplôme obtenu ne garantit donc pas qu'un élève soit préparé à ce qui l'attend ensuite.
+Q: Que suggère le chroniqueur ?
++ La réussite au bac ne suffit pas à préparer aux études supérieures. | « Un diplôme obtenu ne garantit donc pas qu'un élève soit préparé ».
+- Le baccalauréat devrait être supprimé. | Il ne propose rien de tel.
+- Le niveau des élèves augmente fortement. | Il ne tranche pas entre baisse et démocratisation.
+- L'université est trop facile. | Le taux d'échec y est très élevé.
+EXP: « Ce qu'on dit moins, c'est que » attire l'attention sur une information négligée. La conclusion introduite par « donc » tire la leçon du décalage entre bac et université.
+
+## CO 7 | B2 | débat radio | opinion | F:fr-FR, H:fr-FR
+DOC: F: L'uniforme à l'école effacerait les différences sociales entre élèves. / H: Il effacerait les différences de vêtements, c'est tout. Les enfants savent très bien qui part en vacances à l'étranger et qui n'a pas de chambre à soi. Je ne suis pas contre l'uniforme, mais je trouve naïf de penser qu'il réglera les inégalités. Il vaudrait mieux investir dans l'aide aux devoirs et les sorties culturelles.
+Q: Que pense l'homme de l'uniforme scolaire ?
++ Il ne s'y oppose pas, mais doute qu'il réduise les inégalités. | « Je ne suis pas contre l'uniforme, mais je trouve naïf de penser qu'il réglera les inégalités ».
+- Il pense qu'il supprimera toutes les différences sociales. | Il conteste cette idée.
+- Il veut l'interdire dans toutes les écoles. | « Je ne suis pas contre l'uniforme ».
+- Il pense qu'il coûtera trop cher aux familles. | Le coût n'est pas évoqué.
+EXP: L'homme reformule ironiquement l'argument (« Il effacerait les différences de vêtements, c'est tout »). La concession « je ne suis pas contre…, mais » précise sa position.
+
+## CO 8 | B2 | message professionnel | information précise | F:fr-FR
+DOC: F: Bonjour à tous les animateurs. Pour le séjour à la montagne de février, le départ en car est fixé à sept heures devant le centre, et non à huit heures comme indiqué sur la première circulaire. Chaque animateur sera responsable d'un groupe de huit enfants. Merci de récupérer les fiches sanitaires auprès de Nadia jeudi au plus tard, elles sont indispensables pour le départ.
+Q: Quelle information a été corrigée ?
++ L'heure de départ du car. | « fixé à sept heures… et non à huit heures comme indiqué sur la première circulaire ».
+- Le lieu de départ. | Le départ est toujours devant le centre.
+- Le nombre d'enfants par groupe. | Ce nombre n'est pas présenté comme une correction.
+- La date de remise des fiches sanitaires. | Elle n'est pas présentée comme modifiée.
+EXP: La structure « et non… comme indiqué » signale une correction. Les autres informations sont nouvelles mais ne corrigent rien.
+
+## CO 9 | B2 | interview | intention | H:fr-FR, F:fr-FR
+DOC: H: Votre lycée a supprimé les devoirs à la maison en seconde. Pourquoi ? / F: Parce que les devoirs creusaient les inégalités. Certains élèves étaient aidés par leurs parents ou par des cours particuliers, d'autres se retrouvaient seuls. Nous avons remplacé les devoirs par une heure d'étude encadrée chaque jour au lycée, avec des enseignants disponibles. Le travail personnel n'a pas disparu, il se fait simplement dans des conditions égales pour tous.
+Q: Que cherche à expliquer la proviseure ?
++ Que la suppression des devoirs vise à réduire les inégalités entre élèves. | « les devoirs creusaient les inégalités » et le travail se fait « dans des conditions égales pour tous ».
+- Que les élèves ne travaillent plus du tout. | « Le travail personnel n'a pas disparu ».
+- Que les parents ont demandé cette mesure. | L'origine de la demande n'est pas évoquée.
+- Que les enseignants ont moins de travail. | Ils encadrent une heure d'étude chaque jour.
+EXP: La proviseure justifie la décision par un argument d'égalité, décrit la solution de remplacement et anticipe une objection (« le travail personnel n'a pas disparu »).
+
+## CO 10 | B2 | reportage | compréhension globale | H:fr-FR
+DOC: H: Dans ce quartier de Marseille, des étudiants en médecine donnent des cours de soutien gratuits à des collégiens deux soirs par semaine. En échange, ils obtiennent des crédits universitaires. Les collégiens découvrent des parcours qu'ils jugeaient inaccessibles, et les étudiants apprennent à expliquer des notions complexes avec des mots simples, une compétence précieuse pour leur futur métier.
+Q: Quel est l'intérêt principal du dispositif selon le reportage ?
++ Il bénéficie à la fois aux collégiens et aux étudiants. | Les collégiens découvrent des parcours, les étudiants développent une compétence utile.
+- Il permet aux étudiants d'être rémunérés. | Ils obtiennent des crédits, pas un salaire.
+- Il remplace les cours au collège. | Il s'agit de soutien le soir.
+- Il prépare les collégiens au concours de médecine. | Rien ne l'indique.
+EXP: Le reportage présente un échange gagnant-gagnant : la dernière phrase décrit les bénéfices pour les deux groupes.
+
+## CO 11 | B2 | conversation administrative | information précise | F:fr-FR, H:fr-FR
+DOC: F: Bonjour, je voudrais inscrire ma fille à l'école maternelle. Elle aura trois ans en novembre. / H: Très bien. Vous devez d'abord passer à la mairie avec le livret de famille, un justificatif de domicile et le carnet de santé, pour obtenir un certificat d'inscription. Ensuite, vous prendrez rendez-vous avec la directrice de l'école pour finaliser l'admission. / F: Et si je déménage en cours d'année ? / H: Il faudra recommencer la démarche dans votre nouvelle commune.
+Q: Quelle est la première étape de l'inscription ?
++ Obtenir un certificat d'inscription à la mairie. | « Vous devez d'abord passer à la mairie… pour obtenir un certificat d'inscription ».
+- Prendre rendez-vous avec la directrice. | C'est la deuxième étape (« Ensuite »).
+- Envoyer un dossier par courrier au rectorat. | Le rectorat n'est pas mentionné.
+- Attendre que l'enfant ait trois ans. | L'inscription se fait avant.
+EXP: Les connecteurs « d'abord » et « ensuite » ordonnent les démarches. La question sur le déménagement est une information complémentaire.
+
+## CO 12 | B2 | chronique | opinion | F:fr-FR
+DOC: F: On reproche souvent aux jeunes de ne plus lire. Les chiffres disent autre chose : ils lisent moins de journaux et de grands romans, c'est vrai, mais énormément de mangas, de romans pour adolescents, de textes sur les écrans. Plutôt que de les juger, demandons-nous comment les amener progressivement de ces lectures vers d'autres. On ne construit pas un lecteur en méprisant ce qu'il aime.
+Q: Quel est le point de vue de la chroniqueuse ?
++ Il faut partir des lectures des jeunes au lieu de les mépriser. | « On ne construit pas un lecteur en méprisant ce qu'il aime ».
+- Les jeunes ne lisent plus du tout. | Les chiffres montrent qu'ils lisent beaucoup.
+- Les mangas ne sont pas de la vraie lecture. | Elle refuse ce jugement.
+- Il faut interdire les écrans aux adolescents. | Elle ne propose rien de tel.
+EXP: La chroniqueuse réfute un reproche courant avec des faits, puis propose une démarche. La phrase finale, sous forme de maxime, résume sa position.
+
+## CO 13 | B2 | interview radio | inférence | H:fr-FR, F:fr-FR
+DOC: H: Vous enseignez depuis trente ans. Qu'est-ce qui a le plus changé ? / F: Le rapport à l'autorité, sans doute. Autrefois, l'enseignant avait raison parce qu'il était l'enseignant. Aujourd'hui, il faut convaincre, expliquer pourquoi on apprend telle notion. C'est plus fatigant, mais je ne regrette pas l'ancien système : mes élèves posent de meilleures questions qu'à mes débuts.
+Q: Que peut-on comprendre de la réponse de l'enseignante ?
++ Elle voit des aspects positifs dans l'évolution, malgré la fatigue. | « C'est plus fatigant, mais je ne regrette pas l'ancien système ».
+- Elle regrette l'autorité d'autrefois. | Elle dit ne pas regretter l'ancien système.
+- Ses élèves posent moins de questions qu'avant. | Ils posent « de meilleures questions ».
+- Elle veut quitter l'enseignement. | Rien ne l'indique.
+EXP: La concession « c'est plus fatigant, mais » introduit une appréciation globalement positive. L'argument final (meilleures questions) justifie son point de vue.
+
+## CO 14 | B2 | annonce radio | information précise | F:fr-FR
+DOC: F: La ville lance son « pass jeunes » pour les quinze à vingt-cinq ans. Gratuit, il donne droit à des réductions dans les cinémas, les musées et les piscines municipales, ainsi qu'à une aide de cent euros pour passer le permis de conduire, en échange de vingt heures de bénévolat dans une association locale. Les inscriptions se font en ligne ou à l'accueil de la mairie.
+Q: Que faut-il faire pour obtenir l'aide au permis de conduire ?
++ Effectuer vingt heures de bénévolat. | L'aide est accordée « en échange de vingt heures de bénévolat ».
+- Payer l'inscription au pass. | Le pass est « gratuit ».
+- Avoir plus de vingt-cinq ans. | Le pass s'adresse aux quinze à vingt-cinq ans.
+- Réussir d'abord l'examen du code. | Ce n'est pas mentionné.
+EXP: « En échange de » indique une contrepartie. Les réductions culturelles sont des avantages sans condition supplémentaire.
+
+## CO 15 | B2 | conversation | intention | H:fr-FR, F:fr-FR
+DOC: H: Maman, je voudrais arrêter le conservatoire. Je n'ai plus envie de faire du piano. / F: Après six ans ? Tu es sûr ? / H: Oui, je préfère faire du théâtre avec mes amis. / F: Écoute, je ne vais pas te forcer. Mais finis au moins l'année, tu as payé ton engagement auprès de ton professeur. Et en juin, si tu n'as pas changé d'avis, on t'inscrira au théâtre.
+Q: Que propose la mère ?
++ Que son fils termine l'année avant de changer d'activité. | « finis au moins l'année… en juin… on t'inscrira au théâtre ».
+- Qu'il arrête immédiatement le piano. | Elle lui demande de finir l'année.
+- Qu'il continue le piano pendant six ans encore. | Elle accepte qu'il arrête en juin.
+- Qu'il fasse les deux activités dès maintenant. | Le théâtre commencera après juin.
+EXP: La mère respecte le choix (« je ne vais pas te forcer ») mais impose une condition (« finis au moins l'année »). C'est un compromis entre liberté et engagement.
+
+## CO 16 | B2 | reportage | compréhension globale | F:fr-FR
+DOC: F: Dans ce lycée professionnel, les élèves de la filière cuisine gèrent un vrai restaurant ouvert au public trois midis par semaine. Ils accueillent les clients, préparent les plats et encaissent les additions, sous le regard de leurs professeurs. Pour les élèves, souvent orientés par défaut dans cette filière, l'expérience change tout : ils découvrent la fierté d'un travail reconnu par de vrais clients.
+Q: Quel effet principal le restaurant a-t-il sur les élèves ?
++ Il leur redonne confiance et fierté dans leur formation. | « ils découvrent la fierté d'un travail reconnu par de vrais clients ».
+- Il leur permet de gagner de l'argent. | Aucun salaire n'est mentionné.
+- Il les pousse à quitter la filière cuisine. | L'expérience est positive.
+- Il remplace leurs cours théoriques. | Rien ne l'indique.
+EXP: La précision « souvent orientés par défaut » montre que ces élèves n'avaient pas choisi cette filière. L'expérience transforme leur rapport à leur formation.
+
+## CO 17 | B2 | interview | opinion | H:fr-FR, F:fr-FR
+DOC: H: Faut-il interdire les téléphones portables dans les collèges ? / F: Les interdire en classe, bien sûr. Pendant les récréations, c'est plus discutable. Je préfère qu'on apprenne aux élèves à s'en servir intelligemment : vérifier une information, protéger leurs données, gérer leur temps d'écran. Car à la sortie du collège, le téléphone sera là, et personne ne l'interdira plus.
+Q: Quelle est la position de la femme ?
++ Elle accepte l'interdiction en classe mais privilégie l'éducation au bon usage. | « Je préfère qu'on apprenne aux élèves à s'en servir intelligemment ».
+- Elle veut interdire les téléphones partout et tout le temps. | L'interdiction pendant les récréations est « discutable » pour elle.
+- Elle autorise les téléphones pendant les cours. | Elle approuve l'interdiction en classe.
+- Elle pense que les élèves savent déjà bien utiliser leur téléphone. | Elle souhaite leur apprendre.
+EXP: La femme distingue deux situations (classe / récréation) puis développe sa préférence. L'argument final rappelle que l'interdiction n'est pas une solution durable.
+
+## CO 18 | B2 | message vocal | information précise | H:fr-FR
+DOC: H: Bonjour, ici le service des inscriptions de l'université. Votre dossier de candidature en master est incomplet : il manque votre relevé de notes de troisième année de licence. Vous avez jusqu'au vendredi 28 pour le déposer sur la plateforme. Passé ce délai, votre candidature ne pourra pas être examinée par la commission pédagogique.
+Q: Que risque la candidate si elle ne dépose pas le document à temps ?
++ Sa candidature ne sera pas étudiée. | « votre candidature ne pourra pas être examinée par la commission ».
+- Elle devra repasser sa licence. | Rien de tel n'est indiqué.
+- Elle sera admise sous condition. | La candidature ne serait pas examinée.
+- Elle devra payer des frais supplémentaires. | Aucun frais n'est mentionné.
+EXP: « Passé ce délai » introduit la conséquence. Le document manquant et la date limite sont les autres informations clés du message.
+
+## CO 19 | B2 | débat | inférence | F:fr-FR, H:fr-FR
+DOC: F: Les classes préparatoires restent la voie royale vers les grandes écoles. / H: La voie royale pour qui ? La majorité des élèves viennent de familles favorisées, souvent des grandes villes. Un excellent élève d'un petit lycée rural n'ose même pas postuler, parce que personne autour de lui ne connaît ce système. Le problème n'est pas le talent, c'est l'information et la confiance.
+Q: Que laisse entendre l'homme ?
++ Les classes préparatoires restent socialement peu accessibles. | Il souligne l'origine favorisée des élèves et l'autocensure des élèves ruraux.
+- Les élèves ruraux sont moins talentueux. | « Le problème n'est pas le talent ».
+- Les classes préparatoires doivent être supprimées. | Il ne demande pas leur suppression.
+- Tous les élèves connaissent bien ce système. | Personne ne le connaît autour de certains élèves.
+EXP: La question rhétorique « La voie royale pour qui ? » conteste l'idée d'une voie ouverte à tous. La structure « le problème n'est pas…, c'est… » précise le vrai obstacle.
+
+## CO 20 | B2 | conférence | compréhension globale | H:fr-FR
+DOC: H: L'erreur a longtemps été sanctionnée à l'école comme une faute. Or, les recherches en sciences de l'éducation montrent qu'elle est une étape normale de l'apprentissage. Un élève qui se trompe et comprend pourquoi retient mieux qu'un élève qui réussit du premier coup sans réfléchir. Encore faut-il que l'erreur soit analysée, et non simplement soulignée en rouge.
+Q: Quelle idée principale le conférencier défend-il ?
++ L'erreur, si elle est analysée, aide à apprendre. | « Un élève qui se trompe et comprend pourquoi retient mieux ».
+- L'erreur doit être sévèrement sanctionnée. | C'est l'ancienne conception qu'il remet en cause.
+- Les élèves qui réussissent du premier coup apprennent mieux. | Il dit l'inverse s'ils ne réfléchissent pas.
+- Il faut supprimer les corrections. | Il demande au contraire que l'erreur soit analysée.
+EXP: « Or » introduit la remise en cause d'une pratique ancienne. La condition finale (« encore faut-il que ») précise comment l'erreur devient utile.
+
+## CO 21 | B2 | interview radio | intention | F:fr-FR, H:fr-FR
+DOC: F: Monsieur le recteur, des parents s'inquiètent de la fermeture d'une classe dans l'école du village. / H: Je comprends leur attachement à cette école. Mais l'effectif est passé de vingt-six à quatorze élèves en cinq ans. Nous ne fermons pas l'école : nous regroupons deux niveaux dans une même classe. Les enfants seront toujours accueillis au village, avec une enseignante supplémentaire pour l'aide aux élèves en difficulté.
+Q: Que cherche à faire le recteur ?
++ Rassurer les parents en expliquant la décision et ses compensations. | Il justifie par la baisse des effectifs et précise que l'école reste ouverte avec une aide supplémentaire.
+- Annoncer la fermeture définitive de l'école. | « Nous ne fermons pas l'école ».
+- Reprocher aux parents leur inquiétude. | Il dit comprendre leur attachement.
+- Annoncer l'arrivée de nouveaux élèves. | L'effectif est en baisse.
+EXP: Le recteur reconnaît les inquiétudes, apporte un chiffre, corrige un malentendu (« nous ne fermons pas l'école ») et présente une compensation.
+
+## CO 22 | B2 | reportage | information précise | H:fr-FR
+DOC: H: Le service civique permet aux jeunes de seize à vingt-cinq ans, et jusqu'à trente ans pour les jeunes en situation de handicap, de s'engager dans une mission d'intérêt général de six à douze mois. Ils perçoivent une indemnité mensuelle d'environ six cents euros. Aucun diplôme n'est exigé : seule la motivation compte. Les missions sont proposées par des associations, des collectivités ou des services de l'État.
+Q: Quel est l'âge limite pour les jeunes en situation de handicap ?
++ Trente ans. | « jusqu'à trente ans pour les jeunes en situation de handicap ».
+- Vingt-cinq ans. | C'est la limite générale.
+- Seize ans. | C'est l'âge minimum.
+- Il n'y a pas de limite. | Une limite de trente ans est précisée.
+EXP: Le reportage donne une règle générale (seize à vingt-cinq ans) et une exception (trente ans). Il faut repérer la précision introduite par « et jusqu'à ».
+
+## CO 23 | B2 | conversation | opinion | F:fr-FR, H:fr-FR
+DOC: F: Notre fils veut faire un apprentissage en plomberie plutôt que le lycée général. Mon mari est déçu. / H: Pourquoi déçu ? Les plombiers trouvent du travail facilement et beaucoup gagnent bien leur vie. / F: C'est ce que je lui dis. Mais il rêvait de le voir à l'université. / H: Le plus important, c'est qu'il ait choisi. Un élève qui a un projet réussit mieux qu'un élève qui subit son orientation.
+Q: Quel est l'avis de l'homme sur le choix du fils ?
++ Il l'approuve, car c'est un choix personnel et un métier d'avenir. | « Le plus important, c'est qu'il ait choisi » et « Les plombiers trouvent du travail facilement ».
+- Il pense que le fils doit aller à l'université. | C'est le rêve du mari de la femme.
+- Il trouve que la plomberie est mal payée. | Il dit que beaucoup « gagnent bien leur vie ».
+- Il conseille d'attendre avant de décider. | Il approuve la décision.
+EXP: L'homme conteste la déception par des arguments économiques, puis met en avant l'importance du choix personnel. La dernière phrase généralise son point de vue.
+
+## CO 24 | B2 | annonce | inférence | F:fr-FR
+DOC: F: Chers parents, en raison du mouvement de grève des enseignants prévu jeudi, l'école ne pourra pas assurer l'accueil de tous les élèves. Un service minimum d'accueil sera organisé par la mairie de huit heures trente à seize heures trente. Pour des raisons d'organisation, merci d'indiquer avant mardi midi si votre enfant en bénéficiera. La cantine sera fermée ; prévoyez un repas froid.
+Q: Que comprend-on de cette annonce ?
++ Les enfants accueillis jeudi devront apporter leur repas. | « La cantine sera fermée ; prévoyez un repas froid ».
+- L'école sera fermée et aucun accueil ne sera assuré. | Un service minimum d'accueil est organisé.
+- Les cours auront lieu normalement. | La grève empêche l'accueil normal.
+- La cantine servira un repas chaud. | Elle sera fermée.
+EXP: L'annonce combine plusieurs informations pratiques. On en déduit les conséquences concrètes pour les familles, notamment l'obligation de prévoir un repas.
+
+## CO 25 | B2 | entretien radio | compréhension globale | H:fr-FR, F:fr-FR
+DOC: H: Vous avez étudié le décrochage scolaire. Quels en sont les signes avant-coureurs ? / F: Il y a rarement une rupture brutale. Ce sont plutôt des signaux faibles : des absences répétées le lundi, un élève qui ne rend plus ses devoirs, qui s'isole. Le problème, c'est que chaque enseignant ne voit qu'une partie du tableau. C'est pourquoi les établissements qui réussissent le mieux sont ceux où les adultes partagent leurs observations.
+Q: Quel est le message principal de la chercheuse ?
++ Le décrochage se repère grâce à des signes discrets que les adultes doivent partager. | Elle parle de « signaux faibles » et de l'importance de partager les observations.
+- Le décrochage arrive toujours brusquement. | « Il y a rarement une rupture brutale ».
+- Les enseignants voient tous les signes chacun de leur côté. | Chacun ne voit « qu'une partie du tableau ».
+- Les absences du lundi sont normales. | Elles sont citées comme un signal d'alerte.
+EXP: La chercheuse décrit d'abord la nature progressive du décrochage, puis identifie un problème (vision partielle) et une solution (partage des observations), introduite par « c'est pourquoi ».
+
+## CE 1 | B2 | règlement intérieur | information précise
+DOC: Règlement intérieur du lycée – Extraits. Article 3 : Toute absence doit être justifiée par écrit par les responsables légaux dans les quarante-huit heures. Article 5 : L'usage du téléphone portable est interdit dans les salles de cours, sauf usage pédagogique autorisé par l'enseignant. Article 7 : Les élèves majeurs peuvent justifier eux-mêmes leurs absences, mais leurs parents restent informés sauf demande écrite contraire de l'élève.
+Q: Que peut faire un élève majeur selon le règlement ?
++ Justifier lui-même ses absences. | « Les élèves majeurs peuvent justifier eux-mêmes leurs absences ».
+- Utiliser librement son téléphone en cours. | L'interdiction vaut pour tous, sauf usage pédagogique.
+- Être dispensé de justifier ses absences. | Il doit les justifier, mais peut le faire lui-même.
+- Empêcher toute information de l'établissement. | Il peut seulement demander que ses parents ne soient pas informés.
+EXP: L'article 7 donne un droit spécifique aux élèves majeurs. Ne le confondez pas avec une dispense : la justification reste obligatoire.
+
+## CE 2 | B2 | article de presse | compréhension globale
+DOC: Le nombre d'étudiants qui travaillent pendant leurs études ne cesse d'augmenter. Pour beaucoup, ce n'est pas un choix : le coût du logement et de l'alimentation rend un emploi indispensable. Or, au-delà d'une quinzaine d'heures par semaine, les études montrent que les chances de réussite diminuent nettement. Les syndicats étudiants réclament une revalorisation des bourses, tandis que certaines universités aménagent les emplois du temps pour les étudiants salariés.
+Q: Quel problème l'article met-il en évidence ?
++ Le travail étudiant, souvent nécessaire, peut nuire à la réussite. | « au-delà d'une quinzaine d'heures… les chances de réussite diminuent ».
+- Les étudiants refusent de travailler. | Leur nombre au travail augmente.
+- Les bourses sont trop élevées. | Les syndicats demandent leur revalorisation.
+- Les universités interdisent le travail étudiant. | Certaines aménagent au contraire les emplois du temps.
+EXP: L'article présente un constat, une cause (coût de la vie), une conséquence (« Or ») et deux types de réponses. Le problème central est la tension entre nécessité financière et réussite.
+
+## CE 3 | B2 | courrier des lecteurs | opinion
+DOC: Mère de trois enfants, je suis fatiguée d'entendre que les parents ne s'impliquent plus dans la scolarité. Je travaille en horaires décalés et ne peux pas assister aux réunions fixées à dix-sept heures. Cela ne signifie pas que je me désintéresse de mes enfants. Si les écoles proposaient des rendez-vous le samedi matin ou en visioconférence, elles verraient bien plus de parents. L'implication ne se mesure pas à la présence aux réunions.
+Q: Que demande l'auteure ?
++ Des horaires de rencontre adaptés aux parents qui travaillent. | « Si les écoles proposaient des rendez-vous le samedi matin ou en visioconférence ».
+- La suppression des réunions de parents. | Elle demande des horaires différents, pas la suppression.
+- Que les enseignants viennent chez elle. | Elle propose la visioconférence, pas des visites.
+- Que ses enfants changent d'école. | Elle ne parle pas de changer d'école.
+EXP: L'auteure réfute un reproche en expliquant sa situation, puis formule une proposition au conditionnel. La dernière phrase généralise sa position.
+
+## CE 4 | B2 | offre de stage | information précise
+DOC: Stage de six mois – Assistant(e) chargé(e) de communication. Missions : rédaction de contenus pour le site et les réseaux sociaux, organisation d'événements, suivi des relations presse. Profil : étudiant(e) en master de communication ou de journalisme, excellente orthographe exigée, maîtrise d'un logiciel de mise en page appréciée. Gratification légale, prise en charge de 50 % de l'abonnement de transport. Début : mars. Candidatures avant le 15 janvier.
+Q: Quelle compétence est indispensable ?
++ Une excellente orthographe. | « excellente orthographe exigée ».
+- La maîtrise d'un logiciel de mise en page. | Elle est seulement « appréciée ».
+- Une expérience en relations presse. | Le suivi des relations presse est une mission, pas une exigence préalable.
+- Un diplôme de master déjà obtenu. | Le candidat doit être étudiant en master.
+EXP: Comme dans toute offre, distinguez « exigé » (obligatoire) et « apprécié » (atout). Le niveau d'études concerne un étudiant en cours de master.
+
+## CE 5 | B2 | éditorial | intention
+DOC: On demande à l'école de tout faire : transmettre les savoirs, éduquer à la citoyenneté, prévenir le harcèlement, sensibiliser à l'écologie, au numérique, à la santé, à la sécurité routière. Chacune de ces missions est légitime. Mais à force d'empiler les priorités, plus rien n'est prioritaire. Les enseignants courent après un programme impossible, et les savoirs fondamentaux, eux, reculent. Avant d'ajouter une nouvelle mission à l'école, il faudrait se demander laquelle on lui retire.
+Q: Quelle est l'intention de l'éditorialiste ?
++ Dénoncer l'accumulation des missions confiées à l'école. | « à force d'empiler les priorités, plus rien n'est prioritaire ».
+- Demander une nouvelle mission pour l'école. | Il critique justement l'ajout de missions.
+- Critiquer le travail des enseignants. | Il les décrit comme submergés.
+- Supprimer l'éducation à la citoyenneté. | Il juge chaque mission « légitime ».
+EXP: L'énumération initiale illustre la surcharge. La formule paradoxale « plus rien n'est prioritaire » et la conclusion (« laquelle on lui retire ») révèlent la critique.
+
+## CE 6 | B2 | courrier administratif | information précise
+DOC: Madame, Monsieur, nous avons le plaisir de vous informer que votre fils a été admis en classe de seconde au lycée Victor-Hugo. Afin de confirmer son inscription, vous devez retourner le dossier complet avant le 5 juillet, accompagné d'une photo d'identité, d'une copie du livret de famille et de l'exeat délivré par le collège d'origine. À défaut, la place sera proposée à un élève inscrit sur liste d'attente.
+Q: Que se passera-t-il si le dossier n'est pas rendu avant le 5 juillet ?
++ La place sera attribuée à un autre élève. | « la place sera proposée à un élève inscrit sur liste d'attente ».
+- L'élève sera inscrit automatiquement. | L'inscription doit être confirmée.
+- L'élève restera au collège. | Rien de tel n'est indiqué.
+- Le délai sera prolongé jusqu'en septembre. | Aucune prolongation n'est prévue.
+EXP: « À défaut » introduit la conséquence d'un dossier non rendu. Les pièces demandées constituent les autres informations du courrier.
+
+## CE 7 | B2 | article | inférence
+DOC: Depuis que la cantine de ce collège a mis en place un système de réservation des repas la veille, le gaspillage alimentaire a diminué de moitié. Les cuisiniers préparent des quantités plus justes, et l'argent économisé a permis d'acheter davantage de produits locaux et biologiques. Les élèves, eux, ont été associés au choix d'un menu par semaine. Le principal note que les plateaux reviennent beaucoup moins pleins qu'avant.
+Q: Que peut-on déduire de l'article ?
++ La participation des élèves contribue à ce qu'ils mangent davantage. | Ils choisissent un menu et les plateaux reviennent « moins pleins ».
+- Les élèves mangent moins à la cantine. | Les plateaux reviennent moins pleins : ils mangent plus.
+- La qualité des repas a baissé. | Elle s'est améliorée avec des produits locaux et bio.
+- La réservation a augmenté le gaspillage. | Il a diminué de moitié.
+EXP: L'inférence repose sur l'association de deux éléments : l'implication des élèves dans les menus et des plateaux moins pleins, signe qu'ils apprécient davantage les repas.
+
+## CE 8 | B2 | notice | information précise
+DOC: Plateforme d'orientation – Calendrier. Les lycéens de terminale peuvent formuler jusqu'à dix vœux, sans les classer, entre janvier et mars. Ils doivent ensuite confirmer chacun de leurs vœux et compléter leur dossier avant le début avril. Les réponses des formations arrivent à partir de juin. Un candidat qui reçoit plusieurs propositions doit n'en garder qu'une seule, dans le délai indiqué, afin de libérer les places pour les autres.
+Q: Que doit faire un candidat qui reçoit plusieurs propositions ?
++ Choisir une seule proposition dans le délai indiqué. | « doit n'en garder qu'une seule, dans le délai indiqué ».
+- Les accepter toutes jusqu'à la rentrée. | Il doit libérer les autres places.
+- Classer ses vœux par ordre de préférence. | Les vœux ne sont pas classés.
+- Formuler de nouveaux vœux. | La période de formulation est terminée.
+EXP: La notice suit le calendrier de la procédure. La dernière règle explique pourquoi il faut renoncer rapidement aux propositions non retenues.
+
+## CE 9 | B2 | tribune | opinion
+DOC: Les écrans ont envahi les salles de classe, souvent présentés comme un progrès en soi. Je ne suis pas technophobe : une vidéo bien choisie ou une simulation scientifique peuvent éclairer une notion difficile. Mais remplacer les cahiers par des tablettes n'a jamais rendu un élève plus attentif. Plusieurs pays, après avoir massivement équipé leurs écoles, reviennent aujourd'hui au papier pour l'apprentissage de la lecture et de l'écriture. Le numérique doit rester un outil, pas une fin.
+Q: Quelle est la position de l'auteur ?
++ Le numérique peut être utile, mais ne doit pas remplacer les méthodes traditionnelles. | « Le numérique doit rester un outil, pas une fin ».
+- Il faut supprimer tous les écrans à l'école. | Il reconnaît l'intérêt de certains usages.
+- Les tablettes rendent les élèves plus attentifs. | Il affirme le contraire.
+- Tous les pays équipent davantage leurs écoles. | Certains reviennent au papier.
+EXP: L'auteur se défend d'être technophobe, concède des usages utiles, puis développe une critique avec « mais ». La formule finale résume sa position.
+
+## CE 10 | B2 | article | compréhension globale
+DOC: Les universités françaises accueillent de plus en plus d'étudiants internationaux. Leur présence enrichit les campus et renforce le rayonnement de la recherche. Mais leur intégration reste difficile : trouver un logement sans garant, ouvrir un compte bancaire, comprendre les codes implicites de l'université. Certaines universités ont mis en place des programmes de parrainage, où un étudiant français accompagne un nouvel arrivant pendant ses premiers mois. Les résultats sont encourageants, notamment sur la réussite en première année.
+Q: Quel est le thème principal de l'article ?
++ L'accueil des étudiants internationaux et les solutions pour faciliter leur intégration. | L'article décrit leurs difficultés et les programmes de parrainage.
+- La baisse du nombre d'étudiants étrangers. | Leur nombre augmente.
+- Les frais d'inscription des universités. | Ce sujet n'est pas abordé.
+- La qualité de la recherche française. | Elle n'est évoquée qu'indirectement.
+EXP: L'article présente un phénomène, ses bénéfices, ses difficultés (« Mais ») et une solution qui donne des résultats. Le thème englobe accueil et intégration.
+
+## CE 11 | B2 | courriel | intention
+DOC: Chers parents, la fête de fin d'année aura lieu le samedi 21 juin dans la cour de l'école. Pour que cette journée soit réussie, nous avons besoin de vous : tenue des stands de jeux, préparation de gâteaux, installation et rangement. Un tableau d'inscription est affiché à l'entrée de l'école. Même une heure de présence nous aiderait beaucoup. Les bénéfices financeront la sortie de fin d'année de toutes les classes.
+Q: Quel est l'objectif de ce courriel ?
++ Mobiliser les parents pour aider à organiser la fête. | « nous avons besoin de vous » et « Même une heure de présence nous aiderait ».
+- Annuler la fête de fin d'année. | La fête est maintenue.
+- Demander une participation financière obligatoire. | Aucun paiement n'est exigé.
+- Annoncer une sortie scolaire déjà payée. | La sortie sera financée par les bénéfices.
+EXP: L'appel à l'aide est direct (« nous avons besoin de vous »). La précision « même une heure » vise à faciliter l'engagement des parents.
+
+## CE 12 | B2 | article | information précise
+DOC: L'instruction est obligatoire en France pour tous les enfants de trois à seize ans. De seize à dix-huit ans, une obligation de formation s'applique : chaque jeune doit être scolarisé, en apprentissage, en emploi ou accompagné dans un dispositif d'insertion. Les missions locales sont chargées de repérer et de contacter les jeunes qui ne sont dans aucune de ces situations, afin de leur proposer une solution.
+Q: Que prévoit l'obligation de formation entre seize et dix-huit ans ?
++ Le jeune doit être scolarisé, en apprentissage, en emploi ou accompagné. | « chaque jeune doit être scolarisé, en apprentissage, en emploi ou accompagné… ».
+- Le jeune doit obligatoirement rester au lycée. | D'autres situations sont possibles.
+- Le jeune peut arrêter toute activité. | L'obligation impose une situation.
+- Le jeune doit trouver un emploi à temps plein. | L'emploi n'est qu'une possibilité parmi d'autres.
+EXP: L'article distingue l'instruction obligatoire (trois à seize ans) et l'obligation de formation (seize à dix-huit ans), qui laisse plusieurs options.
+
+## CE 13 | B2 | essai | inférence
+DOC: On évalue souvent un système éducatif à la réussite de ses meilleurs élèves. C'est une erreur de perspective. Une école se juge aussi à ce qu'elle fait de ceux qui arrivent avec le moins : ceux qui ne parlent pas la langue à la maison, qui n'ont pas de livres chez eux, dont les parents ne connaissent pas les codes scolaires. Si l'école ne fait que confirmer les avantages de départ, elle cesse d'être un instrument d'émancipation pour devenir une machine à trier.
+Q: Que pense l'auteur ?
++ La qualité d'une école se mesure aussi à sa capacité à faire progresser les élèves défavorisés. | « Une école se juge aussi à ce qu'elle fait de ceux qui arrivent avec le moins ».
+- Il faut évaluer l'école uniquement par ses meilleurs élèves. | Il qualifie cela d'« erreur de perspective ».
+- L'école doit trier les élèves dès le début. | Il critique la « machine à trier ».
+- Les élèves défavorisés ne peuvent pas réussir. | Il défend leur progression.
+EXP: L'auteur rejette une conception (« erreur de perspective ») et propose un autre critère. L'opposition finale entre « émancipation » et « machine à trier » résume l'enjeu.
+
+## CE 14 | B2 | annonce | information précise
+DOC: Journées portes ouvertes de l'université – Samedi 8 février, de 9 h à 17 h. Les futurs étudiants et leurs familles pourront visiter les campus, assister à des cours de démonstration et rencontrer des enseignants et des étudiants. Des conférences sur les bourses et le logement auront lieu à 10 h et à 14 h dans l'amphithéâtre A. Une navette gratuite relie la gare au campus toutes les vingt minutes. Aucune inscription n'est nécessaire.
+Q: Comment se rendre au campus depuis la gare ?
++ Avec une navette gratuite. | « Une navette gratuite relie la gare au campus toutes les vingt minutes ».
+- Avec un bus payant. | La navette est gratuite.
+- Il faut réserver un taxi. | Aucune réservation n'est mentionnée.
+- À pied, en suivant les panneaux. | Ce n'est pas indiqué.
+EXP: L'information sur la navette est précise : gratuite, toutes les vingt minutes. Les autres éléments concernent le programme de la journée.
+
+## CE 15 | B2 | article d'opinion | opinion
+DOC: Faut-il en finir avec le redoublement ? En France, il est devenu rare, et beaucoup s'en réjouissent : les études montrent qu'il est coûteux et souvent inefficace. Je partage ce constat, à une condition : que l'élève en difficulté ne soit pas simplement envoyé dans la classe supérieure sans aide. Supprimer le redoublement sans accompagnement renforcé, c'est déplacer le problème d'une année. Le vrai sujet n'est pas le redoublement, mais le soutien apporté pendant l'année.
+Q: Quelle est la position de l'auteur ?
++ La fin du redoublement est souhaitable si elle s'accompagne d'un soutien renforcé. | « Je partage ce constat, à une condition ».
+- Il faut rendre le redoublement obligatoire. | Il partage le constat de son inefficacité.
+- Le redoublement est la meilleure solution pour les élèves en difficulté. | Il le juge « souvent inefficace ».
+- Les élèves en difficulté n'ont besoin d'aucune aide. | Il demande un accompagnement renforcé.
+EXP: L'auteur adhère au constat mais pose une condition. La formule « le vrai sujet n'est pas…, mais… » recentre le débat sur le soutien.
+
+## CE 16 | B2 | rapport | compréhension globale
+DOC: L'enquête réalisée auprès de 5 000 collégiens montre qu'un élève sur dix déclare avoir été victime de harcèlement au cours de l'année. Dans la majorité des cas, le harcèlement se poursuit en dehors de l'établissement, via les réseaux sociaux. Les élèves victimes en parlent rarement aux adultes, par peur des représailles ou parce qu'ils pensent que cela ne servirait à rien. Le rapport recommande de former tous les personnels et de désigner des élèves ambassadeurs, vers qui les victimes osent plus facilement se tourner.
+Q: Quelle recommandation le rapport formule-t-il ?
++ Former les adultes et s'appuyer sur des élèves relais. | « former tous les personnels et désigner des élèves ambassadeurs ».
+- Interdire les réseaux sociaux aux collégiens. | Ce n'est pas recommandé.
+- Exclure systématiquement les harceleurs. | Aucune exclusion n'est mentionnée.
+- Laisser les élèves régler les conflits seuls. | Le rapport propose un accompagnement.
+EXP: Le rapport présente un constat chiffré, explique le silence des victimes et formule une recommandation qui répond à cette difficulté.
+
+## CE 17 | B2 | lettre de réclamation | intention
+DOC: Madame la Principale, je vous écris au sujet du car scolaire qui dessert notre hameau. Depuis la rentrée, il arrive régulièrement avec plus de vingt minutes de retard, et mon fils manque ainsi le début des cours. J'ai signalé ce problème à deux reprises au transporteur, sans résultat. Je vous serais reconnaissante d'intervenir auprès de la région, responsable des transports scolaires, et de veiller à ce que ces retards ne soient pas comptés comme des absences.
+Q: Que demande l'auteure de la lettre ?
++ Une intervention auprès de la région et la non-comptabilisation des retards. | « intervenir auprès de la région… et de veiller à ce que ces retards ne soient pas comptés ».
+- Le changement de collège de son fils. | Elle ne le demande pas.
+- Un remboursement des frais de transport. | Aucun remboursement n'est évoqué.
+- L'exclusion du chauffeur du car. | Elle ne met pas en cause un chauffeur en particulier.
+EXP: La demande est formulée avec une tournure polie : « je vous serais reconnaissante de ». Les démarches déjà faites auprès du transporteur justifient le recours à la principale.
+
+## CE 18 | B2 | article | information précise
+DOC: Les élèves en situation de handicap peuvent bénéficier d'aménagements pour passer leurs examens : temps supplémentaire, utilisation d'un ordinateur, présence d'un secrétaire pour écrire sous leur dictée ou salle à part. La demande doit être faite par la famille auprès du médecin désigné par l'administration, en général à l'automne de l'année de l'examen. Les aménagements accordés ne sont pas mentionnés sur le diplôme.
+Q: Que précise l'article à propos du diplôme ?
++ Les aménagements obtenus n'y figurent pas. | « Les aménagements accordés ne sont pas mentionnés sur le diplôme ».
+- Il porte une mention spéciale. | Aucune mention n'apparaît.
+- Il est délivré plus tard. | Rien ne l'indique.
+- Il a une valeur différente. | Rien ne l'indique.
+EXP: La dernière phrase répond directement à la question. Elle garantit que l'élève n'est pas stigmatisé par les aménagements.
+
+## CE 19 | B2 | chronique | inférence
+DOC: Ma fille de quinze ans m'a annoncé hier qu'elle voulait devenir « créatrice de contenu ». J'ai respiré profondément. Puis je lui ai demandé ce que cela signifiait concrètement. Elle m'a parlé de montage vidéo, d'écriture de scénarios, de gestion de budget avec des marques, de droit à l'image. J'ai réalisé que, derrière ce mot qui m'agaçait, il y avait des compétences bien réelles. Je lui ai simplement suggéré de passer son bac d'abord.
+Q: Comment évolue l'attitude du parent ?
++ D'abord méfiant, il découvre des compétences réelles derrière le projet. | « J'ai réalisé que, derrière ce mot qui m'agaçait, il y avait des compétences bien réelles ».
+- Il s'oppose définitivement au projet. | Il propose seulement de passer le bac d'abord.
+- Il encourage sa fille à quitter l'école. | Il lui conseille de passer son bac.
+- Il reste totalement indifférent. | Il réagit et pose des questions.
+EXP: Le texte montre une évolution : agacement (« j'ai respiré profondément »), curiosité, puis reconnaissance. Le conseil final concilie ouverture et prudence.
+
+## CE 20 | B2 | guide pratique | information précise
+DOC: Contrat d'apprentissage : l'essentiel. L'apprenti alterne périodes en entreprise et formation en centre. Il est salarié et perçoit une rémunération calculée en pourcentage du salaire minimum, qui augmente avec l'âge et l'année de formation. Le contrat peut être rompu librement par l'une ou l'autre des parties pendant les quarante-cinq premiers jours passés en entreprise. Au-delà, la rupture nécessite un accord écrit ou une démarche auprès d'un médiateur.
+Q: Comment est calculée la rémunération de l'apprenti ?
++ En pourcentage du salaire minimum, selon l'âge et l'année. | « calculée en pourcentage du salaire minimum, qui augmente avec l'âge et l'année de formation ».
+- Elle est fixée librement par l'employeur. | Elle suit des règles précises.
+- Elle est identique pour tous les apprentis. | Elle varie selon l'âge et l'année.
+- L'apprenti n'est pas rémunéré. | Il est salarié et perçoit une rémunération.
+EXP: Le guide précise les critères de calcul. Les règles de rupture sont une autre information, liée aux quarante-cinq premiers jours.
+
+## CE 21 | B2 | éditorial | opinion
+DOC: On s'inquiète, à juste titre, de la baisse du niveau en mathématiques. Mais on oublie une cause rarement évoquée : la peur. Beaucoup d'élèves sont persuadés dès l'école primaire qu'ils « ne sont pas faits pour les maths ». Cette conviction, souvent héritée de leurs parents, les pousse à abandonner avant même d'essayer. Tant qu'on ne travaillera pas sur cette anxiété, aucune réforme des programmes ne suffira.
+Q: Quelle thèse défend l'éditorialiste ?
++ L'anxiété face aux mathématiques est une cause importante des difficultés. | « une cause rarement évoquée : la peur ».
+- Les programmes de mathématiques sont la seule cause du problème. | Il dit qu'une réforme des programmes ne suffira pas.
+- Le niveau en mathématiques progresse. | Il parle de « baisse du niveau ».
+- Certains élèves ne sont réellement pas faits pour les maths. | Il présente cela comme une conviction erronée.
+EXP: L'éditorialiste concède l'inquiétude générale puis introduit une cause négligée. La structure « tant que… aucune… ne suffira » exprime une condition nécessaire.
+
+## CE 22 | B2 | article | compréhension globale
+DOC: Les « cordées de la réussite » associent des établissements de l'enseignement supérieur à des collèges et lycées situés dans des quartiers prioritaires ou en zone rurale. Des étudiants accompagnent des élèves, organisent des visites de campus et des ateliers sur l'orientation. L'objectif est de lutter contre l'autocensure, qui conduit des élèves brillants à renoncer à des études ambitieuses parce qu'ils ne s'en sentent pas capables. Les évaluations montrent une hausse des candidatures dans les formations sélectives.
+Q: Quel est l'objectif principal du dispositif ?
++ Aider des élèves éloignés de l'enseignement supérieur à oser des études ambitieuses. | « L'objectif est de lutter contre l'autocensure ».
+- Réserver les grandes écoles aux élèves des quartiers prioritaires. | Il s'agit d'accompagnement, pas de réservation.
+- Remplacer les conseillers d'orientation. | Rien ne l'indique.
+- Diminuer le nombre d'étudiants. | Il vise plutôt à augmenter les candidatures.
+EXP: L'objectif est explicite (« L'objectif est de lutter contre l'autocensure »). Le terme « autocensure » est expliqué dans la suite de la phrase.
+
+## CE 23 | B2 | règlement | inférence
+DOC: Charte d'utilisation de la bibliothèque universitaire. Les salles de travail en groupe se réservent en ligne pour deux heures maximum, renouvelables une fois si aucune autre réservation n'est prévue. Les salles de lecture sont des espaces silencieux ; les téléphones doivent y être en mode silencieux et les appels passés dans le hall. La nourriture est interdite, à l'exception des boissons dans une bouteille fermée. Une place laissée inoccupée plus de trente minutes peut être libérée par le personnel.
+Q: Que peut-on déduire de cette charte ?
++ La bibliothèque manque probablement de places aux heures d'affluence. | Les règles sur la durée des réservations et les places inoccupées visent à partager l'espace.
+- On peut manger dans les salles de lecture. | La nourriture est interdite.
+- Les salles de groupe peuvent être réservées toute la journée. | La durée est limitée.
+- Les appels téléphoniques sont autorisés en salle de lecture. | Ils doivent être passés dans le hall.
+EXP: Plusieurs règles (limite de réservation, libération des places inoccupées) suggèrent une forte demande. C'est l'indice qui permet l'inférence.
+
+## CE 24 | B2 | tribune | intention
+DOC: Nous, enseignants de lycée professionnel, refusons que nos filières soient présentées comme une voie de relégation. Nos élèves apprennent des métiers dont le pays a besoin : électricité, soins à la personne, mécanique, cuisine. Beaucoup trouvent un emploi dès la fin de leurs études ; d'autres poursuivent avec succès en BTS. Changer le regard sur la voie professionnelle commence par une orientation choisie, et non subie après un échec en collège.
+Q: Quel est le but de cette tribune ?
++ Valoriser la voie professionnelle et défendre une orientation choisie. | Les auteurs refusent l'image de relégation et présentent les débouchés.
+- Demander la suppression des lycées professionnels. | Ils défendent ces filières.
+- Critiquer les élèves de la voie professionnelle. | Ils valorisent leurs réussites.
+- Encourager les élèves à redoubler au collège. | Ils ne parlent pas de redoublement.
+EXP: La tribune s'ouvre sur un refus, apporte des arguments (métiers utiles, emploi, poursuite d'études) et conclut sur une condition du changement : l'orientation choisie.
+
+## CE 25 | B2 | essai | compréhension globale
+DOC: On présente souvent l'adolescence comme une période de crise à traverser au plus vite. C'est oublier qu'elle est aussi un moment de construction essentiel : l'adolescent teste des limites, affirme ses goûts, se confronte à des idées nouvelles. Les conflits avec les adultes en font partie. L'enjeu n'est pas de les éviter à tout prix, mais de maintenir le dialogue, même tendu, pour que le jeune sache qu'il peut toujours revenir vers ses parents.
+Q: Quelle idée principale l'auteur développe-t-il ?
++ L'adolescence est une étape de construction où le dialogue doit être maintenu malgré les conflits. | « L'enjeu n'est pas de les éviter à tout prix, mais de maintenir le dialogue ».
+- L'adolescence est une crise sans intérêt. | Il la présente comme « un moment de construction essentiel ».
+- Il faut éviter tout conflit avec les adolescents. | Il dit que les conflits en font partie.
+- Les parents doivent laisser les adolescents seuls. | Il insiste sur le maintien du lien.
+EXP: L'auteur réfute une vision négative (« c'est oublier que ») et propose une autre lecture. La structure « non pas…, mais… » formule sa recommandation.
+
+## EE 1 | B2 | répondre à un message
+CONSIGNE: Votre voisin, M. Durand, vous écrit : « Mon fils doit choisir son orientation après la troisième et il hésite beaucoup. Vous avez de l'expérience, que me conseillez-vous ? » Répondez-lui en donnant deux conseils (30 à 60 mots).
+MODELE: Bonjour Monsieur Durand, je comprends votre inquiétude. D'abord, encouragez votre fils à faire des stages ou à visiter des entreprises : cela l'aidera à découvrir des métiers. Ensuite, prenez rendez-vous avec le conseiller d'orientation du collège, qui connaît bien les filières. Surtout, laissez-le choisir lui-même. Bon courage à vous deux ! Cordialement, Amina
+POINTS: réagir au message ; donner un premier conseil ; donner un second conseil ; formule finale
+COMMENTAIRE: Le message est poli, empathique et structuré par « d'abord », « ensuite » et « surtout ». Les conseils sont concrets et justifiés.
+CONSEILS: Justifiez brièvement chaque conseil pour qu'il soit utile. Adaptez le registre : avec un voisin, restez poli et chaleureux.
+
+## EE 2 | B2 | raconter une expérience
+CONSIGNE: Racontez un souvenir marquant de votre scolarité (un enseignant, un examen, un voyage scolaire…) pour le journal de l'école de vos enfants : ce qui s'est passé et pourquoi ce souvenir est important pour vous (40 à 90 mots).
+MODELE: Quand j'avais douze ans, notre professeure de français nous a demandé d'écrire une lettre à une personne âgée d'une maison de retraite voisine. J'ai écrit à une certaine Madame Paulette, sans grande conviction. À ma grande surprise, elle m'a répondu longuement, en me racontant son enfance pendant la guerre. Nous nous sommes écrit pendant deux ans. Ce souvenir m'a appris que l'écriture peut créer des liens entre des générations qui, sans elle, ne se seraient jamais rencontrées.
+POINTS: situer le souvenir ; raconter les faits ; exprimer une surprise ou une émotion ; expliquer son importance
+COMMENTAIRE: Le récit est vivant et bien construit, avec une progression claire et une conclusion réfléchie. Le conditionnel passé (« ne se seraient jamais rencontrées ») est un marqueur de niveau B2.
+CONSEILS: Choisissez un souvenir précis plutôt que général, et expliquez en une phrase ce qu'il vous a appris.
+
+## EE 3 | B2 | donner son opinion à partir de deux documents
+CONSIGNE: Document 1 : « Les devoirs à la maison sont indispensables pour fixer les apprentissages et développer l'autonomie. » Document 2 : « Les devoirs creusent les inégalités, car tous les enfants ne sont pas aidés de la même façon chez eux. » Présentez ces deux opinions, puis donnez votre avis argumenté (40 à 90 mots).
+MODELE: Le premier document défend les devoirs, utiles pour mémoriser et devenir autonome, tandis que le second dénonce les inégalités qu'ils provoquent. Je pense que les deux arguments sont fondés. C'est pourquoi je serais favorable à des devoirs courts, réalisés en partie à l'école pendant une heure d'étude encadrée. Ainsi, chaque élève pourrait travailler seul, mais avec un adulte disponible en cas de difficulté. Les parents resteraient informés sans avoir à jouer le rôle de professeurs.
+POINTS: résumer le document 1 ; résumer le document 2 ; prendre position ; justifier ; proposer une solution
+COMMENTAIRE: La synthèse est équilibrée, la position est nuancée et débouche sur une proposition concrète. Le conditionnel et les connecteurs (« c'est pourquoi », « ainsi ») structurent l'argumentation.
+CONSEILS: Si vous reconnaissez la valeur des deux opinions, proposez une solution qui les concilie : c'est une conclusion forte.
+
+## EO 1 | B2 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous interroge sur votre parcours scolaire et vos études : les écoles que vous avez fréquentées, les matières que vous aimiez, votre expérience de l'apprentissage du français et vos projets de formation.
+RELANCES: Pouvez-vous vous présenter ? / Comment s'est passée votre scolarité ? / Quelle matière préfériez-vous ? / Comment apprenez-vous le français aujourd'hui ? / Avez-vous un projet de formation ?
+PHRASES: J'ai fait mes études à… / Ce que j'aimais le plus, c'était… / J'aimerais me former à…
+MODELE: Je m'appelle Lina, j'ai trente-deux ans et je viens du Liban. J'ai fait mes études à Beyrouth, dans une école où l'on apprenait déjà le français dès le primaire. Ce que j'aimais le plus, c'était la biologie, grâce à un professeur passionnant qui nous emmenait faire des sorties sur le terrain. Aujourd'hui, je perfectionne mon français en suivant des cours du soir et en lisant la presse. J'aimerais me former pour devenir technicienne de laboratoire, car cela correspondrait à mon goût pour les sciences.
+COMMENTAIRE: Le parcours est raconté de façon cohérente, avec des précisions, une mise en relief à l'imparfait et un projet justifié au conditionnel. Le discours est fluide et naturel.
+CONSEILS: Reliez votre passé et votre projet : montrer une continuité (un goût, une compétence) rend votre parcours cohérent.
+
+## EO 2 | B2 | Discuter de l'orientation de son enfant | Conseiller d'orientation
+SCENARIO: Votre fille de quinze ans souhaite s'orienter vers un CAP de coiffure, mais vous auriez préféré qu'elle aille au lycée général. Vous rencontrez le conseiller d'orientation (l'examinateur) pour en discuter et prendre une décision éclairée.
+RELANCES: Votre fille semble très motivée. / Le CAP permet de trouver un emploi rapidement. / Elle pourra poursuivre ses études ensuite si elle le souhaite. / Avez-vous parlé avec elle de ses raisons ?
+PHRASES: J'aimerais comprendre… / Ce qui m'inquiète, c'est… / Est-il possible de… ?
+MODELE: Bonjour, je viens vous voir au sujet de ma fille, qui veut faire un CAP de coiffure. J'aimerais comprendre les débouchés de cette formation. Ce qui m'inquiète, c'est qu'elle s'enferme trop tôt dans un seul métier. Vous dites qu'elle pourra poursuivre ses études ? Est-il possible, par exemple, de passer ensuite un brevet professionnel ou même de reprendre une filière générale ? Je reconnais qu'elle est très motivée, et c'est sans doute le plus important. Si elle peut faire un stage d'abord pour confirmer son choix, je serai rassurée.
+COMMENTAIRE: Le candidat exprime son inquiétude, pose des questions précises sur les débouchés et les passerelles, puis évolue vers une position ouverte, sous condition. L'échange est réaliste et nuancé.
+CONSEILS: Montrez que vous écoutez votre interlocuteur et que votre position peut évoluer : c'est une vraie interaction, pas un monologue.
+
+## EO 3 | B2 | Faut-il supprimer les notes à l'école primaire ? | Examinateur
+SCENARIO: Certaines écoles remplacent les notes chiffrées par des appréciations sur les compétences acquises. Selon vous, faut-il supprimer les notes à l'école primaire ? Donnez votre opinion et défendez-la.
+RELANCES: Les notes permettent aux parents de comprendre le niveau de leur enfant. / Sans notes, les élèves ne seront plus motivés. / Plus tard, ils seront de toute façon notés. / Comment faire alors pour évaluer ?
+PHRASES: À mon avis… / Ce qui compte, c'est… / Il serait préférable de…
+MODELE: À mon avis, supprimer les notes à l'école primaire est une bonne idée. À cet âge, une mauvaise note décourage souvent l'enfant, qui se dit qu'il est « nul ». Ce qui compte, c'est qu'il comprenne ce qu'il sait faire et ce qu'il doit encore travailler. Une appréciation précise, comme « sait lire un texte court, doit progresser en compréhension », est plus utile qu'un dix sur vingt. Pour les parents, il serait préférable de proposer des rencontres régulières avec l'enseignant. Les notes peuvent arriver plus tard, au collège.
+COMMENTAIRE: Le candidat justifie sa position par un argument psychologique, donne un exemple concret d'appréciation et répond à l'objection des parents. Il propose une progression logique (notes au collège).
+CONSEILS: Un exemple concret (ici, une appréciation rédigée) rend votre argument beaucoup plus convaincant qu'une idée générale.

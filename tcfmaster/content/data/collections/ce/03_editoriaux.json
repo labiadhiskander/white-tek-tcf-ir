@@ -1,0 +1,1188 @@
+{
+ "slug": "ce-editoriaux",
+ "section": "CE",
+ "title": "Éditoriaux",
+ "description": "Textes d'opinion de la presse : identifier la thèse, le ton, les arguments et les sous-entendus.",
+ "order": 3,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CE-EDI-01",
+   "level": "B2",
+   "doc_type": "éditorial",
+   "questions": [
+    {
+     "prompt": "Quelle est la thèse de l'éditorialiste ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "La semaine de quatre jours fait baisser la productivité des entreprises.",
+       "correct": false,
+       "rationale": "Il cite au contraire « une productivité préservée » sans la contester.",
+       "label": "A"
+      },
+      {
+       "text": "La semaine de quatre jours ne peut pas être généralisée sans tenir compte de la diversité des métiers.",
+       "correct": true,
+       "rationale": "La conclusion le dit explicitement : « Plutôt que de généraliser une formule séduisante, mieux vaudrait réfléchir métier par métier. »",
+       "label": "B"
+      },
+      {
+       "text": "Les hôpitaux publics devraient être les premiers à expérimenter la réforme.",
+       "correct": false,
+       "rationale": "Il souligne qu'ils n'ont « pas les moyens de financer » des embauches.",
+       "label": "C"
+      },
+      {
+       "text": "Les salariés des services travaillent trop et méritent un jour de repos.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'objet du texte, qui s'intéresse aux métiers exclus de la réforme.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Dans un éditorial, la thèse apparaît souvent dans la conclusion, après une concession initiale (« On aurait tort de balayer ces résultats… »). Le premier paragraphe présente les arguments adverses pour mieux les nuancer ensuite."
+    },
+    {
+     "prompt": "Quel ton l'auteur adopte-t-il dans la première phrase ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Un ton légèrement ironique qui annonce une prise de distance.",
+       "correct": true,
+       "rationale": "« Il est des réformes qui séduisent avant même d'avoir été examinées » suggère un enthousiasme irréfléchi : l'auteur s'en démarque.",
+       "label": "A"
+      },
+      {
+       "text": "Un ton indigné qui condamne les entreprises.",
+       "correct": false,
+       "rationale": "Les entreprises ne sont pas condamnées ; leurs résultats sont même pris au sérieux.",
+       "label": "B"
+      },
+      {
+       "text": "Un ton neutre de simple information.",
+       "correct": false,
+       "rationale": "Un éditorial n'est pas neutre, et la tournure est clairement évaluative.",
+       "label": "C"
+      },
+      {
+       "text": "Un ton enthousiaste qui célèbre la réforme.",
+       "correct": false,
+       "rationale": "Le verbe « séduire avant d'être examiné » est une critique implicite.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le ton se repère à des formulations évaluatives. Séduire « avant même d'avoir été examinées » insinue que l'adhésion est trop rapide : l'auteur prépare le lecteur à une critique."
+    },
+    {
+     "prompt": "Que craint l'éditorialiste si la réforme était généralisée ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Que les salariés refusent de travailler dix heures par jour.",
+       "correct": false,
+       "rationale": "Les journées de dix heures sont une conséquence possible, pas un refus annoncé.",
+       "label": "A"
+      },
+      {
+       "text": "Que le chômage augmente dans les hôpitaux.",
+       "correct": false,
+       "rationale": "Il parle d'embauches impossibles à financer, pas de licenciements.",
+       "label": "B"
+      },
+      {
+       "text": "Que les entreprises de services fassent faillite.",
+       "correct": false,
+       "rationale": "Il ne prévoit aucune faillite.",
+       "label": "C"
+      },
+      {
+       "text": "Que les travailleurs de terrain se sentent laissés de côté.",
+       "correct": true,
+       "rationale": "Il évoque « une fracture nouvelle » et « le sentiment d'être les oubliés du progrès ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "La crainte principale est sociale et symbolique : une société à deux vitesses. Les expressions « d'un côté… de l'autre » et « fracture » structurent cette idée."
+    }
+   ],
+   "title": "La semaine de quatre jours, fausse bonne idée ?",
+   "document": "Il est des réformes qui séduisent avant même d'avoir été examinées. La semaine de quatre jours en fait partie. Qui refuserait un jour de repos supplémentaire sans perte de salaire ? Les entreprises qui l'ont adoptée vantent une productivité préservée, des salariés moins fatigués, un recrutement facilité. On aurait tort de balayer ces résultats d'un revers de main.\n\nEncore faut-il regarder de près ce que recouvre le mot « expérimentation ». Dans la plupart des cas, il s'agit de sociétés de services, souvent jeunes, dont les équipes travaillent sur ordinateur et peuvent concentrer leurs tâches. Que devient la promesse pour une aide-soignante, un chauffeur de bus ou une caissière, dont la présence ne se compresse pas ? Pour eux, travailler sur quatre jours signifie soit des journées de dix heures, soit des embauches que leurs employeurs, hôpitaux publics en tête, n'ont pas les moyens de financer.\n\nLe risque est donc de voir apparaître une fracture nouvelle : d'un côté, ceux dont le métier se prête à la réorganisation et qui gagneront en temps libre ; de l'autre, ceux qui assurent la continuité du quotidien et pour qui rien ne changera, sinon le sentiment d'être les oubliés du progrès. Plutôt que de généraliser une formule séduisante, mieux vaudrait réfléchir métier par métier à ce qui améliorerait réellement les conditions de travail.",
+   "vocabulary": [
+    {
+     "terme": "balayer d'un revers de main",
+     "definition": "rejeter sans examiner",
+     "exemple": "Il a balayé nos objections d'un revers de main."
+    },
+    {
+     "terme": "se prêter à",
+     "definition": "être adapté à",
+     "exemple": "Ce métier se prête mal au télétravail."
+    },
+    {
+     "terme": "une fracture",
+     "definition": "une division profonde entre deux groupes",
+     "exemple": "La fracture numérique sépare les générations."
+    },
+    {
+     "terme": "la continuité",
+     "definition": "le fait de fonctionner sans interruption",
+     "exemple": "Les soignants assurent la continuité des soins."
+    },
+    {
+     "terme": "compresser",
+     "definition": "réduire la durée ou le volume",
+     "exemple": "On ne peut pas compresser une garde de nuit."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "il est des…",
+     "sens": "il existe des… (registre soutenu)",
+     "exemple": "Il est des silences plus éloquents que les mots."
+    },
+    {
+     "expression": "en tête",
+     "sens": "en premier lieu, au premier rang",
+     "exemple": "Les grandes villes, Paris en tête, manquent de logements."
+    },
+    {
+     "expression": "mieux vaudrait",
+     "sens": "il serait préférable de",
+     "exemple": "Mieux vaudrait attendre les résultats avant de décider."
+    }
+   ],
+   "traps": [
+    "Le premier paragraphe expose les arguments favorables : ce n'est pas l'opinion finale de l'auteur.",
+    "« On aurait tort de balayer… » est une concession, pas une adhésion.",
+    "La question du ton porte sur la première phrase seule, pas sur l'ensemble du texte."
+   ]
+  },
+  {
+   "code": "CE-EDI-02",
+   "level": "B2",
+   "doc_type": "éditorial",
+   "questions": [
+    {
+     "prompt": "Selon l'auteur, quelle est la cause principale des conflits entre usagers ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Le comportement irresponsable des cyclistes.",
+       "correct": false,
+       "rationale": "Il juge ces reproches « pas infondés » mais estime qu'« ils manquent l'essentiel ».",
+       "label": "A"
+      },
+      {
+       "text": "L'absence d'amendes pour les automobilistes.",
+       "correct": false,
+       "rationale": "Les sanctions sont jugées insuffisantes, et aucune absence d'amendes n'est évoquée.",
+       "label": "B"
+      },
+      {
+       "text": "Un aménagement des rues resté pensé pour l'automobile.",
+       "correct": true,
+       "rationale": "« Nos rues ont été dessinées pour la voiture » ; « l'espace lui-même l'organise si mal ».",
+       "label": "C"
+      },
+      {
+       "text": "La diminution du nombre de pistes cyclables.",
+       "correct": false,
+       "rationale": "Les pistes ne diminuent pas ; elles sont « saturées ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « Ces reproches ne sont pas infondés, mais ils manquent l'essentiel » écarte les explications individuelles au profit d'une cause structurelle. Repérez ce que l'auteur appelle « l'essentiel »."
+    },
+    {
+     "prompt": "Que reproche implicitement l'auteur aux élus ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "De multiplier les campagnes de civisme.",
+       "correct": false,
+       "rationale": "Ces campagnes sont jugées « utiles mais insuffisantes », pas reprochées.",
+       "label": "A"
+      },
+      {
+       "text": "De manquer de courage politique face à des mesures impopulaires.",
+       "correct": true,
+       "rationale": "Retirer des places de stationnement est une « décision impopulaire que peu d'élus osent assumer » ; « Faute de ce courage… ».",
+       "label": "B"
+      },
+      {
+       "text": "D'ignorer les plaintes des piétons.",
+       "correct": false,
+       "rationale": "Les piétons sont cités parmi les victimes, mais pas comme ignorés par les élus.",
+       "label": "C"
+      },
+      {
+       "text": "De dépenser trop d'argent pour les pistes cyclables.",
+       "correct": false,
+       "rationale": "Le coût n'est jamais mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le reproche n'est pas formulé directement ; il se lit dans « peu d'élus osent assumer » puis « faute de ce courage ». « Faute de » introduit la cause d'un échec possible."
+    },
+    {
+     "prompt": "Que signifie la dernière phrase du texte ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Sans réforme de l'espace urbain, le vélo pourrait ne plus incarner une ville plus calme.",
+       "correct": true,
+       "rationale": "« Le vélo risque de perdre ce qui faisait son attrait : la promesse d'une ville apaisée. »",
+       "label": "A"
+      },
+      {
+       "text": "Les cyclistes doivent devenir plus calmes.",
+       "correct": false,
+       "rationale": "L'apaisement concerne la ville entière et dépend de l'aménagement.",
+       "label": "B"
+      },
+      {
+       "text": "Les élus courageux ont déjà apaisé la ville.",
+       "correct": false,
+       "rationale": "L'auteur dit justement que ce courage manque.",
+       "label": "C"
+      },
+      {
+       "text": "Le vélo va disparaître des grandes villes.",
+       "correct": false,
+       "rationale": "Il s'agit de perdre un « attrait », pas de disparaître.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La conclusion relie le constat (conflits) à l'enjeu (l'image du vélo). « Ce qui faisait son attrait » renvoie à une qualité passée menacée : c'est une mise en garde, pas une prédiction de disparition."
+    }
+   ],
+   "title": "Le retour du vélo, victime de son succès",
+   "document": "Il y a vingt ans, circuler à vélo dans nos grandes villes relevait de l'acte militant. Aujourd'hui, les pistes cyclables sont saturées aux heures de pointe, et l'on se réjouirait volontiers de cette conversion massive si elle ne s'accompagnait pas de tensions croissantes. Piétons frôlés sur les trottoirs, automobilistes exaspérés, cyclistes qui s'estiment en danger : chacun se vit comme la victime des autres.\n\nLa tentation est grande de désigner un coupable. Certains réclament des amendes plus lourdes pour les cyclistes qui grillent les feux ; d'autres accusent les conducteurs de ne pas respecter les distances de sécurité. Ces reproches ne sont pas infondés, mais ils manquent l'essentiel. Nos rues ont été dessinées pour la voiture, et l'on s'est contenté, le plus souvent, d'y ajouter une bande de peinture verte pour les vélos. Il ne faut pas s'étonner que la cohabitation soit conflictuelle quand l'espace lui-même l'organise si mal.\n\nLa solution ne viendra donc ni des seules sanctions ni des campagnes de civisme, utiles mais insuffisantes. Elle passe par un partage clair de la voirie, quitte à retirer des places de stationnement, décision impopulaire que peu d'élus osent assumer. Faute de ce courage, le vélo risque de perdre ce qui faisait son attrait : la promesse d'une ville apaisée.",
+   "vocabulary": [
+    {
+     "terme": "saturé",
+     "definition": "complètement rempli, au maximum de sa capacité",
+     "exemple": "Le réseau est saturé aux heures de pointe."
+    },
+    {
+     "terme": "frôler",
+     "definition": "passer très près de quelqu'un sans le toucher",
+     "exemple": "Une trottinette m'a frôlé sur le trottoir."
+    },
+    {
+     "terme": "la voirie",
+     "definition": "l'ensemble des voies publiques (rues, routes)",
+     "exemple": "La mairie a refait la voirie du centre."
+    },
+    {
+     "terme": "infondé",
+     "definition": "sans fondement, injustifié",
+     "exemple": "Ces craintes sont infondées."
+    },
+    {
+     "terme": "apaisé",
+     "definition": "rendu calme, moins tendu",
+     "exemple": "Les habitants souhaitent un quartier apaisé."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "relever de",
+     "sens": "appartenir au domaine de",
+     "exemple": "Ce choix relève de la responsabilité du maire."
+    },
+    {
+     "expression": "griller un feu",
+     "sens": "ne pas s'arrêter au feu rouge (familier)",
+     "exemple": "Il a grillé un feu et a reçu une amende."
+    },
+    {
+     "expression": "quitte à",
+     "sens": "même si cela oblige à",
+     "exemple": "Il faut agir vite, quitte à déplaire."
+    }
+   ],
+   "traps": [
+    "Le texte cite les reproches faits aux cyclistes sans les reprendre à son compte.",
+    "« Faute de ce courage » ne signifie pas que les élus ont commis une faute, mais que le courage manque.",
+    "Le vélo n'est pas menacé de disparaître : c'est son image positive qui est en jeu."
+   ]
+  },
+  {
+   "code": "CE-EDI-03",
+   "level": "B2",
+   "doc_type": "éditorial",
+   "questions": [
+    {
+     "prompt": "Quel reproche l'éditorialiste adresse-t-il au système actuel ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Il rend l'eau trop chère pour tout le monde.",
+       "correct": false,
+       "rationale": "Le texte ne dit pas que l'eau est trop chère.",
+       "label": "A"
+      },
+      {
+       "text": "Il oblige à utiliser des camions-citernes.",
+       "correct": false,
+       "rationale": "Les camions sont une conséquence de la sécheresse.",
+       "label": "B"
+      },
+      {
+       "text": "Il favorise les petites communes.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Il fait payer le même prix pour les usages essentiels et superflus.",
+       "correct": true,
+       "rationale": "« Le mètre cube coûte quasiment la même chose qu'on remplisse une baignoire ou une piscine privée. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Cette uniformité n'a rien de neutre » introduit la critique : l'égalité de prix crée une injustice."
+    },
+    {
+     "prompt": "En quoi consiste la tarification progressive ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Un prix réservé aux piscines.",
+       "correct": false,
+       "rationale": "Ce n'est pas le principe.",
+       "label": "A"
+      },
+      {
+       "text": "Un prix qui augmente chaque année.",
+       "correct": false,
+       "rationale": "Il augmente selon la consommation, pas le temps.",
+       "label": "B"
+      },
+      {
+       "text": "Un prix bas pour les premiers mètres cubes puis plus élevé au-delà.",
+       "correct": true,
+       "rationale": "« Les premiers mètres cubes… sont très bon marché, et le prix augmente fortement au-delà. »",
+       "label": "C"
+      },
+      {
+       "text": "Une eau gratuite pour tous.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Progressif » signifie ici que le prix unitaire augmente avec la quantité consommée."
+    },
+    {
+     "prompt": "Comment l'auteur répond-il à l'accusation de « taxer un bien vital » ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Il propose de supprimer les taxes.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Il accuse les élus de malhonnêteté.",
+       "correct": false,
+       "rationale": "Il évoque leur prudence, pas leur malhonnêteté.",
+       "label": "B"
+      },
+      {
+       "text": "Il reconnaît que l'eau n'est pas vitale.",
+       "correct": false,
+       "rationale": "Il affirme qu'elle l'est.",
+       "label": "C"
+      },
+      {
+       "text": "Il retourne l'argument : c'est le caractère vital de l'eau qui justifie de protéger l'essentiel.",
+       "correct": true,
+       "rationale": "« C'est justement parce que l'eau est vitale qu'il faut en protéger l'usage essentiel. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Justement » marque le retournement : l'argument adverse devient un argument en faveur de la thèse."
+    }
+   ],
+   "title": "Le prix de l'eau, tabou de nos factures",
+   "document": "L'été dernier, des dizaines de communes ont dû être ravitaillées par camions-citernes. Les nappes phréatiques atteignent des niveaux historiquement bas, et chacun s'accorde à dire que l'eau devient une ressource rare. Pourtant, un sujet reste soigneusement évité : son prix.\n\nAujourd'hui, le mètre cube coûte quasiment la même chose qu'on remplisse une baignoire ou une piscine privée. Cette uniformité n'a rien de neutre. Elle revient à faire payer à tous, y compris aux ménages modestes, le coût des usages les plus dispendieux. Quelques villes ont pourtant expérimenté une tarification progressive : les premiers mètres cubes, nécessaires à la vie quotidienne, sont très bon marché, et le prix augmente fortement au-delà. Les résultats sont encourageants, tant pour la consommation que pour l'équité.\n\nPourquoi alors si peu d'élus s'y risquent-ils ? Parce que toucher au prix de l'eau, c'est s'exposer à l'accusation de taxer un bien vital. L'argument ne résiste guère à l'examen : c'est justement parce que l'eau est vitale qu'il faut en protéger l'usage essentiel, et faire payer davantage le superflu.",
+   "vocabulary": [
+    {
+     "terme": "ravitailler",
+     "definition": "fournir ce qui manque",
+     "exemple": "L'armée a ravitaillé les villages isolés."
+    },
+    {
+     "terme": "une nappe phréatique",
+     "definition": "une réserve d'eau souterraine",
+     "exemple": "La nappe phréatique est polluée."
+    },
+    {
+     "terme": "dispendieux",
+     "definition": "qui coûte cher",
+     "exemple": "Un mode de vie dispendieux."
+    },
+    {
+     "terme": "le superflu",
+     "definition": "ce qui n'est pas nécessaire",
+     "exemple": "Il faut renoncer au superflu."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "s'accorder à dire",
+     "sens": "être tous d'accord pour dire",
+     "exemple": "Les experts s'accordent à dire que la crise durera."
+    },
+    {
+     "expression": "ne pas résister à l'examen",
+     "sens": "se révéler faux quand on l'étudie",
+     "exemple": "Cette théorie ne résiste pas à l'examen."
+    },
+    {
+     "expression": "s'y risquer",
+     "sens": "oser le faire",
+     "exemple": "Peu de gens s'y risquent."
+    }
+   ],
+   "traps": [
+    "Le texte ne demande pas d'augmenter le prix pour tous.",
+    "« Quasiment la même chose » signifie qu'il n'y a presque pas de différence.",
+    "La question rhétorique « Pourquoi alors… ? » introduit l'explication du blocage."
+   ]
+  },
+  {
+   "code": "CE-EDI-04",
+   "level": "B2",
+   "doc_type": "éditorial",
+   "questions": [
+    {
+     "prompt": "Quelle est la position de l'éditorialiste sur l'exposition ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Il la défend comme une démarche légitime pour un musée.",
+       "correct": true,
+       "rationale": "« L'exposition fait exactement ce qu'on attend d'une institution culturelle. »",
+       "label": "A"
+      },
+      {
+       "text": "Il demande son annulation.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Il reste neutre.",
+       "correct": false,
+       "rationale": "Sa position est clairement favorable.",
+       "label": "C"
+      },
+      {
+       "text": "Il la critique comme une opération commerciale.",
+       "correct": false,
+       "rationale": "C'est la position des « esprits chagrins ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le terme « esprits chagrins », péjoratif, montre que l'auteur ne partage pas les critiques."
+    },
+    {
+     "prompt": "Pourquoi l'auteur évoque-t-il le cinéma et la bande dessinée ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Pour proposer une exposition sur la bande dessinée.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Pour montrer que d'autres arts autrefois méprisés sont aujourd'hui reconnus.",
+       "correct": true,
+       "rationale": "« Tous jugés indignes des musées avant d'y être exposés sans que personne ne s'en offusque. »",
+       "label": "B"
+      },
+      {
+       "text": "Pour dire que le jeu vidéo est supérieur au cinéma.",
+       "correct": false,
+       "rationale": "Ce n'est pas le propos.",
+       "label": "C"
+      },
+      {
+       "text": "Pour critiquer la photographie.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "D"
+      }
+     ],
+     "explanation": "C'est un argument par analogie historique : ce qui est arrivé à d'autres arts arrivera au jeu vidéo."
+    },
+    {
+     "prompt": "Quelle nuance l'auteur apporte-t-il dans le dernier paragraphe ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les musées ne devraient exposer que des jeux récents.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Les jeux vidéo sont dangereux pour les jeunes.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Tous les jeux vidéo ne sont pas des œuvres d'art.",
+       "correct": true,
+       "rationale": "« Cela ne signifie pas que tout jeu vidéo est une œuvre, pas plus que tout film n'est un chef-d'œuvre. »",
+       "label": "C"
+      },
+      {
+       "text": "Les musées doivent cesser de choisir.",
+       "correct": false,
+       "rationale": "Il dit que leur rôle est « précisément de choisir ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "La nuance prévient une objection : défendre l'exposition ne signifie pas tout admirer."
+    }
+   ],
+   "title": "Quand les jeux vidéo entrent au musée",
+   "document": "Une grande institution parisienne consacre cet automne une exposition à l'histoire du jeu vidéo. Il n'en fallait pas plus pour raviver une vieille querelle : un loisir de masse a-t-il sa place à côté des chefs-d'œuvre de la peinture ? Les esprits chagrins dénoncent une concession au divertissement facile, une manière d'attirer un public jeune au prix de la légitimité du lieu.\n\nCes critiques rappellent étrangement celles qu'essuyaient, en leur temps, le cinéma, la bande dessinée ou la photographie, tous jugés indignes des musées avant d'y être exposés sans que personne ne s'en offusque. L'histoire de l'art est aussi l'histoire de ces frontières qui se déplacent.\n\nCela ne signifie pas que tout jeu vidéo est une œuvre, pas plus que tout film n'est un chef-d'œuvre. Le rôle d'un musée est précisément de choisir, de contextualiser, d'expliquer. En montrant comment ces jeux ont été conçus, quelles techniques ils ont inventées et quelles émotions ils suscitent, l'exposition fait exactement ce qu'on attend d'une institution culturelle : aider à regarder autrement ce que l'on croyait connaître.",
+   "vocabulary": [
+    {
+     "terme": "raviver",
+     "definition": "ranimer, relancer",
+     "exemple": "Cette remarque a ravivé le conflit."
+    },
+    {
+     "terme": "la légitimité",
+     "definition": "le fait d'être reconnu comme justifié",
+     "exemple": "Ce prix lui donne une légitimité."
+    },
+    {
+     "terme": "s'offusquer",
+     "definition": "se sentir choqué",
+     "exemple": "Elle s'est offusquée de sa remarque."
+    },
+    {
+     "terme": "contextualiser",
+     "definition": "replacer dans son contexte",
+     "exemple": "Il faut contextualiser cette citation."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "il n'en fallait pas plus pour",
+     "sens": "cela a suffi à",
+     "exemple": "Il n'en fallait pas plus pour déclencher la polémique."
+    },
+    {
+     "expression": "les esprits chagrins",
+     "sens": "les personnes qui critiquent tout, pessimistes",
+     "exemple": "Les esprits chagrins trouveront toujours à redire."
+    },
+    {
+     "expression": "essuyer des critiques",
+     "sens": "recevoir des critiques",
+     "exemple": "Le ministre a essuyé de vives critiques."
+    }
+   ],
+   "traps": [
+    "Les critiques du premier paragraphe ne sont pas celles de l'auteur.",
+    "« Étrangement » souligne une ressemblance, pas une incompréhension.",
+    "L'auteur ne dit pas que tous les jeux méritent le musée."
+   ]
+  },
+  {
+   "code": "CE-EDI-05",
+   "level": "B2",
+   "doc_type": "éditorial",
+   "questions": [
+    {
+     "prompt": "Quel constat ouvre l'éditorial ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Le nombre trop élevé de communes.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "La baisse de confiance envers les maires.",
+       "correct": false,
+       "rationale": "Ils restent les élus les plus appréciés.",
+       "label": "B"
+      },
+      {
+       "text": "La hausse des indemnités des élus.",
+       "correct": false,
+       "rationale": "Elles sont dites « modestes ».",
+       "label": "C"
+      },
+      {
+       "text": "Le manque de candidats aux élections municipales.",
+       "correct": true,
+       "rationale": "« Plus d'une commune sur dix ne comptait qu'une seule liste… chercher jusqu'au dernier moment des volontaires. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les chiffres et l'exemple des villages servent à établir le constat de départ."
+    },
+    {
+     "prompt": "Pourquoi le mandat de maire attire-t-il moins ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Parce que les maires sont impopulaires.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que les communes sont supprimées.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que la charge est lourde et mal rémunérée.",
+       "correct": true,
+       "rationale": "« La fonction est devenue écrasante… Le tout pour une indemnité modeste. »",
+       "label": "C"
+      },
+      {
+       "text": "Parce que le mandat est trop court.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'énumération après les deux-points détaille ce qui rend la fonction « écrasante »."
+    },
+    {
+     "prompt": "Que reproche l'auteur aux responsables nationaux ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "D'augmenter les normes volontairement.",
+       "correct": false,
+       "rationale": "Ce n'est pas affirmé.",
+       "label": "A"
+      },
+      {
+       "text": "De se contenter de paroles sans agir concrètement.",
+       "correct": true,
+       "rationale": "« Multiplient les déclarations d'admiration… Les déclarations ne suffisent plus. »",
+       "label": "B"
+      },
+      {
+       "text": "De critiquer publiquement les maires.",
+       "correct": false,
+       "rationale": "Ils les admirent publiquement.",
+       "label": "C"
+      },
+      {
+       "text": "De vouloir supprimer les municipales.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La phrase courte « Les déclarations ne suffisent plus » marque l'impatience de l'auteur."
+    }
+   ],
+   "title": "La démocratie locale en panne",
+   "document": "Aux dernières élections municipales, plus d'une commune sur dix ne comptait qu'une seule liste de candidats. Dans certains villages, il a même fallu chercher jusqu'au dernier moment des volontaires pour compléter le conseil municipal. Ce désintérêt pour le mandat local devrait inquiéter bien davantage qu'il ne le fait.\n\nCar le maire reste l'élu en qui les Français ont le plus confiance. Mais la fonction est devenue écrasante : responsabilités juridiques croissantes, normes de plus en plus complexes, sollicitations à toute heure, et parfois agressivité de certains administrés. Le tout pour une indemnité modeste, souvent inférieure au salaire minimum dans les petites communes. Qui peut, dans ces conditions, concilier ce mandat avec un emploi et une vie de famille ?\n\nLes responsables politiques nationaux multiplient les déclarations d'admiration pour les maires. Les déclarations ne suffisent plus. Il faut simplifier les normes, mieux protéger juridiquement les élus, et reconnaître le temps qu'ils consacrent à leur commune. À défaut, la démocratie de proximité, la plus concrète de toutes, risque de s'éteindre faute de candidats.",
+   "vocabulary": [
+    {
+     "terme": "un mandat",
+     "definition": "une fonction confiée par une élection",
+     "exemple": "Son mandat dure six ans."
+    },
+    {
+     "terme": "écrasant",
+     "definition": "très lourd à supporter",
+     "exemple": "Une responsabilité écrasante."
+    },
+    {
+     "terme": "un administré",
+     "definition": "un habitant dépendant d'une administration",
+     "exemple": "Le maire reçoit ses administrés le samedi."
+    },
+    {
+     "terme": "concilier",
+     "definition": "rendre compatible",
+     "exemple": "Concilier travail et vie familiale."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "à toute heure",
+     "sens": "à n'importe quel moment",
+     "exemple": "On peut l'appeler à toute heure."
+    },
+    {
+     "expression": "à défaut",
+     "sens": "sinon, si cela n'est pas fait",
+     "exemple": "Payez avant lundi ; à défaut, une pénalité s'appliquera."
+    },
+    {
+     "expression": "la démocratie de proximité",
+     "sens": "la démocratie au niveau local, proche des citoyens",
+     "exemple": "Les conseils de quartier renforcent la démocratie de proximité."
+    }
+   ],
+   "traps": [
+    "Les maires ne sont pas impopulaires : c'est la fonction qui décourage.",
+    "La question rhétorique du deuxième paragraphe attend la réponse « presque personne ».",
+    "« À défaut » introduit la conséquence si rien ne change."
+   ]
+  },
+  {
+   "code": "CE-EDI-06",
+   "level": "B2",
+   "doc_type": "éditorial",
+   "questions": [
+    {
+     "prompt": "Comment les soldes ont-ils évolué selon l'auteur ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "D'un événement rare, ils sont devenus une pratique permanente.",
+       "correct": true,
+       "rationale": "« Il fut un temps où les soldes étaient un événement… Aujourd'hui, les promotions sont quotidiennes. »",
+       "label": "A"
+      },
+      {
+       "text": "Ils sont réservés aux clients fidèles.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Ils ont disparu.",
+       "correct": false,
+       "rationale": "Ils sont au contraire partout.",
+       "label": "C"
+      },
+      {
+       "text": "Ils sont devenus plus rares.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'opposition « Il fut un temps » / « Aujourd'hui » structure le premier paragraphe."
+    },
+    {
+     "prompt": "Lequel de ces effets n'est PAS cité par l'auteur ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "La faillite des petits commerces.",
+       "correct": true,
+       "rationale": "Le texte n'évoque pas les petits commerces.",
+       "label": "A"
+      },
+      {
+       "text": "Un impact sur l'environnement.",
+       "correct": false,
+       "rationale": "« Des coûts environnementaux considérables. »",
+       "label": "B"
+      },
+      {
+       "text": "Des achats impulsifs.",
+       "correct": false,
+       "rationale": "« Pousse à acheter ce dont on n'a pas besoin. »",
+       "label": "C"
+      },
+      {
+       "text": "Des prix difficiles à comprendre.",
+       "correct": false,
+       "rationale": "« Elle rend les prix illisibles. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les trois inconvénients sont annoncés par « D'abord », « Ensuite », « Enfin »."
+    },
+    {
+     "prompt": "Que suggère la question sur la réduction de 50 % ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les clients ne savent pas calculer.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "A"
+      },
+      {
+       "text": "Certains prix de départ pourraient être artificiellement augmentés.",
+       "correct": true,
+       "rationale": "« Un prix gonflé pour l'occasion. »",
+       "label": "B"
+      },
+      {
+       "text": "Les réductions de 50 % sont interdites.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Les réductions sont toujours honnêtes.",
+       "correct": false,
+       "rationale": "Le texte en doute.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Gonflé » signifie ici augmenté de façon artificielle pour rendre la réduction plus impressionnante."
+    }
+   ],
+   "title": "Soldes permanents, consommateurs perdants ?",
+   "document": "Il fut un temps où les soldes étaient un événement. Deux fois par an, les magasins baissaient leurs prix pour écouler les invendus, et les clients attendaient ces périodes avec impatience. Aujourd'hui, les promotions sont quotidiennes : ventes privées, journées spéciales, codes de réduction, rabais de dernière minute. Au point que le prix affiché semble n'être plus qu'une fiction.\n\nOn pourrait se réjouir de cette abondance de bonnes affaires. Mais elle a ses revers. D'abord, elle rend les prix illisibles : comment savoir si une réduction de 50 % porte sur un prix réel ou sur un prix gonflé pour l'occasion ? Ensuite, elle entretient un sentiment d'urgence qui pousse à acheter ce dont on n'a pas besoin, de peur de « rater l'affaire ». Enfin, elle encourage une production toujours plus rapide et moins durable, dont les coûts environnementaux sont considérables.\n\nLe meilleur service à rendre aux consommateurs ne serait peut-être pas de multiplier les rabais, mais de leur offrir des prix stables, clairs et honnêtes.",
+   "vocabulary": [
+    {
+     "terme": "écouler",
+     "definition": "vendre jusqu'à épuisement",
+     "exemple": "Il faut écouler le stock."
+    },
+    {
+     "terme": "un invendu",
+     "definition": "un produit qui n'a pas été vendu",
+     "exemple": "Les invendus sont donnés à des associations."
+    },
+    {
+     "terme": "un rabais",
+     "definition": "une réduction de prix",
+     "exemple": "Il a obtenu un rabais de 10 %."
+    },
+    {
+     "terme": "illisible",
+     "definition": "impossible à comprendre",
+     "exemple": "Ces tarifs sont illisibles."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "au point que",
+     "sens": "tellement que",
+     "exemple": "Il a plu, au point que la rivière a débordé."
+    },
+    {
+     "expression": "avoir ses revers",
+     "sens": "avoir des inconvénients",
+     "exemple": "La célébrité a ses revers."
+    },
+    {
+     "expression": "rater l'affaire",
+     "sens": "manquer une bonne occasion d'achat",
+     "exemple": "Dépêche-toi, tu vas rater l'affaire."
+    }
+   ],
+   "traps": [
+    "« On pourrait se réjouir » est une concession, pas l'opinion de l'auteur.",
+    "La question négative demande l'effet absent du texte.",
+    "La conclusion est formulée prudemment avec « peut-être »."
+   ]
+  },
+  {
+   "code": "CE-EDI-07",
+   "level": "B2",
+   "doc_type": "éditorial",
+   "questions": [
+    {
+     "prompt": "Quel paradoxe l'éditorial souligne-t-il dès la première phrase ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "La science progresse mais n'intéresse personne.",
+       "correct": false,
+       "rationale": "Elle est au contraire très présente.",
+       "label": "A"
+      },
+      {
+       "text": "La crise sanitaire a supprimé le débat.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "La science est à la fois omniprésente et très contestée.",
+       "correct": true,
+       "rationale": "« Jamais la science n'a été aussi présente dans le débat public, et jamais elle n'a été aussi contestée. »",
+       "label": "C"
+      },
+      {
+       "text": "Les chercheurs sont d'accord sur tout.",
+       "correct": false,
+       "rationale": "Le texte évoque leurs désaccords.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La répétition de « jamais… aussi » met en parallèle deux tendances opposées."
+    },
+    {
+     "prompt": "Quel est le malentendu dénoncé par l'auteur ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Croire que les médias ne parlent pas de science.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "A"
+      },
+      {
+       "text": "Croire que les chercheurs mentent.",
+       "correct": false,
+       "rationale": "Ce n'est pas le malentendu décrit.",
+       "label": "B"
+      },
+      {
+       "text": "Croire que la science est inutile.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Croire que la science fournit des vérités définitives.",
+       "correct": true,
+       "rationale": "« L'idée que la science serait un recueil de vérités définitives. Or elle est d'abord une méthode. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le connecteur « Or » introduit la rectification de l'idée fausse."
+    },
+    {
+     "prompt": "Qui, selon l'auteur, devrait inspirer de la méfiance ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Une personne qui garde la même opinion malgré les preuves contraires.",
+       "correct": true,
+       "rationale": "« Ce qui devrait inquiéter… c'est celui qui ne change jamais d'avis, quelles que soient les données. »",
+       "label": "A"
+      },
+      {
+       "text": "Un enseignant.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Un journaliste scientifique.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Un chercheur qui change d'avis.",
+       "correct": false,
+       "rationale": "C'est présenté comme normal.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'auteur renverse l'idée reçue : la constance absolue devient suspecte, et le changement d'avis légitime."
+    }
+   ],
+   "title": "La science à l'épreuve du débat public",
+   "document": "Jamais la science n'a été aussi présente dans le débat public, et jamais elle n'a été aussi contestée. Pendant la récente crise sanitaire, chacun a pu suivre en direct les hésitations des chercheurs, leurs désaccords, leurs revirements. Pour beaucoup, ce spectacle a été déroutant : comment faire confiance à des experts qui changent d'avis ?\n\nCe malentendu est profond. Il repose sur l'idée que la science serait un recueil de vérités définitives. Or elle est d'abord une méthode : formuler des hypothèses, les tester, les corriger à la lumière de nouvelles données. Changer d'avis face à des preuves nouvelles n'est pas un signe de faiblesse, c'est le fonctionnement normal de la recherche. Ce qui devrait inquiéter, au contraire, c'est celui qui ne change jamais d'avis, quelles que soient les données.\n\nEncore faut-il que les scientifiques et les médias expliquent cette démarche plutôt que de présenter chaque étude comme une révélation. Apprendre au public à distinguer une hypothèse d'un consensus est sans doute l'un des grands défis éducatifs de notre époque.",
+   "vocabulary": [
+    {
+     "terme": "un revirement",
+     "definition": "un changement brusque d'opinion",
+     "exemple": "Le revirement du ministre a surpris."
+    },
+    {
+     "terme": "déroutant",
+     "definition": "qui trouble, qui désoriente",
+     "exemple": "Sa réaction était déroutante."
+    },
+    {
+     "terme": "un recueil",
+     "definition": "un ensemble de textes réunis",
+     "exemple": "Un recueil de poèmes."
+    },
+    {
+     "terme": "un consensus",
+     "definition": "un accord général",
+     "exemple": "Il existe un consensus scientifique sur ce point."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "en direct",
+     "sens": "au moment même où cela se passe",
+     "exemple": "Le match est diffusé en direct."
+    },
+    {
+     "expression": "à la lumière de",
+     "sens": "en tenant compte de",
+     "exemple": "À la lumière de ces résultats, nous changeons de stratégie."
+    },
+    {
+     "expression": "quelles que soient",
+     "sens": "peu importe",
+     "exemple": "Quelles que soient tes raisons, je refuse."
+    }
+   ],
+   "traps": [
+    "Le conditionnel « serait » présente une idée que l'auteur rejette.",
+    "Le changement d'avis n'est pas critiqué mais valorisé.",
+    "« Encore faut-il » introduit une condition adressée aux scientifiques et aux médias."
+   ]
+  },
+  {
+   "code": "CE-EDI-08",
+   "level": "B2",
+   "doc_type": "éditorial",
+   "questions": [
+    {
+     "prompt": "Que reproche l'éditorialiste aux gouvernements successifs ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "D'avoir trop dépensé pour la dépendance.",
+       "correct": false,
+       "rationale": "C'est le financement qui est repoussé.",
+       "label": "A"
+      },
+      {
+       "text": "D'avoir fermé des établissements.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "D'avoir mal calculé le nombre de personnes âgées.",
+       "correct": false,
+       "rationale": "Le chiffre est dit « connu de tous ».",
+       "label": "C"
+      },
+      {
+       "text": "De ne pas avoir élaboré de politique globale malgré des prévisions connues.",
+       "correct": true,
+       "rationale": "« Ce chiffre, connu de tous les gouvernements… n'a pourtant jamais suscité de véritable plan d'ensemble. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Pourtant » oppose la connaissance du problème à l'absence d'action."
+    },
+    {
+     "prompt": "Qui supporte aujourd'hui l'essentiel de la charge ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "L'État.",
+       "correct": false,
+       "rationale": "C'est précisément ce que l'auteur lui reproche de ne pas faire.",
+       "label": "A"
+      },
+      {
+       "text": "Les proches des personnes âgées.",
+       "correct": true,
+       "rationale": "« Ce sont les familles qui compensent. Des millions de proches aidants… »",
+       "label": "B"
+      },
+      {
+       "text": "Les entreprises.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Les personnes âgées elles-mêmes.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'idée développée.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La tournure « ce sont… qui » met l'accent sur les familles."
+    },
+    {
+     "prompt": "Comment l'auteur explique-t-il ce retard ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Par l'opposition des familles.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Par un manque de données.",
+       "correct": false,
+       "rationale": "Les chiffres sont connus.",
+       "label": "B"
+      },
+      {
+       "text": "Par un calcul politique qui privilégie des sujets plus porteurs électoralement.",
+       "correct": true,
+       "rationale": "« Il traduit un choix politique, celui de privilégier des sujets plus visibles, plus rapidement rentables électoralement. »",
+       "label": "C"
+      },
+      {
+       "text": "Par une fatalité démographique.",
+       "correct": false,
+       "rationale": "« Ce retard n'est pas une fatalité. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'auteur refuse l'idée d'une fatalité et désigne une responsabilité politique."
+    }
+   ],
+   "title": "Le grand âge, angle mort des politiques",
+   "document": "Dans dix ans, le nombre de personnes de plus de quatre-vingt-cinq ans aura presque doublé. Ce chiffre, connu de tous les gouvernements depuis des décennies, n'a pourtant jamais suscité de véritable plan d'ensemble. Les réformes annoncées se succèdent, les rapports s'empilent, et la question du financement de la dépendance est repoussée de législature en législature.\n\nPendant ce temps, ce sont les familles qui compensent. Des millions de proches aidants, souvent des femmes, réduisent leur temps de travail ou renoncent à leur carrière pour s'occuper d'un parent. Quant aux établissements spécialisés, ils peinent à recruter : les métiers du soin aux personnes âgées restent mal payés et physiquement épuisants.\n\nCe retard n'est pas une fatalité. Il traduit un choix politique, celui de privilégier des sujets plus visibles, plus rapidement rentables électoralement. Mais une société se juge aussi à la manière dont elle traite ses aînés. Continuer à remettre à plus tard ce chantier, c'est accepter que la fin de vie devienne, pour beaucoup, une période de solitude et d'inégalités.",
+   "vocabulary": [
+    {
+     "terme": "la dépendance",
+     "definition": "l'incapacité à accomplir seul les gestes du quotidien",
+     "exemple": "L'assurance dépendance."
+    },
+    {
+     "terme": "une législature",
+     "definition": "la durée du mandat d'une assemblée",
+     "exemple": "La réforme sera votée avant la fin de la législature."
+    },
+    {
+     "terme": "compenser",
+     "definition": "combler un manque",
+     "exemple": "Il compense son retard en travaillant le soir."
+    },
+    {
+     "terme": "les aînés",
+     "definition": "les personnes âgées",
+     "exemple": "Respecter nos aînés."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "un angle mort",
+     "sens": "une zone qu'on ne voit pas ou qu'on néglige",
+     "exemple": "La santé mentale reste un angle mort des politiques."
+    },
+    {
+     "expression": "s'empiler",
+     "sens": "s'accumuler",
+     "exemple": "Les dossiers s'empilent sur son bureau."
+    },
+    {
+     "expression": "remettre à plus tard",
+     "sens": "reporter",
+     "exemple": "Il remet toujours ses devoirs à plus tard."
+    }
+   ],
+   "traps": [
+    "Les rapports existent : le problème est l'absence de décision.",
+    "« Ce retard n'est pas une fatalité » signifie qu'il pourrait être évité.",
+    "La dernière phrase décrit une conséquence, pas une situation déjà générale."
+   ]
+  }
+ ]
+}

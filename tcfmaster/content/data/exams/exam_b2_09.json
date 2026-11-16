@@ -1,0 +1,1996 @@
+{
+ "code": "B2-BLANC-09",
+ "title": "Examen blanc B2 n° 9 – Consommation et alimentation",
+ "level": "B2",
+ "description": "Examen complet de niveau B2 aux durées officielles : achats, droits du consommateur, alimentation, gaspillage.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "intention",
+   "document": "H: Bonjour Madame, ici Karim, du service après-vente du magasin Électroplus. Votre lave-linge a bien été examiné par notre technicien. La panne est couverte par la garantie, donc la réparation ne vous coûtera rien. En revanche, la pièce doit être commandée et n'arrivera que dans dix jours. Si ce délai vous pose problème, nous pouvons vous prêter un appareil en attendant. Rappelez-moi pour me dire ce que vous préférez.",
+   "prompt": "Pourquoi Karim appelle-t-il cette cliente ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour lui annoncer que son appareil est irréparable.",
+     "correct": false,
+     "rationale": "Une pièce va être commandée."
+    },
+    {
+     "label": "B",
+     "text": "Pour lui demander de payer la réparation.",
+     "correct": false,
+     "rationale": "« la réparation ne vous coûtera rien »."
+    },
+    {
+     "label": "C",
+     "text": "Pour l'informer de la réparation et lui proposer une solution temporaire.",
+     "correct": true,
+     "rationale": "Il annonce la prise en charge, le délai et propose un prêt."
+    },
+    {
+     "label": "D",
+     "text": "Pour lui vendre un nouveau lave-linge.",
+     "correct": false,
+     "rationale": "Il propose un prêt, pas une vente."
+    }
+   ],
+   "explanation": "Le message enchaîne une bonne nouvelle, une contrainte (« en revanche ») et une solution conditionnelle (« si ce délai vous pose problème »). Il se termine par une demande de rappel.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co01.wav"
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "reportage radio",
+   "skill": "information précise",
+   "document": "F: Dans cette cantine scolaire, les menus sont désormais composés à moitié de produits locaux, et un repas végétarien est servi chaque semaine. Pour réduire le gaspillage, les enfants peuvent choisir entre une petite et une grande portion. Résultat : les restes ont diminué d'un tiers en un an, et l'argent économisé a permis d'acheter davantage de produits biologiques.",
+   "prompt": "Qu'a permis l'argent économisé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De baisser le prix des repas.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "D'acheter plus de produits biologiques.",
+     "correct": true,
+     "rationale": "« l'argent économisé a permis d'acheter davantage de produits biologiques »."
+    },
+    {
+     "label": "C",
+     "text": "De servir deux repas végétariens par semaine.",
+     "correct": false,
+     "rationale": "Il y en a un par semaine."
+    },
+    {
+     "label": "D",
+     "text": "D'embaucher un nouveau cuisinier.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    }
+   ],
+   "explanation": "Le reportage présente des mesures, un résultat chiffré puis une conséquence. La question porte sur cette dernière information.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co02.wav"
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "F: Tu achètes encore tes légumes au supermarché ? Le marché est juste à côté. / H: Le marché, c'est plus cher. / F: Pas forcément. Si tu achètes les fruits et légumes de saison, directement aux producteurs, les prix sont souvent comparables. Et ils ont du goût ! Ce qui coûte cher, ce sont les fraises en hiver, qui viennent de l'autre bout du monde.",
+   "prompt": "Quelle est l'opinion de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les produits du supermarché ont plus de goût.",
+     "correct": false,
+     "rationale": "Elle vante le goût des produits du marché."
+    },
+    {
+     "label": "B",
+     "text": "Il faut acheter des fraises en hiver.",
+     "correct": false,
+     "rationale": "Elle cite cet exemple comme coûteux."
+    },
+    {
+     "label": "C",
+     "text": "Le marché est toujours plus cher que le supermarché.",
+     "correct": false,
+     "rationale": "Elle conteste cette idée."
+    },
+    {
+     "label": "D",
+     "text": "Acheter des produits de saison au marché n'est pas forcément plus cher.",
+     "correct": true,
+     "rationale": "« Si tu achètes les fruits et légumes de saison… les prix sont souvent comparables »."
+    }
+   ],
+   "explanation": "La femme nuance l'affirmation de l'homme (« pas forcément ») et précise une condition (« si »). Le contre-exemple final renforce son argument.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co03.wav"
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "H: Avis à notre clientèle : par mesure de précaution, nous procédons au rappel des yaourts aux fruits de la marque Douceur, portant la date limite du 12 mars. Un défaut de fabrication a été détecté. Les clients qui ont acheté ces produits sont invités à ne pas les consommer et à les rapporter à l'accueil du magasin, où ils seront remboursés, même sans ticket de caisse.",
+   "prompt": "Que doivent faire les clients concernés ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Rapporter les yaourts au magasin pour être remboursés.",
+     "correct": true,
+     "rationale": "« les rapporter à l'accueil du magasin, où ils seront remboursés »."
+    },
+    {
+     "label": "B",
+     "text": "Les consommer rapidement avant le 12 mars.",
+     "correct": false,
+     "rationale": "Il ne faut « pas les consommer »."
+    },
+    {
+     "label": "C",
+     "text": "Contacter directement le fabricant.",
+     "correct": false,
+     "rationale": "Il faut aller à l'accueil du magasin."
+    },
+    {
+     "label": "D",
+     "text": "Présenter obligatoirement leur ticket de caisse.",
+     "correct": false,
+     "rationale": "Le remboursement se fait « même sans ticket »."
+    }
+   ],
+   "explanation": "L'annonce identifie précisément le produit, explique la raison et donne les consignes. La précision « même sans ticket » élimine un distracteur.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co04.wav"
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "compréhension globale",
+   "document": "H: Vous gérez une épicerie solidaire. Comment fonctionne-t-elle ? / F: Les familles orientées par les services sociaux viennent faire leurs courses chez nous et paient environ dix à trente pour cent du prix habituel. Contrairement à une simple distribution, elles choisissent leurs produits, comme dans n'importe quel magasin. C'est important pour la dignité. Et nous proposons aussi des ateliers de cuisine et de gestion du budget.",
+   "prompt": "De quoi parle principalement l'interview ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "D'un supermarché classique.",
+     "correct": false,
+     "rationale": "Les clients sont orientés par les services sociaux."
+    },
+    {
+     "label": "B",
+     "text": "D'une distribution gratuite de colis alimentaires.",
+     "correct": false,
+     "rationale": "Elle oppose son épicerie à « une simple distribution »."
+    },
+    {
+     "label": "C",
+     "text": "D'une école de cuisine.",
+     "correct": false,
+     "rationale": "Les ateliers sont un service complémentaire."
+    },
+    {
+     "label": "D",
+     "text": "D'un magasin à prix réduits qui respecte le choix et la dignité des familles.",
+     "correct": true,
+     "rationale": "Elle insiste sur le fait que les familles « choisissent leurs produits »."
+    }
+   ],
+   "explanation": "La directrice décrit le fonctionnement, puis souligne une différence (« contrairement à ») qui donne le sens de son projet.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co05.wav"
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "skill": "inférence",
+   "document": "F: Hier, au supermarché, j'ai acheté un paquet de biscuits « nouvelle formule ». Même prix qu'avant, même emballage, ou presque. C'est seulement en rentrant que j'ai remarqué la mention en petits caractères : deux cents grammes au lieu de deux cent cinquante. Nouvelle formule, en effet.",
+   "prompt": "Que laisse entendre la chroniqueuse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le prix des biscuits a baissé.",
+     "correct": false,
+     "rationale": "Le prix est le même."
+    },
+    {
+     "label": "B",
+     "text": "Les biscuits ont meilleur goût qu'avant.",
+     "correct": false,
+     "rationale": "Elle ne parle pas du goût."
+    },
+    {
+     "label": "C",
+     "text": "Le fabricant a discrètement augmenté le prix réel du produit.",
+     "correct": true,
+     "rationale": "Moins de biscuits pour le même prix ; « nouvelle formule, en effet » est ironique."
+    },
+    {
+     "label": "D",
+     "text": "Le paquet est plus grand qu'avant.",
+     "correct": false,
+     "rationale": "L'emballage est presque identique."
+    }
+   ],
+   "explanation": "La répétition ironique de « nouvelle formule » montre que le seul changement est la quantité. On parle parfois de « réduflation ».",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co06.wav"
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "débat radio",
+   "skill": "opinion",
+   "document": "H: Faut-il interdire la publicité pour les produits trop sucrés à la télévision aux heures où les enfants regardent ? / F: Oui, sans hésiter. Les enfants ne savent pas encore faire la différence entre une publicité et une information. Les marques le savent très bien. Ce n'est pas aux parents seuls de résister à des campagnes qui coûtent des millions.",
+   "prompt": "Quelle est la position de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle est favorable à cette interdiction pour protéger les enfants.",
+     "correct": true,
+     "rationale": "« Oui, sans hésiter » ; les enfants ne distinguent pas publicité et information."
+    },
+    {
+     "label": "B",
+     "text": "Elle veut interdire toute publicité à la télévision.",
+     "correct": false,
+     "rationale": "Elle parle des produits trop sucrés pour les enfants."
+    },
+    {
+     "label": "C",
+     "text": "Elle trouve les publicités utiles pour informer les enfants.",
+     "correct": false,
+     "rationale": "Elle dit qu'ils les confondent avec de l'information."
+    },
+    {
+     "label": "D",
+     "text": "Elle pense que les parents doivent régler le problème seuls.",
+     "correct": false,
+     "rationale": "« Ce n'est pas aux parents seuls de résister »."
+    }
+   ],
+   "explanation": "La position est exprimée d'emblée, puis justifiée par deux arguments : la vulnérabilité des enfants et la disproportion des moyens.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co07.wav"
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "F: Bonjour Monsieur Lefèvre, ici le service client de la boutique en ligne Maison Plus. Nous avons bien reçu votre demande de retour pour le canapé. Un transporteur passera le récupérer jeudi entre huit heures et midi. Merci de le remettre dans son emballage d'origine si possible. Le remboursement sera effectué sur votre carte bancaire dans les quatorze jours suivant la réception du colis.",
+   "prompt": "Quand M. Lefèvre sera-t-il remboursé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Immédiatement après ce message.",
+     "correct": false,
+     "rationale": "Le remboursement suivra le retour."
+    },
+    {
+     "label": "B",
+     "text": "Dans les quatorze jours après la réception du canapé par la boutique.",
+     "correct": true,
+     "rationale": "« dans les quatorze jours suivant la réception du colis »."
+    },
+    {
+     "label": "C",
+     "text": "Seulement s'il retrouve l'emballage d'origine.",
+     "correct": false,
+     "rationale": "L'emballage est demandé « si possible »."
+    },
+    {
+     "label": "D",
+     "text": "Jeudi, au passage du transporteur.",
+     "correct": false,
+     "rationale": "Jeudi est le jour de l'enlèvement."
+    }
+   ],
+   "explanation": "Le message contient deux repères temporels. « Si possible » indique une simple préférence, pas une condition.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co08.wav"
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "intention",
+   "document": "H: Vous êtes nutritionniste. Que pensez-vous des régimes à la mode ? / F: Je m'en méfie. Ils promettent des résultats rapides, mais la plupart des personnes reprennent le poids perdu dans l'année. Je préfère aider mes patients à changer durablement leurs habitudes : cuisiner davantage, manger plus lentement, bouger chaque jour. C'est moins spectaculaire, mais beaucoup plus efficace.",
+   "prompt": "Que cherche à faire la nutritionniste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Expliquer qu'il est impossible de changer ses habitudes.",
+     "correct": false,
+     "rationale": "Elle aide justement à les changer."
+    },
+    {
+     "label": "B",
+     "text": "Encourager les patients à perdre du poids très vite.",
+     "correct": false,
+     "rationale": "Elle critique les « résultats rapides »."
+    },
+    {
+     "label": "C",
+     "text": "Mettre en garde contre les régimes rapides et défendre une approche durable.",
+     "correct": true,
+     "rationale": "Elle critique les régimes à la mode et présente sa méthode."
+    },
+    {
+     "label": "D",
+     "text": "Faire la promotion d'un nouveau régime.",
+     "correct": false,
+     "rationale": "Elle s'en méfie."
+    }
+   ],
+   "explanation": "La nutritionniste oppose deux approches et conclut par une comparaison (« moins spectaculaire, mais beaucoup plus efficace ») qui résume son intention.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co09.wav"
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "H: Dans cette ville, une application permet aux boulangeries, restaurants et supermarchés de vendre à petit prix, en fin de journée, les produits qu'ils n'ont pas vendus. Les clients réservent un panier surprise et viennent le chercher avant la fermeture. Les commerçants récupèrent un peu d'argent au lieu de jeter, et les clients font des économies. Des tonnes de nourriture échappent ainsi chaque année à la poubelle.",
+   "prompt": "Quel est le sujet du reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La hausse du prix des produits frais.",
+     "correct": false,
+     "rationale": "Les produits sont vendus à petit prix."
+    },
+    {
+     "label": "B",
+     "text": "Un outil numérique qui réduit le gaspillage alimentaire.",
+     "correct": true,
+     "rationale": "Des tonnes de nourriture « échappent ainsi à la poubelle »."
+    },
+    {
+     "label": "C",
+     "text": "Une application de livraison de repas.",
+     "correct": false,
+     "rationale": "Les clients viennent chercher leur panier."
+    },
+    {
+     "label": "D",
+     "text": "La fermeture de boulangeries en fin de journée.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    }
+   ],
+   "explanation": "Le reportage décrit le fonctionnement et ses avantages pour chacun. La dernière phrase donne le bénéfice collectif, qui résume le sujet.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co10.wav"
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "conversation administrative",
+   "skill": "information précise",
+   "document": "F: Bonjour, j'ai acheté un téléphone il y a dix mois et l'écran ne s'allume plus. Il n'est pas tombé. / H: Votre téléphone est encore sous garantie légale de conformité, qui dure deux ans. Le magasin doit vous proposer la réparation ou le remplacement, gratuitement. Si la réparation est impossible, vous pourrez demander un remboursement. Gardez bien votre facture.",
+   "prompt": "Que peut obtenir la femme en premier lieu ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un remboursement immédiat.",
+     "correct": false,
+     "rationale": "Il n'est possible que si la réparation est impossible."
+    },
+    {
+     "label": "B",
+     "text": "Un bon d'achat.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Rien, car la garantie a expiré.",
+     "correct": false,
+     "rationale": "La garantie dure deux ans."
+    },
+    {
+     "label": "D",
+     "text": "La réparation ou le remplacement gratuit du téléphone.",
+     "correct": true,
+     "rationale": "« Le magasin doit vous proposer la réparation ou le remplacement, gratuitement »."
+    }
+   ],
+   "explanation": "L'employé présente une solution principale, puis une solution secondaire introduite par « si ». Il faut respecter cet ordre.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co11.wav"
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "opinion",
+   "document": "H: On nous incite à manger cinq fruits et légumes par jour. Très bien. Mais quand un kilo de tomates coûte plus cher qu'un paquet de chips, le message sonne creux pour les familles modestes. Bien manger ne devrait pas être un privilège. Plutôt que de multiplier les conseils, il faudrait rendre les produits frais accessibles, par exemple en baissant leurs taxes.",
+   "prompt": "Quelle est l'opinion du chroniqueur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les conseils nutritionnels sont insuffisants si les produits sains restent chers.",
+     "correct": true,
+     "rationale": "« le message sonne creux pour les familles modestes »."
+    },
+    {
+     "label": "B",
+     "text": "Les familles modestes refusent de bien manger.",
+     "correct": false,
+     "rationale": "Il souligne un problème de prix, pas de volonté."
+    },
+    {
+     "label": "C",
+     "text": "Les chips sont un aliment sain.",
+     "correct": false,
+     "rationale": "Il les cite pour comparer les prix."
+    },
+    {
+     "label": "D",
+     "text": "Il faut arrêter de manger des fruits et légumes.",
+     "correct": false,
+     "rationale": "Il ne conteste pas le conseil."
+    }
+   ],
+   "explanation": "Le chroniqueur concède (« très bien ») puis critique (« mais »). Sa proposition finale au conditionnel exprime sa position.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co12.wav"
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "inférence",
+   "document": "F: Vous êtes producteur de lait depuis trente ans. Vous avez ouvert un magasin à la ferme. Pourquoi ? / H: Parce que la laiterie m'achetait mon lait à un prix qui ne couvrait même plus mes coûts. Aujourd'hui, je transforme une partie du lait en fromages et en yaourts que je vends directement. Je travaille deux fois plus, mais pour la première fois depuis longtemps, je vis correctement de mon métier.",
+   "prompt": "Que peut-on comprendre des propos du producteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La laiterie lui achetait son lait très cher.",
+     "correct": false,
+     "rationale": "Le prix ne couvrait pas ses coûts."
+    },
+    {
+     "label": "B",
+     "text": "Il travaille moins qu'avant.",
+     "correct": false,
+     "rationale": "Il travaille « deux fois plus »."
+    },
+    {
+     "label": "C",
+     "text": "La vente directe lui permet de mieux gagner sa vie malgré plus de travail.",
+     "correct": true,
+     "rationale": "« Je travaille deux fois plus, mais… je vis correctement de mon métier »."
+    },
+    {
+     "label": "D",
+     "text": "Il a arrêté de produire du lait.",
+     "correct": false,
+     "rationale": "Il en transforme une partie."
+    }
+   ],
+   "explanation": "Le producteur compare sa situation passée et présente. La concession finale (« mais ») montre que l'effort supplémentaire est compensé.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co13.wav"
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce radio",
+   "skill": "information précise",
+   "document": "H: Le marché de producteurs du dimanche matin change d'emplacement à partir de ce week-end. Il se tiendra désormais place de la République, et non plus sur le parking de la mairie, en raison de travaux. Les horaires restent inchangés, de huit heures à treize heures. Un parking gratuit est disponible rue Victor-Hugo.",
+   "prompt": "Qu'est-ce qui change pour le marché ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ses horaires.",
+     "correct": false,
+     "rationale": "« Les horaires restent inchangés »."
+    },
+    {
+     "label": "B",
+     "text": "Le prix des produits.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Son jour.",
+     "correct": false,
+     "rationale": "Il a toujours lieu le dimanche matin."
+    },
+    {
+     "label": "D",
+     "text": "Son emplacement.",
+     "correct": true,
+     "rationale": "« Il se tiendra désormais place de la République »."
+    }
+   ],
+   "explanation": "L'annonce précise ce qui change et ce qui reste identique. La cause (travaux) explique le changement.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co14.wav"
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "intention",
+   "document": "H: Je vais prendre ce crédit pour acheter la télévision, les mensualités sont toutes petites. / F: Attends, tu as regardé le taux ? Sur trois ans, tu vas payer presque un tiers de plus que le prix affiché. Si tu mets de côté la même somme chaque mois pendant un an, tu pourras l'acheter comptant, et sans frais.",
+   "prompt": "Que veut faire la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Lui conseiller d'acheter une télévision plus chère.",
+     "correct": false,
+     "rationale": "Ce n'est pas évoqué."
+    },
+    {
+     "label": "B",
+     "text": "Dissuader son ami de prendre un crédit coûteux.",
+     "correct": true,
+     "rationale": "Elle souligne le coût réel et propose d'épargner."
+    },
+    {
+     "label": "C",
+     "text": "Lui proposer de lui prêter de l'argent.",
+     "correct": false,
+     "rationale": "Elle propose d'épargner."
+    },
+    {
+     "label": "D",
+     "text": "L'encourager à signer rapidement.",
+     "correct": false,
+     "rationale": "Elle lui demande d'attendre."
+    }
+   ],
+   "explanation": "La femme interrompt (« attends »), donne un argument chiffré, puis propose une alternative concrète.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co15.wav"
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "F: Les magasins de vrac se multiplient. On y vient avec ses propres bocaux et sacs en tissu pour acheter pâtes, riz, lessive ou huile, sans emballage jetable. Les clients achètent la quantité exacte dont ils ont besoin. Mais après un fort développement, certains magasins ont fermé : les habitudes sont difficiles à changer, et beaucoup de consommateurs trouvent cela moins pratique.",
+   "prompt": "Quel est le thème du reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le développement du vrac et les difficultés qu'il rencontre.",
+     "correct": true,
+     "rationale": "Le reportage présente les avantages puis les fermetures."
+    },
+    {
+     "label": "B",
+     "text": "L'obligation d'acheter en vrac.",
+     "correct": false,
+     "rationale": "C'est un choix des consommateurs."
+    },
+    {
+     "label": "C",
+     "text": "La disparition totale des magasins de vrac.",
+     "correct": false,
+     "rationale": "Seuls « certains magasins » ont fermé."
+    },
+    {
+     "label": "D",
+     "text": "La vente de bocaux en verre.",
+     "correct": false,
+     "rationale": "Les bocaux sont apportés par les clients."
+    }
+   ],
+   "explanation": "Le reportage suit le schéma avantages, puis limites (« mais »). Le thème doit inclure les deux aspects.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co16.wav"
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Le « fait maison » est-il en train de disparaître ? / F: Je ne crois pas. Les gens cuisinent moins au quotidien, c'est vrai, faute de temps. Mais le week-end, beaucoup redécouvrent le plaisir de faire leur pain, leurs confitures ou de recevoir des amis autour d'un bon plat. La cuisine est devenue moins une obligation qu'un loisir.",
+   "prompt": "Quel est l'avis de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Recevoir des amis est passé de mode.",
+     "correct": false,
+     "rationale": "Elle cite cette pratique comme vivante."
+    },
+    {
+     "label": "B",
+     "text": "Plus personne ne cuisine.",
+     "correct": false,
+     "rationale": "Elle dit « je ne crois pas »."
+    },
+    {
+     "label": "C",
+     "text": "Les gens cuisinent plus en semaine qu'avant.",
+     "correct": false,
+     "rationale": "Ils cuisinent moins au quotidien."
+    },
+    {
+     "label": "D",
+     "text": "La cuisine maison change de statut plutôt qu'elle ne disparaît.",
+     "correct": true,
+     "rationale": "« La cuisine est devenue moins une obligation qu'un loisir »."
+    }
+   ],
+   "explanation": "La femme réfute, concède (« c'est vrai »), puis nuance (« mais »). La dernière phrase résume son opinion.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co17.wav"
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "information précise",
+   "document": "H: Bonjour, ici l'AMAP des Jardins du Val. Les paniers de légumes de cette semaine seront distribués exceptionnellement jeudi au lieu de mercredi, de dix-huit à vingt heures, à la salle des fêtes. Les adhérents qui ne pourront pas venir peuvent demander à un voisin de récupérer leur panier, en nous prévenant par courriel.",
+   "prompt": "Que doit faire un adhérent qui envoie quelqu'un chercher son panier ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Prévenir l'association par courriel.",
+     "correct": true,
+     "rationale": "« en nous prévenant par courriel »."
+    },
+    {
+     "label": "B",
+     "text": "Venir le mercredi.",
+     "correct": false,
+     "rationale": "La distribution a lieu jeudi."
+    },
+    {
+     "label": "C",
+     "text": "Téléphoner à la salle des fêtes.",
+     "correct": false,
+     "rationale": "Il faut écrire un courriel."
+    },
+    {
+     "label": "D",
+     "text": "Payer un supplément.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "Le message annonce un changement de date et une possibilité, assortie d'une condition introduite par le gérondif « en nous prévenant ».",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co18.wav"
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "inférence",
+   "document": "F: Les produits « sans gluten » se vendent de plus en plus. / H: Pour les personnes malades, c'est une excellente nouvelle. Mais je constate que la majorité des acheteurs n'ont aucune intolérance. Ils pensent que c'est meilleur pour la santé, alors que ces produits contiennent souvent plus de sucre ou de graisses pour compenser la texture. Et ils coûtent deux fois plus cher.",
+   "prompt": "Que sous-entend l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les personnes intolérantes n'achètent pas ces produits.",
+     "correct": false,
+     "rationale": "Il dit que c'est une bonne nouvelle pour elles."
+    },
+    {
+     "label": "B",
+     "text": "Beaucoup de consommateurs achètent ces produits pour de mauvaises raisons.",
+     "correct": true,
+     "rationale": "Ils n'ont « aucune intolérance » et croient à tort que c'est plus sain."
+    },
+    {
+     "label": "C",
+     "text": "Les produits sans gluten sont dangereux pour tout le monde.",
+     "correct": false,
+     "rationale": "Il les juge utiles pour les malades."
+    },
+    {
+     "label": "D",
+     "text": "Les produits sans gluten sont moins chers.",
+     "correct": false,
+     "rationale": "Ils coûtent deux fois plus cher."
+    }
+   ],
+   "explanation": "L'homme ne dit pas « ils se trompent », mais les arguments (pas d'intolérance, composition, prix) le laissent entendre.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co19.wav"
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "conférence",
+   "skill": "compréhension globale",
+   "document": "H: On estime qu'environ un tiers de la nourriture produite dans le monde est perdue ou gaspillée. Une partie l'est dans les champs ou pendant le transport, une autre dans les magasins, et une part importante chez nous, dans nos réfrigérateurs. Réduire ce gaspillage permettrait à la fois de nourrir davantage de personnes et de diminuer les émissions de gaz à effet de serre liées à l'agriculture.",
+   "prompt": "Quelle idée principale le conférencier développe-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le gaspillage concerne uniquement les supermarchés.",
+     "correct": false,
+     "rationale": "Il cite plusieurs étapes."
+    },
+    {
+     "label": "B",
+     "text": "L'agriculture n'émet pas de gaz à effet de serre.",
+     "correct": false,
+     "rationale": "Il parle d'émissions liées à l'agriculture."
+    },
+    {
+     "label": "C",
+     "text": "Le gaspillage alimentaire se produit à toutes les étapes et le réduire aurait de multiples bénéfices.",
+     "correct": true,
+     "rationale": "Il cite les champs, les magasins et les foyers, puis deux bénéfices."
+    },
+    {
+     "label": "D",
+     "text": "Les foyers ne gaspillent presque rien.",
+     "correct": false,
+     "rationale": "Une « part importante » se perd chez nous."
+    }
+   ],
+   "explanation": "Le conférencier présente un chiffre, détaille les étapes du gaspillage puis les avantages de sa réduction. L'idée principale réunit ces éléments.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co20.wav"
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "intention",
+   "document": "F: Pourquoi votre restaurant propose-t-il désormais des boîtes pour emporter les restes ? / H: Parce que les clients n'osaient pas les demander, par gêne. Pourtant, une assiette à moitié pleine qui part à la poubelle, c'est du travail et des produits perdus. Maintenant, le serveur propose systématiquement la boîte. Personne ne se sent jugé, et nous jetons beaucoup moins.",
+   "prompt": "Que cherche à faire le restaurateur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Annoncer une hausse des prix.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "Se plaindre de clients qui mangent trop.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    },
+    {
+     "label": "C",
+     "text": "Critiquer les clients qui emportent leurs restes.",
+     "correct": false,
+     "rationale": "Il les encourage."
+    },
+    {
+     "label": "D",
+     "text": "Expliquer une initiative et montrer ses effets positifs.",
+     "correct": true,
+     "rationale": "Il donne la raison, la solution et le résultat."
+    }
+   ],
+   "explanation": "La réponse suit le schéma problème, solution, résultat. La phrase « personne ne se sent jugé » répond à la cause initiale (la gêne).",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co21.wav"
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "information précise",
+   "document": "H: Depuis une loi de 2016, les grandes surfaces de plus de quatre cents mètres carrés ont l'obligation de proposer leurs invendus alimentaires encore consommables à des associations, plutôt que de les jeter. Il leur est également interdit de rendre ces produits impropres à la consommation, par exemple en les arrosant d'eau de javel.",
+   "prompt": "Quelle obligation concerne les grandes surfaces ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Proposer leurs invendus encore consommables à des associations.",
+     "correct": true,
+     "rationale": "Elles « ont l'obligation de proposer leurs invendus… à des associations »."
+    },
+    {
+     "label": "B",
+     "text": "Vendre leurs invendus à moitié prix.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Fermer le dimanche.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    },
+    {
+     "label": "D",
+     "text": "Jeter les produits dont la date est proche.",
+     "correct": false,
+     "rationale": "Il faut les proposer aux associations."
+    }
+   ],
+   "explanation": "Le reportage présente une obligation et une interdiction. La question porte sur l'obligation.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co22.wav"
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "F: Tu as vu toutes ces applications qui notent les produits alimentaires ? Je scanne tout au supermarché maintenant. / H: Moi, je m'en méfie un peu. Une note sur cent, c'est pratique, mais ça simplifie énormément. Une huile d'olive peut être mal notée parce qu'elle est grasse, alors qu'elle est bonne pour la santé en quantité raisonnable. Je préfère lire moi-même la liste des ingrédients.",
+   "prompt": "Quelle est l'opinion de l'homme sur ces applications ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elles sont inutiles et dangereuses.",
+     "correct": false,
+     "rationale": "Il reconnaît qu'elles sont pratiques."
+    },
+    {
+     "label": "B",
+     "text": "Elles sont parfaitement fiables.",
+     "correct": false,
+     "rationale": "Il s'en méfie."
+    },
+    {
+     "label": "C",
+     "text": "Elles sont pratiques mais trop simplificatrices.",
+     "correct": true,
+     "rationale": "« c'est pratique, mais ça simplifie énormément »."
+    },
+    {
+     "label": "D",
+     "text": "Elles devraient remplacer la liste des ingrédients.",
+     "correct": false,
+     "rationale": "Il préfère lire les ingrédients."
+    }
+   ],
+   "explanation": "L'homme exprime une réserve, la justifie par un exemple concret (l'huile d'olive) et explique sa propre pratique.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co23.wav"
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "inférence",
+   "document": "F: Chers clients, notre magasin fermera exceptionnellement à dix-sept heures ce soir pour inventaire. Nous vous rappelons que les produits frais à date courte sont vendus à moins cinquante pour cent au rayon « anti-gaspi », à côté des caisses, jusqu'à la fermeture.",
+   "prompt": "Que peut-on comprendre de cette annonce ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le rayon « anti-gaspi » est à l'entrée du magasin.",
+     "correct": false,
+     "rationale": "Il est à côté des caisses."
+    },
+    {
+     "label": "B",
+     "text": "Les clients ont intérêt à passer au rayon « anti-gaspi » avant dix-sept heures.",
+     "correct": true,
+     "rationale": "Les réductions durent « jusqu'à la fermeture », fixée à dix-sept heures."
+    },
+    {
+     "label": "C",
+     "text": "Le magasin sera fermé toute la journée.",
+     "correct": false,
+     "rationale": "Il ferme seulement plus tôt."
+    },
+    {
+     "label": "D",
+     "text": "Les produits frais sont gratuits ce soir.",
+     "correct": false,
+     "rationale": "Ils sont à moins cinquante pour cent."
+    }
+   ],
+   "explanation": "L'annonce ne donne pas de conseil explicite, mais en combinant l'heure de fermeture et l'offre, on comprend qu'il faut se dépêcher.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co24.wav"
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "entretien radio",
+   "skill": "compréhension globale",
+   "document": "H: Vous avez créé un café-réparation dans votre village. Pourquoi ? / F: Parce qu'on jetait des grille-pains, des lampes ou des vêtements pour une panne souvent minuscule. Une fois par mois, des bénévoles bricoleurs et couturières aident les habitants à réparer eux-mêmes leurs objets. On boit un café, on discute. On répare des objets, mais on répare aussi un peu le lien entre les gens.",
+   "prompt": "Quel est le thème de l'entretien ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une entreprise de réparation payante.",
+     "correct": false,
+     "rationale": "Ce sont des bénévoles."
+    },
+    {
+     "label": "B",
+     "text": "Un café ouvert tous les jours.",
+     "correct": false,
+     "rationale": "Il a lieu une fois par mois."
+    },
+    {
+     "label": "C",
+     "text": "Un magasin qui vend des objets neufs.",
+     "correct": false,
+     "rationale": "On y répare des objets."
+    },
+    {
+     "label": "D",
+     "text": "Un lieu de réparation qui lutte contre le gaspillage et crée du lien social.",
+     "correct": true,
+     "rationale": "« On répare des objets, mais on répare aussi un peu le lien entre les gens »."
+    }
+   ],
+   "explanation": "La dernière phrase joue sur le double sens du verbe « réparer » : elle résume les deux dimensions du projet.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-09_co25.wav"
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "règlement intérieur",
+   "skill": "information précise",
+   "document": "Conditions générales de vente – Extraits. Article 5 : Les commandes sont livrées sous cinq jours ouvrés en France métropolitaine. Article 8 : Conformément à la loi, le client dispose d'un délai de quatorze jours à compter de la réception pour se rétracter, sans avoir à se justifier. Article 9 : Les frais de retour sont à la charge du client, sauf si le produit est défectueux.",
+   "prompt": "Dans quel cas le client ne paie-t-il pas les frais de retour ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Si le produit reçu est défectueux.",
+     "correct": true,
+     "rationale": "« sauf si le produit est défectueux »."
+    },
+    {
+     "label": "B",
+     "text": "S'il habite en France métropolitaine.",
+     "correct": false,
+     "rationale": "Cela concerne la livraison."
+    },
+    {
+     "label": "C",
+     "text": "S'il justifie sa décision.",
+     "correct": false,
+     "rationale": "Il n'a pas à se justifier."
+    },
+    {
+     "label": "D",
+     "text": "S'il se rétracte dans les quatorze jours.",
+     "correct": false,
+     "rationale": "Les frais restent alors à sa charge."
+    }
+   ],
+   "explanation": "« Sauf si » introduit l'exception à la règle. Les autres articles contiennent des informations proches qui servent de distracteurs."
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "compréhension globale",
+   "document": "La consommation de viande diminue lentement en France. Les raisons sont multiples : préoccupations pour la santé, bien-être animal, impact environnemental, mais aussi hausse des prix. Ce recul ne signifie pas que les Français deviennent tous végétariens. La plupart réduisent simplement leur consommation, en privilégiant une viande de meilleure qualité, achetée moins souvent.",
+   "prompt": "Quelle évolution l'article décrit-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les Français deviennent tous végétariens.",
+     "correct": false,
+     "rationale": "L'article le dément."
+    },
+    {
+     "label": "B",
+     "text": "Les Français mangent moins de viande, mais de meilleure qualité.",
+     "correct": true,
+     "rationale": "Ils réduisent leur consommation « en privilégiant une viande de meilleure qualité »."
+    },
+    {
+     "label": "C",
+     "text": "Les prix de la viande baissent.",
+     "correct": false,
+     "rationale": "L'article évoque une « hausse des prix »."
+    },
+    {
+     "label": "D",
+     "text": "La consommation de viande augmente.",
+     "correct": false,
+     "rationale": "Elle « diminue lentement »."
+    }
+   ],
+   "explanation": "L'article présente un constat, ses causes, puis corrige une interprétation excessive (« ne signifie pas »). La dernière phrase précise la tendance réelle."
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "courrier des lecteurs",
+   "skill": "opinion",
+   "document": "Votre dossier sur les soldes m'a fait réagir. On nous présente cette période comme une occasion de faire de bonnes affaires. Mais combien d'entre nous achètent des vêtements dont ils n'ont pas besoin, simplement parce qu'ils sont à moins quarante pour cent ? Une dépense inutile, même réduite, reste une dépense inutile. Pour ma part, je fais une liste avant d'y aller, et je m'y tiens.",
+   "prompt": "Quelle est l'opinion de l'auteur de la lettre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les réductions de quarante pour cent sont trop faibles.",
+     "correct": false,
+     "rationale": "Ce n'est pas sa critique."
+    },
+    {
+     "label": "B",
+     "text": "Il ne faut jamais acheter de vêtements.",
+     "correct": false,
+     "rationale": "Il conseille seulement de faire une liste."
+    },
+    {
+     "label": "C",
+     "text": "Les soldes sont toujours une bonne affaire.",
+     "correct": false,
+     "rationale": "Il conteste cette présentation."
+    },
+    {
+     "label": "D",
+     "text": "Les soldes poussent souvent à acheter des choses inutiles.",
+     "correct": true,
+     "rationale": "« Une dépense inutile, même réduite, reste une dépense inutile »."
+    }
+   ],
+   "explanation": "L'auteur reprend un discours courant, le conteste par une question rhétorique, puis formule une maxime et donne son exemple."
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "offre d'emploi",
+   "skill": "information précise",
+   "document": "Restaurant bistronomique recherche commis de cuisine (H/F), en contrat à durée indéterminée, 39 heures par semaine. Le restaurant travaille exclusivement des produits frais et locaux. Horaires : du mardi au samedi, service du midi et du soir ; fermé le dimanche et le lundi. Débutant accepté si motivé : une formation interne est assurée. Repas pris sur place. Envoyer CV et lettre de motivation par courriel.",
+   "prompt": "Qu'est-ce qui est précisé au sujet des candidats débutants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils travailleront uniquement le soir.",
+     "correct": false,
+     "rationale": "Les horaires incluent le midi et le soir."
+    },
+    {
+     "label": "B",
+     "text": "Ils doivent avoir travaillé dans un restaurant local.",
+     "correct": false,
+     "rationale": "Ce n'est pas exigé."
+    },
+    {
+     "label": "C",
+     "text": "Ils peuvent être recrutés et seront formés sur place.",
+     "correct": true,
+     "rationale": "« Débutant accepté si motivé : une formation interne est assurée »."
+    },
+    {
+     "label": "D",
+     "text": "Ils doivent payer leur formation.",
+     "correct": false,
+     "rationale": "Elle est assurée par le restaurant."
+    }
+   ],
+   "explanation": "L'offre précise les conditions, les horaires et le profil. La condition « si motivé » accompagne l'ouverture aux débutants."
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "intention",
+   "document": "Chaque année, des millions de tonnes de vêtements sont fabriquées à bas prix, portées quelques fois, puis jetées. Cette mode jetable a un coût caché : pollution des rivières, conditions de travail indignes, montagnes de déchets. Nous, consommateurs, avons un pouvoir. Acheter moins, acheter d'occasion, faire réparer : ces gestes simples, multipliés par des millions, peuvent changer une industrie entière.",
+   "prompt": "Quel est le but de cet éditorial ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Expliquer comment fabriquer des vêtements.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objet."
+    },
+    {
+     "label": "B",
+     "text": "Annoncer la fermeture d'usines textiles.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Faire la promotion d'une marque de vêtements.",
+     "correct": false,
+     "rationale": "Il critique la mode jetable."
+    },
+    {
+     "label": "D",
+     "text": "Inciter les lecteurs à changer leur façon d'acheter des vêtements.",
+     "correct": true,
+     "rationale": "« Nous, consommateurs, avons un pouvoir » ; il propose des gestes simples."
+    }
+   ],
+   "explanation": "L'éditorial dénonce un problème, puis s'adresse directement aux lecteurs (« nous ») pour les mobiliser. L'intention est de faire agir."
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "courrier administratif",
+   "skill": "information précise",
+   "document": "Madame, Monsieur, suite à votre réclamation concernant votre facture d'électricité de janvier, nous avons procédé à une vérification. Une erreur de relevé de compteur a bien été constatée. Le montant trop perçu, soit 87 euros, sera déduit de votre prochaine facture. Si vous préférez un remboursement par virement, merci de nous le faire savoir dans un délai de quinze jours.",
+   "prompt": "Que se passera-t-il si le client ne répond pas ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La somme sera déduite de sa prochaine facture.",
+     "correct": true,
+     "rationale": "C'est la solution prévue par défaut."
+    },
+    {
+     "label": "B",
+     "text": "Il recevra un virement de 87 euros.",
+     "correct": false,
+     "rationale": "Il doit le demander dans les quinze jours."
+    },
+    {
+     "label": "C",
+     "text": "Il devra payer 87 euros de plus.",
+     "correct": false,
+     "rationale": "La somme lui est due."
+    },
+    {
+     "label": "D",
+     "text": "Sa réclamation sera annulée.",
+     "correct": false,
+     "rationale": "Elle a été acceptée."
+    }
+   ],
+   "explanation": "Le courrier propose une solution par défaut et une alternative à demander. Il faut comprendre ce qui arrive sans réaction du client."
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "inférence",
+   "document": "Les ventes de plats préparés n'ont jamais été aussi élevées. Dans le même temps, les ventes de livres de cuisine et les inscriptions aux cours de cuisine progressent aussi. Les sociologues y voient le signe d'un double mouvement : en semaine, on cherche la rapidité ; le week-end, on veut prendre le temps et partager.",
+   "prompt": "Que peut-on déduire de cet article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Personne n'achète de livres de cuisine.",
+     "correct": false,
+     "rationale": "Leurs ventes progressent."
+    },
+    {
+     "label": "B",
+     "text": "Les mêmes personnes peuvent avoir des pratiques alimentaires différentes selon le moment.",
+     "correct": true,
+     "rationale": "Les sociologues parlent d'un « double mouvement » selon le jour."
+    },
+    {
+     "label": "C",
+     "text": "Les plats préparés sont en déclin.",
+     "correct": false,
+     "rationale": "Leurs ventes sont au plus haut."
+    },
+    {
+     "label": "D",
+     "text": "Les Français ont arrêté de cuisiner.",
+     "correct": false,
+     "rationale": "Les cours de cuisine progressent."
+    }
+   ],
+   "explanation": "Deux tendances qui semblent contradictoires sont expliquées par une différence de contexte. Il faut comprendre que ces pratiques coexistent."
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "notice",
+   "skill": "information précise",
+   "document": "Conservation des aliments – Conseils. La date limite de consommation (« à consommer jusqu'au ») concerne les produits frais, comme la viande ou les yaourts : au-delà, ils peuvent présenter un risque pour la santé. La date de durabilité minimale (« à consommer de préférence avant ») concerne les produits secs, comme les pâtes ou les biscuits : après cette date, ils peuvent perdre du goût, mais restent consommables.",
+   "prompt": "Que se passe-t-il pour un paquet de pâtes après la date « à consommer de préférence avant » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il doit être conservé au réfrigérateur.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    },
+    {
+     "label": "B",
+     "text": "Il doit être jeté immédiatement.",
+     "correct": false,
+     "rationale": "Il reste consommable."
+    },
+    {
+     "label": "C",
+     "text": "Il peut encore être consommé, même s'il a perdu un peu de goût.",
+     "correct": true,
+     "rationale": "Ces produits « restent consommables »."
+    },
+    {
+     "label": "D",
+     "text": "Il présente un risque grave pour la santé.",
+     "correct": false,
+     "rationale": "Ce risque concerne les produits frais."
+    }
+   ],
+   "explanation": "La notice oppose deux types de dates. Comprendre cette différence permet d'éviter le gaspillage."
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "opinion",
+   "document": "On accuse souvent les consommateurs d'acheter des produits importés au lieu de soutenir l'agriculture locale. Mais comment leur reprocher de choisir le moins cher quand les fins de mois sont difficiles ? La responsabilité est d'abord politique : c'est aux pouvoirs publics de garantir des prix justes aux agriculteurs et d'aider les familles à accéder aux produits locaux, par exemple dans les cantines.",
+   "prompt": "Quelle est la position de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faut interdire les produits importés.",
+     "correct": false,
+     "rationale": "Ce n'est pas proposé."
+    },
+    {
+     "label": "B",
+     "text": "La responsabilité de soutenir l'agriculture locale revient d'abord aux pouvoirs publics.",
+     "correct": true,
+     "rationale": "« La responsabilité est d'abord politique »."
+    },
+    {
+     "label": "C",
+     "text": "Les agriculteurs gagnent trop d'argent.",
+     "correct": false,
+     "rationale": "Il demande des prix justes pour eux."
+    },
+    {
+     "label": "D",
+     "text": "Les consommateurs sont les seuls responsables.",
+     "correct": false,
+     "rationale": "Il conteste cette accusation."
+    }
+   ],
+   "explanation": "L'auteur réfute une accusation par une question rhétorique, puis déplace la responsabilité vers l'action publique."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "La location d'objets se développe : perceuses, tentes, robots de cuisine, vêtements de fête. Pourquoi acheter un appareil qu'on utilisera trois fois par an ? Des plateformes et des magasins proposent désormais de louer ces objets pour quelques euros par jour. Ce modèle économise de l'argent et des ressources, mais il suppose de changer une habitude profonde : celle de posséder.",
+   "prompt": "Quel est le sujet principal de l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La vente de perceuses à bas prix.",
+     "correct": false,
+     "rationale": "Il s'agit de location."
+    },
+    {
+     "label": "B",
+     "text": "L'obligation de louer au lieu d'acheter.",
+     "correct": false,
+     "rationale": "C'est un choix."
+    },
+    {
+     "label": "C",
+     "text": "La fermeture des magasins de bricolage.",
+     "correct": false,
+     "rationale": "Ce n'est pas évoqué."
+    },
+    {
+     "label": "D",
+     "text": "Le développement de la location d'objets et le changement d'habitude qu'elle implique.",
+     "correct": true,
+     "rationale": "L'article présente le principe, ses avantages et la difficulté de renoncer à posséder."
+    }
+   ],
+   "explanation": "La question rhétorique annonce l'argument principal. La dernière phrase nuance avec « mais » et complète le thème."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "intention",
+   "document": "Bonjour à tous, comme chaque année, l'association des parents d'élèves organise la vente de gâteaux au profit du voyage scolaire. Cette fois, nous vous demandons d'indiquer les ingrédients de vos préparations sur une petite étiquette, car plusieurs enfants souffrent d'allergies alimentaires. Merci de déposer vos gâteaux vendredi avant 8 h 30. Merci pour votre aide ! Sophie, pour l'association",
+   "prompt": "Quelle nouvelle consigne Sophie donne-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Indiquer les ingrédients des gâteaux à cause des allergies.",
+     "correct": true,
+     "rationale": "« nous vous demandons d'indiquer les ingrédients… car plusieurs enfants souffrent d'allergies »."
+    },
+    {
+     "label": "B",
+     "text": "Ne préparer que des gâteaux sans sucre.",
+     "correct": false,
+     "rationale": "Ce n'est pas demandé."
+    },
+    {
+     "label": "C",
+     "text": "Apporter les gâteaux le jeudi.",
+     "correct": false,
+     "rationale": "Le dépôt se fait vendredi."
+    },
+    {
+     "label": "D",
+     "text": "Acheter les gâteaux dans une pâtisserie.",
+     "correct": false,
+     "rationale": "Il s'agit de préparations maison."
+    }
+   ],
+   "explanation": "L'expression « cette fois » signale la nouveauté. La justification introduite par « car » aide à comprendre la consigne."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "Le Nutri-Score est un logo apposé sur les emballages alimentaires. Il classe les produits en cinq catégories, de A, vert foncé, pour les plus favorables sur le plan nutritionnel, à E, rouge, pour les moins favorables. Il permet de comparer facilement des produits d'une même famille, par exemple deux céréales de petit-déjeuner. En France, son affichage n'est pas obligatoire : il repose sur le volontariat des fabricants.",
+   "prompt": "Que dit l'article sur l'affichage du Nutri-Score en France ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il est obligatoire sur tous les produits.",
+     "correct": false,
+     "rationale": "Il n'est pas obligatoire."
+    },
+    {
+     "label": "B",
+     "text": "Il est interdit pour les produits classés E.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Il est facultatif pour les fabricants.",
+     "correct": true,
+     "rationale": "« son affichage n'est pas obligatoire : il repose sur le volontariat »."
+    },
+    {
+     "label": "D",
+     "text": "Il est réservé aux céréales.",
+     "correct": false,
+     "rationale": "Les céréales sont un exemple."
+    }
+   ],
+   "explanation": "La dernière phrase répond à la question ; les deux-points introduisent une reformulation."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "inférence",
+   "document": "Nos grands-parents faisaient leurs courses chaque jour, chez des commerçants qui les connaissaient. Nous remplissons un chariot une fois par semaine, puis, de plus en plus, nous commandons en ligne. Nous avons gagné du temps, c'est indéniable. Mais en chemin, nous avons perdu ces conversations quotidiennes qui faisaient des courses un moment de lien social.",
+   "prompt": "Que suggère l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les commerçants ne parlaient pas à leurs clients.",
+     "correct": false,
+     "rationale": "C'est le contraire."
+    },
+    {
+     "label": "B",
+     "text": "Nos grands-parents perdaient leur temps.",
+     "correct": false,
+     "rationale": "Il ne porte pas ce jugement."
+    },
+    {
+     "label": "C",
+     "text": "Il faut interdire les courses en ligne.",
+     "correct": false,
+     "rationale": "Il ne propose aucune interdiction."
+    },
+    {
+     "label": "D",
+     "text": "L'évolution des courses a eu un coût humain.",
+     "correct": true,
+     "rationale": "« nous avons perdu ces conversations quotidiennes »."
+    }
+   ],
+   "explanation": "L'auteur concède un gain (« c'est indéniable ») puis souligne une perte. Sans juger explicitement, il invite à mesurer ce qui a disparu."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "Atelier « Cuisiner sans gaspiller » – Centre social des Tilleuls. Apprenez à préparer des repas savoureux avec les restes et les légumes un peu abîmés. Trois séances le jeudi de 14 h à 16 h. Gratuit pour les adhérents du centre ; 5 euros la séance pour les autres. Les participants repartent avec les plats préparés. Apportez un récipient.",
+   "prompt": "Que doivent apporter les participants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Leur carte d'adhérent.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "Des restes de leur réfrigérateur.",
+     "correct": false,
+     "rationale": "Ce n'est pas demandé."
+    },
+    {
+     "label": "C",
+     "text": "Un récipient.",
+     "correct": true,
+     "rationale": "« Apportez un récipient »."
+    },
+    {
+     "label": "D",
+     "text": "Un tablier.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    }
+   ],
+   "explanation": "La consigne finale à l'impératif répond directement à la question. Elle s'explique par le fait que les participants repartent avec les plats."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "article d'opinion",
+   "skill": "opinion",
+   "document": "Les promotions « trois pour le prix de deux » sont présentées comme un cadeau. En réalité, elles nous poussent souvent à acheter plus que nécessaire, surtout pour les produits frais qui finissent à la poubelle. Je préférerais des prix simplement plus bas, à l'unité. Une vraie promotion, c'est celle qui nous fait économiser, pas celle qui nous fait acheter davantage.",
+   "prompt": "Que pense l'auteur de ces promotions ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elles encouragent la surconsommation et le gaspillage.",
+     "correct": true,
+     "rationale": "Elles « nous poussent souvent à acheter plus que nécessaire »."
+    },
+    {
+     "label": "B",
+     "text": "Elles concernent seulement les produits secs.",
+     "correct": false,
+     "rationale": "Il cite les produits frais."
+    },
+    {
+     "label": "C",
+     "text": "Elles sont un véritable cadeau.",
+     "correct": false,
+     "rationale": "Il conteste cette présentation."
+    },
+    {
+     "label": "D",
+     "text": "Elles devraient être plus nombreuses.",
+     "correct": false,
+     "rationale": "Il préfère des prix plus bas à l'unité."
+    }
+   ],
+   "explanation": "L'auteur oppose l'apparence (« présentées comme un cadeau ») et la réalité (« en réalité »). Sa définition finale résume son opinion."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "rapport",
+   "skill": "compréhension globale",
+   "document": "Selon une étude sur les habitudes alimentaires, les jeunes adultes déjeunent de plus en plus devant un écran et consacrent moins de vingt minutes à leur repas. Les auteurs observent que ces repas pris rapidement sont souvent moins équilibrés et suivis de grignotages dans l'après-midi. Ils recommandent aux entreprises et aux universités d'aménager des espaces conviviaux pour encourager de vraies pauses.",
+   "prompt": "Quelle est la recommandation principale du rapport ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Supprimer les pauses déjeuner.",
+     "correct": false,
+     "rationale": "Il veut au contraire les encourager."
+    },
+    {
+     "label": "B",
+     "text": "Créer des lieux agréables pour favoriser de vraies pauses repas.",
+     "correct": true,
+     "rationale": "Il recommande « d'aménager des espaces conviviaux »."
+    },
+    {
+     "label": "C",
+     "text": "Interdire les écrans dans les restaurants.",
+     "correct": false,
+     "rationale": "Ce n'est pas proposé."
+    },
+    {
+     "label": "D",
+     "text": "Allonger la journée de travail.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "Le rapport présente un constat, ses conséquences et une recommandation. La dernière phrase répond à la question."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "lettre de réclamation",
+   "skill": "intention",
+   "document": "Madame, Monsieur, le 4 juin, j'ai commandé sur votre site un service de vaisselle de douze pièces. Le colis m'a été livré avec quatre assiettes cassées, ce que j'ai signalé au livreur et noté sur le bon de livraison. Je vous joins les photos. Je vous demande soit le remplacement des pièces cassées, soit le remboursement partiel correspondant, dans un délai de quinze jours.",
+   "prompt": "Quel est l'objectif de cette lettre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Se plaindre du retard de livraison.",
+     "correct": false,
+     "rationale": "Le problème est la casse."
+    },
+    {
+     "label": "B",
+     "text": "Obtenir une solution pour des articles abîmés à la livraison.",
+     "correct": true,
+     "rationale": "Elle demande un remplacement ou un remboursement partiel."
+    },
+    {
+     "label": "C",
+     "text": "Commander un deuxième service.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objet."
+    },
+    {
+     "label": "D",
+     "text": "Annuler toute la commande.",
+     "correct": false,
+     "rationale": "Elle demande seulement une solution pour les pièces cassées."
+    }
+   ],
+   "explanation": "La lettre expose les faits, fournit des preuves (bon de livraison, photos) et propose deux solutions avec « soit… soit »."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "La loi encadre désormais l'utilisation de certains emballages. La vaisselle jetable en plastique, les pailles et les touillettes sont interdites. Dans la restauration rapide, les repas servis sur place doivent l'être dans de la vaisselle réutilisable. Les clients qui emportent leur repas peuvent également venir avec leur propre contenant, que le commerçant ne peut pas refuser s'il est propre et adapté.",
+   "prompt": "Que peut faire un client qui emporte son repas ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Apporter son propre contenant, s'il est propre et adapté.",
+     "correct": true,
+     "rationale": "Le commerçant « ne peut pas refuser s'il est propre et adapté »."
+    },
+    {
+     "label": "B",
+     "text": "Exiger de la vaisselle en plastique.",
+     "correct": false,
+     "rationale": "Elle est interdite."
+    },
+    {
+     "label": "C",
+     "text": "Obtenir une réduction obligatoire.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Manger sur place avec des couverts jetables.",
+     "correct": false,
+     "rationale": "La vaisselle doit être réutilisable sur place."
+    }
+   ],
+   "explanation": "L'article énumère plusieurs règles. La dernière phrase concerne les repas à emporter et contient une condition."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "inférence",
+   "document": "Mon fils de huit ans m'a demandé hier d'où venaient les frites. Je lui ai répondu : des pommes de terre. Il m'a regardé, incrédule. Pour lui, les frites venaient d'un sachet du congélateur, comme le poisson venait en rectangles panés. Ce week-end, nous irons ramasser des pommes de terre chez un agriculteur. Il est temps qu'il découvre ce qu'il y a avant le sachet.",
+   "prompt": "Que comprend-on de cette chronique ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Son fils n'aime pas les frites.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "B",
+     "text": "Les frites surgelées sont interdites.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "L'auteur veut reconnecter son fils à l'origine réelle des aliments.",
+     "correct": true,
+     "rationale": "« Il est temps qu'il découvre ce qu'il y a avant le sachet »."
+    },
+    {
+     "label": "D",
+     "text": "L'auteur ne sait pas cuisiner.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    }
+   ],
+   "explanation": "L'anecdote humoristique révèle une méconnaissance de l'enfant. La décision finale montre l'intention éducative de l'auteur."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "guide pratique",
+   "skill": "information précise",
+   "document": "Réduire ses déchets en cuisine. Planifiez vos menus de la semaine et faites une liste de courses. Rangez votre réfrigérateur en plaçant devant les produits qui doivent être consommés en premier. Congelez le pain ou les restes que vous ne mangerez pas dans les deux jours. Enfin, compostez les épluchures : votre commune distribue peut-être des composteurs gratuitement.",
+   "prompt": "Que conseille le guide pour les restes qui ne seront pas mangés rapidement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les placer au fond du réfrigérateur.",
+     "correct": false,
+     "rationale": "Il faut placer devant ce qui doit être mangé en premier."
+    },
+    {
+     "label": "B",
+     "text": "Les composter.",
+     "correct": false,
+     "rationale": "Le compost concerne les épluchures."
+    },
+    {
+     "label": "C",
+     "text": "Les donner à la commune.",
+     "correct": false,
+     "rationale": "La commune distribue des composteurs."
+    },
+    {
+     "label": "D",
+     "text": "Les congeler.",
+     "correct": true,
+     "rationale": "« Congelez le pain ou les restes que vous ne mangerez pas dans les deux jours »."
+    }
+   ],
+   "explanation": "Le guide énumère des conseils à l'impératif. Il faut associer chaque conseil au type de déchet concerné."
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "opinion",
+   "document": "Les livraisons de repas à domicile ont explosé. Pratique, certes. Mais derrière l'écran, il y a des livreurs qui pédalent sous la pluie pour une rémunération souvent faible, sans réelle protection sociale. Nous ne pouvons pas nous réjouir d'un service si son confort repose sur la précarité de ceux qui le rendent. Il est urgent de mieux protéger ces travailleurs.",
+   "prompt": "Quelle est la position de l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faut interdire les livraisons à domicile.",
+     "correct": false,
+     "rationale": "Il demande une meilleure protection."
+    },
+    {
+     "label": "B",
+     "text": "Le confort des clients ne doit pas reposer sur la précarité des livreurs.",
+     "correct": true,
+     "rationale": "« Nous ne pouvons pas nous réjouir d'un service si son confort repose sur la précarité »."
+    },
+    {
+     "label": "C",
+     "text": "Les livraisons ne sont pas pratiques.",
+     "correct": false,
+     "rationale": "Il dit « pratique, certes »."
+    },
+    {
+     "label": "D",
+     "text": "Les livreurs sont bien rémunérés.",
+     "correct": false,
+     "rationale": "Leur rémunération est « souvent faible »."
+    }
+   ],
+   "explanation": "L'éditorialiste concède un avantage (« certes ») puis développe une critique sociale. Sa conclusion est un appel à agir."
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "Les jardins partagés connaissent un succès croissant dans les villes. Sur des terrains prêtés par les mairies, des habitants cultivent ensemble légumes et fleurs. Au-delà des récoltes, souvent modestes, ces jardins créent des liens entre voisins de générations et d'origines différentes. Certains accueillent même des classes pour sensibiliser les enfants à la nature et à l'alimentation.",
+   "prompt": "Quel est le sujet de l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La vente de terrains par les mairies.",
+     "correct": false,
+     "rationale": "Les terrains sont prêtés."
+    },
+    {
+     "label": "B",
+     "text": "La production agricole industrielle en ville.",
+     "correct": false,
+     "rationale": "Les récoltes sont « souvent modestes »."
+    },
+    {
+     "label": "C",
+     "text": "Les difficultés des agriculteurs.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    },
+    {
+     "label": "D",
+     "text": "Les jardins partagés et leur rôle social et éducatif.",
+     "correct": true,
+     "rationale": "« Au-delà des récoltes… ces jardins créent des liens » et accueillent des classes."
+    }
+   ],
+   "explanation": "L'expression « au-delà des récoltes » montre que l'intérêt principal est ailleurs : dans le lien social et l'éducation."
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "règlement",
+   "skill": "inférence",
+   "document": "Programme de fidélité – Conditions. Chaque euro dépensé rapporte un point. À partir de cent points, le client reçoit un bon de réduction de cinq euros, valable un mois. Les points expirent s'ils ne sont pas utilisés dans les douze mois. Les achats de livres et de cartes cadeaux ne donnent pas droit à des points.",
+   "prompt": "Que peut-on déduire de ce règlement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un client qui achète pour deux cents euros de livres n'obtient aucun bon.",
+     "correct": true,
+     "rationale": "Les livres « ne donnent pas droit à des points »."
+    },
+    {
+     "label": "B",
+     "text": "Chaque achat donne droit à cent points.",
+     "correct": false,
+     "rationale": "Un euro rapporte un point."
+    },
+    {
+     "label": "C",
+     "text": "Les points sont valables sans limite de temps.",
+     "correct": false,
+     "rationale": "Ils expirent après douze mois."
+    },
+    {
+     "label": "D",
+     "text": "Un bon de réduction peut être utilisé pendant un an.",
+     "correct": false,
+     "rationale": "Il est valable un mois."
+    }
+   ],
+   "explanation": "Le règlement ne mentionne pas ce cas précis, mais l'exclusion des livres permet de le déduire. C'est une inférence par application d'une règle."
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "intention",
+   "document": "Je suis boulanger depuis vingt-cinq ans, et je voudrais dire à mes clients une chose simple : le bon pain a un prix. La farine, l'énergie et le temps de fermentation coûtent cher. Un pain à quelques centimes, fabriqué en quelques minutes avec des additifs, n'a ni le même goût ni la même valeur nutritive. En achetant chez un artisan, vous ne payez pas seulement du pain, vous faites vivre un savoir-faire.",
+   "prompt": "Que cherche à faire le boulanger ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Vendre des additifs.",
+     "correct": false,
+     "rationale": "Il les critique."
+    },
+    {
+     "label": "B",
+     "text": "Annoncer une baisse de ses prix.",
+     "correct": false,
+     "rationale": "Il justifie au contraire des prix plus élevés."
+    },
+    {
+     "label": "C",
+     "text": "Faire comprendre la valeur du pain artisanal et justifier son prix.",
+     "correct": true,
+     "rationale": "« le bon pain a un prix » et « vous faites vivre un savoir-faire »."
+    },
+    {
+     "label": "D",
+     "text": "Critiquer ses clients.",
+     "correct": false,
+     "rationale": "Il s'adresse à eux pour les convaincre."
+    }
+   ],
+   "explanation": "Le boulanger explique les coûts, compare avec le pain industriel et termine par un argument sur le savoir-faire. L'intention est de convaincre."
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "compréhension globale",
+   "document": "Manger n'est jamais un acte purement biologique. À travers nos repas, nous exprimons une culture, une histoire familiale, parfois des convictions. Le couscous du dimanche, la galette des rois en janvier ou le repas de fête partagé sont des moments qui structurent nos vies. Réduire l'alimentation à des calories ou à des nutriments, c'est oublier sa dimension profondément sociale.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'alimentation a une dimension culturelle et sociale essentielle.",
+     "correct": true,
+     "rationale": "« c'est oublier sa dimension profondément sociale »."
+    },
+    {
+     "label": "B",
+     "text": "Il faut manger du couscous chaque dimanche.",
+     "correct": false,
+     "rationale": "C'est un exemple."
+    },
+    {
+     "label": "C",
+     "text": "Manger est seulement une question de calories.",
+     "correct": false,
+     "rationale": "Il réfute cette idée."
+    },
+    {
+     "label": "D",
+     "text": "Les repas de fête sont mauvais pour la santé.",
+     "correct": false,
+     "rationale": "Il les présente positivement."
+    }
+   ],
+   "explanation": "L'essai commence par une négation qui annonce la thèse, l'illustre par des exemples et conclut en réfutant la position inverse."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "task_type": "répondre à un message",
+   "instructions": "Votre amie Clara vous écrit : « Je voudrais manger plus sainement, mais je n'ai pas le temps de cuisiner le soir. Tu as des idées ? » Répondez-lui en lui donnant deux conseils (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Coucou Clara, je te comprends ! D'abord, cuisine en grande quantité le dimanche : soupes, légumes rôtis ou plats que tu congèleras en portions. Ensuite, garde toujours des œufs et des légumes surgelés, qui permettent de préparer une omelette en dix minutes. Tu verras, c'est plus simple qu'il n'y paraît. Bisous, Léa",
+   "tips": "Proposez des conseils précis et réalistes plutôt que des généralités comme « mange équilibré ».",
+   "expected_points": [
+    "réagir au message",
+    "donner un premier conseil",
+    "donner un second conseil",
+    "formule finale"
+   ],
+   "model_commentary": "Le message est amical, précis et organisé. Les conseils sont concrets et réalisables, avec une relative et une comparaison (« plus simple qu'il n'y paraît »)."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "task_type": "raconter une expérience",
+   "instructions": "Racontez sur un blog un achat que vous avez regretté ou, au contraire, un achat dont vous êtes très satisfait : ce que vous avez acheté, dans quelles circonstances et ce que vous en avez appris (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "L'an dernier, séduit par une publicité, j'ai acheté un robot de cuisine très coûteux qui promettait de tout faire à ma place. Les premières semaines, je l'utilisais tous les jours. Puis je me suis rendu compte que le nettoyer prenait plus de temps que de cuisiner avec une simple casserole. Aujourd'hui, il prend la poussière dans un placard. Cette expérience m'a appris à attendre quelques jours avant tout achat important, afin de vérifier que j'en ai vraiment besoin.",
+   "tips": "Une touche d'humour ou d'autodérision rend votre récit plus personnel et plus agréable à lire.",
+   "expected_points": [
+    "présenter l'achat",
+    "décrire les circonstances",
+    "raconter l'évolution",
+    "tirer une leçon"
+   ],
+   "model_commentary": "Le récit est vivant, avec une progression claire et une touche d'humour (« il prend la poussière »). Les temps du passé et la conclusion réfléchie correspondent au niveau B2."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "donner son opinion à partir de deux documents",
+   "instructions": "Document 1 : « Les cantines scolaires devraient proposer un repas végétarien chaque jour pour préserver la planète. » Document 2 : « Les enfants ont besoin de viande pour grandir, et les parents doivent garder le choix. » Présentez ces deux opinions, puis donnez votre avis argumenté (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Le premier document défend un menu végétarien quotidien dans les cantines pour des raisons écologiques, alors que le second rappelle l'importance de la viande pour les enfants et la liberté des parents. À mon avis, une solution intermédiaire serait préférable. On pourrait proposer chaque jour une option végétarienne équilibrée, à côté d'un plat avec viande ou poisson. Ainsi, les familles choisiraient librement, tandis que les enfants découvriraient d'autres sources de protéines, comme les lentilles.",
+   "tips": "Donnez un exemple précis (ici, les lentilles) pour rendre votre proposition concrète et crédible.",
+   "expected_points": [
+    "résumer le document 1",
+    "résumer le document 2",
+    "prendre position",
+    "justifier",
+    "proposer une solution"
+   ],
+   "model_commentary": "La synthèse est fidèle et la proposition concilie les deux points de vue. Le conditionnel et les connecteurs (« alors que », « ainsi », « tandis que ») structurent bien l'argumentation."
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous interroge sur vos habitudes de consommation et d'alimentation : où vous faites vos courses, ce que vous aimez cuisiner, les plats de votre pays et votre attention au gaspillage.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Pouvez-vous vous présenter ?",
+    "Où faites-vous vos courses ?",
+    "Aimez-vous cuisiner ?",
+    "Quel plat de votre pays aimeriez-vous faire découvrir ?",
+    "Faites-vous attention au gaspillage ?"
+   ],
+   "useful_phrases": [
+    "Je fais mes courses…",
+    "Ce que j'aime préparer, c'est…",
+    "J'essaie de…"
+   ],
+   "model_answer": "Je m'appelle Fatou, j'ai vingt-neuf ans et je suis aide-soignante. Je fais mes courses au supermarché pendant la semaine, mais le samedi, je vais au marché, où les légumes sont plus frais. Ce que j'aime préparer, c'est le thieboudienne, un plat sénégalais à base de riz et de poisson, que ma mère m'a appris. J'aimerais le faire découvrir à mes collègues. Contre le gaspillage, j'essaie de faire une liste et je cuisine les restes le lendemain.",
+   "model_commentary": "La candidate répond de façon complète, avec des détails culturels, des relatives et une mise en relief. Ses réponses sont naturelles et bien enchaînées.",
+   "tips": "Présenter un plat de votre pays est une excellente occasion de montrer votre vocabulaire : expliquez brièvement ses ingrédients."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Retourner un produit défectueux",
+   "examiner_role": "Vendeur",
+   "scenario": "Il y a trois semaines, vous avez acheté un aspirateur qui ne fonctionne déjà plus. Vous retournez au magasin avec votre ticket. Le vendeur (l'examinateur) vous propose seulement de l'envoyer en réparation pendant un mois. Vous souhaitez un échange immédiat.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Nous devons d'abord l'envoyer au fabricant.",
+    "Vous l'avez peut-être mal utilisé.",
+    "Un échange n'est pas possible.",
+    "Que voulez-vous exactement ?"
+   ],
+   "useful_phrases": [
+    "Je souhaiterais…",
+    "Je tiens à préciser que…",
+    "Ne serait-il pas possible de… ?"
+   ],
+   "model_answer": "Bonjour, j'ai acheté cet aspirateur ici il y a trois semaines, voici le ticket. Il ne s'allume plus. Je tiens à préciser que je l'ai utilisé normalement, en suivant la notice. Un mois sans aspirateur, avec deux enfants, ce n'est vraiment pas possible. Je sais que la garantie légale permet de demander un remplacement. Ne serait-il pas possible de l'échanger aujourd'hui contre le même modèle ? Sinon, pourriez-vous au moins me prêter un appareil pendant la réparation ?",
+   "model_commentary": "Le candidat présente les faits, répond à l'accusation, invoque ses droits et propose une solution de repli. Il reste poli et ferme.",
+   "tips": "Préparez une solution de repli (prêt d'un appareil) : cela montre votre esprit de compromis tout en défendant vos intérêts."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il taxer davantage les produits trop sucrés ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Certains pays ont instauré une taxe sur les boissons et les aliments trop sucrés pour lutter contre l'obésité. D'autres jugent cette mesure injuste ou inefficace. Quelle est votre opinion ? Défendez-la.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Cette taxe pénalise les familles modestes.",
+    "Chacun est libre de manger ce qu'il veut.",
+    "Les industriels vont simplement augmenter leurs prix.",
+    "Que proposez-vous d'autre ?"
+   ],
+   "useful_phrases": [
+    "Je suis plutôt favorable à…",
+    "Il faut reconnaître que…",
+    "À condition que…"
+   ],
+   "model_answer": "Je suis plutôt favorable à cette taxe, à condition que l'argent serve à la prévention. Il faut reconnaître qu'elle touche davantage les familles modestes, qui consomment plus de sodas. Mais justement, ce sont aussi elles qui souffrent le plus des maladies liées au sucre. Dans certains pays, les fabricants ont réduit la quantité de sucre pour éviter la taxe, ce qui profite à tous. Cela dit, une taxe ne suffit pas : il faudrait aussi rendre les fruits moins chers.",
+   "model_commentary": "Le candidat prend position sous condition, reconnaît une objection, la retourne en argument et cite un effet observé. Il nuance sa conclusion par une proposition complémentaire.",
+   "tips": "Transformer une objection en argument (« mais justement… ») est une technique très efficace à l'oral."
+  }
+ ],
+ "series": "B2"
+}

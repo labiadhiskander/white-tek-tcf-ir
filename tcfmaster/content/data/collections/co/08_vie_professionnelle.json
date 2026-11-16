@@ -1,0 +1,1315 @@
+{
+ "slug": "co-vie-professionnelle",
+ "section": "CO",
+ "title": "Vie professionnelle",
+ "description": "Réunions, messages professionnels, entretiens et débats sur l'organisation du travail.",
+ "order": 8,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CO-PRO-01",
+   "level": "B2",
+   "doc_type": "réunion professionnelle",
+   "questions": [
+    {
+     "prompt": "Pourquoi la responsable propose-t-elle une nouvelle organisation ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Parce que des clients ont porté plainte.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que l'équipe va s'agrandir.",
+       "correct": false,
+       "rationale": "L'équipe est au contraire en sous-effectif l'été.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que la direction l'exige.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que le temps de réponse aux clients s'est fortement allongé.",
+       "correct": true,
+       "rationale": "« Les délais de réponse aux clients ont doublé en un an. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le constat initial justifie la proposition, introduite par « donc »."
+    },
+    {
+     "prompt": "Quelle objection le collègue soulève-t-il ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Le refus des clients de changer d'interlocuteur.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "L'absence de formation des conseillers.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "La surcharge de travail pendant les absences, notamment en été.",
+       "correct": true,
+       "rationale": "« Ça risque de doubler la charge de travail pendant les vacances d'été, où on est déjà en sous-effectif. »",
+       "label": "C"
+      },
+      {
+       "text": "Le coût d'un nouveau logiciel.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le collègue soulève deux objections successives : les absences, puis la surcharge du binôme. La seconde précise la première."
+    },
+    {
+     "prompt": "Comment la responsable répond-elle à cette objection ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Elle reconnaît le risque et propose une période d'essai réversible.",
+       "correct": true,
+       "rationale": "« C'est un vrai risque… Je propose qu'on teste… pendant trois mois… Si ça ne fonctionne pas, on reviendra en arrière. »",
+       "label": "A"
+      },
+      {
+       "text": "Elle abandonne immédiatement le projet.",
+       "correct": false,
+       "rationale": "Elle propose de le tester.",
+       "label": "B"
+      },
+      {
+       "text": "Elle promet de recruter de nouveaux conseillers.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Elle refuse de discuter et impose le projet.",
+       "correct": false,
+       "rationale": "Elle propose de faire le point ensemble.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La réponse combine reconnaissance (« je ne vais pas le nier ») et proposition pragmatique (test, évaluation, retour possible)."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Réorganiser le service client",
+   "context": "Une responsable présente un projet à son équipe.",
+   "document": "F: Comme vous le savez, les délais de réponse aux clients ont doublé en un an. Je vous propose donc une nouvelle organisation : chaque conseiller sera désormais responsable d'un portefeuille de clients, au lieu de traiter les demandes dans l'ordre d'arrivée. / H: Je comprends l'idée, mais qu'est-ce qui se passe quand un collègue est en congé ? Ses clients vont attendre deux semaines ? / F: Bonne question. Chaque conseiller aura un binôme qui connaîtra ses dossiers et prendra le relais. / H: Ça risque de doubler la charge de travail pendant les vacances d'été, où on est déjà en sous-effectif. / F: C'est un vrai risque, je ne vais pas le nier. Je propose qu'on teste le système pendant trois mois, hors période estivale, et qu'on fasse le point ensemble avant de le généraliser. Si ça ne fonctionne pas, on reviendra en arrière.",
+   "vocabulary": [
+    {
+     "terme": "un portefeuille de clients",
+     "definition": "l'ensemble des clients suivis par une personne",
+     "exemple": "Chaque commercial gère un portefeuille de clients."
+    },
+    {
+     "terme": "un binôme",
+     "definition": "un groupe de deux personnes qui travaillent ensemble",
+     "exemple": "Les élèves travaillent en binôme."
+    },
+    {
+     "terme": "le sous-effectif",
+     "definition": "le manque de personnel",
+     "exemple": "L'hôpital est en sous-effectif."
+    },
+    {
+     "terme": "estival",
+     "definition": "de l'été",
+     "exemple": "La période estivale est chargée."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "prendre le relais",
+     "sens": "remplacer quelqu'un pour continuer une tâche",
+     "exemple": "Pendant mon absence, Paul prendra le relais."
+    },
+    {
+     "expression": "faire le point",
+     "sens": "faire un bilan de la situation",
+     "exemple": "Faisons le point vendredi."
+    },
+    {
+     "expression": "revenir en arrière",
+     "sens": "annuler un changement",
+     "exemple": "La décision est prise, on ne reviendra pas en arrière."
+    }
+   ]
+  },
+  {
+   "code": "CO-PRO-02",
+   "level": "B2",
+   "doc_type": "message professionnel",
+   "questions": [
+    {
+     "prompt": "Quel est le problème signalé par le fournisseur ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "L'imprimerie est fermée.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Le papier choisi n'est pas disponible pour le moment.",
+       "correct": true,
+       "rationale": "« Notre fournisseur est en rupture de stock jusqu'à la fin du mois. »",
+       "label": "B"
+      },
+      {
+       "text": "Le prix des catalogues a augmenté.",
+       "correct": false,
+       "rationale": "Il n'y a pas de supplément.",
+       "label": "C"
+      },
+      {
+       "text": "La commande a été perdue.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Être en rupture de stock » signifie ne plus avoir de marchandise disponible."
+    },
+    {
+     "prompt": "Quelles options propose-t-il ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Rembourser la commande ou l'annuler.",
+       "correct": false,
+       "rationale": "Ce n'est pas proposé.",
+       "label": "A"
+      },
+      {
+       "text": "Livrer une partie seulement des catalogues.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Livrer à temps avec un autre papier ou attendre le papier prévu plus longtemps.",
+       "correct": true,
+       "rationale": "« Soit nous maintenons la date… avec un papier classique… Soit nous attendons le papier recyclé… trois semaines. »",
+       "label": "C"
+      },
+      {
+       "text": "Changer de format de catalogue.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « Soit… soit… » présente une alternative. Il faut retenir les deux conditions (papier et délai)."
+    },
+    {
+     "prompt": "Pourquoi le fournisseur insiste-t-il sur la date de réponse ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Parce qu'il part en vacances le lendemain.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Pour que les catalogues soient prêts avant le salon de la cliente.",
+       "correct": true,
+       "rationale": "« Je sais que vous avez un salon professionnel le quinze, donc je me permets d'insister. »",
+       "label": "B"
+      },
+      {
+       "text": "Parce que la cliente est souvent en retard.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que le prix va augmenter.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le connecteur « donc » relie la contrainte de la cliente (le salon) à l'urgence de sa demande."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "title": "Un message vocal d'un fournisseur",
+   "document": "H: Bonjour Madame Leroy, c'est Julien Mercier, de la société Imprimex. Je vous appelle au sujet de votre commande de catalogues, prévue pour jeudi. Malheureusement, nous avons un souci avec le papier recyclé que vous aviez choisi : notre fournisseur est en rupture de stock jusqu'à la fin du mois. Je vous propose deux solutions. Soit nous maintenons la date de livraison avec un papier classique, de qualité équivalente, sans supplément de prix. Soit nous attendons le papier recyclé, ce qui repousserait la livraison d'environ trois semaines. Je sais que vous avez un salon professionnel le quinze, donc je me permets d'insister sur le fait qu'il me faut votre réponse avant demain midi pour lancer l'impression. Vous pouvez me joindre directement au zéro six, vingt-deux, quarante et un, dix-huit, cinquante-trois. Merci et bonne journée.",
+   "vocabulary": [
+    {
+     "terme": "un fournisseur",
+     "definition": "une entreprise qui vend des produits à une autre",
+     "exemple": "Nous avons changé de fournisseur."
+    },
+    {
+     "terme": "la rupture de stock",
+     "definition": "l'absence de marchandise disponible",
+     "exemple": "Ce modèle est en rupture de stock."
+    },
+    {
+     "terme": "un supplément",
+     "definition": "une somme à payer en plus",
+     "exemple": "Le petit-déjeuner est en supplément."
+    },
+    {
+     "terme": "un salon professionnel",
+     "definition": "une exposition réservée aux professionnels d'un secteur",
+     "exemple": "Le salon de l'agriculture a lieu en février."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "au sujet de",
+     "sens": "à propos de",
+     "exemple": "Je vous appelle au sujet de votre facture."
+    },
+    {
+     "expression": "je me permets d'insister",
+     "sens": "je souligne avec politesse l'importance",
+     "exemple": "Je me permets d'insister sur ce point."
+    },
+    {
+     "expression": "soit… soit…",
+     "sens": "ou bien… ou bien…",
+     "exemple": "Soit tu viens, soit tu restes."
+    }
+   ]
+  },
+  {
+   "code": "CO-PRO-03",
+   "level": "B2",
+   "doc_type": "entretien d'embauche",
+   "questions": [
+    {
+     "prompt": "Selon le candidat, d'où venait le problème du projet ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "D'une erreur technique de l'équipe.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'explication donnée.",
+       "label": "A"
+      },
+      {
+       "text": "D'un manque de budget.",
+       "correct": false,
+       "rationale": "Le budget n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "D'un client trop exigeant.",
+       "correct": false,
+       "rationale": "Il ne rejette pas la faute sur le client.",
+       "label": "C"
+      },
+      {
+       "text": "D'un calendrier trop ambitieux accepté dès le départ.",
+       "correct": true,
+       "rationale": "« L'erreur venait du départ : nous avions accepté un calendrier irréaliste pour remporter le marché. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Avec le recul » introduit une analyse a posteriori. Le candidat reconnaît une erreur de son côté."
+    },
+    {
+     "prompt": "Quelle a été sa principale action ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Dire la vérité au client et proposer un nouveau plan réaliste.",
+       "correct": true,
+       "rationale": "« J'ai d'abord été transparent avec le client… je lui ai présenté un nouveau calendrier réaliste. »",
+       "label": "A"
+      },
+      {
+       "text": "Abandonner le projet.",
+       "correct": false,
+       "rationale": "Le contrat a été conservé.",
+       "label": "B"
+      },
+      {
+       "text": "Remplacer l'équipe de développement.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Cacher le retard au client.",
+       "correct": false,
+       "rationale": "C'est ce qu'il conseille de ne pas faire.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Même si c'était inconfortable » souligne le courage de la démarche, valorisé dans un entretien."
+    },
+    {
+     "prompt": "Quelle leçon le candidat a-t-il tirée de cette expérience ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Il faut toujours accepter les délais du client.",
+       "correct": false,
+       "rationale": "C'est l'erreur qu'il a commise.",
+       "label": "A"
+      },
+      {
+       "text": "Il faut livrer toutes les fonctionnalités en même temps.",
+       "correct": false,
+       "rationale": "Il a proposé une livraison par étapes.",
+       "label": "B"
+      },
+      {
+       "text": "Il faut éviter les clients du secteur bancaire.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Il faut annoncer rapidement les difficultés plutôt que de les dissimuler.",
+       "correct": true,
+       "rationale": "« Il vaut mieux annoncer une mauvaise nouvelle tôt que de la cacher en espérant rattraper le retard. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Ce que j'en ai retenu, c'est que… » introduit la leçon. Dans un entretien, cette structure situation-action-résultat-leçon est très appréciée."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Un entretien d'embauche",
+   "context": "Une recruteuse interroge un candidat à un poste de chef de projet.",
+   "document": "F: Dans votre précédent poste, vous avez dû gérer un projet qui a mal tourné. Pouvez-vous m'en parler ? / H: Oui. Il s'agissait du lancement d'une application pour un client du secteur bancaire. Nous avions trois mois de retard et le client menaçait de rompre le contrat. Avec le recul, je pense que l'erreur venait du départ : nous avions accepté un calendrier irréaliste pour remporter le marché. / F: Qu'avez-vous fait ? / H: J'ai d'abord été transparent avec le client, même si c'était inconfortable. Je lui ai présenté un nouveau calendrier réaliste et j'ai proposé de livrer les fonctionnalités par étapes. Le client a accepté, et nous avons finalement conservé le contrat. Ce que j'en ai retenu, c'est qu'il vaut mieux annoncer une mauvaise nouvelle tôt que de la cacher en espérant rattraper le retard.",
+   "vocabulary": [
+    {
+     "terme": "mal tourner",
+     "definition": "évoluer de façon négative",
+     "exemple": "La discussion a mal tourné."
+    },
+    {
+     "terme": "remporter un marché",
+     "definition": "obtenir un contrat face à des concurrents",
+     "exemple": "L'entreprise a remporté un marché important."
+    },
+    {
+     "terme": "transparent",
+     "definition": "qui ne cache rien",
+     "exemple": "Le directeur a été transparent sur les chiffres."
+    },
+    {
+     "terme": "une fonctionnalité",
+     "definition": "une fonction proposée par un logiciel",
+     "exemple": "Cette application a de nombreuses fonctionnalités."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "avec le recul",
+     "sens": "en y repensant plus tard",
+     "exemple": "Avec le recul, j'aurais agi autrement."
+    },
+    {
+     "expression": "il vaut mieux… que de…",
+     "sens": "il est préférable de… plutôt que de…",
+     "exemple": "Il vaut mieux prévenir que guérir."
+    },
+    {
+     "expression": "rompre un contrat",
+     "sens": "mettre fin à un contrat",
+     "exemple": "Le client a rompu le contrat."
+    }
+   ]
+  },
+  {
+   "code": "CO-PRO-04",
+   "level": "B2",
+   "doc_type": "débat radiophonique",
+   "questions": [
+    {
+     "prompt": "Que demande la syndicaliste ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Que les courriels soient interdits.",
+       "correct": false,
+       "rationale": "Ce n'est pas sa demande.",
+       "label": "A"
+      },
+      {
+       "text": "Que les clients internationaux soient abandonnés.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Qu'un salarié ne subisse aucune conséquence s'il ne répond pas en dehors de ses heures.",
+       "correct": true,
+       "rationale": "« Qu'un salarié ne soit pas pénalisé s'il ne répond pas à un courriel envoyé à vingt-trois heures. »",
+       "label": "C"
+      },
+      {
+       "text": "Que l'entreprise ferme à dix-huit heures.",
+       "correct": false,
+       "rationale": "« Personne ne demande de tout couper. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Personne ne demande de… Ce que nous demandons, c'est… » corrige une interprétation exagérée de sa position."
+    },
+    {
+     "prompt": "Qu'est-ce qui, selon elle, pousse les salariés à répondre tard ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les exigences des collègues.",
+       "correct": false,
+       "rationale": "Elle vise la direction.",
+       "label": "A"
+      },
+      {
+       "text": "L'exemple donné par la direction, qui crée une pression implicite.",
+       "correct": true,
+       "rationale": "« Quand le directeur lui-même envoie des messages le dimanche, le message implicite est clair. »",
+       "label": "B"
+      },
+      {
+       "text": "Le désir de gagner plus d'argent.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Une obligation inscrite dans le contrat.",
+       "correct": false,
+       "rationale": "« Officiellement, non. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« La culture d'entreprise compte plus que le règlement » oppose les règles écrites et les comportements réels."
+    },
+    {
+     "prompt": "Sur quoi le chef d'entreprise se montre-t-il d'accord ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Sur l'importance de l'exemple donné par les dirigeants.",
+       "correct": true,
+       "rationale": "« Je vous l'accorde, l'exemple doit venir d'en haut. »",
+       "label": "A"
+      },
+      {
+       "text": "Sur la nécessité de fermer l'entreprise le soir.",
+       "correct": false,
+       "rationale": "Il juge cela impossible.",
+       "label": "B"
+      },
+      {
+       "text": "Sur l'interdiction des messages le dimanche.",
+       "correct": false,
+       "rationale": "Ce n'est pas ce qu'il concède.",
+       "label": "C"
+      },
+      {
+       "text": "Sur l'inutilité du droit à la déconnexion.",
+       "correct": false,
+       "rationale": "Il ne le dit pas.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Je vous l'accorde » est une formule de concession. Il illustre ensuite son accord par une mesure concrète."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "title": "Le droit à la déconnexion",
+   "context": "Débat entre un chef d'entreprise et une syndicaliste.",
+   "document": "H: Le droit à la déconnexion existe dans la loi. Mais concrètement, dans une entreprise qui travaille avec des clients à l'international, on ne peut pas tout couper à dix-huit heures. / F: Personne ne demande de tout couper. Ce que nous demandons, c'est qu'un salarié ne soit pas pénalisé s'il ne répond pas à un courriel envoyé à vingt-trois heures. Aujourd'hui, beaucoup se sentent obligés de répondre, par peur d'être mal vus. / H: Chez nous, personne n'est obligé de répondre. / F: Officiellement, non. Mais quand le directeur lui-même envoie des messages le dimanche, le message implicite est clair. La culture d'entreprise compte plus que le règlement. / H: Je vous l'accorde, l'exemple doit venir d'en haut. Nous avons d'ailleurs mis en place un système qui diffère l'envoi des courriels écrits le soir au lendemain matin. / F: C'est une bonne initiative, à condition qu'elle s'applique à tous, direction comprise.",
+   "vocabulary": [
+    {
+     "terme": "la déconnexion",
+     "definition": "le fait de ne plus être connecté au travail",
+     "exemple": "Le droit à la déconnexion protège les salariés."
+    },
+    {
+     "terme": "pénaliser",
+     "definition": "sanctionner, désavantager",
+     "exemple": "Les retards pénalisent toute l'équipe."
+    },
+    {
+     "terme": "différer",
+     "definition": "repousser à plus tard",
+     "exemple": "L'envoi est différé au lendemain."
+    },
+    {
+     "terme": "implicite",
+     "definition": "qui n'est pas dit clairement mais compris",
+     "exemple": "Il y a une règle implicite."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "être mal vu",
+     "sens": "avoir une mauvaise image",
+     "exemple": "Partir tôt est mal vu dans ce bureau."
+    },
+    {
+     "expression": "venir d'en haut",
+     "sens": "venir de la direction",
+     "exemple": "Les décisions viennent d'en haut."
+    },
+    {
+     "expression": "je vous l'accorde",
+     "sens": "je reconnais que vous avez raison",
+     "exemple": "Je vous l'accorde, c'était une erreur."
+    }
+   ]
+  },
+  {
+   "code": "CO-PRO-05",
+   "level": "B2",
+   "doc_type": "interview",
+   "questions": [
+    {
+     "prompt": "Que critique le consultant ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Les managers trop sévères.",
+       "correct": false,
+       "rationale": "Ce n'est pas sa critique principale.",
+       "label": "A"
+      },
+      {
+       "text": "Les fruits frais au bureau.",
+       "correct": false,
+       "rationale": "Ce n'est pas le problème en soi.",
+       "label": "B"
+      },
+      {
+       "text": "Les entreprises qui affichent une bienveillance superficielle.",
+       "correct": true,
+       "rationale": "« Des entreprises installent un baby-foot… et se déclarent bienveillantes, alors que les salariés croulent sous la charge de travail. Ça, c'est de la façade. »",
+       "label": "C"
+      },
+      {
+       "text": "Le principe même du management bienveillant.",
+       "correct": false,
+       "rationale": "Il en propose une version authentique.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« De la façade » désigne une apparence trompeuse. Le connecteur « alors que » oppose l'image et la réalité."
+    },
+    {
+     "prompt": "Selon lui, en quoi consiste la vraie bienveillance ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "À fournir aux salariés les conditions pour bien travailler.",
+       "correct": true,
+       "rationale": "« C'est d'abord donner aux gens les moyens de bien faire leur travail : des objectifs clairs, des effectifs suffisants, de l'autonomie. »",
+       "label": "A"
+      },
+      {
+       "text": "À organiser des activités de détente.",
+       "correct": false,
+       "rationale": "C'est ce qu'il qualifie de façade.",
+       "label": "B"
+      },
+      {
+       "text": "À augmenter tous les salaires.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "À ne jamais critiquer les salariés.",
+       "correct": false,
+       "rationale": "Il dit que ce serait de l'évitement.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La définition est donnée après les deux-points sous forme d'énumération concrète."
+    },
+    {
+     "prompt": "Que signifie la dernière phrase du consultant ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Il faut éviter toute remarque négative.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "A"
+      },
+      {
+       "text": "Il faut laisser les salariés s'évaluer seuls.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Il faut critiquer durement les salariés.",
+       "correct": false,
+       "rationale": "Il insiste sur le respect.",
+       "label": "C"
+      },
+      {
+       "text": "Être bienveillant, c'est exprimer les critiques avec respect plutôt que les taire.",
+       "correct": true,
+       "rationale": "« La bienveillance, c'est dire les choses avec respect, pas ne pas les dire. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le parallélisme « dire les choses avec respect / ne pas les dire » oppose deux attitudes : la franchise respectueuse et le silence."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "title": "Le management bienveillant, une mode ?",
+   "context": "Une journaliste interroge un consultant en organisation du travail.",
+   "document": "F: On parle beaucoup de management bienveillant. Est-ce une vraie révolution ou une mode ? / H: Un peu des deux. Le mot est devenu un argument marketing : des entreprises installent un baby-foot et des fruits frais, et se déclarent bienveillantes, alors que les salariés croulent sous la charge de travail. Ça, c'est de la façade. / F: Et la vraie bienveillance, c'est quoi ? / H: C'est d'abord donner aux gens les moyens de bien faire leur travail : des objectifs clairs, des effectifs suffisants, de l'autonomie. Ce n'est pas être gentil à tout prix. Un bon manager doit aussi savoir dire quand ça ne va pas. Ne jamais faire de reproche, ce n'est pas de la bienveillance, c'est de l'évitement. La bienveillance, c'est dire les choses avec respect, pas ne pas les dire.",
+   "vocabulary": [
+    {
+     "terme": "bienveillant",
+     "definition": "qui veut du bien aux autres",
+     "exemple": "Elle a un regard bienveillant."
+    },
+    {
+     "terme": "crouler sous",
+     "definition": "être écrasé par une quantité excessive",
+     "exemple": "Il croule sous les dossiers."
+    },
+    {
+     "terme": "de la façade",
+     "definition": "une apparence trompeuse",
+     "exemple": "Sa gentillesse n'est que de la façade."
+    },
+    {
+     "terme": "l'évitement",
+     "definition": "le fait d'éviter une situation difficile",
+     "exemple": "Son silence est une stratégie d'évitement."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "un peu des deux",
+     "sens": "à la fois l'un et l'autre",
+     "exemple": "C'est de la chance ou du talent ? Un peu des deux."
+    },
+    {
+     "expression": "à tout prix",
+     "sens": "quelles que soient les conséquences",
+     "exemple": "Il veut gagner à tout prix."
+    },
+    {
+     "expression": "quand ça ne va pas",
+     "sens": "quand il y a un problème",
+     "exemple": "Dis-le-moi quand ça ne va pas."
+    }
+   ]
+  },
+  {
+   "code": "CO-PRO-06",
+   "level": "B2",
+   "doc_type": "annonce professionnelle",
+   "questions": [
+    {
+     "prompt": "À quelle condition un salarié peut-il télétravailler ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "S'il travaille dans l'entreprise depuis un an.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Si son poste le permet et si son responsable est d'accord.",
+       "correct": true,
+       "rationale": "« À condition que son poste le permette et en accord avec son responsable. »",
+       "label": "B"
+      },
+      {
+       "text": "S'il habite loin de l'entreprise.",
+       "correct": false,
+       "rationale": "Ce n'est pas une condition.",
+       "label": "C"
+      },
+      {
+       "text": "S'il en fait la demande chaque semaine.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« À condition que » introduit les conditions. Il y en a deux, liées par « et »."
+    },
+    {
+     "prompt": "Pourquoi le mardi est-il un jour de présence obligatoire ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Pour permettre l'organisation de réunions d'équipe.",
+       "correct": true,
+       "rationale": "« Afin de faciliter les réunions d'équipe. »",
+       "label": "A"
+      },
+      {
+       "text": "Parce que les clients viennent ce jour-là.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que c'est le jour de paie.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Pour distribuer les sièges ergonomiques.",
+       "correct": false,
+       "rationale": "Ce n'est pas lié.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Afin de » introduit un but."
+    },
+    {
+     "prompt": "Que signifie le rappel final de l'annonce ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Le télétravail sera supprimé dans une semaine.",
+       "correct": false,
+       "rationale": "Le délai concerne une éventuelle suspension.",
+       "label": "A"
+      },
+      {
+       "text": "L'entreprise peut retirer temporairement le télétravail si l'activité l'exige.",
+       "correct": true,
+       "rationale": "« Le télétravail n'est pas un droit acquis : il pourra être suspendu en cas de nécessité de service. »",
+       "label": "B"
+      },
+      {
+       "text": "Le télétravail est garanti à vie.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Les salariés peuvent refuser de revenir au bureau.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Un « droit acquis » est un avantage définitif. La négation indique que le télétravail reste révocable."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "title": "Une annonce interne sur le télétravail",
+   "document": "F: Bonjour à toutes et à tous. Suite à l'accord signé avec les représentants du personnel, voici les nouvelles règles de télétravail qui entreront en vigueur le premier mars. Chaque salarié pourra télétravailler jusqu'à deux jours par semaine, à condition que son poste le permette et en accord avec son responsable. Le mardi restera un jour de présence obligatoire pour tous, afin de faciliter les réunions d'équipe. Une indemnité de vingt euros par mois sera versée pour couvrir les frais de connexion et d'électricité. Les salariés qui le souhaitent pourront également bénéficier d'un siège ergonomique, sur demande auprès des services généraux. Enfin, nous rappelons que le télétravail n'est pas un droit acquis : il pourra être suspendu en cas de nécessité de service, avec un délai de prévenance d'une semaine.",
+   "vocabulary": [
+    {
+     "terme": "entrer en vigueur",
+     "definition": "commencer à s'appliquer",
+     "exemple": "La loi entre en vigueur demain."
+    },
+    {
+     "terme": "une indemnité",
+     "definition": "une somme versée pour compenser des frais",
+     "exemple": "Il reçoit une indemnité de transport."
+    },
+    {
+     "terme": "ergonomique",
+     "definition": "adapté au confort du corps",
+     "exemple": "Un clavier ergonomique évite les douleurs."
+    },
+    {
+     "terme": "un délai de prévenance",
+     "definition": "le temps minimal pour prévenir avant un changement",
+     "exemple": "Le délai de prévenance est de quinze jours."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "suite à",
+     "sens": "à la suite de",
+     "exemple": "Suite à votre demande, voici le document."
+    },
+    {
+     "expression": "un droit acquis",
+     "sens": "un avantage obtenu de façon définitive",
+     "exemple": "Les congés payés sont un droit acquis."
+    },
+    {
+     "expression": "en cas de nécessité de service",
+     "sens": "si l'organisation du travail l'exige",
+     "exemple": "Les congés peuvent être reportés en cas de nécessité de service."
+    }
+   ]
+  },
+  {
+   "code": "CO-PRO-07",
+   "level": "B2",
+   "doc_type": "témoignage",
+   "questions": [
+    {
+     "prompt": "Pourquoi lui a-t-on proposé le poste de manager ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Parce qu'il avait suivi une formation en management.",
+       "correct": false,
+       "rationale": "Il l'a suivie après.",
+       "label": "A"
+      },
+      {
+       "text": "Parce qu'il l'avait demandé.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Parce qu'il était le plus compétent techniquement.",
+       "correct": true,
+       "rationale": "« J'étais le meilleur technicien de l'équipe, alors tout le monde trouvait ça logique. »",
+       "label": "C"
+      },
+      {
+       "text": "Parce qu'il était le plus ancien.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Alors » introduit la conséquence logique perçue par tous, que le témoin va ensuite remettre en question."
+    },
+    {
+     "prompt": "Quelle erreur a-t-il commise au début ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Il a refusé de travailler plus de quarante heures.",
+       "correct": false,
+       "rationale": "Il travaillait soixante heures.",
+       "label": "A"
+      },
+      {
+       "text": "Il a ignoré les demandes de sa direction.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Il a licencié plusieurs collègues.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Il a continué à faire lui-même le travail de son équipe.",
+       "correct": true,
+       "rationale": "« Je continuais à faire le travail technique moi-même, parce que j'allais plus vite. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les conséquences de cette erreur sont données par « Résultat : » (surcharge et collègues « dépossédés »)."
+    },
+    {
+     "prompt": "Qu'est-ce qui le satisfait aujourd'hui dans son poste ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Le salaire plus élevé.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Le fait d'aider ses collègues à s'améliorer.",
+       "correct": true,
+       "rationale": "« Je trouve une autre satisfaction : voir mes collègues progresser. »",
+       "label": "B"
+      },
+      {
+       "text": "Les horaires réduits.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Le travail technique qu'il fait seul.",
+       "correct": false,
+       "rationale": "Il le « regrette parfois ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le « mais » oppose un regret (le travail technique) et une nouvelle source de satisfaction."
+    }
+   ],
+   "speakers": [
+    "H:fr-BE"
+   ],
+   "title": "Devenir manager du jour au lendemain",
+   "document": "H: Il y a deux ans, mon chef est parti et on m'a proposé son poste. J'étais le meilleur technicien de l'équipe, alors tout le monde trouvait ça logique. Moi le premier. Mais j'ai vite compris qu'être bon dans son métier et savoir encadrer une équipe, ce sont deux choses complètement différentes. Les premiers mois, je continuais à faire le travail technique moi-même, parce que j'allais plus vite. Résultat : je travaillais soixante heures par semaine et mes collègues se sentaient dépossédés. C'est une formation en management qui m'a ouvert les yeux. J'ai appris à déléguer, à faire confiance, à accepter que les choses ne soient pas faites exactement comme je l'aurais fait. Aujourd'hui, je regrette parfois le travail technique, mais je trouve une autre satisfaction : voir mes collègues progresser.",
+   "vocabulary": [
+    {
+     "terme": "encadrer",
+     "definition": "diriger, superviser une équipe",
+     "exemple": "Elle encadre une équipe de dix personnes."
+    },
+    {
+     "terme": "déléguer",
+     "definition": "confier une tâche à quelqu'un d'autre",
+     "exemple": "Un bon chef sait déléguer."
+    },
+    {
+     "terme": "dépossédé",
+     "definition": "privé de ce qui lui appartenait",
+     "exemple": "Les salariés se sentent dépossédés de leurs missions."
+    },
+    {
+     "terme": "un technicien",
+     "definition": "un spécialiste d'une technique",
+     "exemple": "Le technicien a réparé la machine."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "du jour au lendemain",
+     "sens": "soudainement",
+     "exemple": "Il a changé d'avis du jour au lendemain."
+    },
+    {
+     "expression": "ouvrir les yeux",
+     "sens": "faire comprendre la réalité",
+     "exemple": "Ce voyage m'a ouvert les yeux."
+    },
+    {
+     "expression": "moi le premier",
+     "sens": "et moi aussi, avant les autres",
+     "exemple": "Tout le monde était surpris, moi le premier."
+    }
+   ]
+  },
+  {
+   "code": "CO-PRO-08",
+   "level": "B2",
+   "doc_type": "journal radio",
+   "questions": [
+    {
+     "prompt": "Quelles explications de l'écart salarial le journaliste donne-t-il ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Le niveau de diplôme inférieur des femmes.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "L'absence de loi sur l'égalité.",
+       "correct": false,
+       "rationale": "Une loi existe depuis cinquante ans.",
+       "label": "B"
+      },
+      {
+       "text": "Le refus des femmes de négocier.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Le temps partiel, les métiers moins payés et, en partie, la discrimination.",
+       "correct": true,
+       "rationale": "Il cite ces trois facteurs successivement.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« En partie… Mais même… » distingue les causes structurelles de l'écart « inexpliqué » attribué à la discrimination."
+    },
+    {
+     "prompt": "Que révèle l'écart de quatre pour cent ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Même dans des situations comparables, une inégalité persiste.",
+       "correct": true,
+       "rationale": "« Même à poste et temps de travail égaux, il reste un écart inexpliqué… attribué en grande partie à la discrimination. »",
+       "label": "A"
+      },
+      {
+       "text": "Les femmes travaillent quatre pour cent de moins.",
+       "correct": false,
+       "rationale": "Le temps de travail est égal dans cette comparaison.",
+       "label": "B"
+      },
+      {
+       "text": "Les hommes sont plus diplômés.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "L'écart a disparu dans les grandes entreprises.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« À poste et temps de travail égaux » neutralise les autres explications : ce qui reste est donc inexpliqué par ces facteurs."
+    },
+    {
+     "prompt": "Que pensent les syndicats de l'index d'égalité ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Il devrait concerner uniquement les grandes entreprises.",
+       "correct": false,
+       "rationale": "Ce n'est pas leur critique.",
+       "label": "A"
+      },
+      {
+       "text": "Il a fait disparaître les inégalités.",
+       "correct": false,
+       "rationale": "Les écarts persistent.",
+       "label": "B"
+      },
+      {
+       "text": "Il est utile mais permet à certaines entreprises de masquer des inégalités.",
+       "correct": true,
+       "rationale": "« Utile mais trop facile à contourner : certaines entreprises obtiennent de bonnes notes tout en maintenant des écarts. »",
+       "label": "C"
+      },
+      {
+       "text": "Il est inutile et doit être supprimé.",
+       "correct": false,
+       "rationale": "Ils le jugent utile.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Utile mais… » : une évaluation nuancée. « Tout en » montre la contradiction entre la note et la réalité."
+    }
+   ],
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "title": "L'égalité salariale entre femmes et hommes",
+   "document": "H: Malgré une loi qui impose l'égalité salariale depuis près de cinquante ans, les femmes gagnent toujours en moyenne vingt-quatre pour cent de moins que les hommes, selon les derniers chiffres de l'institut de statistiques. Cet écart s'explique en partie par le temps partiel, beaucoup plus fréquent chez les femmes, et par leur surreprésentation dans des métiers moins bien rémunérés. Mais même à poste et temps de travail égaux, il reste un écart inexpliqué d'environ quatre pour cent, que les chercheurs attribuent en grande partie à la discrimination. Les entreprises de plus de cinquante salariés doivent désormais publier chaque année un index d'égalité. Les syndicats jugent l'outil utile mais trop facile à contourner : certaines entreprises obtiennent de bonnes notes tout en maintenant des écarts importants.",
+   "vocabulary": [
+    {
+     "terme": "le temps partiel",
+     "definition": "un temps de travail inférieur au temps complet",
+     "exemple": "Elle travaille à temps partiel."
+    },
+    {
+     "terme": "la surreprésentation",
+     "definition": "une présence plus importante que la moyenne",
+     "exemple": "On constate une surreprésentation des hommes dans ce secteur."
+    },
+    {
+     "terme": "la discrimination",
+     "definition": "un traitement inégal et injuste",
+     "exemple": "La discrimination à l'embauche est interdite."
+    },
+    {
+     "terme": "un index",
+     "definition": "un indicateur chiffré",
+     "exemple": "L'index d'égalité est publié chaque année."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "à poste égal",
+     "sens": "pour un emploi identique",
+     "exemple": "À poste égal, le salaire doit être le même."
+    },
+    {
+     "expression": "en partie",
+     "sens": "partiellement",
+     "exemple": "Il a en partie raison."
+    },
+    {
+     "expression": "contourner",
+     "sens": "éviter de respecter sans enfreindre directement",
+     "exemple": "Ils contournent la loi."
+    }
+   ]
+  },
+  {
+   "code": "CO-PRO-09",
+   "level": "B2",
+   "doc_type": "conférence",
+   "questions": [
+    {
+     "prompt": "Pourquoi organise-t-on autant de réunions, selon la consultante ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Parce que les salariés aiment se rencontrer.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que la loi l'impose.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Par habitude ou pour partager la responsabilité des décisions.",
+       "correct": true,
+       "rationale": "« Souvent par habitude, parfois par prudence : décider à plusieurs, c'est partager la responsabilité. »",
+       "label": "C"
+      },
+      {
+       "text": "Parce que les décisions sont trop nombreuses.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'explication donnée.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Souvent… parfois… » présente deux causes de fréquence différente. La seconde est expliquée après les deux-points."
+    },
+    {
+     "prompt": "Quelle règle concerne les participants aux réunions ?",
+     "skill": "information détaillée",
+     "choices": [
+      {
+       "text": "Interdire les ordinateurs en réunion.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "A"
+      },
+      {
+       "text": "Faire tourner l'animation de la réunion.",
+       "correct": false,
+       "rationale": "Ce n'est pas proposé.",
+       "label": "B"
+      },
+      {
+       "text": "Inviter tous les membres de l'équipe.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "N'inviter que ceux qui doivent intervenir ou décider.",
+       "correct": true,
+       "rationale": "« N'inviter que les personnes qui doivent réellement intervenir ou décider ; les autres recevront un compte rendu. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les trois règles sont introduites par « D'abord… Ensuite… Enfin ». La question porte sur la deuxième."
+    },
+    {
+     "prompt": "Quel résultat les entreprises ont-elles obtenu ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Une augmentation de la durée des réunions.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "A"
+      },
+      {
+       "text": "Moins de temps passé en réunion, avec une efficacité au moins égale.",
+       "correct": true,
+       "rationale": "« Réduit leur temps de réunion d'un quart, sans perte d'efficacité, bien au contraire. »",
+       "label": "B"
+      },
+      {
+       "text": "Une suppression totale des réunions.",
+       "correct": false,
+       "rationale": "Elles ont été réduites d'un quart.",
+       "label": "C"
+      },
+      {
+       "text": "Une baisse de l'efficacité.",
+       "correct": false,
+       "rationale": "« Sans perte d'efficacité. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Bien au contraire » suggère que l'efficacité s'est même améliorée."
+    }
+   ],
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "title": "Les réunions inutiles",
+   "context": "Extrait d'une conférence d'une consultante en efficacité professionnelle.",
+   "document": "F: Un cadre passe en moyenne seize heures par semaine en réunion, et il juge lui-même qu'un tiers de ces réunions sont inutiles. Faites le calcul : cela représente plus de cinq heures perdues chaque semaine, par personne. Pourquoi organisons-nous autant de réunions ? Souvent par habitude, parfois par prudence : décider à plusieurs, c'est partager la responsabilité. Je propose trois règles simples. D'abord, pas de réunion sans ordre du jour envoyé à l'avance. Ensuite, n'inviter que les personnes qui doivent réellement intervenir ou décider ; les autres recevront un compte rendu. Enfin, fixer une durée et s'y tenir : une réunion de trente minutes oblige à aller à l'essentiel. Les entreprises qui ont appliqué ces règles ont réduit leur temps de réunion d'un quart, sans perte d'efficacité, bien au contraire.",
+   "vocabulary": [
+    {
+     "terme": "un ordre du jour",
+     "definition": "la liste des sujets à traiter en réunion",
+     "exemple": "L'ordre du jour comporte trois points."
+    },
+    {
+     "terme": "un compte rendu",
+     "definition": "un résumé écrit d'une réunion",
+     "exemple": "Je vous enverrai le compte rendu."
+    },
+    {
+     "terme": "un cadre",
+     "definition": "un salarié occupant un poste de responsabilité",
+     "exemple": "Les cadres travaillent souvent plus de quarante heures."
+    },
+    {
+     "terme": "la prudence",
+     "definition": "l'attitude qui consiste à éviter les risques",
+     "exemple": "Par prudence, il a tout vérifié."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "faites le calcul",
+     "sens": "calculez vous-même (pour souligner un résultat)",
+     "exemple": "Dix euros par jour, faites le calcul !"
+    },
+    {
+     "expression": "aller à l'essentiel",
+     "sens": "se concentrer sur le plus important",
+     "exemple": "Soyez brefs, allez à l'essentiel."
+    },
+    {
+     "expression": "s'y tenir",
+     "sens": "respecter ce qui a été fixé",
+     "exemple": "On a fixé un budget, il faut s'y tenir."
+    }
+   ]
+  }
+ ]
+}

@@ -228,7 +228,7 @@ def test_backup_rotation(db):
 def test_bootstrap(tmp_paths, monkeypatch):
     from tcfmaster.core.app_context import bootstrap
     ctx = bootstrap(tmp_paths)
-    assert ctx.db.schema_version() == "1"
+    assert ctx.db.schema_version() == "2"   # v1.1 : schéma 2 (collections B2)
     con = sqlite3.connect(str(tmp_paths.database))
     assert con.execute("PRAGMA journal_mode").fetchone()[0] == "wal"
     con.close()

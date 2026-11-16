@@ -8,7 +8,7 @@ from typing import Any
 from sqlalchemy import func, select
 
 from tcfmaster import __version__
-from tcfmaster.content.seeder import seed_all
+from tcfmaster.content.seeder import content_fingerprint, seed_all
 from tcfmaster.core.logging_setup import setup_logging
 from tcfmaster.core.paths import AppPaths, get_paths
 from tcfmaster.db.database import Database
@@ -36,11 +36,12 @@ def bootstrap(paths: AppPaths | None = None, seed: bool = True) -> AppContext:
             s.add(Profile())
         if seed:
             row = s.get(SchemaInfo, "content_version")
-            if row is None or row.value != __version__:
+            wanted = f"{__version__}+{content_fingerprint()}"
+            if row is None or row.value != wanted:
                 rep = seed_all(s)
                 log.info("Contenu importé : %s", rep)
                 if row is None:
-                    s.add(SchemaInfo(key="content_version", value=__version__))
+                    s.add(SchemaInfo(key="content_version", value=wanted))
                 else:
-                    row.value = __version__
+                    row.value = wanted
     return AppContext(paths=paths, db=db, log=log)

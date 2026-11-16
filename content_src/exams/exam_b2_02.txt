@@ -1,0 +1,500 @@
+@code B2-BLANC-02
+@series B2
+@title Examen blanc B2 n° 2 – Travail et économie
+@level B2
+@description Examen complet de niveau B2 aux durées officielles : emploi, entreprise, consommation, économie du quotidien.
+
+## CO 1 | B2 | message vocal | intention | H:fr-FR
+DOC: H: Bonjour Madame Diallo, Julien Morel, du cabinet de recrutement. Je vous appelle à propos de votre candidature au poste de responsable logistique. Le client a beaucoup apprécié votre entretien, mais il hésite entre vous et un autre candidat. Il aimerait vous proposer une mise en situation d'une demi-journée la semaine prochaine. Pourriez-vous me rappeler pour fixer une date ?
+Q: Pourquoi Julien Morel appelle-t-il Mme Diallo ?
++ Pour lui proposer une étape supplémentaire de recrutement. | Le client « aimerait vous proposer une mise en situation d'une demi-journée ».
+- Pour lui annoncer qu'elle est embauchée. | Le client hésite encore entre deux candidats.
+- Pour lui annoncer que sa candidature est refusée. | Le client a « beaucoup apprécié » son entretien.
+- Pour lui demander de compléter son dossier. | Aucun document n'est demandé.
+EXP: L'appel combine une information positive (« a beaucoup apprécié ») et une incertitude (« il hésite »), d'où la proposition d'une mise en situation. L'intention est donc d'organiser une nouvelle étape, pas d'annoncer une décision.
+
+## CO 2 | B2 | reportage radio | information précise | F:fr-FR
+DOC: F: Dans cette entreprise de cosmétiques de la Loire, les salariés peuvent désormais choisir leurs horaires, à condition d'être présents entre dix heures et quinze heures, ce qu'on appelle les plages fixes. Résultat après un an : l'absentéisme a reculé de vingt pour cent, et la direction a reçu deux fois plus de candidatures spontanées qu'auparavant.
+Q: Quelle condition les salariés doivent-ils respecter ?
++ Être présents entre dix heures et quinze heures. | « à condition d'être présents entre dix heures et quinze heures ».
+- Travailler quatre jours par semaine. | La semaine de quatre jours n'est pas évoquée.
+- Arriver avant huit heures. | Aucune heure d'arrivée n'est imposée en dehors des plages fixes.
+- Faire au moins deux jours de télétravail. | Le télétravail n'est pas mentionné.
+EXP: « À condition de » introduit la seule contrainte : les plages fixes. Les résultats chiffrés (absentéisme, candidatures) servent à d'autres questions.
+
+## CO 3 | B2 | conversation | opinion | F:fr-FR, H:fr-FR
+DOC: F: Alors, tu as accepté la promotion ? / H: Pas encore. Le salaire est meilleur, c'est vrai, mais je devrais gérer une équipe de quinze personnes et partir en déplacement deux jours par semaine. / F: C'est une belle reconnaissance, quand même ! / H: Je sais. Mais avec les enfants encore petits, je ne suis pas sûr que le jeu en vaille la chandelle.
+Q: Quel est l'état d'esprit de l'homme ?
++ Il hésite, car les contraintes pourraient l'emporter sur les avantages. | « je ne suis pas sûr que le jeu en vaille la chandelle ».
+- Il est enthousiaste et va accepter immédiatement. | Il n'a pas encore accepté et exprime des doutes.
+- Il refuse parce que le salaire est trop bas. | « Le salaire est meilleur, c'est vrai ».
+- Il est vexé de ne pas avoir été promu. | On lui a justement proposé une promotion.
+EXP: L'expression « le jeu en vaut la chandelle » signifie que l'avantage justifie l'effort. Sa forme négative, avec « je ne suis pas sûr que », exprime le doute de l'homme.
+
+## CO 4 | B2 | annonce interne | information précise | H:fr-FR
+DOC: H: Chers collaborateurs, en raison de la migration vers notre nouvel outil de paie, les notes de frais du mois de mars devront être déposées avant le 20, et non le 28 comme d'habitude. Les justificatifs papier ne seront plus acceptés : seuls les scans au format PDF seront traités. Merci de votre vigilance, tout dossier incomplet sera reporté au mois suivant.
+Q: Qu'est-ce qui change pour les notes de frais de mars ?
++ La date limite est avancée et les justificatifs doivent être numérisés. | « avant le 20, et non le 28 » et « seuls les scans au format PDF seront traités ».
+- Elles ne seront plus remboursées. | Elles seront traitées, mais plus tôt.
+- Elles doivent être envoyées par courrier. | Les justificatifs papier ne sont plus acceptés.
+- La date limite est repoussée au mois suivant. | Seuls les dossiers incomplets seront reportés.
+EXP: Deux changements sont annoncés : la date (« et non le 28 ») et le format (« seuls les scans »). La conséquence d'un dossier incomplet est une information secondaire.
+
+## CO 5 | B2 | interview radio | compréhension globale | F:fr-FR, H:fr-FR
+DOC: F: Vous avez quitté un poste de cadre dans la banque pour devenir ébéniste. Pourquoi ? / H: J'avais un bon salaire, mais le soir, je n'arrivais pas à dire ce que j'avais produit dans la journée. Aujourd'hui, je gagne moins, mes journées sont physiques, mais quand un client repart avec une table que j'ai fabriquée, je sais exactement à quoi j'ai servi. Ce sentiment-là n'a pas de prix.
+Q: Quelle est la principale raison de sa reconversion ?
++ Le besoin de voir concrètement le résultat de son travail. | « je n'arrivais pas à dire ce que j'avais produit » / « je sais exactement à quoi j'ai servi ».
+- L'envie de gagner davantage d'argent. | Il dit qu'il « gagne moins » aujourd'hui.
+- Un licenciement économique. | Il a « quitté » son poste volontairement.
+- Des problèmes de santé liés au stress. | La santé n'est pas évoquée.
+EXP: L'interviewé oppose un salaire élevé mais un travail abstrait à un métier moins payé mais concret. La phrase finale « ce sentiment-là n'a pas de prix » résume sa motivation.
+
+## CO 6 | B2 | chronique économique | inférence | H:fr-FR
+DOC: H: Les prix des billets de train varient selon le jour, l'heure et le moment de la réservation : c'est ce qu'on appelle la tarification dynamique. Pour les compagnies, l'intérêt est clair : remplir les trains en attirant des voyageurs sur les horaires creux. Pour les voyageurs, c'est plus compliqué. Ceux qui peuvent réserver longtemps à l'avance s'en sortent bien ; les autres, souvent ceux qui voyagent pour une urgence familiale, paient le prix fort.
+Q: Que suggère le chroniqueur à propos de la tarification dynamique ?
++ Elle désavantage les voyageurs qui ne peuvent pas anticiper. | « les autres… paient le prix fort ».
+- Elle fait baisser les prix pour tout le monde. | Certains voyageurs paient « le prix fort ».
+- Elle n'apporte rien aux compagnies. | « Pour les compagnies, l'intérêt est clair ».
+- Elle est interdite pour les urgences familiales. | Il ne parle d'aucune interdiction.
+EXP: Le chroniqueur oppose deux catégories de voyageurs. L'exemple de l'urgence familiale suggère, sans le dire explicitement, une forme d'injustice du système.
+
+## CO 7 | B2 | débat | opinion | H:fr-FR, F:fr-FR
+DOC: H: Augmenter le salaire minimum, c'est condamner les petites entreprises, qui ne pourront plus embaucher. / F: C'est l'argument qu'on entend à chaque fois, et à chaque fois, les catastrophes annoncées ne se produisent pas. Un salarié mieux payé consomme davantage, souvent dans les commerces de proximité. Ce sont donc aussi les petites entreprises qui en profitent.
+Q: Comment la femme répond-elle à l'argument de l'homme ?
++ Elle le conteste en montrant un effet positif pour les petites entreprises. | « Ce sont donc aussi les petites entreprises qui en profitent ».
+- Elle l'accepte et propose de baisser les impôts. | Elle rejette l'argument et ne parle pas d'impôts.
+- Elle reconnaît que les petites entreprises vont souffrir. | Elle affirme que les catastrophes annoncées ne se produisent pas.
+- Elle change de sujet pour parler des grandes entreprises. | Elle reste sur les petites entreprises.
+EXP: La femme réfute d'abord l'argument par l'expérience (« les catastrophes annoncées ne se produisent pas »), puis le retourne : la consommation profite aux commerces de proximité. La mise en relief finale souligne ce retournement.
+
+## CO 8 | B2 | message professionnel | information précise | F:fr-FR
+DOC: F: Bonjour Thomas, c'est Inès. Le client de Bordeaux a avancé la réunion à mardi, dix heures, au lieu de jeudi. Du coup, j'aurais besoin des chiffres de ventes du trimestre lundi soir au plus tard. Si tu n'as pas le temps de tout finaliser, envoie-moi au moins le tableau des trois produits principaux, je compléterai le reste moi-même.
+Q: Que doit envoyer Thomas en priorité ?
++ Les données des trois produits principaux. | « envoie-moi au moins le tableau des trois produits principaux ».
+- Le compte rendu de la réunion de jeudi. | La réunion n'a pas encore eu lieu.
+- Le contrat du client de Bordeaux. | Aucun contrat n'est demandé.
+- Les chiffres de l'année entière. | Il s'agit des chiffres du trimestre.
+EXP: « Au moins » indique le minimum indispensable si Thomas manque de temps. Le changement de date de la réunion explique l'urgence de la demande.
+
+## CO 9 | B2 | interview | intention | H:fr-FR, F:fr-FR
+DOC: H: Votre entreprise a supprimé les entretiens annuels d'évaluation. N'est-ce pas risqué ? / F: Au contraire. Une fois par an, c'était trop tard : on reprochait à quelqu'un une erreur commise dix mois plus tôt. Désormais, chaque manager fait un point de quinze minutes tous les mois avec chaque membre de son équipe. Les problèmes sont réglés quand ils apparaissent, et les salariés savent toujours où ils en sont.
+Q: Que cherche à montrer la femme ?
++ Que des échanges plus fréquents sont plus efficaces qu'un entretien annuel. | « Les problèmes sont réglés quand ils apparaissent ».
+- Que l'évaluation des salariés est inutile. | L'évaluation existe toujours, sous forme de points mensuels.
+- Que les managers manquent de temps. | Elle ne parle pas d'un manque de temps.
+- Que les salariés ont demandé la suppression des entretiens. | L'origine de la décision n'est pas précisée.
+EXP: « Au contraire » réfute l'idée de risque. La femme oppose l'ancien système (trop tardif) au nouveau (régulier) pour justifier le changement.
+
+## CO 10 | B2 | reportage | compréhension globale | F:fr-FR
+DOC: F: Faute de candidats, les boulangeries artisanales peinent à recruter. Pour attirer des jeunes, certaines ont revu leur organisation : fin du travail de nuit pour les apprentis, deux jours de repos consécutifs et rémunération au-dessus de la convention collective. Dans cette boulangerie de Nancy, la patronne a ainsi trouvé trois apprentis en un mois, alors qu'elle cherchait depuis deux ans.
+Q: De quoi parle principalement ce reportage ?
++ Des efforts des boulangeries pour rendre le métier plus attractif. | Elles « ont revu leur organisation » pour « attirer des jeunes ».
+- De la fermeture des boulangeries artisanales. | Il s'agit de recrutement, pas de fermetures.
+- De la hausse du prix du pain. | Les prix ne sont pas évoqués.
+- De la concurrence des supermarchés. | Les supermarchés ne sont pas mentionnés.
+EXP: Le reportage pose un problème (difficultés de recrutement), décrit des solutions (horaires, repos, salaire) et donne un exemple de réussite. L'idée principale est donc l'adaptation des employeurs.
+
+## CO 11 | B2 | conversation administrative | information précise | H:fr-FR, F:fr-FR
+DOC: H: Bonjour, je viens d'être licencié et je voudrais savoir quand je toucherai mes allocations. / F: Vous devez d'abord vous inscrire comme demandeur d'emploi, en ligne, dans les douze mois qui suivent la fin de votre contrat. Ensuite, il y a un délai d'attente de sept jours, auquel s'ajoute un différé si vous avez reçu des indemnités de congés payés. / H: D'accord, et je dois envoyer mon attestation employeur ? / F: Non, votre employeur nous la transmet directement.
+Q: Que n'a pas besoin de faire l'homme ?
++ Envoyer lui-même son attestation employeur. | « Non, votre employeur nous la transmet directement ».
+- S'inscrire comme demandeur d'emploi. | C'est la première démarche obligatoire.
+- Respecter un délai de douze mois pour s'inscrire. | Il doit s'inscrire dans ce délai.
+- Attendre un délai avant le premier versement. | Il y a un délai d'attente de sept jours.
+EXP: La question porte sur ce qui n'est pas nécessaire : la dernière réplique répond clairement « Non ». Les autres éléments sont des obligations ou des délais à respecter.
+
+## CO 12 | B2 | chronique | opinion | H:fr-FR
+DOC: H: On célèbre beaucoup les start-up et leurs fondateurs. Tant mieux. Mais on oublie souvent ceux qui reprennent une entreprise existante : une menuiserie de vingt salariés, une imprimerie, un garage. Chaque année, des milliers de ces entreprises ferment, non parce qu'elles ne sont pas rentables, mais parce que leur patron part à la retraite sans successeur. Les reprendre, c'est moins glamour, mais souvent plus utile.
+Q: Quel est le point de vue du chroniqueur ?
++ La reprise d'entreprises existantes mérite davantage d'attention. | « Les reprendre, c'est moins glamour, mais souvent plus utile ».
+- Les start-up ne servent à rien. | Il dit « Tant mieux » à leur sujet.
+- Les entreprises qui ferment ne sont pas rentables. | Elles ferment « non parce qu'elles ne sont pas rentables ».
+- Les patrons partent trop tôt à la retraite. | Il ne critique pas l'âge de départ.
+EXP: Le chroniqueur concède (« Tant mieux ») puis oriente l'attention vers un sujet négligé. La structure « non parce que…, mais parce que… » corrige une idée fausse sur les fermetures.
+
+## CO 13 | B2 | interview radio | inférence | F:fr-FR, H:fr-FR
+DOC: F: Votre coopérative de livreurs à vélo existe depuis trois ans. Comment vous en sortez-vous face aux grandes plateformes ? / H: On ne cherche pas à être les moins chers. Nos clients, ce sont surtout des restaurants et des commerces du centre-ville qui veulent savoir que leurs livreurs sont salariés, assurés et payés correctement. Ils acceptent de payer un peu plus pour ça. Et nos livreurs restent : certains sont là depuis le premier jour.
+Q: Que peut-on comprendre de la stratégie de la coopérative ?
++ Elle mise sur des conditions de travail éthiques plutôt que sur les prix bas. | Ses clients « acceptent de payer un peu plus » pour des livreurs salariés et bien payés.
+- Elle propose les tarifs les plus bas du marché. | « On ne cherche pas à être les moins chers ».
+- Elle livre surtout des particuliers. | Ses clients sont « des restaurants et des commerces ».
+- Elle change souvent de livreurs. | « nos livreurs restent ».
+EXP: La stratégie se déduit de deux éléments : le refus d'être les moins chers et le profil des clients, attachés aux conditions de travail. La fidélité des livreurs en est une conséquence positive.
+
+## CO 14 | B2 | annonce | information précise | F:fr-FR
+DOC: F: Le salon de l'emploi et de la formation se tiendra jeudi 14 de neuf heures à dix-sept heures au parc des expositions. Plus de quatre-vingts entreprises y proposeront des postes en CDI, en CDD et en alternance. Pensez à apporter plusieurs exemplaires de votre CV. Des ateliers gratuits de préparation aux entretiens auront lieu toutes les heures, sur inscription à l'accueil du salon.
+Q: Comment participer aux ateliers de préparation aux entretiens ?
++ En s'inscrivant à l'accueil le jour du salon. | Ils ont lieu « sur inscription à l'accueil du salon ».
+- En envoyant son CV à l'avance. | Le CV est à apporter, pas à envoyer pour les ateliers.
+- En payant un supplément à l'entrée. | Les ateliers sont « gratuits ».
+- En s'inscrivant sur internet la veille. | L'inscription se fait sur place.
+EXP: L'information se trouve à la fin : « sur inscription à l'accueil du salon ». Les autres détails (CV, horaires, types de contrats) concernent le salon en général.
+
+## CO 15 | B2 | conversation | intention | H:fr-FR, F:fr-FR
+DOC: H: Tu pourrais relire ma lettre de motivation avant que je l'envoie ? / F: Bien sûr. Hum… Tu parles beaucoup de ce que l'entreprise peut t'apporter. / H: Oui, la formation, les perspectives… / F: C'est normal de le penser, mais le recruteur, lui, veut surtout savoir ce que toi, tu peux apporter à l'entreprise. Je réécrirais au moins le deuxième paragraphe.
+Q: Que conseille la femme ?
++ Mettre davantage en avant ce que l'homme peut apporter à l'entreprise. | « le recruteur veut surtout savoir ce que toi, tu peux apporter ».
+- Supprimer complètement la lettre de motivation. | Elle propose de réécrire seulement un paragraphe.
+- Parler davantage de la formation proposée. | C'est justement ce qu'elle trouve trop présent.
+- Envoyer la lettre sans changement. | Elle conseille de réécrire le deuxième paragraphe.
+EXP: La femme commence par une observation, puis donne un conseil au conditionnel (« je réécrirais »). La mise en relief « ce que toi, tu peux apporter » souligne le point de vue du recruteur.
+
+## CO 16 | B2 | reportage | compréhension globale | H:fr-FR
+DOC: H: Dans ce village du Jura, une ancienne fromagerie fermée depuis quinze ans a été transformée en espace de travail partagé. On y trouve une graphiste, un traducteur, deux développeurs et une architecte, tous installés à la campagne grâce au télétravail. Le lieu accueille aussi un marché de producteurs le vendredi soir. Pour le maire, c'est une façon de faire revivre le village sans attendre l'arrivée d'une usine.
+Q: Quel est le sujet principal du reportage ?
++ La revitalisation d'un village grâce à un lieu de travail partagé. | Il s'agit de « faire revivre le village » avec un espace de travail partagé.
+- La réouverture d'une fromagerie industrielle. | La fromagerie a été transformée en bureaux.
+- L'installation d'une usine dans le Jura. | Le maire ne veut justement pas « attendre l'arrivée d'une usine ».
+- Les difficultés du télétravail à la campagne. | Le télétravail est présenté positivement.
+EXP: La conclusion du maire résume l'enjeu : faire revivre le village. Les professions citées et le marché du vendredi illustrent cette nouvelle vie.
+
+## CO 17 | B2 | interview | opinion | F:fr-FR, H:fr-FR
+DOC: F: Les entreprises devraient-elles publier les salaires dans leurs offres d'emploi ? / H: Oui, et sans hésiter. Aujourd'hui, beaucoup de candidats passent trois entretiens avant de découvrir que le salaire ne leur convient pas : c'est une perte de temps pour tout le monde. Et la transparence réduit les écarts injustifiés, notamment entre les femmes et les hommes, qui négocient différemment.
+Q: Quels sont les deux arguments de l'homme ?
++ Le gain de temps et la réduction des inégalités salariales. | Il évoque « une perte de temps pour tout le monde » et la réduction des « écarts injustifiés ».
+- La baisse des salaires et la hausse de la productivité. | Ces arguments ne sont pas avancés.
+- La protection de la vie privée et la confidentialité. | Il défend au contraire la transparence.
+- La simplification des contrats et la baisse des impôts. | Il n'en parle pas.
+EXP: Le premier argument est pratique (éviter des entretiens inutiles), le second est social (réduire les inégalités). Le connecteur « et » relie ces deux justifications.
+
+## CO 18 | B2 | message vocal | information précise | H:fr-FR
+DOC: H: Bonjour, ici votre conseiller bancaire, Monsieur Fabre. Votre demande de prêt pour la création de votre entreprise a reçu un avis favorable du comité, sous réserve d'une condition : nous avons besoin d'une caution personnelle pour la moitié du montant. Si vous pouvez nous fournir ce document avant la fin du mois, les fonds seront débloqués sous dix jours.
+Q: Quelle condition est posée pour l'obtention du prêt ?
++ Fournir une caution personnelle pour la moitié de la somme. | « nous avons besoin d'une caution personnelle pour la moitié du montant ».
+- Réduire le montant demandé de moitié. | Le montant n'est pas réduit.
+- Ouvrir un compte professionnel dans la banque. | Aucun compte n'est demandé.
+- Attendre la fin du mois pour signer. | La fin du mois est la date limite pour fournir la caution.
+EXP: « Sous réserve de » introduit une condition. Ne confondez pas « la moitié du montant », qui concerne la caution, avec une réduction du prêt.
+
+## CO 19 | B2 | débat | inférence | F:fr-FR, H:fr-FR
+DOC: F: Avec l'intelligence artificielle, mon service de traduction a réduit ses délais de moitié. / H: Et la qualité ? / F: Elle a même progressé sur les textes techniques. En revanche, pour les textes publicitaires, les traducteurs passent presque autant de temps à corriger qu'à traduire. Les jeux de mots, les références culturelles… la machine n'y comprend rien.
+Q: Que laisse entendre la femme ?
++ L'intelligence artificielle est utile surtout pour les textes techniques. | La qualité progresse sur ces textes, mais pas sur les textes publicitaires.
+- L'intelligence artificielle a remplacé tous les traducteurs. | Les traducteurs corrigent toujours les textes.
+- La qualité des traductions a baissé partout. | Elle a « même progressé » sur les textes techniques.
+- Les textes publicitaires sont plus simples à traduire. | Ils demandent presque autant de corrections que de traduction.
+EXP: « En revanche » oppose deux types de textes. La femme suggère que l'outil est efficace pour les contenus techniques, mais limité dès qu'il faut comprendre la culture et l'humour.
+
+## CO 20 | B2 | conférence | compréhension globale | H:fr-FR
+DOC: H: L'économie circulaire ne se résume pas au recyclage. Recycler, c'est déjà admettre qu'un objet est devenu un déchet. L'objectif est plutôt d'intervenir en amont : concevoir des produits durables, réparables, dont les pièces peuvent être remplacées, et développer la location ou le partage plutôt que la propriété. Le recyclage reste utile, mais il devrait être la dernière solution, pas la première.
+Q: Quelle idée principale le conférencier défend-il ?
++ Il faut d'abord concevoir des produits durables avant de penser au recyclage. | Le recyclage « devrait être la dernière solution, pas la première ».
+- Le recyclage est la solution principale contre les déchets. | Il en fait « la dernière solution ».
+- Il faut interdire la location des objets. | Il encourage au contraire la location.
+- Le recyclage est inutile et doit disparaître. | « Le recyclage reste utile ».
+EXP: La conférence commence par une réfutation (« ne se résume pas au recyclage ») et propose une hiérarchie des solutions. La dernière phrase, avec l'opposition « la dernière, pas la première », résume la thèse.
+
+## CO 21 | B2 | interview radio | intention | H:fr-FR, F:fr-FR
+DOC: H: Madame la directrice, votre usine va-t-elle délocaliser une partie de sa production ? / F: Je comprends l'inquiétude des salariés et je veux être claire : aucun poste ne sera supprimé sur ce site. Nous allons effectivement ouvrir un atelier à l'étranger, mais pour répondre à de nouveaux marchés, pas pour remplacer la production d'ici. D'ailleurs, nous recrutons encore vingt techniciens cette année.
+Q: Quel est l'objectif de la directrice ?
++ Rassurer les salariés sur l'avenir de leurs emplois. | « aucun poste ne sera supprimé sur ce site » et « nous recrutons encore ».
+- Annoncer des licenciements. | Elle dit qu'aucun poste ne sera supprimé.
+- Nier l'ouverture d'un atelier à l'étranger. | Elle confirme cette ouverture.
+- Critiquer les salariés pour leur inquiétude. | Elle dit les comprendre.
+EXP: La directrice reconnaît l'inquiétude, affirme clairement l'absence de suppressions, explique la logique de l'ouverture et termine par un argument rassurant (« d'ailleurs, nous recrutons »).
+
+## CO 22 | B2 | reportage | information précise | F:fr-FR
+DOC: F: Pour les étudiants qui cherchent un petit boulot, la plateforme de la ville met en relation jeunes et employeurs locaux pour des missions courtes : garde d'enfants, aide aux devoirs, inventaires. L'inscription est gratuite et les missions sont rémunérées au moins au salaire minimum. Seule condition : avoir dix-huit ans et être inscrit dans un établissement d'enseignement supérieur.
+Q: Qui peut s'inscrire sur la plateforme ?
++ Les étudiants majeurs inscrits dans le supérieur. | « avoir dix-huit ans et être inscrit dans un établissement d'enseignement supérieur ».
+- Tous les jeunes de plus de seize ans. | L'âge minimum est dix-huit ans.
+- Uniquement les étudiants boursiers. | Aucune condition de bourse n'est mentionnée.
+- Les demandeurs d'emploi de la ville. | La plateforme s'adresse aux étudiants.
+EXP: « Seule condition » introduit les critères d'inscription. Les deux conditions sont cumulatives : âge et inscription dans le supérieur.
+
+## CO 23 | B2 | conversation | opinion | H:fr-FR, F:fr-FR
+DOC: H: Tu as vu, la direction propose de payer une partie des heures supplémentaires en jours de repos. / F: Moi, ça m'arrange : je préfère du temps à de l'argent. / H: Tu as de la chance de pouvoir te le permettre. Avec mon loyer, chaque euro compte. / F: Justement, il faudrait qu'on puisse choisir. Une solution unique pour tout le monde, ça ne marche jamais.
+Q: Quelle est finalement la position de la femme ?
++ Chaque salarié devrait pouvoir choisir entre repos et argent. | « il faudrait qu'on puisse choisir ».
+- Tout le monde devrait recevoir des jours de repos. | Elle refuse « une solution unique pour tout le monde ».
+- Les heures supplémentaires devraient être supprimées. | Elle ne demande pas leur suppression.
+- L'homme devrait demander une augmentation. | Elle ne lui donne pas ce conseil.
+EXP: La femme exprime d'abord sa préférence personnelle, puis, après la remarque de l'homme, élargit sa réflexion : elle défend la liberté de choix. « Justement » montre qu'elle intègre son objection.
+
+## CO 24 | B2 | annonce | inférence | H:fr-FR
+DOC: H: Chers clients, notre magasin vous informe qu'à partir du mois prochain, les sacs de caisse ne seront plus distribués, même payants. Nous vous invitons à venir avec vos propres sacs. Des cabas réutilisables resteront en vente à l'accueil. Par ailleurs, les fruits et légumes en vrac pourront désormais être pesés directement dans vos contenants personnels.
+Q: Que comprend-on de cette annonce ?
++ Le magasin cherche à réduire les emballages jetables. | Il supprime les sacs de caisse et accepte les contenants personnels.
+- Le magasin va fermer son rayon fruits et légumes. | Le rayon reste, avec une nouvelle possibilité de pesée.
+- Les sacs de caisse deviennent payants. | Ils ne seront « plus distribués, même payants ».
+- Les cabas réutilisables seront offerts. | Ils restent « en vente ».
+EXP: L'annonce ne dit pas explicitement son objectif, mais deux mesures convergent : suppression des sacs et usage de contenants personnels. On en déduit une démarche de réduction des déchets.
+
+## CO 25 | B2 | entretien radio | compréhension globale | F:fr-FR, H:fr-FR
+DOC: F: Vous accompagnez des femmes qui créent leur entreprise. Quels obstacles rencontrent-elles ? / H: Le premier, c'est l'accès au financement : à projet égal, elles obtiennent en moyenne des prêts plus faibles. Le deuxième, plus discret, c'est le manque de confiance. Beaucoup attendent d'être parfaitement prêtes avant de se lancer, alors que leurs homologues masculins osent plus tôt. Notre rôle, c'est de les aider à franchir le pas.
+Q: Quel est le thème principal de l'entretien ?
++ Les obstacles spécifiques rencontrés par les créatrices d'entreprise. | Il décrit l'accès au financement et le manque de confiance.
+- Les avantages fiscaux de la création d'entreprise. | La fiscalité n'est pas abordée.
+- Les secteurs où les femmes réussissent le mieux. | Les secteurs ne sont pas évoqués.
+- Les difficultés des hommes à trouver un prêt. | Les hommes servent seulement de point de comparaison.
+EXP: L'entretien est structuré par « le premier… le deuxième… » : deux obstacles propres aux femmes. La dernière phrase précise le rôle de l'accompagnement.
+
+## CE 1 | B2 | offre d'emploi | information précise
+DOC: Nous recherchons un(e) assistant(e) commercial(e) en CDI pour notre agence de Lille. Missions : suivi des commandes, relation avec les clients, préparation des devis. Profil : bac +2 minimum, maîtrise des logiciels de bureautique, anglais professionnel exigé. Une première expérience dans le secteur industriel serait appréciée. Poste à pourvoir immédiatement, télétravail possible un jour par semaine après la période d'essai. Rémunération selon profil, tickets restaurant et mutuelle.
+Q: Quelle compétence est obligatoire pour ce poste ?
++ L'anglais professionnel. | « anglais professionnel exigé ».
+- Une expérience dans l'industrie. | Elle « serait appréciée », mais n'est pas obligatoire.
+- La pratique du télétravail. | Le télétravail est un avantage, pas une compétence exigée.
+- Un diplôme de niveau bac +5. | Le minimum demandé est bac +2.
+EXP: Le mot « exigé » signale une condition obligatoire, alors que « serait appréciée » désigne un atout. Ce vocabulaire est caractéristique des offres d'emploi.
+
+## CE 2 | B2 | article de presse | compréhension globale
+DOC: Le nombre d'auto-entrepreneurs a fortement augmenté ces dernières années. Ce statut séduit par sa simplicité : quelques clics suffisent pour se déclarer, et les cotisations sont calculées sur le chiffre d'affaires réel. Mais derrière ce succès se cachent des réalités contrastées. Si certains y trouvent une liberté choisie, d'autres l'ont adopté faute de mieux, après un licenciement ou parce qu'une plateforme l'exigeait. Pour eux, l'indépendance ressemble surtout à une précarité sans filet de sécurité.
+Q: Quelle idée principale l'article développe-t-il ?
++ Le statut d'auto-entrepreneur recouvre des situations très différentes, parfois précaires. | « derrière ce succès se cachent des réalités contrastées ».
+- Le statut d'auto-entrepreneur est réservé aux personnes licenciées. | Certains l'ont choisi librement.
+- Les démarches pour devenir auto-entrepreneur sont trop compliquées. | Le statut séduit au contraire par sa simplicité.
+- Le nombre d'auto-entrepreneurs est en baisse. | Il a « fortement augmenté ».
+EXP: L'article présente d'abord les atouts du statut, puis nuance avec « mais derrière ce succès ». L'opposition « si certains… d'autres… » structure cette idée de réalités contrastées.
+
+## CE 3 | B2 | courrier des lecteurs | opinion
+DOC: Directrice d'une petite entreprise de vingt personnes, je lis partout que les salariés réclament le télétravail. Je l'ai mis en place deux jours par semaine et je ne le regrette pas. Mais je voudrais rappeler une chose : dans une petite structure, l'absence d'un collègue se ressent immédiatement. Il a fallu définir des jours de présence communs, sinon on ne se croisait plus. Le télétravail n'est pas une recette universelle, c'est une organisation à construire ensemble.
+Q: Quelle est l'opinion de l'auteure sur le télétravail ?
++ Il est positif, à condition d'être organisé collectivement. | « c'est une organisation à construire ensemble ».
+- Il est impossible dans une petite entreprise. | Elle l'a mis en place et « ne le regrette pas ».
+- Il devrait être imposé à tous les salariés. | Elle refuse l'idée d'une « recette universelle ».
+- Il a fait baisser la productivité de son entreprise. | Elle ne parle pas de productivité.
+EXP: L'auteure présente une expérience positive, puis introduit une nuance avec « mais je voudrais rappeler ». Sa conclusion oppose « recette universelle » et « organisation à construire ».
+
+## CE 4 | B2 | contrat de travail | information précise
+DOC: Article 7 – Période d'essai. Le présent contrat ne deviendra définitif qu'à l'issue d'une période d'essai de deux mois, renouvelable une fois pour une durée équivalente avec l'accord écrit des deux parties. Pendant cette période, chacune des parties peut rompre le contrat en respectant un délai de prévenance de quarante-huit heures pendant le premier mois de présence, puis de deux semaines au-delà.
+Q: Que faut-il pour renouveler la période d'essai ?
++ L'accord écrit de l'employeur et du salarié. | « avec l'accord écrit des deux parties ».
+- Une simple décision de l'employeur. | L'accord des deux parties est nécessaire.
+- Un délai de prévenance de quarante-huit heures. | Ce délai concerne la rupture du contrat.
+- Un nouveau contrat de travail. | Le renouvellement se fait dans le cadre du même contrat.
+EXP: Il faut distinguer deux règles : le renouvellement (accord écrit des deux parties) et la rupture (délais de prévenance). Le piège consiste à confondre ces deux informations.
+
+## CE 5 | B2 | éditorial | intention
+DOC: On nous répète que la croissance économique est la condition de tout progrès. Pourtant, une hausse du produit intérieur brut peut cacher bien des réalités : une catastrophe naturelle, en obligeant à reconstruire, fait augmenter la production ; la pollution, en multipliant les dépenses de santé, aussi. À l'inverse, le travail bénévole ou les soins apportés à un parent âgé n'y apparaissent pas. Il est temps de compléter cet indicateur par d'autres mesures : espérance de vie en bonne santé, inégalités, qualité de l'air.
+Q: Quelle est l'intention de l'éditorialiste ?
++ Montrer les limites de la croissance comme mesure du progrès. | Il donne des exemples où le PIB augmente sans progrès réel et propose d'autres indicateurs.
+- Défendre la croissance économique à tout prix. | Il remet en cause cette idée.
+- Demander la suppression du travail bénévole. | Il regrette que ce travail ne soit pas pris en compte.
+- Expliquer comment reconstruire après une catastrophe. | La catastrophe n'est qu'un exemple.
+EXP: Le connecteur « pourtant » introduit la remise en cause d'une idée répandue. Les exemples paradoxaux (catastrophe, pollution) illustrent les limites du PIB, et la conclusion propose une solution.
+
+## CE 6 | B2 | courrier administratif | information précise
+DOC: Madame, Monsieur, nous accusons réception de votre demande de congé de formation. Votre dossier sera examiné par la commission paritaire du 18 avril. En cas d'accord, votre rémunération sera maintenue à 100 % si votre salaire est inférieur à deux fois le salaire minimum, et à 90 % au-delà. Nous vous rappelons que vous devez informer votre employeur de votre demande au moins cent vingt jours avant le début de la formation si celle-ci dure plus de six mois.
+Q: Quelle rémunération percevra un salarié payé trois fois le salaire minimum ?
++ 90 % de son salaire. | Au-delà de deux fois le salaire minimum, la rémunération est maintenue « à 90 % ».
+- 100 % de son salaire. | Ce taux concerne les salaires inférieurs à deux fois le salaire minimum.
+- Le salaire minimum seulement. | Le texte ne prévoit pas cette règle.
+- Aucune rémunération. | La rémunération est maintenue en cas d'accord.
+EXP: Il faut appliquer la règle au cas proposé : trois fois le salaire minimum dépasse le seuil de deux fois. Le salarié est donc dans la seconde catégorie.
+
+## CE 7 | B2 | article | inférence
+DOC: Dans cette chaîne de magasins de bricolage, les vendeurs ne sont plus évalués sur leur chiffre d'affaires individuel, mais sur la satisfaction des clients et les résultats de l'équipe. Depuis ce changement, la direction constate que les vendeurs orientent plus volontiers les clients vers un collègue spécialisé, plutôt que de tenter de conclure la vente eux-mêmes. Les retours de produits inadaptés ont diminué d'un tiers.
+Q: Que peut-on déduire de cet article ?
++ L'ancien système poussait les vendeurs à privilégier leur propre vente. | Depuis la réforme, ils orientent « plus volontiers » vers un collègue, ce qu'ils faisaient moins avant.
+- Les vendeurs gagnent moins qu'avant. | Les salaires ne sont pas évoqués.
+- Les clients sont moins satisfaits depuis la réforme. | Les retours de produits ont diminué.
+- La chaîne a supprimé les vendeurs spécialisés. | Les vendeurs spécialisés existent toujours.
+EXP: L'inférence repose sur la comparaison avant/après : si les vendeurs orientent désormais plus volontiers les clients, c'est que l'évaluation individuelle les en dissuadait auparavant.
+
+## CE 8 | B2 | notice d'information | information précise
+DOC: Compte personnel de formation : mode d'emploi. Chaque salarié acquiert chaque année des droits en euros, utilisables pour suivre une formation certifiante. Ces droits restent acquis en cas de changement d'employeur ou de perte d'emploi. Pour une formation suivie en dehors du temps de travail, l'accord de l'employeur n'est pas nécessaire. En revanche, si la formation a lieu pendant les heures de travail, le salarié doit présenter sa demande à son employeur au moins soixante jours avant le début.
+Q: Dans quel cas l'accord de l'employeur est-il nécessaire ?
++ Quand la formation se déroule pendant le temps de travail. | « si la formation a lieu pendant les heures de travail, le salarié doit présenter sa demande ».
+- Quand le salarié change d'employeur. | Les droits restent acquis, sans accord.
+- Quand la formation est suivie le soir ou le week-end. | « l'accord de l'employeur n'est pas nécessaire ».
+- Quand le salarié perd son emploi. | Ses droits restent acquis.
+EXP: « En revanche » oppose formation hors temps de travail (sans accord) et formation pendant le temps de travail (demande préalable). Le délai de soixante jours est un détail complémentaire.
+
+## CE 9 | B2 | tribune | opinion
+DOC: On reproche souvent aux jeunes de manquer de loyauté envers leur employeur, parce qu'ils changent de poste tous les deux ou trois ans. Mais de quelle loyauté parle-t-on ? Leurs parents ont vu des entreprises licencier des salariés fidèles depuis vingt ans au premier ralentissement économique. Les jeunes en ont tiré une leçon lucide : la fidélité n'est récompensée que si elle est réciproque. Les entreprises qui veulent les garder doivent offrir des perspectives, pas seulement exiger de l'attachement.
+Q: Que pense l'auteur du comportement des jeunes salariés ?
++ Il le juge compréhensible au regard de l'attitude passée des entreprises. | « Les jeunes en ont tiré une leçon lucide ».
+- Il le condamne comme un manque de loyauté. | Il conteste justement ce reproche.
+- Il pense que les jeunes sont paresseux. | Rien n'évoque la paresse.
+- Il recommande aux jeunes de rester vingt ans dans la même entreprise. | Il rappelle que cette fidélité n'a pas protégé leurs parents.
+EXP: L'auteur part d'un reproche courant, le questionne (« de quelle loyauté parle-t-on ? ») et le retourne. L'adjectif « lucide » montre qu'il approuve la réaction des jeunes.
+
+## CE 10 | B2 | article | compréhension globale
+DOC: Les entreprises sont de plus en plus nombreuses à proposer à leurs salariés un congé de solidarité : quelques semaines rémunérées pour participer à une mission humanitaire ou associative. Pour les salariés, c'est l'occasion de donner du sens à leur carrière. Pour les entreprises, l'intérêt est double : fidéliser les équipes et développer des compétences comme l'adaptation ou la gestion de l'imprévu. Les associations, elles, apprécient ces renforts, à condition que les missions soient préparées en amont.
+Q: Quel est le sujet principal de l'article ?
++ Le développement des congés de solidarité et leurs bénéfices pour chacun. | L'article présente l'intérêt pour les salariés, les entreprises et les associations.
+- La suppression des congés payés dans certaines entreprises. | Il s'agit d'un congé supplémentaire.
+- Les difficultés financières des associations humanitaires. | Les finances des associations ne sont pas évoquées.
+- Le recrutement de bénévoles par les mairies. | Les mairies ne sont pas mentionnées.
+EXP: L'article décrit un dispositif puis examine ses avantages selon trois points de vue (salariés, entreprises, associations). La condition finale (« à condition que ») ajoute une nuance.
+
+## CE 11 | B2 | courriel professionnel | intention
+DOC: Bonjour à tous, suite à plusieurs remarques, je vous rappelle que les réunions d'équipe commencent à 9 h précises et durent trente minutes maximum. Afin de les rendre plus efficaces, je vous demande d'envoyer vos points à aborder la veille avant 17 h. Les sujets non transmis seront traités lors de la réunion suivante. Je compte sur chacun pour respecter ces règles, qui ont été décidées ensemble lors du séminaire de janvier.
+Q: Quel est l'objectif principal de ce courriel ?
++ Rappeler des règles pour améliorer l'efficacité des réunions. | « Afin de les rendre plus efficaces, je vous demande… ».
+- Annuler les réunions d'équipe. | Les réunions sont maintenues.
+- Organiser un séminaire en janvier. | Le séminaire a déjà eu lieu.
+- Allonger la durée des réunions. | Elles durent « trente minutes maximum ».
+EXP: Le verbe « je vous rappelle » et la subordonnée de but « afin de les rendre plus efficaces » révèlent l'intention. La référence au séminaire légitime ces règles décidées collectivement.
+
+## CE 12 | B2 | article | information précise
+DOC: La prime de partage de la valeur permet aux employeurs de verser à leurs salariés une somme exonérée de cotisations sociales, dans certaines limites. Son versement n'est pas obligatoire et son montant peut varier selon le salaire, l'ancienneté ou le temps de travail, à condition que ces critères s'appliquent à tous. En revanche, elle ne peut pas remplacer une augmentation de salaire ou une prime déjà prévue par le contrat.
+Q: Qu'interdit la règle concernant cette prime ?
++ L'utiliser à la place d'une augmentation ou d'une prime déjà prévue. | « elle ne peut pas remplacer une augmentation de salaire ou une prime déjà prévue ».
+- La moduler selon l'ancienneté. | La modulation selon l'ancienneté est autorisée.
+- La verser sans obligation. | Son versement n'est justement « pas obligatoire ».
+- L'exonérer de cotisations sociales. | Elle est exonérée, dans certaines limites.
+EXP: « En revanche » introduit la limite principale du dispositif. Les critères de modulation sont autorisés à condition d'être appliqués à tous.
+
+## CE 13 | B2 | essai | inférence
+DOC: Le travail ne se réduit pas au salaire qu'il procure. Il structure le temps, offre une place dans la société, permet de rencontrer d'autres personnes. C'est pourquoi la perte d'un emploi est souvent vécue comme une blessure qui dépasse la perte de revenus. Les personnes au chômage le disent : le plus difficile n'est pas toujours de compter chaque euro, mais de répondre à la question « Et toi, tu fais quoi ? ».
+Q: Que veut montrer l'auteur avec la question finale ?
++ Que le chômage touche aussi l'identité sociale des personnes. | La question renvoie à la place dans la société que donne le travail.
+- Que les chômeurs ne savent pas répondre aux questions. | La question illustre une gêne sociale, pas une incapacité.
+- Que les chômeurs sont trop curieux. | Ce sont les autres qui posent la question.
+- Que l'argent n'est jamais un problème au chômage. | Le texte dit que ce n'est « pas toujours » le plus difficile.
+EXP: L'auteur énumère les fonctions du travail au-delà du salaire. La question finale, banale en apparence, montre que le travail définit la place sociale : en être privé blesse l'identité.
+
+## CE 14 | B2 | annonce | information précise
+DOC: La chambre de métiers organise une matinée d'information sur la reprise d'entreprises artisanales le mardi 5 juin, de 9 h à 12 h. Au programme : témoignages de repreneurs, présentation des aides financières et rencontre avec des cédants. La participation est gratuite mais l'inscription est obligatoire, dans la limite de quarante places. Les participants pourront ensuite bénéficier d'un rendez-vous individuel avec un conseiller.
+Q: Que doivent faire les personnes intéressées ?
++ S'inscrire à l'avance, car les places sont limitées. | « l'inscription est obligatoire, dans la limite de quarante places ».
+- Payer une participation aux frais. | « La participation est gratuite ».
+- Prendre d'abord un rendez-vous individuel. | Le rendez-vous est proposé après la matinée.
+- Présenter un projet de reprise écrit. | Aucun projet écrit n'est demandé.
+EXP: La phrase « gratuite mais l'inscription est obligatoire » contient l'information clé. Le rendez-vous individuel est une possibilité offerte « ensuite ».
+
+## CE 15 | B2 | article d'opinion | opinion
+DOC: Faut-il continuer à exiger des diplômes pour tous les postes ? Certaines entreprises ont décidé de recruter sur la base de compétences évaluées par des tests pratiques, quel que soit le parcours scolaire. Je m'en réjouis. Le diplôme mesure ce qu'une personne savait à vingt ans, pas ce qu'elle sait faire à quarante. Cela ne signifie pas qu'il faille le mépriser, mais qu'il ne devrait plus être le seul critère qui ouvre ou ferme les portes.
+Q: Quelle est la position de l'auteur ?
++ Le diplôme ne devrait pas être le seul critère de recrutement. | « il ne devrait plus être le seul critère ».
+- Les diplômes sont inutiles et doivent disparaître. | « Cela ne signifie pas qu'il faille le mépriser ».
+- Seuls les jeunes diplômés devraient être recrutés. | Il souligne au contraire la valeur de l'expérience.
+- Les tests pratiques sont injustes. | Il « se réjouit » de leur utilisation.
+EXP: L'auteur approuve une pratique (« je m'en réjouis »), donne un argument (le diplôme mesure un savoir passé) et nuance sa position avec « cela ne signifie pas que… mais que… ».
+
+## CE 16 | B2 | rapport | compréhension globale
+DOC: L'étude menée dans quinze entreprises qui ont réduit le temps de travail à trente-deux heures sans baisse de salaire montre des résultats encourageants : baisse de l'absentéisme, meilleure santé déclarée et productivité stable dans la plupart des cas. Toutefois, les entreprises qui ont réussi la transition partagent une caractéristique : elles ont d'abord supprimé les tâches et réunions inutiles. Celles qui ont simplement comprimé le même travail sur quatre jours ont vu le stress augmenter.
+Q: Quelle conclusion principale le rapport tire-t-il ?
++ La réduction du temps de travail réussit si elle s'accompagne d'une réorganisation. | Les réussites ont « d'abord supprimé les tâches et réunions inutiles ».
+- La réduction du temps de travail fait toujours baisser la productivité. | La productivité est « stable dans la plupart des cas ».
+- Il faut augmenter le nombre de réunions. | Il faut au contraire supprimer les réunions inutiles.
+- Toutes les entreprises ont vu le stress augmenter. | Seules celles qui ont comprimé le travail.
+EXP: « Toutefois » introduit la nuance essentielle : le succès dépend de la méthode. L'opposition entre les deux groupes d'entreprises justifie la conclusion.
+
+## CE 17 | B2 | lettre de réclamation | intention
+DOC: Madame, Monsieur, client de votre banque depuis douze ans, j'ai constaté sur mon relevé des frais de tenue de compte de 8 euros par mois, alors qu'ils n'avaient jamais été facturés auparavant. Je n'ai reçu aucune information préalable concernant ce changement de tarif. Je vous demande donc de m'expliquer la nature de ces frais et de me les rembourser. À défaut de réponse satisfaisante sous quinze jours, je saisirai le médiateur bancaire.
+Q: Que fera l'auteur s'il n'obtient pas satisfaction ?
++ Il fera appel au médiateur bancaire. | « je saisirai le médiateur bancaire ».
+- Il fermera immédiatement son compte. | Il n'évoque pas la fermeture du compte.
+- Il paiera les frais sans discuter. | Il en demande au contraire le remboursement.
+- Il portera plainte au tribunal. | Il parle du médiateur, pas du tribunal.
+EXP: « À défaut de réponse satisfaisante » introduit la conséquence envisagée. Le médiateur est une étape amiable avant toute procédure judiciaire.
+
+## CE 18 | B2 | article | information précise
+DOC: Le droit à la déconnexion oblige les entreprises de plus de cinquante salariés à négocier des règles pour limiter l'usage des outils numériques en dehors des heures de travail. Concrètement, certaines bloquent l'envoi de courriels après 20 h, d'autres affichent un message d'avertissement. La loi ne fixe pas de règle unique : elle impose seulement de définir des modalités adaptées à chaque entreprise, par accord ou, à défaut, par une charte.
+Q: Que prévoit la loi selon l'article ?
++ Chaque entreprise concernée doit définir ses propres règles de déconnexion. | « elle impose seulement de définir des modalités adaptées à chaque entreprise ».
+- L'envoi de courriels est interdit après 20 h partout. | C'est une pratique de certaines entreprises, pas une règle générale.
+- Les petites entreprises doivent bloquer les messageries. | La loi vise les entreprises de plus de cinquante salariés.
+- Les salariés doivent répondre aux courriels le soir. | C'est justement ce que la loi cherche à limiter.
+EXP: L'article distingue l'obligation légale (négocier des règles) et les exemples concrets (blocage, avertissement). La phrase « la loi ne fixe pas de règle unique » est décisive.
+
+## CE 19 | B2 | chronique | inférence
+DOC: Dans mon immeuble de bureaux, l'entreprise a remplacé les postes individuels par des « espaces flexibles » : chacun s'installe où il trouve une place. Sur le papier, l'idée favorise les échanges. Dans les faits, les plus matinaux occupent les meilleures places près des fenêtres, et les autres errent, ordinateur sous le bras. Depuis, curieusement, beaucoup de collègues ont découvert les charmes du télétravail le lundi et le vendredi.
+Q: Que suggère l'auteur à la fin du texte ?
++ Les salariés fuient le bureau à cause de cette nouvelle organisation. | Le mot « curieusement » souligne avec ironie que le télétravail augmente depuis la réforme.
+- Les salariés adorent les espaces flexibles. | L'auteur décrit des salariés qui « errent ».
+- Le télétravail est interdit le lundi et le vendredi. | Au contraire, beaucoup télétravaillent ces jours-là.
+- L'entreprise a ajouté des fenêtres dans les bureaux. | Rien de tel n'est dit.
+EXP: L'adverbe « curieusement » est ironique : l'auteur suggère un lien de cause à effet entre l'inconfort des espaces flexibles et le recours accru au télétravail.
+
+## CE 20 | B2 | guide pratique | information précise
+DOC: Rupture conventionnelle : les étapes. L'employeur et le salarié se rencontrent lors d'un ou plusieurs entretiens pour définir les conditions de la rupture. Ils signent ensuite une convention fixant la date de départ et le montant de l'indemnité, qui ne peut être inférieur à l'indemnité légale de licenciement. Chacun dispose alors de quinze jours calendaires pour se rétracter. Enfin, la convention doit être homologuée par l'administration, qui dispose de quinze jours ouvrables pour se prononcer.
+Q: Que peuvent faire les parties après la signature de la convention ?
++ Revenir sur leur décision pendant quinze jours. | « Chacun dispose alors de quinze jours calendaires pour se rétracter ».
+- Fixer une indemnité inférieure au minimum légal. | L'indemnité « ne peut être inférieure à l'indemnité légale ».
+- Se passer de l'homologation. | La convention « doit être homologuée ».
+- Modifier la date sans nouvel accord. | Rien ne le prévoit.
+EXP: Le texte suit un ordre chronologique (entretiens, signature, rétractation, homologation). Ne confondez pas le délai de rétractation (quinze jours calendaires) et celui de l'administration (quinze jours ouvrables).
+
+## CE 21 | B2 | éditorial | opinion
+DOC: Les métiers les plus utiles pendant les crises – aides-soignantes, caissières, éboueurs, livreurs – sont souvent parmi les moins bien payés. Nous les avons applaudis, puis oubliés. Il ne s'agit pas d'opposer les métiers entre eux, mais de reconnaître qu'un système qui rémunère si mal ce dont il ne peut se passer finit par manquer de bras. Les difficultés de recrutement actuelles dans ces secteurs ne sont pas un mystère : elles sont la conséquence logique de ce décalage.
+Q: Quelle thèse défend l'éditorialiste ?
++ Les difficultés de recrutement viennent de la faible rémunération de métiers essentiels. | Elles sont « la conséquence logique de ce décalage ».
+- Les métiers essentiels sont trop bien payés. | Ils sont « parmi les moins bien payés ».
+- Il faut opposer les métiers entre eux. | « Il ne s'agit pas d'opposer les métiers entre eux ».
+- Les difficultés de recrutement sont inexplicables. | « ne sont pas un mystère ».
+EXP: L'éditorialiste établit un lien de cause à effet entre salaires faibles et pénurie de main-d'œuvre. La formule « nous les avons applaudis, puis oubliés » rappelle la reconnaissance passagère pendant les crises.
+
+## CE 22 | B2 | article | compréhension globale
+DOC: De plus en plus de consommateurs louent plutôt qu'ils n'achètent : vêtements de cérémonie, perceuses, poussettes, voire meubles. Les entreprises de location y voient un marché prometteur. Les défenseurs de l'environnement saluent une consommation plus sobre, à condition que les objets soient réellement réutilisés et entretenus. Reste une question : la location ne risque-t-elle pas de rendre les ménages modestes dépendants de dépenses régulières, alors qu'un achat unique leur aurait coûté moins cher sur le long terme ?
+Q: Quel est le thème principal de l'article ?
++ Le développement de la location d'objets et ses limites possibles. | L'article décrit cette tendance puis soulève une question sur son coût pour les ménages modestes.
+- L'interdiction de la location de meubles. | Aucune interdiction n'est évoquée.
+- La hausse du prix des perceuses. | Les perceuses ne sont qu'un exemple.
+- Le refus des écologistes de toute location. | Ils la saluent sous condition.
+EXP: L'article présente une tendance, l'intérêt des entreprises, l'avis des écologistes, puis une interrogation finale (« Reste une question »). Le thème englobe ces différents aspects.
+
+## CE 23 | B2 | règlement | inférence
+DOC: Charte d'utilisation des véhicules de service. Les véhicules sont réservés via l'intranet au moins vingt-quatre heures à l'avance. Le conducteur remplit le carnet de bord à chaque trajet en indiquant le kilométrage de départ et d'arrivée. Le plein doit être fait avant de restituer le véhicule si le réservoir est à moins d'un quart. Toute amende reçue pendant la période de réservation sera imputée au conducteur nommément désigné.
+Q: Que peut-on déduire de cette charte ?
++ L'entreprise veut pouvoir identifier le responsable de chaque utilisation. | Le carnet de bord et la désignation nominative du conducteur le permettent.
+- Les véhicules peuvent être utilisés sans réservation. | Une réservation de vingt-quatre heures est exigée.
+- L'entreprise paie toutes les amendes. | Elles sont « imputées au conducteur ».
+- Le plein doit être fait à chaque trajet. | Seulement si le réservoir est à moins d'un quart.
+EXP: Plusieurs règles convergent (réservation nominative, carnet de bord, amendes imputées) : on en déduit une volonté de traçabilité et de responsabilisation des conducteurs.
+
+## CE 24 | B2 | tribune | intention
+DOC: Nous, agriculteurs d'une coopérative laitière, ne demandons pas de subventions supplémentaires. Nous demandons un prix juste. Aujourd'hui, le litre de lait nous est payé moins cher qu'il ne nous coûte à produire, tandis que les marges de la grande distribution progressent. Les consommateurs sont prêts, nous le savons, à payer quelques centimes de plus si ces centimes reviennent réellement aux producteurs. Encore faut-il que la loi garantisse cette transparence.
+Q: Quel est le but de cette tribune ?
++ Réclamer une rémunération équitable et transparente des producteurs. | « Nous demandons un prix juste » et une loi qui « garantisse cette transparence ».
+- Demander davantage de subventions publiques. | « ne demandons pas de subventions supplémentaires ».
+- Annoncer une hausse du prix du lait pour les consommateurs. | Ils évoquent seulement une disposition des consommateurs à payer plus.
+- Défendre les marges de la grande distribution. | Ils dénoncent la hausse de ces marges.
+EXP: La tribune s'ouvre sur une opposition nette (« ne demandons pas… nous demandons »). L'inversion finale « encore faut-il que » pose la condition de leur revendication.
+
+## CE 25 | B2 | essai | compréhension globale
+DOC: L'économie dite collaborative promettait de remplacer la propriété par le partage : on partagerait sa voiture, son logement, ses outils. Une partie de cette promesse s'est réalisée. Mais beaucoup de plateformes sont devenues de grandes entreprises qui organisent des services marchands sans en assumer les responsabilités d'employeur. Le partage entre particuliers a souvent cédé la place à une professionnalisation déguisée : des appartements loués à l'année aux touristes, des chauffeurs travaillant soixante heures par semaine.
+Q: Quelle idée principale l'auteur développe-t-il ?
++ L'économie collaborative s'est en partie éloignée de son idéal de partage. | « Le partage entre particuliers a souvent cédé la place à une professionnalisation déguisée ».
+- L'économie collaborative a totalement échoué. | « Une partie de cette promesse s'est réalisée ».
+- Les plateformes sont de petites associations de voisins. | Elles sont devenues de grandes entreprises.
+- La propriété privée a disparu. | Rien ne l'indique.
+EXP: L'auteur rappelle une promesse, reconnaît un succès partiel, puis développe une critique avec « mais ». L'expression « professionnalisation déguisée » résume l'écart entre l'idéal et la réalité.
+
+## EE 1 | B2 | répondre à un message
+CONSIGNE: Votre collègue Lucas vous écrit : « Je dois présenter notre projet à la direction vendredi et je suis très stressé. Tu aurais des conseils ? » Répondez-lui en le rassurant et en lui donnant deux conseils concrets (30 à 60 mots).
+MODELE: Salut Lucas, ne t'inquiète pas, tu connais le projet mieux que personne ! Je te conseille d'abord de répéter ta présentation à voix haute, au moins deux fois, en te chronométrant. Ensuite, prépare des réponses aux questions difficiles sur le budget. Si tu veux, on peut faire un essai jeudi midi. Bon courage, Sarah
+POINTS: rassurer ; donner un premier conseil ; donner un second conseil ; proposer son aide ; formule finale
+COMMENTAIRE: Le message rassure d'emblée, organise deux conseils avec « d'abord » et « ensuite », et termine par une proposition concrète. Le registre amical entre collègues est bien respecté.
+CONSEILS: Structurez vos conseils avec des connecteurs (d'abord, ensuite, enfin) et ajoutez une proposition d'aide pour rendre le message plus chaleureux.
+
+## EE 2 | B2 | raconter une expérience
+CONSIGNE: Racontez votre premier jour dans un nouvel emploi ou une nouvelle formation pour le blog d'une association d'aide à l'insertion professionnelle : votre état d'esprit, ce qui s'est passé et ce que vous avez appris (40 à 90 mots).
+MODELE: Le jour où j'ai commencé comme préparatrice de commandes, j'étais très anxieuse : je craignais de ne pas comprendre les consignes. Heureusement, mon tuteur m'a accueillie avec patience et m'a présentée à toute l'équipe. Le matin, il m'a montré le fonctionnement du scanner ; l'après-midi, je préparais déjà mes premières commandes seule. Ce jour-là, j'ai compris qu'on n'attendait pas de moi que je sache tout, mais que j'ose poser des questions.
+POINTS: exprimer son état d'esprit ; raconter le déroulement ; mentionner une personne ou un détail ; tirer une leçon
+COMMENTAIRE: Le récit alterne imparfait et passé composé, organise la journée chronologiquement et conclut par une leçon formulée avec la structure « non pas…, mais… ». Le texte est vivant et personnel.
+CONSEILS: Montrez une évolution entre le début et la fin de la journée : c'est ce qui donne du sens à votre récit.
+
+## EE 3 | B2 | donner son opinion à partir de deux documents
+CONSIGNE: Document 1 : « Le télétravail améliore la qualité de vie : moins de transports, plus de concentration, plus de temps pour sa famille. » Document 2 : « Le télétravail isole les salariés et brouille la frontière entre vie professionnelle et vie privée. » Présentez ces deux opinions, puis donnez votre avis argumenté (40 à 90 mots).
+MODELE: Selon le premier document, le télétravail améliore la qualité de vie, alors que le second insiste sur l'isolement et la confusion entre travail et vie privée. À mon avis, ces deux points de vue sont justes, ce qui plaide pour une solution intermédiaire. Deux jours à la maison permettent de gagner du temps sans perdre le contact avec les collègues. Il faudrait cependant que les entreprises respectent le droit à la déconnexion, pour que la maison ne devienne pas un bureau permanent.
+POINTS: résumer le document 1 ; résumer le document 2 ; prendre position ; justifier ; proposer une condition ou une solution
+COMMENTAIRE: Les deux documents sont résumés de façon équilibrée avec « alors que ». La position nuancée est justifiée et complétée par une condition au subjonctif (« il faudrait que… »).
+CONSEILS: Une position intermédiaire est acceptable si elle est clairement argumentée. Proposez une condition précise pour éviter de rester vague.
+
+## EO 1 | B2 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous interroge sur votre vie professionnelle : votre métier ou vos études, votre parcours, ce qui vous motive et vos projets professionnels.
+RELANCES: Que faites-vous dans la vie ? / Comment êtes-vous arrivé à ce métier ? / Qu'est-ce qui vous motive dans votre travail ? / Avez-vous déjà changé d'orientation ? / Où vous voyez-vous professionnellement dans quelques années ?
+PHRASES: Je travaille comme… depuis… / Ce qui me motive le plus, c'est… / J'envisage de…
+MODELE: Je travaille comme électricien dans une petite entreprise du bâtiment depuis six ans. Au départ, je voulais être professeur de sport, mais une blessure m'a obligé à changer d'orientation, et j'ai découvert l'électricité grâce à un stage. Ce qui me motive le plus, c'est la diversité des chantiers : je ne fais jamais deux fois la même chose. J'envisage de passer un diplôme pour devenir chef d'équipe, et pourquoi pas, plus tard, de créer ma propre entreprise, si j'arrive à mettre assez d'argent de côté.
+COMMENTAIRE: La réponse raconte un parcours avec un changement d'orientation, met en relief la motivation et projette des objectifs avec une condition. Les temps verbaux sont variés et bien maîtrisés.
+CONSEILS: Racontez votre parcours comme une petite histoire, avec un tournant, puis terminez par vos projets au futur ou au conditionnel.
+
+## EO 2 | B2 | Négocier une formation avec son employeur | Responsable du service
+SCENARIO: Vous souhaitez suivre une formation de trois jours sur un nouveau logiciel de gestion. Votre responsable (l'examinateur) hésite. Présentez votre demande, répondez à ses objections et obtenez son accord.
+RELANCES: Trois jours d'absence, c'est beaucoup en ce moment. / Le budget formation est presque épuisé. / Qui va faire votre travail pendant ce temps ? / Qu'est-ce que ça apportera à l'équipe ?
+PHRASES: Je souhaiterais vous parler de… / Cela permettrait à l'équipe de… / Je m'engage à…
+MODELE: Je souhaiterais vous parler d'une formation sur le nouveau logiciel de gestion des stocks, qui dure trois jours. Je comprends que la période soit chargée ; c'est pourquoi je propose de la suivre le mois prochain, après l'inventaire. Pour le budget, elle peut être financée par mon compte personnel de formation, donc sans coût pour le service. Pendant mon absence, Sophie a accepté de traiter les urgences. Et à mon retour, je m'engage à former le reste de l'équipe, ce qui nous fera gagner du temps à tous.
+COMMENTAIRE: Le candidat anticipe chaque objection (calendrier, budget, remplacement) avec une solution concrète et termine par un bénéfice collectif. La négociation est structurée et convaincante.
+CONSEILS: Arrivez avec des solutions déjà prêtes aux objections prévisibles : c'est la meilleure façon d'obtenir un accord rapidement.
+
+## EO 3 | B2 | Faut-il augmenter les salaires des métiers essentiels ? | Examinateur
+SCENARIO: Pendant les crises, on a découvert l'importance de métiers peu rémunérés (aides-soignants, caissiers, éboueurs). Faut-il augmenter fortement leurs salaires ? Donnez votre opinion et défendez-la face aux objections.
+RELANCES: Qui va payer ces augmentations ? / Les prix vont augmenter pour tout le monde. / Ces métiers ne demandent pas beaucoup de diplômes. / Comment choisir quels métiers augmenter ?
+PHRASES: Je suis favorable à…, car… / L'argument du coût ne tient pas si… / Il faudrait…
+MODELE: Je suis favorable à une revalorisation importante de ces métiers, car une société ne peut pas fonctionner sans eux. Aujourd'hui, les hôpitaux et les maisons de retraite manquent de personnel, précisément parce que les salaires ne compensent pas la pénibilité. L'argument du coût ne tient pas si l'on compte ce que coûtent les postes vacants et les arrêts maladie. Ces métiers demandent peu de diplômes, c'est vrai, mais beaucoup de responsabilités et d'endurance. Il faudrait commencer par ceux où les difficultés de recrutement sont les plus fortes.
+COMMENTAIRE: La position est justifiée par un argument de cause à effet, l'objection financière est retournée, celle des diplômes est concédée puis nuancée, et une méthode concrète est proposée.
+CONSEILS: Pour répondre à une objection sur le coût, comparez avec le coût de l'inaction : c'est un argument souvent décisif.

@@ -1,0 +1,226 @@
+@slug co-vie-professionnelle
+@section CO
+@title Vie professionnelle
+@order 8
+@description Réunions, messages professionnels, entretiens et débats sur l'organisation du travail.
+
+## CO-PRO-01 | réunion professionnelle | F:fr-FR, H:fr-FR
+TITRE: Réorganiser le service client
+CONTEXTE: Une responsable présente un projet à son équipe.
+DOC: F: Comme vous le savez, les délais de réponse aux clients ont doublé en un an. Je vous propose donc une nouvelle organisation : chaque conseiller sera désormais responsable d'un portefeuille de clients, au lieu de traiter les demandes dans l'ordre d'arrivée. / H: Je comprends l'idée, mais qu'est-ce qui se passe quand un collègue est en congé ? Ses clients vont attendre deux semaines ? / F: Bonne question. Chaque conseiller aura un binôme qui connaîtra ses dossiers et prendra le relais. / H: Ça risque de doubler la charge de travail pendant les vacances d'été, où on est déjà en sous-effectif. / F: C'est un vrai risque, je ne vais pas le nier. Je propose qu'on teste le système pendant trois mois, hors période estivale, et qu'on fasse le point ensemble avant de le généraliser. Si ça ne fonctionne pas, on reviendra en arrière.
+Q: Pourquoi la responsable propose-t-elle une nouvelle organisation ? | information détaillée
++ Parce que le temps de réponse aux clients s'est fortement allongé. | « Les délais de réponse aux clients ont doublé en un an. »
+- Parce que des clients ont porté plainte. | Ce n'est pas mentionné.
+- Parce que l'équipe va s'agrandir. | L'équipe est au contraire en sous-effectif l'été.
+- Parce que la direction l'exige. | Ce n'est pas dit.
+EXP: Le constat initial justifie la proposition, introduite par « donc ».
+Q: Quelle objection le collègue soulève-t-il ? | argumentation
++ La surcharge de travail pendant les absences, notamment en été. | « Ça risque de doubler la charge de travail pendant les vacances d'été, où on est déjà en sous-effectif. »
+- L'absence de formation des conseillers. | Ce n'est pas évoqué.
+- Le refus des clients de changer d'interlocuteur. | Ce n'est pas dit.
+- Le coût d'un nouveau logiciel. | Ce n'est pas mentionné.
+EXP: Le collègue soulève deux objections successives : les absences, puis la surcharge du binôme. La seconde précise la première.
+Q: Comment la responsable répond-elle à cette objection ? | synthèse
++ Elle reconnaît le risque et propose une période d'essai réversible. | « C'est un vrai risque… Je propose qu'on teste… pendant trois mois… Si ça ne fonctionne pas, on reviendra en arrière. »
+- Elle refuse de discuter et impose le projet. | Elle propose de faire le point ensemble.
+- Elle abandonne immédiatement le projet. | Elle propose de le tester.
+- Elle promet de recruter de nouveaux conseillers. | Ce n'est pas dit.
+EXP: La réponse combine reconnaissance (« je ne vais pas le nier ») et proposition pragmatique (test, évaluation, retour possible).
+VOCAB: un portefeuille de clients = l'ensemble des clients suivis par une personne = Chaque commercial gère un portefeuille de clients. ; un binôme = un groupe de deux personnes qui travaillent ensemble = Les élèves travaillent en binôme. ; le sous-effectif = le manque de personnel = L'hôpital est en sous-effectif. ; estival = de l'été = La période estivale est chargée.
+EXPR: prendre le relais = remplacer quelqu'un pour continuer une tâche = Pendant mon absence, Paul prendra le relais. ; faire le point = faire un bilan de la situation = Faisons le point vendredi. ; revenir en arrière = annuler un changement = La décision est prise, on ne reviendra pas en arrière.
+
+## CO-PRO-02 | message professionnel | H:fr-FR
+TITRE: Un message vocal d'un fournisseur
+DOC: H: Bonjour Madame Leroy, c'est Julien Mercier, de la société Imprimex. Je vous appelle au sujet de votre commande de catalogues, prévue pour jeudi. Malheureusement, nous avons un souci avec le papier recyclé que vous aviez choisi : notre fournisseur est en rupture de stock jusqu'à la fin du mois. Je vous propose deux solutions. Soit nous maintenons la date de livraison avec un papier classique, de qualité équivalente, sans supplément de prix. Soit nous attendons le papier recyclé, ce qui repousserait la livraison d'environ trois semaines. Je sais que vous avez un salon professionnel le quinze, donc je me permets d'insister sur le fait qu'il me faut votre réponse avant demain midi pour lancer l'impression. Vous pouvez me joindre directement au zéro six, vingt-deux, quarante et un, dix-huit, cinquante-trois. Merci et bonne journée.
+Q: Quel est le problème signalé par le fournisseur ? | information détaillée
++ Le papier choisi n'est pas disponible pour le moment. | « Notre fournisseur est en rupture de stock jusqu'à la fin du mois. »
+- La commande a été perdue. | Ce n'est pas dit.
+- Le prix des catalogues a augmenté. | Il n'y a pas de supplément.
+- L'imprimerie est fermée. | Ce n'est pas mentionné.
+EXP: « Être en rupture de stock » signifie ne plus avoir de marchandise disponible.
+Q: Quelles options propose-t-il ? | synthèse
++ Livrer à temps avec un autre papier ou attendre le papier prévu plus longtemps. | « Soit nous maintenons la date… avec un papier classique… Soit nous attendons le papier recyclé… trois semaines. »
+- Rembourser la commande ou l'annuler. | Ce n'est pas proposé.
+- Livrer une partie seulement des catalogues. | Ce n'est pas dit.
+- Changer de format de catalogue. | Ce n'est pas évoqué.
+EXP: La structure « Soit… soit… » présente une alternative. Il faut retenir les deux conditions (papier et délai).
+Q: Pourquoi le fournisseur insiste-t-il sur la date de réponse ? | implicite
++ Pour que les catalogues soient prêts avant le salon de la cliente. | « Je sais que vous avez un salon professionnel le quinze, donc je me permets d'insister. »
+- Parce qu'il part en vacances le lendemain. | Ce n'est pas dit.
+- Parce que le prix va augmenter. | Ce n'est pas mentionné.
+- Parce que la cliente est souvent en retard. | Ce n'est pas évoqué.
+EXP: Le connecteur « donc » relie la contrainte de la cliente (le salon) à l'urgence de sa demande.
+VOCAB: un fournisseur = une entreprise qui vend des produits à une autre = Nous avons changé de fournisseur. ; la rupture de stock = l'absence de marchandise disponible = Ce modèle est en rupture de stock. ; un supplément = une somme à payer en plus = Le petit-déjeuner est en supplément. ; un salon professionnel = une exposition réservée aux professionnels d'un secteur = Le salon de l'agriculture a lieu en février.
+EXPR: au sujet de = à propos de = Je vous appelle au sujet de votre facture. ; je me permets d'insister = je souligne avec politesse l'importance = Je me permets d'insister sur ce point. ; soit… soit… = ou bien… ou bien… = Soit tu viens, soit tu restes.
+
+## CO-PRO-03 | entretien d'embauche | F:fr-FR, H:fr-FR
+TITRE: Un entretien d'embauche
+CONTEXTE: Une recruteuse interroge un candidat à un poste de chef de projet.
+DOC: F: Dans votre précédent poste, vous avez dû gérer un projet qui a mal tourné. Pouvez-vous m'en parler ? / H: Oui. Il s'agissait du lancement d'une application pour un client du secteur bancaire. Nous avions trois mois de retard et le client menaçait de rompre le contrat. Avec le recul, je pense que l'erreur venait du départ : nous avions accepté un calendrier irréaliste pour remporter le marché. / F: Qu'avez-vous fait ? / H: J'ai d'abord été transparent avec le client, même si c'était inconfortable. Je lui ai présenté un nouveau calendrier réaliste et j'ai proposé de livrer les fonctionnalités par étapes. Le client a accepté, et nous avons finalement conservé le contrat. Ce que j'en ai retenu, c'est qu'il vaut mieux annoncer une mauvaise nouvelle tôt que de la cacher en espérant rattraper le retard.
+Q: Selon le candidat, d'où venait le problème du projet ? | information détaillée
++ D'un calendrier trop ambitieux accepté dès le départ. | « L'erreur venait du départ : nous avions accepté un calendrier irréaliste pour remporter le marché. »
+- D'une erreur technique de l'équipe. | Ce n'est pas l'explication donnée.
+- D'un client trop exigeant. | Il ne rejette pas la faute sur le client.
+- D'un manque de budget. | Le budget n'est pas évoqué.
+EXP: « Avec le recul » introduit une analyse a posteriori. Le candidat reconnaît une erreur de son côté.
+Q: Quelle a été sa principale action ? | argumentation
++ Dire la vérité au client et proposer un nouveau plan réaliste. | « J'ai d'abord été transparent avec le client… je lui ai présenté un nouveau calendrier réaliste. »
+- Cacher le retard au client. | C'est ce qu'il conseille de ne pas faire.
+- Remplacer l'équipe de développement. | Ce n'est pas dit.
+- Abandonner le projet. | Le contrat a été conservé.
+EXP: « Même si c'était inconfortable » souligne le courage de la démarche, valorisé dans un entretien.
+Q: Quelle leçon le candidat a-t-il tirée de cette expérience ? | synthèse
++ Il faut annoncer rapidement les difficultés plutôt que de les dissimuler. | « Il vaut mieux annoncer une mauvaise nouvelle tôt que de la cacher en espérant rattraper le retard. »
+- Il faut toujours accepter les délais du client. | C'est l'erreur qu'il a commise.
+- Il faut éviter les clients du secteur bancaire. | Ce n'est pas dit.
+- Il faut livrer toutes les fonctionnalités en même temps. | Il a proposé une livraison par étapes.
+EXP: « Ce que j'en ai retenu, c'est que… » introduit la leçon. Dans un entretien, cette structure situation-action-résultat-leçon est très appréciée.
+VOCAB: mal tourner = évoluer de façon négative = La discussion a mal tourné. ; remporter un marché = obtenir un contrat face à des concurrents = L'entreprise a remporté un marché important. ; transparent = qui ne cache rien = Le directeur a été transparent sur les chiffres. ; une fonctionnalité = une fonction proposée par un logiciel = Cette application a de nombreuses fonctionnalités.
+EXPR: avec le recul = en y repensant plus tard = Avec le recul, j'aurais agi autrement. ; il vaut mieux… que de… = il est préférable de… plutôt que de… = Il vaut mieux prévenir que guérir. ; rompre un contrat = mettre fin à un contrat = Le client a rompu le contrat.
+
+## CO-PRO-04 | débat radiophonique | H:fr-FR, F:fr-FR
+TITRE: Le droit à la déconnexion
+CONTEXTE: Débat entre un chef d'entreprise et une syndicaliste.
+DOC: H: Le droit à la déconnexion existe dans la loi. Mais concrètement, dans une entreprise qui travaille avec des clients à l'international, on ne peut pas tout couper à dix-huit heures. / F: Personne ne demande de tout couper. Ce que nous demandons, c'est qu'un salarié ne soit pas pénalisé s'il ne répond pas à un courriel envoyé à vingt-trois heures. Aujourd'hui, beaucoup se sentent obligés de répondre, par peur d'être mal vus. / H: Chez nous, personne n'est obligé de répondre. / F: Officiellement, non. Mais quand le directeur lui-même envoie des messages le dimanche, le message implicite est clair. La culture d'entreprise compte plus que le règlement. / H: Je vous l'accorde, l'exemple doit venir d'en haut. Nous avons d'ailleurs mis en place un système qui diffère l'envoi des courriels écrits le soir au lendemain matin. / F: C'est une bonne initiative, à condition qu'elle s'applique à tous, direction comprise.
+Q: Que demande la syndicaliste ? | point de vue
++ Qu'un salarié ne subisse aucune conséquence s'il ne répond pas en dehors de ses heures. | « Qu'un salarié ne soit pas pénalisé s'il ne répond pas à un courriel envoyé à vingt-trois heures. »
+- Que l'entreprise ferme à dix-huit heures. | « Personne ne demande de tout couper. »
+- Que les clients internationaux soient abandonnés. | Ce n'est pas dit.
+- Que les courriels soient interdits. | Ce n'est pas sa demande.
+EXP: « Personne ne demande de… Ce que nous demandons, c'est… » corrige une interprétation exagérée de sa position.
+Q: Qu'est-ce qui, selon elle, pousse les salariés à répondre tard ? | implicite
++ L'exemple donné par la direction, qui crée une pression implicite. | « Quand le directeur lui-même envoie des messages le dimanche, le message implicite est clair. »
+- Une obligation inscrite dans le contrat. | « Officiellement, non. »
+- Le désir de gagner plus d'argent. | Ce n'est pas dit.
+- Les exigences des collègues. | Elle vise la direction.
+EXP: « La culture d'entreprise compte plus que le règlement » oppose les règles écrites et les comportements réels.
+Q: Sur quoi le chef d'entreprise se montre-t-il d'accord ? | synthèse
++ Sur l'importance de l'exemple donné par les dirigeants. | « Je vous l'accorde, l'exemple doit venir d'en haut. »
+- Sur la nécessité de fermer l'entreprise le soir. | Il juge cela impossible.
+- Sur l'interdiction des messages le dimanche. | Ce n'est pas ce qu'il concède.
+- Sur l'inutilité du droit à la déconnexion. | Il ne le dit pas.
+EXP: « Je vous l'accorde » est une formule de concession. Il illustre ensuite son accord par une mesure concrète.
+VOCAB: la déconnexion = le fait de ne plus être connecté au travail = Le droit à la déconnexion protège les salariés. ; pénaliser = sanctionner, désavantager = Les retards pénalisent toute l'équipe. ; différer = repousser à plus tard = L'envoi est différé au lendemain. ; implicite = qui n'est pas dit clairement mais compris = Il y a une règle implicite.
+EXPR: être mal vu = avoir une mauvaise image = Partir tôt est mal vu dans ce bureau. ; venir d'en haut = venir de la direction = Les décisions viennent d'en haut. ; je vous l'accorde = je reconnais que vous avez raison = Je vous l'accorde, c'était une erreur.
+
+## CO-PRO-05 | interview | F:fr-FR, H:fr-FR
+TITRE: Le management bienveillant, une mode ?
+CONTEXTE: Une journaliste interroge un consultant en organisation du travail.
+DOC: F: On parle beaucoup de management bienveillant. Est-ce une vraie révolution ou une mode ? / H: Un peu des deux. Le mot est devenu un argument marketing : des entreprises installent un baby-foot et des fruits frais, et se déclarent bienveillantes, alors que les salariés croulent sous la charge de travail. Ça, c'est de la façade. / F: Et la vraie bienveillance, c'est quoi ? / H: C'est d'abord donner aux gens les moyens de bien faire leur travail : des objectifs clairs, des effectifs suffisants, de l'autonomie. Ce n'est pas être gentil à tout prix. Un bon manager doit aussi savoir dire quand ça ne va pas. Ne jamais faire de reproche, ce n'est pas de la bienveillance, c'est de l'évitement. La bienveillance, c'est dire les choses avec respect, pas ne pas les dire.
+Q: Que critique le consultant ? | point de vue
++ Les entreprises qui affichent une bienveillance superficielle. | « Des entreprises installent un baby-foot… et se déclarent bienveillantes, alors que les salariés croulent sous la charge de travail. Ça, c'est de la façade. »
+- Le principe même du management bienveillant. | Il en propose une version authentique.
+- Les fruits frais au bureau. | Ce n'est pas le problème en soi.
+- Les managers trop sévères. | Ce n'est pas sa critique principale.
+EXP: « De la façade » désigne une apparence trompeuse. Le connecteur « alors que » oppose l'image et la réalité.
+Q: Selon lui, en quoi consiste la vraie bienveillance ? | information détaillée
++ À fournir aux salariés les conditions pour bien travailler. | « C'est d'abord donner aux gens les moyens de bien faire leur travail : des objectifs clairs, des effectifs suffisants, de l'autonomie. »
+- À ne jamais critiquer les salariés. | Il dit que ce serait de l'évitement.
+- À organiser des activités de détente. | C'est ce qu'il qualifie de façade.
+- À augmenter tous les salaires. | Ce n'est pas mentionné.
+EXP: La définition est donnée après les deux-points sous forme d'énumération concrète.
+Q: Que signifie la dernière phrase du consultant ? | synthèse
++ Être bienveillant, c'est exprimer les critiques avec respect plutôt que les taire. | « La bienveillance, c'est dire les choses avec respect, pas ne pas les dire. »
+- Il faut éviter toute remarque négative. | C'est l'inverse.
+- Il faut critiquer durement les salariés. | Il insiste sur le respect.
+- Il faut laisser les salariés s'évaluer seuls. | Ce n'est pas dit.
+EXP: Le parallélisme « dire les choses avec respect / ne pas les dire » oppose deux attitudes : la franchise respectueuse et le silence.
+VOCAB: bienveillant = qui veut du bien aux autres = Elle a un regard bienveillant. ; crouler sous = être écrasé par une quantité excessive = Il croule sous les dossiers. ; de la façade = une apparence trompeuse = Sa gentillesse n'est que de la façade. ; l'évitement = le fait d'éviter une situation difficile = Son silence est une stratégie d'évitement.
+EXPR: un peu des deux = à la fois l'un et l'autre = C'est de la chance ou du talent ? Un peu des deux. ; à tout prix = quelles que soient les conséquences = Il veut gagner à tout prix. ; quand ça ne va pas = quand il y a un problème = Dis-le-moi quand ça ne va pas.
+
+## CO-PRO-06 | annonce professionnelle | F:fr-FR
+TITRE: Une annonce interne sur le télétravail
+DOC: F: Bonjour à toutes et à tous. Suite à l'accord signé avec les représentants du personnel, voici les nouvelles règles de télétravail qui entreront en vigueur le premier mars. Chaque salarié pourra télétravailler jusqu'à deux jours par semaine, à condition que son poste le permette et en accord avec son responsable. Le mardi restera un jour de présence obligatoire pour tous, afin de faciliter les réunions d'équipe. Une indemnité de vingt euros par mois sera versée pour couvrir les frais de connexion et d'électricité. Les salariés qui le souhaitent pourront également bénéficier d'un siège ergonomique, sur demande auprès des services généraux. Enfin, nous rappelons que le télétravail n'est pas un droit acquis : il pourra être suspendu en cas de nécessité de service, avec un délai de prévenance d'une semaine.
+Q: À quelle condition un salarié peut-il télétravailler ? | information détaillée
++ Si son poste le permet et si son responsable est d'accord. | « À condition que son poste le permette et en accord avec son responsable. »
+- S'il habite loin de l'entreprise. | Ce n'est pas une condition.
+- S'il travaille dans l'entreprise depuis un an. | Ce n'est pas dit.
+- S'il en fait la demande chaque semaine. | Ce n'est pas mentionné.
+EXP: « À condition que » introduit les conditions. Il y en a deux, liées par « et ».
+Q: Pourquoi le mardi est-il un jour de présence obligatoire ? | information détaillée
++ Pour permettre l'organisation de réunions d'équipe. | « Afin de faciliter les réunions d'équipe. »
+- Parce que c'est le jour de paie. | Ce n'est pas dit.
+- Parce que les clients viennent ce jour-là. | Ce n'est pas mentionné.
+- Pour distribuer les sièges ergonomiques. | Ce n'est pas lié.
+EXP: « Afin de » introduit un but.
+Q: Que signifie le rappel final de l'annonce ? | implicite
++ L'entreprise peut retirer temporairement le télétravail si l'activité l'exige. | « Le télétravail n'est pas un droit acquis : il pourra être suspendu en cas de nécessité de service. »
+- Le télétravail est garanti à vie. | C'est l'inverse.
+- Les salariés peuvent refuser de revenir au bureau. | Ce n'est pas dit.
+- Le télétravail sera supprimé dans une semaine. | Le délai concerne une éventuelle suspension.
+EXP: Un « droit acquis » est un avantage définitif. La négation indique que le télétravail reste révocable.
+VOCAB: entrer en vigueur = commencer à s'appliquer = La loi entre en vigueur demain. ; une indemnité = une somme versée pour compenser des frais = Il reçoit une indemnité de transport. ; ergonomique = adapté au confort du corps = Un clavier ergonomique évite les douleurs. ; un délai de prévenance = le temps minimal pour prévenir avant un changement = Le délai de prévenance est de quinze jours.
+EXPR: suite à = à la suite de = Suite à votre demande, voici le document. ; un droit acquis = un avantage obtenu de façon définitive = Les congés payés sont un droit acquis. ; en cas de nécessité de service = si l'organisation du travail l'exige = Les congés peuvent être reportés en cas de nécessité de service.
+
+## CO-PRO-07 | témoignage | H:fr-BE
+TITRE: Devenir manager du jour au lendemain
+DOC: H: Il y a deux ans, mon chef est parti et on m'a proposé son poste. J'étais le meilleur technicien de l'équipe, alors tout le monde trouvait ça logique. Moi le premier. Mais j'ai vite compris qu'être bon dans son métier et savoir encadrer une équipe, ce sont deux choses complètement différentes. Les premiers mois, je continuais à faire le travail technique moi-même, parce que j'allais plus vite. Résultat : je travaillais soixante heures par semaine et mes collègues se sentaient dépossédés. C'est une formation en management qui m'a ouvert les yeux. J'ai appris à déléguer, à faire confiance, à accepter que les choses ne soient pas faites exactement comme je l'aurais fait. Aujourd'hui, je regrette parfois le travail technique, mais je trouve une autre satisfaction : voir mes collègues progresser.
+Q: Pourquoi lui a-t-on proposé le poste de manager ? | information détaillée
++ Parce qu'il était le plus compétent techniquement. | « J'étais le meilleur technicien de l'équipe, alors tout le monde trouvait ça logique. »
+- Parce qu'il avait suivi une formation en management. | Il l'a suivie après.
+- Parce qu'il était le plus ancien. | Ce n'est pas dit.
+- Parce qu'il l'avait demandé. | Ce n'est pas mentionné.
+EXP: « Alors » introduit la conséquence logique perçue par tous, que le témoin va ensuite remettre en question.
+Q: Quelle erreur a-t-il commise au début ? | argumentation
++ Il a continué à faire lui-même le travail de son équipe. | « Je continuais à faire le travail technique moi-même, parce que j'allais plus vite. »
+- Il a refusé de travailler plus de quarante heures. | Il travaillait soixante heures.
+- Il a licencié plusieurs collègues. | Ce n'est pas dit.
+- Il a ignoré les demandes de sa direction. | Ce n'est pas mentionné.
+EXP: Les conséquences de cette erreur sont données par « Résultat : » (surcharge et collègues « dépossédés »).
+Q: Qu'est-ce qui le satisfait aujourd'hui dans son poste ? | synthèse
++ Le fait d'aider ses collègues à s'améliorer. | « Je trouve une autre satisfaction : voir mes collègues progresser. »
+- Le travail technique qu'il fait seul. | Il le « regrette parfois ».
+- Le salaire plus élevé. | Ce n'est pas évoqué.
+- Les horaires réduits. | Ce n'est pas mentionné.
+EXP: Le « mais » oppose un regret (le travail technique) et une nouvelle source de satisfaction.
+VOCAB: encadrer = diriger, superviser une équipe = Elle encadre une équipe de dix personnes. ; déléguer = confier une tâche à quelqu'un d'autre = Un bon chef sait déléguer. ; dépossédé = privé de ce qui lui appartenait = Les salariés se sentent dépossédés de leurs missions. ; un technicien = un spécialiste d'une technique = Le technicien a réparé la machine.
+EXPR: du jour au lendemain = soudainement = Il a changé d'avis du jour au lendemain. ; ouvrir les yeux = faire comprendre la réalité = Ce voyage m'a ouvert les yeux. ; moi le premier = et moi aussi, avant les autres = Tout le monde était surpris, moi le premier.
+
+## CO-PRO-08 | journal radio | H:fr-FR
+TITRE: L'égalité salariale entre femmes et hommes
+DOC: H: Malgré une loi qui impose l'égalité salariale depuis près de cinquante ans, les femmes gagnent toujours en moyenne vingt-quatre pour cent de moins que les hommes, selon les derniers chiffres de l'institut de statistiques. Cet écart s'explique en partie par le temps partiel, beaucoup plus fréquent chez les femmes, et par leur surreprésentation dans des métiers moins bien rémunérés. Mais même à poste et temps de travail égaux, il reste un écart inexpliqué d'environ quatre pour cent, que les chercheurs attribuent en grande partie à la discrimination. Les entreprises de plus de cinquante salariés doivent désormais publier chaque année un index d'égalité. Les syndicats jugent l'outil utile mais trop facile à contourner : certaines entreprises obtiennent de bonnes notes tout en maintenant des écarts importants.
+Q: Quelles explications de l'écart salarial le journaliste donne-t-il ? | information détaillée
++ Le temps partiel, les métiers moins payés et, en partie, la discrimination. | Il cite ces trois facteurs successivement.
+- Le niveau de diplôme inférieur des femmes. | Ce n'est pas mentionné.
+- Le refus des femmes de négocier. | Ce n'est pas dit.
+- L'absence de loi sur l'égalité. | Une loi existe depuis cinquante ans.
+EXP: « En partie… Mais même… » distingue les causes structurelles de l'écart « inexpliqué » attribué à la discrimination.
+Q: Que révèle l'écart de quatre pour cent ? | implicite
++ Même dans des situations comparables, une inégalité persiste. | « Même à poste et temps de travail égaux, il reste un écart inexpliqué… attribué en grande partie à la discrimination. »
+- Les femmes travaillent quatre pour cent de moins. | Le temps de travail est égal dans cette comparaison.
+- L'écart a disparu dans les grandes entreprises. | Ce n'est pas dit.
+- Les hommes sont plus diplômés. | Ce n'est pas mentionné.
+EXP: « À poste et temps de travail égaux » neutralise les autres explications : ce qui reste est donc inexpliqué par ces facteurs.
+Q: Que pensent les syndicats de l'index d'égalité ? | point de vue
++ Il est utile mais permet à certaines entreprises de masquer des inégalités. | « Utile mais trop facile à contourner : certaines entreprises obtiennent de bonnes notes tout en maintenant des écarts. »
+- Il est inutile et doit être supprimé. | Ils le jugent utile.
+- Il a fait disparaître les inégalités. | Les écarts persistent.
+- Il devrait concerner uniquement les grandes entreprises. | Ce n'est pas leur critique.
+EXP: « Utile mais… » : une évaluation nuancée. « Tout en » montre la contradiction entre la note et la réalité.
+VOCAB: le temps partiel = un temps de travail inférieur au temps complet = Elle travaille à temps partiel. ; la surreprésentation = une présence plus importante que la moyenne = On constate une surreprésentation des hommes dans ce secteur. ; la discrimination = un traitement inégal et injuste = La discrimination à l'embauche est interdite. ; un index = un indicateur chiffré = L'index d'égalité est publié chaque année.
+EXPR: à poste égal = pour un emploi identique = À poste égal, le salaire doit être le même. ; en partie = partiellement = Il a en partie raison. ; contourner = éviter de respecter sans enfreindre directement = Ils contournent la loi.
+
+## CO-PRO-09 | conférence | F:fr-FR
+TITRE: Les réunions inutiles
+CONTEXTE: Extrait d'une conférence d'une consultante en efficacité professionnelle.
+DOC: F: Un cadre passe en moyenne seize heures par semaine en réunion, et il juge lui-même qu'un tiers de ces réunions sont inutiles. Faites le calcul : cela représente plus de cinq heures perdues chaque semaine, par personne. Pourquoi organisons-nous autant de réunions ? Souvent par habitude, parfois par prudence : décider à plusieurs, c'est partager la responsabilité. Je propose trois règles simples. D'abord, pas de réunion sans ordre du jour envoyé à l'avance. Ensuite, n'inviter que les personnes qui doivent réellement intervenir ou décider ; les autres recevront un compte rendu. Enfin, fixer une durée et s'y tenir : une réunion de trente minutes oblige à aller à l'essentiel. Les entreprises qui ont appliqué ces règles ont réduit leur temps de réunion d'un quart, sans perte d'efficacité, bien au contraire.
+Q: Pourquoi organise-t-on autant de réunions, selon la consultante ? | argumentation
++ Par habitude ou pour partager la responsabilité des décisions. | « Souvent par habitude, parfois par prudence : décider à plusieurs, c'est partager la responsabilité. »
+- Parce que la loi l'impose. | Ce n'est pas dit.
+- Parce que les salariés aiment se rencontrer. | Ce n'est pas mentionné.
+- Parce que les décisions sont trop nombreuses. | Ce n'est pas l'explication donnée.
+EXP: « Souvent… parfois… » présente deux causes de fréquence différente. La seconde est expliquée après les deux-points.
+Q: Quelle règle concerne les participants aux réunions ? | information détaillée
++ N'inviter que ceux qui doivent intervenir ou décider. | « N'inviter que les personnes qui doivent réellement intervenir ou décider ; les autres recevront un compte rendu. »
+- Inviter tous les membres de l'équipe. | C'est l'inverse.
+- Faire tourner l'animation de la réunion. | Ce n'est pas proposé.
+- Interdire les ordinateurs en réunion. | Ce n'est pas mentionné.
+EXP: Les trois règles sont introduites par « D'abord… Ensuite… Enfin ». La question porte sur la deuxième.
+Q: Quel résultat les entreprises ont-elles obtenu ? | synthèse
++ Moins de temps passé en réunion, avec une efficacité au moins égale. | « Réduit leur temps de réunion d'un quart, sans perte d'efficacité, bien au contraire. »
+- Une suppression totale des réunions. | Elles ont été réduites d'un quart.
+- Une baisse de l'efficacité. | « Sans perte d'efficacité. »
+- Une augmentation de la durée des réunions. | C'est l'inverse.
+EXP: « Bien au contraire » suggère que l'efficacité s'est même améliorée.
+VOCAB: un ordre du jour = la liste des sujets à traiter en réunion = L'ordre du jour comporte trois points. ; un compte rendu = un résumé écrit d'une réunion = Je vous enverrai le compte rendu. ; un cadre = un salarié occupant un poste de responsabilité = Les cadres travaillent souvent plus de quarante heures. ; la prudence = l'attitude qui consiste à éviter les risques = Par prudence, il a tout vérifié.
+EXPR: faites le calcul = calculez vous-même (pour souligner un résultat) = Dix euros par jour, faites le calcul ! ; aller à l'essentiel = se concentrer sur le plus important = Soyez brefs, allez à l'essentiel. ; s'y tenir = respecter ce qui a été fixé = On a fixé un budget, il faut s'y tenir.

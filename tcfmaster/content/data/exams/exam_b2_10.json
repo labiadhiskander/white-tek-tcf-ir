@@ -1,0 +1,1996 @@
+{
+ "code": "B2-BLANC-10",
+ "title": "Examen blanc B2 n° 10 – Famille, solidarités et institutions",
+ "level": "B2",
+ "description": "Examen complet de niveau B2 aux durées officielles : vie familiale, entraide, engagement associatif, services publics et citoyenneté.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "intention",
+   "document": "F: Bonjour Madame Haddad, ici Céline, la directrice de la crèche Les Petits Pas. Je vous appelle parce qu'une place vient de se libérer à partir du 1er mars pour votre fils. Je sais que vous aviez trouvé une solution provisoire avec une assistante maternelle, donc je voulais vous laisser le choix. Pourriez-vous me donner votre réponse avant vendredi ? Sinon, je proposerai la place à la famille suivante.",
+   "prompt": "Pourquoi la directrice appelle-t-elle Mme Haddad ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour lui annoncer que son fils est refusé.",
+     "correct": false,
+     "rationale": "Une place se libère pour lui."
+    },
+    {
+     "label": "B",
+     "text": "Pour lui reprocher d'avoir choisi une assistante maternelle.",
+     "correct": false,
+     "rationale": "Elle respecte son choix."
+    },
+    {
+     "label": "C",
+     "text": "Pour lui proposer une place et lui demander une réponse rapide.",
+     "correct": true,
+     "rationale": "Elle annonce une place libre et fixe un délai."
+    },
+    {
+     "label": "D",
+     "text": "Pour l'inviter à une réunion de parents.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "Le message présente une offre, tient compte de la situation de la mère, puis fixe une échéance et sa conséquence (« sinon »).",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co01.wav"
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "reportage radio",
+   "skill": "information précise",
+   "document": "H: Dans cette commune, un service de transport solidaire permet aux personnes âgées sans voiture de se rendre à leurs rendez-vous médicaux ou de faire leurs courses. Les trajets sont assurés par des conducteurs bénévoles. Les passagers participent seulement aux frais d'essence, selon un barème fixé par la mairie. Il faut réserver au moins quarante-huit heures à l'avance.",
+   "prompt": "Que paient les passagers ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un abonnement annuel.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "Rien du tout.",
+     "correct": false,
+     "rationale": "Ils participent aux frais d'essence."
+    },
+    {
+     "label": "C",
+     "text": "Le salaire du conducteur.",
+     "correct": false,
+     "rationale": "Les conducteurs sont bénévoles."
+    },
+    {
+     "label": "D",
+     "text": "Une participation aux frais d'essence.",
+     "correct": true,
+     "rationale": "« Les passagers participent seulement aux frais d'essence »."
+    }
+   ],
+   "explanation": "L'adverbe « seulement » limite la participation financière. Le barème fixé par la mairie est un détail complémentaire.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co02.wav"
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "H: Mes parents vieillissent, et je me demande s'il ne faudrait pas les installer chez nous. / F: C'est généreux, mais réfléchis bien. Vivre ensemble au quotidien, ça peut créer des tensions, surtout avec les enfants. Pourquoi pas plutôt un logement adapté tout près de chez vous ? Ils garderaient leur indépendance, et tu pourrais passer les voir tous les jours.",
+   "prompt": "Quel est l'avis de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un logement proche serait préférable à une cohabitation.",
+     "correct": true,
+     "rationale": "« Pourquoi pas plutôt un logement adapté tout près de chez vous ? »"
+    },
+    {
+     "label": "B",
+     "text": "Il faut placer les parents en maison de retraite.",
+     "correct": false,
+     "rationale": "Elle n'en parle pas."
+    },
+    {
+     "label": "C",
+     "text": "La cohabitation est la meilleure solution.",
+     "correct": false,
+     "rationale": "Elle en souligne les risques."
+    },
+    {
+     "label": "D",
+     "text": "Les parents ne doivent plus voir leurs petits-enfants.",
+     "correct": false,
+     "rationale": "Ce n'est pas évoqué."
+    }
+   ],
+   "explanation": "La femme reconnaît la générosité de l'idée, met en garde, puis propose une alternative sous forme de question. Le conditionnel en présente les avantages.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co03.wav"
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Mesdames et Messieurs, la mairie vous informe que les demandes de carte d'identité et de passeport se font uniquement sur rendez-vous. Avant votre rendez-vous, vous devez remplir une pré-demande en ligne et noter le numéro obtenu. Les personnes qui ne disposent pas d'internet peuvent se faire aider à l'accueil du service état civil, le mardi et le jeudi matin.",
+   "prompt": "Que peuvent faire les personnes sans accès à internet ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Être dispensées de pré-demande.",
+     "correct": false,
+     "rationale": "Elles sont aidées pour la faire."
+    },
+    {
+     "label": "B",
+     "text": "Se faire aider à l'accueil le mardi ou le jeudi matin.",
+     "correct": true,
+     "rationale": "Elles « peuvent se faire aider à l'accueil… le mardi et le jeudi matin »."
+    },
+    {
+     "label": "C",
+     "text": "Envoyer leur demande par courrier.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Venir sans rendez-vous.",
+     "correct": false,
+     "rationale": "Les demandes se font uniquement sur rendez-vous."
+    }
+   ],
+   "explanation": "L'annonce donne une règle générale, une étape obligatoire, puis une aide pour un public particulier.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co04.wav"
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "compréhension globale",
+   "document": "F: Vous êtes « parrain » dans une association qui accompagne des jeunes vers l'emploi. En quoi cela consiste ? / H: Je rencontre un jeune une fois par mois. Je l'aide à préparer son CV, ses entretiens, et surtout je lui ouvre mon carnet d'adresses. Beaucoup de jeunes ont les compétences, mais pas le réseau. Moi, j'ai trente ans de carrière derrière moi : c'est une façon de transmettre ce que j'ai reçu.",
+   "prompt": "Quel est le thème principal de l'interview ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les compétences insuffisantes des jeunes.",
+     "correct": false,
+     "rationale": "Ils « ont les compétences, mais pas le réseau »."
+    },
+    {
+     "label": "B",
+     "text": "Une agence de recrutement payante.",
+     "correct": false,
+     "rationale": "C'est une association."
+    },
+    {
+     "label": "C",
+     "text": "Un accompagnement bénévole qui aide des jeunes à accéder à l'emploi.",
+     "correct": true,
+     "rationale": "Il aide à préparer les candidatures et partage son réseau."
+    },
+    {
+     "label": "D",
+     "text": "Les difficultés des retraités.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    }
+   ],
+   "explanation": "L'homme décrit son rôle, identifie le problème principal (le réseau) et conclut sur le sens de son engagement.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co05.wav"
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "skill": "inférence",
+   "document": "H: Dimanche, déjeuner de famille. Autour de la table, quatre générations. Pendant une heure, personne n'a regardé son téléphone : ma grand-mère avait installé une corbeille à l'entrée, avec une petite étiquette : « Les écrans ici, les histoires à table. » Mes neveux ont protesté cinq minutes. Puis ils ont passé l'après-midi à écouter ses souvenirs de jeunesse.",
+   "prompt": "Que laisse entendre le chroniqueur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'initiative de la grand-mère a favorisé les échanges entre générations.",
+     "correct": true,
+     "rationale": "Les neveux ont fini par écouter ses souvenirs tout l'après-midi."
+    },
+    {
+     "label": "B",
+     "text": "Les neveux ont refusé de rester à table.",
+     "correct": false,
+     "rationale": "Ils ont seulement protesté cinq minutes."
+    },
+    {
+     "label": "C",
+     "text": "La grand-mère ne sait pas utiliser un téléphone.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "D",
+     "text": "Le repas s'est mal passé.",
+     "correct": false,
+     "rationale": "Il s'est bien passé."
+    }
+   ],
+   "explanation": "Le chroniqueur raconte sans juger, mais l'évolution (protestation puis écoute) montre l'effet positif de la règle.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co06.wav"
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "débat radio",
+   "skill": "opinion",
+   "document": "F: Faut-il rendre obligatoire un service civique pour tous les jeunes ? / H: Je ne crois pas que l'obligation soit la bonne voie. L'engagement a du sens parce qu'il est choisi. En revanche, il faudrait mieux faire connaître le service civique actuel et mieux l'indemniser, pour que les jeunes de milieux modestes puissent aussi en profiter.",
+   "prompt": "Quelle est la position de l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il veut rendre le service civique obligatoire.",
+     "correct": false,
+     "rationale": "Il ne croit pas à l'obligation."
+    },
+    {
+     "label": "B",
+     "text": "Il pense que les jeunes ne veulent pas s'engager.",
+     "correct": false,
+     "rationale": "Il ne le dit pas."
+    },
+    {
+     "label": "C",
+     "text": "Il veut supprimer le service civique.",
+     "correct": false,
+     "rationale": "Il veut l'améliorer."
+    },
+    {
+     "label": "D",
+     "text": "Il préfère un service volontaire, mieux connu et mieux indemnisé.",
+     "correct": true,
+     "rationale": "« En revanche, il faudrait mieux faire connaître le service civique actuel et mieux l'indemniser »."
+    }
+   ],
+   "explanation": "L'homme rejette une proposition, la justifie (« parce qu'il est choisi ») puis présente une alternative introduite par « en revanche ».",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co07.wav"
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "H: Bonjour Monsieur Benali, ici la caisse d'allocations familiales. Nous avons bien reçu votre déclaration de naissance. Pour finaliser l'ouverture de vos droits, il nous manque une copie de l'acte de naissance de votre fille. Vous pouvez la déposer dans votre espace personnel en ligne. Dès réception, le versement de vos prestations sera effectué le mois suivant.",
+   "prompt": "Que doit faire M. Benali ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Se rendre à la mairie pour déclarer la naissance.",
+     "correct": false,
+     "rationale": "La naissance est déjà déclarée."
+    },
+    {
+     "label": "B",
+     "text": "Envoyer une copie de l'acte de naissance en ligne.",
+     "correct": true,
+     "rationale": "« il nous manque une copie de l'acte de naissance… Vous pouvez la déposer dans votre espace »."
+    },
+    {
+     "label": "C",
+     "text": "Rappeler la caisse pour fixer un rendez-vous.",
+     "correct": false,
+     "rationale": "Ce n'est pas demandé."
+    },
+    {
+     "label": "D",
+     "text": "Attendre le versement sans rien faire.",
+     "correct": false,
+     "rationale": "Il manque un document."
+    }
+   ],
+   "explanation": "Le message indique ce qui manque, comment le transmettre et ce qui se passera ensuite. Il faut identifier l'action demandée.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co08.wav"
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "intention",
+   "document": "F: Pourquoi avez-vous créé un groupe de parole pour les aidants familiaux ? / H: Parce que les personnes qui s'occupent d'un parent malade ou handicapé s'oublient souvent elles-mêmes. Elles culpabilisent dès qu'elles prennent du temps pour elles. Ici, elles peuvent dire leur fatigue sans être jugées et découvrir qu'il existe des aides, comme l'accueil de jour, qui permettent de souffler.",
+   "prompt": "Que cherche à faire l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Présenter un établissement médical.",
+     "correct": false,
+     "rationale": "C'est un groupe de parole."
+    },
+    {
+     "label": "B",
+     "text": "Reprocher aux aidants de prendre du temps pour eux.",
+     "correct": false,
+     "rationale": "Il veut au contraire qu'ils le fassent."
+    },
+    {
+     "label": "C",
+     "text": "Recruter des aidants professionnels.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Expliquer l'utilité d'un soutien pour les aidants.",
+     "correct": true,
+     "rationale": "Il décrit leurs difficultés et ce que le groupe leur apporte."
+    }
+   ],
+   "explanation": "L'homme répond par une cause (« parce que »), décrit le problème, puis les bénéfices du groupe.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co09.wav"
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "H: Dans ce quartier, une « fête des voisins » est organisée chaque année au mois de mai. Tables dans la cour, plats partagés, musique. Pour beaucoup d'habitants, c'est l'occasion de rencontrer pour la première fois des gens qui vivent sur le même palier depuis des années. Depuis, certains se rendent des services : arroser les plantes, garder les enfants, prêter des outils.",
+   "prompt": "Quel est le sujet du reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une fête qui crée des liens durables entre voisins.",
+     "correct": true,
+     "rationale": "Depuis la fête, des voisins « se rendent des services »."
+    },
+    {
+     "label": "B",
+     "text": "Un conflit de voisinage.",
+     "correct": false,
+     "rationale": "Il s'agit au contraire de convivialité."
+    },
+    {
+     "label": "C",
+     "text": "La vente d'outils dans un quartier.",
+     "correct": false,
+     "rationale": "Les outils sont prêtés."
+    },
+    {
+     "label": "D",
+     "text": "L'organisation d'un concert professionnel.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "Le reportage décrit l'événement et ses conséquences (« depuis »). Le sujet réunit la fête et ses effets durables.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co10.wav"
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "conversation administrative",
+   "skill": "information précise",
+   "document": "F: Bonjour, nous voulons nous pacser. Comment faut-il faire ? / H: Vous pouvez le faire ici, à la mairie de votre domicile, ou chez un notaire. À la mairie, c'est gratuit. Il faut d'abord déposer votre dossier, avec une convention signée par vous deux, puis prendre rendez-vous pour l'enregistrement. Vous devez être présents tous les deux ce jour-là.",
+   "prompt": "Quelle condition est indiquée pour le jour de l'enregistrement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un notaire doit être présent.",
+     "correct": false,
+     "rationale": "Le notaire est une alternative à la mairie."
+    },
+    {
+     "label": "B",
+     "text": "Les deux partenaires doivent être présents.",
+     "correct": true,
+     "rationale": "« Vous devez être présents tous les deux ce jour-là »."
+    },
+    {
+     "label": "C",
+     "text": "Ils doivent payer des frais.",
+     "correct": false,
+     "rationale": "À la mairie, c'est gratuit."
+    },
+    {
+     "label": "D",
+     "text": "Deux témoins doivent les accompagner.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "L'employé décrit les étapes dans l'ordre. La dernière phrase répond à la question.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co11.wav"
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "opinion",
+   "document": "F: On parle souvent de « crise de la famille ». Je n'y crois pas. La famille ne disparaît pas, elle change : familles recomposées, monoparentales, grands-parents très présents, amis qui deviennent une famille de cœur. Ce qui compte, ce n'est pas la forme, mais la solidarité qui unit ses membres. Et de ce point de vue, la famille reste le premier lieu d'entraide.",
+   "prompt": "Quelle est l'opinion de la chroniqueuse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les amis remplacent la famille.",
+     "correct": false,
+     "rationale": "Elle cite les amis comme une forme de famille parmi d'autres."
+    },
+    {
+     "label": "B",
+     "text": "La famille est en train de disparaître.",
+     "correct": false,
+     "rationale": "Elle dit « je n'y crois pas »."
+    },
+    {
+     "label": "C",
+     "text": "La famille se transforme mais reste un lieu essentiel de solidarité.",
+     "correct": true,
+     "rationale": "« La famille ne disparaît pas, elle change » ; elle « reste le premier lieu d'entraide »."
+    },
+    {
+     "label": "D",
+     "text": "Seule la famille traditionnelle a de la valeur.",
+     "correct": false,
+     "rationale": "Elle valorise toutes les formes."
+    }
+   ],
+   "explanation": "La chroniqueuse réfute une idée reçue, la remplace par une autre lecture, puis précise son critère (« ce qui compte… »).",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co12.wav"
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "inférence",
+   "document": "H: Vous êtes bénévole dans une association d'aide alimentaire depuis dix ans. Qu'est-ce qui a changé ? / F: Au début, on voyait surtout des personnes sans emploi. Aujourd'hui, de plus en plus de gens viennent après leur journée de travail. Des mères seules, des retraités, des étudiants. Ils ont un salaire ou une pension, mais à la fin du mois, ça ne suffit plus pour se nourrir.",
+   "prompt": "Que comprend-on des propos de la bénévole ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Seules les personnes sans emploi ont besoin d'aide.",
+     "correct": false,
+     "rationale": "C'était le cas au début, plus maintenant."
+    },
+    {
+     "label": "B",
+     "text": "Le nombre de bénéficiaires a diminué.",
+     "correct": false,
+     "rationale": "Il semble au contraire avoir augmenté."
+    },
+    {
+     "label": "C",
+     "text": "Avoir un revenu ne protège plus toujours de la précarité alimentaire.",
+     "correct": true,
+     "rationale": "Des travailleurs et retraités viennent, car leurs revenus « ne suffisent plus »."
+    },
+    {
+     "label": "D",
+     "text": "Les étudiants ne viennent jamais.",
+     "correct": false,
+     "rationale": "Elle les cite."
+    }
+   ],
+   "explanation": "La bénévole compare le passé et le présent. La conclusion générale n'est pas formulée, mais elle découle des exemples.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co13.wav"
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce radio",
+   "skill": "information précise",
+   "document": "H: La banque alimentaire organise sa grande collecte nationale ce week-end dans les supermarchés de la ville. Les bénévoles, reconnaissables à leur gilet orange, vous remettront un sac à l'entrée. Les produits les plus recherchés sont les conserves de légumes et de poisson, l'huile et les produits pour bébés. Merci de ne pas donner de produits frais.",
+   "prompt": "Quels produits ne faut-il pas donner ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'huile.",
+     "correct": false,
+     "rationale": "Elle est recherchée."
+    },
+    {
+     "label": "B",
+     "text": "Les produits pour bébés.",
+     "correct": false,
+     "rationale": "Ils sont recherchés."
+    },
+    {
+     "label": "C",
+     "text": "Les conserves de poisson.",
+     "correct": false,
+     "rationale": "Elles font partie des produits recherchés."
+    },
+    {
+     "label": "D",
+     "text": "Les produits frais.",
+     "correct": true,
+     "rationale": "« Merci de ne pas donner de produits frais »."
+    }
+   ],
+   "explanation": "L'annonce énumère les produits souhaités, puis termine par une restriction. Il faut repérer la négation.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co14.wav"
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "intention",
+   "document": "F: Tu as reçu la convocation pour être juré d'assises ? Tu vas essayer d'y échapper ? / H: Non, pourquoi ? C'est un devoir civique. Et puis, je trouve ça passionnant de participer à la justice. Bien sûr, ça va m'obliger à m'absenter du travail, mais mon employeur ne peut pas s'y opposer. Tu verras, si un jour tu es tirée au sort, tu changeras d'avis.",
+   "prompt": "Que veut faire l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Se plaindre de son employeur.",
+     "correct": false,
+     "rationale": "Il dit que l'employeur ne peut pas s'opposer."
+    },
+    {
+     "label": "B",
+     "text": "Montrer à son amie que cette convocation est un devoir et une expérience intéressante.",
+     "correct": true,
+     "rationale": "« C'est un devoir civique… je trouve ça passionnant »."
+    },
+    {
+     "label": "C",
+     "text": "Lui annoncer qu'elle est convoquée.",
+     "correct": false,
+     "rationale": "C'est lui qui est convoqué."
+    },
+    {
+     "label": "D",
+     "text": "Lui demander comment échapper à la convocation.",
+     "correct": false,
+     "rationale": "Il refuse d'y échapper."
+    }
+   ],
+   "explanation": "L'homme répond par une question, justifie son attitude par deux arguments et termine par une prédiction destinée à convaincre.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co15.wav"
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "H: Dans ce lycée, des élèves de terminale donnent bénévolement des cours de soutien à des collégiens du quartier, deux fois par semaine. Les collégiens progressent, mais les lycéens aussi : expliquer une notion les oblige à la maîtriser parfaitement. Le proviseur souligne un autre bénéfice : des liens se sont créés entre des jeunes qui ne se seraient jamais parlé.",
+   "prompt": "Quel est le sujet du reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un tutorat entre élèves qui profite aux deux parties.",
+     "correct": true,
+     "rationale": "Collégiens et lycéens progressent, et des liens se créent."
+    },
+    {
+     "label": "B",
+     "text": "Le remplacement des professeurs par des élèves.",
+     "correct": false,
+     "rationale": "Le tutorat est un soutien."
+    },
+    {
+     "label": "C",
+     "text": "Les difficultés des lycéens au baccalauréat.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    },
+    {
+     "label": "D",
+     "text": "La création d'une école privée.",
+     "correct": false,
+     "rationale": "Il s'agit d'un projet bénévole dans un lycée."
+    }
+   ],
+   "explanation": "Le reportage insiste sur la réciprocité (« mais les lycéens aussi ») et ajoute un bénéfice social. Le thème réunit ces éléments.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co16.wav"
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Le congé paternité a été allongé. Est-ce suffisant ? / F: C'est un vrai progrès, mais il reste trop court pour changer en profondeur le partage des tâches. Les premiers mois sont décisifs : c'est là que les habitudes se prennent. Si le père est présent plus longtemps, il devient un parent à part entière, et pas seulement « celui qui aide ».",
+   "prompt": "Quelle est l'opinion de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le congé paternité est suffisamment long.",
+     "correct": false,
+     "rationale": "Elle le juge « trop court »."
+    },
+    {
+     "label": "B",
+     "text": "L'allongement est positif mais encore insuffisant.",
+     "correct": true,
+     "rationale": "« C'est un vrai progrès, mais il reste trop court »."
+    },
+    {
+     "label": "C",
+     "text": "Les pères ne veulent pas s'occuper des enfants.",
+     "correct": false,
+     "rationale": "Elle ne le dit pas."
+    },
+    {
+     "label": "D",
+     "text": "Le congé paternité est inutile.",
+     "correct": false,
+     "rationale": "Elle le considère comme un progrès."
+    }
+   ],
+   "explanation": "La femme concède un progrès puis exprime une limite avec « mais ». Son argument porte sur l'importance des premiers mois.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co17.wav"
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "information précise",
+   "document": "F: Bonjour Monsieur Martin, ici le service des élections de la mairie. Votre demande d'inscription sur les listes électorales a bien été enregistrée. Vous recevrez votre carte électorale par courrier avant le prochain scrutin. Si vous ne l'avez pas reçue à temps, vous pourrez voter quand même en présentant une pièce d'identité au bureau de vote.",
+   "prompt": "Que pourra faire M. Martin s'il ne reçoit pas sa carte à temps ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Voter par internet.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "Demander une procuration.",
+     "correct": false,
+     "rationale": "Ce n'est pas proposé."
+    },
+    {
+     "label": "C",
+     "text": "Refaire une demande d'inscription.",
+     "correct": false,
+     "rationale": "Son inscription est enregistrée."
+    },
+    {
+     "label": "D",
+     "text": "Voter en présentant une pièce d'identité.",
+     "correct": true,
+     "rationale": "« vous pourrez voter quand même en présentant une pièce d'identité »."
+    }
+   ],
+   "explanation": "« Quand même » indique que l'absence de carte n'empêche pas de voter. La condition est la présentation d'une pièce d'identité.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co18.wav"
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "inférence",
+   "document": "F: Les jeunes ne s'engagent plus, ils ne votent plus. / H: Ils votent moins, c'est vrai. Mais regardez les associations de défense de l'environnement, les collectes pour les étudiants précaires, les mobilisations en ligne : ils sont partout. Ils s'engagent autrement, souvent pour une cause précise plutôt que pour un parti.",
+   "prompt": "Que sous-entend l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Mesurer l'engagement des jeunes au seul vote est réducteur.",
+     "correct": true,
+     "rationale": "Il cite d'autres formes d'engagement."
+    },
+    {
+     "label": "B",
+     "text": "Les jeunes votent plus que leurs aînés.",
+     "correct": false,
+     "rationale": "Il reconnaît qu'ils votent moins."
+    },
+    {
+     "label": "C",
+     "text": "Les jeunes ne s'intéressent à rien.",
+     "correct": false,
+     "rationale": "Il affirme qu'« ils sont partout »."
+    },
+    {
+     "label": "D",
+     "text": "Les partis politiques attirent beaucoup de jeunes.",
+     "correct": false,
+     "rationale": "Ils préfèrent les causes précises."
+    }
+   ],
+   "explanation": "L'homme concède un point (« c'est vrai »), puis élargit la notion d'engagement. Sa critique de la vision de la femme est implicite.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co19.wav"
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "conférence",
+   "skill": "compréhension globale",
+   "document": "H: Le principe de laïcité garantit la liberté de croire ou de ne pas croire, et impose à l'État d'être neutre à l'égard des religions. Cela signifie que les agents publics, dans l'exercice de leurs fonctions, ne doivent pas manifester leurs convictions religieuses. En revanche, les usagers des services publics restent libres de leurs croyances, dans le respect de l'ordre public.",
+   "prompt": "Quelle distinction le conférencier établit-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La laïcité interdit toute religion en France.",
+     "correct": false,
+     "rationale": "Elle garantit la liberté de croire."
+    },
+    {
+     "label": "B",
+     "text": "Les usagers doivent cacher leurs croyances.",
+     "correct": false,
+     "rationale": "Ils restent libres de leurs croyances."
+    },
+    {
+     "label": "C",
+     "text": "La neutralité s'impose aux agents publics, pas aux usagers.",
+     "correct": true,
+     "rationale": "« les agents publics… ne doivent pas manifester leurs convictions » ; les usagers « restent libres »."
+    },
+    {
+     "label": "D",
+     "text": "Les agents publics peuvent exprimer leurs convictions au travail.",
+     "correct": false,
+     "rationale": "Ils ne le doivent pas."
+    }
+   ],
+   "explanation": "Le connecteur « en revanche » oppose deux situations : celle des agents et celle des usagers. C'est le cœur de l'explication.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co20.wav"
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "intention",
+   "document": "H: Pourquoi votre mairie a-t-elle créé un budget participatif ? / F: Parce que nous voulions que les habitants décident directement d'une partie des investissements. Chacun peut proposer un projet : une aire de jeux, un jardin, une piste cyclable. Les habitants votent, et les projets qui recueillent le plus de voix sont réalisés. Ça redonne confiance dans l'action publique.",
+   "prompt": "Que cherche à faire la responsable municipale ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Présenter un projet déjà réalisé.",
+     "correct": false,
+     "rationale": "Elle décrit le fonctionnement général."
+    },
+    {
+     "label": "B",
+     "text": "Critiquer les habitants qui ne votent pas.",
+     "correct": false,
+     "rationale": "Ce n'est pas évoqué."
+    },
+    {
+     "label": "C",
+     "text": "Présenter un dispositif de participation citoyenne et son intérêt.",
+     "correct": true,
+     "rationale": "Elle explique le principe et conclut sur la confiance retrouvée."
+    },
+    {
+     "label": "D",
+     "text": "Annoncer une hausse des impôts.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "La responsable donne l'objectif, décrit le fonctionnement et termine par un bénéfice. L'intention est explicative et valorisante.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co21.wav"
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "information précise",
+   "document": "F: Pour faire face à la pénurie de familles d'accueil, le département lance une campagne de recrutement. Les familles d'accueil reçoivent une rémunération et une formation de plusieurs semaines avant d'accueillir un enfant. Il n'est pas nécessaire d'avoir soi-même des enfants, mais il faut disposer d'une chambre pour l'enfant accueilli et obtenir un agrément.",
+   "prompt": "Quelle condition est obligatoire pour devenir famille d'accueil ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Travailler à temps plein.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "Avoir déjà ses propres enfants.",
+     "correct": false,
+     "rationale": "« Il n'est pas nécessaire d'avoir soi-même des enfants »."
+    },
+    {
+     "label": "C",
+     "text": "Être fonctionnaire.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "D",
+     "text": "Disposer d'une chambre pour l'enfant et obtenir un agrément.",
+     "correct": true,
+     "rationale": "« il faut disposer d'une chambre… et obtenir un agrément »."
+    }
+   ],
+   "explanation": "Le reportage oppose ce qui n'est pas nécessaire (« il n'est pas nécessaire ») et ce qui l'est (« il faut »). Cette opposition est la clé.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co22.wav"
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "H: Ma sœur veut que je l'aide financièrement pour ses études. Je ne sais pas quoi faire. / F: À ta place, je l'aiderais, mais en fixant des règles claires dès le départ : un montant, une durée, et éventuellement un remboursement plus tard. L'argent entre frères et sœurs, ça peut créer des tensions si rien n'est dit.",
+   "prompt": "Quel est l'avis de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La sœur doit arrêter ses études.",
+     "correct": false,
+     "rationale": "Ce n'est pas évoqué."
+    },
+    {
+     "label": "B",
+     "text": "Il faut aider, mais en clarifiant les conditions.",
+     "correct": true,
+     "rationale": "« je l'aiderais, mais en fixant des règles claires »."
+    },
+    {
+     "label": "C",
+     "text": "Il ne faut jamais prêter d'argent à sa famille.",
+     "correct": false,
+     "rationale": "Elle conseille d'aider."
+    },
+    {
+     "label": "D",
+     "text": "Il faut donner sans rien dire.",
+     "correct": false,
+     "rationale": "Elle insiste sur des règles claires."
+    }
+   ],
+   "explanation": "La femme donne un conseil au conditionnel (« à ta place, je… »), le nuance par une condition et justifie par un risque.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co23.wav"
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "inférence",
+   "document": "H: Chers usagers, en raison d'une grève du personnel, la mairie n'assurera ce jeudi que les services d'état civil indispensables : déclarations de naissance et de décès. Tous les autres rendez-vous sont reportés. Vous serez recontactés par téléphone pour fixer une nouvelle date.",
+   "prompt": "Que peut-on comprendre de cette annonce ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une personne qui avait rendez-vous jeudi pour une carte d'identité ne sera pas reçue.",
+     "correct": true,
+     "rationale": "Seules les déclarations de naissance et de décès sont assurées."
+    },
+    {
+     "label": "B",
+     "text": "Toute la mairie sera fermée jeudi.",
+     "correct": false,
+     "rationale": "Certains services sont maintenus."
+    },
+    {
+     "label": "C",
+     "text": "Les usagers doivent rappeler eux-mêmes la mairie.",
+     "correct": false,
+     "rationale": "Ils seront recontactés."
+    },
+    {
+     "label": "D",
+     "text": "Les déclarations de naissance sont reportées.",
+     "correct": false,
+     "rationale": "Elles sont assurées."
+    }
+   ],
+   "explanation": "L'annonce ne cite pas la carte d'identité, mais elle ne fait pas partie des services maintenus : on en déduit que le rendez-vous est reporté.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co24.wav"
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "entretien radio",
+   "skill": "compréhension globale",
+   "document": "F: Vous avez obtenu la nationalité française l'an dernier. Qu'avez-vous ressenti lors de la cérémonie ? / H: Beaucoup d'émotion. Je suis arrivé il y a quinze ans sans parler un mot de français. J'ai appris la langue, j'ai travaillé, mes enfants sont nés ici. Ce jour-là, j'ai eu le sentiment que mon parcours était reconnu. Mais pour moi, être citoyen, c'est surtout participer : voter, m'engager dans l'association de parents d'élèves.",
+   "prompt": "Quel est le thème principal de l'entretien ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'apprentissage du français par les enfants.",
+     "correct": false,
+     "rationale": "Il parle de son propre apprentissage."
+    },
+    {
+     "label": "B",
+     "text": "Le fonctionnement des associations de parents d'élèves.",
+     "correct": false,
+     "rationale": "C'est un exemple d'engagement."
+    },
+    {
+     "label": "C",
+     "text": "Le sens d'une naturalisation et de la citoyenneté pour un nouveau Français.",
+     "correct": true,
+     "rationale": "Il évoque son parcours, sa reconnaissance et sa conception de la citoyenneté."
+    },
+    {
+     "label": "D",
+     "text": "Les difficultés administratives pour obtenir un visa.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    }
+   ],
+   "explanation": "L'homme raconte son émotion, retrace son parcours, puis élargit avec « mais pour moi » vers une définition active de la citoyenneté.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-10_co25.wav"
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "règlement intérieur",
+   "skill": "information précise",
+   "document": "Règlement de la maison de quartier – Extraits. Article 2 : Les activités sont ouvertes aux habitants de tous âges, sur adhésion annuelle. Article 4 : Les mineurs de moins de douze ans doivent être accompagnés d'un adulte, sauf pour les activités encadrées par un animateur. Article 6 : Les salles peuvent être prêtées gratuitement aux associations du quartier, sur demande écrite déposée un mois à l'avance.",
+   "prompt": "Comment une association peut-elle utiliser une salle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "En payant une location.",
+     "correct": false,
+     "rationale": "Les salles sont prêtées gratuitement."
+    },
+    {
+     "label": "B",
+     "text": "En faisant une demande écrite un mois avant.",
+     "correct": true,
+     "rationale": "« sur demande écrite déposée un mois à l'avance »."
+    },
+    {
+     "label": "C",
+     "text": "En venant sans prévenir.",
+     "correct": false,
+     "rationale": "Une demande est nécessaire."
+    },
+    {
+     "label": "D",
+     "text": "En étant accompagnée d'un animateur.",
+     "correct": false,
+     "rationale": "Cette condition concerne les mineurs."
+    }
+   ],
+   "explanation": "L'article 6 donne la réponse. L'article 4 contient une condition proche (« sauf pour ») qui peut induire en erreur."
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "compréhension globale",
+   "document": "Le nombre de bénévoles dans les associations reste élevé, mais leur profil évolue. Les jeunes retraités, longtemps piliers du bénévolat, s'engagent moins durablement, souvent parce qu'ils s'occupent de leurs petits-enfants ou de leurs parents âgés. À l'inverse, les jeunes actifs sont plus nombreux, mais ils préfèrent des missions ponctuelles, sur un week-end ou une soirée. Les associations doivent s'adapter.",
+   "prompt": "Quelle évolution l'article décrit-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le bénévolat disparaît.",
+     "correct": false,
+     "rationale": "Le nombre de bénévoles « reste élevé »."
+    },
+    {
+     "label": "B",
+     "text": "Les retraités s'engagent davantage qu'avant.",
+     "correct": false,
+     "rationale": "Ils s'engagent moins durablement."
+    },
+    {
+     "label": "C",
+     "text": "Le bénévolat se transforme et devient plus ponctuel.",
+     "correct": true,
+     "rationale": "Les jeunes actifs préfèrent « des missions ponctuelles » et les retraités s'engagent « moins durablement »."
+    },
+    {
+     "label": "D",
+     "text": "Les jeunes refusent tout engagement.",
+     "correct": false,
+     "rationale": "Ils sont « plus nombreux »."
+    }
+   ],
+   "explanation": "L'article compare deux profils avec « à l'inverse », puis conclut sur la nécessité d'adaptation. Le thème est la transformation du bénévolat."
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "courrier des lecteurs",
+   "skill": "opinion",
+   "document": "Votre article sur la solitude des personnes âgées m'a touchée. J'ai quatre-vingt-deux ans et je vis seule depuis la mort de mon mari. Ce qui m'a sauvée, c'est un simple appel hebdomadaire d'une bénévole, devenue une amie. On parle beaucoup de grands plans contre l'isolement. Je crois que tout commence par des gestes simples : frapper à la porte d'une voisine, proposer un café.",
+   "prompt": "Quelle idée défend l'auteure ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les petits gestes du quotidien sont essentiels contre l'isolement.",
+     "correct": true,
+     "rationale": "« tout commence par des gestes simples »."
+    },
+    {
+     "label": "B",
+     "text": "Seuls les grands plans publics peuvent lutter contre la solitude.",
+     "correct": false,
+     "rationale": "Elle relativise leur importance."
+    },
+    {
+     "label": "C",
+     "text": "Les personnes âgées préfèrent rester seules.",
+     "correct": false,
+     "rationale": "Elle souffrait de solitude."
+    },
+    {
+     "label": "D",
+     "text": "Les bénévoles ne servent à rien.",
+     "correct": false,
+     "rationale": "Une bénévole l'a « sauvée »."
+    }
+   ],
+   "explanation": "L'auteure part de son expérience personnelle, oppose les « grands plans » aux « gestes simples » et termine par des exemples."
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "offre d'emploi",
+   "skill": "information précise",
+   "document": "Association d'aide à domicile recherche auxiliaires de vie (H/F). Missions : accompagner des personnes âgées dans les actes de la vie quotidienne (repas, courses, toilette, promenades). Contrat à temps partiel ou à temps plein, selon vos disponibilités. Débutants acceptés : une formation qualifiante est proposée après trois mois. Permis B et véhicule personnel indispensables ; les frais kilométriques sont remboursés.",
+   "prompt": "Qu'est-ce qui est indispensable pour ce poste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Travailler à temps plein.",
+     "correct": false,
+     "rationale": "Le temps partiel est possible."
+    },
+    {
+     "label": "B",
+     "text": "Avoir travaillé en hôpital.",
+     "correct": false,
+     "rationale": "Ce n'est pas exigé."
+    },
+    {
+     "label": "C",
+     "text": "Avoir déjà un diplôme d'auxiliaire de vie.",
+     "correct": false,
+     "rationale": "Les débutants sont acceptés."
+    },
+    {
+     "label": "D",
+     "text": "Avoir le permis et un véhicule personnel.",
+     "correct": true,
+     "rationale": "« Permis B et véhicule personnel indispensables »."
+    }
+   ],
+   "explanation": "L'adjectif « indispensables » signale l'exigence. Les autres informations décrivent les missions et les conditions."
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "intention",
+   "document": "Chaque hiver, les associations lancent le même appel : il manque des bénévoles, des dons, des places d'hébergement. Chaque hiver, nous sommes émus quelques jours, puis nous oublions. Pourtant, la précarité ne s'arrête pas au printemps. Si chacun donnait un peu de son temps toute l'année, une heure par semaine, le paysage changerait. Il n'y a pas de petits engagements.",
+   "prompt": "Quel est l'objectif de l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Encourager un engagement solidaire régulier tout au long de l'année.",
+     "correct": true,
+     "rationale": "« Si chacun donnait un peu de son temps toute l'année… »."
+    },
+    {
+     "label": "B",
+     "text": "Annoncer la fin de la précarité au printemps.",
+     "correct": false,
+     "rationale": "« la précarité ne s'arrête pas au printemps »."
+    },
+    {
+     "label": "C",
+     "text": "Demander uniquement des dons d'argent.",
+     "correct": false,
+     "rationale": "Il insiste sur le temps donné."
+    },
+    {
+     "label": "D",
+     "text": "Critiquer le travail des associations.",
+     "correct": false,
+     "rationale": "Il relaie leurs appels."
+    }
+   ],
+   "explanation": "L'éditorial dénonce une émotion passagère (« puis nous oublions ») et propose un engagement durable. La dernière phrase vise à motiver chacun."
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "courrier administratif",
+   "skill": "information précise",
+   "document": "Madame, Monsieur, nous avons le plaisir de vous informer que votre demande de naturalisation a reçu un avis favorable. Le décret correspondant sera publié prochainement au Journal officiel. Vous serez ensuite invité, par courrier de la préfecture, à une cérémonie d'accueil dans la citoyenneté française, au cours de laquelle votre décret vous sera remis. Nous vous prions d'agréer nos salutations distinguées.",
+   "prompt": "Que se passera-t-il lors de la cérémonie ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le décret sera publié.",
+     "correct": false,
+     "rationale": "Il sera publié au Journal officiel, avant la cérémonie."
+    },
+    {
+     "label": "B",
+     "text": "Le demandeur passera un entretien.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Le demandeur déposera son dossier.",
+     "correct": false,
+     "rationale": "La demande est déjà acceptée."
+    },
+    {
+     "label": "D",
+     "text": "Le décret de naturalisation sera remis au demandeur.",
+     "correct": true,
+     "rationale": "« au cours de laquelle votre décret vous sera remis »."
+    }
+   ],
+   "explanation": "Le courrier décrit trois étapes successives. La relative « au cours de laquelle » précise ce qui se passe pendant la cérémonie."
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "inférence",
+   "document": "Dans de nombreuses familles, ce sont encore majoritairement les femmes qui prennent un temps partiel après la naissance d'un enfant. À court terme, ce choix semble pratique. Mais à long terme, il réduit leurs revenus, leurs possibilités de promotion et, plus tard, le montant de leur retraite. Les experts parlent d'une « pénalité maternelle ».",
+   "prompt": "Que peut-on déduire de cet article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La naissance d'un enfant n'a aucun effet professionnel.",
+     "correct": false,
+     "rationale": "L'article montre le contraire."
+    },
+    {
+     "label": "B",
+     "text": "Le temps partiel augmente la retraite.",
+     "correct": false,
+     "rationale": "Il la réduit."
+    },
+    {
+     "label": "C",
+     "text": "Un choix familial apparemment pratique peut avoir des conséquences durables sur les femmes.",
+     "correct": true,
+     "rationale": "Le temps partiel réduit revenus, promotions et retraite."
+    },
+    {
+     "label": "D",
+     "text": "Les hommes prennent plus souvent un temps partiel.",
+     "correct": false,
+     "rationale": "Ce sont « majoritairement les femmes »."
+    }
+   ],
+   "explanation": "L'article oppose « à court terme » et « à long terme ». La conclusion implicite est que ce choix crée une inégalité durable."
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "notice",
+   "skill": "information précise",
+   "document": "Procuration de vote – Mode d'emploi. Si vous ne pouvez pas voter le jour du scrutin, vous pouvez donner procuration à un autre électeur. Faites votre demande en ligne, puis présentez-vous dans un commissariat, une gendarmerie ou un consulat avec une pièce d'identité pour la valider. Le jour du vote, votre mandataire vote à votre place ; il n'a pas besoin de présenter de document vous concernant.",
+   "prompt": "Que doit faire l'électeur pour valider sa procuration ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Envoyer sa carte d'électeur au mandataire.",
+     "correct": false,
+     "rationale": "Le mandataire n'a pas besoin de document."
+    },
+    {
+     "label": "B",
+     "text": "Se présenter avec une pièce d'identité dans un commissariat, une gendarmerie ou un consulat.",
+     "correct": true,
+     "rationale": "C'est l'étape indiquée après la demande en ligne."
+    },
+    {
+     "label": "C",
+     "text": "Simplement remplir la demande en ligne.",
+     "correct": false,
+     "rationale": "Il faut ensuite la valider en personne."
+    },
+    {
+     "label": "D",
+     "text": "Se rendre au bureau de vote le jour du scrutin.",
+     "correct": false,
+     "rationale": "C'est le mandataire qui y va."
+    }
+   ],
+   "explanation": "La notice décrit une procédure en deux temps (« puis »). La question porte sur la seconde étape."
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "opinion",
+   "document": "On nous répète que les grands-parents sont une ressource précieuse pour garder les enfants. C'est vrai. Mais attention à ne pas transformer cette aide en obligation. Beaucoup de grands-parents travaillent encore, d'autres ont envie de voyager ou de se reposer. Compter sur eux pour pallier le manque de places en crèche, c'est faire porter aux familles une responsabilité qui revient à la collectivité.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La garde des enfants ne doit pas reposer sur les grands-parents faute de crèches.",
+     "correct": true,
+     "rationale": "« c'est faire porter aux familles une responsabilité qui revient à la collectivité »."
+    },
+    {
+     "label": "B",
+     "text": "Les grands-parents refusent de garder leurs petits-enfants.",
+     "correct": false,
+     "rationale": "Il dit qu'ils sont « une ressource précieuse »."
+    },
+    {
+     "label": "C",
+     "text": "Les grands-parents devraient garder les enfants tous les jours.",
+     "correct": false,
+     "rationale": "Il met en garde contre cette obligation."
+    },
+    {
+     "label": "D",
+     "text": "Les crèches sont trop nombreuses.",
+     "correct": false,
+     "rationale": "Il parle d'un « manque de places »."
+    }
+   ],
+   "explanation": "L'auteur concède (« c'est vrai »), avertit (« mais attention »), puis désigne le vrai responsable : la collectivité."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "Les maisons France Services se multiplient, notamment dans les zones rurales. Dans un même lieu, des agents accompagnent les habitants pour leurs démarches auprès de plusieurs administrations : impôts, retraite, allocations familiales, assurance maladie, emploi. L'objectif est de rapprocher les services publics des citoyens, alors que de nombreux guichets avaient fermé ces dernières années.",
+   "prompt": "Quel est le rôle de ces structures ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Proposer des emplois dans l'administration.",
+     "correct": false,
+     "rationale": "L'emploi est un domaine de démarche parmi d'autres."
+    },
+    {
+     "label": "B",
+     "text": "Remplacer les mairies.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    },
+    {
+     "label": "C",
+     "text": "Fermer les guichets restants.",
+     "correct": false,
+     "rationale": "Elles compensent au contraire les fermetures."
+    },
+    {
+     "label": "D",
+     "text": "Regrouper l'accompagnement aux démarches de plusieurs administrations près des habitants.",
+     "correct": true,
+     "rationale": "« Dans un même lieu, des agents accompagnent les habitants… »."
+    }
+   ],
+   "explanation": "L'article décrit un dispositif, son fonctionnement et son objectif. La dernière phrase donne le contexte qui l'explique."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "intention",
+   "document": "Bonjour à tous, comme vous le savez, Mme Ferreira, notre voisine du troisième, vient d'être opérée et ne peut pas sortir pendant un mois. Je propose d'organiser un petit planning pour lui faire ses courses et lui rendre visite. J'ai créé un tableau dans le hall : inscrivez-vous sur les créneaux qui vous conviennent. Merci pour elle ! Antoine, 1er étage",
+   "prompt": "Pourquoi Antoine écrit-il ce courriel ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour annoncer le déménagement de Mme Ferreira.",
+     "correct": false,
+     "rationale": "Elle est en convalescence."
+    },
+    {
+     "label": "B",
+     "text": "Pour demander de l'argent.",
+     "correct": false,
+     "rationale": "Il demande du temps."
+    },
+    {
+     "label": "C",
+     "text": "Pour organiser l'entraide entre voisins auprès d'une voisine immobilisée.",
+     "correct": true,
+     "rationale": "Il propose un planning et invite chacun à s'inscrire."
+    },
+    {
+     "label": "D",
+     "text": "Pour se plaindre de ses voisins.",
+     "correct": false,
+     "rationale": "Il les sollicite."
+    }
+   ],
+   "explanation": "Le courriel présente une situation, une proposition et une consigne concrète (« inscrivez-vous »). L'intention est de mobiliser."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "En France, un salarié peut bénéficier d'un congé de proche aidant pour s'occuper d'un membre de sa famille en situation de handicap ou de perte d'autonomie. Ce congé peut être pris en une fois ou fractionné. Il peut ouvrir droit à une allocation journalière, versée par la caisse d'allocations familiales, pour compenser en partie la perte de salaire.",
+   "prompt": "Que permet l'allocation mentionnée dans l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De payer une aide à domicile.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "De compenser en partie la perte de revenus pendant le congé.",
+     "correct": true,
+     "rationale": "Elle sert à « compenser en partie la perte de salaire »."
+    },
+    {
+     "label": "C",
+     "text": "De prolonger le congé sans limite.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "D",
+     "text": "D'éviter de prévenir son employeur.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    }
+   ],
+   "explanation": "L'article présente le droit, ses modalités et l'aide financière. La dernière phrase répond à la question."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "inférence",
+   "document": "Nous vivons plus longtemps que jamais. Pour la première fois, quatre générations coexistent souvent dans une même famille. Cette situation est une chance : les arrière-grands-parents peuvent transmettre directement leur mémoire. Mais elle pose aussi une question nouvelle : qui prendra soin de qui, quand les enfants de soixante ans s'occupent à la fois de leurs parents très âgés et de leurs petits-enfants ?",
+   "prompt": "Que suggère l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les arrière-grands-parents n'ont rien à transmettre.",
+     "correct": false,
+     "rationale": "Ils peuvent « transmettre directement leur mémoire »."
+    },
+    {
+     "label": "B",
+     "text": "Les familles comptent moins de générations qu'avant.",
+     "correct": false,
+     "rationale": "Elles en comptent souvent quatre."
+    },
+    {
+     "label": "C",
+     "text": "L'allongement de la vie crée de nouvelles responsabilités pour la génération intermédiaire.",
+     "correct": true,
+     "rationale": "Les « enfants de soixante ans » s'occupent à la fois de leurs parents et de leurs petits-enfants."
+    },
+    {
+     "label": "D",
+     "text": "La vie est moins longue qu'avant.",
+     "correct": false,
+     "rationale": "« Nous vivons plus longtemps que jamais »."
+    }
+   ],
+   "explanation": "L'essai présente une chance puis une difficulté (« mais »). La question finale n'a pas de réponse explicite, mais elle souligne la charge de la génération du milieu."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "Permanence d'accès aux droits – Mairie de Saint-Laurent. Un juriste vous reçoit gratuitement et confidentiellement pour vous informer sur vos droits : logement, famille, travail, consommation. Le premier et le troisième mercredi du mois, de 14 h à 17 h, uniquement sur rendez-vous auprès de l'accueil. Le juriste informe et oriente, mais ne rédige pas d'actes et ne vous représente pas devant un tribunal.",
+   "prompt": "Que ne fait pas le juriste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il ne vous représente pas devant un tribunal.",
+     "correct": true,
+     "rationale": "« ne rédige pas d'actes et ne vous représente pas devant un tribunal »."
+    },
+    {
+     "label": "B",
+     "text": "Il ne reçoit pas gratuitement.",
+     "correct": false,
+     "rationale": "Il reçoit gratuitement."
+    },
+    {
+     "label": "C",
+     "text": "Il ne donne pas d'informations sur le logement.",
+     "correct": false,
+     "rationale": "Le logement est cité."
+    },
+    {
+     "label": "D",
+     "text": "Il ne parle pas de droit de la famille.",
+     "correct": false,
+     "rationale": "La famille fait partie des thèmes."
+    }
+   ],
+   "explanation": "L'annonce se termine par les limites du service, introduites par « mais ». Il faut repérer les négations."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "article d'opinion",
+   "skill": "opinion",
+   "document": "On réduit souvent le vote à un geste symbolique. C'est une erreur. Les élections locales, en particulier, décident de choses très concrètes : les écoles, les transports, les crèches, les impôts locaux. Ne pas voter, c'est laisser les autres choisir à notre place. Et l'abstention n'est jamais neutre : elle profite à ceux qui savent mobiliser leurs électeurs.",
+   "prompt": "Quelle est l'opinion de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les élections locales sont sans importance.",
+     "correct": false,
+     "rationale": "Elles décident de « choses très concrètes »."
+    },
+    {
+     "label": "B",
+     "text": "Voter, notamment aux élections locales, a des conséquences concrètes.",
+     "correct": true,
+     "rationale": "Il cite les écoles, les transports et les impôts locaux."
+    },
+    {
+     "label": "C",
+     "text": "L'abstention est neutre.",
+     "correct": false,
+     "rationale": "« l'abstention n'est jamais neutre »."
+    },
+    {
+     "label": "D",
+     "text": "Le vote est un geste purement symbolique.",
+     "correct": false,
+     "rationale": "Il qualifie cette idée d'« erreur »."
+    }
+   ],
+   "explanation": "L'auteur réfute une idée (« c'est une erreur »), l'illustre par des exemples concrets et termine par un argument sur l'abstention."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "rapport",
+   "skill": "compréhension globale",
+   "document": "Selon une enquête sur les solidarités familiales, l'aide entre générations circule dans les deux sens. Les parents aident souvent leurs enfants adultes à se loger ou à faire face à des dépenses imprévues. En retour, les enfants apportent à leurs parents âgés une aide pratique : courses, démarches, présence. Le rapport souligne que cette solidarité familiale reste indispensable, mais qu'elle accentue les inégalités entre familles aisées et modestes.",
+   "prompt": "Quelle est la conclusion principale du rapport ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les familles ne s'entraident plus.",
+     "correct": false,
+     "rationale": "L'aide existe dans les deux sens."
+    },
+    {
+     "label": "B",
+     "text": "Toutes les familles peuvent aider de la même manière.",
+     "correct": false,
+     "rationale": "Les inégalités entre familles sont soulignées."
+    },
+    {
+     "label": "C",
+     "text": "L'aide familiale va seulement des enfants vers les parents.",
+     "correct": false,
+     "rationale": "Elle « circule dans les deux sens »."
+    },
+    {
+     "label": "D",
+     "text": "La solidarité familiale est essentielle mais renforce les inégalités.",
+     "correct": true,
+     "rationale": "« reste indispensable, mais… accentue les inégalités »."
+    }
+   ],
+   "explanation": "Le rapport décrit les échanges, puis formule un bilan nuancé avec « mais ». Ce bilan constitue la conclusion principale."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "lettre de réclamation",
+   "skill": "intention",
+   "document": "Monsieur le Directeur, ma mère, âgée de quatre-vingt-sept ans, réside dans votre établissement depuis un an. Lors de mes dernières visites, j'ai constaté qu'elle restait seule dans sa chambre pendant de longues heures et que les activités annoncées n'avaient pas lieu. Je comprends les difficultés de recrutement, mais je vous demande de me recevoir afin que nous trouvions ensemble des solutions.",
+   "prompt": "Quel est l'objectif de cette lettre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Porter plainte contre l'établissement.",
+     "correct": false,
+     "rationale": "Il demande un dialogue."
+    },
+    {
+     "label": "B",
+     "text": "Remercier le personnel pour les activités.",
+     "correct": false,
+     "rationale": "Elles n'ont pas lieu."
+    },
+    {
+     "label": "C",
+     "text": "Annoncer le départ de sa mère de l'établissement.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Obtenir un rendez-vous pour améliorer la situation de sa mère.",
+     "correct": true,
+     "rationale": "« je vous demande de me recevoir afin que nous trouvions ensemble des solutions »."
+    }
+   ],
+   "explanation": "La lettre expose des faits, reconnaît une contrainte (« je comprends… mais ») et formule une demande de dialogue constructive."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "Le service civique permet aux jeunes de seize à vingt-cinq ans, et jusqu'à trente ans pour les jeunes en situation de handicap, de s'engager pour une mission d'intérêt général de six à douze mois. Aucun diplôme n'est exigé. Les volontaires perçoivent une indemnité mensuelle et bénéficient d'une formation civique et citoyenne. Les missions se déroulent dans des associations, des collectivités ou des établissements publics.",
+   "prompt": "Quelle est la limite d'âge pour les jeunes en situation de handicap ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Trente ans.",
+     "correct": true,
+     "rationale": "« jusqu'à trente ans pour les jeunes en situation de handicap »."
+    },
+    {
+     "label": "B",
+     "text": "Vingt-cinq ans.",
+     "correct": false,
+     "rationale": "C'est la limite générale."
+    },
+    {
+     "label": "C",
+     "text": "Seize ans.",
+     "correct": false,
+     "rationale": "C'est l'âge minimum."
+    },
+    {
+     "label": "D",
+     "text": "Il n'y a pas de limite.",
+     "correct": false,
+     "rationale": "Une limite est indiquée."
+    }
+   ],
+   "explanation": "L'article donne une règle générale puis une exception. Il faut associer chaque âge à la bonne situation."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "inférence",
+   "document": "À la naissance de ma fille, j'ai pris mon congé paternité. Au parc, un mardi matin, une dame m'a félicité chaleureusement : « C'est bien d'aider votre femme ! » J'ai souri. Je n'aidais personne : je m'occupais de mon enfant. Quand ma femme promène notre fille, personne ne la félicite d'aider son mari.",
+   "prompt": "Que suggère le chroniqueur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La dame a eu raison de le féliciter.",
+     "correct": false,
+     "rationale": "Il conteste son expression."
+    },
+    {
+     "label": "B",
+     "text": "Il n'aime pas s'occuper de sa fille.",
+     "correct": false,
+     "rationale": "Il dit s'occuper de son enfant."
+    },
+    {
+     "label": "C",
+     "text": "On considère encore les soins aux enfants comme une tâche d'abord féminine.",
+     "correct": true,
+     "rationale": "Il remarque qu'on le félicite d'« aider » alors qu'on ne félicite pas sa femme."
+    },
+    {
+     "label": "D",
+     "text": "Sa femme ne s'occupe pas de leur fille.",
+     "correct": false,
+     "rationale": "Elle la promène aussi."
+    }
+   ],
+   "explanation": "La comparaison finale révèle l'inégalité implicite dans la remarque de la dame. Le chroniqueur ne juge pas directement : il laisse le lecteur conclure."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "guide pratique",
+   "skill": "information précise",
+   "document": "Devenir bénévole : quelques conseils. Commencez par réfléchir à ce que vous aimez faire et au temps dont vous disposez réellement. Renseignez-vous sur les plateformes qui mettent en relation associations et bénévoles. Lors du premier contact, n'hésitez pas à demander une mission d'essai. Enfin, sachez que vos compétences professionnelles, comme la comptabilité ou l'informatique, sont souvent très recherchées.",
+   "prompt": "Que conseille le guide lors du premier contact avec une association ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Cacher ses compétences professionnelles.",
+     "correct": false,
+     "rationale": "Elles sont « très recherchées »."
+    },
+    {
+     "label": "B",
+     "text": "Demander une mission d'essai.",
+     "correct": true,
+     "rationale": "« Lors du premier contact, n'hésitez pas à demander une mission d'essai »."
+    },
+    {
+     "label": "C",
+     "text": "Proposer une contribution financière.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "S'engager pour une année entière.",
+     "correct": false,
+     "rationale": "Ce n'est pas conseillé."
+    }
+   ],
+   "explanation": "Le guide énumère des conseils dans l'ordre chronologique. Il faut repérer celui qui correspond au « premier contact »."
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "opinion",
+   "document": "Les services publics ferment leurs guichets les uns après les autres au nom de la modernisation. On peut tout faire en ligne, nous dit-on. Mais un service public n'est pas un simple guichet automatique : c'est aussi une présence, un visage, quelqu'un qui écoute et qui explique. La modernisation est souhaitable, à condition de ne laisser personne au bord du chemin.",
+   "prompt": "Quelle est la position de l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les démarches en ligne sont impossibles.",
+     "correct": false,
+     "rationale": "Il ne le dit pas."
+    },
+    {
+     "label": "B",
+     "text": "La modernisation est inutile.",
+     "correct": false,
+     "rationale": "Il la juge « souhaitable »."
+    },
+    {
+     "label": "C",
+     "text": "Il faut fermer tous les guichets.",
+     "correct": false,
+     "rationale": "Il critique ces fermetures."
+    },
+    {
+     "label": "D",
+     "text": "La modernisation doit préserver une présence humaine pour tous.",
+     "correct": true,
+     "rationale": "« à condition de ne laisser personne au bord du chemin »."
+    }
+   ],
+   "explanation": "L'éditorialiste reprend un discours (« nous dit-on »), le nuance avec « mais », puis formule une condition. Sa position est nuancée."
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "Les tiers-lieux solidaires se développent dans les quartiers et les villages : on y trouve à la fois une épicerie, un espace de travail partagé, un atelier de réparation et des permanences d'associations. Ces lieux hybrides attirent des publics très différents, qui n'auraient pas eu l'occasion de se croiser ailleurs. Leur modèle économique reste toutefois fragile et dépend souvent de subventions.",
+   "prompt": "Quel est le sujet de l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Des lieux de vie multiservices qui favorisent la mixité, malgré un modèle fragile.",
+     "correct": true,
+     "rationale": "L'article décrit leur diversité, la rencontre des publics et leur fragilité."
+    },
+    {
+     "label": "B",
+     "text": "Les bureaux d'une grande entreprise.",
+     "correct": false,
+     "rationale": "Ce sont des lieux solidaires."
+    },
+    {
+     "label": "C",
+     "text": "La fermeture des épiceries de village.",
+     "correct": false,
+     "rationale": "Une épicerie fait partie des tiers-lieux."
+    },
+    {
+     "label": "D",
+     "text": "Le financement des associations sportives.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    }
+   ],
+   "explanation": "L'article présente, valorise, puis nuance avec « toutefois ». Le thème doit intégrer les avantages et la limite."
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "règlement",
+   "skill": "inférence",
+   "document": "Conseil municipal des jeunes – Règlement. Peuvent être candidats les jeunes de onze à quinze ans scolarisés ou domiciliés dans la commune. Le mandat dure deux ans. Les jeunes conseillers se réunissent une fois par mois et disposent d'un budget annuel pour réaliser leurs projets. Toute absence non justifiée à trois réunions consécutives entraîne la fin du mandat.",
+   "prompt": "Que peut-on déduire de ce règlement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une seule absence met fin au mandat.",
+     "correct": false,
+     "rationale": "Il faut trois absences consécutives non justifiées."
+    },
+    {
+     "label": "B",
+     "text": "Un jeune de quatorze ans scolarisé dans la commune mais habitant ailleurs peut être candidat.",
+     "correct": true,
+     "rationale": "Il suffit d'être « scolarisés ou domiciliés dans la commune »."
+    },
+    {
+     "label": "C",
+     "text": "Un jeune de dix-sept ans peut se présenter.",
+     "correct": false,
+     "rationale": "La limite est quinze ans."
+    },
+    {
+     "label": "D",
+     "text": "Les jeunes conseillers n'ont aucun budget.",
+     "correct": false,
+     "rationale": "Ils disposent d'un budget annuel."
+    }
+   ],
+   "explanation": "La conjonction « ou » indique que l'une des deux conditions suffit. En l'appliquant à un cas concret, on déduit la réponse."
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "intention",
+   "document": "Je suis assistante sociale depuis vingt ans, et je voudrais tordre le cou à une idée reçue : non, les personnes qui demandent de l'aide ne sont pas des « profiteurs ». La plupart attendent trop longtemps avant de venir, par honte. Beaucoup ne demandent même pas les aides auxquelles elles ont droit. Avant de juger, écoutons leurs histoires : elles pourraient être les nôtres.",
+   "prompt": "Que cherche à faire l'auteure ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Dénoncer les abus des bénéficiaires d'aides.",
+     "correct": false,
+     "rationale": "Elle conteste cette vision."
+    },
+    {
+     "label": "B",
+     "text": "Présenter son parcours universitaire.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    },
+    {
+     "label": "C",
+     "text": "Combattre les préjugés sur les personnes qui demandent de l'aide.",
+     "correct": true,
+     "rationale": "« je voudrais tordre le cou à une idée reçue »."
+    },
+    {
+     "label": "D",
+     "text": "Expliquer comment obtenir une aide rapidement.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objet."
+    }
+   ],
+   "explanation": "L'auteure réfute une idée reçue, apporte des faits issus de son expérience et termine par un appel à l'empathie."
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "compréhension globale",
+   "document": "La solidarité n'est pas seulement une affaire de bons sentiments. C'est aussi une organisation collective : la sécurité sociale, les allocations, l'école gratuite reposent sur l'idée que chacun contribue selon ses moyens et reçoit selon ses besoins. Cette solidarité institutionnelle ne remplace pas l'entraide entre personnes, mais elle la rend moins dépendante de la chance d'avoir une famille ou des voisins présents.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La solidarité n'est qu'une affaire de bons sentiments.",
+     "correct": false,
+     "rationale": "Il dit le contraire dès la première phrase."
+    },
+    {
+     "label": "B",
+     "text": "Chacun doit recevoir la même somme.",
+     "correct": false,
+     "rationale": "Chacun reçoit « selon ses besoins »."
+    },
+    {
+     "label": "C",
+     "text": "La solidarité organisée collectivement complète l'entraide personnelle et la rend plus juste.",
+     "correct": true,
+     "rationale": "Elle « ne remplace pas l'entraide… mais la rend moins dépendante de la chance »."
+    },
+    {
+     "label": "D",
+     "text": "La sécurité sociale doit remplacer l'entraide familiale.",
+     "correct": false,
+     "rationale": "« ne remplace pas l'entraide »."
+    }
+   ],
+   "explanation": "L'essai élargit la notion de solidarité, donne des exemples, puis précise le lien entre solidarité institutionnelle et entraide avec « ne… pas…, mais… »."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "task_type": "répondre à un message",
+   "instructions": "Votre collègue Hugo vous écrit : « J'aimerais faire du bénévolat quelques heures par mois, mais je ne sais pas par où commencer. Tu as une idée ? » Répondez-lui en lui faisant deux propositions (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Salut Hugo, c'est une super idée ! Tu pourrais d'abord aider à l'épicerie solidaire du quartier, qui cherche des bénévoles le samedi matin. Sinon, comme tu es doué en informatique, propose ton aide à la maison de quartier pour les ateliers numériques des seniors. Dis-moi si tu veux des contacts. À bientôt, Nadia",
+   "tips": "Adaptez vos propositions au profil de votre interlocuteur : cela rend votre réponse personnelle et pertinente.",
+   "expected_points": [
+    "réagir au message",
+    "faire une première proposition",
+    "faire une seconde proposition",
+    "proposer son aide"
+   ],
+   "model_commentary": "Le message est enthousiaste et précis. Les propositions sont adaptées à la personne (« comme tu es doué en informatique ») et la conclusion propose une aide concrète."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "task_type": "raconter une expérience",
+   "instructions": "Racontez, pour le site d'une association, un moment où vous avez aidé quelqu'un ou avez été aidé par un inconnu : ce qui s'est passé et ce que cette expérience vous a apporté (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "L'hiver dernier, ma voiture est tombée en panne sur une petite route de campagne, à la nuit tombée. Mon téléphone n'avait plus de batterie. Un agriculteur qui passait s'est arrêté, m'a remorqué jusqu'à sa ferme et m'a offert un bol de soupe pendant que sa femme appelait un garagiste. Je ne les connaissais pas, et ils n'ont rien voulu accepter en échange. Depuis ce jour, je m'arrête toujours quand je vois quelqu'un en difficulté.",
+   "tips": "Terminez par un changement concret dans votre comportement : c'est plus fort qu'une simple émotion.",
+   "expected_points": [
+    "situer la situation",
+    "raconter les faits",
+    "décrire le geste d'aide",
+    "dire ce que l'expérience a apporté"
+   ],
+   "model_commentary": "Le récit est vivant et bien construit, avec une situation, un tournant et une leçon. L'enchaînement des actions et la proposition temporelle (« pendant que ») montrent une bonne maîtrise du récit."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "donner son opinion à partir de deux documents",
+   "instructions": "Document 1 : « Les personnes âgées devraient pouvoir rester chez elles le plus longtemps possible, avec des aides à domicile. » Document 2 : « Les établissements spécialisés offrent sécurité, soins permanents et vie sociale aux personnes âgées dépendantes. » Présentez ces deux opinions, puis donnez votre avis argumenté (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Le premier document défend le maintien à domicile grâce à des aides, tandis que le second met en avant la sécurité et la vie sociale des établissements spécialisés. À mon avis, le choix doit dépendre de l'état de santé et des souhaits de chacun. Rester chez soi préserve les habitudes et l'indépendance, mais lorsque la dépendance devient trop lourde, un établissement peut rassurer la personne et sa famille. L'essentiel est que la personne âgée soit consultée.",
+   "tips": "Une conclusion qui rappelle un principe essentiel (ici, consulter la personne) donne du poids à une position nuancée.",
+   "expected_points": [
+    "résumer le document 1",
+    "résumer le document 2",
+    "prendre position",
+    "justifier",
+    "conclure"
+   ],
+   "model_commentary": "La synthèse est équilibrée et l'avis est nuancé selon les situations. La conclusion recentre le débat sur la personne concernée, ce qui donne de la force à l'argumentation."
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous interroge sur votre famille et votre vie sociale : votre entourage, les traditions familiales, vos engagements et votre relation avec vos voisins.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Pouvez-vous vous présenter ?",
+    "Parlez-moi de votre famille.",
+    "Avez-vous des traditions familiales ?",
+    "Êtes-vous engagé dans une association ?",
+    "Comment sont vos relations avec vos voisins ?"
+   ],
+   "useful_phrases": [
+    "Ma famille est…",
+    "Chez nous, on a l'habitude de…",
+    "Je me suis engagé dans…"
+   ],
+   "model_answer": "Je m'appelle Daniel, j'ai quarante-cinq ans et je suis infirmier. Je suis marié et nous avons trois enfants. Ma famille est restée en Côte d'Ivoire, mais nous nous appelons chaque dimanche. Chez nous, on a l'habitude de préparer un grand repas pour les anniversaires, avec tous les amis. Je me suis engagé dans l'association de parents d'élèves, ce qui m'a permis de mieux connaître l'école. Avec mes voisins, nous nous rendons souvent service.",
+   "model_commentary": "Le candidat parle de sa vie de façon organisée et détaillée, avec des relatives, une opposition (« mais ») et des expressions d'habitude. Le discours est fluide.",
+   "tips": "Illustrez chaque réponse par un exemple concret : cela enrichit votre vocabulaire et rend l'entretien plus vivant."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Convaincre un voisin de rejoindre une action solidaire",
+   "examiner_role": "Voisin",
+   "scenario": "Vous organisez une collecte de vêtements et de jouets pour les familles en difficulté de votre quartier. Vous essayez de convaincre un voisin (l'examinateur), plutôt réticent, de participer en donnant un peu de son temps le samedi.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Je n'ai vraiment pas le temps.",
+    "Ça ne sert pas à grand-chose.",
+    "Les associations s'en occupent déjà.",
+    "Qu'est-ce que je devrais faire exactement ?"
+   ],
+   "useful_phrases": [
+    "Je comprends que…",
+    "Même une heure…",
+    "Vous pourriez…"
+   ],
+   "model_answer": "Bonjour, j'organise une collecte de vêtements et de jouets pour les familles du quartier, et je voulais vous en parler. Je comprends que vous soyez très occupé. Même une heure le samedi matin nous aiderait beaucoup : il s'agit simplement de trier les dons. L'association nous soutient, mais elle manque de bras. Vous pourriez aussi déposer des vêtements que vous ne portez plus. L'an dernier, quarante familles en ont profité. Ça vous dirait de passer voir, sans engagement ?",
+   "model_commentary": "Le candidat répond à chaque objection, précise ce qu'il attend, donne un résultat concret et termine par une proposition souple. L'argumentation est polie et convaincante.",
+   "tips": "Réduisez l'effort demandé (« même une heure », « sans engagement ») : c'est souvent la meilleure façon de convaincre une personne réticente."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Faut-il rendre le vote obligatoire ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Dans certains pays, voter est obligatoire et l'abstention est sanctionnée par une amende. En France, le vote est un droit, mais pas une obligation. Selon vous, faut-il rendre le vote obligatoire ? Donnez votre opinion et défendez-la.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Voter est un droit, pas un devoir.",
+    "Les gens voteraient au hasard.",
+    "L'abstention exprime aussi un message.",
+    "Que proposez-vous pour augmenter la participation ?"
+   ],
+   "useful_phrases": [
+    "Je ne suis pas convaincu que…",
+    "Il me semble plus utile de…",
+    "Par exemple…"
+   ],
+   "model_answer": "Je ne suis pas convaincu que le vote obligatoire soit la bonne solution. Forcer quelqu'un à voter ne le rend pas plus intéressé par la politique, et certains risquent de voter au hasard. Il me semble plus utile de comprendre pourquoi les gens s'abstiennent. Par exemple, on pourrait reconnaître le vote blanc dans les résultats, pour que ceux qui ne se retrouvent dans aucun candidat puissent s'exprimer. Il faudrait aussi expliquer davantage les enjeux des élections à l'école.",
+   "model_commentary": "Le candidat prend une position claire, la justifie par deux arguments et propose des alternatives concrètes. Le subjonctif après « je ne suis pas convaincu que » et le conditionnel sont bien maîtrisés.",
+   "tips": "Quand vous refusez une proposition, proposez une alternative : cela montre que votre position est constructive."
+  }
+ ],
+ "series": "B2"
+}

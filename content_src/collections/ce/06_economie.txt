@@ -1,0 +1,205 @@
+@slug ce-economie
+@section CE
+@title Économie
+@order 6
+@description Articles économiques accessibles : inflation, consommation, entreprises et finances personnelles. Comprendre les causes, les effets et les chiffres.
+
+## CE-ECO-01 | article de presse
+TITRE: La « réduflation », hausse de prix déguisée
+DOC: Le paquet de biscuits a le même prix et le même aspect qu'avant, mais il contient désormais 180 grammes au lieu de 200. Ce phénomène, surnommé « réduflation », consiste à réduire la quantité d'un produit sans baisser son prix. Selon une association de consommateurs, plusieurs centaines de références de supermarché auraient ainsi « rétréci » en deux ans. ¶ Pour les fabricants, cette pratique est légale et s'explique par la hausse du coût des matières premières et de l'énergie. Ils estiment qu'elle permet d'éviter une augmentation visible des prix, mal acceptée par les clients. Les associations, elles, dénoncent une tromperie : le prix au kilo, seul indicateur fiable, augmente parfois de plus de 10 %, sans que le consommateur s'en aperçoive. ¶ Le gouvernement a annoncé qu'il imposerait bientôt un affichage spécifique en magasin pour signaler les produits concernés. Une mesure jugée utile mais insuffisante par les associations, qui réclament que l'information figure directement sur l'emballage.
+Q: Qu'est-ce que la « réduflation » ? | compréhension détaillée
++ Une baisse de la quantité vendue pour le même prix. | « Réduire la quantité d'un produit sans baisser son prix. »
+- Une baisse générale des prix. | C'est l'inverse dans les faits.
+- Une hausse de la qualité des produits. | Ce n'est pas dit.
+- Une réduction des impôts sur l'alimentation. | Ce n'est pas évoqué.
+EXP: Le mot combine « réduction » et « inflation » : c'est une inflation cachée.
+Q: Pourquoi les associations parlent-elles de tromperie ? | argumentation
++ Parce que le prix réel augmente sans que les clients le remarquent. | « Le prix au kilo… augmente parfois de plus de 10 %, sans que le consommateur s'en aperçoive. »
+- Parce que la pratique est illégale. | Le texte la dit « légale ».
+- Parce que les produits sont dangereux. | Ce n'est pas dit.
+- Parce que les emballages sont plus grands. | Ce n'est pas mentionné.
+EXP: Le « prix au kilo » permet de comparer réellement les produits.
+Q: Que pensent les associations de la mesure gouvernementale ? | point de vue
++ Elle va dans le bon sens mais ne suffit pas. | « Une mesure jugée utile mais insuffisante. »
+- Elle est totalement inutile. | Ils la jugent « utile ».
+- Elle est excessive. | Ils veulent aller plus loin.
+- Elle a déjà été appliquée. | Elle est annoncée pour « bientôt ».
+EXP: Le couple « utile mais insuffisante » exprime un avis nuancé.
+VOCAB: une référence = un produit précis dans un magasin = Ce supermarché propose 20 000 références. ; rétrécir = devenir plus petit = Mon pull a rétréci au lavage. ; une tromperie = le fait de tromper, de mentir = Il a été condamné pour tromperie. ; un indicateur = une donnée qui permet d'évaluer = Le chômage est un indicateur économique.
+EXPR: une hausse déguisée = une augmentation cachée = Cette taxe est une hausse d'impôt déguisée. ; s'apercevoir de = remarquer = Il ne s'est aperçu de rien. ; figurer sur = être indiqué sur = Le prix doit figurer sur l'étiquette.
+PIEGES: La pratique est légale, même si elle est critiquée. ; Le prix affiché ne change pas, c'est le prix au kilo qui augmente. ; Les associations veulent une information sur l'emballage, pas seulement en rayon.
+
+## CE-ECO-02 | article de presse
+TITRE: Le succès des magasins de seconde main
+DOC: Vêtements, meubles, téléphones reconditionnés : la seconde main n'est plus réservée aux brocantes et aux associations caritatives. Le marché progresse de plus de 10 % par an, et de grandes enseignes ouvrent désormais leurs propres rayons d'occasion. Pour les consommateurs, les motivations sont multiples : faire des économies dans un contexte de hausse des prix, mais aussi réduire l'impact environnemental de leurs achats. ¶ Ce succès a pourtant des effets inattendus. Certaines plateformes de revente en ligne encouragent paradoxalement la surconsommation : on achète un vêtement en se disant qu'on pourra facilement le revendre, et l'on renouvelle sa garde-robe plus souvent. Par ailleurs, les associations caritatives, qui vivaient en partie de la revente de dons, voient arriver une concurrence commerciale qui récupère les meilleurs articles. ¶ Les spécialistes jugent toutefois le bilan globalement positif, à condition que l'occasion remplace réellement des achats neufs au lieu de s'y ajouter.
+Q: Quelles motivations des acheteurs le texte cite-t-il ? | compréhension détaillée
++ Économiser et limiter l'impact sur l'environnement. | « Faire des économies… mais aussi réduire l'impact environnemental de leurs achats. »
+- Trouver des objets rares de collection. | Ce n'est pas dit.
+- Soutenir les grandes enseignes. | Ce n'est pas mentionné.
+- Éviter les magasins. | Ce n'est pas évoqué.
+EXP: « Multiples » annonce plusieurs raisons, reliées par « mais aussi ».
+Q: Comment la seconde main peut-elle encourager la surconsommation ? | implicite
++ La possibilité de revendre pousse à acheter plus souvent. | « On achète un vêtement en se disant qu'on pourra facilement le revendre, et l'on renouvelle sa garde-robe plus souvent. »
+- Les objets d'occasion sont plus chers. | Ce n'est pas dit.
+- Les plateformes interdisent la revente. | C'est l'inverse.
+- Les associations vendent trop. | Ce n'est pas le lien évoqué.
+EXP: « Paradoxalement » signale un effet contraire à l'objectif écologique.
+Q: À quelle condition le bilan est-il positif selon les spécialistes ? | argumentation
++ Si l'achat d'occasion remplace vraiment l'achat neuf. | « À condition que l'occasion remplace réellement des achats neufs au lieu de s'y ajouter. »
+- Si les prix augmentent. | Ce n'est pas la condition.
+- Si les associations ferment. | Ce n'est pas dit.
+- Si les grandes enseignes se retirent. | Ce n'est pas évoqué.
+EXP: « À condition que » introduit une condition nécessaire.
+VOCAB: reconditionné = remis en état pour être revendu = Un téléphone reconditionné. ; caritatif = qui aide les personnes en difficulté = Une association caritative. ; la garde-robe = l'ensemble des vêtements d'une personne = Elle renouvelle sa garde-robe. ; un article = un objet vendu = Cet article est en promotion.
+EXPR: de seconde main = d'occasion = Il achète des livres de seconde main. ; vivre de = tirer ses revenus de = Il vit de sa musique. ; s'ajouter à = venir en plus de = Ces frais s'ajoutent au loyer.
+PIEGES: Le texte n'est pas négatif : il nuance un succès. ; La concurrence touche les associations caritatives. ; Le bilan est jugé « globalement positif ».
+
+## CE-ECO-03 | article explicatif
+TITRE: Pourquoi les taux d'intérêt font-ils la pluie et le beau temps ?
+DOC: Lorsque la banque centrale relève ses taux directeurs, l'effet se fait sentir bien au-delà des marchés financiers. Les banques, qui empruntent plus cher, répercutent cette hausse sur les crédits qu'elles accordent aux ménages et aux entreprises. Acheter un logement devient plus coûteux, investir dans une nouvelle machine aussi. ¶ C'est précisément le but recherché quand l'inflation est trop forte. En rendant le crédit plus cher, la banque centrale freine la demande : les ménages consomment et empruntent moins, les entreprises investissent moins, et les prix finissent par ralentir. Mais l'exercice est délicat. Si les taux montent trop ou trop vite, l'activité peut ralentir au point de provoquer une récession et une hausse du chômage. ¶ À l'inverse, des taux bas stimulent l'économie mais peuvent alimenter des bulles, notamment dans l'immobilier, où des prix artificiellement élevés finissent un jour par chuter. Toute la difficulté consiste à trouver le bon dosage, au bon moment, avec des effets qui ne se font sentir qu'après plusieurs mois.
+Q: Pourquoi une banque centrale augmente-t-elle ses taux ? | compréhension détaillée
++ Pour lutter contre une inflation trop forte. | « C'est précisément le but recherché quand l'inflation est trop forte. »
+- Pour encourager les ménages à emprunter. | C'est l'effet inverse.
+- Pour faire baisser le chômage immédiatement. | Une hausse peut au contraire l'augmenter.
+- Pour aider les acheteurs immobiliers. | Le crédit devient plus coûteux.
+EXP: Freiner la demande fait ralentir la hausse des prix.
+Q: Quel risque présente une hausse trop rapide des taux ? | argumentation
++ Un ralentissement excessif de l'économie et plus de chômage. | « L'activité peut ralentir au point de provoquer une récession et une hausse du chômage. »
+- Une hausse de l'inflation. | La hausse des taux vise à la réduire.
+- Une bulle immobilière. | Ce risque concerne les taux bas.
+- Une baisse du coût du crédit. | C'est l'inverse.
+EXP: « Mais l'exercice est délicat » introduit le risque opposé à l'objectif.
+Q: Pourquoi la politique des taux est-elle difficile à mener ? | synthèse
++ Il faut doser précisément alors que les effets sont décalés dans le temps. | « Trouver le bon dosage, au bon moment, avec des effets qui ne se font sentir qu'après plusieurs mois. »
+- Parce que les banques refusent d'appliquer les taux. | Ce n'est pas dit.
+- Parce que les taux n'ont aucun effet. | Le texte montre le contraire.
+- Parce que l'inflation n'existe plus. | Ce n'est pas évoqué.
+EXP: La conclusion synthétise les deux risques opposés et la question du délai.
+VOCAB: un taux directeur = le taux fixé par la banque centrale pour prêter aux banques = La BCE a relevé ses taux directeurs. ; répercuter = transmettre une hausse ou une baisse = Les commerçants répercutent la hausse sur les clients. ; une récession = une baisse de l'activité économique = Le pays est entré en récession. ; une bulle = une hausse artificielle des prix suivie d'une chute = La bulle immobilière a éclaté.
+EXPR: faire la pluie et le beau temps = avoir une influence décisive = Ce directeur fait la pluie et le beau temps dans l'entreprise. ; se faire sentir = devenir perceptible = Les effets de la crise se font sentir. ; trouver le bon dosage = trouver le juste équilibre = Il faut trouver le bon dosage entre travail et repos.
+PIEGES: Une hausse des taux ralentit l'inflation, elle ne la crée pas. ; Les bulles sont liées aux taux bas. ; Le délai des effets est un élément clé de la difficulté.
+
+## CE-ECO-04 | reportage écrit
+TITRE: Les commerces de centre-ville résistent
+DOC: Dans cette ville moyenne du centre de la France, un commerce sur cinq était vide il y a dix ans. Les habitants faisaient leurs courses dans les grandes surfaces de périphérie, et la rue principale semblait condamnée. Aujourd'hui, le taux de vacance est tombé sous les 8 %. ¶ Ce redressement n'est pas le fruit du hasard. La municipalité a racheté plusieurs locaux pour les louer à prix réduit à de jeunes commerçants, rénové les façades et réaménagé les places pour les rendre plus accueillantes. Elle a surtout refusé l'extension d'une zone commerciale en périphérie, malgré la pression des promoteurs. Les commerçants, de leur côté, se sont regroupés en association pour proposer des horaires communs, une carte de fidélité et des animations. ¶ Tout n'est pas réglé pour autant. Les loyers augmentent avec le retour de l'attractivité, et certains commerçants historiques peinent à suivre. Le maire reconnaît qu'il faudra trouver un équilibre entre redynamisation et maintien des commerces de proximité accessibles à tous.
+Q: Quelle évolution le reportage décrit-il ? | compréhension globale
++ Une forte baisse du nombre de commerces vides en centre-ville. | « Un commerce sur cinq était vide… Aujourd'hui, le taux de vacance est tombé sous les 8 %. »
+- La fermeture des grandes surfaces. | Ce n'est pas dit.
+- La disparition du centre-ville. | C'est l'inverse.
+- Une baisse des loyers. | Ils augmentent.
+EXP: Le « taux de vacance » désigne la proportion de locaux commerciaux inoccupés.
+Q: Quelle décision de la mairie est présentée comme la plus importante ? | compréhension détaillée
++ Le refus d'agrandir une zone commerciale en périphérie. | « Elle a surtout refusé l'extension d'une zone commerciale en périphérie. »
+- La création d'un parking gratuit. | Ce n'est pas mentionné.
+- La baisse des impôts locaux. | Ce n'est pas dit.
+- L'ouverture d'un supermarché. | Ce n'est pas évoqué.
+EXP: L'adverbe « surtout » hiérarchise les actions de la municipalité.
+Q: Quel nouveau problème apparaît ? | implicite
++ La hausse des loyers menace certains commerçants anciens. | « Les loyers augmentent avec le retour de l'attractivité, et certains commerçants historiques peinent à suivre. »
+- Les clients désertent à nouveau le centre. | Ce n'est pas dit.
+- Les jeunes commerçants partent. | Ce n'est pas évoqué.
+- Les animations sont interdites. | Ce n'est pas mentionné.
+EXP: « Tout n'est pas réglé pour autant » introduit un effet secondaire du succès.
+VOCAB: la vacance = le fait qu'un local soit inoccupé = La vacance commerciale baisse. ; le redressement = le retour à une bonne situation = Le redressement de l'entreprise. ; l'attractivité = la capacité à attirer = L'attractivité de la région augmente. ; redynamiser = redonner de l'énergie, de l'activité = Redynamiser un quartier.
+EXPR: ne pas être le fruit du hasard = être le résultat d'efforts = Son succès n'est pas le fruit du hasard. ; peiner à suivre = avoir du mal à suivre le rythme = Certains élèves peinent à suivre. ; de leur côté = pour leur part = Les parents, de leur côté, ont aidé.
+PIEGES: Le taux est passé d'environ 20 % à moins de 8 %. ; Les commerçants ont aussi contribué au redressement. ; Le succès crée un nouveau problème de loyers.
+
+## CE-ECO-05 | article de presse
+TITRE: Les applications de paiement fractionné inquiètent
+DOC: Payer en trois ou quatre fois sans frais : la formule s'affiche désormais sur de nombreux sites marchands, pour des achats de quelques dizaines d'euros seulement. Ces services de paiement fractionné séduisent particulièrement les jeunes, qui y voient une solution simple et rapide, sans les formalités d'un crédit classique. ¶ Les associations de consommateurs s'inquiètent pourtant de leur multiplication. Parce qu'ils échappent en grande partie à la réglementation du crédit, ces services ne vérifient guère la capacité de remboursement des clients. Or il est facile de cumuler plusieurs paiements fractionnés sur différents sites, et de perdre la vue d'ensemble de ses dépenses. En cas de retard, des frais parfois élevés s'appliquent, et le « sans frais » se transforme en piège. ¶ Une directive européenne prévoit d'encadrer ces pratiques en imposant des vérifications de solvabilité et une information plus claire. En attendant, les conseillers budgétaires recommandent de réserver ce mode de paiement aux achats importants et de tenir un relevé précis des échéances.
+Q: Pourquoi ces services séduisent-ils les jeunes ? | compréhension détaillée
++ Ils sont simples et rapides, sans démarches compliquées. | « Une solution simple et rapide, sans les formalités d'un crédit classique. »
+- Ils rapportent de l'argent. | Ce n'est pas dit.
+- Ils sont obligatoires sur Internet. | Ce n'est pas le cas.
+- Ils protègent contre les retards. | Des frais s'appliquent en cas de retard.
+EXP: « Formalités » désigne les démarches administratives d'un crédit.
+Q: Quel est le principal danger souligné par les associations ? | argumentation
++ Accumuler des paiements sans maîtriser l'ensemble de ses dettes. | « Il est facile de cumuler plusieurs paiements fractionnés… et de perdre la vue d'ensemble de ses dépenses. »
+- Payer plus cher qu'en magasin. | Ce n'est pas l'argument principal.
+- Se faire voler sa carte bancaire. | Ce n'est pas évoqué.
+- Ne pas recevoir ses achats. | Ce n'est pas dit.
+EXP: Le risque est le surendettement par accumulation de petits crédits.
+Q: Que signifie « le "sans frais" se transforme en piège » ? | implicite
++ La promesse de gratuité peut finalement coûter cher en cas de retard. | « En cas de retard, des frais parfois élevés s'appliquent. »
+- Les services deviennent gratuits. | C'est l'inverse.
+- Le paiement est refusé. | Ce n'est pas le sens.
+- Les clients sont poursuivis en justice. | Ce n'est pas dit.
+EXP: Les guillemets autour de « sans frais » soulignent le décalage entre la promesse et la réalité.
+VOCAB: fractionné = divisé en plusieurs parties = Un paiement fractionné. ; cumuler = accumuler = Il cumule deux emplois. ; la solvabilité = la capacité à rembourser ses dettes = La banque vérifie la solvabilité du client. ; une échéance = la date à laquelle on doit payer = La prochaine échéance est le 5 du mois.
+EXPR: perdre la vue d'ensemble = ne plus avoir une vision globale = Avec tous ces dossiers, il perd la vue d'ensemble. ; se transformer en piège = devenir dangereux malgré les apparences = Cette offre s'est transformée en piège. ; en attendant = d'ici là = En attendant, restez prudents.
+PIEGES: Le paiement fractionné est « sans frais » seulement s'il n'y a pas de retard. ; La directive européenne est une mesure à venir. ; Les conseillers ne demandent pas d'interdire ces services.
+
+## CE-ECO-06 | tribune
+TITRE: Le PIB ne dit pas tout
+DOC: Le produit intérieur brut, le fameux PIB, reste l'indicateur roi des politiques économiques. Une croissance de 2 % est saluée comme une bonne nouvelle, une baisse comme un échec. Pourtant, cet indicateur mesure la quantité de richesses produites, pas le bien-être d'une population. ¶ Ses limites sont connues. Le PIB augmente lorsqu'on répare les dégâts d'une catastrophe naturelle, mais il ignore l'épuisement des ressources ou la pollution. Il ne comptabilise pas le travail domestique, ni le bénévolat, pourtant essentiels au fonctionnement de la société. Il ne dit rien non plus de la répartition des richesses : un pays peut voir son PIB progresser alors que la majorité de sa population s'appauvrit. ¶ Des indicateurs complémentaires existent, mesurant l'espérance de vie en bonne santé, les inégalités, l'empreinte carbone ou la satisfaction des citoyens. Il ne s'agit pas de supprimer le PIB, mais de cesser d'en faire l'unique boussole. Ce que l'on mesure finit par orienter ce que l'on décide.
+Q: Quelle est la principale critique adressée au PIB ? | argumentation
++ Il mesure la production de richesses mais pas le bien-être. | « Cet indicateur mesure la quantité de richesses produites, pas le bien-être d'une population. »
+- Il est trop difficile à calculer. | Ce n'est pas dit.
+- Il n'existe que dans quelques pays. | Ce n'est pas évoqué.
+- Il surestime la pollution. | Il l'ignore.
+EXP: « Pourtant » introduit la critique après la présentation de l'importance du PIB.
+Q: Pourquoi l'auteur cite-t-il l'exemple des catastrophes naturelles ? | implicite
++ Pour montrer que le PIB peut augmenter à la suite d'un événement négatif. | « Le PIB augmente lorsqu'on répare les dégâts d'une catastrophe naturelle. »
+- Pour dire que les catastrophes sont utiles. | Ce n'est pas le sens.
+- Pour critiquer les assurances. | Ce n'est pas évoqué.
+- Pour proposer un nouvel impôt. | Ce n'est pas dit.
+EXP: L'exemple montre une contradiction : une perte de bien-être peut faire croître l'indicateur.
+Q: Que signifie la dernière phrase ? | synthèse
++ Les indicateurs choisis influencent les priorités politiques. | « Ce que l'on mesure finit par orienter ce que l'on décide. »
+- Il faut mesurer moins de choses. | Ce n'est pas le sens.
+- Les décisions sont toujours bonnes. | Ce n'est pas dit.
+- Le PIB doit être supprimé. | « Il ne s'agit pas de supprimer le PIB. »
+EXP: La formule finale justifie l'importance du choix des indicateurs.
+VOCAB: un indicateur = une donnée qui sert à mesurer = Un indicateur de pauvreté. ; comptabiliser = compter, inclure dans un calcul = Ces heures ne sont pas comptabilisées. ; la répartition = la manière de distribuer = La répartition des tâches. ; l'empreinte carbone = la quantité de gaz à effet de serre émise = Réduire son empreinte carbone.
+EXPR: l'indicateur roi = l'indicateur le plus important = Le chiffre d'affaires est l'indicateur roi. ; ne rien dire de = ne donner aucune information sur = Ce chiffre ne dit rien de la qualité. ; servir de boussole = guider les décisions = Ces valeurs nous servent de boussole.
+PIEGES: L'auteur ne demande pas de supprimer le PIB. ; Le bénévolat n'est pas comptabilisé dans le PIB. ; L'exemple de la catastrophe montre une limite de l'indicateur.
+
+## CE-ECO-07 | article de presse
+TITRE: Les entreprises familiales face à la succession
+DOC: Dans les dix prochaines années, près d'un quart des chefs de petites et moyennes entreprises partiront à la retraite. Pour beaucoup, la question de la transmission se pose avec inquiétude : leurs enfants ne souhaitent pas toujours reprendre l'affaire, et trouver un repreneur extérieur prend souvent plusieurs années. ¶ Faute de préparation, de nombreuses entreprises pourtant rentables ferment chaque année, entraînant la disparition d'emplois et de savoir-faire. Les experts insistent sur la nécessité d'anticiper : évaluer l'entreprise, former un successeur, organiser une période de transition pendant laquelle l'ancien dirigeant accompagne le nouveau. Or beaucoup de fondateurs repoussent ce moment, tant l'entreprise est liée à leur identité. ¶ Une solution gagne du terrain : la reprise par les salariés eux-mêmes, sous forme de coopérative. Ceux-ci connaissent l'entreprise, ses clients et ses métiers. Cette formule reste toutefois minoritaire, car elle suppose de réunir des financements et de convaincre les banques, souvent réticentes face à ce modèle.
+Q: Quel problème le texte expose-t-il ? | compréhension globale
++ La difficulté de transmettre les entreprises au départ à la retraite des dirigeants. | « La question de la transmission se pose avec inquiétude. »
+- La faillite des grandes entreprises. | Il s'agit de PME.
+- Le manque de clients. | Les entreprises sont parfois « rentables ».
+- La hausse des impôts. | Ce n'est pas dit.
+EXP: Le premier paragraphe pose le problème, le deuxième ses conséquences, le troisième une solution.
+Q: Pourquoi beaucoup de fondateurs repoussent-ils la préparation de leur succession ? | implicite
++ Parce que leur entreprise fait partie de leur identité. | « Tant l'entreprise est liée à leur identité. »
+- Parce qu'ils manquent d'argent. | Ce n'est pas dit.
+- Parce que la loi l'interdit. | Ce n'est pas évoqué.
+- Parce que leurs salariés refusent. | Ce n'est pas mentionné.
+EXP: « Tant » exprime ici l'intensité et la cause.
+Q: Pourquoi la reprise par les salariés reste-t-elle rare ? | compréhension détaillée
++ Elle exige des financements et la confiance des banques. | « Elle suppose de réunir des financements et de convaincre les banques, souvent réticentes. »
+- Les salariés ne connaissent pas l'entreprise. | Ils la connaissent bien.
+- Elle est interdite. | Ce n'est pas le cas.
+- Elle fait disparaître les emplois. | Ce n'est pas dit.
+EXP: « Toutefois » introduit la limite d'une solution présentée positivement.
+VOCAB: la transmission = le fait de passer à quelqu'un d'autre = La transmission du patrimoine. ; un successeur = la personne qui remplace quelqu'un = Il a choisi son successeur. ; le savoir-faire = les compétences pratiques = Le savoir-faire artisanal. ; réticent = hésitant, peu favorable = Il est réticent à investir.
+EXPR: gagner du terrain = progresser = Cette idée gagne du terrain. ; se poser avec inquiétude = être une source de préoccupation = La question se pose avec inquiétude. ; tant… = tellement… = Il est fatigué, tant il a travaillé.
+PIEGES: Les entreprises qui ferment peuvent être rentables. ; La coopérative est une solution « minoritaire ». ; Les banques sont réticentes, pas les salariés.
+
+## CE-ECO-08 | article de presse
+TITRE: Le télétravail redessine le marché immobilier
+DOC: Depuis la généralisation du télétravail, une partie des cadres a quitté les grandes métropoles pour s'installer dans des villes moyennes ou à la campagne. Venir au bureau deux ou trois jours par semaine permet d'accepter un trajet plus long, en échange d'un logement plus grand, souvent avec jardin, pour un prix inférieur. ¶ Ce mouvement profite à certaines villes situées à moins de deux heures de train des grandes métropoles. Leurs prix immobiliers ont fortement augmenté, au point que les habitants locaux, aux revenus plus modestes, peinent désormais à se loger. Dans les grandes villes, à l'inverse, les bureaux se vident : de nombreuses entreprises réduisent leurs surfaces, et certains immeubles de bureaux pourraient être transformés en logements. ¶ Les économistes restent toutefois prudents. L'exode urbain reste limité en volume, et une partie des entreprises demande désormais un retour plus fréquent au bureau. Rien ne garantit que ces nouvelles habitudes résisteront à un retournement du marché de l'emploi.
+Q: Pourquoi certains cadres quittent-ils les grandes villes ? | compréhension détaillée
++ Pour obtenir un logement plus grand et moins cher grâce au télétravail. | « Un logement plus grand, souvent avec jardin, pour un prix inférieur. »
+- Parce qu'ils ont perdu leur emploi. | Ce n'est pas dit.
+- Parce que les grandes villes sont fermées. | Ce n'est pas évoqué.
+- Parce que les trains sont gratuits. | Ce n'est pas mentionné.
+EXP: Le télétravail partiel rend acceptable un trajet plus long.
+Q: Quelle conséquence négative le texte évoque-t-il pour les villes moyennes ? | implicite
++ Les habitants locaux ont plus de mal à se loger. | « Les habitants locaux, aux revenus plus modestes, peinent désormais à se loger. »
+- Les commerces ferment. | Ce n'est pas dit.
+- La population diminue. | Elle augmente.
+- Les trains sont supprimés. | Ce n'est pas évoqué.
+EXP: « Au point que » introduit la conséquence de la hausse des prix.
+Q: Pourquoi les économistes restent-ils prudents ? | argumentation
++ Le mouvement est limité et pourrait s'inverser. | « L'exode urbain reste limité en volume… Rien ne garantit que ces nouvelles habitudes résisteront. »
+- Le télétravail est interdit. | Ce n'est pas dit.
+- Les cadres retournent tous en ville. | Ce n'est pas affirmé.
+- Les prix baissent partout. | Ce n'est pas évoqué.
+EXP: « Toutefois » introduit la nuance finale.
+VOCAB: une métropole = une très grande ville = Paris et Lyon sont des métropoles. ; un exode = le départ massif d'une population = L'exode rural a vidé les campagnes. ; un retournement = un changement brusque de tendance = Un retournement du marché. ; la surface = la superficie = Les bureaux occupent une grande surface.
+EXPR: en échange de = contre = Il travaille en échange d'un logement. ; au point que = tellement que = Il a plu au point que la route a été coupée. ; rien ne garantit que = il n'est pas certain que = Rien ne garantit que les prix baisseront.
+PIEGES: Les cadres viennent encore au bureau deux ou trois jours. ; Toutes les villes moyennes ne profitent pas du mouvement. ; L'exode urbain est « limité en volume ».

@@ -1,0 +1,500 @@
+@code B2-BLANC-09
+@series B2
+@title Examen blanc B2 n° 9 – Consommation et alimentation
+@level B2
+@description Examen complet de niveau B2 aux durées officielles : achats, droits du consommateur, alimentation, gaspillage.
+
+## CO 1 | B2 | message vocal | intention | H:fr-FR
+DOC: H: Bonjour Madame, ici Karim, du service après-vente du magasin Électroplus. Votre lave-linge a bien été examiné par notre technicien. La panne est couverte par la garantie, donc la réparation ne vous coûtera rien. En revanche, la pièce doit être commandée et n'arrivera que dans dix jours. Si ce délai vous pose problème, nous pouvons vous prêter un appareil en attendant. Rappelez-moi pour me dire ce que vous préférez.
+Q: Pourquoi Karim appelle-t-il cette cliente ?
++ Pour l'informer de la réparation et lui proposer une solution temporaire. | Il annonce la prise en charge, le délai et propose un prêt.
+- Pour lui demander de payer la réparation. | « la réparation ne vous coûtera rien ».
+- Pour lui annoncer que son appareil est irréparable. | Une pièce va être commandée.
+- Pour lui vendre un nouveau lave-linge. | Il propose un prêt, pas une vente.
+EXP: Le message enchaîne une bonne nouvelle, une contrainte (« en revanche ») et une solution conditionnelle (« si ce délai vous pose problème »). Il se termine par une demande de rappel.
+
+## CO 2 | B2 | reportage radio | information précise | F:fr-FR
+DOC: F: Dans cette cantine scolaire, les menus sont désormais composés à moitié de produits locaux, et un repas végétarien est servi chaque semaine. Pour réduire le gaspillage, les enfants peuvent choisir entre une petite et une grande portion. Résultat : les restes ont diminué d'un tiers en un an, et l'argent économisé a permis d'acheter davantage de produits biologiques.
+Q: Qu'a permis l'argent économisé ?
++ D'acheter plus de produits biologiques. | « l'argent économisé a permis d'acheter davantage de produits biologiques ».
+- De baisser le prix des repas. | Ce n'est pas mentionné.
+- De servir deux repas végétariens par semaine. | Il y en a un par semaine.
+- D'embaucher un nouveau cuisinier. | Ce n'est pas indiqué.
+EXP: Le reportage présente des mesures, un résultat chiffré puis une conséquence. La question porte sur cette dernière information.
+
+## CO 3 | B2 | conversation | opinion | F:fr-FR, H:fr-FR
+DOC: F: Tu achètes encore tes légumes au supermarché ? Le marché est juste à côté. / H: Le marché, c'est plus cher. / F: Pas forcément. Si tu achètes les fruits et légumes de saison, directement aux producteurs, les prix sont souvent comparables. Et ils ont du goût ! Ce qui coûte cher, ce sont les fraises en hiver, qui viennent de l'autre bout du monde.
+Q: Quelle est l'opinion de la femme ?
++ Acheter des produits de saison au marché n'est pas forcément plus cher. | « Si tu achètes les fruits et légumes de saison… les prix sont souvent comparables ».
+- Le marché est toujours plus cher que le supermarché. | Elle conteste cette idée.
+- Il faut acheter des fraises en hiver. | Elle cite cet exemple comme coûteux.
+- Les produits du supermarché ont plus de goût. | Elle vante le goût des produits du marché.
+EXP: La femme nuance l'affirmation de l'homme (« pas forcément ») et précise une condition (« si »). Le contre-exemple final renforce son argument.
+
+## CO 4 | B2 | annonce publique | information précise | H:fr-FR
+DOC: H: Avis à notre clientèle : par mesure de précaution, nous procédons au rappel des yaourts aux fruits de la marque Douceur, portant la date limite du 12 mars. Un défaut de fabrication a été détecté. Les clients qui ont acheté ces produits sont invités à ne pas les consommer et à les rapporter à l'accueil du magasin, où ils seront remboursés, même sans ticket de caisse.
+Q: Que doivent faire les clients concernés ?
++ Rapporter les yaourts au magasin pour être remboursés. | « les rapporter à l'accueil du magasin, où ils seront remboursés ».
+- Les consommer rapidement avant le 12 mars. | Il ne faut « pas les consommer ».
+- Présenter obligatoirement leur ticket de caisse. | Le remboursement se fait « même sans ticket ».
+- Contacter directement le fabricant. | Il faut aller à l'accueil du magasin.
+EXP: L'annonce identifie précisément le produit, explique la raison et donne les consignes. La précision « même sans ticket » élimine un distracteur.
+
+## CO 5 | B2 | interview radio | compréhension globale | H:fr-FR, F:fr-FR
+DOC: H: Vous gérez une épicerie solidaire. Comment fonctionne-t-elle ? / F: Les familles orientées par les services sociaux viennent faire leurs courses chez nous et paient environ dix à trente pour cent du prix habituel. Contrairement à une simple distribution, elles choisissent leurs produits, comme dans n'importe quel magasin. C'est important pour la dignité. Et nous proposons aussi des ateliers de cuisine et de gestion du budget.
+Q: De quoi parle principalement l'interview ?
++ D'un magasin à prix réduits qui respecte le choix et la dignité des familles. | Elle insiste sur le fait que les familles « choisissent leurs produits ».
+- D'une distribution gratuite de colis alimentaires. | Elle oppose son épicerie à « une simple distribution ».
+- D'un supermarché classique. | Les clients sont orientés par les services sociaux.
+- D'une école de cuisine. | Les ateliers sont un service complémentaire.
+EXP: La directrice décrit le fonctionnement, puis souligne une différence (« contrairement à ») qui donne le sens de son projet.
+
+## CO 6 | B2 | chronique radio | inférence | F:fr-FR
+DOC: F: Hier, au supermarché, j'ai acheté un paquet de biscuits « nouvelle formule ». Même prix qu'avant, même emballage, ou presque. C'est seulement en rentrant que j'ai remarqué la mention en petits caractères : deux cents grammes au lieu de deux cent cinquante. Nouvelle formule, en effet.
+Q: Que laisse entendre la chroniqueuse ?
++ Le fabricant a discrètement augmenté le prix réel du produit. | Moins de biscuits pour le même prix ; « nouvelle formule, en effet » est ironique.
+- Les biscuits ont meilleur goût qu'avant. | Elle ne parle pas du goût.
+- Le paquet est plus grand qu'avant. | L'emballage est presque identique.
+- Le prix des biscuits a baissé. | Le prix est le même.
+EXP: La répétition ironique de « nouvelle formule » montre que le seul changement est la quantité. On parle parfois de « réduflation ».
+
+## CO 7 | B2 | débat radio | opinion | H:fr-FR, F:fr-FR
+DOC: H: Faut-il interdire la publicité pour les produits trop sucrés à la télévision aux heures où les enfants regardent ? / F: Oui, sans hésiter. Les enfants ne savent pas encore faire la différence entre une publicité et une information. Les marques le savent très bien. Ce n'est pas aux parents seuls de résister à des campagnes qui coûtent des millions.
+Q: Quelle est la position de la femme ?
++ Elle est favorable à cette interdiction pour protéger les enfants. | « Oui, sans hésiter » ; les enfants ne distinguent pas publicité et information.
+- Elle pense que les parents doivent régler le problème seuls. | « Ce n'est pas aux parents seuls de résister ».
+- Elle trouve les publicités utiles pour informer les enfants. | Elle dit qu'ils les confondent avec de l'information.
+- Elle veut interdire toute publicité à la télévision. | Elle parle des produits trop sucrés pour les enfants.
+EXP: La position est exprimée d'emblée, puis justifiée par deux arguments : la vulnérabilité des enfants et la disproportion des moyens.
+
+## CO 8 | B2 | message professionnel | information précise | F:fr-FR
+DOC: F: Bonjour Monsieur Lefèvre, ici le service client de la boutique en ligne Maison Plus. Nous avons bien reçu votre demande de retour pour le canapé. Un transporteur passera le récupérer jeudi entre huit heures et midi. Merci de le remettre dans son emballage d'origine si possible. Le remboursement sera effectué sur votre carte bancaire dans les quatorze jours suivant la réception du colis.
+Q: Quand M. Lefèvre sera-t-il remboursé ?
++ Dans les quatorze jours après la réception du canapé par la boutique. | « dans les quatorze jours suivant la réception du colis ».
+- Jeudi, au passage du transporteur. | Jeudi est le jour de l'enlèvement.
+- Immédiatement après ce message. | Le remboursement suivra le retour.
+- Seulement s'il retrouve l'emballage d'origine. | L'emballage est demandé « si possible ».
+EXP: Le message contient deux repères temporels. « Si possible » indique une simple préférence, pas une condition.
+
+## CO 9 | B2 | interview | intention | H:fr-FR, F:fr-FR
+DOC: H: Vous êtes nutritionniste. Que pensez-vous des régimes à la mode ? / F: Je m'en méfie. Ils promettent des résultats rapides, mais la plupart des personnes reprennent le poids perdu dans l'année. Je préfère aider mes patients à changer durablement leurs habitudes : cuisiner davantage, manger plus lentement, bouger chaque jour. C'est moins spectaculaire, mais beaucoup plus efficace.
+Q: Que cherche à faire la nutritionniste ?
++ Mettre en garde contre les régimes rapides et défendre une approche durable. | Elle critique les régimes à la mode et présente sa méthode.
+- Faire la promotion d'un nouveau régime. | Elle s'en méfie.
+- Encourager les patients à perdre du poids très vite. | Elle critique les « résultats rapides ».
+- Expliquer qu'il est impossible de changer ses habitudes. | Elle aide justement à les changer.
+EXP: La nutritionniste oppose deux approches et conclut par une comparaison (« moins spectaculaire, mais beaucoup plus efficace ») qui résume son intention.
+
+## CO 10 | B2 | reportage | compréhension globale | H:fr-FR
+DOC: H: Dans cette ville, une application permet aux boulangeries, restaurants et supermarchés de vendre à petit prix, en fin de journée, les produits qu'ils n'ont pas vendus. Les clients réservent un panier surprise et viennent le chercher avant la fermeture. Les commerçants récupèrent un peu d'argent au lieu de jeter, et les clients font des économies. Des tonnes de nourriture échappent ainsi chaque année à la poubelle.
+Q: Quel est le sujet du reportage ?
++ Un outil numérique qui réduit le gaspillage alimentaire. | Des tonnes de nourriture « échappent ainsi à la poubelle ».
+- La fermeture de boulangeries en fin de journée. | Ce n'est pas le sujet.
+- Une application de livraison de repas. | Les clients viennent chercher leur panier.
+- La hausse du prix des produits frais. | Les produits sont vendus à petit prix.
+EXP: Le reportage décrit le fonctionnement et ses avantages pour chacun. La dernière phrase donne le bénéfice collectif, qui résume le sujet.
+
+## CO 11 | B2 | conversation administrative | information précise | F:fr-FR, H:fr-FR
+DOC: F: Bonjour, j'ai acheté un téléphone il y a dix mois et l'écran ne s'allume plus. Il n'est pas tombé. / H: Votre téléphone est encore sous garantie légale de conformité, qui dure deux ans. Le magasin doit vous proposer la réparation ou le remplacement, gratuitement. Si la réparation est impossible, vous pourrez demander un remboursement. Gardez bien votre facture.
+Q: Que peut obtenir la femme en premier lieu ?
++ La réparation ou le remplacement gratuit du téléphone. | « Le magasin doit vous proposer la réparation ou le remplacement, gratuitement ».
+- Un remboursement immédiat. | Il n'est possible que si la réparation est impossible.
+- Un bon d'achat. | Ce n'est pas mentionné.
+- Rien, car la garantie a expiré. | La garantie dure deux ans.
+EXP: L'employé présente une solution principale, puis une solution secondaire introduite par « si ». Il faut respecter cet ordre.
+
+## CO 12 | B2 | chronique | opinion | H:fr-FR
+DOC: H: On nous incite à manger cinq fruits et légumes par jour. Très bien. Mais quand un kilo de tomates coûte plus cher qu'un paquet de chips, le message sonne creux pour les familles modestes. Bien manger ne devrait pas être un privilège. Plutôt que de multiplier les conseils, il faudrait rendre les produits frais accessibles, par exemple en baissant leurs taxes.
+Q: Quelle est l'opinion du chroniqueur ?
++ Les conseils nutritionnels sont insuffisants si les produits sains restent chers. | « le message sonne creux pour les familles modestes ».
+- Il faut arrêter de manger des fruits et légumes. | Il ne conteste pas le conseil.
+- Les chips sont un aliment sain. | Il les cite pour comparer les prix.
+- Les familles modestes refusent de bien manger. | Il souligne un problème de prix, pas de volonté.
+EXP: Le chroniqueur concède (« très bien ») puis critique (« mais »). Sa proposition finale au conditionnel exprime sa position.
+
+## CO 13 | B2 | interview radio | inférence | F:fr-FR, H:fr-FR
+DOC: F: Vous êtes producteur de lait depuis trente ans. Vous avez ouvert un magasin à la ferme. Pourquoi ? / H: Parce que la laiterie m'achetait mon lait à un prix qui ne couvrait même plus mes coûts. Aujourd'hui, je transforme une partie du lait en fromages et en yaourts que je vends directement. Je travaille deux fois plus, mais pour la première fois depuis longtemps, je vis correctement de mon métier.
+Q: Que peut-on comprendre des propos du producteur ?
++ La vente directe lui permet de mieux gagner sa vie malgré plus de travail. | « Je travaille deux fois plus, mais… je vis correctement de mon métier ».
+- Il a arrêté de produire du lait. | Il en transforme une partie.
+- Il travaille moins qu'avant. | Il travaille « deux fois plus ».
+- La laiterie lui achetait son lait très cher. | Le prix ne couvrait pas ses coûts.
+EXP: Le producteur compare sa situation passée et présente. La concession finale (« mais ») montre que l'effort supplémentaire est compensé.
+
+## CO 14 | B2 | annonce radio | information précise | H:fr-FR
+DOC: H: Le marché de producteurs du dimanche matin change d'emplacement à partir de ce week-end. Il se tiendra désormais place de la République, et non plus sur le parking de la mairie, en raison de travaux. Les horaires restent inchangés, de huit heures à treize heures. Un parking gratuit est disponible rue Victor-Hugo.
+Q: Qu'est-ce qui change pour le marché ?
++ Son emplacement. | « Il se tiendra désormais place de la République ».
+- Ses horaires. | « Les horaires restent inchangés ».
+- Son jour. | Il a toujours lieu le dimanche matin.
+- Le prix des produits. | Ce n'est pas mentionné.
+EXP: L'annonce précise ce qui change et ce qui reste identique. La cause (travaux) explique le changement.
+
+## CO 15 | B2 | conversation | intention | H:fr-FR, F:fr-FR
+DOC: H: Je vais prendre ce crédit pour acheter la télévision, les mensualités sont toutes petites. / F: Attends, tu as regardé le taux ? Sur trois ans, tu vas payer presque un tiers de plus que le prix affiché. Si tu mets de côté la même somme chaque mois pendant un an, tu pourras l'acheter comptant, et sans frais.
+Q: Que veut faire la femme ?
++ Dissuader son ami de prendre un crédit coûteux. | Elle souligne le coût réel et propose d'épargner.
+- Lui conseiller d'acheter une télévision plus chère. | Ce n'est pas évoqué.
+- Lui proposer de lui prêter de l'argent. | Elle propose d'épargner.
+- L'encourager à signer rapidement. | Elle lui demande d'attendre.
+EXP: La femme interrompt (« attends »), donne un argument chiffré, puis propose une alternative concrète.
+
+## CO 16 | B2 | reportage | compréhension globale | F:fr-FR
+DOC: F: Les magasins de vrac se multiplient. On y vient avec ses propres bocaux et sacs en tissu pour acheter pâtes, riz, lessive ou huile, sans emballage jetable. Les clients achètent la quantité exacte dont ils ont besoin. Mais après un fort développement, certains magasins ont fermé : les habitudes sont difficiles à changer, et beaucoup de consommateurs trouvent cela moins pratique.
+Q: Quel est le thème du reportage ?
++ Le développement du vrac et les difficultés qu'il rencontre. | Le reportage présente les avantages puis les fermetures.
+- La disparition totale des magasins de vrac. | Seuls « certains magasins » ont fermé.
+- L'obligation d'acheter en vrac. | C'est un choix des consommateurs.
+- La vente de bocaux en verre. | Les bocaux sont apportés par les clients.
+EXP: Le reportage suit le schéma avantages, puis limites (« mais »). Le thème doit inclure les deux aspects.
+
+## CO 17 | B2 | interview | opinion | H:fr-FR, F:fr-FR
+DOC: H: Le « fait maison » est-il en train de disparaître ? / F: Je ne crois pas. Les gens cuisinent moins au quotidien, c'est vrai, faute de temps. Mais le week-end, beaucoup redécouvrent le plaisir de faire leur pain, leurs confitures ou de recevoir des amis autour d'un bon plat. La cuisine est devenue moins une obligation qu'un loisir.
+Q: Quel est l'avis de la femme ?
++ La cuisine maison change de statut plutôt qu'elle ne disparaît. | « La cuisine est devenue moins une obligation qu'un loisir ».
+- Plus personne ne cuisine. | Elle dit « je ne crois pas ».
+- Les gens cuisinent plus en semaine qu'avant. | Ils cuisinent moins au quotidien.
+- Recevoir des amis est passé de mode. | Elle cite cette pratique comme vivante.
+EXP: La femme réfute, concède (« c'est vrai »), puis nuance (« mais »). La dernière phrase résume son opinion.
+
+## CO 18 | B2 | message vocal | information précise | H:fr-FR
+DOC: H: Bonjour, ici l'AMAP des Jardins du Val. Les paniers de légumes de cette semaine seront distribués exceptionnellement jeudi au lieu de mercredi, de dix-huit à vingt heures, à la salle des fêtes. Les adhérents qui ne pourront pas venir peuvent demander à un voisin de récupérer leur panier, en nous prévenant par courriel.
+Q: Que doit faire un adhérent qui envoie quelqu'un chercher son panier ?
++ Prévenir l'association par courriel. | « en nous prévenant par courriel ».
+- Payer un supplément. | Ce n'est pas mentionné.
+- Venir le mercredi. | La distribution a lieu jeudi.
+- Téléphoner à la salle des fêtes. | Il faut écrire un courriel.
+EXP: Le message annonce un changement de date et une possibilité, assortie d'une condition introduite par le gérondif « en nous prévenant ».
+
+## CO 19 | B2 | débat | inférence | F:fr-FR, H:fr-FR
+DOC: F: Les produits « sans gluten » se vendent de plus en plus. / H: Pour les personnes malades, c'est une excellente nouvelle. Mais je constate que la majorité des acheteurs n'ont aucune intolérance. Ils pensent que c'est meilleur pour la santé, alors que ces produits contiennent souvent plus de sucre ou de graisses pour compenser la texture. Et ils coûtent deux fois plus cher.
+Q: Que sous-entend l'homme ?
++ Beaucoup de consommateurs achètent ces produits pour de mauvaises raisons. | Ils n'ont « aucune intolérance » et croient à tort que c'est plus sain.
+- Les produits sans gluten sont dangereux pour tout le monde. | Il les juge utiles pour les malades.
+- Les produits sans gluten sont moins chers. | Ils coûtent deux fois plus cher.
+- Les personnes intolérantes n'achètent pas ces produits. | Il dit que c'est une bonne nouvelle pour elles.
+EXP: L'homme ne dit pas « ils se trompent », mais les arguments (pas d'intolérance, composition, prix) le laissent entendre.
+
+## CO 20 | B2 | conférence | compréhension globale | H:fr-FR
+DOC: H: On estime qu'environ un tiers de la nourriture produite dans le monde est perdue ou gaspillée. Une partie l'est dans les champs ou pendant le transport, une autre dans les magasins, et une part importante chez nous, dans nos réfrigérateurs. Réduire ce gaspillage permettrait à la fois de nourrir davantage de personnes et de diminuer les émissions de gaz à effet de serre liées à l'agriculture.
+Q: Quelle idée principale le conférencier développe-t-il ?
++ Le gaspillage alimentaire se produit à toutes les étapes et le réduire aurait de multiples bénéfices. | Il cite les champs, les magasins et les foyers, puis deux bénéfices.
+- Le gaspillage concerne uniquement les supermarchés. | Il cite plusieurs étapes.
+- Les foyers ne gaspillent presque rien. | Une « part importante » se perd chez nous.
+- L'agriculture n'émet pas de gaz à effet de serre. | Il parle d'émissions liées à l'agriculture.
+EXP: Le conférencier présente un chiffre, détaille les étapes du gaspillage puis les avantages de sa réduction. L'idée principale réunit ces éléments.
+
+## CO 21 | B2 | interview radio | intention | F:fr-FR, H:fr-FR
+DOC: F: Pourquoi votre restaurant propose-t-il désormais des boîtes pour emporter les restes ? / H: Parce que les clients n'osaient pas les demander, par gêne. Pourtant, une assiette à moitié pleine qui part à la poubelle, c'est du travail et des produits perdus. Maintenant, le serveur propose systématiquement la boîte. Personne ne se sent jugé, et nous jetons beaucoup moins.
+Q: Que cherche à faire le restaurateur ?
++ Expliquer une initiative et montrer ses effets positifs. | Il donne la raison, la solution et le résultat.
+- Se plaindre de clients qui mangent trop. | Ce n'est pas le sujet.
+- Annoncer une hausse des prix. | Ce n'est pas mentionné.
+- Critiquer les clients qui emportent leurs restes. | Il les encourage.
+EXP: La réponse suit le schéma problème, solution, résultat. La phrase « personne ne se sent jugé » répond à la cause initiale (la gêne).
+
+## CO 22 | B2 | reportage | information précise | H:fr-FR
+DOC: H: Depuis une loi de 2016, les grandes surfaces de plus de quatre cents mètres carrés ont l'obligation de proposer leurs invendus alimentaires encore consommables à des associations, plutôt que de les jeter. Il leur est également interdit de rendre ces produits impropres à la consommation, par exemple en les arrosant d'eau de javel.
+Q: Quelle obligation concerne les grandes surfaces ?
++ Proposer leurs invendus encore consommables à des associations. | Elles « ont l'obligation de proposer leurs invendus… à des associations ».
+- Vendre leurs invendus à moitié prix. | Ce n'est pas mentionné.
+- Fermer le dimanche. | Ce n'est pas le sujet.
+- Jeter les produits dont la date est proche. | Il faut les proposer aux associations.
+EXP: Le reportage présente une obligation et une interdiction. La question porte sur l'obligation.
+
+## CO 23 | B2 | conversation | opinion | F:fr-FR, H:fr-FR
+DOC: F: Tu as vu toutes ces applications qui notent les produits alimentaires ? Je scanne tout au supermarché maintenant. / H: Moi, je m'en méfie un peu. Une note sur cent, c'est pratique, mais ça simplifie énormément. Une huile d'olive peut être mal notée parce qu'elle est grasse, alors qu'elle est bonne pour la santé en quantité raisonnable. Je préfère lire moi-même la liste des ingrédients.
+Q: Quelle est l'opinion de l'homme sur ces applications ?
++ Elles sont pratiques mais trop simplificatrices. | « c'est pratique, mais ça simplifie énormément ».
+- Elles sont parfaitement fiables. | Il s'en méfie.
+- Elles sont inutiles et dangereuses. | Il reconnaît qu'elles sont pratiques.
+- Elles devraient remplacer la liste des ingrédients. | Il préfère lire les ingrédients.
+EXP: L'homme exprime une réserve, la justifie par un exemple concret (l'huile d'olive) et explique sa propre pratique.
+
+## CO 24 | B2 | annonce | inférence | F:fr-FR
+DOC: F: Chers clients, notre magasin fermera exceptionnellement à dix-sept heures ce soir pour inventaire. Nous vous rappelons que les produits frais à date courte sont vendus à moins cinquante pour cent au rayon « anti-gaspi », à côté des caisses, jusqu'à la fermeture.
+Q: Que peut-on comprendre de cette annonce ?
++ Les clients ont intérêt à passer au rayon « anti-gaspi » avant dix-sept heures. | Les réductions durent « jusqu'à la fermeture », fixée à dix-sept heures.
+- Le magasin sera fermé toute la journée. | Il ferme seulement plus tôt.
+- Les produits frais sont gratuits ce soir. | Ils sont à moins cinquante pour cent.
+- Le rayon « anti-gaspi » est à l'entrée du magasin. | Il est à côté des caisses.
+EXP: L'annonce ne donne pas de conseil explicite, mais en combinant l'heure de fermeture et l'offre, on comprend qu'il faut se dépêcher.
+
+## CO 25 | B2 | entretien radio | compréhension globale | H:fr-FR, F:fr-FR
+DOC: H: Vous avez créé un café-réparation dans votre village. Pourquoi ? / F: Parce qu'on jetait des grille-pains, des lampes ou des vêtements pour une panne souvent minuscule. Une fois par mois, des bénévoles bricoleurs et couturières aident les habitants à réparer eux-mêmes leurs objets. On boit un café, on discute. On répare des objets, mais on répare aussi un peu le lien entre les gens.
+Q: Quel est le thème de l'entretien ?
++ Un lieu de réparation qui lutte contre le gaspillage et crée du lien social. | « On répare des objets, mais on répare aussi un peu le lien entre les gens ».
+- Un magasin qui vend des objets neufs. | On y répare des objets.
+- Une entreprise de réparation payante. | Ce sont des bénévoles.
+- Un café ouvert tous les jours. | Il a lieu une fois par mois.
+EXP: La dernière phrase joue sur le double sens du verbe « réparer » : elle résume les deux dimensions du projet.
+
+## CE 1 | B2 | règlement intérieur | information précise
+DOC: Conditions générales de vente – Extraits. Article 5 : Les commandes sont livrées sous cinq jours ouvrés en France métropolitaine. Article 8 : Conformément à la loi, le client dispose d'un délai de quatorze jours à compter de la réception pour se rétracter, sans avoir à se justifier. Article 9 : Les frais de retour sont à la charge du client, sauf si le produit est défectueux.
+Q: Dans quel cas le client ne paie-t-il pas les frais de retour ?
++ Si le produit reçu est défectueux. | « sauf si le produit est défectueux ».
+- S'il se rétracte dans les quatorze jours. | Les frais restent alors à sa charge.
+- S'il habite en France métropolitaine. | Cela concerne la livraison.
+- S'il justifie sa décision. | Il n'a pas à se justifier.
+EXP: « Sauf si » introduit l'exception à la règle. Les autres articles contiennent des informations proches qui servent de distracteurs.
+
+## CE 2 | B2 | article de presse | compréhension globale
+DOC: La consommation de viande diminue lentement en France. Les raisons sont multiples : préoccupations pour la santé, bien-être animal, impact environnemental, mais aussi hausse des prix. Ce recul ne signifie pas que les Français deviennent tous végétariens. La plupart réduisent simplement leur consommation, en privilégiant une viande de meilleure qualité, achetée moins souvent.
+Q: Quelle évolution l'article décrit-il ?
++ Les Français mangent moins de viande, mais de meilleure qualité. | Ils réduisent leur consommation « en privilégiant une viande de meilleure qualité ».
+- Les Français deviennent tous végétariens. | L'article le dément.
+- La consommation de viande augmente. | Elle « diminue lentement ».
+- Les prix de la viande baissent. | L'article évoque une « hausse des prix ».
+EXP: L'article présente un constat, ses causes, puis corrige une interprétation excessive (« ne signifie pas »). La dernière phrase précise la tendance réelle.
+
+## CE 3 | B2 | courrier des lecteurs | opinion
+DOC: Votre dossier sur les soldes m'a fait réagir. On nous présente cette période comme une occasion de faire de bonnes affaires. Mais combien d'entre nous achètent des vêtements dont ils n'ont pas besoin, simplement parce qu'ils sont à moins quarante pour cent ? Une dépense inutile, même réduite, reste une dépense inutile. Pour ma part, je fais une liste avant d'y aller, et je m'y tiens.
+Q: Quelle est l'opinion de l'auteur de la lettre ?
++ Les soldes poussent souvent à acheter des choses inutiles. | « Une dépense inutile, même réduite, reste une dépense inutile ».
+- Les soldes sont toujours une bonne affaire. | Il conteste cette présentation.
+- Il ne faut jamais acheter de vêtements. | Il conseille seulement de faire une liste.
+- Les réductions de quarante pour cent sont trop faibles. | Ce n'est pas sa critique.
+EXP: L'auteur reprend un discours courant, le conteste par une question rhétorique, puis formule une maxime et donne son exemple.
+
+## CE 4 | B2 | offre d'emploi | information précise
+DOC: Restaurant bistronomique recherche commis de cuisine (H/F), en contrat à durée indéterminée, 39 heures par semaine. Le restaurant travaille exclusivement des produits frais et locaux. Horaires : du mardi au samedi, service du midi et du soir ; fermé le dimanche et le lundi. Débutant accepté si motivé : une formation interne est assurée. Repas pris sur place. Envoyer CV et lettre de motivation par courriel.
+Q: Qu'est-ce qui est précisé au sujet des candidats débutants ?
++ Ils peuvent être recrutés et seront formés sur place. | « Débutant accepté si motivé : une formation interne est assurée ».
+- Ils doivent avoir travaillé dans un restaurant local. | Ce n'est pas exigé.
+- Ils travailleront uniquement le soir. | Les horaires incluent le midi et le soir.
+- Ils doivent payer leur formation. | Elle est assurée par le restaurant.
+EXP: L'offre précise les conditions, les horaires et le profil. La condition « si motivé » accompagne l'ouverture aux débutants.
+
+## CE 5 | B2 | éditorial | intention
+DOC: Chaque année, des millions de tonnes de vêtements sont fabriquées à bas prix, portées quelques fois, puis jetées. Cette mode jetable a un coût caché : pollution des rivières, conditions de travail indignes, montagnes de déchets. Nous, consommateurs, avons un pouvoir. Acheter moins, acheter d'occasion, faire réparer : ces gestes simples, multipliés par des millions, peuvent changer une industrie entière.
+Q: Quel est le but de cet éditorial ?
++ Inciter les lecteurs à changer leur façon d'acheter des vêtements. | « Nous, consommateurs, avons un pouvoir » ; il propose des gestes simples.
+- Faire la promotion d'une marque de vêtements. | Il critique la mode jetable.
+- Annoncer la fermeture d'usines textiles. | Ce n'est pas mentionné.
+- Expliquer comment fabriquer des vêtements. | Ce n'est pas l'objet.
+EXP: L'éditorial dénonce un problème, puis s'adresse directement aux lecteurs (« nous ») pour les mobiliser. L'intention est de faire agir.
+
+## CE 6 | B2 | courrier administratif | information précise
+DOC: Madame, Monsieur, suite à votre réclamation concernant votre facture d'électricité de janvier, nous avons procédé à une vérification. Une erreur de relevé de compteur a bien été constatée. Le montant trop perçu, soit 87 euros, sera déduit de votre prochaine facture. Si vous préférez un remboursement par virement, merci de nous le faire savoir dans un délai de quinze jours.
+Q: Que se passera-t-il si le client ne répond pas ?
++ La somme sera déduite de sa prochaine facture. | C'est la solution prévue par défaut.
+- Il recevra un virement de 87 euros. | Il doit le demander dans les quinze jours.
+- Sa réclamation sera annulée. | Elle a été acceptée.
+- Il devra payer 87 euros de plus. | La somme lui est due.
+EXP: Le courrier propose une solution par défaut et une alternative à demander. Il faut comprendre ce qui arrive sans réaction du client.
+
+## CE 7 | B2 | article | inférence
+DOC: Les ventes de plats préparés n'ont jamais été aussi élevées. Dans le même temps, les ventes de livres de cuisine et les inscriptions aux cours de cuisine progressent aussi. Les sociologues y voient le signe d'un double mouvement : en semaine, on cherche la rapidité ; le week-end, on veut prendre le temps et partager.
+Q: Que peut-on déduire de cet article ?
++ Les mêmes personnes peuvent avoir des pratiques alimentaires différentes selon le moment. | Les sociologues parlent d'un « double mouvement » selon le jour.
+- Les Français ont arrêté de cuisiner. | Les cours de cuisine progressent.
+- Les plats préparés sont en déclin. | Leurs ventes sont au plus haut.
+- Personne n'achète de livres de cuisine. | Leurs ventes progressent.
+EXP: Deux tendances qui semblent contradictoires sont expliquées par une différence de contexte. Il faut comprendre que ces pratiques coexistent.
+
+## CE 8 | B2 | notice | information précise
+DOC: Conservation des aliments – Conseils. La date limite de consommation (« à consommer jusqu'au ») concerne les produits frais, comme la viande ou les yaourts : au-delà, ils peuvent présenter un risque pour la santé. La date de durabilité minimale (« à consommer de préférence avant ») concerne les produits secs, comme les pâtes ou les biscuits : après cette date, ils peuvent perdre du goût, mais restent consommables.
+Q: Que se passe-t-il pour un paquet de pâtes après la date « à consommer de préférence avant » ?
++ Il peut encore être consommé, même s'il a perdu un peu de goût. | Ces produits « restent consommables ».
+- Il doit être jeté immédiatement. | Il reste consommable.
+- Il présente un risque grave pour la santé. | Ce risque concerne les produits frais.
+- Il doit être conservé au réfrigérateur. | Ce n'est pas indiqué.
+EXP: La notice oppose deux types de dates. Comprendre cette différence permet d'éviter le gaspillage.
+
+## CE 9 | B2 | tribune | opinion
+DOC: On accuse souvent les consommateurs d'acheter des produits importés au lieu de soutenir l'agriculture locale. Mais comment leur reprocher de choisir le moins cher quand les fins de mois sont difficiles ? La responsabilité est d'abord politique : c'est aux pouvoirs publics de garantir des prix justes aux agriculteurs et d'aider les familles à accéder aux produits locaux, par exemple dans les cantines.
+Q: Quelle est la position de l'auteur ?
++ La responsabilité de soutenir l'agriculture locale revient d'abord aux pouvoirs publics. | « La responsabilité est d'abord politique ».
+- Les consommateurs sont les seuls responsables. | Il conteste cette accusation.
+- Il faut interdire les produits importés. | Ce n'est pas proposé.
+- Les agriculteurs gagnent trop d'argent. | Il demande des prix justes pour eux.
+EXP: L'auteur réfute une accusation par une question rhétorique, puis déplace la responsabilité vers l'action publique.
+
+## CE 10 | B2 | article | compréhension globale
+DOC: La location d'objets se développe : perceuses, tentes, robots de cuisine, vêtements de fête. Pourquoi acheter un appareil qu'on utilisera trois fois par an ? Des plateformes et des magasins proposent désormais de louer ces objets pour quelques euros par jour. Ce modèle économise de l'argent et des ressources, mais il suppose de changer une habitude profonde : celle de posséder.
+Q: Quel est le sujet principal de l'article ?
++ Le développement de la location d'objets et le changement d'habitude qu'elle implique. | L'article présente le principe, ses avantages et la difficulté de renoncer à posséder.
+- La vente de perceuses à bas prix. | Il s'agit de location.
+- La fermeture des magasins de bricolage. | Ce n'est pas évoqué.
+- L'obligation de louer au lieu d'acheter. | C'est un choix.
+EXP: La question rhétorique annonce l'argument principal. La dernière phrase nuance avec « mais » et complète le thème.
+
+## CE 11 | B2 | courriel | intention
+DOC: Bonjour à tous, comme chaque année, l'association des parents d'élèves organise la vente de gâteaux au profit du voyage scolaire. Cette fois, nous vous demandons d'indiquer les ingrédients de vos préparations sur une petite étiquette, car plusieurs enfants souffrent d'allergies alimentaires. Merci de déposer vos gâteaux vendredi avant 8 h 30. Merci pour votre aide ! Sophie, pour l'association
+Q: Quelle nouvelle consigne Sophie donne-t-elle ?
++ Indiquer les ingrédients des gâteaux à cause des allergies. | « nous vous demandons d'indiquer les ingrédients… car plusieurs enfants souffrent d'allergies ».
+- Ne préparer que des gâteaux sans sucre. | Ce n'est pas demandé.
+- Acheter les gâteaux dans une pâtisserie. | Il s'agit de préparations maison.
+- Apporter les gâteaux le jeudi. | Le dépôt se fait vendredi.
+EXP: L'expression « cette fois » signale la nouveauté. La justification introduite par « car » aide à comprendre la consigne.
+
+## CE 12 | B2 | article | information précise
+DOC: Le Nutri-Score est un logo apposé sur les emballages alimentaires. Il classe les produits en cinq catégories, de A, vert foncé, pour les plus favorables sur le plan nutritionnel, à E, rouge, pour les moins favorables. Il permet de comparer facilement des produits d'une même famille, par exemple deux céréales de petit-déjeuner. En France, son affichage n'est pas obligatoire : il repose sur le volontariat des fabricants.
+Q: Que dit l'article sur l'affichage du Nutri-Score en France ?
++ Il est facultatif pour les fabricants. | « son affichage n'est pas obligatoire : il repose sur le volontariat ».
+- Il est obligatoire sur tous les produits. | Il n'est pas obligatoire.
+- Il est réservé aux céréales. | Les céréales sont un exemple.
+- Il est interdit pour les produits classés E. | Ce n'est pas mentionné.
+EXP: La dernière phrase répond à la question ; les deux-points introduisent une reformulation.
+
+## CE 13 | B2 | essai | inférence
+DOC: Nos grands-parents faisaient leurs courses chaque jour, chez des commerçants qui les connaissaient. Nous remplissons un chariot une fois par semaine, puis, de plus en plus, nous commandons en ligne. Nous avons gagné du temps, c'est indéniable. Mais en chemin, nous avons perdu ces conversations quotidiennes qui faisaient des courses un moment de lien social.
+Q: Que suggère l'auteur ?
++ L'évolution des courses a eu un coût humain. | « nous avons perdu ces conversations quotidiennes ».
+- Il faut interdire les courses en ligne. | Il ne propose aucune interdiction.
+- Nos grands-parents perdaient leur temps. | Il ne porte pas ce jugement.
+- Les commerçants ne parlaient pas à leurs clients. | C'est le contraire.
+EXP: L'auteur concède un gain (« c'est indéniable ») puis souligne une perte. Sans juger explicitement, il invite à mesurer ce qui a disparu.
+
+## CE 14 | B2 | annonce | information précise
+DOC: Atelier « Cuisiner sans gaspiller » – Centre social des Tilleuls. Apprenez à préparer des repas savoureux avec les restes et les légumes un peu abîmés. Trois séances le jeudi de 14 h à 16 h. Gratuit pour les adhérents du centre ; 5 euros la séance pour les autres. Les participants repartent avec les plats préparés. Apportez un récipient.
+Q: Que doivent apporter les participants ?
++ Un récipient. | « Apportez un récipient ».
+- Des restes de leur réfrigérateur. | Ce n'est pas demandé.
+- Leur carte d'adhérent. | Ce n'est pas mentionné.
+- Un tablier. | Rien ne l'indique.
+EXP: La consigne finale à l'impératif répond directement à la question. Elle s'explique par le fait que les participants repartent avec les plats.
+
+## CE 15 | B2 | article d'opinion | opinion
+DOC: Les promotions « trois pour le prix de deux » sont présentées comme un cadeau. En réalité, elles nous poussent souvent à acheter plus que nécessaire, surtout pour les produits frais qui finissent à la poubelle. Je préférerais des prix simplement plus bas, à l'unité. Une vraie promotion, c'est celle qui nous fait économiser, pas celle qui nous fait acheter davantage.
+Q: Que pense l'auteur de ces promotions ?
++ Elles encouragent la surconsommation et le gaspillage. | Elles « nous poussent souvent à acheter plus que nécessaire ».
+- Elles sont un véritable cadeau. | Il conteste cette présentation.
+- Elles devraient être plus nombreuses. | Il préfère des prix plus bas à l'unité.
+- Elles concernent seulement les produits secs. | Il cite les produits frais.
+EXP: L'auteur oppose l'apparence (« présentées comme un cadeau ») et la réalité (« en réalité »). Sa définition finale résume son opinion.
+
+## CE 16 | B2 | rapport | compréhension globale
+DOC: Selon une étude sur les habitudes alimentaires, les jeunes adultes déjeunent de plus en plus devant un écran et consacrent moins de vingt minutes à leur repas. Les auteurs observent que ces repas pris rapidement sont souvent moins équilibrés et suivis de grignotages dans l'après-midi. Ils recommandent aux entreprises et aux universités d'aménager des espaces conviviaux pour encourager de vraies pauses.
+Q: Quelle est la recommandation principale du rapport ?
++ Créer des lieux agréables pour favoriser de vraies pauses repas. | Il recommande « d'aménager des espaces conviviaux ».
+- Interdire les écrans dans les restaurants. | Ce n'est pas proposé.
+- Supprimer les pauses déjeuner. | Il veut au contraire les encourager.
+- Allonger la journée de travail. | Ce n'est pas mentionné.
+EXP: Le rapport présente un constat, ses conséquences et une recommandation. La dernière phrase répond à la question.
+
+## CE 17 | B2 | lettre de réclamation | intention
+DOC: Madame, Monsieur, le 4 juin, j'ai commandé sur votre site un service de vaisselle de douze pièces. Le colis m'a été livré avec quatre assiettes cassées, ce que j'ai signalé au livreur et noté sur le bon de livraison. Je vous joins les photos. Je vous demande soit le remplacement des pièces cassées, soit le remboursement partiel correspondant, dans un délai de quinze jours.
+Q: Quel est l'objectif de cette lettre ?
++ Obtenir une solution pour des articles abîmés à la livraison. | Elle demande un remplacement ou un remboursement partiel.
+- Annuler toute la commande. | Elle demande seulement une solution pour les pièces cassées.
+- Se plaindre du retard de livraison. | Le problème est la casse.
+- Commander un deuxième service. | Ce n'est pas l'objet.
+EXP: La lettre expose les faits, fournit des preuves (bon de livraison, photos) et propose deux solutions avec « soit… soit ».
+
+## CE 18 | B2 | article | information précise
+DOC: La loi encadre désormais l'utilisation de certains emballages. La vaisselle jetable en plastique, les pailles et les touillettes sont interdites. Dans la restauration rapide, les repas servis sur place doivent l'être dans de la vaisselle réutilisable. Les clients qui emportent leur repas peuvent également venir avec leur propre contenant, que le commerçant ne peut pas refuser s'il est propre et adapté.
+Q: Que peut faire un client qui emporte son repas ?
++ Apporter son propre contenant, s'il est propre et adapté. | Le commerçant « ne peut pas refuser s'il est propre et adapté ».
+- Exiger de la vaisselle en plastique. | Elle est interdite.
+- Manger sur place avec des couverts jetables. | La vaisselle doit être réutilisable sur place.
+- Obtenir une réduction obligatoire. | Ce n'est pas mentionné.
+EXP: L'article énumère plusieurs règles. La dernière phrase concerne les repas à emporter et contient une condition.
+
+## CE 19 | B2 | chronique | inférence
+DOC: Mon fils de huit ans m'a demandé hier d'où venaient les frites. Je lui ai répondu : des pommes de terre. Il m'a regardé, incrédule. Pour lui, les frites venaient d'un sachet du congélateur, comme le poisson venait en rectangles panés. Ce week-end, nous irons ramasser des pommes de terre chez un agriculteur. Il est temps qu'il découvre ce qu'il y a avant le sachet.
+Q: Que comprend-on de cette chronique ?
++ L'auteur veut reconnecter son fils à l'origine réelle des aliments. | « Il est temps qu'il découvre ce qu'il y a avant le sachet ».
+- Son fils n'aime pas les frites. | Rien ne l'indique.
+- L'auteur ne sait pas cuisiner. | Ce n'est pas le sujet.
+- Les frites surgelées sont interdites. | Ce n'est pas mentionné.
+EXP: L'anecdote humoristique révèle une méconnaissance de l'enfant. La décision finale montre l'intention éducative de l'auteur.
+
+## CE 20 | B2 | guide pratique | information précise
+DOC: Réduire ses déchets en cuisine. Planifiez vos menus de la semaine et faites une liste de courses. Rangez votre réfrigérateur en plaçant devant les produits qui doivent être consommés en premier. Congelez le pain ou les restes que vous ne mangerez pas dans les deux jours. Enfin, compostez les épluchures : votre commune distribue peut-être des composteurs gratuitement.
+Q: Que conseille le guide pour les restes qui ne seront pas mangés rapidement ?
++ Les congeler. | « Congelez le pain ou les restes que vous ne mangerez pas dans les deux jours ».
+- Les composter. | Le compost concerne les épluchures.
+- Les placer au fond du réfrigérateur. | Il faut placer devant ce qui doit être mangé en premier.
+- Les donner à la commune. | La commune distribue des composteurs.
+EXP: Le guide énumère des conseils à l'impératif. Il faut associer chaque conseil au type de déchet concerné.
+
+## CE 21 | B2 | éditorial | opinion
+DOC: Les livraisons de repas à domicile ont explosé. Pratique, certes. Mais derrière l'écran, il y a des livreurs qui pédalent sous la pluie pour une rémunération souvent faible, sans réelle protection sociale. Nous ne pouvons pas nous réjouir d'un service si son confort repose sur la précarité de ceux qui le rendent. Il est urgent de mieux protéger ces travailleurs.
+Q: Quelle est la position de l'éditorialiste ?
++ Le confort des clients ne doit pas reposer sur la précarité des livreurs. | « Nous ne pouvons pas nous réjouir d'un service si son confort repose sur la précarité ».
+- Il faut interdire les livraisons à domicile. | Il demande une meilleure protection.
+- Les livreurs sont bien rémunérés. | Leur rémunération est « souvent faible ».
+- Les livraisons ne sont pas pratiques. | Il dit « pratique, certes ».
+EXP: L'éditorialiste concède un avantage (« certes ») puis développe une critique sociale. Sa conclusion est un appel à agir.
+
+## CE 22 | B2 | article | compréhension globale
+DOC: Les jardins partagés connaissent un succès croissant dans les villes. Sur des terrains prêtés par les mairies, des habitants cultivent ensemble légumes et fleurs. Au-delà des récoltes, souvent modestes, ces jardins créent des liens entre voisins de générations et d'origines différentes. Certains accueillent même des classes pour sensibiliser les enfants à la nature et à l'alimentation.
+Q: Quel est le sujet de l'article ?
++ Les jardins partagés et leur rôle social et éducatif. | « Au-delà des récoltes… ces jardins créent des liens » et accueillent des classes.
+- La production agricole industrielle en ville. | Les récoltes sont « souvent modestes ».
+- La vente de terrains par les mairies. | Les terrains sont prêtés.
+- Les difficultés des agriculteurs. | Ce n'est pas le sujet.
+EXP: L'expression « au-delà des récoltes » montre que l'intérêt principal est ailleurs : dans le lien social et l'éducation.
+
+## CE 23 | B2 | règlement | inférence
+DOC: Programme de fidélité – Conditions. Chaque euro dépensé rapporte un point. À partir de cent points, le client reçoit un bon de réduction de cinq euros, valable un mois. Les points expirent s'ils ne sont pas utilisés dans les douze mois. Les achats de livres et de cartes cadeaux ne donnent pas droit à des points.
+Q: Que peut-on déduire de ce règlement ?
++ Un client qui achète pour deux cents euros de livres n'obtient aucun bon. | Les livres « ne donnent pas droit à des points ».
+- Les points sont valables sans limite de temps. | Ils expirent après douze mois.
+- Un bon de réduction peut être utilisé pendant un an. | Il est valable un mois.
+- Chaque achat donne droit à cent points. | Un euro rapporte un point.
+EXP: Le règlement ne mentionne pas ce cas précis, mais l'exclusion des livres permet de le déduire. C'est une inférence par application d'une règle.
+
+## CE 24 | B2 | tribune | intention
+DOC: Je suis boulanger depuis vingt-cinq ans, et je voudrais dire à mes clients une chose simple : le bon pain a un prix. La farine, l'énergie et le temps de fermentation coûtent cher. Un pain à quelques centimes, fabriqué en quelques minutes avec des additifs, n'a ni le même goût ni la même valeur nutritive. En achetant chez un artisan, vous ne payez pas seulement du pain, vous faites vivre un savoir-faire.
+Q: Que cherche à faire le boulanger ?
++ Faire comprendre la valeur du pain artisanal et justifier son prix. | « le bon pain a un prix » et « vous faites vivre un savoir-faire ».
+- Annoncer une baisse de ses prix. | Il justifie au contraire des prix plus élevés.
+- Critiquer ses clients. | Il s'adresse à eux pour les convaincre.
+- Vendre des additifs. | Il les critique.
+EXP: Le boulanger explique les coûts, compare avec le pain industriel et termine par un argument sur le savoir-faire. L'intention est de convaincre.
+
+## CE 25 | B2 | essai | compréhension globale
+DOC: Manger n'est jamais un acte purement biologique. À travers nos repas, nous exprimons une culture, une histoire familiale, parfois des convictions. Le couscous du dimanche, la galette des rois en janvier ou le repas de fête partagé sont des moments qui structurent nos vies. Réduire l'alimentation à des calories ou à des nutriments, c'est oublier sa dimension profondément sociale.
+Q: Quelle est la thèse de l'auteur ?
++ L'alimentation a une dimension culturelle et sociale essentielle. | « c'est oublier sa dimension profondément sociale ».
+- Manger est seulement une question de calories. | Il réfute cette idée.
+- Les repas de fête sont mauvais pour la santé. | Il les présente positivement.
+- Il faut manger du couscous chaque dimanche. | C'est un exemple.
+EXP: L'essai commence par une négation qui annonce la thèse, l'illustre par des exemples et conclut en réfutant la position inverse.
+
+## EE 1 | B2 | répondre à un message
+CONSIGNE: Votre amie Clara vous écrit : « Je voudrais manger plus sainement, mais je n'ai pas le temps de cuisiner le soir. Tu as des idées ? » Répondez-lui en lui donnant deux conseils (30 à 60 mots).
+MODELE: Coucou Clara, je te comprends ! D'abord, cuisine en grande quantité le dimanche : soupes, légumes rôtis ou plats que tu congèleras en portions. Ensuite, garde toujours des œufs et des légumes surgelés, qui permettent de préparer une omelette en dix minutes. Tu verras, c'est plus simple qu'il n'y paraît. Bisous, Léa
+POINTS: réagir au message ; donner un premier conseil ; donner un second conseil ; formule finale
+COMMENTAIRE: Le message est amical, précis et organisé. Les conseils sont concrets et réalisables, avec une relative et une comparaison (« plus simple qu'il n'y paraît »).
+CONSEILS: Proposez des conseils précis et réalistes plutôt que des généralités comme « mange équilibré ».
+
+## EE 2 | B2 | raconter une expérience
+CONSIGNE: Racontez sur un blog un achat que vous avez regretté ou, au contraire, un achat dont vous êtes très satisfait : ce que vous avez acheté, dans quelles circonstances et ce que vous en avez appris (40 à 90 mots).
+MODELE: L'an dernier, séduit par une publicité, j'ai acheté un robot de cuisine très coûteux qui promettait de tout faire à ma place. Les premières semaines, je l'utilisais tous les jours. Puis je me suis rendu compte que le nettoyer prenait plus de temps que de cuisiner avec une simple casserole. Aujourd'hui, il prend la poussière dans un placard. Cette expérience m'a appris à attendre quelques jours avant tout achat important, afin de vérifier que j'en ai vraiment besoin.
+POINTS: présenter l'achat ; décrire les circonstances ; raconter l'évolution ; tirer une leçon
+COMMENTAIRE: Le récit est vivant, avec une progression claire et une touche d'humour (« il prend la poussière »). Les temps du passé et la conclusion réfléchie correspondent au niveau B2.
+CONSEILS: Une touche d'humour ou d'autodérision rend votre récit plus personnel et plus agréable à lire.
+
+## EE 3 | B2 | donner son opinion à partir de deux documents
+CONSIGNE: Document 1 : « Les cantines scolaires devraient proposer un repas végétarien chaque jour pour préserver la planète. » Document 2 : « Les enfants ont besoin de viande pour grandir, et les parents doivent garder le choix. » Présentez ces deux opinions, puis donnez votre avis argumenté (40 à 90 mots).
+MODELE: Le premier document défend un menu végétarien quotidien dans les cantines pour des raisons écologiques, alors que le second rappelle l'importance de la viande pour les enfants et la liberté des parents. À mon avis, une solution intermédiaire serait préférable. On pourrait proposer chaque jour une option végétarienne équilibrée, à côté d'un plat avec viande ou poisson. Ainsi, les familles choisiraient librement, tandis que les enfants découvriraient d'autres sources de protéines, comme les lentilles.
+POINTS: résumer le document 1 ; résumer le document 2 ; prendre position ; justifier ; proposer une solution
+COMMENTAIRE: La synthèse est fidèle et la proposition concilie les deux points de vue. Le conditionnel et les connecteurs (« alors que », « ainsi », « tandis que ») structurent bien l'argumentation.
+CONSEILS: Donnez un exemple précis (ici, les lentilles) pour rendre votre proposition concrète et crédible.
+
+## EO 1 | B2 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous interroge sur vos habitudes de consommation et d'alimentation : où vous faites vos courses, ce que vous aimez cuisiner, les plats de votre pays et votre attention au gaspillage.
+RELANCES: Pouvez-vous vous présenter ? / Où faites-vous vos courses ? / Aimez-vous cuisiner ? / Quel plat de votre pays aimeriez-vous faire découvrir ? / Faites-vous attention au gaspillage ?
+PHRASES: Je fais mes courses… / Ce que j'aime préparer, c'est… / J'essaie de…
+MODELE: Je m'appelle Fatou, j'ai vingt-neuf ans et je suis aide-soignante. Je fais mes courses au supermarché pendant la semaine, mais le samedi, je vais au marché, où les légumes sont plus frais. Ce que j'aime préparer, c'est le thieboudienne, un plat sénégalais à base de riz et de poisson, que ma mère m'a appris. J'aimerais le faire découvrir à mes collègues. Contre le gaspillage, j'essaie de faire une liste et je cuisine les restes le lendemain.
+COMMENTAIRE: La candidate répond de façon complète, avec des détails culturels, des relatives et une mise en relief. Ses réponses sont naturelles et bien enchaînées.
+CONSEILS: Présenter un plat de votre pays est une excellente occasion de montrer votre vocabulaire : expliquez brièvement ses ingrédients.
+
+## EO 2 | B2 | Retourner un produit défectueux | Vendeur
+SCENARIO: Il y a trois semaines, vous avez acheté un aspirateur qui ne fonctionne déjà plus. Vous retournez au magasin avec votre ticket. Le vendeur (l'examinateur) vous propose seulement de l'envoyer en réparation pendant un mois. Vous souhaitez un échange immédiat.
+RELANCES: Nous devons d'abord l'envoyer au fabricant. / Vous l'avez peut-être mal utilisé. / Un échange n'est pas possible. / Que voulez-vous exactement ?
+PHRASES: Je souhaiterais… / Je tiens à préciser que… / Ne serait-il pas possible de… ?
+MODELE: Bonjour, j'ai acheté cet aspirateur ici il y a trois semaines, voici le ticket. Il ne s'allume plus. Je tiens à préciser que je l'ai utilisé normalement, en suivant la notice. Un mois sans aspirateur, avec deux enfants, ce n'est vraiment pas possible. Je sais que la garantie légale permet de demander un remplacement. Ne serait-il pas possible de l'échanger aujourd'hui contre le même modèle ? Sinon, pourriez-vous au moins me prêter un appareil pendant la réparation ?
+COMMENTAIRE: Le candidat présente les faits, répond à l'accusation, invoque ses droits et propose une solution de repli. Il reste poli et ferme.
+CONSEILS: Préparez une solution de repli (prêt d'un appareil) : cela montre votre esprit de compromis tout en défendant vos intérêts.
+
+## EO 3 | B2 | Faut-il taxer davantage les produits trop sucrés ? | Examinateur
+SCENARIO: Certains pays ont instauré une taxe sur les boissons et les aliments trop sucrés pour lutter contre l'obésité. D'autres jugent cette mesure injuste ou inefficace. Quelle est votre opinion ? Défendez-la.
+RELANCES: Cette taxe pénalise les familles modestes. / Chacun est libre de manger ce qu'il veut. / Les industriels vont simplement augmenter leurs prix. / Que proposez-vous d'autre ?
+PHRASES: Je suis plutôt favorable à… / Il faut reconnaître que… / À condition que…
+MODELE: Je suis plutôt favorable à cette taxe, à condition que l'argent serve à la prévention. Il faut reconnaître qu'elle touche davantage les familles modestes, qui consomment plus de sodas. Mais justement, ce sont aussi elles qui souffrent le plus des maladies liées au sucre. Dans certains pays, les fabricants ont réduit la quantité de sucre pour éviter la taxe, ce qui profite à tous. Cela dit, une taxe ne suffit pas : il faudrait aussi rendre les fruits moins chers.
+COMMENTAIRE: Le candidat prend position sous condition, reconnaît une objection, la retourne en argument et cite un effet observé. Il nuance sa conclusion par une proposition complémentaire.
+CONSEILS: Transformer une objection en argument (« mais justement… ») est une technique très efficace à l'oral.

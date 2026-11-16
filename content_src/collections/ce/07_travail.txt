@@ -1,0 +1,205 @@
+@slug ce-travail
+@section CE
+@title Travail
+@order 7
+@description Articles sur le monde du travail : organisation, management, droits des salariés et nouvelles formes d'emploi.
+
+## CE-TRA-01 | article de presse
+TITRE: Le droit à la déconnexion, encore théorique
+DOC: Depuis plusieurs années, la loi reconnaît aux salariés un droit à la déconnexion : en dehors de leurs heures de travail, ils ne sont pas tenus de répondre aux courriels ou aux appels professionnels. Les entreprises de plus de cinquante salariés doivent négocier les modalités de ce droit avec les représentants du personnel. ¶ Dans les faits, son application reste très inégale. Selon une enquête récente, plus de la moitié des cadres consultent leur messagerie professionnelle le soir ou le week-end, et un tiers déclarent se sentir obligés de répondre rapidement. La pression ne vient pas toujours de la hiérarchie : beaucoup craignent simplement de paraître moins investis que leurs collègues. ¶ Certaines entreprises ont choisi des mesures concrètes, comme le blocage des serveurs de messagerie après 20 heures ou l'envoi différé des courriels écrits tard le soir. D'autres se contentent d'une charte, rarement lue. Pour les spécialistes de la santé au travail, la déconnexion ne se décrète pas : elle suppose un changement de culture, à commencer par l'exemple donné par les dirigeants eux-mêmes.
+Q: Que prévoit la loi sur la déconnexion ? | compréhension détaillée
++ Les salariés n'ont pas à répondre aux sollicitations professionnelles hors de leur temps de travail. | « En dehors de leurs heures de travail, ils ne sont pas tenus de répondre aux courriels ou aux appels professionnels. »
+- Les téléphones professionnels sont interdits. | Ce n'est pas dit.
+- Les cadres doivent travailler le week-end. | C'est l'inverse.
+- Toutes les entreprises doivent bloquer leurs serveurs. | C'est une mesure choisie par certaines.
+EXP: « Ne pas être tenu de » signifie « ne pas être obligé de ».
+Q: D'où vient souvent la pression à rester connecté ? | implicite
++ De la crainte de paraître moins impliqué que les autres. | « Beaucoup craignent simplement de paraître moins investis que leurs collègues. »
+- Uniquement des ordres des supérieurs. | « La pression ne vient pas toujours de la hiérarchie. »
+- Des clients étrangers. | Ce n'est pas dit.
+- D'une obligation légale. | La loi dit le contraire.
+EXP: La pression est en partie intériorisée : elle vient du regard des collègues.
+Q: Selon les spécialistes, de quoi dépend une vraie déconnexion ? | synthèse
++ D'un changement de culture, porté notamment par les dirigeants. | « Elle suppose un changement de culture, à commencer par l'exemple donné par les dirigeants. »
+- D'une charte signée par tous. | Les chartes sont « rarement lues ».
+- D'une nouvelle loi plus sévère. | Ce n'est pas leur proposition.
+- De la suppression des courriels. | Ce n'est pas dit.
+EXP: « Ne se décrète pas » signifie qu'on ne peut pas l'imposer seulement par une règle.
+VOCAB: les modalités = les conditions concrètes d'application = Les modalités de paiement. ; la messagerie = le service de courrier électronique = Il consulte sa messagerie. ; investi = impliqué, engagé = Un salarié très investi. ; différé = reporté à plus tard = Un envoi différé.
+EXPR: dans les faits = en réalité = En théorie c'est simple ; dans les faits, c'est compliqué. ; ne pas se décréter = ne pas pouvoir être imposé par une décision = La confiance ne se décrète pas. ; à commencer par = en premier lieu = Tout le monde doit faire un effort, à commencer par moi.
+PIEGES: La négociation est obligatoire pour les entreprises de plus de cinquante salariés. ; La pression n'est pas seulement hiérarchique. ; Les chartes sont citées comme une mesure peu efficace.
+
+## CE-TRA-02 | article de presse
+TITRE: Les métiers en tension peinent à recruter
+DOC: Aide-soignants, cuisiniers, chauffeurs routiers, couvreurs : malgré un chômage encore élevé dans certaines régions, de nombreux secteurs ne parviennent pas à pourvoir leurs postes. Ces métiers dits « en tension » partagent souvent les mêmes caractéristiques : horaires décalés, pénibilité physique, salaires modestes et manque de reconnaissance. ¶ Les employeurs mettent en avant le manque de candidats formés. Les syndicats, eux, estiment que le problème tient d'abord aux conditions de travail : selon eux, si ces emplois étaient mieux payés et moins usants, les candidats ne manqueraient pas. Plusieurs études leur donnent en partie raison, montrant que les secteurs qui ont augmenté les salaires ont vu leurs difficultés de recrutement diminuer. ¶ Les pouvoirs publics multiplient les dispositifs : formations accélérées, aides à l'embauche, campagnes de valorisation des métiers. Mais pour beaucoup d'experts, ces mesures resteront insuffisantes tant que les entreprises n'amélioreront pas concrètement l'organisation du travail, par exemple en proposant des plannings plus stables ou des perspectives d'évolution.
+Q: Qu'ont en commun les métiers en tension ? | compréhension détaillée
++ Des conditions difficiles et une rémunération faible. | « Horaires décalés, pénibilité physique, salaires modestes et manque de reconnaissance. »
+- Ils exigent tous un diplôme universitaire. | Ce n'est pas dit.
+- Ils sont tous très bien payés. | Les salaires sont « modestes ».
+- Ils sont réservés aux jeunes. | Ce n'est pas évoqué.
+EXP: L'énumération après les deux-points précise les « mêmes caractéristiques ».
+Q: Que montrent les études citées ? | argumentation
++ Augmenter les salaires facilite le recrutement. | « Les secteurs qui ont augmenté les salaires ont vu leurs difficultés de recrutement diminuer. »
+- Les candidats refusent toute formation. | Ce n'est pas dit.
+- Le chômage a disparu. | Il est « encore élevé ».
+- Les syndicats ont tort. | Elles leur donnent « en partie raison ».
+EXP: « En partie » nuance l'accord entre études et syndicats.
+Q: Quelle condition les experts posent-ils à la réussite des dispositifs publics ? | synthèse
++ Une amélioration réelle de l'organisation du travail par les entreprises. | « Tant que les entreprises n'amélioreront pas concrètement l'organisation du travail. »
+- La suppression des aides à l'embauche. | Ce n'est pas dit.
+- La baisse des salaires. | C'est contraire au texte.
+- L'arrêt des formations accélérées. | Ce n'est pas proposé.
+EXP: « Tant que… ne… pas » exprime une condition non remplie.
+VOCAB: pourvoir un poste = trouver quelqu'un pour l'occuper = Le poste n'a pas été pourvu. ; la pénibilité = le caractère dur et fatigant d'un travail = La pénibilité des métiers du bâtiment. ; usant = qui fatigue beaucoup = Un travail usant. ; un planning = un emploi du temps = Mon planning change chaque semaine.
+EXPR: en tension = où l'offre et la demande sont déséquilibrées = Le marché du logement est en tension. ; tenir à = venir de, avoir pour cause = Son succès tient à son travail. ; donner raison à quelqu'un = confirmer qu'il a raison = Les faits lui ont donné raison.
+PIEGES: Le chômage existe pourtant dans certaines régions. ; Les employeurs et les syndicats n'ont pas la même explication. ; Les dispositifs publics sont jugés insuffisants, pas inutiles.
+
+## CE-TRA-03 | article de presse
+TITRE: La semaine de quatre jours testée dans le privé
+DOC: Une centaine d'entreprises britanniques ont expérimenté pendant six mois la semaine de quatre jours, sans baisse de salaire. À l'issue de l'essai, plus de neuf sur dix ont décidé de poursuivre. Les chercheurs qui ont suivi l'expérience rapportent une baisse de l'absentéisme et des démissions, et une productivité globalement maintenue. ¶ Le secret, selon les participants, réside dans la réorganisation. Les réunions ont été raccourcies, les tâches inutiles supprimées, et les salariés ont appris à mieux protéger leur temps de concentration. Beaucoup affirment être moins épuisés et plus efficaces sur quatre jours que sur cinq. ¶ Les auteurs de l'étude invitent cependant à ne pas généraliser trop vite. Les entreprises participantes étaient volontaires, donc probablement plus motivées que la moyenne, et appartenaient surtout aux secteurs des services. Dans l'industrie, la santé ou le commerce, où la présence physique est indispensable, la mise en place supposerait des embauches supplémentaires, avec un coût que toutes les entreprises ne pourraient pas assumer.
+Q: Quel est le résultat principal de l'expérience ? | compréhension globale
++ La grande majorité des entreprises ont choisi de continuer. | « Plus de neuf sur dix ont décidé de poursuivre. »
+- La productivité s'est effondrée. | Elle a été « globalement maintenue ».
+- Les salaires ont baissé. | L'essai se faisait « sans baisse de salaire ».
+- Les salariés ont démissionné en masse. | Les démissions ont baissé.
+EXP: Le premier paragraphe donne les chiffres clés de l'expérience.
+Q: Comment les entreprises ont-elles réussi à maintenir leur activité ? | compréhension détaillée
++ En réorganisant le travail et en supprimant des tâches inutiles. | « Les réunions ont été raccourcies, les tâches inutiles supprimées. »
+- En embauchant massivement. | Ce n'est pas dit pour ces entreprises.
+- En allongeant les journées à douze heures. | Ce n'est pas évoqué.
+- En réduisant le nombre de clients. | Ce n'est pas mentionné.
+EXP: « Le secret… réside dans la réorganisation » annonce l'explication.
+Q: Pourquoi les auteurs appellent-ils à la prudence ? | argumentation
++ Les entreprises testées n'étaient pas représentatives de toute l'économie. | « Les entreprises participantes étaient volontaires… et appartenaient surtout aux secteurs des services. »
+- Les résultats étaient négatifs. | Ils étaient positifs.
+- L'expérience a été trop longue. | Ce n'est pas dit.
+- Les salariés ont menti. | Ce n'est pas évoqué.
+EXP: Un échantillon de volontaires motivés peut fausser les conclusions : c'est un biais de sélection.
+VOCAB: l'absentéisme = le fait d'être souvent absent au travail = L'absentéisme a diminué. ; une démission = le fait de quitter volontairement son emploi = Il a donné sa démission. ; la productivité = la quantité produite par unité de travail = La productivité a augmenté. ; représentatif = qui reflète bien l'ensemble = Un échantillon représentatif.
+EXPR: à l'issue de = à la fin de = À l'issue de la réunion, une décision a été prise. ; résider dans = se trouver dans = La difficulté réside dans le choix. ; généraliser trop vite = tirer une conclusion générale sans assez de preuves = Ne généralisons pas trop vite.
+PIEGES: L'expérience s'est faite sans baisse de salaire. ; Les embauches supplémentaires concernent d'autres secteurs, pas les entreprises testées. ; La prudence porte sur la généralisation, pas sur les résultats eux-mêmes.
+
+## CE-TRA-04 | article de presse
+TITRE: Les travailleurs des plateformes demandent des droits
+DOC: Livreurs à vélo, chauffeurs de véhicules avec chauffeur : des centaines de milliers de personnes travaillent aujourd'hui pour des plateformes numériques sous le statut d'indépendant. Ce statut leur offre en théorie une grande liberté : choisir leurs horaires, accepter ou refuser une course. Mais il les prive aussi des protections du salariat : congés payés, assurance chômage, protection en cas d'accident. ¶ Les travailleurs dénoncent une indépendance de façade. L'algorithme fixe les tarifs, attribue les courses et peut désactiver un compte sans véritable explication, ce qui ressemble fort à un lien de subordination. Plusieurs tribunaux ont d'ailleurs requalifié des contrats en contrats de travail. ¶ Les plateformes répondent que leur modèle repose sur la flexibilité, appréciée par de nombreux travailleurs, et qu'un salariat généralisé ferait disparaître une grande partie de ces emplois. Une directive européenne prévoit désormais une présomption de salariat lorsque la plateforme contrôle étroitement le travail, tout en laissant aux États une marge d'application.
+Q: Quels inconvénients le statut d'indépendant présente-t-il pour ces travailleurs ? | compréhension détaillée
++ L'absence de protections sociales liées au salariat. | « Il les prive aussi des protections du salariat : congés payés, assurance chômage, protection en cas d'accident. »
+- L'obligation de travailler la nuit. | Ce n'est pas dit.
+- L'interdiction de refuser une course. | En théorie, ils peuvent refuser.
+- Un salaire fixe trop bas. | Ils n'ont pas de salaire fixe.
+EXP: « Mais » introduit les inconvénients après les avantages théoriques.
+Q: Que signifie « une indépendance de façade » ? | implicite
++ Une liberté apparente, alors que la plateforme contrôle en réalité le travail. | « L'algorithme fixe les tarifs, attribue les courses et peut désactiver un compte. »
+- Une indépendance totale. | C'est l'inverse.
+- Une façade de bâtiment. | Lecture littérale erronée.
+- Un statut réservé aux architectes. | Ce n'est pas le sens.
+EXP: Une « façade » est ce qu'on montre à l'extérieur : l'indépendance n'est qu'une apparence.
+Q: Que prévoit la directive européenne ? | compréhension détaillée
++ Une présomption de salariat en cas de contrôle étroit par la plateforme. | « Une présomption de salariat lorsque la plateforme contrôle étroitement le travail. »
+- L'interdiction des plateformes. | Ce n'est pas dit.
+- Le statut d'indépendant obligatoire. | C'est l'inverse.
+- Un salaire minimum européen. | Ce n'est pas évoqué.
+EXP: Une présomption est une supposition qui s'applique sauf preuve contraire.
+VOCAB: une course = un trajet effectué pour un client = Le chauffeur a fait vingt courses. ; la subordination = le fait d'être soumis à l'autorité de quelqu'un = Le lien de subordination caractérise le salariat. ; requalifier = donner une autre qualification juridique = Le contrat a été requalifié. ; la flexibilité = la capacité à s'adapter, la souplesse = La flexibilité des horaires.
+EXPR: de façade = apparent, pas réel = Une amabilité de façade. ; ressembler fort à = ressembler beaucoup à = Cela ressemble fort à une excuse. ; laisser une marge = laisser une certaine liberté = La loi laisse une marge aux entreprises.
+PIEGES: La liberté des travailleurs existe « en théorie ». ; Ce sont des tribunaux, pas la loi, qui ont requalifié certains contrats. ; La directive laisse une marge aux États.
+
+## CE-TRA-05 | article de presse
+TITRE: Le management bienveillant, effet de mode ?
+DOC: Le mot « bienveillance » s'est imposé dans le vocabulaire des entreprises. Formations au management positif, responsables du bonheur au travail, séminaires de cohésion : les initiatives se multiplient pour améliorer le bien-être des salariés. ¶ Les sociologues du travail portent un regard plus critique. Selon eux, ces démarches peuvent masquer les vrais problèmes : une charge de travail excessive, des objectifs irréalistes ou un manque de moyens. Organiser une séance de yoga ne compense pas un service en sous-effectif. Pire, la bienveillance peut devenir une injonction supplémentaire : le salarié épuisé se sent coupable de ne pas être heureux alors que tout est fait pour son bien-être. ¶ Cela ne signifie pas que l'attention portée aux personnes soit inutile. La reconnaissance, l'écoute et l'autonomie ont des effets démontrés sur la motivation et la santé. Mais elles ne produisent leurs effets que si elles s'accompagnent de conditions de travail réalistes. La bienveillance, concluent les chercheurs, se mesure d'abord à l'organisation du travail, et non aux slogans affichés dans les couloirs.
+Q: Que reprochent les sociologues à certaines démarches de bien-être ? | argumentation
++ Elles peuvent dissimuler des problèmes de fond comme la surcharge de travail. | « Ces démarches peuvent masquer les vrais problèmes : une charge de travail excessive… »
+- Elles coûtent trop cher. | Ce n'est pas l'argument.
+- Elles sont obligatoires. | Ce n'est pas dit.
+- Elles améliorent trop la productivité. | Ce n'est pas évoqué.
+EXP: L'exemple du yoga illustre l'écart entre mesure symbolique et problème réel.
+Q: En quoi la bienveillance peut-elle devenir une « injonction » ? | implicite
++ Le salarié peut se sentir coupable de ne pas être heureux. | « Le salarié épuisé se sent coupable de ne pas être heureux alors que tout est fait pour son bien-être. »
+- Les salariés sont punis s'ils refusent le yoga. | Ce n'est pas dit.
+- La loi impose d'être heureux. | Ce n'est pas le sens.
+- Les managers sont obligés d'être gentils. | Ce n'est pas l'idée développée.
+EXP: Une injonction est un ordre ; ici, une pression implicite à se sentir bien.
+Q: Selon les chercheurs, comment mesure-t-on la vraie bienveillance ? | synthèse
++ À la qualité de l'organisation du travail. | « La bienveillance… se mesure d'abord à l'organisation du travail, et non aux slogans. »
+- Au nombre de séminaires organisés. | C'est ce qu'ils critiquent.
+- Aux slogans affichés. | Ils les opposent à la vraie bienveillance.
+- Au salaire des dirigeants. | Ce n'est pas dit.
+EXP: La structure « d'abord… et non… » oppose le fond à l'apparence.
+VOCAB: la bienveillance = l'attitude de vouloir du bien aux autres = Il parle avec bienveillance. ; en sous-effectif = qui manque de personnel = L'équipe est en sous-effectif. ; une injonction = un ordre pressant = Des injonctions contradictoires. ; l'autonomie = la capacité d'agir par soi-même = Les salariés veulent plus d'autonomie.
+EXPR: un effet de mode = une tendance passagère = Ce régime est un effet de mode. ; porter un regard critique = juger avec esprit critique = Elle porte un regard critique sur la réforme. ; pire = ce qui est encore plus grave = Il est en retard, et pire, il n'a pas prévenu.
+PIEGES: Les chercheurs ne rejettent pas toute attention au bien-être. ; « Pire » introduit un argument plus fort que le précédent. ; Les effets de la reconnaissance sont « démontrés ».
+
+## CE-TRA-06 | courrier des lecteurs
+TITRE: Reconversion à quarante-cinq ans : le témoignage d'une lectrice
+DOC: Madame, Monsieur, je lis souvent dans vos pages des articles enthousiastes sur la reconversion professionnelle. J'ai moi-même quitté un poste de comptable à quarante-cinq ans pour devenir ébéniste, et je voudrais apporter un témoignage plus nuancé. ¶ Je ne regrette pas mon choix. Travailler le bois me procure une satisfaction que je n'avais jamais connue derrière un écran. Mais vos articles passent sous silence les difficultés concrètes. Ma formation a duré un an, pendant lequel mes revenus ont été divisés par deux. Il m'a fallu trois années supplémentaires pour gagner à nouveau ma vie correctement, et je travaille aujourd'hui bien plus d'heures qu'avant. Sans le soutien financier de mon conjoint, je n'aurais pas pu tenir. ¶ Je ne cherche pas à décourager ceux qui rêvent de changer de vie. Je voudrais seulement qu'on leur dise la vérité : une reconversion réussie se prépare longtemps, demande une sécurité financière et beaucoup de persévérance. La passion ne suffit pas.
+Q: Pourquoi la lectrice écrit-elle au journal ? | compréhension globale
++ Pour nuancer la présentation trop positive des reconversions. | « Je voudrais apporter un témoignage plus nuancé. »
+- Pour se plaindre de son ancien employeur. | Ce n'est pas le sujet.
+- Pour annoncer qu'elle abandonne l'ébénisterie. | Elle ne regrette pas son choix.
+- Pour demander un emploi. | Ce n'est pas dit.
+EXP: Le premier paragraphe expose la raison de la lettre.
+Q: Quelle difficulté la lectrice n'évoque-t-elle PAS ? | compréhension détaillée
++ Le manque de clients pour ses meubles. | Elle ne parle pas de difficultés commerciales.
+- La baisse de ses revenus pendant la formation. | « Mes revenus ont été divisés par deux. »
+- Des horaires plus lourds. | « Je travaille aujourd'hui bien plus d'heures qu'avant. »
+- La dépendance au soutien de son conjoint. | « Sans le soutien financier de mon conjoint… »
+EXP: Il faut repérer l'élément absent du texte.
+Q: Quelle est la conclusion de la lectrice ? | synthèse
++ Une reconversion demande préparation, sécurité financière et persévérance. | « Une reconversion réussie se prépare longtemps, demande une sécurité financière et beaucoup de persévérance. »
+- Il ne faut jamais changer de métier. | Elle ne veut pas décourager.
+- La passion suffit à réussir. | « La passion ne suffit pas. »
+- Les journalistes mentent volontairement. | Elle dit qu'ils passent sous silence certaines difficultés.
+EXP: La phrase courte finale résume son message.
+VOCAB: un ébéniste = un artisan qui fabrique des meubles = L'ébéniste restaure une commode ancienne. ; le conjoint = le mari, la femme ou le partenaire = Son conjoint l'a soutenue. ; la persévérance = la qualité de continuer malgré les difficultés = Sa persévérance a payé. ; nuancé = qui tient compte de la complexité = Un avis nuancé.
+EXPR: passer sous silence = ne pas mentionner = Le rapport passe sous silence les échecs. ; gagner sa vie = gagner assez d'argent pour vivre = Il gagne bien sa vie. ; tenir = résister, continuer malgré la difficulté = Je n'aurais pas tenu sans eux.
+PIEGES: La lectrice est satisfaite de son nouveau métier. ; Elle ne reproche pas aux journaux de mentir mais d'omettre. ; La question négative demande l'élément absent.
+
+## CE-TRA-07 | article de presse
+TITRE: Les seniors, oubliés du marché de l'emploi
+DOC: Alors que l'âge de départ à la retraite recule, le taux d'emploi des 60-64 ans reste nettement inférieur à celui de la plupart des pays voisins. Beaucoup de salariés âgés sont poussés vers la sortie bien avant la retraite, par des plans de départ ou des licenciements, et peinent ensuite à retrouver un emploi. ¶ Les préjugés restent tenaces : les seniors seraient moins adaptables, moins à l'aise avec le numérique, et coûteraient plus cher. Les études contredisent largement ces idées. Les salariés expérimentés sont souvent plus fidèles, transmettent leurs savoir-faire et connaissent un absentéisme comparable à celui des autres. ¶ Certaines entreprises ont développé des politiques actives : tutorat entre générations, aménagement des postes pénibles, temps partiel en fin de carrière. Mais elles restent minoritaires. Pour les experts, reculer l'âge de la retraite sans améliorer l'emploi des seniors risque surtout d'allonger la période pendant laquelle des personnes âgées, sans emploi ni pension, vivent de minima sociaux.
+Q: Quel paradoxe le premier paragraphe souligne-t-il ? | implicite
++ On recule l'âge de la retraite alors que les seniors sont souvent écartés de l'emploi. | « Alors que l'âge de départ à la retraite recule… Beaucoup de salariés âgés sont poussés vers la sortie. »
+- Les seniors travaillent plus que les jeunes. | Ce n'est pas dit.
+- Les pays voisins n'ont pas de retraite. | Ce n'est pas évoqué.
+- Les seniors refusent de travailler. | Ils sont « poussés vers la sortie ».
+EXP: « Alors que » introduit une opposition entre deux faits.
+Q: Que montrent les études sur les salariés âgés ? | argumentation
++ Les préjugés à leur égard sont largement infondés. | « Les études contredisent largement ces idées. »
+- Ils sont moins compétents. | C'est un préjugé contredit.
+- Ils sont souvent absents. | Leur absentéisme est « comparable ».
+- Ils refusent le numérique. | Ce n'est pas confirmé.
+EXP: Le conditionnel du préjugé (« seraient ») montre que l'auteur ne le partage pas.
+Q: Quel risque les experts redoutent-ils ? | synthèse
++ Une période plus longue sans emploi ni retraite pour certains seniors. | « Allonger la période pendant laquelle des personnes âgées, sans emploi ni pension, vivent de minima sociaux. »
+- Une hausse des salaires des seniors. | Ce n'est pas dit.
+- La disparition du tutorat. | Ce n'est pas évoqué.
+- Un départ anticipé de tous les seniors. | Ce n'est pas le risque décrit.
+EXP: La conclusion relie la réforme des retraites à la situation de l'emploi.
+VOCAB: un senior = une personne âgée, ici un salarié de plus de 55 ans = L'emploi des seniors. ; tenace = qui dure, difficile à faire disparaître = Un préjugé tenace. ; le tutorat = l'accompagnement d'un débutant par un expérimenté = Le tutorat facilite l'intégration. ; les minima sociaux = les aides minimales versées aux personnes sans ressources = Il vit des minima sociaux.
+EXPR: pousser vers la sortie = inciter quelqu'un à partir = On l'a poussé vers la sortie. ; rester minoritaire = concerner une petite partie = Ces pratiques restent minoritaires. ; peiner à = avoir du mal à = Il peine à trouver un logement.
+PIEGES: Le conditionnel du deuxième paragraphe exprime des préjugés. ; Les politiques actives existent mais restent rares. ; Le risque concerne des personnes sans emploi ni pension.
+
+## CE-TRA-08 | article de presse
+TITRE: Les entretiens d'embauche à l'heure de l'intelligence artificielle
+DOC: De plus en plus de grandes entreprises utilisent des logiciels d'intelligence artificielle pour trier les candidatures. Certains outils analysent les CV et classent les candidats selon leur correspondance avec l'offre ; d'autres vont jusqu'à évaluer des entretiens vidéo enregistrés, en analysant le vocabulaire ou l'expression du visage. Les recruteurs y voient un gain de temps considérable face à des centaines de candidatures. ¶ Mais ces outils suscitent des inquiétudes. Entraînés sur les recrutements passés, ils peuvent reproduire les discriminations existantes : un logiciel d'un grand groupe avait ainsi appris à écarter les candidatures féminines pour des postes techniques, parce que l'entreprise avait historiquement recruté surtout des hommes. Par ailleurs, les candidats ignorent souvent qu'une machine a évalué leur dossier, et ne peuvent pas contester une décision qu'ils ne comprennent pas. ¶ La réglementation européenne classe désormais ces systèmes parmi les usages « à haut risque », imposant des contrôles, de la transparence et une supervision humaine.
+Q: Pourquoi les recruteurs utilisent-ils ces outils ? | compréhension détaillée
++ Pour gagner du temps face à un grand nombre de candidatures. | « Un gain de temps considérable face à des centaines de candidatures. »
+- Pour supprimer tout entretien. | Ce n'est pas dit.
+- Pour recruter uniquement des femmes. | Ce n'est pas le cas.
+- Parce que la loi les y oblige. | Ce n'est pas évoqué.
+EXP: L'avantage cité est l'efficacité.
+Q: Que montre l'exemple du logiciel d'un grand groupe ? | argumentation
++ Une IA peut reproduire les inégalités présentes dans les données passées. | « Avait ainsi appris à écarter les candidatures féminines… parce que l'entreprise avait historiquement recruté surtout des hommes. »
+- Les femmes sont moins qualifiées. | Ce n'est pas le sens.
+- L'IA ne fait jamais d'erreur. | C'est l'inverse.
+- Les postes techniques sont réservés aux hommes. | Ce n'est pas dit.
+EXP: L'exemple illustre le risque annoncé : « reproduire les discriminations existantes ».
+Q: Quel autre problème le texte soulève-t-il ? | compréhension détaillée
++ Les candidats ne savent pas toujours qu'une machine les a évalués. | « Les candidats ignorent souvent qu'une machine a évalué leur dossier. »
+- Les logiciels sont trop lents. | C'est l'inverse.
+- Les recruteurs refusent ces outils. | Ce n'est pas dit.
+- Les vidéos sont publiées en ligne. | Ce n'est pas évoqué.
+EXP: « Par ailleurs » introduit un second problème, la transparence.
+VOCAB: trier = séparer selon des critères = Trier les candidatures. ; une discrimination = un traitement inégal et injuste = La discrimination à l'embauche est interdite. ; contester = remettre en cause = Il conteste la décision. ; la supervision = le contrôle, la surveillance = Sous la supervision d'un expert.
+EXPR: aller jusqu'à = aller même jusqu'à faire = Il est allé jusqu'à démissionner. ; à l'heure de = à l'époque de = L'école à l'heure du numérique. ; à haut risque = qui présente un danger important = Une opération à haut risque.
+PIEGES: L'exemple du logiciel montre un biais dû aux données, pas une intention. ; La réglementation impose une supervision humaine, pas une interdiction. ; Les candidats ne sont pas toujours informés.

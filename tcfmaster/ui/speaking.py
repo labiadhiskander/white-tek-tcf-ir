@@ -49,13 +49,15 @@ def run_background(owner, fn, callback) -> None:
 def analyse_recording(stt, audio_path: str | None, manual_text: str) -> dict:
     """Transcription + profil sonore (exécuté hors du fil de l'interface)."""
     out = {"transcript": manual_text.strip(), "confidence": None, "profile": None,
-           "stt_error": None}
+           "stt_error": None, "words": None}
     if audio_path and Path(audio_path).is_file():
         out["profile"] = speech_profile(Path(audio_path))
         if stt is not None and not out["transcript"]:
             try:
                 tr = stt.transcribe(Path(audio_path))
                 out["transcript"], out["confidence"] = tr.text, tr.confidence
+                out["words"] = [{"word": w.word, "conf": round(float(w.conf), 2)}
+                                for w in tr.words]
             except Exception as exc:
                 out["stt_error"] = str(exc)
         elif stt is None and not out["transcript"]:
@@ -299,6 +301,7 @@ class SpeakingRunner(QWidget):
                     dialogue.append({"who": "candidat", "text": r["transcript"]})
                 sub = SS.submit(s, info["task_id"], r["transcript"], profile=r["profile"],
                                 audio_path=info["audio_path"], stt_confidence=r["confidence"],
+                                stt_words=r.get("words"),
                                 duration_s=info["duration_s"], dialogue=dialogue,
                                 attempt_id=self.attempt_id)
                 self.submission_ids.append(sub.id)

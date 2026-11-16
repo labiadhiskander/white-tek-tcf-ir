@@ -1,0 +1,1996 @@
+{
+ "code": "B2-BLANC-06",
+ "title": "Examen blanc B2 n° 6 – Culture et médias",
+ "level": "B2",
+ "description": "Examen complet de niveau B2 aux durées officielles : sorties culturelles, patrimoine, presse, information et réseaux.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "intention",
+   "document": "F: Bonsoir Julien, c'est Claire. Je sais qu'on avait prévu d'aller voir l'exposition sur l'impressionnisme samedi, mais j'ai découvert que le musée propose une visite guidée en nocturne jeudi, avec un conférencier. C'est un peu plus cher, mais on éviterait la foule du week-end et on en apprendrait beaucoup plus. Est-ce que ça te tenterait ? Dis-moi vite, il reste peu de places.",
+   "prompt": "Pourquoi Claire appelle-t-elle Julien ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour lui annoncer que l'exposition est complète.",
+     "correct": false,
+     "rationale": "Il reste des places pour la visite guidée."
+    },
+    {
+     "label": "B",
+     "text": "Pour annuler définitivement leur sortie.",
+     "correct": false,
+     "rationale": "Elle propose une autre date, elle n'annule pas."
+    },
+    {
+     "label": "C",
+     "text": "Pour lui reprocher d'avoir oublié leur rendez-vous.",
+     "correct": false,
+     "rationale": "Aucun reproche n'est exprimé."
+    },
+    {
+     "label": "D",
+     "text": "Pour lui proposer de modifier leur projet de sortie.",
+     "correct": true,
+     "rationale": "Elle suggère une visite le jeudi soir au lieu du samedi."
+    }
+   ],
+   "explanation": "Le message rappelle le projet initial (« on avait prévu »), puis présente une alternative avec ses avantages. La question finale (« ça te tenterait ? ») confirme qu'il s'agit d'une proposition.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co01.wav"
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "reportage radio",
+   "skill": "information précise",
+   "document": "H: Ce week-end, à l'occasion des Journées européennes du patrimoine, de nombreux bâtiments habituellement fermés au public ouvrent leurs portes. À la préfecture, les visites sont gratuites, mais l'inscription préalable sur le site internet est obligatoire, car les groupes sont limités à vingt personnes. Une pièce d'identité sera demandée à l'entrée.",
+   "prompt": "Que faut-il faire pour visiter la préfecture ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Présenter un justificatif de domicile.",
+     "correct": false,
+     "rationale": "On demande une pièce d'identité."
+    },
+    {
+     "label": "B",
+     "text": "S'inscrire à l'avance sur internet.",
+     "correct": true,
+     "rationale": "« l'inscription préalable sur le site internet est obligatoire »."
+    },
+    {
+     "label": "C",
+     "text": "Venir en groupe de vingt personnes.",
+     "correct": false,
+     "rationale": "Vingt est la limite maximale des groupes."
+    },
+    {
+     "label": "D",
+     "text": "Acheter un billet sur place.",
+     "correct": false,
+     "rationale": "Les visites sont gratuites."
+    }
+   ],
+   "explanation": "L'information clé est introduite par « mais », qui nuance la gratuité. Attention à ne pas transformer une limite (vingt personnes au maximum) en condition.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co02.wav"
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "H: Tu as vu ? Le cinéma du quartier va fermer. Franchement, avec les plateformes, ce n'était qu'une question de temps. / F: Je ne suis pas d'accord. Voir un film sur grand écran, entourée d'inconnus qui rient ou pleurent avec toi, ça n'a rien à voir avec un écran de téléphone. Le problème, c'est que ce cinéma ne proposait rien d'autre que des films. Ceux qui organisent des débats ou des avant-premières se portent très bien.",
+   "prompt": "Selon la femme, pourquoi le cinéma du quartier ferme-t-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parce qu'il n'a pas su proposer d'animations en plus des projections.",
+     "correct": true,
+     "rationale": "« ce cinéma ne proposait rien d'autre que des films »."
+    },
+    {
+     "label": "B",
+     "text": "Parce que les billets sont trop chers.",
+     "correct": false,
+     "rationale": "Le prix n'est pas évoqué."
+    },
+    {
+     "label": "C",
+     "text": "Parce que le public ne rit plus au cinéma.",
+     "correct": false,
+     "rationale": "Elle évoque au contraire l'émotion partagée."
+    },
+    {
+     "label": "D",
+     "text": "Parce que les plateformes ont rendu les salles inutiles.",
+     "correct": false,
+     "rationale": "C'est l'avis de l'homme, qu'elle conteste."
+    }
+   ],
+   "explanation": "La femme réfute l'explication de l'homme (« je ne suis pas d'accord ») et propose une autre cause, introduite par « le problème, c'est que ». Elle s'appuie sur la comparaison avec les cinémas qui réussissent.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co03.wav"
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Mesdames et Messieurs, nous vous informons que le concert de ce soir débutera avec trente minutes de retard en raison d'un problème technique. Les portes de la salle ouvriront à vingt heures trente. Les spectateurs qui le souhaitent peuvent patienter au bar du rez-de-chaussée, où une boisson leur sera offerte sur présentation de leur billet.",
+   "prompt": "Que peuvent obtenir les spectateurs au bar ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le remboursement de leur place.",
+     "correct": false,
+     "rationale": "Aucun remboursement n'est annoncé."
+    },
+    {
+     "label": "B",
+     "text": "Un billet pour un autre concert.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Une boisson gratuite en montrant leur billet.",
+     "correct": true,
+     "rationale": "« une boisson leur sera offerte sur présentation de leur billet »."
+    },
+    {
+     "label": "D",
+     "text": "Une réduction sur le repas.",
+     "correct": false,
+     "rationale": "Il s'agit d'une boisson offerte."
+    }
+   ],
+   "explanation": "L'annonce donne une cause (problème technique), une nouvelle heure et une compensation. La condition « sur présentation de leur billet » est un détail essentiel.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co04.wav"
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "compréhension globale",
+   "document": "H: Votre festival de bande dessinée fête ses dix ans. Comment a-t-il évolué ? / F: Au départ, c'était une petite rencontre entre passionnés, dans une salle municipale. Aujourd'hui, nous accueillons près de trente mille visiteurs. Mais nous avons tenu à rester fidèles à notre esprit : l'entrée est toujours gratuite, et chaque année, des ateliers permettent aux enfants des écoles du département de dessiner avec des auteurs professionnels.",
+   "prompt": "Quel est le thème principal de l'interview ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La formation des auteurs de bande dessinée.",
+     "correct": false,
+     "rationale": "Les ateliers s'adressent aux enfants."
+    },
+    {
+     "label": "B",
+     "text": "La croissance d'un festival qui a gardé ses valeurs d'origine.",
+     "correct": true,
+     "rationale": "Elle oppose les débuts modestes au succès actuel, « fidèles à notre esprit »."
+    },
+    {
+     "label": "C",
+     "text": "La disparition des petites rencontres entre passionnés.",
+     "correct": false,
+     "rationale": "Le festival est né d'une telle rencontre."
+    },
+    {
+     "label": "D",
+     "text": "Les difficultés financières d'un festival gratuit.",
+     "correct": false,
+     "rationale": "Aucune difficulté n'est évoquée."
+    }
+   ],
+   "explanation": "La réponse suit le schéma « au départ… aujourd'hui… mais ». Le « mais » souligne la continuité des valeurs malgré le changement d'échelle.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co05.wav"
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "skill": "inférence",
+   "document": "H: On nous promettait que les livres numériques allaient faire disparaître le papier. Dix ans plus tard, les librairies indépendantes ouvrent de nouvelles boutiques, et les jeunes lecteurs réclament des éditions illustrées, avec de belles couvertures, qu'ils photographient pour les partager en ligne. Ironie de l'histoire : ce sont les réseaux sociaux qui font vendre des livres en papier.",
+   "prompt": "Que laisse entendre le chroniqueur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les jeunes ne lisent plus que sur écran.",
+     "correct": false,
+     "rationale": "Ils réclament des éditions papier."
+    },
+    {
+     "label": "B",
+     "text": "Les livres numériques sont plus beaux que les livres papier.",
+     "correct": false,
+     "rationale": "Il parle de l'esthétique des livres papier."
+    },
+    {
+     "label": "C",
+     "text": "Les prévisions sur la fin du livre papier se sont révélées fausses.",
+     "correct": true,
+     "rationale": "Il souligne que les librairies se développent « dix ans plus tard »."
+    },
+    {
+     "label": "D",
+     "text": "Les réseaux sociaux menacent les librairies.",
+     "correct": false,
+     "rationale": "Ils font au contraire vendre des livres."
+    }
+   ],
+   "explanation": "« On nous promettait » introduit une prédiction que la suite contredit. Le mot « ironie » souligne un retournement inattendu : le numérique sert le papier.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co06.wav"
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "débat radio",
+   "skill": "opinion",
+   "document": "F: Faut-il rendre les musées nationaux gratuits pour tous ? / H: Je n'y crois pas. Les expériences de gratuité montrent que ce sont surtout les habitués qui viennent plus souvent. Les personnes éloignées de la culture ne poussent pas davantage la porte. Il vaudrait mieux financer des médiateurs qui vont dans les quartiers et les écoles pour donner envie de venir.",
+   "prompt": "Quelle est l'opinion de l'homme sur la gratuité des musées ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle est la meilleure solution pour démocratiser la culture.",
+     "correct": false,
+     "rationale": "Il dit « je n'y crois pas »."
+    },
+    {
+     "label": "B",
+     "text": "Elle fait fuir les visiteurs habitués.",
+     "correct": false,
+     "rationale": "Ils viennent au contraire plus souvent."
+    },
+    {
+     "label": "C",
+     "text": "Elle devrait être réservée aux écoles.",
+     "correct": false,
+     "rationale": "Il propose des médiateurs, pas une gratuité ciblée."
+    },
+    {
+     "label": "D",
+     "text": "Elle ne suffit pas à attirer de nouveaux publics.",
+     "correct": true,
+     "rationale": "« Les personnes éloignées de la culture ne poussent pas davantage la porte »."
+    }
+   ],
+   "explanation": "L'homme s'appuie sur des expériences passées pour réfuter l'idée, puis propose une alternative au conditionnel (« il vaudrait mieux »).",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co07.wav"
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "H: Bonjour, ici le service de presse du théâtre municipal. Nous avons bien reçu votre demande d'accréditation pour la première de la pièce. Deux places vous sont réservées le vendredi 14. Elles seront à retirer au guichet presse au plus tard trente minutes avant le début de la représentation, faute de quoi elles seront remises en vente.",
+   "prompt": "Que se passera-t-il si le journaliste arrive trop tard ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ses places seront revendues.",
+     "correct": true,
+     "rationale": "« faute de quoi elles seront remises en vente »."
+    },
+    {
+     "label": "B",
+     "text": "Il pourra assister à une autre représentation.",
+     "correct": false,
+     "rationale": "Aucune solution de remplacement n'est proposée."
+    },
+    {
+     "label": "C",
+     "text": "Il sera placé au fond de la salle.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Il devra payer ses places.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    }
+   ],
+   "explanation": "« Faute de quoi » introduit la conséquence du non-respect de la condition. C'est une expression fréquente dans les messages administratifs.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co08.wav"
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "intention",
+   "document": "F: Vous êtes journaliste depuis trente ans. Pourquoi avoir lancé une lettre d'information payante, sans publicité ? / H: Parce que j'en avais assez de courir après les clics. Avec la publicité, on est poussé à publier vite, à choisir des titres accrocheurs. Ici, mes abonnés me paient pour que je prenne le temps d'enquêter. Ils attendent de moi de la fiabilité, pas de la quantité.",
+   "prompt": "Que cherche à expliquer le journaliste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les raisons qui l'ont poussé à changer de modèle économique.",
+     "correct": true,
+     "rationale": "Il justifie son choix d'un abonnement sans publicité."
+    },
+    {
+     "label": "B",
+     "text": "Les avantages de la publicité pour les journalistes.",
+     "correct": false,
+     "rationale": "Il en décrit les effets négatifs."
+    },
+    {
+     "label": "C",
+     "text": "Les techniques pour attirer plus de lecteurs.",
+     "correct": false,
+     "rationale": "Il critique justement la course aux clics."
+    },
+    {
+     "label": "D",
+     "text": "Les difficultés à trouver des abonnés.",
+     "correct": false,
+     "rationale": "Il n'en parle pas."
+    }
+   ],
+   "explanation": "La question commence par « pourquoi » et la réponse par « parce que ». Le journaliste oppose deux modèles et met en avant la valeur de son travail : « fiabilité, pas quantité ».",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co09.wav"
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "F: Dans ce village de huit cents habitants, l'ancienne gare a été transformée en tiers-lieu culturel. On y trouve une petite bibliothèque, une salle de concert et un atelier de réparation. Les habitants, qui géraient le projet bénévolement au départ, ont obtenu des subventions pour embaucher deux salariés. Le lieu attire désormais des visiteurs des communes voisines et a redonné vie au centre du village.",
+   "prompt": "De quoi parle ce reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De la réouverture d'une ligne de train.",
+     "correct": false,
+     "rationale": "L'ancienne gare a changé d'usage."
+    },
+    {
+     "label": "B",
+     "text": "D'un conflit entre villages voisins.",
+     "correct": false,
+     "rationale": "Les visiteurs des communes voisines sont les bienvenus."
+    },
+    {
+     "label": "C",
+     "text": "D'un projet local qui a revitalisé un petit village.",
+     "correct": true,
+     "rationale": "Le lieu « a redonné vie au centre du village »."
+    },
+    {
+     "label": "D",
+     "text": "De la fermeture d'une bibliothèque.",
+     "correct": false,
+     "rationale": "Une bibliothèque y a été créée."
+    }
+   ],
+   "explanation": "Le reportage décrit une transformation (« a été transformée »), son évolution (bénévolat puis salariés) et ses effets. La dernière phrase donne le bilan, qui correspond au thème global.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co10.wav"
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "conversation administrative",
+   "skill": "information précise",
+   "document": "H: Bonjour, je voudrais inscrire ma fille au conservatoire, en piano. / F: Les inscriptions sont closes pour le piano cette année, car la liste d'attente est déjà longue. En revanche, il reste des places en violoncelle et en percussions. Et si elle a moins de huit ans, elle peut commencer par l'éveil musical, qui permet de découvrir plusieurs instruments avant de choisir.",
+   "prompt": "Que propose l'employée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "D'attendre qu'une place se libère en piano.",
+     "correct": false,
+     "rationale": "Elle oriente vers d'autres options."
+    },
+    {
+     "label": "B",
+     "text": "De payer pour passer en priorité.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "D'inscrire la fille en piano l'année suivante.",
+     "correct": false,
+     "rationale": "Elle ne fait pas cette proposition."
+    },
+    {
+     "label": "D",
+     "text": "D'autres instruments ou une découverte de la musique.",
+     "correct": true,
+     "rationale": "Elle cite le violoncelle, les percussions et l'éveil musical."
+    }
+   ],
+   "explanation": "Après le refus, « en revanche » introduit les solutions. L'éveil musical dépend d'une condition d'âge (« si elle a moins de huit ans »).",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co11.wav"
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "opinion",
+   "document": "H: Chaque été, les grandes villes multiplient les festivals gratuits en plein air. On s'en réjouit, bien sûr. Mais je m'interroge : à force de tout offrir pendant deux mois, ne finit-on pas par donner l'impression que la culture ne vaut rien ? Les petites salles, qui programment des artistes toute l'année, voient leur public déserter dès que les beaux jours reviennent.",
+   "prompt": "Quelle est la position du chroniqueur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il souhaite la suppression des festivals d'été.",
+     "correct": false,
+     "rationale": "Il dit « on s'en réjouit, bien sûr »."
+    },
+    {
+     "label": "B",
+     "text": "Il s'inquiète des effets des festivals gratuits sur les salles permanentes.",
+     "correct": true,
+     "rationale": "Les petites salles « voient leur public déserter »."
+    },
+    {
+     "label": "C",
+     "text": "Il trouve que les villes ne proposent pas assez de festivals.",
+     "correct": false,
+     "rationale": "Il évoque leur multiplication."
+    },
+    {
+     "label": "D",
+     "text": "Il pense que les artistes devraient jouer gratuitement.",
+     "correct": false,
+     "rationale": "Il craint au contraire que la culture semble ne rien valoir."
+    }
+   ],
+   "explanation": "Le chroniqueur concède un point positif avant d'exprimer une réserve (« mais je m'interroge »). La question rhétorique formule sa critique avec prudence.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co12.wav"
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "inférence",
+   "document": "F: Votre premier roman a été refusé par une vingtaine d'éditeurs. Comment avez-vous vécu cela ? / H: Mal, au début. Puis j'ai relu les lettres de refus et j'ai remarqué que plusieurs éditeurs disaient la même chose : le début était trop lent. J'ai réécrit les cinquante premières pages. Le livre qui est sorti l'an dernier n'a plus grand-chose à voir avec le manuscrit initial.",
+   "prompt": "Que peut-on comprendre des propos de l'écrivain ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il a publié son roman tel qu'il l'avait écrit.",
+     "correct": false,
+     "rationale": "Le livre « n'a plus grand-chose à voir avec le manuscrit initial »."
+    },
+    {
+     "label": "B",
+     "text": "Les critiques des éditeurs l'ont aidé à améliorer son roman.",
+     "correct": true,
+     "rationale": "Il a réécrit le début en tenant compte de leurs remarques."
+    },
+    {
+     "label": "C",
+     "text": "Il a renoncé à l'écriture après ces refus.",
+     "correct": false,
+     "rationale": "Son livre est sorti l'an dernier."
+    },
+    {
+     "label": "D",
+     "text": "Les éditeurs ont tous donné des avis différents.",
+     "correct": false,
+     "rationale": "Plusieurs disaient « la même chose »."
+    }
+   ],
+   "explanation": "L'écrivain ne dit pas explicitement que les refus lui ont été utiles, mais l'enchaînement (relecture, constat, réécriture, publication) le fait comprendre.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co13.wav"
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce radio",
+   "skill": "information précise",
+   "document": "H: La médiathèque Jean-Moulin sera fermée du 1er au 15 août pour travaux. Pendant cette période, les documents empruntés pourront être rendus dans la boîte de retour située à l'entrée du bâtiment. Les lecteurs inscrits bénéficient d'un prêt exceptionnel de quinze documents au lieu de dix, à partir du 20 juillet.",
+   "prompt": "Quel avantage est proposé aux lecteurs avant la fermeture ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils peuvent emprunter plus de documents que d'habitude.",
+     "correct": true,
+     "rationale": "« quinze documents au lieu de dix »."
+    },
+    {
+     "label": "B",
+     "text": "Ils peuvent rendre leurs documents dans une autre médiathèque.",
+     "correct": false,
+     "rationale": "Une boîte de retour est prévue sur place."
+    },
+    {
+     "label": "C",
+     "text": "Ils peuvent garder leurs documents sans limite de durée.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    },
+    {
+     "label": "D",
+     "text": "Ils peuvent s'inscrire gratuitement.",
+     "correct": false,
+     "rationale": "L'avantage concerne les lecteurs déjà inscrits."
+    }
+   ],
+   "explanation": "L'annonce donne trois informations : la fermeture, la solution pour les retours et l'avantage. La comparaison « au lieu de » signale le changement.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co14.wav"
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "intention",
+   "document": "F: Tu as partagé cet article sur le prétendu danger des ondes ? / H: Oui, ça m'a l'air inquiétant. / F: Tu as vérifié la source ? C'est un site qui vend des boîtiers « anti-ondes ». Évidemment qu'ils ont intérêt à faire peur. Avant de partager, regarde au moins qui publie et si d'autres médias sérieux en parlent.",
+   "prompt": "Que veut faire la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le rassurer sur la qualité de l'article.",
+     "correct": false,
+     "rationale": "Elle met en doute sa fiabilité."
+    },
+    {
+     "label": "B",
+     "text": "Lui demander de lui envoyer l'article.",
+     "correct": false,
+     "rationale": "Elle l'a déjà vu."
+    },
+    {
+     "label": "C",
+     "text": "Lui conseiller d'acheter un boîtier anti-ondes.",
+     "correct": false,
+     "rationale": "Elle se méfie au contraire du vendeur."
+    },
+    {
+     "label": "D",
+     "text": "Inciter son ami à vérifier les informations avant de les diffuser.",
+     "correct": true,
+     "rationale": "« Avant de partager, regarde au moins qui publie »."
+    }
+   ],
+   "explanation": "La femme pose une question qui met en doute la source, explique le conflit d'intérêts, puis donne un conseil à l'impératif.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co15.wav"
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "H: Dans ce collège, les élèves de quatrième fabriquent chaque mois un journal télévisé de dix minutes. Ils choisissent les sujets, mènent des interviews et apprennent à distinguer un fait d'une opinion. Leur professeure documentaliste explique que l'objectif n'est pas de former des journalistes, mais des citoyens capables de comprendre comment l'information est produite.",
+   "prompt": "Quel est le but de ce projet ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Diffuser le journal sur une chaîne nationale.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "B",
+     "text": "Remplacer les cours de français.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Développer l'esprit critique des élèves face à l'information.",
+     "correct": true,
+     "rationale": "Former « des citoyens capables de comprendre comment l'information est produite »."
+    },
+    {
+     "label": "D",
+     "text": "Former de futurs journalistes professionnels.",
+     "correct": false,
+     "rationale": "« l'objectif n'est pas de former des journalistes »."
+    }
+   ],
+   "explanation": "La structure « non pas… mais » oppose un objectif écarté et le véritable objectif. C'est un indice fréquent dans les questions de compréhension globale.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co16.wav"
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "F: Les séries télévisées ont-elles remplacé le roman ? / H: Je dirais plutôt qu'elles en ont pris certaines fonctions. Elles racontent des histoires longues, avec des personnages complexes qu'on suit pendant des années. Mais le roman garde une force unique : il laisse le lecteur imaginer les visages, les voix, les lieux. Les deux formes se complètent bien plus qu'elles ne se concurrencent.",
+   "prompt": "Quel est l'avis de l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les séries ont fait disparaître le roman.",
+     "correct": false,
+     "rationale": "Il corrige cette idée (« je dirais plutôt »)."
+    },
+    {
+     "label": "B",
+     "text": "Les séries sont moins complexes que les romans.",
+     "correct": false,
+     "rationale": "Il parle de « personnages complexes »."
+    },
+    {
+     "label": "C",
+     "text": "Les séries et le roman sont complémentaires.",
+     "correct": true,
+     "rationale": "« Les deux formes se complètent bien plus qu'elles ne se concurrencent »."
+    },
+    {
+     "label": "D",
+     "text": "Le roman est démodé.",
+     "correct": false,
+     "rationale": "Il lui reconnaît « une force unique »."
+    }
+   ],
+   "explanation": "L'homme nuance la question, compare les deux formes et conclut sur leur complémentarité. La dernière phrase résume son opinion.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co17.wav"
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "information précise",
+   "document": "F: Bonjour Monsieur Garnier, ici l'association Lecture partagée. Nous avons bien reçu votre candidature pour devenir lecteur bénévole. Une réunion d'information aura lieu le mardi 3 à dix-huit heures, à la maison des associations. Pensez à apporter un extrait de casier judiciaire, obligatoire pour intervenir auprès des enfants.",
+   "prompt": "Que doit apporter M. Garnier à la réunion ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un livre qu'il aime lire.",
+     "correct": false,
+     "rationale": "Ce n'est pas demandé."
+    },
+    {
+     "label": "B",
+     "text": "Un extrait de casier judiciaire.",
+     "correct": true,
+     "rationale": "Il est « obligatoire pour intervenir auprès des enfants »."
+    },
+    {
+     "label": "C",
+     "text": "Une lettre de motivation.",
+     "correct": false,
+     "rationale": "Sa candidature a déjà été reçue."
+    },
+    {
+     "label": "D",
+     "text": "Un certificat médical.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "L'impératif « pensez à » signale une consigne pratique. La justification (« obligatoire pour… ») aide à retenir l'information.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co18.wav"
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "inférence",
+   "document": "H: Les algorithmes des réseaux sociaux nous enferment dans des bulles : on ne voit plus que des opinions qui ressemblent aux nôtres. / F: C'est en partie vrai. Mais avant les réseaux, la plupart des gens lisaient déjà un seul journal, celui qui correspondait à leurs idées. La différence, c'est qu'aujourd'hui, on n'en a souvent même pas conscience.",
+   "prompt": "Que suggère la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le problème n'est pas nouveau, mais il est devenu moins visible.",
+     "correct": true,
+     "rationale": "« on n'en a souvent même pas conscience »."
+    },
+    {
+     "label": "B",
+     "text": "Les journaux étaient plus fiables autrefois.",
+     "correct": false,
+     "rationale": "Elle ne compare pas leur fiabilité."
+    },
+    {
+     "label": "C",
+     "text": "Il faut interdire les réseaux sociaux.",
+     "correct": false,
+     "rationale": "Elle ne propose aucune interdiction."
+    },
+    {
+     "label": "D",
+     "text": "Les algorithmes n'ont aucune influence sur nos opinions.",
+     "correct": false,
+     "rationale": "Elle reconnaît que c'est « en partie vrai »."
+    }
+   ],
+   "explanation": "La femme relativise la nouveauté du phénomène par une comparaison historique, puis souligne une différence : le manque de conscience. Il faut combiner ces deux idées.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co19.wav"
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "conférence",
+   "skill": "compréhension globale",
+   "document": "F: Le patrimoine, ce ne sont pas seulement les châteaux et les cathédrales. Depuis une vingtaine d'années, on parle aussi de patrimoine immatériel : des savoir-faire, des chants, des fêtes, des recettes transmises de génération en génération. Les protéger est plus difficile, car on ne peut pas les enfermer dans un musée. Il faut avant tout que des personnes continuent à les pratiquer.",
+   "prompt": "Quelle idée principale la conférencière développe-t-elle ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le patrimoine immatériel est facile à protéger.",
+     "correct": false,
+     "rationale": "« Les protéger est plus difficile »."
+    },
+    {
+     "label": "B",
+     "text": "Les châteaux sont plus importants que les traditions.",
+     "correct": false,
+     "rationale": "Elle élargit au contraire la notion de patrimoine."
+    },
+    {
+     "label": "C",
+     "text": "Les musées doivent conserver les recettes et les chants.",
+     "correct": false,
+     "rationale": "« on ne peut pas les enfermer dans un musée »."
+    },
+    {
+     "label": "D",
+     "text": "Le patrimoine inclut aussi des pratiques vivantes, qu'on protège en les transmettant.",
+     "correct": true,
+     "rationale": "« Il faut avant tout que des personnes continuent à les pratiquer »."
+    }
+   ],
+   "explanation": "La conférence commence par une négation (« ce ne sont pas seulement ») qui annonce un élargissement. La dernière phrase donne la condition de protection.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co20.wav"
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "intention",
+   "document": "H: Pourquoi avez-vous décidé de publier les commentaires des lecteurs uniquement après relecture ? / F: Notre espace de commentaires était devenu un lieu d'insultes. Les lecteurs qui voulaient débattre sérieusement ne s'exprimaient plus. Nous préférons publier moins de commentaires, mais des commentaires qui enrichissent la discussion. Ce n'est pas de la censure : toutes les opinions respectueuses sont acceptées.",
+   "prompt": "Que cherche à faire la responsable du journal ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Justifier un changement de règle et répondre à une critique possible.",
+     "correct": true,
+     "rationale": "Elle explique sa décision et précise « ce n'est pas de la censure »."
+    },
+    {
+     "label": "B",
+     "text": "Reconnaître que le journal pratique la censure.",
+     "correct": false,
+     "rationale": "Elle le nie explicitement."
+    },
+    {
+     "label": "C",
+     "text": "Inviter les lecteurs à insulter moins.",
+     "correct": false,
+     "rationale": "Elle explique une décision déjà prise."
+    },
+    {
+     "label": "D",
+     "text": "Annoncer la fermeture des commentaires.",
+     "correct": false,
+     "rationale": "Les commentaires restent possibles après relecture."
+    }
+   ],
+   "explanation": "La réponse donne la cause (insultes), l'objectif (qualité du débat) et anticipe une objection. Repérer cette anticipation est la clé pour identifier l'intention.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co21.wav"
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "information précise",
+   "document": "F: Le musée des Beaux-Arts propose désormais des visites en langue des signes française le premier dimanche de chaque mois. Les visites durent une heure et demie et sont gratuites pour les personnes sourdes ou malentendantes et leurs accompagnants. Il est conseillé de réserver, car le nombre de participants est limité à quinze.",
+   "prompt": "Pour qui ces visites sont-elles gratuites ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour les enfants de moins de douze ans.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "Pour tous les visiteurs le premier dimanche du mois.",
+     "correct": false,
+     "rationale": "La gratuité concerne un public précis."
+    },
+    {
+     "label": "C",
+     "text": "Pour les personnes sourdes ou malentendantes et leurs accompagnants.",
+     "correct": true,
+     "rationale": "C'est précisé dans le reportage."
+    },
+    {
+     "label": "D",
+     "text": "Pour les groupes de quinze personnes.",
+     "correct": false,
+     "rationale": "Quinze est le nombre maximal de participants."
+    }
+   ],
+   "explanation": "Plusieurs chiffres apparaissent (premier dimanche, une heure et demie, quinze). La question porte sur les bénéficiaires, qu'il faut identifier sans confusion.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co22.wav"
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "H: J'ai arrêté de regarder les informations en continu. À force d'entendre les mêmes nouvelles angoissantes toute la journée, je dormais mal. / F: Moi, j'aurais peur de ne plus être au courant. / H: Je suis toujours au courant ! Je lis un journal le matin, tranquillement. Je comprends mieux les sujets qu'avant, parce que j'ai des analyses au lieu de simples alertes.",
+   "prompt": "Quelle est l'opinion de l'homme sur les chaînes d'information en continu ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elles devraient diffuser plus d'alertes.",
+     "correct": false,
+     "rationale": "Il critique les « simples alertes »."
+    },
+    {
+     "label": "B",
+     "text": "Elles sont indispensables pour rester informé.",
+     "correct": false,
+     "rationale": "C'est plutôt la crainte de la femme."
+    },
+    {
+     "label": "C",
+     "text": "Elles proposent de meilleures analyses que la presse.",
+     "correct": false,
+     "rationale": "Il dit le contraire."
+    },
+    {
+     "label": "D",
+     "text": "Elles angoissent sans aider vraiment à comprendre l'actualité.",
+     "correct": true,
+     "rationale": "Il dormait mal et comprend mieux avec un journal."
+    }
+   ],
+   "explanation": "L'homme oppose deux façons de s'informer. Ses arguments (sommeil, compréhension) justifient son choix et révèlent son opinion négative.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co23.wav"
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "inférence",
+   "document": "F: Chers spectateurs, nous vous rappelons que les photographies et les enregistrements sont strictement interdits pendant la représentation. Les artistes vous remercient de votre compréhension. Un moment est prévu à la fin du spectacle, pendant le salut, pour ceux qui souhaitent garder un souvenir.",
+   "prompt": "Que peut-on comprendre de cette annonce ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les artistes refusent toute photo.",
+     "correct": false,
+     "rationale": "Un moment est prévu à la fin."
+    },
+    {
+     "label": "B",
+     "text": "Il sera possible de prendre des photos au moment du salut.",
+     "correct": true,
+     "rationale": "Le moment est prévu « pour ceux qui souhaitent garder un souvenir »."
+    },
+    {
+     "label": "C",
+     "text": "Le spectacle sera filmé et vendu.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "D",
+     "text": "Les photos sont autorisées sans flash pendant le spectacle.",
+     "correct": false,
+     "rationale": "Elles sont « strictement interdites »."
+    }
+   ],
+   "explanation": "L'annonce ne dit pas « vous pourrez photographier », mais l'expression « garder un souvenir » le laisse entendre. C'est une inférence typique.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co24.wav"
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "entretien radio",
+   "skill": "compréhension globale",
+   "document": "H: Vous dirigez une radio associative locale. Quel est son rôle aujourd'hui, à l'heure des podcasts ? / F: Nous donnons la parole à ceux qu'on n'entend jamais ailleurs : les associations du quartier, les jeunes musiciens, les habitants âgés qui racontent l'histoire de la ville. Les podcasts sont formidables, mais ils s'adressent à des publics dispersés. Nous, nous créons du lien entre des gens qui vivent au même endroit.",
+   "prompt": "Selon la directrice, qu'est-ce qui fait la spécificité de sa radio ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Sa programmation exclusivement musicale.",
+     "correct": false,
+     "rationale": "Elle cite aussi les associations et les habitants."
+    },
+    {
+     "label": "B",
+     "text": "Son audience nationale.",
+     "correct": false,
+     "rationale": "Elle s'adresse aux habitants d'un même lieu."
+    },
+    {
+     "label": "C",
+     "text": "Son ancrage local et sa capacité à rassembler les habitants.",
+     "correct": true,
+     "rationale": "« nous créons du lien entre des gens qui vivent au même endroit »."
+    },
+    {
+     "label": "D",
+     "text": "Son rejet des podcasts.",
+     "correct": false,
+     "rationale": "Elle les trouve « formidables »."
+    }
+   ],
+   "explanation": "La directrice compare sa radio aux podcasts en soulignant une différence : public dispersé contre public local. Cette opposition révèle la spécificité de la radio.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-06_co25.wav"
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "règlement intérieur",
+   "skill": "information précise",
+   "document": "Règlement de la bibliothèque municipale – Extraits. Article 2 : L'inscription est gratuite pour les habitants de la commune ; elle est payante pour les autres usagers. Article 4 : Chaque lecteur peut emprunter jusqu'à dix documents pour trois semaines, dont trois DVD au maximum. Article 6 : Un prêt peut être prolongé une fois, en ligne ou sur place, sauf si le document est réservé par un autre lecteur.",
+   "prompt": "Dans quel cas un prêt ne peut-il pas être prolongé ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Lorsque le document est un DVD.",
+     "correct": false,
+     "rationale": "La limite concerne le nombre de DVD, pas la prolongation."
+    },
+    {
+     "label": "B",
+     "text": "Lorsque la demande est faite en ligne.",
+     "correct": false,
+     "rationale": "La prolongation est possible « en ligne ou sur place »."
+    },
+    {
+     "label": "C",
+     "text": "Lorsqu'un autre lecteur a réservé le document.",
+     "correct": true,
+     "rationale": "« sauf si le document est réservé par un autre lecteur »."
+    },
+    {
+     "label": "D",
+     "text": "Lorsque le lecteur n'habite pas la commune.",
+     "correct": false,
+     "rationale": "Cela concerne seulement le prix de l'inscription."
+    }
+   ],
+   "explanation": "« Sauf si » introduit l'exception. Les autres articles contiennent des informations proches qui servent de distracteurs."
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "compréhension globale",
+   "document": "Les podcasts connaissent un succès croissant, en particulier chez les moins de trente-cinq ans. Contrairement à la radio, ils s'écoutent quand on veut, souvent pendant les trajets ou le sport. Les formats longs, comme les enquêtes en plusieurs épisodes ou les entretiens de deux heures, rencontrent un public fidèle. Ce succès contredit l'idée selon laquelle les jeunes ne seraient plus capables de se concentrer longtemps.",
+   "prompt": "Quelle idée l'article remet-il en question ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'idée que la radio est écoutée en direct.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objet de l'article."
+    },
+    {
+     "label": "B",
+     "text": "L'idée que les podcasts sont populaires.",
+     "correct": false,
+     "rationale": "L'article confirme leur succès."
+    },
+    {
+     "label": "C",
+     "text": "L'idée que les podcasts s'écoutent pendant les trajets.",
+     "correct": false,
+     "rationale": "L'article l'affirme."
+    },
+    {
+     "label": "D",
+     "text": "L'idée que les jeunes auraient une capacité d'attention limitée.",
+     "correct": true,
+     "rationale": "Le succès des formats longs « contredit l'idée » de leur manque de concentration."
+    }
+   ],
+   "explanation": "La dernière phrase est la clé : « ce succès contredit l'idée selon laquelle… ». Le conditionnel « ne seraient plus » signale une idée reçue que l'auteur ne partage pas."
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "courrier des lecteurs",
+   "skill": "opinion",
+   "document": "Votre article sur la fermeture des librairies de centre-ville m'a attristé, mais pas surpris. On se plaint de leur disparition, puis on commande ses livres en ligne parce que c'est livré le lendemain. Chacun de nous a une part de responsabilité. Pour ma part, j'ai pris l'habitude de commander chez mon libraire : il me faut attendre deux ou trois jours, mais je reçois en plus des conseils qu'aucun algorithme ne remplace.",
+   "prompt": "Quelle est l'opinion de l'auteur de la lettre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La fermeture des librairies est inévitable.",
+     "correct": false,
+     "rationale": "Il montre qu'on peut agir autrement."
+    },
+    {
+     "label": "B",
+     "text": "Les consommateurs contribuent eux-mêmes au déclin des librairies.",
+     "correct": true,
+     "rationale": "« Chacun de nous a une part de responsabilité »."
+    },
+    {
+     "label": "C",
+     "text": "Les algorithmes conseillent mieux que les libraires.",
+     "correct": false,
+     "rationale": "Il affirme le contraire."
+    },
+    {
+     "label": "D",
+     "text": "Les librairies devraient livrer en vingt-quatre heures.",
+     "correct": false,
+     "rationale": "Il accepte d'attendre deux ou trois jours."
+    }
+   ],
+   "explanation": "L'auteur pointe une contradiction (« on se plaint…, puis on commande en ligne ») et donne son propre exemple comme modèle de comportement."
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "offre d'emploi",
+   "skill": "information précise",
+   "document": "Le festival des Arts de la rue recherche des bénévoles pour sa prochaine édition, du 10 au 13 juillet. Missions : accueil du public, information, aide à l'installation des spectacles. Engagement minimum : trois demi-journées. Les bénévoles sont nourris et reçoivent un pass donnant accès à tous les spectacles payants. Aucune expérience n'est exigée, mais la maîtrise d'une langue étrangère est appréciée. Candidature en ligne avant le 15 juin.",
+   "prompt": "Que reçoivent les bénévoles ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les repas et un accès aux spectacles payants.",
+     "correct": true,
+     "rationale": "« Les bénévoles sont nourris et reçoivent un pass »."
+    },
+    {
+     "label": "B",
+     "text": "Un hébergement pendant le festival.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Une formation en langue étrangère.",
+     "correct": false,
+     "rationale": "Une langue étrangère est appréciée, pas enseignée."
+    },
+    {
+     "label": "D",
+     "text": "Une rémunération pour chaque demi-journée.",
+     "correct": false,
+     "rationale": "Ce sont des bénévoles."
+    }
+   ],
+   "explanation": "L'annonce distingue les exigences (engagement minimum), les avantages (repas, pass) et les qualités appréciées. La question porte sur les avantages."
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "intention",
+   "document": "Chaque année, on annonce la mort de la presse écrite. Chaque année, elle résiste. Certes, les ventes en kiosque diminuent. Mais les abonnements numériques progressent, et jamais les lecteurs n'ont eu autant besoin d'une information vérifiée, hiérarchisée, expliquée. À ceux qui pensent que tout se trouve gratuitement sur internet, nous répondons : une enquête sérieuse coûte cher. Soutenir la presse, c'est soutenir la démocratie.",
+   "prompt": "Quel est le but principal de cet éditorial ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Critiquer les abonnements numériques.",
+     "correct": false,
+     "rationale": "Il note leur progression comme un signe positif."
+    },
+    {
+     "label": "B",
+     "text": "Convaincre les lecteurs de l'utilité et de la valeur de la presse.",
+     "correct": true,
+     "rationale": "« Soutenir la presse, c'est soutenir la démocratie »."
+    },
+    {
+     "label": "C",
+     "text": "Annoncer la fin de la presse écrite.",
+     "correct": false,
+     "rationale": "L'auteur affirme qu'« elle résiste »."
+    },
+    {
+     "label": "D",
+     "text": "Expliquer comment trouver des informations gratuites.",
+     "correct": false,
+     "rationale": "Il conteste l'idée de la gratuité."
+    }
+   ],
+   "explanation": "L'éditorial réfute une idée reçue, concède un point (« certes ») et termine par un slogan. L'intention est de convaincre."
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "courrier administratif",
+   "skill": "information précise",
+   "document": "Madame, Monsieur, nous accusons réception de votre demande de subvention pour l'organisation d'un festival de musique dans votre commune. Votre dossier est incomplet : il manque le budget prévisionnel détaillé et l'attestation d'assurance de votre association. Ces pièces doivent nous parvenir avant le 30 avril. Le dossier sera ensuite examiné par la commission culturelle, qui se réunira en juin.",
+   "prompt": "Que doit faire l'association pour que sa demande soit étudiée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Déposer une nouvelle demande complète.",
+     "correct": false,
+     "rationale": "Il suffit de compléter le dossier."
+    },
+    {
+     "label": "B",
+     "text": "Payer des frais de dossier.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Se présenter devant la commission en juin.",
+     "correct": false,
+     "rationale": "La commission examine le dossier, sans audition mentionnée."
+    },
+    {
+     "label": "D",
+     "text": "Envoyer les documents manquants avant la fin avril.",
+     "correct": true,
+     "rationale": "« Ces pièces doivent nous parvenir avant le 30 avril »."
+    }
+   ],
+   "explanation": "Le courrier suit un ordre logique : accusé de réception, problème, action demandée, suite de la procédure."
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "inférence",
+   "document": "Le nombre d'entrées au cinéma a retrouvé un bon niveau, mais le public a changé. Les spectateurs vont moins souvent en salle et choisissent soigneusement leurs films : grands spectacles, films d'animation ou œuvres dont tout le monde parle. Les films à petit budget, qui comptaient autrefois sur le bouche-à-oreille, peinent à rester plus d'une semaine à l'affiche.",
+   "prompt": "Que peut-on déduire de cet article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les films peu connus ont de plus en plus de mal à trouver leur public.",
+     "correct": true,
+     "rationale": "Ils « peinent à rester plus d'une semaine à l'affiche »."
+    },
+    {
+     "label": "B",
+     "text": "Le bouche-à-oreille est plus efficace aujourd'hui.",
+     "correct": false,
+     "rationale": "Les petits films ne peuvent plus compter dessus."
+    },
+    {
+     "label": "C",
+     "text": "Les spectateurs vont au cinéma plus souvent qu'avant.",
+     "correct": false,
+     "rationale": "Ils y vont « moins souvent »."
+    },
+    {
+     "label": "D",
+     "text": "Les films d'animation sont en déclin.",
+     "correct": false,
+     "rationale": "Ils font partie des films choisis."
+    }
+   ],
+   "explanation": "L'article ne dit pas directement que les films peu connus sont menacés, mais le contraste entre « films dont tout le monde parle » et « films à petit budget » permet de le déduire."
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "notice",
+   "skill": "information précise",
+   "document": "Audioguide du musée – Mode d'emploi. Tapez sur le clavier le numéro inscrit sous l'œuvre, puis appuyez sur la touche verte. Pour régler le volume, utilisez les flèches latérales. Le commentaire peut être mis en pause à tout moment avec la touche orange. L'appareil doit être rendu à l'accueil avant la sortie ; une pièce d'identité est conservée en caution jusqu'à son retour.",
+   "prompt": "Pourquoi le musée conserve-t-il une pièce d'identité ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour vérifier l'âge du visiteur.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    },
+    {
+     "label": "B",
+     "text": "Pour accorder une réduction.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "C",
+     "text": "Pour garantir que l'audioguide sera rendu.",
+     "correct": true,
+     "rationale": "Elle est « conservée en caution jusqu'à son retour »."
+    },
+    {
+     "label": "D",
+     "text": "Pour enregistrer le visiteur dans un fichier.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "Le mot « caution » désigne une garantie. Comprendre ce vocabulaire courant dans les documents pratiques est indispensable."
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "opinion",
+   "document": "On reproche souvent aux jeunes de ne plus lire. C'est faux : ils lisent énormément, mais pas ce que les adultes considèrent comme de la « vraie » lecture. Mangas, romans publiés en ligne, fils de discussion : ces textes demandent attention et imagination. Plutôt que de les mépriser, les enseignants gagneraient à s'en servir comme passerelle vers d'autres œuvres. On ne fait pas aimer la lecture en disqualifiant ce que les élèves aiment déjà.",
+   "prompt": "Quelle est la position de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les mangas devraient remplacer les classiques à l'école.",
+     "correct": false,
+     "rationale": "Il parle de passerelle, pas de remplacement."
+    },
+    {
+     "label": "B",
+     "text": "Il faut s'appuyer sur les lectures des jeunes pour les ouvrir à d'autres livres.",
+     "correct": true,
+     "rationale": "Les enseignants « gagneraient à s'en servir comme passerelle »."
+    },
+    {
+     "label": "C",
+     "text": "Les romans en ligne sont de mauvaise qualité.",
+     "correct": false,
+     "rationale": "Il défend ces textes."
+    },
+    {
+     "label": "D",
+     "text": "Les jeunes ne lisent plus du tout.",
+     "correct": false,
+     "rationale": "Il affirme que « c'est faux »."
+    }
+   ],
+   "explanation": "L'auteur réfute une idée reçue, la nuance, puis formule une proposition au conditionnel. La dernière phrase résume sa thèse."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "De plus en plus de musées numérisent leurs collections et les mettent en ligne gratuitement, en haute définition. Les chercheurs du monde entier peuvent ainsi étudier des œuvres sans se déplacer. Mais les musées constatent un effet inattendu : loin de remplacer la visite, les images en ligne donnent envie de voir les œuvres en vrai. Plusieurs établissements ont enregistré une hausse de leur fréquentation après la mise en ligne.",
+   "prompt": "Quel est le sujet de l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La numérisation des collections, qui encourage aussi les visites réelles.",
+     "correct": true,
+     "rationale": "Les images « donnent envie de voir les œuvres en vrai »."
+    },
+    {
+     "label": "B",
+     "text": "Les difficultés des chercheurs pour étudier les œuvres.",
+     "correct": false,
+     "rationale": "Ils peuvent les étudier sans se déplacer."
+    },
+    {
+     "label": "C",
+     "text": "La disparition des visites dans les musées.",
+     "correct": false,
+     "rationale": "La fréquentation augmente."
+    },
+    {
+     "label": "D",
+     "text": "Le prix élevé de l'accès aux collections en ligne.",
+     "correct": false,
+     "rationale": "L'accès est gratuit."
+    }
+   ],
+   "explanation": "L'article présente une pratique, son avantage attendu, puis un « effet inattendu » introduit par « mais ». Le thème combine ces deux aspects."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "intention",
+   "document": "Bonjour à tous, comme vous le savez, notre club de lecture se réunit depuis cinq ans dans l'arrière-salle du café Le Central. Le nouveau propriétaire souhaite récupérer cet espace à partir de septembre. Avant de chercher un autre lieu, j'aimerais savoir si certains d'entre vous auraient une idée : salle municipale, médiathèque, domicile d'un membre ? Merci de me répondre d'ici la fin du mois. Hélène",
+   "prompt": "Pourquoi Hélène écrit-elle ce courriel ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour inviter les membres à un dîner au café.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "Pour se plaindre du nouveau propriétaire.",
+     "correct": false,
+     "rationale": "Elle expose les faits sans se plaindre."
+    },
+    {
+     "label": "C",
+     "text": "Pour annoncer la fin du club de lecture.",
+     "correct": false,
+     "rationale": "Le club cherche un autre lieu."
+    },
+    {
+     "label": "D",
+     "text": "Pour solliciter des propositions de nouveau lieu de réunion.",
+     "correct": true,
+     "rationale": "« j'aimerais savoir si certains d'entre vous auraient une idée »."
+    }
+   ],
+   "explanation": "Le courriel présente un contexte, un problème et une demande. Les exemples entre parenthèses illustrent le type de propositions attendues."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "La Fête de la musique, créée en France en 1982, a lieu chaque année le 21 juin, jour du solstice d'été. Son principe est simple : tous les musiciens, amateurs ou professionnels, peuvent jouer gratuitement dans l'espace public. L'événement s'est depuis exporté dans de nombreux pays. Les concerts doivent cependant respecter les arrêtés municipaux, notamment sur les horaires et le volume sonore.",
+   "prompt": "Quelle limite s'impose aux musiciens ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils doivent faire payer leur concert.",
+     "correct": false,
+     "rationale": "Ils jouent « gratuitement »."
+    },
+    {
+     "label": "B",
+     "text": "Ils doivent jouer uniquement en France.",
+     "correct": false,
+     "rationale": "L'événement existe dans de nombreux pays."
+    },
+    {
+     "label": "C",
+     "text": "Ils doivent respecter les règles fixées par la mairie.",
+     "correct": true,
+     "rationale": "« les concerts doivent cependant respecter les arrêtés municipaux »."
+    },
+    {
+     "label": "D",
+     "text": "Ils doivent être des musiciens professionnels.",
+     "correct": false,
+     "rationale": "Amateurs et professionnels peuvent jouer."
+    }
+   ],
+   "explanation": "« Cependant » introduit la restriction. Les dates et l'origine de la fête sont des informations exactes mais secondaires pour la question."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "inférence",
+   "document": "On croit souvent que la culture populaire et la culture savante s'opposent. Pourtant, l'histoire montre que les frontières bougent sans cesse. Le roman-feuilleton, publié dans les journaux du XIXe siècle pour un large public, était méprisé par les critiques. Certains de ces romans sont aujourd'hui étudiés à l'université. Ce qui est jugé « populaire » à une époque peut devenir « classique » à la suivante.",
+   "prompt": "Que suggère l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La culture populaire est supérieure à la culture savante.",
+     "correct": false,
+     "rationale": "Il refuse l'opposition, sans hiérarchiser."
+    },
+    {
+     "label": "B",
+     "text": "Le roman-feuilleton n'a jamais eu de succès.",
+     "correct": false,
+     "rationale": "Il était publié « pour un large public »."
+    },
+    {
+     "label": "C",
+     "text": "Les critiques du XIXe siècle avaient raison.",
+     "correct": false,
+     "rationale": "Les œuvres méprisées sont aujourd'hui étudiées."
+    },
+    {
+     "label": "D",
+     "text": "Il faut se méfier des jugements culturels définitifs.",
+     "correct": true,
+     "rationale": "Les frontières « bougent sans cesse »."
+    }
+   ],
+   "explanation": "L'auteur ne formule pas de conseil explicite, mais son exemple historique invite à relativiser les classements. La dernière phrase généralise l'exemple."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "Atelier d'écriture – Saison culturelle. Envie d'écrire des nouvelles ? Un auteur publié anime un atelier de huit séances, le mercredi soir de 19 h à 21 h, à la médiathèque. Ouvert aux adultes débutants comme confirmés. Tarif : 60 euros pour l'ensemble des séances, demi-tarif pour les étudiants et les demandeurs d'emploi. Les textes produits seront réunis dans un recueil distribué en fin d'atelier.",
+   "prompt": "Que recevront les participants à la fin de l'atelier ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un recueil des textes écrits pendant l'atelier.",
+     "correct": true,
+     "rationale": "« Les textes produits seront réunis dans un recueil »."
+    },
+    {
+     "label": "B",
+     "text": "Un diplôme d'écrivain.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    },
+    {
+     "label": "C",
+     "text": "Un livre de l'auteur qui anime l'atelier.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Le remboursement des frais.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    }
+   ],
+   "explanation": "L'annonce détaille le public, le tarif et le résultat. La dernière phrase répond directement à la question."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "article d'opinion",
+   "skill": "opinion",
+   "document": "La multiplication des prix littéraires devrait réjouir les auteurs. Elle a pourtant un effet pervers : les médias ne parlent plus que d'une dizaine de livres, toujours les mêmes, ceux qui figurent sur les listes. Les centaines d'autres romans publiés à l'automne disparaissent en quelques semaines. Il serait temps que les critiques consacrent autant d'attention aux livres oubliés qu'aux livres primés.",
+   "prompt": "Que pense l'auteur des prix littéraires ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils sont trop peu nombreux.",
+     "correct": false,
+     "rationale": "Il évoque leur « multiplication »."
+    },
+    {
+     "label": "B",
+     "text": "Ils concentrent l'attention sur quelques livres au détriment des autres.",
+     "correct": true,
+     "rationale": "« les médias ne parlent plus que d'une dizaine de livres »."
+    },
+    {
+     "label": "C",
+     "text": "Ils récompensent toujours de mauvais livres.",
+     "correct": false,
+     "rationale": "Il ne juge pas la qualité des livres primés."
+    },
+    {
+     "label": "D",
+     "text": "Ils permettent de découvrir des auteurs oubliés.",
+     "correct": false,
+     "rationale": "C'est l'inverse qu'il constate."
+    }
+   ],
+   "explanation": "L'auteur commence par une attente positive, puis la contredit (« pourtant… effet pervers »). Sa recommandation finale confirme sa critique."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "rapport",
+   "skill": "compréhension globale",
+   "document": "Selon une enquête menée auprès de deux mille adultes, la confiance dans les médias varie fortement selon leur type. La presse régionale et la radio obtiennent les meilleurs résultats, devant la télévision. Les réseaux sociaux arrivent en dernière position, alors qu'ils sont la première source d'information des moins de vingt-cinq ans. Les auteurs soulignent ce paradoxe : on s'informe surtout là où l'on a le moins confiance.",
+   "prompt": "Quel constat principal ce rapport fait-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les adultes ne s'informent plus.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet de l'enquête."
+    },
+    {
+     "label": "B",
+     "text": "La télévision est le média le plus fiable.",
+     "correct": false,
+     "rationale": "La presse régionale et la radio arrivent devant."
+    },
+    {
+     "label": "C",
+     "text": "Les jeunes s'informent surtout par un média auquel ils font peu confiance.",
+     "correct": true,
+     "rationale": "Les auteurs soulignent « ce paradoxe »."
+    },
+    {
+     "label": "D",
+     "text": "Les réseaux sociaux inspirent une grande confiance.",
+     "correct": false,
+     "rationale": "Ils arrivent « en dernière position »."
+    }
+   ],
+   "explanation": "Le rapport présente des résultats puis les interprète. Le mot « paradoxe » signale la conclusion principale."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "lettre de réclamation",
+   "skill": "intention",
+   "document": "Madame la Directrice, j'ai assisté samedi à la représentation de 20 h 30. Le spectacle a commencé avec quarante minutes de retard, sans aucune explication. De plus, ma place, achetée en catégorie 1, se trouvait derrière un pilier qui masquait une partie de la scène. Je vous demande donc le remboursement de la différence avec une place de catégorie 2, ou un avoir pour un prochain spectacle.",
+   "prompt": "Quel est l'objectif de cette lettre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Réserver une place de catégorie 1.",
+     "correct": false,
+     "rationale": "Il en a déjà acheté une."
+    },
+    {
+     "label": "B",
+     "text": "Annuler un abonnement.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Obtenir une compensation après une mauvaise expérience.",
+     "correct": true,
+     "rationale": "Il demande un remboursement partiel ou un avoir."
+    },
+    {
+     "label": "D",
+     "text": "Féliciter le théâtre pour son spectacle.",
+     "correct": false,
+     "rationale": "La lettre exprime un mécontentement."
+    }
+   ],
+   "explanation": "La lettre expose deux problèmes, puis formule une demande précise introduite par « je vous demande donc ». Les deux options proposées montrent une attitude raisonnable."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "Le Pass Culture est un dispositif public destiné aux jeunes. Il prend la forme d'une application qui leur donne accès à un crédit pour des livres, des places de cinéma, de concert ou de spectacle, des cours de pratique artistique ou des instruments de musique. Les offres sont proposées par des acteurs culturels référencés. Le dispositif prévoit aussi une part collective, utilisée par les enseignants pour financer des sorties scolaires.",
+   "prompt": "À quoi sert la part collective du dispositif ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À payer les acteurs culturels.",
+     "correct": false,
+     "rationale": "Ce n'est pas présenté ainsi."
+    },
+    {
+     "label": "B",
+     "text": "À offrir un crédit aux parents.",
+     "correct": false,
+     "rationale": "Le dispositif s'adresse aux jeunes et aux enseignants."
+    },
+    {
+     "label": "C",
+     "text": "À acheter des instruments pour les écoles.",
+     "correct": false,
+     "rationale": "Les instruments font partie des offres individuelles."
+    },
+    {
+     "label": "D",
+     "text": "À financer des activités culturelles organisées par les enseignants.",
+     "correct": true,
+     "rationale": "Elle est « utilisée par les enseignants pour financer des sorties scolaires »."
+    }
+   ],
+   "explanation": "L'article distingue l'usage individuel et l'usage collectif. La question porte sur le second, présenté dans la dernière phrase."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "inférence",
+   "document": "Dans le train, mon voisin regardait une série sur son téléphone en vitesse accélérée, une fois et demie plus vite que la normale. Je lui ai demandé pourquoi. « Il y a tellement de séries à voir ! » m'a-t-il répondu. Je me suis demandé s'il regardait les séries pour le plaisir ou pour pouvoir dire qu'il les avait vues.",
+   "prompt": "Que laisse entendre le chroniqueur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Consommer beaucoup d'œuvres peut se faire au détriment du plaisir.",
+     "correct": true,
+     "rationale": "Il se demande si son voisin regarde « pour le plaisir ou pour pouvoir dire qu'il les avait vues »."
+    },
+    {
+     "label": "B",
+     "text": "Il faudrait interdire les séries dans les trains.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "C",
+     "text": "Son voisin regarde trop peu de séries.",
+     "correct": false,
+     "rationale": "Le voisin veut au contraire en voir beaucoup."
+    },
+    {
+     "label": "D",
+     "text": "La vitesse accélérée améliore la compréhension.",
+     "correct": false,
+     "rationale": "Il ne l'affirme pas."
+    }
+   ],
+   "explanation": "Le chroniqueur ne critique pas directement, mais sa question finale suggère que la quantité a pris le pas sur la qualité de l'expérience."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "guide pratique",
+   "skill": "information précise",
+   "document": "Comment vérifier une image avant de la partager ? Premièrement, faites une recherche d'image inversée : elle permet de savoir si la photo a déjà circulé dans un autre contexte. Deuxièmement, observez les détails : panneaux, langue, météo, vêtements peuvent révéler un lieu ou une saison incompatibles avec la légende. Enfin, cherchez si des médias reconnus ont publié la même image. En cas de doute, abstenez-vous de partager.",
+   "prompt": "À quoi sert la recherche d'image inversée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À améliorer la qualité de l'image.",
+     "correct": false,
+     "rationale": "Ce n'est pas son rôle."
+    },
+    {
+     "label": "B",
+     "text": "À savoir si la photo a déjà été utilisée ailleurs.",
+     "correct": true,
+     "rationale": "Elle permet de savoir « si la photo a déjà circulé dans un autre contexte »."
+    },
+    {
+     "label": "C",
+     "text": "À traduire la légende.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "D",
+     "text": "À identifier le photographe.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "Le guide énumère trois étapes avec des connecteurs (« premièrement », « deuxièmement », « enfin »). La question porte sur la fonction de la première."
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "opinion",
+   "document": "Les festivals de musique se multiplient, mais leurs prix aussi. Un pass de trois jours dépasse souvent deux cents euros, sans compter le transport et l'hébergement. La culture vivante devient un luxe réservé à ceux qui en ont les moyens. Les organisateurs invoquent la hausse des cachets des artistes. Soit. Mais les collectivités qui les subventionnent devraient exiger, en contrepartie, une part importante de billets à prix réduit.",
+   "prompt": "Que propose l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Réduire les cachets des artistes.",
+     "correct": false,
+     "rationale": "Il prend acte de leur hausse (« Soit »)."
+    },
+    {
+     "label": "B",
+     "text": "Interdire les pass de trois jours.",
+     "correct": false,
+     "rationale": "Ce n'est pas proposé."
+    },
+    {
+     "label": "C",
+     "text": "Conditionner les subventions à une offre de billets moins chers.",
+     "correct": true,
+     "rationale": "Les collectivités « devraient exiger, en contrepartie, une part importante de billets à prix réduit »."
+    },
+    {
+     "label": "D",
+     "text": "Supprimer les subventions aux festivals.",
+     "correct": false,
+     "rationale": "Il demande une contrepartie, pas une suppression."
+    }
+   ],
+   "explanation": "« Soit » marque une concession brève, suivie par « mais » qui introduit la proposition. Le conditionnel « devraient » exprime la recommandation."
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "Les jeux vidéo entrent au musée. Plusieurs institutions organisent des expositions consacrées à leur histoire, à leur esthétique et à leurs créateurs. Longtemps considérés comme un simple divertissement pour adolescents, ils sont désormais reconnus comme une forme d'expression artistique à part entière, mêlant image, musique, récit et interaction. Certains conservateurs y voient même l'art le plus représentatif de notre époque.",
+   "prompt": "Quel est le sujet principal de l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La fabrication technique des jeux vidéo.",
+     "correct": false,
+     "rationale": "L'article parle de leur statut culturel."
+    },
+    {
+     "label": "B",
+     "text": "La reconnaissance culturelle croissante des jeux vidéo.",
+     "correct": true,
+     "rationale": "Ils sont « désormais reconnus comme une forme d'expression artistique »."
+    },
+    {
+     "label": "C",
+     "text": "Les dangers des jeux vidéo pour les adolescents.",
+     "correct": false,
+     "rationale": "Ce n'est pas évoqué."
+    },
+    {
+     "label": "D",
+     "text": "La fermeture des musées traditionnels.",
+     "correct": false,
+     "rationale": "Les musées accueillent au contraire des expositions."
+    }
+   ],
+   "explanation": "L'opposition « longtemps considérés… désormais reconnus » marque une évolution. C'est elle qui constitue le sujet de l'article."
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "règlement",
+   "skill": "inférence",
+   "document": "Concours de photographie « Ma ville en images » – Règlement. Chaque participant peut envoyer trois photos au maximum. Les photos doivent avoir été prises dans la commune au cours de l'année. Toute personne reconnaissable sur une photo doit avoir donné son accord écrit, joint à l'envoi. Les photos primées seront exposées à l'hôtel de ville et pourront être utilisées par la mairie dans ses publications, avec mention du nom de l'auteur.",
+   "prompt": "Que peut-on déduire de ce règlement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un participant qui photographie un passant doit lui faire signer une autorisation.",
+     "correct": true,
+     "rationale": "Toute personne reconnaissable doit avoir donné « son accord écrit »."
+    },
+    {
+     "label": "B",
+     "text": "La mairie utilisera les photos sans citer l'auteur.",
+     "correct": false,
+     "rationale": "Le nom de l'auteur sera mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Les photos peuvent être prises dans n'importe quelle ville.",
+     "correct": false,
+     "rationale": "Elles doivent être prises « dans la commune »."
+    },
+    {
+     "label": "D",
+     "text": "Chaque participant doit envoyer trois photos.",
+     "correct": false,
+     "rationale": "Trois est un maximum."
+    }
+   ],
+   "explanation": "Le règlement ne parle pas de « passant », mais la règle générale sur les personnes reconnaissables s'applique à ce cas. C'est une inférence par application d'une règle."
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "intention",
+   "document": "Je suis bibliothécaire depuis vingt ans, et je veux tordre le cou à une idée reçue : non, les bibliothèques ne sont pas des lieux silencieux remplis de vieux livres. On y vient pour faire ses devoirs, apprendre à utiliser un ordinateur, jouer à des jeux de société, assister à un concert ou simplement se mettre au chaud. Avant de réduire nos budgets, que les élus viennent voir ce qui s'y passe réellement.",
+   "prompt": "Que cherche à faire l'auteure ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Annoncer la fermeture de sa bibliothèque.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "B",
+     "text": "Se plaindre du bruit dans les bibliothèques.",
+     "correct": false,
+     "rationale": "Elle conteste l'image d'un lieu silencieux, sans se plaindre."
+    },
+    {
+     "label": "C",
+     "text": "Demander l'achat de nouveaux livres.",
+     "correct": false,
+     "rationale": "Ce n'est pas sa demande."
+    },
+    {
+     "label": "D",
+     "text": "Défendre les bibliothèques en montrant la diversité de leurs usages.",
+     "correct": true,
+     "rationale": "Elle énumère les activités et s'adresse aux élus avant toute réduction de budget."
+    }
+   ],
+   "explanation": "« Tordre le cou à une idée reçue » annonce une réfutation. L'appel final aux élus révèle l'enjeu : préserver les moyens des bibliothèques."
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "compréhension globale",
+   "document": "Pourquoi aimons-nous les histoires ? Les chercheurs avancent plusieurs explications. Les récits nous permettent de vivre des situations sans en courir les risques, d'éprouver des émotions et de comprendre les intentions des autres. Ils transmettent aussi des valeurs et des savoirs d'une génération à l'autre. Raconter n'est donc pas un simple loisir : c'est une façon pour l'être humain d'apprendre à vivre avec les autres.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Seuls les enfants ont besoin d'histoires.",
+     "correct": false,
+     "rationale": "L'auteur parle de « l'être humain » en général."
+    },
+    {
+     "label": "B",
+     "text": "Les histoires sont dangereuses pour l'esprit.",
+     "correct": false,
+     "rationale": "Elles permettent au contraire de vivre des situations « sans en courir les risques »."
+    },
+    {
+     "label": "C",
+     "text": "Les histoires remplissent des fonctions essentielles pour l'être humain.",
+     "correct": true,
+     "rationale": "« Raconter n'est donc pas un simple loisir »."
+    },
+    {
+     "label": "D",
+     "text": "Les chercheurs ne comprennent pas pourquoi nous aimons les histoires.",
+     "correct": false,
+     "rationale": "Ils avancent « plusieurs explications »."
+    }
+   ],
+   "explanation": "L'essai part d'une question, présente des arguments, puis conclut avec « donc ». La conclusion réfute l'idée d'un « simple loisir » et formule la thèse."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "task_type": "répondre à un message",
+   "instructions": "Votre collègue Marc vous écrit : « Je cherche une sortie culturelle originale pour l'anniversaire de ma femme samedi. Tu as une idée ? » Répondez-lui en lui proposant une activité et en expliquant pourquoi elle lui plaira (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Salut Marc, quelle bonne idée ! Je te conseille la visite nocturne du musée des Beaux-Arts, qui a lieu samedi soir. Un guide raconte des anecdotes sur les tableaux, puis on prend un verre dans le jardin. Comme ta femme adore la peinture, elle sera ravie. Pense à réserver, les places partent vite. Bonne soirée ! Sophie",
+   "tips": "Pour un collègue proche, le tutoiement et un ton amical conviennent. Ajoutez un conseil pratique pour rendre votre message utile.",
+   "expected_points": [
+    "réagir au message",
+    "proposer une activité",
+    "justifier le choix",
+    "donner un conseil pratique"
+   ],
+   "model_commentary": "La réponse est spontanée et précise. La proposition est décrite concrètement et justifiée par les goûts de la personne (« comme ta femme adore la peinture »)."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "task_type": "raconter une expérience",
+   "instructions": "Vous avez assisté à un spectacle, un concert ou une exposition qui vous a marqué. Racontez cette expérience sur un blog culturel : ce que vous avez vu, ce que vous avez ressenti et pourquoi vous le recommandez ou non (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Le mois dernier, je suis allée voir un spectacle de cirque contemporain sous un chapiteau installé dans un parc. Il n'y avait ni animaux ni clowns, mais cinq acrobates qui racontaient, sans un mot, l'histoire d'une famille séparée par l'exil. À un moment, toute la salle retenait son souffle. Je suis sortie très émue, car je ne pensais pas qu'un spectacle sans paroles pouvait toucher autant. Je le recommande à tous ceux qui croient que le cirque est réservé aux enfants.",
+   "tips": "Décrivez un moment précis du spectacle : c'est plus convaincant qu'un jugement général comme « c'était super ».",
+   "expected_points": [
+    "situer l'événement",
+    "décrire le spectacle",
+    "exprimer ses émotions",
+    "recommander en justifiant"
+   ],
+   "model_commentary": "Le récit est structuré, précis et vivant. L'opposition « ni… ni…, mais » et la concession implicite (« je ne pensais pas que… ») sont des marqueurs du niveau B2."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "donner son opinion à partir de deux documents",
+   "instructions": "Document 1 : « Les réseaux sociaux ont démocratisé l'information : chacun peut témoigner, publier et alerter en temps réel. » Document 2 : « Sur les réseaux sociaux, les fausses informations circulent plus vite que les vraies, car elles suscitent davantage d'émotions. » Présentez ces deux opinions, puis donnez votre avis argumenté (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Le premier document souligne que les réseaux sociaux permettent à chacun de s'exprimer et d'alerter rapidement, tandis que le second rappelle qu'ils favorisent la diffusion de fausses nouvelles. À mon avis, ces deux constats sont exacts. Les réseaux peuvent révéler des faits que les médias ignorent, mais ils exigent un esprit critique. C'est pourquoi il me semble indispensable d'enseigner à l'école comment vérifier une source. Ainsi, les citoyens profiteraient de cette liberté sans en être les victimes.",
+   "tips": "Reformulez les documents avec vos propres mots au lieu de les recopier : c'est ce qui montre votre niveau.",
+   "expected_points": [
+    "résumer le document 1",
+    "résumer le document 2",
+    "prendre position",
+    "justifier",
+    "proposer une solution"
+   ],
+   "model_commentary": "La synthèse est fidèle et équilibrée. L'avis nuancé débouche sur une proposition concrète, et les connecteurs (« tandis que », « c'est pourquoi », « ainsi ») assurent la cohérence."
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous interroge sur vos habitudes culturelles et votre rapport aux médias : vos loisirs, vos sorties, la manière dont vous vous informez et la culture de votre pays d'origine.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Pouvez-vous vous présenter ?",
+    "Que faites-vous pendant votre temps libre ?",
+    "Comment vous informez-vous ?",
+    "Quelle sortie culturelle vous a marqué ?",
+    "Qu'aimeriez-vous faire découvrir de votre culture ?"
+   ],
+   "useful_phrases": [
+    "Pendant mon temps libre, j'aime…",
+    "Pour m'informer, je…",
+    "Ce qui m'a marqué, c'est…"
+   ],
+   "model_answer": "Je m'appelle Karim, j'ai quarante ans et je suis originaire du Maroc. Pendant mon temps libre, j'aime aller au cinéma et écouter de la musique andalouse, que mon père jouait au luth. Pour m'informer, j'écoute la radio le matin et je lis un quotidien en ligne, parce que je préfère les analyses aux simples titres. Ce qui m'a le plus marqué en France, c'est une exposition sur les jardins du monde. J'aimerais faire découvrir la musique de mon pays à mes collègues.",
+   "model_commentary": "Le candidat répond de façon complète et personnelle, avec des justifications (« parce que »), une relative et une mise en relief (« ce qui m'a marqué, c'est »). Le discours est fluide.",
+   "tips": "Donnez des exemples personnels précis : ils rendent l'entretien vivant et montrent la richesse de votre vocabulaire."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Proposer un projet culturel à la mairie",
+   "examiner_role": "Adjoint à la culture",
+   "scenario": "Vous souhaitez organiser une fête des cultures du monde dans votre quartier, avec des concerts, des stands de cuisine et des ateliers. Vous rencontrez l'adjoint à la culture de la mairie (l'examinateur) pour présenter votre projet et obtenir son soutien.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Nous avons un budget très limité.",
+    "Qui va organiser concrètement ?",
+    "Les voisins risquent de se plaindre du bruit.",
+    "Combien de personnes attendez-vous ?"
+   ],
+   "useful_phrases": [
+    "Je voudrais vous présenter…",
+    "Nous pourrions…",
+    "Je comprends votre inquiétude, mais…"
+   ],
+   "model_answer": "Bonjour, je voudrais vous présenter un projet de fête des cultures du monde dans notre quartier. Nous pourrions organiser des concerts, des stands de cuisine et des ateliers pour les enfants. Notre association compte déjà une vingtaine de bénévoles motivés. Je comprends votre inquiétude concernant le budget, mais nous ne demandons qu'un prêt de matériel et l'accès à la place du marché. Pour le bruit, la fête se terminerait à vingt-deux heures. Nous attendons environ trois cents personnes. Accepteriez-vous de nous soutenir ?",
+   "model_commentary": "Le candidat présente un projet clair, répond aux objections une par une et propose des solutions réalistes. Le conditionnel rend la demande polie et convaincante.",
+   "tips": "Anticipez les objections (budget, bruit, organisation) et préparez une réponse concrète pour chacune."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "La culture doit-elle être gratuite ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Certains pensent que l'accès aux musées, aux bibliothèques et aux spectacles devrait être gratuit pour tous, financé par l'impôt. D'autres estiment que la culture a un prix. Quelle est votre opinion ? Défendez-la.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Ce qui est gratuit n'a pas de valeur.",
+    "Les artistes doivent pouvoir vivre de leur travail.",
+    "La gratuité attire surtout ceux qui viennent déjà.",
+    "Que proposez-vous alors ?"
+   ],
+   "useful_phrases": [
+    "Je suis favorable à…",
+    "Cela dit…",
+    "Une solution serait de…"
+   ],
+   "model_answer": "Je suis favorable à une culture accessible, mais pas forcément gratuite pour tous. Les bibliothèques gratuites sont essentielles, car elles permettent à chacun d'apprendre et de lire. Cela dit, les artistes doivent pouvoir vivre de leur travail, et un spectacle demande des moyens importants. Une solution serait de proposer des tarifs selon les revenus, ainsi que la gratuité pour les jeunes et les demandeurs d'emploi. Il faudrait aussi aller vers les publics éloignés, par exemple avec des spectacles dans les écoles.",
+   "model_commentary": "Le candidat adopte une position nuancée, distingue les types de lieux culturels et propose des solutions concrètes. Les connecteurs (« cela dit », « ainsi que ») structurent l'argumentation.",
+   "tips": "Une position nuancée est souvent plus convaincante qu'un avis tranché, à condition de la défendre avec des arguments précis."
+  }
+ ],
+ "series": "B2"
+}

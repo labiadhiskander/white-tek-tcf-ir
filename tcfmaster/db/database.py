@@ -27,7 +27,7 @@ from tcfmaster.db.models import Base, SchemaInfo
 
 log = logging.getLogger("tcfmaster.db")
 
-SCHEMA_VERSION = "1"
+SCHEMA_VERSION = "2"   # 2 = v1.1 (collections B2, vidéothèque, programme 30 jours)
 MAX_BACKUPS = 15
 
 
@@ -57,6 +57,64 @@ def integrity_ok(db_path: Path) -> bool:
         return False
 
 
+def stored_schema_version(db_path: Path) -> str | None:
+    """Version du schéma enregistrée dans une base existante (None si base neuve)."""
+    if not db_path.exists():
+        return None
+    con = sqlite3.connect(str(db_path))
+    try:
+        row = con.execute("SELECT value FROM schema_info WHERE key='schema_version'"
+                          ).fetchone()
+        return row[0] if row else None
+    except sqlite3.DatabaseError:
+        return None
+    finally:
+        con.close()
+
+
+def _sql_default(col) -> str | None:
+    d = col.default
+    if d is None or not getattr(d, "is_scalar", False):
+        return None
+    v = d.arg
+    if isinstance(v, bool):
+        return "1" if v else "0"
+    if isinstance(v, (int, float)):
+        return str(v)
+    if isinstance(v, str):
+        return "'" + v.replace("'", "''") + "'"
+    return None
+
+
+def add_missing_columns(engine: Engine) -> list[str]:
+    """Migration additive : ajoute les colonnes du modèle absentes de la base.
+
+    Aucune colonne n'est supprimée ni modifiée, aucune ligne n'est touchée : une
+    base v1.0 garde toutes ses données. Les nouvelles colonnes sont facultatives
+    ou ont une valeur par défaut.
+    """
+    added: list[str] = []
+    with engine.begin() as con:
+        for table in Base.metadata.sorted_tables:
+            rows = con.exec_driver_sql(f'PRAGMA table_info("{table.name}")').fetchall()
+            existing = {r[1] for r in rows}
+            if not existing:
+                continue
+            for col in table.columns:
+                if col.name in existing:
+                    continue
+                ddl = f'ALTER TABLE "{table.name}" ADD COLUMN "{col.name}" ' \
+                      f'{col.type.compile(engine.dialect)}'
+                default = _sql_default(col)
+                if default is not None:
+                    ddl += f" DEFAULT {default}"
+                    if not col.nullable:
+                        ddl += " NOT NULL"
+                con.exec_driver_sql(ddl)
+                added.append(f"{table.name}.{col.name}")
+    return added
+
+
 class Database:
     def __init__(self, db_path: Path, backup_dir: Path | None = None):
         self.path = Path(db_path)
@@ -72,14 +130,26 @@ class Database:
             if not self.restore_latest_backup():
                 raise DatabaseCorrupted(
                     "La base de données est corrompue et aucune sauvegarde saine n'a été trouvée.")
+        previous = stored_schema_version(self.path)
+        if previous is not None and previous != SCHEMA_VERSION:
+            # Sauvegarde complète avant toute migration : rien ne doit être perdu.
+            self.backup(f"avant-migration-v{previous}")
         self.engine = create_engine(f"sqlite:///{self.path}", future=True)
         event.listen(self.engine, "connect", _set_pragmas)
         Base.metadata.create_all(self.engine)
+        added = add_missing_columns(self.engine)
+        if added:
+            log.info("Migration du schéma : colonnes ajoutées %s", added)
         self._factory = sessionmaker(self.engine, expire_on_commit=False)
         with self.session() as s:
-            if s.get(SchemaInfo, "schema_version") is None:
+            row = s.get(SchemaInfo, "schema_version")
+            if row is None:
                 s.add(SchemaInfo(key="schema_version", value=SCHEMA_VERSION))
                 s.add(SchemaInfo(key="created_with", value=__version__))
+            elif row.value != SCHEMA_VERSION:
+                log.info("Schéma migré de v%s à v%s", row.value, SCHEMA_VERSION)
+                s.add(SchemaInfo(key=f"migrated_from_v{row.value}", value=__version__))
+                row.value = SCHEMA_VERSION
         return self
 
     def close(self) -> None:

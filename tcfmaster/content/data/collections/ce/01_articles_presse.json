@@ -1,0 +1,1178 @@
+{
+ "slug": "ce-articles-presse",
+ "section": "CE",
+ "title": "Articles de presse",
+ "description": "Articles d'information et reportages écrits : distinguer les faits, les sources citées et l'angle choisi par le journaliste.",
+ "order": 1,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CE-ART-01",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Quel résultat de l'expérience l'article met-il en avant ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "L'arrêt de l'expérience au bout de six mois.",
+       "correct": false,
+       "rationale": "Elle est au contraire « prolongée d'un an ».",
+       "label": "A"
+      },
+      {
+       "text": "Une baisse du nombre d'étudiants inscrits.",
+       "correct": false,
+       "rationale": "Rien n'indique une baisse des inscriptions.",
+       "label": "B"
+      },
+      {
+       "text": "Une fréquentation du dimanche nettement supérieure à celle d'un jour de semaine.",
+       "correct": true,
+       "rationale": "« La fréquentation dominicale dépasse de 40 % celle d'un mardi ordinaire. »",
+       "label": "C"
+      },
+      {
+       "text": "La fermeture des bibliothèques le mardi.",
+       "correct": false,
+       "rationale": "Le mardi sert seulement de point de comparaison.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le premier paragraphe d'un article d'information présente les faits essentiels : la prolongation et le chiffre de fréquentation qui la justifie."
+    },
+    {
+     "prompt": "Qu'est-ce qui a surpris les responsables ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Le manque d'intérêt du public.",
+       "correct": false,
+       "rationale": "Le public est venu en nombre.",
+       "label": "A"
+      },
+      {
+       "text": "La forte présence des familles plutôt que des étudiants.",
+       "correct": true,
+       "rationale": "« On attendait surtout des étudiants… ce sont en réalité les familles qui ont répondu présent. »",
+       "label": "B"
+      },
+      {
+       "text": "Le refus des agents de travailler le dimanche.",
+       "correct": false,
+       "rationale": "Ce n'est pas présenté comme une surprise.",
+       "label": "C"
+      },
+      {
+       "text": "Le coût élevé de l'opération.",
+       "correct": false,
+       "rationale": "Le coût n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'opposition « on attendait… en réalité » signale l'écart entre la prévision et le constat."
+    },
+    {
+     "prompt": "Que redoutent les syndicats ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Que le travail du dimanche finisse par être imposé aux agents.",
+       "correct": true,
+       "rationale": "« Ils craignent qu'à terme, le volontariat ne devienne une obligation déguisée. »",
+       "label": "A"
+      },
+      {
+       "text": "Que les bibliothèques ferment en semaine.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Que les familles cessent de venir.",
+       "correct": false,
+       "rationale": "Ce n'est pas leur inquiétude.",
+       "label": "C"
+      },
+      {
+       "text": "Que les salaires du dimanche soient réduits.",
+       "correct": false,
+       "rationale": "Ils reconnaissent que les volontaires sont « mieux payés ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "Une « obligation déguisée » est une contrainte présentée comme un choix libre ; le « ne » qui suit « craindre que » est explétif et n'a pas de valeur négative."
+    }
+   ],
+   "title": "Les bibliothèques ouvrent le dimanche",
+   "document": "Depuis le mois de septembre, une trentaine de bibliothèques municipales de la région accueillent le public le dimanche après-midi. L'expérience, financée en partie par l'État, devait durer six mois ; elle sera finalement prolongée d'un an. Selon les chiffres communiqués par la mairie, la fréquentation dominicale dépasse de 40 % celle d'un mardi ordinaire.\n\nLe profil des visiteurs a surpris les responsables. On attendait surtout des étudiants en période d'examens ; ce sont en réalité les familles qui ont répondu présent. « Beaucoup de parents travaillent en semaine et n'avaient jamais le temps d'accompagner leurs enfants », explique la directrice d'un établissement.\n\nTout le monde ne partage pas cet enthousiasme. Les syndicats du personnel rappellent que l'ouverture repose sur des agents volontaires, mieux payés le dimanche, mais dont le nombre reste limité. Ils craignent qu'à terme, le volontariat ne devienne une obligation déguisée. La mairie assure qu'aucun agent ne sera contraint de travailler le week-end.",
+   "vocabulary": [
+    {
+     "terme": "dominical",
+     "definition": "qui concerne le dimanche",
+     "exemple": "Le marché dominical attire beaucoup de monde."
+    },
+    {
+     "terme": "la fréquentation",
+     "definition": "le nombre de visiteurs",
+     "exemple": "La fréquentation des musées augmente."
+    },
+    {
+     "terme": "un agent",
+     "definition": "un employé d'une administration",
+     "exemple": "Les agents municipaux sont en grève."
+    },
+    {
+     "terme": "contraindre",
+     "definition": "obliger",
+     "exemple": "Personne ne peut vous contraindre à signer."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "répondre présent",
+     "sens": "venir, participer comme on l'espérait",
+     "exemple": "Les bénévoles ont répondu présent."
+    },
+    {
+     "expression": "à terme",
+     "sens": "à plus ou moins long terme",
+     "exemple": "À terme, le projet devra s'autofinancer."
+    },
+    {
+     "expression": "une obligation déguisée",
+     "sens": "une contrainte cachée sous l'apparence d'un choix",
+     "exemple": "Ces heures « facultatives » sont une obligation déguisée."
+    }
+   ],
+   "traps": [
+    "Le mardi n'est qu'un point de comparaison : rien ne change ce jour-là.",
+    "Dans « craignent que… ne devienne », le « ne » n'exprime pas une négation.",
+    "La dernière phrase rapporte la position de la mairie, pas celle du journaliste."
+   ]
+  },
+  {
+   "code": "CE-ART-02",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Pourquoi les habitants ont-ils racheté le café ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Parce que la commune les y obligeait.",
+       "correct": false,
+       "rationale": "La commune a seulement cédé le local.",
+       "label": "A"
+      },
+      {
+       "text": "Pour y installer une mairie annexe.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Pour réaliser un placement financier rentable.",
+       "correct": false,
+       "rationale": "Les recettes « couvrent tout juste les charges ».",
+       "label": "C"
+      },
+      {
+       "text": "Pour éviter la disparition d'un lieu de vie sociale.",
+       "correct": true,
+       "rationale": "« Plutôt que de voir disparaître ce lieu de rencontre… ont décidé de le racheter ensemble. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le motif est social : la citation de l'associée confirme qu'un café « fait qu'un village reste vivant »."
+    },
+    {
+     "prompt": "Comment la commune a-t-elle contribué au projet ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "En versant deux mille euros à chaque habitant.",
+       "correct": false,
+       "rationale": "Ce sont les habitants qui ont apporté de l'argent.",
+       "label": "A"
+      },
+      {
+       "text": "En vendant le local pour une somme très faible.",
+       "correct": true,
+       "rationale": "« La commune a cédé à un prix symbolique le local qu'elle possédait. »",
+       "label": "B"
+      },
+      {
+       "text": "En prenant la direction du café.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "En organisant les concerts.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Un « prix symbolique » est un prix sans rapport avec la valeur réelle, souvent un euro."
+    },
+    {
+     "prompt": "Quelle réserve le journaliste exprime-t-il ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "L'équilibre économique du café dépend beaucoup du travail non rémunéré.",
+       "correct": true,
+       "rationale": "« Les recettes couvrent tout juste les charges, et la coopérative dépend largement de l'engagement bénévole. »",
+       "label": "A"
+      },
+      {
+       "text": "Les autres communes refusent de suivre l'exemple.",
+       "correct": false,
+       "rationale": "Elles se sont au contraire renseignées.",
+       "label": "B"
+      },
+      {
+       "text": "Le café attire trop de clients extérieurs.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Les concerts dérangent les voisins.",
+       "correct": false,
+       "rationale": "Rien ne l'indique.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Toutefois » introduit la nuance après le bilan positif ; « néanmoins » termine sur une note encourageante."
+    }
+   ],
+   "title": "Un village rachète son dernier café",
+   "document": "Dans une petite commune rurale de 800 habitants, le dernier café menaçait de fermer faute de repreneur. Plutôt que de voir disparaître ce lieu de rencontre, une soixantaine d'habitants ont décidé de le racheter ensemble, sous la forme d'une société coopérative. Chacun a apporté entre cent et deux mille euros, et la commune a cédé à un prix symbolique le local qu'elle possédait.\n\nSix mois après la réouverture, le bilan dépasse les espérances. Le café sert désormais de point relais pour les colis, propose un petit rayon d'épicerie et accueille chaque mois un concert. Deux emplois ont été créés. « On a compris qu'un café, ce n'est pas seulement des boissons, c'est ce qui fait qu'un village reste vivant », résume l'une des associées.\n\nLe modèle reste toutefois fragile. Les recettes couvrent tout juste les charges, et la coopérative dépend largement de l'engagement bénévole de ses membres pour l'entretien et les animations. D'autres communes de la région se sont néanmoins déjà renseignées pour suivre l'exemple.",
+   "vocabulary": [
+    {
+     "terme": "un repreneur",
+     "definition": "une personne qui rachète une entreprise pour la continuer",
+     "exemple": "Le boulanger cherche un repreneur."
+    },
+    {
+     "terme": "une coopérative",
+     "definition": "une entreprise possédée et gérée par ses membres",
+     "exemple": "La coopérative agricole compte cent membres."
+    },
+    {
+     "terme": "céder",
+     "definition": "vendre ou donner",
+     "exemple": "Il a cédé son appartement à sa fille."
+    },
+    {
+     "terme": "les charges",
+     "definition": "les dépenses régulières",
+     "exemple": "Les charges ont augmenté cette année."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "faute de",
+     "sens": "par manque de",
+     "exemple": "Faute de temps, je n'ai pas pu venir."
+    },
+    {
+     "expression": "dépasser les espérances",
+     "sens": "être meilleur que prévu",
+     "exemple": "Les ventes ont dépassé nos espérances."
+    },
+    {
+     "expression": "suivre l'exemple",
+     "sens": "faire la même chose",
+     "exemple": "D'autres pays devraient suivre l'exemple."
+    }
+   ],
+   "traps": [
+    "Les sommes de cent à deux mille euros sont apportées par chaque habitant, pas par la commune.",
+    "« Couvrir tout juste les charges » signifie qu'il n'y a presque pas de bénéfice.",
+    "La phrase finale est positive : ne pas la confondre avec la réserve qui précède."
+   ]
+  },
+  {
+   "code": "CE-ART-03",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Comment le ministère explique-t-il l'allongement des délais ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Par la mise en place d'un nouveau passeport.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Par une grève des agents de mairie.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Par la fermeture des mairies le samedi.",
+       "correct": false,
+       "rationale": "Le samedi est au contraire une solution.",
+       "label": "C"
+      },
+      {
+       "text": "Par un grand nombre de renouvellements simultanés après une période de voyages réduits.",
+       "correct": true,
+       "rationale": "« Après deux années de voyages limités, de nombreux Français ont laissé expirer leurs documents et les renouvellent tous en même temps. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Un « effet de rattrapage » désigne le retour soudain d'une demande longtemps reportée."
+    },
+    {
+     "prompt": "Que pensent les associations de consommateurs des mesures annoncées ?",
+     "skill": "point de vue",
+     "choices": [
+      {
+       "text": "Qu'elles règlent définitivement le problème.",
+       "correct": false,
+       "rationale": "Elles conseillent au contraire d'anticiper.",
+       "label": "A"
+      },
+      {
+       "text": "Qu'elles sont trop coûteuses.",
+       "correct": false,
+       "rationale": "Le coût n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Qu'elles arrivent trop tard.",
+       "correct": true,
+       "rationale": "« Les associations de consommateurs jugent ces mesures tardives. »",
+       "label": "C"
+      },
+      {
+       "text": "Qu'elles sont inutiles.",
+       "correct": false,
+       "rationale": "Elles ne disent pas qu'elles sont inutiles, mais tardives.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Tardif » signifie « qui vient trop tard » ; c'est une critique sur le moment, pas sur le principe."
+    },
+    {
+     "prompt": "Que suggère le dernier paragraphe ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "La carte d'identité sera bientôt supprimée.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Un voyageur sur cinq ne part jamais.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'information donnée.",
+       "label": "B"
+      },
+      {
+       "text": "Certains demandeurs pourraient se contenter de leur carte d'identité.",
+       "correct": true,
+       "rationale": "« Près d'un demandeur sur cinq sollicite un passeport alors que sa carte d'identité… suffirait pour sa destination. »",
+       "label": "C"
+      },
+      {
+       "text": "Les passeports ne sont plus acceptés en Europe.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Par ailleurs » introduit une information complémentaire : une partie des demandes est inutile."
+    }
+   ],
+   "title": "Hausse record des demandes de passeport",
+   "document": "Les délais d'obtention d'un passeport atteignent cette année des niveaux inédits. Dans certaines grandes villes, il faut attendre plus de trois mois pour obtenir un simple rendez-vous en mairie, première étape de la procédure. Le ministère de l'Intérieur explique cette situation par un effet de rattrapage : après deux années de voyages limités, de nombreux Français ont laissé expirer leurs documents et les renouvellent tous en même temps.\n\nPour faire face, le gouvernement a annoncé le recrutement de quatre cents agents temporaires et l'ouverture de centres éphémères le samedi. Les associations de consommateurs jugent ces mesures tardives. Elles conseillent aux voyageurs de vérifier dès maintenant la date de validité de leurs papiers, même pour un départ prévu dans plusieurs mois.\n\nUne partie de la tension pourrait par ailleurs être évitée : selon le ministère, près d'un demandeur sur cinq sollicite un passeport alors que sa carte d'identité, valable dans la plupart des pays européens, suffirait pour sa destination.",
+   "vocabulary": [
+    {
+     "terme": "inédit",
+     "definition": "jamais vu auparavant",
+     "exemple": "La situation est inédite."
+    },
+    {
+     "terme": "expirer",
+     "definition": "arriver à la fin de sa validité",
+     "exemple": "Mon permis expire en juin."
+    },
+    {
+     "terme": "éphémère",
+     "definition": "qui dure peu de temps",
+     "exemple": "Un restaurant éphémère s'est installé sur la plage."
+    },
+    {
+     "terme": "solliciter",
+     "definition": "demander",
+     "exemple": "Il a sollicité un rendez-vous."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "faire face",
+     "sens": "affronter une difficulté",
+     "exemple": "L'hôpital doit faire face à un afflux de patients."
+    },
+    {
+     "expression": "un effet de rattrapage",
+     "sens": "un retour brutal d'une activité après une période de baisse",
+     "exemple": "Les ventes de voitures connaissent un effet de rattrapage."
+    },
+    {
+     "expression": "dès maintenant",
+     "sens": "à partir de maintenant, sans attendre",
+     "exemple": "Inscrivez-vous dès maintenant."
+    }
+   ],
+   "traps": [
+    "Trois mois est le délai pour un rendez-vous, pas pour recevoir le passeport.",
+    "« Tardives » ne veut pas dire « inutiles ».",
+    "« Un sur cinq » concerne les demandeurs qui pourraient utiliser leur carte d'identité."
+   ]
+  },
+  {
+   "code": "CE-ART-04",
+   "level": "B2",
+   "doc_type": "reportage écrit",
+   "questions": [
+    {
+     "prompt": "Quel est l'objectif principal de ce reportage ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Démontrer que Paris peut devenir autonome.",
+       "correct": false,
+       "rationale": "L'agronome affirme le contraire.",
+       "label": "A"
+      },
+      {
+       "text": "Critiquer les restaurants du quartier.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sujet.",
+       "label": "B"
+      },
+      {
+       "text": "Faire la publicité d'un grand magasin.",
+       "correct": false,
+       "rationale": "Le magasin n'est qu'un lieu.",
+       "label": "C"
+      },
+      {
+       "text": "Présenter un phénomène et en discuter la portée réelle.",
+       "correct": true,
+       "rationale": "Le texte décrit un potager puis rapporte les avantages, les limites et l'intérêt réel de l'agriculture urbaine.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le plan du texte suit une logique classique : description, arguments favorables, nuance d'expert, conclusion sur l'intérêt réel."
+    },
+    {
+     "prompt": "Selon l'agronome, quelle est la limite de l'agriculture urbaine ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Elle pollue l'air des villes.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Elle ne peut couvrir qu'une très faible partie des besoins alimentaires.",
+       "correct": true,
+       "rationale": "« On couvrirait au mieux quelques pour cent des besoins en légumes. »",
+       "label": "B"
+      },
+      {
+       "text": "Elle produit des légumes de mauvaise qualité.",
+       "correct": false,
+       "rationale": "La qualité n'est pas discutée.",
+       "label": "C"
+      },
+      {
+       "text": "Elle coûte trop cher aux écoles.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Au mieux » signifie « dans le cas le plus favorable » : le chiffre réel serait encore plus bas."
+    },
+    {
+     "prompt": "Où se situe finalement l'intérêt de ces projets selon le texte ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Dans leur rôle éducatif et social.",
+       "correct": true,
+       "rationale": "« Pédagogique d'abord… Social ensuite… personnes en réinsertion professionnelle. »",
+       "label": "A"
+      },
+      {
+       "text": "Dans leur rentabilité financière.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Dans la création de nouveaux magasins.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Dans leur capacité à nourrir toute la ville.",
+       "correct": false,
+       "rationale": "C'est précisément ce qui est contesté.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Leur intérêt serait donc ailleurs » annonce un déplacement de l'argument ; le conditionnel marque une prudence."
+    }
+   ],
+   "title": "Sur les toits de Paris, des potagers",
+   "document": "Au sommet d'un grand magasin du centre de Paris, à trente mètres au-dessus de la circulation, poussent des tomates, des fraises et une quarantaine de variétés d'herbes aromatiques. Ce potager de mille mètres carrés fait partie des dizaines de projets d'agriculture urbaine qui ont vu le jour ces dernières années. Ses légumes sont vendus aux restaurants du quartier et dans un marché hebdomadaire.\n\nSes promoteurs y voient un moyen de rapprocher producteurs et consommateurs, de rafraîchir les bâtiments en été et de sensibiliser les citadins à la saisonnalité des produits. Les chercheurs se montrent plus prudents. Selon une agronome interrogée, ces fermes urbaines ne pourront jamais nourrir une ville : « Même si l'on cultivait tous les toits plats de Paris, on couvrirait au mieux quelques pour cent des besoins en légumes. »\n\nLeur intérêt serait donc ailleurs. Pédagogique d'abord : de nombreuses écoles organisent des visites. Social ensuite, puisque plusieurs projets emploient des personnes en réinsertion professionnelle.",
+   "vocabulary": [
+    {
+     "terme": "un promoteur",
+     "definition": "une personne qui lance et soutient un projet",
+     "exemple": "Les promoteurs du projet sont optimistes."
+    },
+    {
+     "terme": "un citadin",
+     "definition": "un habitant d'une ville",
+     "exemple": "Les citadins manquent d'espaces verts."
+    },
+    {
+     "terme": "la saisonnalité",
+     "definition": "le fait de dépendre des saisons",
+     "exemple": "Respecter la saisonnalité des fruits."
+    },
+    {
+     "terme": "la réinsertion",
+     "definition": "le retour à une vie sociale ou professionnelle normale",
+     "exemple": "Un programme de réinsertion pour les chômeurs."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "voir le jour",
+     "sens": "naître, être créé",
+     "exemple": "Ce projet a vu le jour en 2020."
+    },
+    {
+     "expression": "au mieux",
+     "sens": "dans le meilleur des cas",
+     "exemple": "Il arrivera au mieux à midi."
+    },
+    {
+     "expression": "se montrer prudent",
+     "sens": "exprimer des réserves",
+     "exemple": "Les médecins se montrent prudents."
+    }
+   ],
+   "traps": [
+    "Les avantages du deuxième paragraphe sont ceux des promoteurs, pas du journaliste.",
+    "« Au mieux quelques pour cent » est une estimation maximale.",
+    "Le conditionnel « serait » nuance la conclusion."
+   ]
+  },
+  {
+   "code": "CE-ART-05",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Comment l'article présente-t-il le retour des trains de nuit ?",
+     "skill": "compréhension globale",
+     "choices": [
+      {
+       "text": "Comme une mode passagère sans intérêt.",
+       "correct": false,
+       "rationale": "Le texte en explique les raisons sérieuses.",
+       "label": "A"
+      },
+      {
+       "text": "Comme un échec commercial.",
+       "correct": false,
+       "rationale": "Les trains affichent complet.",
+       "label": "B"
+      },
+      {
+       "text": "Comme une décision imposée par l'Europe.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Comme un succès auprès du public, mais fragile économiquement.",
+       "correct": true,
+       "rationale": "« Le succès est réel » puis « l'équilibre économique de ces lignes reste précaire ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le connecteur « pourtant » oppose la popularité à la fragilité financière."
+    },
+    {
+     "prompt": "Pourquoi un train de nuit coûte-t-il cher à exploiter ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Ses billets sont gratuits.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Il consomme plus que l'avion.",
+       "correct": false,
+       "rationale": "Le texte dit qu'il émet moins.",
+       "label": "B"
+      },
+      {
+       "text": "Il transporte peu de passagers et ses voitures sont inutilisées le jour.",
+       "correct": true,
+       "rationale": "« Ne transporte qu'un nombre limité de passagers, immobilise des voitures toute la journée. »",
+       "label": "C"
+      },
+      {
+       "text": "Il nécessite des hôtels pour les voyageurs.",
+       "correct": false,
+       "rationale": "Il permet au contraire d'en économiser.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'énumération du troisième paragraphe détaille les causes du coût."
+    },
+    {
+     "prompt": "Quel argument les défenseurs du rail utilisent-ils pour justifier les aides ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les trains de nuit sont plus rapides que l'avion.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "L'avion bénéficie lui aussi d'avantages fiscaux.",
+       "correct": true,
+       "rationale": "« Tant que le transport aérien bénéficie lui-même d'avantages fiscaux, comme l'absence de taxe sur le kérosène. »",
+       "label": "B"
+      },
+      {
+       "text": "Les compagnies privées sont en faillite.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Les voyageurs exigent des prix plus bas.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'argument.",
+       "label": "D"
+      }
+     ],
+     "explanation": "C'est un argument d'équité : si l'un des modes de transport est aidé, l'autre peut l'être aussi."
+    }
+   ],
+   "title": "Les trains de nuit font leur retour",
+   "document": "Longtemps considérés comme une relique du passé, les trains de nuit reviennent sur les rails européens. Après avoir supprimé la plupart de ses lignes au cours des années 2010, la compagnie nationale en a rouvert plusieurs, et de nouveaux opérateurs privés proposent des liaisons entre grandes capitales. Le succès est réel : certains trains affichent complet plusieurs semaines à l'avance.\n\nCet engouement s'explique d'abord par la préoccupation écologique. Un trajet en train émet en moyenne beaucoup moins de gaz à effet de serre que le même trajet en avion. Les voyageurs apprécient aussi de gagner une nuit d'hôtel et d'arriver en centre-ville.\n\nPourtant, l'équilibre économique de ces lignes reste précaire. Un train de nuit ne transporte qu'un nombre limité de passagers, immobilise des voitures toute la journée et paie des péages ferroviaires élevés. Sans aides publiques, la plupart des liaisons seraient déficitaires. Les défenseurs du rail estiment que ces subventions sont légitimes, tant que le transport aérien bénéficie lui-même d'avantages fiscaux, comme l'absence de taxe sur le kérosène.",
+   "vocabulary": [
+    {
+     "terme": "une relique",
+     "definition": "un objet ou une pratique du passé",
+     "exemple": "Ce téléphone est une relique."
+    },
+    {
+     "terme": "l'engouement",
+     "definition": "un enthousiasme soudain",
+     "exemple": "L'engouement pour le vélo ne faiblit pas."
+    },
+    {
+     "terme": "précaire",
+     "definition": "instable, fragile",
+     "exemple": "Il a une situation précaire."
+    },
+    {
+     "terme": "déficitaire",
+     "definition": "qui perd de l'argent",
+     "exemple": "L'entreprise est déficitaire."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "afficher complet",
+     "sens": "ne plus avoir de places disponibles",
+     "exemple": "Le concert affiche complet."
+    },
+    {
+     "expression": "revenir sur les rails",
+     "sens": "reprendre, redémarrer",
+     "exemple": "Le projet est revenu sur les rails."
+    },
+    {
+     "expression": "tant que",
+     "sens": "aussi longtemps que",
+     "exemple": "Tant que tu es là, je suis rassuré."
+    }
+   ],
+   "traps": [
+    "Le texte ne dit pas que les trains de nuit sont plus rapides.",
+    "« Précaire » concerne l'économie des lignes, pas leur fréquentation.",
+    "L'argument final est celui des défenseurs du rail, pas forcément du journaliste."
+   ]
+  },
+  {
+   "code": "CE-ART-06",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Que conclut le rapport des autorités sanitaires ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Les ultraviolets artificiels accroissent clairement le risque de cancer de la peau.",
+       "correct": true,
+       "rationale": "« L'exposition aux ultraviolets artificiels augmente nettement le risque de cancer de la peau. »",
+       "label": "A"
+      },
+      {
+       "text": "Les études sur le sujet sont contradictoires.",
+       "correct": false,
+       "rationale": "Le rapport est « sans ambiguïté ».",
+       "label": "B"
+      },
+      {
+       "text": "Le bronzage artificiel est sans danger après trente ans.",
+       "correct": false,
+       "rationale": "Le risque est plus fort avant trente ans, mais existe toujours.",
+       "label": "C"
+      },
+      {
+       "text": "Les cabines doivent être réservées aux adultes.",
+       "correct": false,
+       "rationale": "Le rapport recommande l'interdiction totale.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Sans ambiguïté » indique une conclusion nette ; « en particulier » précise un groupe plus exposé."
+    },
+    {
+     "prompt": "Quel argument les professionnels avancent-ils contre l'interdiction ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Elle pourrait encourager l'usage d'appareils non contrôlés.",
+       "correct": true,
+       "rationale": "Ils « redoutent qu'une interdiction ne pousse certains vers des appareils achetés sur Internet, sans aucun contrôle ».",
+       "label": "A"
+      },
+      {
+       "text": "Le nombre d'appareils augmente.",
+       "correct": false,
+       "rationale": "Il a été divisé par trois.",
+       "label": "B"
+      },
+      {
+       "text": "Les cabines sont déjà interdites aux adultes.",
+       "correct": false,
+       "rationale": "Elles sont interdites aux mineurs.",
+       "label": "C"
+      },
+      {
+       "text": "Les ultraviolets protègent contre certaines maladies.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les professionnels avancent deux arguments : la liberté de choix et le risque d'un effet pervers."
+    },
+    {
+     "prompt": "Que suggère la dernière phrase ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Le gouvernement a déjà interdit les cabines.",
+       "correct": false,
+       "rationale": "Il « n'a pas encore tranché ».",
+       "label": "A"
+      },
+      {
+       "text": "L'interdiction a échoué en Australie.",
+       "correct": false,
+       "rationale": "Les effets sont dits « mesurables » sur la santé.",
+       "label": "B"
+      },
+      {
+       "text": "Le Brésil a autorisé les cabines aux mineurs.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "L'exemple étranger plaide en faveur de l'interdiction.",
+       "correct": true,
+       "rationale": "« Plusieurs pays… ont pourtant franchi le pas, avec… des effets mesurables sur la santé publique. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Pourtant » oppose l'hésitation du gouvernement à l'expérience positive d'autres pays."
+    }
+   ],
+   "title": "Le recul des cabines de bronzage",
+   "document": "Les autorités sanitaires recommandent depuis plusieurs années l'interdiction totale des cabines de bronzage artificiel. Leur dernier rapport, publié cette semaine, est sans ambiguïté : l'exposition aux ultraviolets artificiels augmente nettement le risque de cancer de la peau, en particulier lorsqu'elle commence avant trente ans.\n\nLe secteur, lui, est déjà en net recul. Le nombre d'appareils a été divisé par trois en dix ans, sous l'effet combiné de campagnes de prévention et d'une réglementation plus stricte : interdiction aux mineurs, publicité limitée, formation obligatoire des exploitants. Les professionnels contestent néanmoins une interdiction totale. Ils affirment que leurs clients, informés des risques, sont libres de leur choix, et redoutent qu'une interdiction ne pousse certains vers des appareils achetés sur Internet, sans aucun contrôle.\n\nLe gouvernement n'a pas encore tranché. Plusieurs pays, comme l'Australie ou le Brésil, ont pourtant franchi le pas, avec, selon les études disponibles, des effets mesurables sur la santé publique.",
+   "vocabulary": [
+    {
+     "terme": "un exploitant",
+     "definition": "la personne qui gère une activité commerciale",
+     "exemple": "L'exploitant du cinéma a fermé la salle."
+    },
+    {
+     "terme": "contester",
+     "definition": "remettre en cause",
+     "exemple": "Il conteste la décision du juge."
+    },
+    {
+     "terme": "trancher",
+     "definition": "prendre une décision nette",
+     "exemple": "Le ministre devra trancher."
+    },
+    {
+     "terme": "mesurable",
+     "definition": "qu'on peut évaluer avec des chiffres",
+     "exemple": "Les progrès sont mesurables."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "sans ambiguïté",
+     "sens": "de façon claire et nette",
+     "exemple": "Il a répondu sans ambiguïté."
+    },
+    {
+     "expression": "sous l'effet de",
+     "sens": "à cause de",
+     "exemple": "Sous l'effet de la chaleur, la glace a fondu."
+    },
+    {
+     "expression": "franchir le pas",
+     "sens": "se décider à faire quelque chose d'important",
+     "exemple": "Elle a franchi le pas et créé son entreprise."
+    }
+   ],
+   "traps": [
+    "La réglementation actuelle interdit déjà les cabines aux mineurs, pas aux adultes.",
+    "« Divisé par trois » signifie une forte baisse.",
+    "Le gouvernement n'a encore rien décidé."
+   ]
+  },
+  {
+   "code": "CE-ART-07",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Comment la gratuité est-elle financée ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Par une hausse des impôts des habitants.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Par une taxe sur les entreprises d'une certaine taille.",
+       "correct": true,
+       "rationale": "« Désormais financés par une taxe payée par les entreprises de plus de onze salariés. »",
+       "label": "B"
+      },
+      {
+       "text": "Par des fonds européens.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "C"
+      },
+      {
+       "text": "Par la vente de billets.",
+       "correct": false,
+       "rationale": "C'était le financement d'avant.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Auparavant » et « désormais » opposent l'ancien et le nouveau mode de financement."
+    },
+    {
+     "prompt": "Qu'a révélé l'étude indépendante ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "La circulation automobile a disparu.",
+       "correct": false,
+       "rationale": "Ses effets sont « difficiles à mesurer ».",
+       "label": "A"
+      },
+      {
+       "text": "Les habitants n'utilisent plus le tramway.",
+       "correct": false,
+       "rationale": "La fréquentation a augmenté.",
+       "label": "B"
+      },
+      {
+       "text": "La gratuité n'a pas seulement attiré des automobilistes.",
+       "correct": true,
+       "rationale": "« Les nouveaux usagers sont en partie d'anciens piétons et cyclistes, et non uniquement des automobilistes. »",
+       "label": "C"
+      },
+      {
+       "text": "Les cyclistes sont plus nombreux qu'avant.",
+       "correct": false,
+       "rationale": "Certains ont au contraire pris le bus.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'effet écologique attendu (moins de voitures) est donc plus limité qu'espéré."
+    },
+    {
+     "prompt": "Selon les spécialistes, qu'est-ce qui compte le plus pour changer les habitudes ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "La gratuité totale.",
+       "correct": false,
+       "rationale": "Ils disent qu'elle « ne suffit pas ».",
+       "label": "A"
+      },
+      {
+       "text": "L'interdiction des voitures.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "La qualité du service plus que son prix.",
+       "correct": true,
+       "rationale": "« La fréquence des passages, la rapidité et la couverture des quartiers périphériques comptent davantage que le prix. »",
+       "label": "C"
+      },
+      {
+       "text": "La construction de pistes cyclables.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La comparaison « davantage que » hiérarchise les critères."
+    }
+   ],
+   "title": "Une ville teste la gratuité des transports",
+   "document": "Depuis janvier, les bus et tramways d'une ville moyenne de l'ouest sont gratuits pour tous. Six mois plus tard, la fréquentation a progressé de 60 %, un chiffre que le maire qualifie de « victoire ». La mesure coûte à la collectivité environ huit millions d'euros par an, auparavant couverts par la vente des billets, et désormais financés par une taxe payée par les entreprises de plus de onze salariés.\n\nLes effets sur la circulation automobile sont plus difficiles à mesurer. Une étude indépendante montre que les nouveaux usagers sont en partie d'anciens piétons et cyclistes, et non uniquement des automobilistes. Pour les spécialistes de la mobilité, la gratuité seule ne suffit pas à faire changer les habitudes : la fréquence des passages, la rapidité et la couverture des quartiers périphériques comptent davantage que le prix.\n\nL'opposition municipale, elle, s'inquiète d'un réseau saturé aux heures de pointe et réclame des investissements dans de nouveaux véhicules plutôt que dans la gratuité.",
+   "vocabulary": [
+    {
+     "terme": "la collectivité",
+     "definition": "l'administration locale, la commune",
+     "exemple": "La collectivité finance les écoles."
+    },
+    {
+     "terme": "un usager",
+     "definition": "une personne qui utilise un service public",
+     "exemple": "Les usagers du métro se plaignent."
+    },
+    {
+     "terme": "périphérique",
+     "definition": "situé loin du centre",
+     "exemple": "Les quartiers périphériques sont mal desservis."
+    },
+    {
+     "terme": "saturé",
+     "definition": "complètement plein",
+     "exemple": "Le réseau est saturé."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "les heures de pointe",
+     "sens": "les moments où il y a le plus de monde",
+     "exemple": "Évitez de circuler aux heures de pointe."
+    },
+    {
+     "expression": "en partie",
+     "sens": "pas totalement",
+     "exemple": "Il a en partie raison."
+    },
+    {
+     "expression": "qualifier de",
+     "sens": "désigner par un terme",
+     "exemple": "Il a qualifié la réforme d'erreur."
+    }
+   ],
+   "traps": [
+    "La « victoire » est le mot du maire, pas l'avis du journaliste.",
+    "« En partie » signifie que certains nouveaux usagers étaient bien des automobilistes.",
+    "L'opposition ne conteste pas les transports, mais la priorité donnée à la gratuité."
+   ]
+  },
+  {
+   "code": "CE-ART-08",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Quel constat l'enquête fait-elle ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Les jeunes lisent plus de livres qu'avant.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "A"
+      },
+      {
+       "text": "Moins de jeunes déclarent lire un livre chaque mois.",
+       "correct": true,
+       "rationale": "« La part des 16-25 ans déclarant lire au moins un livre par mois a reculé de dix points. »",
+       "label": "B"
+      },
+      {
+       "text": "Les jeunes ne lisent plus du tout.",
+       "correct": false,
+       "rationale": "Il s'agit d'une baisse, pas d'un arrêt.",
+       "label": "C"
+      },
+      {
+       "text": "Les réseaux sociaux sont moins utilisés.",
+       "correct": false,
+       "rationale": "Leur usage a augmenté.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Dix points » désigne une différence de pourcentage, par exemple de 50 % à 40 %."
+    },
+    {
+     "prompt": "Pourquoi les auteurs appellent-ils à la prudence ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Parce que les écrans favorisent la lecture.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'argument.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que les jeunes ont menti.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que l'enquête a été mal réalisée.",
+       "correct": false,
+       "rationale": "Ils n'en contestent pas la méthode, mais la portée.",
+       "label": "C"
+      },
+      {
+       "text": "Parce que l'enquête ignore d'autres formes de lecture et que certains genres progressent.",
+       "correct": true,
+       "rationale": "« L'enquête ne prend en compte que les livres… certains genres connaissent au contraire un véritable essor. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« D'abord… Ensuite… » structure deux limites de l'enquête."
+    },
+    {
+     "prompt": "Quel est, selon les auteurs, le véritable enjeu ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "La difficulté croissante à lire longuement et de façon concentrée.",
+       "correct": true,
+       "rationale": "« Le vrai problème… serait moins la quantité que la nature de la lecture… la lecture longue et concentrée. »",
+       "label": "A"
+      },
+      {
+       "text": "Le prix trop élevé des livres.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "La disparition des bibliothèques.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Le succès des mangas.",
+       "correct": false,
+       "rationale": "C'est présenté comme une évolution positive.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « moins… que… » déplace l'attention de la quantité vers la qualité de la lecture."
+    }
+   ],
+   "title": "Les jeunes et la lecture : un recul à nuancer",
+   "document": "Les jeunes lisent-ils moins qu'avant ? Une enquête nationale publiée cette semaine semble le confirmer : la part des 16-25 ans déclarant lire au moins un livre par mois a reculé de dix points en dix ans. Les écrans sont naturellement montrés du doigt, le temps passé sur les réseaux sociaux ayant fortement augmenté sur la même période.\n\nLes auteurs de l'étude appellent cependant à la prudence. D'abord, l'enquête ne prend en compte que les livres, et non les articles, les bandes dessinées numériques ou les longs textes lus en ligne. Ensuite, certains genres connaissent au contraire un véritable essor chez les jeunes, comme les mangas ou les romans recommandés par des lecteurs influents sur les réseaux.\n\nLe vrai problème, selon eux, serait moins la quantité que la nature de la lecture : les jeunes liraient davantage par fragments, sautant d'un contenu à l'autre, ce qui rendrait plus difficile la lecture longue et concentrée qu'exigent les études supérieures.",
+   "vocabulary": [
+    {
+     "terme": "un essor",
+     "definition": "un développement rapide",
+     "exemple": "Le tourisme connaît un fort essor."
+    },
+    {
+     "terme": "un fragment",
+     "definition": "un petit morceau",
+     "exemple": "Il n'a lu que des fragments du texte."
+    },
+    {
+     "terme": "influent",
+     "definition": "qui a de l'influence",
+     "exemple": "C'est une personnalité influente."
+    },
+    {
+     "terme": "concentré",
+     "definition": "attentif, sans distraction",
+     "exemple": "Il faut rester concentré pendant l'examen."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "montrer du doigt",
+     "sens": "accuser",
+     "exemple": "On montre souvent les jeunes du doigt."
+    },
+    {
+     "expression": "appeler à la prudence",
+     "sens": "conseiller de ne pas tirer de conclusions trop vite",
+     "exemple": "Les médecins appellent à la prudence."
+    },
+    {
+     "expression": "au contraire",
+     "sens": "à l'inverse",
+     "exemple": "Il n'est pas fatigué, au contraire."
+    }
+   ],
+   "traps": [
+    "« Semble le confirmer » marque une prudence dès le début.",
+    "Les écrans sont « montrés du doigt » par l'opinion, sans que l'étude les accuse directement.",
+    "Le conditionnel du dernier paragraphe présente une hypothèse des auteurs."
+   ]
+  }
+ ]
+}

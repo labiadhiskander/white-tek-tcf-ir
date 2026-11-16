@@ -1,0 +1,205 @@
+@slug co-conferences-emissions
+@section CO
+@title Conférences et émissions
+@order 12
+@description Extraits de conférences, de cours et d'émissions de vulgarisation : suivre un exposé structuré, repérer la thèse, les exemples et la conclusion.
+
+## CO-CONF-01 | conférence | F:fr-FR
+TITRE: Pourquoi oublions-nous ?
+CONTEXTE: Extrait d'une conférence grand public d'une chercheuse en neurosciences.
+DOC: F: On considère souvent l'oubli comme un défaut de la mémoire, une panne qu'il faudrait réparer. Je voudrais aujourd'hui vous convaincre du contraire. Imaginez un cerveau qui retiendrait absolument tout : la couleur de chaque voiture croisée ce matin, chaque mot entendu dans le métro. Il serait saturé, incapable de distinguer l'essentiel de l'accessoire. L'oubli joue donc un rôle de tri. Pendant le sommeil, notamment, le cerveau renforce les souvenirs utiles et laisse s'effacer les autres. Cela ne veut pas dire que tout oubli est bénin, bien sûr. Les maladies neurodégénératives détruisent justement cet équilibre. Mais chez une personne en bonne santé, oublier, c'est en quelque sorte faire le ménage pour mieux penser.
+Q: Quelle est la thèse défendue par la chercheuse ? | compréhension globale
++ L'oubli est un mécanisme utile au bon fonctionnement du cerveau. | « Je voudrais aujourd'hui vous convaincre du contraire… L'oubli joue donc un rôle de tri. »
+- L'oubli est une maladie qu'il faut soigner. | C'est l'idée qu'elle conteste.
+- Il faut entraîner sa mémoire pour ne rien oublier. | Elle montre qu'une mémoire totale serait un handicap.
+- Le sommeil empêche la mémorisation. | Elle dit l'inverse.
+EXP: « Vous convaincre du contraire » annonce une thèse qui s'oppose à l'idée reçue citée en ouverture.
+Q: À quoi sert l'exemple du cerveau qui retiendrait tout ? | argumentation
++ À montrer par l'absurde qu'une mémoire totale serait inefficace. | « Il serait saturé, incapable de distinguer l'essentiel de l'accessoire. »
+- À décrire le cerveau des personnes très intelligentes. | Il s'agit d'une hypothèse.
+- À présenter un cas réel étudié dans son laboratoire. | « Imaginez » introduit une situation fictive.
+- À expliquer comment fonctionne le métro. | Le métro n'est qu'un détail de l'exemple.
+EXP: Le raisonnement par l'absurde imagine la situation opposée pour en montrer les conséquences négatives.
+Q: Quelle nuance la chercheuse apporte-t-elle ? | point de vue
++ Certains oublis, dus à la maladie, sont réellement graves. | « Cela ne veut pas dire que tout oubli est bénin… Les maladies neurodégénératives détruisent justement cet équilibre. »
+- Le sommeil n'a finalement aucun rôle. | Elle affirme son rôle.
+- Les enfants oublient plus que les adultes. | Ce n'est pas dit.
+- On peut tout retenir avec de l'entraînement. | Ce n'est pas sa position.
+EXP: « Cela ne veut pas dire que… bien sûr » prévient une généralisation abusive de sa thèse.
+VOCAB: saturé = complètement rempli, qui ne peut plus rien recevoir = Le réseau est saturé. ; l'accessoire = ce qui est secondaire = Il faut séparer l'essentiel de l'accessoire. ; bénin = sans gravité = Ce n'est qu'une blessure bénigne. ; neurodégénératif = qui détruit progressivement le système nerveux = Alzheimer est une maladie neurodégénérative.
+EXPR: en quelque sorte = d'une certaine manière = C'est en quelque sorte un retour aux sources. ; faire le ménage = nettoyer, trier pour éliminer l'inutile = J'ai fait le ménage dans mes courriels. ; convaincre du contraire = persuader qu'une idée est fausse = Rien ne pourra le convaincre du contraire.
+
+## CO-CONF-02 | émission de vulgarisation | H:fr-FR, F:fr-FR
+TITRE: L'histoire du sucre
+CONTEXTE: Un animateur interroge une historienne de l'alimentation.
+DOC: H: Aujourd'hui, le sucre est partout. Mais ça n'a pas toujours été le cas ? / F: Pas du tout. Au Moyen Âge, en Europe, le sucre de canne était un produit de luxe, vendu chez les apothicaires, l'équivalent de nos pharmaciens. On l'utilisait comme médicament ou comme épice précieuse. / H: Qu'est-ce qui l'a rendu si courant ? / F: Deux étapes, malheureusement très différentes. D'abord, l'exploitation des plantations aux Antilles, fondée sur l'esclavage, qui a fait baisser les prix de façon spectaculaire. C'est une histoire qu'on a longtemps passée sous silence. Ensuite, au dix-neuvième siècle, l'industrie de la betterave sucrière en Europe, qui a rendu le sucre accessible à toutes les classes sociales. / H: Et aujourd'hui, on cherche à en consommer moins… / F: Oui, c'est l'ironie de l'histoire : un produit qu'on prenait pour un remède est devenu un enjeu de santé publique.
+Q: Quel statut avait le sucre au Moyen Âge en Europe ? | compréhension détaillée
++ Celui d'un produit rare et coûteux, utilisé comme remède. | « Un produit de luxe, vendu chez les apothicaires… comme médicament ou comme épice précieuse. »
+- Celui d'un aliment de base des paysans. | C'était un produit de luxe.
+- Celui d'un produit interdit. | Ce n'est pas dit.
+- Celui d'une boisson populaire. | Ce n'est pas mentionné.
+EXP: La comparaison avec les pharmaciens aide à comprendre le rôle des apothicaires.
+Q: Comment l'historienne présente-t-elle la première étape de la diffusion du sucre ? | point de vue
++ Comme une période sombre, longtemps ignorée. | « Fondée sur l'esclavage… une histoire qu'on a longtemps passée sous silence. »
+- Comme un progrès technique admirable. | Elle souligne au contraire son caractère tragique.
+- Comme une invention européenne. | Il s'agit des plantations aux Antilles.
+- Comme un événement sans importance. | Elle dit qu'elle a fait chuter les prix « de façon spectaculaire ».
+EXP: « Malheureusement » et « passée sous silence » expriment un jugement critique.
+Q: Que désigne « l'ironie de l'histoire » ? | implicite
++ Le fait qu'un produit autrefois considéré comme bon pour la santé soit devenu un problème de santé. | « Un produit qu'on prenait pour un remède est devenu un enjeu de santé publique. »
+- Le fait que le sucre soit redevenu cher. | Ce n'est pas dit.
+- Le fait que les pharmaciens vendent encore du sucre. | Ce n'est pas mentionné.
+- Le fait que la betterave ait remplacé la canne. | Ce n'est pas l'ironie évoquée.
+EXP: L'ironie naît d'un renversement de situation : remède hier, danger aujourd'hui.
+VOCAB: un apothicaire = un ancien pharmacien = L'apothicaire préparait les remèdes. ; une plantation = une grande exploitation agricole = Les plantations de café s'étendaient à perte de vue. ; la betterave sucrière = une plante dont on extrait du sucre = Le nord de la France cultive la betterave sucrière. ; un enjeu = ce qui est en jeu, un problème important = Le climat est un enjeu majeur.
+EXPR: passer sous silence = ne pas parler de quelque chose volontairement = Le rapport passe sous silence les erreurs. ; l'ironie de l'histoire = un retournement inattendu = L'ironie de l'histoire, c'est qu'il est devenu ministre. ; de façon spectaculaire = de manière très visible et importante = Les ventes ont augmenté de façon spectaculaire.
+
+## CO-CONF-03 | cours en ligne | H:fr-FR
+TITRE: Les biais cognitifs
+CONTEXTE: Début d'un cours en ligne de psychologie.
+DOC: H: Bonjour à toutes et à tous. Dans ce module, nous allons parler des biais cognitifs, c'est-à-dire des raccourcis que prend notre cerveau pour décider vite, et qui nous conduisent parfois à des erreurs. Prenons le plus connu : le biais de confirmation. Il consiste à rechercher et à retenir en priorité les informations qui confirment ce que nous pensons déjà. Si je suis persuadé qu'un restaurant est mauvais, je remarquerai chaque plat raté et j'oublierai les bons. Attention : ces biais ne sont pas des signes de bêtise. Ils concernent tout le monde, y compris les experts. Ils nous ont même probablement aidés à survivre, quand il fallait réagir en une fraction de seconde. Le problème, c'est qu'ils sont mal adaptés à des questions complexes. L'objectif de ce cours n'est donc pas de les supprimer, ce qui est impossible, mais d'apprendre à les reconnaître.
+Q: Comment le professeur définit-il les biais cognitifs ? | compréhension détaillée
++ Comme des raccourcis mentaux rapides qui peuvent provoquer des erreurs. | « Des raccourcis que prend notre cerveau pour décider vite, et qui nous conduisent parfois à des erreurs. »
+- Comme des maladies du cerveau. | Ce n'est pas sa définition.
+- Comme des erreurs de calcul. | Ce n'est pas dit.
+- Comme des stratégies réservées aux experts. | Ils concernent tout le monde.
+EXP: La formule « c'est-à-dire » introduit la définition.
+Q: Quelle idée reçue le professeur veut-il écarter ? | implicite
++ Que seules les personnes peu intelligentes sont victimes de ces biais. | « Ces biais ne sont pas des signes de bêtise. Ils concernent tout le monde, y compris les experts. »
+- Que le cerveau est rapide. | Il le dit lui-même.
+- Que les restaurants sont mauvais. | C'est un simple exemple.
+- Que les biais sont utiles. | Il le reconnaît en partie.
+EXP: « Attention » signale une mise en garde contre une interprétation erronée.
+Q: Quel est l'objectif du cours ? | synthèse
++ Apprendre à identifier ses biais, puisqu'on ne peut pas les éliminer. | « L'objectif… n'est donc pas de les supprimer, ce qui est impossible, mais d'apprendre à les reconnaître. »
+- Supprimer définitivement les biais. | Il dit que c'est impossible.
+- Former des experts en restauration. | Ce n'est pas le sujet.
+- Apprendre à décider plus vite. | Ce n'est pas l'objectif annoncé.
+EXP: La structure « non pas… mais » précise l'objectif par opposition.
+VOCAB: un biais = une déformation, une tendance qui fausse le jugement = Cette étude présente un biais. ; un raccourci = un moyen plus rapide = Il a pris un raccourci par la forêt. ; persuadé = convaincu = Elle est persuadée d'avoir raison. ; une fraction de seconde = un temps très court = Tout s'est joué en une fraction de seconde.
+EXPR: en priorité = d'abord, avant le reste = Il faut traiter ce dossier en priorité. ; y compris = même, en incluant = Tout le monde est venu, y compris les enfants. ; mal adapté à = qui ne convient pas bien à = Ces chaussures sont mal adaptées à la randonnée.
+
+## CO-CONF-04 | conférence | H:fr-BE
+TITRE: La ville de demain
+CONTEXTE: Extrait d'une conférence d'un urbaniste belge.
+DOC: H: Pendant des décennies, nous avons construit nos villes autour de la voiture. Les grandes avenues, les parkings, les zones commerciales en périphérie : tout était pensé pour circuler vite. Le résultat, vous le connaissez : des centres-villes bruyants, pollués, et paradoxalement souvent embouteillés. Aujourd'hui, un concept gagne du terrain : la ville du quart d'heure. L'idée est simple : chaque habitant devrait pouvoir accéder à pied ou à vélo, en quinze minutes, à l'essentiel : son travail, des commerces, une école, un médecin, un parc. Certains me répondent que c'est une utopie de riches. Je comprends l'objection : si l'on n'y prend pas garde, rendre un quartier agréable fait monter les loyers et chasse les habitants modestes. C'est pourquoi ce modèle doit s'accompagner d'une politique de logement social ambitieuse.
+Q: Quelle critique l'urbaniste fait-il des villes actuelles ? | compréhension globale
++ Elles ont été conçues pour la voiture, avec des effets négatifs. | « Nous avons construit nos villes autour de la voiture… bruyants, pollués… embouteillés. »
+- Elles manquent de parkings. | Il critique justement leur omniprésence.
+- Elles sont trop petites. | Ce n'est pas dit.
+- Elles ont trop d'espaces verts. | Ce n'est pas évoqué.
+EXP: Le mot « paradoxalement » souligne qu'une ville conçue pour circuler vite finit embouteillée.
+Q: En quoi consiste la « ville du quart d'heure » ? | compréhension détaillée
++ Pouvoir accéder aux services essentiels à pied ou à vélo en quinze minutes. | « Accéder à pied ou à vélo, en quinze minutes, à l'essentiel. »
+- Limiter les trajets en voiture à quinze minutes. | Il s'agit de marche et de vélo.
+- Construire une ville en quinze ans. | Ce n'est pas le sens.
+- Réduire la journée de travail. | Ce n'est pas le sujet.
+EXP: L'énumération qui suit les deux-points détaille ce que recouvre « l'essentiel ».
+Q: Comment l'urbaniste répond-il à l'objection de « l'utopie de riches » ? | argumentation
++ Il la juge fondée et propose d'y remédier par le logement social. | « Je comprends l'objection… C'est pourquoi ce modèle doit s'accompagner d'une politique de logement social ambitieuse. »
+- Il la rejette catégoriquement. | Il dit la comprendre.
+- Il abandonne son projet. | Il maintient le modèle.
+- Il propose de réserver ces quartiers aux riches. | C'est le risque qu'il veut éviter.
+EXP: Il concède le risque de hausse des loyers, puis présente une solution : c'est une réfutation nuancée.
+VOCAB: la périphérie = la zone autour du centre-ville = Les supermarchés sont en périphérie. ; embouteillé = bloqué par la circulation = Le périphérique est embouteillé chaque matin. ; une utopie = un projet idéal mais irréalisable = La paix universelle est-elle une utopie ? ; une objection = un argument opposé = Avez-vous des objections ?
+EXPR: gagner du terrain = progresser, se développer = Le télétravail gagne du terrain. ; si l'on n'y prend pas garde = si l'on ne fait pas attention = Si l'on n'y prend pas garde, la situation empirera. ; pensé pour = conçu en fonction de = Cet appartement est pensé pour les familles.
+
+## CO-CONF-05 | émission scientifique | F:fr-FR, H:fr-FR
+TITRE: Les forêts et le climat
+CONTEXTE: Une journaliste scientifique interroge un écologue forestier.
+DOC: F: On entend souvent qu'il suffirait de planter des milliards d'arbres pour régler le problème climatique. Qu'en pensez-vous ? / H: C'est une idée séduisante, mais trompeuse. Un arbre jeune absorbe peu de carbone. Il lui faut des décennies pour jouer un rôle important. Et pendant ce temps, si nos émissions continuent, l'effet sera dérisoire. / F: Planter des arbres serait donc inutile ? / H: Je n'ai pas dit ça. C'est utile, à condition de planter des espèces variées, adaptées au sol, et de les entretenir. Mais la priorité absolue, c'est de protéger les forêts anciennes qui existent déjà. Une forêt primaire stocke bien plus de carbone qu'une plantation récente, et elle abrite une biodiversité irremplaçable. Couper une vieille forêt pour planter ailleurs, c'est perdre au change.
+Q: Que pense le scientifique de l'idée de planter des milliards d'arbres ? | point de vue
++ Qu'elle est attrayante mais ne suffit pas à résoudre le problème. | « C'est une idée séduisante, mais trompeuse… l'effet sera dérisoire. »
+- Qu'elle est la meilleure solution. | Il la juge trompeuse.
+- Qu'elle est dangereuse pour la planète. | Il ne dit pas cela.
+- Qu'elle est déjà réalisée. | Ce n'est pas mentionné.
+EXP: Le couple « séduisante, mais trompeuse » exprime une évaluation nuancée.
+Q: Comment réagit-il quand la journaliste conclut que planter est inutile ? | argumentation
++ Il corrige cette interprétation en posant des conditions. | « Je n'ai pas dit ça. C'est utile, à condition de… »
+- Il approuve sa conclusion. | Il la rejette.
+- Il change de sujet. | Il répond directement.
+- Il dit qu'il faut arrêter de planter. | Ce n'est pas son avis.
+EXP: La journaliste reformule de façon excessive ; il rectifie et nuance.
+Q: Quelle est, selon lui, la priorité ? | synthèse
++ Préserver les forêts anciennes existantes. | « La priorité absolue, c'est de protéger les forêts anciennes qui existent déjà. »
+- Planter une seule espèce à croissance rapide. | Il recommande des espèces variées.
+- Réduire le nombre d'arbres. | Ce n'est pas dit.
+- Couper les vieilles forêts pour en planter de nouvelles. | Il condamne cette pratique.
+EXP: « Perdre au change » résume l'idée qu'une forêt ancienne vaut plus qu'une plantation récente.
+VOCAB: séduisant = attirant = Son offre est séduisante. ; trompeur = qui donne une fausse impression = Les apparences sont trompeuses. ; dérisoire = insignifiant, très faible = Il a reçu une somme dérisoire. ; une forêt primaire = une forêt jamais exploitée par l'homme = L'Amazonie abrite de vastes forêts primaires.
+EXPR: perdre au change = faire un échange désavantageux = En vendant sa maison, il a perdu au change. ; à condition de = seulement si = Tu peux sortir à condition de rentrer tôt. ; je n'ai pas dit ça = vous déformez mes propos = Je n'ai pas dit ça, j'ai dit qu'il fallait attendre.
+
+## CO-CONF-06 | conférence | F:fr-CA
+TITRE: Le multilinguisme chez l'enfant
+CONTEXTE: Extrait d'une conférence d'une linguiste québécoise destinée aux parents.
+DOC: F: Beaucoup de parents s'inquiètent : en exposant leur enfant à deux ou trois langues, ne risquent-ils pas de le perturber, de retarder sa parole ? Les recherches des trente dernières années sont plutôt rassurantes. Il est vrai qu'un enfant bilingue peut parfois mélanger les langues, ou avoir un vocabulaire un peu plus réduit dans chacune d'elles à un moment donné. Mais si l'on additionne les mots qu'il connaît dans ses deux langues, il est généralement au même niveau qu'un enfant monolingue. Et ce mélange n'est pas un signe de confusion : c'est une stratégie, il utilise le mot qui lui vient le plus vite. Mon conseil est simple : parlez à votre enfant dans la langue où vous êtes le plus à l'aise, celle dans laquelle vous pouvez chanter, plaisanter, consoler. Une langue transmise avec affection vaut mieux qu'une langue apprise par obligation.
+Q: Quelle inquiétude des parents la linguiste évoque-t-elle ? | compréhension globale
++ Que plusieurs langues troublent l'enfant ou ralentissent son apprentissage de la parole. | « Ne risquent-ils pas de le perturber, de retarder sa parole ? »
+- Que l'enfant refuse de parler. | Ce n'est pas dit.
+- Que l'école interdise les autres langues. | Ce n'est pas mentionné.
+- Que les langues étrangères coûtent cher. | Ce n'est pas évoqué.
+EXP: La question qu'elle pose reformule les craintes des parents.
+Q: Comment interprète-t-elle le fait qu'un enfant bilingue mélange les langues ? | argumentation
++ Comme une stratégie efficace et non comme une confusion. | « Ce mélange n'est pas un signe de confusion : c'est une stratégie. »
+- Comme un trouble du langage. | Elle le nie.
+- Comme un signe de paresse. | Ce n'est pas dit.
+- Comme la preuve qu'il faut abandonner une langue. | Elle ne le recommande pas.
+EXP: Elle requalifie un phénomène vu comme négatif en comportement adaptatif.
+Q: Quel conseil donne-t-elle aux parents ? | synthèse
++ Parler à l'enfant dans la langue qu'ils maîtrisent et ressentent le mieux. | « Parlez à votre enfant dans la langue où vous êtes le plus à l'aise. »
+- Parler uniquement la langue du pays. | Ce n'est pas son conseil.
+- Inscrire l'enfant à des cours intensifs. | Elle oppose l'affection à l'obligation.
+- Éviter les chansons. | Elle les cite comme un atout.
+EXP: La dernière phrase résume la thèse : la qualité affective de la transmission compte plus que la contrainte.
+VOCAB: perturber = troubler, déranger = Le bruit perturbe son sommeil. ; monolingue = qui ne parle qu'une langue = Les enfants monolingues ne sont pas plus avancés. ; à l'aise = détendu, sans difficulté = Elle est à l'aise en public. ; consoler = réconforter quelqu'un qui a de la peine = Il a consolé son ami.
+EXPR: à un moment donné = à un certain moment = À un moment donné, il faudra choisir. ; plutôt rassurant = qui calme plutôt les inquiétudes = Les résultats sont plutôt rassurants. ; valoir mieux que = être préférable à = Un bon accord vaut mieux qu'un long procès.
+
+## CO-CONF-07 | émission radio | H:fr-FR, F:fr-FR
+TITRE: Faut-il avoir peur des robots au travail ?
+CONTEXTE: Un animateur interroge une économiste spécialiste de l'automatisation.
+DOC: H: On annonce régulièrement que les robots et l'intelligence artificielle vont supprimer la moitié des emplois. Vous y croyez ? / F: Ces chiffres spectaculaires viennent souvent d'études qui comptent les tâches automatisables, pas les emplois. Or un métier est un ensemble de tâches. Si une machine en prend en charge une partie, le métier se transforme plus souvent qu'il ne disparaît. Les guichets automatiques n'ont pas fait disparaître les employés de banque ; ils ont changé leur rôle, davantage tourné vers le conseil. / H: Donc, pas d'inquiétude ? / F: Je ne dirais pas cela. Les transitions sont souvent brutales pour les personnes concernées, surtout les moins qualifiées. Le vrai défi n'est pas la fin du travail, mais la formation : permettre à chacun de se requalifier tout au long de sa vie.
+Q: Pourquoi l'économiste conteste-t-elle les chiffres annoncés ? | argumentation
++ Parce qu'ils confondent tâches automatisables et emplois supprimés. | « Des études qui comptent les tâches automatisables, pas les emplois. »
+- Parce qu'ils sont trop anciens. | Ce n'est pas dit.
+- Parce qu'ils viennent d'entreprises de robotique. | Ce n'est pas mentionné.
+- Parce qu'ils sous-estiment l'automatisation. | Elle pense qu'ils l'exagèrent.
+EXP: Son raisonnement repose sur la distinction entre une tâche et un métier.
+Q: Quel rôle joue l'exemple des guichets automatiques ? | argumentation
++ Il illustre la transformation d'un métier plutôt que sa disparition. | « Ils ont changé leur rôle, davantage tourné vers le conseil. »
+- Il prouve que les banques ferment. | Ce n'est pas dit.
+- Il montre que les machines sont inefficaces. | Ce n'est pas le sens.
+- Il annonce la fin des employés de banque. | Elle dit le contraire.
+EXP: L'exemple concret appuie l'idée générale énoncée juste avant.
+Q: Quel est, selon elle, le principal défi ? | synthèse
++ La formation continue des travailleurs. | « Le vrai défi n'est pas la fin du travail, mais la formation. »
+- L'interdiction des robots. | Ce n'est pas proposé.
+- La baisse des salaires. | Ce n'est pas évoqué.
+- La fin du travail. | Elle l'écarte explicitement.
+EXP: « Pas… mais » oppose la crainte courante à la véritable question selon elle.
+VOCAB: automatisable = qui peut être réalisé par une machine = Cette tâche est facilement automatisable. ; un guichet automatique = une machine qui distribue de l'argent = Il a retiré de l'argent au guichet automatique. ; brutal = soudain et violent = Le changement a été brutal. ; se requalifier = acquérir de nouvelles compétences professionnelles = Il s'est requalifié dans l'informatique.
+EXPR: prendre en charge = s'occuper de, assumer = La machine prend en charge le tri. ; tout au long de sa vie = pendant toute la vie = On apprend tout au long de sa vie. ; je ne dirais pas cela = je ne suis pas d'accord avec cette conclusion = Facile ? Je ne dirais pas cela.
+
+## CO-CONF-08 | conférence | H:fr-FR
+TITRE: L'art de la négociation
+CONTEXTE: Extrait d'une conférence donnée dans une école de commerce.
+DOC: H: Quand on pense négociation, on imagine souvent un bras de fer, où l'un gagne ce que l'autre perd. C'est rarement la meilleure approche. Dans la plupart des cas, les deux parties ont des intérêts qui ne sont pas totalement opposés. Je vous donne un exemple classique : deux sœurs se disputent une orange. Elles finissent par la couper en deux. Or l'une voulait le jus, l'autre seulement l'écorce pour un gâteau. Si elles s'étaient demandé pourquoi chacune voulait l'orange, elles auraient pu avoir chacune la totalité de ce qu'elles souhaitaient. La leçon est simple : avant de discuter des positions, interrogez-vous sur les besoins réels. Cela demande de poser des questions et surtout d'écouter, ce que nous faisons beaucoup moins bien que nous le croyons.
+Q: Quelle conception de la négociation le conférencier critique-t-il ? | compréhension globale
++ Celle d'un affrontement où le gain de l'un est la perte de l'autre. | « Un bras de fer, où l'un gagne ce que l'autre perd. C'est rarement la meilleure approche. »
+- Celle d'une discussion fondée sur l'écoute. | C'est ce qu'il recommande.
+- Celle d'un accord entre amis. | Ce n'est pas dit.
+- Celle d'une négociation écrite. | Ce n'est pas évoqué.
+EXP: L'image du « bras de fer » représente l'approche conflictuelle qu'il rejette.
+Q: Que montre l'exemple de l'orange ? | argumentation
++ Comprendre les besoins de chacun permet un accord plus satisfaisant. | « Si elles s'étaient demandé pourquoi chacune voulait l'orange, elles auraient pu avoir chacune la totalité de ce qu'elles souhaitaient. »
+- Le partage égal est toujours la meilleure solution. | L'exemple montre ses limites.
+- Les sœurs se disputent souvent. | C'est un détail sans portée.
+- Il faut toujours céder. | Ce n'est pas la leçon.
+EXP: Le conditionnel passé (« auraient pu ») souligne l'occasion manquée.
+Q: Quelle difficulté le conférencier souligne-t-il à la fin ? | implicite
++ Nous surestimons notre capacité à écouter. | « Ce que nous faisons beaucoup moins bien que nous le croyons. »
+- Il est impossible de poser des questions. | Ce n'est pas dit.
+- Les négociations durent trop longtemps. | Ce n'est pas évoqué.
+- Les intérêts sont toujours opposés. | Il dit le contraire.
+EXP: La comparaison « moins bien que nous le croyons » révèle un écart entre perception et réalité.
+VOCAB: une partie = une personne ou un groupe engagé dans un accord = Les deux parties ont signé. ; l'écorce = la peau d'un fruit comme l'orange = On utilise l'écorce de citron en pâtisserie. ; la totalité = l'ensemble, le tout = Il a payé la totalité de la somme. ; une position = ce qu'on demande officiellement = Chacun reste sur ses positions.
+EXPR: un bras de fer = un affrontement entre deux forces = Le bras de fer entre syndicats et patronat continue. ; se disputer quelque chose = chercher à obtenir la même chose qu'un autre = Les enfants se disputent le jouet. ; la leçon est simple = la conclusion à retenir est claire = La leçon est simple : il faut écouter.

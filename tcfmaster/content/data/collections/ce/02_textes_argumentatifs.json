@@ -1,0 +1,1179 @@
+{
+ "slug": "ce-textes-argumentatifs",
+ "section": "CE",
+ "title": "Textes argumentatifs",
+ "description": "Essais et tribunes : repérer la thèse, les arguments, les exemples, les concessions et les connecteurs logiques.",
+ "order": 2,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CE-ARG-01",
+   "level": "B2",
+   "doc_type": "essai",
+   "questions": [
+    {
+     "prompt": "Quelle est la thèse de l'auteur ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Il faut s'ennuyer le plus souvent possible.",
+       "correct": false,
+       "rationale": "Il précise qu'« il ne s'agit pas d'en faire un idéal ».",
+       "label": "A"
+      },
+      {
+       "text": "L'ennui conduit toujours à la tristesse.",
+       "correct": false,
+       "rationale": "C'est une objection qu'il nuance.",
+       "label": "B"
+      },
+      {
+       "text": "De courts moments d'ennui sont bénéfiques pour l'esprit.",
+       "correct": true,
+       "rationale": "« L'ennui a mauvaise réputation à tort » ; « ces petites pauses où la pensée vagabonde ».",
+       "label": "C"
+      },
+      {
+       "text": "Les téléphones rendent les gens plus créatifs.",
+       "correct": false,
+       "rationale": "Il suggère l'inverse.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La thèse apparaît après « Pourtant », qui s'oppose à l'opinion commune décrite au début."
+    },
+    {
+     "prompt": "Quel rôle joue la question « Combien de solutions sont apparues sous la douche… ? »",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Elle demande une statistique précise.",
+       "correct": false,
+       "rationale": "C'est une question rhétorique, sans réponse attendue.",
+       "label": "A"
+      },
+      {
+       "text": "Elle sert d'exemple familier pour convaincre le lecteur.",
+       "correct": true,
+       "rationale": "Elle fait appel à l'expérience personnelle du lecteur pour illustrer le lien entre rêverie et créativité.",
+       "label": "B"
+      },
+      {
+       "text": "Elle introduit une objection.",
+       "correct": false,
+       "rationale": "L'objection vient au paragraphe suivant.",
+       "label": "C"
+      },
+      {
+       "text": "Elle critique les psychologues.",
+       "correct": false,
+       "rationale": "Elle prolonge au contraire leur observation.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Une question rhétorique n'attend pas de réponse : elle implique le lecteur et rend l'argument plus vivant."
+    },
+    {
+     "prompt": "Comment l'auteur répond-il à l'objection du troisième paragraphe ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Il change de sujet.",
+       "correct": false,
+       "rationale": "Il reste sur la question de l'ennui.",
+       "label": "A"
+      },
+      {
+       "text": "Il abandonne sa thèse.",
+       "correct": false,
+       "rationale": "Il la reformule en conclusion.",
+       "label": "B"
+      },
+      {
+       "text": "Il la rejette totalement.",
+       "correct": false,
+       "rationale": "Il commence par dire « C'est vrai ».",
+       "label": "C"
+      },
+      {
+       "text": "Il l'accepte en partie puis distingue deux formes d'ennui.",
+       "correct": true,
+       "rationale": "« C'est vrai… Mais entre l'ennui subi pendant des journées entières et quelques minutes de disponibilité mentale, il y a une différence de nature. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La concession (« C'est vrai ») suivie d'une distinction (« Mais… ») est une stratégie typique de réfutation nuancée."
+    }
+   ],
+   "title": "Éloge de l'ennui",
+   "document": "Nous vivons à l'époque où l'ennui est devenu l'ennemi public. Dans une file d'attente, dans les transports, au moindre temps mort, nous saisissons notre téléphone comme on se jette sur une bouée. Il faut, croit-on, que chaque minute soit utile ou distrayante.\n\nPourtant, l'ennui a mauvaise réputation à tort. Les psychologues observent que les moments sans stimulation favorisent la rêverie, et que la rêverie est souvent le terreau de la créativité. C'est quand l'esprit n'est sollicité par rien qu'il commence à relier des idées éloignées. Combien de solutions sont apparues sous la douche ou pendant une promenade sans but ?\n\nOn objectera que l'ennui prolongé peut devenir pénible, voire mener à la tristesse. C'est vrai, et il ne s'agit pas d'en faire un idéal. Mais entre l'ennui subi pendant des journées entières et quelques minutes de disponibilité mentale, il y a une différence de nature. Ce que nous perdons aujourd'hui, ce ne sont pas des heures d'ennui, ce sont ces petites pauses où la pensée vagabonde. Les réapprendre serait peut-être le plus simple des remèdes à notre fatigue collective.",
+   "vocabulary": [
+    {
+     "terme": "un temps mort",
+     "definition": "un moment sans activité",
+     "exemple": "Il profite des temps morts pour lire."
+    },
+    {
+     "terme": "le terreau",
+     "definition": "ce qui favorise le développement de quelque chose",
+     "exemple": "La pauvreté est le terreau de la violence."
+    },
+    {
+     "terme": "vagabonder",
+     "definition": "errer sans but",
+     "exemple": "Son esprit vagabondait pendant le cours."
+    },
+    {
+     "terme": "subi",
+     "definition": "imposé, non choisi",
+     "exemple": "Le temps partiel subi touche surtout les femmes."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "l'ennemi public",
+     "sens": "ce que tout le monde combat",
+     "exemple": "Le gaspillage est devenu l'ennemi public."
+    },
+    {
+     "expression": "à tort",
+     "sens": "de façon injuste ou erronée",
+     "exemple": "Il a été accusé à tort."
+    },
+    {
+     "expression": "une différence de nature",
+     "sens": "une différence fondamentale, pas seulement de degré",
+     "exemple": "Entre un conseil et un ordre, il y a une différence de nature."
+    }
+   ],
+   "traps": [
+    "Le premier paragraphe décrit l'opinion commune, pas celle de l'auteur.",
+    "« On objectera que… » introduit un argument adverse.",
+    "L'auteur ne défend pas l'ennui prolongé."
+   ]
+  },
+  {
+   "code": "CE-ARG-02",
+   "level": "B2",
+   "doc_type": "tribune",
+   "questions": [
+    {
+     "prompt": "Selon l'auteur, qu'est-ce qui empêche un vrai débat ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Une opposition simpliste entre deux camps.",
+       "correct": true,
+       "rationale": "« Cette opposition caricaturale empêche de poser la vraie question. »",
+       "label": "A"
+      },
+      {
+       "text": "Le manque d'études sur le sujet.",
+       "correct": false,
+       "rationale": "Il cite des études existantes.",
+       "label": "B"
+      },
+      {
+       "text": "L'absence de transports en commun.",
+       "correct": false,
+       "rationale": "C'est une condition de réussite, pas l'obstacle au débat.",
+       "label": "C"
+      },
+      {
+       "text": "Le refus des commerçants de s'exprimer.",
+       "correct": false,
+       "rationale": "Ils s'expriment en prédisant « leur ruine ».",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Caricatural » signifie exagéré et simplifié ; l'auteur reproche aux deux camps de déformer la question."
+    },
+    {
+     "prompt": "Que montrent les études citées ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Les rues piétonnes sont en général favorables aux commerces.",
+       "correct": true,
+       "rationale": "« La piétonnisation, contrairement aux craintes, profite généralement au commerce. »",
+       "label": "A"
+      },
+      {
+       "text": "Les embouteillages disparaissent partout.",
+       "correct": false,
+       "rationale": "Ils peuvent se déplacer.",
+       "label": "B"
+      },
+      {
+       "text": "Les automobilistes achètent davantage.",
+       "correct": false,
+       "rationale": "Le texte suggère l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Les commerces ferment dans les rues piétonnes.",
+       "correct": false,
+       "rationale": "C'est la crainte qu'elles démentent.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Contrairement aux craintes » oppose les résultats aux prédictions des commerçants."
+    },
+    {
+     "prompt": "Que signifie l'image du « tuyau à voitures » ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les voitures polluent les canalisations.",
+       "correct": false,
+       "rationale": "Lecture littérale erronée.",
+       "label": "A"
+      },
+      {
+       "text": "Une rue ne doit pas être pensée uniquement pour faire circuler les véhicules.",
+       "correct": true,
+       "rationale": "« Une rue n'est pas seulement un tuyau à voitures ; c'est un lieu où l'on vit, travaille et se rencontre. »",
+       "label": "B"
+      },
+      {
+       "text": "Les rues doivent être plus larges.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "C"
+      },
+      {
+       "text": "Il faut construire des tunnels.",
+       "correct": false,
+       "rationale": "C'est une métaphore.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La métaphore réduit la rue à une fonction de passage, pour mieux la critiquer."
+    }
+   ],
+   "title": "Faut-il interdire les voitures en centre-ville ?",
+   "document": "Chaque fois qu'une municipalité ferme une rue à la circulation, la même querelle éclate. D'un côté, les défenseurs de l'environnement saluent une victoire ; de l'autre, les commerçants prédisent leur ruine. Cette opposition caricaturale empêche de poser la vraie question : à quoi doit servir l'espace public ?\n\nLes études menées dans plusieurs villes européennes montrent que la piétonnisation, contrairement aux craintes, profite généralement au commerce. Un piéton s'arrête, regarde les vitrines, revient ; un automobiliste traverse. Encore faut-il que la mesure soit accompagnée : des transports en commun efficaces, des parkings aux entrées de la ville, des livraisons organisées. Sans cela, la fermeture d'une rue ne fait que déplacer les embouteillages vers les quartiers voisins.\n\nIl ne s'agit donc pas de choisir entre la voiture et la ville, mais de cesser de considérer la circulation automobile comme un droit absolu. Une rue n'est pas seulement un tuyau à voitures ; c'est un lieu où l'on vit, travaille et se rencontre.",
+   "vocabulary": [
+    {
+     "terme": "une querelle",
+     "definition": "une dispute, un désaccord vif",
+     "exemple": "La querelle dure depuis des années."
+    },
+    {
+     "terme": "la piétonnisation",
+     "definition": "la transformation d'une rue en zone réservée aux piétons",
+     "exemple": "La piétonnisation du centre a été votée."
+    },
+    {
+     "terme": "une vitrine",
+     "definition": "la façade vitrée d'un magasin",
+     "exemple": "Elle regarde les vitrines."
+    },
+    {
+     "terme": "absolu",
+     "definition": "sans limite, sans exception",
+     "exemple": "Ce n'est pas un droit absolu."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "crier victoire / saluer une victoire",
+     "sens": "se réjouir d'un succès",
+     "exemple": "Les écologistes saluent une victoire."
+    },
+    {
+     "expression": "prédire la ruine",
+     "sens": "annoncer une faillite",
+     "exemple": "Les commerçants prédisent leur ruine."
+    },
+    {
+     "expression": "encore faut-il que",
+     "sens": "à condition que",
+     "exemple": "Encore faut-il que les élèves comprennent."
+    }
+   ],
+   "traps": [
+    "Le premier paragraphe présente les deux camps sans prendre parti.",
+    "« Encore faut-il » introduit une condition, pas une opposition.",
+    "L'auteur ne propose pas d'interdire totalement la voiture."
+   ]
+  },
+  {
+   "code": "CE-ARG-03",
+   "level": "B2",
+   "doc_type": "essai",
+   "questions": [
+    {
+     "prompt": "Pourquoi l'auteur cite-t-il Platon ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Pour soutenir que les jeunes sont insolents.",
+       "correct": false,
+       "rationale": "Il invite au contraire à la méfiance.",
+       "label": "A"
+      },
+      {
+       "text": "Pour prouver que la politesse vient de Grèce.",
+       "correct": false,
+       "rationale": "Ce n'est pas le propos.",
+       "label": "B"
+      },
+      {
+       "text": "Pour montrer que la plainte contre la jeunesse est très ancienne.",
+       "correct": true,
+       "rationale": "« Ce constat, répété de génération en génération… Platon déplorait déjà l'insolence de la jeunesse. »",
+       "label": "C"
+      },
+      {
+       "text": "Pour introduire un débat philosophique.",
+       "correct": false,
+       "rationale": "C'est un simple exemple.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'exemple historique relativise une plainte présentée comme nouvelle."
+    },
+    {
+     "prompt": "Selon l'auteur, comment la politesse a-t-elle évolué ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Elle ne concerne plus que l'écrit.",
+       "correct": false,
+       "rationale": "Le troisième paragraphe parle de l'attention à autrui.",
+       "label": "A"
+      },
+      {
+       "text": "Elle est devenue plus simple à respecter.",
+       "correct": false,
+       "rationale": "Les nouveaux codes sont « parfois plus exigeants ».",
+       "label": "B"
+      },
+      {
+       "text": "Elle a totalement disparu.",
+       "correct": false,
+       "rationale": "« La politesse n'a pas disparu. »",
+       "label": "C"
+      },
+      {
+       "text": "De nouvelles règles sont apparues avec les outils numériques.",
+       "correct": true,
+       "rationale": "« On ne répond pas en majuscules, on ne transfère pas un message privé sans autorisation. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Elle a changé de forme » résume l'idée d'une transformation plutôt que d'une disparition."
+    },
+    {
+     "prompt": "À quoi l'auteur attribue-t-il le recul de la politesse ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Aux réseaux sociaux uniquement.",
+       "correct": false,
+       "rationale": "Il parle d'un mode de vie en général.",
+       "label": "A"
+      },
+      {
+       "text": "Au mépris des jeunes pour les adultes.",
+       "correct": false,
+       "rationale": "Il écarte le mépris.",
+       "label": "B"
+      },
+      {
+       "text": "À l'école, qui ne l'enseigne plus.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "À un rythme de vie trop pressé.",
+       "correct": true,
+       "rationale": "« Un mode de vie où la précipitation laisse peu de place aux égards… par manque de temps. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La structure « moins par… que par… » écarte une explication au profit d'une autre."
+    }
+   ],
+   "title": "La politesse est-elle dépassée ?",
+   "document": "On entend souvent dire que la politesse se perd. Les jeunes ne diraient plus bonjour, les courriels commenceraient sans formule, et chacun garderait les yeux rivés sur son écran. Ce constat, répété de génération en génération, mérite d'être examiné avec méfiance : Platon déplorait déjà l'insolence de la jeunesse.\n\nLa politesse n'a pas disparu ; elle a changé de forme. Les conventions de l'écrit se sont simplifiées, mais de nouvelles règles sont apparues : on ne répond pas en majuscules, on ne transfère pas un message privé sans autorisation. Ces codes sont parfois plus exigeants que les anciens, car ils s'appliquent dans des situations où l'on est constamment visible.\n\nReste que la politesse n'est pas qu'une affaire de formules. Elle repose sur l'attention portée à autrui : laisser parler, remercier, ne pas faire attendre. Sur ce point, ce n'est pas une génération qui est en cause, mais un mode de vie où la précipitation laisse peu de place aux égards. Si la politesse recule, c'est moins par mépris que par manque de temps.",
+   "vocabulary": [
+    {
+     "terme": "rivé",
+     "definition": "fixé, attaché sans pouvoir s'en détacher",
+     "exemple": "Il a les yeux rivés sur l'écran."
+    },
+    {
+     "terme": "déplorer",
+     "definition": "regretter, se plaindre de",
+     "exemple": "Elle déplore le manque de moyens."
+    },
+    {
+     "terme": "l'insolence",
+     "definition": "le manque de respect",
+     "exemple": "Son insolence a choqué le professeur."
+    },
+    {
+     "terme": "les égards",
+     "definition": "les marques de respect et d'attention",
+     "exemple": "Il l'a traitée avec beaucoup d'égards."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "avec méfiance",
+     "sens": "avec prudence, sans croire facilement",
+     "exemple": "Il accueille ces promesses avec méfiance."
+    },
+    {
+     "expression": "reste que",
+     "sens": "il n'en demeure pas moins que",
+     "exemple": "Reste que le problème n'est pas réglé."
+    },
+    {
+     "expression": "être en cause",
+     "sens": "être responsable",
+     "exemple": "Ce n'est pas votre travail qui est en cause."
+    }
+   ],
+   "traps": [
+    "Le conditionnel du premier paragraphe rapporte une opinion répandue, pas celle de l'auteur.",
+    "« Reste que » introduit une nuance, pas une contradiction totale.",
+    "L'auteur ne nie pas que la politesse recule",
+    "il en change l'explication."
+   ]
+  },
+  {
+   "code": "CE-ARG-04",
+   "level": "B2",
+   "doc_type": "tribune",
+   "questions": [
+    {
+     "prompt": "Quelle est la position de l'auteur ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Il veut supprimer le service civique.",
+       "correct": false,
+       "rationale": "Il dit qu'il « fonctionne bien ».",
+       "label": "A"
+      },
+      {
+       "text": "Il est opposé à l'obligation mais favorable au développement du volontariat.",
+       "correct": true,
+       "rationale": "« L'obligation pose problème… mieux vaudrait le rendre plus attractif. »",
+       "label": "B"
+      },
+      {
+       "text": "Il n'exprime pas d'avis.",
+       "correct": false,
+       "rationale": "Sa position est claire.",
+       "label": "C"
+      },
+      {
+       "text": "Il est favorable au service civique obligatoire.",
+       "correct": false,
+       "rationale": "Il en critique l'obligation.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La concession « L'intention est louable, mais » annonce une critique."
+    },
+    {
+     "prompt": "Quel argument concerne les inégalités sociales ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "L'encadrement serait trop coûteux.",
+       "correct": false,
+       "rationale": "C'est un argument pratique.",
+       "label": "A"
+      },
+      {
+       "text": "Les associations manquent de bénévoles.",
+       "correct": false,
+       "rationale": "Ce n'est pas un argument sur les inégalités.",
+       "label": "B"
+      },
+      {
+       "text": "Le retard d'entrée dans les études ou l'emploi nuirait surtout aux plus modestes.",
+       "correct": true,
+       "rationale": "« Pénaliserait surtout ceux qui ont le moins de ressources. »",
+       "label": "C"
+      },
+      {
+       "text": "La solidarité ne se décrète pas.",
+       "correct": false,
+       "rationale": "C'est un argument de principe.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les trois arguments sont annoncés par « D'abord », « Ensuite », « Enfin » : il faut identifier celui qui porte sur les inégalités."
+    },
+    {
+     "prompt": "Que signifie « on ne fabrique pas de la solidarité par décret » ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Un engagement sincère ne peut pas être imposé par la loi.",
+       "correct": true,
+       "rationale": "La phrase suit « un engagement imposé perd une partie de son sens ».",
+       "label": "A"
+      },
+      {
+       "text": "Le gouvernement manque de décrets.",
+       "correct": false,
+       "rationale": "Lecture littérale erronée.",
+       "label": "B"
+      },
+      {
+       "text": "Les jeunes refusent toute solidarité.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "La solidarité est une industrie.",
+       "correct": false,
+       "rationale": "« Fabriquer » est employé au sens figuré.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Un décret est une décision officielle ; l'auteur oppose la contrainte légale à l'engagement volontaire."
+    }
+   ],
+   "title": "Pour un service civique obligatoire ?",
+   "document": "L'idée revient régulièrement dans le débat public : instaurer un service civique obligatoire de six mois pour tous les jeunes. Ses partisans y voient un moyen de renforcer la cohésion nationale, de faire se rencontrer des jeunes de milieux différents et de répondre aux besoins des associations, des hôpitaux ou des écoles.\n\nL'intention est louable, mais l'obligation pose problème. D'abord, un engagement imposé perd une partie de son sens : on ne fabrique pas de la solidarité par décret. Ensuite, accueillir chaque année près de 800 000 jeunes exigerait un encadrement considérable, que les structures concernées, déjà débordées, seraient bien incapables d'assurer. Enfin, retarder de six mois l'entrée dans les études ou dans l'emploi pénaliserait surtout ceux qui ont le moins de ressources.\n\nLe service civique volontaire existe déjà et fonctionne bien. Plutôt que de le rendre obligatoire, mieux vaudrait le rendre plus attractif : une meilleure indemnité, une reconnaissance dans les parcours d'études, des missions mieux préparées. On obtiendrait alors l'adhésion plutôt que la contrainte.",
+   "vocabulary": [
+    {
+     "terme": "instaurer",
+     "definition": "établir, mettre en place",
+     "exemple": "Le gouvernement a instauré une nouvelle taxe."
+    },
+    {
+     "terme": "la cohésion",
+     "definition": "l'union, la solidarité entre les membres d'un groupe",
+     "exemple": "La cohésion de l'équipe est remarquable."
+    },
+    {
+     "terme": "louable",
+     "definition": "digne d'éloges",
+     "exemple": "Son initiative est louable."
+    },
+    {
+     "terme": "une indemnité",
+     "definition": "une somme versée pour compenser",
+     "exemple": "Les volontaires reçoivent une indemnité."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "par décret",
+     "sens": "par une décision officielle du gouvernement",
+     "exemple": "La mesure a été adoptée par décret."
+    },
+    {
+     "expression": "être débordé",
+     "sens": "avoir trop de travail",
+     "exemple": "Les urgences sont débordées."
+    },
+    {
+     "expression": "obtenir l'adhésion",
+     "sens": "obtenir l'accord volontaire",
+     "exemple": "Il a obtenu l'adhésion de toute l'équipe."
+    }
+   ],
+   "traps": [
+    "Les avantages du premier paragraphe sont ceux des partisans.",
+    "L'auteur ne critique pas le service civique, seulement son caractère obligatoire.",
+    "« Mieux vaudrait » introduit sa proposition."
+   ]
+  },
+  {
+   "code": "CE-ARG-05",
+   "level": "B2",
+   "doc_type": "essai",
+   "questions": [
+    {
+     "prompt": "Pourquoi les classements séduisent-ils, selon l'auteur ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Parce qu'ils donnent une impression de clarté.",
+       "correct": true,
+       "rationale": "« Ils séduisent parce qu'ils simplifient… semble offrir une réponse claire. »",
+       "label": "A"
+      },
+      {
+       "text": "Parce qu'ils sont gratuits.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Parce qu'ils sont toujours exacts.",
+       "correct": false,
+       "rationale": "L'auteur conteste leur exactitude.",
+       "label": "C"
+      },
+      {
+       "text": "Parce qu'ils sont réalisés par des experts.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le verbe « sembler » annonce déjà que cette clarté n'est qu'une apparence."
+    },
+    {
+     "prompt": "À quoi sert l'exemple de l'hôpital ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "À critiquer les patients à risque.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "A"
+      },
+      {
+       "text": "À montrer qu'un chiffre peut donner une image trompeuse.",
+       "correct": true,
+       "rationale": "Un hôpital qui accepte les cas difficiles « affichera un taux de mortalité plus élevé ».",
+       "label": "B"
+      },
+      {
+       "text": "À prouver que les hôpitaux sont dangereux.",
+       "correct": false,
+       "rationale": "Ce n'est pas le propos.",
+       "label": "C"
+      },
+      {
+       "text": "À recommander un hôpital particulier.",
+       "correct": false,
+       "rationale": "Aucun hôpital n'est nommé.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les deux exemples illustrent l'affirmation : « Le chiffre final masque ces choix. »"
+    },
+    {
+     "prompt": "Que signifie la comparaison avec la carte et le territoire ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les classements doivent inclure des cartes géographiques.",
+       "correct": false,
+       "rationale": "Lecture littérale erronée.",
+       "label": "A"
+      },
+      {
+       "text": "Il faut voyager pour juger une ville.",
+       "correct": false,
+       "rationale": "Ce n'est pas le propos.",
+       "label": "B"
+      },
+      {
+       "text": "Les classements sont parfaitement fiables.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Un classement est une représentation simplifiée de la réalité, pas la réalité elle-même.",
+       "correct": true,
+       "rationale": "« Il faudrait les lire comme on lit une carte, en sachant qu'elle n'est pas le territoire. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Une carte est utile mais simplifie et choisit : de même, un classement aide sans tout dire."
+    }
+   ],
+   "title": "Les classements, une passion trompeuse",
+   "document": "Meilleures universités, villes où il fait bon vivre, hôpitaux les plus performants : les classements envahissent les journaux et orientent nos choix. Ils séduisent parce qu'ils simplifient. Une liste numérotée semble offrir une réponse claire là où la réalité est confuse.\n\nCette clarté est pourtant largement illusoire. Tout classement repose sur des critères choisis, pondérés, parfois discutables. Une université peut gagner dix places simplement parce que l'on accorde plus d'importance au nombre de publications qu'à la qualité de l'enseignement. Un hôpital spécialisé dans les cas difficiles affichera un taux de mortalité plus élevé qu'un établissement qui refuse les patients à risque. Le chiffre final masque ces choix.\n\nIl ne s'agit pas de rejeter tout classement : bien utilisés, ils peuvent révéler des écarts réels et stimuler les progrès. Mais il faudrait les lire comme on lit une carte, en sachant qu'elle n'est pas le territoire. Avant de se fier à un rang, demandons-nous toujours ce qui a été mesuré, et surtout ce qui ne l'a pas été.",
+   "vocabulary": [
+    {
+     "terme": "pondérer",
+     "definition": "donner un poids, une importance relative",
+     "exemple": "Les notes sont pondérées par des coefficients."
+    },
+    {
+     "terme": "illusoire",
+     "definition": "qui n'est qu'une illusion",
+     "exemple": "Cet espoir est illusoire."
+    },
+    {
+     "terme": "masquer",
+     "definition": "cacher",
+     "exemple": "Ce sourire masque sa tristesse."
+    },
+    {
+     "terme": "un écart",
+     "definition": "une différence",
+     "exemple": "L'écart entre riches et pauvres augmente."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "il fait bon vivre",
+     "sens": "la vie y est agréable",
+     "exemple": "Il fait bon vivre dans cette région."
+    },
+    {
+     "expression": "se fier à",
+     "sens": "faire confiance à",
+     "exemple": "Ne te fie pas aux apparences."
+    },
+    {
+     "expression": "la carte n'est pas le territoire",
+     "sens": "une représentation n'est pas la réalité",
+     "exemple": "Un modèle reste un modèle : la carte n'est pas le territoire."
+    }
+   ],
+   "traps": [
+    "L'auteur ne rejette pas tous les classements.",
+    "« Pourtant » introduit la critique après l'explication du succès.",
+    "La dernière phrase insiste sur « ce qui ne l'a pas été » : ce qui n'est pas mesuré."
+   ]
+  },
+  {
+   "code": "CE-ARG-06",
+   "level": "B2",
+   "doc_type": "tribune",
+   "questions": [
+    {
+     "prompt": "Quelle conséquence de la culture de la peur l'auteur dénonce-t-il ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Les salariés quittent l'entreprise.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Les erreurs disparaissent.",
+       "correct": false,
+       "rationale": "Elles sont seulement cachées.",
+       "label": "B"
+      },
+      {
+       "text": "Les salariés dissimulent leurs erreurs ou cessent de prendre des initiatives.",
+       "correct": true,
+       "rationale": "« Mieux vaut cacher son erreur ou ne rien tenter. »",
+       "label": "C"
+      },
+      {
+       "text": "Les bilans comptables sont faux.",
+       "correct": false,
+       "rationale": "Le coût n'apparaît pas dans les bilans, ce qui est différent.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La phrase « apprend surtout une chose » introduit l'effet pervers du blâme."
+    },
+    {
+     "prompt": "Pourquoi l'auteur cite-t-il l'exemple de l'aviation ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Pour critiquer les pilotes.",
+       "correct": false,
+       "rationale": "Il valorise au contraire leur pratique.",
+       "label": "A"
+      },
+      {
+       "text": "Pour montrer qu'accepter le signalement des erreurs améliore la sécurité.",
+       "correct": true,
+       "rationale": "« C'est en acceptant l'erreur qu'on la rend plus rare. »",
+       "label": "B"
+      },
+      {
+       "text": "Pour proposer de supprimer les sanctions dans tous les cas.",
+       "correct": false,
+       "rationale": "Il précise « lorsqu'ils agissent de bonne foi ».",
+       "label": "C"
+      },
+      {
+       "text": "Pour dire que les avions sont dangereux.",
+       "correct": false,
+       "rationale": "Ce n'est pas le propos.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'exemple d'un secteur exigeant renforce l'argument : si cela fonctionne là, cela peut fonctionner ailleurs."
+    },
+    {
+     "prompt": "Quelle limite l'auteur fixe-t-il au droit à l'erreur ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Il ne concerne que les dirigeants.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Il ne s'applique qu'aux pilotes.",
+       "correct": false,
+       "rationale": "Il l'étend à toutes les entreprises.",
+       "label": "B"
+      },
+      {
+       "text": "Les fautes volontaires ou la négligence répétée doivent être sanctionnées.",
+       "correct": true,
+       "rationale": "« La négligence répétée ou la malhonnêteté doivent rester sanctionnées. »",
+       "label": "C"
+      },
+      {
+       "text": "Aucune limite : tout doit être toléré.",
+       "correct": false,
+       "rationale": "Il dit le contraire.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Ne signifie pas tout tolérer » prévient une interprétation excessive de sa proposition."
+    }
+   ],
+   "title": "Le droit à l'erreur en entreprise",
+   "document": "Dans beaucoup d'entreprises, l'erreur reste une faute. Celui qui se trompe est blâmé, parfois publiquement, et apprend surtout une chose : la prochaine fois, mieux vaut cacher son erreur ou ne rien tenter. Cette culture de la peur a un coût considérable, même s'il n'apparaît dans aucun bilan comptable.\n\nLes secteurs où les erreurs peuvent être mortelles l'ont compris depuis longtemps. Dans l'aviation, les pilotes sont encouragés à signaler leurs propres incidents, sans risque de sanction lorsqu'ils agissent de bonne foi. Ces signalements alimentent une base de données qui permet de corriger les procédures avant qu'un accident ne survienne. Paradoxalement, c'est en acceptant l'erreur qu'on la rend plus rare.\n\nInstaurer un droit à l'erreur ne signifie pas tout tolérer. La négligence répétée ou la malhonnêteté doivent rester sanctionnées. Mais distinguer l'erreur commise en essayant de bien faire de la faute délibérée est la condition d'une organisation capable d'apprendre. Une entreprise où personne n'ose se tromper est une entreprise où personne n'ose innover.",
+   "vocabulary": [
+    {
+     "terme": "blâmer",
+     "definition": "reprocher, critiquer",
+     "exemple": "Il a été blâmé par son supérieur."
+    },
+    {
+     "terme": "un incident",
+     "definition": "un événement imprévu, moins grave qu'un accident",
+     "exemple": "Le vol s'est déroulé sans incident."
+    },
+    {
+     "terme": "délibéré",
+     "definition": "volontaire, intentionnel",
+     "exemple": "C'était un mensonge délibéré."
+    },
+    {
+     "terme": "la négligence",
+     "definition": "le manque de soin ou d'attention",
+     "exemple": "L'accident est dû à une négligence."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "de bonne foi",
+     "sens": "sincèrement, sans intention de tromper",
+     "exemple": "Il s'est trompé de bonne foi."
+    },
+    {
+     "expression": "avoir un coût",
+     "sens": "avoir des conséquences négatives",
+     "exemple": "Ce silence a un coût."
+    },
+    {
+     "expression": "paradoxalement",
+     "sens": "de façon contraire à ce qu'on attendrait",
+     "exemple": "Paradoxalement, il travaille mieux sous pression."
+    }
+   ],
+   "traps": [
+    "Le coût de la peur « n'apparaît dans aucun bilan » : il existe mais n'est pas chiffré.",
+    "Le droit à l'erreur n'est pas une absence totale de sanction.",
+    "La dernière phrase lie erreur et innovation."
+   ]
+  },
+  {
+   "code": "CE-ARG-07",
+   "level": "B2",
+   "doc_type": "essai",
+   "questions": [
+    {
+     "prompt": "Quelle idée l'auteur remet-il en question ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Que les voyages coûtent cher.",
+       "correct": false,
+       "rationale": "Il dit l'inverse.",
+       "label": "A"
+      },
+      {
+       "text": "Que les cultures étrangères sont intéressantes.",
+       "correct": false,
+       "rationale": "Il ne le conteste pas.",
+       "label": "B"
+      },
+      {
+       "text": "Que le train est lent.",
+       "correct": false,
+       "rationale": "Il propose d'accepter cette lenteur.",
+       "label": "C"
+      },
+      {
+       "text": "Que voyager souvent et rapidement ouvre forcément l'esprit.",
+       "correct": true,
+       "rationale": "« On peut pourtant douter que le tourisme de masse tienne cette promesse. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le conditionnel « ouvrirait l'esprit » signale déjà une opinion que l'auteur ne partage pas entièrement."
+    },
+    {
+     "prompt": "Que suggère l'évocation des habitants de Venise et de Barcelone ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Le tourisme de masse a des conséquences négatives pour les populations locales.",
+       "correct": true,
+       "rationale": "« Chassés de leurs quartiers par la hausse des loyers. »",
+       "label": "A"
+      },
+      {
+       "text": "Ces villes refusent les touristes.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Les loyers ont baissé grâce au tourisme.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Les habitants voyagent beaucoup.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« En savent quelque chose » signifie qu'ils ont une expérience directe et douloureuse du problème."
+    },
+    {
+     "prompt": "Que propose l'auteur ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Des week-ends plus nombreux.",
+       "correct": false,
+       "rationale": "C'est ce qu'il critique.",
+       "label": "A"
+      },
+      {
+       "text": "Des voyages moins fréquents, plus longs et plus lents.",
+       "correct": true,
+       "rationale": "« Voyager moins souvent et plus longtemps, privilégier le train, accepter la lenteur. »",
+       "label": "B"
+      },
+      {
+       "text": "L'arrêt total des voyages.",
+       "correct": false,
+       "rationale": "« Certainement pas. »",
+       "label": "C"
+      },
+      {
+       "text": "L'interdiction des vols courts.",
+       "correct": false,
+       "rationale": "Il ne propose pas d'interdiction.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La question « Faut-il pour autant renoncer à voyager ? » prévient une conclusion excessive avant la proposition."
+    }
+   ],
+   "title": "Voyager moins, voyager mieux",
+   "document": "Jamais il n'a été aussi facile de voyager. Pour le prix d'un dîner, on peut traverser l'Europe en avion pour un week-end. Cette démocratisation du voyage est souvent présentée comme un progrès indiscutable : découvrir d'autres cultures, ne serait-ce que quelques jours, ouvrirait l'esprit.\n\nOn peut pourtant douter que le tourisme de masse tienne cette promesse. Visiter une ville en quarante-huit heures, en suivant les mêmes itinéraires que des milliers d'autres touristes, c'est souvent consommer un décor plutôt que rencontrer un pays. Les habitants de Venise ou de Barcelone, chassés de leurs quartiers par la hausse des loyers, en savent quelque chose.\n\nFaut-il pour autant renoncer à voyager ? Certainement pas. Mais on pourrait voyager moins souvent et plus longtemps, privilégier le train, accepter la lenteur comme une partie du voyage plutôt que comme une perte de temps. Le voyage retrouverait alors ce qui faisait sa valeur : le dépaysement, la rencontre, et le temps nécessaire pour comprendre un peu l'ailleurs.",
+   "vocabulary": [
+    {
+     "terme": "la démocratisation",
+     "definition": "le fait de rendre accessible à tous",
+     "exemple": "La démocratisation de l'informatique."
+    },
+    {
+     "terme": "un itinéraire",
+     "definition": "un trajet suivi",
+     "exemple": "Nous avons choisi un itinéraire touristique."
+    },
+    {
+     "terme": "le dépaysement",
+     "definition": "le changement agréable d'habitudes et de cadre",
+     "exemple": "Ce voyage offre un vrai dépaysement."
+    },
+    {
+     "terme": "l'ailleurs",
+     "definition": "les lieux lointains, différents",
+     "exemple": "Il rêve d'ailleurs."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "ne serait-ce que",
+     "sens": "même seulement",
+     "exemple": "Viens, ne serait-ce qu'une heure."
+    },
+    {
+     "expression": "en savoir quelque chose",
+     "sens": "avoir une expérience directe de",
+     "exemple": "Les parents de jeunes enfants en savent quelque chose."
+    },
+    {
+     "expression": "pour autant",
+     "sens": "malgré cela",
+     "exemple": "Il est riche, mais il n'est pas heureux pour autant."
+    }
+   ],
+   "traps": [
+    "L'auteur ne condamne pas le voyage en soi.",
+    "Le premier paragraphe présente une opinion répandue.",
+    "« Consommer un décor » s'oppose à « rencontrer un pays »."
+   ]
+  },
+  {
+   "code": "CE-ARG-08",
+   "level": "B2",
+   "doc_type": "tribune",
+   "questions": [
+    {
+     "prompt": "Que veut dire l'auteur par « la gratuité n'existe pas » ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les contribuables ne paient rien.",
+       "correct": false,
+       "rationale": "Ils paient pour les musées.",
+       "label": "A"
+      },
+      {
+       "text": "Les applications sont toujours payantes.",
+       "correct": false,
+       "rationale": "Elles peuvent être gratuites pour l'usager.",
+       "label": "B"
+      },
+      {
+       "text": "Quelqu'un finit toujours par payer le coût du service.",
+       "correct": true,
+       "rationale": "« Elle signifie seulement que le coût est payé par quelqu'un d'autre que l'usager. »",
+       "label": "C"
+      },
+      {
+       "text": "Aucun musée n'est gratuit.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'auteur explique immédiatement sa formule provocatrice."
+    },
+    {
+     "prompt": "Que montre l'exemple des musées gratuits ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "La gratuité profite surtout à ceux qui fréquentaient déjà ces lieux.",
+       "correct": true,
+       "rationale": "« Ce sont surtout les visiteurs habitués qui en ont profité. »",
+       "label": "A"
+      },
+      {
+       "text": "Les musées ont fermé.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "B"
+      },
+      {
+       "text": "Les musées perdent leurs visiteurs.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Tout le monde visite désormais les musées.",
+       "correct": false,
+       "rationale": "Les non-visiteurs ne sont pas venus.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'exemple remet en cause l'idée que la gratuité suffit à attirer un nouveau public."
+    },
+    {
+     "prompt": "Quelle solution l'auteur préfère-t-il ?",
+     "skill": "synthèse",
+     "choices": [
+      {
+       "text": "Une hausse générale des prix.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Une gratuité pour tous.",
+       "correct": false,
+       "rationale": "Il la juge moins efficace.",
+       "label": "B"
+      },
+      {
+       "text": "La fermeture des musées nationaux.",
+       "correct": false,
+       "rationale": "Ce n'est pas proposé.",
+       "label": "C"
+      },
+      {
+       "text": "Des prix selon les revenus et un accompagnement du public.",
+       "correct": true,
+       "rationale": "« Des tarifs adaptés aux revenus, accompagnés d'actions de médiation. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le conditionnel « seraient » et « sans doute » montrent une proposition prudente."
+    }
+   ],
+   "title": "La gratuité, une fausse évidence",
+   "document": "Musées, transports, applications : la gratuité est souvent présentée comme la meilleure façon de rendre un service accessible à tous. Qui pourrait s'opposer à ce qui ne coûte rien ?\n\nLa gratuité, pourtant, n'existe pas. Elle signifie seulement que le coût est payé par quelqu'un d'autre que l'usager. Pour un musée, c'est le contribuable ; pour une application, c'est souvent l'utilisateur lui-même, à travers ses données personnelles revendues à des annonceurs. Dans ce dernier cas, comme le résume une formule célèbre, si c'est gratuit, c'est que vous êtes le produit.\n\nPar ailleurs, la gratuité n'est pas toujours le moyen le plus juste d'élargir l'accès. Lorsque les musées nationaux sont devenus gratuits certains jours, ce sont surtout les visiteurs habitués qui en ont profité, pas ceux qui n'y allaient jamais. Ce qui retient ces derniers est moins le prix que le sentiment que ces lieux ne sont pas faits pour eux. Des tarifs adaptés aux revenus, accompagnés d'actions de médiation, seraient sans doute plus efficaces qu'une gratuité universelle.",
+   "vocabulary": [
+    {
+     "terme": "le contribuable",
+     "definition": "la personne qui paie des impôts",
+     "exemple": "Le contribuable financera ce projet."
+    },
+    {
+     "terme": "un annonceur",
+     "definition": "une entreprise qui paie pour de la publicité",
+     "exemple": "Les annonceurs financent la chaîne."
+    },
+    {
+     "terme": "universel",
+     "definition": "qui concerne tout le monde",
+     "exemple": "Le suffrage universel."
+    },
+    {
+     "terme": "la médiation",
+     "definition": "l'action d'aider un public à accéder à quelque chose",
+     "exemple": "La médiation culturelle vise les publics éloignés."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "une fausse évidence",
+     "sens": "une idée qui semble vraie mais ne l'est pas",
+     "exemple": "Que l'argent fasse le bonheur est une fausse évidence."
+    },
+    {
+     "expression": "vous êtes le produit",
+     "sens": "c'est vous, ou vos données, qui êtes vendus",
+     "exemple": "Sur ce réseau gratuit, vous êtes le produit."
+    },
+    {
+     "expression": "ne pas être fait pour quelqu'un",
+     "sens": "ne pas lui convenir, ne pas lui être destiné",
+     "exemple": "Il pense que l'opéra n'est pas fait pour lui."
+    }
+   ],
+   "traps": [
+    "L'auteur ne dit pas que les musées doivent être chers.",
+    "« Par ailleurs » introduit un second argument, indépendant du premier.",
+    "Ce qui retient les non-visiteurs est surtout un sentiment d'exclusion, pas le prix."
+   ]
+  }
+ ]
+}

@@ -11,6 +11,7 @@ from sqlalchemy import select
 from tcfmaster.db.models import SECTION_EE, Attempt, Exam, WritingSubmission, WritingTask
 from tcfmaster.services import exam_service as ES
 from tcfmaster.services import writing_service as WS
+from tcfmaster.ui.ai_deepen import DeepenButton
 from tcfmaster.ui.widgets import Card, Page, disclaimer_label
 from tcfmaster.ui.writing import WritingEditor, WritingReportView, WritingRunner
 from tcfmaster.ui.writing_report import evaluation_html
@@ -97,8 +98,11 @@ class WritingPage(Page):
         b1.clicked.connect(self.back)
         self.retry_btn = QPushButton("Réécrire ce texte")
         self.retry_btn.clicked.connect(self._retry)
+        self.current_sub: int | None = None
+        self.deepen_btn = DeepenButton(ctx, "EE", self.report, lambda: self.current_sub)
         rb.addWidget(b1)
         rb.addWidget(self.retry_btn)
+        rb.addWidget(self.deepen_btn)
         rb.addStretch(1)
         rl.addLayout(rb)
         self.stack.addWidget(rep)
@@ -128,7 +132,7 @@ class WritingPage(Page):
         with self.ctx.db.session() as s:
             for w in WS.history(s):
                 t = w.task
-                exam = t.exam.code if t and t.exam else "?"
+                exam = (t.exam.code if t.exam else t.code or "?") if t else "?"
                 it = QListWidgetItem(f"{w.created_at:%d/%m %H:%M} · {exam} T{t.task_number if t else '?'}"
                                      f" · {w.note20 or 0:.1f}/20 ({w.level or '-'})")
                 it.setData(Qt.UserRole, w.id)
@@ -152,9 +156,21 @@ class WritingPage(Page):
                     None)
 
     # ------------------------------------------------------- entraînement
+    def open_task(self, task_id: int):
+        """Ouvre directement un sujet (banque B2 ou examen), depuis la bibliothèque."""
+        self._forced_task = task_id
+        try:
+            self.start_training()
+        finally:
+            self._forced_task = None
+        return self.editor
+
     def start_training(self, text: str = "") -> None:
         with self.ctx.db.session() as s:
-            t = self._task(s)
+            forced = getattr(self, "_forced_task", None)
+            if forced is None and self.editor is not None and text:
+                forced = self.editor.task_id        # « Réécrire ce texte »
+            t = s.get(WritingTask, forced) if forced else self._task(s)
             if t is None:
                 return
             if self.editor is not None:
@@ -176,10 +192,13 @@ class WritingPage(Page):
         with self.ctx.db.session() as s:
             sub = WS.submit(s, self.editor.task_id, text, time.monotonic() - self._t0)
             t = sub.task
-            title = f"{t.exam.code} – tâche {t.task_number}" if t.exam else "Production"
+            title = (f"{t.exam.code} – tâche {t.task_number}" if t.exam
+                     else f"{t.code or 'Sujet'} – tâche {t.task_number}")
             self.report.setHtml(evaluation_html(sub.evaluation, text, title))
+            self.current_sub = sub.id
         self._last_text = text
         self.retry_btn.setVisible(True)
+        self.deepen_btn.refresh_state()
         self.stack.setCurrentWidget(self.report_view)
 
     def _retry(self) -> None:
@@ -220,6 +239,8 @@ class WritingPage(Page):
                 parts.append("<hr>")
         self.report.setHtml("".join(parts))
         self.retry_btn.setVisible(False)
+        self.current_sub = None
+        self.deepen_btn.refresh_state()
         self.stack.setCurrentWidget(self.report_view)
 
     def back(self) -> None:

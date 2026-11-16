@@ -1,4 +1,4 @@
-"""Fenêtre principale : menu latéral à 15 entrées + pages."""
+"""Fenêtre principale : menu latéral (18 entrées en v1.1) + pages."""
 from __future__ import annotations
 
 from PySide6.QtCore import QTimer, Qt
@@ -7,33 +7,43 @@ from PySide6.QtWidgets import (QHBoxLayout, QLabel, QListWidget, QListWidgetItem
 
 from tcfmaster import APP_NAME, __version__
 from tcfmaster.services import settings as S
+from tcfmaster.ui.pages import admin_page as AP
 from tcfmaster.ui.pages import custom_page as CP
 from tcfmaster.ui.pages import dashboard_page as DP
 from tcfmaster.ui.pages import exam_pages as EP
+from tcfmaster.ui.pages import intensive_page as IP
 from tcfmaster.ui.pages import learning_pages as LP
+from tcfmaster.ui.pages import library_page as BP
 from tcfmaster.ui.pages import misc_pages as MP
 from tcfmaster.ui.pages import speaking_page as SP
 from tcfmaster.ui.pages import tutor_page as TP
+from tcfmaster.ui.pages import videos_page as VP
 from tcfmaster.ui.pages import writing_page as WP
 
 # (clé, icône, libellé, fabrique)
 MENU = [
     ("dashboard", "◧", "Tableau de bord", lambda c: DP.DashboardPage(c)),
+    ("library", "▤", "Bibliothèque B2", lambda c: BP.LibraryPage(c)),
     ("start", "▶", "Commencer un examen", lambda c: EP.StartExamPage(c)),
     ("mock", "☰", "Examens blancs", lambda c: EP.MockExamsPage(c)),
-    ("co", "🎧", "Compréhension orale", lambda c: EP.ComprehensionPage(c, "CO")),
-    ("ce", "📄", "Compréhension écrite", lambda c: EP.ComprehensionPage(c, "CE")),
-    ("ee", "✎", "Expression écrite", lambda c: WP.WritingPage(c)),
-    ("eo", "🎤", "Expression orale", lambda c: SP.SpeakingPage(c)),
+    ("co", "🎧", "Compréhension orale B2", lambda c: EP.ComprehensionPage(c, "CO")),
+    ("ce", "📄", "Compréhension écrite B2", lambda c: EP.ComprehensionPage(c, "CE")),
+    ("ee", "✎", "Expression écrite B2", lambda c: WP.WritingPage(c)),
+    ("eo", "🎤", "Expression orale B2", lambda c: SP.SpeakingPage(c)),
     ("vocab", "Aa", "Vocabulaire B2", lambda c: LP.VocabularyPage(c)),
     ("grammar", "§", "Grammaire", lambda c: LP.GrammarPage(c)),
     ("conj", "⇄", "Conjugaison", lambda c: LP.ConjugationPage(c)),
+    ("videos", "▷", "Vidéothèque B2", lambda c: VP.VideosPage(c)),
     ("ai", "💬", "Conversation avec l'IA", lambda c: TP.TutorPage(c)),
     ("custom", "★", "Exercices personnalisés", lambda c: CP.CustomExercisesPage(c)),
     ("history", "⏲", "Historique et résultats", lambda c: MP.HistoryPage(c)),
     ("plan", "📅", "Mon programme de préparation", lambda c: MP.PlanPage(c)),
+    ("intensive", "⚡", "Programme intensif 30 jours", lambda c: IP.IntensivePage(c)),
+    ("admin", "🔧", "Administration", lambda c: AP.AdminPage(c)),
     ("settings", "⚙", "Paramètres", lambda c: MP.SettingsPage(c)),
 ]
+
+MAIN_MENU_SIZE = len(MENU)
 
 
 class MainWindow(QMainWindow):

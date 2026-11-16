@@ -1,0 +1,202 @@
+@slug co-economie-emploi
+@section CO
+@title Économie et emploi
+@order 3
+@description Chroniques économiques, interviews d'entrepreneurs et débats sur le travail, les salaires et le pouvoir d'achat.
+
+## CO-ECO-01 | chronique économique | H:fr-FR
+TITRE: Pourquoi les prix ne baissent pas quand l'inflation ralentit
+DOC: H: Beaucoup d'auditeurs nous écrivent la même chose : « On nous dit que l'inflation ralentit, mais au supermarché, rien ne baisse ! » C'est une confusion compréhensible, mais il faut la dissiper. Quand l'inflation ralentit, cela signifie que les prix augmentent moins vite, pas qu'ils diminuent. Si un produit a pris vingt pour cent en deux ans, il ne va pas revenir à son prix initial parce que la hausse s'est arrêtée. Pour que les prix baissent réellement, il faudrait une déflation, ce que les économistes redoutent d'ailleurs bien davantage, car elle pousse les consommateurs à reporter leurs achats et paralyse l'activité. La vraie question, pour les ménages, n'est donc pas de savoir quand les prix vont baisser, mais si les salaires vont rattraper le retard accumulé.
+Q: Quelle confusion le chroniqueur veut-il dissiper ? | compréhension globale
++ Croire qu'un ralentissement de l'inflation signifie une baisse des prix. | « Quand l'inflation ralentit, cela signifie que les prix augmentent moins vite, pas qu'ils diminuent. »
+- Croire que les supermarchés augmentent leurs marges. | Les marges ne sont pas évoquées.
+- Croire que l'inflation a disparu. | Il ne parle que de ralentissement.
+- Croire que les salaires ont augmenté plus vite que les prix. | Il suggère au contraire un retard des salaires.
+EXP: La définition « augmenter moins vite » est la clé. Une baisse des prix porte un autre nom : la déflation.
+Q: Pourquoi les économistes redoutent-ils la déflation ? | argumentation
++ Parce qu'elle incite à repousser les achats et freine l'économie. | « Elle pousse les consommateurs à reporter leurs achats et paralyse l'activité. »
+- Parce qu'elle fait monter les salaires trop vite. | Ce n'est pas l'effet décrit.
+- Parce qu'elle augmente les prix des produits importés. | Aucun lien avec les importations n'est fait.
+- Parce qu'elle oblige les banques à fermer. | Les banques ne sont pas mentionnées.
+EXP: La relative « ce que les économistes redoutent » renvoie à la déflation ; la cause suit avec « car ».
+Q: Selon le chroniqueur, quelle est la vraie question pour les ménages ? | synthèse
++ Savoir si les revenus vont compenser la hausse passée des prix. | « Si les salaires vont rattraper le retard accumulé. »
+- Savoir quand les prix vont revenir à leur niveau initial. | C'est la question qu'il juge mal posée.
+- Savoir s'il faut acheter maintenant ou plus tard. | Ce n'est pas la question retenue.
+- Savoir si l'inflation va reprendre. | Il n'aborde pas cette hypothèse.
+EXP: La structure « La vraie question n'est pas de savoir… mais si… » écarte une question pour en imposer une autre. « Rattraper le retard » signifie compenser.
+VOCAB: l'inflation = la hausse générale et durable des prix = L'inflation réduit le pouvoir d'achat. ; la déflation = la baisse générale et durable des prix = Le Japon a connu une longue période de déflation. ; dissiper = faire disparaître (un malentendu, un doute) = Cette explication a dissipé mes doutes. ; reporter = remettre à plus tard = Ils ont reporté leur voyage. ; paralyser = bloquer complètement = La grève a paralysé les transports.
+EXPR: rattraper le retard = compenser un écart accumulé = Il travaille le week-end pour rattraper son retard. ; prendre vingt pour cent = augmenter de vingt pour cent = Le loyer a pris dix pour cent. ; bien davantage = beaucoup plus = Ce projet coûtera bien davantage que prévu.
+
+## CO-ECO-02 | interview | F:fr-FR, H:fr-FR
+TITRE: La semaine de quatre jours dans une PME
+CONTEXTE: Une journaliste interroge le dirigeant d'une entreprise de quarante salariés.
+DOC: F: Vous êtes passé à la semaine de quatre jours il y a un an, sans baisse de salaire. Quel bilan ? / H: Globalement positif, mais il serait malhonnête de dire que tout a été facile. Les premiers mois, on a dû revoir toute notre organisation : supprimer des réunions inutiles, regrouper les tâches, apprendre à dire non à certains clients qui voulaient tout, tout de suite. / F: Et la productivité ? / H: Elle est restée stable, ce qui était notre objectif. En revanche, l'absentéisme a nettement baissé, et nous n'avons plus aucun mal à recruter. Avant, nos offres restaient sans réponse pendant des mois. / F: Vous conseilleriez ce modèle à toutes les entreprises ? / H: Certainement pas. Dans notre métier, le conseil, on peut concentrer le travail. Un restaurant ou une maison de retraite, c'est une autre histoire. Je me méfie de ceux qui présentent cela comme une recette universelle.
+Q: Quelles difficultés le dirigeant a-t-il rencontrées au début ? | information détaillée
++ Il a fallu réorganiser profondément le travail. | « On a dû revoir toute notre organisation : supprimer des réunions inutiles, regrouper les tâches… »
+- Les salariés ont refusé le projet. | Rien n'indique de refus.
+- Plusieurs clients ont quitté l'entreprise. | Il parle de dire non à certaines demandes, pas de départs de clients.
+- Les salaires ont dû être réduits. | Le passage s'est fait « sans baisse de salaire ».
+EXP: Le dirigeant nuance d'emblée (« il serait malhonnête de dire que tout a été facile ») avant d'énumérer les changements après les deux-points.
+Q: Quel bénéfice inattendu le dirigeant mentionne-t-il ? | argumentation
++ Une plus grande facilité à recruter. | « Nous n'avons plus aucun mal à recruter. Avant, nos offres restaient sans réponse pendant des mois. »
+- Une hausse importante de la productivité. | Elle est « restée stable ».
+- Une augmentation du chiffre d'affaires. | Le chiffre d'affaires n'est pas évoqué.
+- Une diminution du nombre de clients exigeants. | Ce n'est pas présenté comme un bénéfice.
+EXP: « En revanche » oppose la productivité stable à des améliorations nettes : absentéisme et recrutement.
+Q: Quelle est la position du dirigeant sur la généralisation du modèle ? | point de vue
++ Il estime que ce modèle ne convient pas à tous les secteurs. | « Un restaurant ou une maison de retraite, c'est une autre histoire. »
+- Il souhaite l'imposer par la loi. | Il refuse d'en faire « une recette universelle ».
+- Il pense que toutes les entreprises y viendront. | Il répond « Certainement pas ».
+- Il regrette de l'avoir adopté. | Son bilan est « globalement positif ».
+EXP: L'expression « c'est une autre histoire » signifie que la situation est très différente. Il se méfie de toute généralisation.
+VOCAB: une PME = une petite ou moyenne entreprise = Cette PME emploie quarante salariés. ; l'absentéisme = le fait d'être souvent absent au travail = L'absentéisme a diminué grâce au télétravail. ; recruter = embaucher du personnel = L'hôpital peine à recruter des infirmiers. ; la productivité = le rapport entre la production et le travail fourni = La productivité a augmenté de cinq pour cent.
+EXPR: c'est une autre histoire = c'est une situation très différente = Parler anglais, ça va ; le chinois, c'est une autre histoire. ; une recette universelle = une solution valable partout = Il n'y a pas de recette universelle pour réussir. ; tout, tout de suite = immédiatement et sans limite = Les clients veulent tout, tout de suite.
+
+## CO-ECO-03 | reportage | F:fr-FR, H:fr-FR
+TITRE: Les métiers en tension dans le bâtiment
+CONTEXTE: Reportage dans un centre de formation aux métiers du bâtiment.
+DOC: F: Plombiers, électriciens, couvreurs : ces métiers recrutent à tour de bras, et pourtant les candidats manquent. Dans ce centre de formation, Marc Lefort, formateur depuis vingt ans, constate une évolution. / H: Pendant longtemps, l'apprentissage était présenté comme une voie de garage, réservée aux élèves en échec. Les parents rêvaient d'études longues pour leurs enfants. Ça commence à changer, notamment parce que les jeunes voient qu'un bon artisan gagne souvent mieux sa vie qu'un diplômé de master. Mais l'image reste tenace. / F: Qui sont vos apprentis aujourd'hui ? / H: De plus en plus d'adultes en reconversion. Des comptables, des commerciaux, parfois des ingénieurs qui veulent un métier concret, où l'on voit le résultat de sa journée. Ils arrivent très motivés. Leur seule difficulté, c'est souvent physique : à quarante ans, porter des plaques de plâtre toute la journée, ça ne s'improvise pas.
+Q: Quelle image l'apprentissage a-t-il longtemps eue ? | information détaillée
++ Celle d'une orientation par défaut pour les élèves en difficulté. | « Une voie de garage, réservée aux élèves en échec. »
+- Celle d'une formation très sélective. | C'est l'inverse.
+- Celle d'une voie réservée aux adultes. | Les adultes sont un phénomène récent.
+- Celle d'une formation trop coûteuse. | Le coût n'est pas évoqué.
+EXP: « Une voie de garage » désigne une situation sans avenir. L'imparfait « était présenté » situe cette image dans le passé, même si elle « reste tenace ».
+Q: Pourquoi des adultes se reconvertissent-ils dans ces métiers ? | implicite
++ Pour exercer un travail dont les résultats sont visibles. | « Un métier concret, où l'on voit le résultat de sa journée. »
+- Parce qu'ils ont été licenciés. | Aucun licenciement n'est mentionné.
+- Parce que ces métiers sont moins fatigants. | Le formateur souligne au contraire la difficulté physique.
+- Parce que leurs parents le souhaitaient. | Ce sont les parents d'élèves qui sont évoqués, pas ceux des adultes.
+EXP: La motivation est exprimée par la relative « où l'on voit le résultat de sa journée ». Les métiers intellectuels qu'ils quittent sont implicitement jugés plus abstraits.
+Q: Quelle difficulté rencontrent ces apprentis adultes ? | information détaillée
++ L'effort physique exigé par le métier. | « Leur seule difficulté, c'est souvent physique. »
+- Le manque de motivation. | Ils arrivent « très motivés ».
+- La difficulté des cours théoriques. | La théorie n'est pas évoquée.
+- Le faible salaire des artisans. | Un bon artisan gagne souvent bien sa vie.
+EXP: « Ça ne s'improvise pas » signifie que cela demande une préparation, une habitude. La mise en relief « Leur seule difficulté, c'est… » isole la réponse.
+VOCAB: un métier en tension = un métier où les employeurs ont du mal à recruter = La restauration est un secteur en tension. ; l'apprentissage = une formation alternant école et entreprise = Il a appris la boulangerie en apprentissage. ; une reconversion = un changement de métier = Après dix ans de banque, elle a entamé une reconversion. ; tenace = qui dure, difficile à faire disparaître = Ce préjugé est tenace.
+EXPR: à tour de bras = en grande quantité, sans arrêt = L'entreprise embauche à tour de bras. ; une voie de garage = une situation sans avenir = Ce poste est une voie de garage. ; ça ne s'improvise pas = cela demande de la préparation = Parler en public, ça ne s'improvise pas.
+
+## CO-ECO-04 | débat radiophonique | H:fr-FR, F:fr-FR
+TITRE: Faut-il encadrer les loyers ?
+CONTEXTE: Débat entre un représentant des propriétaires et une représentante des locataires.
+DOC: H: L'encadrement des loyers part d'une bonne intention, mais il produit l'effet inverse de celui recherché. Quand un propriétaire ne peut plus fixer librement son loyer, il préfère vendre ou louer aux touristes. Résultat : l'offre diminue et les locataires ont encore plus de mal à se loger. / F: C'est l'argument qu'on entend depuis des années, mais les études menées dans les villes concernées ne montrent pas d'effondrement de l'offre. Ce qu'elles montrent, en revanche, c'est que les hausses les plus abusives ont été freinées. Avant, on voyait des studios de quinze mètres carrés loués mille euros. / H: Et le problème de fond, c'est qu'on ne construit pas assez. Aucune régulation ne remplacera la construction. / F: Sur ce point, je suis d'accord avec vous. Mais en attendant que les logements sortent de terre, ce qui prend des années, il faut bien protéger ceux qui paient des loyers exorbitants aujourd'hui.
+Q: Selon le représentant des propriétaires, quel est l'effet de l'encadrement ? | argumentation
++ Il réduit le nombre de logements proposés à la location. | « L'offre diminue et les locataires ont encore plus de mal à se loger. »
+- Il fait baisser le prix des logements à la vente. | Le prix de vente n'est pas évoqué.
+- Il favorise la construction de logements neufs. | Il dit qu'on ne construit pas assez.
+- Il augmente les revenus des propriétaires. | Il suggère le contraire.
+EXP: « L'effet inverse de celui recherché » annonce un effet pervers. La chaîne causale est : loyer limité → vente ou location touristique → moins d'offre.
+Q: Comment la représentante des locataires répond-elle à cet argument ? | argumentation
++ Elle s'appuie sur des études qui ne confirment pas la baisse de l'offre. | « Les études menées dans les villes concernées ne montrent pas d'effondrement de l'offre. »
+- Elle reconnaît que l'offre a fortement diminué. | Elle conteste cet effet.
+- Elle propose de taxer les propriétaires. | Aucune taxe n'est proposée.
+- Elle accuse les touristes de la hausse des loyers. | Elle ne mentionne pas les touristes.
+EXP: Elle disqualifie l'argument (« l'argument qu'on entend depuis des années ») puis oppose des données. « En revanche » introduit l'effet positif constaté.
+Q: Sur quel point les deux intervenants sont-ils d'accord ? | synthèse
++ La construction de logements est indispensable. | Il dit « aucune régulation ne remplacera la construction », elle répond « Sur ce point, je suis d'accord ».
+- L'encadrement doit être supprimé. | Elle le défend.
+- Les loyers actuels sont raisonnables. | Elle parle de loyers « exorbitants ».
+- Les études sur l'encadrement sont fiables. | Seule la représentante des locataires les invoque.
+EXP: Dans un débat, repérez les formules d'accord partiel (« Sur ce point, je suis d'accord avec vous. Mais… »). L'accord est limité à un point précis.
+VOCAB: l'encadrement des loyers = la limitation légale du montant des loyers = L'encadrement des loyers s'applique à Paris. ; l'offre = la quantité de biens disponibles sur un marché = L'offre de logements est insuffisante. ; exorbitant = excessif, beaucoup trop cher = Il paie un loyer exorbitant. ; abusif = qui dépasse les limites acceptables = Ces frais sont abusifs.
+EXPR: partir d'une bonne intention = avoir un objectif louable au départ = Cette loi part d'une bonne intention. ; sortir de terre = être construit = De nouveaux quartiers sortent de terre. ; il faut bien = il est nécessaire (malgré tout) = Il faut bien payer ses factures.
+
+## CO-ECO-05 | chronique économique | F:fr-CA
+TITRE: Le retour de la seconde main
+DOC: F: Vêtements, meubles, téléphones : le marché de l'occasion connaît une croissance spectaculaire. Il progresse trois fois plus vite que celui du neuf. Les raisons sont multiples. Il y a évidemment la contrainte budgétaire, mais aussi un changement culturel : acheter d'occasion ne passe plus pour un aveu de pauvreté. Chez les jeunes, c'est même devenu un signe de débrouillardise et de conscience écologique. Les grandes enseignes l'ont bien compris et ouvrent désormais leurs propres rayons de seconde main. Faut-il s'en réjouir sans réserve ? Pas tout à fait. Certains observateurs remarquent que la revente facile encourage aussi à acheter davantage : on s'offre un vêtement neuf en se disant qu'on pourra toujours le revendre. Le marché de l'occasion pourrait ainsi, paradoxalement, alimenter la surconsommation qu'il prétend combattre.
+Q: Quel changement culturel la chroniqueuse décrit-elle ? | information détaillée
++ L'achat d'occasion n'est plus perçu comme le signe d'un manque d'argent. | « Acheter d'occasion ne passe plus pour un aveu de pauvreté. »
+- Les jeunes refusent désormais d'acheter des produits neufs. | Ce n'est pas dit.
+- Les grandes enseignes ferment leurs rayons neufs. | Elles ouvrent des rayons d'occasion en plus.
+- Les produits d'occasion sont devenus plus chers que les neufs. | Les prix ne sont pas comparés.
+EXP: « Passer pour » signifie « être considéré comme ». La négation « ne… plus » marque le changement par rapport au passé.
+Q: Quelle réserve la chroniqueuse exprime-t-elle ? | argumentation
++ La possibilité de revendre peut inciter à consommer davantage. | « La revente facile encourage aussi à acheter davantage. »
+- Les produits d'occasion sont souvent de mauvaise qualité. | La qualité n'est pas évoquée.
+- Les grandes enseignes trichent sur les prix. | Elle ne les accuse pas.
+- Les jeunes achètent d'occasion uniquement par mode. | Elle parle de débrouillardise et d'écologie.
+EXP: La question « Faut-il s'en réjouir sans réserve ? Pas tout à fait. » annonce la nuance. L'exemple du vêtement neuf acheté « en se disant qu'on pourra le revendre » illustre l'effet pervers.
+Q: Que signifie « paradoxalement » dans la conclusion ? | implicite
++ Le marché de l'occasion risque de produire l'effet contraire à son objectif. | Il « pourrait… alimenter la surconsommation qu'il prétend combattre ».
+- Le marché de l'occasion va disparaître. | Rien ne l'indique.
+- La surconsommation diminue grâce à l'occasion. | C'est l'objectif affiché, mais elle suggère le risque inverse.
+- Les consommateurs ne comprennent pas le marché. | Ce n'est pas le sens du mot.
+EXP: Un paradoxe est une contradiction apparente. Le verbe « prétendre » suggère un écart entre l'intention affichée et l'effet réel.
+VOCAB: la seconde main = l'occasion, ce qui a déjà appartenu à quelqu'un = Elle achète ses meubles de seconde main. ; la débrouillardise = l'habileté à se tirer d'affaire = Sa débrouillardise lui a permis de réussir. ; une enseigne = une marque commerciale, un réseau de magasins = Cette enseigne a ouvert vingt magasins. ; la surconsommation = la consommation excessive = La publicité encourage la surconsommation.
+EXPR: passer pour = être considéré comme = Il passe pour un expert. ; un aveu de = une preuve, un signe révélateur de = Son silence est un aveu de faiblesse. ; sans réserve = complètement, sans restriction = Je soutiens ce projet sans réserve.
+
+## CO-ECO-06 | interview | H:fr-FR, F:fr-FR
+TITRE: Une jeune entrepreneuse dans l'alimentation
+CONTEXTE: Un journaliste interroge la fondatrice d'une entreprise de plats préparés à base de légumineuses.
+DOC: H: Vous avez lancé votre entreprise à vingt-six ans. Qu'est-ce qui vous a décidée ? / F: Un constat très simple : les lentilles, les pois chiches, c'est bon, c'est nourrissant, c'est bon pour la planète, et pourtant les gens n'en mangent presque pas, parce que c'est long à préparer. J'ai voulu proposer des plats prêts en cinq minutes, sans additifs. / H: Les débuts ont été difficiles ? / F: Très. Les banques ne voulaient pas me prêter d'argent : une jeune femme sans expérience dans l'agroalimentaire, ça ne les rassurait pas. J'ai finalement réuni les fonds grâce à un financement participatif. Avec le recul, c'était presque une chance : les premiers contributeurs sont devenus nos premiers clients, et nos meilleurs ambassadeurs. / H: Et aujourd'hui ? / F: Nous sommes douze et nous sommes présents dans trois cents magasins. Mais je garde la tête froide : la grande distribution peut vous référencer un jour et vous retirer des rayons le lendemain.
+Q: Pourquoi les légumineuses sont-elles peu consommées, selon l'entrepreneuse ? | information détaillée
++ Parce que leur préparation demande du temps. | « Les gens n'en mangent presque pas, parce que c'est long à préparer. »
+- Parce qu'elles sont chères. | Le prix n'est pas évoqué.
+- Parce qu'elles sont peu nourrissantes. | Elle dit au contraire que « c'est nourrissant ».
+- Parce qu'elles contiennent des additifs. | Elle propose des plats « sans additifs », ce n'est pas une caractéristique des légumineuses.
+EXP: Le connecteur « et pourtant » introduit le paradoxe ; la cause suit avec « parce que ».
+Q: Comment juge-t-elle a posteriori le refus des banques ? | implicite
++ Comme une difficulté qui s'est révélée avantageuse. | « Avec le recul, c'était presque une chance : les premiers contributeurs sont devenus nos premiers clients. »
+- Comme une injustice qu'elle n'a jamais surmontée. | Elle a trouvé une autre solution.
+- Comme la cause de l'échec de son entreprise. | L'entreprise a grandi.
+- Comme une décision logique qu'elle approuve. | Elle n'approuve pas ce refus.
+EXP: « Avec le recul » introduit un jugement après coup. « C'était presque une chance » transforme un obstacle en avantage.
+Q: Quelle attitude l'entrepreneuse adopte-t-elle face à son succès ? | point de vue
++ Elle reste prudente car sa position dans les magasins est fragile. | « Je garde la tête froide : la grande distribution peut vous référencer un jour et vous retirer des rayons le lendemain. »
+- Elle est certaine que son succès va durer. | Elle souligne au contraire la fragilité de sa situation.
+- Elle veut quitter la grande distribution. | Elle ne dit pas vouloir partir.
+- Elle prévoit de vendre son entreprise. | Rien ne l'indique.
+EXP: « Garder la tête froide » signifie rester lucide et calme. L'opposition « un jour… le lendemain » souligne l'instabilité.
+VOCAB: les légumineuses = les plantes comme les lentilles, les pois chiches, les haricots = Les légumineuses sont riches en protéines. ; un additif = une substance ajoutée à un aliment = Ce plat ne contient aucun additif. ; le financement participatif = la collecte de fonds auprès de nombreux particuliers = Le film a été financé grâce au financement participatif. ; référencer = (commerce) accepter un produit dans un magasin = Le supermarché a référencé notre marque.
+EXPR: avec le recul = en y repensant plus tard = Avec le recul, je ne regrette rien. ; garder la tête froide = rester calme et lucide = Malgré la pression, il a gardé la tête froide. ; un ambassadeur = (figuré) une personne qui fait la promotion de quelque chose = Nos clients sont nos meilleurs ambassadeurs.
+
+## CO-ECO-07 | journal radio | H:fr-FR
+TITRE: Le télétravail redessine le marché immobilier
+DOC: H: Trois ans après la généralisation du télétravail, ses effets sur l'immobilier sont désormais mesurables. Selon une étude publiée hier, les prix ont progressé deux fois plus vite dans les villes moyennes situées à moins de deux heures de train des métropoles que dans les métropoles elles-mêmes. Les cadres qui peuvent travailler à distance trois jours par semaine troquent leur appartement en centre-ville contre une maison avec jardin. Mais ce mouvement n'est pas sans conséquence pour les habitants de ces villes moyennes : les jeunes et les familles modestes voient les loyers grimper et peinent à se loger là où ils ont toujours vécu. Plusieurs maires réclament désormais des outils pour réguler les résidences secondaires et les locations de courte durée.
+Q: Quel phénomène l'étude met-elle en évidence ? | compréhension globale
++ Une hausse plus forte des prix dans les villes moyennes proches des métropoles. | « Les prix ont progressé deux fois plus vite dans les villes moyennes situées à moins de deux heures de train. »
+- Une baisse générale des prix dans les métropoles. | Les prix des métropoles progressent, mais moins vite.
+- Un retour des cadres vers les centres-villes. | C'est le mouvement inverse.
+- Une diminution du télétravail. | Le télétravail s'est généralisé.
+EXP: La comparaison « deux fois plus vite… que » indique une hausse plus rapide, pas une baisse dans les métropoles.
+Q: Quelle conséquence négative le journaliste souligne-t-il ? | argumentation
++ Les habitants modestes des villes moyennes ont plus de mal à se loger. | « Les jeunes et les familles modestes voient les loyers grimper et peinent à se loger. »
+- Les cadres regrettent leur déménagement. | Rien ne l'indique.
+- Les trains vers les métropoles sont saturés. | Les trains ne sont pas évoqués.
+- Les maisons avec jardin deviennent rares en campagne. | Ce n'est pas la conséquence décrite.
+EXP: « Ce mouvement n'est pas sans conséquence » est une litote qui annonce un effet négatif. Le contraste « là où ils ont toujours vécu » souligne l'injustice.
+Q: Que demandent plusieurs maires ? | information détaillée
++ Des moyens pour limiter certaines formes de logement non permanent. | Ils réclament « des outils pour réguler les résidences secondaires et les locations de courte durée ».
+- L'interdiction du télétravail. | Ils ne s'en prennent pas au télétravail.
+- La construction de nouvelles lignes de train. | Ce n'est pas leur demande.
+- Une baisse des impôts locaux. | Les impôts ne sont pas évoqués.
+EXP: Les résidences secondaires et les locations de courte durée sont des logements non occupés à l'année. « Réguler » signifie encadrer, limiter.
+VOCAB: une métropole = une très grande ville = Lyon est une métropole régionale. ; troquer = échanger une chose contre une autre = Il a troqué son costume contre un jean. ; une résidence secondaire = un logement utilisé seulement pendant les vacances = Ils ont une résidence secondaire en Bretagne. ; peiner à = avoir du mal à = Les jeunes peinent à trouver un emploi.
+EXPR: ne pas être sans conséquence = avoir des conséquences importantes (litote) = Cette décision n'est pas sans conséquence. ; voir les loyers grimper = constater une forte hausse des loyers = Les étudiants voient les loyers grimper chaque année. ; là où = à l'endroit où = Il est retourné là où il est né.
+
+## CO-ECO-08 | témoignage | F:fr-FR
+TITRE: Démissionner pour changer de vie
+CONTEXTE: Une ancienne cadre bancaire raconte sa reconversion.
+DOC: F: Pendant douze ans, j'ai travaillé dans une grande banque. Sur le papier, tout allait bien : un bon salaire, des perspectives d'évolution. Mais je rentrais le soir avec un sentiment de vide que je n'arrivais pas à expliquer. Le déclic est venu pendant un congé maternité : j'ai réalisé que je n'avais aucune envie de retourner au bureau. J'ai pris un an pour réfléchir, me former, et aujourd'hui je suis ébéniste. Je gagne trois fois moins, c'est vrai, et il a fallu revoir notre train de vie. Mais je ne regarde plus l'heure en attendant la fin de la journée. Je ne voudrais pas pour autant idéaliser : certains de mes collègues de formation ont abandonné au bout de six mois, épuisés ou à court d'argent. Changer de vie, ça se prépare, et ça suppose d'avoir un minimum de filet de sécurité.
+Q: Pourquoi la témoin a-t-elle quitté la banque ? | implicite
++ Son travail ne lui apportait aucune satisfaction personnelle. | Elle rentrait « avec un sentiment de vide » et n'avait « aucune envie de retourner au bureau ».
+- Elle avait été licenciée. | Elle a démissionné.
+- Son salaire était insuffisant. | Elle avait « un bon salaire ».
+- Elle n'avait aucune perspective d'évolution. | Elle avait « des perspectives d'évolution ».
+EXP: « Sur le papier » signifie « en apparence, théoriquement » : la situation semblait idéale, mais ne l'était pas en réalité.
+Q: Quelle conséquence matérielle sa reconversion a-t-elle eue ? | information détaillée
++ Une forte baisse de ses revenus. | « Je gagne trois fois moins, c'est vrai, et il a fallu revoir notre train de vie. »
+- L'achat d'un atelier très coûteux. | Aucun achat n'est mentionné.
+- Un déménagement à l'étranger. | Aucun déménagement n'est évoqué.
+- Une augmentation de son temps de travail. | Le temps de travail n'est pas comparé.
+EXP: « Revoir son train de vie » signifie réduire ses dépenses. La concession « c'est vrai » reconnaît l'inconvénient avant le « Mais ».
+Q: Quel message la témoin veut-elle transmettre ? | synthèse
++ Une reconversion est possible mais exige préparation et sécurité financière. | « Changer de vie, ça se prépare, et ça suppose d'avoir un minimum de filet de sécurité. »
+- Tout le monde devrait quitter son emploi de bureau. | Elle refuse d'« idéaliser ».
+- Les formations d'ébéniste sont trop difficiles. | Elle explique les abandons par l'épuisement ou le manque d'argent, sans critiquer la formation.
+- Il vaut mieux garder un emploi stable. | Elle ne regrette pas son choix.
+EXP: « Je ne voudrais pas pour autant idéaliser » nuance un témoignage positif. La conclusion généralise à partir de son expérience et de celle des autres.
+VOCAB: un ébéniste = un artisan qui fabrique des meubles = L'ébéniste a restauré une commode ancienne. ; le déclic = le moment où l'on prend soudainement conscience de quelque chose = Le déclic s'est produit pendant un voyage. ; le train de vie = le niveau de dépenses d'une personne = Ils ont un train de vie modeste. ; épuisé = extrêmement fatigué = Après la course, il était épuisé.
+EXPR: sur le papier = en théorie, en apparence = Sur le papier, le projet était parfait. ; un filet de sécurité = une protection en cas de difficulté = Ses économies lui servent de filet de sécurité. ; à court d'argent = sans argent = À la fin du mois, il est toujours à court d'argent.

@@ -1,0 +1,205 @@
+@slug ce-technologie
+@section CE
+@title Technologie
+@order 9
+@description Articles sur le numérique, l'intelligence artificielle et l'innovation : comprendre les enjeux, les promesses et les risques.
+
+## CE-TEC-01 | article de presse
+TITRE: L'intelligence artificielle à l'école : interdire ou apprivoiser ?
+DOC: Depuis l'arrivée des outils capables de rédiger un texte en quelques secondes, les enseignants s'interrogent. Comment évaluer un devoir à la maison quand l'élève peut le faire écrire par une machine ? Certains établissements ont choisi d'interdire ces outils ; d'autres ont préféré revenir aux devoirs sur table. ¶ Une partie des enseignants défend une autre approche : apprendre aux élèves à utiliser ces outils de façon critique. Ils leur font comparer une réponse générée avec une source fiable, repérer les erreurs ou les inventions de la machine, et améliorer eux-mêmes un premier jet produit automatiquement. Selon eux, interdire un outil que les élèves utiliseront dans leur vie professionnelle reviendrait à les priver d'une compétence essentielle. ¶ Les chercheurs en sciences de l'éducation rappellent cependant un risque : déléguer trop tôt la rédaction à une machine pourrait empêcher les élèves d'acquérir les bases de l'écriture et du raisonnement. On ne peut évaluer correctement un texte généré que si l'on sait soi-même écrire.
+Q: Quelles réactions les établissements ont-ils eues face à ces outils ? | compréhension détaillée
++ Certains les ont interdits, d'autres ont privilégié les devoirs en classe. | « Certains établissements ont choisi d'interdire ces outils ; d'autres ont préféré revenir aux devoirs sur table. »
+- Tous les ont rendus obligatoires. | Ce n'est pas dit.
+- Ils ont supprimé les devoirs. | Ils ont changé leur forme.
+- Ils ont acheté des ordinateurs. | Ce n'est pas évoqué.
+EXP: Le point-virgule sépare deux réactions différentes.
+Q: Comment certains enseignants utilisent-ils ces outils en classe ? | compréhension détaillée
++ Ils font vérifier et corriger les textes produits par la machine. | « Comparer une réponse générée avec une source fiable, repérer les erreurs… améliorer eux-mêmes un premier jet. »
+- Ils laissent la machine noter les élèves. | Ce n'est pas dit.
+- Ils remplacent les cours par la machine. | Ce n'est pas évoqué.
+- Ils interdisent toute vérification. | C'est l'inverse.
+EXP: L'approche vise à développer l'esprit critique face à l'outil.
+Q: Quel risque les chercheurs soulignent-ils ? | argumentation
++ Que les élèves n'apprennent pas à écrire et à raisonner par eux-mêmes. | « Déléguer trop tôt la rédaction à une machine pourrait empêcher les élèves d'acquérir les bases de l'écriture et du raisonnement. »
+- Que les machines deviennent trop chères. | Ce n'est pas dit.
+- Que les enseignants perdent leur emploi. | Ce n'est pas évoqué.
+- Que les élèves écrivent trop. | Ce n'est pas le sens.
+EXP: La dernière phrase justifie le risque : il faut savoir écrire pour évaluer un texte.
+VOCAB: apprivoiser = rendre familier, apprendre à maîtriser = Apprivoiser un nouvel outil. ; un devoir sur table = un devoir fait en classe, sous surveillance = Le contrôle est un devoir sur table. ; un premier jet = une première version, non corrigée = Il a écrit un premier jet de son roman. ; déléguer = confier une tâche à quelqu'un d'autre = Il délègue la comptabilité.
+EXPR: revenir à = reprendre une pratique ancienne = Revenir aux méthodes traditionnelles. ; reviendrait à = serait équivalent à = Refuser reviendrait à abandonner. ; trop tôt = avant le bon moment = Il est parti trop tôt.
+PIEGES: Le texte ne prend pas clairement parti. ; Les chercheurs ne s'opposent pas aux outils, ils mettent en garde contre un usage précoce. ; « Devoirs sur table » ne signifie pas des devoirs à la maison.
+
+## CE-TEC-02 | article de presse
+TITRE: L'obsolescence programmée en procès
+DOC: Votre imprimante cesse de fonctionner peu après la fin de la garantie ? Votre téléphone ralentit après une mise à jour ? Beaucoup de consommateurs soupçonnent les fabricants de réduire volontairement la durée de vie de leurs produits pour en vendre de nouveaux. Depuis quelques années, cette pratique, appelée obsolescence programmée, constitue un délit. ¶ Prouver l'intention du fabricant reste toutefois très difficile. Un produit peut tomber en panne pour de nombreuses raisons : choix de composants bon marché, conception qui rend la réparation impossible, absence de pièces détachées. Ces pratiques réduisent la durée de vie sans être forcément illégales. Les rares condamnations ont surtout visé des mises à jour logicielles ralentissant des appareils sans en informer les utilisateurs. ¶ Pour les associations, l'essentiel se joue ailleurs. L'indice de réparabilité, désormais affiché sur certains produits, et l'obligation de fournir des pièces détachées pendant plusieurs années pourraient faire davantage pour la durabilité que des procès longs et incertains.
+Q: Qu'est-ce que l'obsolescence programmée ? | compréhension détaillée
++ La réduction volontaire de la durée de vie d'un produit. | « Réduire volontairement la durée de vie de leurs produits pour en vendre de nouveaux. »
+- La garantie offerte par les fabricants. | Ce n'est pas le sens.
+- Une mise à jour obligatoire. | C'est un exemple possible, pas la définition.
+- La réparation gratuite des appareils. | Ce n'est pas dit.
+EXP: Le terme est défini juste après les exemples de la première phrase.
+Q: Pourquoi est-il difficile de condamner cette pratique ? | argumentation
++ Parce qu'il faut prouver l'intention du fabricant. | « Prouver l'intention du fabricant reste toutefois très difficile. »
+- Parce que la loi ne l'interdit pas. | C'est un délit.
+- Parce que les consommateurs ne portent jamais plainte. | Ce n'est pas dit.
+- Parce que les produits ne tombent jamais en panne. | C'est faux.
+EXP: Les autres causes de panne rendent l'intention difficile à démontrer.
+Q: Que privilégient les associations ? | synthèse
++ Des mesures favorisant la réparation des produits. | « L'indice de réparabilité… et l'obligation de fournir des pièces détachées… pourraient faire davantage. »
+- Des procès plus nombreux. | Elles les jugent « longs et incertains ».
+- L'interdiction des mises à jour. | Ce n'est pas dit.
+- La suppression des garanties. | Ce n'est pas évoqué.
+EXP: « L'essentiel se joue ailleurs » annonce un changement de priorité.
+VOCAB: un délit = une infraction punie par la loi = Le vol est un délit. ; un composant = un élément d'un appareil = Un composant électronique. ; les pièces détachées = les éléments de rechange = Il manque des pièces détachées. ; la réparabilité = la possibilité d'être réparé = L'indice de réparabilité.
+EXPR: tomber en panne = cesser de fonctionner = Ma voiture est tombée en panne. ; se jouer ailleurs = se décider à un autre endroit = Le vrai match se joue ailleurs. ; sans être forcément = sans être obligatoirement = Ce n'est pas forcément faux.
+PIEGES: Toutes les pannes précoces ne sont pas illégales. ; Les condamnations ont surtout concerné des mises à jour logicielles. ; Les associations ne rejettent pas les procès, elles jugent d'autres mesures plus efficaces.
+
+## CE-TEC-03 | article de vulgarisation
+TITRE: Le numérique a aussi une empreinte écologique
+DOC: On imagine souvent le numérique comme immatériel. Un courriel, une vidéo en ligne ou une photo stockée dans le « nuage » semblent ne rien coûter à la planète. En réalité, le secteur représente une part croissante des émissions mondiales de gaz à effet de serre, comparable à celle de l'aviation civile. ¶ Contrairement à une idée répandue, l'essentiel de cet impact ne provient pas des centres de données, mais de la fabrication des appareils : ordinateurs, téléphones, téléviseurs. Leur production exige des métaux rares, beaucoup d'énergie et d'eau. Un téléphone renouvelé tous les deux ans pèse donc bien plus lourd que des milliers de courriels. ¶ Les gestes les plus efficaces sont donc simples : garder ses appareils plus longtemps, les faire réparer, acheter reconditionné, et éviter de multiplier les écrans. Supprimer ses vieux messages reste utile, mais son effet est marginal comparé à celui de la durée de vie des équipements.
+Q: Quelle idée reçue le texte corrige-t-il d'abord ? | compréhension globale
++ Que le numérique n'a pas d'impact matériel sur l'environnement. | « On imagine souvent le numérique comme immatériel… En réalité, le secteur représente une part croissante des émissions. »
+- Que l'aviation pollue beaucoup. | C'est un point de comparaison.
+- Que les courriels sont lents. | Ce n'est pas dit.
+- Que les téléphones durent longtemps. | Ce n'est pas l'idée corrigée.
+EXP: « En réalité » introduit la correction de l'idée reçue.
+Q: D'où vient l'essentiel de l'impact du numérique selon le texte ? | compréhension détaillée
++ De la fabrication des appareils. | « L'essentiel de cet impact ne provient pas des centres de données, mais de la fabrication des appareils. »
+- Des centres de données. | Le texte dit le contraire.
+- De l'envoi de courriels. | L'effet est jugé marginal.
+- Des réseaux sociaux. | Ce n'est pas évoqué.
+EXP: « Contrairement à une idée répandue » signale une seconde correction.
+Q: Quel geste est présenté comme le plus efficace ? | synthèse
++ Conserver ses appareils plus longtemps. | « Garder ses appareils plus longtemps, les faire réparer… »
+- Supprimer ses vieux courriels. | Son effet est « marginal ».
+- Utiliser davantage le nuage. | Ce n'est pas dit.
+- Acheter un téléphone neuf chaque année. | C'est l'inverse.
+EXP: La conclusion hiérarchise les gestes selon leur efficacité.
+VOCAB: immatériel = qui n'a pas de forme physique = Le numérique semble immatériel. ; un centre de données = un bâtiment qui abrite des serveurs informatiques = Les centres de données consomment de l'électricité. ; renouveler = remplacer par un neuf = Il renouvelle son téléphone. ; marginal = peu important = Un effet marginal.
+EXPR: une idée répandue = une opinion partagée par beaucoup = C'est une idée répandue mais fausse. ; peser lourd = avoir beaucoup d'importance = Cet argument pèse lourd. ; comparé à = par rapport à = Comparé à l'an dernier, c'est mieux.
+PIEGES: Le texte corrige deux idées reçues successives. ; Supprimer ses courriels n'est pas inutile, seulement peu efficace. ; La comparaison avec l'aviation porte sur la part des émissions.
+
+## CE-TEC-04 | article de presse
+TITRE: Les voitures autonomes tardent à s'imposer
+DOC: Il y a dix ans, de nombreux industriels promettaient des voitures entièrement autonomes sur nos routes avant la fin de la décennie. Ces prévisions se sont révélées trop optimistes. Si des taxis sans chauffeur circulent aujourd'hui dans quelques villes, dans des zones délimitées et par beau temps, la conduite autonome généralisée reste un horizon lointain. ¶ Les obstacles sont multiples. Techniquement, les systèmes peinent à gérer les situations imprévues : un ouvrier qui fait des gestes au milieu de la chaussée, une route enneigée, un cycliste au comportement inattendu. Juridiquement, la question de la responsabilité en cas d'accident n'est pas tranchée : qui est coupable, le propriétaire, le constructeur ou le concepteur du logiciel ? ¶ Enfin, la confiance du public reste fragile. Chaque accident impliquant un véhicule autonome est largement médiatisé, même si les promoteurs de la technologie rappellent que l'erreur humaine est à l'origine de la grande majorité des accidents de la route.
+Q: Que s'est-il passé par rapport aux prévisions d'il y a dix ans ? | compréhension globale
++ La technologie a progressé beaucoup moins vite que prévu. | « Ces prévisions se sont révélées trop optimistes. »
+- Les voitures autonomes ont remplacé toutes les autres. | Ce n'est pas le cas.
+- Les industriels ont abandonné la technologie. | Ce n'est pas dit.
+- Les prévisions étaient trop pessimistes. | C'est l'inverse.
+EXP: La concession « Si des taxis… circulent » n'annule pas le constat d'un retard.
+Q: Quel obstacle juridique le texte évoque-t-il ? | compréhension détaillée
++ L'incertitude sur la responsabilité en cas d'accident. | « La question de la responsabilité en cas d'accident n'est pas tranchée. »
+- L'interdiction des voitures autonomes. | Ce n'est pas dit.
+- Le coût des assurances. | Ce n'est pas évoqué.
+- Le manque de permis de conduire. | Ce n'est pas le sens.
+EXP: L'auteur classe les obstacles : techniques, juridiques, puis liés à la confiance.
+Q: Quel argument les promoteurs avancent-ils ? | argumentation
++ La plupart des accidents sont causés par des humains. | « L'erreur humaine est à l'origine de la grande majorité des accidents de la route. »
+- Les voitures autonomes ne causent jamais d'accident. | Ce n'est pas ce qu'ils disent.
+- Les médias exagèrent volontairement. | Ce n'est pas formulé ainsi.
+- Les routes enneigées sont rares. | Ce n'est pas dit.
+EXP: « Même si » oppose la médiatisation des accidents à une donnée statistique.
+VOCAB: autonome = qui fonctionne seul = Un robot autonome. ; délimité = dont les limites sont fixées = Une zone délimitée. ; la chaussée = la partie de la route où roulent les véhicules = Ne restez pas sur la chaussée. ; médiatisé = dont les médias parlent beaucoup = Un procès très médiatisé.
+EXPR: un horizon lointain = un objectif encore très éloigné = La paix reste un horizon lointain. ; se révéler = s'avérer, apparaître finalement comme = L'idée s'est révélée excellente. ; ne pas être tranché = ne pas être décidé = Le débat n'est pas tranché.
+PIEGES: Des taxis autonomes existent, mais dans des conditions limitées. ; L'argument final est celui des promoteurs. ; Le texte ne dit pas que la technologie est abandonnée.
+
+## CE-TEC-05 | tribune
+TITRE: L'attention, ressource la plus convoitée
+DOC: Notre attention est devenue une marchandise. Les applications que nous utilisons gratuitement tirent leurs revenus de la publicité, et donc du temps que nous passons devant nos écrans. Plus nous restons connectés, plus elles gagnent d'argent. Rien d'étonnant, dès lors, à ce qu'elles soient conçues pour capter notre attention le plus longtemps possible. ¶ Notifications, défilement infini, lecture automatique de la vidéo suivante : ces mécanismes ne doivent rien au hasard. Ils exploitent des ressorts psychologiques bien connus, comme la curiosité ou le besoin de reconnaissance sociale. Il serait injuste d'accuser les utilisateurs de manquer de volonté face à des outils conçus par des équipes entières pour les retenir. ¶ La solution ne peut donc pas reposer uniquement sur la discipline individuelle. Il faudrait encadrer ces pratiques, comme on encadre la publicité ou les jeux d'argent : désactiver par défaut certaines fonctions, imposer des pauses, rendre transparent le fonctionnement des algorithmes. Protéger notre attention, c'est protéger notre capacité à penser par nous-mêmes.
+Q: Pourquoi les applications cherchent-elles à capter notre attention ? | argumentation
++ Parce que leurs revenus dépendent du temps passé par les utilisateurs. | « Plus nous restons connectés, plus elles gagnent d'argent. »
+- Parce qu'elles veulent nous informer. | Ce n'est pas l'argument.
+- Parce que la loi les y oblige. | Ce n'est pas dit.
+- Parce que les utilisateurs le demandent. | Ce n'est pas évoqué.
+EXP: La structure « plus… plus… » établit un lien direct entre attention et profit.
+Q: Pourquoi l'auteur refuse-t-il d'accuser les utilisateurs ? | implicite
++ Parce que les outils sont volontairement conçus pour les retenir. | « Des outils conçus par des équipes entières pour les retenir. »
+- Parce que les utilisateurs ne sont jamais en ligne. | Ce n'est pas dit.
+- Parce que la volonté n'existe pas. | Ce n'est pas le propos.
+- Parce que les applications sont payantes. | Elles sont gratuites.
+EXP: Le déséquilibre entre un individu et une équipe de concepteurs justifie ce refus.
+Q: Quelle solution l'auteur propose-t-il ? | synthèse
++ Réglementer les mécanismes de captation de l'attention. | « Il faudrait encadrer ces pratiques… désactiver par défaut certaines fonctions, imposer des pauses. »
+- Compter uniquement sur la volonté de chacun. | Il dit que cela ne suffit pas.
+- Interdire Internet. | Ce n'est pas proposé.
+- Supprimer la publicité. | Ce n'est pas dit.
+EXP: La comparaison avec les jeux d'argent justifie une régulation.
+VOCAB: convoité = très désiré = Un poste très convoité. ; capter = attirer et retenir = Capter l'attention du public. ; le défilement = le fait de faire passer un contenu à l'écran = Le défilement infini des réseaux sociaux. ; un ressort = un mécanisme, une motivation profonde = Les ressorts de la peur.
+EXPR: ne rien devoir au hasard = être volontaire, calculé = Son succès ne doit rien au hasard. ; dès lors = par conséquent = Dès lors, la décision est logique. ; par défaut = automatiquement, sans choix de l'utilisateur = Cette option est activée par défaut.
+PIEGES: L'auteur ne nie pas la responsabilité individuelle, il la juge insuffisante. ; Les applications sont gratuites pour l'utilisateur. ; La comparaison avec les jeux d'argent concerne la régulation.
+
+## CE-TEC-06 | article de presse
+TITRE: La cybersécurité, affaire de tous
+DOC: Hôpitaux paralysés, mairies privées de leurs fichiers, entreprises contraintes de payer une rançon : les cyberattaques se multiplient et touchent désormais des structures de toutes tailles. Les pirates chiffrent les données de leurs victimes et exigent une somme d'argent pour les débloquer. ¶ Contrairement à une idée reçue, la plupart de ces attaques ne reposent pas sur des prouesses techniques. Elles exploitent souvent des négligences humaines : un mot de passe trop simple, une pièce jointe ouverte sans précaution, une mise à jour non installée. Un seul salarié qui clique sur un lien piégé peut suffire à compromettre tout un réseau. ¶ Les autorités recommandent de ne jamais payer de rançon, car rien ne garantit que les données seront restituées, et cela encourage de nouvelles attaques. Elles insistent sur la prévention : sauvegardes régulières stockées hors ligne, double authentification et formation du personnel. Pour les petites structures, souvent dépourvues de service informatique, des dispositifs publics d'assistance ont été créés.
+Q: Comment fonctionnent les attaques décrites ? | compréhension détaillée
++ Les pirates bloquent les données et demandent de l'argent pour les libérer. | « Les pirates chiffrent les données de leurs victimes et exigent une somme d'argent pour les débloquer. »
+- Les pirates vendent des ordinateurs. | Ce n'est pas dit.
+- Les pirates détruisent les bâtiments. | Ce n'est pas le sens.
+- Les pirates proposent des mises à jour. | Ce n'est pas évoqué.
+EXP: Une « rançon » est l'argent demandé en échange de la libération de quelque chose.
+Q: Sur quoi reposent souvent les attaques ? | argumentation
++ Sur des erreurs ou des imprudences humaines. | « Elles exploitent souvent des négligences humaines. »
+- Sur des technologies extraordinaires. | « Ne reposent pas sur des prouesses techniques. »
+- Sur la complicité des directeurs. | Ce n'est pas dit.
+- Sur des pannes d'électricité. | Ce n'est pas évoqué.
+EXP: « Contrairement à une idée reçue » corrige l'image du pirate génial.
+Q: Pourquoi les autorités déconseillent-elles de payer ? | compréhension détaillée
++ Rien ne garantit la restitution des données et cela encourage d'autres attaques. | « Rien ne garantit que les données seront restituées, et cela encourage de nouvelles attaques. »
+- Parce que c'est trop cher. | Ce n'est pas l'argument.
+- Parce que les données n'ont pas de valeur. | Ce n'est pas dit.
+- Parce que les assurances paient. | Ce n'est pas évoqué.
+EXP: Deux raisons sont reliées par « et ».
+VOCAB: une rançon = une somme exigée pour libérer quelqu'un ou quelque chose = Les pirates réclament une rançon. ; chiffrer = coder des données pour les rendre illisibles = Les fichiers ont été chiffrés. ; une prouesse = un exploit = Une prouesse technique. ; piégé = qui cache un danger = Un lien piégé.
+EXPR: une idée reçue = une opinion commune non vérifiée = C'est une idée reçue. ; sans précaution = sans faire attention = Il a ouvert le colis sans précaution. ; être dépourvu de = ne pas avoir = Une ville dépourvue de cinéma.
+PIEGES: Les attaques ne visent pas que les grandes structures. ; La plupart ne sont pas techniquement sophistiquées. ; Les sauvegardes doivent être stockées hors ligne.
+
+## CE-TEC-07 | article de presse
+TITRE: La 5G, entre promesses et inquiétudes
+DOC: Le déploiement de la cinquième génération de téléphonie mobile se poursuit. Ses promoteurs mettent en avant des débits bien supérieurs, une latence quasi nulle et la possibilité de connecter simultanément un très grand nombre d'objets. Ces performances doivent permettre le développement de l'industrie connectée, de la télémédecine ou des véhicules autonomes. ¶ Cette technologie suscite pourtant des réserves. Sur le plan sanitaire, les agences d'expertise n'ont pas identifié de risque pour la santé aux niveaux d'exposition autorisés, tout en recommandant de poursuivre les études. Sur le plan environnemental, la critique est plus solide : la 5G encourage le renouvellement des téléphones et la multiplication des objets connectés, dont la fabrication pèse lourd sur le climat. ¶ Pour de nombreux observateurs, la vraie question n'est pas technique mais politique : de quels usages avons-nous réellement besoin ? Regarder des vidéos en très haute définition dans le métro justifie-t-il les mêmes investissements que la chirurgie à distance ?
+Q: Quels avantages les promoteurs de la 5G mettent-ils en avant ? | compréhension détaillée
++ Une connexion plus rapide et capable de relier de nombreux objets. | « Des débits bien supérieurs, une latence quasi nulle et la possibilité de connecter simultanément un très grand nombre d'objets. »
+- Une baisse du prix des téléphones. | Ce n'est pas dit.
+- La suppression des antennes. | Ce n'est pas évoqué.
+- Une meilleure autonomie des batteries. | Ce n'est pas mentionné.
+EXP: L'énumération présente les performances techniques.
+Q: Quelle critique le texte juge-t-il la plus fondée ? | argumentation
++ L'impact environnemental lié au renouvellement des appareils. | « Sur le plan environnemental, la critique est plus solide. »
+- Le danger démontré pour la santé. | Aucun risque n'a été identifié.
+- Le manque de vitesse. | C'est l'inverse.
+- Le coût des abonnements. | Ce n'est pas dit.
+EXP: Le comparatif « plus solide » hiérarchise les critiques.
+Q: Que suggère la question finale ? | implicite
++ Tous les usages de la 5G n'ont pas la même utilité sociale. | Elle compare la vidéo dans le métro et la chirurgie à distance.
+- La chirurgie à distance est inutile. | Ce n'est pas le sens.
+- Il faut interdire les vidéos. | Ce n'est pas dit.
+- La 5G ne fonctionne pas dans le métro. | Ce n'est pas le propos.
+EXP: La question rhétorique invite à hiérarchiser les besoins.
+VOCAB: le déploiement = la mise en place progressive = Le déploiement de la fibre. ; le débit = la quantité de données transmise par seconde = Un débit élevé. ; la latence = le délai de réaction d'un réseau = Une faible latence. ; la télémédecine = la médecine pratiquée à distance = La télémédecine aide les zones rurales.
+EXPR: sur le plan de = du point de vue de = Sur le plan financier, c'est intéressant. ; peser lourd sur = avoir un impact important sur = Cette dépense pèse lourd sur le budget. ; mettre en avant = souligner, valoriser = Il met en avant son expérience.
+PIEGES: Les agences n'ont pas trouvé de risque sanitaire aux niveaux autorisés. ; La critique environnementale est jugée plus solide que la critique sanitaire. ; La question finale est rhétorique.
+
+## CE-TEC-08 | article de presse
+TITRE: Les seniors et la fracture numérique
+DOC: Déclarer ses impôts, prendre rendez-vous chez le médecin, consulter son compte bancaire : de plus en plus de démarches se font exclusivement en ligne. Pour une partie de la population, cette évolution est un progrès. Pour d'autres, elle devient une source d'exclusion. Près d'une personne sur six se déclare en difficulté avec les outils numériques, et cette proportion est bien plus élevée chez les plus de soixante-dix ans. ¶ Le problème ne se limite pas à l'âge. Il touche aussi des personnes à faibles revenus, qui n'ont pas d'ordinateur, ou des habitants de zones rurales mal couvertes par le réseau. Certains renoncent alors à des droits auxquels ils pourraient prétendre, faute de pouvoir accomplir les démarches. ¶ Des conseillers numériques ont été déployés dans les mairies et les bibliothèques pour accompagner ces publics. Les associations saluent l'initiative, mais rappellent qu'un accompagnement ne remplace pas le droit de chacun à effectuer ses démarches autrement, par téléphone ou au guichet.
+Q: Quel problème le texte décrit-il ? | compréhension globale
++ La dématérialisation des démarches exclut une partie de la population. | « Pour d'autres, elle devient une source d'exclusion. »
+- Les seniors refusent Internet. | Ce n'est pas dit.
+- Les démarches en ligne sont interdites. | C'est l'inverse.
+- Les bibliothèques ferment. | Ce n'est pas évoqué.
+EXP: L'opposition « progrès » / « exclusion » structure le premier paragraphe.
+Q: Quelle conséquence grave la fracture numérique peut-elle avoir ? | implicite
++ Certaines personnes renoncent à des droits qui leur sont dus. | « Certains renoncent alors à des droits auxquels ils pourraient prétendre. »
+- Les personnes âgées déménagent. | Ce n'est pas dit.
+- Les impôts augmentent. | Ce n'est pas évoqué.
+- Les banques ferment les comptes. | Ce n'est pas mentionné.
+EXP: « Prétendre à » signifie « avoir droit à ».
+Q: Que demandent les associations ? | point de vue
++ Le maintien d'autres moyens que le numérique pour faire ses démarches. | « Le droit de chacun à effectuer ses démarches autrement, par téléphone ou au guichet. »
+- La suppression des conseillers numériques. | Elles saluent l'initiative.
+- L'obligation de tout faire en ligne. | C'est l'inverse.
+- Des ordinateurs gratuits pour tous. | Ce n'est pas dit.
+EXP: « Saluent… mais rappellent » exprime un avis nuancé.
+VOCAB: une démarche = une action administrative = Faire des démarches à la mairie. ; l'exclusion = le fait d'être mis à l'écart = Lutter contre l'exclusion sociale. ; un guichet = un comptoir où l'on est reçu dans une administration = Faire la queue au guichet. ; prétendre à = avoir droit à = Il peut prétendre à une aide.
+EXPR: la fracture numérique = l'inégalité d'accès au numérique = Réduire la fracture numérique. ; se limiter à = ne concerner que = Le problème ne se limite pas à Paris. ; faute de = par manque de = Faute de moyens, il a renoncé.
+PIEGES: La fracture numérique ne concerne pas seulement les personnes âgées. ; Les associations approuvent les conseillers numériques. ; Elles demandent une alternative, pas l'arrêt du numérique.

@@ -11,8 +11,9 @@ from pathlib import Path
 
 from sqlalchemy import delete, select
 
-from tcfmaster.db.models import (Attempt, ErrorLog, PlanProgress, Profile, ReviewItem,
-                                 SpeakingSubmission, StudySession, WritingSubmission)
+from tcfmaster.db.models import (Attempt, ErrorLog, IntensiveProgress, PlanProgress, Profile,
+                                 ReviewItem, SpeakingSubmission, StudySession,
+                                 WritingSubmission)
 
 log = logging.getLogger("tcfmaster.privacy")
 
@@ -70,7 +71,8 @@ def purge_learning_data(db, recordings_dir: Path | None = None) -> dict[str, int
         for name, model in (("productions écrites", WritingSubmission),
                             ("productions orales", SpeakingSubmission),
                             ("erreurs", ErrorLog), ("révisions", ReviewItem),
-                            ("séances", StudySession), ("programme", PlanProgress)):
+                            ("séances", StudySession), ("programme", PlanProgress),
+                            ("programme intensif", IntensiveProgress)):
             n = s.execute(delete(model)).rowcount or 0
             if name not in counts:
                 counts[name] = n

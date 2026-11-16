@@ -1,0 +1,205 @@
+@slug ce-documents-administratifs
+@section CE
+@title Documents administratifs complexes
+@order 13
+@description Courriers officiels, règlements, contrats et notices : repérer les obligations, les délais, les conditions et les exceptions.
+
+## CE-ADM-01 | courrier administratif
+TITRE: Demande de pièces complémentaires
+DOC: Madame, Monsieur, nous accusons réception de votre demande de renouvellement de titre de séjour, déposée le 3 mars. Après examen, votre dossier est incomplet. Afin de poursuivre son instruction, nous vous prions de bien vouloir nous transmettre, dans un délai de trente jours à compter de la date du présent courrier, les pièces suivantes : un justificatif de domicile de moins de trois mois, vos trois derniers bulletins de salaire et une copie de votre contrat de travail en cours. ¶ Ces documents doivent être déposés exclusivement sur votre espace personnel en ligne. Les envois par courrier postal ou par courriel ne seront pas pris en compte. ¶ À défaut de réception des pièces demandées dans le délai imparti, votre demande sera classée sans suite, et il vous appartiendra de déposer un nouveau dossier. Nous vous rappelons que le récépissé qui vous a été remis lors du dépôt reste valable jusqu'à la date qui y figure ; il vous autorise à séjourner et à travailler en France pendant l'instruction de votre demande.
+Q: Quel est l'objet principal de ce courrier ? | compréhension globale
++ Demander des documents manquants pour continuer l'examen du dossier. | « Votre dossier est incomplet. Afin de poursuivre son instruction, nous vous prions de bien vouloir nous transmettre… les pièces suivantes. »
+- Annoncer le refus du titre de séjour. | Le dossier est encore en cours d'examen.
+- Informer de l'acceptation de la demande. | Ce n'est pas dit.
+- Convoquer à un rendez-vous. | Ce n'est pas évoqué.
+EXP: La formule « Afin de poursuivre son instruction » indique que la procédure continue.
+Q: Comment les documents doivent-ils être transmis ? | compréhension détaillée
++ Uniquement par l'espace personnel en ligne. | « Ces documents doivent être déposés exclusivement sur votre espace personnel en ligne. »
+- Par courrier postal. | « Ne seront pas pris en compte. »
+- Par courriel. | « Ne seront pas pris en compte. »
+- En main propre au guichet. | Ce n'est pas proposé.
+EXP: « Exclusivement » exclut tout autre moyen.
+Q: Que se passe-t-il si les pièces ne sont pas envoyées dans les trente jours ? | implicite
++ La demande sera abandonnée et il faudra refaire un dossier. | « Votre demande sera classée sans suite, et il vous appartiendra de déposer un nouveau dossier. »
+- Le délai sera automatiquement prolongé. | Ce n'est pas dit.
+- Le titre de séjour sera accordé. | Ce n'est pas le cas.
+- Le récépissé sera immédiatement annulé. | Le texte dit qu'il reste valable jusqu'à sa date.
+EXP: « Classée sans suite » signifie que la demande ne sera pas traitée.
+VOCAB: l'instruction = l'examen d'un dossier par l'administration = Le dossier est en cours d'instruction. ; un justificatif = un document qui prouve quelque chose = Un justificatif de domicile. ; imparti = accordé, fixé = Dans le délai imparti. ; un récépissé = un document qui prouve qu'un dossier a été déposé = Conservez votre récépissé.
+EXPR: accuser réception = confirmer avoir reçu = Nous accusons réception de votre lettre. ; à compter de = à partir de = À compter du 1er janvier. ; classer sans suite = ne pas donner suite à une demande = La plainte a été classée sans suite. ; il vous appartient de = c'est à vous de = Il vous appartient de vérifier ces informations.
+PIEGES: Le délai court à partir de la date du courrier, pas du dépôt. ; Les envois par courriel ne sont pas acceptés. ; Le récépissé reste valable pendant l'instruction.
+
+## CE-ADM-02 | règlement intérieur
+TITRE: Règlement d'une médiathèque
+DOC: Article 4 – Prêt des documents. L'inscription est gratuite pour les habitants de la commune et les étudiants ; elle est payante pour les autres usagers, selon les tarifs votés par le conseil municipal. Chaque usager inscrit peut emprunter simultanément dix documents, dont deux jeux vidéo au maximum, pour une durée de trois semaines. Le prêt peut être prolongé une fois, pour la même durée, à condition que le document ne soit pas réservé par un autre usager. ¶ Article 5 – Retards. En cas de retard supérieur à quinze jours, le droit d'emprunter est suspendu jusqu'à la restitution des documents. Après trois rappels restés sans réponse, la médiathèque se réserve le droit d'engager une procédure de recouvrement. ¶ Article 6 – Documents perdus ou détériorés. Tout document perdu ou rendu en mauvais état doit être remplacé par l'usager à l'identique ou, si cela est impossible, remboursé au prix d'achat. Les usagers sont invités à signaler toute détérioration constatée au moment du prêt, faute de quoi ils pourront en être tenus responsables.
+Q: Dans quel cas un prêt ne peut-il pas être prolongé ? | compréhension détaillée
++ Quand un autre usager a réservé le document. | « À condition que le document ne soit pas réservé par un autre usager. »
+- Quand l'usager est étudiant. | Ce n'est pas une condition.
+- Quand le document est un livre. | Ce n'est pas dit.
+- Quand l'usager habite la commune. | Ce n'est pas une condition.
+EXP: « À condition que » introduit la condition de la prolongation.
+Q: Que se passe-t-il après un retard de plus de quinze jours ? | compréhension détaillée
++ L'usager ne peut plus emprunter tant qu'il n'a pas rendu les documents. | « Le droit d'emprunter est suspendu jusqu'à la restitution des documents. »
+- L'inscription est définitivement annulée. | La suspension est temporaire.
+- Une amende est immédiatement payée. | Ce n'est pas dit.
+- Les documents sont offerts à l'usager. | Ce n'est pas le cas.
+EXP: « Jusqu'à » indique que la sanction cesse avec la restitution.
+Q: Pourquoi faut-il signaler une détérioration au moment du prêt ? | implicite
++ Pour ne pas être considéré comme responsable du dommage. | « Faute de quoi ils pourront en être tenus responsables. »
+- Pour obtenir un document gratuit. | Ce n'est pas dit.
+- Pour prolonger le prêt. | Ce n'est pas le lien.
+- Pour être remboursé. | Ce n'est pas le sens.
+EXP: « Faute de quoi » signifie « sinon ».
+VOCAB: simultanément = en même temps = Il gère plusieurs projets simultanément. ; la restitution = le fait de rendre = La restitution des clés. ; le recouvrement = l'action de récupérer une somme due = Une procédure de recouvrement. ; détérioré = abîmé = Un livre détérioré.
+EXPR: se réserver le droit de = garder la possibilité de = L'organisateur se réserve le droit d'annuler. ; à l'identique = exactement pareil = Remplacer une pièce à l'identique. ; faute de quoi = sinon = Payez avant le 10, faute de quoi des frais s'appliqueront.
+PIEGES: Seuls deux jeux vidéo peuvent être empruntés parmi les dix documents. ; La prolongation n'est possible qu'une seule fois. ; Le remboursement n'intervient que si le remplacement est impossible.
+
+## CE-ADM-03 | contrat de location
+TITRE: Extrait d'un bail d'habitation
+DOC: Durée du bail. Le présent contrat est conclu pour une durée de trois ans à compter de la date de prise d'effet. À son terme, il sera reconduit tacitement pour la même durée, sauf congé donné par l'une des parties dans les conditions prévues ci-dessous. ¶ Congé donné par le locataire. Le locataire peut mettre fin au bail à tout moment, sous réserve de respecter un préavis de trois mois. Ce préavis est réduit à un mois en cas de mutation professionnelle, de perte d'emploi, d'obtention d'un premier emploi, ou si le logement est situé dans une zone où le marché locatif est tendu. Le congé doit être adressé par lettre recommandée avec accusé de réception, remis en main propre contre signature, ou signifié par huissier. ¶ Dépôt de garantie. Le locataire verse un dépôt de garantie équivalent à un mois de loyer hors charges. Il lui sera restitué dans un délai d'un mois après la remise des clés si l'état des lieux de sortie est conforme à celui d'entrée, et de deux mois dans le cas contraire, déduction faite des sommes éventuellement dues.
+Q: Que se passe-t-il à la fin des trois ans si personne ne donne congé ? | compréhension détaillée
++ Le bail est automatiquement renouvelé pour trois ans. | « Il sera reconduit tacitement pour la même durée. »
+- Le locataire doit quitter le logement. | Ce n'est pas le cas.
+- Un nouveau contrat doit être signé. | La reconduction est tacite.
+- Le loyer double. | Ce n'est pas dit.
+EXP: « Tacitement » signifie sans qu'il soit nécessaire de le dire ou de l'écrire.
+Q: Dans quel cas le préavis du locataire est-il d'un mois ? | compréhension détaillée
++ En cas de perte d'emploi. | La perte d'emploi figure dans la liste des cas de préavis réduit.
+- Dans tous les cas. | Le préavis normal est de trois mois.
+- Quand le locataire part en vacances. | Ce n'est pas un motif prévu.
+- Quand le propriétaire le demande. | Ce n'est pas dit.
+EXP: Le texte énumère les situations qui réduisent le préavis.
+Q: Quand le dépôt de garantie est-il rendu en deux mois ? | implicite
++ Quand l'état du logement à la sortie diffère de celui à l'entrée. | « De deux mois dans le cas contraire », c'est-à-dire si l'état des lieux n'est pas conforme.
+- Quand le locataire a payé tous ses loyers. | Ce n'est pas la condition.
+- Quand le bail est reconduit. | Ce n'est pas dit.
+- Dans tous les cas. | Le délai normal est d'un mois.
+EXP: « Dans le cas contraire » renvoie à la condition précédente.
+VOCAB: un bail = un contrat de location = Signer un bail. ; reconduire = renouveler = Le contrat est reconduit chaque année. ; un préavis = un délai à respecter avant de partir = Un préavis de trois mois. ; un état des lieux = la description de l'état d'un logement = L'état des lieux d'entrée.
+EXPR: sous réserve de = à condition de = Sous réserve d'acceptation. ; en main propre = directement à la personne = Remettre une lettre en main propre. ; déduction faite de = après avoir retiré = Le solde vous sera versé, déduction faite des frais.
+PIEGES: Le préavis normal du locataire est de trois mois. ; Le dépôt de garantie correspond au loyer hors charges. ; La reconduction est automatique sauf congé.
+
+## CE-ADM-04 | notice officielle
+TITRE: Aide au logement : conditions d'attribution
+DOC: L'aide personnalisée au logement est destinée à réduire le montant du loyer ou des mensualités de prêt des personnes aux ressources modestes. Elle peut être accordée aux locataires, aux colocataires et, sous certaines conditions, aux propriétaires qui remboursent un prêt pour leur résidence principale. ¶ Pour en bénéficier, le logement doit constituer la résidence principale du demandeur, c'est-à-dire être occupé au moins huit mois par an. Il doit également répondre à des critères de décence, notamment en matière de surface minimale et d'équipements. Le montant de l'aide dépend des ressources du foyer, de la composition de la famille, du montant du loyer et de la zone géographique. ¶ L'aide n'est pas versée si son montant mensuel est inférieur à dix euros. Elle est en principe versée directement au propriétaire, qui la déduit du loyer, sauf si le locataire en fait la demande et que le propriétaire n'est pas un organisme de logement social. Tout changement de situation, comme une naissance, un déménagement ou une variation de revenus, doit être déclaré dans le mois qui suit.
+Q: Quelle condition concerne l'occupation du logement ? | compréhension détaillée
++ Il doit être habité au moins huit mois par an. | « Être occupé au moins huit mois par an. »
+- Il doit être occupé toute l'année. | Huit mois suffisent.
+- Il doit être une résidence secondaire. | Il doit être la résidence principale.
+- Il doit être acheté par le demandeur. | Les locataires peuvent en bénéficier.
+EXP: « C'est-à-dire » introduit la définition de la résidence principale.
+Q: À qui l'aide est-elle généralement versée ? | compréhension détaillée
++ Au propriétaire, qui la déduit du loyer. | « Elle est en principe versée directement au propriétaire, qui la déduit du loyer. »
+- Toujours au locataire. | Ce n'est le cas que sous conditions.
+- À la mairie. | Ce n'est pas dit.
+- À la banque. | Ce n'est pas évoqué.
+EXP: « En principe » indique la règle générale, suivie d'une exception.
+Q: Que doit faire le bénéficiaire en cas de naissance ? | implicite
++ La déclarer dans le mois suivant. | « Tout changement de situation, comme une naissance… doit être déclaré dans le mois qui suit. »
+- Attendre le renouvellement annuel. | Ce n'est pas dit.
+- Rien, l'aide est fixe. | Elle dépend de la composition du foyer.
+- Déménager. | Ce n'est pas le sens.
+EXP: La naissance est citée comme exemple de changement de situation.
+VOCAB: une mensualité = une somme payée chaque mois = Les mensualités du prêt. ; la décence = ici, le respect de normes minimales de confort = Un logement qui respecte les critères de décence. ; le foyer = l'ensemble des personnes vivant sous le même toit = Les revenus du foyer. ; déduire = soustraire = Déduire une somme du total.
+EXPR: sous certaines conditions = seulement dans certains cas = L'aide est accordée sous certaines conditions. ; en principe = normalement, sauf exception = En principe, le bureau est ouvert le lundi. ; en matière de = dans le domaine de = En matière de sécurité, il faut être prudent.
+PIEGES: Les propriétaires peuvent en bénéficier « sous certaines conditions ». ; L'aide n'est pas versée en dessous de dix euros par mois. ; Le versement au locataire est une exception.
+
+## CE-ADM-05 | conditions générales
+TITRE: Conditions d'annulation d'un séjour
+DOC: Article 8 – Annulation par le client. Toute annulation doit être notifiée par écrit. Les frais d'annulation sont calculés en fonction de la date de réception de la demande par rapport à la date de début du séjour : plus de trente jours avant le départ, une retenue de 10 % du prix total est appliquée ; entre trente et quinze jours, 50 % ; moins de quinze jours avant le départ, la totalité du séjour est due. ¶ Les frais de dossier, d'un montant de 25 euros, ne sont en aucun cas remboursables. ¶ Article 9 – Annulation par l'organisateur. Si l'organisateur annule le séjour, sauf en cas de force majeure ou si le nombre minimum de participants n'est pas atteint, le client est remboursé intégralement et reçoit une indemnité égale à celle qu'il aurait supportée s'il avait lui-même annulé à cette date. ¶ Article 10 – Assurance. Le client peut souscrire une assurance annulation au moment de la réservation. Celle-ci couvre notamment la maladie, l'accident ou le décès d'un proche, sur présentation de justificatifs. Elle ne peut pas être souscrite après le paiement du solde.
+Q: Combien paie un client qui annule vingt jours avant le départ ? | compréhension détaillée
++ La moitié du prix total. | « Entre trente et quinze jours, 50 %. »
+- 10 % du prix. | C'est pour une annulation à plus de trente jours.
+- La totalité du prix. | C'est pour moins de quinze jours.
+- Rien. | Des frais s'appliquent toujours.
+EXP: Il faut situer vingt jours dans la bonne tranche.
+Q: Dans quel cas l'organisateur ne verse-t-il pas d'indemnité en annulant ? | compréhension détaillée
++ Si le nombre minimum de participants n'est pas atteint. | « Sauf en cas de force majeure ou si le nombre minimum de participants n'est pas atteint. »
+- S'il annule trois jours avant. | Ce n'est pas une exception prévue.
+- Si le client a réservé en ligne. | Ce n'est pas dit.
+- Si le séjour est à l'étranger. | Ce n'est pas évoqué.
+EXP: « Sauf » introduit les exceptions.
+Q: Quand peut-on souscrire l'assurance annulation ? | implicite
++ Au moment de la réservation, et pas après le paiement du solde. | « Au moment de la réservation… Elle ne peut pas être souscrite après le paiement du solde. »
+- À tout moment, même la veille du départ. | Ce n'est pas possible après le solde.
+- Seulement après une maladie. | C'est l'inverse.
+- Uniquement pour les séjours longs. | Ce n'est pas dit.
+EXP: Les deux phrases fixent la période possible.
+VOCAB: notifier = informer officiellement = Notifier une décision. ; une retenue = une somme gardée = Une retenue sur salaire. ; la force majeure = un événement imprévisible et irrésistible = Une tempête est un cas de force majeure. ; le solde = la somme qui reste à payer = Payer le solde avant le départ.
+EXPR: en aucun cas = jamais = Ce document ne doit en aucun cas être modifié. ; souscrire une assurance = signer un contrat d'assurance = Il a souscrit une assurance voyage. ; sur présentation de = en montrant = Gratuit sur présentation de la carte étudiant.
+PIEGES: Les frais de dossier ne sont jamais remboursés. ; La date prise en compte est celle de réception de la demande. ; L'organisateur ne verse pas d'indemnité en cas de force majeure.
+
+## CE-ADM-06 | courrier administratif
+TITRE: Avis de contrôle fiscal sur pièces
+DOC: Madame, Monsieur, dans le cadre de l'examen de votre déclaration de revenus de l'année précédente, nous avons constaté une différence entre le montant des revenus que vous avez déclarés et les informations qui nous ont été transmises par votre employeur. Le montant déclaré est inférieur de 2 340 euros au montant communiqué. ¶ Nous vous invitons à nous faire parvenir vos observations, accompagnées de tout justificatif utile, dans un délai de trente jours. Si cette différence résulte d'une erreur de votre part, vous pouvez la régulariser sans pénalité en déposant une déclaration rectificative dans le même délai. ¶ À défaut de réponse, l'administration procédera à la rectification de votre imposition sur la base des éléments en sa possession. Les sommes supplémentaires dues seront alors majorées d'intérêts de retard. Vous conservez la possibilité de contester cette décision selon les voies de recours indiquées au verso du présent courrier. Ce courrier ne constitue pas une sanction et ne préjuge pas de la suite qui sera donnée à votre dossier.
+Q: Quel problème l'administration a-t-elle constaté ? | compréhension détaillée
++ Les revenus déclarés sont inférieurs à ceux communiqués par l'employeur. | « Le montant déclaré est inférieur de 2 340 euros au montant communiqué. »
+- Le contribuable n'a pas déclaré ses revenus. | Il les a déclarés.
+- L'employeur n'a rien transmis. | Il a transmis des informations.
+- Le contribuable a déclaré trop de revenus. | C'est l'inverse.
+EXP: Le chiffre précise l'écart constaté.
+Q: Comment le contribuable peut-il éviter une pénalité en cas d'erreur ? | compréhension détaillée
++ En déposant une déclaration rectificative dans les trente jours. | « Vous pouvez la régulariser sans pénalité en déposant une déclaration rectificative dans le même délai. »
+- En attendant une nouvelle lettre. | Ce n'est pas dit.
+- En payant immédiatement le double. | Ce n'est pas évoqué.
+- En contactant son employeur. | Ce n'est pas la démarche indiquée.
+EXP: La condition « si cette différence résulte d'une erreur » précède la solution.
+Q: Que précise la dernière phrase ? | implicite
++ Le courrier n'est pas une punition et l'issue du dossier n'est pas encore décidée. | « Ce courrier ne constitue pas une sanction et ne préjuge pas de la suite qui sera donnée. »
+- Le contribuable est déjà condamné. | C'est l'inverse.
+- Le dossier est clos. | Ce n'est pas dit.
+- Aucun recours n'est possible. | Des voies de recours sont indiquées.
+EXP: « Ne pas préjuger » signifie ne pas décider à l'avance.
+VOCAB: régulariser = mettre en règle = Régulariser sa situation. ; rectificatif = qui corrige = Une déclaration rectificative. ; majoré = augmenté = Une facture majorée de 10 %. ; un recours = une action pour contester une décision = Former un recours.
+EXPR: dans le cadre de = à l'occasion de = Dans le cadre de cette enquête. ; faire parvenir = envoyer = Faites-nous parvenir votre dossier. ; ne pas préjuger de = ne pas décider à l'avance = Cela ne préjuge pas du résultat.
+PIEGES: Le courrier n'est pas une sanction. ; Sans réponse, l'administration rectifie avec intérêts de retard. ; La régularisation est sans pénalité seulement dans le délai.
+
+## CE-ADM-07 | règlement
+TITRE: Règlement d'un concours de photographie
+DOC: Article 2 – Participation. Le concours est ouvert à toute personne majeure, à l'exception des membres du jury et de leur famille. Les mineurs de plus de quinze ans peuvent participer avec une autorisation écrite de leur représentant légal. Chaque participant peut présenter trois photographies au maximum, prises dans les douze mois précédant la date limite de dépôt. ¶ Article 3 – Conditions techniques. Les photographies doivent être envoyées au format numérique, en haute définition. Les retouches légères, comme le recadrage ou l'ajustement de la luminosité, sont autorisées ; les montages et l'ajout d'éléments sont interdits et entraînent l'élimination. ¶ Article 4 – Droits. Les participants garantissent être les auteurs des photographies et avoir obtenu l'accord des personnes reconnaissables. Ils conservent leurs droits d'auteur, mais autorisent l'organisateur à diffuser gratuitement les œuvres primées dans le cadre de la promotion du concours, pendant une durée de deux ans, avec mention du nom de l'auteur.
+Q: Qui ne peut pas participer au concours ? | compréhension détaillée
++ Un membre de la famille d'un juré. | « À l'exception des membres du jury et de leur famille. »
+- Un adulte de trente ans. | Toute personne majeure peut participer.
+- Un mineur de seize ans avec autorisation. | Les plus de quinze ans peuvent participer avec autorisation.
+- Un photographe amateur. | Rien ne l'interdit.
+EXP: « À l'exception de » introduit les exclusions.
+Q: Quelle modification d'image entraîne l'élimination ? | compréhension détaillée
++ L'ajout d'un élément qui n'était pas sur la photo. | « Les montages et l'ajout d'éléments sont interdits et entraînent l'élimination. »
+- Le recadrage. | C'est autorisé.
+- L'ajustement de la luminosité. | C'est autorisé.
+- L'envoi en haute définition. | C'est obligatoire.
+EXP: Le point-virgule sépare ce qui est autorisé de ce qui est interdit.
+Q: Que peut faire l'organisateur avec les photos primées ? | implicite
++ Les diffuser gratuitement pendant deux ans pour promouvoir le concours, en citant l'auteur. | « Autorisent l'organisateur à diffuser gratuitement les œuvres primées… pendant une durée de deux ans, avec mention du nom. »
+- Les vendre à des entreprises. | Ce n'est pas autorisé.
+- Les utiliser sans limite de temps. | La durée est de deux ans.
+- Devenir propriétaire des droits d'auteur. | Les participants les conservent.
+EXP: L'autorisation est limitée par son objet, sa durée et ses conditions.
+VOCAB: majeur = qui a atteint l'âge légal de la majorité = Être majeur. ; le représentant légal = la personne responsable d'un mineur = Signature du représentant légal. ; le recadrage = le fait de modifier le cadre d'une image = Un simple recadrage. ; primé = qui a reçu un prix = Une œuvre primée.
+EXPR: à l'exception de = sauf = Tout le monde est venu, à l'exception de Paul. ; entraîner l'élimination = provoquer l'exclusion = Toute fraude entraîne l'élimination. ; avec mention de = en indiquant = Reproduction autorisée avec mention de la source.
+PIEGES: Les mineurs de plus de quinze ans peuvent participer avec autorisation. ; Les retouches légères sont autorisées. ; Les auteurs conservent leurs droits.
+
+## CE-ADM-08 | notice officielle
+TITRE: Inscription sur les listes électorales
+DOC: L'inscription sur les listes électorales est obligatoire pour pouvoir voter. Les jeunes qui atteignent dix-huit ans sont inscrits automatiquement s'ils ont effectué leur recensement citoyen. Les personnes qui ont déménagé, ou qui ont acquis la nationalité française, doivent en revanche faire elles-mêmes la démarche. ¶ La demande peut être effectuée en ligne, en mairie ou par courrier. Le demandeur doit fournir un justificatif d'identité et un justificatif d'attache avec la commune : domicile, résidence depuis au moins six mois, ou paiement des impôts locaux depuis au moins deux ans. ¶ Pour pouvoir voter lors d'une élection, il faut être inscrit au plus tard le sixième vendredi précédant le scrutin. Toutefois, certaines personnes peuvent s'inscrire jusqu'au dixième jour précédant le scrutin en raison d'une situation particulière, comme un déménagement pour motif professionnel ou l'acquisition de la nationalité après la date limite. Les citoyens européens résidant en France peuvent s'inscrire sur des listes complémentaires pour voter aux élections municipales et européennes.
+Q: Qui est inscrit automatiquement ? | compréhension détaillée
++ Les jeunes de dix-huit ans qui ont fait leur recensement citoyen. | « Les jeunes qui atteignent dix-huit ans sont inscrits automatiquement s'ils ont effectué leur recensement citoyen. »
+- Toutes les personnes qui déménagent. | Elles doivent faire la démarche.
+- Les nouveaux citoyens français. | Ils doivent faire la démarche.
+- Les citoyens européens. | Ils s'inscrivent sur des listes complémentaires.
+EXP: La condition « s'ils ont effectué » est essentielle.
+Q: Lequel de ces justificatifs d'attache avec la commune est accepté ? | compréhension détaillée
++ Le paiement des impôts locaux depuis au moins deux ans. | Il figure dans la liste des justificatifs d'attache.
+- Une résidence de trois mois. | Il faut au moins six mois.
+- Un abonnement à la bibliothèque. | Ce n'est pas cité.
+- Le paiement des impôts locaux depuis un an. | Il faut au moins deux ans.
+EXP: Les durées indiquées sont des minimums à respecter.
+Q: Quelle est la règle générale concernant la date limite d'inscription ? | implicite
++ Il faut être inscrit au plus tard le sixième vendredi avant l'élection, sauf exceptions. | « Au plus tard le sixième vendredi précédant le scrutin. Toutefois, certaines personnes… jusqu'au dixième jour. »
+- On peut s'inscrire le jour du vote. | Ce n'est pas possible.
+- Tout le monde peut s'inscrire jusqu'au dixième jour. | C'est une exception limitée.
+- Il n'y a pas de date limite. | Une date limite existe.
+EXP: « Toutefois » introduit les exceptions à la règle générale.
+VOCAB: le recensement = l'enregistrement officiel = Le recensement citoyen à seize ans. ; un scrutin = une élection, un vote = Le scrutin aura lieu dimanche. ; acquérir = obtenir = Acquérir la nationalité. ; complémentaire = qui s'ajoute = Une liste complémentaire.
+EXPR: au plus tard = pas après = Rendez votre dossier au plus tard lundi. ; en revanche = au contraire = Lui est d'accord ; elle, en revanche, refuse. ; en raison de = à cause de = Le match est reporté en raison de la pluie.
+PIEGES: L'inscription automatique dépend du recensement. ; Le délai jusqu'au dixième jour est une exception. ; Les citoyens européens ne votent qu'à certaines élections.

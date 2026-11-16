@@ -1,0 +1,1032 @@
+{
+ "slug": "ce-sante",
+ "section": "CE",
+ "title": "Santé",
+ "description": "Articles de santé publique et de vulgarisation médicale : comprendre les recommandations, les données et leurs limites.",
+ "order": 11,
+ "level": "B2",
+ "items": [
+  {
+   "code": "CE-SAN-01",
+   "level": "B2",
+   "doc_type": "article de vulgarisation",
+   "questions": [
+    {
+     "prompt": "Selon le texte, le manque de sommeil a-t-il seulement des effets sur la fatigue ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Oui, mais seulement chez les enfants.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Non, il améliore la mémoire.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "B"
+      },
+      {
+       "text": "Non, il est associé à plusieurs maladies.",
+       "correct": true,
+       "rationale": "« Les études l'associent à un risque accru de surpoids, de diabète, de maladies cardiovasculaires et de troubles de l'humeur. »",
+       "label": "C"
+      },
+      {
+       "text": "Oui, il ne provoque que de la fatigue.",
+       "correct": false,
+       "rationale": "« N'est pas qu'une question de fatigue. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "La tournure « n'est pas qu'une question de » annonce d'autres effets."
+    },
+    {
+     "prompt": "Que fait le cerveau pendant le sommeil ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Il s'arrête complètement.",
+       "correct": false,
+       "rationale": "« Ne se met pas au repos complet. »",
+       "label": "A"
+      },
+      {
+       "text": "Il consolide les apprentissages et régule certaines hormones.",
+       "correct": true,
+       "rationale": "« Il consolide les apprentissages… élimine certains déchets… régule les hormones qui contrôlent l'appétit. »",
+       "label": "B"
+      },
+      {
+       "text": "Il oublie tout ce qui a été appris.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "C"
+      },
+      {
+       "text": "Il produit des déchets supplémentaires.",
+       "correct": false,
+       "rationale": "Il en élimine.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'énumération décrit les fonctions actives du cerveau endormi."
+    },
+    {
+     "prompt": "Pourquoi les médecins se méfient-ils des somnifères ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Ils n'offrent pas un sommeil de bonne qualité et peuvent rendre dépendant.",
+       "correct": true,
+       "rationale": "« Améliorent la durée du sommeil sans en restaurer toute la qualité, et peuvent entraîner une dépendance. »",
+       "label": "A"
+      },
+      {
+       "text": "Ils sont interdits.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Ils empêchent de dormir.",
+       "correct": false,
+       "rationale": "Ils augmentent la durée du sommeil.",
+       "label": "C"
+      },
+      {
+       "text": "Ils coûtent trop cher.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La mise en garde porte sur un « usage prolongé »."
+    }
+   ],
+   "title": "Le sommeil, grand oublié de la santé",
+   "document": "Les adultes dorment en moyenne une heure de moins qu'il y a cinquante ans. Écrans le soir, horaires de travail décalés, temps de transport : les causes sont nombreuses. Or le manque de sommeil n'est pas qu'une question de fatigue. Les études l'associent à un risque accru de surpoids, de diabète, de maladies cardiovasculaires et de troubles de l'humeur.\n\nPendant le sommeil, le cerveau ne se met pas au repos complet. Il consolide les apprentissages de la journée, élimine certains déchets produits par l'activité des neurones et régule les hormones qui contrôlent l'appétit. Un adolescent qui dort mal aura ainsi plus de mal à retenir ses leçons et aura tendance à manger davantage.\n\nLes médecins recommandent des horaires réguliers, une chambre sombre et fraîche, et l'arrêt des écrans au moins une heure avant le coucher. Ils mettent aussi en garde contre l'usage prolongé des somnifères, qui améliorent la durée du sommeil sans en restaurer toute la qualité, et peuvent entraîner une dépendance.",
+   "vocabulary": [
+    {
+     "terme": "accru",
+     "definition": "augmenté",
+     "exemple": "Un risque accru."
+    },
+    {
+     "terme": "consolider",
+     "definition": "renforcer, rendre plus solide",
+     "exemple": "Consolider ses connaissances."
+    },
+    {
+     "terme": "un somnifère",
+     "definition": "un médicament pour dormir",
+     "exemple": "Il prend un somnifère."
+    },
+    {
+     "terme": "la dépendance",
+     "definition": "le besoin de consommer une substance",
+     "exemple": "La dépendance au tabac."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "avoir tendance à",
+     "sens": "être porté à",
+     "exemple": "Il a tendance à exagérer."
+    },
+    {
+     "expression": "mettre en garde contre",
+     "sens": "avertir d'un danger",
+     "exemple": "Les médecins mettent en garde contre le tabac."
+    },
+    {
+     "expression": "se mettre au repos",
+     "sens": "arrêter de fonctionner",
+     "exemple": "Le corps ne se met jamais totalement au repos."
+    }
+   ],
+   "traps": [
+    "Le cerveau reste actif pendant le sommeil.",
+    "Les somnifères augmentent la durée mais pas toute la qualité du sommeil.",
+    "La mise en garde porte sur un usage prolongé."
+   ]
+  },
+  {
+   "code": "CE-SAN-02",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Pourquoi les jeunes médecins hésitent-ils à s'installer dans certains territoires ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Parce que les salaires y sont interdits.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Parce qu'il n'y a pas de patients.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que la loi le leur interdit.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Par crainte d'être isolés et de trop travailler.",
+       "correct": true,
+       "rationale": "« Ils craignent l'isolement et une charge de travail excessive. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le verbe « craindre » introduit leurs motifs."
+    },
+    {
+     "prompt": "Que proposent certains élus ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Interdire la téléconsultation.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Limiter les nouvelles installations dans les zones déjà bien équipées.",
+       "correct": true,
+       "rationale": "« Réguler l'installation des médecins… en limitant les nouvelles installations dans les zones déjà bien pourvues. »",
+       "label": "B"
+      },
+      {
+       "text": "Supprimer les maisons de santé.",
+       "correct": false,
+       "rationale": "Ce n'est pas proposé.",
+       "label": "C"
+      },
+      {
+       "text": "Fermer les facultés de médecine.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'exemple des pharmaciens sert de modèle."
+    },
+    {
+     "prompt": "Selon les syndicats, quelle est la cause principale du problème ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "La mauvaise qualité des maisons de santé.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "Le manque d'aides financières.",
+       "correct": false,
+       "rationale": "Ce n'est pas leur argument.",
+       "label": "B"
+      },
+      {
+       "text": "Le refus des patients de se déplacer.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Le nombre trop faible de médecins formés pendant longtemps.",
+       "correct": true,
+       "rationale": "« Le vrai problème est le nombre insuffisant de médecins formés pendant des décennies. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Le vrai problème » signale l'explication qu'ils jugent essentielle."
+    }
+   ],
+   "title": "Les déserts médicaux s'étendent",
+   "document": "Dans de nombreuses zones rurales, mais aussi dans certaines banlieues, trouver un médecin traitant devient un parcours du combattant. Près de six millions de personnes n'en ont pas. Les départs à la retraite ne sont pas remplacés, et les jeunes médecins hésitent à s'installer dans des territoires où ils craignent l'isolement et une charge de travail excessive.\n\nLes pouvoirs publics ont multiplié les incitations : aides financières à l'installation, maisons de santé regroupant plusieurs professionnels, développement de la téléconsultation. Les résultats restent limités. Certains élus proposent donc de réguler l'installation des médecins, comme c'est déjà le cas pour les pharmaciens, en limitant les nouvelles installations dans les zones déjà bien pourvues.\n\nLes syndicats de médecins s'y opposent fermement. Ils estiment qu'une contrainte découragerait les étudiants de choisir la médecine générale, déjà peu attractive, et rappellent que le vrai problème est le nombre insuffisant de médecins formés pendant des décennies. Les effets de l'augmentation récente des places en faculté ne se feront sentir que dans une dizaine d'années.",
+   "vocabulary": [
+    {
+     "terme": "un médecin traitant",
+     "definition": "le médecin habituel d'un patient",
+     "exemple": "Choisir son médecin traitant."
+    },
+    {
+     "terme": "une incitation",
+     "definition": "une mesure qui encourage",
+     "exemple": "Des incitations fiscales."
+    },
+    {
+     "terme": "la téléconsultation",
+     "definition": "une consultation médicale à distance",
+     "exemple": "La téléconsultation se développe."
+    },
+    {
+     "terme": "pourvu",
+     "definition": "équipé, fourni",
+     "exemple": "Une région bien pourvue en hôpitaux."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "un parcours du combattant",
+     "sens": "une série de difficultés",
+     "exemple": "Trouver un logement est un parcours du combattant."
+    },
+    {
+     "expression": "un désert médical",
+     "sens": "une zone qui manque de médecins",
+     "exemple": "Ce village est devenu un désert médical."
+    },
+    {
+     "expression": "se faire sentir",
+     "sens": "devenir perceptible",
+     "exemple": "Les effets se feront sentir plus tard."
+    }
+   ],
+   "traps": [
+    "Les déserts médicaux touchent aussi certaines banlieues.",
+    "La régulation existe déjà pour les pharmaciens.",
+    "L'augmentation des places en faculté aura des effets dans dix ans seulement."
+   ]
+  },
+  {
+   "code": "CE-SAN-03",
+   "level": "B2",
+   "doc_type": "article de vulgarisation",
+   "questions": [
+    {
+     "prompt": "Qu'est-ce que l'antibiorésistance ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Un nouveau type d'antibiotique.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Une allergie aux antibiotiques.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "B"
+      },
+      {
+       "text": "La capacité de certaines bactéries à résister aux antibiotiques.",
+       "correct": true,
+       "rationale": "« Des bactéries résistantes, contre lesquelles les traitements habituels ne fonctionnent plus. »",
+       "label": "C"
+      },
+      {
+       "text": "Une maladie virale.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le mot est formé de « antibiotique » et « résistance »."
+    },
+    {
+     "prompt": "Pourquoi prendre un antibiotique contre un rhume est-il inutile et risqué ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Le rhume est viral et l'antibiotique favorise les bactéries résistantes.",
+       "correct": true,
+       "rationale": "« Maladie virale sur laquelle ils n'ont aucun effet… favorise donc ce phénomène. »",
+       "label": "A"
+      },
+      {
+       "text": "Les antibiotiques sont trop chers.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "L'antibiotique aggrave toujours le rhume.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Le rhume est une infection bactérienne grave.",
+       "correct": false,
+       "rationale": "Le texte dit qu'il est viral.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le mécanisme expliqué juste avant justifie le risque."
+    },
+    {
+     "prompt": "Pourquoi la recherche de nouveaux antibiotiques avance-t-elle lentement ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Parce que les antibiotiques sont interdits.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Parce qu'il n'y a plus de bactéries.",
+       "correct": false,
+       "rationale": "C'est faux.",
+       "label": "B"
+      },
+      {
+       "text": "Parce qu'elle est peu rentable pour les laboratoires.",
+       "correct": true,
+       "rationale": "« Peu rentable pour l'industrie pharmaceutique. »",
+       "label": "C"
+      },
+      {
+       "text": "Parce que les campagnes ont échoué.",
+       "correct": false,
+       "rationale": "Elles ont réduit la consommation.",
+       "label": "D"
+      }
+     ],
+     "explanation": "L'adjectif « rentable » renvoie à une logique économique."
+    }
+   ],
+   "title": "L'antibiorésistance, menace silencieuse",
+   "document": "Les antibiotiques ont révolutionné la médecine au XXe siècle. Des infections autrefois mortelles se soignent aujourd'hui en quelques jours. Mais leur usage excessif a favorisé l'apparition de bactéries résistantes, contre lesquelles les traitements habituels ne fonctionnent plus. Ces infections causent déjà plus d'un million de décès par an dans le monde.\n\nLe mécanisme est simple : chaque fois qu'on utilise un antibiotique, les bactéries sensibles meurent, mais les quelques bactéries naturellement résistantes survivent et se multiplient. Prendre des antibiotiques contre un rhume, maladie virale sur laquelle ils n'ont aucun effet, ou interrompre un traitement trop tôt, favorise donc ce phénomène. L'élevage intensif, qui utilise de grandes quantités d'antibiotiques, y contribue aussi largement.\n\nLes campagnes d'information ont permis de réduire la consommation, mais la vigilance reste nécessaire. La recherche de nouveaux antibiotiques, peu rentable pour l'industrie pharmaceutique, avance lentement, et certains experts craignent un retour à une époque où une simple infection pouvait être fatale.",
+   "vocabulary": [
+    {
+     "terme": "une bactérie",
+     "definition": "un micro-organisme vivant",
+     "exemple": "Certaines bactéries sont utiles."
+    },
+    {
+     "terme": "résistant",
+     "definition": "qui supporte, qui ne cède pas",
+     "exemple": "Une bactérie résistante."
+    },
+    {
+     "terme": "viral",
+     "definition": "causé par un virus",
+     "exemple": "Une infection virale."
+    },
+    {
+     "terme": "fatal",
+     "definition": "mortel",
+     "exemple": "Une erreur fatale."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "une menace silencieuse",
+     "sens": "un danger qui progresse sans qu'on le remarque",
+     "exemple": "La pollution est une menace silencieuse."
+    },
+    {
+     "expression": "interrompre un traitement",
+     "sens": "arrêter un traitement avant la fin",
+     "exemple": "N'interrompez pas votre traitement."
+    },
+    {
+     "expression": "rester vigilant",
+     "sens": "continuer à faire attention",
+     "exemple": "Il faut rester vigilant."
+    }
+   ],
+   "traps": [
+    "Les antibiotiques n'agissent pas contre les virus.",
+    "L'élevage intensif contribue aussi au problème.",
+    "La consommation a baissé, mais le risque demeure."
+   ]
+  },
+  {
+   "code": "CE-SAN-04",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Pourquoi les médecins prescrivent-ils une activité physique ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Parce qu'elle améliore l'état de santé de patients atteints de maladies chroniques.",
+       "correct": true,
+       "rationale": "« Réduit la fatigue, améliore l'efficacité des traitements et diminue le risque de rechute. »",
+       "label": "A"
+      },
+      {
+       "text": "Parce que c'est obligatoire.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "B"
+      },
+      {
+       "text": "Pour remplacer tous les médicaments.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "C"
+      },
+      {
+       "text": "Pour faire perdre du poids à tous les patients.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'unique objectif.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Les effets cités justifient la prescription."
+    },
+    {
+     "prompt": "Pourquoi le dispositif peine-t-il à se généraliser ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Les patients n'aiment pas le sport.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Les médecins refusent de le prescrire.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'argument principal.",
+       "label": "B"
+      },
+      {
+       "text": "Les clubs sportifs ferment.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Les séances ne sont généralement pas remboursées.",
+       "correct": true,
+       "rationale": "« Les séances… ne sont pas remboursées par l'assurance maladie, sauf exceptions. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Dans la pratique » introduit l'écart entre le principe et son application."
+    },
+    {
+     "prompt": "Pourquoi les associations de patients réclament-elles un remboursement national ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Pour augmenter le prix des séances.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "A"
+      },
+      {
+       "text": "Elles pensent qu'il permettrait de réduire les dépenses de santé à long terme.",
+       "correct": true,
+       "rationale": "« Qui permettrait, selon elles, de réaliser des économies à long terme. »",
+       "label": "B"
+      },
+      {
+       "text": "Pour fermer les plateformes régionales.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Pour financer les mutuelles.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Selon elles » indique qu'il s'agit de leur argument, non d'un fait établi."
+    }
+   ],
+   "title": "Le sport sur ordonnance",
+   "document": "Depuis quelques années, les médecins peuvent prescrire une activité physique adaptée à certains patients atteints de maladies chroniques, comme le diabète, l'obésité ou certains cancers. Les études montrent en effet que l'exercice régulier réduit la fatigue, améliore l'efficacité des traitements et diminue le risque de rechute. Pour certaines pathologies, ses effets sont comparables à ceux d'un médicament.\n\nDans la pratique, le dispositif peine à se généraliser. Les séances, encadrées par des professionnels formés, ne sont pas remboursées par l'assurance maladie, sauf exceptions locales ou prises en charge par certaines mutuelles. Beaucoup de patients renoncent donc pour des raisons financières, alors que ce sont souvent les plus modestes qui en auraient le plus besoin.\n\nLes médecins eux-mêmes manquent parfois d'informations sur les structures existantes près de chez eux. Plusieurs régions ont créé des plateformes qui orientent les patients vers des associations sportives ou des clubs labellisés. Les associations de patients réclament un remboursement national, qui permettrait, selon elles, de réaliser des économies à long terme.",
+   "vocabulary": [
+    {
+     "terme": "prescrire",
+     "definition": "recommander par ordonnance",
+     "exemple": "Le médecin a prescrit du repos."
+    },
+    {
+     "terme": "chronique",
+     "definition": "qui dure longtemps",
+     "exemple": "Une maladie chronique."
+    },
+    {
+     "terme": "une rechute",
+     "definition": "le retour d'une maladie",
+     "exemple": "Il a fait une rechute."
+    },
+    {
+     "terme": "une mutuelle",
+     "definition": "une assurance santé complémentaire",
+     "exemple": "Sa mutuelle rembourse les lunettes."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "sur ordonnance",
+     "sens": "sur prescription médicale",
+     "exemple": "Ce médicament est vendu sur ordonnance."
+    },
+    {
+     "expression": "peiner à",
+     "sens": "avoir du mal à",
+     "exemple": "Il peine à se concentrer."
+    },
+    {
+     "expression": "prendre en charge",
+     "sens": "payer, rembourser",
+     "exemple": "Les frais sont pris en charge."
+    }
+   ],
+   "traps": [
+    "Certaines mutuelles ou régions remboursent déjà les séances.",
+    "Le sport ne remplace pas tous les médicaments.",
+    "L'argument des économies est celui des associations."
+   ]
+  },
+  {
+   "code": "CE-SAN-05",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Quelles causes de détresse le texte cite-t-il ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "La pression scolaire, les difficultés financières et l'incertitude sur l'avenir.",
+       "correct": true,
+       "rationale": "« Pression des examens, précarité financière, incertitude sur l'avenir professionnel. »",
+       "label": "A"
+      },
+      {
+       "text": "Le manque de cours.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "La présence trop forte des familles.",
+       "correct": false,
+       "rationale": "C'est l'éloignement qui est cité.",
+       "label": "C"
+      },
+      {
+       "text": "La trop grande facilité des études.",
+       "correct": false,
+       "rationale": "C'est l'inverse.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le texte énumère plusieurs causes après les deux-points."
+    },
+    {
+     "prompt": "Quel problème pose le dispositif national de séances gratuites ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Il est réservé aux enseignants.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Il est trop cher.",
+       "correct": false,
+       "rationale": "Les séances sont gratuites.",
+       "label": "B"
+      },
+      {
+       "text": "Il a été supprimé.",
+       "correct": false,
+       "rationale": "Il existe « désormais ».",
+       "label": "C"
+      },
+      {
+       "text": "Il est peu connu des étudiants.",
+       "correct": true,
+       "rationale": "« Mais il reste mal connu. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Mais » introduit la limite du dispositif."
+    },
+    {
+     "prompt": "Pourquoi beaucoup d'étudiants hésitent-ils à demander de l'aide ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Ils n'ont pas de téléphone.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "A"
+      },
+      {
+       "text": "Ils craignent d'être perçus comme faibles.",
+       "correct": true,
+       "rationale": "« De peur d'être jugés faibles. »",
+       "label": "B"
+      },
+      {
+       "text": "Ils préfèrent les médicaments.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Ils ne souffrent pas vraiment.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le « tabou » explique la difficulté à demander de l'aide."
+    }
+   ],
+   "title": "La santé mentale des étudiants préoccupe",
+   "document": "Anxiété, troubles du sommeil, sentiment d'isolement : selon une enquête récente, près d'un étudiant sur trois présente des signes de détresse psychologique. Les causes sont multiples : pression des examens, précarité financière, incertitude sur l'avenir professionnel, et pour beaucoup, l'éloignement familial lors de l'entrée dans l'enseignement supérieur.\n\nLes services de santé universitaires sont débordés. Dans certaines universités, il faut attendre plusieurs semaines pour obtenir un rendez-vous avec un psychologue, alors que la souffrance appelle souvent une réponse rapide. Un dispositif national permet désormais aux étudiants de bénéficier de quelques séances gratuites chez un psychologue de ville, mais il reste mal connu.\n\nAu-delà des soins, les spécialistes insistent sur la prévention : rompre l'isolement grâce à la vie associative, former les enseignants à repérer les signes d'alerte, et surtout lever le tabou qui entoure encore la santé mentale. Beaucoup d'étudiants hésitent à demander de l'aide, de peur d'être jugés faibles.",
+   "vocabulary": [
+    {
+     "terme": "la détresse",
+     "definition": "une souffrance profonde",
+     "exemple": "Une personne en détresse."
+    },
+    {
+     "terme": "la précarité",
+     "definition": "une situation instable, fragile",
+     "exemple": "La précarité étudiante."
+    },
+    {
+     "terme": "débordé",
+     "definition": "qui a trop de travail",
+     "exemple": "Le service est débordé."
+    },
+    {
+     "terme": "un signe d'alerte",
+     "definition": "un signal qui indique un danger",
+     "exemple": "Repérer les signes d'alerte."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "rompre l'isolement",
+     "sens": "sortir de la solitude",
+     "exemple": "Les associations aident à rompre l'isolement."
+    },
+    {
+     "expression": "lever un tabou",
+     "sens": "permettre de parler d'un sujet évité",
+     "exemple": "Il faut lever le tabou de la dépression."
+    },
+    {
+     "expression": "appeler une réponse",
+     "sens": "exiger une réaction",
+     "exemple": "Cette situation appelle une réponse rapide."
+    }
+   ],
+   "traps": [
+    "Le délai d'attente concerne certaines universités, pas toutes.",
+    "Le dispositif existe mais est mal connu.",
+    "La prévention est présentée comme complémentaire aux soins."
+   ]
+  },
+  {
+   "code": "CE-SAN-06",
+   "level": "B2",
+   "doc_type": "article de vulgarisation",
+   "questions": [
+    {
+     "prompt": "Comment reconnaît-on un aliment ultra-transformé ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "À son emballage en carton.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "A"
+      },
+      {
+       "text": "À son prix élevé.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "À sa longue liste d'ingrédients comprenant des additifs.",
+       "correct": true,
+       "rationale": "« On les reconnaît à leur longue liste d'ingrédients, qui comprend souvent des additifs, des arômes… »",
+       "label": "C"
+      },
+      {
+       "text": "À sa couleur.",
+       "correct": false,
+       "rationale": "Ce n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le texte donne un critère pratique de reconnaissance."
+    },
+    {
+     "prompt": "Sur quel point les chercheurs restent-ils prudents ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Sur l'intérêt de cuisiner.",
+       "correct": false,
+       "rationale": "Ce n'est pas discuté.",
+       "label": "A"
+      },
+      {
+       "text": "Sur la raison exacte pour laquelle ces aliments sont nocifs.",
+       "correct": true,
+       "rationale": "« Les chercheurs restent prudents sur les mécanismes. »",
+       "label": "B"
+      },
+      {
+       "text": "Sur la quantité consommée en France.",
+       "correct": false,
+       "rationale": "Elle est chiffrée.",
+       "label": "C"
+      },
+      {
+       "text": "Sur l'existence d'un lien avec les maladies.",
+       "correct": false,
+       "rationale": "Les études ont établi une association.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La question entre composition et transformation reste ouverte."
+    },
+    {
+     "prompt": "Que rappellent les nutritionnistes ?",
+     "skill": "implicite",
+     "choices": [
+      {
+       "text": "Les consommateurs sont responsables de tout.",
+       "correct": false,
+       "rationale": "Ils refusent de culpabiliser.",
+       "label": "A"
+      },
+      {
+       "text": "Il faut interdire ces produits.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "C'est la consommation régulière, et non ponctuelle, qui pose problème.",
+       "correct": true,
+       "rationale": "« C'est leur consommation quotidienne, non occasionnelle, qui est en cause. »",
+       "label": "C"
+      },
+      {
+       "text": "Ces produits sont sans danger.",
+       "correct": false,
+       "rationale": "Ce n'est pas le sens.",
+       "label": "D"
+      }
+     ],
+     "explanation": "La nuance finale évite un discours moralisateur."
+    }
+   ],
+   "title": "Les aliments ultra-transformés sous surveillance",
+   "document": "Plats préparés, céréales sucrées, sodas, charcuteries industrielles : les aliments ultra-transformés représentent désormais plus d'un tiers des calories consommées en France, et bien davantage dans certains pays. On les reconnaît à leur longue liste d'ingrédients, qui comprend souvent des additifs, des arômes ou des substances qu'on ne trouve pas dans une cuisine ordinaire.\n\nPlusieurs grandes études ont associé leur consommation élevée à un risque accru d'obésité, de maladies cardiovasculaires et de certains cancers. Les chercheurs restent prudents sur les mécanismes : est-ce leur composition nutritionnelle, souvent riche en sucre, en sel et en graisses, ou la transformation elle-même qui pose problème ? Les deux hypothèses sont étudiées.\n\nEn attendant, les recommandations sont simples : privilégier les produits bruts ou peu transformés, cuisiner davantage soi-même, et lire attentivement les étiquettes. Les nutritionnistes rappellent toutefois qu'il ne s'agit pas de culpabiliser : ces produits répondent souvent à un manque de temps ou de moyens, et c'est leur consommation quotidienne, non occasionnelle, qui est en cause.",
+   "vocabulary": [
+    {
+     "terme": "un additif",
+     "definition": "une substance ajoutée à un aliment",
+     "exemple": "Les colorants sont des additifs."
+    },
+    {
+     "terme": "brut",
+     "definition": "qui n'a pas été transformé",
+     "exemple": "Des produits bruts."
+    },
+    {
+     "terme": "nocif",
+     "definition": "dangereux pour la santé",
+     "exemple": "Le tabac est nocif."
+    },
+    {
+     "terme": "culpabiliser",
+     "definition": "faire se sentir coupable",
+     "exemple": "Il ne faut pas culpabiliser les parents."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "sous surveillance",
+     "sens": "observé de près",
+     "exemple": "Ce produit est sous surveillance."
+    },
+    {
+     "expression": "en attendant",
+     "sens": "pendant ce temps, d'ici là",
+     "exemple": "En attendant les résultats, restez prudents."
+    },
+    {
+     "expression": "être en cause",
+     "sens": "être responsable",
+     "exemple": "Ce n'est pas le produit qui est en cause."
+    }
+   ],
+   "traps": [
+    "Le lien est une « association », les mécanismes ne sont pas établis.",
+    "Les nutritionnistes ne demandent pas l'interdiction.",
+    "La consommation occasionnelle n'est pas visée."
+   ]
+  },
+  {
+   "code": "CE-SAN-07",
+   "level": "B2",
+   "doc_type": "article de presse",
+   "questions": [
+    {
+     "prompt": "Pourquoi recommande-t-on la vaccination des soignants ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "Pour éviter qu'ils transmettent la grippe à des patients fragiles.",
+       "correct": true,
+       "rationale": "« Qui peuvent transmettre le virus à des patients vulnérables. »",
+       "label": "A"
+      },
+      {
+       "text": "Parce qu'ils sont plus malades que les autres.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que le vaccin est obligatoire.",
+       "correct": false,
+       "rationale": "Il est recommandé.",
+       "label": "C"
+      },
+      {
+       "text": "Pour remplacer la vaccination des patients.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Le relatif « qui » introduit la justification."
+    },
+    {
+     "prompt": "Quelle raison du faible taux de vaccination n'est PAS citée ?",
+     "skill": "compréhension détaillée",
+     "choices": [
+      {
+       "text": "La peur des effets secondaires.",
+       "correct": false,
+       "rationale": "« D'autres craignent des effets secondaires. »",
+       "label": "A"
+      },
+      {
+       "text": "Le manque de temps.",
+       "correct": false,
+       "rationale": "« Beaucoup invoquent… le manque de temps. »",
+       "label": "B"
+      },
+      {
+       "text": "Des doutes sur l'efficacité.",
+       "correct": false,
+       "rationale": "« Certains soignants doutent de l'efficacité du vaccin. »",
+       "label": "C"
+      },
+      {
+       "text": "Le prix trop élevé du vaccin.",
+       "correct": true,
+       "rationale": "Le coût n'est pas mentionné.",
+       "label": "D"
+      }
+     ],
+     "explanation": "Il faut repérer la raison absente."
+    },
+    {
+     "prompt": "Pourquoi l'obligation vaccinale est-elle difficile à imposer ?",
+     "skill": "argumentation",
+     "choices": [
+      {
+       "text": "Parce que le vaccin est inefficace.",
+       "correct": false,
+       "rationale": "Ce n'est pas l'argument.",
+       "label": "A"
+      },
+      {
+       "text": "Parce que la loi l'interdit.",
+       "correct": false,
+       "rationale": "Ce n'est pas dit.",
+       "label": "B"
+      },
+      {
+       "text": "Parce que les patients s'y opposent.",
+       "correct": false,
+       "rationale": "Ce n'est pas évoqué.",
+       "label": "C"
+      },
+      {
+       "text": "Par crainte de départs dans un secteur qui manque déjà de personnel.",
+       "correct": true,
+       "rationale": "« Elle se heurte à la crainte de nouvelles démissions dans un secteur déjà en manque de personnel. »",
+       "label": "D"
+      }
+     ],
+     "explanation": "« Se heurter à » signifie rencontrer un obstacle."
+    }
+   ],
+   "title": "La vaccination contre la grippe chez les soignants",
+   "document": "Chaque hiver, la grippe saisonnière provoque plusieurs milliers de décès, principalement chez les personnes âgées et fragiles. Les autorités sanitaires recommandent la vaccination des soignants, qui peuvent transmettre le virus à des patients vulnérables. Pourtant, moins d'un tiers des personnels des hôpitaux et des maisons de retraite se font vacciner.\n\nLes raisons de ce faible taux sont diverses. Certains soignants doutent de l'efficacité du vaccin, qui varie d'une année à l'autre selon les souches en circulation. D'autres craignent des effets secondaires, pourtant généralement bénins. Beaucoup invoquent tout simplement le manque de temps.\n\nPlusieurs établissements ont obtenu de meilleurs résultats en organisant la vaccination directement sur le lieu de travail, à toute heure, et en expliquant ses bénéfices lors de réunions d'équipe. L'idée d'une obligation revient régulièrement dans le débat, mais elle se heurte à la crainte de nouvelles démissions dans un secteur déjà en manque de personnel.",
+   "vocabulary": [
+    {
+     "terme": "saisonnier",
+     "definition": "qui revient à chaque saison",
+     "exemple": "La grippe saisonnière."
+    },
+    {
+     "terme": "vulnérable",
+     "definition": "fragile, facilement atteint",
+     "exemple": "Les personnes vulnérables."
+    },
+    {
+     "terme": "une souche",
+     "definition": "une variété d'un virus",
+     "exemple": "Une nouvelle souche du virus."
+    },
+    {
+     "terme": "bénin",
+     "definition": "sans gravité",
+     "exemple": "Des effets bénins."
+    }
+   ],
+   "expressions": [
+    {
+     "expression": "se heurter à",
+     "sens": "rencontrer un obstacle",
+     "exemple": "Le projet se heurte à des difficultés."
+    },
+    {
+     "expression": "à toute heure",
+     "sens": "à n'importe quel moment",
+     "exemple": "Le service est ouvert à toute heure."
+    },
+    {
+     "expression": "revenir dans le débat",
+     "sens": "être de nouveau discuté",
+     "exemple": "La question revient dans le débat."
+    }
+   ],
+   "traps": [
+    "Les effets secondaires sont « généralement bénins ».",
+    "L'efficacité varie selon les années.",
+    "La question négative demande l'élément absent."
+   ]
+  }
+ ]
+}

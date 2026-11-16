@@ -9,6 +9,7 @@ from PySide6.QtWidgets import (QComboBox, QHBoxLayout, QLabel, QListWidget, QLis
 from tcfmaster.db.models import SECTION_EO, Exam, SpeakingSubmission
 from tcfmaster.services import exam_service as ES
 from tcfmaster.services import speaking_service as SS
+from tcfmaster.ui.ai_deepen import DeepenButton
 from tcfmaster.ui.speaking import SpeakingRunner
 from tcfmaster.ui.speaking_report import oral_html
 from tcfmaster.ui.widgets import Card, Page, disclaimer_label
@@ -98,7 +99,10 @@ class SpeakingPage(Page):
         self.play_btn.clicked.connect(self._play)
         self.del_audio_btn = QPushButton("Supprimer l'enregistrement")
         self.del_audio_btn.clicked.connect(self._delete_audio)
-        for w in (back, self.reeval_btn, self.play_btn, self.del_audio_btn):
+        self._single = False
+        self.deepen_btn = DeepenButton(ctx, "EO", self.report,
+                                       lambda: self.current_sub if self._single else None)
+        for w in (back, self.reeval_btn, self.play_btn, self.del_audio_btn, self.deepen_btn):
             rb.addWidget(w)
         rb.addStretch(1)
         rl.addLayout(rb)
@@ -129,7 +133,7 @@ class SpeakingPage(Page):
         with self.ctx.db.session() as s:
             for w in SS.history(s):
                 t = w.task
-                code = t.exam.code if t and t.exam else "?"
+                code = (t.exam.code if t.exam else t.code or "?") if t else "?"
                 mark = " 🎙" if w.audio_path else ""
                 it = QListWidgetItem(f"{w.created_at:%d/%m %H:%M} · {code} T"
                                      f"{t.task_number if t else '?'} · {w.note20 or 0:.1f}/20"
@@ -174,6 +178,10 @@ class SpeakingPage(Page):
         self.stack.setCurrentWidget(runner)
         return runner
 
+    def open_task(self, task_id: int) -> SpeakingRunner:
+        """Ouvre directement une situation (banque B2 ou examen), depuis la bibliothèque."""
+        return self._run(SpeakingRunner(self.ctx, None, [task_id], ES.MODE_TRAINING))
+
     def start_training(self) -> SpeakingRunner | None:
         with self.ctx.db.session() as s:
             exam = self._selected_exam(s)
@@ -216,10 +224,12 @@ class SpeakingPage(Page):
             last = s.get(SpeakingSubmission, self.current_sub) if self.current_sub else None
             self.fix_box.setPlainText(last.transcript if last else "")
         single = len(r.submission_ids) == 1
+        self._single = single
         for w in (self.fix_box, self.reeval_btn):
             w.setVisible(single)
         self._update_audio_buttons()
         self.report.setHtml("".join(parts))
+        self.deepen_btn.refresh_state()
         self.stack.setCurrentWidget(self.report_view)
 
     def _update_audio_buttons(self) -> None:

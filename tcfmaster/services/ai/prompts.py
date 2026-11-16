@@ -72,3 +72,47 @@ def system_prompt(conv: Conversation) -> str:
                if t.get("examiner_prompts") else ""))
     parts.append(f"Mention à reprendre si tu évalues : « {L.DISCLAIMER} »")
     return "\n\n".join(parts)
+
+
+# ------------------------------------------------- correction approfondie EE / EO
+DEEPEN_SYSTEM = (
+    COMMON + "\n\n"
+    "Mission : APPROFONDIR la correction d'une production du TCF IRN (expression écrite "
+    "ou orale) déjà corrigée par l'application. La note estimée et les erreurs détectées "
+    "automatiquement te sont fournies : ne propose AUCUNE autre note et ne contredis pas "
+    "le barème. Ton rôle est d'expliquer et de faire progresser vers B2. Structure "
+    "obligatoire, en français, 250 à 400 mots :\n"
+    "1. Respect de la consigne : la tâche est-elle traitée (destinataire, registre, "
+    "points attendus) ?\n"
+    "2. Trois erreurs ou maladresses prioritaires : « citation → correction », règle "
+    "expliquée simplement.\n"
+    "3. Cohérence et argumentation : connecteurs, progression, exemples.\n"
+    "4. Trois reformulations de niveau B2 tirées du texte du candidat.\n"
+    "5. Un conseil concret pour la prochaine production.\n"
+    "N'invente pas de citation : ne cite que des passages présents dans la production. "
+    "Termine par la phrase : « " + L.DISCLAIMER + " »"
+)
+
+
+def deepen_request(kind: str, data: dict) -> str:
+    """Message utilisateur décrivant la production à approfondir."""
+    label = "expression écrite" if kind == "EE" else "expression orale"
+    lines = [f"Épreuve : {label}, tâche {data.get('task_number') or '?'} (niveau visé B2)."]
+    if data.get("instructions"):
+        lines.append(f"Consigne : {data['instructions']}")
+    if kind == "EE" and data.get("min_words"):
+        lines.append(f"Nombre de mots imposé : {data['min_words']} à {data['max_words']} "
+                     f"(production : {data.get('word_count', '?')} mots).")
+    if data.get("note20") is not None:
+        lines.append(f"Note estimée par l'application : {float(data['note20']):.1f}/20 "
+                     f"(niveau estimé {data.get('level') or '?'}).")
+    issues = [i for i in (data.get("issues") or []) if isinstance(i, dict)][:12]
+    if issues:
+        lines.append("Erreurs détectées automatiquement : " + " ; ".join(
+            f"« {i.get('excerpt', '')} » ({i.get('category') or i.get('message', '')})"
+            for i in issues))
+    if data.get("priorities"):
+        lines.append("Priorités déjà signalées : " + " ; ".join(data["priorities"][:5]))
+    what = "Texte du candidat" if kind == "EE" else "Transcription de la réponse du candidat"
+    lines.append(f"{what} :\n\"\"\"\n{data.get('text', '').strip()}\n\"\"\"")
+    return "\n".join(lines)

@@ -1,0 +1,205 @@
+@slug co-temoignages-interviews
+@section CO
+@title Témoignages et interviews
+@order 11
+@description Récits de vie et entretiens : comprendre un parcours, des sentiments, des regrets et des leçons tirées de l'expérience.
+
+## CO-TEM-01 | témoignage radio | F:fr-CA
+TITRE: Changer de pays à cinquante ans
+CONTEXTE: Une auditrice raconte son installation au Québec.
+DOC: F: Quand j'ai annoncé à mes proches que je quittais Lyon pour Montréal à cinquante ans, beaucoup ont cru que je traversais une crise. En réalité, j'y pensais depuis vingt ans, mais il y avait toujours une bonne raison de reporter : les enfants, la maison, mon poste. Le jour où mon dernier fils est parti étudier, je me suis dit que si je ne le faisais pas maintenant, je ne le ferais jamais. La première année a été rude, je ne vais pas le cacher. Mon diplôme d'infirmière n'était pas reconnu tel quel, j'ai dû repasser des examens et travailler six mois comme aide-soignante. J'ai parfois douté. Mais aujourd'hui, j'exerce de nouveau mon métier, j'ai un cercle d'amis, et surtout, je n'ai plus ce sentiment d'avoir laissé passer ma vie.
+Q: Comment l'entourage de cette femme a-t-il réagi à son projet ? | implicite
++ Il a pensé que sa décision était impulsive. | « Beaucoup ont cru que je traversais une crise. »
+- Il l'a encouragée sans réserve. | Rien n'indique un soutien enthousiaste, au contraire.
+- Il a décidé de partir avec elle. | Ce n'est pas dit.
+- Il était au courant depuis vingt ans. | C'est elle qui y pensait depuis vingt ans, pas ses proches.
+EXP: « Traverser une crise » suggère une décision soudaine et irréfléchie ; elle corrige aussitôt cette idée avec « En réalité ».
+Q: Quelle difficulté professionnelle a-t-elle rencontrée ? | compréhension détaillée
++ Elle a dû faire reconnaître son diplôme en repassant des examens. | « Mon diplôme d'infirmière n'était pas reconnu tel quel, j'ai dû repasser des examens. »
+- Elle n'a trouvé aucun emploi pendant un an. | Elle a travaillé comme aide-soignante.
+- Elle a dû changer complètement de métier. | Elle exerce de nouveau son métier d'infirmière.
+- Elle ne parlait pas la langue. | Ce n'est pas mentionné.
+EXP: « Tel quel » signifie « sans modification » : le diplôme devait être complété par des examens.
+Q: Quel bilan fait-elle de son expérience ? | synthèse
++ Positif, car elle a le sentiment de vivre enfin pleinement. | « Je n'ai plus ce sentiment d'avoir laissé passer ma vie. »
+- Mitigé, car elle regrette sa vie à Lyon. | Elle n'exprime aucun regret.
+- Négatif, à cause des débuts difficiles. | Les difficultés sont du passé.
+- Neutre, elle ne se prononce pas. | Elle conclut clairement de façon positive.
+EXP: Le « surtout » final met en avant le bénéfice principal : un sentiment d'accomplissement personnel.
+VOCAB: reporter = remettre à plus tard = Ils ont reporté la réunion. ; rude = dur, difficile = L'hiver a été rude. ; tel quel = sans changement = Le contrat a été signé tel quel. ; un cercle d'amis = un groupe d'amis proches = Elle s'est fait un petit cercle d'amis.
+EXPR: traverser une crise = vivre une période de difficulté ou de remise en question = Il traverse une crise professionnelle. ; je ne vais pas le cacher = j'avoue franchement = Je ne vais pas le cacher, j'étais déçu. ; laisser passer sa vie = ne pas réaliser ses désirs = Elle refuse de laisser passer sa vie.
+
+## CO-TEM-02 | interview radio | H:fr-FR, F:fr-FR
+TITRE: Un chef cuisinier revient sur son échec
+CONTEXTE: Une journaliste interroge un chef qui a fermé son premier restaurant.
+DOC: F: Votre premier restaurant a fermé au bout de dix-huit mois. Comment l'avez-vous vécu ? / H: Très mal, sur le moment. J'avais investi toutes mes économies et emprunté à ma famille. J'avais l'impression d'avoir trahi la confiance de tout le monde. / F: Avec le recul, qu'est-ce qui n'a pas marché ? / H: J'étais un bon cuisinier, mais un très mauvais gestionnaire. Je changeais la carte chaque semaine par passion, sans calculer le coût des produits. Les clients adoraient, mais je perdais de l'argent sur presque chaque assiette. / F: Et aujourd'hui, vous avez trois établissements. / H: Oui, parce que j'ai accepté de me former à la gestion et de m'associer avec quelqu'un dont c'est le métier. Cet échec a été la meilleure école que je pouvais imaginer, même si je ne le souhaite à personne.
+Q: Pourquoi le chef a-t-il mal vécu la fermeture de son restaurant ? | compréhension détaillée
++ Il se sentait coupable envers ceux qui lui avaient prêté de l'argent. | « J'avais l'impression d'avoir trahi la confiance de tout le monde. »
+- Il avait perdu tous ses clients. | Les clients « adoraient ».
+- Il avait reçu de mauvaises critiques. | Ce n'est pas dit.
+- Il avait dû licencier beaucoup d'employés. | Ce n'est pas mentionné.
+EXP: Il a emprunté à sa famille : l'échec financier devient un poids moral.
+Q: Selon lui, quelle était la cause principale de l'échec ? | argumentation
++ Une mauvaise maîtrise des coûts. | « Je perdais de l'argent sur presque chaque assiette » ; « sans calculer le coût des produits ».
+- La qualité médiocre de sa cuisine. | Il se dit « bon cuisinier ».
+- Un mauvais emplacement. | Ce n'est pas évoqué.
+- Le manque de clients. | Les clients étaient satisfaits.
+EXP: L'opposition « bon cuisinier » / « mauvais gestionnaire » résume son analyse.
+Q: Que veut-il dire par « je ne le souhaite à personne » ? | implicite
++ L'expérience a été instructive mais trop douloureuse pour être recommandée. | Il oppose « la meilleure école » à la souffrance de l'échec avec « même si ».
+- Il refuse de conseiller d'autres cuisiniers. | Ce n'est pas le sens.
+- Il ne veut plus ouvrir de restaurant. | Il en a trois.
+- Il regrette d'avoir appris la gestion. | C'est ce qui l'a sauvé.
+EXP: La concession « même si » nuance l'éloge de l'échec : utile, mais coûteux humainement.
+VOCAB: un gestionnaire = une personne qui gère les finances et l'organisation = C'est une excellente gestionnaire. ; la carte = la liste des plats d'un restaurant = La carte change selon les saisons. ; un établissement = un commerce, un restaurant, un hôtel = Il dirige trois établissements. ; s'associer = s'unir avec quelqu'un dans une affaire = Elle s'est associée avec son frère.
+EXPR: sur le moment = au moment où cela se passe = Sur le moment, je n'ai rien dit. ; avec le recul = en y repensant après un certain temps = Avec le recul, c'était une bonne décision. ; trahir la confiance = décevoir quelqu'un qui comptait sur nous = Il a trahi la confiance de ses électeurs.
+
+## CO-TEM-03 | témoignage | H:fr-FR
+TITRE: Aidant familial
+CONTEXTE: Un homme témoigne de son quotidien auprès de sa mère malade.
+DOC: H: Ma mère a la maladie d'Alzheimer depuis cinq ans. Au début, je passais simplement la voir plus souvent. Puis, petit à petit, je me suis retrouvé à gérer ses médicaments, ses rendez-vous, ses courses, ses papiers. Je ne m'en suis pas rendu compte tout de suite, mais j'étais devenu ce qu'on appelle un aidant. Pendant deux ans, j'ai tout porté seul, en plus de mon travail. J'étais épuisé, irritable, et paradoxalement, je culpabilisais dès que je prenais une soirée pour moi. C'est mon médecin qui m'a alerté : il m'a dit que si je continuais ainsi, ce serait bientôt moi qu'il faudrait soigner. J'ai fini par accepter l'aide d'un accueil de jour, deux fois par semaine. Je pensais abandonner ma mère. En fait, je suis redevenu son fils, et pas seulement son infirmier.
+Q: Comment cet homme est-il devenu aidant ? | compréhension détaillée
++ Progressivement, sans en prendre conscience immédiatement. | « Petit à petit… Je ne m'en suis pas rendu compte tout de suite. »
+- Après une décision du médecin de sa mère. | Ce n'est pas dit.
+- Parce qu'il avait quitté son travail. | Il travaillait en même temps.
+- À la demande de sa famille. | Il a « tout porté seul ».
+EXP: « Petit à petit » et « je me suis retrouvé à » soulignent un glissement involontaire.
+Q: Qu'est-ce qui l'a poussé à accepter de l'aide ? | compréhension détaillée
++ L'avertissement de son médecin sur sa propre santé. | « Si je continuais ainsi, ce serait bientôt moi qu'il faudrait soigner. »
+- L'aggravation brutale de la maladie de sa mère. | Ce n'est pas mentionné.
+- La perte de son emploi. | Ce n'est pas dit.
+- Une proposition de sa mère. | Ce n'est pas évoqué.
+EXP: C'est un tiers, le médecin, qui le fait réagir.
+Q: Que signifie la dernière phrase ? | implicite
++ L'aide extérieure lui a permis de retrouver une vraie relation affective avec sa mère. | « Je suis redevenu son fils, et pas seulement son infirmier. »
+- Il a cessé de s'occuper de sa mère. | Elle va à l'accueil de jour deux fois par semaine seulement.
+- Il est devenu infirmier professionnel. | C'est une image.
+- Sa mère ne le reconnaît plus. | Ce n'est pas dit.
+EXP: L'opposition « fils » / « infirmier » oppose la relation affective aux tâches de soin qui l'avaient remplacée.
+VOCAB: un aidant = une personne qui s'occupe d'un proche dépendant = Les aidants manquent de reconnaissance. ; épuisé = extrêmement fatigué = Après la semaine, elle était épuisée. ; irritable = qui s'énerve facilement = Le manque de sommeil le rend irritable. ; un accueil de jour = une structure qui reçoit des personnes âgées pendant la journée = Il va à l'accueil de jour le mardi.
+EXPR: tout porter seul = assumer toutes les responsabilités sans aide = Elle a tout porté seule pendant des années. ; se rendre compte = prendre conscience = Je ne me suis pas rendu compte de l'heure. ; finir par = faire quelque chose après hésitation = Il a fini par accepter.
+
+## CO-TEM-04 | interview radio | F:fr-FR, H:fr-BE
+TITRE: Un ancien sportif de haut niveau
+CONTEXTE: Une journaliste interroge un ancien champion de natation sur sa reconversion.
+DOC: F: Vous avez arrêté la compétition à vingt-neuf ans. Comment s'est passé l'après ? / H: Personne ne vous prépare à ça. Pendant quinze ans, ma vie était organisée à la minute près : entraînement, repas, sommeil, compétitions. Du jour au lendemain, plus rien. J'avais l'impression d'être en vacances forcées, et ça m'a plongé dans une forme de déprime. / F: Vous n'aviez pas anticipé ? / H: J'avais un diplôme, sur le papier. Mais je n'avais jamais travaillé ailleurs qu'au bord d'un bassin. Et surtout, mon identité se résumait à « nageur ». Quand on me demandait ce que je faisais, je ne savais plus quoi répondre. / F: Et aujourd'hui ? / H: J'accompagne justement des sportifs en fin de carrière. Je leur dis de penser à leur reconversion bien avant d'arrêter, pas pour renoncer à leurs ambitions, mais pour ne pas tout miser sur une seule chose.
+Q: Comment l'ancien champion a-t-il vécu la fin de sa carrière ? | compréhension détaillée
++ Comme une rupture brutale qui l'a rendu déprimé. | « Du jour au lendemain, plus rien… ça m'a plongé dans une forme de déprime. »
+- Comme un soulagement après des années d'efforts. | Il parle de « vacances forcées », non souhaitées.
+- Comme une période de voyages. | Ce n'est pas dit.
+- Sans difficulté particulière. | Il affirme le contraire.
+EXP: « Vacances forcées » est un oxymore : du temps libre qui n'est pas un plaisir.
+Q: Quel était son principal problème, selon lui ? | implicite
++ Il ne se définissait que par son statut de sportif. | « Mon identité se résumait à "nageur". »
+- Il n'avait aucun diplôme. | Il avait un diplôme « sur le papier ».
+- Il était blessé. | Ce n'est pas mentionné.
+- Il n'aimait plus la natation. | Ce n'est pas dit.
+EXP: « Sur le papier » indique que le diplôme existait mais n'avait pas de valeur concrète pour lui ; le vrai problème est identitaire.
+Q: Quel conseil donne-t-il aujourd'hui aux sportifs ? | argumentation
++ Préparer leur reconversion tôt sans abandonner leurs objectifs sportifs. | « Penser à leur reconversion bien avant d'arrêter, pas pour renoncer à leurs ambitions. »
+- Arrêter la compétition plus tôt. | Ce n'est pas son conseil.
+- Se consacrer uniquement à leur sport. | Il dit l'inverse : « ne pas tout miser sur une seule chose ».
+- Devenir entraîneur. | Ce n'est pas ce qu'il recommande.
+EXP: La structure « pas pour… mais pour… » précise l'objectif du conseil et écarte un malentendu.
+VOCAB: la reconversion = le changement de métier = Sa reconversion dans l'enseignement a réussi. ; la déprime = un état de tristesse et de découragement = L'hiver lui donne la déprime. ; anticiper = prévoir à l'avance = Il faut anticiper les dépenses. ; un bassin = une piscine = Le bassin olympique mesure cinquante mètres.
+EXPR: du jour au lendemain = soudainement = Il a tout quitté du jour au lendemain. ; à la minute près = de façon très précise = Le programme est réglé à la minute près. ; tout miser sur = tout investir dans une seule chose = Elle a tout misé sur ce projet.
+
+## CO-TEM-05 | témoignage | F:fr-FR
+TITRE: Vivre sans voiture à la campagne
+CONTEXTE: Une habitante d'un village raconte son choix.
+DOC: F: On me dit souvent que vivre sans voiture, c'est facile à Paris, mais impossible à la campagne. J'habite un village de six cents habitants, et je n'ai plus de voiture depuis trois ans. Je ne prétends pas que ce soit simple. Il faut tout organiser : je fais mes courses une fois par semaine en vélo électrique, avec une remorque, et pour aller en ville, il y a un car le matin et un le soir. Si je le rate, je suis coincée. Ce qui a vraiment changé les choses, c'est le covoiturage entre voisins. On a créé un groupe sur nos téléphones, et chacun propose ses trajets. Au début, je me sentais gênée de demander. Maintenant, je rends service à mon tour en gardant les enfants ou en arrosant les jardins. Finalement, j'ai économisé de l'argent, mais j'ai surtout gagné des liens.
+Q: Quelle idée reçue cette femme évoque-t-elle au début ? | compréhension globale
++ Qu'il est impossible de vivre sans voiture à la campagne. | « Vivre sans voiture, c'est facile à Paris, mais impossible à la campagne. »
+- Que les villages manquent de commerces. | Ce n'est pas l'idée citée.
+- Que le vélo est dangereux. | Ce n'est pas évoqué.
+- Que les transports en commun sont gratuits. | Ce n'est pas dit.
+EXP: Elle cite l'opinion courante pour la nuancer ensuite par son expérience.
+Q: Que dit-elle des inconvénients de son choix ? | point de vue
++ Elle reconnaît qu'il demande beaucoup d'organisation. | « Je ne prétends pas que ce soit simple. Il faut tout organiser. »
+- Elle affirme qu'il n'y en a aucun. | Elle admet des difficultés.
+- Elle envisage de racheter une voiture. | Ce n'est pas dit.
+- Elle dit que le car passe toutes les heures. | Il passe deux fois par jour.
+EXP: « Je ne prétends pas » marque une concession honnête avant les solutions trouvées.
+Q: Quel est, selon elle, le principal bénéfice ? | synthèse
++ Le renforcement des relations avec ses voisins. | « J'ai économisé de l'argent, mais j'ai surtout gagné des liens. »
+- Les économies d'argent. | Elles sont citées, mais « surtout » met l'accent sur les liens.
+- Une meilleure forme physique. | Ce n'est pas mentionné.
+- Le temps gagné. | Elle doit au contraire tout organiser.
+EXP: Le connecteur « surtout » hiérarchise les avantages.
+VOCAB: une remorque = un petit véhicule tiré par un autre = Il transporte le bois dans une remorque. ; coincé = bloqué, sans solution = Sans clés, je suis coincé dehors. ; le covoiturage = le partage d'une voiture pour un même trajet = Ils vont au travail en covoiturage. ; gêné = mal à l'aise = Elle était gênée de demander de l'aide.
+EXPR: rater le car = arriver trop tard pour le prendre = J'ai raté le car de huit heures. ; rendre service = aider quelqu'un = Il aime rendre service à ses voisins. ; à mon tour = moi aussi, après les autres = Je les ai aidés à mon tour.
+
+## CO-TEM-06 | interview radio | H:fr-FR, F:fr-FR
+TITRE: Une lanceuse d'alerte
+CONTEXTE: Un journaliste interroge une ancienne comptable qui a dénoncé une fraude dans son entreprise.
+DOC: H: Vous avez révélé une fraude fiscale dans l'entreprise où vous travailliez. Qu'est-ce qui vous a décidée ? / F: J'ai d'abord alerté ma hiérarchie, en interne, à trois reprises. On m'a répondu que ce n'était pas mon problème, puis qu'il valait mieux pour ma carrière que je me taise. C'est là que j'ai compris que je n'avais pas le choix. / H: Vous saviez ce que vous risquiez ? / F: Pas vraiment. On imagine qu'on sera protégée, puisqu'on agit dans l'intérêt général. En réalité, j'ai été licenciée pour un motif inventé, et il m'a fallu quatre ans de procédure pour être reconnue dans mes droits. / H: Le referiez-vous ? / F: Oui, sans hésiter. Mais je conseillerais à quelqu'un dans ma situation de se faire accompagner dès le départ par un avocat et une association. Seule, on se fait broyer.
+Q: Comment la comptable a-t-elle procédé avant de révéler la fraude publiquement ? | compréhension détaillée
++ Elle a signalé le problème plusieurs fois à ses supérieurs. | « J'ai d'abord alerté ma hiérarchie, en interne, à trois reprises. »
+- Elle a démissionné immédiatement. | Elle a été licenciée plus tard.
+- Elle a contacté directement la presse. | Elle est d'abord passée par sa hiérarchie.
+- Elle a consulté un avocat. | C'est ce qu'elle conseille, pas ce qu'elle a fait.
+EXP: « D'abord » et « à trois reprises » montrent qu'elle a épuisé les recours internes.
+Q: Que comprend-on de la réaction de sa hiérarchie ? | implicite
++ Elle a cherché à la faire taire en la menaçant indirectement. | « Il valait mieux pour ma carrière que je me taise. »
+- Elle a ouvert une enquête. | Ce n'est pas dit.
+- Elle l'a remerciée. | C'est l'inverse.
+- Elle ignorait la fraude. | Rien ne l'indique.
+EXP: La formule « il valait mieux pour ma carrière » est une menace voilée.
+Q: Quel bilan fait-elle de son action ? | point de vue
++ Elle ne regrette rien mais recommande de ne pas agir seul. | « Oui, sans hésiter. Mais je conseillerais… de se faire accompagner… Seule, on se fait broyer. »
+- Elle regrette d'avoir parlé. | Elle le referait.
+- Elle estime avoir été bien protégée. | Elle a été licenciée.
+- Elle pense que la fraude n'était pas grave. | Ce n'est pas dit.
+EXP: Le « mais » introduit la leçon tirée de l'expérience sans remettre en cause sa décision.
+VOCAB: une fraude fiscale = le fait de ne pas payer les impôts dus de façon illégale = Il a été condamné pour fraude fiscale. ; la hiérarchie = l'ensemble des supérieurs = Il faut informer la hiérarchie. ; un motif = une raison donnée officiellement = Le motif du licenciement était faux. ; une procédure = une action en justice = La procédure a duré quatre ans.
+EXPR: dans l'intérêt général = pour le bien de tous = Cette loi est votée dans l'intérêt général. ; se faire broyer = être écrasé, détruit par plus fort que soi = Les petits commerces se font broyer par la concurrence. ; reconnu dans ses droits = obtenir officiellement justice = Elle a enfin été reconnue dans ses droits.
+
+## CO-TEM-07 | témoignage | H:fr-CA
+TITRE: Apprendre à lire à quarante ans
+CONTEXTE: Un homme raconte comment il a surmonté l'illettrisme.
+DOC: H: Pendant des années, j'ai caché que je ne savais pas bien lire. J'avais mille astuces : je disais que j'avais oublié mes lunettes, je demandais à ma femme de remplir les papiers, je mémorisais les trajets au lieu de lire les panneaux. Au travail, j'étais chef d'équipe sur des chantiers, et personne ne se doutait de rien. Le déclic, ça a été ma fille. Elle avait sept ans, elle m'a apporté un livre pour que je lui lise une histoire, et je n'ai pas pu. J'ai inventé l'histoire en regardant les images. Ce soir-là, j'ai eu honte comme jamais. Je me suis inscrit à des cours pour adultes. Il m'a fallu deux ans. Aujourd'hui, je lis le journal tous les matins, et le plus fou, c'est que ma fille et moi, on lit maintenant chacun notre livre, côte à côte.
+Q: Comment cet homme dissimulait-il ses difficultés ? | compréhension détaillée
++ En utilisant différents prétextes et en comptant sur son entourage. | « Je disais que j'avais oublié mes lunettes, je demandais à ma femme de remplir les papiers. »
+- En évitant de travailler. | Il était chef d'équipe.
+- En refusant de sortir de chez lui. | Ce n'est pas dit.
+- En prenant des cours en secret. | Il les a pris plus tard.
+EXP: « Mille astuces » annonce une énumération de stratégies d'évitement.
+Q: Qu'est-ce qui l'a décidé à apprendre ? | compréhension détaillée
++ Son incapacité à lire une histoire à sa fille. | « Elle m'a apporté un livre… et je n'ai pas pu… j'ai eu honte comme jamais. »
+- Une remarque de son employeur. | Personne ne se doutait de rien au travail.
+- Une obligation administrative. | Ce n'est pas mentionné.
+- Un conseil de sa femme. | Ce n'est pas dit.
+EXP: « Le déclic » désigne l'événement déclencheur d'un changement.
+Q: Quelle émotion domine la fin du témoignage ? | point de vue
++ Une fierté émue. | « Le plus fou, c'est que ma fille et moi, on lit maintenant chacun notre livre, côte à côte. »
+- Une honte persistante. | La honte appartient au passé.
+- De la colère contre l'école. | Ce n'est pas évoqué.
+- De l'indifférence. | Le ton est au contraire très affectif.
+EXP: L'image finale répond à la scène de honte : le père et la fille partagent désormais la lecture.
+VOCAB: l'illettrisme = la difficulté à lire et écrire malgré une scolarisation = L'illettrisme touche des millions d'adultes. ; une astuce = un moyen habile = J'ai une astuce pour retenir les numéros. ; un chantier = un lieu de construction = Il travaille sur un chantier. ; côte à côte = l'un à côté de l'autre = Ils marchaient côte à côte.
+EXPR: ne se douter de rien = ne rien soupçonner = Sa famille ne se doutait de rien. ; le déclic = le moment où l'on comprend ou décide soudainement = La lecture de ce livre a été un déclic. ; comme jamais = plus que jamais auparavant = J'ai ri comme jamais.
+
+## CO-TEM-08 | interview radio | F:fr-FR, H:fr-FR
+TITRE: Bénévole dans l'aide alimentaire
+CONTEXTE: Une journaliste interroge un retraité bénévole dans une association d'aide alimentaire.
+DOC: F: Vous êtes bénévole depuis dix ans. Qu'est-ce qui a changé pendant cette période ? / H: Le profil des personnes qui viennent. Au début, on accueillait surtout des gens très isolés, souvent sans domicile. Aujourd'hui, on voit des étudiants, des retraités, des familles où les deux parents travaillent. Des gens qui ont un emploi, mais à qui il ne reste rien une fois le loyer payé. / F: Comment vivent-ils le fait de venir ? / H: Pour beaucoup, la première fois est un vrai déchirement. Certains restent dix minutes devant la porte avant d'entrer. C'est pour ça qu'on insiste sur l'accueil : un café, une discussion, jamais de jugement. / F: Et vous, qu'est-ce que ça vous apporte ? / H: On croit qu'on donne, mais on reçoit énormément. À la retraite, je me sentais inutile. Ici, je me lève le matin en sachant que quelqu'un compte sur moi.
+Q: Quelle évolution le bénévole a-t-il observée ? | compréhension globale
++ Des personnes ayant un travail ont aussi besoin d'aide. | « Des gens qui ont un emploi, mais à qui il ne reste rien une fois le loyer payé. »
+- Il y a de moins en moins de personnes dans le besoin. | Rien ne l'indique.
+- Seuls les sans-abri viennent désormais. | C'est la situation d'avant.
+- Les étudiants sont devenus bénévoles. | Ils viennent recevoir de l'aide.
+EXP: L'opposition « au début » / « aujourd'hui » structure le constat d'une précarité qui s'étend.
+Q: Pourquoi l'association accorde-t-elle tant d'importance à l'accueil ? | implicite
++ Parce que demander de l'aide est vécu comme une épreuve humiliante. | « La première fois est un vrai déchirement… jamais de jugement. »
+- Parce que les bénévoles s'ennuient. | Ce n'est pas dit.
+- Parce que le café est offert par des sponsors. | Ce n'est pas mentionné.
+- Parce que les règles l'imposent. | Ce n'est pas évoqué.
+EXP: « C'est pour ça » relie directement l'accueil chaleureux à la difficulté émotionnelle des bénéficiaires.
+Q: Que lui apporte personnellement son engagement ? | point de vue
++ Le sentiment d'être utile. | « À la retraite, je me sentais inutile. Ici… quelqu'un compte sur moi. »
+- Une rémunération complémentaire. | Il est bénévole.
+- Des repas gratuits. | Ce n'est pas dit.
+- Une reconnaissance médiatique. | Ce n'est pas évoqué.
+EXP: Le paradoxe « on croit qu'on donne, mais on reçoit » introduit le bénéfice personnel.
+VOCAB: un bénévole = une personne qui travaille sans être payée = L'association recrute des bénévoles. ; isolé = seul, sans relations = Les personnes âgées sont souvent isolées. ; le loyer = la somme payée pour louer un logement = Le loyer a encore augmenté. ; un déchirement = une grande souffrance morale = Quitter son pays a été un déchirement.
+EXPR: une fois le loyer payé = après avoir payé le loyer = Une fois les factures payées, il ne reste rien. ; compter sur quelqu'un = avoir confiance en son aide = Tu peux compter sur moi. ; sans jugement = sans critiquer = Elle écoute sans jugement.

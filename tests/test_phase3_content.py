@@ -58,7 +58,9 @@ def test_full_seed_of_real_content(db):
         assert rep.grammar_chapters == 23
         assert rep.verbs >= 150
         assert rep.plan_days == 84
-        assert s.scalar(select(func.count()).select_from(Question)) == rep.exams * 50
+        # questions d'examen uniquement (les collections B2 v1.1 ont leurs propres questions)
+        assert s.scalar(select(func.count()).select_from(Question)
+                        .where(Question.exam_id.is_not(None))) == rep.exams * 50
         assert s.scalar(select(func.count()).select_from(GrammarExercise)) >= 230
     # Second passage : idempotent, aucun doublon
     with db.session() as s:

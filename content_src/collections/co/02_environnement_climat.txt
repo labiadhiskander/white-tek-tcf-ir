@@ -1,0 +1,228 @@
+@slug co-environnement-climat
+@section CO
+@title Environnement et climat
+@order 2
+@description Débats, reportages et interviews sur la transition écologique, l'énergie et l'adaptation au changement climatique.
+
+## CO-ENV-01 | débat radiophonique | F:fr-FR, H:fr-FR
+TITRE: Les zones à faibles émissions en question
+CONTEXTE: Une journaliste interroge un urbaniste sur la limitation de la circulation des véhicules anciens en ville.
+DOC: F: Depuis janvier, les voitures les plus anciennes ne peuvent plus entrer dans le centre de plusieurs grandes villes. Vous qui conseillez des municipalités, diriez-vous que la mesure est un succès ? / H: Sur le plan de la qualité de l'air, les premiers relevés sont encourageants : les concentrations de dioxyde d'azote ont nettement baissé près des grands axes. Mais réduire la question à ces chiffres serait une erreur. / F: Pourquoi ? / H: Parce que ceux qui roulent dans les véhicules les plus anciens ne le font généralement pas par choix. Ce sont souvent des ménages modestes qui vivent en périphérie, là où les transports en commun sont rares. Si on leur interdit la ville sans leur proposer d'alternative, on transforme une politique de santé publique en mesure d'exclusion. / F: Les aides à l'achat d'un véhicule propre ne suffisent pas ? / H: Elles couvrent rarement plus du tiers du prix. Pour une famille qui boucle difficilement ses fins de mois, le reste demeure inaccessible. Les villes qui s'en sortent le mieux sont celles qui ont d'abord renforcé les parkings relais et les lignes de bus, avant de fermer leur centre.
+Q: Quelle est la position de l'urbaniste sur les zones à faibles émissions ? | point de vue
++ Il en reconnaît l'efficacité environnementale mais en critique les effets sociaux. | Il qualifie les relevés d'« encourageants », puis ajoute que « réduire la question à ces chiffres serait une erreur » à cause de l'exclusion des ménages modestes.
+- Il les juge inutiles car la pollution n'a pas diminué. | Il affirme au contraire que le dioxyde d'azote a « nettement baissé ».
+- Il les soutient sans réserve et souhaite les étendre. | Le « Mais » introduit une réserve importante : la mesure peut devenir « une mesure d'exclusion ».
+- Il estime qu'elles devraient être réservées aux villes moyennes. | Il ne compare jamais les grandes et les moyennes villes.
+EXP: Le point de vue est nuancé : une concession (les résultats sur l'air sont bons) suivie d'une objection introduite par « Mais ». Au niveau B2, il faut repérer cette structure concession-opposition et ne pas s'arrêter à la première phrase.
+Q: Que laisse entendre l'urbaniste à propos des aides à l'achat ? | implicite
++ Elles profitent surtout à ceux qui pourraient déjà presque payer un véhicule neuf. | Si l'aide ne couvre qu'un tiers du prix, le reste « demeure inaccessible » aux familles modestes : seules les familles plus aisées peuvent en bénéficier.
+- Elles sont trop généreuses et coûtent cher à l'État. | Il juge au contraire qu'elles sont insuffisantes.
+- Elles devraient être supprimées au profit des transports. | Il ne propose pas de les supprimer, il dit qu'elles ne suffisent pas.
+- Elles sont réservées aux habitants du centre-ville. | Rien n'indique une condition de domicile.
+EXP: L'idée n'est pas dite explicitement : on la déduit du raisonnement « l'aide couvre un tiers » + « le reste est inaccessible aux ménages modestes ». C'est typique d'une question d'implicite : la bonne réponse est une conséquence logique du propos.
+Q: Selon l'urbaniste, qu'est-ce qui distingue les villes qui réussissent ? | argumentation
++ Elles ont développé les alternatives à la voiture avant d'interdire l'accès au centre. | « Celles qui ont d'abord renforcé les parkings relais et les lignes de bus, avant de fermer leur centre. »
+- Elles ont accordé des aides plus élevées que les autres. | Le montant des aides n'est pas le critère cité.
+- Elles ont fermé leur centre plus rapidement. | C'est l'ordre inverse qui est valorisé : d'abord les alternatives, ensuite la fermeture.
+- Elles ont exempté les familles modestes de l'interdiction. | Aucune exemption n'est évoquée.
+EXP: Les marqueurs chronologiques « d'abord… avant de… » structurent l'argument final. Attention au distracteur qui inverse l'ordre des étapes : c'est un piège fréquent.
+VOCAB: un axe = une grande voie de circulation = Les embouteillages se concentrent sur les grands axes. ; la périphérie = les quartiers éloignés du centre d'une ville = Les loyers sont moins chers en périphérie. ; un parking relais = un parking à l'entrée de la ville relié aux transports en commun = Laissez votre voiture au parking relais et prenez le tramway. ; un ménage modeste = un foyer aux revenus faibles = Les ménages modestes consacrent une part importante de leur budget au transport. ; un relevé = une mesure enregistrée = Les relevés de pollution sont publiés chaque jour.
+EXPR: boucler difficilement ses fins de mois = avoir du mal à payer ses dépenses jusqu'à la fin du mois = Avec l'inflation, beaucoup de familles bouclent difficilement leurs fins de mois. ; s'en sortir = réussir malgré les difficultés = Certaines villes s'en sortent mieux grâce à leurs transports. ; réduire la question à = ne considérer qu'un seul aspect d'un problème = On ne peut pas réduire la question du chômage aux seuls chiffres.
+
+## CO-ENV-02 | chronique radio | F:fr-CA
+TITRE: Quand les villes plantent des arbres pour se rafraîchir
+CONTEXTE: Une chroniqueuse présente les « îlots de fraîcheur » aménagés par certaines municipalités.
+DOC: F: Lors de la dernière canicule, des thermomètres installés dans une même ville ont affiché jusqu'à huit degrés d'écart entre une place entièrement bétonnée et un parc ombragé situé à quelques rues de là. C'est ce qu'on appelle l'effet d'îlot de chaleur urbain : le bitume et les façades emmagasinent la chaleur le jour et la restituent la nuit, si bien que la ville ne se refroidit plus. Pour y remédier, de nombreuses municipalités transforment des cours d'école en jardins et plantent des arbres le long des rues. Encore faut-il choisir les bonnes essences : certaines espèces très répandues supportent mal la sécheresse et dépérissent en quelques étés. Les spécialistes recommandent donc de diversifier les plantations et de les arroser pendant leurs premières années. Autre limite rarement évoquée : un arbre planté aujourd'hui ne procurera une ombre réelle que dans quinze ou vingt ans. Autrement dit, ces aménagements sont indispensables, mais ils ne dispensent pas de mesures plus rapides, comme l'ouverture de lieux climatisés pour les personnes âgées.
+Q: Quelle est l'idée principale de la chronique ? | synthèse
++ La végétalisation est une réponse utile à la chaleur urbaine, mais lente et exigeante. | La chroniqueuse présente les plantations comme « indispensables » tout en soulignant deux limites : le choix des essences et le délai de quinze à vingt ans.
+- Les arbres sont la seule solution efficace contre les canicules. | Elle dit au contraire qu'ils « ne dispensent pas de mesures plus rapides ».
+- Les villes devraient renoncer à planter des arbres trop fragiles. | Elle conseille de diversifier les essences, pas de renoncer.
+- Le béton est désormais interdit dans les nouveaux aménagements. | Aucune interdiction n'est mentionnée.
+EXP: Une question de synthèse demande de combiner l'idée générale et ses nuances. La conclusion « Autrement dit… » reformule souvent l'idée principale : ici, utile mais insuffisant à court terme.
+Q: Pourquoi la ville « ne se refroidit plus » la nuit ? | information détaillée
++ Parce que les matériaux urbains libèrent la nuit la chaleur accumulée le jour. | « Le bitume et les façades emmagasinent la chaleur le jour et la restituent la nuit. »
+- Parce que les parcs retiennent l'air chaud. | Les parcs sont au contraire plus frais (huit degrés d'écart).
+- Parce que les climatiseurs fonctionnent en permanence. | Les climatiseurs ne sont pas cités comme cause.
+- Parce que les arbres dépérissent pendant la sécheresse. | Le dépérissement concerne le choix des essences, pas la chaleur nocturne.
+EXP: Le connecteur « si bien que » introduit une conséquence : il faut remonter à la cause énoncée juste avant. « Emmagasiner » (stocker) et « restituer » (rendre) sont les mots clés.
+Q: Que suggère la chroniqueuse en évoquant les lieux climatisés ? | implicite
++ Qu'il faut aussi protéger les personnes vulnérables dès maintenant. | Les plantations agiront dans quinze ou vingt ans ; les lieux climatisés sont une « mesure plus rapide » destinée aux personnes âgées.
+- Que la climatisation devrait remplacer les plantations. | Les plantations restent « indispensables ».
+- Que les personnes âgées refusent de se rendre dans les parcs. | Rien de tel n'est dit.
+- Que les municipalités ont déjà abandonné les projets de jardins. | Elle décrit au contraire de nombreux projets en cours.
+EXP: L'implicite repose sur l'opposition entre le long terme (arbres) et l'urgence (canicules actuelles). La locution « ne pas dispenser de » signifie « ne pas éviter de devoir faire aussi ».
+VOCAB: une canicule = une période de très forte chaleur = La canicule a duré dix jours. ; emmagasiner = accumuler, stocker = Les murs emmagasinent la chaleur. ; restituer = rendre ce qui a été pris ou stocké = La pierre restitue la chaleur pendant la nuit. ; une essence = une espèce d'arbre = Le chêne est une essence qui résiste bien à la sécheresse. ; dépérir = s'affaiblir progressivement jusqu'à mourir = Faute d'eau, les jeunes arbres dépérissent.
+EXPR: encore faut-il = mais il est nécessaire (condition) = Planter des arbres est une bonne idée, encore faut-il les arroser. ; remédier à = trouver une solution à un problème = La ville veut remédier au manque d'espaces verts. ; ne pas dispenser de = ne pas éviter l'obligation de = Cette aide ne vous dispense pas de déclarer vos revenus.
+
+## CO-ENV-03 | interview | F:fr-FR, H:fr-FR
+TITRE: Un agriculteur face à la sécheresse
+CONTEXTE: Une journaliste interroge un céréalier du sud-ouest de la France.
+DOC: F: Vous avez décidé cette année de ne plus cultiver de maïs sur une partie de vos terres. Pourquoi ? / H: Le maïs a besoin d'énormément d'eau en plein été, justement au moment où les rivières sont au plus bas. Pendant des années, on a irrigué sans trop se poser de questions. Mais depuis trois étés, les arrêtés préfectoraux interdisent de pomper en juillet. Je me retrouvais avec des champs qui séchaient sur pied. / F: Par quoi l'avez-vous remplacé ? / H: Par du sorgho, une céréale qui supporte bien mieux la chaleur. Je ne vais pas vous mentir : il se vend moins cher et mes voisins m'ont regardé de travers au début. Mais entre une récolte un peu moins rentable et pas de récolte du tout, le calcul est vite fait. Ce qui me manque, c'est un accompagnement : on demande aux agriculteurs de s'adapter, très bien, mais changer de culture, ça coûte en machines, en formation, et personne ne nous aide vraiment.
+Q: Pourquoi l'agriculteur a-t-il abandonné une partie de sa culture de maïs ? | information détaillée
++ Parce qu'il ne pouvait plus l'arroser au moment où elle en avait besoin. | Les arrêtés « interdisent de pomper en juillet », période où le maïs a besoin « d'énormément d'eau ».
+- Parce que le maïs ne se vendait plus. | Le prix n'est pas la raison invoquée.
+- Parce que ses voisins le lui ont conseillé. | Ses voisins l'ont au contraire « regardé de travers ».
+- Parce que le sol était devenu trop pauvre. | La qualité du sol n'est pas évoquée.
+EXP: La cause combine deux éléments : le besoin en eau du maïs en été et l'interdiction de pomper. Les distracteurs reprennent des éléments réels du document mais pour une autre fonction.
+Q: Que signifie « le calcul est vite fait » ? | implicite
++ Le choix du sorgho s'impose malgré un prix plus bas. | Il compare « une récolte un peu moins rentable » et « pas de récolte du tout » : la décision est évidente.
+- Il a fait des calculs précis avec un comptable. | L'expression est figurée.
+- Le sorgho rapporte davantage que le maïs. | Il dit que le sorgho « se vend moins cher ».
+- Il regrette d'avoir abandonné le maïs. | Il justifie au contraire sa décision.
+EXP: L'expression « le calcul est vite fait » signifie que la comparaison donne une réponse évidente. L'opposition « entre… et… » met en balance deux options.
+Q: Que reproche l'agriculteur aux pouvoirs publics ? | point de vue
++ De demander des changements sans aider à les financer. | « On demande aux agriculteurs de s'adapter… mais changer de culture, ça coûte… et personne ne nous aide vraiment. »
+- D'interdire totalement l'irrigation. | L'interdiction ne concerne que le mois de juillet.
+- De favoriser les cultures de maïs. | Il ne dit rien de tel.
+- De ne pas prévoir les sécheresses. | Il ne critique pas les prévisions.
+EXP: « Ce qui me manque, c'est… » introduit la revendication. Le « très bien » ironique concède le principe de l'adaptation pour mieux critiquer l'absence de moyens.
+VOCAB: irriguer = arroser des cultures par un système artificiel = Les agriculteurs irriguent leurs champs l'été. ; un arrêté préfectoral = une décision administrative prise par le préfet = Un arrêté préfectoral limite l'usage de l'eau. ; sécher sur pied = se dessécher avant d'être récolté = Faute de pluie, le blé a séché sur pied. ; rentable = qui rapporte de l'argent = Cette activité n'est plus rentable. ; un accompagnement = une aide, un soutien sur la durée = Les chômeurs bénéficient d'un accompagnement personnalisé.
+EXPR: regarder quelqu'un de travers = le regarder avec méfiance ou désapprobation = Quand il est arrivé en jean, on l'a regardé de travers. ; le calcul est vite fait = la décision est évidente = Le train coûte moins cher et va plus vite : le calcul est vite fait. ; je ne vais pas vous mentir = pour être franc = Je ne vais pas vous mentir, le début sera difficile.
+
+## CO-ENV-04 | conférence | F:fr-FR
+TITRE: Pourquoi le recyclage ne suffit pas
+CONTEXTE: Extrait d'une conférence grand public d'une chercheuse en économie circulaire.
+DOC: F: On nous a longtemps présenté le recyclage comme la réponse à nos déchets. Trier, c'est bien, et je ne veux décourager personne. Mais il faut avoir conscience de ses limites. Prenons le plastique : la plupart des emballages ne peuvent être recyclés qu'une ou deux fois, et chaque cycle dégrade la matière. On fabrique alors des produits de moindre qualité, qui finiront, eux, en décharge. Le recyclage retarde le problème plus qu'il ne le résout. C'est pourquoi les spécialistes parlent de hiérarchie des déchets : d'abord réduire, ensuite réutiliser, et seulement en dernier recours recycler. Or nos politiques publiques ont longtemps fait l'inverse, en investissant massivement dans les centres de tri plutôt que dans la consigne ou la vente en vrac. Le meilleur déchet, au fond, reste celui qu'on ne produit pas.
+Q: Quelle est l'idée principale de la conférencière ? | synthèse
++ Le recyclage est utile mais doit passer après la réduction et la réutilisation des déchets. | Elle présente la « hiérarchie des déchets » où le recyclage vient « en dernier recours ».
+- Il faut cesser de trier ses déchets. | Elle dit explicitement « Trier, c'est bien ».
+- Le plastique peut être recyclé à l'infini. | Il ne peut l'être « qu'une ou deux fois ».
+- Les centres de tri sont la meilleure solution. | Elle critique le fait d'y avoir trop investi.
+EXP: La concession « Trier, c'est bien… Mais… » structure tout l'exposé. L'idée principale est résumée par la hiérarchie et la formule finale.
+Q: Que signifie « Le recyclage retarde le problème plus qu'il ne le résout » ? | implicite
++ Les matières recyclées finissent tout de même par devenir des déchets. | Les produits de moindre qualité « finiront, eux, en décharge ».
+- Le recyclage prend trop de temps. | Il s'agit d'un décalage dans le temps du problème, pas de lenteur.
+- Le recyclage ne fonctionne pas du tout. | Il fonctionne, mais une ou deux fois seulement.
+- Le recyclage coûte plus cher que la mise en décharge. | Le coût n'est pas abordé.
+EXP: La comparaison « plus que… ne » oppose deux effets : retarder et résoudre. La conférencière dit que le premier l'emporte sur le second.
+Q: Que reproche-t-elle aux politiques publiques ? | argumentation
++ D'avoir privilégié le tri au détriment de solutions qui évitent les déchets. | « En investissant massivement dans les centres de tri plutôt que dans la consigne ou la vente en vrac. »
+- D'avoir interdit la vente en vrac. | Rien n'indique une interdiction.
+- De ne pas avoir construit assez de centres de tri. | C'est l'inverse : trop d'investissement dans le tri.
+- D'avoir supprimé la consigne. | Elle regrette un manque d'investissement, pas une suppression.
+EXP: Le connecteur « Or » introduit un fait qui contredit la logique exposée juste avant. « Plutôt que » marque le choix fait au détriment d'une autre option.
+VOCAB: dégrader = abîmer, faire perdre de la qualité = La chaleur dégrade les médicaments. ; une décharge = un lieu où l'on dépose les déchets = Les déchets non recyclables partent en décharge. ; la consigne = un système où l'on rend un emballage contre un remboursement = Les bouteilles en verre étaient autrefois consignées. ; la vente en vrac = la vente de produits sans emballage = Ce magasin propose des pâtes en vrac. ; en dernier recours = quand il n'y a plus d'autre solution = On n'opère qu'en dernier recours.
+EXPR: avoir conscience de = savoir, être conscient de = Il faut avoir conscience des risques. ; plus qu'il ne… = davantage que (avec ne explétif) = Il parle plus qu'il n'agit. ; au fond = finalement, en réalité = Au fond, la solution est simple.
+
+## CO-ENV-05 | reportage | H:fr-FR, F:fr-FR
+TITRE: Une commune littorale face à la montée des eaux
+CONTEXTE: Reportage dans un village côtier menacé par l'érosion.
+DOC: H: À Saint-Aubin, la falaise recule de près d'un mètre par an. Plusieurs maisons ont déjà été évacuées. La maire, Claire Dumas, a fait un choix inhabituel : plutôt que de construire une nouvelle digue, elle a décidé de déplacer progressivement une partie du village vers l'intérieur des terres. / F: Une digue nous aurait coûté des millions, et pour combien de temps ? Dix ans, quinze ans ? Ensuite, il aurait fallu la rehausser, puis la rehausser encore. On ne peut pas lutter éternellement contre la mer. Ce que nous faisons, c'est anticiper plutôt que subir. / H: Une décision qui ne fait pas l'unanimité. / F: Évidemment. Pour les familles qui vivent ici depuis des générations, quitter sa maison est un déchirement. Je ne prétends pas que ce soit facile. Mais je préfère qu'on organise ce départ maintenant, dans de bonnes conditions, plutôt que d'attendre la tempête qui nous l'imposera.
+Q: Quel choix la maire a-t-elle fait ? | information détaillée
++ Relocaliser une partie du village plutôt que de construire une digue. | « Plutôt que de construire une nouvelle digue, elle a décidé de déplacer progressivement une partie du village. »
+- Construire une digue plus haute. | Elle a refusé la digue.
+- Évacuer tout le village immédiatement. | Le déplacement est « progressif » et partiel.
+- Renforcer la falaise avec du béton. | Cette solution n'est pas évoquée.
+EXP: « Plutôt que de… » oppose l'option écartée et l'option retenue. Le reporter qualifie ce choix d'« inhabituel », ce qui souligne son originalité.
+Q: Quel argument la maire avance-t-elle contre la digue ? | argumentation
++ Elle ne serait qu'une solution coûteuse et provisoire. | « Des millions, et pour combien de temps ? Dix ans, quinze ans ? Ensuite, il aurait fallu la rehausser. »
+- Elle abîmerait le paysage. | L'esthétique n'est pas évoquée.
+- Les habitants n'en voulaient pas. | Ce sont plutôt les habitants qui contestent le déplacement.
+- L'État avait refusé de la financer. | L'État n'est pas mentionné.
+EXP: Les questions rhétoriques (« pour combien de temps ? ») servent à argumenter. La répétition « la rehausser, puis la rehausser encore » insiste sur le caractère sans fin de cette solution.
+Q: Quelle attitude la maire adopte-t-elle face aux opposants ? | point de vue
++ Elle reconnaît leur souffrance tout en maintenant sa décision. | « Quitter sa maison est un déchirement… Mais je préfère qu'on organise ce départ maintenant. »
+- Elle les accuse d'égoïsme. | Elle exprime au contraire de l'empathie.
+- Elle renonce à son projet. | Elle maintient sa décision.
+- Elle refuse de leur parler. | Rien ne l'indique.
+EXP: La maire fait une concession empathique (« Je ne prétends pas que ce soit facile ») puis réaffirme sa position avec « Mais je préfère… plutôt que… ».
+VOCAB: une falaise = une côte rocheuse haute et abrupte = La maison est construite au bord de la falaise. ; une digue = un mur construit pour retenir l'eau = La digue protège le port des tempêtes. ; rehausser = rendre plus haut = Il faudra rehausser le mur. ; l'érosion = l'usure progressive du sol par l'eau ou le vent = L'érosion menace les plages. ; un déchirement = une grande souffrance morale liée à une séparation = Partir a été un déchirement.
+EXPR: faire l'unanimité = être approuvé par tout le monde = Ce candidat ne fait pas l'unanimité. ; anticiper plutôt que subir = agir à l'avance au lieu de supporter les conséquences = Face à la crise, mieux vaut anticiper plutôt que subir. ; je ne prétends pas que = je n'affirme pas que = Je ne prétends pas avoir raison sur tout.
+
+## CO-ENV-06 | chronique radio | H:fr-CA
+TITRE: La sobriété énergétique, un mot qui dérange
+DOC: H: Sobriété : le mot revient dans tous les discours depuis la crise de l'énergie. Pourtant, il suscite souvent la méfiance, comme s'il annonçait un retour à la bougie. C'est un malentendu. La sobriété ne consiste pas à se priver, mais à éviter le gaspillage : éteindre les vitrines la nuit, chauffer un bureau vide à dix-neuf degrés plutôt qu'à vingt-trois, ne pas laisser tourner la climatisation fenêtres ouvertes. Selon plusieurs organismes publics, ces gestes simples pourraient réduire la consommation d'énergie d'un dixième sans perte réelle de confort. Le problème, c'est qu'on a longtemps confié cet effort aux seuls particuliers, à coups de campagnes culpabilisantes. Or les plus gros gisements d'économies se trouvent dans les bâtiments publics, les entreprises et l'éclairage urbain. Demander aux ménages de baisser leur chauffage pendant que des tours de bureaux restent illuminées toute la nuit, voilà qui ne risque pas de convaincre.
+Q: Selon le chroniqueur, pourquoi le mot « sobriété » suscite-t-il la méfiance ? | implicite
++ On l'associe à tort à une forme de privation. | « Comme s'il annonçait un retour à la bougie. C'est un malentendu. »
+- Il est trop technique pour le grand public. | Rien n'est dit sur la difficulté du mot.
+- Il est utilisé uniquement par les écologistes. | Il « revient dans tous les discours ».
+- Il désigne une hausse des prix de l'énergie. | Ce n'est pas la définition donnée.
+EXP: « Comme si » introduit une interprétation que le chroniqueur juge fausse (« un malentendu »). La définition correcte suit avec « ne consiste pas à… mais à… ».
+Q: Que critique le chroniqueur ? | argumentation
++ Le fait de faire porter l'effort surtout sur les particuliers. | « On a longtemps confié cet effort aux seuls particuliers… Or les plus gros gisements d'économies se trouvent dans les bâtiments publics, les entreprises. »
+- Le chauffage des bureaux à dix-neuf degrés. | C'est un geste qu'il recommande.
+- L'éclairage des vitrines pendant la journée. | Il parle de les éteindre la nuit.
+- Les organismes publics qui mesurent la consommation. | Il s'appuie sur leurs chiffres.
+EXP: « Le problème, c'est que… » puis « Or… » marquent la critique. L'adjectif « culpabilisantes » montre aussi son désaccord avec la méthode employée.
+Q: Que veut montrer l'exemple des tours de bureaux illuminées ? | synthèse
++ Qu'on ne peut pas demander des efforts aux ménages si les grands consommateurs n'en font pas. | « Voilà qui ne risque pas de convaincre » : l'exemple souligne l'incohérence.
+- Que les entreprises respectent déjà les règles. | L'exemple montre le contraire.
+- Que l'éclairage nocturne est indispensable à la sécurité. | La sécurité n'est pas évoquée.
+- Que les ménages chauffent trop leurs logements. | L'exemple vise les bureaux, pas les ménages.
+EXP: La phrase finale oppose deux situations simultanées (« pendant que »). La formule « voilà qui ne risque pas de convaincre » exprime ironiquement que la démarche est incohérente.
+VOCAB: la sobriété = la modération dans la consommation = La sobriété énergétique consiste à éviter le gaspillage. ; le gaspillage = l'utilisation inutile, excessive d'une ressource = Le gaspillage alimentaire est considérable. ; culpabilisant = qui donne un sentiment de faute = Ce discours culpabilisant agace les parents. ; un gisement = (figuré) une réserve importante de quelque chose = Le recyclage est un gisement d'emplois.
+EXPR: à coups de = au moyen de nombreux… = Il a convaincu à coups d'arguments chiffrés. ; voilà qui = c'est quelque chose qui = Il a tout rangé : voilà qui me fait plaisir. ; ne pas risquer de = il est peu probable que = Ce projet ne risque pas d'aboutir sans budget.
+
+## CO-ENV-07 | débat radiophonique | F:fr-FR, H:fr-BE
+TITRE: Les éoliennes en mer divisent les pêcheurs
+CONTEXTE: Débat entre une représentante d'une société d'énergie et un représentant des pêcheurs.
+DOC: F: Ce parc éolien produira l'équivalent de la consommation de huit cent mille habitants. C'est une contribution majeure à la transition énergétique. / H: Personne ne conteste l'objectif. Ce que nous contestons, c'est la méthode. Le parc va être installé en plein milieu de zones où nous pêchons depuis toujours. On nous a consultés, certes, mais une fois que l'emplacement était déjà choisi. / F: Nous avons tenu plus de quarante réunions avec les professionnels de la mer… / H: Des réunions pour nous informer, pas pour nous écouter. Ce n'est pas la même chose. Et quand on demande ce que deviendront les poissons pendant les travaux, on nous répond que les études sont en cours. Autrement dit, on construit d'abord et on vérifiera ensuite. / F: Les études menées sur d'autres parcs montrent que les fondations peuvent même attirer certaines espèces. / H: Peut-être. Mais en attendant, ce sont nos bateaux qui restent à quai.
+Q: Que conteste le représentant des pêcheurs ? | point de vue
++ La façon dont le projet a été décidé et mené. | « Personne ne conteste l'objectif. Ce que nous contestons, c'est la méthode. »
+- La nécessité de développer les énergies renouvelables. | Il dit que « personne ne conteste l'objectif ».
+- Le nombre d'habitants alimentés par le parc. | Il ne remet pas ce chiffre en question.
+- L'existence même des éoliennes. | Sa critique porte sur la méthode et l'emplacement.
+EXP: La mise en relief « Ce que nous contestons, c'est… » oppose clairement l'objectif accepté et la méthode refusée.
+Q: Que reproche-t-il aux réunions organisées ? | implicite
++ Elles servaient à annoncer des décisions déjà prises. | « Des réunions pour nous informer, pas pour nous écouter » ; consultés « une fois que l'emplacement était déjà choisi ».
+- Elles étaient trop peu nombreuses. | Il ne conteste pas le chiffre de quarante réunions.
+- Elles avaient lieu trop loin des ports. | Le lieu des réunions n'est pas évoqué.
+- Elles étaient réservées aux scientifiques. | Les professionnels de la mer y participaient.
+EXP: La distinction « informer / écouter » est au cœur de la critique : une consultation véritable suppose qu'on puisse encore influencer la décision.
+Q: Que signifie la dernière réplique du pêcheur ? | synthèse
++ Les bénéfices éventuels à long terme ne compensent pas les pertes immédiates. | « Peut-être. Mais en attendant, ce sont nos bateaux qui restent à quai. »
+- Il est convaincu que les poissons reviendront. | « Peut-être » exprime un doute, pas une conviction.
+- Il va cesser définitivement de pêcher. | Il parle de la période des travaux (« en attendant »).
+- Il accepte finalement le projet. | Il maintient son objection.
+EXP: « Peut-être » concède l'argument adverse sans l'accepter vraiment ; « en attendant » oppose le futur incertain au présent concret.
+VOCAB: un parc éolien = un ensemble d'éoliennes = Un parc éolien sera installé au large. ; la transition énergétique = le passage vers des énergies moins polluantes = La transition énergétique exige des investissements. ; les fondations = la base enterrée qui soutient une construction = Les fondations des éoliennes sont fixées au fond de la mer. ; rester à quai = (bateau) ne pas sortir du port = À cause de la tempête, les bateaux sont restés à quai.
+EXPR: depuis toujours = depuis très longtemps = Ma famille habite ici depuis toujours. ; certes… mais = il est vrai que… cependant = Certes, il a travaillé, mais pas assez. ; en attendant = pendant ce temps, pour l'instant = Les travaux reprendront en mai ; en attendant, la route est fermée.
+
+## CO-ENV-08 | journal radio | F:fr-FR
+TITRE: L'interdiction des chaudières au fioul
+DOC: F: À partir de l'année prochaine, il ne sera plus possible d'installer de nouvelles chaudières au fioul dans les logements. Les foyers déjà équipés pourront conserver leur appareil, mais en cas de panne, ils devront le remplacer par un système moins polluant, comme une pompe à chaleur ou une chaudière à bois. Le gouvernement promet des aides pouvant atteindre neuf mille euros pour les ménages les plus modestes. Les professionnels du chauffage saluent l'objectif mais s'inquiètent du calendrier : les installateurs qualifiés sont trop peu nombreux, et les délais d'intervention dépassent déjà six mois dans certaines régions. Les associations de consommateurs, elles, mettent en garde contre les démarchages abusifs : des entreprises peu scrupuleuses profitent de chaque nouvelle réglementation pour vendre des équipements surfacturés.
+Q: Que devront faire les foyers équipés d'une chaudière au fioul ? | information détaillée
++ La remplacer par un système moins polluant lorsqu'elle tombera en panne. | « En cas de panne, ils devront le remplacer par un système moins polluant. »
+- La remplacer immédiatement. | Ils « pourront conserver leur appareil ».
+- Payer une taxe supplémentaire. | Aucune taxe n'est mentionnée.
+- La faire contrôler chaque année. | Aucun contrôle annuel n'est évoqué.
+EXP: Distinguez l'interdiction d'installer (nouvelles chaudières) de l'obligation de remplacer (seulement en cas de panne). Le connecteur « mais » introduit cette condition.
+Q: Quelle inquiétude expriment les professionnels du chauffage ? | argumentation
++ Le manque d'installateurs risque de ralentir la mise en œuvre. | « Les installateurs qualifiés sont trop peu nombreux, et les délais… dépassent déjà six mois. »
+- Les aides de l'État sont trop élevées. | Ils ne critiquent pas les aides.
+- Les pompes à chaleur ne fonctionnent pas en hiver. | La performance des pompes n'est pas abordée.
+- L'objectif de la mesure est mauvais. | Ils « saluent l'objectif ».
+EXP: « Saluent l'objectif mais s'inquiètent du calendrier » : la réserve porte sur la faisabilité dans les délais, pas sur le principe.
+Q: Contre quoi les associations de consommateurs mettent-elles en garde ? | implicite
++ Des vendeurs malhonnêtes qui profitent de la nouvelle règle. | « Des entreprises peu scrupuleuses profitent de chaque nouvelle réglementation pour vendre des équipements surfacturés. »
+- La hausse du prix du fioul. | Le prix du fioul n'est pas évoqué.
+- La lenteur du versement des aides. | Ce point n'est pas mentionné.
+- Le manque d'information du gouvernement. | Elles ne critiquent pas le gouvernement.
+EXP: « Peu scrupuleuses » signifie malhonnêtes ; « surfacturés » signifie vendus trop cher. « Mettre en garde » équivaut à « prévenir d'un danger ».
+VOCAB: une pompe à chaleur = un appareil qui chauffe en captant la chaleur de l'air ou du sol = Ils ont remplacé leur chaudière par une pompe à chaleur. ; le démarchage = la sollicitation de clients à domicile ou par téléphone = Méfiez-vous du démarchage téléphonique. ; peu scrupuleux = malhonnête, sans principes moraux = Un vendeur peu scrupuleux l'a trompé. ; surfacturé = facturé à un prix excessif = Les travaux ont été surfacturés.
+EXPR: mettre en garde contre = avertir d'un danger = Les médecins mettent en garde contre l'automédication. ; saluer = approuver publiquement = L'opposition a salué la décision. ; en cas de = si (telle situation) se produit = En cas de problème, appelez ce numéro.
+
+## CO-ENV-09 | témoignage | H:fr-FR
+TITRE: Vivre sans voiture à la campagne
+CONTEXTE: Un habitant d'un village de Bretagne raconte son expérience.
+DOC: H: Quand on a vendu notre deuxième voiture il y a trois ans, nos amis nous ont pris pour des fous. À la campagne, sans voiture, on est censé être condamné à l'isolement. Je ne vais pas prétendre que c'est simple tous les jours. Il faut tout anticiper : les courses se font une fois par semaine, et on s'organise avec les voisins pour le covoiturage. Mais j'ai découvert des choses auxquelles je ne m'attendais pas. Je fais vingt minutes de vélo électrique pour aller travailler, et j'arrive au bureau de meilleure humeur qu'avant. On a économisé plus de trois mille euros par an. Et surtout, on parle beaucoup plus aux gens du village qu'à l'époque où on passait d'un garage à l'autre. Cela dit, je reconnais que ce n'est possible que parce que mon travail est à huit kilomètres. Pour ma sœur, qui en fait cinquante chaque jour, la question ne se pose même pas.
+Q: Comment l'entourage a-t-il réagi à la décision du couple ? | information détaillée
++ Avec incompréhension. | « Nos amis nous ont pris pour des fous. »
+- Avec admiration. | Les amis ne l'admiraient pas : ils les trouvaient fous.
+- Avec indifférence. | Leur réaction était au contraire marquée.
+- En les imitant. | Rien n'indique que les amis aient vendu leur voiture.
+EXP: « Prendre quelqu'un pour un fou » signifie juger son comportement absurde. C'est une réaction d'incompréhension, voire de moquerie.
+Q: Qu'est-ce que le témoin n'avait pas prévu ? | implicite
++ Des bénéfices sur son moral et sur ses relations avec les voisins. | Il arrive « de meilleure humeur » et parle « beaucoup plus aux gens du village ».
+- Les difficultés pour faire les courses. | Il savait qu'il faudrait « tout anticiper ».
+- La vente de sa première voiture. | Ils n'ont vendu que la deuxième.
+- Le prix élevé du vélo électrique. | Le prix du vélo n'est pas évoqué.
+EXP: « Des choses auxquelles je ne m'attendais pas » annonce les surprises positives. Notez que le couple garde une voiture : il a vendu « la deuxième ».
+Q: Quelle limite le témoin reconnaît-il à son expérience ? | argumentation
++ Elle n'est possible qu'en habitant près de son lieu de travail. | « Ce n'est possible que parce que mon travail est à huit kilomètres. Pour ma sœur, qui en fait cinquante… la question ne se pose même pas. »
+- Elle coûte plus cher que prévu. | Il a économisé trois mille euros par an.
+- Elle l'a isolé de ses voisins. | Il parle au contraire davantage aux gens du village.
+- Elle est interdite dans certaines régions. | Aucune interdiction n'est évoquée.
+EXP: « Cela dit, je reconnais que… » introduit une concession qui limite la portée de son témoignage. L'exemple de la sœur illustre cette limite.
+VOCAB: le covoiturage = le partage d'une voiture entre plusieurs personnes pour un trajet = Je vais au travail en covoiturage avec un collègue. ; être condamné à = être obligé de subir = Sans diplôme, il se croyait condamné aux petits boulots. ; anticiper = prévoir et préparer à l'avance = Il faut anticiper les dépenses de rentrée. ; l'isolement = le fait d'être seul, coupé des autres = L'isolement touche beaucoup de personnes âgées.
+EXPR: prendre quelqu'un pour un fou = le juger déraisonnable = Quand j'ai quitté mon emploi, on m'a pris pour un fou. ; être censé = être supposé = Il est censé arriver à midi. ; la question ne se pose même pas = c'est évidemment impossible ou inutile d'en discuter = Avec ce salaire, acheter une maison ? La question ne se pose même pas.

@@ -13,7 +13,8 @@ from __future__ import annotations
 import logging
 
 from tcfmaster.services.ai import prompts as P
-from tcfmaster.services.ai.base import (LEARNER, AIUnavailable, Conversation, TutorReply)
+from tcfmaster.services.ai.base import (OPENING_CUES, AIUnavailable, Conversation, TutorReply,
+                                        build_messages)
 
 log = logging.getLogger("tcfmaster.ai")
 
@@ -46,23 +47,7 @@ class AnthropicEngine:
 
     # ------------------------------------------------------------- appel
     def _messages(self, conv: Conversation, extra_user: str | None = None) -> list[dict]:
-        msgs: list[dict] = []
-        for t in conv.turns[-MAX_HISTORY_TURNS:]:
-            role = "user" if t.role == LEARNER else "assistant"
-            if msgs and msgs[-1]["role"] == role:        # l'API attend une alternance
-                msgs[-1]["content"] += "\n\n" + t.text
-            else:
-                msgs.append({"role": role, "content": t.text})
-        if extra_user:
-            if msgs and msgs[-1]["role"] == "user":
-                msgs[-1]["content"] += "\n\n" + extra_user
-            else:
-                msgs.append({"role": "user", "content": extra_user})
-        if msgs and msgs[0]["role"] != "user":          # le premier message vient de l'apprenant
-            msgs.insert(0, {"role": "user", "content": "Bonjour."})
-        if not msgs:
-            msgs = [{"role": "user", "content": extra_user or "Bonjour."}]
-        return msgs
+        return build_messages(conv, extra_user, MAX_HISTORY_TURNS)
 
     def _call(self, system: str, messages: list[dict]) -> str:
         import anthropic
@@ -95,12 +80,7 @@ class AnthropicEngine:
 
     # ------------------------------------------------------------- API du moteur
     def opening(self, conv: Conversation) -> TutorReply:
-        cue = {"professeur": "Présente-toi en deux phrases comme professeur et demande-moi "
-                             "ce que je veux travailler.",
-               "conversation": "Lance une conversation sur un sujet de société en me posant "
-                               "une question ouverte.",
-               "examinateur": "Commence l'épreuve : salue-moi et pose la première question "
-                              "ou réplique, comme à l'examen."}[conv.mode]
+        cue = OPENING_CUES[conv.mode]
         return TutorReply(self._call(P.system_prompt(conv), self._messages(conv, cue)),
                           self.name)
 
@@ -115,3 +95,8 @@ class AnthropicEngine:
     def ping(self) -> str:
         return self._call(P.COMMON, [{"role": "user",
                                       "content": "Réponds seulement : « Connexion réussie. »"}])
+
+    def deepen(self, kind: str, data: dict) -> str:
+        """Correction approfondie d'une production écrite (EE) ou orale (EO)."""
+        return self._call(P.DEEPEN_SYSTEM, [{"role": "user",
+                                             "content": P.deepen_request(kind, data)}])

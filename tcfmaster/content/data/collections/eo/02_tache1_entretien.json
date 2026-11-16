@@ -1,0 +1,802 @@
+{
+ "slug": "eo-tache1-entretien",
+ "section": "EO",
+ "title": "Tâche 1 – Entretien dirigé",
+ "description": "Trente-trois entretiens dirigés originaux : l'examinateur vous interroge sur votre vie, vos habitudes et vos projets. Visez des réponses développées, avec raisons et exemples.",
+ "order": 2,
+ "level": "B2",
+ "items": [
+  {
+   "code": "EO-B2-004",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Votre parcours scolaire",
+   "examiner_role": "Examinateur",
+   "theme": "éducation",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur votre scolarité et vos études : ce que vous avez étudié, les matières que vous aimiez, un enseignant marquant et ce que vous retenez de cette période.",
+   "examiner_prompts": [
+    "Quelles études avez-vous faites ?",
+    "Quelle matière préfériez-vous, et pourquoi ?",
+    "Un professeur vous a-t-il particulièrement marqué ?",
+    "Si c'était à refaire, changeriez-vous quelque chose ?"
+   ],
+   "useful_phrases": [
+    "J'ai fait des études de…",
+    "Ce qui me plaisait surtout, c'était…",
+    "Avec le recul, je regrette de ne pas avoir…"
+   ],
+   "model_answer": "J'ai fait des études de comptabilité à Casablanca, puis un master de gestion. Au lycée, ce qui me plaisait surtout, c'était les mathématiques, parce que j'aimais la logique des raisonnements. Un professeur m'a beaucoup marqué : il nous obligeait à expliquer nos calculs à voix haute, ce qui m'a appris à argumenter. Avec le recul, je regrette de ne pas avoir appris l'anglais plus sérieusement, car j'en aurais besoin aujourd'hui dans mon travail. Si c'était à refaire, je partirais aussi un semestre à l'étranger pendant mes études.",
+   "model_commentary": "La réponse suit la chronologie, justifie chaque goût et se termine par un regret au passé et une hypothèse au conditionnel. La mise en relief « ce qui me plaisait surtout, c'était » et la relative « ce qui m'a appris » sont typiques du B2.",
+   "tips": "Pour chaque question, donnez un fait, une raison et un exemple. Préparez une hypothèse au conditionnel (« si c'était à refaire, je… ») : elle impressionne toujours."
+  },
+  {
+   "code": "EO-B2-005",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Votre logement actuel",
+   "examiner_role": "Examinateur",
+   "theme": "logement",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous pose des questions sur votre logement : où vous habitez, comment vous l'avez trouvé, ce que vous appréciez et ce que vous aimeriez changer.",
+   "examiner_prompts": [
+    "Pouvez-vous décrire votre logement ?",
+    "Comment l'avez-vous trouvé ?",
+    "Qu'est-ce qui vous plaît le plus dans votre quartier ?",
+    "À quoi ressemblerait votre logement idéal ?"
+   ],
+   "useful_phrases": [
+    "J'habite dans un… qui donne sur…",
+    "Il a fallu que je…",
+    "Ce qui me manque, c'est…"
+   ],
+   "model_answer": "J'habite dans un trois-pièces au quatrième étage, qui donne sur un petit parc. Le trouver n'a pas été facile : il a fallu que je visite une quinzaine d'appartements et que je présente un garant, car je venais d'arriver en France. Ce que j'apprécie le plus, c'est le calme du quartier et la proximité du marché, où je fais mes courses le samedi. En revanche, l'immeuble n'a pas d'ascenseur, ce qui est pénible avec les courses. Mon logement idéal serait une maison avec un jardin, où mes enfants pourraient jouer dehors.",
+   "model_commentary": "Le candidat décrit, raconte une difficulté avec le subjonctif (« il a fallu que je visite »), nuance avec « en revanche » et termine par un souhait au conditionnel. Les relatives (« qui donne sur », « où je fais ») enrichissent la description.",
+   "tips": "Alternez description et récit : une anecdote sur la recherche du logement rend la réponse vivante. Pensez à nuancer avec un point positif et un point négatif."
+  },
+  {
+   "code": "EO-B2-006",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Vos loisirs et votre temps libre",
+   "examiner_role": "Examinateur",
+   "theme": "loisirs",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur votre temps libre : vos activités préférées, depuis quand vous les pratiquez et ce qu'elles vous apportent.",
+   "examiner_prompts": [
+    "Que faites-vous pendant votre temps libre ?",
+    "Depuis quand pratiquez-vous cette activité ?",
+    "Qu'est-ce que cela vous apporte ?",
+    "Y a-t-il une activité que vous aimeriez découvrir ?"
+   ],
+   "useful_phrases": [
+    "Dès que j'ai un moment, je…",
+    "Cela fait … ans que…",
+    "Ce que ça m'apporte surtout, c'est…"
+   ],
+   "model_answer": "Dès que j'ai un moment, je fais de la randonnée. Cela fait maintenant six ans que je marche tous les dimanches avec un groupe de mon quartier. Au début, j'y allais surtout pour faire du sport, mais ce que ça m'apporte surtout aujourd'hui, c'est le contact avec les autres : grâce à ce club, je me suis fait des amis et j'ai beaucoup progressé en français. Le soir, je lis aussi des romans policiers pour me détendre. J'aimerais bien apprendre la poterie, parce que j'ai envie de créer quelque chose de mes mains.",
+   "model_commentary": "La réponse précise la durée (« cela fait six ans que »), montre une évolution (« au début… aujourd'hui ») et explique les bénéfices. Les connecteurs de cause (« grâce à », « parce que ») et le conditionnel de souhait sont bien employés.",
+   "tips": "Montrez une évolution dans le temps : « au début…, puis…, aujourd'hui… ». C'est un moyen simple d'utiliser plusieurs temps verbaux."
+  },
+  {
+   "code": "EO-B2-007",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Votre famille",
+   "examiner_role": "Examinateur",
+   "theme": "vie personnelle",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous pose des questions sur votre famille : sa composition, les relations entre ses membres et les traditions familiales.",
+   "examiner_prompts": [
+    "Pouvez-vous me parler de votre famille ?",
+    "Êtes-vous proche de vos parents ?",
+    "Avez-vous des traditions familiales ?",
+    "Comment gardez-vous le contact avec ceux qui vivent loin ?"
+   ],
+   "useful_phrases": [
+    "Nous sommes une famille de…",
+    "Je m'entends particulièrement bien avec…",
+    "Chez nous, il est de tradition de…"
+   ],
+   "model_answer": "Nous sommes une famille de cinq enfants, et je suis l'aînée. Je m'entends particulièrement bien avec ma sœur cadette, à qui je téléphone presque tous les jours, même si elle vit encore au Sénégal. Chez nous, il est de tradition de se réunir chez mes grands-parents pour la Tabaski : chacun prépare un plat et les enfants dansent jusqu'à tard. Depuis que je suis en France, je participe à ces fêtes par appel vidéo, ce qui n'est pas pareil, mais permet de garder le lien. J'espère que mes parents pourront venir me rendre visite l'été prochain.",
+   "model_commentary": "Le candidat présente sa famille, utilise une relative avec préposition (« à qui je téléphone »), décrit une tradition et exprime un espoir au futur. La concession « même si » et la nuance « ce qui n'est pas pareil, mais » montrent un discours structuré.",
+   "tips": "Une tradition familiale décrite avec quelques détails concrets (plats, lieux, moments) suffit à enrichir votre réponse. Évitez les listes de prénoms et d'âges."
+  },
+  {
+   "code": "EO-B2-008",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Votre travail actuel",
+   "examiner_role": "Examinateur",
+   "theme": "vie professionnelle",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur votre emploi : vos missions, une journée type, ce qui vous plaît et les difficultés que vous rencontrez.",
+   "examiner_prompts": [
+    "En quoi consiste votre travail ?",
+    "Comment se passe une journée type ?",
+    "Qu'est-ce qui vous plaît dans ce métier ?",
+    "Quelles difficultés rencontrez-vous ?"
+   ],
+   "useful_phrases": [
+    "Je suis chargé de…",
+    "En général, ma journée commence par…",
+    "Le plus difficile, c'est de…"
+   ],
+   "model_answer": "Je travaille comme technicien de maintenance dans une usine agroalimentaire. Je suis chargé de réparer les machines et de prévenir les pannes. En général, ma journée commence à six heures par une tournée de contrôle, puis je traite les urgences signalées par l'équipe de nuit. Ce qui me plaît, c'est de résoudre des problèmes concrets : quand une ligne redémarre grâce à moi, je suis fier. Le plus difficile, c'est de travailler sous pression, car chaque heure d'arrêt coûte cher à l'entreprise. J'aimerais devenir chef d'équipe d'ici deux ou trois ans.",
+   "model_commentary": "La réponse décrit des missions précises avec un lexique professionnel, organise la journée chronologiquement et équilibre plaisir et difficulté. La subordonnée de temps (« quand une ligne redémarre ») et la cause (« car ») structurent bien le propos.",
+   "tips": "Employez le vocabulaire exact de votre métier et expliquez-le simplement. Terminez par une perspective d'avenir : l'examinateur rebondit souvent dessus."
+  },
+  {
+   "code": "EO-B2-009",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Votre apprentissage du français",
+   "examiner_role": "Examinateur",
+   "theme": "langues",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur votre apprentissage du français : comment vous avez commencé, vos méthodes, vos difficultés et vos progrès.",
+   "examiner_prompts": [
+    "Depuis combien de temps apprenez-vous le français ?",
+    "Comment l'avez-vous appris ?",
+    "Qu'est-ce qui est le plus difficile pour vous ?",
+    "Quels conseils donneriez-vous à un débutant ?"
+   ],
+   "useful_phrases": [
+    "J'ai commencé à apprendre le français quand…",
+    "Ce qui m'a le plus aidé, c'est…",
+    "J'ai encore du mal à…"
+   ],
+   "model_answer": "J'ai commencé à apprendre le français il y a quatre ans, quand mon entreprise m'a proposé un poste à Lyon. Au début, je suivais des cours en ligne le soir, mais ce qui m'a le plus aidé, c'est de parler avec mes collègues pendant les pauses. J'écoute aussi la radio dans la voiture, ce qui m'a habitué aux différents accents. J'ai encore du mal avec le subjonctif et avec les expressions familières que les jeunes utilisent. À un débutant, je conseillerais de ne pas avoir peur de faire des erreurs, parce qu'on apprend surtout en se trompant.",
+   "model_commentary": "Le candidat retrace son parcours, hiérarchise ses méthodes (« ce qui m'a le plus aidé »), reconnaît ses difficultés et donne un conseil au conditionnel. Le gérondif « en se trompant » est un bon marqueur de niveau B2.",
+   "tips": "Soyez honnête sur vos difficultés : c'est l'occasion d'utiliser « avoir du mal à », « je n'arrive pas encore à ». Ajoutez une méthode concrète que vous utilisez."
+  },
+  {
+   "code": "EO-B2-010",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Votre quartier",
+   "examiner_role": "Examinateur",
+   "theme": "ville",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous demande de décrire votre quartier : son ambiance, ses commerces et services, ce qui a changé et ce qui pourrait être amélioré.",
+   "examiner_prompts": [
+    "Comment est votre quartier ?",
+    "Quels lieux fréquentez-vous le plus ?",
+    "Le quartier a-t-il changé depuis votre arrivée ?",
+    "Que faudrait-il améliorer ?"
+   ],
+   "useful_phrases": [
+    "C'est un quartier plutôt…",
+    "On y trouve…",
+    "Il faudrait que la mairie…"
+   ],
+   "model_answer": "J'habite à la Croix-Rousse, un quartier plutôt animé, sur une colline. On y trouve tout à pied : une boulangerie, une pharmacie, une médiathèque et un grand marché le dimanche. Le lieu que je fréquente le plus, c'est un petit café associatif où l'on organise des soirées de conversation en plusieurs langues. Depuis mon arrivée, beaucoup de familles se sont installées, si bien que les écoles sont maintenant surchargées. Il faudrait que la mairie ouvre une nouvelle crèche et ajoute des pistes cyclables, car les rues sont étroites et dangereuses pour les vélos.",
+   "model_commentary": "La description est organisée (atmosphère, services, lieu favori, évolution, améliorations). La conséquence « si bien que » et le subjonctif après « il faudrait que » montrent une maîtrise solide des structures B2.",
+   "tips": "Pour la question sur les améliorations, utilisez « il faudrait que + subjonctif » ou « ce serait bien de + infinitif » et justifiez votre proposition."
+  },
+  {
+   "code": "EO-B2-011",
+   "task_number": 1,
+   "level": "B2",
+   "title": "La cuisine et vos habitudes alimentaires",
+   "examiner_role": "Examinateur",
+   "theme": "alimentation",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur vos habitudes alimentaires : ce que vous mangez, si vous cuisinez, les plats de votre pays et la cuisine française.",
+   "examiner_prompts": [
+    "Aimez-vous cuisiner ?",
+    "Quel est votre plat préféré ?",
+    "Vos habitudes ont-elles changé en France ?",
+    "Que pensez-vous de la cuisine française ?"
+   ],
+   "useful_phrases": [
+    "Je cuisine surtout…",
+    "C'est un plat qui…",
+    "Depuis que je vis ici, je…"
+   ],
+   "model_answer": "J'adore cuisiner, surtout le week-end, quand j'ai le temps. Mon plat préféré, c'est le pho, une soupe vietnamienne que ma mère préparait chaque dimanche matin ; c'est un plat qui me rappelle mon enfance. Depuis que je vis en France, mes habitudes ont un peu changé : je mange plus de fromage et je déjeune plus longuement, parce qu'au bureau, la pause dure une heure. Ce que j'apprécie dans la cuisine française, c'est l'importance accordée aux produits de saison. En revanche, je trouve que certains plats sont trop riches pour moi.",
+   "model_commentary": "Le candidat décrit un plat avec une relative chargée de souvenir, compare avant et maintenant, puis donne un avis nuancé (« ce que j'apprécie… en revanche »). L'imparfait d'habitude (« préparait ») est bien employé.",
+   "tips": "Décrivez un plat en quelques mots (ingrédients, occasion, souvenir) plutôt que de citer une longue liste. Donnez un avis nuancé sur la cuisine française."
+  },
+  {
+   "code": "EO-B2-012",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Les voyages",
+   "examiner_role": "Examinateur",
+   "theme": "voyages",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur vos voyages : un voyage marquant, votre façon de voyager et vos projets de destinations.",
+   "examiner_prompts": [
+    "Aimez-vous voyager ?",
+    "Quel voyage vous a le plus marqué ?",
+    "Préférez-vous voyager seul ou en groupe ?",
+    "Où aimeriez-vous aller ?"
+   ],
+   "useful_phrases": [
+    "Le voyage qui m'a le plus marqué, c'est…",
+    "Ce qui m'a frappé, c'est…",
+    "Je rêve de…"
+   ],
+   "model_answer": "J'aime beaucoup voyager, même si je n'en ai pas souvent l'occasion. Le voyage qui m'a le plus marqué, c'est un séjour en Islande il y a deux ans. Ce qui m'a frappé, c'est le silence : on pouvait rouler une heure sans croiser personne. Je préfère voyager avec un ou deux amis, parce qu'on partage les frais et les souvenirs, tout en restant libres de changer d'itinéraire. Je rêve de visiter le Japon au printemps, quand les cerisiers sont en fleurs, mais il faudra que j'économise pendant au moins un an.",
+   "model_commentary": "La réponse raconte un souvenir avec la mise en relief, compare deux façons de voyager avec un gérondif (« tout en restant libres ») et exprime un projet soumis à une condition. Le discours est fluide et bien relié.",
+   "tips": "Pour un souvenir, choisissez un détail sensoriel (un bruit, un paysage, une odeur) : il rend la réponse personnelle et mémorable."
+  },
+  {
+   "code": "EO-B2-013",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Le sport dans votre vie",
+   "examiner_role": "Examinateur",
+   "theme": "sport",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur la place du sport dans votre vie : ce que vous pratiquez, ce que vous suivez à la télévision et l'importance du sport pour vous.",
+   "examiner_prompts": [
+    "Faites-vous du sport ?",
+    "Quel sport aimez-vous regarder ?",
+    "Le sport était-il important dans votre enfance ?",
+    "Pensez-vous que l'école devrait proposer plus de sport ?"
+   ],
+   "useful_phrases": [
+    "Je pratique … depuis…",
+    "Quand j'étais petit, …",
+    "À mon avis, l'école devrait…"
+   ],
+   "model_answer": "Je joue au basket deux fois par semaine dans un club amateur. Quand j'étais petit, je jouais tous les soirs dans la rue avec les enfants du quartier ; c'est comme ça que j'ai appris à aimer les sports collectifs. À la télévision, je regarde surtout les matchs de handball, parce que l'ambiance est incroyable. Le sport m'aide à évacuer le stress du travail et à dormir mieux. À mon avis, l'école devrait proposer plus d'heures de sport, d'autant que beaucoup d'enfants passent leurs soirées devant les écrans.",
+   "model_commentary": "Le candidat oppose le présent et l'imparfait d'habitude, explique les bienfaits et donne une opinion argumentée avec « d'autant que ». La réponse couvre toutes les relances sans digression.",
+   "tips": "Quand l'examinateur demande votre avis, ajoutez toujours un argument : « d'autant que », « dans la mesure où », « étant donné que »."
+  },
+  {
+   "code": "EO-B2-014",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Le numérique au quotidien",
+   "examiner_role": "Examinateur",
+   "theme": "technologie",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur votre usage du téléphone, d'internet et des réseaux sociaux, et sur la place qu'ils occupent dans votre vie.",
+   "examiner_prompts": [
+    "Combien de temps passez-vous sur votre téléphone ?",
+    "À quoi vous sert surtout internet ?",
+    "Utilisez-vous les réseaux sociaux ?",
+    "Avez-vous déjà essayé de vous déconnecter ?"
+   ],
+   "useful_phrases": [
+    "Je passe environ…",
+    "Je m'en sers surtout pour…",
+    "J'ai décidé de…"
+   ],
+   "model_answer": "Je passe environ trois heures par jour sur mon téléphone, ce qui me paraît beaucoup. Je m'en sers surtout pour travailler, pour suivre l'actualité et pour parler avec ma famille. Les réseaux sociaux, j'en utilise un seul, pour garder le contact avec mes anciens camarades. L'année dernière, j'ai décidé de supprimer les notifications, parce que je me sentais constamment interrompu. Depuis, je suis beaucoup plus concentré. J'ai aussi essayé une semaine sans téléphone pendant les vacances : c'était difficile les deux premiers jours, puis très reposant.",
+   "model_commentary": "La réponse quantifie, explique les usages, utilise le pronom « en » avec dislocation (« Les réseaux sociaux, j'en utilise un seul »), naturelle à l'oral, et raconte une expérience avec une évolution. Le lexique du numérique est précis.",
+   "tips": "Racontez une petite expérience personnelle (une décision, un changement) : cela vous fait passer du présent au passé composé et à l'imparfait."
+  },
+  {
+   "code": "EO-B2-015",
+   "task_number": 1,
+   "level": "B2",
+   "title": "La lecture",
+   "examiner_role": "Examinateur",
+   "theme": "culture",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur vos habitudes de lecture : ce que vous lisez, où et quand, un livre marquant et votre avis sur la lecture numérique.",
+   "examiner_prompts": [
+    "Lisez-vous beaucoup ?",
+    "Quel livre vous a marqué ?",
+    "Lisez-vous en français ?",
+    "Préférez-vous les livres papier ou numériques ?"
+   ],
+   "useful_phrases": [
+    "Je lis surtout…",
+    "C'est un livre qui m'a…",
+    "Je préfère… dans la mesure où…"
+   ],
+   "model_answer": "Je lis surtout dans les transports, environ un livre par mois. Le livre qui m'a le plus marqué, c'est un roman sur l'exil d'une famille syrienne, parce qu'il m'a fait penser à l'histoire de mes propres grands-parents. Depuis un an, j'essaie de lire en français : je commence par des romans courts et je note les expressions que je ne connais pas. Je préfère les livres papier, dans la mesure où j'aime les annoter et les prêter à mes amis, mais pour voyager, la liseuse est plus pratique.",
+   "model_commentary": "Le candidat donne ses habitudes, justifie un choix personnel avec émotion, décrit sa méthode et nuance sa préférence. La locution « dans la mesure où » et l'opposition finale montrent une argumentation de niveau B2.",
+   "tips": "Préparez un livre, un film et une chanson que vous pouvez présenter en trois phrases : ils servent dans de nombreux sujets."
+  },
+  {
+   "code": "EO-B2-016",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Les fêtes et célébrations",
+   "examiner_role": "Examinateur",
+   "theme": "culture",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous demande quelles fêtes vous célébrez, comment elles se déroulent et si vous avez adopté des fêtes françaises.",
+   "examiner_prompts": [
+    "Quelle est votre fête préférée ?",
+    "Comment la célébrez-vous ?",
+    "Fêtez-vous des fêtes françaises ?",
+    "Une fête vous a-t-elle surpris en France ?"
+   ],
+   "useful_phrases": [
+    "La fête la plus importante pour moi, c'est…",
+    "À cette occasion, on…",
+    "Ce qui m'a surpris, c'est que…"
+   ],
+   "model_answer": "La fête la plus importante pour moi, c'est le Nouvel An chinois. À cette occasion, on nettoie la maison, on prépare des raviolis en famille et on offre des enveloppes rouges aux enfants. En France, je la fête avec d'autres étudiants chinois, ce qui atténue un peu la nostalgie. J'ai aussi adopté la Fête de la musique, que j'adore : le soir du 21 juin, toute la ville devient une scène. Ce qui m'a surpris, c'est que n'importe qui peut jouer dans la rue, même les débutants, et que le public applaudit quand même.",
+   "model_commentary": "La réponse décrit des rites avec le pronom « on », exprime un sentiment, présente une fête française et exprime une surprise suivie de « que ». Les relatives variées (« ce qui atténue », « que j'adore ») enrichissent le discours.",
+   "tips": "Comparez une fête de votre pays et une fête française : la comparaison vous permet de développer naturellement la réponse."
+  },
+  {
+   "code": "EO-B2-017",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Vos souvenirs d'enfance",
+   "examiner_role": "Examinateur",
+   "theme": "vie personnelle",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous invite à parler de votre enfance : l'endroit où vous avez grandi, vos jeux, un souvenir heureux et ce qui a changé pour les enfants aujourd'hui.",
+   "examiner_prompts": [
+    "Où avez-vous grandi ?",
+    "À quoi jouiez-vous ?",
+    "Avez-vous un souvenir particulier ?",
+    "L'enfance d'aujourd'hui est-elle différente de la vôtre ?"
+   ],
+   "useful_phrases": [
+    "J'ai grandi dans…",
+    "Nous passions des heures à…",
+    "Je me souviens de…"
+   ],
+   "model_answer": "J'ai grandi dans un petit village de montagne, au nord de la Roumanie. Avec mes cousins, nous passions des heures à construire des cabanes dans la forêt, et nous ne rentrions qu'à la tombée de la nuit. Je me souviens surtout de l'hiver où la neige a bloqué le village pendant une semaine : l'école était fermée et tout le monde s'entraidait. Aujourd'hui, les enfants ont plus de jouets et d'écrans, mais j'ai l'impression qu'ils ont moins de liberté, car les parents ont peur de les laisser sortir seuls.",
+   "model_commentary": "Le candidat alterne imparfait de description et passé composé d'événement, emploie la restriction « ne… que » et compare avec aujourd'hui de manière nuancée. Le récit est vivant et bien structuré.",
+   "tips": "Maîtrisez l'alternance imparfait (décor, habitudes) et passé composé (événement) : c'est un critère clé dans les questions sur le passé."
+  },
+  {
+   "code": "EO-B2-018",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Votre arrivée en France",
+   "examiner_role": "Examinateur",
+   "theme": "intégration",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur votre installation en France : vos premières impressions, les démarches, les difficultés et ce qui vous a aidé.",
+   "examiner_prompts": [
+    "Depuis quand êtes-vous en France ?",
+    "Quelles ont été vos premières impressions ?",
+    "Qu'est-ce qui a été le plus difficile ?",
+    "Qui vous a aidé à vous installer ?"
+   ],
+   "useful_phrases": [
+    "Je suis arrivé en…",
+    "Ma première impression a été…",
+    "Heureusement, j'ai pu compter sur…"
+   ],
+   "model_answer": "Je suis arrivé en France en septembre 2021 pour rejoindre ma femme, qui travaillait déjà à Toulouse. Ma première impression a été positive : la ville m'a paru propre et les gens plutôt accueillants. Le plus difficile, ce sont les démarches administratives : il m'a fallu presque six mois pour obtenir mon titre de séjour et ouvrir un compte bancaire. Heureusement, j'ai pu compter sur une association de quartier, dont les bénévoles m'ont aidé à remplir les formulaires. Aujourd'hui, je me sens vraiment chez moi ici.",
+   "model_commentary": "Le récit est daté, exprime des impressions avec des verbes d'opinion (« m'a paru »), identifie une difficulté et un appui. La relative avec « dont » est un marqueur fort du niveau B2.",
+   "tips": "Racontez votre installation en trois temps : l'arrivée, la difficulté principale, la situation actuelle. Restez positif sans cacher les obstacles."
+  },
+  {
+   "code": "EO-B2-019",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Les transports que vous utilisez",
+   "examiner_role": "Examinateur",
+   "theme": "transports",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur vos déplacements : comment vous allez au travail, combien de temps cela prend, ce que vous pensez des transports en commun.",
+   "examiner_prompts": [
+    "Comment vous déplacez-vous au quotidien ?",
+    "Combien de temps mettez-vous pour aller au travail ?",
+    "Que pensez-vous des transports en commun de votre ville ?",
+    "Seriez-vous prêt à vous passer de voiture ?"
+   ],
+   "useful_phrases": [
+    "Je me déplace surtout en…",
+    "Il me faut environ…",
+    "Je serais prêt à…, à condition que…"
+   ],
+   "model_answer": "Je me déplace surtout en vélo, sauf quand il pleut fort ; dans ce cas, je prends le tramway. Il me faut environ vingt minutes pour aller au bureau, ce qui est raisonnable. Les transports en commun de ma ville sont plutôt efficaces en journée, mais le soir, il n'y a presque plus de bus après vingt-deux heures, ce qui pose problème pour les personnes qui travaillent tard. J'ai vendu ma voiture l'an dernier et je ne le regrette pas : je fais des économies et je suis en meilleure forme.",
+   "model_commentary": "La réponse précise les habitudes et leurs exceptions, évalue les transports avec nuance et relie sa propre expérience à un avis. Les relatives en « ce qui » résument efficacement les idées.",
+   "tips": "Utilisez « sauf quand », « dans ce cas », « à condition que » pour nuancer vos habitudes : ces outils rendent le discours plus précis."
+  },
+  {
+   "code": "EO-B2-020",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Votre santé et votre bien-être",
+   "examiner_role": "Examinateur",
+   "theme": "santé",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur ce que vous faites pour rester en bonne santé : alimentation, sommeil, activité physique, gestion du stress.",
+   "examiner_prompts": [
+    "Que faites-vous pour rester en forme ?",
+    "Dormez-vous suffisamment ?",
+    "Comment gérez-vous le stress ?",
+    "Avez-vous changé certaines habitudes récemment ?"
+   ],
+   "useful_phrases": [
+    "J'essaie de…",
+    "Je me suis rendu compte que…",
+    "Depuis que…, je me sens…"
+   ],
+   "model_answer": "J'essaie de manger équilibré et de marcher au moins trente minutes par jour. Pour le sommeil, c'est plus compliqué : je me couche souvent trop tard à cause de mon téléphone. Il y a quelques mois, je me suis rendu compte que j'étais très stressé, alors j'ai commencé la méditation, dix minutes chaque matin. Au début, j'étais sceptique, mais depuis que je la pratique, je me sens plus calme et plus patient avec mes enfants. Mon prochain objectif, c'est d'éteindre les écrans une heure avant de dormir.",
+   "model_commentary": "Le candidat présente ses habitudes, reconnaît un point faible, raconte un changement avec « je me suis rendu compte que » et montre son effet avec « depuis que ». La progression passé, présent, futur est fluide.",
+   "tips": "Reconnaître un point faible rend la réponse crédible. Enchaînez avec la solution que vous avez trouvée et son résultat."
+  },
+  {
+   "code": "EO-B2-021",
+   "task_number": 1,
+   "level": "B2",
+   "title": "La musique",
+   "examiner_role": "Examinateur",
+   "theme": "culture",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur vos goûts musicaux : ce que vous écoutez, si vous jouez d'un instrument, un concert marquant.",
+   "examiner_prompts": [
+    "Quel genre de musique écoutez-vous ?",
+    "Jouez-vous d'un instrument ?",
+    "Êtes-vous déjà allé à un concert marquant ?",
+    "Écoutez-vous de la musique française ?"
+   ],
+   "useful_phrases": [
+    "J'écoute un peu de tout, mais surtout…",
+    "Je joue de… depuis…",
+    "Le concert dont je me souviens le mieux…"
+   ],
+   "model_answer": "J'écoute un peu de tout, mais surtout du jazz et de la musique traditionnelle de mon pays. Je joue de la guitare depuis l'adolescence ; j'ai appris seul, en regardant des vidéos, puis j'ai pris des cours au conservatoire de mon quartier. Le concert dont je me souviens le mieux, c'est un festival en plein air où il a commencé à pleuvoir : personne n'est parti et tout le monde dansait sous la pluie. J'écoute aussi de la chanson française, car les paroles m'aident à apprendre de nouvelles expressions.",
+   "model_commentary": "La réponse utilise « dont » dans une mise en relief, le gérondif de manière et un récit vivant. Le lien entre musique et apprentissage du français montre une bonne capacité à développer.",
+   "tips": "Reliez votre loisir à votre apprentissage du français ou à votre vie en France : c'est une transition naturelle que les examinateurs apprécient."
+  },
+  {
+   "code": "EO-B2-022",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Le bénévolat et l'engagement",
+   "examiner_role": "Examinateur",
+   "theme": "société",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous demande si vous êtes engagé dans une association ou une activité bénévole, et ce que cet engagement vous apporte.",
+   "examiner_prompts": [
+    "Faites-vous partie d'une association ?",
+    "Pourquoi vous êtes-vous engagé ?",
+    "Qu'est-ce que vous faites concrètement ?",
+    "Encourageriez-vous les autres à le faire ?"
+   ],
+   "useful_phrases": [
+    "Je suis bénévole dans…",
+    "Je me suis engagé parce que…",
+    "Ce qui me touche le plus…"
+   ],
+   "model_answer": "Je suis bénévole dans une association d'aide aux devoirs, deux soirs par semaine. Je me suis engagée parce qu'à mon arrivée en France, une bénévole m'avait beaucoup aidée avec mes papiers, et j'avais envie de rendre ce qu'on m'avait donné. Concrètement, j'accompagne des collégiens en mathématiques et en anglais. Ce qui me touche le plus, c'est de voir un élève reprendre confiance en lui. J'encouragerais tout le monde à essayer, même une heure par mois, car on reçoit souvent autant qu'on donne.",
+   "model_commentary": "Le candidat explique sa motivation avec un plus-que-parfait (« m'avait aidée »), décrit son action et exprime une émotion. La comparaison finale « autant qu'on donne » conclut avec élégance.",
+   "tips": "Utilisez le plus-que-parfait pour expliquer l'origine d'une décision : « j'avais remarqué que… », « on m'avait conseillé de… »."
+  },
+  {
+   "code": "EO-B2-023",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Vos week-ends",
+   "examiner_role": "Examinateur",
+   "theme": "loisirs",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous demande comment vous passez vos week-ends, ce que vous avez fait le week-end dernier et ce que serait un week-end idéal.",
+   "examiner_prompts": [
+    "Que faites-vous en général le week-end ?",
+    "Qu'avez-vous fait le week-end dernier ?",
+    "Préférez-vous rester chez vous ou sortir ?",
+    "À quoi ressemblerait votre week-end idéal ?"
+   ],
+   "useful_phrases": [
+    "Le samedi, en général, je…",
+    "Le week-end dernier, …",
+    "Mon week-end idéal commencerait par…"
+   ],
+   "model_answer": "Le samedi, en général, je m'occupe des tâches de la semaine : les courses, le ménage, la lessive. Le dimanche, en revanche, je me repose ou je vois des amis. Le week-end dernier, par exemple, nous avons pique-niqué au bord du lac, puis nous avons fait une partie de pétanque, que j'ai perdue d'ailleurs. Je préfère sortir, parce que je reste enfermée au bureau toute la semaine. Mon week-end idéal commencerait par un petit-déjeuner au soleil et se terminerait par un concert, sans téléphone ni obligation.",
+   "model_commentary": "La réponse oppose habitudes et événement passé, ajoute une touche d'humour (« que j'ai perdue d'ailleurs ») et termine au conditionnel. Les connecteurs temporels organisent clairement le discours.",
+   "tips": "Un petit détail humoristique détend l'échange et montre votre aisance. Pensez à utiliser trois temps : présent, passé composé, conditionnel."
+  },
+  {
+   "code": "EO-B2-024",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Vos collègues et l'ambiance de travail",
+   "examiner_role": "Examinateur",
+   "theme": "vie professionnelle",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur vos relations au travail : vos collègues, l'ambiance, la communication avec votre responsable.",
+   "examiner_prompts": [
+    "Comment est l'ambiance dans votre équipe ?",
+    "Voyez-vous vos collègues en dehors du travail ?",
+    "Comment se passe la relation avec votre responsable ?",
+    "Qu'est-ce qu'un bon collègue selon vous ?"
+   ],
+   "useful_phrases": [
+    "L'ambiance est plutôt…",
+    "Il nous arrive de…",
+    "Pour moi, un bon collègue est quelqu'un qui…"
+   ],
+   "model_answer": "L'ambiance dans mon équipe est plutôt détendue : nous sommes six et nous déjeunons souvent ensemble. Il nous arrive de sortir après le travail, par exemple pour fêter un anniversaire ou la fin d'un gros projet. Avec ma responsable, la communication est directe ; elle nous fait confiance, ce qui nous laisse beaucoup d'autonomie. Pour moi, un bon collègue est quelqu'un qui partage l'information et qui ose dire quand il ne sait pas, plutôt que de faire semblant. C'est la base de la confiance dans une équipe.",
+   "model_commentary": "Le candidat décrit l'ambiance avec des exemples, emploie « il nous arrive de » et définit une qualité avec deux relatives coordonnées. L'opposition « plutôt que de » est précise.",
+   "tips": "Pour définir une notion (« un bon collègue », « un bon chef »), utilisez « c'est quelqu'un qui… et qui… » puis donnez un exemple."
+  },
+  {
+   "code": "EO-B2-025",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Les langues que vous parlez",
+   "examiner_role": "Examinateur",
+   "theme": "langues",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous demande quelles langues vous parlez, dans quelles situations vous les utilisez et ce que le plurilinguisme vous apporte.",
+   "examiner_prompts": [
+    "Quelles langues parlez-vous ?",
+    "Quelle langue parlez-vous à la maison ?",
+    "Est-ce un avantage de parler plusieurs langues ?",
+    "Vos enfants parleront-ils votre langue maternelle ?"
+   ],
+   "useful_phrases": [
+    "Ma langue maternelle est…",
+    "À la maison, nous parlons…",
+    "Parler plusieurs langues permet de…"
+   ],
+   "model_answer": "Ma langue maternelle est le portugais, mais je parle aussi espagnol et, bien sûr, français. À la maison, nous parlons portugais avec mon mari, et français avec nos voisins. Parler plusieurs langues permet de comprendre qu'il existe plusieurs façons de voir le monde : certaines expressions n'ont pas d'équivalent exact. C'est aussi un atout professionnel, puisque je travaille avec des clients brésiliens. Je tiens à ce que mes enfants parlent portugais, pour qu'ils puissent communiquer avec leurs grands-parents.",
+   "model_commentary": "La réponse précise les usages selon les contextes, développe un argument culturel et un argument professionnel, et emploie deux subjonctifs (« je tiens à ce que », « pour qu'ils puissent »). C'est un discours riche et cohérent.",
+   "tips": "Donnez deux arguments de nature différente (personnel et professionnel, par exemple) : c'est plus convaincant que deux arguments semblables."
+  },
+  {
+   "code": "EO-B2-026",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Le cinéma et les séries",
+   "examiner_role": "Examinateur",
+   "theme": "culture",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur vos goûts en matière de films et de séries : ce que vous regardez, où, et un film qui vous a marqué.",
+   "examiner_prompts": [
+    "Allez-vous souvent au cinéma ?",
+    "Quel genre de film aimez-vous ?",
+    "Pouvez-vous me parler d'un film qui vous a marqué ?",
+    "Regardez-vous des films en version originale ?"
+   ],
+   "useful_phrases": [
+    "Je vais au cinéma environ…",
+    "Le film qui m'a le plus marqué…",
+    "Ce qui m'a plu, c'est…"
+   ],
+   "model_answer": "Je vais au cinéma environ une fois par mois, souvent le mardi, quand les places sont moins chères. J'aime surtout les comédies dramatiques, qui font rire et réfléchir en même temps. Le film qui m'a le plus marqué raconte l'histoire d'un vieux professeur qui apprend à lire à un adolescent en difficulté. Ce qui m'a plu, c'est que le film évite les clichés et montre que l'élève transforme aussi le professeur. Je regarde les films étrangers en version originale sous-titrée en français, ce qui m'oblige à lire vite.",
+   "model_commentary": "Le candidat présente ses habitudes, définit un genre avec une relative, résume l'intrigue en une phrase et justifie son goût. La réponse évite le piège du résumé trop long.",
+   "tips": "Résumez un film en une seule phrase, puis passez à votre avis. L'examinateur évalue votre argumentation, pas l'intrigue."
+  },
+  {
+   "code": "EO-B2-027",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Vos achats et votre consommation",
+   "examiner_role": "Examinateur",
+   "theme": "consommation",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur vos habitudes d'achat : où vous faites vos courses, si vous achetez en ligne, d'occasion, et comment vous gérez votre budget.",
+   "examiner_prompts": [
+    "Où faites-vous vos courses ?",
+    "Achetez-vous souvent en ligne ?",
+    "Achetez-vous des objets d'occasion ?",
+    "Faites-vous attention à votre budget ?"
+   ],
+   "useful_phrases": [
+    "Je fais mes courses plutôt…",
+    "J'évite de…",
+    "J'ai pris l'habitude de…"
+   ],
+   "model_answer": "Je fais mes courses plutôt au marché et dans une petite épicerie de quartier, même si c'est un peu plus cher qu'au supermarché. J'évite d'acheter en ligne, sauf pour les livres, parce que je préfère voir les produits avant de les payer. Depuis deux ans, j'ai pris l'habitude d'acheter mes vêtements et mes meubles d'occasion : c'est moins cher et meilleur pour l'environnement. Pour mon budget, je note toutes mes dépenses dans une application, ce qui m'a permis de mettre de l'argent de côté pour les vacances.",
+   "model_commentary": "La réponse justifie chaque habitude, fait une exception avec « sauf pour », relie consommation et écologie et montre le résultat d'une méthode. Le lexique de la consommation est précis.",
+   "tips": "Montrez que vos choix sont réfléchis : un critère (prix, qualité, environnement) suffit à transformer une habitude en argument."
+  },
+  {
+   "code": "EO-B2-028",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Les animaux de compagnie",
+   "examiner_role": "Examinateur",
+   "theme": "vie personnelle",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous demande si vous avez un animal, quelle est votre relation aux animaux et ce que vous pensez de leur place dans les villes.",
+   "examiner_prompts": [
+    "Avez-vous un animal de compagnie ?",
+    "En aviez-vous un quand vous étiez enfant ?",
+    "Quels sont les avantages et les contraintes ?",
+    "Faut-il plus d'espaces pour les animaux en ville ?"
+   ],
+   "useful_phrases": [
+    "J'ai un… qui s'appelle…",
+    "C'est une responsabilité, car…",
+    "En ville, il faudrait…"
+   ],
+   "model_answer": "J'ai une chatte qui s'appelle Mimi ; je l'ai adoptée dans un refuge il y a trois ans. Quand j'étais enfant, nous avions des chèvres et des poules, mais pas d'animaux à l'intérieur de la maison. Un animal apporte beaucoup de tendresse, surtout quand on vit seul, mais c'est aussi une responsabilité : il faut le faire garder pendant les vacances et payer le vétérinaire. En ville, il faudrait davantage d'espaces où les chiens peuvent courir librement, ce qui éviterait certains conflits entre voisins.",
+   "model_commentary": "Le candidat parle de son animal, compare avec son enfance, présente avantages et contraintes de façon équilibrée et formule une proposition au conditionnel. Le discours est clair et nuancé.",
+   "tips": "Pour une question « avantages et contraintes », annoncez les deux côtés avec « d'un côté… de l'autre » ou « certes… mais »."
+  },
+  {
+   "code": "EO-B2-029",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Vos projets de formation",
+   "examiner_role": "Examinateur",
+   "theme": "éducation",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur vos projets de formation : diplôme, reconversion, compétences que vous voulez acquérir et la manière dont vous comptez vous organiser.",
+   "examiner_prompts": [
+    "Avez-vous un projet de formation ?",
+    "Pourquoi ce projet ?",
+    "Comment allez-vous vous organiser ?",
+    "Quels obstacles prévoyez-vous ?"
+   ],
+   "useful_phrases": [
+    "Je compte suivre…",
+    "Mon objectif est de…",
+    "Le principal obstacle, ce sera…"
+   ],
+   "model_answer": "Je compte suivre une formation de développeur web l'année prochaine. Mon objectif est de me reconvertir, car mon métier actuel de vendeur m'offre peu de perspectives d'évolution. La formation dure neuf mois et se fait en partie à distance, ce qui me permettra de garder un emploi à mi-temps. Le principal obstacle, ce sera le financement : j'ai déposé un dossier auprès de France Travail et j'attends leur réponse. Si elle est négative, je commencerai par des cours en ligne gratuits pour ne pas perdre de temps.",
+   "model_commentary": "La réponse présente un projet concret, justifie la reconversion, décrit l'organisation au futur et anticipe un obstacle avec une hypothèse (« si elle est négative, je commencerai »). La structure est exemplaire.",
+   "tips": "Pour parler d'un projet, utilisez le futur simple et une hypothèse avec « si + présent, futur ». Prévoir un plan B montre votre maturité."
+  },
+  {
+   "code": "EO-B2-030",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Les saisons et le climat",
+   "examiner_role": "Examinateur",
+   "theme": "environnement",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur votre saison préférée, le climat de votre pays d'origine comparé à celui de la France et les changements climatiques que vous observez.",
+   "examiner_prompts": [
+    "Quelle est votre saison préférée ?",
+    "Le climat de votre pays est-il différent ?",
+    "Vous êtes-vous habitué au climat français ?",
+    "Avez-vous remarqué des changements ces dernières années ?"
+   ],
+   "useful_phrases": [
+    "Ma saison préférée, c'est…",
+    "Contrairement à mon pays, …",
+    "J'ai remarqué que…"
+   ],
+   "model_answer": "Ma saison préférée, c'est l'automne, pour ses couleurs et ses soirées plus fraîches. Contrairement à mon pays, l'Algérie, où l'été est très long et sec, le climat ici est plus doux mais plus humide. J'ai eu du mal à m'habituer à la pluie fine de novembre, qui peut durer une semaine entière. J'ai remarqué que les étés deviennent de plus en plus chauds en France : l'an dernier, il a fait quarante degrés en juin, ce que les gens d'ici n'avaient jamais connu.",
+   "model_commentary": "Le candidat justifie son goût, compare deux climats avec « contrairement à », exprime une difficulté d'adaptation et observe un changement avec un plus-que-parfait. Le lexique météorologique est riche.",
+   "tips": "Le thème du climat permet de glisser vers l'environnement : préparez une observation personnelle concrète (une canicule, une sécheresse, un hiver sans neige)."
+  },
+  {
+   "code": "EO-B2-031",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Vos amitiés",
+   "examiner_role": "Examinateur",
+   "theme": "vie personnelle",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur vos amis : comment vous les avez rencontrés, ce que vous faites ensemble, comment se faire des amis dans un nouveau pays.",
+   "examiner_prompts": [
+    "Avez-vous beaucoup d'amis ici ?",
+    "Comment avez-vous rencontré votre meilleur ami ?",
+    "Est-il facile de se faire des amis en France ?",
+    "Qu'attendez-vous d'un ami ?"
+   ],
+   "useful_phrases": [
+    "J'ai rencontré… lors de…",
+    "Nous avons en commun…",
+    "Ce que j'attends d'un ami, c'est…"
+   ],
+   "model_answer": "J'ai quelques amis proches ici, plutôt qu'un grand cercle. J'ai rencontré ma meilleure amie lors d'un cours de français : nous étions toutes les deux perdues et nous avons commencé à réviser ensemble. Nous avons en commun le goût de la cuisine et des longues promenades. Se faire des amis en France demande du temps, car les gens sont souvent pris par leur famille et leur travail, mais une fois l'amitié installée, elle est solide. Ce que j'attends d'un ami, c'est surtout de la sincérité, même quand la vérité n'est pas agréable.",
+   "model_commentary": "La réponse raconte une rencontre, nomme des points communs et analyse la difficulté de créer des liens avec nuance. La proposition participiale « une fois l'amitié installée » est une structure élégante de niveau B2.",
+   "tips": "Évitez les généralités sur « les Français » : appuyez-vous sur votre expérience personnelle et nuancez avec « souvent », « en général », « d'après mon expérience »."
+  },
+  {
+   "code": "EO-B2-032",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Votre routine quotidienne",
+   "examiner_role": "Examinateur",
+   "theme": "vie quotidienne",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous demande de décrire une journée ordinaire, de dire quel est votre moment préféré et ce que vous aimeriez changer dans votre organisation.",
+   "examiner_prompts": [
+    "À quoi ressemble une journée ordinaire pour vous ?",
+    "Quel est votre moment préféré de la journée ?",
+    "Êtes-vous plutôt du matin ou du soir ?",
+    "Que voudriez-vous changer dans votre organisation ?"
+   ],
+   "useful_phrases": [
+    "Je me lève vers…",
+    "Mon moment préféré, c'est…",
+    "Je voudrais réussir à…"
+   ],
+   "model_answer": "Je me lève vers six heures et demie, je prépare le petit-déjeuner des enfants et je les dépose à l'école avant d'aller au bureau. Je travaille jusqu'à dix-sept heures, puis je m'occupe des devoirs et du dîner. Mon moment préféré, c'est le café du matin, quand toute la maison dort encore : ce sont dix minutes de calme rien que pour moi. Je suis plutôt du matin, je me concentre mieux avant midi. Je voudrais réussir à garder une soirée par semaine pour moi, pour reprendre la natation par exemple.",
+   "model_commentary": "Le candidat décrit sa journée avec des connecteurs chronologiques, met en relief un moment particulier et exprime un souhait d'amélioration. Le récit est simple mais fluide et précis.",
+   "tips": "Ne vous contentez pas d'une liste d'actions : ajoutez une émotion ou une préférence pour que votre routine devienne un vrai propos."
+  },
+  {
+   "code": "EO-B2-033",
+   "task_number": 1,
+   "level": "B2",
+   "title": "La nature et les espaces verts",
+   "examiner_role": "Examinateur",
+   "theme": "environnement",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur votre rapport à la nature : préférez-vous la ville ou la campagne, fréquentez-vous les parcs, que faites-vous dehors ?",
+   "examiner_prompts": [
+    "Préférez-vous la ville ou la campagne ?",
+    "Allez-vous souvent dans la nature ?",
+    "Y a-t-il assez d'espaces verts près de chez vous ?",
+    "Pourriez-vous vivre à la campagne ?"
+   ],
+   "useful_phrases": [
+    "Je suis plutôt…",
+    "Dès qu'il fait beau, …",
+    "Je pourrais vivre à la campagne, à condition de…"
+   ],
+   "model_answer": "Je suis plutôt citadin : j'aime l'animation, les cafés et l'offre culturelle d'une grande ville. Pourtant, dès qu'il fait beau, j'ai besoin de sortir de la ville ; je prends le train avec mon vélo pour longer la Loire. Près de chez moi, il y a un grand parc, mais il est souvent bondé le week-end. Je pourrais vivre à la campagne, à condition de pouvoir télétravailler et d'avoir une gare pas trop loin. Sinon, je crois que je me sentirais isolé, surtout en hiver.",
+   "model_commentary": "La réponse affirme une préférence, la nuance avec « pourtant », décrit une pratique concrète et pose une condition (« à condition de »). L'hypothèse finale au conditionnel complète bien le propos.",
+   "tips": "Une réponse « ni tout blanc ni tout noir » est plus convaincante : affirmez une préférence, puis nuancez-la avec « pourtant » ou « cela dit »."
+  },
+  {
+   "code": "EO-B2-034",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Les tâches ménagères",
+   "examiner_role": "Examinateur",
+   "theme": "vie quotidienne",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous interroge sur l'organisation des tâches ménagères chez vous et sur l'évolution du partage des tâches entre hommes et femmes.",
+   "examiner_prompts": [
+    "Qui s'occupe des tâches ménagères chez vous ?",
+    "Quelle tâche détestez-vous ?",
+    "Était-ce pareil chez vos parents ?",
+    "Le partage des tâches a-t-il évolué selon vous ?"
+   ],
+   "useful_phrases": [
+    "Chez nous, nous avons réparti…",
+    "Ce que je déteste, c'est…",
+    "Chez mes parents, c'était…"
+   ],
+   "model_answer": "Chez nous, nous avons réparti les tâches de façon assez équitable : je fais la cuisine et les courses, et mon mari s'occupe du ménage et du linge. Ce que je déteste, c'est repasser, alors j'achète des vêtements qui ne se froissent pas ! Chez mes parents, c'était très différent : ma mère faisait presque tout, alors qu'elle travaillait aussi. Je pense que le partage a évolué, surtout chez les jeunes couples, mais il reste encore des inégalités, notamment pour l'organisation de la vie des enfants.",
+   "model_commentary": "Le candidat décrit une organisation, ajoute une touche d'humour, compare avec la génération précédente grâce à « alors que » et nuance avec « mais il reste ». Le discours est équilibré et naturel.",
+   "tips": "Utilisez « alors que » et « tandis que » pour opposer deux situations : ce sont des connecteurs très appréciés au niveau B2."
+  },
+  {
+   "code": "EO-B2-035",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Les réseaux sociaux et l'information",
+   "examiner_role": "Examinateur",
+   "theme": "médias",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous demande comment vous vous informez : journaux, radio, télévision, réseaux sociaux, et comment vous vérifiez les informations.",
+   "examiner_prompts": [
+    "Comment suivez-vous l'actualité ?",
+    "Faites-vous confiance aux réseaux sociaux ?",
+    "Vous êtes-vous déjà fait piéger par une fausse information ?",
+    "Comment vérifiez-vous une information ?"
+   ],
+   "useful_phrases": [
+    "Je m'informe surtout grâce à…",
+    "Je me méfie de…",
+    "Avant de partager, je…"
+   ],
+   "model_answer": "Je m'informe surtout grâce à la radio le matin et à un quotidien en ligne auquel je suis abonné. Je me méfie des réseaux sociaux, où les informations circulent vite mais sans vérification. Il m'est arrivé une fois de partager une vidéo qui annonçait une fausse grève des trains ; j'ai eu honte quand un ami me l'a signalé. Depuis, avant de partager quoi que ce soit, je vérifie la source et je cherche si d'autres médias sérieux en parlent. Je pense que l'école devrait apprendre aux élèves à faire ce travail.",
+   "model_commentary": "La réponse présente des sources variées, justifie la méfiance, raconte une erreur personnelle avec « il m'est arrivé de » et décrit une méthode. La relative « auquel je suis abonné » est un marqueur B2.",
+   "tips": "Avouer une petite erreur personnelle rend la réponse authentique et vous permet de raconter au passé avant de revenir au présent."
+  },
+  {
+   "code": "EO-B2-036",
+   "task_number": 1,
+   "level": "B2",
+   "title": "Votre vie dans cinq ans",
+   "examiner_role": "Examinateur",
+   "theme": "projets",
+   "duration_s": 180,
+   "scenario": "L'examinateur vous demande comment vous imaginez votre vie dans cinq ans : travail, famille, lieu de vie, et ce que vous faites dès maintenant pour y arriver.",
+   "examiner_prompts": [
+    "Comment vous voyez-vous dans cinq ans ?",
+    "Où aimeriez-vous vivre ?",
+    "Que faites-vous aujourd'hui pour préparer cet avenir ?",
+    "Qu'est-ce qui pourrait changer vos plans ?"
+   ],
+   "useful_phrases": [
+    "Dans cinq ans, j'espère…",
+    "Pour y arriver, je…",
+    "Tout dépendra de…"
+   ],
+   "model_answer": "Dans cinq ans, j'espère avoir obtenu la nationalité française et travailler comme cheffe de projet dans une entreprise de logistique. J'aimerais rester en Bretagne, où je me sens bien, et peut-être acheter un petit appartement. Pour y arriver, je suis des cours du soir en gestion de projet et je mets de l'argent de côté chaque mois. Bien sûr, tout dépendra de la situation économique et de ma famille : si mes parents avaient besoin de moi, je n'hésiterais pas à rentrer quelque temps au Cameroun.",
+   "model_commentary": "Le candidat emploie l'infinitif passé (« avoir obtenu »), décrit des projets concrets et ce qu'il fait pour les réaliser, puis envisage une hypothèse avec « si + imparfait, conditionnel ». C'est une réponse complète et bien construite.",
+   "tips": "Pour parler de l'avenir, variez : « j'espère + infinitif passé », « j'aimerais », futur simple, et une hypothèse avec « si ». Cette variété est la marque du B2."
+  }
+ ]
+}

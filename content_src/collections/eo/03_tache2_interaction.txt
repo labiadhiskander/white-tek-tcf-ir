@@ -1,0 +1,269 @@
+@slug eo-tache2-interaction
+@section EO
+@title Tâche 2 – Exercice en interaction
+@order 3
+@description Trente-trois jeux de rôle originaux : obtenir des informations, négocier, convaincre ou résoudre un problème avec un interlocuteur joué par l'examinateur.
+
+## EO-B2-037 | 2 | Inscrire son enfant à une activité | Responsable du centre de loisirs | éducation
+SCENARIO: Vous voulez inscrire votre enfant de huit ans à une activité extrascolaire. Le responsable du centre de loisirs (l'examinateur) vous répond. Renseignez-vous sur les activités, les horaires, les tarifs et l'encadrement, puis décidez.
+RELANCES: Nous proposons du judo, du théâtre et de la musique. / Le judo est complet, il reste des places en théâtre. / L'inscription coûte 180 euros par an. / Votre enfant a-t-il des besoins particuliers ?
+PHRASES: Je voudrais savoir si… / Est-ce qu'il serait possible de… ? / Existe-t-il des réductions pour… ?
+MODELE: Bonjour, je voudrais inscrire mon fils de huit ans à une activité le mercredi après-midi. Quelles activités proposez-vous ? Le judo est complet ? C'est dommage, mais le théâtre pourrait lui plaire, car il est assez timide et cela l'aiderait à prendre confiance. Les séances durent combien de temps, et combien d'enfants y a-t-il par groupe ? Cent quatre-vingts euros par an, c'est un peu élevé pour nous : existe-t-il des réductions pour les familles nombreuses ou selon le quotient familial ? Et est-ce qu'il serait possible de faire une séance d'essai avant de s'engager ? Très bien, je le note sur liste d'attente pour le judo aussi.
+COMMENTAIRE: Le candidat pose des questions précises et variées, rebondit sur chaque information (« C'est dommage, mais… »), justifie son choix et négocie le prix poliment. Il termine par une décision claire : c'est exactement ce qu'on attend en interaction B2.
+CONSEILS: Variez la forme des questions : inversion, « est-ce que », intonation, « je voudrais savoir si ». Réagissez à chaque réponse avant de poser la question suivante.
+
+## EO-B2-038 | 2 | Contester une facture d'électricité | Conseiller du fournisseur d'énergie | consommation
+SCENARIO: Vous avez reçu une facture d'électricité trois fois plus élevée que d'habitude. Vous appelez le service client (l'examinateur). Expliquez la situation, demandez des explications et obtenez une solution.
+RELANCES: La facture correspond à votre consommation réelle. / Vous avez peut-être un appareil défectueux. / Nous ne pouvons pas annuler cette facture. / Je peux vous proposer un échéancier.
+PHRASES: Il doit y avoir une erreur, car… / Pourriez-vous vérifier… ? / Je ne peux pas accepter…
+MODELE: Bonjour, j'appelle au sujet de ma dernière facture : elle s'élève à 410 euros, alors que je paie habituellement environ 130 euros. Il doit y avoir une erreur, car ma consommation n'a pas changé : j'habite seule et j'étais en vacances trois semaines ce mois-là. Pourriez-vous vérifier si le relevé du compteur a été fait réellement ou s'il s'agit d'une estimation ? Un appareil défectueux ? Je ne pense pas, mais je peux vous envoyer une photo du compteur aujourd'hui même. Si l'erreur est confirmée, je souhaite une facture rectifiée. En attendant, j'accepte l'échéancier, à condition qu'il n'y ait aucuns frais supplémentaires.
+COMMENTAIRE: La réponse expose le problème avec des chiffres, avance des arguments, demande une vérification précise, répond à l'objection par une proposition concrète et accepte un compromis sous condition. Le ton reste ferme et courtois.
+CONSEILS: Appuyez-vous sur des faits chiffrés et proposez une preuve (photo, relevé, facture). Gardez la formule « à condition que + subjonctif » pour accepter un compromis.
+
+## EO-B2-039 | 2 | Organiser une fête des voisins | Voisin peu motivé | voisinage
+SCENARIO: Vous organisez une fête des voisins dans la cour de votre immeuble. Vous essayez de convaincre un voisin réticent (l'examinateur) de participer et de vous aider.
+RELANCES: Je ne connais presque personne dans l'immeuble. / Ça va faire du bruit tard le soir. / Je n'ai pas le temps de préparer quoi que ce soit. / Et s'il pleut ?
+PHRASES: Justement, c'est l'occasion de… / Je vous rassure, … / Vous pourriez simplement…
+MODELE: Bonjour Monsieur Lemaire, nous organisons une fête des voisins dans la cour le samedi 14 juin et j'aimerais beaucoup que vous veniez. Vous ne connaissez personne ? Justement, c'est l'occasion de rencontrer les gens avec qui on partage l'escalier tous les jours. Je vous rassure pour le bruit : nous avons prévu de terminer à vingt-deux heures, et la musique restera douce. Vous n'avez pas le temps de cuisiner ? Aucun problème, vous pourriez simplement apporter des boissons ou nous prêter une table. Et s'il pleut, le syndic nous autorise à utiliser le local à vélos. Alors, je compte sur vous ?
+COMMENTAIRE: Le candidat reformule chaque objection avant d'y répondre, rassure avec des solutions concrètes et propose une participation minimale. La question finale engage l'interlocuteur : la stratégie de persuasion est complète.
+CONSEILS: Reformulez l'objection sous forme de question (« Vous n'avez pas le temps ? ») puis apportez une solution : c'est une technique simple et très efficace.
+
+## EO-B2-040 | 2 | Négocier ses horaires de travail | Responsable des ressources humaines | travail
+SCENARIO: Vous souhaitez aménager vos horaires pour pouvoir suivre une formation le jeudi après-midi. Vous en parlez au responsable des ressources humaines (l'examinateur).
+RELANCES: Le jeudi, c'est un jour chargé pour l'équipe. / Si on vous l'accorde, tout le monde va demander la même chose. / Qu'est-ce que l'entreprise y gagne ? / On pourrait envisager un essai de trois mois.
+PHRASES: Je souhaiterais vous parler de… / Je vous propose de… / L'entreprise y gagnerait…
+MODELE: Bonjour, je souhaiterais vous parler de mon emploi du temps. Je viens d'être accepté dans une formation en contrôle qualité, qui a lieu le jeudi après-midi pendant un an. Je sais que le jeudi est chargé ; c'est pourquoi je vous propose de rattraper ces heures le lundi et le mercredi soir, et de rester joignable en cas d'urgence. Ce n'est pas un privilège : chaque demande pourrait être étudiée selon les besoins du service. L'entreprise y gagnerait aussi, car je pourrais ensuite former mes collègues aux nouvelles normes. Un essai de trois mois me convient tout à fait ; faisons un bilan en mars.
+COMMENTAIRE: La demande est présentée clairement, l'objection est anticipée, une compensation est proposée, et l'intérêt de l'entreprise est mis en avant. La conclusion accepte le compromis et fixe une échéance : interaction efficace et diplomatique.
+CONSEILS: Dans une négociation professionnelle, montrez ce que l'autre partie y gagne. Proposez vous-même une compensation avant qu'on vous la demande.
+
+## EO-B2-041 | 2 | Louer un appartement | Agent immobilier | logement
+SCENARIO: Vous appelez une agence immobilière au sujet d'une annonce pour un deux-pièces. Obtenez des informations sur le logement, les charges et les conditions, et essayez d'obtenir une visite rapidement.
+RELANCES: Il y a déjà beaucoup de candidats. / Le loyer est de 780 euros hors charges. / Il faut un garant qui gagne trois fois le loyer. / Je peux vous proposer une visite la semaine prochaine.
+PHRASES: Je vous appelle au sujet de… / Les charges comprennent-elles… ? / Mon dossier est complet : …
+MODELE: Bonjour, je vous appelle au sujet de l'annonce pour le deux-pièces de la rue Pasteur. Pourriez-vous me dire à quel étage il se trouve et s'il y a un ascenseur ? Les charges comprennent-elles le chauffage et l'eau chaude ? Je comprends qu'il y ait beaucoup de candidats, mais mon dossier est complet : je suis en CDI depuis trois ans et je n'ai pas de garant personnel, mais je peux passer par la garantie publique gratuite pour les locataires. La semaine prochaine, c'est un peu tard : serait-il possible de visiter dès demain, entre midi et quatorze heures ? Je peux apporter mon dossier directement.
+COMMENTAIRE: Le candidat demande des informations précises, valorise son dossier face à la concurrence et apporte une solution pour le garant. Il insiste poliment pour obtenir une visite plus tôt : la tâche est réalisée de manière stratégique.
+CONSEILS: Face à une difficulté (concurrence, garant), mettez en avant vos atouts et proposez une solution. Le conditionnel (« serait-il possible ») adoucit l'insistance.
+
+## EO-B2-042 | 2 | Signaler un problème au syndic | Gestionnaire du syndic | logement
+SCENARIO: L'ascenseur de votre immeuble est en panne depuis deux semaines et une voisine âgée ne peut plus sortir. Vous appelez le gestionnaire du syndic (l'examinateur) pour obtenir une intervention rapide.
+RELANCES: Nous attendons une pièce de rechange. / Le réparateur ne peut pas venir avant la fin du mois. / Ce n'est pas de notre faute. / Que voulez-vous que je fasse ?
+PHRASES: La situation devient urgente, car… / Je comprends, mais… / Je vous demande de…
+MODELE: Bonjour, j'habite au 12 rue des Tilleuls ; l'ascenseur est en panne depuis quinze jours. La situation devient urgente, car une voisine de quatre-vingt-cinq ans, au sixième étage, ne peut plus sortir de chez elle, même pour aller chez le médecin. Je comprends que la pièce de rechange se fasse attendre, mais la fin du mois, c'est inacceptable. Je vous demande de relancer le fournisseur par écrit et de nous tenir informés. En attendant, le syndic pourrait-il organiser un service de livraison de courses pour les personnes concernées ? Sinon, nous serons obligés de saisir l'assemblée des copropriétaires.
+COMMENTAIRE: La réponse insiste sur l'urgence humaine, reconnaît la contrainte sans l'accepter, formule des demandes précises et propose une solution intermédiaire. La menace finale reste mesurée et légitime.
+CONSEILS: Graduez votre ton : commencez poliment, insistez sur les faits, puis évoquez une conséquence possible si rien ne bouge. Restez toujours courtois.
+
+## EO-B2-043 | 2 | Échanger un produit défectueux | Vendeur du magasin | consommation
+SCENARIO: Vous avez acheté un aspirateur il y a trois semaines et il ne fonctionne plus. Vous retournez au magasin. Le vendeur (l'examinateur) vous propose une réparation qui prendra un mois. Vous voulez un échange ou un remboursement.
+RELANCES: Nous allons l'envoyer en réparation. / Vous avez peut-être mal utilisé l'appareil. / Nous ne remboursons pas les produits ouverts. / Je peux vous faire un avoir.
+PHRASES: Je l'ai acheté il y a… / Selon la loi, … / Je préférerais…
+MODELE: Bonjour, j'ai acheté cet aspirateur ici il y a trois semaines, voici le ticket de caisse. Depuis hier, il ne s'allume plus, alors que je l'ai utilisé normalement, en suivant la notice. Une réparation d'un mois, ce n'est pas possible pour moi : j'ai deux enfants et un chat. Selon la loi, un produit qui tombe en panne aussi vite est couvert par la garantie de conformité, et je peux choisir entre réparation et remplacement. Je préférerais donc un échange contre le même modèle. Un avoir ? Pourquoi pas, mais seulement si vous n'avez plus ce modèle en stock.
+COMMENTAIRE: Le candidat présente une preuve d'achat, répond à l'accusation de mauvaise utilisation, invoque un droit et formule une préférence claire. Il accepte un compromis sous condition : l'interaction est maîtrisée.
+CONSEILS: Ayez toujours une preuve (ticket, photo) et un argument « officiel » (garantie, règlement). Formulez votre préférence au conditionnel : « je préférerais ».
+
+## EO-B2-044 | 2 | Réserver une salle pour un anniversaire | Gérant du restaurant | loisirs
+SCENARIO: Vous voulez organiser l'anniversaire de votre mère dans un restaurant pour trente personnes. Vous discutez avec le gérant (l'examinateur) du menu, du prix et des conditions.
+RELANCES: Notre salle peut accueillir vingt-cinq personnes maximum. / Le menu de groupe est à 45 euros par personne. / Il faut verser un acompte de 30 %. / La musique est interdite après 23 heures.
+PHRASES: Nous serions environ… / Serait-il possible de… ? / Que comprend exactement… ?
+MODELE: Bonjour, je voudrais organiser l'anniversaire de ma mère, qui fête ses soixante-dix ans, le samedi 12 avril au soir. Nous serions environ trente personnes. Vingt-cinq maximum ? Serait-il possible d'ajouter une table sur la terrasse couverte ? Que comprend exactement le menu à quarante-cinq euros : les boissons et le gâteau sont-ils inclus ? Si nous apportons notre propre gâteau, est-ce qu'il y a un droit de bouchon ? Pour l'acompte, cela ne pose pas de problème, mais j'aimerais savoir jusqu'à quand on peut annuler sans frais. La musique jusqu'à vingt-trois heures, cela nous convient très bien.
+COMMENTAIRE: Le candidat présente sa demande, trouve une solution à la contrainte de capacité, demande des précisions sur le menu et les conditions d'annulation. Les questions sont pertinentes et variées.
+CONSEILS: Pensez aux questions pratiques que posent les gens dans la vraie vie : ce qui est inclus, les conditions d'annulation, les solutions alternatives.
+
+## EO-B2-045 | 2 | Convaincre un ami de vous accompagner | Ami hésitant | loisirs
+SCENARIO: Vous voulez faire une randonnée de trois jours en montagne et vous essayez de convaincre un ami (l'examinateur) de venir avec vous. Il hésite.
+RELANCES: Je ne suis pas assez sportif. / Ça coûte trop cher. / Je ne peux pas poser de congé. / Et si la météo est mauvaise ?
+PHRASES: Ne t'inquiète pas, … / Ce serait l'occasion de… / Si tu veux, on peut…
+MODELE: Dis donc, j'ai trouvé une randonnée de trois jours dans le Vercors, avec des nuits en refuge ; ça te dirait de venir ? Tu n'es pas assez sportif ? Ne t'inquiète pas, les étapes font environ quinze kilomètres, et on pourra marcher à ton rythme. Pour le prix, c'est très raisonnable : environ cent vingt euros pour tout, nourriture comprise. Tu ne peux pas poser de congé ? Si tu veux, on peut partir un vendredi et rentrer le dimanche. Et pour la météo, on regardera les prévisions la veille ; au pire, on reportera. Franchement, ce serait l'occasion de se déconnecter un peu !
+COMMENTAIRE: Le registre est adapté à un ami (tutoiement, « Dis donc », « ça te dirait »), chaque objection reçoit une réponse concrète et la conclusion est enthousiaste. Le candidat utilise futur, conditionnel et hypothèse.
+CONSEILS: Adaptez le registre à l'interlocuteur : tutoiement et expressions courantes avec un ami, vouvoiement et formules soutenues avec un professionnel.
+
+## EO-B2-046 | 2 | Obtenir un rendez-vous médical urgent | Secrétaire médicale | santé
+SCENARIO: Vous avez une forte douleur à l'oreille depuis deux jours. Vous appelez le cabinet de votre médecin. La secrétaire (l'examinateur) vous propose un rendez-vous dans dix jours.
+RELANCES: Le docteur n'a pas de place avant le 22. / Allez aux urgences si c'est grave. / Vous n'êtes pas le seul malade. / Il y a peut-être une annulation demain matin.
+PHRASES: Je souffre de… depuis… / Est-ce qu'il y aurait moyen de… ? / Je comprends tout à fait, mais…
+MODELE: Bonjour, je suis un patient du docteur Moreau. Je souffre d'une douleur très forte à l'oreille droite depuis deux jours, avec de la fièvre cette nuit. Le 22, c'est vraiment trop tard : la douleur m'empêche de dormir et de travailler. Je comprends tout à fait que l'agenda soit chargé, mais je ne pense pas que ce soit assez grave pour les urgences, que je ne voudrais pas encombrer. Est-ce qu'il y aurait moyen de me mettre sur une liste d'attente en cas d'annulation ? Demain matin ? Parfait, je peux venir à n'importe quelle heure. Merci beaucoup, vous me rendez un grand service.
+COMMENTAIRE: Le candidat décrit précisément ses symptômes, explique l'urgence, montre de la compréhension pour la contrainte et propose une solution (liste d'attente). Les remerciements finaux sont adaptés.
+CONSEILS: Décrivez un problème de santé avec précision : où, depuis quand, quelle intensité, quelles conséquences. Le vocabulaire du corps et des symptômes est fréquent à l'examen.
+
+## EO-B2-047 | 2 | Demander une augmentation | Directrice de l'agence | travail
+SCENARIO: Vous travaillez depuis trois ans dans la même agence sans augmentation. Vous rencontrez votre directrice (l'examinateur) pour demander une revalorisation de votre salaire.
+RELANCES: Le budget est très serré cette année. / Tout le monde voudrait être augmenté. / Qu'avez-vous fait de particulier ? / Je peux vous proposer une prime exceptionnelle.
+PHRASES: Je souhaiterais aborder la question de… / Depuis mon arrivée, j'ai… / Je serais prêt à…
+MODELE: Merci de me recevoir. Je souhaiterais aborder la question de ma rémunération. Depuis mon arrivée il y a trois ans, j'ai pris en charge deux nouveaux clients importants et je forme les stagiaires, ce qui ne faisait pas partie de mes missions au départ. Mon salaire, lui, n'a pas évolué. Je comprends que le budget soit serré, mais une revalorisation de cinq pour cent me semblerait juste au regard de mes résultats. Une prime exceptionnelle, c'est appréciable, mais elle ne règle pas la question sur le long terme. Je serais prêt à accepter un étalement de l'augmentation sur deux ans.
+COMMENTAIRE: Le candidat argumente avec des réalisations précises, fixe un objectif chiffré, répond à l'objection budgétaire et explique pourquoi la prime ne suffit pas, avant de proposer un compromis. Excellente démarche de négociation.
+CONSEILS: Préparez deux ou trois réalisations concrètes avant de demander quelque chose. Chiffrez votre demande et gardez un compromis de repli.
+
+## EO-B2-048 | 2 | S'inscrire à la médiathèque | Bibliothécaire | culture
+SCENARIO: Vous venez d'emménager et vous voulez vous inscrire à la médiathèque municipale. Renseignez-vous auprès du bibliothécaire (l'examinateur) sur les services, les conditions et les activités proposées.
+RELANCES: L'inscription est gratuite pour les habitants de la commune. / Vous pouvez emprunter dix documents pendant trois semaines. / Il faut un justificatif de domicile. / Nous proposons aussi des ateliers.
+PHRASES: J'aimerais savoir comment… / Est-il possible de… ? / Qu'en est-il de… ?
+MODELE: Bonjour, je viens d'emménager dans le quartier et j'aimerais savoir comment m'inscrire à la médiathèque. L'inscription est gratuite ? C'est formidable. Je n'ai pas encore de facture à mon nom : est-ce qu'une attestation d'assurance habitation peut servir de justificatif de domicile ? Dix documents pour trois semaines, c'est parfait ; est-il possible de prolonger le prêt en ligne ? Qu'en est-il des livres numériques et de la presse en ligne ? Vous avez parlé d'ateliers : y en a-t-il pour les adultes qui apprennent le français ? Ce serait idéal pour mon mari, qui vient d'arriver.
+COMMENTAIRE: Le candidat réagit à chaque information, pose des questions pratiques variées (justificatif, prolongation, ressources numériques, ateliers) et relie la discussion à sa situation personnelle. L'échange est naturel.
+CONSEILS: Réagissez avec des expressions spontanées (« C'est formidable », « C'est parfait ») : elles montrent que vous écoutez et rendent l'échange vivant.
+
+## EO-B2-049 | 2 | Partager une colocation | Futur colocataire | logement
+SCENARIO: Vous allez emménager en colocation. Vous discutez avec votre futur colocataire (l'examinateur) des règles de vie commune : ménage, courses, invités, bruit.
+RELANCES: Moi, je fais souvent la fête le week-end. / Je ne suis pas très ordonné. / On partage les courses ou chacun achète les siennes ? / Mon copain vient souvent dormir ici.
+PHRASES: Ce serait bien qu'on se mette d'accord sur… / Qu'est-ce que tu dirais de… ? / Ça me va, à condition que…
+MODELE: Avant que j'emménage, ce serait bien qu'on se mette d'accord sur quelques règles, non ? Pour le ménage, qu'est-ce que tu dirais d'un planning, avec la cuisine et la salle de bains en alternance chaque semaine ? Tu fais souvent la fête ? Ça me va, à condition que ce soit le vendredi ou le samedi, parce que je commence tôt en semaine. Pour les courses, je propose une caisse commune pour les produits de base, comme le sel ou le papier toilette, et chacun achète sa nourriture. Quant à ton copain, aucun problème, mais s'il vient tous les jours, il faudrait qu'il participe un peu aux charges.
+COMMENTAIRE: Le candidat aborde chaque sujet avec des propositions concrètes, accepte sous conditions et reste diplomate sur un point sensible. Le subjonctif (« avant que j'emménage », « à condition que ce soit ») est bien maîtrisé.
+CONSEILS: Dans une discussion de règles, faites des propositions concrètes plutôt que d'imposer : « qu'est-ce que tu dirais de… », « je propose que… ».
+
+## EO-B2-050 | 2 | Annuler un voyage organisé | Conseillère de l'agence de voyages | voyages
+SCENARIO: Vous devez annuler un voyage réservé dans une agence, car votre père est malade. La conseillère (l'examinateur) vous annonce des frais d'annulation de 70 %. Négociez.
+RELANCES: Les conditions de vente sont claires. / Avez-vous pris l'assurance annulation ? / Je peux vous proposer un report. / Le report sera plus cher en haute saison.
+PHRASES: Je me vois contraint de… / Compte tenu de… / Ne serait-il pas possible de… ?
+MODELE: Bonjour, je me vois contraint d'annuler notre voyage en Grèce prévu le 3 juin : mon père vient d'être hospitalisé et je dois rester près de lui. Soixante-dix pour cent de frais, c'est énorme, compte tenu des circonstances. Non, je n'ai pas pris l'assurance annulation, je le regrette. Un report m'intéresserait, mais je ne connais pas encore la date de sortie de mon père. Ne serait-il pas possible de transformer le montant payé en avoir valable un an, utilisable pour n'importe quelle destination ? Je peux vous fournir un certificat médical dès aujourd'hui.
+COMMENTAIRE: La réponse explique la situation avec émotion mais retenue, reconnaît son erreur, envisage la proposition et formule une contre-proposition souple. Le registre soutenu (« je me vois contraint », « compte tenu de ») est adapté.
+CONSEILS: Quand vous êtes en tort, reconnaissez-le brièvement, puis faites appel à la compréhension et proposez une solution qui arrange les deux parties.
+
+## EO-B2-051 | 2 | Proposer une idée à son équipe | Collègue sceptique | travail
+SCENARIO: Vous proposez à votre équipe de mettre en place une réunion hebdomadaire de quinze minutes debout pour améliorer la communication. Un collègue sceptique (l'examinateur) critique votre idée.
+RELANCES: On a déjà trop de réunions. / Ça ne servira à rien. / Qui va organiser tout ça ? / Pourquoi debout ? C'est ridicule.
+PHRASES: Je comprends ta réserve, mais… / L'idée, c'est justement de… / Si ça ne marche pas, on…
+MODELE: Je comprends ta réserve : on a déjà beaucoup de réunions. Mais l'idée, c'est justement d'en supprimer : quinze minutes le lundi matin pour savoir qui fait quoi, ça nous éviterait les longues réunions du jeudi. Le fait de rester debout, ça peut paraître bizarre, mais ça oblige chacun à aller à l'essentiel. Pour l'organisation, je peux m'en charger au début, puis on tournera chaque mois. Tu penses que ça ne servira à rien ? Je te propose un essai d'un mois ; si ça ne marche pas, on arrête et on n'en parle plus.
+COMMENTAIRE: Le candidat reconnaît l'objection, transforme la critique en argument (« justement »), explique l'intérêt du format, prend une responsabilité et propose un essai réversible. C'est une stratégie de persuasion convaincante.
+CONSEILS: Proposer un essai limité dans le temps est un excellent moyen de convaincre quelqu'un de sceptique : cela réduit le risque perçu.
+
+## EO-B2-052 | 2 | Se renseigner sur une formation pour adultes | Conseiller d'orientation | éducation
+SCENARIO: Vous voulez reprendre des études pour obtenir un diplôme d'aide-soignant. Vous rencontrez un conseiller d'orientation (l'examinateur) pour connaître les conditions d'accès, la durée et le financement.
+RELANCES: Il faut passer une sélection sur dossier et entretien. / La formation dure douze mois à temps plein. / Elle coûte environ 6 000 euros. / Avez-vous de l'expérience dans le domaine ?
+PHRASES: J'envisage de… / Quelles sont les conditions pour… ? / Existe-t-il des aides pour… ?
+MODELE: Bonjour, j'envisage de devenir aide-soignante et j'aimerais connaître les conditions d'accès à la formation. Une sélection sur dossier et entretien : que faut-il mettre en avant dans le dossier ? J'ai été auxiliaire de vie pendant deux ans auprès de personnes âgées ; est-ce que cette expérience peut être prise en compte, voire réduire la durée de la formation ? Douze mois à temps plein, c'est difficile pour moi, car je dois continuer à travailler : existe-t-il une version en alternance ? Et pour les six mille euros, quelles aides puis-je demander ? Mon compte personnel de formation pourrait-il en couvrir une partie ?
+COMMENTAIRE: Les questions sont organisées (accès, expérience, rythme, financement), le candidat valorise son parcours et cherche des solutions adaptées à sa situation. Le lexique de la formation professionnelle est précis.
+CONSEILS: Mentionnez votre expérience pour obtenir des réponses personnalisées. Les mots « alternance », « validation des acquis », « financement » sont utiles dans ce type de sujet.
+
+## EO-B2-053 | 2 | Régler un conflit de stationnement | Voisin | voisinage
+SCENARIO: Un voisin (l'examinateur) gare régulièrement sa voiture devant votre garage, ce qui vous empêche de sortir le matin. Vous allez lui parler.
+RELANCES: Ce n'est que pour quelques minutes. / Il n'y a jamais de place dans la rue. / Vous ne sortez pas si tôt, si ? / Vous exagérez un peu.
+PHRASES: Je me permets de venir vous voir, car… / Je comprends la difficulté, cependant… / Je préférerais qu'on trouve une solution entre nous.
+MODELE: Bonsoir, je me permets de venir vous voir à propos de votre voiture : elle est souvent garée devant mon garage. Ce matin encore, j'ai dû attendre vingt minutes et je suis arrivée en retard au travail. Je comprends qu'il soit difficile de trouver une place, cependant je pars tous les jours à sept heures et quart. Si vous devez vous garer là un soir, vous pourriez peut-être laisser votre numéro sur le pare-brise ? Je préférerais vraiment qu'on trouve une solution entre nous, plutôt que d'appeler la fourrière, ce que je ne souhaite pas faire.
+COMMENTAIRE: Le candidat expose le problème avec un exemple concret, reconnaît la difficulté de l'autre, propose une solution pratique et évoque une conséquence sans agressivité. Le ton est ferme et cordial.
+CONSEILS: Dans un conflit, utilisez le « je » (« je suis arrivée en retard ») plutôt que le « vous » accusateur. Proposez une solution avant d'évoquer une sanction.
+
+## EO-B2-054 | 2 | Choisir un forfait téléphonique | Vendeur en boutique | consommation
+SCENARIO: Vous cherchez un nouveau forfait téléphonique. Le vendeur (l'examinateur) vous propose une offre chère avec un téléphone neuf. Expliquez vos besoins et trouvez l'offre adaptée.
+RELANCES: Cette offre inclut le dernier téléphone. / Il y a un engagement de vingt-quatre mois. / Vous avez besoin de beaucoup de données ? / Je peux vous faire une remise le premier mois.
+PHRASES: Ce dont j'ai besoin, c'est… / Je n'ai pas besoin de… / Y aurait-il une offre sans… ?
+MODELE: Bonjour, je cherche un nouveau forfait. Ce dont j'ai besoin, c'est surtout d'appels illimités vers l'étranger, car ma famille vit au Maroc, et d'environ vingt gigas de données. Je n'ai pas besoin d'un nouveau téléphone : le mien fonctionne très bien. Un engagement de vingt-quatre mois, ça ne m'intéresse pas, je préfère rester libre. Y aurait-il une offre sans engagement et sans téléphone, avec les appels vers le Maghreb inclus ? Une remise le premier mois, c'est sympathique, mais je regarde surtout le prix sur l'année.
+COMMENTAIRE: Le candidat définit clairement ses besoins avec la mise en relief « ce dont j'ai besoin », refuse poliment ce qui ne lui convient pas et reformule sa demande. Il montre un raisonnement économique pertinent.
+CONSEILS: Face à un vendeur, exprimez clairement vos besoins et vos refus. « Ce dont j'ai besoin, c'est… » est une structure B2 très utile.
+
+## EO-B2-055 | 2 | Demander un report d'examen | Responsable pédagogique | éducation
+SCENARIO: Vous êtes inscrit à une formation et vous ne pourrez pas passer l'examen final à la date prévue pour une raison familiale. Vous demandez un report au responsable pédagogique (l'examinateur).
+RELANCES: Les dates d'examen sont fixées depuis longtemps. / La prochaine session est dans six mois. / Avez-vous un justificatif ? / Vous pourriez peut-être passer l'examen à distance.
+PHRASES: Je me trouve dans une situation délicate : … / Je ne voudrais pas… / Cette solution me conviendrait si…
+MODELE: Bonjour, je me trouve dans une situation délicate : ma sœur se marie au Liban le jour même de l'examen final, et j'ai réservé mes billets avant que les dates soient publiées. Je ne voudrais pas perdre le bénéfice de huit mois de formation pour autant. Je peux vous montrer le faire-part et la confirmation de réservation. Attendre six mois serait difficile, car mon futur employeur attend le diplôme. Passer l'examen à distance ? Cette solution me conviendrait parfaitement, si la connexion internet le permet là-bas. Sinon, pourrais-je le passer quelques jours avant le départ ?
+COMMENTAIRE: Le candidat explique sa situation, justifie son retard d'information, propose des preuves, montre les conséquences d'un report et accepte une solution avec une condition, tout en proposant une alternative.
+CONSEILS: Préparez toujours deux solutions : celle que vous préférez et une de repli. Cela montre votre flexibilité et facilite l'accord.
+
+## EO-B2-056 | 2 | Convaincre ses parents d'un projet | Parent inquiet | vie personnelle
+SCENARIO: Vous voulez quitter votre emploi stable pour ouvrir une petite boulangerie. Vous essayez de rassurer un parent inquiet (l'examinateur).
+RELANCES: Tu as un bon travail, pourquoi prendre un tel risque ? / Tu n'as aucune expérience dans le commerce. / Et si ça ne marche pas ? / Comment vas-tu financer tout ça ?
+PHRASES: Je sais que tu t'inquiètes, mais… / J'ai bien réfléchi : … / Au pire, …
+MODELE: Je sais que tu t'inquiètes, mais j'ai bien réfléchi : ça fait trois ans que je pense à ce projet. Mon travail est stable, c'est vrai, mais je ne m'y sens plus utile. Je n'ai pas d'expérience du commerce, c'est pourquoi j'ai suivi une formation de boulanger le soir, et je vais faire un stage de six mois chez un artisan avant de me lancer. Pour le financement, j'ai mes économies et je prépare un dossier pour un prêt d'honneur. Et au pire, si ça ne marche pas, je pourrai toujours retrouver un emploi dans mon secteur : j'aurai seulement trente-cinq ans.
+COMMENTAIRE: Le candidat rassure en montrant qu'il a anticipé chaque risque : formation, stage, financement, plan B. Les concessions (« c'est vrai, mais ») et l'hypothèse finale rendent le discours mature et convaincant.
+CONSEILS: Pour rassurer quelqu'un, montrez que vous avez déjà pensé aux risques : « j'ai prévu », « j'ai anticipé », « au pire ».
+
+## EO-B2-057 | 2 | Obtenir des informations à la mairie | Agent d'accueil de la mairie | administration
+SCENARIO: Vous souhaitez organiser un vide-grenier dans votre rue avec votre association de quartier. Vous vous renseignez auprès de l'agent d'accueil de la mairie (l'examinateur) sur les démarches.
+RELANCES: Il faut déposer une demande d'autorisation deux mois avant. / La rue devra être fermée à la circulation. / Avez-vous une assurance ? / Les exposants doivent être inscrits sur un registre.
+PHRASES: Nous aimerions organiser… / Quelles sont les démarches à suivre pour… ? / Qui s'occupe de… ?
+MODELE: Bonjour, notre association de quartier aimerait organiser un vide-grenier rue Victor-Hugo, un dimanche de septembre. Quelles sont les démarches à suivre ? Deux mois avant, d'accord : la demande se fait-elle en ligne ou faut-il remplir un formulaire papier ? Si la rue doit être fermée, qui s'occupe des barrières et de la signalisation : la mairie ou l'association ? Pour l'assurance, nous avons une responsabilité civile ; faut-il une extension particulière ? Et le registre des exposants, devons-nous vous le remettre avant ou après l'événement ? Pourriez-vous me donner le contact du service concerné ?
+COMMENTAIRE: Le candidat présente clairement son projet et pose des questions précises sur chaque démarche, en reformulant les informations reçues. La demande de contact final montre un esprit pratique.
+CONSEILS: Reformulez brièvement l'information reçue (« Deux mois avant, d'accord ») avant de poser la question suivante : cela montre votre compréhension.
+
+## EO-B2-058 | 2 | Recruter un bénévole | Étudiant intéressé | société
+SCENARIO: Vous êtes responsable d'une association d'aide aux personnes âgées. Un étudiant (l'examinateur) hésite à devenir bénévole. Présentez l'association et convainquez-le.
+RELANCES: Je n'ai pas beaucoup de temps avec mes études. / Je n'ai jamais fait ça. / Qu'est-ce que je ferais concrètement ? / Est-ce que ça peut m'aider pour mon CV ?
+PHRASES: Notre association a pour but de… / Il suffit de… / Tu pourrais même…
+MODELE: Notre association a pour but de rompre l'isolement des personnes âgées du quartier. Concrètement, nos bénévoles leur rendent visite, jouent aux cartes avec elles ou les accompagnent faire leurs courses. Tu n'as pas beaucoup de temps ? Il suffit d'une heure par semaine, au moment qui t'arrange. Tu n'as jamais fait ça ? Ce n'est pas un problème : nous proposons une petite formation au départ, et tu seras accompagné lors des premières visites. Et oui, c'est un vrai plus sur un CV, car cela montre ton sens des responsabilités. Mais surtout, tu verras, ces rencontres sont très enrichissantes.
+COMMENTAIRE: Le candidat présente l'objectif, décrit des actions concrètes et répond à chaque hésitation en minimisant l'effort demandé. L'argument final, plus personnel, rend la persuasion sincère.
+CONSEILS: Pour convaincre, commencez par l'objectif, puis montrez que l'effort demandé est faible et que les bénéfices sont réels.
+
+## EO-B2-059 | 2 | Demander un remboursement de train | Agent de la gare | transports
+SCENARIO: Votre train a eu trois heures de retard et vous avez raté un entretien d'embauche. Vous vous adressez à un agent de la gare (l'examinateur) pour obtenir un dédommagement.
+RELANCES: Le retard est dû à une panne de signalisation. / Vous pouvez faire une demande en ligne. / Nous remboursons 50 % du billet. / Nous ne sommes pas responsables de votre rendez-vous.
+PHRASES: Je tiens à vous signaler que… / Je trouve regrettable que… / Je souhaiterais au minimum…
+MODELE: Bonjour, je tiens à vous signaler que mon train de huit heures dix est arrivé avec trois heures de retard. À cause de cela, j'ai raté un entretien d'embauche important. Je trouve regrettable qu'aucune information n'ait été donnée pendant la première heure : j'aurais pu prévenir l'entreprise plus tôt. Je sais que vous n'êtes pas responsables de mon rendez-vous, mais je souhaiterais au minimum un remboursement intégral du billet, comme le prévoit le règlement pour un retard de plus de deux heures. Pourriez-vous me donner une attestation de retard ? Je ferai la demande en ligne ce soir.
+COMMENTAIRE: Le candidat expose les faits et leurs conséquences, exprime son mécontentement avec le subjonctif (« je trouve regrettable qu'aucune information n'ait été donnée »), s'appuie sur le règlement et demande un document concret.
+CONSEILS: Exprimez votre mécontentement avec des formules soutenues (« je trouve regrettable que », « il est inadmissible que ») plutôt qu'avec de la colère.
+
+## EO-B2-060 | 2 | Préparer une sortie scolaire | Enseignante | éducation
+SCENARIO: L'enseignante de votre enfant (l'examinateur) cherche des parents accompagnateurs pour une sortie au musée. Vous êtes disponible mais vous avez des questions et des inquiétudes.
+RELANCES: Nous partons en car à 8 h 30. / Chaque parent surveillera un groupe de cinq enfants. / Les enfants apporteront leur pique-nique. / Votre fils a des allergies ?
+PHRASES: Je serais ravi d'accompagner… / J'aimerais savoir comment… / Il faudrait prévoir…
+MODELE: Bonjour Madame, je serais ravi d'accompagner la classe au musée jeudi. J'aimerais savoir comment se passe la visite : y a-t-il un guide, ou est-ce que les parents doivent animer leur groupe ? Cinq enfants par parent, c'est très bien ; pourriez-vous me donner une liste avec leurs prénoms et un numéro à appeler en cas de problème ? Mon fils est allergique aux arachides, il faudrait donc vérifier que personne ne partage son pique-nique avec lui. Est-ce que je dois prévoir de l'argent pour l'entrée ou c'est l'école qui paie ? Je peux aussi aider à préparer les badges, si besoin.
+COMMENTAIRE: Le candidat accepte avec enthousiasme, pose des questions sur l'organisation, la sécurité et le coût, signale une contrainte importante et propose son aide. L'échange est pratique et bien structuré.
+CONSEILS: Une question sur la sécurité ou la santé montre votre sens des responsabilités. Proposez une aide supplémentaire pour terminer sur une note positive.
+
+## EO-B2-061 | 2 | Négocier le prix d'une voiture d'occasion | Vendeur particulier | consommation
+SCENARIO: Vous voulez acheter une voiture d'occasion vue sur une annonce à 7 500 euros. Le vendeur (l'examinateur) vous la montre. Posez des questions et négociez le prix.
+RELANCES: Elle n'a que 90 000 kilomètres. / Le contrôle technique date d'il y a huit mois. / C'est un bon prix, je ne baisse pas. / Je peux faire un petit geste.
+PHRASES: J'ai remarqué que… / Compte tenu de…, je vous propose… / C'est mon dernier prix.
+MODELE: Bonjour, la voiture me plaît, mais j'ai quelques questions. Avez-vous le carnet d'entretien ? Quand la courroie de distribution a-t-elle été changée ? J'ai remarqué que les pneus avant sont presque usés et qu'il y a une rayure sur la portière. Le contrôle technique date de huit mois, il faudra donc en refaire un pour la vente. Compte tenu des pneus à changer, je vous propose six mille huit cents euros. Vous ne baissez pas ? Je comprends, mais les pneus vont me coûter près de quatre cents euros. Allez, sept mille, c'est mon dernier prix, et je peux payer par virement dès demain.
+COMMENTAIRE: Le candidat s'informe, relève des défauts concrets pour justifier une baisse de prix, fait une première offre et remonte progressivement. L'argument final (paiement rapide) facilite l'accord.
+CONSEILS: Dans une négociation de prix, justifiez chaque baisse par un fait et ne commencez jamais par votre dernier prix.
+
+## EO-B2-062 | 2 | Accueillir un nouveau collègue | Nouveau collègue | travail
+SCENARIO: Un nouveau collègue (l'examinateur) arrive dans votre service. Vous êtes chargé de l'accueillir : présentez-lui l'entreprise, l'équipe et le fonctionnement, et répondez à ses questions.
+RELANCES: À quelle heure commence-t-on le matin ? / Comment fonctionne la cantine ? / Qui dois-je contacter si j'ai un problème informatique ? / Est-ce que le télétravail est possible ?
+PHRASES: Bienvenue parmi nous ! / Je vais te présenter… / N'hésite pas à…
+MODELE: Bienvenue parmi nous ! Je vais te faire visiter les bureaux et te présenter l'équipe. Ici, les horaires sont souples : on arrive entre huit heures et neuf heures et demie, à condition de faire ses trente-cinq heures. La cantine se trouve au rez-de-chaussée ; il faut recharger ton badge à l'accueil. Pour les problèmes informatiques, tu fais un ticket sur l'intranet, et Karim, notre technicien, passe généralement dans l'heure. Le télétravail est possible deux jours par semaine, mais seulement après la période d'essai. N'hésite surtout pas à me poser des questions, même les plus simples.
+COMMENTAIRE: Le candidat adopte un ton chaleureux, donne des informations précises et pratiques, avec des conditions (« à condition de », « seulement après »). La conclusion invite au dialogue.
+CONSEILS: Quand vous jouez un rôle d'accueil, donnez des informations précises avec leurs conditions et terminez par une invitation à poser des questions.
+
+## EO-B2-063 | 2 | Se plaindre d'un service de livraison | Service client de livraison | consommation
+SCENARIO: Votre colis a été déclaré livré alors que vous ne l'avez jamais reçu. Vous appelez le service client du transporteur (l'examinateur).
+RELANCES: Le livreur indique qu'il l'a déposé devant votre porte. / Peut-être qu'un voisin l'a récupéré. / Il faut contacter le vendeur. / Nous allons ouvrir une enquête de quinze jours.
+PHRASES: Je n'ai jamais reçu… / C'est impossible, puisque… / J'attends de votre part…
+MODELE: Bonjour, j'appelle parce que mon colis est indiqué comme livré depuis mardi, alors que je ne l'ai jamais reçu. Devant ma porte ? C'est impossible, puisque j'habite dans un immeuble avec digicode et que le livreur n'a pas le code. J'ai déjà demandé à mes voisins, personne ne l'a vu. Je trouve anormal qu'on me renvoie vers le vendeur, car c'est votre service qui a validé la livraison. Une enquête de quinze jours, d'accord, mais j'attends de votre part une confirmation écrite par courriel, avec un numéro de dossier. Le colis contenait un cadeau d'anniversaire pour samedi.
+COMMENTAIRE: Le candidat réfute les hypothèses de l'interlocuteur avec des arguments logiques (« c'est impossible, puisque »), refuse d'être renvoyé ailleurs et exige une trace écrite. L'interaction est ferme et argumentée.
+CONSEILS: Pour réfuter une explication, utilisez « c'est impossible, puisque… » ou « cela m'étonnerait, car… » avec un fait précis.
+
+## EO-B2-064 | 2 | Planifier un voyage entre amis | Ami aux goûts différents | voyages
+SCENARIO: Vous organisez des vacances d'une semaine avec un ami (l'examinateur). Vous voulez aller à la montagne, il préfère la mer. Trouvez un compromis.
+RELANCES: Moi, je veux absolument me baigner. / La montagne, c'est trop fatigant. / On n'a pas un gros budget. / Et si chacun partait de son côté ?
+PHRASES: Et si on… ? / On pourrait couper la poire en deux : … / L'avantage, c'est que…
+MODELE: Bon, il faut qu'on choisisse notre destination. Toi, tu veux la mer, et moi, la montagne. Et si on allait dans les Pyrénées-Orientales ? L'avantage, c'est qu'on peut faire de la randonnée le matin et aller se baigner l'après-midi, la côte est à une heure. La montagne n'est pas forcément fatigante : on choisira des balades faciles, avec des lacs où on peut nager. Pour le budget, on pourrait louer un petit appartement et faire nos courses au marché. Partir chacun de son côté ? Ce serait dommage, on n'a pas voyagé ensemble depuis trois ans !
+COMMENTAIRE: Le candidat propose un compromis concret, en montre les avantages pour les deux, répond aux objections et refuse la séparation avec un argument affectif. Le registre amical est bien maîtrisé.
+CONSEILS: Pour trouver un compromis, cherchez une solution qui donne quelque chose à chacun et présentez-la avec « l'avantage, c'est que… ».
+
+## EO-B2-065 | 2 | Demander conseil à un pharmacien | Pharmacien | santé
+SCENARIO: Vous partez en voyage dans un pays tropical et vous demandez conseil à un pharmacien (l'examinateur) sur les précautions et les médicaments à emporter.
+RELANCES: Avez-vous vu un médecin pour les vaccins ? / Il faut un traitement contre le paludisme. / Pensez à une crème solaire très protectrice. / Prenez-vous d'autres médicaments ?
+PHRASES: Je pars bientôt pour… et je voudrais… / Que me conseilleriez-vous pour… ? / Faut-il une ordonnance pour… ?
+MODELE: Bonjour, je pars dans trois semaines au Sénégal, et je voudrais savoir quelles précautions prendre. Pour les vaccins, j'ai rendez-vous la semaine prochaine au centre de vaccinations internationales. Le traitement contre le paludisme, faut-il une ordonnance, et quand dois-je commencer à le prendre ? Que me conseilleriez-vous contre les moustiques : un spray pour la peau ou une moustiquaire ? Je prends déjà un traitement pour la tension ; est-ce qu'il y a un risque d'interaction ? Enfin, que dois-je mettre dans une petite trousse à pharmacie de voyage ?
+COMMENTAIRE: Le candidat présente sa situation, pose des questions organisées et signale un point de santé important. Le vocabulaire médical (ordonnance, traitement, interaction) est précis et adapté.
+CONSEILS: Mentionnez vos particularités (traitement en cours, allergies) : l'interlocuteur pourra rebondir et l'échange sera plus riche.
+
+## EO-B2-066 | 2 | Contester une amende de stationnement | Agent de la police municipale | administration
+SCENARIO: Vous avez reçu une amende pour stationnement interdit, alors que vous déchargiez des meubles pour un déménagement autorisé. Vous allez au poste de police municipale (l'examinateur) pour la contester.
+RELANCES: Le stationnement était interdit à cet endroit. / Aviez-vous une autorisation écrite ? / L'agent n'a vu personne près du véhicule. / Vous devez faire une contestation écrite.
+PHRASES: Je souhaite contester… / J'avais pourtant… / Pourriez-vous m'indiquer la procédure… ?
+MODELE: Bonjour, je souhaite contester une amende reçue samedi dernier, rue de la République. J'étais garé devant mon immeuble parce que je déménageais, et j'avais pourtant obtenu une autorisation de la mairie, que voici. L'agent n'a vu personne ? C'est possible : j'étais au troisième étage en train de monter un canapé, mais le camion portait un panneau avec l'autorisation, bien visible. Je comprends que l'agent ait fait son travail, mais l'amende n'est pas justifiée. Pourriez-vous m'indiquer la procédure pour la contestation écrite et les documents à joindre ?
+COMMENTAIRE: Le candidat présente une preuve, explique la situation, répond à l'objection en restant calme et demande la procédure. Le subjonctif après « je comprends que » montre une bonne maîtrise.
+CONSEILS: Face à une autorité, restez calme, montrez vos documents et demandez la procédure officielle : c'est plus efficace que de discuter longuement.
+
+## EO-B2-067 | 2 | Choisir un cadeau commun | Collègue | travail
+SCENARIO: Une collègue part à la retraite. Vous discutez avec un autre collègue (l'examinateur) pour choisir un cadeau commun et organiser un pot de départ.
+RELANCES: On pourrait lui offrir des fleurs. / Combien chacun va-t-il donner ? / Qui va s'occuper du pot ? / Elle n'aime pas trop être le centre de l'attention.
+PHRASES: Je pensais plutôt à… / Qu'en penses-tu ? / On pourrait se répartir…
+MODELE: Pour le départ de Sylvie, des fleurs, c'est joli, mais je pensais plutôt à quelque chose de plus durable. Elle parle sans arrêt de son projet de jardin : pourquoi pas un bon pour une jardinerie, avec un bel outil ? Qu'en penses-tu ? Si chacun donne dix euros, avec vingt personnes, on aura un beau cadeau. Pour le pot, on pourrait se répartir les tâches : je m'occupe des boissons, et toi du salé. Tu as raison, elle est discrète, alors faisons quelque chose de simple, en fin de journée, avec un petit discours de deux minutes, pas plus.
+COMMENTAIRE: Le candidat nuance la proposition de l'autre, justifie sa propre idée, chiffre le budget, propose une répartition et adapte l'organisation à la personnalité de la collègue. L'échange est collaboratif.
+CONSEILS: Dans une prise de décision commune, demandez l'avis de l'autre (« qu'en penses-tu ? ») et tenez compte de ses remarques : c'est une vraie interaction.
+
+## EO-B2-068 | 2 | Négocier avec un artisan | Artisan plombier | logement
+SCENARIO: Vous voulez refaire votre salle de bains. Un artisan (l'examinateur) vous présente un devis élevé avec un délai de trois mois. Discutez du prix, des matériaux et du calendrier.
+RELANCES: Le devis s'élève à 9 000 euros. / Je ne peux pas commencer avant trois mois. / Les carreaux que vous voulez sont chers. / Il faut verser 40 % à la commande.
+PHRASES: Pourriez-vous détailler… ? / Serait-il envisageable de… ? / Je vais réfléchir et comparer.
+MODELE: Merci pour le devis. Neuf mille euros, c'est au-dessus de mon budget : pourriez-vous détailler ce qui correspond à la main-d'œuvre et ce qui correspond aux matériaux ? Si les carreaux sont trop chers, serait-il envisageable d'en choisir un modèle plus simple, ou que je les achète moi-même ? Trois mois de délai, cela me convient, à condition que les travaux ne dépassent pas deux semaines, car nous n'avons qu'une salle de bains. Quarante pour cent à la commande, c'est beaucoup ; trente pour cent, ce serait possible ? Je vais réfléchir et comparer avec un autre devis, puis je vous rappelle vendredi.
+COMMENTAIRE: Le candidat demande un détail du devis, propose des alternatives pour réduire le coût, accepte le délai sous condition et négocie l'acompte. Il se laisse le temps de comparer : attitude réaliste et maîtrisée.
+CONSEILS: Demandez toujours le détail d'un devis avant de négocier : c'est là que vous trouverez des pistes d'économie.
+
+## EO-B2-069 | 2 | Proposer un projet au conseil de quartier | Élu du conseil de quartier | ville
+SCENARIO: Vous voulez créer un jardin partagé sur un terrain vague de votre quartier. Vous présentez le projet à un élu du conseil de quartier (l'examinateur), qui pose des questions.
+RELANCES: Ce terrain est prévu pour un parking. / Qui va entretenir le jardin ? / Combien cela va-t-il coûter à la commune ? / Les jardins attirent parfois des nuisances.
+PHRASES: Notre projet consiste à… / Il présente plusieurs avantages : … / Nous nous engageons à…
+MODELE: Notre projet consiste à transformer le terrain vague de la rue Mozart en jardin partagé. Il présente plusieurs avantages : créer du lien entre voisins, permettre aux enfants de découvrir la nature et améliorer l'aspect du quartier. Un parking ? Je comprends, mais il y en a déjà un, souvent à moitié vide, à deux cents mètres. Pour l'entretien, une vingtaine d'habitants se sont déjà portés volontaires, et nous nous engageons à créer une association responsable du lieu. Le coût pour la commune serait limité à l'installation d'un point d'eau et d'une clôture. Pour les nuisances, le jardin serait fermé la nuit.
+COMMENTAIRE: Le candidat présente le projet et ses avantages, répond à chaque objection par un fait (parking vide, volontaires, coût limité, fermeture nocturne). Le discours est structuré et convaincant.
+CONSEILS: Préparez une réponse chiffrée aux questions de coût et d'organisation : un élu veut savoir qui fait quoi et combien cela coûte.

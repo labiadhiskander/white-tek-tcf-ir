@@ -1,0 +1,205 @@
+@slug ce-environnement
+@section CE
+@title Environnement
+@order 5
+@description Articles et tribunes sur l'écologie, le climat et la biodiversité : comprendre les données, les causes et les solutions discutées.
+
+## CE-ENV-01 | article de vulgarisation
+TITRE: Les abeilles sauvages oubliées
+DOC: Quand on parle du déclin des pollinisateurs, on pense spontanément à l'abeille domestique, celle qui produit le miel. Pourtant, elle ne représente qu'une espèce parmi près d'un millier d'abeilles présentes en France. La grande majorité sont des abeilles sauvages, souvent solitaires, qui nichent dans le sol ou dans des tiges creuses, et dont beaucoup sont menacées. ¶ Leur rôle est essentiel : certaines plantes ne peuvent être pollinisées que par des espèces précises, adaptées à la forme de leurs fleurs. Or les chercheurs observent que l'installation massive de ruches en ville, encouragée comme un geste écologique, peut nuire aux abeilles sauvages. Les abeilles domestiques, très nombreuses, entrent en concurrence avec elles pour le nectar et le pollen disponibles. ¶ Pour protéger réellement les pollinisateurs, mieux vaudrait donc multiplier les espaces fleuris variés, laisser des zones de sol nu et des tiges sèches dans les jardins, et réduire l'usage des pesticides, plutôt que d'installer toujours plus de ruches.
+Q: Quelle idée reçue le texte corrige-t-il ? | compréhension globale
++ Que l'abeille domestique résume à elle seule la question des pollinisateurs. | « Elle ne représente qu'une espèce parmi près d'un millier d'abeilles présentes en France. »
+- Que les abeilles produisent du miel. | C'est vrai pour l'abeille domestique.
+- Que les abeilles sauvages vivent en ruche. | Le texte dit qu'elles sont souvent solitaires.
+- Que les pesticides sont sans danger. | Ce n'est pas l'idée reçue corrigée.
+EXP: « Pourtant » oppose ce à quoi on pense spontanément à la réalité.
+Q: Pourquoi les ruches urbaines peuvent-elles poser problème ? | argumentation
++ Les abeilles domestiques concurrencent les sauvages pour la nourriture. | « Entrent en concurrence avec elles pour le nectar et le pollen disponibles. »
+- Elles attirent des insectes dangereux. | Ce n'est pas dit.
+- Elles produisent un miel de mauvaise qualité. | Ce n'est pas évoqué.
+- Elles sont interdites en ville. | Ce n'est pas mentionné.
+EXP: Le texte souligne un effet inattendu d'un geste présenté comme écologique.
+Q: Que recommande l'auteur ? | synthèse
++ Diversifier les fleurs et préserver des habitats naturels plutôt qu'ajouter des ruches. | « Multiplier les espaces fleuris variés, laisser des zones de sol nu et des tiges sèches… plutôt que d'installer toujours plus de ruches. »
+- Interdire l'apiculture. | Il ne propose pas d'interdiction.
+- Installer plus de ruches en ville. | C'est ce qu'il déconseille.
+- Utiliser des pesticides naturels. | Il conseille de réduire les pesticides.
+EXP: « Donc » relie la conclusion aux constats précédents.
+VOCAB: un pollinisateur = un animal qui transporte le pollen d'une fleur à l'autre = Les papillons sont aussi des pollinisateurs. ; nicher = faire son nid, s'installer = Les hirondelles nichent sous le toit. ; creux = vide à l'intérieur = Un arbre creux. ; le nectar = le liquide sucré des fleurs = Les abeilles butinent le nectar.
+EXPR: un geste écologique = une action en faveur de l'environnement = Trier ses déchets est un geste écologique. ; entrer en concurrence avec = rivaliser avec = Les petits commerces entrent en concurrence avec les supermarchés. ; mieux vaudrait = il serait préférable de = Mieux vaudrait partir tôt.
+PIEGES: Le texte ne dit pas que les ruches sont mauvaises en soi. ; Les abeilles sauvages ne produisent pas de miel comme l'abeille domestique. ; La concurrence concerne la nourriture, pas l'espace.
+
+## CE-ENV-02 | article de presse
+TITRE: La sobriété énergétique entre dans les entreprises
+DOC: Éteindre les enseignes lumineuses la nuit, baisser le chauffage d'un ou deux degrés, regrouper les équipes dans moins de bureaux : depuis la hausse des prix de l'énergie, de nombreuses entreprises ont adopté des plans de sobriété. Les premiers bilans sont encourageants, avec des baisses de consommation de 10 à 15 % dans certains groupes, sans perte notable d'activité. ¶ Pour les spécialistes, l'intérêt de ces mesures dépasse les économies immédiates. Elles ont fait prendre conscience à beaucoup de salariés et de dirigeants que des gaspillages importants avaient été tolérés pendant des années, simplement parce que l'énergie était bon marché. ¶ Mais la sobriété a ses limites. Une fois les gestes simples accomplis, les gains suivants exigent des investissements lourds : isolation des bâtiments, remplacement des machines, changement des procédés industriels. Et la tentation est forte, si les prix redescendent, de relâcher l'effort. Les experts plaident donc pour transformer ces réflexes de crise en politiques durables, inscrites dans les objectifs des entreprises.
+Q: Quels résultats les premiers bilans montrent-ils ? | compréhension détaillée
++ Une baisse de la consommation sans effet important sur l'activité. | « Des baisses de consommation de 10 à 15 %… sans perte notable d'activité. »
+- Une hausse des prix pour les clients. | Ce n'est pas dit.
+- Des pertes d'emplois. | Ce n'est pas évoqué.
+- Une augmentation de la consommation. | C'est l'inverse.
+EXP: « Encourageants » qualifie positivement les résultats.
+Q: Quel effet indirect de ces mesures les spécialistes soulignent-ils ? | implicite
++ Une prise de conscience des gaspillages longtemps acceptés. | « Des gaspillages importants avaient été tolérés pendant des années, simplement parce que l'énergie était bon marché. »
+- Une baisse des salaires. | Ce n'est pas dit.
+- Une meilleure ambiance au travail. | Ce n'est pas évoqué.
+- Une hausse des investissements. | Elle est présentée comme une étape future nécessaire.
+EXP: « Dépasse les économies immédiates » annonce un bénéfice moins visible.
+Q: Quelles limites de la sobriété le texte évoque-t-il ? | argumentation
++ Des gains plus coûteux après les premiers gestes et le risque d'un relâchement. | « Les gains suivants exigent des investissements lourds… la tentation est forte… de relâcher l'effort. »
+- Elle est interdite par la loi. | Ce n'est pas dit.
+- Elle n'a produit aucun résultat. | Les bilans sont encourageants.
+- Elle augmente le chômage. | Ce n'est pas évoqué.
+EXP: « Mais la sobriété a ses limites » annonce deux obstacles.
+VOCAB: la sobriété = la modération dans la consommation = La sobriété énergétique réduit les factures. ; une enseigne = le panneau qui signale un magasin = L'enseigne lumineuse reste allumée la nuit. ; le gaspillage = l'utilisation inutile d'une ressource = Il faut lutter contre le gaspillage alimentaire. ; un procédé = une méthode technique = Un nouveau procédé de fabrication.
+EXPR: prendre conscience = comprendre soudain l'importance de quelque chose = Il a pris conscience du danger. ; relâcher l'effort = faire moins d'efforts = Ce n'est pas le moment de relâcher l'effort. ; sans perte notable = sans perte importante = La production a continué sans perte notable.
+PIEGES: Les 10 à 15 % concernent certains groupes, pas toutes les entreprises. ; Les investissements lourds sont une étape à venir. ; Les experts veulent pérenniser les mesures, pas les arrêter.
+
+## CE-ENV-03 | tribune
+TITRE: La voiture électrique ne suffira pas
+DOC: La voiture électrique est souvent présentée comme la solution au problème climatique des transports. Sur l'ensemble de son cycle de vie, elle émet en effet nettement moins de gaz à effet de serre qu'un modèle thermique, surtout dans les pays où l'électricité est peu carbonée. Il serait absurde de nier ce progrès. ¶ Mais remplacer chaque voiture à essence par une voiture électrique ne réglerait qu'une partie du problème. La fabrication des batteries exige des métaux dont l'extraction a de lourds impacts environnementaux et sociaux. Les véhicules électriques, de plus en plus lourds, usent les routes et occupent autant d'espace que les autres. Les embouteillages, eux, restent électriques. ¶ La vraie transition ne consiste donc pas seulement à changer de moteur, mais à repenser nos déplacements : développer les transports collectifs, le vélo, le covoiturage, rapprocher logements et emplois. Une politique qui se contenterait de subventionner l'achat de voitures neuves risquerait de verdir l'apparence d'un modèle sans le transformer.
+Q: Quel avantage de la voiture électrique l'auteur reconnaît-il ? | compréhension détaillée
++ Elle émet moins de gaz à effet de serre sur l'ensemble de sa vie. | « Elle émet en effet nettement moins de gaz à effet de serre qu'un modèle thermique. »
+- Elle est moins chère à l'achat. | Ce n'est pas dit.
+- Elle ne nécessite aucun métal. | C'est faux selon le texte.
+- Elle supprime les embouteillages. | « Les embouteillages, eux, restent électriques. »
+EXP: « Il serait absurde de nier ce progrès » est une concession.
+Q: Que signifie « Les embouteillages, eux, restent électriques » ? | implicite
++ Changer de moteur ne résout pas les problèmes de circulation. | La phrase suit l'idée que ces véhicules « occupent autant d'espace que les autres ».
+- Les embouteillages produisent de l'électricité. | Lecture littérale erronée.
+- Les routes sont électrifiées. | Ce n'est pas le sens.
+- Il n'y a plus d'embouteillages. | C'est l'inverse.
+EXP: La formule ironique souligne qu'un embouteillage reste un embouteillage, quel que soit le moteur.
+Q: Que critique l'auteur dans la dernière phrase ? | argumentation
++ Une politique centrée uniquement sur l'achat de voitures neuves. | « Une politique qui se contenterait de subventionner l'achat de voitures neuves risquerait de verdir l'apparence d'un modèle sans le transformer. »
+- Les transports collectifs. | Il les défend.
+- Le covoiturage. | Il le recommande.
+- Les vélos électriques. | Ce n'est pas dit.
+EXP: « Verdir l'apparence » signifie donner une image écologique sans changement profond.
+VOCAB: le cycle de vie = toutes les étapes d'un produit, de sa fabrication à sa destruction = Analyser le cycle de vie d'un téléphone. ; thermique = qui fonctionne avec un moteur à essence ou diesel = Les voitures thermiques. ; carboné = qui émet du carbone = Une électricité peu carbonée. ; l'extraction = le fait de retirer des minerais du sol = L'extraction du lithium.
+EXPR: régler une partie du problème = ne résoudre le problème qu'en partie = Cette mesure ne règle qu'une partie du problème. ; se contenter de = ne faire que = Il se contente de critiquer. ; verdir son image = se donner une apparence écologique = L'entreprise cherche à verdir son image.
+PIEGES: L'auteur n'est pas contre la voiture électrique. ; L'ironie sur les embouteillages ne doit pas être prise au sens littéral. ; La critique finale vise une politique, pas les consommateurs.
+
+## CE-ENV-04 | article de presse
+TITRE: Le retour du loup divise les campagnes
+DOC: Disparu de France au début du XXe siècle, le loup est revenu naturellement depuis l'Italie dans les années 1990. On estime aujourd'hui sa population à plus d'un millier d'individus. Pour les naturalistes, ce retour est une bonne nouvelle : en tant que prédateur, le loup contribue à réguler les populations de cerfs et de sangliers, et participe à l'équilibre des écosystèmes. ¶ Pour les éleveurs de moutons, en revanche, la situation est souvent vécue comme un drame. Chaque année, plusieurs milliers de brebis sont tuées, malgré les clôtures électriques, les chiens de protection et la présence de bergers. Les indemnisations versées par l'État compensent les pertes financières, mais pas l'épuisement ni le découragement des éleveurs, contraints de surveiller leurs troupeaux nuit et jour. ¶ L'espèce étant protégée, les tirs ne sont autorisés que dans des conditions strictes. Les éleveurs réclament davantage de souplesse ; les associations craignent qu'un assouplissement ne menace le rétablissement d'une espèce encore fragile.
+Q: Comment le loup est-il revenu en France ? | compréhension détaillée
++ De lui-même, en venant d'Italie. | « Le loup est revenu naturellement depuis l'Italie. »
+- Il a été réintroduit par l'État. | Le texte dit « naturellement ».
+- Il n'avait jamais disparu. | Il avait disparu au début du XXe siècle.
+- Il vient d'un zoo. | Ce n'est pas dit.
+EXP: « Naturellement » exclut une intervention humaine.
+Q: Qu'est-ce que les indemnisations ne compensent pas ? | implicite
++ La fatigue et le moral atteint des éleveurs. | « Compensent les pertes financières, mais pas l'épuisement ni le découragement des éleveurs. »
+- La perte d'argent. | Elle est compensée.
+- Le prix des clôtures. | Ce n'est pas dit.
+- Le salaire des bergers. | Ce n'est pas évoqué.
+EXP: L'opposition « mais pas » distingue les dommages matériels et humains.
+Q: Sur quoi porte le désaccord final ? | synthèse
++ Sur l'assouplissement des règles autorisant les tirs. | « Les éleveurs réclament davantage de souplesse ; les associations craignent qu'un assouplissement ne menace le rétablissement. »
+- Sur le nombre exact de loups. | Ce n'est pas le point de débat.
+- Sur l'utilité des chiens. | Ce n'est pas discuté.
+- Sur la disparition des cerfs. | Ce n'est pas dit.
+EXP: Le point-virgule sépare les deux positions opposées.
+VOCAB: un prédateur = un animal qui chasse d'autres animaux = Le renard est un prédateur. ; réguler = maintenir en équilibre = Réguler la circulation. ; une indemnisation = une somme versée pour réparer un dommage = Il a reçu une indemnisation. ; le rétablissement = le retour à un bon état = Le rétablissement de l'espèce.
+EXPR: en revanche = au contraire = Il pleut ici ; en revanche, il fait beau à Nice. ; nuit et jour = sans arrêt = Ils travaillent nuit et jour. ; vivre comme un drame = ressentir comme une situation très grave = Il a vécu son licenciement comme un drame.
+PIEGES: Le loup n'a pas été réintroduit par l'homme. ; Les tirs sont autorisés mais encadrés. ; Le texte présente les deux camps sans trancher.
+
+## CE-ENV-05 | article de vulgarisation
+TITRE: Les sols, un trésor invisible
+DOC: Nous marchons dessus sans y penser, et pourtant les sols comptent parmi les milieux les plus riches de la planète. Une seule cuillère de terre fertile contient plus d'êtres vivants qu'il n'y a d'humains sur Terre : bactéries, champignons, vers, insectes. Ensemble, ils décomposent la matière organique, nourrissent les plantes et stockent d'énormes quantités de carbone. ¶ Ce patrimoine est menacé. L'urbanisation recouvre chaque année des milliers d'hectares de béton et de bitume, et un sol imperméabilisé perd presque toutes ses fonctions. Les pratiques agricoles intensives, le labour profond et l'usage massif d'engrais chimiques appauvrissent également la vie souterraine. Or il faut des siècles pour former quelques centimètres de sol fertile. ¶ Des solutions existent : couvrir les champs de végétaux entre deux cultures, limiter le travail du sol, réhabiliter les friches urbaines plutôt que de construire sur des terres agricoles. La loi impose désormais aux collectivités de réduire progressivement l'artificialisation des sols, objectif ambitieux qui suscite déjà les protestations de certains élus locaux.
+Q: Quelle image le texte utilise-t-il pour montrer la richesse des sols ? | compréhension détaillée
++ Une cuillère de terre contient plus d'êtres vivants que d'humains sur Terre. | « Une seule cuillère de terre fertile contient plus d'êtres vivants qu'il n'y a d'humains sur Terre. »
+- Les sols sont plus grands que les océans. | Ce n'est pas dit.
+- Un champ produit autant qu'une forêt. | Ce n'est pas évoqué.
+- Le sol contient de l'or. | « Trésor » est une métaphore.
+EXP: La comparaison frappe l'imagination pour rendre visible une richesse invisible.
+Q: Pourquoi la dégradation des sols est-elle particulièrement grave ? | argumentation
++ Parce qu'un sol fertile met des siècles à se former. | « Or il faut des siècles pour former quelques centimètres de sol fertile. »
+- Parce que les sols coûtent cher. | Ce n'est pas dit.
+- Parce que les vers disparaissent en un jour. | Ce n'est pas évoqué.
+- Parce que le béton est polluant. | L'argument porte sur la lenteur de reconstitution.
+EXP: « Or » introduit l'élément décisif du raisonnement : la perte est quasi irréversible.
+Q: Comment les élus locaux réagissent-ils à la loi ? | implicite
++ Certains s'y opposent. | « Objectif ambitieux qui suscite déjà les protestations de certains élus locaux. »
+- Tous la soutiennent. | Certains protestent.
+- Ils l'ont déjà appliquée entièrement. | Elle est progressive.
+- Ils l'ont rédigée. | Ce n'est pas dit.
+EXP: « Ambitieux » suggère un objectif difficile, ce qui explique les protestations.
+VOCAB: fertile = qui produit beaucoup = Une terre fertile. ; décomposer = séparer en éléments plus simples = Les champignons décomposent les feuilles. ; imperméabilisé = qui ne laisse plus passer l'eau = Les parkings imperméabilisent les sols. ; une friche = un terrain abandonné = Une friche industrielle.
+EXPR: sans y penser = sans y faire attention = Il a répondu sans y penser. ; l'artificialisation des sols = la transformation de terres naturelles en surfaces construites = L'artificialisation des sols menace la biodiversité. ; susciter des protestations = provoquer des critiques = La réforme suscite des protestations.
+PIEGES: « Trésor » est une image, il ne s'agit pas de richesses minières. ; Les protestations viennent de « certains » élus seulement. ; Le labour est cité comme une pratique néfaste quand il est profond.
+
+## CE-ENV-06 | tribune
+TITRE: Le mythe du recyclage
+DOC: Trier ses déchets est devenu un geste quotidien, presque un devoir civique. Cette bonne volonté a un effet pervers : elle donne le sentiment que tout déchet trié est un déchet résolu. Or la réalité est moins rassurante. ¶ Une partie importante des emballages plastiques déposés dans le bac jaune n'est jamais recyclée, faute de filières adaptées ou parce que les matériaux sont trop mélangés. Et même lorsqu'il l'est, le plastique perd en qualité à chaque cycle, si bien qu'il finit tôt ou tard incinéré ou enfoui. Le recyclage consomme en outre de l'énergie, de l'eau et des transports. ¶ Il ne s'agit pas de décourager le tri, qui reste indispensable. Mais il faut rappeler une hiérarchie trop souvent oubliée : le meilleur déchet est celui qu'on ne produit pas. Réduire les emballages, réparer les objets, privilégier le réemploi, comme les bouteilles consignées, est bien plus efficace que de recycler. Tant que le recyclage servira d'excuse pour produire toujours plus de jetable, il restera un pansement sur une plaie ouverte.
+Q: Quel « effet pervers » du tri l'auteur dénonce-t-il ? | argumentation
++ Il donne l'illusion que le problème des déchets est réglé. | « Elle donne le sentiment que tout déchet trié est un déchet résolu. »
+- Il coûte trop cher aux ménages. | Ce n'est pas dit.
+- Il pollue plus que l'incinération. | Ce n'est pas affirmé.
+- Il décourage les citoyens. | C'est l'inverse.
+EXP: Un « effet pervers » est une conséquence négative et inattendue d'une action bien intentionnée.
+Q: Pourquoi le plastique finit-il tôt ou tard incinéré ou enfoui ? | compréhension détaillée
++ Parce qu'il perd en qualité à chaque recyclage. | « Le plastique perd en qualité à chaque cycle. »
+- Parce qu'il est interdit de le recycler. | Ce n'est pas dit.
+- Parce que personne ne le trie. | Le texte parle de tri quotidien.
+- Parce qu'il est trop rare. | Ce n'est pas le cas.
+EXP: « Si bien que » introduit la conséquence de la perte de qualité.
+Q: Que signifie l'image du « pansement sur une plaie ouverte » ? | implicite
++ Le recyclage traite les conséquences sans s'attaquer à la cause. | Il sert « d'excuse pour produire toujours plus de jetable ».
+- Le recyclage est dangereux pour la santé. | Ce n'est pas le sens.
+- Il faut recycler les pansements. | Lecture littérale erronée.
+- Le recyclage guérit l'environnement. | L'image suggère l'inverse.
+EXP: Un pansement ne soigne pas une blessure grave : de même, le recyclage ne résout pas la surproduction.
+VOCAB: civique = qui concerne le citoyen = Voter est un devoir civique. ; une filière = l'ensemble des étapes d'une activité = La filière du recyclage du verre. ; incinéré = brûlé = Les déchets sont incinérés. ; le réemploi = la réutilisation d'un objet pour le même usage = Le réemploi des bouteilles en verre.
+EXPR: un effet pervers = une conséquence négative inattendue = Cette aide a eu un effet pervers. ; tôt ou tard = un jour ou l'autre = Tôt ou tard, il comprendra. ; un pansement sur une plaie ouverte = une solution insuffisante pour un problème grave = Cette aide n'est qu'un pansement sur une plaie ouverte.
+PIEGES: L'auteur ne demande pas d'arrêter de trier. ; « Le meilleur déchet est celui qu'on ne produit pas » résume la hiérarchie. ; Le recyclage a aussi des coûts énergétiques.
+
+## CE-ENV-07 | article de presse
+TITRE: Les villes plantent des « forêts urbaines »
+DOC: Sur un ancien parking, une municipalité vient de planter trois mille jeunes arbres sur à peine quatre cents mètres carrés. Cette méthode, inspirée des travaux d'un botaniste japonais, consiste à planter très serré des espèces locales variées, afin de reconstituer rapidement un petit bois dense. Ses promoteurs affirment que ces micro-forêts poussent dix fois plus vite qu'une plantation classique. ¶ Les villes y voient une réponse aux vagues de chaleur. Les arbres rafraîchissent l'air, absorbent une partie des eaux de pluie et abritent oiseaux et insectes. Leur coût reste modeste, et les habitants sont souvent associés aux plantations, ce qui renforce leur attachement au projet. ¶ Certains écologues tempèrent cet enthousiasme. Les promesses de croissance spectaculaire reposent sur peu d'études rigoureuses, et une forte mortalité des jeunes plants a été observée dans plusieurs projets, faute d'entretien ou d'arrosage les premières années. Surtout, ces petites surfaces ne remplacent pas la préservation des grands arbres existants, qui offrent bien davantage d'ombre et de fraîcheur.
+Q: En quoi consiste la méthode décrite ? | compréhension détaillée
++ Planter de nombreuses espèces locales très près les unes des autres. | « Planter très serré des espèces locales variées. »
+- Planter une seule espèce importée. | Les espèces sont locales et variées.
+- Planter des arbres adultes. | Ce sont de « jeunes arbres ».
+- Planter uniquement dans les parcs existants. | L'exemple est un ancien parking.
+EXP: La méthode vise à créer « rapidement un petit bois dense ».
+Q: Quels avantages les villes attendent-elles de ces micro-forêts ? | compréhension détaillée
++ De la fraîcheur, une meilleure gestion de l'eau et un abri pour la faune. | « Les arbres rafraîchissent l'air, absorbent une partie des eaux de pluie et abritent oiseaux et insectes. »
+- La production de bois de chauffage. | Ce n'est pas dit.
+- La réduction des impôts locaux. | Ce n'est pas évoqué.
+- La création de parkings. | C'est l'inverse.
+EXP: L'énumération détaille les bénéfices face aux vagues de chaleur.
+Q: Quelle est la principale réserve des écologues ? | argumentation
++ Ces projets ne doivent pas faire oublier la protection des grands arbres déjà présents. | « Surtout, ces petites surfaces ne remplacent pas la préservation des grands arbres existants. »
+- Les arbres poussent trop vite. | Ce n'est pas leur crainte.
+- Les habitants refusent de participer. | Ils sont souvent associés.
+- Le coût est trop élevé. | Il est dit « modeste ».
+EXP: « Surtout » met en avant la critique la plus importante.
+VOCAB: un botaniste = un spécialiste des plantes = Un botaniste étudie les fleurs. ; dense = épais, serré = Une forêt dense. ; un plant = une jeune plante destinée à être plantée = Des plants de tomates. ; tempérer = modérer = Tempérer son optimisme.
+EXPR: à peine = tout juste, pas plus de = Il a à peine dix ans. ; tempérer l'enthousiasme = modérer la joie ou l'optimisme = Les résultats tempèrent l'enthousiasme. ; être associé à = participer à = Les salariés sont associés aux décisions.
+PIEGES: « Dix fois plus vite » est une affirmation des promoteurs, peu vérifiée. ; La mortalité est liée au manque d'entretien. ; Les écologues ne rejettent pas la méthode.
+
+## CE-ENV-08 | tribune
+TITRE: Le climat, une affaire de justice
+DOC: On parle souvent du changement climatique comme d'un problème commun à toute l'humanité. C'est vrai, mais incomplet. Car nous ne sommes ni également responsables, ni également exposés. Les 10 % les plus riches de la population mondiale sont à l'origine d'environ la moitié des émissions de gaz à effet de serre, tandis que les plus pauvres, qui émettent très peu, subissent le plus durement les sécheresses, les inondations et les mauvaises récoltes. ¶ Cette injustice existe aussi à l'intérieur des pays. Un ménage aisé, qui prend l'avion plusieurs fois par an et vit dans une grande maison, émet bien davantage qu'un ménage modeste. Pourtant, ce dernier est souvent le plus touché par les mesures écologiques, comme les taxes sur le carburant, faute d'alternative à la voiture. ¶ Une politique climatique qui ignorerait ces inégalités serait vouée à l'échec, car elle serait rejetée par ceux qui en supportent le coût sans en avoir créé le problème. L'écologie ne sera acceptée que si elle est juste.
+Q: Pourquoi l'auteur juge-t-il « incomplète » l'idée d'un problème commun ? | argumentation
++ Parce que la responsabilité et l'exposition sont très inégales. | « Nous ne sommes ni également responsables, ni également exposés. »
+- Parce que le climat ne change pas partout. | Ce n'est pas dit.
+- Parce que seuls les pauvres polluent. | C'est l'inverse.
+- Parce que le climat n'est pas un problème. | Il ne le conteste pas.
+EXP: La concession « C'est vrai, mais incomplet » introduit la nuance.
+Q: Quelle injustice le deuxième paragraphe décrit-il ? | compréhension détaillée
++ Les ménages modestes, qui polluent moins, sont plus touchés par certaines taxes. | « Ce dernier est souvent le plus touché par les mesures écologiques… faute d'alternative à la voiture. »
+- Les ménages aisés paient toutes les taxes. | Ce n'est pas dit.
+- Les ménages modestes prennent souvent l'avion. | C'est l'inverse.
+- Les taxes sur le carburant ont été supprimées. | Ce n'est pas évoqué.
+EXP: « Ce dernier » renvoie au ménage modeste.
+Q: Quelle est la conclusion de l'auteur ? | synthèse
++ Une politique climatique doit être équitable pour être acceptée. | « L'écologie ne sera acceptée que si elle est juste. »
+- Il faut renoncer aux politiques climatiques. | Ce n'est pas le propos.
+- Les pays pauvres doivent polluer davantage. | Ce n'est pas dit.
+- Les riches doivent quitter les pays pauvres. | Ce n'est pas évoqué.
+EXP: La structure « ne… que si » exprime une condition nécessaire.
+VOCAB: exposé = soumis à un risque = Les côtes sont exposées aux tempêtes. ; aisé = qui a de l'argent = Une famille aisée. ; une alternative = une autre possibilité = Il n'y a pas d'alternative. ; voué à = destiné à = Ce projet est voué à l'échec.
+EXPR: être à l'origine de = causer = Il est à l'origine du projet. ; supporter le coût = payer, subir les conséquences = Les consommateurs supportent le coût de la crise. ; faute d'alternative = parce qu'il n'y a pas d'autre solution = Faute d'alternative, il a accepté.
+PIEGES: L'auteur ne nie pas que le climat concerne tout le monde. ; « Ce dernier » désigne le ménage modeste. ; La dernière phrase pose une condition, pas un constat.
