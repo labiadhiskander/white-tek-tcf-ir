@@ -1,0 +1,500 @@
+@code B2-BLANC-07
+@series B2
+@title Examen blanc B2 n° 7 – Technologie et numérique
+@level B2
+@description Examen complet de niveau B2 aux durées officielles : outils numériques, démarches en ligne, données personnelles, intelligence artificielle.
+
+## CO 1 | B2 | message vocal | intention | H:fr-FR
+DOC: H: Bonjour Madame Leroy, ici Thomas, du service informatique. Nous avons remarqué plusieurs tentatives de connexion inhabituelles sur votre compte de messagerie cette nuit, depuis l'étranger. Par précaution, nous avons bloqué l'accès. Pourriez-vous passer à notre bureau, ou me rappeler, pour que nous changions ensemble votre mot de passe ? Surtout, ne répondez à aucun courriel qui vous demanderait vos identifiants.
+Q: Pourquoi Thomas appelle-t-il Mme Leroy ?
++ Pour la prévenir d'un risque de piratage et sécuriser son compte. | Il signale des connexions suspectes et propose de changer le mot de passe.
+- Pour lui demander ses identifiants par téléphone. | Il recommande au contraire de ne les donner à personne.
+- Pour lui annoncer la suppression de son compte. | L'accès est seulement bloqué par précaution.
+- Pour lui proposer une formation en informatique. | Il ne parle pas de formation.
+EXP: Le message expose un problème, une mesure déjà prise et une action à faire ensemble. Le dernier conseil (« surtout, ne répondez à aucun courriel… ») renforce l'objectif de sécurité.
+
+## CO 2 | B2 | reportage radio | information précise | F:fr-FR
+DOC: F: Dans cette commune, la mairie a ouvert un espace numérique où des conseillers aident gratuitement les habitants à effectuer leurs démarches en ligne : déclaration d'impôts, demande de carte grise, dossier de retraite. L'accueil se fait sans rendez-vous le matin, et uniquement sur rendez-vous l'après-midi, pour les démarches qui demandent plus de temps.
+Q: Quand faut-il prendre rendez-vous ?
++ Pour venir l'après-midi. | L'accueil se fait « uniquement sur rendez-vous l'après-midi ».
+- Pour toutes les démarches. | Le matin, l'accueil se fait sans rendez-vous.
+- Pour la déclaration d'impôts uniquement. | Le rendez-vous dépend de l'horaire, pas de la démarche.
+- Pour obtenir de l'aide le matin. | Le matin est sans rendez-vous.
+EXP: L'opposition « sans rendez-vous le matin » et « uniquement sur rendez-vous l'après-midi » est l'information clé. La justification (démarches longues) explique cette organisation.
+
+## CO 3 | B2 | conversation | opinion | F:fr-FR, H:fr-FR
+DOC: F: Tu as vu ? L'école de Léa va interdire les téléphones même pendant les récréations. / H: Moi, je trouve ça très bien. Les enfants recommencent à jouer ensemble, à se parler. / F: Je ne suis pas contre, mais je me demande comment ils vont apprendre à utiliser le téléphone de façon raisonnable si on le leur retire complètement. Il faudrait plutôt des cours sur le sujet.
+Q: Quelle est la position de la femme sur l'interdiction ?
++ Elle l'accepte, mais doute qu'elle suffise à éduquer les enfants. | « je ne suis pas contre, mais… il faudrait plutôt des cours ».
+- Elle y est totalement opposée. | Elle dit « je ne suis pas contre ».
+- Elle la trouve parfaite, comme l'homme. | Elle exprime une réserve.
+- Elle veut qu'on interdise aussi les ordinateurs. | Elle n'en parle pas.
+EXP: La femme nuance sa position avec « je ne suis pas contre, mais ». Sa proposition finale au conditionnel révèle sa préoccupation : l'apprentissage d'un usage raisonnable.
+
+## CO 4 | B2 | annonce publique | information précise | H:fr-FR
+DOC: H: Information aux usagers : en raison d'une opération de maintenance, le site internet de la caisse d'allocations familiales sera inaccessible ce dimanche de huit heures à quatorze heures. Les déclarations trimestrielles pourront être effectuées jusqu'au mardi suivant sans aucune pénalité. Nous vous prions de nous excuser pour la gêne occasionnée.
+Q: Quelle mesure est prise pour les usagers ?
++ Le délai des déclarations est prolongé. | Elles « pourront être effectuées jusqu'au mardi suivant sans aucune pénalité ».
+- Une permanence téléphonique est ouverte le dimanche. | Ce n'est pas mentionné.
+- Les déclarations sont supprimées ce trimestre. | Elles sont seulement repoussées.
+- Le site sera fermé toute la semaine. | Il est fermé six heures le dimanche.
+EXP: L'annonce donne la cause (maintenance), la durée de l'interruption et une compensation. La précision « sans aucune pénalité » est essentielle.
+
+## CO 5 | B2 | interview radio | compréhension globale | H:fr-FR, F:fr-FR
+DOC: H: Vous avez créé un atelier de réparation d'ordinateurs. Quel est le principe ? / F: Les gens apportent leur ordinateur en panne, et des bénévoles leur apprennent à le réparer eux-mêmes. Souvent, il suffit de changer une pièce ou de réinstaller un logiciel. Un ordinateur réparé, c'est un appareil qui ne finit pas à la poubelle, et c'est autant de métaux rares qu'on n'a pas besoin d'extraire. Et puis, les gens repartent fiers.
+Q: De quoi parle principalement l'interview ?
++ D'un atelier qui apprend à réparer et qui limite les déchets. | Elle présente le principe et ses avantages écologiques et humains.
+- D'une entreprise qui vend des ordinateurs neufs. | L'atelier répare des appareils existants.
+- De la pénurie de métaux rares. | C'est un argument secondaire.
+- D'une formation professionnelle d'informaticien. | Les bénévoles aident des particuliers.
+EXP: L'interview décrit un fonctionnement, puis ses bénéfices (environnement, fierté). Le thème principal réunit le principe et ses effets.
+
+## CO 6 | B2 | chronique radio | inférence | F:fr-FR
+DOC: F: J'ai installé une application qui mesure mon temps d'écran. Résultat : quatre heures par jour, dont une bonne partie à faire défiler des vidéos dont je ne me souviens même pas. L'application m'envoie maintenant une notification quand je dépasse mon objectif. Le plus drôle, c'est qu'il me faut une application de plus pour passer moins de temps sur mon téléphone.
+Q: Que laisse entendre la chroniqueuse ?
++ Elle trouve paradoxal de lutter contre l'écran avec un outil numérique. | « Le plus drôle, c'est qu'il me faut une application de plus… ».
+- Elle pense que quatre heures d'écran sont raisonnables. | Elle semble surprise par ce chiffre.
+- Elle se souvient de toutes les vidéos regardées. | Elle ne s'en souvient « même pas ».
+- Elle a supprimé son téléphone. | Elle utilise encore des applications.
+EXP: La chroniqueuse ne critique pas directement, mais l'expression « le plus drôle, c'est que » souligne une contradiction ironique.
+
+## CO 7 | B2 | débat radio | opinion | H:fr-FR, F:fr-FR
+DOC: H: Faut-il avoir peur de l'intelligence artificielle au travail ? / F: Je crois qu'il faut surtout s'y préparer. Certaines tâches répétitives vont disparaître, c'est certain. Mais chaque grande innovation a aussi créé de nouveaux métiers. Le vrai risque, ce serait de laisser les salariés seuls face à ces changements, sans formation. Les entreprises et l'État ont une responsabilité.
+Q: Quelle est l'opinion de la femme ?
++ Il faut former les salariés pour les accompagner dans ce changement. | « Le vrai risque, ce serait de les laisser… sans formation ».
+- L'intelligence artificielle va supprimer tous les emplois. | Elle évoque aussi de nouveaux métiers.
+- L'intelligence artificielle ne changera rien au travail. | Certaines tâches « vont disparaître ».
+- Seuls les salariés sont responsables de leur adaptation. | Elle cite la responsabilité des entreprises et de l'État.
+EXP: La femme reformule la question (« s'y préparer » plutôt qu'« avoir peur »), reconnaît un risque, puis identifie « le vrai risque ». Cette expression signale son opinion principale.
+
+## CO 8 | B2 | message professionnel | information précise | F:fr-FR
+DOC: F: Bonjour Monsieur Kaci, ici le service client de votre opérateur. Votre nouvelle box internet a été expédiée et sera livrée en point relais sous trois jours ouvrés. Vous recevrez un code par SMS pour la retirer. Merci de nous renvoyer votre ancien boîtier dans un délai de trente jours, avec l'étiquette prépayée fournie, faute de quoi il vous sera facturé.
+Q: Que doit faire M. Kaci avec son ancien boîtier ?
++ Le renvoyer dans le mois avec l'étiquette fournie. | « dans un délai de trente jours, avec l'étiquette prépayée ».
+- Le déposer au point relais en retirant la nouvelle box. | Ce n'est pas indiqué.
+- Le garder comme appareil de secours. | Il doit le renvoyer.
+- Le jeter dans une déchetterie. | Il doit le retourner à l'opérateur.
+EXP: Le message enchaîne deux consignes : retrait du nouveau matériel et retour de l'ancien. « Faute de quoi » introduit la conséquence en cas d'oubli.
+
+## CO 9 | B2 | interview | intention | H:fr-FR, F:fr-FR
+DOC: H: Vous êtes avocate spécialisée dans le numérique. Que conseillez-vous aux parents qui publient des photos de leurs enfants sur les réseaux ? / F: De réfléchir avant de cliquer. Une photo publiée peut être copiée et circuler pendant des années. L'enfant n'a pas donné son accord, et à l'adolescence, il peut être gêné, voire harcelé à cause de ces images. Partagez plutôt vos photos dans un cercle privé, avec la famille proche.
+Q: Quelle est l'intention de l'avocate ?
++ Mettre en garde les parents et leur proposer une pratique plus prudente. | Elle explique les risques puis conseille un « cercle privé ».
+- Interdire aux parents de photographier leurs enfants. | Elle recommande seulement de limiter le partage.
+- Encourager la publication de photos sur les réseaux. | Elle conseille de « réfléchir avant de cliquer ».
+- Expliquer comment devenir avocate. | Ce n'est pas le sujet.
+EXP: La réponse combine un avertissement (risques durables, harcèlement) et une recommandation à l'impératif. C'est la structure typique d'un conseil.
+
+## CO 10 | B2 | reportage | compréhension globale | H:fr-FR
+DOC: H: Dans cette petite entreprise de transport, les salariés testent depuis six mois la semaine de quatre jours, rendue possible par de nouveaux logiciels qui automatisent la facturation et la planification des tournées. Les tâches administratives prennent deux fois moins de temps. Résultat : le chiffre d'affaires est stable, les arrêts maladie ont diminué, et le patron a reçu deux fois plus de candidatures pour ses offres d'emploi.
+Q: Quel est le sujet du reportage ?
++ Les effets positifs d'une réorganisation du travail permise par le numérique. | Les logiciels permettent la semaine de quatre jours, avec de bons résultats.
+- La faillite d'une entreprise de transport. | Le chiffre d'affaires est stable.
+- Le remplacement des chauffeurs par des robots. | Les logiciels automatisent des tâches administratives.
+- La difficulté à recruter des salariés. | Les candidatures ont au contraire doublé.
+EXP: Le reportage présente une expérimentation, son moyen (les logiciels) et un bilan introduit par « résultat ». Ce bilan positif donne le sens global.
+
+## CO 11 | B2 | conversation administrative | information précise | F:fr-FR, H:fr-FR
+DOC: F: Bonjour, je n'arrive pas à me connecter à mon espace en ligne, j'ai oublié mon mot de passe. / H: Vous pouvez cliquer sur « mot de passe oublié » : un lien vous sera envoyé par courriel. Mais attention, il n'est valable qu'une heure. Si vous n'avez plus accès à votre adresse électronique, il faudra venir au guichet avec une pièce d'identité pour la modifier.
+Q: Quand la femme devra-t-elle se déplacer au guichet ?
++ Si elle ne peut plus consulter son adresse électronique. | « Si vous n'avez plus accès à votre adresse électronique, il faudra venir au guichet ».
+- Si elle a oublié son mot de passe. | Un lien suffit dans ce cas.
+- Si elle veut se connecter pour la première fois. | Ce n'est pas mentionné.
+- Si elle n'a pas de pièce d'identité. | La pièce d'identité est demandée au guichet.
+EXP: L'employé présente une procédure normale, puis une exception introduite par « si ». La mise en garde sur la durée du lien est un détail supplémentaire.
+
+## CO 12 | B2 | chronique | opinion | H:fr-FR
+DOC: H: On nous vend les objets connectés comme un progrès. Un réfrigérateur qui commande le lait, une brosse à dents qui envoie des statistiques… Mais qui lit les conditions d'utilisation ? Ces objets collectent des données sur nos habitudes les plus intimes, et on ne sait pas toujours à qui elles sont revendues. Avant d'acheter, demandons-nous si le service rendu vaut vraiment ce que nous donnons en échange.
+Q: Quelle est l'opinion du chroniqueur ?
++ Les objets connectés posent des questions sur l'utilisation de nos données. | « on ne sait pas toujours à qui elles sont revendues ».
+- Les objets connectés sont un progrès sans inconvénient. | Il met en doute cette présentation.
+- Il faut interdire les réfrigérateurs connectés. | Il invite à réfléchir, pas à interdire.
+- Les conditions d'utilisation sont faciles à comprendre. | Il suggère que personne ne les lit.
+EXP: Le chroniqueur part d'un discours commercial, pose une question rhétorique et termine par une invitation à réfléchir (« demandons-nous »).
+
+## CO 13 | B2 | interview radio | inférence | F:fr-FR, H:fr-FR
+DOC: F: Votre application de covoiturage rural fonctionne-t-elle ? / H: Techniquement, oui. Mais nous avons vite compris que beaucoup de personnes âgées n'utilisaient pas de smartphone. Aujourd'hui, on peut aussi réserver par téléphone, auprès d'une vraie personne, à la mairie. Et c'est ce canal qui représente près de la moitié des trajets.
+Q: Que peut-on comprendre de cette interview ?
++ L'application seule ne suffisait pas à répondre aux besoins des habitants. | Une réservation par téléphone a dû être ajoutée et représente la moitié des trajets.
+- L'application ne fonctionne pas techniquement. | Il dit « techniquement, oui ».
+- Les personnes âgées refusent le covoiturage. | Elles l'utilisent par téléphone.
+- La mairie a remplacé l'application. | Les deux canaux coexistent.
+EXP: L'homme ne dit pas que l'application était insuffisante, mais le poids du canal téléphonique le montre clairement.
+
+## CO 14 | B2 | annonce radio | information précise | F:fr-FR
+DOC: F: La médiathèque propose un atelier gratuit pour apprendre à repérer les arnaques sur internet, le samedi 12 à dix heures. Il s'adresse en priorité aux seniors, mais reste ouvert à tous dans la limite des places disponibles. Les participants sont invités à venir avec leur propre téléphone ou tablette, afin de travailler sur leurs propres réglages.
+Q: Que doivent apporter les participants ?
++ Leur téléphone ou leur tablette. | « venir avec leur propre téléphone ou tablette ».
+- Un ordinateur portable. | Ce n'est pas mentionné.
+- Une pièce d'identité. | Ce n'est pas demandé.
+- Le paiement de l'atelier. | L'atelier est gratuit.
+EXP: L'annonce précise le public prioritaire, les conditions d'accès et le matériel. La justification (« afin de travailler sur leurs propres réglages ») aide à comprendre la consigne.
+
+## CO 15 | B2 | conversation | intention | H:fr-FR, F:fr-FR
+DOC: H: Je viens de recevoir un SMS de ma banque : je dois cliquer sur un lien pour débloquer ma carte. / F: Attends ! Ta banque ne t'envoie jamais de lien comme ça. Regarde le numéro, il est bizarre. Ne clique surtout pas. Appelle plutôt le numéro qui est au dos de ta carte, tu sauras tout de suite si c'est vrai.
+Q: Que veut faire la femme ?
++ Empêcher son ami de tomber dans une escroquerie. | Elle le met en garde et propose de vérifier par un canal sûr.
+- L'aider à débloquer sa carte en ligne. | Elle lui dit de ne pas cliquer.
+- Lui conseiller de changer de banque. | Ce n'est pas évoqué.
+- Lui reprocher d'avoir perdu sa carte. | La carte n'est pas perdue.
+EXP: Les impératifs (« attends », « ne clique surtout pas », « appelle plutôt ») et l'argument sur les pratiques des banques révèlent une intention de protection.
+
+## CO 16 | B2 | reportage | compréhension globale | F:fr-FR
+DOC: F: Les centres de données, qui hébergent nos courriels, nos photos et nos vidéos, consomment une énergie considérable, notamment pour refroidir leurs serveurs. Dans cette ville, un centre récupère désormais la chaleur produite pour chauffer une piscine municipale et plusieurs immeubles voisins. Une manière de transformer un problème en ressource.
+Q: Quel est le thème du reportage ?
++ La réutilisation de la chaleur produite par un centre de données. | La chaleur sert à « chauffer une piscine municipale et plusieurs immeubles ».
+- La fermeture des centres de données. | Le centre fonctionne toujours.
+- La construction d'une nouvelle piscine. | La piscine existe déjà et bénéficie du système.
+- Le coût des abonnements internet. | Ce n'est pas mentionné.
+EXP: Le reportage pose un problème (consommation d'énergie), puis présente une solution. La dernière phrase résume l'idée : « transformer un problème en ressource ».
+
+## CO 17 | B2 | interview | opinion | H:fr-FR, F:fr-FR
+DOC: H: Le télétravail est-il bon pour les salariés ? / F: Pour beaucoup, oui : moins de transports, plus de concentration. Mais il ne faut pas en faire une règle absolue. Les jeunes recrues, en particulier, apprennent énormément en observant leurs collègues. Deux ou trois jours par semaine au bureau me semblent un bon équilibre.
+Q: Quelle est l'opinion de la femme sur le télétravail ?
++ Il est bénéfique s'il est combiné avec une présence au bureau. | « Deux ou trois jours par semaine au bureau me semblent un bon équilibre ».
+- Il devrait être obligatoire pour tous. | Elle refuse « une règle absolue ».
+- Il est mauvais pour tous les salariés. | Elle cite ses avantages.
+- Il est surtout adapté aux jeunes recrues. | Elles ont au contraire besoin du bureau.
+EXP: La femme reconnaît les avantages, introduit une limite avec « mais » et conclut par une proposition d'équilibre.
+
+## CO 18 | B2 | message vocal | information précise | H:fr-FR
+DOC: H: Bonjour Madame Petit, ici le cabinet du docteur Morel. Suite à votre demande, votre téléconsultation est confirmée pour jeudi à dix heures trente. Vous recevrez un lien par courriel quinze minutes avant le rendez-vous. Pensez à vous installer dans un endroit calme et à préparer votre carte Vitale ainsi que la liste de vos médicaments.
+Q: Quand Mme Petit recevra-t-elle le lien de connexion ?
++ Un quart d'heure avant le rendez-vous. | « quinze minutes avant le rendez-vous ».
+- La veille au soir. | Ce n'est pas indiqué.
+- Immédiatement après ce message. | Le lien arrivera plus tard.
+- Jeudi à dix heures trente. | C'est l'heure du rendez-vous.
+EXP: Le message contient deux repères temporels (l'heure du rendez-vous et l'envoi du lien). « Quinze minutes » correspond à « un quart d'heure ».
+
+## CO 19 | B2 | débat | inférence | F:fr-FR, H:fr-FR
+DOC: F: Les élèves utilisent l'intelligence artificielle pour faire leurs devoirs. Il faut l'interdire ! / H: Interdire quelque chose qu'on peut utiliser chez soi en deux secondes ? Bonne chance. On ferait mieux de changer les devoirs : demander aux élèves d'expliquer à l'oral leur raisonnement, ou de critiquer une réponse produite par la machine.
+Q: Que sous-entend l'homme ?
++ Une interdiction serait impossible à faire respecter. | Sa réaction ironique (« Bonne chance ») le montre.
+- L'intelligence artificielle est dangereuse pour les élèves. | Il propose de l'intégrer aux exercices.
+- Les devoirs doivent être supprimés. | Il propose de les transformer.
+- Les élèves n'utilisent pas l'intelligence artificielle. | Il ne conteste pas ce constat.
+EXP: L'homme répond par une question rhétorique et un « Bonne chance » ironique. Ces procédés expriment son scepticisme sans le dire directement.
+
+## CO 20 | B2 | conférence | compréhension globale | H:fr-FR
+DOC: H: On parle souvent de fracture numérique comme d'un problème d'équipement. Or, aujourd'hui, la plupart des foyers possèdent un téléphone connecté. La véritable fracture se situe ailleurs : dans la capacité à utiliser ces outils pour remplir un formulaire administratif, comparer des offres ou repérer une fausse information. C'est une question de compétences, et donc de formation.
+Q: Quelle idée principale le conférencier défend-il ?
++ La fracture numérique concerne surtout les compétences, plus que l'équipement. | « La véritable fracture se situe ailleurs… C'est une question de compétences ».
+- La plupart des foyers n'ont pas de téléphone. | Il affirme le contraire.
+- Les formulaires administratifs devraient être supprimés. | Ce n'est pas sa proposition.
+- La fracture numérique a disparu. | Il la redéfinit, sans dire qu'elle a disparu.
+EXP: « Or » introduit une objection à l'idée courante, puis « la véritable fracture » présente la thèse. La conclusion (« donc de formation ») en tire la conséquence.
+
+## CO 21 | B2 | interview radio | intention | F:fr-FR, H:fr-FR
+DOC: F: Pourquoi votre entreprise a-t-elle décidé de couper la messagerie professionnelle le soir et le week-end ? / H: Nos salariés recevaient des courriels à toute heure et se sentaient obligés de répondre. Plusieurs se sont retrouvés épuisés. Le droit à la déconnexion existe dans la loi, mais il faut l'organiser concrètement. Depuis, la satisfaction des équipes a nettement augmenté, et le travail est fait aussi bien.
+Q: Que cherche à faire le dirigeant ?
++ Justifier une décision et montrer qu'elle donne de bons résultats. | Il explique la cause et présente le bilan positif.
+- Critiquer la loi sur le droit à la déconnexion. | Il s'appuie sur cette loi.
+- Annoncer de nouveaux horaires de travail. | Il parle de messagerie, pas d'horaires.
+- Reconnaître que le travail est moins bien fait. | Il dit qu'il est « fait aussi bien ».
+EXP: La réponse suit le schéma cause, principe, résultat. Le bilan final sert d'argument pour convaincre.
+
+## CO 22 | B2 | reportage | information précise | H:fr-FR
+DOC: H: À partir du mois prochain, les habitants pourront signaler un problème dans la rue, comme un lampadaire en panne ou un dépôt sauvage, grâce à une application municipale. Il suffira de prendre une photo et de la géolocaliser. Les services de la ville s'engagent à répondre sous quarante-huit heures et à informer l'habitant lorsque le problème sera réglé.
+Q: À quoi la ville s'engage-t-elle ?
++ À répondre en deux jours et à prévenir quand le problème est résolu. | « répondre sous quarante-huit heures et à informer l'habitant ».
+- À régler tous les problèmes en vingt-quatre heures. | Il s'agit d'une réponse sous quarante-huit heures.
+- À verser une récompense aux habitants. | Ce n'est pas mentionné.
+- À installer de nouveaux lampadaires. | Le lampadaire n'est qu'un exemple.
+EXP: Le reportage décrit le fonctionnement, puis l'engagement de la ville. Ne confondez pas le délai de réponse et le délai de résolution.
+
+## CO 23 | B2 | conversation | opinion | F:fr-FR, H:fr-FR
+DOC: F: J'ai acheté un téléphone reconditionné. Il est comme neuf et m'a coûté deux fois moins cher. / H: Je n'ose pas. J'ai peur qu'il tombe en panne au bout de trois mois. / F: Il est garanti un an, comme un neuf ! Et franchement, fabriquer un téléphone neuf, c'est énormément de ressources. Je ne vois aucune raison de m'en priver.
+Q: Quelle est l'opinion de la femme sur les téléphones reconditionnés ?
++ Ils sont avantageux, économiquement et écologiquement. | Elle cite le prix, la garantie et les ressources économisées.
+- Ils tombent souvent en panne. | C'est la crainte de l'homme.
+- Ils ne sont pas garantis. | « Il est garanti un an ».
+- Ils sont plus chers que les neufs. | Il « m'a coûté deux fois moins cher ».
+EXP: La femme répond à l'objection de l'homme par un fait (la garantie), puis ajoute un argument écologique. Sa conclusion confirme son opinion.
+
+## CO 24 | B2 | annonce | inférence | H:fr-FR
+DOC: H: Chers clients, nous vous rappelons que notre magasin n'accepte plus les paiements par chèque. Les paiements en espèces restent possibles aux caisses traditionnelles. Les caisses automatiques, situées à l'entrée, acceptent uniquement les cartes bancaires et le paiement sans contact.
+Q: Que peut-on comprendre de cette annonce ?
++ Un client qui veut payer en espèces doit passer par une caisse avec caissier. | Les caisses automatiques acceptent « uniquement les cartes bancaires ».
+- On peut payer par chèque aux caisses automatiques. | Les chèques ne sont plus acceptés.
+- Les espèces sont refusées dans le magasin. | Elles « restent possibles aux caisses traditionnelles ».
+- Le magasin supprime toutes ses caisses traditionnelles. | Rien ne l'indique.
+EXP: L'annonce ne dit pas directement où payer en espèces, mais en combinant les deux dernières phrases, on comprend que les caisses automatiques ne conviennent pas à ce mode de paiement.
+
+## CO 25 | B2 | entretien radio | compréhension globale | F:fr-FR, H:fr-FR
+DOC: F: Vous animez des ateliers de programmation pour les filles de dix à quinze ans. Pourquoi ? / H: Parce que les métiers du numérique restent très masculins, alors qu'ils offrent de nombreux débouchés. Beaucoup de filles pensent que ce n'est pas pour elles, simplement parce qu'elles n'ont pas de modèle. Dans nos ateliers, elles créent leur premier jeu en une journée, et elles rencontrent des ingénieures. Souvent, ça change leur regard.
+Q: Quel est l'objectif principal de ces ateliers ?
++ Encourager les filles à envisager les métiers du numérique. | Il veut lutter contre l'idée que « ce n'est pas pour elles ».
+- Former des ingénieures en une journée. | Les filles créent un premier jeu, pas une formation complète.
+- Vendre des jeux vidéo créés par des enfants. | Ce n'est pas mentionné.
+- Prouver que les garçons sont meilleurs en programmation. | Il veut au contraire réduire l'inégalité.
+EXP: L'homme explique un constat (métiers masculins), sa cause (absence de modèles) et la réponse apportée. L'objectif est de changer les représentations.
+
+## CE 1 | B2 | règlement intérieur | information précise
+DOC: Charte informatique de l'entreprise – Extraits. Article 1 : Les outils informatiques sont réservés à un usage professionnel ; un usage personnel ponctuel est toléré s'il ne nuit pas au travail. Article 3 : Il est interdit d'installer un logiciel sans l'accord du service informatique. Article 5 : Le mot de passe est strictement personnel et doit être modifié tous les trois mois. Article 6 : Toute perte d'ordinateur portable doit être signalée dans les vingt-quatre heures.
+Q: Que dit la charte sur l'usage personnel des outils ?
++ Il est accepté occasionnellement s'il ne gêne pas le travail. | « un usage personnel ponctuel est toléré s'il ne nuit pas au travail ».
+- Il est strictement interdit. | Il est « toléré ».
+- Il nécessite l'accord du service informatique. | Cet accord concerne l'installation de logiciels.
+- Il est autorisé sans aucune limite. | Il doit être « ponctuel ».
+EXP: Le verbe « tolérer » indique une permission limitée. La condition « s'il ne nuit pas au travail » complète la règle.
+
+## CE 2 | B2 | article de presse | compréhension globale
+DOC: Les achats d'occasion sur internet explosent. Vêtements, meubles, téléphones : les plateformes de revente entre particuliers séduisent par leurs prix et par l'argument écologique. Mais certains observateurs s'interrogent. Pour beaucoup d'utilisateurs, revendre facilement devient une raison d'acheter davantage, sachant qu'ils pourront se débarrasser rapidement de leurs achats. L'occasion, censée réduire la consommation, pourrait parfois l'encourager.
+Q: Quelle question l'article soulève-t-il ?
++ La revente d'occasion pourrait paradoxalement stimuler la consommation. | « L'occasion… pourrait parfois l'encourager ».
+- Les plateformes de revente sont trop chères. | Elles séduisent « par leurs prix ».
+- L'occasion est mauvaise pour l'environnement dans tous les cas. | L'article parle d'un effet possible, « parfois ».
+- Les particuliers ne revendent plus leurs objets. | Les achats d'occasion « explosent ».
+EXP: L'article présente un succès, puis introduit un doute (« mais certains observateurs s'interrogent »). Le conditionnel « pourrait » formule le paradoxe avec prudence.
+
+## CE 3 | B2 | courrier des lecteurs | opinion
+DOC: J'ai soixante-dix-huit ans et je voudrais réagir à votre article sur la dématérialisation des services publics. Je sais me servir d'un ordinateur, mais je ne comprends pas pourquoi il faut désormais trois identifiants et un code reçu par SMS pour consulter ma retraite. La sécurité, d'accord. Mais n'oublions pas ceux pour qui chaque étape est un obstacle. Un guichet ouvert, avec une vraie personne, devrait toujours rester possible.
+Q: Que demande l'auteur de la lettre ?
++ Le maintien d'un accueil humain à côté des démarches en ligne. | « Un guichet ouvert, avec une vraie personne, devrait toujours rester possible ».
+- La suppression de toutes les démarches en ligne. | Il demande une alternative, pas une suppression.
+- Un cours d'informatique gratuit. | Il dit savoir se servir d'un ordinateur.
+- L'abandon des mesures de sécurité. | Il dit « la sécurité, d'accord ».
+EXP: L'auteur concède l'intérêt de la sécurité, puis exprime sa réserve avec « mais ». Sa demande finale est au conditionnel (« devrait »).
+
+## CE 4 | B2 | offre d'emploi | information précise
+DOC: Association d'aide au numérique recrute un conseiller numérique (H/F) en contrat à durée déterminée de dix-huit mois. Missions : accompagner les habitants dans leurs démarches en ligne, animer des ateliers collectifs, intervenir dans les maisons de retraite. Profil : sens de la pédagogie, patience, permis B indispensable pour les déplacements dans les communes rurales. Une formation certifiante sera assurée à l'embauche.
+Q: Quelle exigence est indispensable pour ce poste ?
++ Avoir le permis de conduire. | « permis B indispensable pour les déplacements ».
+- Être déjà certifié en informatique. | La formation est assurée à l'embauche.
+- Avoir travaillé en maison de retraite. | Ce n'est pas exigé.
+- Habiter dans une commune rurale. | Il faut s'y déplacer, pas y habiter.
+EXP: L'adjectif « indispensable » signale l'exigence obligatoire. Les qualités humaines sont souhaitées, et la formation est fournie par l'employeur.
+
+## CE 5 | B2 | éditorial | intention
+DOC: Les géants du numérique aiment se présenter comme des entreprises « gratuites ». Rien n'est plus trompeur. Si vous ne payez pas le service, c'est que vous êtes, d'une certaine façon, le produit : vos données, vos goûts, votre temps d'attention sont vendus aux annonceurs. Il est temps de l'enseigner dès le collège, au même titre que la lecture d'une facture ou d'un contrat.
+Q: Quelle est l'intention de l'éditorialiste ?
++ Dénoncer une fausse gratuité et appeler à éduquer les jeunes. | « Rien n'est plus trompeur… Il est temps de l'enseigner dès le collège ».
+- Faire la publicité d'un réseau social. | Il critique les géants du numérique.
+- Expliquer comment fonctionne une facture. | La facture est un exemple de comparaison.
+- Demander la fermeture des entreprises du numérique. | Il demande une éducation, pas une fermeture.
+EXP: L'éditorial réfute une affirmation (« rien n'est plus trompeur »), l'explique, puis formule une proposition. L'intention est critique et argumentative.
+
+## CE 6 | B2 | courrier administratif | information précise
+DOC: Madame, Monsieur, votre demande de titre de séjour a été déposée en ligne le 3 mars. Votre dossier est en cours d'instruction. Vous pouvez suivre son avancement depuis votre espace personnel. Une attestation de dépôt, téléchargeable dans cet espace, vous permet de justifier de la régularité de votre séjour pendant l'instruction. Vous serez informé par courriel lorsque votre titre sera prêt à être retiré.
+Q: À quoi sert l'attestation de dépôt ?
++ À prouver que le séjour est régulier pendant l'examen du dossier. | Elle permet « de justifier de la régularité de votre séjour pendant l'instruction ».
+- À retirer le titre de séjour. | Le retrait sera annoncé par courriel.
+- À modifier le dossier. | Ce n'est pas mentionné.
+- À prendre rendez-vous en préfecture. | Rien ne l'indique.
+EXP: Le courrier distingue trois éléments : le suivi en ligne, l'attestation et la notification finale. La question porte sur la fonction précise de l'attestation.
+
+## CE 7 | B2 | article | inférence
+DOC: Une étude a suivi des étudiants pendant un semestre. Ceux qui prenaient leurs notes à la main retenaient mieux le contenu des cours que ceux qui tapaient sur ordinateur, même s'ils écrivaient moins de mots. Les chercheurs expliquent qu'en écrivant à la main, on est obligé de reformuler et de sélectionner l'essentiel, alors qu'au clavier, on a tendance à tout recopier mot à mot.
+Q: Que peut-on déduire de cette étude ?
++ Noter plus de mots ne garantit pas une meilleure compréhension. | Ceux qui écrivaient moins retenaient mieux.
+- Les ordinateurs devraient être interdits à l'université. | L'article ne fait pas cette recommandation.
+- Écrire à la main est plus rapide. | Ils écrivaient moins de mots.
+- Recopier mot à mot aide à retenir. | C'est la méthode la moins efficace.
+EXP: L'article ne formule pas la conclusion générale, mais le résultat (moins de mots, meilleure mémorisation) permet de la déduire.
+
+## CE 8 | B2 | notice | information précise
+DOC: Mise en route de votre montre connectée. Avant la première utilisation, chargez complètement la montre pendant deux heures. Téléchargez ensuite l'application et activez le Bluetooth de votre téléphone. La montre résiste aux éclaboussures, mais ne doit pas être utilisée pour la natation ou sous la douche. La garantie ne couvre pas les dommages causés par l'eau.
+Q: Que précise la notice au sujet de l'eau ?
++ Les dégâts liés à l'eau ne sont pas couverts par la garantie. | « La garantie ne couvre pas les dommages causés par l'eau ».
+- La montre peut être utilisée pour nager. | Elle « ne doit pas être utilisée pour la natation ».
+- La montre ne supporte aucune goutte d'eau. | Elle « résiste aux éclaboussures ».
+- La garantie couvre tous les dommages. | Les dommages causés par l'eau sont exclus.
+EXP: La notice nuance la résistance à l'eau (« résiste… mais ne doit pas »). Le distracteur « aucune goutte » est trop absolu.
+
+## CE 9 | B2 | tribune | opinion
+DOC: Certains réclament l'interdiction des réseaux sociaux aux moins de quinze ans. L'intention est louable, mais la mesure est-elle applicable ? Les adolescents savent contourner les contrôles d'âge en quelques clics. Plutôt que de croire à une interdiction, imposons aux plateformes des obligations réelles : supprimer les fonctions qui rendent dépendant, comme le défilement infini, et limiter la publicité ciblée pour les mineurs.
+Q: Quelle est la position de l'auteur ?
++ Il préfère contraindre les plateformes plutôt que de compter sur une interdiction. | « imposons aux plateformes des obligations réelles ».
+- Il soutient pleinement l'interdiction aux moins de quinze ans. | Il doute qu'elle soit applicable.
+- Il pense que les réseaux sociaux sont sans danger. | Il évoque des fonctions qui rendent dépendant.
+- Il veut supprimer toute publicité sur internet. | Il parle de publicité ciblée pour les mineurs.
+EXP: L'auteur reconnaît une bonne intention, la met en doute par une question, puis présente sa propre solution avec « plutôt que ».
+
+## CE 10 | B2 | article | compréhension globale
+DOC: Les assistants vocaux se sont installés dans des millions de foyers. On leur demande la météo, une recette ou de la musique. Pourtant, leur usage reste limité : la plupart des utilisateurs n'exploitent qu'une poignée de fonctions. Les fabricants espéraient en faire des outils d'achat ; ils sont surtout devenus des radios améliorées. Certains constructeurs revoient d'ailleurs leurs ambitions à la baisse.
+Q: Que dit l'article sur les assistants vocaux ?
++ Ils sont répandus mais utilisés de façon beaucoup plus limitée que prévu. | Ils sont « surtout devenus des radios améliorées ».
+- Ils sont devenus les principaux outils d'achat. | C'était l'espoir des fabricants, non réalisé.
+- Ils ont disparu des foyers. | Ils se sont installés dans des millions de foyers.
+- Les utilisateurs exploitent toutes leurs fonctions. | Ils n'en utilisent qu'« une poignée ».
+EXP: « Pourtant » oppose la large diffusion et l'usage limité. La comparaison avec une « radio améliorée » illustre l'écart entre ambitions et réalité.
+
+## CE 11 | B2 | courriel | intention
+DOC: Bonjour à tous, je vous informe que la migration vers notre nouveau logiciel de gestion aura lieu ce week-end. Lundi matin, vos anciens identifiants ne fonctionneront plus : vous recevrez vos nouveaux codes par courriel vendredi soir. Une formation d'une heure est prévue lundi à neuf heures en salle de réunion. Je compte sur la présence de chacun, car aucune autre session n'est prévue. Bonne fin de semaine, Nadia, service informatique
+Q: Pourquoi Nadia écrit-elle ce courriel ?
++ Pour informer d'un changement et organiser la formation de tous. | Elle annonce la migration, l'envoi des codes et une formation obligatoire.
+- Pour annoncer une panne informatique. | Il s'agit d'un changement planifié.
+- Pour demander des idées de nouveau logiciel. | Le logiciel est déjà choisi.
+- Pour annuler une réunion du lundi. | Elle en organise une.
+EXP: Le courriel donne des informations pratiques (dates, codes) et une consigne implicite (« je compte sur la présence de chacun »).
+
+## CE 12 | B2 | article | information précise
+DOC: Le règlement général sur la protection des données, appliqué dans l'Union européenne depuis 2018, donne aux citoyens plusieurs droits. Chacun peut demander à une entreprise quelles données elle possède sur lui, les faire corriger si elles sont inexactes et, dans certains cas, les faire supprimer. En France, la Commission nationale de l'informatique et des libertés peut être saisie en cas de difficulté.
+Q: Que peut faire un citoyen si une entreprise ne respecte pas ses droits ?
++ S'adresser à la Commission nationale de l'informatique et des libertés. | Elle « peut être saisie en cas de difficulté ».
+- Supprimer lui-même les données de l'entreprise. | Il peut seulement le demander.
+- Obtenir automatiquement un dédommagement. | Ce n'est pas mentionné.
+- Porter plainte auprès de l'Union européenne uniquement. | L'article cite un organisme français.
+EXP: L'article énumère des droits, puis indique un recours. La dernière phrase répond directement à la question.
+
+## CE 13 | B2 | essai | inférence
+DOC: À chaque nouvelle technologie, les mêmes inquiétudes reviennent. Au XIXe siècle, on craignait que le train ne rende les voyageurs malades. Plus tard, la télévision devait détruire la lecture, puis les jeux vidéo rendre les enfants violents. Certaines craintes étaient exagérées, d'autres partiellement fondées. Cela ne signifie pas qu'il faille tout accepter, mais qu'il faut examiner chaque innovation avec des faits, et non avec des peurs.
+Q: Que suggère l'auteur ?
++ Il faut juger les nouvelles technologies de façon rationnelle. | « examiner chaque innovation avec des faits, et non avec des peurs ».
+- Toutes les craintes passées étaient fondées. | Certaines « étaient exagérées ».
+- Il faut accepter toutes les innovations. | « Cela ne signifie pas qu'il faille tout accepter ».
+- Le train rendait réellement les voyageurs malades. | C'est une crainte citée comme exemple.
+EXP: L'auteur utilise des exemples historiques pour relativiser les peurs, puis nuance sa conclusion. La dernière phrase donne la clé.
+
+## CE 14 | B2 | annonce | information précise
+DOC: Vente de matériel informatique reconditionné – Lycée professionnel Jean-Jaurès. Les élèves de la filière systèmes numériques ont remis en état une cinquantaine d'ordinateurs portables. Ils seront vendus à prix réduit le samedi 18, de 9 h à 13 h, en priorité aux familles bénéficiaires de bourses, sur présentation d'un justificatif. Les appareils restants seront ensuite proposés à tous. Paiement par chèque ou en espèces uniquement.
+Q: Qui peut acheter un ordinateur en premier ?
++ Les familles qui touchent une bourse et qui le prouvent. | « en priorité aux familles bénéficiaires de bourses, sur présentation d'un justificatif ».
+- Les élèves de la filière systèmes numériques. | Ce sont eux qui ont réparé les ordinateurs.
+- Toutes les personnes présentes dès 9 h. | La priorité est réservée à un public précis.
+- Les clients qui paient par carte. | La carte n'est pas acceptée.
+EXP: L'annonce distingue un public prioritaire et le public général (« ensuite proposés à tous »). La condition du justificatif est importante.
+
+## CE 15 | B2 | article d'opinion | opinion
+DOC: On nous répète que le numérique est immatériel. C'est une illusion. Chaque vidéo regardée, chaque fichier stocké passe par des câbles, des serveurs et des centres de données qui consomment de l'électricité et de l'eau. Le premier geste écologique n'est pas de trier ses courriels, mais de garder ses appareils plus longtemps, car leur fabrication représente l'essentiel de leur impact.
+Q: Selon l'auteur, quel est le geste le plus efficace ?
++ Conserver ses appareils le plus longtemps possible. | « Le premier geste écologique… est de garder ses appareils plus longtemps ».
+- Supprimer régulièrement ses courriels. | Il dit que ce n'est pas le premier geste.
+- Regarder moins de vidéos. | Ce n'est pas sa recommandation principale.
+- Acheter des appareils neufs moins gourmands. | Il souligne au contraire l'impact de la fabrication.
+EXP: La structure « non pas…, mais… » oppose un geste secondaire et le geste prioritaire. La justification finale (« car leur fabrication… ») soutient l'opinion.
+
+## CE 16 | B2 | rapport | compréhension globale
+DOC: Selon un rapport sur les usages numériques, la part des personnes de plus de soixante-quinze ans qui utilisent internet a fortement progressé en dix ans. Cependant, près d'un tiers d'entre elles déclarent renoncer à certaines démarches en ligne par crainte de se tromper. Le rapport recommande de maintenir des alternatives non numériques et de développer l'accompagnement de proximité.
+Q: Quelle est la conclusion principale du rapport ?
++ Malgré des progrès, beaucoup de personnes âgées restent en difficulté et doivent être accompagnées. | Le rapport note des renoncements et recommande un accompagnement.
+- Les personnes âgées n'utilisent pas internet. | Leur usage « a fortement progressé ».
+- Toutes les démarches doivent passer par internet. | Il recommande des alternatives non numériques.
+- Les personnes âgées font moins d'erreurs que les jeunes. | Ce n'est pas comparé.
+EXP: Le rapport présente un progrès, une limite introduite par « cependant » et des recommandations. La conclusion réunit ces éléments.
+
+## CE 17 | B2 | lettre de réclamation | intention
+DOC: Madame, Monsieur, j'ai commandé sur votre site un ordinateur portable livré le 2 mai. Dès le premier jour, l'écran s'est mis à clignoter. J'ai contacté votre service client à trois reprises sans obtenir de réponse. L'appareil étant sous garantie légale de conformité, je vous demande de procéder à son remplacement ou à son remboursement dans un délai de quinze jours. À défaut, je saisirai le médiateur de la consommation.
+Q: Quel est le but de cette lettre ?
++ Exiger une solution en rappelant ses droits et en annonçant un recours possible. | Il cite la garantie légale et menace de saisir le médiateur.
+- Remercier le service client pour sa réactivité. | Il n'a obtenu aucune réponse.
+- Commander un nouvel ordinateur. | Il demande un remplacement au titre de la garantie.
+- Demander des conseils d'utilisation. | L'appareil est défectueux.
+EXP: La lettre expose les faits, rappelle un droit, formule une demande avec un délai et annonce une conséquence (« à défaut »). C'est la structure classique d'une réclamation formelle.
+
+## CE 18 | B2 | article | information précise
+DOC: Affiché sur certains appareils électroniques, l'indice de réparabilité permet aux consommateurs de savoir, avant l'achat, si un produit sera facile à réparer. Noté sur dix, il tient compte de la facilité de démontage, de la disponibilité des pièces détachées et de leur prix. Présent en magasin et sur les sites marchands, il vise à encourager les fabricants à concevoir des produits plus durables.
+Q: Quel critère entre dans le calcul de l'indice ?
++ La disponibilité des pièces détachées. | C'est l'un des critères cités.
+- La couleur de l'appareil. | Ce n'est pas un critère.
+- Le nombre de ventes du produit. | Ce n'est pas mentionné.
+- La durée de livraison. | Rien ne l'indique.
+EXP: L'article énumère trois critères. Repérez l'énumération introduite par « il tient compte de ».
+
+## CE 19 | B2 | chronique | inférence
+DOC: Ma grand-mère m'a appelé en visioconférence pour la première fois hier. Pendant dix minutes, je n'ai vu que son plafond, puis son oreille. Quand elle a enfin trouvé le bon angle, elle m'a montré fièrement le gâteau qu'elle venait de faire. Elle a quatre-vingt-cinq ans et a appris toute seule, avec une vidéo. Je me suis promis de ne plus jamais dire que je n'avais pas le temps d'apprendre quelque chose.
+Q: Que comprend-on à la fin de cette chronique ?
++ L'exemple de sa grand-mère a fait réfléchir l'auteur sur sa propre attitude. | Il se promet « de ne plus jamais dire » qu'il n'a pas le temps.
+- L'auteur trouve sa grand-mère incapable d'utiliser la technologie. | Elle a appris seule et réussi.
+- La grand-mère préfère le téléphone classique. | Elle a choisi la visioconférence.
+- L'auteur va apprendre à faire des gâteaux. | Rien ne l'indique.
+EXP: Le récit est humoristique au début, puis la dernière phrase tire une leçon personnelle. Il faut comprendre le lien entre l'effort de la grand-mère et la résolution de l'auteur.
+
+## CE 20 | B2 | guide pratique | information précise
+DOC: Bien choisir son mot de passe. Utilisez au moins douze caractères, en mélangeant majuscules, minuscules, chiffres et symboles. Évitez les informations personnelles, comme une date de naissance ou le nom d'un animal. N'utilisez jamais le même mot de passe pour plusieurs sites : si l'un d'eux est piraté, tous vos comptes seraient exposés. Un gestionnaire de mots de passe peut vous aider à les retenir.
+Q: Pourquoi ne faut-il pas utiliser le même mot de passe partout ?
++ Parce qu'un seul piratage mettrait en danger tous les comptes. | « si l'un d'eux est piraté, tous vos comptes seraient exposés ».
+- Parce que les sites l'interdisent. | Ce n'est pas mentionné.
+- Parce qu'il serait trop court. | La longueur est une autre règle.
+- Parce qu'on risque de l'oublier. | L'oubli concerne le gestionnaire de mots de passe.
+EXP: La justification suit les deux-points. Le conditionnel « seraient exposés » présente la conséquence d'une situation hypothétique.
+
+## CE 21 | B2 | éditorial | opinion
+DOC: L'intelligence artificielle sait désormais rédiger des lettres, résumer des rapports et produire des images en quelques secondes. Faut-il s'en réjouir ou s'en inquiéter ? Les deux. Ces outils peuvent libérer du temps pour des tâches plus intéressantes. Mais ils peuvent aussi produire des erreurs avec assurance. La règle devrait être simple : utiliser la machine comme un assistant, jamais comme une autorité, et toujours vérifier.
+Q: Quelle est la position de l'éditorialiste ?
++ L'intelligence artificielle est utile à condition d'en vérifier les résultats. | « utiliser la machine comme un assistant, jamais comme une autorité, et toujours vérifier ».
+- L'intelligence artificielle doit être interdite. | Il lui reconnaît des avantages.
+- L'intelligence artificielle ne se trompe jamais. | Elle peut « produire des erreurs avec assurance ».
+- L'intelligence artificielle remplacera bientôt les journalistes. | Ce n'est pas évoqué.
+EXP: L'éditorialiste répond « les deux » à sa propre question, puis présente avantages et risques. Sa règle finale exprime sa position nuancée.
+
+## CE 22 | B2 | article | compréhension globale
+DOC: Dans plusieurs villes, des « cafés sans écran » ont ouvert leurs portes. À l'entrée, les clients déposent leur téléphone dans une boîte. En échange, ils trouvent des jeux de société, des livres et surtout des conversations. Les gérants expliquent que leur clientèle est majoritairement jeune : beaucoup viennent chercher une pause dans une vie où ils se sentent connectés en permanence.
+Q: De quoi parle l'article ?
++ De lieux où l'on renonce au téléphone pour retrouver des échanges directs. | Les clients déposent leur téléphone et trouvent « des conversations ».
+- De cafés réservés aux personnes âgées. | La clientèle est « majoritairement jeune ».
+- De la vente de jeux de société en ligne. | Ce n'est pas le sujet.
+- De l'interdiction des téléphones dans les lieux publics. | Il s'agit d'un choix volontaire.
+EXP: L'article décrit un concept, son fonctionnement et ses clients. La dernière phrase explique le besoin auquel il répond.
+
+## CE 23 | B2 | règlement | inférence
+DOC: Conditions d'utilisation du service de vélos en libre-service. L'abonnement donne droit à des trajets illimités de trente minutes. Au-delà, chaque demi-heure supplémentaire est facturée un euro. Le vélo doit être restitué dans une station ; un vélo laissé hors station entraîne une pénalité de vingt euros. L'utilisateur doit signaler tout problème technique dans l'application avant de reprendre un autre vélo.
+Q: Que peut-on déduire de ce règlement ?
++ Un trajet d'une heure coûte un euro de plus à un abonné. | Les trente premières minutes sont incluses, la demi-heure suivante coûte un euro.
+- Un abonné peut garder un vélo une journée sans frais. | Chaque demi-heure au-delà de trente minutes est facturée.
+- On peut laisser le vélo devant chez soi. | Cela entraîne une pénalité de vingt euros.
+- Il est interdit de prendre un autre vélo en cas de panne. | Il faut seulement signaler le problème d'abord.
+EXP: Le règlement ne donne pas le prix d'un trajet d'une heure, mais on peut le calculer à partir des règles. C'est une inférence par calcul.
+
+## CE 24 | B2 | tribune | intention
+DOC: Je suis développeuse depuis quinze ans, et je lance un appel aux entreprises : rendez vos sites accessibles. Des millions de personnes malvoyantes, malentendantes ou ayant des difficultés motrices ne peuvent pas acheter un billet de train ou remplir un formulaire en ligne. Les solutions existent et coûtent peu si on les prévoit dès la conception. L'accessibilité n'est pas une option : c'est une question d'égalité.
+Q: Que cherche à faire l'auteure ?
++ Inciter les entreprises à concevoir des sites utilisables par tous. | « je lance un appel aux entreprises : rendez vos sites accessibles ».
+- Présenter son parcours professionnel. | Elle le mentionne seulement pour se légitimer.
+- Vendre un logiciel d'accessibilité. | Ce n'est pas mentionné.
+- Critiquer les personnes handicapées. | Elle défend leurs droits.
+EXP: L'appel est explicite (« je lance un appel »). L'argument du coût et la formule finale sur l'égalité visent à convaincre.
+
+## CE 25 | B2 | essai | compréhension globale
+DOC: Nous n'avons jamais eu autant d'informations à portée de main. Pourtant, avoir accès à un savoir ne signifie pas le posséder. Une recherche rapide donne une réponse, mais pas la capacité de la juger, de la relier à d'autres connaissances ou de s'en souvenir. L'école ne doit donc pas renoncer à transmettre des connaissances solides : ce sont elles qui permettent de trier l'information.
+Q: Quelle est la thèse de l'auteur ?
++ Les connaissances restent indispensables pour juger l'information disponible. | « ce sont elles qui permettent de trier l'information ».
+- Internet rend l'école inutile. | Il défend au contraire le rôle de l'école.
+- Il faut limiter l'accès à l'information. | Il ne propose aucune limite.
+- Les recherches en ligne donnent toujours de mauvaises réponses. | Il parle de la capacité à juger, pas de la qualité des réponses.
+EXP: L'essai oppose « avoir accès » et « posséder ». La conclusion introduite par « donc » formule la thèse sur le rôle de l'école.
+
+## EE 1 | B2 | répondre à un message
+CONSIGNE: Votre ami Paul vous écrit : « Je voudrais acheter un ordinateur portable pour mes études, mais je n'ai pas beaucoup d'argent. Tu as des conseils ? » Répondez-lui en donnant deux conseils (30 à 60 mots).
+MODELE: Salut Paul, bonne idée de t'équiper ! D'abord, pense aux ordinateurs reconditionnés : ils sont garantis et coûtent beaucoup moins cher. Ensuite, demande à ton université si elle propose des prêts ou des aides pour les étudiants. Surtout, choisis un modèle léger, puisque tu le porteras tous les jours. Tiens-moi au courant ! Amitiés, Inès
+POINTS: réagir au message ; donner un premier conseil ; donner un second conseil ; formule finale
+COMMENTAIRE: Le message est amical et bien organisé (« d'abord », « ensuite », « surtout »). Les conseils sont réalistes et justifiés, avec une subordonnée de cause (« puisque »).
+CONSEILS: Justifiez chaque conseil en une courte proposition : cela montre votre maîtrise des connecteurs.
+
+## EE 2 | B2 | raconter une expérience
+CONSIGNE: Racontez sur un forum une mésaventure ou une réussite que vous avez vécue avec la technologie (une arnaque évitée, une panne, une découverte utile…) et ce que vous en avez retenu (40 à 90 mots).
+MODELE: L'hiver dernier, j'ai reçu un SMS qui semblait venir de mon opérateur : ma facture n'avait pas été payée et je devais régler immédiatement en cliquant sur un lien. J'étais sur le point de le faire quand j'ai remarqué une faute d'orthographe dans le message. J'ai appelé mon opérateur, qui m'a confirmé qu'il s'agissait d'une arnaque. Depuis, je ne clique plus jamais sur un lien reçu par SMS, et j'ai expliqué cette méthode à mes parents.
+POINTS: situer l'expérience ; raconter les faits ; décrire le moment décisif ; tirer une leçon
+COMMENTAIRE: Le récit est clair et chronologique, avec un moment de tension (« j'étais sur le point de ») et une leçon concrète. Les temps du passé sont bien maîtrisés.
+CONSEILS: Utilisez « être sur le point de » ou « au moment où » pour créer un moment décisif dans votre récit.
+
+## EE 3 | B2 | donner son opinion à partir de deux documents
+CONSIGNE: Document 1 : « Le télétravail améliore la qualité de vie : moins de transports, plus de temps pour sa famille. » Document 2 : « Le télétravail isole les salariés et brouille la frontière entre vie professionnelle et vie privée. » Présentez ces deux opinions, puis donnez votre avis argumenté (40 à 90 mots).
+MODELE: Le premier document présente le télétravail comme un gain de temps et de qualité de vie, alors que le second insiste sur l'isolement et la confusion entre travail et vie privée. Selon moi, ces deux points de vue se complètent. Travailler chez soi deux jours par semaine permet d'éviter la fatigue des trajets, tout en conservant des liens avec ses collègues. Il faudrait néanmoins fixer des horaires précis, afin que chacun puisse vraiment se déconnecter le soir.
+POINTS: résumer le document 1 ; résumer le document 2 ; prendre position ; justifier ; proposer une condition
+COMMENTAIRE: Le candidat reformule fidèlement les deux opinions, adopte une position équilibrée et propose une condition concrète. Les connecteurs (« alors que », « tout en », « néanmoins », « afin que ») sont variés.
+CONSEILS: Une position de compromis doit être précise : chiffrez-la ou décrivez concrètement les conditions.
+
+## EO 1 | B2 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous interroge sur votre utilisation des technologies : les appareils que vous utilisez, ce qu'ils vous apportent, les difficultés que vous rencontrez et votre opinion sur leur place dans la vie quotidienne.
+RELANCES: Pouvez-vous vous présenter ? / Quels outils numériques utilisez-vous au quotidien ? / Le numérique vous aide-t-il dans votre travail ? / Avez-vous déjà eu une mauvaise expérience en ligne ? / Pensez-vous passer trop de temps sur les écrans ?
+PHRASES: J'utilise surtout… / Grâce à…, je peux… / Je fais attention à…
+MODELE: Je m'appelle Ana, j'ai trente-cinq ans et je suis comptable. J'utilise surtout mon ordinateur au travail et mon téléphone pour rester en contact avec ma famille au Brésil. Grâce aux appels vidéo, je peux voir mes neveux grandir, même à distance. En revanche, je fais attention au temps que je passe sur les réseaux sociaux : le soir, je laisse mon téléphone dans une autre pièce. Une fois, j'ai failli payer une fausse facture, et depuis, je vérifie tout.
+COMMENTAIRE: La candidate donne des exemples personnels, nuance son propos (« en revanche ») et raconte brièvement une expérience. Le discours est structuré et naturel.
+CONSEILS: Montrez à la fois les avantages et les limites des technologies dans votre vie : c'est ce qui rend votre réponse nuancée.
+
+## EO 2 | B2 | Résoudre un problème avec son fournisseur internet | Conseiller clientèle
+SCENARIO: Votre connexion internet est coupée depuis une semaine, alors que vous travaillez à domicile. Vous appelez le service client de votre fournisseur (l'examinateur) pour obtenir une solution rapide et un geste commercial.
+RELANCES: Avez-vous redémarré votre box ? / Un technicien peut passer dans dix jours. / Nous ne pouvons pas vous rembourser. / Que souhaitez-vous exactement ?
+PHRASES: Je vous appelle parce que… / Il m'est impossible de… / Je souhaiterais que…
+MODELE: Bonjour, je vous appelle parce que ma connexion est coupée depuis une semaine. Oui, j'ai redémarré ma box plusieurs fois, sans résultat. Le problème, c'est que je travaille à domicile : il m'est impossible d'attendre dix jours. Ne pourriez-vous pas envoyer un technicien plus tôt ? En attendant, je souhaiterais que vous me prêtiez une clé 4G. Je paie un abonnement pour un service que je n'ai pas reçu, donc je demande au moins une réduction sur ma prochaine facture.
+COMMENTAIRE: Le candidat explique clairement la situation, répond aux questions, exprime une contrainte et formule des demandes précises et argumentées. Il reste poli tout en étant ferme.
+CONSEILS: Proposez vous-même des solutions (technicien plus tôt, clé 4G, réduction) : vous gardez ainsi le contrôle de la négociation.
+
+## EO 3 | B2 | Faut-il limiter le temps d'écran des enfants ? | Examinateur
+SCENARIO: Les enfants passent de plus en plus de temps devant les écrans : télévision, tablettes, jeux vidéo. Selon vous, les parents doivent-ils strictement limiter ce temps ? Donnez votre opinion et défendez-la.
+RELANCES: Les écrans permettent aussi d'apprendre. / Tous leurs amis ont une tablette. / Les parents eux-mêmes sont souvent sur leur téléphone. / Quelles règles proposez-vous ?
+PHRASES: Je pense qu'il est nécessaire de… / Il ne s'agit pas de…, mais de… / L'exemple des parents…
+MODELE: Je pense qu'il est nécessaire de limiter le temps d'écran des enfants, surtout avant six ans. Il ne s'agit pas d'interdire, mais de choisir : un documentaire regardé ensemble n'a rien à voir avec des heures de vidéos seul dans sa chambre. Je proposerais des règles simples, comme pas d'écran pendant les repas ni avant de dormir. Cela dit, l'exemple des parents compte beaucoup. Si nous sommes sans cesse sur notre téléphone, comment demander aux enfants de faire autrement ?
+COMMENTAIRE: Le candidat défend une position claire mais nuancée, distingue les usages, propose des règles concrètes et répond à l'objection sur l'exemple des parents avec une question rhétorique.
+CONSEILS: Distinguez les situations (âge, type d'usage) : cela montre que votre opinion est réfléchie et non caricaturale.
