@@ -1,0 +1,500 @@
+@code B2-BLANC-08
+@series B2
+@title Examen blanc B2 n° 8 – Ville, logement et mobilité
+@level B2
+@description Examen complet de niveau B2 aux durées officielles : logement, voisinage, transports, aménagement urbain.
+
+## CO 1 | B2 | message vocal | intention | F:fr-FR
+DOC: F: Bonjour Monsieur Dubois, c'est Madame Lambert, votre voisine du dessous. Je suis désolée de vous déranger, mais depuis hier soir, il y a une tache d'humidité qui s'agrandit au plafond de ma salle de bains, juste sous la vôtre. Est-ce que vous pourriez vérifier s'il n'y a pas une fuite chez vous ? Je préférerais qu'on règle ça ensemble avant de prévenir les assurances.
+Q: Pourquoi Mme Lambert appelle-t-elle son voisin ?
++ Pour lui demander de vérifier une éventuelle fuite chez lui. | « Est-ce que vous pourriez vérifier s'il n'y a pas une fuite chez vous ? »
+- Pour se plaindre du bruit qu'il fait le soir. | Elle parle d'une tache d'humidité.
+- Pour l'informer qu'elle a déjà prévenu les assurances. | Elle préfère régler le problème avant de les prévenir.
+- Pour lui proposer de refaire sa salle de bains. | Ce n'est pas mentionné.
+EXP: Le message est poli (« je suis désolée de vous déranger ») et présente un problème, une demande et une intention de règlement amiable. La demande est formulée au conditionnel.
+
+## CO 2 | B2 | reportage radio | information précise | H:fr-FR
+DOC: H: À partir du 1er septembre, la vitesse sera limitée à trente kilomètres par heure dans toutes les rues du centre-ville, à l'exception des grands boulevards, où elle restera fixée à cinquante. La mairie justifie cette mesure par la baisse du bruit et du nombre d'accidents graves observée dans les villes qui l'ont déjà adoptée.
+Q: Où la vitesse restera-t-elle limitée à cinquante kilomètres par heure ?
++ Sur les grands boulevards. | « à l'exception des grands boulevards, où elle restera fixée à cinquante ».
+- Dans toutes les rues du centre-ville. | La limite y passe à trente.
+- Près des écoles uniquement. | Ce n'est pas mentionné.
+- Sur les routes de campagne. | Le reportage parle du centre-ville.
+EXP: « À l'exception de » introduit une exception à la règle générale. La justification (bruit, accidents) est une information secondaire pour cette question.
+
+## CO 3 | B2 | conversation | opinion | H:fr-FR, F:fr-FR
+DOC: H: Avec les prix des loyers, on devrait peut-être quitter la ville et s'installer à la campagne. / F: Je comprends, mais il faut tout calculer. Là-bas, on aurait besoin de deux voitures, et les trajets nous prendraient deux heures par jour. Ce qu'on économiserait sur le loyer, on le dépenserait en essence. Moi, je préférerais un appartement plus petit, mais bien desservi.
+Q: Quelle est la position de la femme ?
++ Elle doute que le départ à la campagne soit vraiment avantageux. | « Ce qu'on économiserait sur le loyer, on le dépenserait en essence ».
+- Elle veut absolument vivre à la campagne. | Elle préfère rester en ville.
+- Elle trouve les loyers raisonnables. | Elle ne conteste pas leur niveau élevé.
+- Elle souhaite acheter une deuxième voiture. | C'est une contrainte qu'elle cite pour refuser.
+EXP: La femme concède (« je comprends, mais ») puis développe un calcul. Sa conclusion au conditionnel exprime sa préférence.
+
+## CO 4 | B2 | annonce publique | information précise | F:fr-FR
+DOC: F: Mesdames et Messieurs, en raison d'un incident technique, le trafic est interrompu sur la ligne B entre les stations Gare et Université. Un service de bus de remplacement est mis en place au départ de la sortie numéro deux. Les titres de transport habituels sont acceptés dans ces bus. Le trafic devrait reprendre vers dix-huit heures.
+Q: Que doivent faire les voyageurs pour prendre le bus de remplacement ?
++ Se rendre à la sortie numéro deux avec leur titre habituel. | Le bus part « de la sortie numéro deux » et les titres habituels sont acceptés.
+- Acheter un ticket de bus spécial. | Les titres habituels sont acceptés.
+- Attendre dix-huit heures en station. | C'est l'heure prévue de reprise du trafic.
+- Changer à la station Université. | Le trafic y est interrompu.
+EXP: L'annonce donne une cause, une solution (lieu de départ) et une précision pratique (titres acceptés). L'heure de reprise est un distracteur.
+
+## CO 5 | B2 | interview radio | compréhension globale | F:fr-FR, H:fr-FR
+DOC: F: Vous avez créé une colocation entre étudiants et personnes âgées. Comment ça marche ? / H: Des personnes âgées qui vivent seules dans un grand logement accueillent un étudiant. L'étudiant paie un loyer très modeste et, en échange, il assure une présence le soir, partage parfois un repas ou aide pour les courses. Ce n'est pas un service de soins : c'est d'abord une relation humaine qui rompt l'isolement des deux côtés.
+Q: Quel est le sujet de l'interview ?
++ Un logement partagé entre générations qui profite aux deux parties. | Il « rompt l'isolement des deux côtés ».
+- Un service de soins à domicile. | « Ce n'est pas un service de soins ».
+- Une résidence universitaire réservée aux étudiants. | Les étudiants vivent chez des personnes âgées.
+- La hausse des loyers étudiants. | Ce n'est pas le thème principal.
+EXP: L'homme décrit le principe, précise ce que ce n'est pas, puis donne le sens profond du projet. La négation corrective aide à éliminer un distracteur.
+
+## CO 6 | B2 | chronique radio | inférence | H:fr-FR
+DOC: H: Notre ville a dépensé des millions pour créer une magnifique piste cyclable le long du fleuve. Elle est large, éclairée, bordée d'arbres. Seul petit détail : elle s'arrête brutalement à l'entrée du centre-ville, là où les cyclistes en auraient le plus besoin, et reprend trois kilomètres plus loin.
+Q: Que laisse entendre le chroniqueur ?
++ La piste cyclable a été mal pensée malgré son coût. | Le « petit détail » est en réalité un défaut majeur.
+- La piste cyclable est parfaitement adaptée aux besoins. | Elle s'interrompt là où elle serait le plus utile.
+- Les cyclistes préfèrent rouler en centre-ville sans piste. | Il dit qu'ils en auraient besoin.
+- La ville aurait dû planter plus d'arbres. | Les arbres sont cités comme une qualité.
+EXP: L'expression « seul petit détail » est ironique : elle minimise un problème important. L'ironie est un procédé fréquent dans les chroniques.
+
+## CO 7 | B2 | débat radio | opinion | F:fr-FR, H:fr-FR
+DOC: F: Faut-il rendre les transports en commun gratuits ? / H: Je suis réservé. La gratuité attire surtout des piétons et des cyclistes, pas les automobilistes qu'on voudrait convaincre. Et elle prive le réseau de ressources. Je préférerais qu'on investisse dans la fréquence et la ponctualité des bus : c'est ça qui fait changer les habitudes.
+Q: Quelle est l'opinion de l'homme ?
++ Améliorer la qualité du service serait plus efficace que la gratuité. | Il préfère investir « dans la fréquence et la ponctualité ».
+- La gratuité convaincra les automobilistes. | Il affirme le contraire.
+- Les transports en commun sont trop fréquents. | Il demande plus de fréquence.
+- Il faut supprimer les bus. | Il veut au contraire les améliorer.
+EXP: L'homme exprime une réserve, la justifie par deux arguments, puis propose une alternative au conditionnel (« je préférerais »).
+
+## CO 8 | B2 | message professionnel | information précise | H:fr-FR
+DOC: H: Bonjour Madame Nguyen, ici l'agence immobilière Horizon. Le propriétaire a accepté votre dossier pour l'appartement de la rue des Lilas. Pour la signature du bail, mardi à quatorze heures, merci d'apporter le dépôt de garantie par virement ou par chèque, ainsi que l'attestation d'assurance habitation, sans laquelle nous ne pourrons pas vous remettre les clés.
+Q: Quel document est indispensable pour obtenir les clés ?
++ L'attestation d'assurance habitation. | « sans laquelle nous ne pourrons pas vous remettre les clés ».
+- Les trois derniers bulletins de salaire. | Ils ne sont pas demandés ici.
+- Un état des lieux signé par l'ancien locataire. | Ce n'est pas mentionné.
+- Une lettre du propriétaire. | Le propriétaire a déjà accepté le dossier.
+EXP: La relative « sans laquelle » exprime une condition indispensable. C'est un marqueur grammatical important au niveau B2.
+
+## CO 9 | B2 | interview | intention | F:fr-FR, H:fr-FR
+DOC: F: Pourquoi votre quartier a-t-il décidé de fermer cette rue aux voitures devant l'école ? / H: Parce que chaque matin, c'était le chaos : des voitures garées sur le trottoir, des enfants qui slalomaient entre les pare-chocs. Depuis que la rue est piétonne aux heures d'entrée et de sortie, les enfants viennent davantage à pied ou à vélo. Les parents qui doivent absolument prendre la voiture se garent cent mètres plus loin. Ce n'est pas un grand sacrifice.
+Q: Que cherche à faire l'homme ?
++ Justifier une mesure et montrer qu'elle est peu contraignante. | Il décrit le problème passé, les effets positifs et conclut « ce n'est pas un grand sacrifice ».
+- Critiquer les parents qui viennent à pied. | Il s'en réjouit.
+- Demander la réouverture de la rue aux voitures. | Il défend la fermeture.
+- Annoncer la construction d'un parking. | Ce n'est pas évoqué.
+EXP: La réponse oppose « avant » (chaos) et « depuis » (amélioration). La dernière phrase répond à une objection possible.
+
+## CO 10 | B2 | reportage | compréhension globale | H:fr-FR
+DOC: H: Dans ce quartier construit dans les années soixante, les barres d'immeubles sont en cours de rénovation. Plutôt que de les démolir, la ville a choisi de les isoler, d'agrandir les balcons et de créer des jardins partagés au pied des bâtiments. Les habitants ont été consultés à chaque étape. Résultat : les factures de chauffage ont baissé de moitié, et plusieurs familles qui voulaient partir ont décidé de rester.
+Q: Quel est le sujet principal du reportage ?
++ Une rénovation concertée qui a amélioré la vie des habitants. | Les habitants ont été consultés et les résultats sont positifs.
+- La démolition d'immeubles anciens. | La ville a choisi de ne pas démolir.
+- Le départ massif des habitants du quartier. | Des familles ont décidé de rester.
+- La construction d'un nouveau quartier. | Il s'agit d'une rénovation.
+EXP: « Plutôt que de les démolir » écarte une solution. La conclusion introduite par « résultat » donne le bilan qui résume le reportage.
+
+## CO 11 | B2 | conversation administrative | information précise | F:fr-FR, H:fr-FR
+DOC: F: Bonjour, je déménage le mois prochain. Que dois-je faire pour ma demande de logement social ? / H: Vous devez mettre à jour votre adresse dans votre dossier en ligne, sinon vous ne recevrez pas nos courriers. En revanche, vous gardez la même date de dépôt : votre ancienneté n'est pas perdue. Pensez aussi à renouveler votre demande chaque année, à la date anniversaire.
+Q: Que garde la femme malgré son déménagement ?
++ L'ancienneté de sa demande. | « vous gardez la même date de dépôt : votre ancienneté n'est pas perdue ».
+- Son ancienne adresse dans le dossier. | Elle doit la mettre à jour.
+- Une priorité automatique. | Ce n'est pas mentionné.
+- Une dispense de renouvellement. | Elle doit renouveler chaque année.
+EXP: L'employé donne une obligation, puis une information rassurante introduite par « en revanche ». La reformulation après les deux-points confirme la réponse.
+
+## CO 12 | B2 | chronique | opinion | F:fr-FR
+DOC: F: Les trottinettes électriques en libre-service ont envahi nos trottoirs, puis beaucoup ont disparu après des décisions municipales. Je ne regrette pas ces engins abandonnés en travers du passage. Mais je regrette qu'on ait jeté le bébé avec l'eau du bain. Une trottinette bien encadrée, avec des places de stationnement dédiées, reste une bonne solution pour les petits trajets.
+Q: Quelle est l'opinion de la chroniqueuse ?
++ Il aurait fallu encadrer les trottinettes plutôt que de les supprimer. | « je regrette qu'on ait jeté le bébé avec l'eau du bain ».
+- Les trottinettes devaient absolument être interdites. | Elle regrette leur disparition totale.
+- Les trottoirs étaient mieux avec les trottinettes abandonnées. | Elle ne regrette pas les engins abandonnés.
+- Les trottinettes sont adaptées aux longs trajets. | Elle parle des petits trajets.
+EXP: L'expression « jeter le bébé avec l'eau du bain » signifie rejeter une chose utile en même temps que ses défauts. Elle résume la critique de la chroniqueuse.
+
+## CO 13 | B2 | interview radio | inférence | H:fr-FR, F:fr-FR
+DOC: H: Vous êtes gardienne d'immeuble depuis vingt ans. Qu'est-ce qui a changé ? / F: Avant, je connaissais tout le monde, les enfants, les grands-parents. Aujourd'hui, beaucoup d'appartements sont loués pour quelques nuits à des touristes. Je vois passer des valises, je donne des codes, mais je ne connais plus mes voisins. Le hall est devenu une sorte de réception d'hôtel.
+Q: Que comprend-on des propos de la gardienne ?
++ Les locations touristiques ont affaibli la vie de voisinage. | « je ne connais plus mes voisins » ; le hall ressemble à « une réception d'hôtel ».
+- Elle est ravie de l'arrivée des touristes. | Elle exprime plutôt un regret.
+- Les enfants sont plus nombreux qu'avant. | Elle évoque le passé avec nostalgie.
+- Elle travaille désormais dans un hôtel. | C'est une comparaison.
+EXP: La gardienne ne critique pas explicitement, mais l'opposition « avant / aujourd'hui » et la comparaison finale révèlent son regret.
+
+## CO 14 | B2 | annonce radio | information précise | F:fr-FR
+DOC: F: La ville organise une collecte des encombrants le premier samedi de chaque mois. Les habitants doivent s'inscrire en ligne ou par téléphone au plus tard le mercredi précédent, en indiquant la liste des objets. Les déchets dangereux, comme les pots de peinture ou les batteries, ne sont pas collectés : ils doivent être déposés en déchetterie.
+Q: Que faut-il faire des pots de peinture ?
++ Les apporter en déchetterie. | « ils doivent être déposés en déchetterie ».
+- Les déposer avec les encombrants le samedi. | Ils « ne sont pas collectés ».
+- Les signaler lors de l'inscription. | L'inscription concerne les encombrants.
+- Les jeter avec les ordures ménagères. | Ce n'est pas indiqué.
+EXP: L'annonce présente une règle générale puis une exception (« ne sont pas collectés ») avec la solution à suivre.
+
+## CO 15 | B2 | conversation | intention | H:fr-FR, F:fr-FR
+DOC: H: Tu signes le bail demain ? Tu as bien fait l'état des lieux ? / F: Pas encore, c'est prévu juste avant. / H: Alors prends ton temps. Note chaque rayure, chaque tache, et prends des photos. Si tu oublies quelque chose, c'est toi qu'on accusera au moment de partir, et tu risques de perdre une partie de ton dépôt de garantie.
+Q: Que veut faire l'homme ?
++ Conseiller son amie pour qu'elle protège ses intérêts. | Il explique comment faire et pourquoi.
+- La décourager de louer cet appartement. | Il ne remet pas en cause la location.
+- Lui reprocher d'avoir déjà signé. | Elle n'a pas encore signé.
+- Lui proposer de faire l'état des lieux à sa place. | Il lui donne des conseils.
+EXP: Les impératifs (« prends », « note ») et la conséquence négative (« tu risques de perdre ») montrent une intention de conseil et de mise en garde.
+
+## CO 16 | B2 | reportage | compréhension globale | F:fr-FR
+DOC: F: Dans cette ville moyenne, de nombreux commerces du centre avaient fermé au profit des zones commerciales périphériques. La municipalité a racheté plusieurs locaux vides pour les louer à prix réduit à de jeunes commerçants et artisans, à condition qu'ils s'engagent pour trois ans. Une boulangerie, une librairie et un atelier de couture ont ouvert. Peu à peu, les passants reviennent.
+Q: De quoi parle ce reportage ?
++ D'une politique municipale pour redynamiser le centre-ville. | La mairie loue des locaux à prix réduit et les passants reviennent.
+- De l'ouverture d'une nouvelle zone commerciale. | Elles sont présentées comme la cause du problème.
+- De la fermeture d'une librairie. | Une librairie a ouvert.
+- De la hausse des loyers commerciaux. | Les loyers sont réduits.
+EXP: Le reportage suit le schéma problème, solution, résultat. La dernière phrase (« peu à peu ») indique un effet progressif.
+
+## CO 17 | B2 | interview | opinion | H:fr-FR, F:fr-FR
+DOC: H: Selon vous, à quoi ressemblera la ville idéale dans vingt ans ? / F: Je rêve d'une ville du quart d'heure, où l'on trouve à moins de quinze minutes à pied ou à vélo tout ce dont on a besoin : école, médecin, commerces, parc. Ça suppose de mélanger les logements, les bureaux et les services, au lieu de les séparer en quartiers spécialisés. C'est un changement profond, mais je le crois possible.
+Q: Quelle est l'opinion de la femme ?
++ La ville devrait rapprocher logements, emplois et services. | Elle veut « mélanger les logements, les bureaux et les services ».
+- Les quartiers doivent rester spécialisés. | Elle propose le contraire.
+- Ce changement est impossible. | Elle le croit « possible ».
+- La voiture restera le moyen de transport principal. | Elle parle de marche et de vélo.
+EXP: La femme décrit un idéal, en précise la condition (« ça suppose ») et conclut avec une concession optimiste.
+
+## CO 18 | B2 | message vocal | information précise | H:fr-FR
+DOC: H: Bonjour, ici le syndic de votre copropriété. Nous vous informons que l'ascenseur sera en travaux du lundi 6 au vendredi 10. Pendant cette période, les personnes à mobilité réduite qui le souhaitent peuvent nous contacter : un service de portage des courses sera organisé. Nous vous remercions de votre patience.
+Q: Quel service est proposé pendant les travaux ?
++ Un portage des courses pour les personnes à mobilité réduite. | « un service de portage des courses sera organisé ».
+- Un ascenseur provisoire. | Ce n'est pas mentionné.
+- Une réduction des charges. | Ce n'est pas indiqué.
+- Un hébergement à l'hôtel. | Rien ne l'indique.
+EXP: Le message annonce une gêne, puis une mesure d'accompagnement destinée à un public précis.
+
+## CO 19 | B2 | débat | inférence | F:fr-FR, H:fr-FR
+DOC: F: On construit toujours plus de logements neufs en périphérie. / H: Pendant ce temps, dans les centres de nos petites villes, des milliers d'appartements restent vides parce qu'ils sont trop vieux ou mal isolés. Rénover coûte souvent plus cher que construire, c'est vrai. Mais chaque champ bétonné est perdu pour toujours.
+Q: Que sous-entend l'homme ?
++ Il faudrait privilégier la rénovation de l'existant à la construction en périphérie. | Il souligne les logements vides et la perte définitive des terres.
+- Construire en périphérie est la meilleure solution. | Il critique cette pratique.
+- Les appartements des centres sont tous occupés. | Des milliers restent vides.
+- Rénover est toujours moins cher que construire. | Il reconnaît que c'est souvent plus cher.
+EXP: L'homme concède un argument (« c'est vrai ») avant de présenter un argument plus fort (« mais »). Sa préférence n'est pas formulée directement, il faut la déduire.
+
+## CO 20 | B2 | conférence | compréhension globale | H:fr-FR
+DOC: H: Pendant les vagues de chaleur, la température en ville peut dépasser de plusieurs degrés celle de la campagne voisine. C'est ce qu'on appelle les îlots de chaleur urbains. Le béton et le bitume stockent la chaleur le jour et la restituent la nuit. Pour rafraîchir les villes, la solution la plus efficace reste la végétation : les arbres font de l'ombre et rafraîchissent l'air.
+Q: Quelle est l'idée principale de la conférence ?
++ Les villes surchauffent, et la végétation est la meilleure réponse. | « la solution la plus efficace reste la végétation ».
+- La campagne est plus chaude que la ville. | C'est l'inverse.
+- Le béton rafraîchit l'air la nuit. | Il restitue la chaleur.
+- Les arbres augmentent la température. | Ils rafraîchissent l'air.
+EXP: Le conférencier définit un phénomène, en explique la cause, puis propose une solution. Le superlatif « la plus efficace » signale l'idée clé.
+
+## CO 21 | B2 | interview radio | intention | F:fr-FR, H:fr-FR
+DOC: F: Pourquoi votre commune a-t-elle limité les nouvelles locations touristiques de courte durée ? / H: Parce que les familles ne trouvaient plus à se loger. Un propriétaire gagne davantage en louant aux touristes qu'à un habitant à l'année. Notre école a perdu deux classes en cinq ans. Nous ne sommes pas contre le tourisme, mais une ville sans habitants n'a plus d'âme.
+Q: Que cherche à faire le maire ?
++ Défendre une mesure en expliquant ses causes et son enjeu. | Il explique la pénurie de logements et ses conséquences.
+- Encourager les propriétaires à louer aux touristes. | Il limite au contraire ces locations.
+- Annoncer la fermeture de l'école. | Il cite la perte de classes comme conséquence.
+- Exprimer son opposition au tourisme. | « Nous ne sommes pas contre le tourisme ».
+EXP: Le maire justifie, illustre par un exemple concret et anticipe une critique. Repérer la phrase « nous ne sommes pas contre » permet d'éliminer un distracteur.
+
+## CO 22 | B2 | reportage | information précise | H:fr-FR
+DOC: H: La métropole lance une aide à l'achat de vélos à assistance électrique. Elle s'élève à cinq cents euros pour les foyers aux revenus modestes et à deux cents euros pour les autres. Le vélo doit être neuf ou reconditionné et acheté chez un commerçant de la métropole. La demande se fait en ligne, avec la facture, dans les trois mois qui suivent l'achat.
+Q: Quelle condition concerne le lieu d'achat ?
++ Le vélo doit être acheté chez un commerçant de la métropole. | C'est indiqué explicitement.
+- Le vélo doit être acheté en ligne. | C'est la demande qui se fait en ligne.
+- Le vélo doit être acheté dans une grande surface. | Ce n'est pas précisé.
+- Le vélo peut être acheté n'importe où. | Il doit être acheté dans la métropole.
+EXP: Le reportage contient plusieurs conditions (montant, état, lieu, délai). Il faut isoler celle qui concerne le lieu d'achat.
+
+## CO 23 | B2 | conversation | opinion | F:fr-FR, H:fr-FR
+DOC: F: Tu as vu le projet de tour de quarante étages près de la gare ? / H: Oui, et je trouve ça plutôt bien. On manque de logements, et construire en hauteur évite de s'étaler sur les terres agricoles. / F: Peut-être, mais vivre au trentième étage, sans contact avec la rue, ce n'est pas pour tout le monde. Je préférerais des immeubles moyens, avec des cours et des commerces en bas.
+Q: Quelle est l'opinion de la femme sur le projet de tour ?
++ Elle préfère des immeubles plus bas, mieux intégrés à la vie de quartier. | « Je préférerais des immeubles moyens, avec des cours et des commerces ».
+- Elle est enthousiaste comme l'homme. | Elle exprime une réserve.
+- Elle veut construire sur les terres agricoles. | Elle ne le dit pas.
+- Elle pense qu'on ne manque pas de logements. | Elle ne conteste pas ce point.
+EXP: « Peut-être, mais » marque une concession suivie d'une objection. La phrase au conditionnel formule son alternative.
+
+## CO 24 | B2 | annonce | inférence | H:fr-FR
+DOC: H: Mesdames et Messieurs, le train à destination de Lyon partira de la voie 7 au lieu de la voie 3. Nous rappelons aux voyageurs que la voie 7 se trouve dans le hall 2, à environ dix minutes à pied. Le départ est maintenu à l'heure prévue.
+Q: Que peut-on comprendre de cette annonce ?
++ Les voyageurs doivent se dépêcher pour ne pas rater le train. | Le changement de voie implique dix minutes de marche et le départ n'est pas retardé.
+- Le train partira avec dix minutes de retard. | « Le départ est maintenu à l'heure prévue ».
+- Le train est annulé. | Il change seulement de voie.
+- La voie 3 est dans le hall 2. | C'est la voie 7.
+EXP: L'annonce ne dit pas « dépêchez-vous », mais la combinaison de la distance et de l'horaire maintenu le fait comprendre.
+
+## CO 25 | B2 | entretien radio | compréhension globale | H:fr-FR, F:fr-FR
+DOC: H: Vous êtes architecte et vous transformez des bureaux vides en logements. Pourquoi ? / F: Depuis le développement du télétravail, beaucoup d'immeubles de bureaux sont sous-occupés. Les détruire serait un gaspillage énorme. Les transformer n'est pas simple, car il faut créer des cuisines, des salles de bains, parfois ouvrir des fenêtres. Mais c'est une manière de répondre au manque de logements sans consommer de nouveaux terrains.
+Q: Quel est le thème principal de l'entretien ?
++ La reconversion de bureaux vides en logements. | Elle explique pourquoi et comment elle les transforme.
+- La construction de nouveaux immeubles de bureaux. | Les bureaux existent déjà et sont vides.
+- La démolition des immeubles anciens. | Les détruire serait « un gaspillage ».
+- Les avantages du télétravail pour les salariés. | Le télétravail n'est que le contexte.
+EXP: L'architecte présente un contexte, une difficulté (« n'est pas simple ») et un bénéfice (« mais c'est une manière de… »). Le thème réunit ces éléments.
+
+## CE 1 | B2 | règlement intérieur | information précise
+DOC: Règlement de copropriété – Extraits. Article 4 : Les travaux bruyants sont autorisés du lundi au vendredi de 8 h à 19 h et le samedi de 9 h à 12 h ; ils sont interdits le dimanche et les jours fériés. Article 7 : Les vélos doivent être rangés dans le local prévu à cet effet et non dans les couloirs. Article 9 : Il est interdit de suspendre du linge aux fenêtres donnant sur la rue.
+Q: Quand peut-on effectuer des travaux bruyants le samedi ?
++ Le matin, de 9 h à 12 h. | « le samedi de 9 h à 12 h ».
+- Toute la journée, de 8 h à 19 h. | Cet horaire concerne la semaine.
+- L'après-midi uniquement. | Ce n'est pas l'horaire indiqué.
+- Jamais. | C'est le dimanche qui est interdit.
+EXP: L'article 4 distingue trois cas : semaine, samedi et dimanche. Il faut lire précisément l'horaire qui correspond à la question.
+
+## CE 2 | B2 | article de presse | compréhension globale
+DOC: Le covoiturage domicile-travail progresse, mais trop lentement. Dans la plupart des voitures qui circulent aux heures de pointe, il n'y a encore qu'une seule personne. Pour encourager le partage, plusieurs agglomérations ont créé des voies réservées aux véhicules transportant au moins deux personnes. Les premiers résultats sont encourageants : là où ces voies existent, le nombre de covoitureurs a nettement augmenté.
+Q: Quel est le sujet principal de l'article ?
++ Les efforts pour développer le covoiturage et leurs premiers effets. | L'article décrit les voies réservées et leurs résultats.
+- L'interdiction de la voiture en ville. | Il n'y a pas d'interdiction.
+- La baisse du nombre de covoitureurs. | Il a « nettement augmenté ».
+- Le prix de l'essence. | Ce n'est pas évoqué.
+EXP: L'article pose un constat (progrès lent), présente une mesure, puis un premier bilan. Le thème global relie ces éléments.
+
+## CE 3 | B2 | courrier des lecteurs | opinion
+DOC: Je lis souvent que les habitants des villes devraient renoncer à la voiture. J'habite dans un village à trente kilomètres de mon travail, sans bus après dix-neuf heures. Comment ferais-je ? Je suis favorable à l'écologie, mais elle ne doit pas être réservée aux habitants des centres-villes bien desservis. Avant de nous demander de changer, offrez-nous des solutions.
+Q: Quelle est l'opinion de l'auteur ?
++ On ne peut pas demander aux ruraux d'abandonner la voiture sans alternatives. | « Avant de nous demander de changer, offrez-nous des solutions ».
+- L'écologie est une mauvaise idée. | Il dit y être favorable.
+- Tout le monde peut se passer de voiture. | Il explique pourquoi c'est impossible pour lui.
+- Les bus devraient être supprimés après dix-neuf heures. | Il regrette justement leur absence.
+EXP: L'auteur utilise son exemple personnel et une question rhétorique pour montrer une injustice, puis formule une demande à l'impératif.
+
+## CE 4 | B2 | annonce | information précise
+DOC: À louer : appartement de trois pièces, 65 m², troisième étage avec ascenseur, quartier de la gare. Loyer : 850 euros par mois, charges comprises (chauffage collectif inclus). Disponible le 1er octobre. Animaux acceptés. Les candidats doivent justifier de revenus égaux à trois fois le loyer ou présenter un garant. Visites le samedi sur rendez-vous uniquement.
+Q: Que doit faire un candidat dont les revenus sont insuffisants ?
++ Présenter un garant. | « ou présenter un garant ».
+- Payer six mois de loyer d'avance. | Ce n'est pas mentionné.
+- Renoncer à sa candidature. | Une alternative est proposée.
+- Visiter l'appartement un autre jour. | La visite n'a rien à voir avec les revenus.
+EXP: La conjonction « ou » présente une alternative à la condition de revenus. Le reste de l'annonce donne des informations pratiques secondaires.
+
+## CE 5 | B2 | éditorial | intention
+DOC: Chaque été, nos villes étouffent. Et chaque été, on promet de planter des arbres. Mais un arbre planté aujourd'hui ne fera de l'ombre que dans quinze ans. Il est donc urgent d'agir à la fois sur le long terme et dans l'immédiat : ouvrir les cours d'école le soir, installer des fontaines, repeindre les toits en clair. Nos élus n'ont plus d'excuse pour attendre.
+Q: Quel est l'objectif de l'éditorialiste ?
++ Pousser les élus à prendre des mesures rapides contre la chaleur. | « Nos élus n'ont plus d'excuse pour attendre ».
+- Critiquer la plantation d'arbres. | Il la juge utile mais lente.
+- Expliquer comment planter un arbre. | Ce n'est pas l'objet du texte.
+- Annoncer l'ouverture des cours d'école. | C'est une proposition.
+EXP: L'éditorial pointe la limite d'une solution (« mais »), propose des mesures immédiates, puis interpelle les élus. L'intention est de faire pression.
+
+## CE 6 | B2 | courrier administratif | information précise
+DOC: Madame, Monsieur, votre demande d'aide personnalisée au logement a bien été enregistrée. Pour que nous puissions calculer vos droits, merci de nous transmettre, dans un délai d'un mois, votre bail signé ainsi que l'attestation de loyer complétée par votre propriétaire. Sans ces documents, votre dossier sera classé sans suite. L'aide, si elle vous est accordée, sera versée directement à votre propriétaire.
+Q: À qui l'aide sera-t-elle versée ?
++ Au propriétaire du logement. | Elle « sera versée directement à votre propriétaire ».
+- Au locataire, sur son compte bancaire. | Ce n'est pas le cas ici.
+- À l'agence immobilière. | Ce n'est pas mentionné.
+- À la mairie. | Rien ne l'indique.
+EXP: La dernière phrase répond à la question. Le reste du courrier précise la procédure et la conséquence d'un dossier incomplet.
+
+## CE 7 | B2 | article | inférence
+DOC: Dans cette métropole, le prix moyen des logements a doublé en quinze ans, tandis que les salaires n'ont augmenté que de vingt pour cent. Les infirmières, les enseignants et les policiers qui travaillent au centre vivent de plus en plus loin, parfois à une heure de trajet. Certains hôpitaux peinent désormais à recruter.
+Q: Que peut-on déduire de cet article ?
++ Le coût du logement complique le recrutement de certains métiers essentiels. | Les hôpitaux « peinent à recruter » alors que les soignants vivent loin.
+- Les salaires ont augmenté plus vite que les prix. | C'est l'inverse.
+- Les infirmières préfèrent vivre à la campagne. | L'article suggère une contrainte, pas un choix.
+- Les hôpitaux ont trop de personnel. | Ils peinent à recruter.
+EXP: L'article juxtapose des faits sans formuler de lien de cause explicite. C'est au lecteur de relier la hausse des prix, l'éloignement et les difficultés de recrutement.
+
+## CE 8 | B2 | notice | information précise
+DOC: Thermostat programmable – Mode d'emploi. Pour régler la température de confort, appuyez sur « + » ou « – ». Le mode « absence » abaisse automatiquement la température à 16 °C. Le mode « hors gel » maintient 7 °C et doit être utilisé uniquement pour les absences de plus de quarante-huit heures. Remplacez les piles une fois par an, de préférence avant l'hiver.
+Q: Quand faut-il utiliser le mode « hors gel » ?
++ Pour une absence de plus de deux jours. | « uniquement pour les absences de plus de quarante-huit heures ».
+- Chaque nuit. | Ce n'est pas indiqué.
+- Pour une courte absence. | Le mode « absence » convient mieux.
+- Pour changer les piles. | Ce n'est pas lié.
+EXP: La notice distingue deux modes selon la durée de l'absence. L'adverbe « uniquement » limite l'usage du mode « hors gel ».
+
+## CE 9 | B2 | tribune | opinion
+DOC: On présente souvent la maison individuelle avec jardin comme le rêve de chaque famille. Je comprends ce désir. Mais si chacun réalise ce rêve, nos campagnes se couvrent de lotissements, les routes se multiplient et la voiture devient obligatoire. Il est temps de rendre la ville plus désirable : des logements plus grands, des espaces verts, des écoles accessibles à pied. C'est ainsi qu'on réduira l'étalement urbain.
+Q: Quelle est la thèse de l'auteur ?
++ Il faut rendre la vie en ville plus attractive pour limiter l'étalement urbain. | « Il est temps de rendre la ville plus désirable ».
+- Chaque famille devrait avoir une maison avec jardin. | Il en montre les conséquences négatives.
+- Il faut construire plus de routes. | Il critique leur multiplication.
+- La voiture est indispensable en ville. | Il veut des écoles accessibles à pied.
+EXP: L'auteur concède (« je comprends ce désir »), montre les effets collectifs d'un choix individuel, puis propose une solution. La conclusion confirme la thèse.
+
+## CE 10 | B2 | article | compréhension globale
+DOC: Les habitats participatifs se développent. Plusieurs familles conçoivent ensemble un immeuble, avec des logements privés et des espaces partagés : buanderie, chambre d'amis, jardin, atelier. En mutualisant certains équipements, elles réduisent les coûts et la surface de chaque appartement. Mais ces projets demandent du temps, souvent plusieurs années, et une forte capacité à prendre des décisions collectives.
+Q: Que présente l'article ?
++ Un mode de logement collaboratif, avec ses avantages et ses exigences. | L'article décrit le principe, les économies et les difficultés.
+- La construction de résidences de luxe. | Il s'agit de réduire les coûts.
+- Un projet réalisé en quelques semaines. | Il faut « souvent plusieurs années ».
+- L'interdiction des espaces partagés. | Ils sont au cœur du concept.
+EXP: L'article décrit, explique les avantages, puis nuance avec « mais ». Le thème global combine ces aspects.
+
+## CE 11 | B2 | courriel | intention
+DOC: Chers voisins, comme vous l'avez peut-être remarqué, la cour de notre immeuble est souvent encombrée et un peu triste. Je vous propose de nous retrouver samedi à dix heures pour réfléchir ensemble à son aménagement : bacs à fleurs, bancs, coin pour les enfants. Le syndic est d'accord pour financer une partie du matériel. Venez avec vos idées ! Café et croissants offerts. Bertrand, 2e étage
+Q: Quel est l'objectif de ce courriel ?
++ Inviter les voisins à participer à un projet commun. | « Je vous propose de nous retrouver samedi… pour réfléchir ensemble ».
+- Se plaindre du syndic. | Le syndic est présenté comme un partenaire.
+- Annoncer des travaux déjà décidés. | Le projet est encore à définir.
+- Vendre des bacs à fleurs. | Ce n'est pas l'objet.
+EXP: Le courriel présente un constat, une proposition, un argument rassurant (le financement) et une invitation chaleureuse.
+
+## CE 12 | B2 | article | information précise
+DOC: Le diagnostic de performance énergétique classe les logements de A, le plus économe, à G, le plus énergivore. En France, la loi interdit progressivement la mise en location des logements les plus mal classés, qualifiés de « passoires thermiques ». Les propriétaires concernés doivent réaliser des travaux d'isolation ou de chauffage pour continuer à louer leur bien.
+Q: Que doivent faire les propriétaires de « passoires thermiques » pour continuer à louer ?
++ Réaliser des travaux pour améliorer la performance énergétique. | Ils « doivent réaliser des travaux d'isolation ou de chauffage ».
+- Baisser le loyer de moitié. | Ce n'est pas mentionné.
+- Vendre leur logement. | Ce n'est pas obligatoire selon l'article.
+- Changer de locataire. | Rien ne l'indique.
+EXP: L'article définit un classement, une règle et l'obligation qui en découle. La dernière phrase répond à la question.
+
+## CE 13 | B2 | essai | inférence
+DOC: Pendant des décennies, on a construit des villes pour la voiture : larges avenues, parkings, échangeurs. On s'étonne ensuite que les habitants prennent leur voiture pour tout. L'urbanisme n'est pas neutre : il oriente nos comportements. Une rue étroite, ombragée, bordée de commerces invite à marcher. Un boulevard de six voies, lui, invite à accélérer.
+Q: Que suggère l'auteur ?
++ La forme de la ville influence la manière dont on se déplace. | « il oriente nos comportements ».
+- Les habitants choisissent la voiture par paresse. | Il attribue ce choix à l'aménagement urbain.
+- Il faut élargir les avenues. | Il critique cette pratique.
+- Les commerces sont responsables des embouteillages. | Ce n'est pas évoqué.
+EXP: L'ironie (« on s'étonne ensuite ») et les exemples opposés (rue étroite / boulevard) permettent de déduire la thèse.
+
+## CE 14 | B2 | annonce | information précise
+DOC: Bourse aux logements étudiants – Mairie de Villeneuve. Vous disposez d'une chambre libre ? Louez-la à un étudiant pour l'année universitaire. La mairie met en relation propriétaires et étudiants, vérifie les dossiers et propose un modèle de contrat gratuit. Les chambres doivent mesurer au moins 9 m² et disposer d'une fenêtre. Inscription au service logement avant le 31 juillet.
+Q: Quelle condition la chambre doit-elle remplir ?
++ Faire au moins 9 m² et avoir une fenêtre. | « Les chambres doivent mesurer au moins 9 m² et disposer d'une fenêtre ».
+- Avoir une salle de bains privée. | Ce n'est pas exigé.
+- Être située au rez-de-chaussée. | Ce n'est pas mentionné.
+- Être meublée par la mairie. | La mairie fournit un modèle de contrat.
+EXP: L'annonce précise le rôle de la mairie et les conditions techniques. Repérez le verbe « doivent » qui signale l'obligation.
+
+## CE 15 | B2 | article d'opinion | opinion
+DOC: Les mesures qui interdisent l'accès des centres-villes aux véhicules les plus polluants partent d'une bonne intention : améliorer la qualité de l'air. Mais elles pénalisent d'abord ceux qui n'ont pas les moyens de changer de voiture. Sans aides suffisantes et sans transports en commun efficaces, ces mesures risquent d'être vécues comme une injustice et rejetées.
+Q: Quel est l'avis de l'auteur sur ces mesures ?
++ Elles sont utiles mais risquent d'être injustes sans accompagnement. | « Sans aides suffisantes… ces mesures risquent d'être vécues comme une injustice ».
+- Elles sont inutiles pour la qualité de l'air. | Il reconnaît leur « bonne intention ».
+- Elles avantagent les ménages modestes. | Elles les pénalisent d'abord.
+- Elles doivent être supprimées immédiatement. | Il demande des mesures d'accompagnement.
+EXP: L'auteur reconnaît l'objectif puis formule une critique avec « mais ». La condition « sans aides… » révèle ce qu'il souhaite.
+
+## CE 16 | B2 | rapport | compréhension globale
+DOC: Selon une enquête nationale sur la mobilité, la voiture reste le premier mode de transport pour se rendre au travail. Toutefois, dans les grandes villes, la part du vélo a fortement progressé depuis cinq ans, notamment grâce aux nouvelles pistes cyclables. Dans les zones rurales, en revanche, la dépendance à la voiture reste presque totale, faute d'alternatives.
+Q: Quel constat principal ce rapport fait-il ?
++ Les pratiques de mobilité évoluent différemment selon les territoires. | Le vélo progresse dans les grandes villes, pas dans les zones rurales.
+- La voiture a disparu des grandes villes. | Elle reste le premier mode de transport.
+- Le vélo progresse partout de la même façon. | Les zones rurales restent dépendantes de la voiture.
+- Les zones rurales disposent de nombreuses alternatives. | Il y a un manque d'alternatives.
+EXP: « Toutefois » et « en revanche » introduisent des contrastes. Le constat principal est l'inégalité entre territoires.
+
+## CE 17 | B2 | lettre de réclamation | intention
+DOC: Monsieur, je loue l'appartement du 12 rue Pasteur depuis deux ans. Depuis le mois de novembre, le chauffage ne fonctionne plus correctement : la température ne dépasse pas 15 °C. Je vous ai signalé ce problème par téléphone à deux reprises, sans suite. Je vous rappelle que le propriétaire est tenu d'assurer le bon fonctionnement des équipements. Je vous demande donc de faire intervenir un chauffagiste dans les plus brefs délais.
+Q: Quel est le but de cette lettre ?
++ Obtenir une réparation en rappelant au propriétaire ses obligations. | Le locataire demande l'intervention d'un chauffagiste et cite la règle.
+- Annoncer qu'il quitte l'appartement. | Ce n'est pas mentionné.
+- Demander une baisse du loyer. | Il demande une réparation.
+- Remercier le propriétaire pour son intervention. | Le propriétaire n'a pas réagi.
+EXP: La lettre suit une structure formelle : faits, démarches déjà faites, rappel d'une obligation, demande précise.
+
+## CE 18 | B2 | article | information précise
+DOC: Un abonnement unique permet désormais d'utiliser les trains régionaux, les bus et les tramways de la région. Il coûte 70 euros par mois pour les adultes et la moitié pour les moins de vingt-six ans. Les salariés peuvent en outre se faire rembourser au moins la moitié de leur abonnement par leur employeur, comme le prévoit la loi.
+Q: Quel avantage les salariés ont-ils ?
++ Leur employeur rembourse au moins la moitié de l'abonnement. | Ils peuvent « se faire rembourser au moins la moitié de leur abonnement ».
+- Ils paient la moitié du tarif comme les jeunes. | La réduction de moitié concerne les moins de vingt-six ans.
+- Ils voyagent gratuitement le week-end. | Ce n'est pas mentionné.
+- Ils peuvent utiliser les trains nationaux. | L'abonnement est régional.
+EXP: L'article présente deux réductions différentes : l'une selon l'âge, l'autre par l'employeur. Il faut les distinguer.
+
+## CE 19 | B2 | chronique | inférence
+DOC: J'ai visité un appartement « lumineux et calme, proche de toutes commodités ». Lumineux, il l'était : il n'y avait pas de volets. Calme, sans doute, à condition d'aimer le bruit du périphérique. Quant aux commodités, la boulangerie la plus proche était à vingt minutes à pied. J'ai appris ce jour-là à lire les petites annonces comme on lit un poème : entre les lignes.
+Q: Que comprend-on de cette chronique ?
++ Les annonces immobilières embellissent souvent la réalité. | L'auteur montre l'écart entre l'annonce et l'appartement réel.
+- L'appartement correspondait parfaitement à l'annonce. | Chaque qualité se révèle trompeuse.
+- L'auteur a loué cet appartement. | Rien ne l'indique.
+- L'auteur n'aime pas la poésie. | La poésie sert de comparaison.
+EXP: La chronique reprend chaque adjectif de l'annonce pour le contredire avec ironie. La dernière phrase tire la leçon.
+
+## CE 20 | B2 | guide pratique | information précise
+DOC: Déménager : les démarches à ne pas oublier. Un mois avant : résiliez ou transférez vos contrats d'électricité, de gaz et d'internet. Deux semaines avant : faites suivre votre courrier grâce au service de La Poste. Après le déménagement : déclarez votre changement d'adresse aux organismes publics, de préférence en ligne, et modifiez l'adresse de votre carte grise dans le mois qui suit.
+Q: Quand faut-il modifier l'adresse de sa carte grise ?
++ Dans le mois qui suit le déménagement. | « modifiez l'adresse de votre carte grise dans le mois qui suit ».
+- Un mois avant le déménagement. | Cela concerne les contrats d'énergie et d'internet.
+- Deux semaines avant. | Cela concerne le courrier.
+- Ce n'est pas obligatoire. | Le guide le demande.
+EXP: Le guide est organisé chronologiquement. Repérez la période correspondant à la démarche demandée.
+
+## CE 21 | B2 | éditorial | opinion
+DOC: Les grandes villes rivalisent pour attirer les touristes, les congrès et les sièges d'entreprises. Fort bien. Mais une ville n'est pas une vitrine : c'est d'abord un lieu de vie. Quand les loyers chassent les familles, quand les commerces de proximité laissent place aux boutiques de souvenirs, la ville gagne peut-être en prestige, mais elle perd ce qui faisait son charme.
+Q: Quelle est la position de l'éditorialiste ?
++ Une ville doit rester d'abord au service de ses habitants. | « c'est d'abord un lieu de vie ».
+- Les villes doivent attirer encore plus de touristes. | Il en souligne les effets négatifs.
+- Les boutiques de souvenirs font le charme des villes. | Elles remplacent les commerces de proximité.
+- Les loyers sont trop bas dans les grandes villes. | Ils « chassent les familles ».
+EXP: « Fort bien » est une concession brève. La métaphore « une ville n'est pas une vitrine » exprime la thèse.
+
+## CE 22 | B2 | article | compréhension globale
+DOC: Les toits des immeubles, longtemps inutilisés, deviennent des espaces précieux. Dans plusieurs villes, on y installe des potagers, des ruches, des panneaux solaires ou des terrasses ouvertes aux habitants. Ces aménagements rafraîchissent les bâtiments en été et créent des lieux de rencontre. Leur développement reste toutefois limité par le coût des travaux et les contraintes de sécurité.
+Q: Quel est le sujet de l'article ?
++ La nouvelle utilisation des toits en ville et ses limites. | L'article décrit les usages, les avantages puis les freins.
+- L'interdiction d'accéder aux toits. | Des terrasses sont ouvertes aux habitants.
+- La vente de miel en ville. | Les ruches sont un exemple parmi d'autres.
+- Le prix élevé des panneaux solaires uniquement. | Le coût concerne l'ensemble des travaux.
+EXP: L'article suit le plan constat, exemples, avantages, limites (« toutefois »). Le thème doit inclure ces dimensions.
+
+## CE 23 | B2 | règlement | inférence
+DOC: Jardins familiaux municipaux – Règlement. Les parcelles sont attribuées pour trois ans renouvelables. Le jardinier s'engage à cultiver sa parcelle régulièrement ; une parcelle laissée à l'abandon plus de trois mois pourra être réattribuée. L'usage de pesticides chimiques est interdit. La vente des récoltes est interdite : elles sont réservées à la consommation familiale.
+Q: Que peut-on déduire de ce règlement ?
++ Un jardinier qui ne s'occupe pas de sa parcelle pendant un été risque de la perdre. | Une parcelle abandonnée « plus de trois mois pourra être réattribuée ».
+- On peut vendre ses légumes au marché. | La vente est interdite.
+- Les parcelles sont attribuées à vie. | Elles le sont pour trois ans renouvelables.
+- Les pesticides sont autorisés en petite quantité. | Ils sont interdits.
+EXP: Un été dure environ trois mois : en appliquant la règle à ce cas concret, on déduit le risque.
+
+## CE 24 | B2 | tribune | intention
+DOC: Je suis urbaniste, et je voudrais rappeler une évidence trop souvent oubliée : une ville accessible aux personnes âgées, aux enfants et aux personnes handicapées est une ville plus agréable pour tous. Des trottoirs larges, des bancs réguliers, des feux qui laissent le temps de traverser profitent aussi aux parents avec une poussette ou aux voyageurs avec une valise. Pensons nos rues à partir des plus vulnérables.
+Q: Que cherche à faire l'auteur ?
++ Convaincre que l'accessibilité améliore la ville pour l'ensemble des habitants. | « une ville plus agréable pour tous ».
+- Demander des aménagements réservés aux personnes âgées. | Il montre que tous en profitent.
+- Critiquer les parents avec poussette. | Ils sont cités comme bénéficiaires.
+- Présenter un projet immobilier. | Ce n'est pas le sujet.
+EXP: L'auteur énonce une thèse, l'illustre par des exemples variés et conclut par un appel (« pensons »).
+
+## CE 25 | B2 | essai | compréhension globale
+DOC: Le logement n'est pas un bien comme les autres. On peut renoncer à une voiture ou à des vacances, mais pas à un toit. C'est pourquoi la plupart des pays encadrent le marché du logement : aides aux locataires, logements sociaux, règles sur les loyers. Laisser le seul marché décider, c'est accepter que certains, même en travaillant, ne puissent plus se loger dignement.
+Q: Quelle est la thèse de l'auteur ?
++ Le logement étant un besoin essentiel, l'État doit intervenir sur ce marché. | « Le logement n'est pas un bien comme les autres » et justifie l'encadrement.
+- Le marché du logement doit être totalement libre. | Il critique cette idée.
+- Le logement est un bien de luxe. | Il le compare aux besoins vitaux.
+- Les aides au logement doivent être supprimées. | Il les présente comme justifiées.
+EXP: L'essai pose une thèse, la justifie par une comparaison, puis en tire les conséquences (« c'est pourquoi »). La dernière phrase réfute la position inverse.
+
+## EE 1 | B2 | répondre à un message
+CONSIGNE: Votre nouvelle voisine, Mme Rossi, vous écrit : « Je viens d'emménager dans le quartier et je ne connais personne. Pourriez-vous me conseiller deux ou trois bonnes adresses ? » Répondez-lui (30 à 60 mots).
+MODELE: Bonjour Madame Rossi, bienvenue dans le quartier ! Je vous recommande la boulangerie de la place, dont le pain au levain est excellent. Le marché du jeudi matin est aussi très agréable. Enfin, la médiathèque organise des rencontres où l'on fait facilement connaissance. N'hésitez pas à frapper chez moi si besoin. Bien cordialement, Julie
+POINTS: souhaiter la bienvenue ; donner une première adresse ; donner d'autres adresses ; proposer son aide
+COMMENTAIRE: Le message est chaleureux et utile. Les adresses sont précises et justifiées, avec une relative en « dont » et un connecteur de clôture (« enfin »).
+CONSEILS: Justifiez chaque recommandation par un détail concret : c'est ce qui rend votre message utile et naturel.
+
+## EE 2 | B2 | raconter une expérience
+CONSIGNE: Racontez sur un forum un déménagement ou une recherche de logement qui vous a marqué : ce qui s'est passé, les difficultés rencontrées et ce que vous en retenez (40 à 90 mots).
+MODELE: Quand je suis arrivé à Lyon, j'ai cherché un appartement pendant trois mois. Les propriétaires demandaient un garant que je n'avais pas, et j'ai visité des logements très différents de leurs annonces. Un jour, une agence m'a parlé d'une garantie publique gratuite pour les locataires. Grâce à elle, mon dossier a enfin été accepté. Depuis, je conseille à tous mes amis de se renseigner sur les aides avant de commencer leurs recherches, car on gagne beaucoup de temps.
+POINTS: situer l'expérience ; décrire les difficultés ; raconter le dénouement ; tirer une leçon
+COMMENTAIRE: Le récit est clair, avec une progression (difficultés, tournant, solution) et une leçon pratique. Les temps du passé et les connecteurs sont bien maîtrisés.
+CONSEILS: Marquez le moment où la situation change (« un jour », « c'est alors que ») pour donner du rythme à votre récit.
+
+## EE 3 | B2 | donner son opinion à partir de deux documents
+CONSIGNE: Document 1 : « Il faut interdire les voitures dans les centres-villes pour réduire la pollution et rendre l'espace aux piétons. » Document 2 : « Interdire les voitures en ville pénalise les commerçants, les personnes âgées et ceux qui habitent loin. » Présentez ces deux opinions, puis donnez votre avis argumenté (40 à 90 mots).
+MODELE: Le premier document souhaite bannir la voiture des centres-villes pour lutter contre la pollution, alors que le second souligne les difficultés que cela poserait aux commerçants et aux personnes éloignées ou âgées. Personnellement, je suis favorable à une réduction progressive de la circulation. Il faudrait d'abord développer des parkings relais et des navettes gratuites, puis fermer certaines rues. De cette façon, on améliorerait la qualité de l'air sans exclure ceux qui dépendent encore de leur voiture.
+POINTS: résumer le document 1 ; résumer le document 2 ; prendre position ; justifier ; proposer une démarche
+COMMENTAIRE: La reformulation est fidèle et la position est nuancée. La proposition est organisée dans le temps (« d'abord… puis ») et la conclusion répond aux deux documents.
+CONSEILS: Montrez que votre solution répond aux objections du document opposé : c'est la marque d'une argumentation solide.
+
+## EO 1 | B2 | Entretien dirigé | Examinateur
+SCENARIO: L'examinateur vous interroge sur votre logement et votre quartier : où vous habitez, ce que vous appréciez, vos déplacements quotidiens et le logement de vos rêves.
+RELANCES: Pouvez-vous vous présenter ? / Où habitez-vous ? / Qu'aimez-vous dans votre quartier ? / Comment vous déplacez-vous ? / À quoi ressemblerait votre logement idéal ?
+PHRASES: J'habite dans… / Ce que j'apprécie, c'est… / Mon logement idéal serait…
+MODELE: Je m'appelle Samir, j'ai trente-huit ans et je suis électricien. J'habite dans un appartement de trois pièces en banlieue, avec ma femme et nos deux enfants. Ce que j'apprécie, c'est le parc juste en bas de l'immeuble, où les enfants jouent après l'école. Pour aller au travail, je prends le tramway, ce qui me permet de lire un peu. Mon logement idéal serait une petite maison avec un jardin, mais pas trop loin de la ville, pour ne pas dépendre de la voiture.
+COMMENTAIRE: Le candidat donne des informations précises, utilise des relatives et une mise en relief, et formule un souhait nuancé au conditionnel.
+CONSEILS: Utilisez le conditionnel pour parler de vos souhaits et ajoutez une nuance (« mais pas trop loin… ») pour montrer votre niveau.
+
+## EO 2 | B2 | Négocier avec son propriétaire | Propriétaire
+SCENARIO: Votre propriétaire veut augmenter votre loyer de cent euros par mois. Vous trouvez cette hausse excessive, car l'appartement a des défauts (fenêtres mal isolées, chauffage ancien). Vous le rencontrez (l'examinateur) pour négocier.
+RELANCES: Les prix ont augmenté partout dans le quartier. / J'ai des charges, moi aussi. / Si vous n'êtes pas content, vous pouvez partir. / Que proposez-vous ?
+PHRASES: Je comprends que… / Cependant… / Je vous propose de…
+MODELE: Bonjour, je souhaitais vous parler de l'augmentation du loyer. Je comprends que vos charges augmentent, et je suis un locataire sérieux depuis quatre ans. Cependant, cent euros représentent une hausse importante, alors que les fenêtres laissent passer le froid et que le chauffage est très ancien. Je vous propose une augmentation plus modérée, de quarante euros, ou bien une hausse plus importante après le remplacement des fenêtres. Ainsi, vous valoriseriez votre bien et je réduirais mes factures.
+COMMENTAIRE: Le candidat reste courtois, rappelle sa fiabilité, argumente avec des faits précis et propose deux solutions. La négociation est réaliste et équilibrée.
+CONSEILS: Dans une négociation, proposez toujours une alternative chiffrée : cela montre votre bonne volonté et oriente la discussion.
+
+## EO 3 | B2 | Vaut-il mieux vivre en ville ou à la campagne ? | Examinateur
+SCENARIO: Depuis quelques années, certains citadins quittent les grandes villes pour s'installer à la campagne, tandis que d'autres ne pourraient pas vivre loin des services urbains. Selon vous, vaut-il mieux vivre en ville ou à la campagne ? Défendez votre point de vue.
+RELANCES: À la campagne, on est isolé. / En ville, tout est trop cher. / Le télétravail change tout. / Et pour les enfants ?
+PHRASES: Pour ma part… / Tout dépend de… / Il est vrai que…, mais…
+MODELE: Pour ma part, tout dépend du moment de la vie. Quand on est étudiant ou jeune actif, la ville offre des emplois, des rencontres et des sorties. Il est vrai que les loyers sont élevés, mais on peut se passer de voiture. En revanche, avec des enfants, la campagne présente de vrais avantages : plus d'espace, plus de nature, moins de stress. Grâce au télétravail, beaucoup peuvent désormais combiner les deux. L'idéal serait sans doute une petite ville bien desservie.
+COMMENTAIRE: Le candidat refuse une réponse simpliste, distingue les étapes de la vie, compare avantages et inconvénients et propose une synthèse. Les connecteurs sont variés.
+CONSEILS: Une réponse nuancée (« tout dépend de… ») doit rester structurée : présentez clairement chaque cas, puis concluez.

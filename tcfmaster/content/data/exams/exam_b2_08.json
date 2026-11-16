@@ -1,0 +1,1996 @@
+{
+ "code": "B2-BLANC-08",
+ "title": "Examen blanc B2 n° 8 – Ville, logement et mobilité",
+ "level": "B2",
+ "description": "Examen complet de niveau B2 aux durées officielles : logement, voisinage, transports, aménagement urbain.",
+ "CO": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "intention",
+   "document": "F: Bonjour Monsieur Dubois, c'est Madame Lambert, votre voisine du dessous. Je suis désolée de vous déranger, mais depuis hier soir, il y a une tache d'humidité qui s'agrandit au plafond de ma salle de bains, juste sous la vôtre. Est-ce que vous pourriez vérifier s'il n'y a pas une fuite chez vous ? Je préférerais qu'on règle ça ensemble avant de prévenir les assurances.",
+   "prompt": "Pourquoi Mme Lambert appelle-t-elle son voisin ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pour lui demander de vérifier une éventuelle fuite chez lui.",
+     "correct": true,
+     "rationale": "« Est-ce que vous pourriez vérifier s'il n'y a pas une fuite chez vous ? »"
+    },
+    {
+     "label": "B",
+     "text": "Pour lui proposer de refaire sa salle de bains.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Pour l'informer qu'elle a déjà prévenu les assurances.",
+     "correct": false,
+     "rationale": "Elle préfère régler le problème avant de les prévenir."
+    },
+    {
+     "label": "D",
+     "text": "Pour se plaindre du bruit qu'il fait le soir.",
+     "correct": false,
+     "rationale": "Elle parle d'une tache d'humidité."
+    }
+   ],
+   "explanation": "Le message est poli (« je suis désolée de vous déranger ») et présente un problème, une demande et une intention de règlement amiable. La demande est formulée au conditionnel.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co01.wav"
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "reportage radio",
+   "skill": "information précise",
+   "document": "H: À partir du 1er septembre, la vitesse sera limitée à trente kilomètres par heure dans toutes les rues du centre-ville, à l'exception des grands boulevards, où elle restera fixée à cinquante. La mairie justifie cette mesure par la baisse du bruit et du nombre d'accidents graves observée dans les villes qui l'ont déjà adoptée.",
+   "prompt": "Où la vitesse restera-t-elle limitée à cinquante kilomètres par heure ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Près des écoles uniquement.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "Dans toutes les rues du centre-ville.",
+     "correct": false,
+     "rationale": "La limite y passe à trente."
+    },
+    {
+     "label": "C",
+     "text": "Sur les grands boulevards.",
+     "correct": true,
+     "rationale": "« à l'exception des grands boulevards, où elle restera fixée à cinquante »."
+    },
+    {
+     "label": "D",
+     "text": "Sur les routes de campagne.",
+     "correct": false,
+     "rationale": "Le reportage parle du centre-ville."
+    }
+   ],
+   "explanation": "« À l'exception de » introduit une exception à la règle générale. La justification (bruit, accidents) est une information secondaire pour cette question.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co02.wav"
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "H: Avec les prix des loyers, on devrait peut-être quitter la ville et s'installer à la campagne. / F: Je comprends, mais il faut tout calculer. Là-bas, on aurait besoin de deux voitures, et les trajets nous prendraient deux heures par jour. Ce qu'on économiserait sur le loyer, on le dépenserait en essence. Moi, je préférerais un appartement plus petit, mais bien desservi.",
+   "prompt": "Quelle est la position de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle veut absolument vivre à la campagne.",
+     "correct": false,
+     "rationale": "Elle préfère rester en ville."
+    },
+    {
+     "label": "B",
+     "text": "Elle doute que le départ à la campagne soit vraiment avantageux.",
+     "correct": true,
+     "rationale": "« Ce qu'on économiserait sur le loyer, on le dépenserait en essence »."
+    },
+    {
+     "label": "C",
+     "text": "Elle souhaite acheter une deuxième voiture.",
+     "correct": false,
+     "rationale": "C'est une contrainte qu'elle cite pour refuser."
+    },
+    {
+     "label": "D",
+     "text": "Elle trouve les loyers raisonnables.",
+     "correct": false,
+     "rationale": "Elle ne conteste pas leur niveau élevé."
+    }
+   ],
+   "explanation": "La femme concède (« je comprends, mais ») puis développe un calcul. Sa conclusion au conditionnel exprime sa préférence.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co03.wav"
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "annonce publique",
+   "skill": "information précise",
+   "document": "F: Mesdames et Messieurs, en raison d'un incident technique, le trafic est interrompu sur la ligne B entre les stations Gare et Université. Un service de bus de remplacement est mis en place au départ de la sortie numéro deux. Les titres de transport habituels sont acceptés dans ces bus. Le trafic devrait reprendre vers dix-huit heures.",
+   "prompt": "Que doivent faire les voyageurs pour prendre le bus de remplacement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Attendre dix-huit heures en station.",
+     "correct": false,
+     "rationale": "C'est l'heure prévue de reprise du trafic."
+    },
+    {
+     "label": "B",
+     "text": "Changer à la station Université.",
+     "correct": false,
+     "rationale": "Le trafic y est interrompu."
+    },
+    {
+     "label": "C",
+     "text": "Acheter un ticket de bus spécial.",
+     "correct": false,
+     "rationale": "Les titres habituels sont acceptés."
+    },
+    {
+     "label": "D",
+     "text": "Se rendre à la sortie numéro deux avec leur titre habituel.",
+     "correct": true,
+     "rationale": "Le bus part « de la sortie numéro deux » et les titres habituels sont acceptés."
+    }
+   ],
+   "explanation": "L'annonce donne une cause, une solution (lieu de départ) et une précision pratique (titres acceptés). L'heure de reprise est un distracteur.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co04.wav"
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "compréhension globale",
+   "document": "F: Vous avez créé une colocation entre étudiants et personnes âgées. Comment ça marche ? / H: Des personnes âgées qui vivent seules dans un grand logement accueillent un étudiant. L'étudiant paie un loyer très modeste et, en échange, il assure une présence le soir, partage parfois un repas ou aide pour les courses. Ce n'est pas un service de soins : c'est d'abord une relation humaine qui rompt l'isolement des deux côtés.",
+   "prompt": "Quel est le sujet de l'interview ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un service de soins à domicile.",
+     "correct": false,
+     "rationale": "« Ce n'est pas un service de soins »."
+    },
+    {
+     "label": "B",
+     "text": "Une résidence universitaire réservée aux étudiants.",
+     "correct": false,
+     "rationale": "Les étudiants vivent chez des personnes âgées."
+    },
+    {
+     "label": "C",
+     "text": "La hausse des loyers étudiants.",
+     "correct": false,
+     "rationale": "Ce n'est pas le thème principal."
+    },
+    {
+     "label": "D",
+     "text": "Un logement partagé entre générations qui profite aux deux parties.",
+     "correct": true,
+     "rationale": "Il « rompt l'isolement des deux côtés »."
+    }
+   ],
+   "explanation": "L'homme décrit le principe, précise ce que ce n'est pas, puis donne le sens profond du projet. La négation corrective aide à éliminer un distracteur.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co05.wav"
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "chronique radio",
+   "skill": "inférence",
+   "document": "H: Notre ville a dépensé des millions pour créer une magnifique piste cyclable le long du fleuve. Elle est large, éclairée, bordée d'arbres. Seul petit détail : elle s'arrête brutalement à l'entrée du centre-ville, là où les cyclistes en auraient le plus besoin, et reprend trois kilomètres plus loin.",
+   "prompt": "Que laisse entendre le chroniqueur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La piste cyclable a été mal pensée malgré son coût.",
+     "correct": true,
+     "rationale": "Le « petit détail » est en réalité un défaut majeur."
+    },
+    {
+     "label": "B",
+     "text": "Les cyclistes préfèrent rouler en centre-ville sans piste.",
+     "correct": false,
+     "rationale": "Il dit qu'ils en auraient besoin."
+    },
+    {
+     "label": "C",
+     "text": "La piste cyclable est parfaitement adaptée aux besoins.",
+     "correct": false,
+     "rationale": "Elle s'interrompt là où elle serait le plus utile."
+    },
+    {
+     "label": "D",
+     "text": "La ville aurait dû planter plus d'arbres.",
+     "correct": false,
+     "rationale": "Les arbres sont cités comme une qualité."
+    }
+   ],
+   "explanation": "L'expression « seul petit détail » est ironique : elle minimise un problème important. L'ironie est un procédé fréquent dans les chroniques.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co06.wav"
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "débat radio",
+   "skill": "opinion",
+   "document": "F: Faut-il rendre les transports en commun gratuits ? / H: Je suis réservé. La gratuité attire surtout des piétons et des cyclistes, pas les automobilistes qu'on voudrait convaincre. Et elle prive le réseau de ressources. Je préférerais qu'on investisse dans la fréquence et la ponctualité des bus : c'est ça qui fait changer les habitudes.",
+   "prompt": "Quelle est l'opinion de l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La gratuité convaincra les automobilistes.",
+     "correct": false,
+     "rationale": "Il affirme le contraire."
+    },
+    {
+     "label": "B",
+     "text": "Il faut supprimer les bus.",
+     "correct": false,
+     "rationale": "Il veut au contraire les améliorer."
+    },
+    {
+     "label": "C",
+     "text": "Améliorer la qualité du service serait plus efficace que la gratuité.",
+     "correct": true,
+     "rationale": "Il préfère investir « dans la fréquence et la ponctualité »."
+    },
+    {
+     "label": "D",
+     "text": "Les transports en commun sont trop fréquents.",
+     "correct": false,
+     "rationale": "Il demande plus de fréquence."
+    }
+   ],
+   "explanation": "L'homme exprime une réserve, la justifie par deux arguments, puis propose une alternative au conditionnel (« je préférerais »).",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co07.wav"
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "message professionnel",
+   "skill": "information précise",
+   "document": "H: Bonjour Madame Nguyen, ici l'agence immobilière Horizon. Le propriétaire a accepté votre dossier pour l'appartement de la rue des Lilas. Pour la signature du bail, mardi à quatorze heures, merci d'apporter le dépôt de garantie par virement ou par chèque, ainsi que l'attestation d'assurance habitation, sans laquelle nous ne pourrons pas vous remettre les clés.",
+   "prompt": "Quel document est indispensable pour obtenir les clés ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Une lettre du propriétaire.",
+     "correct": false,
+     "rationale": "Le propriétaire a déjà accepté le dossier."
+    },
+    {
+     "label": "B",
+     "text": "L'attestation d'assurance habitation.",
+     "correct": true,
+     "rationale": "« sans laquelle nous ne pourrons pas vous remettre les clés »."
+    },
+    {
+     "label": "C",
+     "text": "Un état des lieux signé par l'ancien locataire.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Les trois derniers bulletins de salaire.",
+     "correct": false,
+     "rationale": "Ils ne sont pas demandés ici."
+    }
+   ],
+   "explanation": "La relative « sans laquelle » exprime une condition indispensable. C'est un marqueur grammatical important au niveau B2.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co08.wav"
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "intention",
+   "document": "F: Pourquoi votre quartier a-t-il décidé de fermer cette rue aux voitures devant l'école ? / H: Parce que chaque matin, c'était le chaos : des voitures garées sur le trottoir, des enfants qui slalomaient entre les pare-chocs. Depuis que la rue est piétonne aux heures d'entrée et de sortie, les enfants viennent davantage à pied ou à vélo. Les parents qui doivent absolument prendre la voiture se garent cent mètres plus loin. Ce n'est pas un grand sacrifice.",
+   "prompt": "Que cherche à faire l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Justifier une mesure et montrer qu'elle est peu contraignante.",
+     "correct": true,
+     "rationale": "Il décrit le problème passé, les effets positifs et conclut « ce n'est pas un grand sacrifice »."
+    },
+    {
+     "label": "B",
+     "text": "Annoncer la construction d'un parking.",
+     "correct": false,
+     "rationale": "Ce n'est pas évoqué."
+    },
+    {
+     "label": "C",
+     "text": "Demander la réouverture de la rue aux voitures.",
+     "correct": false,
+     "rationale": "Il défend la fermeture."
+    },
+    {
+     "label": "D",
+     "text": "Critiquer les parents qui viennent à pied.",
+     "correct": false,
+     "rationale": "Il s'en réjouit."
+    }
+   ],
+   "explanation": "La réponse oppose « avant » (chaos) et « depuis » (amélioration). La dernière phrase répond à une objection possible.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co09.wav"
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "H: Dans ce quartier construit dans les années soixante, les barres d'immeubles sont en cours de rénovation. Plutôt que de les démolir, la ville a choisi de les isoler, d'agrandir les balcons et de créer des jardins partagés au pied des bâtiments. Les habitants ont été consultés à chaque étape. Résultat : les factures de chauffage ont baissé de moitié, et plusieurs familles qui voulaient partir ont décidé de rester.",
+   "prompt": "Quel est le sujet principal du reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La construction d'un nouveau quartier.",
+     "correct": false,
+     "rationale": "Il s'agit d'une rénovation."
+    },
+    {
+     "label": "B",
+     "text": "Le départ massif des habitants du quartier.",
+     "correct": false,
+     "rationale": "Des familles ont décidé de rester."
+    },
+    {
+     "label": "C",
+     "text": "Une rénovation concertée qui a amélioré la vie des habitants.",
+     "correct": true,
+     "rationale": "Les habitants ont été consultés et les résultats sont positifs."
+    },
+    {
+     "label": "D",
+     "text": "La démolition d'immeubles anciens.",
+     "correct": false,
+     "rationale": "La ville a choisi de ne pas démolir."
+    }
+   ],
+   "explanation": "« Plutôt que de les démolir » écarte une solution. La conclusion introduite par « résultat » donne le bilan qui résume le reportage.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co10.wav"
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "conversation administrative",
+   "skill": "information précise",
+   "document": "F: Bonjour, je déménage le mois prochain. Que dois-je faire pour ma demande de logement social ? / H: Vous devez mettre à jour votre adresse dans votre dossier en ligne, sinon vous ne recevrez pas nos courriers. En revanche, vous gardez la même date de dépôt : votre ancienneté n'est pas perdue. Pensez aussi à renouveler votre demande chaque année, à la date anniversaire.",
+   "prompt": "Que garde la femme malgré son déménagement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Son ancienne adresse dans le dossier.",
+     "correct": false,
+     "rationale": "Elle doit la mettre à jour."
+    },
+    {
+     "label": "B",
+     "text": "L'ancienneté de sa demande.",
+     "correct": true,
+     "rationale": "« vous gardez la même date de dépôt : votre ancienneté n'est pas perdue »."
+    },
+    {
+     "label": "C",
+     "text": "Une dispense de renouvellement.",
+     "correct": false,
+     "rationale": "Elle doit renouveler chaque année."
+    },
+    {
+     "label": "D",
+     "text": "Une priorité automatique.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "L'employé donne une obligation, puis une information rassurante introduite par « en revanche ». La reformulation après les deux-points confirme la réponse.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co11.wav"
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "opinion",
+   "document": "F: Les trottinettes électriques en libre-service ont envahi nos trottoirs, puis beaucoup ont disparu après des décisions municipales. Je ne regrette pas ces engins abandonnés en travers du passage. Mais je regrette qu'on ait jeté le bébé avec l'eau du bain. Une trottinette bien encadrée, avec des places de stationnement dédiées, reste une bonne solution pour les petits trajets.",
+   "prompt": "Quelle est l'opinion de la chroniqueuse ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les trottinettes sont adaptées aux longs trajets.",
+     "correct": false,
+     "rationale": "Elle parle des petits trajets."
+    },
+    {
+     "label": "B",
+     "text": "Les trottinettes devaient absolument être interdites.",
+     "correct": false,
+     "rationale": "Elle regrette leur disparition totale."
+    },
+    {
+     "label": "C",
+     "text": "Les trottoirs étaient mieux avec les trottinettes abandonnées.",
+     "correct": false,
+     "rationale": "Elle ne regrette pas les engins abandonnés."
+    },
+    {
+     "label": "D",
+     "text": "Il aurait fallu encadrer les trottinettes plutôt que de les supprimer.",
+     "correct": true,
+     "rationale": "« je regrette qu'on ait jeté le bébé avec l'eau du bain »."
+    }
+   ],
+   "explanation": "L'expression « jeter le bébé avec l'eau du bain » signifie rejeter une chose utile en même temps que ses défauts. Elle résume la critique de la chroniqueuse.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co12.wav"
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "inférence",
+   "document": "H: Vous êtes gardienne d'immeuble depuis vingt ans. Qu'est-ce qui a changé ? / F: Avant, je connaissais tout le monde, les enfants, les grands-parents. Aujourd'hui, beaucoup d'appartements sont loués pour quelques nuits à des touristes. Je vois passer des valises, je donne des codes, mais je ne connais plus mes voisins. Le hall est devenu une sorte de réception d'hôtel.",
+   "prompt": "Que comprend-on des propos de la gardienne ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle travaille désormais dans un hôtel.",
+     "correct": false,
+     "rationale": "C'est une comparaison."
+    },
+    {
+     "label": "B",
+     "text": "Elle est ravie de l'arrivée des touristes.",
+     "correct": false,
+     "rationale": "Elle exprime plutôt un regret."
+    },
+    {
+     "label": "C",
+     "text": "Les enfants sont plus nombreux qu'avant.",
+     "correct": false,
+     "rationale": "Elle évoque le passé avec nostalgie."
+    },
+    {
+     "label": "D",
+     "text": "Les locations touristiques ont affaibli la vie de voisinage.",
+     "correct": true,
+     "rationale": "« je ne connais plus mes voisins » ; le hall ressemble à « une réception d'hôtel »."
+    }
+   ],
+   "explanation": "La gardienne ne critique pas explicitement, mais l'opposition « avant / aujourd'hui » et la comparaison finale révèlent son regret.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co13.wav"
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce radio",
+   "skill": "information précise",
+   "document": "F: La ville organise une collecte des encombrants le premier samedi de chaque mois. Les habitants doivent s'inscrire en ligne ou par téléphone au plus tard le mercredi précédent, en indiquant la liste des objets. Les déchets dangereux, comme les pots de peinture ou les batteries, ne sont pas collectés : ils doivent être déposés en déchetterie.",
+   "prompt": "Que faut-il faire des pots de peinture ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les signaler lors de l'inscription.",
+     "correct": false,
+     "rationale": "L'inscription concerne les encombrants."
+    },
+    {
+     "label": "B",
+     "text": "Les apporter en déchetterie.",
+     "correct": true,
+     "rationale": "« ils doivent être déposés en déchetterie »."
+    },
+    {
+     "label": "C",
+     "text": "Les jeter avec les ordures ménagères.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    },
+    {
+     "label": "D",
+     "text": "Les déposer avec les encombrants le samedi.",
+     "correct": false,
+     "rationale": "Ils « ne sont pas collectés »."
+    }
+   ],
+   "explanation": "L'annonce présente une règle générale puis une exception (« ne sont pas collectés ») avec la solution à suivre.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co14.wav"
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "intention",
+   "document": "H: Tu signes le bail demain ? Tu as bien fait l'état des lieux ? / F: Pas encore, c'est prévu juste avant. / H: Alors prends ton temps. Note chaque rayure, chaque tache, et prends des photos. Si tu oublies quelque chose, c'est toi qu'on accusera au moment de partir, et tu risques de perdre une partie de ton dépôt de garantie.",
+   "prompt": "Que veut faire l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Conseiller son amie pour qu'elle protège ses intérêts.",
+     "correct": true,
+     "rationale": "Il explique comment faire et pourquoi."
+    },
+    {
+     "label": "B",
+     "text": "Lui proposer de faire l'état des lieux à sa place.",
+     "correct": false,
+     "rationale": "Il lui donne des conseils."
+    },
+    {
+     "label": "C",
+     "text": "Lui reprocher d'avoir déjà signé.",
+     "correct": false,
+     "rationale": "Elle n'a pas encore signé."
+    },
+    {
+     "label": "D",
+     "text": "La décourager de louer cet appartement.",
+     "correct": false,
+     "rationale": "Il ne remet pas en cause la location."
+    }
+   ],
+   "explanation": "Les impératifs (« prends », « note ») et la conséquence négative (« tu risques de perdre ») montrent une intention de conseil et de mise en garde.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co15.wav"
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "compréhension globale",
+   "document": "F: Dans cette ville moyenne, de nombreux commerces du centre avaient fermé au profit des zones commerciales périphériques. La municipalité a racheté plusieurs locaux vides pour les louer à prix réduit à de jeunes commerçants et artisans, à condition qu'ils s'engagent pour trois ans. Une boulangerie, une librairie et un atelier de couture ont ouvert. Peu à peu, les passants reviennent.",
+   "prompt": "De quoi parle ce reportage ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "De l'ouverture d'une nouvelle zone commerciale.",
+     "correct": false,
+     "rationale": "Elles sont présentées comme la cause du problème."
+    },
+    {
+     "label": "B",
+     "text": "De la hausse des loyers commerciaux.",
+     "correct": false,
+     "rationale": "Les loyers sont réduits."
+    },
+    {
+     "label": "C",
+     "text": "D'une politique municipale pour redynamiser le centre-ville.",
+     "correct": true,
+     "rationale": "La mairie loue des locaux à prix réduit et les passants reviennent."
+    },
+    {
+     "label": "D",
+     "text": "De la fermeture d'une librairie.",
+     "correct": false,
+     "rationale": "Une librairie a ouvert."
+    }
+   ],
+   "explanation": "Le reportage suit le schéma problème, solution, résultat. La dernière phrase (« peu à peu ») indique un effet progressif.",
+   "speakers": [
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co16.wav"
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "interview",
+   "skill": "opinion",
+   "document": "H: Selon vous, à quoi ressemblera la ville idéale dans vingt ans ? / F: Je rêve d'une ville du quart d'heure, où l'on trouve à moins de quinze minutes à pied ou à vélo tout ce dont on a besoin : école, médecin, commerces, parc. Ça suppose de mélanger les logements, les bureaux et les services, au lieu de les séparer en quartiers spécialisés. C'est un changement profond, mais je le crois possible.",
+   "prompt": "Quelle est l'opinion de la femme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les quartiers doivent rester spécialisés.",
+     "correct": false,
+     "rationale": "Elle propose le contraire."
+    },
+    {
+     "label": "B",
+     "text": "La voiture restera le moyen de transport principal.",
+     "correct": false,
+     "rationale": "Elle parle de marche et de vélo."
+    },
+    {
+     "label": "C",
+     "text": "Ce changement est impossible.",
+     "correct": false,
+     "rationale": "Elle le croit « possible »."
+    },
+    {
+     "label": "D",
+     "text": "La ville devrait rapprocher logements, emplois et services.",
+     "correct": true,
+     "rationale": "Elle veut « mélanger les logements, les bureaux et les services »."
+    }
+   ],
+   "explanation": "La femme décrit un idéal, en précise la condition (« ça suppose ») et conclut avec une concession optimiste.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co17.wav"
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "message vocal",
+   "skill": "information précise",
+   "document": "H: Bonjour, ici le syndic de votre copropriété. Nous vous informons que l'ascenseur sera en travaux du lundi 6 au vendredi 10. Pendant cette période, les personnes à mobilité réduite qui le souhaitent peuvent nous contacter : un service de portage des courses sera organisé. Nous vous remercions de votre patience.",
+   "prompt": "Quel service est proposé pendant les travaux ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Un hébergement à l'hôtel.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "B",
+     "text": "Un portage des courses pour les personnes à mobilité réduite.",
+     "correct": true,
+     "rationale": "« un service de portage des courses sera organisé »."
+    },
+    {
+     "label": "C",
+     "text": "Un ascenseur provisoire.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "D",
+     "text": "Une réduction des charges.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    }
+   ],
+   "explanation": "Le message annonce une gêne, puis une mesure d'accompagnement destinée à un public précis.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co18.wav"
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "débat",
+   "skill": "inférence",
+   "document": "F: On construit toujours plus de logements neufs en périphérie. / H: Pendant ce temps, dans les centres de nos petites villes, des milliers d'appartements restent vides parce qu'ils sont trop vieux ou mal isolés. Rénover coûte souvent plus cher que construire, c'est vrai. Mais chaque champ bétonné est perdu pour toujours.",
+   "prompt": "Que sous-entend l'homme ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Il faudrait privilégier la rénovation de l'existant à la construction en périphérie.",
+     "correct": true,
+     "rationale": "Il souligne les logements vides et la perte définitive des terres."
+    },
+    {
+     "label": "B",
+     "text": "Rénover est toujours moins cher que construire.",
+     "correct": false,
+     "rationale": "Il reconnaît que c'est souvent plus cher."
+    },
+    {
+     "label": "C",
+     "text": "Les appartements des centres sont tous occupés.",
+     "correct": false,
+     "rationale": "Des milliers restent vides."
+    },
+    {
+     "label": "D",
+     "text": "Construire en périphérie est la meilleure solution.",
+     "correct": false,
+     "rationale": "Il critique cette pratique."
+    }
+   ],
+   "explanation": "L'homme concède un argument (« c'est vrai ») avant de présenter un argument plus fort (« mais »). Sa préférence n'est pas formulée directement, il faut la déduire.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co19.wav"
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "conférence",
+   "skill": "compréhension globale",
+   "document": "H: Pendant les vagues de chaleur, la température en ville peut dépasser de plusieurs degrés celle de la campagne voisine. C'est ce qu'on appelle les îlots de chaleur urbains. Le béton et le bitume stockent la chaleur le jour et la restituent la nuit. Pour rafraîchir les villes, la solution la plus efficace reste la végétation : les arbres font de l'ombre et rafraîchissent l'air.",
+   "prompt": "Quelle est l'idée principale de la conférence ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le béton rafraîchit l'air la nuit.",
+     "correct": false,
+     "rationale": "Il restitue la chaleur."
+    },
+    {
+     "label": "B",
+     "text": "Les arbres augmentent la température.",
+     "correct": false,
+     "rationale": "Ils rafraîchissent l'air."
+    },
+    {
+     "label": "C",
+     "text": "Les villes surchauffent, et la végétation est la meilleure réponse.",
+     "correct": true,
+     "rationale": "« la solution la plus efficace reste la végétation »."
+    },
+    {
+     "label": "D",
+     "text": "La campagne est plus chaude que la ville.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    }
+   ],
+   "explanation": "Le conférencier définit un phénomène, en explique la cause, puis propose une solution. Le superlatif « la plus efficace » signale l'idée clé.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co20.wav"
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "interview radio",
+   "skill": "intention",
+   "document": "F: Pourquoi votre commune a-t-elle limité les nouvelles locations touristiques de courte durée ? / H: Parce que les familles ne trouvaient plus à se loger. Un propriétaire gagne davantage en louant aux touristes qu'à un habitant à l'année. Notre école a perdu deux classes en cinq ans. Nous ne sommes pas contre le tourisme, mais une ville sans habitants n'a plus d'âme.",
+   "prompt": "Que cherche à faire le maire ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Encourager les propriétaires à louer aux touristes.",
+     "correct": false,
+     "rationale": "Il limite au contraire ces locations."
+    },
+    {
+     "label": "B",
+     "text": "Annoncer la fermeture de l'école.",
+     "correct": false,
+     "rationale": "Il cite la perte de classes comme conséquence."
+    },
+    {
+     "label": "C",
+     "text": "Exprimer son opposition au tourisme.",
+     "correct": false,
+     "rationale": "« Nous ne sommes pas contre le tourisme »."
+    },
+    {
+     "label": "D",
+     "text": "Défendre une mesure en expliquant ses causes et son enjeu.",
+     "correct": true,
+     "rationale": "Il explique la pénurie de logements et ses conséquences."
+    }
+   ],
+   "explanation": "Le maire justifie, illustre par un exemple concret et anticipe une critique. Repérer la phrase « nous ne sommes pas contre » permet d'éliminer un distracteur.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co21.wav"
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "reportage",
+   "skill": "information précise",
+   "document": "H: La métropole lance une aide à l'achat de vélos à assistance électrique. Elle s'élève à cinq cents euros pour les foyers aux revenus modestes et à deux cents euros pour les autres. Le vélo doit être neuf ou reconditionné et acheté chez un commerçant de la métropole. La demande se fait en ligne, avec la facture, dans les trois mois qui suivent l'achat.",
+   "prompt": "Quelle condition concerne le lieu d'achat ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le vélo doit être acheté en ligne.",
+     "correct": false,
+     "rationale": "C'est la demande qui se fait en ligne."
+    },
+    {
+     "label": "B",
+     "text": "Le vélo doit être acheté chez un commerçant de la métropole.",
+     "correct": true,
+     "rationale": "C'est indiqué explicitement."
+    },
+    {
+     "label": "C",
+     "text": "Le vélo peut être acheté n'importe où.",
+     "correct": false,
+     "rationale": "Il doit être acheté dans la métropole."
+    },
+    {
+     "label": "D",
+     "text": "Le vélo doit être acheté dans une grande surface.",
+     "correct": false,
+     "rationale": "Ce n'est pas précisé."
+    }
+   ],
+   "explanation": "Le reportage contient plusieurs conditions (montant, état, lieu, délai). Il faut isoler celle qui concerne le lieu d'achat.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co22.wav"
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "conversation",
+   "skill": "opinion",
+   "document": "F: Tu as vu le projet de tour de quarante étages près de la gare ? / H: Oui, et je trouve ça plutôt bien. On manque de logements, et construire en hauteur évite de s'étaler sur les terres agricoles. / F: Peut-être, mais vivre au trentième étage, sans contact avec la rue, ce n'est pas pour tout le monde. Je préférerais des immeubles moyens, avec des cours et des commerces en bas.",
+   "prompt": "Quelle est l'opinion de la femme sur le projet de tour ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elle pense qu'on ne manque pas de logements.",
+     "correct": false,
+     "rationale": "Elle ne conteste pas ce point."
+    },
+    {
+     "label": "B",
+     "text": "Elle est enthousiaste comme l'homme.",
+     "correct": false,
+     "rationale": "Elle exprime une réserve."
+    },
+    {
+     "label": "C",
+     "text": "Elle préfère des immeubles plus bas, mieux intégrés à la vie de quartier.",
+     "correct": true,
+     "rationale": "« Je préférerais des immeubles moyens, avec des cours et des commerces »."
+    },
+    {
+     "label": "D",
+     "text": "Elle veut construire sur les terres agricoles.",
+     "correct": false,
+     "rationale": "Elle ne le dit pas."
+    }
+   ],
+   "explanation": "« Peut-être, mais » marque une concession suivie d'une objection. La phrase au conditionnel formule son alternative.",
+   "speakers": [
+    "F:fr-FR",
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co23.wav"
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "inférence",
+   "document": "H: Mesdames et Messieurs, le train à destination de Lyon partira de la voie 7 au lieu de la voie 3. Nous rappelons aux voyageurs que la voie 7 se trouve dans le hall 2, à environ dix minutes à pied. Le départ est maintenu à l'heure prévue.",
+   "prompt": "Que peut-on comprendre de cette annonce ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les voyageurs doivent se dépêcher pour ne pas rater le train.",
+     "correct": true,
+     "rationale": "Le changement de voie implique dix minutes de marche et le départ n'est pas retardé."
+    },
+    {
+     "label": "B",
+     "text": "Le train partira avec dix minutes de retard.",
+     "correct": false,
+     "rationale": "« Le départ est maintenu à l'heure prévue »."
+    },
+    {
+     "label": "C",
+     "text": "La voie 3 est dans le hall 2.",
+     "correct": false,
+     "rationale": "C'est la voie 7."
+    },
+    {
+     "label": "D",
+     "text": "Le train est annulé.",
+     "correct": false,
+     "rationale": "Il change seulement de voie."
+    }
+   ],
+   "explanation": "L'annonce ne dit pas « dépêchez-vous », mais la combinaison de la distance et de l'horaire maintenu le fait comprendre.",
+   "speakers": [
+    "H:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co24.wav"
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "entretien radio",
+   "skill": "compréhension globale",
+   "document": "H: Vous êtes architecte et vous transformez des bureaux vides en logements. Pourquoi ? / F: Depuis le développement du télétravail, beaucoup d'immeubles de bureaux sont sous-occupés. Les détruire serait un gaspillage énorme. Les transformer n'est pas simple, car il faut créer des cuisines, des salles de bains, parfois ouvrir des fenêtres. Mais c'est une manière de répondre au manque de logements sans consommer de nouveaux terrains.",
+   "prompt": "Quel est le thème principal de l'entretien ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La démolition des immeubles anciens.",
+     "correct": false,
+     "rationale": "Les détruire serait « un gaspillage »."
+    },
+    {
+     "label": "B",
+     "text": "La construction de nouveaux immeubles de bureaux.",
+     "correct": false,
+     "rationale": "Les bureaux existent déjà et sont vides."
+    },
+    {
+     "label": "C",
+     "text": "Les avantages du télétravail pour les salariés.",
+     "correct": false,
+     "rationale": "Le télétravail n'est que le contexte."
+    },
+    {
+     "label": "D",
+     "text": "La reconversion de bureaux vides en logements.",
+     "correct": true,
+     "rationale": "Elle explique pourquoi et comment elle les transforme."
+    }
+   ],
+   "explanation": "L'architecte présente un contexte, une difficulté (« n'est pas simple ») et un bénéfice (« mais c'est une manière de… »). Le thème réunit ces éléments.",
+   "speakers": [
+    "H:fr-FR",
+    "F:fr-FR"
+   ],
+   "audio_file": "b2-blanc-08_co25.wav"
+  }
+ ],
+ "CE": [
+  {
+   "position": 1,
+   "level": "B2",
+   "doc_type": "règlement intérieur",
+   "skill": "information précise",
+   "document": "Règlement de copropriété – Extraits. Article 4 : Les travaux bruyants sont autorisés du lundi au vendredi de 8 h à 19 h et le samedi de 9 h à 12 h ; ils sont interdits le dimanche et les jours fériés. Article 7 : Les vélos doivent être rangés dans le local prévu à cet effet et non dans les couloirs. Article 9 : Il est interdit de suspendre du linge aux fenêtres donnant sur la rue.",
+   "prompt": "Quand peut-on effectuer des travaux bruyants le samedi ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Toute la journée, de 8 h à 19 h.",
+     "correct": false,
+     "rationale": "Cet horaire concerne la semaine."
+    },
+    {
+     "label": "B",
+     "text": "Jamais.",
+     "correct": false,
+     "rationale": "C'est le dimanche qui est interdit."
+    },
+    {
+     "label": "C",
+     "text": "L'après-midi uniquement.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'horaire indiqué."
+    },
+    {
+     "label": "D",
+     "text": "Le matin, de 9 h à 12 h.",
+     "correct": true,
+     "rationale": "« le samedi de 9 h à 12 h »."
+    }
+   ],
+   "explanation": "L'article 4 distingue trois cas : semaine, samedi et dimanche. Il faut lire précisément l'horaire qui correspond à la question."
+  },
+  {
+   "position": 2,
+   "level": "B2",
+   "doc_type": "article de presse",
+   "skill": "compréhension globale",
+   "document": "Le covoiturage domicile-travail progresse, mais trop lentement. Dans la plupart des voitures qui circulent aux heures de pointe, il n'y a encore qu'une seule personne. Pour encourager le partage, plusieurs agglomérations ont créé des voies réservées aux véhicules transportant au moins deux personnes. Les premiers résultats sont encourageants : là où ces voies existent, le nombre de covoitureurs a nettement augmenté.",
+   "prompt": "Quel est le sujet principal de l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "L'interdiction de la voiture en ville.",
+     "correct": false,
+     "rationale": "Il n'y a pas d'interdiction."
+    },
+    {
+     "label": "B",
+     "text": "Le prix de l'essence.",
+     "correct": false,
+     "rationale": "Ce n'est pas évoqué."
+    },
+    {
+     "label": "C",
+     "text": "Les efforts pour développer le covoiturage et leurs premiers effets.",
+     "correct": true,
+     "rationale": "L'article décrit les voies réservées et leurs résultats."
+    },
+    {
+     "label": "D",
+     "text": "La baisse du nombre de covoitureurs.",
+     "correct": false,
+     "rationale": "Il a « nettement augmenté »."
+    }
+   ],
+   "explanation": "L'article pose un constat (progrès lent), présente une mesure, puis un premier bilan. Le thème global relie ces éléments."
+  },
+  {
+   "position": 3,
+   "level": "B2",
+   "doc_type": "courrier des lecteurs",
+   "skill": "opinion",
+   "document": "Je lis souvent que les habitants des villes devraient renoncer à la voiture. J'habite dans un village à trente kilomètres de mon travail, sans bus après dix-neuf heures. Comment ferais-je ? Je suis favorable à l'écologie, mais elle ne doit pas être réservée aux habitants des centres-villes bien desservis. Avant de nous demander de changer, offrez-nous des solutions.",
+   "prompt": "Quelle est l'opinion de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les bus devraient être supprimés après dix-neuf heures.",
+     "correct": false,
+     "rationale": "Il regrette justement leur absence."
+    },
+    {
+     "label": "B",
+     "text": "On ne peut pas demander aux ruraux d'abandonner la voiture sans alternatives.",
+     "correct": true,
+     "rationale": "« Avant de nous demander de changer, offrez-nous des solutions »."
+    },
+    {
+     "label": "C",
+     "text": "L'écologie est une mauvaise idée.",
+     "correct": false,
+     "rationale": "Il dit y être favorable."
+    },
+    {
+     "label": "D",
+     "text": "Tout le monde peut se passer de voiture.",
+     "correct": false,
+     "rationale": "Il explique pourquoi c'est impossible pour lui."
+    }
+   ],
+   "explanation": "L'auteur utilise son exemple personnel et une question rhétorique pour montrer une injustice, puis formule une demande à l'impératif."
+  },
+  {
+   "position": 4,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "À louer : appartement de trois pièces, 65 m², troisième étage avec ascenseur, quartier de la gare. Loyer : 850 euros par mois, charges comprises (chauffage collectif inclus). Disponible le 1er octobre. Animaux acceptés. Les candidats doivent justifier de revenus égaux à trois fois le loyer ou présenter un garant. Visites le samedi sur rendez-vous uniquement.",
+   "prompt": "Que doit faire un candidat dont les revenus sont insuffisants ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Présenter un garant.",
+     "correct": true,
+     "rationale": "« ou présenter un garant »."
+    },
+    {
+     "label": "B",
+     "text": "Payer six mois de loyer d'avance.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "C",
+     "text": "Renoncer à sa candidature.",
+     "correct": false,
+     "rationale": "Une alternative est proposée."
+    },
+    {
+     "label": "D",
+     "text": "Visiter l'appartement un autre jour.",
+     "correct": false,
+     "rationale": "La visite n'a rien à voir avec les revenus."
+    }
+   ],
+   "explanation": "La conjonction « ou » présente une alternative à la condition de revenus. Le reste de l'annonce donne des informations pratiques secondaires."
+  },
+  {
+   "position": 5,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "intention",
+   "document": "Chaque été, nos villes étouffent. Et chaque été, on promet de planter des arbres. Mais un arbre planté aujourd'hui ne fera de l'ombre que dans quinze ans. Il est donc urgent d'agir à la fois sur le long terme et dans l'immédiat : ouvrir les cours d'école le soir, installer des fontaines, repeindre les toits en clair. Nos élus n'ont plus d'excuse pour attendre.",
+   "prompt": "Quel est l'objectif de l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pousser les élus à prendre des mesures rapides contre la chaleur.",
+     "correct": true,
+     "rationale": "« Nos élus n'ont plus d'excuse pour attendre »."
+    },
+    {
+     "label": "B",
+     "text": "Expliquer comment planter un arbre.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objet du texte."
+    },
+    {
+     "label": "C",
+     "text": "Annoncer l'ouverture des cours d'école.",
+     "correct": false,
+     "rationale": "C'est une proposition."
+    },
+    {
+     "label": "D",
+     "text": "Critiquer la plantation d'arbres.",
+     "correct": false,
+     "rationale": "Il la juge utile mais lente."
+    }
+   ],
+   "explanation": "L'éditorial pointe la limite d'une solution (« mais »), propose des mesures immédiates, puis interpelle les élus. L'intention est de faire pression."
+  },
+  {
+   "position": 6,
+   "level": "B2",
+   "doc_type": "courrier administratif",
+   "skill": "information précise",
+   "document": "Madame, Monsieur, votre demande d'aide personnalisée au logement a bien été enregistrée. Pour que nous puissions calculer vos droits, merci de nous transmettre, dans un délai d'un mois, votre bail signé ainsi que l'attestation de loyer complétée par votre propriétaire. Sans ces documents, votre dossier sera classé sans suite. L'aide, si elle vous est accordée, sera versée directement à votre propriétaire.",
+   "prompt": "À qui l'aide sera-t-elle versée ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "À l'agence immobilière.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "À la mairie.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "C",
+     "text": "Au propriétaire du logement.",
+     "correct": true,
+     "rationale": "Elle « sera versée directement à votre propriétaire »."
+    },
+    {
+     "label": "D",
+     "text": "Au locataire, sur son compte bancaire.",
+     "correct": false,
+     "rationale": "Ce n'est pas le cas ici."
+    }
+   ],
+   "explanation": "La dernière phrase répond à la question. Le reste du courrier précise la procédure et la conséquence d'un dossier incomplet."
+  },
+  {
+   "position": 7,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "inférence",
+   "document": "Dans cette métropole, le prix moyen des logements a doublé en quinze ans, tandis que les salaires n'ont augmenté que de vingt pour cent. Les infirmières, les enseignants et les policiers qui travaillent au centre vivent de plus en plus loin, parfois à une heure de trajet. Certains hôpitaux peinent désormais à recruter.",
+   "prompt": "Que peut-on déduire de cet article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les hôpitaux ont trop de personnel.",
+     "correct": false,
+     "rationale": "Ils peinent à recruter."
+    },
+    {
+     "label": "B",
+     "text": "Les infirmières préfèrent vivre à la campagne.",
+     "correct": false,
+     "rationale": "L'article suggère une contrainte, pas un choix."
+    },
+    {
+     "label": "C",
+     "text": "Les salaires ont augmenté plus vite que les prix.",
+     "correct": false,
+     "rationale": "C'est l'inverse."
+    },
+    {
+     "label": "D",
+     "text": "Le coût du logement complique le recrutement de certains métiers essentiels.",
+     "correct": true,
+     "rationale": "Les hôpitaux « peinent à recruter » alors que les soignants vivent loin."
+    }
+   ],
+   "explanation": "L'article juxtapose des faits sans formuler de lien de cause explicite. C'est au lecteur de relier la hausse des prix, l'éloignement et les difficultés de recrutement."
+  },
+  {
+   "position": 8,
+   "level": "B2",
+   "doc_type": "notice",
+   "skill": "information précise",
+   "document": "Thermostat programmable – Mode d'emploi. Pour régler la température de confort, appuyez sur « + » ou « – ». Le mode « absence » abaisse automatiquement la température à 16 °C. Le mode « hors gel » maintient 7 °C et doit être utilisé uniquement pour les absences de plus de quarante-huit heures. Remplacez les piles une fois par an, de préférence avant l'hiver.",
+   "prompt": "Quand faut-il utiliser le mode « hors gel » ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Chaque nuit.",
+     "correct": false,
+     "rationale": "Ce n'est pas indiqué."
+    },
+    {
+     "label": "B",
+     "text": "Pour une absence de plus de deux jours.",
+     "correct": true,
+     "rationale": "« uniquement pour les absences de plus de quarante-huit heures »."
+    },
+    {
+     "label": "C",
+     "text": "Pour changer les piles.",
+     "correct": false,
+     "rationale": "Ce n'est pas lié."
+    },
+    {
+     "label": "D",
+     "text": "Pour une courte absence.",
+     "correct": false,
+     "rationale": "Le mode « absence » convient mieux."
+    }
+   ],
+   "explanation": "La notice distingue deux modes selon la durée de l'absence. L'adverbe « uniquement » limite l'usage du mode « hors gel »."
+  },
+  {
+   "position": 9,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "opinion",
+   "document": "On présente souvent la maison individuelle avec jardin comme le rêve de chaque famille. Je comprends ce désir. Mais si chacun réalise ce rêve, nos campagnes se couvrent de lotissements, les routes se multiplient et la voiture devient obligatoire. Il est temps de rendre la ville plus désirable : des logements plus grands, des espaces verts, des écoles accessibles à pied. C'est ainsi qu'on réduira l'étalement urbain.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La voiture est indispensable en ville.",
+     "correct": false,
+     "rationale": "Il veut des écoles accessibles à pied."
+    },
+    {
+     "label": "B",
+     "text": "Chaque famille devrait avoir une maison avec jardin.",
+     "correct": false,
+     "rationale": "Il en montre les conséquences négatives."
+    },
+    {
+     "label": "C",
+     "text": "Il faut construire plus de routes.",
+     "correct": false,
+     "rationale": "Il critique leur multiplication."
+    },
+    {
+     "label": "D",
+     "text": "Il faut rendre la vie en ville plus attractive pour limiter l'étalement urbain.",
+     "correct": true,
+     "rationale": "« Il est temps de rendre la ville plus désirable »."
+    }
+   ],
+   "explanation": "L'auteur concède (« je comprends ce désir »), montre les effets collectifs d'un choix individuel, puis propose une solution. La conclusion confirme la thèse."
+  },
+  {
+   "position": 10,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "Les habitats participatifs se développent. Plusieurs familles conçoivent ensemble un immeuble, avec des logements privés et des espaces partagés : buanderie, chambre d'amis, jardin, atelier. En mutualisant certains équipements, elles réduisent les coûts et la surface de chaque appartement. Mais ces projets demandent du temps, souvent plusieurs années, et une forte capacité à prendre des décisions collectives.",
+   "prompt": "Que présente l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La construction de résidences de luxe.",
+     "correct": false,
+     "rationale": "Il s'agit de réduire les coûts."
+    },
+    {
+     "label": "B",
+     "text": "Un projet réalisé en quelques semaines.",
+     "correct": false,
+     "rationale": "Il faut « souvent plusieurs années »."
+    },
+    {
+     "label": "C",
+     "text": "Un mode de logement collaboratif, avec ses avantages et ses exigences.",
+     "correct": true,
+     "rationale": "L'article décrit le principe, les économies et les difficultés."
+    },
+    {
+     "label": "D",
+     "text": "L'interdiction des espaces partagés.",
+     "correct": false,
+     "rationale": "Ils sont au cœur du concept."
+    }
+   ],
+   "explanation": "L'article décrit, explique les avantages, puis nuance avec « mais ». Le thème global combine ces aspects."
+  },
+  {
+   "position": 11,
+   "level": "B2",
+   "doc_type": "courriel",
+   "skill": "intention",
+   "document": "Chers voisins, comme vous l'avez peut-être remarqué, la cour de notre immeuble est souvent encombrée et un peu triste. Je vous propose de nous retrouver samedi à dix heures pour réfléchir ensemble à son aménagement : bacs à fleurs, bancs, coin pour les enfants. Le syndic est d'accord pour financer une partie du matériel. Venez avec vos idées ! Café et croissants offerts. Bertrand, 2e étage",
+   "prompt": "Quel est l'objectif de ce courriel ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Vendre des bacs à fleurs.",
+     "correct": false,
+     "rationale": "Ce n'est pas l'objet."
+    },
+    {
+     "label": "B",
+     "text": "Inviter les voisins à participer à un projet commun.",
+     "correct": true,
+     "rationale": "« Je vous propose de nous retrouver samedi… pour réfléchir ensemble »."
+    },
+    {
+     "label": "C",
+     "text": "Se plaindre du syndic.",
+     "correct": false,
+     "rationale": "Le syndic est présenté comme un partenaire."
+    },
+    {
+     "label": "D",
+     "text": "Annoncer des travaux déjà décidés.",
+     "correct": false,
+     "rationale": "Le projet est encore à définir."
+    }
+   ],
+   "explanation": "Le courriel présente un constat, une proposition, un argument rassurant (le financement) et une invitation chaleureuse."
+  },
+  {
+   "position": 12,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "Le diagnostic de performance énergétique classe les logements de A, le plus économe, à G, le plus énergivore. En France, la loi interdit progressivement la mise en location des logements les plus mal classés, qualifiés de « passoires thermiques ». Les propriétaires concernés doivent réaliser des travaux d'isolation ou de chauffage pour continuer à louer leur bien.",
+   "prompt": "Que doivent faire les propriétaires de « passoires thermiques » pour continuer à louer ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Réaliser des travaux pour améliorer la performance énergétique.",
+     "correct": true,
+     "rationale": "Ils « doivent réaliser des travaux d'isolation ou de chauffage »."
+    },
+    {
+     "label": "B",
+     "text": "Vendre leur logement.",
+     "correct": false,
+     "rationale": "Ce n'est pas obligatoire selon l'article."
+    },
+    {
+     "label": "C",
+     "text": "Changer de locataire.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    },
+    {
+     "label": "D",
+     "text": "Baisser le loyer de moitié.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    }
+   ],
+   "explanation": "L'article définit un classement, une règle et l'obligation qui en découle. La dernière phrase répond à la question."
+  },
+  {
+   "position": 13,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "inférence",
+   "document": "Pendant des décennies, on a construit des villes pour la voiture : larges avenues, parkings, échangeurs. On s'étonne ensuite que les habitants prennent leur voiture pour tout. L'urbanisme n'est pas neutre : il oriente nos comportements. Une rue étroite, ombragée, bordée de commerces invite à marcher. Un boulevard de six voies, lui, invite à accélérer.",
+   "prompt": "Que suggère l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les habitants choisissent la voiture par paresse.",
+     "correct": false,
+     "rationale": "Il attribue ce choix à l'aménagement urbain."
+    },
+    {
+     "label": "B",
+     "text": "Il faut élargir les avenues.",
+     "correct": false,
+     "rationale": "Il critique cette pratique."
+    },
+    {
+     "label": "C",
+     "text": "Les commerces sont responsables des embouteillages.",
+     "correct": false,
+     "rationale": "Ce n'est pas évoqué."
+    },
+    {
+     "label": "D",
+     "text": "La forme de la ville influence la manière dont on se déplace.",
+     "correct": true,
+     "rationale": "« il oriente nos comportements »."
+    }
+   ],
+   "explanation": "L'ironie (« on s'étonne ensuite ») et les exemples opposés (rue étroite / boulevard) permettent de déduire la thèse."
+  },
+  {
+   "position": 14,
+   "level": "B2",
+   "doc_type": "annonce",
+   "skill": "information précise",
+   "document": "Bourse aux logements étudiants – Mairie de Villeneuve. Vous disposez d'une chambre libre ? Louez-la à un étudiant pour l'année universitaire. La mairie met en relation propriétaires et étudiants, vérifie les dossiers et propose un modèle de contrat gratuit. Les chambres doivent mesurer au moins 9 m² et disposer d'une fenêtre. Inscription au service logement avant le 31 juillet.",
+   "prompt": "Quelle condition la chambre doit-elle remplir ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Être située au rez-de-chaussée.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "Faire au moins 9 m² et avoir une fenêtre.",
+     "correct": true,
+     "rationale": "« Les chambres doivent mesurer au moins 9 m² et disposer d'une fenêtre »."
+    },
+    {
+     "label": "C",
+     "text": "Être meublée par la mairie.",
+     "correct": false,
+     "rationale": "La mairie fournit un modèle de contrat."
+    },
+    {
+     "label": "D",
+     "text": "Avoir une salle de bains privée.",
+     "correct": false,
+     "rationale": "Ce n'est pas exigé."
+    }
+   ],
+   "explanation": "L'annonce précise le rôle de la mairie et les conditions techniques. Repérez le verbe « doivent » qui signale l'obligation."
+  },
+  {
+   "position": 15,
+   "level": "B2",
+   "doc_type": "article d'opinion",
+   "skill": "opinion",
+   "document": "Les mesures qui interdisent l'accès des centres-villes aux véhicules les plus polluants partent d'une bonne intention : améliorer la qualité de l'air. Mais elles pénalisent d'abord ceux qui n'ont pas les moyens de changer de voiture. Sans aides suffisantes et sans transports en commun efficaces, ces mesures risquent d'être vécues comme une injustice et rejetées.",
+   "prompt": "Quel est l'avis de l'auteur sur ces mesures ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elles sont utiles mais risquent d'être injustes sans accompagnement.",
+     "correct": true,
+     "rationale": "« Sans aides suffisantes… ces mesures risquent d'être vécues comme une injustice »."
+    },
+    {
+     "label": "B",
+     "text": "Elles sont inutiles pour la qualité de l'air.",
+     "correct": false,
+     "rationale": "Il reconnaît leur « bonne intention »."
+    },
+    {
+     "label": "C",
+     "text": "Elles avantagent les ménages modestes.",
+     "correct": false,
+     "rationale": "Elles les pénalisent d'abord."
+    },
+    {
+     "label": "D",
+     "text": "Elles doivent être supprimées immédiatement.",
+     "correct": false,
+     "rationale": "Il demande des mesures d'accompagnement."
+    }
+   ],
+   "explanation": "L'auteur reconnaît l'objectif puis formule une critique avec « mais ». La condition « sans aides… » révèle ce qu'il souhaite."
+  },
+  {
+   "position": 16,
+   "level": "B2",
+   "doc_type": "rapport",
+   "skill": "compréhension globale",
+   "document": "Selon une enquête nationale sur la mobilité, la voiture reste le premier mode de transport pour se rendre au travail. Toutefois, dans les grandes villes, la part du vélo a fortement progressé depuis cinq ans, notamment grâce aux nouvelles pistes cyclables. Dans les zones rurales, en revanche, la dépendance à la voiture reste presque totale, faute d'alternatives.",
+   "prompt": "Quel constat principal ce rapport fait-il ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La voiture a disparu des grandes villes.",
+     "correct": false,
+     "rationale": "Elle reste le premier mode de transport."
+    },
+    {
+     "label": "B",
+     "text": "Le vélo progresse partout de la même façon.",
+     "correct": false,
+     "rationale": "Les zones rurales restent dépendantes de la voiture."
+    },
+    {
+     "label": "C",
+     "text": "Les pratiques de mobilité évoluent différemment selon les territoires.",
+     "correct": true,
+     "rationale": "Le vélo progresse dans les grandes villes, pas dans les zones rurales."
+    },
+    {
+     "label": "D",
+     "text": "Les zones rurales disposent de nombreuses alternatives.",
+     "correct": false,
+     "rationale": "Il y a un manque d'alternatives."
+    }
+   ],
+   "explanation": "« Toutefois » et « en revanche » introduisent des contrastes. Le constat principal est l'inégalité entre territoires."
+  },
+  {
+   "position": 17,
+   "level": "B2",
+   "doc_type": "lettre de réclamation",
+   "skill": "intention",
+   "document": "Monsieur, je loue l'appartement du 12 rue Pasteur depuis deux ans. Depuis le mois de novembre, le chauffage ne fonctionne plus correctement : la température ne dépasse pas 15 °C. Je vous ai signalé ce problème par téléphone à deux reprises, sans suite. Je vous rappelle que le propriétaire est tenu d'assurer le bon fonctionnement des équipements. Je vous demande donc de faire intervenir un chauffagiste dans les plus brefs délais.",
+   "prompt": "Quel est le but de cette lettre ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Annoncer qu'il quitte l'appartement.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "Obtenir une réparation en rappelant au propriétaire ses obligations.",
+     "correct": true,
+     "rationale": "Le locataire demande l'intervention d'un chauffagiste et cite la règle."
+    },
+    {
+     "label": "C",
+     "text": "Remercier le propriétaire pour son intervention.",
+     "correct": false,
+     "rationale": "Le propriétaire n'a pas réagi."
+    },
+    {
+     "label": "D",
+     "text": "Demander une baisse du loyer.",
+     "correct": false,
+     "rationale": "Il demande une réparation."
+    }
+   ],
+   "explanation": "La lettre suit une structure formelle : faits, démarches déjà faites, rappel d'une obligation, demande précise."
+  },
+  {
+   "position": 18,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "information précise",
+   "document": "Un abonnement unique permet désormais d'utiliser les trains régionaux, les bus et les tramways de la région. Il coûte 70 euros par mois pour les adultes et la moitié pour les moins de vingt-six ans. Les salariés peuvent en outre se faire rembourser au moins la moitié de leur abonnement par leur employeur, comme le prévoit la loi.",
+   "prompt": "Quel avantage les salariés ont-ils ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ils voyagent gratuitement le week-end.",
+     "correct": false,
+     "rationale": "Ce n'est pas mentionné."
+    },
+    {
+     "label": "B",
+     "text": "Ils peuvent utiliser les trains nationaux.",
+     "correct": false,
+     "rationale": "L'abonnement est régional."
+    },
+    {
+     "label": "C",
+     "text": "Leur employeur rembourse au moins la moitié de l'abonnement.",
+     "correct": true,
+     "rationale": "Ils peuvent « se faire rembourser au moins la moitié de leur abonnement »."
+    },
+    {
+     "label": "D",
+     "text": "Ils paient la moitié du tarif comme les jeunes.",
+     "correct": false,
+     "rationale": "La réduction de moitié concerne les moins de vingt-six ans."
+    }
+   ],
+   "explanation": "L'article présente deux réductions différentes : l'une selon l'âge, l'autre par l'employeur. Il faut les distinguer."
+  },
+  {
+   "position": 19,
+   "level": "B2",
+   "doc_type": "chronique",
+   "skill": "inférence",
+   "document": "J'ai visité un appartement « lumineux et calme, proche de toutes commodités ». Lumineux, il l'était : il n'y avait pas de volets. Calme, sans doute, à condition d'aimer le bruit du périphérique. Quant aux commodités, la boulangerie la plus proche était à vingt minutes à pied. J'ai appris ce jour-là à lire les petites annonces comme on lit un poème : entre les lignes.",
+   "prompt": "Que comprend-on de cette chronique ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les annonces immobilières embellissent souvent la réalité.",
+     "correct": true,
+     "rationale": "L'auteur montre l'écart entre l'annonce et l'appartement réel."
+    },
+    {
+     "label": "B",
+     "text": "L'appartement correspondait parfaitement à l'annonce.",
+     "correct": false,
+     "rationale": "Chaque qualité se révèle trompeuse."
+    },
+    {
+     "label": "C",
+     "text": "L'auteur n'aime pas la poésie.",
+     "correct": false,
+     "rationale": "La poésie sert de comparaison."
+    },
+    {
+     "label": "D",
+     "text": "L'auteur a loué cet appartement.",
+     "correct": false,
+     "rationale": "Rien ne l'indique."
+    }
+   ],
+   "explanation": "La chronique reprend chaque adjectif de l'annonce pour le contredire avec ironie. La dernière phrase tire la leçon."
+  },
+  {
+   "position": 20,
+   "level": "B2",
+   "doc_type": "guide pratique",
+   "skill": "information précise",
+   "document": "Déménager : les démarches à ne pas oublier. Un mois avant : résiliez ou transférez vos contrats d'électricité, de gaz et d'internet. Deux semaines avant : faites suivre votre courrier grâce au service de La Poste. Après le déménagement : déclarez votre changement d'adresse aux organismes publics, de préférence en ligne, et modifiez l'adresse de votre carte grise dans le mois qui suit.",
+   "prompt": "Quand faut-il modifier l'adresse de sa carte grise ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ce n'est pas obligatoire.",
+     "correct": false,
+     "rationale": "Le guide le demande."
+    },
+    {
+     "label": "B",
+     "text": "Deux semaines avant.",
+     "correct": false,
+     "rationale": "Cela concerne le courrier."
+    },
+    {
+     "label": "C",
+     "text": "Un mois avant le déménagement.",
+     "correct": false,
+     "rationale": "Cela concerne les contrats d'énergie et d'internet."
+    },
+    {
+     "label": "D",
+     "text": "Dans le mois qui suit le déménagement.",
+     "correct": true,
+     "rationale": "« modifiez l'adresse de votre carte grise dans le mois qui suit »."
+    }
+   ],
+   "explanation": "Le guide est organisé chronologiquement. Repérez la période correspondant à la démarche demandée."
+  },
+  {
+   "position": 21,
+   "level": "B2",
+   "doc_type": "éditorial",
+   "skill": "opinion",
+   "document": "Les grandes villes rivalisent pour attirer les touristes, les congrès et les sièges d'entreprises. Fort bien. Mais une ville n'est pas une vitrine : c'est d'abord un lieu de vie. Quand les loyers chassent les familles, quand les commerces de proximité laissent place aux boutiques de souvenirs, la ville gagne peut-être en prestige, mais elle perd ce qui faisait son charme.",
+   "prompt": "Quelle est la position de l'éditorialiste ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Les boutiques de souvenirs font le charme des villes.",
+     "correct": false,
+     "rationale": "Elles remplacent les commerces de proximité."
+    },
+    {
+     "label": "B",
+     "text": "Les villes doivent attirer encore plus de touristes.",
+     "correct": false,
+     "rationale": "Il en souligne les effets négatifs."
+    },
+    {
+     "label": "C",
+     "text": "Une ville doit rester d'abord au service de ses habitants.",
+     "correct": true,
+     "rationale": "« c'est d'abord un lieu de vie »."
+    },
+    {
+     "label": "D",
+     "text": "Les loyers sont trop bas dans les grandes villes.",
+     "correct": false,
+     "rationale": "Ils « chassent les familles »."
+    }
+   ],
+   "explanation": "« Fort bien » est une concession brève. La métaphore « une ville n'est pas une vitrine » exprime la thèse."
+  },
+  {
+   "position": 22,
+   "level": "B2",
+   "doc_type": "article",
+   "skill": "compréhension globale",
+   "document": "Les toits des immeubles, longtemps inutilisés, deviennent des espaces précieux. Dans plusieurs villes, on y installe des potagers, des ruches, des panneaux solaires ou des terrasses ouvertes aux habitants. Ces aménagements rafraîchissent les bâtiments en été et créent des lieux de rencontre. Leur développement reste toutefois limité par le coût des travaux et les contraintes de sécurité.",
+   "prompt": "Quel est le sujet de l'article ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "La nouvelle utilisation des toits en ville et ses limites.",
+     "correct": true,
+     "rationale": "L'article décrit les usages, les avantages puis les freins."
+    },
+    {
+     "label": "B",
+     "text": "L'interdiction d'accéder aux toits.",
+     "correct": false,
+     "rationale": "Des terrasses sont ouvertes aux habitants."
+    },
+    {
+     "label": "C",
+     "text": "Le prix élevé des panneaux solaires uniquement.",
+     "correct": false,
+     "rationale": "Le coût concerne l'ensemble des travaux."
+    },
+    {
+     "label": "D",
+     "text": "La vente de miel en ville.",
+     "correct": false,
+     "rationale": "Les ruches sont un exemple parmi d'autres."
+    }
+   ],
+   "explanation": "L'article suit le plan constat, exemples, avantages, limites (« toutefois »). Le thème doit inclure ces dimensions."
+  },
+  {
+   "position": 23,
+   "level": "B2",
+   "doc_type": "règlement",
+   "skill": "inférence",
+   "document": "Jardins familiaux municipaux – Règlement. Les parcelles sont attribuées pour trois ans renouvelables. Le jardinier s'engage à cultiver sa parcelle régulièrement ; une parcelle laissée à l'abandon plus de trois mois pourra être réattribuée. L'usage de pesticides chimiques est interdit. La vente des récoltes est interdite : elles sont réservées à la consommation familiale.",
+   "prompt": "Que peut-on déduire de ce règlement ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "On peut vendre ses légumes au marché.",
+     "correct": false,
+     "rationale": "La vente est interdite."
+    },
+    {
+     "label": "B",
+     "text": "Les pesticides sont autorisés en petite quantité.",
+     "correct": false,
+     "rationale": "Ils sont interdits."
+    },
+    {
+     "label": "C",
+     "text": "Les parcelles sont attribuées à vie.",
+     "correct": false,
+     "rationale": "Elles le sont pour trois ans renouvelables."
+    },
+    {
+     "label": "D",
+     "text": "Un jardinier qui ne s'occupe pas de sa parcelle pendant un été risque de la perdre.",
+     "correct": true,
+     "rationale": "Une parcelle abandonnée « plus de trois mois pourra être réattribuée »."
+    }
+   ],
+   "explanation": "Un été dure environ trois mois : en appliquant la règle à ce cas concret, on déduit le risque."
+  },
+  {
+   "position": 24,
+   "level": "B2",
+   "doc_type": "tribune",
+   "skill": "intention",
+   "document": "Je suis urbaniste, et je voudrais rappeler une évidence trop souvent oubliée : une ville accessible aux personnes âgées, aux enfants et aux personnes handicapées est une ville plus agréable pour tous. Des trottoirs larges, des bancs réguliers, des feux qui laissent le temps de traverser profitent aussi aux parents avec une poussette ou aux voyageurs avec une valise. Pensons nos rues à partir des plus vulnérables.",
+   "prompt": "Que cherche à faire l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Demander des aménagements réservés aux personnes âgées.",
+     "correct": false,
+     "rationale": "Il montre que tous en profitent."
+    },
+    {
+     "label": "B",
+     "text": "Convaincre que l'accessibilité améliore la ville pour l'ensemble des habitants.",
+     "correct": true,
+     "rationale": "« une ville plus agréable pour tous »."
+    },
+    {
+     "label": "C",
+     "text": "Présenter un projet immobilier.",
+     "correct": false,
+     "rationale": "Ce n'est pas le sujet."
+    },
+    {
+     "label": "D",
+     "text": "Critiquer les parents avec poussette.",
+     "correct": false,
+     "rationale": "Ils sont cités comme bénéficiaires."
+    }
+   ],
+   "explanation": "L'auteur énonce une thèse, l'illustre par des exemples variés et conclut par un appel (« pensons »)."
+  },
+  {
+   "position": 25,
+   "level": "B2",
+   "doc_type": "essai",
+   "skill": "compréhension globale",
+   "document": "Le logement n'est pas un bien comme les autres. On peut renoncer à une voiture ou à des vacances, mais pas à un toit. C'est pourquoi la plupart des pays encadrent le marché du logement : aides aux locataires, logements sociaux, règles sur les loyers. Laisser le seul marché décider, c'est accepter que certains, même en travaillant, ne puissent plus se loger dignement.",
+   "prompt": "Quelle est la thèse de l'auteur ?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Le logement étant un besoin essentiel, l'État doit intervenir sur ce marché.",
+     "correct": true,
+     "rationale": "« Le logement n'est pas un bien comme les autres » et justifie l'encadrement."
+    },
+    {
+     "label": "B",
+     "text": "Le marché du logement doit être totalement libre.",
+     "correct": false,
+     "rationale": "Il critique cette idée."
+    },
+    {
+     "label": "C",
+     "text": "Les aides au logement doivent être supprimées.",
+     "correct": false,
+     "rationale": "Il les présente comme justifiées."
+    },
+    {
+     "label": "D",
+     "text": "Le logement est un bien de luxe.",
+     "correct": false,
+     "rationale": "Il le compare aux besoins vitaux."
+    }
+   ],
+   "explanation": "L'essai pose une thèse, la justifie par une comparaison, puis en tire les conséquences (« c'est pourquoi »). La dernière phrase réfute la position inverse."
+  }
+ ],
+ "EE": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "task_type": "répondre à un message",
+   "instructions": "Votre nouvelle voisine, Mme Rossi, vous écrit : « Je viens d'emménager dans le quartier et je ne connais personne. Pourriez-vous me conseiller deux ou trois bonnes adresses ? » Répondez-lui (30 à 60 mots).",
+   "min_words": 30,
+   "max_words": 60,
+   "model_answer": "Bonjour Madame Rossi, bienvenue dans le quartier ! Je vous recommande la boulangerie de la place, dont le pain au levain est excellent. Le marché du jeudi matin est aussi très agréable. Enfin, la médiathèque organise des rencontres où l'on fait facilement connaissance. N'hésitez pas à frapper chez moi si besoin. Bien cordialement, Julie",
+   "tips": "Justifiez chaque recommandation par un détail concret : c'est ce qui rend votre message utile et naturel.",
+   "expected_points": [
+    "souhaiter la bienvenue",
+    "donner une première adresse",
+    "donner d'autres adresses",
+    "proposer son aide"
+   ],
+   "model_commentary": "Le message est chaleureux et utile. Les adresses sont précises et justifiées, avec une relative en « dont » et un connecteur de clôture (« enfin »)."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "task_type": "raconter une expérience",
+   "instructions": "Racontez sur un forum un déménagement ou une recherche de logement qui vous a marqué : ce qui s'est passé, les difficultés rencontrées et ce que vous en retenez (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Quand je suis arrivé à Lyon, j'ai cherché un appartement pendant trois mois. Les propriétaires demandaient un garant que je n'avais pas, et j'ai visité des logements très différents de leurs annonces. Un jour, une agence m'a parlé d'une garantie publique gratuite pour les locataires. Grâce à elle, mon dossier a enfin été accepté. Depuis, je conseille à tous mes amis de se renseigner sur les aides avant de commencer leurs recherches, car on gagne beaucoup de temps.",
+   "tips": "Marquez le moment où la situation change (« un jour », « c'est alors que ») pour donner du rythme à votre récit.",
+   "expected_points": [
+    "situer l'expérience",
+    "décrire les difficultés",
+    "raconter le dénouement",
+    "tirer une leçon"
+   ],
+   "model_commentary": "Le récit est clair, avec une progression (difficultés, tournant, solution) et une leçon pratique. Les temps du passé et les connecteurs sont bien maîtrisés."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "task_type": "donner son opinion à partir de deux documents",
+   "instructions": "Document 1 : « Il faut interdire les voitures dans les centres-villes pour réduire la pollution et rendre l'espace aux piétons. » Document 2 : « Interdire les voitures en ville pénalise les commerçants, les personnes âgées et ceux qui habitent loin. » Présentez ces deux opinions, puis donnez votre avis argumenté (40 à 90 mots).",
+   "min_words": 40,
+   "max_words": 90,
+   "model_answer": "Le premier document souhaite bannir la voiture des centres-villes pour lutter contre la pollution, alors que le second souligne les difficultés que cela poserait aux commerçants et aux personnes éloignées ou âgées. Personnellement, je suis favorable à une réduction progressive de la circulation. Il faudrait d'abord développer des parkings relais et des navettes gratuites, puis fermer certaines rues. De cette façon, on améliorerait la qualité de l'air sans exclure ceux qui dépendent encore de leur voiture.",
+   "tips": "Montrez que votre solution répond aux objections du document opposé : c'est la marque d'une argumentation solide.",
+   "expected_points": [
+    "résumer le document 1",
+    "résumer le document 2",
+    "prendre position",
+    "justifier",
+    "proposer une démarche"
+   ],
+   "model_commentary": "La reformulation est fidèle et la position est nuancée. La proposition est organisée dans le temps (« d'abord… puis ») et la conclusion répond aux deux documents."
+  }
+ ],
+ "EO": [
+  {
+   "task_number": 1,
+   "level": "B2",
+   "title": "Entretien dirigé",
+   "examiner_role": "Examinateur",
+   "scenario": "L'examinateur vous interroge sur votre logement et votre quartier : où vous habitez, ce que vous appréciez, vos déplacements quotidiens et le logement de vos rêves.",
+   "duration_s": 180,
+   "examiner_prompts": [
+    "Pouvez-vous vous présenter ?",
+    "Où habitez-vous ?",
+    "Qu'aimez-vous dans votre quartier ?",
+    "Comment vous déplacez-vous ?",
+    "À quoi ressemblerait votre logement idéal ?"
+   ],
+   "useful_phrases": [
+    "J'habite dans…",
+    "Ce que j'apprécie, c'est…",
+    "Mon logement idéal serait…"
+   ],
+   "model_answer": "Je m'appelle Samir, j'ai trente-huit ans et je suis électricien. J'habite dans un appartement de trois pièces en banlieue, avec ma femme et nos deux enfants. Ce que j'apprécie, c'est le parc juste en bas de l'immeuble, où les enfants jouent après l'école. Pour aller au travail, je prends le tramway, ce qui me permet de lire un peu. Mon logement idéal serait une petite maison avec un jardin, mais pas trop loin de la ville, pour ne pas dépendre de la voiture.",
+   "model_commentary": "Le candidat donne des informations précises, utilise des relatives et une mise en relief, et formule un souhait nuancé au conditionnel.",
+   "tips": "Utilisez le conditionnel pour parler de vos souhaits et ajoutez une nuance (« mais pas trop loin… ») pour montrer votre niveau."
+  },
+  {
+   "task_number": 2,
+   "level": "B2",
+   "title": "Négocier avec son propriétaire",
+   "examiner_role": "Propriétaire",
+   "scenario": "Votre propriétaire veut augmenter votre loyer de cent euros par mois. Vous trouvez cette hausse excessive, car l'appartement a des défauts (fenêtres mal isolées, chauffage ancien). Vous le rencontrez (l'examinateur) pour négocier.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "Les prix ont augmenté partout dans le quartier.",
+    "J'ai des charges, moi aussi.",
+    "Si vous n'êtes pas content, vous pouvez partir.",
+    "Que proposez-vous ?"
+   ],
+   "useful_phrases": [
+    "Je comprends que…",
+    "Cependant…",
+    "Je vous propose de…"
+   ],
+   "model_answer": "Bonjour, je souhaitais vous parler de l'augmentation du loyer. Je comprends que vos charges augmentent, et je suis un locataire sérieux depuis quatre ans. Cependant, cent euros représentent une hausse importante, alors que les fenêtres laissent passer le froid et que le chauffage est très ancien. Je vous propose une augmentation plus modérée, de quarante euros, ou bien une hausse plus importante après le remplacement des fenêtres. Ainsi, vous valoriseriez votre bien et je réduirais mes factures.",
+   "model_commentary": "Le candidat reste courtois, rappelle sa fiabilité, argumente avec des faits précis et propose deux solutions. La négociation est réaliste et équilibrée.",
+   "tips": "Dans une négociation, proposez toujours une alternative chiffrée : cela montre votre bonne volonté et oriente la discussion."
+  },
+  {
+   "task_number": 3,
+   "level": "B2",
+   "title": "Vaut-il mieux vivre en ville ou à la campagne ?",
+   "examiner_role": "Examinateur",
+   "scenario": "Depuis quelques années, certains citadins quittent les grandes villes pour s'installer à la campagne, tandis que d'autres ne pourraient pas vivre loin des services urbains. Selon vous, vaut-il mieux vivre en ville ou à la campagne ? Défendez votre point de vue.",
+   "duration_s": 210,
+   "examiner_prompts": [
+    "À la campagne, on est isolé.",
+    "En ville, tout est trop cher.",
+    "Le télétravail change tout.",
+    "Et pour les enfants ?"
+   ],
+   "useful_phrases": [
+    "Pour ma part…",
+    "Tout dépend de…",
+    "Il est vrai que…, mais…"
+   ],
+   "model_answer": "Pour ma part, tout dépend du moment de la vie. Quand on est étudiant ou jeune actif, la ville offre des emplois, des rencontres et des sorties. Il est vrai que les loyers sont élevés, mais on peut se passer de voiture. En revanche, avec des enfants, la campagne présente de vrais avantages : plus d'espace, plus de nature, moins de stress. Grâce au télétravail, beaucoup peuvent désormais combiner les deux. L'idéal serait sans doute une petite ville bien desservie.",
+   "model_commentary": "Le candidat refuse une réponse simpliste, distingue les étapes de la vie, compare avantages et inconvénients et propose une synthèse. Les connecteurs sont variés.",
+   "tips": "Une réponse nuancée (« tout dépend de… ») doit rester structurée : présentez clairement chaque cas, puis concluez."
+  }
+ ],
+ "series": "B2"
+}
