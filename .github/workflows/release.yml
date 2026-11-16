@@ -5,7 +5,10 @@ name: Installateur Windows
 #   (l'installateur est alors téléchargeable dans les « Artifacts » de l'exécution).
 # - Sur un tag vX.Y.Z, ou en lançant le workflow avec « publier » coché : l'installateur
 #   est publié dans une Release GitHub (le tag vX.Y.Z est créé si besoin).
-# - Quand l'empaquetage change (spec, script Inno Setup, ce workflow) : vérification.
+# - Quand l'empaquetage change (spec, script Inno Setup, ce workflow) : vérification
+#   seulement (aucun artefact, pour ne pas consommer le quota de stockage GitHub).
+# Le quota de stockage des artefacts ne bloque jamais la publication : la Release est
+# publiée avant l'artefact, et l'échec de l'artefact n'arrête pas le workflow.
 on:
   workflow_dispatch:
     inputs:
@@ -68,11 +71,6 @@ jobs:
             $env:Path += ";${env:ProgramFiles(x86)}\Inno Setup 6"
           }
           iscc /DAppVersion=${{ steps.version.outputs.version }} packaging\installer.iss
-      - uses: actions/upload-artifact@v4
-        with:
-          name: WhiteTekTCF-Setup-${{ steps.version.outputs.version }}
-          path: dist/installer/*.exe
-          if-no-files-found: error
       - name: Publication de la Release
         if: startsWith(github.ref, 'refs/tags/v') || inputs.publier
         uses: softprops/action-gh-release@v2
@@ -82,3 +80,12 @@ jobs:
           name: WHITE-TEK TCF IRN B2 MASTER ${{ steps.version.outputs.version }}
           files: dist/installer/*.exe
           generate_release_notes: true
+      - name: Artefact téléchargeable (lancement manuel sans publication)
+        if: github.event_name == 'workflow_dispatch' && !inputs.publier
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: WhiteTekTCF-Setup-${{ steps.version.outputs.version }}
+          path: dist/installer/*.exe
+          if-no-files-found: error
+          retention-days: 3
