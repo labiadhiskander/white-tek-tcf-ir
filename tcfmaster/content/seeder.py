@@ -19,7 +19,7 @@ from tcfmaster.content import validator as V
 from tcfmaster.core.paths import resource_root
 from tcfmaster.db.models import (ORIGIN_BUILTIN, STATUS_VALID, Choice, Collection, Exam,
                                  Exercise, Expression, GrammarChapter, GrammarExercise,
-                                 PlanDay, Question, SpeakingTask, Verb, VocabWord,
+                                 PlanDay, Question, SpeakingTask, Verb, Video, VocabWord,
                                  WritingTask)
 
 log = logging.getLogger("tcfmaster.seed")
@@ -41,6 +41,7 @@ class SeedReport:
     exercises: int = 0
     writing_subjects: int = 0
     speaking_subjects: int = 0
+    videos: int = 0
     errors: list[str] = field(default_factory=list)
 
 
@@ -252,6 +253,32 @@ def collection_documents(data: dict) -> list[tuple[str, str]]:
     return out
 
 
+# ------------------------------------------------------------ vidéothèque
+_VIDEO_FIELDS = ("title", "description", "category", "source", "url", "duration", "level",
+                 "exercise", "related")
+
+
+def import_videos(s: Session, items: list[dict]) -> int:
+    """Fiches vidéo ; une fiche modifiée dans l'administration n'est jamais écrasée."""
+    n = 0
+    for d in items:
+        v = s.execute(select(Video).where(Video.code == d["code"])).scalar_one_or_none()
+        if v is not None and v.locally_modified:
+            n += 1
+            continue
+        if v is None:
+            v = Video(code=d["code"], status=d.get("status", STATUS_VALID))
+            s.add(v)
+        if v.url and v.url != d["url"]:
+            v.link_status, v.link_checked_at = None, None   # nouveau lien : à revérifier
+        for k in _VIDEO_FIELDS:
+            if k in d:
+                setattr(v, k, d[k])
+        v.origin = ORIGIN_BUILTIN
+        n += 1
+    return n
+
+
 # ------------------------------------------------------------ expressions
 def import_expressions(s: Session, items: list[dict]) -> int:
     # Un même connecteur peut avoir plusieurs sens (« Ainsi » : conséquence ou
@@ -379,6 +406,15 @@ def seed_all(s: Session, root: Path | None = None, strict: bool = True) -> SeedR
         import_collection(s, data, rep)
         rep.collections += 1
     rep.errors += V.find_duplicates(docs)
+
+    if (root / "videos.json").exists():
+        good = []
+        for v in _load_json(root / "videos.json"):
+            errs = V.validate_video(v)
+            rep.errors += errs
+            if not errs or not strict:
+                good.append(v)
+        rep.videos = import_videos(s, good)
 
     if (root / "verbs.json").exists():
         rep.verbs = import_verbs(s, _load_json(root / "verbs.json"))

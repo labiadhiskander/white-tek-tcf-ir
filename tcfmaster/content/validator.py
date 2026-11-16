@@ -271,3 +271,60 @@ def find_duplicates(entries: list[tuple[str, str]]) -> list[str]:
         else:
             seen[fp] = where
     return errs
+
+
+# --------------------------------------------------------------- vidéothèque
+VIDEO_CATEGORIES = (
+    "Méthodologie TCF IRN", "Compréhension orale", "Compréhension écrite",
+    "Expression écrite", "Expression orale", "Argumentation", "Grammaire",
+    "Conjugaison", "Connecteurs logiques", "Vocabulaire", "Prononciation",
+    "Techniques d'examen",
+)
+# Sites officiels et gratuits autorisés : aucune vidéo n'est téléchargée ni
+# redistribuée, l'application ouvre seulement le lien dans le navigateur.
+ALLOWED_DOMAINS = (
+    "france-education-international.fr", "tv5monde.com", "rfi.fr", "radiofrance.fr",
+    "franceinfo.fr", "lumni.fr", "arte.tv", "ina.fr", "vie-publique.fr",
+    "academie-francaise.fr", "cnrtl.fr", "youtube.com",
+)
+
+
+def url_allowed(url: str) -> bool:
+    from urllib.parse import urlparse
+    p = urlparse(url.strip())
+    host = (p.hostname or "").lower()
+    return p.scheme == "https" and any(host == d or host.endswith("." + d)
+                                       for d in ALLOWED_DOMAINS)
+
+
+def validate_video(v: dict, admin: bool = False) -> list[str]:
+    """Fiche vidéo : lien officiel en https, catégorie connue, exercice corrigé.
+
+    `admin=True` (fiche saisie dans l'administration) autorise tout lien https,
+    sous la responsabilité de l'utilisateur, mais garde les autres contrôles.
+    """
+    where = v.get("code", "?")
+    errs = []
+    for k in ("code", "title", "category", "url", "description"):
+        if not str(v.get(k, "")).strip():
+            errs.append(f"{where}: champ « {k} » manquant")
+    url = str(v.get("url", ""))
+    if url and not (url.startswith("https://") if admin else url_allowed(url)):
+        errs.append(f"{where}: lien non autorisé ({url})")
+    if v.get("category") and v["category"] not in VIDEO_CATEGORIES:
+        errs.append(f"{where}: catégorie inconnue « {v['category']} »")
+    ex = v.get("exercise") or []
+    if not ex:
+        errs.append(f"{where}: exercice associé manquant")
+    for i, q in enumerate(ex, 1):
+        ch = q.get("choices") or []
+        if len(ch) != CHOICES_PER_QUESTION or len({_norm(c) for c in ch}) != len(ch):
+            errs.append(f"{where} Q{i}: 4 propositions différentes attendues")
+        if not isinstance(q.get("answer"), int) or not 0 <= q["answer"] < len(ch):
+            errs.append(f"{where} Q{i}: bonne réponse invalide")
+        if not str(q.get("explanation", "")).strip():
+            errs.append(f"{where} Q{i}: correction manquante")
+        if len(q.get("rationales") or []) != len(ch) or not all(
+                str(r).strip() for r in q.get("rationales") or []):
+            errs.append(f"{where} Q{i}: chaque proposition doit être justifiée")
+    return errs

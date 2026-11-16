@@ -1,0 +1,722 @@
+[
+ {
+  "code": "VID-B2-001",
+  "category": "Méthodologie TCF IRN",
+  "source": "France Éducation international",
+  "duration": "page de référence",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Une estimation de niveau donnée par l'application vous indique « B2 ». Que représente-t-elle ?",
+    "choices": [
+     "Une note officielle utilisable pour un dossier de naturalisation.",
+     "Une indication d'entraînement, qui ne remplace pas le résultat officiel du TCF.",
+     "Un résultat validé par France Éducation international.",
+     "Une garantie d'obtenir B2 le jour de l'examen."
+    ],
+    "rationales": [
+     "Aucune application d'entraînement ne délivre de note officielle.",
+     "Seule l'attestation délivrée après le test officiel a une valeur administrative.",
+     "L'organisme ne valide pas les estimations des applications.",
+     "Une estimation reste indicative : l'examen réel peut donner un autre résultat."
+    ],
+    "answer": 1,
+    "explanation": "Seule l'attestation délivrée après le test officiel a une valeur administrative."
+   }
+  ],
+  "related": [],
+  "title": "Le TCF IRN expliqué par l'organisme officiel",
+  "url": "https://www.france-education-international.fr/test/tcf-irn",
+  "description": "Page officielle de France Éducation international, l'organisme qui conçoit le TCF. Elle présente le test destiné à l'intégration, à la résidence et à la nationalité, ses épreuves et les informations d'inscription. C'est la seule source qui fait foi pour le format et les modalités.\n\nConseil d'utilisation : Avant de vous inscrire, comparez les informations de cette page avec celles de votre centre d'examen : en cas de différence, ce sont les documents officiels qui comptent, jamais une application d'entraînement."
+ },
+ {
+  "code": "VID-B2-002",
+  "category": "Méthodologie TCF IRN",
+  "source": "TV5MONDE",
+  "duration": "séries, durée variable",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Quelle stratégie de préparation est la plus efficace à l'approche du TCF ?",
+    "choices": [
+     "Tout réviser la veille de l'examen pendant dix heures.",
+     "Ne travailler que la grammaire écrite.",
+     "S'entraîner un peu chaque jour sur des documents authentiques variés.",
+     "Regarder uniquement des films sous-titrés dans sa langue maternelle."
+    ],
+    "rationales": [
+     "Une révision massive de dernière minute fatigue et laisse peu de traces durables.",
+     "Le TCF évalue aussi la compréhension orale et l'expression orale.",
+     "La régularité et la variété des documents développent les automatismes nécessaires.",
+     "Les sous-titres dans sa langue empêchent de travailler la compréhension du français."
+    ],
+    "answer": 2,
+    "explanation": "La régularité et la variété des documents développent les automatismes nécessaires."
+   }
+  ],
+  "related": [],
+  "title": "Se préparer avec TV5MONDE Apprendre le français",
+  "url": "https://apprendre.tv5monde.com/fr",
+  "description": "Le site gratuit de TV5MONDE propose des vidéos d'actualité, de culture et de société accompagnées d'exercices interactifs classés par niveau. Il permet de s'entraîner régulièrement sur des documents authentiques, comme ceux du TCF.\n\nConseil d'utilisation : Choisissez des activités de niveau B2 et fixez-vous un rythme régulier (par exemple trois vidéos par semaine) plutôt qu'une longue séance occasionnelle."
+ },
+ {
+  "code": "VID-B2-003",
+  "category": "Compréhension orale",
+  "source": "RFI",
+  "duration": "podcasts, durée variable",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Lors d'une première écoute d'un document d'actualité, que faut-il chercher en priorité ?",
+    "choices": [
+     "Chaque mot inconnu, pour le noter dans un carnet.",
+     "Les fautes de prononciation du journaliste.",
+     "Le nombre exact de phrases prononcées.",
+     "Le thème général et les informations principales : qui, quoi, où, quand."
+    ],
+    "rationales": [
+     "S'arrêter sur chaque mot fait perdre le fil du document.",
+     "Ce n'est pas l'objectif de la compréhension orale.",
+     "Cette information n'aide pas à comprendre le message.",
+     "La première écoute sert à saisir le sens global ; les détails viennent ensuite."
+    ],
+    "answer": 3,
+    "explanation": "La première écoute sert à saisir le sens global ; les détails viennent ensuite."
+   }
+  ],
+  "related": [],
+  "title": "Écouter l'actualité avec RFI Français facile",
+  "url": "https://francaisfacile.rfi.fr/fr/",
+  "description": "Le site de RFI consacré à l'apprentissage du français propose des podcasts d'actualité, des exercices de compréhension et des transcriptions. Les journaux d'information habituent l'oreille au rythme radiophonique, très proche des documents de la compréhension orale du TCF.\n\nConseil d'utilisation : Écoutez d'abord sans lire, notez les idées principales, puis réécoutez avec la transcription pour repérer ce qui vous a échappé."
+ },
+ {
+  "code": "VID-B2-004",
+  "category": "Compréhension orale",
+  "source": "France Culture",
+  "duration": "émissions, durée variable",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Dans un débat radiophonique, quel indice signale souvent une opinion opposée ?",
+    "choices": [
+     "Un connecteur d'opposition comme « en revanche » ou « pourtant ».",
+     "Le ton toujours plus fort de l'intervenant.",
+     "L'utilisation du présent de l'indicatif.",
+     "La présence d'un chiffre."
+    ],
+    "rationales": [
+     "Ces connecteurs annoncent une idée qui contredit ou nuance ce qui précède.",
+     "Le ton ne suffit pas : on peut s'opposer calmement.",
+     "Le temps verbal n'indique pas une opposition.",
+     "Un chiffre peut appuyer n'importe quelle position."
+    ],
+    "answer": 0,
+    "explanation": "Ces connecteurs annoncent une idée qui contredit ou nuance ce qui précède."
+   }
+  ],
+  "related": [],
+  "title": "Entraîner son oreille aux débats et entretiens avec France Culture",
+  "url": "https://www.radiofrance.fr/franceculture",
+  "description": "France Culture diffuse des entretiens, des débats et des documentaires sur la société, les sciences et les idées. Ces émissions, souvent disponibles en podcast, présentent des points de vue argumentés, comme les documents de niveau B2 et C1 du TCF.\n\nConseil d'utilisation : Écoutez un extrait de cinq minutes et résumez en deux phrases la position de chaque intervenant : c'est exactement ce que demandent les questions d'opinion."
+ },
+ {
+  "code": "VID-B2-005",
+  "category": "Compréhension écrite",
+  "source": "Vie publique",
+  "duration": "articles et dossiers",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Pour répondre à une question de compréhension globale sur un article, que faut-il lire avec le plus d'attention ?",
+    "choices": [
+     "Uniquement les chiffres du texte.",
+     "La dernière phrase seulement.",
+     "Les noms propres.",
+     "Le titre, l'introduction et la conclusion."
+    ],
+    "rationales": [
+     "Les chiffres illustrent l'argument, ils ne le résument pas.",
+     "Elle peut être une ouverture ou une nuance, pas forcément le thème.",
+     "Ils situent le texte mais n'en donnent pas le sens global.",
+     "Ces parties résument généralement l'idée principale du texte."
+    ],
+    "answer": 3,
+    "explanation": "Ces parties résument généralement l'idée principale du texte."
+   }
+  ],
+  "related": [],
+  "title": "Lire des textes de société sur Vie publique",
+  "url": "https://www.vie-publique.fr/",
+  "description": "Site public d'information sur les politiques publiques et les débats de société. Ses fiches et dossiers, rédigés dans une langue claire et précise, constituent un bon entraînement à la lecture de textes informatifs et argumentatifs de niveau B2.\n\nConseil d'utilisation : Lisez un article en repérant le plan (constat, causes, conséquences, solutions) avant de répondre à des questions de détail."
+ },
+ {
+  "code": "VID-B2-006",
+  "category": "Compréhension écrite",
+  "source": "RFI",
+  "duration": "articles d'actualité",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Dans un article de presse, que signale souvent l'emploi du conditionnel (« le ministre aurait démissionné ») ?",
+    "choices": [
+     "Une information non confirmée.",
+     "Une information certaine et officielle.",
+     "Un événement futur.",
+     "Une erreur de grammaire."
+    ],
+    "rationales": [
+     "Le conditionnel journalistique marque une prudence sur une information non vérifiée.",
+     "C'est l'inverse : il exprime l'incertitude.",
+     "Le conditionnel passé ne situe pas ici l'action dans le futur.",
+     "C'est un emploi correct et fréquent dans la presse."
+    ],
+    "answer": 0,
+    "explanation": "Le conditionnel journalistique marque une prudence sur une information non vérifiée."
+   }
+  ],
+  "related": [],
+  "title": "Lire la presse internationale sur RFI",
+  "url": "https://www.rfi.fr/fr/",
+  "description": "Le site d'information de Radio France Internationale publie des articles sur l'actualité française et internationale. Lire régulièrement la presse permet d'enrichir son vocabulaire et de s'habituer aux textes du TCF.\n\nConseil d'utilisation : Choisissez un article par jour et soulignez les mots qui expriment l'opinion de l'auteur (adjectifs, verbes d'opinion, conditionnel)."
+ },
+ {
+  "code": "VID-B2-007",
+  "category": "Expression écrite",
+  "source": "Académie française",
+  "duration": "rubrique de conseils",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Quelle formulation convient dans un courriel formel de la tâche 1 ?",
+    "choices": [
+     "« Suite à votre message, je vous confirme ma participation. »",
+     "« Rapport à votre message, je confirme. »",
+     "« À la suite de votre message, je vous confirme ma participation. »",
+     "« Vu que votre message, je confirme. »"
+    ],
+    "rationales": [
+     "« Suite à » est critiqué et jugé administratif ou familier.",
+     "« Rapport à » est familier et incorrect dans ce sens.",
+     "« À la suite de » est la tournure recommandée dans un registre soutenu.",
+     "La construction est fautive."
+    ],
+    "answer": 2,
+    "explanation": "« À la suite de » est la tournure recommandée dans un registre soutenu."
+   }
+  ],
+  "related": [],
+  "title": "Éviter les fautes courantes avec « Dire, ne pas dire »",
+  "url": "https://www.academie-francaise.fr/dire-ne-pas-dire",
+  "description": "Rubrique de l'Académie française qui explique les emplois fautifs ou maladroits fréquents et propose des formulations correctes. Elle est utile pour éviter les erreurs qui pénalisent une production écrite.\n\nConseil d'utilisation : Parcourez une entrée par jour et réutilisez la formulation correcte dans une phrase de votre invention."
+ },
+ {
+  "code": "VID-B2-008",
+  "category": "Expression écrite",
+  "source": "France Éducation international",
+  "duration": "page de référence",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Dans l'application, la tâche 1 d'expression écrite demande entre 30 et 60 mots. Que faire si votre texte compte 75 mots ?",
+    "choices": [
+     "Le laisser tel quel, car un texte long montre un meilleur niveau.",
+     "Le raccourcir en supprimant les répétitions et les détails secondaires.",
+     "Supprimer la formule de politesse finale uniquement.",
+     "Ajouter encore des arguments."
+    ],
+    "rationales": [
+     "Un dépassement important ne respecte pas la consigne.",
+     "Respecter la fourchette demandée fait partie de la consigne.",
+     "Cela ne suffit pas et rend le message moins adapté.",
+     "Le texte serait encore plus long."
+    ],
+    "answer": 1,
+    "explanation": "Respecter la fourchette demandée fait partie de la consigne."
+   }
+  ],
+  "related": [],
+  "title": "Connaître les attentes de l'épreuve écrite",
+  "url": "https://www.france-education-international.fr/test/tcf-irn",
+  "description": "La page officielle du TCF IRN décrit les épreuves, dont l'expression écrite. Se référer à cette source évite les idées reçues sur les consignes.\n\nConseil d'utilisation : Pour chaque tâche, respectez strictement le nombre de mots demandé et vérifiez que vous avez traité tous les points de la consigne."
+ },
+ {
+  "code": "VID-B2-009",
+  "category": "Expression orale",
+  "source": "France Inter",
+  "duration": "émissions, durée variable",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Pendant la tâche 3, l'examinateur vous contredit. Quelle réaction est la plus adaptée ?",
+    "choices": [
+     "Reconnaître son argument puis défendre le vôtre avec un exemple.",
+     "Changer immédiatement d'avis pour lui faire plaisir.",
+     "Répéter votre opinion sans répondre à son argument.",
+     "Rester silencieux jusqu'à la question suivante."
+    ],
+    "rationales": [
+     "Concéder avant de réfuter montre une interaction de niveau B2.",
+     "L'examinateur évalue votre capacité à argumenter, pas votre accord.",
+     "Vous devez réagir à ce qu'il dit.",
+     "Le silence ne permet pas d'évaluer votre production."
+    ],
+    "answer": 0,
+    "explanation": "Concéder avant de réfuter montre une interaction de niveau B2."
+   }
+  ],
+  "related": [],
+  "title": "Observer l'argumentation orale sur France Inter",
+  "url": "https://www.radiofrance.fr/franceinter",
+  "description": "France Inter propose des interviews, des chroniques et des débats. Écouter comment les invités défendent leur point de vue aide à préparer la tâche 3 de l'expression orale.\n\nConseil d'utilisation : Notez les expressions utilisées pour prendre la parole, nuancer ou contredire (« je dirais plutôt que », « certes, mais… ») et réutilisez-les à voix haute."
+ },
+ {
+  "code": "VID-B2-010",
+  "category": "Expression orale",
+  "source": "Lumni",
+  "duration": "vidéos éducatives",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Pour la tâche 2 (interaction), quelle attitude est attendue ?",
+    "choices": [
+     "Réciter un texte appris par cœur.",
+     "Poser des questions pertinentes et réagir aux réponses de l'examinateur.",
+     "Laisser l'examinateur parler seul.",
+     "Répondre par oui ou par non."
+    ],
+    "rationales": [
+     "Un discours récité ne répond pas à l'interaction.",
+     "La tâche évalue la capacité à mener un échange, pas un monologue.",
+     "Vous devez conduire l'échange.",
+     "Des réponses trop courtes ne montrent pas votre niveau."
+    ],
+    "answer": 1,
+    "explanation": "La tâche évalue la capacité à mener un échange, pas un monologue."
+   }
+  ],
+  "related": [],
+  "title": "Réviser des sujets de société avec Lumni",
+  "url": "https://www.lumni.fr/",
+  "description": "Plateforme éducative publique qui rassemble des vidéos et des émissions sur de nombreux sujets (société, sciences, histoire, culture). Les vidéos courtes fournissent des idées et du vocabulaire pour parler de thèmes de société à l'oral.\n\nConseil d'utilisation : Après une vidéo, présentez son sujet en une minute, à voix haute, puis donnez votre avis en une minute. Enregistrez-vous pour vous réécouter."
+ },
+ {
+  "code": "VID-B2-011",
+  "category": "Argumentation",
+  "source": "Arte",
+  "duration": "documentaires et magazines",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Quel élément rend un argument plus convaincant dans une production B2 ?",
+    "choices": [
+     "Une répétition du même argument avec d'autres mots.",
+     "Une formule générale comme « tout le monde le sait ».",
+     "Une liste de mots-clés sans phrase.",
+     "Un exemple concret et précis qui l'illustre."
+    ],
+    "rationales": [
+     "La répétition n'ajoute aucune force à l'argumentation.",
+     "C'est une généralisation sans preuve.",
+     "L'argumentation exige des phrases articulées.",
+     "L'exemple rend l'argument crédible et montre la maîtrise du sujet."
+    ],
+    "answer": 3,
+    "explanation": "L'exemple rend l'argument crédible et montre la maîtrise du sujet."
+   }
+  ],
+  "related": [],
+  "title": "Nourrir ses arguments avec les documentaires d'Arte",
+  "url": "https://www.arte.tv/fr/",
+  "description": "Arte propose des documentaires et magazines sur l'environnement, la société, l'économie et la culture. Ils fournissent des exemples concrets pour étayer une argumentation écrite ou orale.\n\nConseil d'utilisation : Pour chaque documentaire, notez un fait précis et une conséquence : vous aurez un exemple prêt à l'emploi pour vos argumentations."
+ },
+ {
+  "code": "VID-B2-012",
+  "category": "Argumentation",
+  "source": "franceinfo",
+  "duration": "actualité",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Quelle structure convient le mieux pour une opinion nuancée ?",
+    "choices": [
+     "« Je pense que… parce que je pense que… »",
+     "« Oui. Non. Peut-être. »",
+     "« Certes…, mais… ; c'est pourquoi je pense que… »",
+     "« Tout le monde dit que…, donc c'est vrai. »"
+    ],
+    "rationales": [
+     "Le raisonnement est circulaire.",
+     "Ce ne sont pas des phrases argumentées.",
+     "Elle présente une concession, une objection puis une conclusion.",
+     "L'appel à l'opinion générale n'est pas une preuve."
+    ],
+    "answer": 2,
+    "explanation": "Elle présente une concession, une objection puis une conclusion."
+   }
+  ],
+  "related": [],
+  "title": "Suivre les débats d'actualité sur franceinfo",
+  "url": "https://www.franceinfo.fr/",
+  "description": "Le site d'information du service public publie des articles, des vidéos et des émissions sur les grands débats de société. Ces sujets correspondent souvent aux thèmes des tâches argumentatives du TCF.\n\nConseil d'utilisation : Choisissez un débat de la semaine et rédigez deux arguments pour et deux arguments contre, chacun avec un connecteur différent."
+ },
+ {
+  "code": "VID-B2-013",
+  "category": "Grammaire",
+  "source": "TV5MONDE",
+  "duration": "exercices, durée variable",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Quelle phrase est correcte ?",
+    "choices": [
+     "« Bien qu'il soit fatigué, il continue à travailler. »",
+     "« Bien qu'il est fatigué, il continue à travailler. »",
+     "« Bien qu'il sera fatigué, il continue. »",
+     "« Bien que fatigué il est, il continue. »"
+    ],
+    "rationales": [
+     "« Bien que » est suivi du subjonctif.",
+     "Après « bien que », l'indicatif est fautif.",
+     "Le futur ne convient pas après « bien que ».",
+     "L'ordre des mots est incorrect."
+    ],
+    "answer": 0,
+    "explanation": "« Bien que » est suivi du subjonctif."
+   }
+  ],
+  "related": [],
+  "title": "Réviser la grammaire en contexte avec TV5MONDE",
+  "url": "https://apprendre.tv5monde.com/fr",
+  "description": "Les activités de TV5MONDE Apprendre associent vidéos et exercices de grammaire. Travailler une règle à partir d'un document authentique aide à la mémoriser.\n\nConseil d'utilisation : Après un exercice, écrivez trois phrases personnelles avec la règle étudiée et faites-les corriger dans le module d'expression écrite."
+ },
+ {
+  "code": "VID-B2-014",
+  "category": "Grammaire",
+  "source": "Académie française",
+  "duration": "rubrique de conseils",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Quelle phrase est correcte ?",
+    "choices": [
+     "« Les décisions qu'il a pris sont importantes. »",
+     "« Les décisions qu'il a prises sont importantes. »",
+     "« Les décisions qu'il a prit sont importantes. »",
+     "« Les décisions qu'il a prendre sont importantes. »"
+    ],
+    "rationales": [
+     "Le participe doit s'accorder avec « décisions ».",
+     "Avec « avoir », le participe s'accorde avec le complément d'objet direct placé avant (« que » = les décisions).",
+     "« Prit » est une forme du passé simple, pas un participe passé.",
+     "L'infinitif ne convient pas."
+    ],
+    "answer": 1,
+    "explanation": "Avec « avoir », le participe s'accorde avec le complément d'objet direct placé avant (« que » = les décisions)."
+   }
+  ],
+  "related": [],
+  "title": "Clarifier les doutes de grammaire avec l'Académie française",
+  "url": "https://www.academie-francaise.fr/dire-ne-pas-dire",
+  "description": "La rubrique « Dire, ne pas dire » répond à des questions de grammaire et d'usage (accords, constructions verbales, prépositions). Elle complète les chapitres de grammaire de l'application.\n\nConseil d'utilisation : Gardez une liste de vos erreurs récurrentes (le journal d'erreurs de l'application vous aide) et cherchez la règle correspondante."
+ },
+ {
+  "code": "VID-B2-015",
+  "category": "Conjugaison",
+  "source": "RFI",
+  "duration": "exercices et podcasts",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Quel temps convient : « Quand je suis arrivé, le film … déjà … » ?",
+    "choices": [
+     "a… commencé",
+     "commençait…",
+     "avait… commencé",
+     "commencera…"
+    ],
+    "rationales": [
+     "Le passé composé ne marque pas l'antériorité par rapport à « je suis arrivé ».",
+     "L'imparfait ne convient pas avec « déjà » pour une action achevée.",
+     "Le plus-que-parfait exprime une action antérieure à une autre action passée.",
+     "Le futur ne convient pas dans un récit au passé."
+    ],
+    "answer": 2,
+    "explanation": "Le plus-que-parfait exprime une action antérieure à une autre action passée."
+   }
+  ],
+  "related": [],
+  "title": "Entendre les temps du passé dans les récits de RFI",
+  "url": "https://francaisfacile.rfi.fr/fr/",
+  "description": "Les reportages et récits proposés par RFI Français facile emploient naturellement le passé composé, l'imparfait et le plus-que-parfait. Les repérer à l'écoute aide à les employer correctement à l'écrit.\n\nConseil d'utilisation : Dans une transcription, surlignez chaque verbe au passé et expliquez pourquoi ce temps a été choisi (action ponctuelle, description, antériorité)."
+ },
+ {
+  "code": "VID-B2-016",
+  "category": "Conjugaison",
+  "source": "TV5MONDE",
+  "duration": "exercices, durée variable",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Quelle phrase est correcte ?",
+    "choices": [
+     "« Si j'aurais le temps, je ferais du bénévolat. »",
+     "« Si j'avais le temps, je fais du bénévolat. »",
+     "« Si j'ai eu le temps, je ferais du bénévolat. »",
+     "« Si j'avais le temps, je ferais du bénévolat. »"
+    ],
+    "rationales": [
+     "Le conditionnel ne s'emploie pas après « si » d'hypothèse.",
+     "Le présent ne correspond pas à l'hypothèse.",
+     "La concordance est incorrecte.",
+     "Si + imparfait entraîne le conditionnel présent."
+    ],
+    "answer": 3,
+    "explanation": "Si + imparfait entraîne le conditionnel présent."
+   }
+  ],
+  "related": [],
+  "title": "Maîtriser subjonctif et conditionnel avec TV5MONDE",
+  "url": "https://apprendre.tv5monde.com/fr",
+  "description": "Les exercices de niveau B2 de TV5MONDE travaillent les modes indispensables à l'argumentation : subjonctif après les expressions de volonté ou de doute, conditionnel pour les hypothèses et les suggestions.\n\nConseil d'utilisation : Complétez les exercices avec le module « Conjugaison » de l'application, qui donne toutes les formes des verbes irréguliers."
+ },
+ {
+  "code": "VID-B2-017",
+  "category": "Connecteurs logiques",
+  "source": "franceinfo",
+  "duration": "articles et vidéos",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Quel connecteur exprime une conséquence ?",
+    "choices": [
+     "« bien que »",
+     "« puisque »",
+     "« en revanche »",
+     "« par conséquent »"
+    ],
+    "rationales": [
+     "Il exprime une concession.",
+     "Il exprime une cause.",
+     "Il exprime une opposition.",
+     "Il introduit le résultat de ce qui précède."
+    ],
+    "answer": 3,
+    "explanation": "Il introduit le résultat de ce qui précède."
+   }
+  ],
+  "related": [],
+  "title": "Repérer les connecteurs dans les articles d'actualité",
+  "url": "https://www.franceinfo.fr/",
+  "description": "Les articles d'analyse utilisent de nombreux connecteurs pour enchaîner causes, conséquences et oppositions. Les repérer améliore la compréhension et enrichit vos productions.\n\nConseil d'utilisation : Classez les connecteurs trouvés en quatre colonnes : cause, conséquence, opposition, addition. Réutilisez-en un nouveau dans chaque production écrite."
+ },
+ {
+  "code": "VID-B2-018",
+  "category": "Connecteurs logiques",
+  "source": "Vie publique",
+  "duration": "dossiers",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Quel connecteur introduit une concession ?",
+    "choices": [
+     "« certes »",
+     "« donc »",
+     "« car »",
+     "« ensuite »"
+    ],
+    "rationales": [
+     "Il reconnaît un argument avant de le nuancer (« certes…, mais… »).",
+     "Il exprime une conséquence.",
+     "Il exprime une cause.",
+     "Il exprime une succession."
+    ],
+    "answer": 0,
+    "explanation": "Il reconnaît un argument avant de le nuancer (« certes…, mais… »)."
+   }
+  ],
+  "related": [],
+  "title": "Observer l'organisation d'un texte argumentatif",
+  "url": "https://www.vie-publique.fr/",
+  "description": "Les dossiers de Vie publique présentent les débats de façon structurée, avec des transitions claires entre les arguments. C'est un bon modèle pour organiser la tâche 3 de l'expression écrite.\n\nConseil d'utilisation : Relevez les mots qui ouvrent chaque paragraphe et inspirez-vous-en pour structurer vos propres textes."
+ },
+ {
+  "code": "VID-B2-019",
+  "category": "Vocabulaire",
+  "source": "CNRTL",
+  "duration": "dictionnaire en ligne",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Quel mot remplace le plus précisément « faire » dans « faire une enquête » à l'écrit soutenu ?",
+    "choices": [
+     "« fabriquer »",
+     "« mener »",
+     "« jouer »",
+     "« donner »"
+    ],
+    "rationales": [
+     "Ce verbe s'applique à des objets.",
+     "« Mener une enquête » est la collocation précise attendue à l'écrit.",
+     "Il ne s'emploie pas avec « enquête ».",
+     "« Donner une enquête » ne se dit pas."
+    ],
+    "answer": 1,
+    "explanation": "« Mener une enquête » est la collocation précise attendue à l'écrit."
+   }
+  ],
+  "related": [],
+  "title": "Préciser le sens des mots avec le CNRTL",
+  "url": "https://www.cnrtl.fr/",
+  "description": "Le Centre national de ressources textuelles et lexicales donne accès gratuitement à des définitions, des synonymes et des exemples d'emploi. Il aide à choisir le mot juste et à varier son vocabulaire.\n\nConseil d'utilisation : Pour chaque mot nouveau, notez un synonyme et un exemple d'emploi, puis ajoutez-le à vos révisions dans le module Vocabulaire."
+ },
+ {
+  "code": "VID-B2-020",
+  "category": "Vocabulaire",
+  "source": "INA",
+  "duration": "archives vidéo",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Dans un texte formel, quel mot remplace le mieux « boulot » ?",
+    "choices": [
+     "« job »",
+     "« taf »",
+     "« emploi »",
+     "« truc »"
+    ],
+    "rationales": [
+     "C'est un anglicisme familier.",
+     "C'est un mot argotique.",
+     "« Boulot » est familier ; « emploi » appartient au registre standard ou soutenu.",
+     "C'est un mot vague et familier."
+    ],
+    "answer": 2,
+    "explanation": "« Boulot » est familier ; « emploi » appartient au registre standard ou soutenu."
+   }
+  ],
+  "related": [],
+  "title": "Découvrir l'histoire et la société françaises avec l'INA",
+  "url": "https://www.ina.fr/",
+  "description": "L'Institut national de l'audiovisuel met en ligne des archives de la télévision et de la radio françaises. Ces documents enrichissent le vocabulaire lié à la société, à l'histoire et à la culture, souvent utile pour l'entretien et l'argumentation.\n\nConseil d'utilisation : Choisissez une archive liée à un thème du TCF (travail, famille, environnement) et notez cinq mots ou expressions à réutiliser."
+ },
+ {
+  "code": "VID-B2-021",
+  "category": "Prononciation",
+  "source": "RFI",
+  "duration": "podcasts",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Dans « les enfants », comment se prononce la liaison ?",
+    "choices": [
+     "On ne fait aucune liaison.",
+     "On prononce [z] entre « les » et « enfants ».",
+     "On prononce [t] entre les deux mots.",
+     "On prononce [s] entre les deux mots."
+    ],
+    "rationales": [
+     "La liaison est ici obligatoire.",
+     "La liaison est obligatoire entre le déterminant et le nom.",
+     "Le « s » de « les » se lie en [z].",
+     "Le « s » final se prononce [z] en liaison."
+    ],
+    "answer": 1,
+    "explanation": "La liaison est obligatoire entre le déterminant et le nom."
+   }
+  ],
+  "related": [],
+  "title": "Imiter la prononciation des journalistes de RFI",
+  "url": "https://francaisfacile.rfi.fr/fr/",
+  "description": "Les journaux en français facile sont lus à un rythme posé et avec une articulation claire. Ils servent de modèle pour travailler l'intonation et les liaisons.\n\nConseil d'utilisation : Pratiquez le « shadowing » : répétez une phrase juste après le journaliste, en imitant son rythme et son intonation, puis enregistrez-vous dans le module d'expression orale."
+ },
+ {
+  "code": "VID-B2-022",
+  "category": "Prononciation",
+  "source": "TV5MONDE",
+  "duration": "vidéos, durée variable",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "À l'oral, comment marque-t-on le plus souvent une question totale sans inversion (« Vous venez ce soir ? ») ?",
+    "choices": [
+     "Par une intonation montante à la fin de la phrase.",
+     "Par une intonation descendante.",
+     "En parlant plus vite.",
+     "En ajoutant un silence avant le verbe."
+    ],
+    "rationales": [
+     "Sans inversion ni « est-ce que », c'est l'intonation qui porte la question.",
+     "Elle marque plutôt une affirmation.",
+     "Le débit ne transforme pas une phrase en question.",
+     "Ce n'est pas une marque de question."
+    ],
+    "answer": 0,
+    "explanation": "Sans inversion ni « est-ce que », c'est l'intonation qui porte la question."
+   }
+  ],
+  "related": [],
+  "title": "Travailler l'intonation avec les vidéos de TV5MONDE",
+  "url": "https://apprendre.tv5monde.com/fr",
+  "description": "Les vidéos de TV5MONDE permettent d'entendre des locuteurs francophones variés. Écouter différents accents prépare à la diversité des voix de la compréhension orale et améliore votre propre intonation.\n\nConseil d'utilisation : Répétez à voix haute les questions entendues dans une vidéo en faisant monter la voix à la fin, puis comparez avec l'original."
+ },
+ {
+  "code": "VID-B2-023",
+  "category": "Techniques d'examen",
+  "source": "France Éducation international",
+  "duration": "page de référence",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "Pendant une épreuve de compréhension, une question vous paraît très difficile. Que faire ?",
+    "choices": [
+     "Rester sur la question jusqu'à être certain.",
+     "Laisser la question sans réponse par principe.",
+     "Recommencer l'épreuve depuis le début.",
+     "Choisir la réponse la plus probable et passer à la suite."
+    ],
+    "rationales": [
+     "Le temps est limité pour toute l'épreuve.",
+     "Une réponse réfléchie a plus de chances d'être juste qu'une absence de réponse.",
+     "C'est impossible et inutile.",
+     "Rester bloqué fait perdre du temps pour les questions suivantes."
+    ],
+    "answer": 3,
+    "explanation": "Rester bloqué fait perdre du temps pour les questions suivantes."
+   }
+  ],
+  "related": [],
+  "title": "Préparer le jour de l'examen avec les informations officielles",
+  "url": "https://www.france-education-international.fr/test/tcf-irn",
+  "description": "La page officielle donne les informations sur le déroulement du TCF IRN. Elle permet de connaître les épreuves à l'avance et d'arriver serein le jour J.\n\nConseil d'utilisation : Faites au moins un examen blanc complet de l'application dans les conditions réelles (sans pause, chronomètre activé) avant le jour J."
+ },
+ {
+  "code": "VID-B2-024",
+  "category": "Techniques d'examen",
+  "source": "Lumni",
+  "duration": "vidéos éducatives",
+  "level": "B2",
+  "exercise": [
+   {
+    "prompt": "En expression écrite, comment répartir au mieux votre temps ?",
+    "choices": [
+     "Écrire le plus vite possible sans relire.",
+     "Passer tout le temps sur la première tâche.",
+     "Prévoir quelques minutes à la fin pour relire chaque texte.",
+     "Commencer par recopier la consigne."
+    ],
+    "rationales": [
+     "Les erreurs non corrigées pénalisent la production.",
+     "Les trois tâches doivent être traitées.",
+     "La relecture permet de corriger accords, conjugaisons et nombre de mots.",
+     "Cela ne rapporte rien et fait perdre du temps."
+    ],
+    "answer": 2,
+    "explanation": "La relecture permet de corriger accords, conjugaisons et nombre de mots."
+   }
+  ],
+  "related": [],
+  "title": "Apprendre à gérer son temps et son stress",
+  "url": "https://www.lumni.fr/",
+  "description": "Lumni propose des vidéos sur les méthodes de travail et la préparation des examens. Elles donnent des conseils pour organiser ses révisions et gérer le stress.\n\nConseil d'utilisation : Planifiez vos révisions avec le programme de l'application et gardez une journée de repos avant l'examen."
+ }
+]

@@ -11,7 +11,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from datetime import datetime
 
-from sqlalchemy import func, select
+from sqlalchemy import func, or_, select
 from sqlalchemy.orm import Session
 
 from tcfmaster.core import levels as L
@@ -151,8 +151,9 @@ def library(s: Session, family: str | None = None, search: str = "",
                                          "CO 25 · CE 25 · EE 3 · EO 3"))
         elif fam == FILTER_VIDEOS:
             q = select(Video)
-            if not include_drafts:
-                q = q.where(Video.status == STATUS_VALID)
+            if not include_drafts:   # brouillons et liens en erreur masqués
+                q = q.where(Video.status == STATUS_VALID,
+                            or_(Video.link_status.is_(None), Video.link_status != "erreur"))
             for v in s.execute(q.order_by(Video.category, Video.title)).scalars():
                 items.append(LibraryItem("video", v.id, fam, v.title, v.category,
                                          f"{v.source} · {v.duration}", v.status))
@@ -183,7 +184,8 @@ def counts(s: Session) -> dict[str, int]:
         FILTER_EO: len(bank_subjects(s, SECTION_EO)),
         FILTER_EXAMS: s.execute(select(func.count(Exam.id))).scalar_one(),
         FILTER_VIDEOS: s.execute(select(func.count(Video.id)).where(
-            Video.status == STATUS_VALID)).scalar_one(),
+            Video.status == STATUS_VALID,
+            or_(Video.link_status.is_(None), Video.link_status != "erreur"))).scalar_one(),
     }
 
 
