@@ -6,7 +6,6 @@ import json
 import sys
 import wave
 import zipfile
-from pathlib import Path
 
 import pytest
 
