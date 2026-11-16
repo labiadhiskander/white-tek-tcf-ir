@@ -7,7 +7,7 @@ exercices, cours et le suivi. L'IA en ligne est facultative et configurable.
 
 ```
 ┌──────────────────────────── Interface (PySide6) ─────────────────────────────┐
-│ ui/  fenêtre principale, menu 15 entrées, pages, chronomètres, graphiques    │
+│ ui/  fenêtre principale, menu 19 entrées, pages, chronomètres, graphiques    │
 └───────────────▲──────────────────────────────────────────────────────────────┘
                 │ appelle uniquement des services (aucun SQL dans l'interface)
 ┌───────────────┴──────────────── Logique métier ──────────────────────────────┐
@@ -204,4 +204,71 @@ exercice + correction) ; `vocab_words` ; `grammar_chapters` → `grammar_exercis
   page de téléchargement. Le nouvel installateur s'installe par-dessus ; au démarrage,
   le contenu est réimporté sans perdre l'historique (identifiants stables).
 * Guide utilisateur : `tcfmaster/docs/GUIDE_UTILISATEUR.md`, ouvert depuis
-  Paramètres › Aide et mises à jour.
+  Paramètres › Aide et mises à jour. Journal des modifications : `CHANGELOG.md`.
+
+## 8. Version 1.1 – Édition B2
+
+Principe : tout ce qui existait en 1.0 est conservé. La base est migrée de façon
+additive (`database.add_missing_columns` ajoute les colonnes manquantes, ne supprime
+ni ne modifie rien) ; le contenu est réimporté sur place à chaque changement de
+version ou d'empreinte du contenu, identifiants stables, historique intact.
+
+### 8.1 Chaîne de contenu
+
+| Source (texte balisé) | Compilateur | Données | Contrôles bloquants |
+|---|---|---|---|
+| `content_src/collections/<co\|ce\|ee\|eo>/*.txt` | `tools/build_collections.py` | `data/collections/` | correction de chaque proposition, nombre de mots des modèles EE (`validator.count_words`), commentaires et conseils, réponses équilibrées A–D |
+| `content_src/exams/exam_b2_NN.txt` (`@series B2`) | `tools/build_content.py` | `data/exams/` | format 25/25/3/3, niveau B2 partout, durées EO 180/210/210 s, `validate_b2_series`, doublons avec la bibliothèque |
+| `content_src/videos/videos.txt` | `tools/build_videos.py` | `data/videos.json` | 12 catégories couvertes, https, liste blanche de domaines (`ALLOWED_DOMAINS`), exercice corrigé |
+| `tools/build_intensive.py` | — | `data/intensive.json` | 30 jours, 4 compétences par jour, examens blancs aux jours 10, 20, 29 |
+
+Le seeder (`content/seeder.py`) valide de nouveau à l'import et ignore tout contenu
+marqué `locally_modified` (modifié dans l'administration).
+
+### 8.2 Nouveaux modules
+
+* `services/collections.py` : bibliothèque, séries d'entraînement ou d'examen,
+  correction (`services/correction.py`). Une question manquée alimente le journal des
+  difficultés et le **lexique à revoir** (`review.enqueue_lexicon` : `review_items`
+  de type `lexique`, `item_id = id de l'exercice × 1000 + rang du terme`, SM-2).
+* `services/piper_tts.py` : voix Piper téléchargées à la demande (binaire MIT,
+  voix `rhasspy/piper-voices`, fiche du modèle affichée avant téléchargement) ;
+  repli SAPI.
+* `services/videos.py` et `ui/pages/videos_page.py` : vidéothèque, vérification des
+  liens (HEAD puis GET, statut `erreur` = masqué), exercice à correction immédiate.
+* `services/admin.py` et `ui/pages/admin_page.py` : PIN facultatif (PBKDF2-SHA256,
+  sel aléatoire), inventaire, édition validée, brouillon, suppression (réelle pour un
+  contenu créé localement, masquage pour un contenu préinstallé), « rétablir
+  l'original ».
+* `services/intensive.py` et `ui/pages/intensive_page.py` : programme de 30 jours
+  (`intensive_days`, `intensive_progress`), date de démarrage (réglage
+  `intensive_start`), jour du calendrier, retard, examens blancs cochés
+  automatiquement (`sync_mock_days`).
+* `services/progress.py` : `exercises_done`, `mock_history`, recommandations
+  « vocabulaire à revoir » et « programme intensif en retard » ; le tableau de bord
+  affiche 14 indicateurs, l'historique des examens blancs, les deux programmes et le
+  lexique à revoir.
+
+### 8.3 IA locale
+
+* `services/ai/local_llm.py` : `LocalLLMEngine`, client de l'API compatible OpenAI
+  (`/v1/models`, `/v1/chat/completions`) d'**Ollama** (`localhost:11434`) ou de
+  **LM Studio** (`localhost:1234`), en `urllib` (aucune dépendance). Les adresses
+  locales contournent tout proxy ; les blocs `<think>` des modèles à raisonnement
+  sont retirés ; toute erreur devient `AIUnavailable` (repli sur le tuteur hors
+  ligne).
+* `TutorService` : fournisseurs `local` (défaut), `local_llm`, `anthropic`.
+  Réglages `local_ai_url`, `local_ai_model` (vide = premier modèle installé).
+  Aucun consentement n'est demandé si l'adresse est locale ou privée ; une adresse
+  distante exige l'avertissement de confidentialité, comme Claude.
+* `TutorService.deepen(kind, submission_id)` et `ui/ai_deepen.py` : correction
+  approfondie d'une production EE ou EO (`prompts.DEEPEN_SYSTEM`). Le moteur reçoit la
+  note et les erreurs du barème local, a l'interdiction de proposer une autre note,
+  et la mention d'estimation pédagogique est ajoutée si elle manque.
+
+### 8.4 Tests
+
+`tests/test_v11_step*.py` couvrent chaque étape (contenu, compilateurs, B2,
+équilibre des réponses, doublons, vidéothèque, administration, programme intensif,
+tableau de bord, IA locale avec serveur simulé). La CI lance
+`ruff check --select F tcfmaster tests tools` puis `pytest`.
